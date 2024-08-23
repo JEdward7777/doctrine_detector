@@ -1,0 +1,62 @@
+[
+    {
+        "label": "Jesus is the Son of God",
+        "question": "how do I translate Jesus is the Son of God into a Muslim context",
+        "answer": "Translate \"Jesus is the Son of God\" by maintaining the original terminology and providing clear teaching and context to explain its meaning.",
+        "concern": "While minimizing offense is important, it is also important to ensure that the translated text is Biblically accurate and explains the meaning of the original text in the most appropriate way."
+    },
+    {
+        "label": "Use term 'Father' when referring to God",
+        "question": "Is it necessary to use the term 'Father' when referring to God in contexts where it could be misunderstood?",
+        "answer": "Yes, it is necessary to use the term 'Father' and rely on teaching and context to clarify misunderstandings.",
+        "concern": "Avoiding the term 'Father' could lead to theological inaccuracies and dilute the scriptural message."
+    },
+    {
+        "label": "Multiple gods",
+        "question": "How should missionaries address the misconception that Christians believe in multiple gods?",
+        "answer": "Missionaries should provide clear biblical teaching that explains the doctrine of the Trinity and God's singular nature.",
+        "concern": "It's crucial to correct misunderstandings without compromising the integrity of Christian doctrine."
+    },
+    {
+        "label": "Physical offspring of God",
+        "question": "What can be done to clarify the term 'Son of God' for someone who believes it implies physical offspring of God?",
+        "answer": "Teach that 'Son of God' refers to Jesus' divine nature and relationship with God, not physical procreation.",
+        "concern": "Proper teaching prevents doctrinal errors and helps retain the biblical terminology."
+    },
+    {
+        "label": "Avoid 'Son of God'",
+        "question": "Should the term 'Son of God' be avoided in translations due to potential misunderstandings in polytheistic cultures?",
+        "answer": "No, the term should not be avoided; instead, its meaning should be carefully taught through context and explanation.",
+        "concern": "Avoidance can lead to significant theological gaps and misunderstandings about Jesus' identity."
+    },
+    {
+        "label": "Jesus is Lord",
+        "question": "How should the phrase 'Jesus is Lord' be communicated in a context where political leaders are also called 'lord'?",
+        "answer": "Explain that 'Jesus is Lord' signifies His divine authority and supremacy over all creation, distinct from human rulers.",
+        "concern": "Clarity is needed to differentiate between Jesus' divine lordship and earthly titles."
+    },
+    {
+        "label": "One God",
+        "question": "In translating the Bible for cultures that respect multiple deities, how should 'One God' be emphasized?",
+        "answer": "Emphasize monotheism by teaching about God's unique nature and the Trinity, ensuring no compromise on biblical monotheism.",
+        "concern": "Proper teaching upholds the biblical truth of one God while addressing cultural polytheism."
+    },
+    {
+        "label": "Holy Spirit",
+        "question": "How should the concept of the Holy Spirit be introduced in contexts unfamiliar with the Trinity?",
+        "answer": "Introduce the Holy Spirit as God's Spirit, part of the Trinity, and explain His role in the believer's life through sound teaching.",
+        "concern": "Clear, contextual teaching helps prevent misconceptions about the Holy Spirit's identity and work."
+    },
+    {
+        "label": "Kingdom of God",
+        "question": "Is it advisable to rephrase 'Kingdom of God' in translations for cultures with no concept of kingdoms?",
+        "answer": "No, retain 'Kingdom of God' and provide explanations about its spiritual and eschatological significance.",
+        "concern": "Rephrasing could lose the depth and biblical context of the term 'Kingdom of God'."
+    },
+    {
+        "label": "Messiah",
+        "question": "How can the term 'Messiah' be explained in a context with different religious expectations of a savior?",
+        "answer": "Teach that 'Messiah' means 'Anointed One' and explain Jesus' fulfillment of Old Testament prophecies and His unique role as savior.",
+        "concern": "Clear teaching helps differentiate Jesus' role from other religious savior figures while staying true to scripture."
+    }
+]
