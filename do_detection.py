@@ -163,7 +163,7 @@ def run_model_tests():
 
 def br( text ):
     #replace \n with <br>
-    return text.replace( '\n', '<br>' ).replace( '|', "&#124;").replace( '"', "&quot;").replace( "'", "&#39;")
+    return text.replace( '\n', '&#10;' ).replace( '|', "&#124;").replace( '"', "&quot;").replace( "'", "&#39;")
 
 def block_quote( indent, text ):
     space = " " * indent
@@ -178,7 +178,7 @@ def write_results_to_markdown():
 
     result = ""
 
-    result += "|   |" + "|".join( [ model_info['label'] for model_info in models ] ) + "|\n"
+    result += "|   |" + "|".join( [ f"<span title='{br(model_info['system'])}'>{model_info['label']}</span>" for model_info in models ] ) + "|\n"
     result += "|---|" + "|".join( [ "---" for model_info in models ] ) + "|\n"
 
     
@@ -192,9 +192,18 @@ def write_results_to_markdown():
             #and 0 is red with a span title showing the grade_comment and the text being the score.
             html_color_code = f"style='color:rgb({int(255*(1-grade/100))},{int(255*grade/100)},0)'"
 
-            question_result_array.append( f"<span title='{br(results[model_info['label']][question['label']]['grade_comment'])}' {html_color_code}>{int(grade)}</span>" )
+            # question_result_array.append( 
+            #     f"<span title='{
+            #         br(
+            #             results[model_info['label']][question['label']]['grade_comment'] + 
+            #             '\n\nModel Answer: ' + 
+            #                results[model_info['label']][question['label']]['answer']
+            #         )
+            #     }' {html_color_code}>{int(grade)}</span>" )
+
+            question_result_array.append( "<span title='" + br(results[model_info['label']][question['label']]['grade_comment'] + '\n\nModel Answer: ' + results[model_info['label']][question['label']]['answer']) + "' " + html_color_code + ">" + str(int(grade)) + "</span>" )
             
-        result += f"|{question['label']}|" + "|".join( question_result_array ) + "|\n"  
+        result += f"|<span title='{br(question['question'])}'>{question['label']}</span>|" + "|".join( question_result_array ) + "|\n"  
 
     result += "\n\n"
     result += "## Translation Concerns\n\n"
