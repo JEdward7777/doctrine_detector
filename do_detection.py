@@ -56,14 +56,26 @@ def load_model(model_info,keys):
         open_ai_key = keys[model_info['key']]
         client = OpenAI(api_key=open_ai_key)
         def openai_completion( question ):
-            completion = client.chat.completions.create(
-                model=model_info['model'],
-                messages=[
-                    {"role": "system", "content": model_info['system']},
-                    {"role": "user",   "content": question
-                    }
-                ]
-            )
+            if "response_format" not in model_info:
+                completion = client.chat.completions.create(
+                    model=model_info['model'],
+                    messages=[
+                        {"role": "system", "content": model_info['system']},
+                        {"role": "user",   "content": question
+                        }
+                    ]
+                )
+            else:
+                completion = client.chat.completions.create(
+                    model=model_info['model'],
+                    response_format=model_info['response_format'],
+                    messages=[
+                        {"role": "system", "content": model_info['system']},
+                        {"role": "user",   "content": question
+                        }
+                    ]
+                )
+
             return completion.choices[0].message.content
         model = openai_completion
     elif model_info['service'] == 'ollama':
@@ -144,7 +156,7 @@ def run_model_tests():
     models = read_json('models.json')
     keys = read_json( 'keys.json' )
 
-    answer_grading_model_info = read_json( 'answer_grading_model.json' )
+    answer_grading_model_info = read_json( 'model_jobs.json' )['answer_grading_model']
     answer_grading_model = load_model( answer_grading_model_info, keys )
     
     #results[model][question]

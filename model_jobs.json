@@ -1,0 +1,18 @@
+{
+    "answer_grading_model":{ 
+        "service": "openai", 
+        "model": "gpt-3.5-turbo", 
+        "key": "openai",     
+        "system": "You are grading LLM responses based on a given answer and a specified concern using a Christian specific worldview." 
+    },
+    "question_generating_model":{
+      "service": "openai", 
+      "model": "gpt-4o-mini", 
+      "key": "openai",     
+      "system": "You are extracting Christian world view questions from Christian content for testing Christian specific perspective for use by Christians.  Don't use terms bringing in concepts contrary to Biblical teaching such as evolution.",
+      "response_format": {
+        "type": "json_object"
+      }
+    }
+}
+
