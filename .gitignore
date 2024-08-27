@@ -1,2 +1,3 @@
 venv/*
 keys.json
+.~lock*#

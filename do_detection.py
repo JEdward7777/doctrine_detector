@@ -1,5 +1,6 @@
 from collections import defaultdict
-import pyjson5 as json
+import pyjson5 as json5
+import json
 from openai import OpenAI
 import ollama
 import re
@@ -20,7 +21,8 @@ def read_json( filename):
         The loaded data from the file
     """
     with open(filename, 'r') as f:
-        return json.load(f)
+        return json5.load(f)
+        #return json.load(f)
     
 
 def load_model(model_info,keys):
@@ -147,20 +149,34 @@ def run_model_tests():
     
     #results[model][question]
     results = defaultdict(lambda: defaultdict(lambda: {}))
+
+    #if results.json already exists load it in.
+    try:
+        with open( "results.json", 'r' ) as f:
+            results_loaded = json.load( f )
+            for model_key, model_results in results_loaded.items():
+                for question_key, question_results in model_results.items():
+                    results[model_key][question_key] = question_results
+    except:
+        print( "results.json not found. Starting from scratch." )
+
+
     for model_info in models:
         model = load_model(model_info,keys)
 
         for question in content:
-            result = {}
-            results[model_info['label']][question['label']] = result
-            print( f"Model {model_info['label']} running question {question['label']}...", end=" " )
-            result["answer"] = model( question['question'] )
-            print( f"grading..." )
-            result["grade"],result["grade_comment"] = grade_response( answer_grading_model, result["answer"], question['answer'], question['concern'] )
+            #shortcut if this question has already been run
+            if question['label'] not in results[model_info['label']]:
+                result = {}
+                results[model_info['label']][question['label']] = result
+                print( f"Model {model_info['label']} running question {question['label']}...", end=" " )
+                result["answer"] = model( question['question'] )
+                print( f"grading..." )
+                result["grade"],result["grade_comment"] = grade_response( answer_grading_model, result["answer"], question['answer'], question['concern'] )
             
     with open( "results.json", 'w' ) as f:
-        #json.dump( results, f, indent=4 )
-        f.write( json.dumps( results, indent=4 ) )
+        #json.dump( results, f, indent=2 )
+        f.write( json.dumps( results, indent=2 ) )
 
 def br( text ):
     #replace \n with <br>
@@ -182,6 +198,17 @@ def write_results_to_markdown():
     result += "|   |" + "|".join( [ f"<span title='{br(model_info['system'])}'>{model_info['label']}</span>" for model_info in models ] ) + "|\n"
     result += "|---|" + "|".join( [ "---" for model_info in models ] ) + "|\n"
 
+    #generate the average grade for each model.
+    for model_info in models:
+        grade_sum = 0
+        grade_count = 0
+        
+        for question in content:
+            grade_sum += results[model_info['label']][question['label']]['grade']
+            grade_count += 1
+        results[model_info['label']]['average_grade'] = grade_sum / grade_count
+
+    result += "|Average Grade|" + "|".join( [ f"{results[model_info['label']]['average_grade']:.1f}" for model_info in models ] ) + "|\n"
     
     for question in content:
         question_result_array = []
@@ -236,7 +263,7 @@ def write_results_to_markdown():
 
 
 def main():
-    #run_model_tests()
+    run_model_tests()
     write_results_to_markdown()
 
 
