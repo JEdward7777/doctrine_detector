@@ -1,5 +1,5 @@
 from collections import defaultdict
-import json
+import pyjson5 as json
 from openai import OpenAI
 import ollama
 import re
@@ -159,7 +159,8 @@ def run_model_tests():
             result["grade"],result["grade_comment"] = grade_response( answer_grading_model, result["answer"], question['answer'], question['concern'] )
             
     with open( "results.json", 'w' ) as f:
-        json.dump( results, f, indent=4 )
+        #json.dump( results, f, indent=4 )
+        f.write( json.dumps( results, indent=4 ) )
 
 def br( text ):
     #replace \n with <br>
