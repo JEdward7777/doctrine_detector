@@ -186,9 +186,9 @@ def run_model_tests():
                 print( f"grading..." )
                 result["grade"],result["grade_comment"] = grade_response( answer_grading_model, result["answer"], question['answer'], question['concern'] )
             
-    with open( "results.json", 'w' ) as f:
-        #json.dump( results, f, indent=2 )
-        f.write( json.dumps( results, indent=2 ) )
+                with open( "results.json", 'w' ) as f:
+                    #json.dump( results, f, indent=2 )
+                    f.write( json.dumps( results, indent=2 ) )
 
 def br( text ):
     #replace \n with <br>
