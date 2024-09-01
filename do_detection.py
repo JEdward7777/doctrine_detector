@@ -1,4 +1,5 @@
 from collections import defaultdict
+import os
 import pyjson5 as json5
 import json
 from openai import OpenAI
@@ -25,7 +26,7 @@ def read_json( filename):
         #return json.load(f)
     
 
-def load_model(model_info,keys):
+def load_model(model_info,connections):
     """
     Loads a model from a service such as openai or ollama.
 
@@ -53,7 +54,7 @@ def load_model(model_info,keys):
     """
     model = None
     if model_info['service'] == 'openai':
-        open_ai_key = keys[model_info['key']]
+        open_ai_key = connections[model_info['key']]['key']
         client = OpenAI(api_key=open_ai_key)
         def openai_completion( question ):
             if "response_format" not in model_info:
@@ -79,8 +80,11 @@ def load_model(model_info,keys):
             return completion.choices[0].message.content
         model = openai_completion
     elif model_info['service'] == 'ollama':
+        ollama_url = connections[model_info.get('key', '') or "ollama"]['host'] or os.getenv('OLLAMA_HOST') or "http://127.0.0.1:11434"
+        ollama_client = ollama.Client(ollama_url)
+
         def ollama_completion( question ):
-            response = ollama.chat(model=model_info['model'], messages=[
+            response = ollama_client.chat(model=model_info['model'], messages=[
                 {"role": "system", "content": model_info['system']},
                 {'role': 'user',    'content': question } ])
             return response['message']['content']
@@ -154,10 +158,10 @@ Include a comment on the grade.
 def run_model_tests():
     content = read_json('content.json')
     models = read_json('models.json')
-    keys = read_json( 'keys.json' )
+    connections = read_json( 'connections.json' )
 
     answer_grading_model_info = read_json( 'model_jobs.json' )['answer_grading_model']
-    answer_grading_model = load_model( answer_grading_model_info, keys )
+    answer_grading_model = load_model( answer_grading_model_info, connections )
     
     #results[model][question]
     results = defaultdict(lambda: defaultdict(lambda: {}))
@@ -174,7 +178,7 @@ def run_model_tests():
 
 
     for model_info in models:
-        model = load_model(model_info,keys)
+        model = load_model(model_info,connections)
 
         for question in content:
             #shortcut if this question has already been run
@@ -186,9 +190,11 @@ def run_model_tests():
                 print( f"grading..." )
                 result["grade"],result["grade_comment"] = grade_response( answer_grading_model, result["answer"], question['answer'], question['concern'] )
             
-                with open( "results.json", 'w' ) as f:
+                with open( "results.json~", 'w' ) as f:
                     #json.dump( results, f, indent=2 )
                     f.write( json.dumps( results, indent=2 ) )
+                #now move the file
+                os.replace( "results.json~", "results.json" )
 
 def br( text ):
     #replace \n with <br>
