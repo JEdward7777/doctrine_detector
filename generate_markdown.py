@@ -103,20 +103,20 @@ def produce_question_page( question_label, answer_model__answer_grade_comment, q
     with open( url, "wt" ) as fout:
         fout.write( f"""
 [Index]({get_rel_url(get_index_url(),url)})
-# {question_label}
-## Question
+## Question {question_label}
+# Question
 {question["question"]}
 
-## Answer from notes
+# Answer from notes
 {question["answer"]}
 
-## Concern used for grading
+# Concern used for grading
 {question["concern"]}
 
-## Average Grade
+# Average Grade
 {grade_average}
 
-## Grades
+# Grades
 """ )
         
         answer_model_labels = list(answer_model__answer_grade_comment.keys())
@@ -141,21 +141,21 @@ def produce_answer_model_page( answer_model_label, question__answer_grade_commen
     with open( url, "wt" ) as fout:
         fout.write( f"""
 [Index]({get_rel_url(get_index_url(),url)})
-# {answer_model_label}
+## Answering Model {answer_model_label}
 
-## Service
+# Service
 {answer_model['service']}
 
-## Model
+# Model
 {answer_model['model']}
 
-## System prompt
+# System prompt
 {answer_model['system']}
 
-## Average Grade
+# Average Grade
 {grade_average}
 
-## Grades:
+# Grades:
 """ )
         question_labels = list(question__answer_grade_comment.keys())
         #sort the question_labels based on the grade:
@@ -183,24 +183,24 @@ def produce_answer_page( question_label, answer_model_label, answer_grade_commen
     with open( url, "wt" ) as fout:
         fout.write( f"""
 [Index]({get_rel_url(get_index_url(),url)})
-# [{answer_model_label}]({answer_model_url_rel}) answer to [{question_label}]({question_url_rel})
+## Generated Answer from [{answer_model_label}]({answer_model_url_rel}) for [{question_label}]({question_url_rel})
 
-## Question [{question_label}]({question_url_rel})
+# Question [{question_label}]({question_url_rel})
 {question_answer_concern["question"]}
 
-## Target answer from notes
+# Target answer from notes
 {question_answer_concern["answer"]}
 
-## Concern to grade by
+# Concern to grade by
 {question_answer_concern["concern"]}
 
-## Answer given by [{answer_model_label}]({answer_model_url_rel})
+# Answer given by [{answer_model_label}]({answer_model_url_rel})
 {answer_grade_comment["answer"]}
 
-## Average Grade
+# Average Grade
 {average_grade( answer_model__question__answer_grade_comment, question_label_search=question_label, answer_model_label_search=answer_model_label )}
 
-## Grades
+# Grades
 """ )
         for grading_model_label, grade in answer_grade_comment["grades"].items():
             fout.write( f" * [{grade['grade']}]({get_rel_url( get_grade_url( question_label, answer_model_label, grading_model_label ), url )}) [{grading_model_label}]({get_rel_url( get_grading_models_url( grading_model_label ), url )})\n" )
@@ -216,9 +216,16 @@ def block_quote( indent, text ):
 
 def produce_index_page(question_array,model_array,answer_model__question__answer_grade_comment):
     url = get_index_url()
+
+    #sort the models by their average grade.
+    model_array.sort( key=lambda model_info: average_grade( answer_model__question__answer_grade_comment, answer_model_label_search=model_info['label']))
+
+    #sort the questions by their label so that you can find them better.
+    question_array.sort( key=lambda question: question['label'] )
             
     #Now write the results as a markdown table matrix.
     result = ""
+    result += "# Index\n"
     result += "\n"
     result += "|   |" + "|".join( [ f"[<span title='{br(model_info['system'])}'>{model_info['label']}</span>]({get_rel_url( get_answering_models_url( model_info['label'] ), url )})" for model_info in model_array ] ) + "|\n"
     result += "|---|" + "|".join( [ "---" for model_info in model_array ] ) + "|\n"
@@ -226,7 +233,6 @@ def produce_index_page(question_array,model_array,answer_model__question__answer
 
 
     result += "|Average Grade|" + "|".join( [ f"{average_grade( answer_model__question__answer_grade_comment, answer_model_label_search=model_info['label'] ):.1f}" for model_info in model_array ] ) + "|\n"
-    
     for question in question_array:
         question_result_array = []
 
@@ -281,6 +287,11 @@ def produce_grading_model_page( *, answer_model__question__answer_grade_comment,
     url = get_grading_models_url( grading_model_label )
     os.makedirs( os.path.dirname(url), exist_ok=True )
 
+
+    answer_model_labels = list(answer_model__question__answer_grade_comment.keys())
+    answer_model_labels.sort( key=lambda answer_model_label: average_grade( answer_model__question__answer_grade_comment, answer_model_label_search=answer_model_label, grading_model_label_search=grading_model_label ) )
+    question_array.sort( key=lambda question: question['label'] )
+
     grading_model = grading_model_infos[grading_model_label]
 
     grade_average = average_grade( answer_model__question__answer_grade_comment, grading_model_label_search=grading_model_label )
@@ -288,22 +299,21 @@ def produce_grading_model_page( *, answer_model__question__answer_grade_comment,
     with open( url, "wt" ) as fout:
         fout.write( f"""
 [Index]({get_rel_url(get_index_url(),url)})
-# {grading_model_label}
+## Grading model {grading_model_label}
 
-## Service
+# Service
 {grading_model['service']}
 
-## Model
+# Model
 {grading_model['model']}
 
-## System prompt
+# System prompt
 {grading_model['system']}
 
-## Average Grade
+# Average Grade
 {grade_average}
 
 """ )
-        answer_model_labels = list(answer_model__question__answer_grade_comment.keys())
             
         #Now write the results as a markdown table matrix.
         result = ""
@@ -339,7 +349,7 @@ def produce_grade_page( *, answer_model__question__answer_grade_comment, questio
     with open( url, "wt" ) as fout:
         fout.write( f"""
 [Index]({get_rel_url(get_index_url(),url)})
-## [{grading_model_label}]({get_rel_url(get_grading_models_url(grading_model_label),url)}) grade of [{answer_model_label}]({get_rel_url(get_answering_models_url(answer_model_label),url)}) for question [{question_label}]({get_rel_url(get_question_url(question_label),url)})
+## Grade of [{grading_model_label}]({get_rel_url(get_grading_models_url(grading_model_label),url)}) for model [{answer_model_label}]({get_rel_url(get_answering_models_url(answer_model_label),url)}) for question [{question_label}]({get_rel_url(get_question_url(question_label),url)})
 
 # Question [{question_label}]({get_rel_url(get_question_url(question_label),url)})
 {question__question_answer_concern[question_label]['question']}
@@ -350,7 +360,7 @@ def produce_grade_page( *, answer_model__question__answer_grade_comment, questio
 # Stated Concern
 {question__question_answer_concern[question_label]['concern']}
 
-# Answer by [{answer_model_label}]({get_rel_url(get_answering_models_url(answer_model_label),url)})
+# [Answer]({get_rel_url(get_answer_url(question_label, answer_model_label),url)}) by [{answer_model_label}]({get_rel_url(get_answering_models_url(answer_model_label),url)})
 {answer_model__question__answer_grade_comment[answer_model_label][question_label]['answer']}
 
 # Grade by [{grading_model_label}]({get_rel_url(get_grading_models_url(grading_model_label),url)})
