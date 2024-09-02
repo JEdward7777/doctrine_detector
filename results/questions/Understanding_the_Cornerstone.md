@@ -11,7 +11,7 @@ Jesus Christ serves as the foundational support for the Assembly, determining it
 Understanding the significance of Christ's role in the church can impact a believer's faith and community involvement.
 
 ## Average Grade
-80.5
+82.70833333333333
 
 ## Grades
  * [20.0 gemma Imam](../answers/gemma_Imam/Understanding_the_Cornerstone.md)
@@ -26,7 +26,7 @@ Understanding the significance of Christ's role in the church can impact a belie
  * [85.0 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Understanding_the_Cornerstone.md)
  * [90.0 llama atheist](../answers/llama_atheist/Understanding_the_Cornerstone.md)
  * [90.0 mistral atheist](../answers/mistral_atheist/Understanding_the_Cornerstone.md)
- * [95.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Understanding_the_Cornerstone.md)
+ * [94.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Understanding_the_Cornerstone.md)
  * [95.0 gemma atheist](../answers/gemma_atheist/Understanding_the_Cornerstone.md)
  * [95.0 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Understanding_the_Cornerstone.md)
  * [95.0 llama Bible Translator](../answers/llama_Bible_Translator/Understanding_the_Cornerstone.md)

@@ -11,7 +11,7 @@ Verses like Acts 4:11, Ephesians 2:20, Matthew 21:42, and Psalms 118:22 highligh
 Encouraging believers to explore scripture deepens their understanding of Jesus' significance in their faith.
 
 ## Average Grade
-91.15
+91.16666666666667
 
 ## Grades
  * [70.0 gemma atheist](../answers/gemma_atheist/Biblical_References_to_the_Cornerstone.md)
@@ -24,8 +24,8 @@ Encouraging believers to explore scripture deepens their understanding of Jesus'
  * [90.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Biblical_References_to_the_Cornerstone.md)
  * [90.0 gemma Imam](../answers/gemma_Imam/Biblical_References_to_the_Cornerstone.md)
  * [90.0 mistral Imam](../answers/mistral_Imam/Biblical_References_to_the_Cornerstone.md)
+ * [92.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Biblical_References_to_the_Cornerstone.md)
  * [93.0 mistral atheist](../answers/mistral_atheist/Biblical_References_to_the_Cornerstone.md)
- * [95.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Biblical_References_to_the_Cornerstone.md)
  * [95.0 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Biblical_References_to_the_Cornerstone.md)
  * [95.0 llama atheist](../answers/llama_atheist/Biblical_References_to_the_Cornerstone.md)
  * [95.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Biblical_References_to_the_Cornerstone.md)

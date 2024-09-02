@@ -11,7 +11,7 @@ Key verses include 1 John 2:2, 1 John 4:10, and Romans 3:25-26, which all highli
 To connect the theological concept with biblical references for deeper understanding.
 
 ## Average Grade
-91.0
+91.66666666666667
 
 ## Grades
  * [75.0 gemma atheist](../answers/gemma_atheist/Scriptural_Basis.md)

@@ -11,7 +11,7 @@ Propitiation is closely related to atonement, as both involve reconciliation bet
 To clarify the differences and similarities between these two important theological terms.
 
 ## Average Grade
-89.0
+89.58333333333333
 
 ## Grades
  * [75.0 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Relation_to_Atonement.md)
@@ -27,7 +27,7 @@ To clarify the differences and similarities between these two important theologi
  * [90.0 mistral Politician](../answers/mistral_Politician/Relation_to_Atonement.md)
  * [90.0 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Relation_to_Atonement.md)
  * [90.0 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Relation_to_Atonement.md)
- * [95.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Relation_to_Atonement.md)
+ * [93.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Relation_to_Atonement.md)
  * [95.0 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Relation_to_Atonement.md)
  * [95.0 llama Bible Translator](../answers/llama_Bible_Translator/Relation_to_Atonement.md)
  * [95.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Relation_to_Atonement.md)

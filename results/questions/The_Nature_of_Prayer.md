@@ -11,7 +11,7 @@ Praying means talking with God, which can be done silently or aloud, whereas tal
 Understanding the proper approach to prayer and distinguishing it from false practices.
 
 ## Average Grade
-84.75
+86.45833333333333
 
 ## Grades
  * [50.0 llama atheist](../answers/llama_atheist/The_Nature_of_Prayer.md)

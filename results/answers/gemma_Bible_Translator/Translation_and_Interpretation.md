@@ -49,7 +49,11 @@ The translation of "Lord" in theological contexts differs significantly from its
 The translation of "Lord" is carefully considered in theological and non-theological contexts to convey the appropriate meaning and respect.
 
 ## Average Grade
-90.0
+87.0
 
 ## Grades
  * [90.0](./Translation_and_Interpretation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Translation_and_Interpretation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Translation_and_Interpretation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Translation_and_Interpretation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Translation_and_Interpretation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

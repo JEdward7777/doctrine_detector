@@ -18,7 +18,7 @@ Recognizing and avoiding the sin of pride.
  * [90.0 gemma atheist](../answers/gemma_atheist/Self-Exaltation.md)
  * [90.0 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Self-Exaltation.md)
  * [90.0 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Self-Exaltation.md)
- * [95.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Self-Exaltation.md)
+ * [94.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Self-Exaltation.md)
  * [95.0 gemma Politician](../answers/gemma_Politician/Self-Exaltation.md)
  * [95.0 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Self-Exaltation.md)
  * [95.0 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Self-Exaltation.md)

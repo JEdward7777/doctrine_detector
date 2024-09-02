@@ -65,7 +65,11 @@ To ensure a clear understanding of how propitiation relates to God's justice and
 - It demonstrates God's love, justice, and mercy.
 
 ## Average Grade
-90.0
+92.0
 
 ## Grades
  * [90.0](./Understanding_Propitiation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Understanding_Propitiation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Understanding_Propitiation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Understanding_Propitiation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_Propitiation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

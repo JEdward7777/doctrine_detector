@@ -55,7 +55,11 @@ Recognizing God's glory is crucial in worship practices and influences how Chris
 Divine glory is an essential aspect of worship, as it honors and reveals the true nature of God. By exalting his character, celebrating his power, and responding to his grace, believers can experience true worship and transform their lives accordingly.
 
 ## Average Grade
-95.0
+94.0
 
 ## Grades
  * [95.0](./Interpreting_Divine_Glory_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Interpreting_Divine_Glory_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Interpreting_Divine_Glory_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Interpreting_Divine_Glory_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Interpreting_Divine_Glory_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

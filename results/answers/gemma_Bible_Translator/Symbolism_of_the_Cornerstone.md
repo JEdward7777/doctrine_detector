@@ -51,7 +51,11 @@ The metaphor of the cornerstone illustrates a crucial and multifaceted relations
 The metaphor of the cornerstone emphasizes the vital role Jesus plays as the foundation and cornerstone of Christianity. His followers are built upon His foundation, receive support from His presence, and become witnesses to His love and salvation.
 
 ## Average Grade
-90.0
+91.0
 
 ## Grades
  * [90.0](./Symbolism_of_the_Cornerstone_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Symbolism_of_the_Cornerstone_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Symbolism_of_the_Cornerstone_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Symbolism_of_the_Cornerstone_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Symbolism_of_the_Cornerstone_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

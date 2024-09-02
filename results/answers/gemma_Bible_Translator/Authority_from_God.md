@@ -46,7 +46,11 @@ Understanding divine authority helps believers discern God's will and maintain o
 It's important to remember that divine authority doesn't mean blind adherence to every literal interpretation of the Bible. The Bible needs to be interpreted in its historical and cultural context, considering the intended audience and the author's purpose. This ensures responsible application of the Bible's timeless truths to contemporary life.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Authority_from_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Authority_from_God_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Authority_from_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Authority_from_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Authority_from_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
