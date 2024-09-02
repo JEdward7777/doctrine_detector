@@ -204,85 +204,9 @@ def block_quote( indent, text ):
     space = " " * indent
     return f"{space}> " + text.replace( "\n", f"\n{space}> " )
 
-def write_results_to_markdown():
-    content = read_json('content.json')
-    models = read_json('models.json')
-    results = read_json( 'results.json' )
-            
-    #Now write the results as a markdown table matrix.
-
-    result = ""
-
-    result += "|   |" + "|".join( [ f"<span title='{br(model_info['system'])}'>{model_info['label']}</span>" for model_info in models ] ) + "|\n"
-    result += "|---|" + "|".join( [ "---" for model_info in models ] ) + "|\n"
-
-    #generate the average grade for each model.
-    for model_info in models:
-        grade_sum = 0
-        grade_count = 0
-        
-        for question in content:
-            grade_sum += results[model_info['label']][question['label']]['grade']
-            grade_count += 1
-        results[model_info['label']]['average_grade'] = grade_sum / grade_count
-
-    result += "|Average Grade|" + "|".join( [ f"{results[model_info['label']]['average_grade']:.1f}" for model_info in models ] ) + "|\n"
-    
-    for question in content:
-        question_result_array = []
-
-        for model_info in models:
-            grade = results[model_info['label']][question['label']]['grade']
-
-            #output a cell with color going from green to red where 100 is green 
-            #and 0 is red with a span title showing the grade_comment and the text being the score.
-            html_color_code = f"style='color:rgb({int(255*(1-grade/100))},{int(255*grade/100)},0)'"
-
-            # question_result_array.append( 
-            #     f"<span title='{
-            #         br(
-            #             results[model_info['label']][question['label']]['grade_comment'] + 
-            #             '\n\nModel Answer: ' + 
-            #                results[model_info['label']][question['label']]['answer']
-            #         )
-            #     }' {html_color_code}>{int(grade)}</span>" )
-
-            question_result_array.append( "<span title='" + br(results[model_info['label']][question['label']]['grade_comment'] + '\n\nModel Answer: ' + results[model_info['label']][question['label']]['answer']) + "' " + html_color_code + ">" + str(int(grade)) + "</span>" )
-            
-        result += f"|<span title='{br(question['question'])}'>{question['label']}</span>|" + "|".join( question_result_array ) + "|\n"  
-
-    result += "\n\n"
-    result += "## Translation Concerns\n\n"
-
-    for model_info in models:
-        worst_concern = None
-        worst_grade = 100
-        worst_question = None
-        for question in content:
-            grade = results[model_info['label']][question['label']]['grade']
-            if grade < worst_grade:
-                worst_concern = results[model_info['label']][question['label']]['grade_comment']
-                worst_question = question
-                worst_grade = grade
-
-        result += "\n"
-        result += f"* {model_info['label']}'s worse response:\n"
-        result += f"  + Question Label: {worst_question['label']}\n"
-        result += f"  + Grade: {worst_grade}\n"
-        result += f"  + Model's answer:\n"
-        result += f"{block_quote(4,results[model_info['label']][worst_question['label']]['answer'])}\n"
-        result += f"  + Reference Answer:\n"
-        result += f"{block_quote(4,worst_question['answer'])}\n"
-        result += f"  + Concern:\n"
-        result += f"{block_quote(4,worst_concern)}\n"
-
-    with open('results.md', 'w') as f:
-        f.write(result)
-
 
 def main():
     run_model_tests()
-    write_results_to_markdown()
 
 
 if __name__ == "__main__":
