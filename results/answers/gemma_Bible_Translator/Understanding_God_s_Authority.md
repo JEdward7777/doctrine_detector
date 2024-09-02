@@ -36,7 +36,11 @@ The title "Most High" signifies God's supreme authority and dominion over all cr
 The title "Most High" highlights the unparalleled authority of God in our lives. He is the supreme ruler of all creation, and his dominion extends over every aspect of our existence. This understanding should lead us to submit to his will, trust his guidance, and live lives that honor his authority.
 
 ## Average Grade
-95.0
+91.4
 
 ## Grades
  * [95.0](./Understanding_God_s_Authority_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [92.0](./Understanding_God_s_Authority_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Understanding_God_s_Authority_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Understanding_God_s_Authority_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_God_s_Authority_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

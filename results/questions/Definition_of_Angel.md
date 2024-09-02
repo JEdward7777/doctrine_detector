@@ -11,7 +11,7 @@ An angel is a powerful spirit being created by God to serve Him, primarily as a 
 Understanding the role of angels can deepen faith and provide assurance of God's protection and guidance.
 
 ## Average Grade
-85.5
+86.66666666666667
 
 ## Grades
  * [60.0 llama Politician](../answers/llama_Politician/Definition_of_Angel.md)
@@ -29,7 +29,7 @@ Understanding the role of angels can deepen faith and provide assurance of God's
  * [90.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Definition_of_Angel.md)
  * [90.0 mistral Politician](../answers/mistral_Politician/Definition_of_Angel.md)
  * [90.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Definition_of_Angel.md)
- * [95.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Definition_of_Angel.md)
+ * [93.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Definition_of_Angel.md)
  * [95.0 gemma atheist](../answers/gemma_atheist/Definition_of_Angel.md)
  * [95.0 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Definition_of_Angel.md)
  * [95.0 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Definition_of_Angel.md)

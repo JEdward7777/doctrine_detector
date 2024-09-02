@@ -11,7 +11,7 @@ The Sadducees did not believe in the resurrection, whereas Christian teaching af
 Understanding differences in beliefs and their implications for faith.
 
 ## Average Grade
-90.75
+90.83333333333333
 
 ## Grades
  * [80.0 llama Imam](../answers/llama_Imam/Sadducees_and_Resurrection.md)
@@ -29,7 +29,7 @@ Understanding differences in beliefs and their implications for faith.
  * [90.0 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Sadducees_and_Resurrection.md)
  * [90.0 mistral Imam](../answers/mistral_Imam/Sadducees_and_Resurrection.md)
  * [90.0 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Sadducees_and_Resurrection.md)
- * [95.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Sadducees_and_Resurrection.md)
+ * [92.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Sadducees_and_Resurrection.md)
  * [95.0 gemma atheist](../answers/gemma_atheist/Sadducees_and_Resurrection.md)
  * [95.0 gemma Politician](../answers/gemma_Politician/Sadducees_and_Resurrection.md)
  * [95.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Sadducees_and_Resurrection.md)

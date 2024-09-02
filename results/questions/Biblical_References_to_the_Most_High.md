@@ -11,16 +11,16 @@ Verses such as Psalm 83:18 and Daniel 4:17 reveal God's eternal nature and autho
 Christians may need guidance in exploring Scripture to fully appreciate the significance of God's sovereignty as portrayed in the Bible.
 
 ## Average Grade
-86.5
+85.83333333333333
 
 ## Grades
  * [20.0 gemma Imam](../answers/gemma_Imam/Biblical_References_to_the_Most_High.md)
  * [75.0 mistral Imam](../answers/mistral_Imam/Biblical_References_to_the_Most_High.md)
  * [80.0 llama Imam](../answers/llama_Imam/Biblical_References_to_the_Most_High.md)
+ * [84.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Biblical_References_to_the_Most_High.md)
  * [85.0 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Biblical_References_to_the_Most_High.md)
  * [85.0 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Biblical_References_to_the_Most_High.md)
  * [85.0 llama atheist](../answers/llama_atheist/Biblical_References_to_the_Most_High.md)
- * [90.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Biblical_References_to_the_Most_High.md)
  * [90.0 gemma Politician](../answers/gemma_Politician/Biblical_References_to_the_Most_High.md)
  * [90.0 llama Bible Translator](../answers/llama_Bible_Translator/Biblical_References_to_the_Most_High.md)
  * [90.0 llama Politician](../answers/llama_Politician/Biblical_References_to_the_Most_High.md)

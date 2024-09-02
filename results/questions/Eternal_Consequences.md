@@ -11,7 +11,7 @@ Those who perish will not live eternally with God in heaven; instead, they will 
 Understanding the seriousness of eternal separation from God.
 
 ## Average Grade
-69.0
+73.20833333333333
 
 ## Grades
  * [10.0 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Eternal_Consequences.md)
@@ -27,7 +27,7 @@ Understanding the seriousness of eternal separation from God.
  * [90.0 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Eternal_Consequences.md)
  * [90.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Eternal_Consequences.md)
  * [90.0 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Eternal_Consequences.md)
- * [95.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Eternal_Consequences.md)
+ * [94.4 gemma Bible Translator](../answers/gemma_Bible_Translator/Eternal_Consequences.md)
  * [95.0 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Eternal_Consequences.md)
  * [95.0 llama Bible Translator](../answers/llama_Bible_Translator/Eternal_Consequences.md)
  * [95.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Eternal_Consequences.md)

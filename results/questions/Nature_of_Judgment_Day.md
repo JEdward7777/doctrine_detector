@@ -11,7 +11,7 @@ Judgment day refers to the time when God will evaluate the actions and beliefs o
 Understanding the significance of judgment day and its implications for personal faith.
 
 ## Average Grade
-85.0
+86.66666666666667
 
 ## Grades
  * [20.0 gemma atheist](../answers/gemma_atheist/Nature_of_Judgment_Day.md)

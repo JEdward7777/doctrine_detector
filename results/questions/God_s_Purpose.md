@@ -11,7 +11,7 @@ Discerning God's plan often involves prayer, reading the Bible for guidance, see
 Believers might feel lost or confused about their purpose or calling, leading to spiritual uncertainty.
 
 ## Average Grade
-69.25
+72.08333333333333
 
 ## Grades
  * [20.0 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/God_s_Purpose.md)
@@ -26,9 +26,9 @@ Believers might feel lost or confused about their purpose or calling, leading to
  * [70.0 mistral Politician](../answers/mistral_Politician/God_s_Purpose.md)
  * [70.0 gemma Imam](../answers/gemma_Imam/God_s_Purpose.md)
  * [70.0 mistral Imam](../answers/mistral_Imam/God_s_Purpose.md)
- * [80.0 gemma Bible Translator](../answers/gemma_Bible_Translator/God_s_Purpose.md)
  * [80.0 GPT 3.5 Imam](../answers/GPT_3.5_Imam/God_s_Purpose.md)
  * [80.0 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/God_s_Purpose.md)
+ * [85.0 gemma Bible Translator](../answers/gemma_Bible_Translator/God_s_Purpose.md)
  * [90.0 mistral Bible Translator](../answers/mistral_Bible_Translator/God_s_Purpose.md)
  * [90.0 llama Imam](../answers/llama_Imam/God_s_Purpose.md)
  * [95.0 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/God_s_Purpose.md)

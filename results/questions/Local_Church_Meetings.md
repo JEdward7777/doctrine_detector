@@ -11,7 +11,7 @@ Believers in a particular city often met together in someone's home to pray and 
 Encouragement to foster local fellowship among believers.
 
 ## Average Grade
-85.0
+85.20833333333333
 
 ## Grades
  * [40.0 gemma atheist](../answers/gemma_atheist/Local_Church_Meetings.md)
@@ -21,7 +21,7 @@ Encouragement to foster local fellowship among believers.
  * [80.0 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Local_Church_Meetings.md)
  * [85.0 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Local_Church_Meetings.md)
  * [85.0 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Local_Church_Meetings.md)
- * [90.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Local_Church_Meetings.md)
+ * [87.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Local_Church_Meetings.md)
  * [90.0 gemma Politician](../answers/gemma_Politician/Local_Church_Meetings.md)
  * [90.0 llama Bible Translator](../answers/llama_Bible_Translator/Local_Church_Meetings.md)
  * [90.0 llama atheist](../answers/llama_atheist/Local_Church_Meetings.md)

@@ -11,7 +11,7 @@ Examples of injustice include unfair treatment, prejudice, and corruption. Chris
 Addressing the need for Christian activism against injustice and promoting fairness based on biblical principles.
 
 ## Average Grade
-89.75
+90.0
 
 ## Grades
  * [70.0 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Injustice_in_Society.md)
@@ -23,7 +23,7 @@ Addressing the need for Christian activism against injustice and promoting fairn
  * [90.0 mistral Politician](../answers/mistral_Politician/Injustice_in_Society.md)
  * [90.0 gemma Imam](../answers/gemma_Imam/Injustice_in_Society.md)
  * [90.0 mistral Imam](../answers/mistral_Imam/Injustice_in_Society.md)
- * [95.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Injustice_in_Society.md)
+ * [92.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Injustice_in_Society.md)
  * [95.0 gemma atheist](../answers/gemma_atheist/Injustice_in_Society.md)
  * [95.0 gemma Politician](../answers/gemma_Politician/Injustice_in_Society.md)
  * [95.0 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Injustice_in_Society.md)

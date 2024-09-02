@@ -11,14 +11,14 @@ The term 'majesty' signifies the greatness and splendor of God, who is the supre
 Understanding God's attributes and His sovereignty over creation.
 
 ## Average Grade
-86.0
+85.83333333333333
 
 ## Grades
  * [20.0 gemma atheist](../answers/gemma_atheist/Understanding_Majesty.md)
  * [70.0 llama Politician](../answers/llama_Politician/Understanding_Majesty.md)
  * [80.0 llama atheist](../answers/llama_atheist/Understanding_Majesty.md)
  * [85.0 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Understanding_Majesty.md)
- * [90.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Understanding_Majesty.md)
+ * [86.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Understanding_Majesty.md)
  * [90.0 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Understanding_Majesty.md)
  * [90.0 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Understanding_Majesty.md)
  * [90.0 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Understanding_Majesty.md)

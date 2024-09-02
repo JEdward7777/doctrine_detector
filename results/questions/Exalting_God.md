@@ -11,7 +11,7 @@ To exalt God means to highly praise and honor Him through worship, prayer, and l
 Understanding the importance of exalting God above all else in life.
 
 ## Average Grade
-76.0
+78.75
 
 ## Grades
  * [20.0 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Exalting_God.md)
@@ -27,7 +27,7 @@ Understanding the importance of exalting God above all else in life.
  * [90.0 gemma Imam](../answers/gemma_Imam/Exalting_God.md)
  * [90.0 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Exalting_God.md)
  * [90.0 mistral Imam](../answers/mistral_Imam/Exalting_God.md)
- * [95.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Exalting_God.md)
+ * [93.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Exalting_God.md)
  * [95.0 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Exalting_God.md)
  * [95.0 llama Bible Translator](../answers/llama_Bible_Translator/Exalting_God.md)
  * [95.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Exalting_God.md)

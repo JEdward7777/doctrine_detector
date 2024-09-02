@@ -11,7 +11,7 @@ Jesus often taught in synagogues and performed healings there, as noted in sever
 Recognizing the significance of Jesus' actions in synagogues as part of His ministry and teaching.
 
 ## Average Grade
-88.1
+87.58333333333333
 
 ## Grades
  * [70.0 llama Politician](../answers/llama_Politician/Jesus_in_Synagogues.md)
@@ -19,7 +19,7 @@ Recognizing the significance of Jesus' actions in synagogues as part of His mini
  * [80.0 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Jesus_in_Synagogues.md)
  * [80.0 mistral Imam](../answers/mistral_Imam/Jesus_in_Synagogues.md)
  * [85.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Jesus_in_Synagogues.md)
- * [90.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Jesus_in_Synagogues.md)
+ * [86.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Jesus_in_Synagogues.md)
  * [90.0 gemma Politician](../answers/gemma_Politician/Jesus_in_Synagogues.md)
  * [90.0 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Jesus_in_Synagogues.md)
  * [90.0 llama atheist](../answers/llama_atheist/Jesus_in_Synagogues.md)

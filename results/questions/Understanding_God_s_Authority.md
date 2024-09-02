@@ -11,7 +11,7 @@ The title 'Most High' signifies God's supreme authority and greatness over all c
 Believers may struggle to comprehend the implications of God's sovereignty in their personal lives.
 
 ## Average Grade
-78.0
+80.08333333333333
 
 ## Grades
  * [10.0 gemma atheist](../answers/gemma_atheist/Understanding_God_s_Authority.md)
@@ -30,7 +30,7 @@ Believers may struggle to comprehend the implications of God's sovereignty in th
  * [90.0 gemma Imam](../answers/gemma_Imam/Understanding_God_s_Authority.md)
  * [90.0 llama Imam](../answers/llama_Imam/Understanding_God_s_Authority.md)
  * [90.0 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Understanding_God_s_Authority.md)
- * [95.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Understanding_God_s_Authority.md)
+ * [91.4 gemma Bible Translator](../answers/gemma_Bible_Translator/Understanding_God_s_Authority.md)
  * [95.0 llama Bible Translator](../answers/llama_Bible_Translator/Understanding_God_s_Authority.md)
  * [95.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Understanding_God_s_Authority.md)
  * [95.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Understanding_God_s_Authority.md)

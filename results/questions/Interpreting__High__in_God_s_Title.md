@@ -11,7 +11,7 @@ How should we interpret the term 'high' in the title 'Most High' when considerin
 It is important to avoid misconceptions about God's nature and to understand the metaphorical use of descriptive titles.
 
 ## Average Grade
-84.0
+85.41666666666667
 
 ## Grades
  * [60.0 gemma atheist](../answers/gemma_atheist/Interpreting__High__in_God_s_Title.md)
@@ -31,6 +31,6 @@ It is important to avoid misconceptions about God's nature and to understand the
  * [90.0 gemma Imam](../answers/gemma_Imam/Interpreting__High__in_God_s_Title.md)
  * [90.0 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Interpreting__High__in_God_s_Title.md)
  * [90.0 llama Imam](../answers/llama_Imam/Interpreting__High__in_God_s_Title.md)
- * [95.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Interpreting__High__in_God_s_Title.md)
+ * [93.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Interpreting__High__in_God_s_Title.md)
  * [95.0 llama Bible Translator](../answers/llama_Bible_Translator/Interpreting__High__in_God_s_Title.md)
  * [95.0 mistral Politician](../answers/mistral_Politician/Interpreting__High__in_God_s_Title.md)

@@ -11,7 +11,7 @@ The term 'Shaddai' is a Hebrew word often translated as 'the Almighty' and is us
 Understanding the nature and attributes of God as revealed in Scripture.
 
 ## Average Grade
-84.0
+83.95833333333333
 
 ## Grades
  * [40.0 llama atheist](../answers/llama_atheist/Understanding_Shaddai.md)
@@ -21,6 +21,7 @@ Understanding the nature and attributes of God as revealed in Scripture.
  * [80.0 gemma atheist](../answers/gemma_atheist/Understanding_Shaddai.md)
  * [80.0 mistral Imam](../answers/mistral_Imam/Understanding_Shaddai.md)
  * [85.0 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Understanding_Shaddai.md)
+ * [86.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Understanding_Shaddai.md)
  * [90.0 gemma Politician](../answers/gemma_Politician/Understanding_Shaddai.md)
  * [90.0 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Understanding_Shaddai.md)
  * [90.0 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Understanding_Shaddai.md)
@@ -31,6 +32,5 @@ Understanding the nature and attributes of God as revealed in Scripture.
  * [90.0 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Understanding_Shaddai.md)
  * [90.0 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Understanding_Shaddai.md)
  * [90.0 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Understanding_Shaddai.md)
- * [95.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Understanding_Shaddai.md)
  * [95.0 llama Bible Translator](../answers/llama_Bible_Translator/Understanding_Shaddai.md)
  * [95.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Understanding_Shaddai.md)

@@ -11,7 +11,7 @@ In the Bible, 'heaven' usually refers to where God lives, while 'sky' refers to 
 It's essential to understand the different meanings attributed to these terms in Scripture, as they can impact our understanding of God's nature and our relationship with Him.
 
 ## Average Grade
-90.1
+89.45833333333333
 
 ## Grades
  * [85.0 gemma Politician](../answers/gemma_Politician/Understanding_Heaven_s_Definition.md)
@@ -20,6 +20,7 @@ It's essential to understand the different meanings attributed to these terms in
  * [85.0 gemma Imam](../answers/gemma_Imam/Understanding_Heaven_s_Definition.md)
  * [85.0 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Understanding_Heaven_s_Definition.md)
  * [85.0 mistral Imam](../answers/mistral_Imam/Understanding_Heaven_s_Definition.md)
+ * [88.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Understanding_Heaven_s_Definition.md)
  * [90.0 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Understanding_Heaven_s_Definition.md)
  * [90.0 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Understanding_Heaven_s_Definition.md)
  * [90.0 mistral atheist](../answers/mistral_atheist/Understanding_Heaven_s_Definition.md)
@@ -28,7 +29,6 @@ It's essential to understand the different meanings attributed to these terms in
  * [90.0 llama Imam](../answers/llama_Imam/Understanding_Heaven_s_Definition.md)
  * [90.0 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Understanding_Heaven_s_Definition.md)
  * [92.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Understanding_Heaven_s_Definition.md)
- * [95.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Understanding_Heaven_s_Definition.md)
  * [95.0 gemma atheist](../answers/gemma_atheist/Understanding_Heaven_s_Definition.md)
  * [95.0 llama Bible Translator](../answers/llama_Bible_Translator/Understanding_Heaven_s_Definition.md)
  * [95.0 llama atheist](../answers/llama_atheist/Understanding_Heaven_s_Definition.md)

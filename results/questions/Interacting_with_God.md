@@ -11,7 +11,7 @@ Our responses to God, through obedience, faith, and worship, can align us with H
 Christians may question how their choices influence their relationship with God and the unfolding of His plans.
 
 ## Average Grade
-70.75
+73.54166666666667
 
 ## Grades
  * [20.0 llama atheist](../answers/llama_atheist/Interacting_with_God.md)
@@ -25,8 +25,8 @@ Christians may question how their choices influence their relationship with God 
  * [70.0 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Interacting_with_God.md)
  * [70.0 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Interacting_with_God.md)
  * [75.0 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Interacting_with_God.md)
- * [80.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Interacting_with_God.md)
  * [85.0 mistral Politician](../answers/mistral_Politician/Interacting_with_God.md)
+ * [86.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Interacting_with_God.md)
  * [90.0 gemma Politician](../answers/gemma_Politician/Interacting_with_God.md)
  * [90.0 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Interacting_with_God.md)
  * [90.0 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Interacting_with_God.md)

@@ -11,7 +11,7 @@ To act justly means to treat people in a way that is right, good, and proper acc
 Understanding the biblical standard of fairness and righteousness in our interactions with others.
 
 ## Average Grade
-84.25
+85.83333333333333
 
 ## Grades
  * [50.0 llama atheist](../answers/llama_atheist/Understanding_Justice.md)
@@ -27,7 +27,7 @@ Understanding the biblical standard of fairness and righteousness in our interac
  * [90.0 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Understanding_Justice.md)
  * [90.0 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Understanding_Justice.md)
  * [90.0 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Understanding_Justice.md)
- * [95.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Understanding_Justice.md)
+ * [94.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Understanding_Justice.md)
  * [95.0 gemma Politician](../answers/gemma_Politician/Understanding_Justice.md)
  * [95.0 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Understanding_Justice.md)
  * [95.0 llama Bible Translator](../answers/llama_Bible_Translator/Understanding_Justice.md)

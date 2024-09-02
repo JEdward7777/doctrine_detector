@@ -11,7 +11,7 @@ The significance of fellowship with God in Christianity lies in the belief that 
 Understanding this aspect of fellowship is crucial for a believer's spiritual growth and relationship with God.
 
 ## Average Grade
-82.25
+83.95833333333333
 
 ## Grades
  * [30.0 gemma atheist](../answers/gemma_atheist/Fellowship_with_God.md)
@@ -29,7 +29,7 @@ Understanding this aspect of fellowship is crucial for a believer's spiritual gr
  * [90.0 llama atheist](../answers/llama_atheist/Fellowship_with_God.md)
  * [90.0 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Fellowship_with_God.md)
  * [90.0 mistral Imam](../answers/mistral_Imam/Fellowship_with_God.md)
- * [95.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Fellowship_with_God.md)
+ * [93.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Fellowship_with_God.md)
  * [95.0 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Fellowship_with_God.md)
  * [95.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Fellowship_with_God.md)
  * [95.0 mistral atheist](../answers/mistral_atheist/Fellowship_with_God.md)

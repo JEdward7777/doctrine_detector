@@ -11,12 +11,12 @@ The name 'Yahweh' represents God's personal name and is connected to the Hebrew 
 Understanding the personal nature of God and His relationship with humanity.
 
 ## Average Grade
-90.1
+89.125
 
 ## Grades
  * [80.0 llama Politician](../answers/llama_Politician/Understanding_the_Name_of_God.md)
  * [80.0 llama Imam](../answers/llama_Imam/Understanding_the_Name_of_God.md)
- * [90.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Understanding_the_Name_of_God.md)
+ * [85.4 gemma Bible Translator](../answers/gemma_Bible_Translator/Understanding_the_Name_of_God.md)
  * [90.0 gemma atheist](../answers/gemma_atheist/Understanding_the_Name_of_God.md)
  * [90.0 gemma Politician](../answers/gemma_Politician/Understanding_the_Name_of_God.md)
  * [90.0 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Understanding_the_Name_of_God.md)

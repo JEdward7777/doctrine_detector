@@ -11,7 +11,7 @@ Mount Zion was originally a stronghold that King David captured from the Jebusit
 Understanding the importance of Mount Zion in the biblical narrative and its connection to key figures in Scripture.
 
 ## Average Grade
-80.25
+81.45833333333333
 
 ## Grades
  * [30.0 gemma Imam](../answers/gemma_Imam/Zion_s_Historical_Significance.md)
@@ -26,10 +26,10 @@ Understanding the importance of Mount Zion in the biblical narrative and its con
  * [85.0 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Zion_s_Historical_Significance.md)
  * [85.0 mistral atheist](../answers/mistral_atheist/Zion_s_Historical_Significance.md)
  * [85.0 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Zion_s_Historical_Significance.md)
+ * [89.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Zion_s_Historical_Significance.md)
  * [90.0 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Zion_s_Historical_Significance.md)
  * [90.0 llama Bible Translator](../answers/llama_Bible_Translator/Zion_s_Historical_Significance.md)
  * [90.0 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Zion_s_Historical_Significance.md)
- * [95.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Zion_s_Historical_Significance.md)
  * [95.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Zion_s_Historical_Significance.md)
  * [95.0 mistral Politician](../answers/mistral_Politician/Zion_s_Historical_Significance.md)
  * [95.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Zion_s_Historical_Significance.md)

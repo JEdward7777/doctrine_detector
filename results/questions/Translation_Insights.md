@@ -11,7 +11,7 @@ For humans, suggested translations include 'created to be like him' or 'with cha
 This question encourages exploration of the implications of translation in understanding biblical teachings.
 
 ## Average Grade
-83.1
+83.0
 
 ## Grades
  * [60.0 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Translation_Insights.md)
@@ -20,6 +20,7 @@ This question encourages exploration of the implications of translation in under
  * [70.0 mistral Imam](../answers/mistral_Imam/Translation_Insights.md)
  * [80.0 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Translation_Insights.md)
  * [82.0 mistral Politician](../answers/mistral_Politician/Translation_Insights.md)
+ * [85.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Translation_Insights.md)
  * [85.0 gemma Politician](../answers/gemma_Politician/Translation_Insights.md)
  * [85.0 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Translation_Insights.md)
  * [85.0 llama Bible Translator](../answers/llama_Bible_Translator/Translation_Insights.md)
@@ -33,4 +34,3 @@ This question encourages exploration of the implications of translation in under
  * [90.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Translation_Insights.md)
  * [90.0 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Translation_Insights.md)
  * [90.0 gemma Imam](../answers/gemma_Imam/Translation_Insights.md)
- * [95.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Translation_Insights.md)

@@ -11,7 +11,7 @@ How should the phrase 'El Shaddai' be translated in different languages based on
 Ensuring accurate representation of God's name across different cultures and languages.
 
 ## Average Grade
-79.0
+78.95833333333333
 
 ## Grades
  * [30.0 llama atheist](../answers/llama_atheist/Translating_El_Shaddai.md)
@@ -23,13 +23,13 @@ Ensuring accurate representation of God's name across different cultures and lan
  * [80.0 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Translating_El_Shaddai.md)
  * [80.0 llama Bible Translator](../answers/llama_Bible_Translator/Translating_El_Shaddai.md)
  * [80.0 gemma Imam](../answers/gemma_Imam/Translating_El_Shaddai.md)
+ * [81.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Translating_El_Shaddai.md)
  * [85.0 gemma atheist](../answers/gemma_atheist/Translating_El_Shaddai.md)
  * [85.0 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Translating_El_Shaddai.md)
  * [85.0 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Translating_El_Shaddai.md)
  * [85.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Translating_El_Shaddai.md)
  * [85.0 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Translating_El_Shaddai.md)
  * [85.0 mistral Imam](../answers/mistral_Imam/Translating_El_Shaddai.md)
- * [90.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Translating_El_Shaddai.md)
  * [90.0 llama Politician](../answers/llama_Politician/Translating_El_Shaddai.md)
  * [90.0 mistral atheist](../answers/mistral_atheist/Translating_El_Shaddai.md)
  * [90.0 mistral Politician](../answers/mistral_Politician/Translating_El_Shaddai.md)

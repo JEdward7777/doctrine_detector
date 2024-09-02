@@ -11,7 +11,7 @@ Retaining 'heaven' in 'kingdom of heaven' is significant as it is distinctive to
 Understanding the unique terminology used in the gospels can help us grasp the intended messages of the biblical authors.
 
 ## Average Grade
-88.6
+89.04166666666667
 
 ## Grades
  * [70.0 gemma Imam](../answers/gemma_Imam/Kingdom_of_Heaven.md)
@@ -26,8 +26,8 @@ Understanding the unique terminology used in the gospels can help us grasp the i
  * [90.0 mistral Politician](../answers/mistral_Politician/Kingdom_of_Heaven.md)
  * [90.0 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Kingdom_of_Heaven.md)
  * [90.0 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Kingdom_of_Heaven.md)
+ * [92.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Kingdom_of_Heaven.md)
  * [92.0 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Kingdom_of_Heaven.md)
- * [95.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Kingdom_of_Heaven.md)
  * [95.0 gemma Politician](../answers/gemma_Politician/Kingdom_of_Heaven.md)
  * [95.0 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Kingdom_of_Heaven.md)
  * [95.0 llama Bible Translator](../answers/llama_Bible_Translator/Kingdom_of_Heaven.md)

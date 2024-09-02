@@ -11,11 +11,12 @@ In the Bible, a covenant refers to a formal, binding agreement between two parti
 Understanding the nature of covenants in biblical contexts.
 
 ## Average Grade
-89.75
+88.95833333333333
 
 ## Grades
  * [60.0 llama atheist](../answers/llama_atheist/Covenant_Definition.md)
  * [80.0 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Covenant_Definition.md)
+ * [87.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Covenant_Definition.md)
  * [90.0 gemma atheist](../answers/gemma_atheist/Covenant_Definition.md)
  * [90.0 gemma Politician](../answers/gemma_Politician/Covenant_Definition.md)
  * [90.0 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Covenant_Definition.md)
@@ -27,7 +28,6 @@ Understanding the nature of covenants in biblical contexts.
  * [90.0 gemma Imam](../answers/gemma_Imam/Covenant_Definition.md)
  * [90.0 llama Imam](../answers/llama_Imam/Covenant_Definition.md)
  * [90.0 mistral Imam](../answers/mistral_Imam/Covenant_Definition.md)
- * [95.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Covenant_Definition.md)
  * [95.0 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Covenant_Definition.md)
  * [95.0 llama Bible Translator](../answers/llama_Bible_Translator/Covenant_Definition.md)
  * [95.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Covenant_Definition.md)

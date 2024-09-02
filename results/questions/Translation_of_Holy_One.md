@@ -11,7 +11,7 @@ It is best translated to retain the meaning of holiness, often implying 'God' or
 Ensuring accurate representation of the term in translations to maintain the theological implications.
 
 ## Average Grade
-90.0
+90.20833333333333
 
 ## Grades
  * [85.0 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Translation_of_Holy_One.md)
@@ -29,7 +29,7 @@ Ensuring accurate representation of the term in translations to maintain the the
  * [90.0 llama Imam](../answers/llama_Imam/Translation_of_Holy_One.md)
  * [90.0 mistral Imam](../answers/mistral_Imam/Translation_of_Holy_One.md)
  * [90.0 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Translation_of_Holy_One.md)
- * [95.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Translation_of_Holy_One.md)
+ * [92.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Translation_of_Holy_One.md)
  * [95.0 gemma Politician](../answers/gemma_Politician/Translation_of_Holy_One.md)
  * [95.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Translation_of_Holy_One.md)
  * [95.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Translation_of_Holy_One.md)

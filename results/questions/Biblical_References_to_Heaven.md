@@ -11,7 +11,7 @@ Key verses include 1 Kings 8:22-24, 1 Thessalonians 4:17, Matthew 5:18, and Gene
 Exploring these references can enhance our understanding of God's kingdom and the physical and spiritual realities associated with heaven.
 
 ## Average Grade
-71.05
+73.33333333333333
 
 ## Grades
  * [0.0 gemma Imam](../answers/gemma_Imam/Biblical_References_to_Heaven.md)
@@ -26,7 +26,7 @@ Exploring these references can enhance our understanding of God's kingdom and th
  * [75.0 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Biblical_References_to_Heaven.md)
  * [80.0 llama Bible Translator](../answers/llama_Bible_Translator/Biblical_References_to_Heaven.md)
  * [80.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Biblical_References_to_Heaven.md)
- * [85.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Biblical_References_to_Heaven.md)
+ * [84.8 gemma Bible Translator](../answers/gemma_Bible_Translator/Biblical_References_to_Heaven.md)
  * [85.0 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Biblical_References_to_Heaven.md)
  * [85.0 llama Politician](../answers/llama_Politician/Biblical_References_to_Heaven.md)
  * [85.0 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Biblical_References_to_Heaven.md)

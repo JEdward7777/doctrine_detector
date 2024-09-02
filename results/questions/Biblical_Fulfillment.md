@@ -11,7 +11,7 @@ The title reflects Old Testament prophecies about the coming Messiah who would b
 Recognizing biblical prophecy and its fulfillment is vital for Christian theology.
 
 ## Average Grade
-82.25
+84.375
 
 ## Grades
  * [20.0 gemma atheist](../answers/gemma_atheist/Biblical_Fulfillment.md)

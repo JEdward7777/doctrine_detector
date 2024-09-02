@@ -46,7 +46,11 @@ Recognizing the severity of transgression in one’s spiritual life.
 **In summary, transgression is a deliberate violation of God's law, a departure from God's will, and the root of sin. It has serious consequences for both our present and future lives.**
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Transgression_and_Sin_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Transgression_and_Sin_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Transgression_and_Sin_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Transgression_and_Sin_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Transgression_and_Sin_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

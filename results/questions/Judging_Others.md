@@ -24,7 +24,7 @@ Learning how to approach relationships within the Christian community in a Chris
  * [90.0 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Judging_Others.md)
  * [90.0 llama Imam](../answers/llama_Imam/Judging_Others.md)
  * [90.0 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Judging_Others.md)
- * [95.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Judging_Others.md)
+ * [93.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Judging_Others.md)
  * [95.0 gemma Politician](../answers/gemma_Politician/Judging_Others.md)
  * [95.0 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Judging_Others.md)
  * [95.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Judging_Others.md)

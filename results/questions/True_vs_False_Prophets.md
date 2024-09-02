@@ -11,14 +11,14 @@ One can distinguish by examining if the messages align with God's Word, the natu
 Being able to discern true prophetic voices from those that mislead or misrepresent God's messages.
 
 ## Average Grade
-85.1
+84.66666666666667
 
 ## Grades
  * [60.0 llama Politician](../answers/llama_Politician/True_vs_False_Prophets.md)
  * [70.0 llama atheist](../answers/llama_atheist/True_vs_False_Prophets.md)
- * [80.0 gemma Bible Translator](../answers/gemma_Bible_Translator/True_vs_False_Prophets.md)
  * [80.0 mistral Politician](../answers/mistral_Politician/True_vs_False_Prophets.md)
  * [80.0 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/True_vs_False_Prophets.md)
+ * [82.0 gemma Bible Translator](../answers/gemma_Bible_Translator/True_vs_False_Prophets.md)
  * [82.0 gemma Imam](../answers/gemma_Imam/True_vs_False_Prophets.md)
  * [85.0 gemma atheist](../answers/gemma_atheist/True_vs_False_Prophets.md)
  * [85.0 gemma Politician](../answers/gemma_Politician/True_vs_False_Prophets.md)

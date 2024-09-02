@@ -11,7 +11,7 @@ A lamb symbolizes innocence and purity, and its use in sacrifices relates to ato
 This question invites Christians to delve deeper into the symbolism of the lamb and its importance in the understanding of atonement and redemption through Christ.
 
 ## Average Grade
-85.25
+86.875
 
 ## Grades
  * [30.0 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Symbolism_of_the_Lamb.md)

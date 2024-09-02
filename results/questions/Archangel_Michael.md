@@ -11,7 +11,7 @@ The only angel referred to in the Bible as an 'archangel' is Michael.
 Recognizing Michael's unique position can influence one's understanding of spiritual warfare and intercession.
 
 ## Average Grade
-85.75
+86.66666666666667
 
 ## Grades
  * [40.0 llama Politician](../answers/llama_Politician/Archangel_Michael.md)
@@ -31,6 +31,6 @@ Recognizing Michael's unique position can influence one's understanding of spiri
  * [90.0 gemma Imam](../answers/gemma_Imam/Archangel_Michael.md)
  * [90.0 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Archangel_Michael.md)
  * [90.0 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Archangel_Michael.md)
- * [95.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Archangel_Michael.md)
+ * [92.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Archangel_Michael.md)
  * [95.0 gemma atheist](../answers/gemma_atheist/Archangel_Michael.md)
  * [95.0 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Archangel_Michael.md)

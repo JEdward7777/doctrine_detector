@@ -11,7 +11,7 @@ God justifies sinners by forgiving their sins and declaring them to be righteous
 Clarifying the Christian doctrine of justification and its importance in salvation.
 
 ## Average Grade
-69.25
+73.33333333333333
 
 ## Grades
  * [20.0 gemma atheist](../answers/gemma_atheist/God_s_Justification.md)
@@ -25,7 +25,7 @@ Clarifying the Christian doctrine of justification and its importance in salvati
  * [80.0 GPT 3.5 Politician](../answers/GPT_3.5_Politician/God_s_Justification.md)
  * [90.0 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/God_s_Justification.md)
  * [90.0 mistral atheist](../answers/mistral_atheist/God_s_Justification.md)
- * [95.0 gemma Bible Translator](../answers/gemma_Bible_Translator/God_s_Justification.md)
+ * [94.0 gemma Bible Translator](../answers/gemma_Bible_Translator/God_s_Justification.md)
  * [95.0 gemma Politician](../answers/gemma_Politician/God_s_Justification.md)
  * [95.0 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/God_s_Justification.md)
  * [95.0 llama Bible Translator](../answers/llama_Bible_Translator/God_s_Justification.md)

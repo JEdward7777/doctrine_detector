@@ -11,12 +11,13 @@ What are some potential translations of 'truly' as used by Jesus in phrases like
 Understanding the importance of accurate biblical translation and interpretation.
 
 ## Average Grade
-85.1
+83.625
 
 ## Grades
  * [60.0 llama Politician](../answers/llama_Politician/Translation_of_Amen.md)
  * [70.0 mistral Imam](../answers/mistral_Imam/Translation_of_Amen.md)
  * [75.0 llama Imam](../answers/llama_Imam/Translation_of_Amen.md)
+ * [79.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Translation_of_Amen.md)
  * [80.0 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Translation_of_Amen.md)
  * [85.0 gemma atheist](../answers/gemma_atheist/Translation_of_Amen.md)
  * [85.0 gemma Politician](../answers/gemma_Politician/Translation_of_Amen.md)
@@ -24,7 +25,6 @@ Understanding the importance of accurate biblical translation and interpretation
  * [85.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Translation_of_Amen.md)
  * [85.0 gemma Imam](../answers/gemma_Imam/Translation_of_Amen.md)
  * [87.0 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Translation_of_Amen.md)
- * [90.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Translation_of_Amen.md)
  * [90.0 llama Bible Translator](../answers/llama_Bible_Translator/Translation_of_Amen.md)
  * [90.0 llama atheist](../answers/llama_atheist/Translation_of_Amen.md)
  * [90.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Translation_of_Amen.md)

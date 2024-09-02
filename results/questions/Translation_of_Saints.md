@@ -11,7 +11,7 @@ Ways to translate 'saints' could include 'holy ones,' 'holy people,' or 'holy be
 It's important to use inclusive language that accurately represents all believers in Jesus without referring to specific Christian groups.
 
 ## Average Grade
-76.0
+77.91666666666667
 
 ## Grades
  * [50.0 gemma Imam](../answers/gemma_Imam/Translation_of_Saints.md)
@@ -30,7 +30,7 @@ It's important to use inclusive language that accurately represents all believer
  * [80.0 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Translation_of_Saints.md)
  * [85.0 gemma atheist](../answers/gemma_atheist/Translation_of_Saints.md)
  * [85.0 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Translation_of_Saints.md)
- * [90.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Translation_of_Saints.md)
+ * [88.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Translation_of_Saints.md)
  * [90.0 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Translation_of_Saints.md)
  * [90.0 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Translation_of_Saints.md)
  * [95.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Translation_of_Saints.md)

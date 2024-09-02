@@ -11,7 +11,7 @@ What does the name 'Yahweh' signify in the context of the Old Testament?
 Understanding the significance of God's name is crucial for recognizing His nature and covenant with His people.
 
 ## Average Grade
-84.85
+85.08333333333333
 
 ## Grades
  * [10.0 gemma Politician](../answers/gemma_Politician/Understanding_the_Name_of_God_2.md)
@@ -19,12 +19,12 @@ Understanding the significance of God's name is crucial for recognizing His natu
  * [70.0 gemma Imam](../answers/gemma_Imam/Understanding_the_Name_of_God_2.md)
  * [80.0 llama Imam](../answers/llama_Imam/Understanding_the_Name_of_God_2.md)
  * [85.0 llama Politician](../answers/llama_Politician/Understanding_the_Name_of_God_2.md)
+ * [88.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Understanding_the_Name_of_God_2.md)
  * [90.0 gemma atheist](../answers/gemma_atheist/Understanding_the_Name_of_God_2.md)
  * [90.0 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Understanding_the_Name_of_God_2.md)
  * [90.0 mistral Politician](../answers/mistral_Politician/Understanding_the_Name_of_God_2.md)
  * [90.0 mistral Imam](../answers/mistral_Imam/Understanding_the_Name_of_God_2.md)
  * [92.0 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Understanding_the_Name_of_God_2.md)
- * [95.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Understanding_the_Name_of_God_2.md)
  * [95.0 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Understanding_the_Name_of_God_2.md)
  * [95.0 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Understanding_the_Name_of_God_2.md)
  * [95.0 llama Bible Translator](../answers/llama_Bible_Translator/Understanding_the_Name_of_God_2.md)

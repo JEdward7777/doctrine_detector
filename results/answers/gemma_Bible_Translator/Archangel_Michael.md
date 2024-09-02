@@ -15,7 +15,11 @@ Recognizing Michael's unique position can influence one's understanding of spiri
 The Bible identifies Michael as the only angel referred to as an 'archangel.' This title signifies his high rank and authority among the angels.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Archangel_Michael_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Archangel_Michael_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Archangel_Michael_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Archangel_Michael_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Archangel_Michael_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

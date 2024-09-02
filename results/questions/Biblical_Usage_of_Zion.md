@@ -11,10 +11,11 @@ In what figurative ways is the term 'Zion' used in the Bible?
 Exploring the broader spiritual implications and symbolic meanings of 'Zion' in Christian theology.
 
 ## Average Grade
-89.75
+89.375
 
 ## Grades
  * [30.0 gemma atheist](../answers/gemma_atheist/Biblical_Usage_of_Zion.md)
+ * [89.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Biblical_Usage_of_Zion.md)
  * [90.0 gemma Politician](../answers/gemma_Politician/Biblical_Usage_of_Zion.md)
  * [90.0 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Biblical_Usage_of_Zion.md)
  * [90.0 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Biblical_Usage_of_Zion.md)
@@ -23,7 +24,6 @@ Exploring the broader spiritual implications and symbolic meanings of 'Zion' in 
  * [90.0 gemma Imam](../answers/gemma_Imam/Biblical_Usage_of_Zion.md)
  * [90.0 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Biblical_Usage_of_Zion.md)
  * [90.0 mistral Imam](../answers/mistral_Imam/Biblical_Usage_of_Zion.md)
- * [95.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Biblical_Usage_of_Zion.md)
  * [95.0 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Biblical_Usage_of_Zion.md)
  * [95.0 llama Bible Translator](../answers/llama_Bible_Translator/Biblical_Usage_of_Zion.md)
  * [95.0 llama atheist](../answers/llama_atheist/Biblical_Usage_of_Zion.md)

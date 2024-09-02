@@ -11,7 +11,7 @@ Miracles serve as indicators of God's power, prompting belief in Him and validat
 Understanding the role of miracles in leading others to faith can enhance evangelism and personal faith.
 
 ## Average Grade
-83.0
+84.375
 
 ## Grades
  * [20.0 gemma atheist](../answers/gemma_atheist/Miracles_and_Belief.md)
@@ -28,7 +28,7 @@ Understanding the role of miracles in leading others to faith can enhance evange
  * [90.0 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Miracles_and_Belief.md)
  * [90.0 mistral Imam](../answers/mistral_Imam/Miracles_and_Belief.md)
  * [90.0 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Miracles_and_Belief.md)
- * [95.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Miracles_and_Belief.md)
+ * [92.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Miracles_and_Belief.md)
  * [95.0 llama Bible Translator](../answers/llama_Bible_Translator/Miracles_and_Belief.md)
  * [95.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Miracles_and_Belief.md)
  * [95.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Miracles_and_Belief.md)

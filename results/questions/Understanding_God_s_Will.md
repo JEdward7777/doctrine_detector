@@ -11,7 +11,7 @@ Seeking God's will involves understanding His desires and plans for our lives, a
 People may struggle with making decisions that honor God or may feel uncertain about His direction for their lives.
 
 ## Average Grade
-77.75
+80.0
 
 ## Grades
  * [20.0 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Understanding_God_s_Will.md)
@@ -30,7 +30,7 @@ People may struggle with making decisions that honor God or may feel uncertain a
  * [90.0 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Understanding_God_s_Will.md)
  * [90.0 llama Imam](../answers/llama_Imam/Understanding_God_s_Will.md)
  * [90.0 mistral Imam](../answers/mistral_Imam/Understanding_God_s_Will.md)
- * [95.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Understanding_God_s_Will.md)
+ * [92.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Understanding_God_s_Will.md)
  * [95.0 llama Bible Translator](../answers/llama_Bible_Translator/Understanding_God_s_Will.md)
  * [95.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Understanding_God_s_Will.md)
  * [95.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Understanding_God_s_Will.md)

@@ -11,7 +11,7 @@ Believers become saints not because of their own deeds, but because of their fai
 Clarifying the source of holiness reinforces the central role of faith in Jesus in the Christian doctrine.
 
 ## Average Grade
-89.5
+90.41666666666667
 
 ## Grades
  * [70.0 llama atheist](../answers/llama_atheist/Source_of_Holiness.md)

@@ -11,14 +11,14 @@ Synagogues served as places for prayer, scripture reading, and teaching about th
 Understanding the historical and religious importance of synagogues in Jewish worship.
 
 ## Average Grade
-88.0
+86.04166666666667
 
 ## Grades
  * [40.0 gemma atheist](../answers/gemma_atheist/Synagogue_Purpose.md)
+ * [79.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Synagogue_Purpose.md)
  * [80.0 gemma Imam](../answers/gemma_Imam/Synagogue_Purpose.md)
  * [85.0 llama Politician](../answers/llama_Politician/Synagogue_Purpose.md)
  * [85.0 llama Imam](../answers/llama_Imam/Synagogue_Purpose.md)
- * [90.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Synagogue_Purpose.md)
  * [90.0 gemma Politician](../answers/gemma_Politician/Synagogue_Purpose.md)
  * [90.0 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Synagogue_Purpose.md)
  * [90.0 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Synagogue_Purpose.md)

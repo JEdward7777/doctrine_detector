@@ -11,7 +11,7 @@ How can transgression be related to the concepts of sin and disobedience?
 Recognizing the severity of transgression in one’s spiritual life.
 
 ## Average Grade
-80.25
+82.29166666666667
 
 ## Grades
  * [30.0 gemma atheist](../answers/gemma_atheist/Transgression_and_Sin.md)
@@ -28,7 +28,7 @@ Recognizing the severity of transgression in one’s spiritual life.
  * [90.0 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Transgression_and_Sin.md)
  * [90.0 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Transgression_and_Sin.md)
  * [90.0 llama Imam](../answers/llama_Imam/Transgression_and_Sin.md)
- * [95.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Transgression_and_Sin.md)
+ * [93.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Transgression_and_Sin.md)
  * [95.0 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Transgression_and_Sin.md)
  * [95.0 llama Bible Translator](../answers/llama_Bible_Translator/Transgression_and_Sin.md)
  * [95.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Transgression_and_Sin.md)

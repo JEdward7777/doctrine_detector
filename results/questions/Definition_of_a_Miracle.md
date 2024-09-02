@@ -11,7 +11,7 @@ A miracle is something amazing that occurs only through God's intervention, show
 Understanding the concept of miracles can deepen our faith and acknowledgment of God's power.
 
 ## Average Grade
-80.0
+82.08333333333333
 
 ## Grades
  * [20.0 llama atheist](../answers/llama_atheist/Definition_of_a_Miracle.md)
@@ -26,7 +26,7 @@ Understanding the concept of miracles can deepen our faith and acknowledgment of
  * [90.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Definition_of_a_Miracle.md)
  * [90.0 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Definition_of_a_Miracle.md)
  * [90.0 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Definition_of_a_Miracle.md)
- * [95.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Definition_of_a_Miracle.md)
+ * [93.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Definition_of_a_Miracle.md)
  * [95.0 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Definition_of_a_Miracle.md)
  * [95.0 llama Bible Translator](../answers/llama_Bible_Translator/Definition_of_a_Miracle.md)
  * [95.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Definition_of_a_Miracle.md)

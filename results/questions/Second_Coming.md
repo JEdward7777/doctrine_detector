@@ -11,7 +11,7 @@ It implies that believers can expect Jesus' return as the Messiah, affirming hop
 To grasp the implications of Jesus’ second coming as the 'Son of Man' for Christian hope and eschatology.
 
 ## Average Grade
-80.75
+81.45833333333333
 
 ## Grades
  * [50.0 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Second_Coming.md)
@@ -24,12 +24,12 @@ To grasp the implications of Jesus’ second coming as the 'Son of Man' for Chri
  * [80.0 llama atheist](../answers/llama_atheist/Second_Coming.md)
  * [85.0 gemma Politician](../answers/gemma_Politician/Second_Coming.md)
  * [85.0 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Second_Coming.md)
+ * [87.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Second_Coming.md)
  * [90.0 mistral atheist](../answers/mistral_atheist/Second_Coming.md)
  * [90.0 mistral Politician](../answers/mistral_Politician/Second_Coming.md)
  * [90.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Second_Coming.md)
  * [90.0 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Second_Coming.md)
  * [90.0 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Second_Coming.md)
- * [95.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Second_Coming.md)
  * [95.0 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Second_Coming.md)
  * [95.0 llama Bible Translator](../answers/llama_Bible_Translator/Second_Coming.md)
  * [95.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Second_Coming.md)

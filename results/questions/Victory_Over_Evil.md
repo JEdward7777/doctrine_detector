@@ -11,7 +11,7 @@ God promised that one of Eve’s descendants, referring to the Messiah, would de
 This promise offers hope and assurance to Christians about God's sovereignty and the eventual triumph over evil.
 
 ## Average Grade
-80.75
+82.5
 
 ## Grades
  * [25.0 gemma atheist](../answers/gemma_atheist/Victory_Over_Evil.md)
@@ -30,7 +30,7 @@ This promise offers hope and assurance to Christians about God's sovereignty and
  * [90.0 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Victory_Over_Evil.md)
  * [90.0 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Victory_Over_Evil.md)
  * [90.0 gemma Imam](../answers/gemma_Imam/Victory_Over_Evil.md)
- * [95.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Victory_Over_Evil.md)
+ * [92.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Victory_Over_Evil.md)
  * [95.0 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Victory_Over_Evil.md)
  * [95.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Victory_Over_Evil.md)
  * [95.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Victory_Over_Evil.md)

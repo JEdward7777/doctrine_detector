@@ -11,7 +11,7 @@ The Bible teaches that God's judgment is based on His perfect righteousness and 
 Understanding the distinction between God's perfect judgment and flawed human judgment.
 
 ## Average Grade
-92.25
+92.70833333333333
 
 ## Grades
  * [85.0 gemma atheist](../answers/gemma_atheist/Understanding_Divine_Judgment.md)

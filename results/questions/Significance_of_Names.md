@@ -11,7 +11,7 @@ Translating 'Shaddai' as a title emphasizes God's attributes, specifically His o
 Deepening the understanding of God's character and relational aspect in the Christian faith.
 
 ## Average Grade
-82.0
+83.33333333333333
 
 ## Grades
  * [40.0 mistral Politician](../answers/mistral_Politician/Significance_of_Names.md)

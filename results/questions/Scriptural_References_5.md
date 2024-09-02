@@ -11,7 +11,7 @@ Luke 16:23 depicts Hades as a place for the unrighteous, while Luke 23:43 refers
 Expanding knowledge of scriptural evidence regarding the nature of Hades and its implications for Christian eschatology.
 
 ## Average Grade
-89.25
+89.16666666666667
 
 ## Grades
  * [70.0 llama Imam](../answers/llama_Imam/Scriptural_References_5.md)
@@ -19,7 +19,7 @@ Expanding knowledge of scriptural evidence regarding the nature of Hades and its
  * [85.0 gemma atheist](../answers/gemma_atheist/Scriptural_References_5.md)
  * [85.0 llama Bible Translator](../answers/llama_Bible_Translator/Scriptural_References_5.md)
  * [85.0 mistral Imam](../answers/mistral_Imam/Scriptural_References_5.md)
- * [90.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Scriptural_References_5.md)
+ * [89.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Scriptural_References_5.md)
  * [90.0 gemma Politician](../answers/gemma_Politician/Scriptural_References_5.md)
  * [90.0 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Scriptural_References_5.md)
  * [90.0 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Scriptural_References_5.md)

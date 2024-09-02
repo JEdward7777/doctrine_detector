@@ -11,7 +11,7 @@ Bible references that illustrate the concept of God's majesty include 2 Peter 1:
 Connecting scripture with the understanding of God's majestic nature.
 
 ## Average Grade
-76.75
+77.08333333333333
 
 ## Grades
  * [20.0 gemma atheist](../answers/gemma_atheist/Biblical_References_2.md)
@@ -21,6 +21,7 @@ Connecting scripture with the understanding of God's majestic nature.
  * [70.0 mistral atheist](../answers/mistral_atheist/Biblical_References_2.md)
  * [75.0 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Biblical_References_2.md)
  * [80.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Biblical_References_2.md)
+ * [82.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Biblical_References_2.md)
  * [85.0 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Biblical_References_2.md)
  * [85.0 mistral Politician](../answers/mistral_Politician/Biblical_References_2.md)
  * [85.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Biblical_References_2.md)
@@ -31,6 +32,5 @@ Connecting scripture with the understanding of God's majestic nature.
  * [90.0 llama Bible Translator](../answers/llama_Bible_Translator/Biblical_References_2.md)
  * [90.0 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Biblical_References_2.md)
  * [90.0 gemma Imam](../answers/gemma_Imam/Biblical_References_2.md)
- * [95.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Biblical_References_2.md)
  * [95.0 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Biblical_References_2.md)
  * [95.0 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Biblical_References_2.md)

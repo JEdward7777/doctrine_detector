@@ -11,7 +11,7 @@ God often uses His name 'Yahweh' instead of pronouns when speaking about Himself
 Recognizing the importance of His revelation in understanding God's character and relationship with His followers.
 
 ## Average Grade
-82.25
+83.75
 
 ## Grades
  * [20.0 gemma atheist](../answers/gemma_atheist/God_s_Revelation.md)
@@ -28,7 +28,7 @@ Recognizing the importance of His revelation in understanding God's character an
  * [90.0 GPT 3.5 Politician](../answers/GPT_3.5_Politician/God_s_Revelation.md)
  * [90.0 mistral atheist](../answers/mistral_atheist/God_s_Revelation.md)
  * [90.0 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/God_s_Revelation.md)
- * [95.0 gemma Bible Translator](../answers/gemma_Bible_Translator/God_s_Revelation.md)
+ * [92.0 gemma Bible Translator](../answers/gemma_Bible_Translator/God_s_Revelation.md)
  * [95.0 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/God_s_Revelation.md)
  * [95.0 llama Bible Translator](../answers/llama_Bible_Translator/God_s_Revelation.md)
  * [95.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/God_s_Revelation.md)
