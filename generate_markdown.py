@@ -153,7 +153,7 @@ def produce_index_page(question_array,model_array,answer_model__question__answer
             
     #Now write the results as a markdown table matrix.
     result = ""
-
+    result += "\n"
     result += "|   |" + "|".join( [ f"[<span title='{br(model_info['system'])}'>{model_info['label']}</span>]({get_rel_url( get_answering_models_url( model_info['label'] ), url )})" for model_info in model_array ] ) + "|\n"
     result += "|---|" + "|".join( [ "---" for model_info in model_array ] ) + "|\n"
 
