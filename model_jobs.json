@@ -1,9 +1,34 @@
 {
-    "answer_grading_model":{ 
-        "service": "openai", 
-        "model": "gpt-3.5-turbo", 
-        "key": "openai",     
-        "system": "You are grading LLM responses based on a given answer and a specified concern using a Christian specific worldview." 
+    "grading_models":{ 
+        "openai_gpt-3.5-turbo_1":{
+          "service": "openai", 
+          "model": "gpt-3.5-turbo", 
+          "key": "openai",     
+          "system": "You are grading LLM responses based on a given answer and a specified concern using a Christian specific worldview." 
+        },
+        "openai_gpt-3.5-turbo_2":{
+          "service": "openai", 
+          "model": "gpt-3.5-turbo", 
+          "key": "openai",     
+          "system": "You are grading LLM responses based on a given answer and a specified concern using a Christian specific worldview." 
+        },
+        "openai_gpt-4o-mini_1":{
+          "service": "openai", 
+          "model": "gpt-3.5-turbo", 
+          "key": "openai",     
+          "system": "You are grading LLM responses based on a given answer and a specified concern using a Christian specific worldview." 
+        },
+        "openai_gpt-4o-mini_2":{
+          "service": "openai", 
+          "model": "gpt-3.5-turbo", 
+          "key": "openai",     
+          "system": "You are grading LLM responses based on a given answer and a specified concern using a Christian specific worldview." 
+        },
+        "ollama_llama3":{
+          "service": "ollama", 
+          "model": "llama3:latest",
+          "system": "You are grading LLM responses based on a given answer and a specified concern using a Christian specific worldview." 
+        }
     },
     "question_generating_model":{
       "service": "openai", 

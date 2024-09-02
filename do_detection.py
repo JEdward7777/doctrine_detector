@@ -141,7 +141,7 @@ Include a comment on the grade.
         result = model( prompt )
         
         #now find the first number in the response and use that as the grade
-        number_finder = re.compile(r'[\d\.]+')
+        number_finder = re.compile(r'\d+(.\d+)?')
 
         match = number_finder.search( result )
         if match:
@@ -160,8 +160,10 @@ def run_model_tests():
     models = read_json('models.json')
     connections = read_json( 'connections.json' )
 
-    answer_grading_model_info = read_json( 'model_jobs.json' )['answer_grading_model']
-    answer_grading_model = load_model( answer_grading_model_info, connections )
+    answer_grading_model_infos = read_json( 'model_jobs.json' )['grading_models']
+    grading_models = {}
+    for answer_grading_model_label, answer_grading_model_info in answer_grading_model_infos.items():
+        grading_models[answer_grading_model_label] = load_model( answer_grading_model_info, connections )
     
     #results[model][question]
     results = defaultdict(lambda: defaultdict(lambda: {}))
@@ -181,15 +183,32 @@ def run_model_tests():
         model = load_model(model_info,connections)
 
         for question in content:
+            added_something = False
+
             #shortcut if this question has already been run
             if question['label'] not in results[model_info['label']]:
                 result = {}
                 results[model_info['label']][question['label']] = result
                 print( f"Model {model_info['label']} running question {question['label']}...", end=" " )
                 result["answer"] = model( question['question'] )
-                print( f"grading..." )
-                result["grade"],result["grade_comment"] = grade_response( answer_grading_model, result["answer"], question['answer'], question['concern'] )
-            
+                added_something = True
+
+
+            print( f"grading..." )
+            for answer_grading_model_label, answer_grading_model in grading_models.items():
+                if "grades" not in results[model_info['label']][question['label']]:
+                    results[model_info['label']][question['label']]["grades"] = {}
+                    added_something = True
+
+                if answer_grading_model_label not in results[model_info['label']][question['label']]["grades"]:
+                    grade, comment = grade_response( answer_grading_model, results[model_info['label']][question['label']]["answer"], question['answer'], question['concern'] )
+                    results[model_info['label']][question['label']]["grades"][answer_grading_model_label] = {
+                        "grade": grade,
+                        "grade_comment": comment
+                    }
+                    added_something = True
+
+            if added_something:
                 with open( "results.json~", 'w' ) as f:
                     #json.dump( results, f, indent=2 )
                     f.write( json.dumps( results, indent=2 ) )

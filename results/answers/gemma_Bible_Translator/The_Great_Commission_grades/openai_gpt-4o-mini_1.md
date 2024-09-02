@@ -1,0 +1,25 @@
+
+[Index](../../../../index.md)
+## [openai_gpt-4o-mini_1](../../../grading_models/openai_gpt-4o-mini_1.md) grade of [gemma Bible Translator](../../../answering_models/gemma_Bible_Translator.md) for question [The Great Commission](../../../questions/The_Great_Commission.md)
+
+# Question [The Great Commission](../../../questions/The_Great_Commission.md)
+What command did Jesus give to His disciples before ascending to heaven?
+
+# Correct Answer
+Jesus commanded His disciples to make other disciples of all nations, baptizing them and teaching them to obey everything He had commanded.
+
+# Stated Concern
+Understanding the mission of discipleship in the context of the Great Commission.
+
+# Answer by [gemma Bible Translator](../../../answering_models/gemma_Bible_Translator.md)
+The command Jesus gave to His disciples before ascending to heaven is found in **Matthew 28:18-20**:
+
+> "Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to obey everything I have commanded you. And remember, I am with you always, until the end of the age."
+
+# Grade by [openai_gpt-4o-mini_1](../../../grading_models/openai_gpt-4o-mini_1.md)
+90.0
+
+# Comment by [openai_gpt-4o-mini_1](../../../grading_models/openai_gpt-4o-mini_1.md)
+Grade: 90
+
+Comment: The response accurately states the essence of the Great Commission given by Jesus to His disciples, emphasizing the call to make disciples of all nations, baptize them, and teach obedience to Jesus' commands. The understanding of the mission of discipleship within the context of the Great Commission is clear and well articulated. Overall, a solid response from a Christian worldview perspective.
