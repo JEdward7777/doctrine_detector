@@ -141,7 +141,7 @@ Include a comment on the grade.
         result = model( prompt )
         
         #now find the first number in the response and use that as the grade
-        number_finder = re.compile(r'\d+(.\d+)?')
+        number_finder = re.compile(r'\d+(\.\d+)?')
 
         match = number_finder.search( result )
         if match:
