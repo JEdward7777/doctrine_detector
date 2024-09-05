@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) answer to [Biblical References 3](../../questions/Biblical_References_3.md)
+# Generated Answer from [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) for [Biblical References 3](../../questions/Biblical_References_3.md)
 
 ## Question [Biblical References 3](../../questions/Biblical_References_3.md)
 Which Old Testament references contribute to the understanding of the 'Son of Man' as the coming Messiah?
@@ -19,7 +19,11 @@ From a political correctness standpoint, it would be prudent to acknowledge the 
 Ultimately, fostering a dialogue that respects various interpretations and perspectives on religious and theological matters is crucial for promoting inclusivity and understanding in discussions surrounding topics like the Son of Man and the Messiah.
 
 ## Average Grade
-90.0
+78.0
 
 ## Grades
  * [90.0](./Biblical_References_3_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Biblical_References_3_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Biblical_References_3_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Biblical_References_3_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Biblical_References_3_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

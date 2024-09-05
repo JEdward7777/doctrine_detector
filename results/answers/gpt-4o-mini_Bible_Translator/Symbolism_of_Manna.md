@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) answer to [Symbolism of Manna](../../questions/Symbolism_of_Manna.md)
+# Generated Answer from [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) for [Symbolism of Manna](../../questions/Symbolism_of_Manna.md)
 
 ## Question [Symbolism of Manna](../../questions/Symbolism_of_Manna.md)
 What does the term 'manna' symbolize regarding God's provision?
@@ -27,7 +27,11 @@ The term 'manna' is significant in the biblical narrative, particularly in the c
 In summary, manna symbolizes God's provision in multiple dimensions—physical, spiritual, and relational—affirming His faithfulness and encouraging believers to depend on Him for both their daily and eternal needs.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Symbolism_of_Manna_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Symbolism_of_Manna_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Symbolism_of_Manna_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Symbolism_of_Manna_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Symbolism_of_Manna_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

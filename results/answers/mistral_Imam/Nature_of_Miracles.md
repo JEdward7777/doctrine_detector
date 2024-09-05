@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Nature of Miracles](../../questions/Nature_of_Miracles.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Nature of Miracles](../../questions/Nature_of_Miracles.md)
 
 ## Question [Nature of Miracles](../../questions/Nature_of_Miracles.md)
 What do the miracles performed by Jesus reveal about His identity?
@@ -23,7 +23,11 @@ Therefore, in our perspective, the miracles performed by Jesus confirm his proph
 These beliefs are based on the teachings found in the Quran and authentic traditions (Hadith) of Prophet Muhammad (peace be upon him). Muslims around the world continue to revere Jesus as one of the most important prophets in our faith, seeking guidance and inspiration from his life and teachings.
 
 ## Average Grade
-20.0
+18.0
 
 ## Grades
  * [20.0](./Nature_of_Miracles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [20.0](./Nature_of_Miracles_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [10.0](./Nature_of_Miracles_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [20.0](./Nature_of_Miracles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [20.0](./Nature_of_Miracles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

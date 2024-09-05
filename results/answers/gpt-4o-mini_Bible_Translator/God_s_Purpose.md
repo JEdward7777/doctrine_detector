@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) answer to [God's Purpose](../../questions/God_s_Purpose.md)
+# Generated Answer from [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) for [God's Purpose](../../questions/God_s_Purpose.md)
 
 ## Question [God's Purpose](../../questions/God_s_Purpose.md)
 How can we discern what God has planned for us?
@@ -31,7 +31,11 @@ Discerning God's plan for our lives is a deeply spiritual journey that involves 
 Ultimately, discerning God's will is a journey that may unfold over time. It involves trust, patience, and a willingness to follow Him wherever He leads. As we seek to align our hearts with His, we grow in understanding and clarity.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./God_s_Purpose_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./God_s_Purpose_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./God_s_Purpose_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./God_s_Purpose_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./God_s_Purpose_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

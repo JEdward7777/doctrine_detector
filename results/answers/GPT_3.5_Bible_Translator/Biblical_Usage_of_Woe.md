@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Biblical Usage of Woe](../../questions/Biblical_Usage_of_Woe.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Biblical Usage of Woe](../../questions/Biblical_Usage_of_Woe.md)
 
 ## Question [Biblical Usage of Woe](../../questions/Biblical_Usage_of_Woe.md)
 Can you provide examples of where the term 'woe' is used in the Bible, and what do they reveal about God's judgment?
@@ -23,7 +23,11 @@ The term "woe" is used throughout the Bible to convey a sense of despair, distre
 Overall, the use of the term "woe" in the Bible underscores the seriousness of sin and the certainty of God's judgment upon those who persist in evil and rebellion. It serves as a solemn reminder of the consequences of turning away from God and failing to heed his warnings.
 
 ## Average Grade
-90.0
+92.0
 
 ## Grades
  * [90.0](./Biblical_Usage_of_Woe_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Biblical_Usage_of_Woe_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Biblical_Usage_of_Woe_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Biblical_Usage_of_Woe_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Biblical_Usage_of_Woe_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Translation of Trespass in Different Contexts](../../questions/Translation_of_Trespass_in_Different_Contexts.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Translation of Trespass in Different Contexts](../../questions/Translation_of_Trespass_in_Different_Contexts.md)
 
 ## Question [Translation of Trespass in Different Contexts](../../questions/Translation_of_Trespass_in_Different_Contexts.md)
 What are the implications of translating 'trespass' as 'sin' or 'breaking the rule' when discussing inter-personal violations within a church community?

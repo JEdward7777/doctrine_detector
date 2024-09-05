@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) answer to [Injustice in Society](../../questions/Injustice_in_Society.md)
+# Generated Answer from [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) for [Injustice in Society](../../questions/Injustice_in_Society.md)
 
 ## Question [Injustice in Society](../../questions/Injustice_in_Society.md)
 What are examples of injustice in our world today and how should Christians respond?
@@ -25,7 +25,11 @@ Addressing the need for Christian activism against injustice and promoting fairn
 In each of these situations, our response as Christians is rooted in love, justice, and compassion. We are called to be salt and light in the world (Matthew 5:13-16), making a difference wherever we are and working towards a more just and peaceful world.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Injustice_in_Society_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Injustice_in_Society_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Injustice_in_Society_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Injustice_in_Society_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Injustice_in_Society_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

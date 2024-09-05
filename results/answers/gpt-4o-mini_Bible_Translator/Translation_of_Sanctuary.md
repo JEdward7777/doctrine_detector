@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) answer to [Translation of Sanctuary](../../questions/Translation_of_Sanctuary.md)
+# Generated Answer from [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) for [Translation of Sanctuary](../../questions/Translation_of_Sanctuary.md)
 
 ## Question [Translation of Sanctuary](../../questions/Translation_of_Sanctuary.md)
 What care should be taken when translating the term 'sanctuary' in modern texts?
@@ -31,7 +31,11 @@ When translating the term "sanctuary" in modern texts, especially in a biblical 
 In summary, careful attention to context, cultural interpretations, theological significance, historical usage, scriptural consistency, linguistic nuances, and clarification of concepts is essential when translating the term "sanctuary" in modern texts.
 
 ## Average Grade
-95.0
+90.0
 
 ## Grades
  * [95.0](./Translation_of_Sanctuary_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Translation_of_Sanctuary_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Translation_of_Sanctuary_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Translation_of_Sanctuary_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Translation_of_Sanctuary_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

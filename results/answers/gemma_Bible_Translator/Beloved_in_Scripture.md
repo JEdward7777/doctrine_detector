@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Beloved in Scripture](../../questions/Beloved_in_Scripture.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Beloved in Scripture](../../questions/Beloved_in_Scripture.md)
 
 ## Question [Beloved in Scripture](../../questions/Beloved_in_Scripture.md)
 How is the term 'beloved' used in the New Testament letters to Christian churches?

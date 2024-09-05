@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral atheist](../../answering_models/mistral_atheist.md) answer to [Biblical References 7](../../questions/Biblical_References_7.md)
+# Generated Answer from [mistral atheist](../../answering_models/mistral_atheist.md) for [Biblical References 7](../../questions/Biblical_References_7.md)
 
 ## Question [Biblical References 7](../../questions/Biblical_References_7.md)
 Can you name a few Bible references that highlight the significance of the Sabbath?
@@ -35,7 +35,11 @@ Identifying scriptural backing for the Sabbath observance and its relevance in C
    "O ye who believe! Observe the fasting of the month of Ramadhan; and pay the alms on your wealth set apart for it, in due proportion. Yet do this by measuring out honestly and weighing with a balance; that haply ye may receive mercy. And the Sabbath was only observed amongst the Children of Israel: We have appointed Friday instead thereof; a day during which ye are to remember [the Blessings of] God, for the first of it is the holiest: Therefore call the congregation to prayer on (Friday) afternoon; and when the Prayer is finished, so disperse in the land, seeking Allah's bounty, and celebrate the Praises of God, verily I am well acquainted with that which ye do."
 
 ## Average Grade
-95.0
+89.0
 
 ## Grades
  * [95.0](./Biblical_References_7_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Biblical_References_7_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Biblical_References_7_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Biblical_References_7_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Biblical_References_7_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

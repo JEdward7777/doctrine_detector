@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Definition of Angel](../../questions/Definition_of_Angel.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Definition of Angel](../../questions/Definition_of_Angel.md)
 
 ## Question [Definition of Angel](../../questions/Definition_of_Angel.md)
 What is the biblical definition of an angel and its primary role?

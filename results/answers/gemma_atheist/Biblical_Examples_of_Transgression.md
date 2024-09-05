@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma atheist](../../answering_models/gemma_atheist.md) answer to [Biblical Examples of Transgression](../../questions/Biblical_Examples_of_Transgression.md)
+# Generated Answer from [gemma atheist](../../answering_models/gemma_atheist.md) for [Biblical Examples of Transgression](../../questions/Biblical_Examples_of_Transgression.md)
 
 ## Question [Biblical Examples of Transgression](../../questions/Biblical_Examples_of_Transgression.md)
 Which Biblical references illustrate the concept of transgression?
@@ -50,7 +50,11 @@ It's important to consider these references within their cultural context. The c
 While I do not subscribe to the religious beliefs referenced above, analyzing these Biblical stories offers valuable insights into the human condition and the consequences of violating moral and ethical principles.
 
 ## Average Grade
-40.0
+45.0
 
 ## Grades
  * [40.0](./Biblical_Examples_of_Transgression_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [40.0](./Biblical_Examples_of_Transgression_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [30.0](./Biblical_Examples_of_Transgression_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [30.0](./Biblical_Examples_of_Transgression_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Biblical_Examples_of_Transgression_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

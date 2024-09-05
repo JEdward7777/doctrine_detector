@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Sanctuary Definition](../../questions/Sanctuary_Definition.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Sanctuary Definition](../../questions/Sanctuary_Definition.md)
 
 ## Question [Sanctuary Definition](../../questions/Sanctuary_Definition.md)
 What does the term 'sanctuary' refer to in the context of the Bible?
@@ -23,3 +23,7 @@ In modern Christian contexts, the term "sanctuary" may also refer to churches or
 
 ## Grades
  * [85.0](./Sanctuary_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Sanctuary_Definition_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Sanctuary_Definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Sanctuary_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Sanctuary_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

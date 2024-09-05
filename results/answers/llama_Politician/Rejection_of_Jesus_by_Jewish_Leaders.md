@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Rejection of Jesus by Jewish Leaders](../../questions/Rejection_of_Jesus_by_Jewish_Leaders.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Rejection of Jesus by Jewish Leaders](../../questions/Rejection_of_Jesus_by_Jewish_Leaders.md)
 
 ## Question [Rejection of Jesus by Jewish Leaders](../../questions/Rejection_of_Jesus_by_Jewish_Leaders.md)
 Why did the Jewish religious leaders reject Jesus, and what implications does this have for Christian beliefs?
@@ -27,7 +27,11 @@ In conclusion, the story of the Jewish religious leaders' rejection of Jesus is 
 Let's strive to create a climate where diverse perspectives can be explored and respected, even when we disagree. By doing so, we can build bridges of understanding that span the centuries and bring us closer together in our shared quest for truth, wisdom, and spiritual growth.
 
 ## Average Grade
-75.0
+73.0
 
 ## Grades
  * [75.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [75.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [65.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

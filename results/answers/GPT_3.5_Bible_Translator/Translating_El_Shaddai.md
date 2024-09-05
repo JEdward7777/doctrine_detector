@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Translating El Shaddai](../../questions/Translating_El_Shaddai.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Translating El Shaddai](../../questions/Translating_El_Shaddai.md)
 
 ## Question [Translating El Shaddai](../../questions/Translating_El_Shaddai.md)
 How should the phrase 'El Shaddai' be translated in different languages based on local Bible translations?
@@ -19,7 +19,11 @@ When translating "El Shaddai" into other languages, translators aim to convey th
 Ultimately, the translation of "El Shaddai" depends on the specific language and the theological understanding of the translators, but the goal is always to accurately convey the richness and depth of the original Hebrew term within the cultural context of the target language.
 
 ## Average Grade
-85.0
+80.0
 
 ## Grades
  * [85.0](./Translating_El_Shaddai_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Translating_El_Shaddai_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Translating_El_Shaddai_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Translating_El_Shaddai_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Translating_El_Shaddai_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

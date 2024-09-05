@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Understanding Condemnation](../../questions/Understanding_Condemnation.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Understanding Condemnation](../../questions/Understanding_Condemnation.md)
 
 ## Question [Understanding Condemnation](../../questions/Understanding_Condemnation.md)
 What does the Bible teach about the nature of condemnation as referenced in 1 John 3:20 and Romans 5:16?
@@ -25,7 +25,11 @@ In Romans 5:16, Paul's argument is often seen as a contrast between Adam's sin a
 Ultimately, our understanding of condemnation should not be limited by traditional theological frameworks. Instead, we can engage with these texts within their cultural context and consider how they might inform contemporary social and political issues. By doing so, we can foster a more inclusive and compassionate society that values the well-being of all individuals, regardless of their background or beliefs.
 
 ## Average Grade
-40.0
+38.0
 
 ## Grades
  * [40.0](./Understanding_Condemnation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [30.0](./Understanding_Condemnation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [30.0](./Understanding_Condemnation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [30.0](./Understanding_Condemnation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Understanding_Condemnation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma atheist](../../answering_models/gemma_atheist.md) answer to [Old vs. New Testament Atonement](../../questions/Old_vs._New_Testament_Atonement.md)
+# Generated Answer from [gemma atheist](../../answering_models/gemma_atheist.md) for [Old vs. New Testament Atonement](../../questions/Old_vs._New_Testament_Atonement.md)
 
 ## Question [Old vs. New Testament Atonement](../../questions/Old_vs._New_Testament_Atonement.md)
 How does the concept of atonement in the Old Testament differ from the New Testament understanding?
@@ -43,7 +43,11 @@ Clarifying the transition from temporary to permanent atonement in biblical hist
 * Recognizing the continuity and discontinuity between the two testaments allows for a richer understanding of God's redemptive plan throughout history.
 
 ## Average Grade
-95.0
+87.0
 
 ## Grades
  * [95.0](./Old_vs._New_Testament_Atonement_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Old_vs._New_Testament_Atonement_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Old_vs._New_Testament_Atonement_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Old_vs._New_Testament_Atonement_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [70.0](./Old_vs._New_Testament_Atonement_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

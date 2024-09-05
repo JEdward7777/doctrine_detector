@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Fulfilling Promises](../../questions/Fulfilling_Promises.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Fulfilling Promises](../../questions/Fulfilling_Promises.md)
 
 ## Question [Fulfilling Promises](../../questions/Fulfilling_Promises.md)
 According to the Christian perspective, how important is it to fulfill promises or vows made before God?
@@ -19,7 +19,11 @@ Allah says in the Quran, in Surah Al-Isra (17:34), "And fulfill every promise. I
 Therefore, in the Islamic perspective, it is a serious matter to make promises or vows before Allah and not fulfill them. Muslims are encouraged to fulfill their commitments and promises to the best of their ability, as it reflects their sincerity and devotion to Allah.
 
 ## Average Grade
-90.0
+92.0
 
 ## Grades
  * [90.0](./Fulfilling_Promises_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Fulfilling_Promises_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Fulfilling_Promises_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Fulfilling_Promises_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Fulfilling_Promises_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

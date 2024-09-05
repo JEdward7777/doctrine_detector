@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Scriptural Basis for Intercession](../../questions/Scriptural_Basis_for_Intercession.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Scriptural Basis for Intercession](../../questions/Scriptural_Basis_for_Intercession.md)
 
 ## Question [Scriptural Basis for Intercession](../../questions/Scriptural_Basis_for_Intercession.md)
 Which Bible verses provide insights into the practice of interceding for others?

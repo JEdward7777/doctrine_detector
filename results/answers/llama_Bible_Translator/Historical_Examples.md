@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Historical Examples](../../questions/Historical_Examples.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Historical Examples](../../questions/Historical_Examples.md)
 
 ## Question [Historical Examples](../../questions/Historical_Examples.md)
 Can you provide examples of individuals from the Bible who built altars and the significance of those acts?
@@ -37,7 +37,11 @@ Significance: Joshua's altars symbolize the people's dedication to following God
 In each of these examples, building an altar represents a significant moment of worship, obedience, and commitment to God. The act of building an altar serves as a reminder of one's dependence on God and His faithfulness in their lives.
 
 ## Average Grade
-90.0
+89.0
 
 ## Grades
  * [90.0](./Historical_Examples_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Historical_Examples_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Historical_Examples_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Historical_Examples_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Historical_Examples_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

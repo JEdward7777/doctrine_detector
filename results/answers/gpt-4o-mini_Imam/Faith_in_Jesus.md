@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Faith in Jesus](../../questions/Faith_in_Jesus.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Faith in Jesus](../../questions/Faith_in_Jesus.md)
 
 ## Question [Faith in Jesus](../../questions/Faith_in_Jesus.md)
 What does it mean to 'believe in Jesus' as described in the text?
@@ -21,7 +21,11 @@ Muslims also believe in the second coming of Jesus, where he will return before 
 In summary, believing in Jesus from an Islamic perspective means acknowledging his prophethood, recognizing his miracles, and affirming the significance of his message, all while maintaining the oneness of God (Tawhid) and rejecting any notion of divinity attributed to him.
 
 ## Average Grade
-50.0
+40.0
 
 ## Grades
  * [50.0](./Faith_in_Jesus_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [50.0](./Faith_in_Jesus_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [50.0](./Faith_in_Jesus_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [20.0](./Faith_in_Jesus_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [30.0](./Faith_in_Jesus_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

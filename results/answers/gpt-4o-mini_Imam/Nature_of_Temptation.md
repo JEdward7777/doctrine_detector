@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Nature of Temptation](../../questions/Nature_of_Temptation.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Nature of Temptation](../../questions/Nature_of_Temptation.md)
 
 ## Question [Nature of Temptation](../../questions/Nature_of_Temptation.md)
 According to the content, what roles do our sinful nature and external influences play in temptation?
@@ -29,7 +29,11 @@ In Islam, the concept of temptation is closely linked to human nature and the ex
 In summary, both sinful nature and external influences play significant roles in the experience of temptation. However, Islam teaches that with faith, self-awareness, and divine support, individuals can overcome these challenges and strive towards righteousness.
 
 ## Average Grade
-85.0
+86.0
 
 ## Grades
  * [85.0](./Nature_of_Temptation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Nature_of_Temptation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Nature_of_Temptation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Nature_of_Temptation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Nature_of_Temptation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

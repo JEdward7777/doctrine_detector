@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma atheist](../../answering_models/gemma_atheist.md) answer to [Fellowship Meaning](../../questions/Fellowship_Meaning.md)
+# Generated Answer from [gemma atheist](../../answering_models/gemma_atheist.md) for [Fellowship Meaning](../../questions/Fellowship_Meaning.md)
 
 ## Question [Fellowship Meaning](../../questions/Fellowship_Meaning.md)
 What does the term 'fellowship' mean in a Christian context?
@@ -22,7 +22,11 @@ Understanding the spiritual definition of fellowship is important for nurturing 
 **The concept of fellowship is deeply rooted in the New Testament,** where it is portrayed as an essential element of Christian life. Early Christian communities were characterized by their strong fellowship, which enabled them to overcome challenges and grow in faith.
 
 ## Average Grade
-90.0
+92.0
 
 ## Grades
  * [90.0](./Fellowship_Meaning_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Fellowship_Meaning_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Fellowship_Meaning_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Fellowship_Meaning_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Fellowship_Meaning_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

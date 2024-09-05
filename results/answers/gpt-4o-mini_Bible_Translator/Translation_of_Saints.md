@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) answer to [Translation of Saints](../../questions/Translation_of_Saints.md)
+# Generated Answer from [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) for [Translation of Saints](../../questions/Translation_of_Saints.md)
 
 ## Question [Translation of Saints](../../questions/Translation_of_Saints.md)
 What is a recommended way to translate the term 'saints'?
@@ -25,7 +25,11 @@ The term "saints" in the Christian context generally refers to individuals who a
 Ultimately, the best approach is to use a term that clearly communicates the intended meaning while respecting the cultural nuances of the audience. It's also advisable to provide footnotes or explanations in a study context to clarify the term's significance in Christian theology.
 
 ## Average Grade
-95.0
+90.0
 
 ## Grades
  * [95.0](./Translation_of_Saints_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Translation_of_Saints_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Translation_of_Saints_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Translation_of_Saints_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Translation_of_Saints_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

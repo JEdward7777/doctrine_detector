@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Spiritual Deceit](../../questions/Spiritual_Deceit.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Spiritual Deceit](../../questions/Spiritual_Deceit.md)
 
 ## Question [Spiritual Deceit](../../questions/Spiritual_Deceit.md)
 What role do demons play in the deception of idolatry according to the content provided?
@@ -23,7 +23,11 @@ In my opinion, it is crucial to recognize that idolatry can take many forms, inc
 Ultimately, as a politician who seeks to promote unity and understanding among people of all faiths and backgrounds, I believe that it is essential to approach discussions of idolatry with empathy, compassion, and respect for the diversity of human experience.
 
 ## Average Grade
-60.0
+65.0
 
 ## Grades
  * [60.0](./Spiritual_Deceit_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Spiritual_Deceit_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [65.0](./Spiritual_Deceit_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Spiritual_Deceit_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Spiritual_Deceit_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

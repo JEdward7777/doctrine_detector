@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Understanding New Birth](../../questions/Understanding_New_Birth.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Understanding New Birth](../../questions/Understanding_New_Birth.md)
 
 ## Question [Understanding New Birth](../../questions/Understanding_New_Birth.md)
 What does it mean to be 'born again' according to the Bible?

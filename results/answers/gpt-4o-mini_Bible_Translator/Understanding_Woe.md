@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) answer to [Understanding Woe](../../questions/Understanding_Woe.md)
+# Generated Answer from [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) for [Understanding Woe](../../questions/Understanding_Woe.md)
 
 ## Question [Understanding Woe](../../questions/Understanding_Woe.md)
 What does the term 'woe' signify in the context of biblical warnings and judgments?
@@ -19,7 +19,11 @@ For example, in the prophetic books of the Old Testament, prophets like Isaiah a
 In essence, "woe" functions as a call to repentance, urging individuals and communities to recognize their sinful state and return to God before it is too late. It encapsulates both the compassion of God, who warns His people, and the righteousness of God, who judges sin.
 
 ## Average Grade
-95.0
+91.0
 
 ## Grades
  * [95.0](./Understanding_Woe_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Understanding_Woe_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Understanding_Woe_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Understanding_Woe_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_Woe_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

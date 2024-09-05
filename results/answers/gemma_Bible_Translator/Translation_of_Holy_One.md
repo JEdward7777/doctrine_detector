@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Translation of Holy One](../../questions/Translation_of_Holy_One.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Translation of Holy One](../../questions/Translation_of_Holy_One.md)
 
 ## Question [Translation of Holy One](../../questions/Translation_of_Holy_One.md)
 How should the term 'Holy One' be translated in different languages?

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Comparison of Humans and Sheep](../../questions/Comparison_of_Humans_and_Sheep.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Comparison of Humans and Sheep](../../questions/Comparison_of_Humans_and_Sheep.md)
 
 ## Question [Comparison of Humans and Sheep](../../questions/Comparison_of_Humans_and_Sheep.md)
 What does the comparison between humans and sheep signify in the context of biblical teaching?
@@ -21,7 +21,11 @@ Lastly, the comparison between humans and sheep serves as a reminder of our vuln
 Overall, the comparison between humans and sheep in the Bible highlights the intimate relationship between God and His people, emphasizing the need for trust, dependency, and obedience in following His will.
 
 ## Average Grade
-95.0
+90.0
 
 ## Grades
  * [95.0](./Comparison_of_Humans_and_Sheep_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Comparison_of_Humans_and_Sheep_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Comparison_of_Humans_and_Sheep_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Comparison_of_Humans_and_Sheep_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Comparison_of_Humans_and_Sheep_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

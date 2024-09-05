@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Old Testament Ministry](../../questions/Old_Testament_Ministry.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Old Testament Ministry](../../questions/Old_Testament_Ministry.md)
 
 ## Question [Old Testament Ministry](../../questions/Old_Testament_Ministry.md)
 How did the priests in the Old Testament carry out their ministry in the temple?
@@ -25,7 +25,11 @@ In the Old Testament, priests played a crucial role in carrying out their minist
 Overall, the role of the priests in the Old Testament was central to the spiritual life of the Israelites. They served as religious leaders, mediators, and caretakers of the temple, ensuring that the worship of God was carried out in accordance with His divine will.
 
 ## Average Grade
-90.0
+85.0
 
 ## Grades
  * [90.0](./Old_Testament_Ministry_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Old_Testament_Ministry_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Old_Testament_Ministry_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Old_Testament_Ministry_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [70.0](./Old_Testament_Ministry_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

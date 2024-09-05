@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Understanding Divine Judgment](../../questions/Understanding_Divine_Judgment.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Understanding Divine Judgment](../../questions/Understanding_Divine_Judgment.md)
 
 ## Question [Understanding Divine Judgment](../../questions/Understanding_Divine_Judgment.md)
 What does the Bible say about God’s judgment and how does it differ from human judgment?
@@ -24,7 +24,11 @@ God's judgment differs from human judgment in several key ways:
 In summary, God's judgment is the ultimate standard of justice and righteousness, and it surpasses human judgment in every way. We can trust in God's perfect judgment to ultimately bring about justice in the world.
 
 ## Average Grade
-95.0
+93.4
 
 ## Grades
  * [95.0](./Understanding_Divine_Judgment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Understanding_Divine_Judgment_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Understanding_Divine_Judgment_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Understanding_Divine_Judgment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [92.0](./Understanding_Divine_Judgment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

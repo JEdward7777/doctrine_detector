@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma atheist](../../answering_models/gemma_atheist.md) answer to [Corruption of the World](../../questions/Corruption_of_the_World.md)
+# Generated Answer from [gemma atheist](../../answering_models/gemma_atheist.md) for [Corruption of the World](../../questions/Corruption_of_the_World.md)
 
 ## Question [Corruption of the World](../../questions/Corruption_of_the_World.md)
 In what ways can Christians identify corrupt influences in the world around them?
@@ -68,7 +68,11 @@ Remaining vigilant against worldly influences that may lead away from godly livi
 **Remember:** Identifying and addressing corruption is an ongoing journey. Christians can contribute to a more just and equitable society by reflecting critically on their faith and engaging in ethical action.
 
 ## Average Grade
-90.0
+89.0
 
 ## Grades
  * [90.0](./Corruption_of_the_World_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Corruption_of_the_World_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Corruption_of_the_World_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Corruption_of_the_World_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Corruption_of_the_World_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

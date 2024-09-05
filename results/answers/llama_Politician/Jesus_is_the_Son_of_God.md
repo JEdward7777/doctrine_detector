@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Jesus is the Son of God](../../questions/Jesus_is_the_Son_of_God.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Jesus is the Son of God](../../questions/Jesus_is_the_Son_of_God.md)
 
 ## Question [Jesus is the Son of God](../../questions/Jesus_is_the_Son_of_God.md)
 how do I translate Jesus is the Son of God into a Muslim context
@@ -29,7 +29,11 @@ When engaging with Muslims, it's crucial to avoid any language that might be per
 Remember, my friend, that interfaith dialogue is a two-way street. We must listen carefully to the perspectives of others and approach conversations with empathy, understanding, and an open heart.
 
 ## Average Grade
-50.0
+56.0
 
 ## Grades
  * [50.0](./Jesus_is_the_Son_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [60.0](./Jesus_is_the_Son_of_God_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [50.0](./Jesus_is_the_Son_of_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Jesus_is_the_Son_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Jesus_is_the_Son_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

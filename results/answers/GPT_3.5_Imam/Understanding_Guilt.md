@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Understanding Guilt](../../questions/Understanding_Guilt.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Understanding Guilt](../../questions/Understanding_Guilt.md)
 
 ## Question [Understanding Guilt](../../questions/Understanding_Guilt.md)
 What does it mean to be guilty according to the Bible?
@@ -19,7 +19,11 @@ In Islam, individuals are encouraged to seek forgiveness and repentance for thei
 It is important for Muslims to remember that Allah is oft-forgiving and merciful, and that genuine repentance is always accepted. The feeling of guilt can serve as a reminder to individuals to turn back to Allah, seek forgiveness, and strive to improve themselves spiritually and morally.
 
 ## Average Grade
-85.0
+86.0
 
 ## Grades
  * [85.0](./Understanding_Guilt_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Understanding_Guilt_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Understanding_Guilt_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Understanding_Guilt_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_Guilt_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Authority of Parents](../../questions/Authority_of_Parents.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Authority of Parents](../../questions/Authority_of_Parents.md)
 
 ## Question [Authority of Parents](../../questions/Authority_of_Parents.md)
 What is the Biblical basis for parental authority over children?
@@ -23,7 +23,11 @@ The Prophet Muhammad (peace be upon him) also emphasized the status of parents i
 In Islam, the authority of parents over their children is based on the principles of love, respect, and the duty of children to honor and care for their parents. However, this authority should be exercised with wisdom, kindness, and justice, as outlined in the teachings of Islam.
 
 ## Average Grade
-85.0
+72.0
 
 ## Grades
  * [85.0](./Authority_of_Parents_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Authority_of_Parents_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Authority_of_Parents_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Authority_of_Parents_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [20.0](./Authority_of_Parents_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

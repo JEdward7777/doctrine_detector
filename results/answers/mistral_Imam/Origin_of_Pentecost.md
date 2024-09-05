@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Origin of Pentecost](../../questions/Origin_of_Pentecost.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Origin of Pentecost](../../questions/Origin_of_Pentecost.md)
 
 ## Question [Origin of Pentecost](../../questions/Origin_of_Pentecost.md)
 What historical and religious significance did the Festival of Weeks (Pentecost) have before the events described in the New Testament?
@@ -19,7 +19,11 @@ The Festival of Weeks, also known as Pentecost, was one of the three Pilgrimage 
 In Christian tradition, the events described in the New Testament associated with Pentecost are the descent of the Holy Spirit upon the disciples of Jesus Christ (Acts 2:1-4) and the beginning of the Christian Church. This event is also referred to as the Feast of Weeks or Pentecost in Christianity. As Muslims, we respect these historical events but do not observe them as part of our religious practices.
 
 ## Average Grade
-90.0
+78.0
 
 ## Grades
  * [90.0](./Origin_of_Pentecost_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [75.0](./Origin_of_Pentecost_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Origin_of_Pentecost_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Origin_of_Pentecost_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Origin_of_Pentecost_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Division of Israel](../../questions/Division_of_Israel.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Division of Israel](../../questions/Division_of_Israel.md)
 
 ## Question [Division of Israel](../../questions/Division_of_Israel.md)
 What major event occurred in Israel's history after King Solomon's reign?

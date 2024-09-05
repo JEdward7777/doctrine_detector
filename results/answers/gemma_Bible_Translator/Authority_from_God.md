@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Authority from God](../../questions/Authority_from_God.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Authority from God](../../questions/Authority_from_God.md)
 
 ## Question [Authority from God](../../questions/Authority_from_God.md)
 What is meant by 'divine authority' and its significance in the life of a believer?

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Biblical References to Salvation](../../questions/Biblical_References_to_Salvation.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Biblical References to Salvation](../../questions/Biblical_References_to_Salvation.md)
 
 ## Question [Biblical References to Salvation](../../questions/Biblical_References_to_Salvation.md)
 What do the passages from 1 Timothy 4:10 and 2 Peter 2:20 reveal about the nature of Christ as Savior?

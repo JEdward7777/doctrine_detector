@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Translation of 'Yahweh'](../../questions/Translation_of__Yahweh_.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Translation of 'Yahweh'](../../questions/Translation_of__Yahweh_.md)
 
 ## Question [Translation of 'Yahweh'](../../questions/Translation_of__Yahweh_.md)
 Why do some churches prefer to use 'LORD' instead of 'Yahweh' in translations?

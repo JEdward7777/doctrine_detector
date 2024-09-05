@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) answer to [Hosts in Scripture](../../questions/Hosts_in_Scripture.md)
+# Generated Answer from [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) for [Hosts in Scripture](../../questions/Hosts_in_Scripture.md)
 
 ## Question [Hosts in Scripture](../../questions/Hosts_in_Scripture.md)
 In what context is the term 'hosts' used in scripture, and what does it encompass?
@@ -23,7 +23,11 @@ The term "hosts" in scripture is primarily used in reference to a multitude or a
 In summary, the term "hosts" in scripture encompasses both the angelic beings of the celestial realm and the armies of Israel or other nations, signifying God's supremacy in both spiritual and earthly matters.
 
 ## Average Grade
-90.0
+89.0
 
 ## Grades
  * [90.0](./Hosts_in_Scripture_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Hosts_in_Scripture_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Hosts_in_Scripture_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Hosts_in_Scripture_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Hosts_in_Scripture_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

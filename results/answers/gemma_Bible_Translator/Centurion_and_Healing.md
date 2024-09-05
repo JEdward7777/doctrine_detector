@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Centurion and Healing](../../questions/Centurion_and_Healing.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Centurion and Healing](../../questions/Centurion_and_Healing.md)
 
 ## Question [Centurion and Healing](../../questions/Centurion_and_Healing.md)
 What does the interaction between the centurion and Jesus reveal about faith and authority?

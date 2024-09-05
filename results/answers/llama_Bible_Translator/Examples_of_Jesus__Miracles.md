@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Examples of Jesus' Miracles](../../questions/Examples_of_Jesus__Miracles.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Examples of Jesus' Miracles](../../questions/Examples_of_Jesus__Miracles.md)
 
 ## Question [Examples of Jesus' Miracles](../../questions/Examples_of_Jesus__Miracles.md)
 Can you list some specific miracles performed by Jesus and their significance?
@@ -26,7 +26,11 @@ What a wonderful question! As a Christian Bible translator, I'm delighted to sha
 These miracles, among others in the Gospels, testify to Jesus' divinity, his power over creation, and his role as the Savior of humanity. They demonstrate his compassion, authority, and love for people, ultimately pointing to his greatest miracle: the salvation of humanity through his death, burial, and resurrection.
 
 ## Average Grade
-95.0
+94.4
 
 ## Grades
  * [95.0](./Examples_of_Jesus__Miracles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Examples_of_Jesus__Miracles_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Examples_of_Jesus__Miracles_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Examples_of_Jesus__Miracles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [92.0](./Examples_of_Jesus__Miracles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

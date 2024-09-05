@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Scriptural References 3](../../questions/Scriptural_References_3.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Scriptural References 3](../../questions/Scriptural_References_3.md)
 
 ## Question [Scriptural References 3](../../questions/Scriptural_References_3.md)
 What do passages like Matthew 23:27-28 teach us about the nature of iniquity?
@@ -21,7 +21,11 @@ It is important for Muslims to reflect on their actions, seek forgiveness for th
 In summary, iniquity in Islam is seen as a serious offense that should be avoided through seeking forgiveness, repentance, and striving to lead a life in accordance with the teachings of Islam.
 
 ## Average Grade
-60.0
+68.0
 
 ## Grades
  * [60.0](./Scriptural_References_3_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Scriptural_References_3_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Scriptural_References_3_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Scriptural_References_3_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Scriptural_References_3_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) answer to [Biblical Examples of Lamentation](../../questions/Biblical_Examples_of_Lamentation.md)
+# Generated Answer from [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) for [Biblical Examples of Lamentation](../../questions/Biblical_Examples_of_Lamentation.md)
 
 ## Question [Biblical Examples of Lamentation](../../questions/Biblical_Examples_of_Lamentation.md)
 Can you identify Biblical figures who expressed lament, and what can we learn from their examples?
@@ -23,7 +23,11 @@ Certainly, in the Bible, there are many figures who expressed lament, or deep so
 From these examples, we can learn that it is okay to express our feelings of sadness and despair, and that it is important to turn to God for comfort and strength during difficult times. Additionally, we can gain insights into the power of resilience, faith, and empathy in the face of adversity.
 
 ## Average Grade
-95.0
+89.6
 
 ## Grades
  * [95.0](./Biblical_Examples_of_Lamentation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Biblical_Examples_of_Lamentation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [93.0](./Biblical_Examples_of_Lamentation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Biblical_Examples_of_Lamentation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Biblical_Examples_of_Lamentation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

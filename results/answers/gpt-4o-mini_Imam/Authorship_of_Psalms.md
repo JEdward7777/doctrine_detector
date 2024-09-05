@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Authorship of Psalms](../../questions/Authorship_of_Psalms.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Authorship of Psalms](../../questions/Authorship_of_Psalms.md)
 
 ## Question [Authorship of Psalms](../../questions/Authorship_of_Psalms.md)
 Who were some of the key figures involved in writing the Psalms?
@@ -29,7 +29,11 @@ In the context of the Psalms, which are primarily associated with the Hebrew Bib
 The Psalms are a significant part of the Jewish and Christian traditions, and they hold a place of reverence in these faiths. In Islam, although the Psalms are acknowledged with respect, the Qur'an mentions the Zabur (often understood to refer to the Psalms) given to Prophet Dawud (David), emphasizing his role as a servant of Allah and a prophet.
 
 ## Average Grade
-90.0
+84.0
 
 ## Grades
  * [90.0](./Authorship_of_Psalms_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Authorship_of_Psalms_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Authorship_of_Psalms_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Authorship_of_Psalms_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Authorship_of_Psalms_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

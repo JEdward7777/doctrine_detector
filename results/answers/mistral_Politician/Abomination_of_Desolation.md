@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Politician](../../answering_models/mistral_Politician.md) answer to [Abomination of Desolation](../../questions/Abomination_of_Desolation.md)
+# Generated Answer from [mistral Politician](../../answering_models/mistral_Politician.md) for [Abomination of Desolation](../../questions/Abomination_of_Desolation.md)
 
 ## Question [Abomination of Desolation](../../questions/Abomination_of_Desolation.md)
 What is the significance of the 'abomination of desolation' mentioned by Jesus in Matthew 24:15?
@@ -21,7 +21,11 @@ In this context, the "abomination of desolation" symbolizes a profound violation
 In modern times, the phrase is often used metaphorically to describe any event or action that causes deep offense or shock within a community, particularly when it involves the desecration or betrayal of religious or cultural values. However, its original meaning and significance remain rooted in the historical context of the Jewish revolt against the Seleucid Empire.
 
 ## Average Grade
-93.0
+86.6
 
 ## Grades
  * [93.0](./Abomination_of_Desolation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Abomination_of_Desolation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Abomination_of_Desolation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [75.0](./Abomination_of_Desolation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Abomination_of_Desolation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

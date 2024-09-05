@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Unfaithfulness in Worship](../../questions/Unfaithfulness_in_Worship.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Unfaithfulness in Worship](../../questions/Unfaithfulness_in_Worship.md)
 
 ## Question [Unfaithfulness in Worship](../../questions/Unfaithfulness_in_Worship.md)
 How did the people of Israel demonstrate unfaithfulness in their worship?
@@ -31,7 +31,11 @@ Now, I know some might say that my perspective is too reductionist or even cynic
 So, what do you think? How do you see these examples of unfaithfulness in Israelite worship?
 
 ## Average Grade
-20.0
+63.0
 
 ## Grades
  * [20.0](./Unfaithfulness_in_Worship_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Unfaithfulness_in_Worship_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Unfaithfulness_in_Worship_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Unfaithfulness_in_Worship_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Unfaithfulness_in_Worship_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

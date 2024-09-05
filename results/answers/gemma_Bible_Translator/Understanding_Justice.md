@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Understanding Justice](../../questions/Understanding_Justice.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Understanding Justice](../../questions/Understanding_Justice.md)
 
 ## Question [Understanding Justice](../../questions/Understanding_Justice.md)
 What does it mean to act justly according to God's laws?

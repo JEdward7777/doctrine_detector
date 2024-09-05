@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Israel's Identity](../../questions/Israel_s_Identity.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Israel's Identity](../../questions/Israel_s_Identity.md)
 
 ## Question [Israel's Identity](../../questions/Israel_s_Identity.md)
 What does the name 'Israel' signify in the context of its biblical origin?
@@ -19,7 +19,11 @@ The name 'Israel' is also associated with the descendants of Jacob, who are refe
 Overall, the name 'Israel' in a biblical context symbolizes struggle, faith, and the special relationship between God and His chosen people.
 
 ## Average Grade
-95.0
+90.0
 
 ## Grades
  * [95.0](./Israel_s_Identity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Israel_s_Identity_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Israel_s_Identity_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Israel_s_Identity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Israel_s_Identity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

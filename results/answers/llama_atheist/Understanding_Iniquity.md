@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Understanding Iniquity](../../questions/Understanding_Iniquity.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Understanding Iniquity](../../questions/Understanding_Iniquity.md)
 
 ## Question [Understanding Iniquity](../../questions/Understanding_Iniquity.md)
 What is the biblical distinction between iniquity, sin, and transgression?
@@ -29,7 +29,11 @@ In terms of relationships between these terms:
 It's essential to note that these distinctions are not rigidly defined and can vary depending on the context and authorial intent. Nevertheless, understanding these nuances can provide valuable insight into the complexities of Hebrew thought and the nature of human wrongdoing in biblical perspective.
 
 ## Average Grade
-85.0
+90.4
 
 ## Grades
  * [85.0](./Understanding_Iniquity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Understanding_Iniquity_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Understanding_Iniquity_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Understanding_Iniquity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [92.0](./Understanding_Iniquity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

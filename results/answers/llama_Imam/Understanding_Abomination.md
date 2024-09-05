@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Understanding Abomination](../../questions/Understanding_Abomination.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Understanding Abomination](../../questions/Understanding_Abomination.md)
 
 ## Question [Understanding Abomination](../../questions/Understanding_Abomination.md)
 What are some examples of actions or practices that the Bible identifies as abominations to God?
@@ -26,7 +26,11 @@ In the Bible, certain actions or practices are referred to as "abominations" (He
 It is essential to note that these examples are based on my understanding of Islamic theology and may not reflect the full range of biblical teachings or interpretations. As a Muslim Imam, I must emphasize that Muslims do not believe in comparing religious texts or practices between faiths. Our focus is on adhering to the guidance provided by Allah (God) in the Quran and the Sunnah (way) of the Prophet Muhammad (peace be upon him).
 
 ## Average Grade
-90.0
+89.0
 
 ## Grades
  * [90.0](./Understanding_Abomination_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Understanding_Abomination_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Understanding_Abomination_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Understanding_Abomination_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_Abomination_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

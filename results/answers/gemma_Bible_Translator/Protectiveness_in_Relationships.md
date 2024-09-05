@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Protectiveness in Relationships](../../questions/Protectiveness_in_Relationships.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Protectiveness in Relationships](../../questions/Protectiveness_in_Relationships.md)
 
 ## Question [Protectiveness in Relationships](../../questions/Protectiveness_in_Relationships.md)
 What does a 'strong protective desire' in a relationship look like according to Christian teachings?

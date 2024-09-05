@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Anointing and the Holy Spirit](../../questions/Anointing_and_the_Holy_Spirit.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Anointing and the Holy Spirit](../../questions/Anointing_and_the_Holy_Spirit.md)
 
 ## Question [Anointing and the Holy Spirit](../../questions/Anointing_and_the_Holy_Spirit.md)
 What does it mean to receive the Holy Spirit as described in the context of anointing?
@@ -21,7 +21,11 @@ Receiving the Holy Spirit through anointing is also linked to the idea of being 
 Overall, receiving the Holy Spirit in the context of anointing is a spiritual experience that equips believers for service, deepens their relationship with God, and empowers them to fulfill their calling in Christ.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Anointing_and_the_Holy_Spirit_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Anointing_and_the_Holy_Spirit_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Anointing_and_the_Holy_Spirit_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Anointing_and_the_Holy_Spirit_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Anointing_and_the_Holy_Spirit_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) answer to [Ministry Definition](../../questions/Ministry_Definition.md)
+# Generated Answer from [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) for [Ministry Definition](../../questions/Ministry_Definition.md)
 
 ## Question [Ministry Definition](../../questions/Ministry_Definition.md)
 What does it mean to 'minister' to others according to the Bible?
@@ -27,7 +27,11 @@ There are several ways to minister according to the Bible:
 Ultimately, ministering is about loving and serving others as Jesus did, following His example and demonstrating the love of God to a world in need (Matthew 28:19-20, John 13:34-35).
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Ministry_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Ministry_Definition_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Ministry_Definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Ministry_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Ministry_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) answer to [Eunuchs in the Bible](../../questions/Eunuchs_in_the_Bible.md)
+# Generated Answer from [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) for [Eunuchs in the Bible](../../questions/Eunuchs_in_the_Bible.md)
 
 ## Question [Eunuchs in the Bible](../../questions/Eunuchs_in_the_Bible.md)
 What did Jesus mean when He referred to eunuchs in Matthew 19:12, and how does this relate to the concept of celibacy?
@@ -21,7 +21,11 @@ It's important to note that celibacy is a personal choice and not a requirement 
 In discussing such matters, it is crucial to demonstrate sensitivity and respect towards individuals who may have chosen celibacy or those who may identify with the concept of eunuchs in any form. Each person's beliefs and choices should be acknowledged and valued without judgment.
 
 ## Average Grade
-80.0
+85.0
 
 ## Grades
  * [80.0](./Eunuchs_in_the_Bible_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Eunuchs_in_the_Bible_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Eunuchs_in_the_Bible_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Eunuchs_in_the_Bible_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Eunuchs_in_the_Bible_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

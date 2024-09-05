@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) answer to [Prophetic Usage](../../questions/Prophetic_Usage.md)
+# Generated Answer from [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) for [Prophetic Usage](../../questions/Prophetic_Usage.md)
 
 ## Question [Prophetic Usage](../../questions/Prophetic_Usage.md)
 How is the term 'Daughter of Zion' utilized in Biblical prophecies?
@@ -25,3 +25,7 @@ In these passages, we see God's deep affection for His people and His desire for
 
 ## Grades
  * [90.0](./Prophetic_Usage_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Prophetic_Usage_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Prophetic_Usage_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Prophetic_Usage_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Prophetic_Usage_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

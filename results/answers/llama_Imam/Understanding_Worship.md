@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Understanding Worship](../../questions/Understanding_Worship.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Understanding Worship](../../questions/Understanding_Worship.md)
 
 ## Question [Understanding Worship](../../questions/Understanding_Worship.md)
 What does it mean to 'worship'?
@@ -29,7 +29,11 @@ In essence, worship in Islam is not just about performing specific acts; it's al
 As the Prophet Muhammad (peace be upon him) said, "Worship is to worship Allah with the best that you can, and He will reward you according to your good deeds."
 
 ## Average Grade
-80.0
+74.0
 
 ## Grades
  * [80.0](./Understanding_Worship_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Understanding_Worship_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [75.0](./Understanding_Worship_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [75.0](./Understanding_Worship_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Understanding_Worship_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

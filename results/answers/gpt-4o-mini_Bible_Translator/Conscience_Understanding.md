@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) answer to [Conscience Understanding](../../questions/Conscience_Understanding.md)
+# Generated Answer from [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) for [Conscience Understanding](../../questions/Conscience_Understanding.md)
 
 ## Question [Conscience Understanding](../../questions/Conscience_Understanding.md)
 What is the biblical definition of conscience, and how does it function according to Christian beliefs?
@@ -31,7 +31,11 @@ In the Bible, conscience can be understood as an internal moral compass that hel
 In summary, the biblical definition of conscience recognizes it as a divinely implanted sense of right and wrong, and according to Christian belief, it plays a crucial role in moral discernment and the cultivation of a godly life.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Conscience_Understanding_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Conscience_Understanding_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Conscience_Understanding_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Conscience_Understanding_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Conscience_Understanding_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

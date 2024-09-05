@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Ephod idolatry](../../questions/Ephod_idolatry.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Ephod idolatry](../../questions/Ephod_idolatry.md)
 
 ## Question [Ephod idolatry](../../questions/Ephod_idolatry.md)
 What lesson can be learned from Gideon's creation of a gold ephod and the subsequent idolatry of the Israelites?
@@ -45,7 +45,11 @@ This teaches the importance of focusing on God, rather than being distracted by 
 Gideon's idolatry serves as a cautionary tale about the dangers of compromise and the importance of maintaining spiritual purity in our faith. By learning from this lesson, Christians can avoid the pitfalls of idolatry and worship the true God with hearts filled with love and reverence.
 
 ## Average Grade
-90.0
+91.8
 
 ## Grades
  * [90.0](./Ephod_idolatry_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Ephod_idolatry_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Ephod_idolatry_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [92.0](./Ephod_idolatry_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [92.0](./Ephod_idolatry_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma atheist](../../answering_models/gemma_atheist.md) answer to [The New Covenant](../../questions/The_New_Covenant.md)
+# Generated Answer from [gemma atheist](../../answering_models/gemma_atheist.md) for [The New Covenant](../../questions/The_New_Covenant.md)
 
 ## Question [The New Covenant](../../questions/The_New_Covenant.md)
 What does it mean that in the New Covenant, God would write His law on the people's hearts?
@@ -38,7 +38,11 @@ This passage emphasizes that in the New Covenant, God's law is no longer merely 
 The statement "God would write His law on the people's hearts" is a powerful metaphor that highlights the transformative power of the Holy Spirit in the New Covenant. It emphasizes the internal transformation of believers, where God's law becomes a part of their hearts and guides their lives.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./The_New_Covenant_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./The_New_Covenant_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./The_New_Covenant_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./The_New_Covenant_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./The_New_Covenant_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

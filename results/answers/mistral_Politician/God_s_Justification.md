@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Politician](../../answering_models/mistral_Politician.md) answer to [God's Justification](../../questions/God_s_Justification.md)
+# Generated Answer from [mistral Politician](../../answering_models/mistral_Politician.md) for [God's Justification](../../questions/God_s_Justification.md)
 
 ## Question [God's Justification](../../questions/God_s_Justification.md)
 How does God justify sinners and what does justification entail?
@@ -19,7 +19,11 @@ In Christianity, Justification is the act of being declared righteous by God thr
 When it comes to addressing sinners, Christianity believes in the concept of redemption, which is the idea that sinners can be forgiven and restored through faith in Jesus Christ. This forgiveness is not based on personal efforts or worthiness but solely on God's mercy and love.
 
 ## Average Grade
-95.0
+90.0
 
 ## Grades
  * [95.0](./God_s_Justification_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./God_s_Justification_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./God_s_Justification_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./God_s_Justification_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./God_s_Justification_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

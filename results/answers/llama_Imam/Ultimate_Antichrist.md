@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Ultimate Antichrist](../../questions/Ultimate_Antichrist.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Ultimate Antichrist](../../questions/Ultimate_Antichrist.md)
 
 ## Question [Ultimate Antichrist](../../questions/Ultimate_Antichrist.md)
 Who is often identified as the ultimate antichrist in the book of Revelation?
@@ -27,7 +27,11 @@ It's essential for us to remember that our understanding of apocalyptic texts li
 Was that helpful, my brother/sister in faith?
 
 ## Average Grade
-70.0
+66.0
 
 ## Grades
  * [70.0](./Ultimate_Antichrist_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Ultimate_Antichrist_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Ultimate_Antichrist_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Ultimate_Antichrist_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Ultimate_Antichrist_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

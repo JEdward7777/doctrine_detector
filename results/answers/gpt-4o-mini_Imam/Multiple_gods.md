@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Multiple gods](../../questions/Multiple_gods.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Multiple gods](../../questions/Multiple_gods.md)
 
 ## Question [Multiple gods](../../questions/Multiple_gods.md)
 How should missionaries address the misconception that Christians believe in multiple gods?
@@ -35,3 +35,7 @@ By addressing these misconceptions with clarity, empathy, and a focus on shared 
 
 ## Grades
  * [90.0](./Multiple_gods_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Multiple_gods_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Multiple_gods_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Multiple_gods_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Multiple_gods_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) answer to [Transgression and Sin](../../questions/Transgression_and_Sin.md)
+# Generated Answer from [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) for [Transgression and Sin](../../questions/Transgression_and_Sin.md)
 
 ## Question [Transgression and Sin](../../questions/Transgression_and_Sin.md)
 How can transgression be related to the concepts of sin and disobedience?
@@ -27,3 +27,7 @@ In summary, transgression, sin, and disobedience are interconnected in that they
 
 ## Grades
  * [85.0](./Transgression_and_Sin_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Transgression_and_Sin_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Transgression_and_Sin_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Transgression_and_Sin_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Transgression_and_Sin_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

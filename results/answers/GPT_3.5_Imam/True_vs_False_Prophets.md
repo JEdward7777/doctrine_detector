@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [True vs False Prophets](../../questions/True_vs_False_Prophets.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [True vs False Prophets](../../questions/True_vs_False_Prophets.md)
 
 ## Question [True vs False Prophets](../../questions/True_vs_False_Prophets.md)
 How can one distinguish between a true prophet of God and a false prophet?
@@ -29,7 +29,11 @@ In Islam, there are certain criteria that can help us distinguish between a true
 Ultimately, it is essential to turn to Allah for guidance and to pray for clarity and discernment in recognizing the truth. May Allah protect us from false prophets and guide us on the straight path.
 
 ## Average Grade
-90.0
+88.0
 
 ## Grades
  * [90.0](./True_vs_False_Prophets_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./True_vs_False_Prophets_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./True_vs_False_Prophets_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./True_vs_False_Prophets_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./True_vs_False_Prophets_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Spiritual Gifts](../../questions/Spiritual_Gifts.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Spiritual Gifts](../../questions/Spiritual_Gifts.md)
 
 ## Question [Spiritual Gifts](../../questions/Spiritual_Gifts.md)
 What are the implications of the phrase 'spiritual gifts' as described in the Bible?
@@ -23,7 +23,11 @@ However, it is important to note that Muslims do not attribute these abilities t
 Ultimately, the Islamic perspective on this matter emphasizes that all abilities and talents come from Allah, and individuals should strive to use their talents for the benefit of their communities and in accordance with Islamic values and principles.
 
 ## Average Grade
-60.0
+46.0
 
 ## Grades
  * [60.0](./Spiritual_Gifts_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [40.0](./Spiritual_Gifts_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [20.0](./Spiritual_Gifts_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [50.0](./Spiritual_Gifts_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Spiritual_Gifts_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

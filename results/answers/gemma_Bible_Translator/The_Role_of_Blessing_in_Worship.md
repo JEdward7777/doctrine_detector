@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [The Role of Blessing in Worship](../../questions/The_Role_of_Blessing_in_Worship.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [The Role of Blessing in Worship](../../questions/The_Role_of_Blessing_in_Worship.md)
 
 ## Question [The Role of Blessing in Worship](../../questions/The_Role_of_Blessing_in_Worship.md)
 How is the act of blessing related to praising God?

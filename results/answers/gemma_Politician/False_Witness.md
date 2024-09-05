@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Politician](../../answering_models/gemma_Politician.md) answer to [False Witness](../../questions/False_Witness.md)
+# Generated Answer from [gemma Politician](../../answering_models/gemma_Politician.md) for [False Witness](../../questions/False_Witness.md)
 
 ## Question [False Witness](../../questions/False_Witness.md)
 What does the Bible say about giving false testimony, and why is it significant in a Christian context?
@@ -36,7 +36,11 @@ Giving false testimony goes against the fundamental principles of Christianity, 
 Therefore, for a Christian politician to give false testimony would be a violation of their conscience and undermine their ability to represent their values and beliefs honestly.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./False_Witness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./False_Witness_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./False_Witness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./False_Witness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./False_Witness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

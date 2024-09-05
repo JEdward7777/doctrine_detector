@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Covenant Definition](../../questions/Covenant_Definition.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Covenant Definition](../../questions/Covenant_Definition.md)
 
 ## Question [Covenant Definition](../../questions/Covenant_Definition.md)
 What is the Biblical definition of a covenant?

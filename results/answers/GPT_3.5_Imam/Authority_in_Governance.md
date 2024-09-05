@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Authority in Governance](../../questions/Authority_in_Governance.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Authority in Governance](../../questions/Authority_in_Governance.md)
 
 ## Question [Authority in Governance](../../questions/Authority_in_Governance.md)
 What does the Bible say about the authority of governing rulers over their citizens?
@@ -25,7 +25,11 @@ In Islam, there is a strong emphasis on justice, accountability, and good govern
 Ultimately, both Christianity and Islam uphold the principles of justice, compassion, and accountability in governance, and believers are encouraged to strive for a just society in which the rights and dignity of all individuals are respected.
 
 ## Average Grade
-50.0
+62.0
 
 ## Grades
  * [50.0](./Authority_in_Governance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Authority_in_Governance_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Authority_in_Governance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [50.0](./Authority_in_Governance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Authority_in_Governance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

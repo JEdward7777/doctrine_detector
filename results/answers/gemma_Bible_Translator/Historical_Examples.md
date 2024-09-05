@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Historical Examples](../../questions/Historical_Examples.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Historical Examples](../../questions/Historical_Examples.md)
 
 ## Question [Historical Examples](../../questions/Historical_Examples.md)
 Can you provide examples of individuals from the Bible who built altars and the significance of those acts?

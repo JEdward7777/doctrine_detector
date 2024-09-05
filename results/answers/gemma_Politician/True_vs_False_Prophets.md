@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Politician](../../answering_models/gemma_Politician.md) answer to [True vs False Prophets](../../questions/True_vs_False_Prophets.md)
+# Generated Answer from [gemma Politician](../../answering_models/gemma_Politician.md) for [True vs False Prophets](../../questions/True_vs_False_Prophets.md)
 
 ## Question [True vs False Prophets](../../questions/True_vs_False_Prophets.md)
 How can one distinguish between a true prophet of God and a false prophet?
@@ -49,7 +49,11 @@ Being able to discern true prophetic voices from those that mislead or misrepres
 * Maintain a healthy skepticism and seek verifiable evidence to support claims.
 
 ## Average Grade
-85.0
+86.0
 
 ## Grades
  * [85.0](./True_vs_False_Prophets_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./True_vs_False_Prophets_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./True_vs_False_Prophets_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./True_vs_False_Prophets_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./True_vs_False_Prophets_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

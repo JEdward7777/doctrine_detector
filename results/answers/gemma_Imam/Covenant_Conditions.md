@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Covenant Conditions](../../questions/Covenant_Conditions.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Covenant Conditions](../../questions/Covenant_Conditions.md)
 
 ## Question [Covenant Conditions](../../questions/Covenant_Conditions.md)
 What are some examples of conditional and unconditional covenants in the Bible?
@@ -34,7 +34,11 @@ Understanding the dynamics of God's promises and expectations in covenants.
 The concept of covenants is central to both Islamic and biblical theology. Muslims believe in the fulfillment of both conditional and unconditional covenants made by Allah. They also emphasize the importance of fulfilling Allah's conditions in order to receive his blessings.
 
 ## Average Grade
-80.0
+79.0
 
 ## Grades
  * [80.0](./Covenant_Conditions_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Covenant_Conditions_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Covenant_Conditions_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Covenant_Conditions_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Covenant_Conditions_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

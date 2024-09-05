@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Eternal Nature of the Son](../../questions/Eternal_Nature_of_the_Son.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Eternal Nature of the Son](../../questions/Eternal_Nature_of_the_Son.md)
 
 ## Question [Eternal Nature of the Son](../../questions/Eternal_Nature_of_the_Son.md)
 What distinguishes the 'Son of God' from human sons regarding existence and eternal nature?
@@ -37,7 +37,11 @@ Emphasizing the preeminence and eternal existence of Jesus as the Son of God.
 **Therefore, the Son of God stands apart from human sons in his divine nature, eternal existence, and unique relationship with the Father.**
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Eternal_Nature_of_the_Son_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Eternal_Nature_of_the_Son_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Eternal_Nature_of_the_Son_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Eternal_Nature_of_the_Son_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Eternal_Nature_of_the_Son_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

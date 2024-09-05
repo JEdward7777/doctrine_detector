@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma atheist](../../answering_models/gemma_atheist.md) answer to [Judgment of Others](../../questions/Judgment_of_Others.md)
+# Generated Answer from [gemma atheist](../../answering_models/gemma_atheist.md) for [Judgment of Others](../../questions/Judgment_of_Others.md)
 
 ## Question [Judgment of Others](../../questions/Judgment_of_Others.md)
 What does Jesus teach us about pointing out the faults of others in relation to our own faults?
@@ -46,7 +46,11 @@ Criticizing others while ignoring our own faults can reflect hypocrisy and dimin
 - Open communication and willingness to reconcile are key elements in Jesus' model for dealing with conflict.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Judgment_of_Others_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Judgment_of_Others_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Judgment_of_Others_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Judgment_of_Others_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Judgment_of_Others_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

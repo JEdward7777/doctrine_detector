@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Understanding the Kingdom](../../questions/Understanding_the_Kingdom.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Understanding the Kingdom](../../questions/Understanding_the_Kingdom.md)
 
 ## Question [Understanding the Kingdom](../../questions/Understanding_the_Kingdom.md)
 What is the significance of the term 'kingdom of God' as used in the New Testament?
@@ -25,7 +25,11 @@ What I appreciate about this concept is its emphasis on inclusivity, compassion,
 In conclusion, the Kingdom of God is a rich and multifaceted concept that has captivated people for centuries. Its significance lies in its ability to inspire hope, challenge societal norms, and bring people together around shared values like love, mercy, and justice.
 
 ## Average Grade
-85.0
+83.0
 
 ## Grades
  * [85.0](./Understanding_the_Kingdom_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Understanding_the_Kingdom_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Understanding_the_Kingdom_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Understanding_the_Kingdom_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Understanding_the_Kingdom_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

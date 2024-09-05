@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Understanding Propitiation](../../questions/Understanding_Propitiation.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Understanding Propitiation](../../questions/Understanding_Propitiation.md)
 
 ## Question [Understanding Propitiation](../../questions/Understanding_Propitiation.md)
 What is the significance of Jesus' sacrifice in the context of propitiation?
@@ -27,7 +27,11 @@ However, in Islamic belief, the concept of propitiation through Jesus' sacrifice
 In conclusion, while the idea of sacrifice and propitiation is central to Christian beliefs about Jesus, in Islam, the focus remains on the oneness of God, individual accountability for sins, and the mercy and forgiveness of Allah without the need for intercessory sacrifice.
 
 ## Average Grade
-70.0
+62.0
 
 ## Grades
  * [70.0](./Understanding_Propitiation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Understanding_Propitiation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Understanding_Propitiation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [50.0](./Understanding_Propitiation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [40.0](./Understanding_Propitiation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

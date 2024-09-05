@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Understanding the Spirit](../../questions/Understanding_the_Spirit.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Understanding the Spirit](../../questions/Understanding_the_Spirit.md)
 
 ## Question [Understanding the Spirit](../../questions/Understanding_the_Spirit.md)
 How does the Bible differentiate between the human spirit and the concept of an evil spirit?

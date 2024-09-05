@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Abomination of Desolation](../../questions/Abomination_of_Desolation.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Abomination of Desolation](../../questions/Abomination_of_Desolation.md)
 
 ## Question [Abomination of Desolation](../../questions/Abomination_of_Desolation.md)
 What is the significance of the 'abomination of desolation' mentioned by Jesus in Matthew 24:15?
@@ -29,7 +29,11 @@ It's essential to note that Jesus' statement is not meant to be taken literally 
 In conclusion, the "abomination of desolation" in Matthew 24:15 should be understood within the context of Jewish apocalyptic literature and eschatological traditions. It may have referred to specific events leading up to the destruction of Jerusalem, such as the Roman siege or the desecration of the Temple, or it could represent a more general warning about the devastating consequences of war, violence, and chaos.
 
 ## Average Grade
-70.0
+69.0
 
 ## Grades
  * [70.0](./Abomination_of_Desolation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [75.0](./Abomination_of_Desolation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Abomination_of_Desolation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Abomination_of_Desolation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Abomination_of_Desolation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

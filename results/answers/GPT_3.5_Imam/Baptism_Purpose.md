@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Baptism Purpose](../../questions/Baptism_Purpose.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Baptism Purpose](../../questions/Baptism_Purpose.md)
 
 ## Question [Baptism Purpose](../../questions/Baptism_Purpose.md)
 What is the significance of baptism in the life of a Christian according to New Testament teachings?
@@ -19,7 +19,11 @@ Baptism is often associated with the forgiveness of sins and the cleansing of th
 Overall, baptism is a symbol of spiritual rebirth and a visible expression of one's faith in Jesus Christ. It is an outward sign of an inward transformation and a way for Christians to publicly declare their allegiance to Christ and their desire to live a life that is pleasing to God.
 
 ## Average Grade
-85.0
+86.0
 
 ## Grades
  * [85.0](./Baptism_Purpose_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Baptism_Purpose_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Baptism_Purpose_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Baptism_Purpose_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Baptism_Purpose_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

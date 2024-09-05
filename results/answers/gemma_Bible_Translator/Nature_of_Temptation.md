@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Nature of Temptation](../../questions/Nature_of_Temptation.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Nature of Temptation](../../questions/Nature_of_Temptation.md)
 
 ## Question [Nature of Temptation](../../questions/Nature_of_Temptation.md)
 According to the content, what roles do our sinful nature and external influences play in temptation?

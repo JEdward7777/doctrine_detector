@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Significance of the Tetrarch Title](../../questions/Significance_of_the_Tetrarch_Title.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Significance of the Tetrarch Title](../../questions/Significance_of_the_Tetrarch_Title.md)
 
 ## Question [Significance of the Tetrarch Title](../../questions/Significance_of_the_Tetrarch_Title.md)
 What does the title 'tetrarch' reveal about the governance structure during the time of Jesus?
@@ -25,7 +25,11 @@ Now, if I may be so bold, I'd like to propose a motion to establish a special ta
 Shall we proceed with this proposal?
 
 ## Average Grade
-80.0
+72.0
 
 ## Grades
  * [80.0](./Significance_of_the_Tetrarch_Title_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [60.0](./Significance_of_the_Tetrarch_Title_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Significance_of_the_Tetrarch_Title_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [65.0](./Significance_of_the_Tetrarch_Title_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Significance_of_the_Tetrarch_Title_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

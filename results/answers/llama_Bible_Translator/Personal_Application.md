@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Personal Application](../../questions/Personal_Application.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Personal Application](../../questions/Personal_Application.md)
 
 ## Question [Personal Application](../../questions/Personal_Application.md)
 What does it mean for a Christian to experience purification from sin?
@@ -29,3 +29,7 @@ In summary, purification from sin means that believers experience spiritual clea
 
 ## Grades
  * [90.0](./Personal_Application_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Personal_Application_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Personal_Application_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Personal_Application_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Personal_Application_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

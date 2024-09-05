@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Understanding Reconciliation](../../questions/Understanding_Reconciliation.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Understanding Reconciliation](../../questions/Understanding_Reconciliation.md)
 
 ## Question [Understanding Reconciliation](../../questions/Understanding_Reconciliation.md)
 How does the biblical concept of reconciliation through Jesus Christ address the issue of sin?
@@ -27,7 +27,11 @@ In Islam, we believe that Allah's mercy is available to all who sincerely seek f
 In conclusion, while we respect the biblical concept of reconciliation through Jesus Christ as a matter of theological discussion, it is essential for us Muslims to approach this topic with a critical eye, considering the Islamic understanding of sin, redemption, and the role of prophets in our faith.
 
 ## Average Grade
-80.0
+77.0
 
 ## Grades
  * [80.0](./Understanding_Reconciliation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Understanding_Reconciliation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Understanding_Reconciliation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Understanding_Reconciliation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_Reconciliation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

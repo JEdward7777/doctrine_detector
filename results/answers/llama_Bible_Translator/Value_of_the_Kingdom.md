@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Value of the Kingdom](../../questions/Value_of_the_Kingdom.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Value of the Kingdom](../../questions/Value_of_the_Kingdom.md)
 
 ## Question [Value of the Kingdom](../../questions/Value_of_the_Kingdom.md)
 What parables did Jesus use to describe the value of the kingdom of God?
@@ -25,7 +25,11 @@ Jesus used several parables to describe the value and nature of the Kingdom of G
 These parables, along with others like the Parable of the Net (Matthew 13:47-50), the Parable of the Wheat and the Tares (Matthew 13:24-30), and the Parable of the Good Samaritan (Luke 10:25-37), reveal the essence and character of the Kingdom of God, which is all about God's redemptive plan to save humanity through faith in Jesus Christ.
 
 ## Average Grade
-90.0
+89.0
 
 ## Grades
  * [90.0](./Value_of_the_Kingdom_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Value_of_the_Kingdom_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Value_of_the_Kingdom_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Value_of_the_Kingdom_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Value_of_the_Kingdom_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

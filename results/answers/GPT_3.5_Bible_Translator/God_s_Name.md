@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [God's Name](../../questions/God_s_Name.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [God's Name](../../questions/God_s_Name.md)
 
 ## Question [God's Name](../../questions/God_s_Name.md)
 What is the significance of God's name 'Yahweh' as revealed in the Bible?
@@ -21,7 +21,11 @@ In Jewish tradition, the name "Yahweh" is so holy that it is not pronounced out 
 As Christians, we also understand the significance of the name Yahweh as we believe in the triune nature of God - Father, Son, and Holy Spirit. Jesus Christ, the Son of God, declared Himself to be one with the Father, using the divine name "I am" in statements such as "I am the bread of life" and "I am the light of the world" (John 6:35; 8:12). Through Jesus, we have a personal relationship with Yahweh, our eternal and unchanging God, who loves us and keeps His promises.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./God_s_Name_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./God_s_Name_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./God_s_Name_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./God_s_Name_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./God_s_Name_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

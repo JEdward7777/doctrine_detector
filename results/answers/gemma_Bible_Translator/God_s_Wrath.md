@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [God's Wrath](../../questions/God_s_Wrath.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [God's Wrath](../../questions/God_s_Wrath.md)
 
 ## Question [God's Wrath](../../questions/God_s_Wrath.md)
 How is God's punishment described during the 'day of Yahweh'?

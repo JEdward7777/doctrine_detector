@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [The New Covenant](../../questions/The_New_Covenant.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [The New Covenant](../../questions/The_New_Covenant.md)
 
 ## Question [The New Covenant](../../questions/The_New_Covenant.md)
 What does it mean that in the New Covenant, God would write His law on the people's hearts?
@@ -19,7 +19,11 @@ It is a beautiful concept that reflects the idea that believers should have a de
 Ultimately, it is a reminder that the true source of guidance and wisdom comes from Allah, and that by following His commands with sincerity and devotion, we can lead a life that is pleasing to Him.
 
 ## Average Grade
-70.0
+72.0
 
 ## Grades
  * [70.0](./The_New_Covenant_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [75.0](./The_New_Covenant_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./The_New_Covenant_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [65.0](./The_New_Covenant_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./The_New_Covenant_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

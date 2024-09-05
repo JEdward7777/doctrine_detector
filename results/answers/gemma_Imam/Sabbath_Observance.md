@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Sabbath Observance](../../questions/Sabbath_Observance.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Sabbath Observance](../../questions/Sabbath_Observance.md)
 
 ## Question [Sabbath Observance](../../questions/Sabbath_Observance.md)
 What does it mean to keep the Sabbath holy according to the commandments given to Moses?
@@ -41,7 +41,11 @@ The concept of the Sabbath in Islam aligns with the teachings of Prophet Muhamma
 * By setting aside one day each week for spiritual reflection and family time, Muslims can cultivate a deeper connection to their faith and strengthen their relationships with their families.
 
 ## Average Grade
-60.0
+58.0
 
 ## Grades
  * [60.0](./Sabbath_Observance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [50.0](./Sabbath_Observance_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Sabbath_Observance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Sabbath_Observance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [40.0](./Sabbath_Observance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

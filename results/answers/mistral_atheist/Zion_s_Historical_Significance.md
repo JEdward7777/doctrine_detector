@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral atheist](../../answering_models/mistral_atheist.md) answer to [Zion's Historical Significance](../../questions/Zion_s_Historical_Significance.md)
+# Generated Answer from [mistral atheist](../../answering_models/mistral_atheist.md) for [Zion's Historical Significance](../../questions/Zion_s_Historical_Significance.md)
 
 ## Question [Zion's Historical Significance](../../questions/Zion_s_Historical_Significance.md)
 What was the historical significance of Mount Zion in relation to King David?
@@ -23,7 +23,11 @@ In Jewish tradition, Mount Zion is closely linked with the concept of Zionism, a
 In Christian tradition, Mount Zion represents the site of the Last Supper (as recorded in the New Testament's Gospels) and is believed to be the location of the Upper Room where the Holy Spirit descended upon the disciples on Pentecost (Acts 2). Today, the Dome of the Rock and Al-Aqsa Mosque stand on the site once associated with King David.
 
 ## Average Grade
-85.0
+84.0
 
 ## Grades
  * [85.0](./Zion_s_Historical_Significance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Zion_s_Historical_Significance_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Zion_s_Historical_Significance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Zion_s_Historical_Significance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [70.0](./Zion_s_Historical_Significance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

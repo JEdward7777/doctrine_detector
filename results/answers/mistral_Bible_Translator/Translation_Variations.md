@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) answer to [Translation Variations](../../questions/Translation_Variations.md)
+# Generated Answer from [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) for [Translation Variations](../../questions/Translation_Variations.md)
 
 ## Question [Translation Variations](../../questions/Translation_Variations.md)
 What are some alternative translations for 'covenant faithfulness'?
@@ -29,7 +29,11 @@ Exploring different interpretations of biblical terms to deepen understanding.
 8. Covenantal devotion and faithfulness: This phrase highlights the deep emotional bond and unwavering commitment shared between God and His people within a covenant relationship. (Joshua 22:5, Haggai 1:9)
 
 ## Average Grade
-85.0
+87.0
 
 ## Grades
  * [85.0](./Translation_Variations_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Translation_Variations_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Translation_Variations_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Translation_Variations_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Translation_Variations_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

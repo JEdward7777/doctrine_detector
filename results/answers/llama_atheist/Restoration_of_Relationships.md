@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Restoration of Relationships](../../questions/Restoration_of_Relationships.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Restoration of Relationships](../../questions/Restoration_of_Relationships.md)
 
 ## Question [Restoration of Relationships](../../questions/Restoration_of_Relationships.md)
 What does it mean for God to restore sinful people back to Himself?
@@ -25,7 +25,11 @@ This perspective doesn't rely on supernatural concepts or divine intervention bu
 In conclusion, while I don't subscribe to religious beliefs about sin or divine restoration, I believe that our shared human experience offers profound opportunities for growth, transformation, and redemption. By embracing our inherent value and dignity, we can work towards creating a more inclusive, empathetic, and equitable world.
 
 ## Average Grade
-20.0
+39.0
 
 ## Grades
  * [20.0](./Restoration_of_Relationships_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [20.0](./Restoration_of_Relationships_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [20.0](./Restoration_of_Relationships_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [50.0](./Restoration_of_Relationships_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Restoration_of_Relationships_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

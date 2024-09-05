@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Politician](../../answering_models/gemma_Politician.md) answer to [Understanding Gentiles in Scripture](../../questions/Understanding_Gentiles_in_Scripture.md)
+# Generated Answer from [gemma Politician](../../answering_models/gemma_Politician.md) for [Understanding Gentiles in Scripture](../../questions/Understanding_Gentiles_in_Scripture.md)
 
 ## Question [Understanding Gentiles in Scripture](../../questions/Understanding_Gentiles_in_Scripture.md)
 How did the Israelites' perception of Gentiles affect their relationships with them in the early church?
@@ -44,7 +44,11 @@ This question addresses the historical context of Jewish-Gentile relationships a
 The perception of Gentiles among early Israelites influenced their relationships with them, but over time, reconciliation and coexistence emerged as key aspects of early Christianity. The church's emphasis on the universality of Christ's love and its recognition of shared humanity played a significant role in mitigating potential offense and fostering greater inclusivity.
 
 ## Average Grade
-95.0
+89.0
 
 ## Grades
  * [95.0](./Understanding_Gentiles_in_Scripture_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Understanding_Gentiles_in_Scripture_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Understanding_Gentiles_in_Scripture_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Understanding_Gentiles_in_Scripture_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_Gentiles_in_Scripture_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

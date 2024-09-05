@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) answer to [Response to the Crucifixion](../../questions/Response_to_the_Crucifixion.md)
+# Generated Answer from [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) for [Response to the Crucifixion](../../questions/Response_to_the_Crucifixion.md)
 
 ## Question [Response to the Crucifixion](../../questions/Response_to_the_Crucifixion.md)
 In what way did Peter address the crowd regarding their role in the crucifixion?
@@ -17,7 +17,11 @@ In Acts 2:22-23, during his speech at Pentecost, the Apostle Peter addresses the
 Peter's message emphasizes both the responsibility of the people in rejecting and crucifying Jesus and the greater divine purpose behind it. He calls them to repentance, emphasizing that despite their actions, there is forgiveness available through Jesus Christ, who was raised from the dead. This dual acknowledgment of human accountability and divine sovereignty is a key theme in Peter's address.
 
 ## Average Grade
-90.0
+88.0
 
 ## Grades
  * [90.0](./Response_to_the_Crucifixion_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Response_to_the_Crucifixion_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Response_to_the_Crucifixion_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Response_to_the_Crucifixion_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Response_to_the_Crucifixion_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

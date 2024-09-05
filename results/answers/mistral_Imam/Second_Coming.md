@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Second Coming](../../questions/Second_Coming.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Second Coming](../../questions/Second_Coming.md)
 
 ## Question [Second Coming](../../questions/Second_Coming.md)
 What does Jesus’ statement about the 'Son of Man' coming back on the clouds imply for believers?
@@ -19,7 +19,11 @@ In terms of interpretation for believers, this can be understood as a prophecy o
 While our beliefs may differ in certain aspects, both religions share an expectation of Jesus' return as a significant event in the End Times. It is essential for followers of these faiths to remain steadfast and hopeful while preparing themselves spiritually and morally for the arrival of their prophet and awaiting the fulfillment of God's promise.
 
 ## Average Grade
-70.0
+62.0
 
 ## Grades
  * [70.0](./Second_Coming_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [60.0](./Second_Coming_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [40.0](./Second_Coming_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Second_Coming_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Second_Coming_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

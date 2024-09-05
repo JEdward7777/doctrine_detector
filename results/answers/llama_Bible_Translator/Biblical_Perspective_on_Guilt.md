@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Biblical Perspective on Guilt](../../questions/Biblical_Perspective_on_Guilt.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Biblical Perspective on Guilt](../../questions/Biblical_Perspective_on_Guilt.md)
 
 ## Question [Biblical Perspective on Guilt](../../questions/Biblical_Perspective_on_Guilt.md)
 How does the Bible illustrate the consequences of guilt and sin?
@@ -31,3 +31,7 @@ These consequences of guilt and sin serve as a stark reminder of humanity's fall
 
 ## Grades
  * [95.0](./Biblical_Perspective_on_Guilt_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Biblical_Perspective_on_Guilt_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Biblical_Perspective_on_Guilt_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Biblical_Perspective_on_Guilt_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Biblical_Perspective_on_Guilt_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

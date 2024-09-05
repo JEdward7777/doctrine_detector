@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Biblical Examples of Transgression](../../questions/Biblical_Examples_of_Transgression.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Biblical Examples of Transgression](../../questions/Biblical_Examples_of_Transgression.md)
 
 ## Question [Biblical Examples of Transgression](../../questions/Biblical_Examples_of_Transgression.md)
 Which Biblical references illustrate the concept of transgression?
@@ -37,7 +37,11 @@ The concept of transgression in the Bible refers to the act of disobeying or vio
 These biblical references illustrate various instances of transgression throughout human history, and demonstrate the consequences of disobeying God's laws and commands.
 
 ## Average Grade
-85.0
+84.0
 
 ## Grades
  * [85.0](./Biblical_Examples_of_Transgression_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Biblical_Examples_of_Transgression_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Biblical_Examples_of_Transgression_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Biblical_Examples_of_Transgression_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Biblical_Examples_of_Transgression_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

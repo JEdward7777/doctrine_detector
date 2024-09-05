@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Purpose of Psalms](../../questions/Purpose_of_Psalms.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Purpose of Psalms](../../questions/Purpose_of_Psalms.md)
 
 ## Question [Purpose of Psalms](../../questions/Purpose_of_Psalms.md)
 What role did the Psalms play in the worship practices of the nation of Israel?

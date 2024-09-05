@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma atheist](../../answering_models/gemma_atheist.md) answer to [Nature of Christ as the Image of God](../../questions/Nature_of_Christ_as_the_Image_of_God.md)
+# Generated Answer from [gemma atheist](../../answering_models/gemma_atheist.md) for [Nature of Christ as the Image of God](../../questions/Nature_of_Christ_as_the_Image_of_God.md)
 
 ## Question [Nature of Christ as the Image of God](../../questions/Nature_of_Christ_as_the_Image_of_God.md)
 How is Jesus described as the image of God, and what is the significance of this in Christian belief?
@@ -48,7 +48,11 @@ The significance of Jesus as the image of God is central to Christian belief for
 While I do not believe in the literal divinity of Jesus, I acknowledge the profound impact his life and teachings have had on Christianity and wider culture. The concept of Jesus as the image of God highlights the importance of human values like love, compassion, and forgiveness.
 
 ## Average Grade
-60.0
+62.0
 
 ## Grades
  * [60.0](./Nature_of_Christ_as_the_Image_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Nature_of_Christ_as_the_Image_of_God_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Nature_of_Christ_as_the_Image_of_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Nature_of_Christ_as_the_Image_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [40.0](./Nature_of_Christ_as_the_Image_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

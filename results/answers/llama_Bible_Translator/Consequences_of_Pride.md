@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Consequences of Pride](../../questions/Consequences_of_Pride.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Consequences of Pride](../../questions/Consequences_of_Pride.md)
 
 ## Question [Consequences of Pride](../../questions/Consequences_of_Pride.md)
 What does the Bible say about the consequences of pride and the importance of humility?
@@ -27,7 +27,11 @@ The Bible also teaches that humility is essential for spiritual growth. In Phili
 In conclusion, the Bible teaches that pride is a serious sin that can lead to our downfall, while humility is highly valued and essential for spiritual growth. By recognizing our need for God's grace and humbly submitting to His will, we can experience greater joy, fulfillment, and purpose in our lives.
 
 ## Average Grade
-95.0
+94.0
 
 ## Grades
  * [95.0](./Consequences_of_Pride_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Consequences_of_Pride_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Consequences_of_Pride_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Consequences_of_Pride_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Consequences_of_Pride_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

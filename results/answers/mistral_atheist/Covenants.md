@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral atheist](../../answering_models/mistral_atheist.md) answer to [Covenants](../../questions/Covenants.md)
+# Generated Answer from [mistral atheist](../../answering_models/mistral_atheist.md) for [Covenants](../../questions/Covenants.md)
 
 ## Question [Covenants](../../questions/Covenants.md)
 How do the promises made in biblical covenants illustrate God's commitment to His people throughout Scripture?
@@ -27,7 +27,11 @@ In the Bible, a covenant is a sacred agreement between God and his people, or so
 From a culturally retrieved perspective, understanding the promises made in biblical covenants helps us appreciate the significance of God's relationship with His people throughout history and encourages us to remain faithful in our own walk with Him today.
 
 ## Average Grade
-90.0
+88.0
 
 ## Grades
  * [90.0](./Covenants_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Covenants_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Covenants_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Covenants_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Covenants_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

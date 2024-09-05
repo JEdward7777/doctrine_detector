@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Covenant Faithfulness Defined](../../questions/Covenant_Faithfulness_Defined.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Covenant Faithfulness Defined](../../questions/Covenant_Faithfulness_Defined.md)
 
 ## Question [Covenant Faithfulness Defined](../../questions/Covenant_Faithfulness_Defined.md)
 What does the term 'covenant faithfulness' mean in the context of biblical relationships?
@@ -29,7 +29,11 @@ In Islamic teachings, we are encouraged to be faithful to Allah's commands, as r
 Please note that this analysis is from an Islamic perspective and not necessarily representative of Christian teachings or biblical interpretations. If you have further questions or would like more clarification, please feel free to ask.
 
 ## Average Grade
-80.0
+81.0
 
 ## Grades
  * [80.0](./Covenant_Faithfulness_Defined_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Covenant_Faithfulness_Defined_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Covenant_Faithfulness_Defined_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [75.0](./Covenant_Faithfulness_Defined_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Covenant_Faithfulness_Defined_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

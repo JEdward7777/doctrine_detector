@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Beliefs of the Pharisees](../../questions/Beliefs_of_the_Pharisees.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Beliefs of the Pharisees](../../questions/Beliefs_of_the_Pharisees.md)
 
 ## Question [Beliefs of the Pharisees](../../questions/Beliefs_of_the_Pharisees.md)
 What were the beliefs of the Pharisees regarding life after death and spiritual beings?
@@ -40,7 +40,11 @@ Exploring these beliefs can enhance understanding of the spiritual landscape dur
 **It's important to note that there was diversity among the Pharisees in their beliefs and practices, and their beliefs about life after death and spiritual beings evolved over time.**
 
 ## Average Grade
-60.0
+56.0
 
 ## Grades
  * [60.0](./Beliefs_of_the_Pharisees_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [45.0](./Beliefs_of_the_Pharisees_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Beliefs_of_the_Pharisees_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [20.0](./Beliefs_of_the_Pharisees_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Beliefs_of_the_Pharisees_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

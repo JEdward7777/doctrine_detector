@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Purpose in Calling](../../questions/Purpose_in_Calling.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Purpose in Calling](../../questions/Purpose_in_Calling.md)
 
 ## Question [Purpose in Calling](../../questions/Purpose_in_Calling.md)
 How can one discern their 'calling' or 'purpose' as described in the Bible?

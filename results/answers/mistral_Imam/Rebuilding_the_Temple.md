@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Rebuilding the Temple](../../questions/Rebuilding_the_Temple.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Rebuilding the Temple](../../questions/Rebuilding_the_Temple.md)
 
 ## Question [Rebuilding the Temple](../../questions/Rebuilding_the_Temple.md)
 What events led to the destruction and subsequent rebuilding of the temple in Jerusalem?
@@ -27,7 +27,11 @@ Understanding the historical context and significance of the temple's destructio
 In summary, the Second Temple in Jerusalem was initially destroyed by Nebuchadnezzar II in 586 BCE and later rebuilt but subsequently destroyed by the Romans in 70 CE. After the Muslim conquest, the Dome of the Rock and Al-Aqsa Mosque were built on top of the remnants of the Temple Mount site, marking the beginning of Islamic rule over Jerusalem.
 
 ## Average Grade
-50.0
+74.0
 
 ## Grades
  * [50.0](./Rebuilding_the_Temple_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Rebuilding_the_Temple_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [75.0](./Rebuilding_the_Temple_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Rebuilding_the_Temple_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Rebuilding_the_Temple_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

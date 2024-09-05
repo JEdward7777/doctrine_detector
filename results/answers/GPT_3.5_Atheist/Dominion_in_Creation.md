@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Dominion in Creation](../../questions/Dominion_in_Creation.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Dominion in Creation](../../questions/Dominion_in_Creation.md)
 
 ## Question [Dominion in Creation](../../questions/Dominion_in_Creation.md)
 What does the Bible teach about humanity's role in having dominion over the earth?
@@ -19,7 +19,11 @@ However, it is important to note that interpretations of this mandate vary among
 From an atheistic perspective, the concept of dominion over the earth can be viewed as a cultural retribution that has been used to justify human exploitation of the environment. It is important for us to consider the ethical implications of how we interact with the earth and to strive for sustainable and responsible practices that prioritize the well-being of the planet and future generations.
 
 ## Average Grade
-90.0
+83.0
 
 ## Grades
  * [90.0](./Dominion_in_Creation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Dominion_in_Creation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [75.0](./Dominion_in_Creation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Dominion_in_Creation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Dominion_in_Creation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

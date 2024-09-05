@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Scriptural References 8](../../questions/Scriptural_References_8.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Scriptural References 8](../../questions/Scriptural_References_8.md)
 
 ## Question [Scriptural References 8](../../questions/Scriptural_References_8.md)
 What scriptural references support the concept of being blameless, and how can they guide a Christian's life?
@@ -21,7 +21,11 @@ Another reference is 1 Thessalonians 5:23, which encourages believers to "May Go
 Guiding a Christian's life, these scriptures can serve as a reminder of the importance of striving for moral purity and integrity in their actions and conduct. Believers can use these references as a source of motivation to live a life that is pleasing to God and reflective of their faith. By seeking to be blameless, Christians can aim to bring honor and glory to their beliefs and set an example for others to follow.
 
 ## Average Grade
-70.0
+77.0
 
 ## Grades
  * [70.0](./Scriptural_References_8_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Scriptural_References_8_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Scriptural_References_8_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Scriptural_References_8_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Scriptural_References_8_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

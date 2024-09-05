@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral atheist](../../answering_models/mistral_atheist.md) answer to [Personal Application](../../questions/Personal_Application.md)
+# Generated Answer from [mistral atheist](../../answering_models/mistral_atheist.md) for [Personal Application](../../questions/Personal_Application.md)
 
 ## Question [Personal Application](../../questions/Personal_Application.md)
 What does it mean for a Christian to experience purification from sin?
@@ -21,7 +21,11 @@ In addition to repentance and baptism, ongoing sanctification or spiritual growt
 Ultimately, the Christian belief in purification from sin is rooted in the belief that Jesus Christ, who lived a sinless life and died on the cross as an atonement for human sin, offers salvation and forgiveness to those who believe in Him. This process of purification is not something that can be accomplished through one's own efforts, but rather it is the work of God's grace and love in the heart of a repentant believer.
 
 ## Average Grade
-95.0
+91.0
 
 ## Grades
  * [95.0](./Personal_Application_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Personal_Application_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Personal_Application_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Personal_Application_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Personal_Application_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

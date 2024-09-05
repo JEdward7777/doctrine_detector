@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Usage in Scripture](../../questions/Usage_in_Scripture.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Usage in Scripture](../../questions/Usage_in_Scripture.md)
 
 ## Question [Usage in Scripture](../../questions/Usage_in_Scripture.md)
 In which contexts is the term 'Holy One' used in the Old and New Testaments?
@@ -35,7 +35,11 @@ The term "Holy One" is used in both the Old and New Testaments, often to refer t
 In both Testaments, "Holy One" signifies a state of purity, separation from sin, and divine purpose. In a Muslim context, while we do not hold the Old and New Testaments as our primary texts, we recognize that these scriptures contribute to the understanding of God's holiness, which resonates with the attributes of Allah as described in the Quran. Allah is often described as "the Most Holy" (Al-Quddus), emphasizing His perfect purity and transcendence.
 
 ## Average Grade
-80.0
+84.0
 
 ## Grades
  * [80.0](./Usage_in_Scripture_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Usage_in_Scripture_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Usage_in_Scripture_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Usage_in_Scripture_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [70.0](./Usage_in_Scripture_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Dominion of Christ](../../questions/Dominion_of_Christ.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Dominion of Christ](../../questions/Dominion_of_Christ.md)
 
 ## Question [Dominion of Christ](../../questions/Dominion_of_Christ.md)
 How is Jesus Christ's dominion described in the Bible?
@@ -25,7 +25,11 @@ In the context of Islamic understanding, Jesus (known as 'Isa in Arabic) is a re
 From an Islamic perspective, while Jesus is indeed acknowledged as a significant figure with miraculous abilities, Muslims believe he is a servant and prophet of Allah, distinct from God himself, who will return before the Day of Judgment to restore justice, but he does not possess dominion in the divine sense as described in the Bible.
 
 ## Average Grade
-70.0
+71.0
 
 ## Grades
  * [70.0](./Dominion_of_Christ_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [60.0](./Dominion_of_Christ_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Dominion_of_Christ_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Dominion_of_Christ_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Dominion_of_Christ_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

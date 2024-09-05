@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Cleansing Practices](../../questions/Cleansing_Practices.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Cleansing Practices](../../questions/Cleansing_Practices.md)
 
 ## Question [Cleansing Practices](../../questions/Cleansing_Practices.md)
 What practices might modern Christians adopt to reflect the Old Testament concept of ritual cleanliness?
@@ -21,7 +21,11 @@ Additionally, Christians can also practice hospitality and serving others in a w
 Overall, the key is to strive for inner purity and outward holiness in our thoughts, words, and actions, reflecting the righteousness and goodness of God in all aspects of our lives.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Cleansing_Practices_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Cleansing_Practices_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Cleansing_Practices_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Cleansing_Practices_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Cleansing_Practices_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

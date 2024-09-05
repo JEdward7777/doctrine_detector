@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) answer to [Biblical References to the Temple](../../questions/Biblical_References_to_the_Temple.md)
+# Generated Answer from [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) for [Biblical References to the Temple](../../questions/Biblical_References_to_the_Temple.md)
 
 ## Question [Biblical References to the Temple](../../questions/Biblical_References_to_the_Temple.md)
 Which scriptures specifically reference the temple as the 'house of Yahweh'?
@@ -31,7 +31,11 @@ The term "house of Yahweh" is used in several passages throughout the Old Testam
 These passages reflect the significance of the temple in the Hebrew Bible as a dwelling place for Yahweh and a central place for worship and community life.
 
 ## Average Grade
-95.0
+86.0
 
 ## Grades
  * [95.0](./Biblical_References_to_the_Temple_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Biblical_References_to_the_Temple_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Biblical_References_to_the_Temple_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Biblical_References_to_the_Temple_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Biblical_References_to_the_Temple_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

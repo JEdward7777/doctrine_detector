@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Language of the Old Testament](../../questions/Language_of_the_Old_Testament.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Language of the Old Testament](../../questions/Language_of_the_Old_Testament.md)
 
 ## Question [Language of the Old Testament](../../questions/Language_of_the_Old_Testament.md)
 In what language was the vast majority of the Old Testament written?

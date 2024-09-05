@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) answer to [Application of Reconciliation](../../questions/Application_of_Reconciliation.md)
+# Generated Answer from [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) for [Application of Reconciliation](../../questions/Application_of_Reconciliation.md)
 
 ## Question [Application of Reconciliation](../../questions/Application_of_Reconciliation.md)
 In what ways can Christians apply the principle of reconciliation to their relationships with others?
@@ -33,7 +33,11 @@ Christians can apply the principle of reconciliation to their relationships with
 By embodying these principles, Christians can not only heal their relationships but also bear witness to the transformative power of reconciliation found in the Gospel.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Application_of_Reconciliation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Application_of_Reconciliation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Application_of_Reconciliation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Application_of_Reconciliation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Application_of_Reconciliation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Day of the Lord Meaning](../../questions/Day_of_the_Lord_Meaning.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Day of the Lord Meaning](../../questions/Day_of_the_Lord_Meaning.md)
 
 ## Question [Day of the Lord Meaning](../../questions/Day_of_the_Lord_Meaning.md)
 What does the term 'day of the Lord' signify in the New Testament?
@@ -25,7 +25,11 @@ The phrase is used in various passages, and its interpretation can vary among sc
 While the phrase is not directly used in Islamic texts, the concept of a day of judgment is fundamental in Islam, where every individual will be held accountable for their actions before Allah. Thus, there are parallels in the sense of accountability and eventual divine justice, although the theological contexts differ.
 
 ## Average Grade
-95.0
+90.0
 
 ## Grades
  * [95.0](./Day_of_the_Lord_Meaning_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Day_of_the_Lord_Meaning_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Day_of_the_Lord_Meaning_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Day_of_the_Lord_Meaning_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [70.0](./Day_of_the_Lord_Meaning_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

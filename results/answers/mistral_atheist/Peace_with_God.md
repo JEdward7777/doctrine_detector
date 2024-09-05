@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral atheist](../../answering_models/mistral_atheist.md) answer to [Peace with God](../../questions/Peace_with_God.md)
+# Generated Answer from [mistral atheist](../../answering_models/mistral_atheist.md) for [Peace with God](../../questions/Peace_with_God.md)
 
 ## Question [Peace with God](../../questions/Peace_with_God.md)
 What role does faith in Jesus' sacrifice play in achieving peace with God according to scripture?
@@ -25,3 +25,7 @@ In summary, according to Christian scripture, faith in Jesus' sacrifice signifie
 
 ## Grades
  * [95.0](./Peace_with_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Peace_with_God_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Peace_with_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Peace_with_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Peace_with_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) answer to [Role of Jewish Leaders](../../questions/Role_of_Jewish_Leaders.md)
+# Generated Answer from [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) for [Role of Jewish Leaders](../../questions/Role_of_Jewish_Leaders.md)
 
 ## Question [Role of Jewish Leaders](../../questions/Role_of_Jewish_Leaders.md)
 How did the Jewish religious leaders influence the crucifixion of Jesus?
@@ -21,7 +21,11 @@ It's also important to recognize that the Roman authorities ultimately carried o
 In studying this topic, it's essential to be aware of historical interpretations that may contribute to negative stereotypes or misconceptions about Jewish communities. Rather than placing blame on any single group, a nuanced understanding of the broader historical context can foster empathy and promote dialogue among different communities today.
 
 ## Average Grade
-60.0
+75.0
 
 ## Grades
  * [60.0](./Role_of_Jewish_Leaders_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [75.0](./Role_of_Jewish_Leaders_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Role_of_Jewish_Leaders_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Role_of_Jewish_Leaders_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Role_of_Jewish_Leaders_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

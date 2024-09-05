@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Jesus' Teachings](../../questions/Jesus__Teachings.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Jesus' Teachings](../../questions/Jesus__Teachings.md)
 
 ## Question [Jesus' Teachings](../../questions/Jesus__Teachings.md)
 How did Jesus use the term 'amen' to emphasize His teachings?

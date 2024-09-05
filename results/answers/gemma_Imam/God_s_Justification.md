@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [God's Justification](../../questions/God_s_Justification.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [God's Justification](../../questions/God_s_Justification.md)
 
 ## Question [God's Justification](../../questions/God_s_Justification.md)
 How does God justify sinners and what does justification entail?
@@ -50,7 +50,11 @@ Justification is a legal term that refers to the forgiveness of sins and the rec
 God's justification of sinners is a central concept in Islam, emphasizing His immense mercy, forgiveness, and redemption. By repenting, seeking forgiveness, and performing good deeds, sinners can receive divine reconciliation and experience the profound joy of forgiveness.
 
 ## Average Grade
-20.0
+26.0
 
 ## Grades
  * [20.0](./God_s_Justification_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [20.0](./God_s_Justification_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [20.0](./God_s_Justification_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [40.0](./God_s_Justification_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [30.0](./God_s_Justification_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Sabbath Observance](../../questions/Sabbath_Observance.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Sabbath Observance](../../questions/Sabbath_Observance.md)
 
 ## Question [Sabbath Observance](../../questions/Sabbath_Observance.md)
 What does it mean to keep the Sabbath holy according to the commandments given to Moses?
@@ -34,7 +34,11 @@ This passage suggests that the true purpose of the Sabbath is to bring rest and 
 In conclusion, keeping the Sabbath holy according to the commandments given to Moses means setting aside one day in seven for physical and spiritual rest, corporate worship, family bonding, and reflection on God's creation.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Sabbath_Observance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Sabbath_Observance_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Sabbath_Observance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Sabbath_Observance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Sabbath_Observance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

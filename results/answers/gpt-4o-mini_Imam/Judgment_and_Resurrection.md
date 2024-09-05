@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Judgment and Resurrection](../../questions/Judgment_and_Resurrection.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Judgment and Resurrection](../../questions/Judgment_and_Resurrection.md)
 
 ## Question [Judgment and Resurrection](../../questions/Judgment_and_Resurrection.md)
 What events are associated with the 'day of Yahweh' or 'day of the Lord'?
@@ -37,7 +37,11 @@ In Islam, the concept of the Day of Judgment encompasses similar themes:
 Ultimately, while the specific terms "Day of Yahweh" or "Day of the Lord" may not be used in Islamic texts, the themes resonate deeply within Islamic teachings about the Day of Judgment and God's ultimate justice and mercy.
 
 ## Average Grade
-90.0
+88.0
 
 ## Grades
  * [90.0](./Judgment_and_Resurrection_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Judgment_and_Resurrection_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Judgment_and_Resurrection_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Judgment_and_Resurrection_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Judgment_and_Resurrection_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

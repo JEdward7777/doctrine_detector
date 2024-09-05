@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Distinction in Divine Titles](../../questions/Distinction_in_Divine_Titles.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Distinction in Divine Titles](../../questions/Distinction_in_Divine_Titles.md)
 
 ## Question [Distinction in Divine Titles](../../questions/Distinction_in_Divine_Titles.md)
 Why is it important not to translate 'Lord Yahweh' as 'Lord LORD'?
@@ -19,7 +19,11 @@ As Muslims, we believe in the importance of preserving the names and attributes 
 Therefore, it is crucial to refer to Allah by His proper names and attributes in the Arabic language, such as Allah, Ar-Rahman (The Most Merciful), Al-Quddus (The Holy), and Al-Malik (The King). These names hold profound meanings and significance in Islamic theology and should be respected and used appropriately in any discussions or translations related to Allah.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Distinction_in_Divine_Titles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Distinction_in_Divine_Titles_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Distinction_in_Divine_Titles_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Distinction_in_Divine_Titles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Distinction_in_Divine_Titles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

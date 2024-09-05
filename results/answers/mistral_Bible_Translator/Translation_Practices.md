@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) answer to [Translation Practices](../../questions/Translation_Practices.md)
+# Generated Answer from [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) for [Translation Practices](../../questions/Translation_Practices.md)
 
 ## Question [Translation Practices](../../questions/Translation_Practices.md)
 Why do many Bible translations use 'LORD' in place of 'Yahweh'?
@@ -21,7 +21,11 @@ In some translations, such as the Jewish Publication Society (JPS) Tanakh and th
 Ultimately, the choice of translation depends on the purpose and audience of each particular version of the Bible, as well as the preferences and beliefs of the translators themselves. As a Christian Bible translator, it is crucial to remain faithful to the original texts while being sensitive to the cultural and historical contexts in which they were written.
 
 ## Average Grade
-90.0
+89.0
 
 ## Grades
  * [90.0](./Translation_Practices_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Translation_Practices_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Translation_Practices_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Translation_Practices_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Translation_Practices_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

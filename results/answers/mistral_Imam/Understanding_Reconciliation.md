@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Understanding Reconciliation](../../questions/Understanding_Reconciliation.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Understanding Reconciliation](../../questions/Understanding_Reconciliation.md)
 
 ## Question [Understanding Reconciliation](../../questions/Understanding_Reconciliation.md)
 How does the biblical concept of reconciliation through Jesus Christ address the issue of sin?
@@ -25,3 +25,7 @@ Ultimately, the path to spiritual growth and reconciliation may look different f
 
 ## Grades
  * [90.0](./Understanding_Reconciliation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Understanding_Reconciliation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Understanding_Reconciliation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Understanding_Reconciliation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_Reconciliation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Innocent Suffering](../../questions/Innocent_Suffering.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Innocent Suffering](../../questions/Innocent_Suffering.md)
 
 ## Question [Innocent Suffering](../../questions/Innocent_Suffering.md)
 How is the concept of 'innocent blood' addressed in the Bible, and what does it imply about the value of life?
@@ -19,7 +19,11 @@ In the New Testament, the innocence of Jesus Christ is emphasized, highlighting 
 The Bible teaches that all human life is precious and created in the image of God (Genesis 1:27). The shedding of innocent blood is not only a crime against humanity but also a sin against God Himself. This underscores the sanctity and value of life in the eyes of God and emphasizes the importance of upholding justice and protecting the vulnerable in society.
 
 ## Average Grade
-95.0
+94.0
 
 ## Grades
  * [95.0](./Innocent_Suffering_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Innocent_Suffering_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Innocent_Suffering_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Innocent_Suffering_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Innocent_Suffering_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

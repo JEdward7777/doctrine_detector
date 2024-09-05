@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Confession and Salvation](../../questions/Confession_and_Salvation.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Confession and Salvation](../../questions/Confession_and_Salvation.md)
 
 ## Question [Confession and Salvation](../../questions/Confession_and_Salvation.md)
 What is the relationship between confessing that Jesus is Lord and being saved according to Paul's writings?
@@ -31,7 +31,11 @@ In both passages, Paul suggests that confessing Jesus as Lord is a fundamental e
 Therefore, according to Paul's writings, confessing that Jesus is Lord is an essential aspect of being saved, as it expresses our trust in His divine authority and surrender to His will.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Confession_and_Salvation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Confession_and_Salvation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Confession_and_Salvation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Confession_and_Salvation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Confession_and_Salvation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

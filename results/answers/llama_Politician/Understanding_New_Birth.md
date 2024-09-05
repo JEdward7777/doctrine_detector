@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Understanding New Birth](../../questions/Understanding_New_Birth.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Understanding New Birth](../../questions/Understanding_New_Birth.md)
 
 ## Question [Understanding New Birth](../../questions/Understanding_New_Birth.md)
 What does it mean to be 'born again' according to the Bible?
@@ -25,7 +25,11 @@ As a public servant, I believe it's essential to recognize the diversity of beli
 So, my friend, I hope this response has been both informative and inclusive! *smiles warmly*
 
 ## Average Grade
-85.0
+78.0
 
 ## Grades
  * [85.0](./Understanding_New_Birth_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Understanding_New_Birth_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Understanding_New_Birth_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Understanding_New_Birth_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [70.0](./Understanding_New_Birth_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

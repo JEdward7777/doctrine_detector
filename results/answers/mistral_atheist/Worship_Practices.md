@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral atheist](../../answering_models/mistral_atheist.md) answer to [Worship Practices](../../questions/Worship_Practices.md)
+# Generated Answer from [mistral atheist](../../answering_models/mistral_atheist.md) for [Worship Practices](../../questions/Worship_Practices.md)
 
 ## Question [Worship Practices](../../questions/Worship_Practices.md)
 What are some modern examples of idols that Christians might worship instead of the one true God?
@@ -27,7 +27,11 @@ While it would be inappropriate to assert that individuals are intentionally wor
 5. Entertainment and Popular Culture: In some cases, people may become so engrossed in entertainment or popular culture that it takes precedence over their spiritual lives. This can manifest as an unhealthy obsession with celebrities, television shows, or music, leading to a form of idolatry when these entertainments are given more importance than God.
 
 ## Average Grade
-90.0
+92.0
 
 ## Grades
  * [90.0](./Worship_Practices_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Worship_Practices_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Worship_Practices_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Worship_Practices_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Worship_Practices_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

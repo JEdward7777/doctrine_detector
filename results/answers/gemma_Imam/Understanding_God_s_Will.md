@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Understanding God's Will](../../questions/Understanding_God_s_Will.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Understanding God's Will](../../questions/Understanding_God_s_Will.md)
 
 ## Question [Understanding God's Will](../../questions/Understanding_God_s_Will.md)
 What does it mean to seek God's will in our everyday decisions?
@@ -55,7 +55,11 @@ People may struggle with making decisions that honor God or may feel uncertain a
 * Allah guides those who seek him.
 
 ## Average Grade
-90.0
+86.0
 
 ## Grades
  * [90.0](./Understanding_God_s_Will_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Understanding_God_s_Will_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Understanding_God_s_Will_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Understanding_God_s_Will_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_God_s_Will_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

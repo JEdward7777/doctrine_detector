@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Biblical References to the Most High](../../questions/Biblical_References_to_the_Most_High.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Biblical References to the Most High](../../questions/Biblical_References_to_the_Most_High.md)
 
 ## Question [Biblical References to the Most High](../../questions/Biblical_References_to_the_Most_High.md)
 Which Bible verses reinforce the idea of God as the 'Most High' and what do they reveal about His character?

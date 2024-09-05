@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [False Witness](../../questions/False_Witness.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [False Witness](../../questions/False_Witness.md)
 
 ## Question [False Witness](../../questions/False_Witness.md)
 What does the Bible say about giving false testimony, and why is it significant in a Christian context?

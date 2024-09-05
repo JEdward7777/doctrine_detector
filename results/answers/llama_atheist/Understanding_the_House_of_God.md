@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Understanding the House of God](../../questions/Understanding_the_House_of_God.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Understanding the House of God](../../questions/Understanding_the_House_of_God.md)
 
 ## Question [Understanding the House of God](../../questions/Understanding_the_House_of_God.md)
 What is meant by the term 'house of God' in biblical context?
@@ -25,7 +25,11 @@ The biblical concept of a "house of God" is closely tied to the idea of divine d
 In summary, the "house of God" in biblical context referred to a physical structure where divine presence was believed to dwell, serving as the central place of worship for the Israelites. This concept is rooted in ancient Near Eastern cultures and is closely tied to the idea of divine dwelling or habitation.
 
 ## Average Grade
-85.0
+88.0
 
 ## Grades
  * [85.0](./Understanding_the_House_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Understanding_the_House_of_God_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Understanding_the_House_of_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Understanding_the_House_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_the_House_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

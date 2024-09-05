@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Authority in Governance](../../questions/Authority_in_Governance.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Authority in Governance](../../questions/Authority_in_Governance.md)
 
 ## Question [Authority in Governance](../../questions/Authority_in_Governance.md)
 What does the Bible say about the authority of governing rulers over their citizens?
@@ -27,7 +27,11 @@ Other passages in the Bible also touch on the responsibilities of rulers, such a
 In summary, the Bible portrays governing rulers as having a God-given authority that is meant to serve the community, and believers are encouraged to respect and obey these authorities as part of their faith.
 
 ## Average Grade
-95.0
+94.4
 
 ## Grades
  * [95.0](./Authority_in_Governance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Authority_in_Governance_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Authority_in_Governance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Authority_in_Governance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [92.0](./Authority_in_Governance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

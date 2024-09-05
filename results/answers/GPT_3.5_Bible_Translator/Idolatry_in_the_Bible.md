@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Idolatry in the Bible](../../questions/Idolatry_in_the_Bible.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Idolatry in the Bible](../../questions/Idolatry_in_the_Bible.md)
 
 ## Question [Idolatry in the Bible](../../questions/Idolatry_in_the_Bible.md)
 How does the Bible illustrate the consequences of idolatry among God's people?
@@ -23,7 +23,11 @@ Throughout the Bible, idolatry is shown to lead people away from the true worshi
 Ultimately, the Bible teaches us that idolatry is a serious sin that separates us from God and leads to negative repercussions. It is a powerful warning to God's people to remain faithful and devoted to Him alone.
 
 ## Average Grade
-90.0
+91.0
 
 ## Grades
  * [90.0](./Idolatry_in_the_Bible_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Idolatry_in_the_Bible_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Idolatry_in_the_Bible_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Idolatry_in_the_Bible_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Idolatry_in_the_Bible_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

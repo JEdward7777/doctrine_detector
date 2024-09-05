@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Translation Insights](../../questions/Translation_Insights.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Translation Insights](../../questions/Translation_Insights.md)
 
 ## Question [Translation Insights](../../questions/Translation_Insights.md)
 What are some suggested translations for the phrase 'image of God' when applied to humans and Jesus, and why might these translations be significant?

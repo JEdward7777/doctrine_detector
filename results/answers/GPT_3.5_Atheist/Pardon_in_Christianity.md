@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Pardon in Christianity](../../questions/Pardon_in_Christianity.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Pardon in Christianity](../../questions/Pardon_in_Christianity.md)
 
 ## Question [Pardon in Christianity](../../questions/Pardon_in_Christianity.md)
 How does the concept of pardon relate to God's forgiveness of sin through Jesus Christ?
@@ -21,7 +21,11 @@ The idea of pardon in this context also emphasizes the importance of repentance 
 Ultimately, the concept of pardon in the context of God's forgiveness through Jesus Christ reflects a belief in the possibility of redemption and transformation, allowing individuals to move past their mistakes and begin anew in their spiritual journey.
 
 ## Average Grade
-90.0
+89.0
 
 ## Grades
  * [90.0](./Pardon_in_Christianity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Pardon_in_Christianity_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Pardon_in_Christianity_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Pardon_in_Christianity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Pardon_in_Christianity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Politician](../../answering_models/mistral_Politician.md) answer to [Source of Holiness](../../questions/Source_of_Holiness.md)
+# Generated Answer from [mistral Politician](../../answering_models/mistral_Politician.md) for [Source of Holiness](../../questions/Source_of_Holiness.md)
 
 ## Question [Source of Holiness](../../questions/Source_of_Holiness.md)
 How do believers become saints according to the Christian faith?
@@ -23,3 +23,7 @@ By emphasizing this spiritual journey towards holiness, we can avoid potential m
 
 ## Grades
  * [90.0](./Source_of_Holiness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Source_of_Holiness_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Source_of_Holiness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Source_of_Holiness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Source_of_Holiness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

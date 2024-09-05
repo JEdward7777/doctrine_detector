@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [The Role of the Twelve Apostles](../../questions/The_Role_of_the_Twelve_Apostles.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [The Role of the Twelve Apostles](../../questions/The_Role_of_the_Twelve_Apostles.md)
 
 ## Question [The Role of the Twelve Apostles](../../questions/The_Role_of_the_Twelve_Apostles.md)
 Why were the twelve apostles significant among Jesus' disciples?
@@ -24,7 +24,11 @@ The Twelve Apostles were significant among Jesus' disciples for several reasons:
 It is important to note that as a Muslim, I believe that the concept of the Trinity (God being three persons: Father, Son, and Holy Spirit) is not compatible with Islamic beliefs. Muslims acknowledge Jesus as a messenger of Allah and hold him in high esteem, but we do not accept him as the Son of God or part of a divine Trinity.
 
 ## Average Grade
-60.0
+61.0
 
 ## Grades
  * [60.0](./The_Role_of_the_Twelve_Apostles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [40.0](./The_Role_of_the_Twelve_Apostles_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./The_Role_of_the_Twelve_Apostles_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./The_Role_of_the_Twelve_Apostles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./The_Role_of_the_Twelve_Apostles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

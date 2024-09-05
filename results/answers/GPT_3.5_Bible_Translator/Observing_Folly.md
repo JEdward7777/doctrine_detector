@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Observing Folly](../../questions/Observing_Folly.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Observing Folly](../../questions/Observing_Folly.md)
 
 ## Question [Observing Folly](../../questions/Observing_Folly.md)
 What are some actions that the Bible categorizes as folly?
@@ -24,7 +24,11 @@ In the Bible, folly is often associated with actions that reflect a lack of wisd
 Ultimately, folly in the biblical sense is a failure to align one's actions and attitudes with God's wisdom and will. The Bible teaches that true wisdom comes from fearing the Lord, seeking His guidance, and following His commandments.
 
 ## Average Grade
-90.0
+91.0
 
 ## Grades
  * [90.0](./Observing_Folly_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Observing_Folly_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Observing_Folly_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Observing_Folly_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Observing_Folly_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

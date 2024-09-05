@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Restoration of Relationships](../../questions/Restoration_of_Relationships.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Restoration of Relationships](../../questions/Restoration_of_Relationships.md)
 
 ## Question [Restoration of Relationships](../../questions/Restoration_of_Relationships.md)
 What does it mean for God to restore sinful people back to Himself?
@@ -25,7 +25,11 @@ In Islamic theology, the restoration of sinful people back to God (Allah) is a p
 In essence, for God to restore sinful people back to Himself means offering them a path of hope, redemption, and growth through sincere repentance and His infinite mercy. It acknowledges human fallibility while emphasizing the loving and forgiving nature of Allah, encouraging believers to seek His forgiveness and strive to live righteous lives.
 
 ## Average Grade
-80.0
+81.0
 
 ## Grades
  * [80.0](./Restoration_of_Relationships_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Restoration_of_Relationships_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Restoration_of_Relationships_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Restoration_of_Relationships_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Restoration_of_Relationships_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

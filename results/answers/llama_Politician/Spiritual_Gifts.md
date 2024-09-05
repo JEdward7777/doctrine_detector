@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Spiritual Gifts](../../questions/Spiritual_Gifts.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Spiritual Gifts](../../questions/Spiritual_Gifts.md)
 
 ## Question [Spiritual Gifts](../../questions/Spiritual_Gifts.md)
 What are the implications of the phrase 'spiritual gifts' as described in the Bible?
@@ -35,3 +35,7 @@ As we navigate these complex issues, I encourage us all to approach the concept 
 
 ## Grades
  * [85.0](./Spiritual_Gifts_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Spiritual_Gifts_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Spiritual_Gifts_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Spiritual_Gifts_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Spiritual_Gifts_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

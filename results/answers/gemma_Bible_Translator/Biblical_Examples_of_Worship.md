@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Biblical Examples of Worship](../../questions/Biblical_Examples_of_Worship.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Biblical Examples of Worship](../../questions/Biblical_Examples_of_Worship.md)
 
 ## Question [Biblical Examples of Worship](../../questions/Biblical_Examples_of_Worship.md)
 Can you identify an example from the Bible where worship is negatively contrasted with idol worship?

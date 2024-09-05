@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Calling to Sanctification](../../questions/Calling_to_Sanctification.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Calling to Sanctification](../../questions/Calling_to_Sanctification.md)
 
 ## Question [Calling to Sanctification](../../questions/Calling_to_Sanctification.md)
 What command is given to believers regarding their personal sanctification?
@@ -25,7 +25,11 @@ In Islam, believers are commanded to seek personal sanctification and purity thr
 In summary, personal sanctification in Islam involves a holistic approach that includes physical cleanliness, spiritual growth, ethical conduct, repentance, and adherence to the Sunnah. Believers are encouraged to strive continuously towards self-improvement and closeness to Allah.
 
 ## Average Grade
-80.0
+75.0
 
 ## Grades
  * [80.0](./Calling_to_Sanctification_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Calling_to_Sanctification_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Calling_to_Sanctification_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Calling_to_Sanctification_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Calling_to_Sanctification_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

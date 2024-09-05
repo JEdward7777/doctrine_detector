@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [The New Covenant](../../questions/The_New_Covenant.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [The New Covenant](../../questions/The_New_Covenant.md)
 
 ## Question [The New Covenant](../../questions/The_New_Covenant.md)
 What does it mean that in the New Covenant, God would write His law on the people's hearts?
@@ -28,7 +28,11 @@ In this New Covenant context, God's laws being written on people's hearts means 
 In summary, when God writes His laws on our hearts in the New Covenant, it means that He transforms us spiritually, gives us a conscience to guide us, enables us to love and obey Him from the heart, and provides intimate guidance for living a life pleasing to Him.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./The_New_Covenant_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./The_New_Covenant_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./The_New_Covenant_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./The_New_Covenant_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./The_New_Covenant_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [God's Purpose](../../questions/God_s_Purpose.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [God's Purpose](../../questions/God_s_Purpose.md)
 
 ## Question [God's Purpose](../../questions/God_s_Purpose.md)
 How can we discern what God has planned for us?
@@ -21,7 +21,11 @@ Furthermore, we can seek guidance through prayer (dua) and supplication. By turn
 It is also important to remember that while we may not always understand God's plan for us, we should have faith and trust in His wisdom and mercy. By submitting ourselves to His will and following His guidance, we can find peace and contentment in whatever He has decreed for us.
 
 ## Average Grade
-80.0
+77.0
 
 ## Grades
  * [80.0](./God_s_Purpose_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./God_s_Purpose_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./God_s_Purpose_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./God_s_Purpose_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./God_s_Purpose_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) answer to [Inheriting Eternal Life](../../questions/Inheriting_Eternal_Life.md)
+# Generated Answer from [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) for [Inheriting Eternal Life](../../questions/Inheriting_Eternal_Life.md)
 
 ## Question [Inheriting Eternal Life](../../questions/Inheriting_Eternal_Life.md)
 According to the Bible, what must one do to inherit eternal life?
@@ -27,7 +27,11 @@ According to the Bible, inheriting eternal life primarily involves faith in Jesu
 In summary, according to the Bible, to inherit eternal life, one is called to have faith in Jesus Christ, genuinely repent of sin, live in obedience to God's commandments, and embrace the love that God commands, recognizing that this gift is ultimately by God's grace.
 
 ## Average Grade
-90.0
+91.0
 
 ## Grades
  * [90.0](./Inheriting_Eternal_Life_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Inheriting_Eternal_Life_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Inheriting_Eternal_Life_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Inheriting_Eternal_Life_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Inheriting_Eternal_Life_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

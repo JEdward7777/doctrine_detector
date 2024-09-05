@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Translating El Shaddai](../../questions/Translating_El_Shaddai.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Translating El Shaddai](../../questions/Translating_El_Shaddai.md)
 
 ## Question [Translating El Shaddai](../../questions/Translating_El_Shaddai.md)
 How should the phrase 'El Shaddai' be translated in different languages based on local Bible translations?
@@ -25,7 +25,11 @@ Ultimately, our goal should be to find a translation that is both accurate and r
 Now, if I may ask, what specific languages or contexts are you interested in exploring further? I'm happy to offer any guidance or insights that might be helpful!
 
 ## Average Grade
-90.0
+80.0
 
 ## Grades
  * [90.0](./Translating_El_Shaddai_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Translating_El_Shaddai_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Translating_El_Shaddai_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Translating_El_Shaddai_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Translating_El_Shaddai_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

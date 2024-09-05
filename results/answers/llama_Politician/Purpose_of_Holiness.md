@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Purpose of Holiness](../../questions/Purpose_of_Holiness.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Purpose of Holiness](../../questions/Purpose_of_Holiness.md)
 
 ## Question [Purpose of Holiness](../../questions/Purpose_of_Holiness.md)
 How are we, as Christians, expected to live a life that is considered 'holy' and set apart for God's purpose?
@@ -27,7 +27,11 @@ And let's not forget the importance of self-care! In today's fast-paced world, i
 So, how do you envision living a life that is considered "holy" or "set apart"? What are some ways you're cultivating your faith journey? I'd love to hear from you!
 
 ## Average Grade
-80.0
+82.0
 
 ## Grades
  * [80.0](./Purpose_of_Holiness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [75.0](./Purpose_of_Holiness_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Purpose_of_Holiness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Purpose_of_Holiness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Purpose_of_Holiness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [Role of Priests](../../questions/Role_of_Priests.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [Role of Priests](../../questions/Role_of_Priests.md)
 
 ## Question [Role of Priests](../../questions/Role_of_Priests.md)
 What were the main responsibilities of priests in the Old Testament according to the Bible?
@@ -29,7 +29,11 @@ In the Old Testament, priests held significant responsibilities and played a cen
 These roles were primarily fulfilled by the descendants of Aaron, the brother of Moses, who were designated as the Levitical priests. The establishment of these roles and practices is detailed in the Pentateuch, particularly in Leviticus and Exodus.
 
 ## Average Grade
-80.0
+78.0
 
 ## Grades
  * [80.0](./Role_of_Priests_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Role_of_Priests_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Role_of_Priests_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Role_of_Priests_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Role_of_Priests_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

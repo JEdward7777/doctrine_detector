@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [Role of the High Priest](../../questions/Role_of_the_High_Priest.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [Role of the High Priest](../../questions/Role_of_the_High_Priest.md)
 
 ## Question [Role of the High Priest](../../questions/Role_of_the_High_Priest.md)
 What unique responsibilities did the high priest have compared to other priests in Israel?
@@ -31,7 +31,11 @@ In ancient Israel, the high priest (Kohen Gadol) held a unique and elevated posi
 The high priest's combination of these responsibilities highlights a profound level of spiritual authority and obligation that set him apart within the priestly system in ancient Israel.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Role_of_the_High_Priest_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Role_of_the_High_Priest_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Role_of_the_High_Priest_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Role_of_the_High_Priest_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Role_of_the_High_Priest_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

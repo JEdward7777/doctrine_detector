@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Assurance of Salvation](../../questions/Assurance_of_Salvation.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Assurance of Salvation](../../questions/Assurance_of_Salvation.md)
 
 ## Question [Assurance of Salvation](../../questions/Assurance_of_Salvation.md)
 What assurance is given to those who believe in Jesus?
@@ -21,7 +21,11 @@ It is important to note that while Muslims believe in Jesus, our understanding d
 In summary, those who believe in Jesus within Islam are assured that they will receive the same rewards as all believers, but their understanding and practice of faith should be consistent with Islamic teachings.
 
 ## Average Grade
-30.0
+42.0
 
 ## Grades
  * [30.0](./Assurance_of_Salvation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [60.0](./Assurance_of_Salvation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [50.0](./Assurance_of_Salvation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [30.0](./Assurance_of_Salvation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [40.0](./Assurance_of_Salvation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

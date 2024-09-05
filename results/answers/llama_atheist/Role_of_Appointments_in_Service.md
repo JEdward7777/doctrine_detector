@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Role of Appointments in Service](../../questions/Role_of_Appointments_in_Service.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Role of Appointments in Service](../../questions/Role_of_Appointments_in_Service.md)
 
 ## Question [Role of Appointments in Service](../../questions/Role_of_Appointments_in_Service.md)
 In what ways are Christians called to fulfill the roles they are appointed to within the Church?
@@ -27,7 +27,11 @@ Lastly, every Christian is called to live a life that reflects Christ's characte
 In summary, Christians are called to fulfill various roles within the Church based on their gifts, talents, and individual callings. These roles include being part of the priesthood of all believers, serving one another, fulfilling specific offices, engaging in evangelism and mission, and living a life that reflects Christ's character and teachings.
 
 ## Average Grade
-90.0
+91.0
 
 ## Grades
  * [90.0](./Role_of_Appointments_in_Service_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Role_of_Appointments_in_Service_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Role_of_Appointments_in_Service_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Role_of_Appointments_in_Service_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Role_of_Appointments_in_Service_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

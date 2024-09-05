@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Daily Bearing the Cross](../../questions/Daily_Bearing_the_Cross.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Daily Bearing the Cross](../../questions/Daily_Bearing_the_Cross.md)
 
 ## Question [Daily Bearing the Cross](../../questions/Daily_Bearing_the_Cross.md)
 What does it mean to 'take up your cross' as mentioned in Luke 9:23?
@@ -37,3 +37,7 @@ As Christians, we must be willing to "take up our cross" daily, surrendering to 
 
 ## Grades
  * [95.0](./Daily_Bearing_the_Cross_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Daily_Bearing_the_Cross_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Daily_Bearing_the_Cross_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Daily_Bearing_the_Cross_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Daily_Bearing_the_Cross_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

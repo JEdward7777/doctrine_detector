@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Jewish Identity in Christianity](../../questions/Jewish_Identity_in_Christianity.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Jewish Identity in Christianity](../../questions/Jewish_Identity_in_Christianity.md)
 
 ## Question [Jewish Identity in Christianity](../../questions/Jewish_Identity_in_Christianity.md)
 What significance does the Jewish identity of Jesus hold for Christians?
@@ -23,7 +23,11 @@ Third, Jesus' teachings often referred to Jewish history, customs, and beliefs, 
 Finally, recognizing Jesus' Jewish identity encourages Christians to appreciate and respect the Jewish faith and people. It reminds believers of their shared heritage and spiritual connection with the Jewish community, fostering unity and mutual understanding.
 
 ## Average Grade
-90.0
+91.0
 
 ## Grades
  * [90.0](./Jewish_Identity_in_Christianity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Jewish_Identity_in_Christianity_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Jewish_Identity_in_Christianity_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Jewish_Identity_in_Christianity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Jewish_Identity_in_Christianity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Covenant and Obedience](../../questions/Covenant_and_Obedience.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Covenant and Obedience](../../questions/Covenant_and_Obedience.md)
 
 ## Question [Covenant and Obedience](../../questions/Covenant_and_Obedience.md)
 What role did obedience to God's laws play in the Israelites' journey toward the Promised Land?
@@ -23,7 +23,11 @@ However, the Israelites faced struggles and setbacks when they disobeyed God's l
 Ultimately, it was the Israelites' adherence to God's laws and their faith in His promise that allowed them to eventually reach the Promised Land and receive His blessings. This journey serves as a reminder for Muslims to obey Allah's laws and commandments, as obedience is a means of drawing closer to Him and attaining His mercy and guidance in our own lives.
 
 ## Average Grade
-85.0
+89.0
 
 ## Grades
  * [85.0](./Covenant_and_Obedience_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Covenant_and_Obedience_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Covenant_and_Obedience_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Covenant_and_Obedience_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Covenant_and_Obedience_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

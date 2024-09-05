@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Politician](../../answering_models/mistral_Politician.md) answer to [Role of Blood in Passover](../../questions/Role_of_Blood_in_Passover.md)
+# Generated Answer from [mistral Politician](../../answering_models/mistral_Politician.md) for [Role of Blood in Passover](../../questions/Role_of_Blood_in_Passover.md)
 
 ## Question [Role of Blood in Passover](../../questions/Role_of_Blood_in_Passover.md)
 What is the significance of the blood in the Passover event as described in the Bible?
@@ -19,7 +19,11 @@ In this story, the angel of death passed over the homes of the Israelites marked
 It's essential to recognize the symbolic value of this event without overlooking its historical context or diminishing its importance for those who hold it dear. The Passover story is an essential part of Jewish history and identity, teaching themes such as faith, freedom, and deliverance from oppression.
 
 ## Average Grade
-90.0
+79.0
 
 ## Grades
  * [90.0](./Role_of_Blood_in_Passover_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Role_of_Blood_in_Passover_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Role_of_Blood_in_Passover_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Role_of_Blood_in_Passover_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Role_of_Blood_in_Passover_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Authority of Parents](../../questions/Authority_of_Parents.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Authority of Parents](../../questions/Authority_of_Parents.md)
 
 ## Question [Authority of Parents](../../questions/Authority_of_Parents.md)
 What is the Biblical basis for parental authority over children?

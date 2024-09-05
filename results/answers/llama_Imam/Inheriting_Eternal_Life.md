@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Inheriting Eternal Life](../../questions/Inheriting_Eternal_Life.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Inheriting Eternal Life](../../questions/Inheriting_Eternal_Life.md)
 
 ## Question [Inheriting Eternal Life](../../questions/Inheriting_Eternal_Life.md)
 According to the Bible, what must one do to inherit eternal life?
@@ -27,7 +27,11 @@ In Islam, we believe that one must submit to the will of Allah and follow the gu
 Again, I apologize for any oversimplification or misunderstanding of Christian scripture. As a Muslim Imam, my primary responsibility is to guide Muslims based on the Quran and Sunnah, and not to provide an in-depth analysis of other religions' beliefs.
 
 ## Average Grade
-60.0
+70.0
 
 ## Grades
  * [60.0](./Inheriting_Eternal_Life_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Inheriting_Eternal_Life_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [75.0](./Inheriting_Eternal_Life_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Inheriting_Eternal_Life_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Inheriting_Eternal_Life_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

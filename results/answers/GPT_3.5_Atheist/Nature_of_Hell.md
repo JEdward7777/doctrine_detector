@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Nature of Hell](../../questions/Nature_of_Hell.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Nature of Hell](../../questions/Nature_of_Hell.md)
 
 ## Question [Nature of Hell](../../questions/Nature_of_Hell.md)
 What does the Bible say about the nature and experience of hell?
@@ -19,7 +19,11 @@ Different interpretations and beliefs about Hell exist within Christianity, with
 As an atheistic scholar, it is important to acknowledge the diversity of beliefs about Hell within Christianity and to approach the topic with an understanding of different interpretations and perspectives. It is also worth noting that beliefs about Hell are not universal across all religious traditions, and different cultures and religions may have their own beliefs about the afterlife and punishment for wrongdoing.
 
 ## Average Grade
-60.0
+66.0
 
 ## Grades
  * [60.0](./Nature_of_Hell_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [40.0](./Nature_of_Hell_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Nature_of_Hell_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [75.0](./Nature_of_Hell_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Nature_of_Hell_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

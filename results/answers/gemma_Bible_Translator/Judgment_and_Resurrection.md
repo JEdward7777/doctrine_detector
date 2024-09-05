@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Judgment and Resurrection](../../questions/Judgment_and_Resurrection.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Judgment and Resurrection](../../questions/Judgment_and_Resurrection.md)
 
 ## Question [Judgment and Resurrection](../../questions/Judgment_and_Resurrection.md)
 What events are associated with the 'day of Yahweh' or 'day of the Lord'?

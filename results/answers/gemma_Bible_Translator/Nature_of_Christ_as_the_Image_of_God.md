@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Nature of Christ as the Image of God](../../questions/Nature_of_Christ_as_the_Image_of_God.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Nature of Christ as the Image of God](../../questions/Nature_of_Christ_as_the_Image_of_God.md)
 
 ## Question [Nature of Christ as the Image of God](../../questions/Nature_of_Christ_as_the_Image_of_God.md)
 How is Jesus described as the image of God, and what is the significance of this in Christian belief?

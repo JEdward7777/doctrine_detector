@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Role of Blood in Passover](../../questions/Role_of_Blood_in_Passover.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Role of Blood in Passover](../../questions/Role_of_Blood_in_Passover.md)
 
 ## Question [Role of Blood in Passover](../../questions/Role_of_Blood_in_Passover.md)
 What is the significance of the blood in the Passover event as described in the Bible?
@@ -25,7 +25,11 @@ And hey, who knows? Maybe one day we'll find a way to make the whole "blood on d
 Anyway, that's my take on the significance of blood in Passover. What do you think? Do you have any other insights to share?
 
 ## Average Grade
-40.0
+36.0
 
 ## Grades
  * [40.0](./Role_of_Blood_in_Passover_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [30.0](./Role_of_Blood_in_Passover_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [20.0](./Role_of_Blood_in_Passover_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [30.0](./Role_of_Blood_in_Passover_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Role_of_Blood_in_Passover_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

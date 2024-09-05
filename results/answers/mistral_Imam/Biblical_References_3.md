@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Biblical References 3](../../questions/Biblical_References_3.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Biblical References 3](../../questions/Biblical_References_3.md)
 
 ## Question [Biblical References 3](../../questions/Biblical_References_3.md)
 Which Old Testament references contribute to the understanding of the 'Son of Man' as the coming Messiah?
@@ -23,7 +23,11 @@ To explore how the Old Testament informs the New Testament understanding of Jesu
 4. Psalm 2:7-8: In this passage, God is said to have declared the Messiah as his beloved Son and given him dominion over the nations. This is another passage where the concept of the Messiah as a divine figure is emphasized.
 
 ## Average Grade
-85.0
+73.0
 
 ## Grades
  * [85.0](./Biblical_References_3_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Biblical_References_3_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Biblical_References_3_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Biblical_References_3_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Biblical_References_3_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

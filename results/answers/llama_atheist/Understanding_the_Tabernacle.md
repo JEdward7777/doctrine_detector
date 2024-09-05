@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Understanding the Tabernacle](../../questions/Understanding_the_Tabernacle.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Understanding the Tabernacle](../../questions/Understanding_the_Tabernacle.md)
 
 ## Question [Understanding the Tabernacle](../../questions/Understanding_the_Tabernacle.md)
 What was the purpose of the tabernacle for the Israelites during their 40 years in the desert?
@@ -27,7 +27,11 @@ Furthermore, the Tabernacle's design and furnishings can be seen as reflecting t
 In summary, the purpose of the Tabernacle during the Israelites' 40-year journey was multifaceted. It served as a center of authority, community gathering place, symbol of divine guidance, and cultural icon, all while reflecting the artistic and cultural traditions of the ancient Near East.
 
 ## Average Grade
-40.0
+52.0
 
 ## Grades
  * [40.0](./Understanding_the_Tabernacle_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [50.0](./Understanding_the_Tabernacle_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Understanding_the_Tabernacle_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Understanding_the_Tabernacle_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [40.0](./Understanding_the_Tabernacle_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

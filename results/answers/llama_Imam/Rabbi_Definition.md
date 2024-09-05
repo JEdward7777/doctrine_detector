@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Rabbi Definition](../../questions/Rabbi_Definition.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Rabbi Definition](../../questions/Rabbi_Definition.md)
 
 ## Question [Rabbi Definition](../../questions/Rabbi_Definition.md)
 What does the term 'Rabbi' mean in the context of Christian teaching?
@@ -23,7 +23,11 @@ In Christian theology, the term "Rabbi" also carries connotations of wisdom, aut
 As a Muslim Imam, I acknowledge the importance of respect and reverence for all prophets, including Jesus (peace be upon him), who is considered a revered figure in Islam. While we may have differences in our respective religious traditions, we can still learn from one another and recognize the shared values of wisdom, guidance, and spiritual leadership embodied by the title "Rabbi."
 
 ## Average Grade
-85.0
+86.0
 
 ## Grades
  * [85.0](./Rabbi_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Rabbi_Definition_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Rabbi_Definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Rabbi_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Rabbi_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

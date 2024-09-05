@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Compassion Definition](../../questions/Compassion_Definition.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Compassion Definition](../../questions/Compassion_Definition.md)
 
 ## Question [Compassion Definition](../../questions/Compassion_Definition.md)
 How does the Bible define compassion and what actions are associated with being compassionate?
@@ -31,7 +31,11 @@ Some actions associated with being compassionate in Islam include:
 Overall, compassion in Islam is a multifaceted concept that encompasses both feelings of empathy and mercy, as well as positive actions towards others. Muslims are encouraged to embody compassion in their daily lives and interactions, following the example set by the Prophet Muhammad, peace be upon him.
 
 ## Average Grade
-40.0
+54.0
 
 ## Grades
  * [40.0](./Compassion_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Compassion_Definition_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [40.0](./Compassion_Definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Compassion_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Compassion_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

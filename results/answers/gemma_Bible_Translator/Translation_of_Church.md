@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Translation of Church](../../questions/Translation_of_Church.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Translation of Church](../../questions/Translation_of_Church.md)
 
 ## Question [Translation of Church](../../questions/Translation_of_Church.md)
 What are some suggested translations for the term 'church' that reflect its meaning?

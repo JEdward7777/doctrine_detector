@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) answer to [Son of God](../../questions/Son_of_God.md)
+# Generated Answer from [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) for [Son of God](../../questions/Son_of_God.md)
 
 ## Question [Son of God](../../questions/Son_of_God.md)
 What distinguishes the title 'Son of God' as it refers to Jesus from the term 'sons of God' used for believers?
@@ -25,7 +25,11 @@ The distinction between the title "Son of God" as it refers to Jesus and the ter
 In essence, while both terms express a relationship with God, "Son of God" refers to Jesus' unique status and divinity, while "sons of God" denotes the collective identity of believers as children of the Heavenly Father through faith. Understanding these distinctions helps foster a deeper comprehension of Christian theology and the significance of Jesus in the faith.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Son_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Son_of_God_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Son_of_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Son_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Son_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

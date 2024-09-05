@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Biblical Usage of Woe](../../questions/Biblical_Usage_of_Woe.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Biblical Usage of Woe](../../questions/Biblical_Usage_of_Woe.md)
 
 ## Question [Biblical Usage of Woe](../../questions/Biblical_Usage_of_Woe.md)
 Can you provide examples of where the term 'woe' is used in the Bible, and what do they reveal about God's judgment?

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Hope and Assurance](../../questions/Hope_and_Assurance.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Hope and Assurance](../../questions/Hope_and_Assurance.md)
 
 ## Question [Hope and Assurance](../../questions/Hope_and_Assurance.md)
 What is the significance of having no hope according to biblical references?
@@ -21,7 +21,11 @@ Moreover, the absence of hope can also be viewed as a catalyst for transformatio
 Ultimately, while the state of having no hope may be a challenging and distressing experience, it is often depicted in biblical references as a precursor to spiritual growth, restoration, and the eventual realization of God's saving grace.
 
 ## Average Grade
-90.0
+92.0
 
 ## Grades
  * [90.0](./Hope_and_Assurance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Hope_and_Assurance_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Hope_and_Assurance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Hope_and_Assurance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Hope_and_Assurance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

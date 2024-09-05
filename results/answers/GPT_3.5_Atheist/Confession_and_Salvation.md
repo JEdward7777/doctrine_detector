@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Confession and Salvation](../../questions/Confession_and_Salvation.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Confession and Salvation](../../questions/Confession_and_Salvation.md)
 
 ## Question [Confession and Salvation](../../questions/Confession_and_Salvation.md)
 What is the relationship between confessing that Jesus is Lord and being saved according to Paul's writings?
@@ -21,7 +21,11 @@ According to Paul, acknowledging Jesus as Lord demonstrates an individual's fait
 It is important to approach these concepts with an understanding of their cultural and religious significance, while also recognizing that interpretations and beliefs may vary among different theological perspectives.
 
 ## Average Grade
-85.0
+84.0
 
 ## Grades
  * [85.0](./Confession_and_Salvation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Confession_and_Salvation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Confession_and_Salvation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Confession_and_Salvation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Confession_and_Salvation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

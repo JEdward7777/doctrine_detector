@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) answer to [Exalting God](../../questions/Exalting_God.md)
+# Generated Answer from [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) for [Exalting God](../../questions/Exalting_God.md)
 
 ## Question [Exalting God](../../questions/Exalting_God.md)
 What does it mean to exalt God in your daily life?
@@ -31,7 +31,11 @@ Exalting God in your daily life can take many forms and is deeply personal and s
 Ultimately, exalting God can be seen as a commitment to living in a way that reflects one’s values and beliefs, while also being considerate and respectful of the diverse perspectives that others may hold.
 
 ## Average Grade
-40.0
+63.0
 
 ## Grades
  * [40.0](./Exalting_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Exalting_God_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Exalting_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Exalting_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Exalting_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

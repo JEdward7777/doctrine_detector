@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [God's Wrath](../../questions/God_s_Wrath.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [God's Wrath](../../questions/God_s_Wrath.md)
 
 ## Question [God's Wrath](../../questions/God_s_Wrath.md)
 How is God's punishment described during the 'day of Yahweh'?
@@ -17,7 +17,11 @@ During the 'day of Yahweh', God's punishment is often described in various ancie
 It is important to note that these descriptions are rooted in the cultural beliefs and historical context of the time in which these texts were written, and should be understood within that framework. As an atheistic scholar, it is essential to approach these texts with a critical and analytical mindset, considering the socio-political factors that may have influenced the portrayal of God's punishment in them.
 
 ## Average Grade
-40.0
+45.0
 
 ## Grades
  * [40.0](./God_s_Wrath_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [20.0](./God_s_Wrath_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [40.0](./God_s_Wrath_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [40.0](./God_s_Wrath_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./God_s_Wrath_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

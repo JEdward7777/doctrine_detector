@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) answer to [New Testament Redemption](../../questions/New_Testament_Redemption.md)
+# Generated Answer from [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) for [New Testament Redemption](../../questions/New_Testament_Redemption.md)
 
 ## Question [New Testament Redemption](../../questions/New_Testament_Redemption.md)
 How does the concept of purification change from the Old Testament to the New Testament?
@@ -37,7 +37,11 @@ The concept of purification in the Bible evolves significantly from the Old Test
 In summary, while purification in the Old Testament focused on ritual practices and adherence to the Law, the New Testament reinterprets this concept through the lens of the Gospel, emphasizing faith in Christ, the inner work of the Holy Spirit, and the transformative power of grace. The shift highlights a move from external observance to internal holiness, culminating in the believer's relationship with Jesus as the source of true purification.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./New_Testament_Redemption_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./New_Testament_Redemption_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./New_Testament_Redemption_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./New_Testament_Redemption_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./New_Testament_Redemption_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

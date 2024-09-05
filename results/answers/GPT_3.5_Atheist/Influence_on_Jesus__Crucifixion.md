@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Influence on Jesus' Crucifixion](../../questions/Influence_on_Jesus__Crucifixion.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Influence on Jesus' Crucifixion](../../questions/Influence_on_Jesus__Crucifixion.md)
 
 ## Question [Influence on Jesus' Crucifixion](../../questions/Influence_on_Jesus__Crucifixion.md)
 How did the Sadducees and Pharisees influence the decision to crucify Jesus, and what does this reveal about their character?
@@ -19,7 +19,11 @@ Their decision to collaborate with the Roman authorities to have Jesus crucified
 Overall, the actions of the Sadducees and Pharisees in the crucifixion of Jesus serve as a cautionary tale about the dangers of religious and political institutions becoming corrupt and using their power for self-serving purposes, rather than for the greater good of society.
 
 ## Average Grade
-90.0
+89.0
 
 ## Grades
  * [90.0](./Influence_on_Jesus__Crucifixion_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Influence_on_Jesus__Crucifixion_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Influence_on_Jesus__Crucifixion_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Influence_on_Jesus__Crucifixion_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Influence_on_Jesus__Crucifixion_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

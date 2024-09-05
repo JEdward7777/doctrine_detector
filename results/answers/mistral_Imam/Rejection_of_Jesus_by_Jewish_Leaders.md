@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Rejection of Jesus by Jewish Leaders](../../questions/Rejection_of_Jesus_by_Jewish_Leaders.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Rejection of Jesus by Jewish Leaders](../../questions/Rejection_of_Jesus_by_Jewish_Leaders.md)
 
 ## Question [Rejection of Jesus by Jewish Leaders](../../questions/Rejection_of_Jesus_by_Jewish_Leaders.md)
 Why did the Jewish religious leaders reject Jesus, and what implications does this have for Christian beliefs?
@@ -21,7 +21,11 @@ The implications for Christian beliefs are complex, as different denominations m
 In Islamic belief, Isa did not die on the cross but was raised miraculously to heaven, and a man named Al-Masih al-Dajjal (the false Messiah) was crucified instead. Muslims revere Jesus as one of the greatest prophets in human history, acknowledging his virgin birth, miracles, and ascension to heaven. The different perspectives on this historical event reflect the diversity of religious beliefs and interpretations among followers of Abrahamic faiths.
 
 ## Average Grade
-85.0
+80.0
 
 ## Grades
  * [85.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [75.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [65.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

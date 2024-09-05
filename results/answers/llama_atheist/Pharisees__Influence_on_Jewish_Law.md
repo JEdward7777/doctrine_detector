@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Pharisees' Influence on Jewish Law](../../questions/Pharisees__Influence_on_Jewish_Law.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Pharisees' Influence on Jewish Law](../../questions/Pharisees__Influence_on_Jewish_Law.md)
 
 ## Question [Pharisees' Influence on Jewish Law](../../questions/Pharisees__Influence_on_Jewish_Law.md)
 How did the Pharisees' strict adherence to the Laws of Moses impact their relationship with Jesus and early Christians?
@@ -25,7 +25,11 @@ However, it's also important to note that not all Pharisees rejected Jesus or Hi
 In summary, the Pharisees' strict adherence to the Laws of Moses led them to view Jesus as a threat to their authority and traditions. This rejection ultimately contributed to the persecution and martyrdom of early Christians, who were seen as apostates for abandoning Jewish customs and practices in favor of following Jesus.
 
 ## Average Grade
-85.0
+87.0
 
 ## Grades
  * [85.0](./Pharisees__Influence_on_Jewish_Law_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Pharisees__Influence_on_Jewish_Law_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Pharisees__Influence_on_Jewish_Law_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Pharisees__Influence_on_Jewish_Law_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Pharisees__Influence_on_Jewish_Law_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

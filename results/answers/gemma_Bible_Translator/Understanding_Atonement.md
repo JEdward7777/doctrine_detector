@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Understanding Atonement](../../questions/Understanding_Atonement.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Understanding Atonement](../../questions/Understanding_Atonement.md)
 
 ## Question [Understanding Atonement](../../questions/Understanding_Atonement.md)
 What is the significance of Christ's death as the permanent atonement for sin in Christian belief?

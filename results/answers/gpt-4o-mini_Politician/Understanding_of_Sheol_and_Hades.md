@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) answer to [Understanding of Sheol and Hades](../../questions/Understanding_of_Sheol_and_Hades.md)
+# Generated Answer from [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) for [Understanding of Sheol and Hades](../../questions/Understanding_of_Sheol_and_Hades.md)
 
 ## Question [Understanding of Sheol and Hades](../../questions/Understanding_of_Sheol_and_Hades.md)
 How do the concepts of Sheol and Hades differ in the context of the Bible, especially in relation to the afterlife of the righteous versus the unrighteous?
@@ -21,7 +21,11 @@ The concepts of Sheol and Hades, while often used interchangeably in contemporar
 In summary, while both Sheol and Hades are depictions of the realm of the dead, Sheol is more often associated with the Hebrew scriptures and represents a less defined, more neutral state, encompassing both the righteous and unrighteous. Hades, as depicted in the New Testament, begins to introduce a clearer distinction between the fates of the righteous and the unrighteous, reflecting a more developed theology of the afterlife. This nuanced understanding illustrates the evolving beliefs associated with mortality and the afterlife across different cultures and theological frameworks.
 
 ## Average Grade
-95.0
+88.0
 
 ## Grades
  * [95.0](./Understanding_of_Sheol_and_Hades_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Understanding_of_Sheol_and_Hades_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Understanding_of_Sheol_and_Hades_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Understanding_of_Sheol_and_Hades_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_of_Sheol_and_Hades_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

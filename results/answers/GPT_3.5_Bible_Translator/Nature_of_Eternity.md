@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Nature of Eternity](../../questions/Nature_of_Eternity.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Nature of Eternity](../../questions/Nature_of_Eternity.md)
 
 ## Question [Nature of Eternity](../../questions/Nature_of_Eternity.md)
 How is eternity defined in the context of Christian beliefs?
@@ -21,7 +21,11 @@ Christian theology teaches that those who are faithful to God will experience et
 Ultimately, the concept of eternity in Christian beliefs underscores the idea of the infinite and unchanging nature of God, who exists outside of time and offers the promise of everlasting joy and fulfillment to those who place their trust in Him.
 
 ## Average Grade
-95.0
+91.0
 
 ## Grades
  * [95.0](./Nature_of_Eternity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Nature_of_Eternity_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Nature_of_Eternity_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Nature_of_Eternity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Nature_of_Eternity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

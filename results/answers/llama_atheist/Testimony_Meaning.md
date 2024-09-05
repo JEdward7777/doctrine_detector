@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Testimony Meaning](../../questions/Testimony_Meaning.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Testimony Meaning](../../questions/Testimony_Meaning.md)
 
 ## Question [Testimony Meaning](../../questions/Testimony_Meaning.md)
 What is the significance of testimony in the context of the Bible, particularly regarding the commandments of God?
@@ -30,7 +30,11 @@ To illustrate this concept, consider the story of Joshua at Jericho (Joshua 6). 
 In conclusion, testimony plays a vital role in establishing the authority and validity of biblical commandments. By providing evidence, authenticating divine revelation, establishing authority, offering moral guidance, and fostering community, testimony helps to create a sense of shared responsibility and commitment among those who follow God's commands.
 
 ## Average Grade
-60.0
+75.4
 
 ## Grades
  * [60.0](./Testimony_Meaning_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [72.0](./Testimony_Meaning_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Testimony_Meaning_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Testimony_Meaning_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Testimony_Meaning_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

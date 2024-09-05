@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Understanding Heirs and Inheritance in Christianity](../../questions/Understanding_Heirs_and_Inheritance_in_Christianity.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Understanding Heirs and Inheritance in Christianity](../../questions/Understanding_Heirs_and_Inheritance_in_Christianity.md)
 
 ## Question [Understanding Heirs and Inheritance in Christianity](../../questions/Understanding_Heirs_and_Inheritance_in_Christianity.md)
 How does the concept of being an heir relate to the Christian understanding of receiving God's promises?
@@ -23,7 +23,11 @@ Both traditions emphasize the importance of faith and righteous deeds as a means
 In summary, the concept of being an heir in both traditions reflects the understanding of receiving God's promises, but it is framed within differing theological contexts. In Islam, it is closely tied to the concepts of community, responsibility, and moral conduct both in this life and the Hereafter.
 
 ## Average Grade
-90.0
+89.0
 
 ## Grades
  * [90.0](./Understanding_Heirs_and_Inheritance_in_Christianity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Understanding_Heirs_and_Inheritance_in_Christianity_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Understanding_Heirs_and_Inheritance_in_Christianity_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Understanding_Heirs_and_Inheritance_in_Christianity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_Heirs_and_Inheritance_in_Christianity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

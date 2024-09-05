@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [Requirements for Salvation](../../questions/Requirements_for_Salvation.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [Requirements for Salvation](../../questions/Requirements_for_Salvation.md)
 
 ## Question [Requirements for Salvation](../../questions/Requirements_for_Salvation.md)
 What does the Bible say is required for a person to be saved?
@@ -27,7 +27,11 @@ The Bible outlines several key components that are often cited in discussions ab
 Different denominations and theological perspectives may interpret these elements in varying ways, but these themes capture the core requirements for salvation as presented in the Bible.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Requirements_for_Salvation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Requirements_for_Salvation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Requirements_for_Salvation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Requirements_for_Salvation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Requirements_for_Salvation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

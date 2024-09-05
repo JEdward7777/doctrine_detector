@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Application of Reconciliation](../../questions/Application_of_Reconciliation.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Application of Reconciliation](../../questions/Application_of_Reconciliation.md)
 
 ## Question [Application of Reconciliation](../../questions/Application_of_Reconciliation.md)
 In what ways can Christians apply the principle of reconciliation to their relationships with others?
@@ -27,7 +27,11 @@ The principle of reconciliation, as understood within the Christian faith, empha
 It is important to note that while Christians may draw inspiration and guidance from their faith in practicing reconciliation, these principles are not exclusive to Christianity. Individuals of all backgrounds can benefit from incorporating these practices into their relationships to promote understanding, empathy, and peace.
 
 ## Average Grade
-80.0
+84.0
 
 ## Grades
  * [80.0](./Application_of_Reconciliation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Application_of_Reconciliation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Application_of_Reconciliation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Application_of_Reconciliation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Application_of_Reconciliation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

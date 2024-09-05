@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Signs and Miracles](../../questions/Signs_and_Miracles.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Signs and Miracles](../../questions/Signs_and_Miracles.md)
 
 ## Question [Signs and Miracles](../../questions/Signs_and_Miracles.md)
 What role do signs and miracles play in proving the truth of God's message, as seen in the acts of Jesus and the apostles?
@@ -23,7 +23,11 @@ The Quran acknowledges the miracles performed by the prophets as signs of God's 
 Ultimately, the main purpose of signs and miracles in the context of prophethood is to invite people to faith, to reinforce the message of the prophets, and to distinguish the truth from falsehood. Muslims are encouraged to ponder over the miraculous nature of the Quran and to seek guidance from it in order to strengthen their faith and connection with God.
 
 ## Average Grade
-90.0
+85.0
 
 ## Grades
  * [90.0](./Signs_and_Miracles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Signs_and_Miracles_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Signs_and_Miracles_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Signs_and_Miracles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Signs_and_Miracles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

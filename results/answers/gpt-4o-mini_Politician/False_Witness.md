@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) answer to [False Witness](../../questions/False_Witness.md)
+# Generated Answer from [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) for [False Witness](../../questions/False_Witness.md)
 
 ## Question [False Witness](../../questions/False_Witness.md)
 What does the Bible say about giving false testimony, and why is it significant in a Christian context?
@@ -21,7 +21,11 @@ Moreover, false testimony can undermine the witness of the Christian faith, as b
 In summary, the prohibition against giving false testimony is vital within Christianity as it aligns with core values of truth, justice, and love for one's neighbor, promoting harmony and trust in relationships and society at large.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./False_Witness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./False_Witness_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./False_Witness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./False_Witness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./False_Witness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

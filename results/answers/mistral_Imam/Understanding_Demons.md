@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Understanding Demons](../../questions/Understanding_Demons.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Understanding Demons](../../questions/Understanding_Demons.md)
 
 ## Question [Understanding Demons](../../questions/Understanding_Demons.md)
 What does the term 'unclean spirit' signify in relation to demons as described in Christian teachings?
@@ -19,7 +19,11 @@ The term 'unclean spirit' signifies something impure or malevolent in Christian 
 It's important to note that while there are similarities between Islamic and Christian beliefs regarding spiritual beings, there are also significant differences. These variations stem from unique historical, cultural, and religious contexts. For a deeper understanding of these topics, it's recommended to consult authentic Islamic texts, such as the Quran and Hadith, with an accredited scholar or Imam.
 
 ## Average Grade
-70.0
+81.0
 
 ## Grades
  * [70.0](./Understanding_Demons_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Understanding_Demons_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Understanding_Demons_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Understanding_Demons_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Understanding_Demons_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

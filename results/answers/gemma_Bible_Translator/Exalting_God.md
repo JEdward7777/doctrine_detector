@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Exalting God](../../questions/Exalting_God.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Exalting God](../../questions/Exalting_God.md)
 
 ## Question [Exalting God](../../questions/Exalting_God.md)
 What does it mean to exalt God in your daily life?

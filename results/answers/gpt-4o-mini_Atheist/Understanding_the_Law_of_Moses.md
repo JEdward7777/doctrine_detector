@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [Understanding the Law of Moses](../../questions/Understanding_the_Law_of_Moses.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [Understanding the Law of Moses](../../questions/Understanding_the_Law_of_Moses.md)
 
 ## Question [Understanding the Law of Moses](../../questions/Understanding_the_Law_of_Moses.md)
 What are some of the specific commandments included in the Law of Moses that God gave for the Israelites to obey?
@@ -52,7 +52,11 @@ The Law of Moses, often referred to as the Torah, encompasses a wide range of co
 These commandments served various functions, including maintaining social order, prescribing religious observance, and shaping the identity of the Israelite community. They reflect the cultural and historical context of ancient Israel and continue to be subjects of study and discussion in various scholarly and religious circles.
 
 ## Average Grade
-90.0
+89.0
 
 ## Grades
  * [90.0](./Understanding_the_Law_of_Moses_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Understanding_the_Law_of_Moses_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Understanding_the_Law_of_Moses_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Understanding_the_Law_of_Moses_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_the_Law_of_Moses_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

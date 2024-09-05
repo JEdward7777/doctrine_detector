@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Sanctification in the New Testament](../../questions/Sanctification_in_the_New_Testament.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Sanctification in the New Testament](../../questions/Sanctification_in_the_New_Testament.md)
 
 ## Question [Sanctification in the New Testament](../../questions/Sanctification_in_the_New_Testament.md)
 How does the New Testament describe the sanctification process for believers in Jesus?
@@ -49,7 +49,11 @@ Recognizing the role of faith in the process of sanctification.
 * 1 Peter 1:1 - "Blessed be the God and Father of our Lord Jesus Christ, who according to his great mercy has given us a new birth to a living hope."
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Sanctification_in_the_New_Testament_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Sanctification_in_the_New_Testament_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Sanctification_in_the_New_Testament_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Sanctification_in_the_New_Testament_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Sanctification_in_the_New_Testament_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

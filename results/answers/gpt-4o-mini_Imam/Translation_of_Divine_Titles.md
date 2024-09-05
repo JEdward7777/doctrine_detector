@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Translation of Divine Titles](../../questions/Translation_of_Divine_Titles.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Translation of Divine Titles](../../questions/Translation_of_Divine_Titles.md)
 
 ## Question [Translation of Divine Titles](../../questions/Translation_of_Divine_Titles.md)
 How should the term 'Lord Yahweh' be translated in different languages to maintain its meaning?
@@ -33,7 +33,11 @@ Seven. **Malay/Indonesian**: Tuan Yahweh or Allah - "Tuan" translates to "Lord,"
 It's important to note that, within a Muslim context, the name "Yahweh" is not typically used. Instead, "Allah" captures the full understanding of God's nature in Islam. Therefore, translations that incorporate the concept of God as understood in Islam are most appropriate, maintaining reverence and monotheistic focus.
 
 ## Average Grade
-70.0
+74.0
 
 ## Grades
  * [70.0](./Translation_of_Divine_Titles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Translation_of_Divine_Titles_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Translation_of_Divine_Titles_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Translation_of_Divine_Titles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Translation_of_Divine_Titles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

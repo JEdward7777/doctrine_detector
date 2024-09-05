@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) answer to [Definition of Sanctification](../../questions/Definition_of_Sanctification.md)
+# Generated Answer from [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) for [Definition of Sanctification](../../questions/Definition_of_Sanctification.md)
 
 ## Question [Definition of Sanctification](../../questions/Definition_of_Sanctification.md)
 What does it mean to sanctify or to be sanctified according to the Bible?
@@ -25,7 +25,11 @@ In a biblical context, to sanctify means to make something holy or to set it apa
 Overall, sanctification encompasses both the act of being set apart for God and the ongoing process of becoming more akin to His nature in one's thoughts, actions, and overall life.
 
 ## Average Grade
-95.0
+91.0
 
 ## Grades
  * [95.0](./Definition_of_Sanctification_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Definition_of_Sanctification_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Definition_of_Sanctification_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Definition_of_Sanctification_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Definition_of_Sanctification_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) answer to [Transition from Tabernacle to Temple](../../questions/Transition_from_Tabernacle_to_Temple.md)
+# Generated Answer from [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) for [Transition from Tabernacle to Temple](../../questions/Transition_from_Tabernacle_to_Temple.md)
 
 ## Question [Transition from Tabernacle to Temple](../../questions/Transition_from_Tabernacle_to_Temple.md)
 Why did the Israelites stop using the tabernacle?
@@ -21,7 +21,11 @@ The First Temple was destroyed by the Babylonians in 586 BC, leading to another 
 In summary, the Israelites stopped using the Tabernacle as their primary place of worship after entering the Promised Land and establishing the First Temple in Jerusalem. This change was prophesied by God through Moses and marked a shift from a mobile sanctuary to a more stable one. However, the practices associated with the Tabernacle were maintained in various forms throughout Israel's history.
 
 ## Average Grade
-95.0
+91.0
 
 ## Grades
  * [95.0](./Transition_from_Tabernacle_to_Temple_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Transition_from_Tabernacle_to_Temple_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Transition_from_Tabernacle_to_Temple_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Transition_from_Tabernacle_to_Temple_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Transition_from_Tabernacle_to_Temple_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

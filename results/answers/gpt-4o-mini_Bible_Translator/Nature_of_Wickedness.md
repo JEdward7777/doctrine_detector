@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) answer to [Nature of Wickedness](../../questions/Nature_of_Wickedness.md)
+# Generated Answer from [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) for [Nature of Wickedness](../../questions/Nature_of_Wickedness.md)
 
 ## Question [Nature of Wickedness](../../questions/Nature_of_Wickedness.md)
 In what ways does the Bible suggest that individuals can be 'wicked' in their actions, and what does it say about the state of such individuals?
@@ -34,7 +34,11 @@ The Bible provides numerous insights into what it means for individuals to be 'w
 In summary, the Bible outlines that wickedness stems from a corrupted heart, leads to severe consequences, affirms the possibility of repentance, and emphasizes God's justice. It paints a picture of a moral universe in which righteousness is ultimately rewarded, whereas wickedness leads to destruction.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Nature_of_Wickedness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Nature_of_Wickedness_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Nature_of_Wickedness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Nature_of_Wickedness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Nature_of_Wickedness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

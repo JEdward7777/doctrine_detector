@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Eunuchs in the Bible](../../questions/Eunuchs_in_the_Bible.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Eunuchs in the Bible](../../questions/Eunuchs_in_the_Bible.md)
 
 ## Question [Eunuchs in the Bible](../../questions/Eunuchs_in_the_Bible.md)
 What did Jesus mean when He referred to eunuchs in Matthew 19:12, and how does this relate to the concept of celibacy?

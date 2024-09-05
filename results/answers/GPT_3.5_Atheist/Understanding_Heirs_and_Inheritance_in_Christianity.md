@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Understanding Heirs and Inheritance in Christianity](../../questions/Understanding_Heirs_and_Inheritance_in_Christianity.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Understanding Heirs and Inheritance in Christianity](../../questions/Understanding_Heirs_and_Inheritance_in_Christianity.md)
 
 ## Question [Understanding Heirs and Inheritance in Christianity](../../questions/Understanding_Heirs_and_Inheritance_in_Christianity.md)
 How does the concept of being an heir relate to the Christian understanding of receiving God's promises?
@@ -19,7 +19,11 @@ Just as physical heirs inherit the possessions and wealth of their ancestors, sp
 This concept emphasizes the idea that God's promises are not just for the present, but for the future as well. Believers can have confidence in the future because they trust in the faithfulness of God to fulfill his promises. Being an heir in the Christian faith is a source of hope and assurance that God's good purposes will ultimately be realized.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Understanding_Heirs_and_Inheritance_in_Christianity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Understanding_Heirs_and_Inheritance_in_Christianity_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Understanding_Heirs_and_Inheritance_in_Christianity_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Understanding_Heirs_and_Inheritance_in_Christianity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_Heirs_and_Inheritance_in_Christianity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Faith's Impact](../../questions/Faith_s_Impact.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Faith's Impact](../../questions/Faith_s_Impact.md)
 
 ## Question [Faith's Impact](../../questions/Faith_s_Impact.md)
 How does true faith in Jesus manifest in a person's life?

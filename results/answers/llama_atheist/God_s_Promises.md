@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [God's Promises](../../questions/God_s_Promises.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [God's Promises](../../questions/God_s_Promises.md)
 
 ## Question [God's Promises](../../questions/God_s_Promises.md)
 What significance do God's promises hold in the context of His relationship with His people, as seen in the examples from the Bible?
@@ -46,7 +46,11 @@ By examining divine promises within a biblical framework and then reframing them
 In conclusion, while I may not accept the divine origin of God's promises, their cultural and historical significance is undeniable. By engaging with these ideas in a nuanced manner, we can foster greater empathy, cooperation, and understanding across religious and secular boundaries.
 
 ## Average Grade
-60.0
+70.0
 
 ## Grades
  * [60.0](./God_s_Promises_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [75.0](./God_s_Promises_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./God_s_Promises_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./God_s_Promises_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./God_s_Promises_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

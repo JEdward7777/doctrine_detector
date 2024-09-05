@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma atheist](../../answering_models/gemma_atheist.md) answer to [Clear Conscience](../../questions/Clear_Conscience.md)
+# Generated Answer from [gemma atheist](../../answering_models/gemma_atheist.md) for [Clear Conscience](../../questions/Clear_Conscience.md)
 
 ## Question [Clear Conscience](../../questions/Clear_Conscience.md)
 What does it mean to have a 'clear conscience' in the context of Christian teachings?
@@ -56,7 +56,11 @@ Maintaining a clear conscience is vital for spiritual health and alignment with 
 * Inner peace and fulfillment that comes from living in alignment with ethical values.
 
 ## Average Grade
-85.0
+72.0
 
 ## Grades
  * [85.0](./Clear_Conscience_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Clear_Conscience_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Clear_Conscience_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Clear_Conscience_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [40.0](./Clear_Conscience_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

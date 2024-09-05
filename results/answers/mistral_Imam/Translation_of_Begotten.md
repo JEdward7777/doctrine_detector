@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Translation of Begotten](../../questions/Translation_of_Begotten.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Translation of Begotten](../../questions/Translation_of_Begotten.md)
 
 ## Question [Translation of Begotten](../../questions/Translation_of_Begotten.md)
 How can the term 'begotten' be understood in relation to spiritual rebirth?
@@ -21,7 +21,11 @@ In Surah Al-Imran (3:199), Allah says: "Perform prayer, give zakat, and bow down
 So, while the term "begotten" might not be directly applicable in this context, the idea of spiritual rebirth can be understood through the process of striving for perfection (ihsan), continuous self-improvement, and purification (tazkiyah) of one's heart and actions.
 
 ## Average Grade
-70.0
+63.0
 
 ## Grades
  * [70.0](./Translation_of_Begotten_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Translation_of_Begotten_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [75.0](./Translation_of_Begotten_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [40.0](./Translation_of_Begotten_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Translation_of_Begotten_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) answer to [Nature of Temptation](../../questions/Nature_of_Temptation.md)
+# Generated Answer from [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) for [Nature of Temptation](../../questions/Nature_of_Temptation.md)
 
 ## Question [Nature of Temptation](../../questions/Nature_of_Temptation.md)
 According to the content, what roles do our sinful nature and external influences play in temptation?
@@ -21,7 +21,11 @@ In Christian theology, both our sinful nature and external influences play signi
 In summary, the interplay between our sinful nature and external influences shapes our experience of temptation. The sinful nature provides the internal inclination toward sin, while external influences can exacerbate or exploit these inclinations. Believers are called to resist temptation through reliance on God's grace, the power of the Holy Spirit, and adherence to Scriptural truths.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Nature_of_Temptation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Nature_of_Temptation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Nature_of_Temptation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Nature_of_Temptation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Nature_of_Temptation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

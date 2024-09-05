@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Biblical Perspective on Guilt](../../questions/Biblical_Perspective_on_Guilt.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Biblical Perspective on Guilt](../../questions/Biblical_Perspective_on_Guilt.md)
 
 ## Question [Biblical Perspective on Guilt](../../questions/Biblical_Perspective_on_Guilt.md)
 How does the Bible illustrate the consequences of guilt and sin?
@@ -19,7 +19,11 @@ In Islam, it is believed that everyone will be held accountable for their deeds 
 It is important for Muslims to strive for righteousness, seek forgiveness for their sins, and repent sincerely in order to avoid the negative consequences of guilt and sin in the afterlife.
 
 ## Average Grade
-65.0
+64.0
 
 ## Grades
  * [65.0](./Biblical_Perspective_on_Guilt_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Biblical_Perspective_on_Guilt_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [50.0](./Biblical_Perspective_on_Guilt_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [75.0](./Biblical_Perspective_on_Guilt_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [40.0](./Biblical_Perspective_on_Guilt_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

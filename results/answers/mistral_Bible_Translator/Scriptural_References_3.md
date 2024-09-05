@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) answer to [Scriptural References 3](../../questions/Scriptural_References_3.md)
+# Generated Answer from [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) for [Scriptural References 3](../../questions/Scriptural_References_3.md)
 
 ## Question [Scriptural References 3](../../questions/Scriptural_References_3.md)
 What do passages like Matthew 23:27-28 teach us about the nature of iniquity?
@@ -23,7 +23,11 @@ This passage teaches us that true righteousness is not just about outward appear
 In summary, this passage teaches us about the nature of iniquity by revealing that true righteousness is rooted in the heart, not just the outward appearance, and hypocrisy and lawlessness are manifestations of iniquity that lead to spiritual destruction.
 
 ## Average Grade
-87.0
+89.4
 
 ## Grades
  * [87.0](./Scriptural_References_3_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Scriptural_References_3_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Scriptural_References_3_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Scriptural_References_3_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Scriptural_References_3_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

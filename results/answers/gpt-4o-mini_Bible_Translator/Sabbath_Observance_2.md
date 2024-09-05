@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) answer to [Sabbath Observance 2](../../questions/Sabbath_Observance_2.md)
+# Generated Answer from [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) for [Sabbath Observance 2](../../questions/Sabbath_Observance_2.md)
 
 ## Question [Sabbath Observance 2](../../questions/Sabbath_Observance_2.md)
 How did God instruct the Israelites to gather manna in relation to the Sabbath?
@@ -19,7 +19,11 @@ In Exodus 16:22-30, it states that the Israelites gathered a double portion on t
 The instruction was a clear indication that the Sabbath was to be a day of rest, free from work, including the gathering of food. This guidance reinforced the significance of the Sabbath in the life of the Israelite community and their dependence on God's provision.
 
 ## Average Grade
-90.0
+92.0
 
 ## Grades
  * [90.0](./Sabbath_Observance_2_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Sabbath_Observance_2_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Sabbath_Observance_2_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Sabbath_Observance_2_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Sabbath_Observance_2_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

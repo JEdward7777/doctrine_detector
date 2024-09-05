@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Definition of Saints](../../questions/Definition_of_Saints.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Definition of Saints](../../questions/Definition_of_Saints.md)
 
 ## Question [Definition of Saints](../../questions/Definition_of_Saints.md)
 What does the term 'saints' mean in the context of the New Testament?
@@ -29,7 +29,11 @@ It's essential to note that this concept of "saints" is not equivalent to the me
 In conclusion, when we encounter the term "saints" in the New Testament, we should recognize that it refers to believers who have been justified by faith and are now part of God's new community, characterized by moral purity, devotion to God, and a shared identity as followers of Jesus Christ.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Definition_of_Saints_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Definition_of_Saints_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Definition_of_Saints_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Definition_of_Saints_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Definition_of_Saints_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

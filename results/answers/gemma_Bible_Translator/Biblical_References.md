@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Biblical References](../../questions/Biblical_References.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Biblical References](../../questions/Biblical_References.md)
 
 ## Question [Biblical References](../../questions/Biblical_References.md)
 Which Bible verses are related to the concept of covenant faithfulness?

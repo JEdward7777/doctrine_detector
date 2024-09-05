@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral atheist](../../answering_models/mistral_atheist.md) answer to [Observing Folly](../../questions/Observing_Folly.md)
+# Generated Answer from [mistral atheist](../../answering_models/mistral_atheist.md) for [Observing Folly](../../questions/Observing_Folly.md)
 
 ## Question [Observing Folly](../../questions/Observing_Folly.md)
 What are some actions that the Bible categorizes as folly?
@@ -31,7 +31,11 @@ Recognizing folly in one's actions can encourage better decision-making aligned 
 8. Proverbs 23:9 - "Do not speak in the hearing of a fool, for he will despise the wisdom of your words." This verse advises against sharing wisdom with someone who is unwilling to learn or appreciate it.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Observing_Folly_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Observing_Folly_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Observing_Folly_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Observing_Folly_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Observing_Folly_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

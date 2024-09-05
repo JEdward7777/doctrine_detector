@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Finding Favor](../../questions/Finding_Favor.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Finding Favor](../../questions/Finding_Favor.md)
 
 ## Question [Finding Favor](../../questions/Finding_Favor.md)
 What does it mean to 'find favor' with someone in a biblical context?

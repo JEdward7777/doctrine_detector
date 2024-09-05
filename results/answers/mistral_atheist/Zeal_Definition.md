@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral atheist](../../answering_models/mistral_atheist.md) answer to [Zeal Definition](../../questions/Zeal_Definition.md)
+# Generated Answer from [mistral atheist](../../answering_models/mistral_atheist.md) for [Zeal Definition](../../questions/Zeal_Definition.md)
 
 ## Question [Zeal Definition](../../questions/Zeal_Definition.md)
 What does it mean to have 'zeal' in the context of Christian teachings?
@@ -19,7 +19,11 @@ A prime example can be found in Romans 12:11, which says "Never be lacking in ze
 Zeal, in this context, should be characterized by love, humility, and wisdom rather than anger or impulsiveness. It encourages believers to stand firm in their faith while being open to growth and learning from others. Overall, zeal serves as a reminder of the importance of deep devotion and commitment to God within Christian teachings.
 
 ## Average Grade
-95.0
+91.0
 
 ## Grades
  * [95.0](./Zeal_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Zeal_Definition_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Zeal_Definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Zeal_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Zeal_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

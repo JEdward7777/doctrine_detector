@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) answer to [Scriptural Reference](../../questions/Scriptural_Reference.md)
+# Generated Answer from [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) for [Scriptural Reference](../../questions/Scriptural_Reference.md)
 
 ## Question [Scriptural Reference](../../questions/Scriptural_Reference.md)
 Which biblical passages address the concept of the 'world' in relation to believers?
@@ -15,7 +15,11 @@ How to navigate life as a believer in a world characterized by ungodly values.
 Thank you for your question. Different interpretations of biblical passages can vary among different religious traditions and individuals. When discussing the concept of the "world" in relation to believers, some biblical passages that may be referenced include John 3:16, which speaks of God's love for the world, and Romans 12:2, which encourages believers to not conform to the patterns of this world. It is important to approach these passages with respect and sensitivity to different beliefs and interpretations.
 
 ## Average Grade
-75.0
+77.0
 
 ## Grades
  * [75.0](./Scriptural_Reference_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Scriptural_Reference_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Scriptural_Reference_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Scriptural_Reference_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Scriptural_Reference_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

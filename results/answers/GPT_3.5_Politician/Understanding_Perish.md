@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) answer to [Understanding Perish](../../questions/Understanding_Perish.md)
+# Generated Answer from [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) for [Understanding Perish](../../questions/Understanding_Perish.md)
 
 ## Question [Understanding Perish](../../questions/Understanding_Perish.md)
 What does it mean to 'perish' in a spiritual sense according to the New Testament?
@@ -15,7 +15,11 @@ Exploring the implications of spiritual separation from God.
 In the New Testament, the concept of perishing is often related to the idea of spiritual separation from God or not experiencing eternal life. It is important to approach this topic with sensitivity and respect for various religious beliefs and interpretations. Some individuals may understand perishing as facing consequences for not following certain beliefs or practices, while others may see it as a call to seek spiritual growth and connection. It is essential to acknowledge and respect the diversity of beliefs and interpretations surrounding this concept.
 
 ## Average Grade
-90.0
+89.0
 
 ## Grades
  * [90.0](./Understanding_Perish_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Understanding_Perish_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Understanding_Perish_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Understanding_Perish_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_Perish_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

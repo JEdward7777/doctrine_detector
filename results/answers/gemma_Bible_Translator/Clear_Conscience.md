@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Clear Conscience](../../questions/Clear_Conscience.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Clear Conscience](../../questions/Clear_Conscience.md)
 
 ## Question [Clear Conscience](../../questions/Clear_Conscience.md)
 What does it mean to have a 'clear conscience' in the context of Christian teachings?

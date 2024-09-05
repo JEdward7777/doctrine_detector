@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Sanctuary in the Old Testament](../../questions/Sanctuary_in_the_Old_Testament.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Sanctuary in the Old Testament](../../questions/Sanctuary_in_the_Old_Testament.md)
 
 ## Question [Sanctuary in the Old Testament](../../questions/Sanctuary_in_the_Old_Testament.md)
 How did God describe the sanctuary in relation to His people in the Old Testament?
@@ -27,7 +27,11 @@ In the Old Testament, particularly in the books of Exodus, Leviticus, and Number
 In summary, the sanctuary in the Old Testament is a profound symbol of God’s desire to live in relationship with His people, embodying themes of holiness, covenant, and community worship.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Sanctuary_in_the_Old_Testament_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Sanctuary_in_the_Old_Testament_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Sanctuary_in_the_Old_Testament_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Sanctuary_in_the_Old_Testament_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Sanctuary_in_the_Old_Testament_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

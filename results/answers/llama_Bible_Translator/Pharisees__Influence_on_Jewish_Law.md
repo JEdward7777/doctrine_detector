@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Pharisees' Influence on Jewish Law](../../questions/Pharisees__Influence_on_Jewish_Law.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Pharisees' Influence on Jewish Law](../../questions/Pharisees__Influence_on_Jewish_Law.md)
 
 ## Question [Pharisees' Influence on Jewish Law](../../questions/Pharisees__Influence_on_Jewish_Law.md)
 How did the Pharisees' strict adherence to the Laws of Moses impact their relationship with Jesus and early Christians?
@@ -33,7 +33,11 @@ In the early Christian church, the legacy of the Pharisees continued:
 In conclusion, the Pharisees' strict adherence to the Laws of Moses had far-reaching consequences for their relationship with Jesus and early Christians. Their misunderstanding of Jesus' message, rejection of His claims, persecution, and division within the church all stemmed from their rigid adherence to tradition and law. As Christian Bible translators, we must acknowledge these complexities while also proclaiming the truth that Jesus Christ is the ultimate fulfillment of God's redemptive plan for humanity.
 
 ## Average Grade
-82.0
+87.4
 
 ## Grades
  * [82.0](./Pharisees__Influence_on_Jewish_Law_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Pharisees__Influence_on_Jewish_Law_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Pharisees__Influence_on_Jewish_Law_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Pharisees__Influence_on_Jewish_Law_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Pharisees__Influence_on_Jewish_Law_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

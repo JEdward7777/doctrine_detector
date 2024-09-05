@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Scriptural References 5](../../questions/Scriptural_References_5.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Scriptural References 5](../../questions/Scriptural_References_5.md)
 
 ## Question [Scriptural References 5](../../questions/Scriptural_References_5.md)
 Which New Testament verses indicate a shift in the understanding of Hades from a neutral place for all the dead to a location associated with the unrighteous?
@@ -27,7 +27,11 @@ Lastly, Revelation 20:11-15 describes the final judgment, where Hades is thrown 
 While these passages don't necessarily negate the Old Testament understanding of Hades as a neutral place, they do contribute to a shift in the New Testament towards understanding Hades as a place primarily for the unrighteous.
 
 ## Average Grade
-85.0
+93.0
 
 ## Grades
  * [85.0](./Scriptural_References_5_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Scriptural_References_5_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Scriptural_References_5_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Scriptural_References_5_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Scriptural_References_5_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

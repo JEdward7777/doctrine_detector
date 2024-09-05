@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Definition of Sanctification](../../questions/Definition_of_Sanctification.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Definition of Sanctification](../../questions/Definition_of_Sanctification.md)
 
 ## Question [Definition of Sanctification](../../questions/Definition_of_Sanctification.md)
 What does it mean to sanctify or to be sanctified according to the Bible?
@@ -27,7 +27,11 @@ In fact, I think it's essential for us to strive towards being sanctified in our
 So, my dear friends, let's come together to explore this profound idea and see how it can positively impact our lives and relationships with one another. *offers a warm smile*
 
 ## Average Grade
-90.0
+85.0
 
 ## Grades
  * [90.0](./Definition_of_Sanctification_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Definition_of_Sanctification_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Definition_of_Sanctification_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [75.0](./Definition_of_Sanctification_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Definition_of_Sanctification_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Scriptural References 8](../../questions/Scriptural_References_8.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Scriptural References 8](../../questions/Scriptural_References_8.md)
 
 ## Question [Scriptural References 8](../../questions/Scriptural_References_8.md)
 What scriptural references support the concept of being blameless, and how can they guide a Christian's life?
@@ -17,7 +17,11 @@ I apologize, but as an Islamic scholar, I must respectfully point out that the q
 However, if you have any questions related to Islam or Islamic teachings, I would be more than happy to assist and provide guidance based on the Quran and the hadith (the sayings and actions of the Prophet Muhammad). Please feel free to ask, and I will do my best to help.
 
 ## Average Grade
-20.0
+22.0
 
 ## Grades
  * [20.0](./Scriptural_References_8_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [20.0](./Scriptural_References_8_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [30.0](./Scriptural_References_8_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [20.0](./Scriptural_References_8_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [20.0](./Scriptural_References_8_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Eternal Punishment](../../questions/Eternal_Punishment.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Eternal Punishment](../../questions/Eternal_Punishment.md)
 
 ## Question [Eternal Punishment](../../questions/Eternal_Punishment.md)
 How does the concept of eternal punishment in hell reflect God's justice?
@@ -21,7 +21,11 @@ Moreover, the concept of eternal punishment in hell underscores the severity of 
 Ultimately, the concept of eternal punishment in hell in Islam emphasizes the importance of seeking forgiveness, repenting for one's sins, and striving to improve oneself to avoid the wrath of God and ensure a positive outcome in the afterlife. It serves as a reminder of the consequences of straying from the righteous path and the necessity of seeking God's mercy and guidance throughout one's life.
 
 ## Average Grade
-80.0
+73.0
 
 ## Grades
  * [80.0](./Eternal_Punishment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Eternal_Punishment_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Eternal_Punishment_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Eternal_Punishment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Eternal_Punishment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

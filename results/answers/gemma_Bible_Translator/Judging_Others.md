@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Judging Others](../../questions/Judging_Others.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Judging Others](../../questions/Judging_Others.md)
 
 ## Question [Judging Others](../../questions/Judging_Others.md)
 What instructions does the Bible give regarding how Christians should judge each other?

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral atheist](../../answering_models/mistral_atheist.md) answer to [Ark Location](../../questions/Ark_Location.md)
+# Generated Answer from [mistral atheist](../../answering_models/mistral_atheist.md) for [Ark Location](../../questions/Ark_Location.md)
 
 ## Question [Ark Location](../../questions/Ark_Location.md)
 Where was the ark of the covenant located in the tabernacle?
@@ -19,7 +19,11 @@ The Most Holy Place, also known as the Holy of Holies, could only be entered by 
 As an atheistic scholar, I must emphasize that these religious accounts are considered mythological or historical narratives in the scholarly community, as there is no archaeological or scientific evidence supporting the existence of the Tabernacle or the Ark of the Covenant.
 
 ## Average Grade
-95.0
+59.0
 
 ## Grades
  * [95.0](./Ark_Location_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [40.0](./Ark_Location_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Ark_Location_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [40.0](./Ark_Location_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Ark_Location_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

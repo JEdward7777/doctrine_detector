@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Biblical References to the Most High](../../questions/Biblical_References_to_the_Most_High.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Biblical References to the Most High](../../questions/Biblical_References_to_the_Most_High.md)
 
 ## Question [Biblical References to the Most High](../../questions/Biblical_References_to_the_Most_High.md)
 Which Bible verses reinforce the idea of God as the 'Most High' and what do they reveal about His character?
@@ -27,7 +27,11 @@ Christians may need guidance in exploring Scripture to fully appreciate the sign
 These verses reinforce the idea of God as the Most High by emphasizing His uniqueness, holiness, supremacy, and eternal dominion. They also reveal aspects of His character such as justice, mercy, and the need for humanity to worship and glorify Him.
 
 ## Average Grade
-75.0
+77.0
 
 ## Grades
  * [75.0](./Biblical_References_to_the_Most_High_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Biblical_References_to_the_Most_High_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Biblical_References_to_the_Most_High_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [65.0](./Biblical_References_to_the_Most_High_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Biblical_References_to_the_Most_High_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

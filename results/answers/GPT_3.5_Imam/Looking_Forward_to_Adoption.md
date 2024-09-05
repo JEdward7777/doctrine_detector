@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Looking Forward to Adoption](../../questions/Looking_Forward_to_Adoption.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Looking Forward to Adoption](../../questions/Looking_Forward_to_Adoption.md)
 
 ## Question [Looking Forward to Adoption](../../questions/Looking_Forward_to_Adoption.md)
 What does Romans 8:23 imply about waiting for the adoption of sons and what this means for believers?
@@ -21,7 +21,11 @@ Regarding believers being considered as children of God, Islam teaches that all 
 Overall, the verse you mentioned from Romans 8:23 may imply the anticipation and hope of believers for a closer relationship with God and the fulfillment of His promises. In Islam, believers are encouraged to have faith, patience, and perseverance in their worship and obedience to Allah, with the hope of attaining His pleasure and ultimately entering paradise in the hereafter.
 
 ## Average Grade
-65.0
+72.0
 
 ## Grades
  * [65.0](./Looking_Forward_to_Adoption_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Looking_Forward_to_Adoption_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Looking_Forward_to_Adoption_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Looking_Forward_to_Adoption_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Looking_Forward_to_Adoption_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

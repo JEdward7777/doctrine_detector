@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [Children and Honor](../../questions/Children_and_Honor.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [Children and Honor](../../questions/Children_and_Honor.md)
 
 ## Question [Children and Honor](../../questions/Children_and_Honor.md)
 What does the Bible instruct regarding how children should honor their parents?
@@ -19,7 +19,11 @@ In the New Testament, Ephesians 6:1-3 reiterates this command, saying, "Children
 These verses suggest that honoring parents involves respect, obedience, and a commitment to family well-being. It's also important to see this contextually, as the cultural expectations around familial roles and respect might influence interpretations and practices regarding this command across different communities and times.
 
 ## Average Grade
-80.0
+86.0
 
 ## Grades
  * [80.0](./Children_and_Honor_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Children_and_Honor_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Children_and_Honor_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Children_and_Honor_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Children_and_Honor_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

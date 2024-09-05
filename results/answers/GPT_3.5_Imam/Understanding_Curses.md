@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Understanding Curses](../../questions/Understanding_Curses.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Understanding Curses](../../questions/Understanding_Curses.md)
 
 ## Question [Understanding Curses](../../questions/Understanding_Curses.md)
 What does the Bible say about the consequences of cursing others, as exemplified in passages like James 3:10?
@@ -19,7 +19,11 @@ In Islamic teachings, it is believed that when a person curses or speaks ill of 
 Therefore, as Muslims, we are encouraged to control our tongues, speak words of kindness and avoid cursing or speaking ill of others. It is believed that by doing so, we protect ourselves from harm and earn the pleasure of Allah.
 
 ## Average Grade
-85.0
+87.0
 
 ## Grades
  * [85.0](./Understanding_Curses_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Understanding_Curses_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Understanding_Curses_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Understanding_Curses_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_Curses_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

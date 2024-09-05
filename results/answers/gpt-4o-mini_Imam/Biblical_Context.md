@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Biblical Context](../../questions/Biblical_Context.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Biblical Context](../../questions/Biblical_Context.md)
 
 ## Question [Biblical Context](../../questions/Biblical_Context.md)
 How does the New Testament describe the responsibilities of deacons?
@@ -25,7 +25,11 @@ In the New Testament, particularly in the Book of Acts and the Letters of Paul, 
 In summary, deacons are appointed to serve the church by managing practical matters, enabling the ministry's spiritual leaders to focus on their primary responsibilities. They are expected to meet high moral and character standards, reflecting their important role within the community.
 
 ## Average Grade
-90.0
+87.0
 
 ## Grades
  * [90.0](./Biblical_Context_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Biblical_Context_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Biblical_Context_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Biblical_Context_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [70.0](./Biblical_Context_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

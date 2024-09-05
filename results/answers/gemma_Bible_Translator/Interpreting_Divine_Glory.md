@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Interpreting Divine Glory](../../questions/Interpreting_Divine_Glory.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Interpreting Divine Glory](../../questions/Interpreting_Divine_Glory.md)
 
 ## Question [Interpreting Divine Glory](../../questions/Interpreting_Divine_Glory.md)
 How can 'divine glory' be understood in the context of worship?

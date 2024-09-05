@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) answer to [Definition and Translation](../../questions/Definition_and_Translation.md)
+# Generated Answer from [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) for [Definition and Translation](../../questions/Definition_and_Translation.md)
 
 ## Question [Definition and Translation](../../questions/Definition_and_Translation.md)
 What are some alternative translations for the term 'intercede' as used in Scripture?
@@ -25,7 +25,11 @@ The term 'intercede' in Scripture carries the idea of intervening or mediating o
 These alternatives can vary based on the specific biblical passage and the nuances of the original language (Hebrew or Greek). Translators aim to capture the intent and meaning of intercessory prayer while maintaining theological accuracy.
 
 ## Average Grade
-90.0
+89.6
 
 ## Grades
  * [90.0](./Definition_and_Translation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Definition_and_Translation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Definition_and_Translation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [93.0](./Definition_and_Translation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Definition_and_Translation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

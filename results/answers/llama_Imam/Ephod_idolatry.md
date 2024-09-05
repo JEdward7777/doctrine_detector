@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Ephod idolatry](../../questions/Ephod_idolatry.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Ephod idolatry](../../questions/Ephod_idolatry.md)
 
 ## Question [Ephod idolatry](../../questions/Ephod_idolatry.md)
 What lesson can be learned from Gideon's creation of a gold ephod and the subsequent idolatry of the Israelites?
@@ -23,7 +23,11 @@ This serves as a reminder to us Muslims that our actions must be guided by our i
 In this context, the lesson is clear: our actions must be pure and free from any intention to lead others astray. As Muslims, we strive to worship Allah alone, without associating any partners with Him. May Allah guide us on this path, and may we learn from the mistakes of those who came before us. Ameen.
 
 ## Average Grade
-90.0
+86.0
 
 ## Grades
  * [90.0](./Ephod_idolatry_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Ephod_idolatry_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Ephod_idolatry_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Ephod_idolatry_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Ephod_idolatry_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

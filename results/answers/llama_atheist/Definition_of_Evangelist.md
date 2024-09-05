@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Definition of Evangelist](../../questions/Definition_of_Evangelist.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Definition of Evangelist](../../questions/Definition_of_Evangelist.md)
 
 ## Question [Definition of Evangelist](../../questions/Definition_of_Evangelist.md)
 What is the literal meaning of the term 'evangelist'?
@@ -23,7 +23,11 @@ However, it's important to note that the term "evangelist" has been historically
 Would you like me to explore further the historical development of the term "evangelist" within Christian contexts?
 
 ## Average Grade
-40.0
+66.0
 
 ## Grades
  * [40.0](./Definition_of_Evangelist_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Definition_of_Evangelist_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [75.0](./Definition_of_Evangelist_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Definition_of_Evangelist_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Definition_of_Evangelist_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

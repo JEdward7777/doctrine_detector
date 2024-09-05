@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Distinction in Divine Titles](../../questions/Distinction_in_Divine_Titles.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Distinction in Divine Titles](../../questions/Distinction_in_Divine_Titles.md)
 
 ## Question [Distinction in Divine Titles](../../questions/Distinction_in_Divine_Titles.md)
 Why is it important not to translate 'Lord Yahweh' as 'Lord LORD'?
@@ -23,7 +23,11 @@ In Islam, we believe that all prophets (including Prophet Moses) were sent with 
 In summary, translating 'Lord Yahweh' as 'Lord LORD' is not a matter of religious principle or requirement for Muslims but rather a reflection of the historical context and conventions surrounding the translation of Hebrew scriptures into English. It is essential to maintain respect for all religious traditions while seeking to understand their unique teachings and practices.
 
 ## Average Grade
-80.0
+83.0
 
 ## Grades
  * [80.0](./Distinction_in_Divine_Titles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Distinction_in_Divine_Titles_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Distinction_in_Divine_Titles_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [75.0](./Distinction_in_Divine_Titles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Distinction_in_Divine_Titles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

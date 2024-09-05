@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Translation of Predestine](../../questions/Translation_of_Predestine.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Translation of Predestine](../../questions/Translation_of_Predestine.md)
 
 ## Question [Translation of Predestine](../../questions/Translation_of_Predestine.md)
 What are some suggested translations for the term 'predestined'?

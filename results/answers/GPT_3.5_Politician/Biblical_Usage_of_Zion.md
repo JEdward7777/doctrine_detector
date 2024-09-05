@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) answer to [Biblical Usage of Zion](../../questions/Biblical_Usage_of_Zion.md)
+# Generated Answer from [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) for [Biblical Usage of Zion](../../questions/Biblical_Usage_of_Zion.md)
 
 ## Question [Biblical Usage of Zion](../../questions/Biblical_Usage_of_Zion.md)
 In what figurative ways is the term 'Zion' used in the Bible?
@@ -15,7 +15,11 @@ Exploring the broader spiritual implications and symbolic meanings of 'Zion' in 
 In the Bible, the term "Zion" is used in a figurative sense to symbolize the city of Jerusalem, the nation of Israel, or the people of God. It is often used to represent a place of peace, worship, and unity among believers. It is important to be mindful of different interpretations and cultural sensitivities when discussing religious topics.
 
 ## Average Grade
-90.0
+88.4
 
 ## Grades
  * [90.0](./Biblical_Usage_of_Zion_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Biblical_Usage_of_Zion_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [92.0](./Biblical_Usage_of_Zion_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Biblical_Usage_of_Zion_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Biblical_Usage_of_Zion_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

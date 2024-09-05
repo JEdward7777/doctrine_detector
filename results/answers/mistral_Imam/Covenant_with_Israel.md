@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Covenant with Israel](../../questions/Covenant_with_Israel.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Covenant with Israel](../../questions/Covenant_with_Israel.md)
 
 ## Question [Covenant with Israel](../../questions/Covenant_with_Israel.md)
 What was the nature of the covenant that God made with the people of Israel?
@@ -23,7 +23,11 @@ This covenant is seen in the Quran as a model for Muslims and a reminder that Go
 In addition to the Quran, the Hadith also provide insights into this covenant. For example, in Sahih Muslim (2864), it is reported that the Prophet Muhammad (peace be upon him) said: "The Children of Israel were guided by their Prophets and had the Book of Allah bestowed upon them, yet they abandoned the commandments of their prophets and violated the provisions of their covenant with Allah." This Hadith emphasizes the importance of upholding God's covenant for the Children of Israel as a model for Muslims to follow.
 
 ## Average Grade
-70.0
+76.0
 
 ## Grades
  * [70.0](./Covenant_with_Israel_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Covenant_with_Israel_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Covenant_with_Israel_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Covenant_with_Israel_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Covenant_with_Israel_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Day of the Lord Meaning](../../questions/Day_of_the_Lord_Meaning.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Day of the Lord Meaning](../../questions/Day_of_the_Lord_Meaning.md)
 
 ## Question [Day of the Lord Meaning](../../questions/Day_of_the_Lord_Meaning.md)
 What does the term 'day of the Lord' signify in the New Testament?

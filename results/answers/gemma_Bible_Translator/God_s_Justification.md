@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [God's Justification](../../questions/God_s_Justification.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [God's Justification](../../questions/God_s_Justification.md)
 
 ## Question [God's Justification](../../questions/God_s_Justification.md)
 How does God justify sinners and what does justification entail?

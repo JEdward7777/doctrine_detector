@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Biblical References](../../questions/Biblical_References.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Biblical References](../../questions/Biblical_References.md)
 
 ## Question [Biblical References](../../questions/Biblical_References.md)
 Which Bible verses are related to the concept of covenant faithfulness?
@@ -29,7 +29,11 @@ While the concept of covenant faithfulness is primarily rooted in Islamic teachi
 These verses highlight the idea of God's unwavering commitment to His covenants and His people, indicating the concept of covenant faithfulness. While it's important to recognize the differences between Islamic and Christian theological frameworks, acknowledging shared themes can facilitate better understanding and dialogue. If you have further questions about this topic from an Islamic perspective or any other related queries, feel free to ask!
 
 ## Average Grade
-90.0
+85.0
 
 ## Grades
  * [90.0](./Biblical_References_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Biblical_References_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Biblical_References_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Biblical_References_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Biblical_References_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

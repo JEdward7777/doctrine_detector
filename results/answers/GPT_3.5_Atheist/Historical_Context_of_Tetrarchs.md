@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Historical Context of Tetrarchs](../../questions/Historical_Context_of_Tetrarchs.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Historical Context of Tetrarchs](../../questions/Historical_Context_of_Tetrarchs.md)
 
 ## Question [Historical Context of Tetrarchs](../../questions/Historical_Context_of_Tetrarchs.md)
 In what ways did the division of Herod the Great's kingdom into tetrarchies impact the Jewish people?
@@ -21,7 +21,11 @@ Furthermore, the division of the kingdom into tetrarchies also had religious imp
 Overall, the division of Herod the Great's kingdom into tetrarchies had a negative impact on the Jewish people, leading to political instability, social unrest, and religious persecution.
 
 ## Average Grade
-80.0
+84.0
 
 ## Grades
  * [80.0](./Historical_Context_of_Tetrarchs_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Historical_Context_of_Tetrarchs_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Historical_Context_of_Tetrarchs_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Historical_Context_of_Tetrarchs_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Historical_Context_of_Tetrarchs_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

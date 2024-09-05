@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Confession of Sins](../../questions/Confession_of_Sins.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Confession of Sins](../../questions/Confession_of_Sins.md)
 
 ## Question [Confession of Sins](../../questions/Confession_of_Sins.md)
 What should a Christian do when tempted to sin according to the Bible?
@@ -33,7 +33,11 @@ In summary, the Bible advises Christians to:
 Remember that my response is based solely on the biblical text, and I am not advocating any particular theological perspective.
 
 ## Average Grade
-90.0
+91.0
 
 ## Grades
  * [90.0](./Confession_of_Sins_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Confession_of_Sins_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Confession_of_Sins_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Confession_of_Sins_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Confession_of_Sins_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

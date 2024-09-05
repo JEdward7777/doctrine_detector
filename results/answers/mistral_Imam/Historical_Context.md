@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Historical Context](../../questions/Historical_Context.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Historical Context](../../questions/Historical_Context.md)
 
 ## Question [Historical Context](../../questions/Historical_Context.md)
 What biblical events illustrate the concept of 'remnant' as seen in Isaiah and Amos?
@@ -21,7 +21,11 @@ Another event that illustrates the concept is the story of the Israelites' sojou
 In both examples, we see a small group that has been chosen by God to continue His work in the world after a great calamity or upheaval. This group is referred to as the "remnant," who are responsible for preserving faithfulness and piety during challenging times and rebuilding society according to God's guidance.
 
 ## Average Grade
-85.0
+80.0
 
 ## Grades
  * [85.0](./Historical_Context_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Historical_Context_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Historical_Context_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Historical_Context_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Historical_Context_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

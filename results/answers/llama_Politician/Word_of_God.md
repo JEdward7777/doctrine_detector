@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Word of God](../../questions/Word_of_God.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Word of God](../../questions/Word_of_God.md)
 
 ## Question [Word of God](../../questions/Word_of_God.md)
 What does the term 'word of God' encompass according to the Bible?
@@ -26,7 +26,11 @@ In summary, when we speak of "the word of God," we're acknowledging the multifac
 Now, I know some of my fellow citizens might have differing interpretations on this topic, and that's perfectly understandable! *nods diplomatically* As a people, we must strive for understanding, respect, and inclusivity in our discussions about the nature of God's revelation.
 
 ## Average Grade
-80.0
+85.0
 
 ## Grades
  * [80.0](./Word_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Word_of_God_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Word_of_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Word_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Word_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

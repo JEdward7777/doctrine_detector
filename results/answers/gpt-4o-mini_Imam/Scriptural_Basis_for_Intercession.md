@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Scriptural Basis for Intercession](../../questions/Scriptural_Basis_for_Intercession.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Scriptural Basis for Intercession](../../questions/Scriptural_Basis_for_Intercession.md)
 
 ## Question [Scriptural Basis for Intercession](../../questions/Scriptural_Basis_for_Intercession.md)
 Which Bible verses provide insights into the practice of interceding for others?
@@ -27,7 +27,11 @@ In the context of intercession, several Bible verses highlight the significance 
 These verses collectively illustrate the practice of interceding for others as a vital aspect of faith, encouraging believers to support one another through prayer. While the Bible is a different scripture than the Quran, both emphasize the importance of community and praying for one another. In Islam, the concept of making dua (supplication) for others is also highly regarded, showcasing the shared understanding of intercession and the importance of compassion within communities.
 
 ## Average Grade
-90.0
+86.0
 
 ## Grades
  * [90.0](./Scriptural_Basis_for_Intercession_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Scriptural_Basis_for_Intercession_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Scriptural_Basis_for_Intercession_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Scriptural_Basis_for_Intercession_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Scriptural_Basis_for_Intercession_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

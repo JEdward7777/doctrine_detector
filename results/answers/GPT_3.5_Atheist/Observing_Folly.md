@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Observing Folly](../../questions/Observing_Folly.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Observing Folly](../../questions/Observing_Folly.md)
 
 ## Question [Observing Folly](../../questions/Observing_Folly.md)
 What are some actions that the Bible categorizes as folly?
@@ -26,7 +26,11 @@ The Bible contains teachings that have been interpreted in different ways by var
 It is important to note that interpretations of biblical teachings can vary among different Christian denominations and scholars. Additionally, the concept of folly can also be understood in a broader cultural and ethical context, not limited to religious perspectives.
 
 ## Average Grade
-85.0
+86.0
 
 ## Grades
  * [85.0](./Observing_Folly_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Observing_Folly_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Observing_Folly_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Observing_Folly_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Observing_Folly_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

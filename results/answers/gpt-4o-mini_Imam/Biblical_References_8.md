@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Biblical References 8](../../questions/Biblical_References_8.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Biblical References 8](../../questions/Biblical_References_8.md)
 
 ## Question [Biblical References 8](../../questions/Biblical_References_8.md)
 Which Bible verses reference the concept of ransom, and how do they contribute to the understanding of redemption?
@@ -29,7 +29,11 @@ The verses collectively contribute to the understanding of redemption by illustr
 In a Muslim context, while we respect the Biblical teachings, we believe that **Islam** emphasizes God's mercy and forgiveness without the necessity of a symbolic ransom or human sacrifice, as expressed in the concept of Tawbah (repentance) and Allah's direct ability to forgive sins through sincere repentance and good deeds.
 
 ## Average Grade
-90.0
+91.0
 
 ## Grades
  * [90.0](./Biblical_References_8_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Biblical_References_8_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Biblical_References_8_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Biblical_References_8_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Biblical_References_8_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Politician](../../answering_models/gemma_Politician.md) answer to [Distinction in Divine Titles](../../questions/Distinction_in_Divine_Titles.md)
+# Generated Answer from [gemma Politician](../../answering_models/gemma_Politician.md) for [Distinction in Divine Titles](../../questions/Distinction_in_Divine_Titles.md)
 
 ## Question [Distinction in Divine Titles](../../questions/Distinction_in_Divine_Titles.md)
 Why is it important not to translate 'Lord Yahweh' as 'Lord LORD'?
@@ -19,3 +19,7 @@ It is important not to translate 'Lord Yahweh' as 'Lord LORD' because doing so c
 
 ## Grades
  * [90.0](./Distinction_in_Divine_Titles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Distinction_in_Divine_Titles_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Distinction_in_Divine_Titles_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Distinction_in_Divine_Titles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Distinction_in_Divine_Titles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

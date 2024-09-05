@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) answer to [Biblical References to the Most High](../../questions/Biblical_References_to_the_Most_High.md)
+# Generated Answer from [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) for [Biblical References to the Most High](../../questions/Biblical_References_to_the_Most_High.md)
 
 ## Question [Biblical References to the Most High](../../questions/Biblical_References_to_the_Most_High.md)
 Which Bible verses reinforce the idea of God as the 'Most High' and what do they reveal about His character?
@@ -35,7 +35,11 @@ The title "Most High" in reference to God is rooted in various scripture passage
 In summary, the concept of God as the "Most High" reveals several key aspects of His character: He is sovereign over all creation, a refuge and redeemer for His people, incomparable in power and authority, and intimately involved in the lives of believers. These attributes encourage trust and reverence towards God, affirming His rightful place as the supreme authority in the universe.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Biblical_References_to_the_Most_High_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Biblical_References_to_the_Most_High_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Biblical_References_to_the_Most_High_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Biblical_References_to_the_Most_High_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Biblical_References_to_the_Most_High_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

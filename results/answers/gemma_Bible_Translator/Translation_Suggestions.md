@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Translation Suggestions](../../questions/Translation_Suggestions.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Translation Suggestions](../../questions/Translation_Suggestions.md)
 
 ## Question [Translation Suggestions](../../questions/Translation_Suggestions.md)
 What are some alternative translations for the phrase 'to be zealous' that reflect its biblical meaning?

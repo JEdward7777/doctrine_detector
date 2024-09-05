@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Politician](../../answering_models/mistral_Politician.md) answer to [Translation of 'Yahweh'](../../questions/Translation_of__Yahweh_.md)
+# Generated Answer from [mistral Politician](../../answering_models/mistral_Politician.md) for [Translation of 'Yahweh'](../../questions/Translation_of__Yahweh_.md)
 
 ## Question [Translation of 'Yahweh'](../../questions/Translation_of__Yahweh_.md)
 Why do some churches prefer to use 'LORD' instead of 'Yahweh' in translations?
@@ -21,7 +21,11 @@ It's also worth noting that the use of "Yahweh" is controversial among some Chri
 Ultimately, the decision to use one translation over another is often based on a church's specific beliefs and values, as well as their desire to be inclusive and respectful towards all members of their community.
 
 ## Average Grade
-70.0
+76.0
 
 ## Grades
  * [70.0](./Translation_of__Yahweh__grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Translation_of__Yahweh__grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Translation_of__Yahweh__grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Translation_of__Yahweh__grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Translation_of__Yahweh__grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

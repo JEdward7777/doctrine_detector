@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Nature of Christ as the Image of God](../../questions/Nature_of_Christ_as_the_Image_of_God.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Nature of Christ as the Image of God](../../questions/Nature_of_Christ_as_the_Image_of_God.md)
 
 ## Question [Nature of Christ as the Image of God](../../questions/Nature_of_Christ_as_the_Image_of_God.md)
 How is Jesus described as the image of God, and what is the significance of this in Christian belief?
@@ -19,7 +19,11 @@ The significance of Jesus being described as the image of God in Christian belie
 It is important to understand that the concept of Jesus being the image of God is a central tenet of Christian faith and is not shared in Islamic belief. Muslims believe in the oneness of God (Tawheed) and reject the concept of the Trinity.
 
 ## Average Grade
-20.0
+30.0
 
 ## Grades
  * [20.0](./Nature_of_Christ_as_the_Image_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [20.0](./Nature_of_Christ_as_the_Image_of_God_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Nature_of_Christ_as_the_Image_of_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [20.0](./Nature_of_Christ_as_the_Image_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [30.0](./Nature_of_Christ_as_the_Image_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

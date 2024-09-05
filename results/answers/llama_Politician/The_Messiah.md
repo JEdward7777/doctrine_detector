@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [The Messiah](../../questions/The_Messiah.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [The Messiah](../../questions/The_Messiah.md)
 
 ## Question [The Messiah](../../questions/The_Messiah.md)
 How are the terms 'Jesus' and 'Christ' related?
@@ -27,7 +27,11 @@ It's essential to acknowledge that different faiths and cultures have varying pe
 Now, I hope this answer has been... enlightening? *nervous laughter*
 
 ## Average Grade
-90.0
+84.0
 
 ## Grades
  * [90.0](./The_Messiah_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./The_Messiah_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./The_Messiah_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./The_Messiah_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./The_Messiah_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

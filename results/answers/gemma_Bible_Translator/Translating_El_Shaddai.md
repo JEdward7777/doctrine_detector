@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Translating El Shaddai](../../questions/Translating_El_Shaddai.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Translating El Shaddai](../../questions/Translating_El_Shaddai.md)
 
 ## Question [Translating El Shaddai](../../questions/Translating_El_Shaddai.md)
 How should the phrase 'El Shaddai' be translated in different languages based on local Bible translations?

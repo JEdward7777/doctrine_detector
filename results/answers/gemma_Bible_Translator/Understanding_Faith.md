@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Understanding Faith](../../questions/Understanding_Faith.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Understanding Faith](../../questions/Understanding_Faith.md)
 
 ## Question [Understanding Faith](../../questions/Understanding_Faith.md)
 What does it mean to 'have faith in Jesus' according to the provided content?

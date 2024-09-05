@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Tetrarch Role in the New Testament](../../questions/Tetrarch_Role_in_the_New_Testament.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Tetrarch Role in the New Testament](../../questions/Tetrarch_Role_in_the_New_Testament.md)
 
 ## Question [Tetrarch Role in the New Testament](../../questions/Tetrarch_Role_in_the_New_Testament.md)
 What are the significant roles of Herod Antipas, referred to as 'Herod the tetrarch', in the New Testament?
@@ -27,7 +27,11 @@ Herod Antipas, often referred to as "Herod the Tetrarch," plays several signific
 In summary, Herod Antipas is a pivotal character in the New Testament narrative, serving as a ruler whose actions had direct consequences on the prophetic ministry of John the Baptist and the unfolding story of Jesus, embodying various themes of power, conflict, and the relationship between religion and politics.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Tetrarch_Role_in_the_New_Testament_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Tetrarch_Role_in_the_New_Testament_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Tetrarch_Role_in_the_New_Testament_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Tetrarch_Role_in_the_New_Testament_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Tetrarch_Role_in_the_New_Testament_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

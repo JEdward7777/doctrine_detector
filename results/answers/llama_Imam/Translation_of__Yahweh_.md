@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Translation of 'Yahweh'](../../questions/Translation_of__Yahweh_.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Translation of 'Yahweh'](../../questions/Translation_of__Yahweh_.md)
 
 ## Question [Translation of 'Yahweh'](../../questions/Translation_of__Yahweh_.md)
 Why do some churches prefer to use 'LORD' instead of 'Yahweh' in translations?
@@ -27,7 +27,11 @@ As Muslims, we believe that Allah is the One God, who is beyond human comprehens
 I hope this clarifies the issue from a Muslim perspective. If you have any further questions or concerns, please feel free to ask.
 
 ## Average Grade
-80.0
+84.0
 
 ## Grades
  * [80.0](./Translation_of__Yahweh__grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Translation_of__Yahweh__grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Translation_of__Yahweh__grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Translation_of__Yahweh__grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Translation_of__Yahweh__grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

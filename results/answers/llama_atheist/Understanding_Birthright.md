@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Understanding Birthright](../../questions/Understanding_Birthright.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Understanding Birthright](../../questions/Understanding_Birthright.md)
 
 ## Question [Understanding Birthright](../../questions/Understanding_Birthright.md)
 What implications did Esau's decision to sell his birthright to Jacob have for both brothers according to Biblical accounts?
@@ -35,7 +35,11 @@ From a purely human perspective, Esau's decision reflects his momentary desperat
 As an atheist, I believe that understanding these cultural implications can provide valuable insights into human behavior, motivations, and relationships – all without resorting to supernatural explanations or moralizing.
 
 ## Average Grade
-50.0
+42.0
 
 ## Grades
  * [50.0](./Understanding_Birthright_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [60.0](./Understanding_Birthright_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [30.0](./Understanding_Birthright_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [30.0](./Understanding_Birthright_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [40.0](./Understanding_Birthright_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Understanding Lordship](../../questions/Understanding_Lordship.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Understanding Lordship](../../questions/Understanding_Lordship.md)
 
 ## Question [Understanding Lordship](../../questions/Understanding_Lordship.md)
 What does the term 'Lord' signify in relation to God and Jesus according to the Bible?
@@ -25,7 +25,11 @@ Now, I understand that different faiths and traditions may have varying understa
 In conclusion, my fellow citizen, when referring to God and Jesus Christ in the context of Christian theology, the term "Lord" signifies divine authority, sovereignty, and exalted status. However, it is essential for us to approach these concepts with humility, respect, and sensitivity towards the diverse beliefs and traditions that shape our global community.
 
 ## Average Grade
-90.0
+89.0
 
 ## Grades
  * [90.0](./Understanding_Lordship_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Understanding_Lordship_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Understanding_Lordship_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Understanding_Lordship_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_Lordship_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

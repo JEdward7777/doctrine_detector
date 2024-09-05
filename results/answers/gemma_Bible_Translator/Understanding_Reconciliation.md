@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Understanding Reconciliation](../../questions/Understanding_Reconciliation.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Understanding Reconciliation](../../questions/Understanding_Reconciliation.md)
 
 ## Question [Understanding Reconciliation](../../questions/Understanding_Reconciliation.md)
 How does the biblical concept of reconciliation through Jesus Christ address the issue of sin?

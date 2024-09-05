@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Victory over Satan's Dominion](../../questions/Victory_over_Satan_s_Dominion.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Victory over Satan's Dominion](../../questions/Victory_over_Satan_s_Dominion.md)
 
 ## Question [Victory over Satan's Dominion](../../questions/Victory_over_Satan_s_Dominion.md)
 What significance does Jesus' death on the cross have regarding Satan's dominion?

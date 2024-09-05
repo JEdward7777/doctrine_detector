@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Beliefs of the Pharisees](../../questions/Beliefs_of_the_Pharisees.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Beliefs of the Pharisees](../../questions/Beliefs_of_the_Pharisees.md)
 
 ## Question [Beliefs of the Pharisees](../../questions/Beliefs_of_the_Pharisees.md)
 What were the beliefs of the Pharisees regarding life after death and spiritual beings?
@@ -25,7 +25,11 @@ In conclusion, the Pharisees believed in a physical resurrection, an afterlife w
 May Allah guide us towards the truth and lead us to eternal peace. Ameen.
 
 ## Average Grade
-90.0
+89.4
 
 ## Grades
  * [90.0](./Beliefs_of_the_Pharisees_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Beliefs_of_the_Pharisees_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Beliefs_of_the_Pharisees_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Beliefs_of_the_Pharisees_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [92.0](./Beliefs_of_the_Pharisees_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

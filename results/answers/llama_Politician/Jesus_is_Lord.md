@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Jesus is Lord](../../questions/Jesus_is_Lord.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Jesus is Lord](../../questions/Jesus_is_Lord.md)
 
 ## Question [Jesus is Lord](../../questions/Jesus_is_Lord.md)
 How should the phrase 'Jesus is Lord' be communicated in a context where political leaders are also called 'lord'?
@@ -28,7 +28,11 @@ When referring to the phrase "Jesus is Lord" in a context where political leader
 By taking this approach, you can express your beliefs while avoiding any potential offense or confusion that might arise from using the phrase "Jesus is Lord" in a context where political leaders are also addressed as "lords."
 
 ## Average Grade
-75.0
+64.0
 
 ## Grades
  * [75.0](./Jesus_is_Lord_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Jesus_is_Lord_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [50.0](./Jesus_is_Lord_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [40.0](./Jesus_is_Lord_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Jesus_is_Lord_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

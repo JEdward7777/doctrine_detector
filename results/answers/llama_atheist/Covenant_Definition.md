@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Covenant Definition](../../questions/Covenant_Definition.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Covenant Definition](../../questions/Covenant_Definition.md)
 
 ## Question [Covenant Definition](../../questions/Covenant_Definition.md)
 What is the Biblical definition of a covenant?
@@ -34,7 +34,11 @@ Throughout the Bible, covenants play a crucial role in shaping Israel's relation
 In conclusion, while my own philosophical outlook may differ from those who hold religious beliefs about covenants, I hope this analysis provides a culturally retributed understanding of the concept within its biblical context.
 
 ## Average Grade
-60.0
+59.0
 
 ## Grades
  * [60.0](./Covenant_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [60.0](./Covenant_Definition_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Covenant_Definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [30.0](./Covenant_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Covenant_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

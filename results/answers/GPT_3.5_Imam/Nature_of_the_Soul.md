@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Nature of the Soul](../../questions/Nature_of_the_Soul.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Nature of the Soul](../../questions/Nature_of_the_Soul.md)
 
 ## Question [Nature of the Soul](../../questions/Nature_of_the_Soul.md)
 How does the Bible differentiate between the concepts of 'soul' and 'spirit'?
@@ -19,7 +19,11 @@ In some Christian traditions, the soul is seen as the seat of the emotions and d
 It is important to note that these concepts can vary among different Christian denominations and theological perspectives. Ultimately, the understanding of the soul and spirit in the Bible may depend on the specific interpretation and context of the verses being studied.
 
 ## Average Grade
-80.0
+73.0
 
 ## Grades
  * [80.0](./Nature_of_the_Soul_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [65.0](./Nature_of_the_Soul_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Nature_of_the_Soul_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [65.0](./Nature_of_the_Soul_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Nature_of_the_Soul_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

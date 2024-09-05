@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Use of 'Rabbi'](../../questions/Use_of__Rabbi_.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Use of 'Rabbi'](../../questions/Use_of__Rabbi_.md)
 
 ## Question [Use of 'Rabbi'](../../questions/Use_of__Rabbi_.md)
 How were John the Baptist and Jesus referred to concerning the title 'Rabbi'?
@@ -19,7 +19,11 @@ As for the title "Rabbi," which means teacher or master in Hebrew, it is not spe
 Overall, both John the Baptist and Jesus are revered figures in Islam, with their teachings and examples serving as inspiration for Muslims to lead a righteous and devout life.
 
 ## Average Grade
-70.0
+68.0
 
 ## Grades
  * [70.0](./Use_of__Rabbi__grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Use_of__Rabbi__grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [65.0](./Use_of__Rabbi__grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [75.0](./Use_of__Rabbi__grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Use_of__Rabbi__grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

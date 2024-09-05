@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma atheist](../../answering_models/gemma_atheist.md) answer to [Definition of Confession](../../questions/Definition_of_Confession.md)
+# Generated Answer from [gemma atheist](../../answering_models/gemma_atheist.md) for [Definition of Confession](../../questions/Definition_of_Confession.md)
 
 ## Question [Definition of Confession](../../questions/Definition_of_Confession.md)
 What does it mean to confess according to the Bible?
@@ -57,7 +57,11 @@ The concept of confession in the Bible is multifaceted and nuanced, involving va
 Confession in the Bible is a complex and multifaceted concept with cultural and contextual variations. Understanding the different perspectives and interpretations of confession is important for a nuanced and culturally aware interpretation of the biblical texts.
 
 ## Average Grade
-85.0
+73.0
 
 ## Grades
  * [85.0](./Definition_of_Confession_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [65.0](./Definition_of_Confession_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Definition_of_Confession_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [75.0](./Definition_of_Confession_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Definition_of_Confession_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

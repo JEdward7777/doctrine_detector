@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Second Coming](../../questions/Second_Coming.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Second Coming](../../questions/Second_Coming.md)
 
 ## Question [Second Coming](../../questions/Second_Coming.md)
 What does Jesus’ statement about the 'Son of Man' coming back on the clouds imply for believers?

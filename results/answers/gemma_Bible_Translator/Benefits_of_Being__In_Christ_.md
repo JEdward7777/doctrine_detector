@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Benefits of Being 'In Christ'](../../questions/Benefits_of_Being__In_Christ_.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Benefits of Being 'In Christ'](../../questions/Benefits_of_Being__In_Christ_.md)
 
 ## Question [Benefits of Being 'In Christ'](../../questions/Benefits_of_Being__In_Christ_.md)
 What are the benefits of sharing 'in Christ'?

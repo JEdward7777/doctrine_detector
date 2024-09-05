@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Origins of the Hebrews](../../questions/Origins_of_the_Hebrews.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Origins of the Hebrews](../../questions/Origins_of_the_Hebrews.md)
 
 ## Question [Origins of the Hebrews](../../questions/Origins_of_the_Hebrews.md)
 Who are the Hebrews descended from in the Bible?

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Understanding the Name of God 2](../../questions/Understanding_the_Name_of_God_2.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Understanding the Name of God 2](../../questions/Understanding_the_Name_of_God_2.md)
 
 ## Question [Understanding the Name of God 2](../../questions/Understanding_the_Name_of_God_2.md)
 What does the name 'Yahweh' signify in the context of the Old Testament?

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Purpose of Parables](../../questions/Purpose_of_Parables.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Purpose of Parables](../../questions/Purpose_of_Parables.md)
 
 ## Question [Purpose of Parables](../../questions/Purpose_of_Parables.md)
 What is the primary purpose of Jesus using parables in his teachings?
@@ -28,7 +28,11 @@ It's essential to note that the purpose of Jesus' parables might not have been p
 This perspective is rooted in the historical and cultural context of ancient Judaism, where wisdom literature and storytelling were valued as means of conveying moral guidance and spiritual insight. By acknowledging this cultural backdrop, we can gain a more nuanced understanding of Jesus' use of parables and their significance within his teachings.
 
 ## Average Grade
-75.0
+73.0
 
 ## Grades
  * [75.0](./Purpose_of_Parables_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [65.0](./Purpose_of_Parables_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Purpose_of_Parables_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Purpose_of_Parables_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Purpose_of_Parables_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

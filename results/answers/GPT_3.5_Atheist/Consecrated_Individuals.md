@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Consecrated Individuals](../../questions/Consecrated_Individuals.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Consecrated Individuals](../../questions/Consecrated_Individuals.md)
 
 ## Question [Consecrated Individuals](../../questions/Consecrated_Individuals.md)
 Who are some of the individuals mentioned in the Bible that were consecrated to God?
@@ -25,7 +25,11 @@ In the Bible, there are several individuals who were consecrated to God. Some no
 These individuals were regarded as consecrated to God in different ways and played significant roles in biblical history.
 
 ## Average Grade
-80.0
+82.0
 
 ## Grades
  * [80.0](./Consecrated_Individuals_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Consecrated_Individuals_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Consecrated_Individuals_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Consecrated_Individuals_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [70.0](./Consecrated_Individuals_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Ultimate Antichrist](../../questions/Ultimate_Antichrist.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Ultimate Antichrist](../../questions/Ultimate_Antichrist.md)
 
 ## Question [Ultimate Antichrist](../../questions/Ultimate_Antichrist.md)
 Who is often identified as the ultimate antichrist in the book of Revelation?
@@ -19,7 +19,11 @@ In Islamic eschatology, there is a figure known as the Dajjal, who is sometimes 
 It's important to note that interpretations of these figures vary widely within both traditions, and there are rich theological discussions surrounding them.
 
 ## Average Grade
-90.0
+88.0
 
 ## Grades
  * [90.0](./Ultimate_Antichrist_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Ultimate_Antichrist_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Ultimate_Antichrist_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Ultimate_Antichrist_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Ultimate_Antichrist_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

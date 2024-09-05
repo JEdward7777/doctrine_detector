@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Interacting with God](../../questions/Interacting_with_God.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Interacting with God](../../questions/Interacting_with_God.md)
 
 ## Question [Interacting with God](../../questions/Interacting_with_God.md)
 In what ways can our responses to God impact His will for our lives?

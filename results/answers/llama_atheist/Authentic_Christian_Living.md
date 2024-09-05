@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Authentic Christian Living](../../questions/Authentic_Christian_Living.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Authentic Christian Living](../../questions/Authentic_Christian_Living.md)
 
 ## Question [Authentic Christian Living](../../questions/Authentic_Christian_Living.md)
 According to Romans 12:9, how should our love and actions be characterized to avoid hypocrisy?
@@ -27,7 +27,11 @@ In our postmodern, digitally-driven world, it's easy to get caught up in social 
 To summarize, let love be your guiding principle. Let it characterize your actions and decisions. And strive for authenticity, humility, and consistency in your relationships – that's the best way to avoid hypocrisy and embody the agapē described in Romans 12:9.
 
 ## Average Grade
-90.0
+88.0
 
 ## Grades
  * [90.0](./Authentic_Christian_Living_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Authentic_Christian_Living_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Authentic_Christian_Living_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Authentic_Christian_Living_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Authentic_Christian_Living_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

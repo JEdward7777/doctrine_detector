@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) answer to [Historical Context of the Cross](../../questions/Historical_Context_of_the_Cross.md)
+# Generated Answer from [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) for [Historical Context of the Cross](../../questions/Historical_Context_of_the_Cross.md)
 
 ## Question [Historical Context of the Cross](../../questions/Historical_Context_of_the_Cross.md)
 How did the Roman practice of crucifixion affect the perception of the cross in early Christianity?
@@ -25,3 +25,7 @@ So, while the Roman practice of crucifixion initially brought shame and disgrace
 
 ## Grades
  * [95.0](./Historical_Context_of_the_Cross_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Historical_Context_of_the_Cross_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Historical_Context_of_the_Cross_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Historical_Context_of_the_Cross_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Historical_Context_of_the_Cross_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

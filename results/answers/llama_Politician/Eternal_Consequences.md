@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Eternal Consequences](../../questions/Eternal_Consequences.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Eternal Consequences](../../questions/Eternal_Consequences.md)
 
 ## Question [Eternal Consequences](../../questions/Eternal_Consequences.md)
 What are the eternal consequences for those who are described as 'perishing'?
@@ -23,7 +23,11 @@ As a society, it is our duty to provide a safety net of resources, opportunities
 So, my fellow citizen, let us not focus on eternal consequences, but rather on the human-centered approach that acknowledges the inherent worth and dignity of every individual. Let us work together to build a more just, equitable, and compassionate society for all – a place where everyone can find hope, healing, and purpose.
 
 ## Average Grade
-30.0
+42.0
 
 ## Grades
  * [30.0](./Eternal_Consequences_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [60.0](./Eternal_Consequences_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [30.0](./Eternal_Consequences_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [50.0](./Eternal_Consequences_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [40.0](./Eternal_Consequences_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

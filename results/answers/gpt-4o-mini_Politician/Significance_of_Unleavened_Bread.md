@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) answer to [Significance of Unleavened Bread](../../questions/Significance_of_Unleavened_Bread.md)
+# Generated Answer from [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) for [Significance of Unleavened Bread](../../questions/Significance_of_Unleavened_Bread.md)
 
 ## Question [Significance of Unleavened Bread](../../questions/Significance_of_Unleavened_Bread.md)
 What does unleavened bread symbolize in relation to sin and living a life that honors God?
@@ -21,7 +21,11 @@ For those who wish to live a life that is reflective of their faith and values, 
 Thus, while the symbolism of unleavened bread may vary across different traditions, its essence remains focused on themes of purification, obedience, and commitment to a life of faith.
 
 ## Average Grade
-90.0
+91.0
 
 ## Grades
  * [90.0](./Significance_of_Unleavened_Bread_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Significance_of_Unleavened_Bread_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Significance_of_Unleavened_Bread_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Significance_of_Unleavened_Bread_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Significance_of_Unleavened_Bread_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Worship of God](../../questions/Worship_of_God.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Worship of God](../../questions/Worship_of_God.md)
 
 ## Question [Worship of God](../../questions/Worship_of_God.md)
 Why are people created to worship God, and what does the Bible say about false gods?
@@ -31,7 +31,11 @@ In Islam, we believe that Allah is the only God worthy of worship. We reject any
 May Allah guide us all to the straight path and help us to avoid the temptations of false gods.
 
 ## Average Grade
-90.0
+89.0
 
 ## Grades
  * [90.0](./Worship_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Worship_of_God_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Worship_of_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Worship_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Worship_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

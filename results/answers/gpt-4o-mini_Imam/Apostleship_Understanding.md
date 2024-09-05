@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Apostleship Understanding](../../questions/Apostleship_Understanding.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Apostleship Understanding](../../questions/Apostleship_Understanding.md)
 
 ## Question [Apostleship Understanding](../../questions/Apostleship_Understanding.md)
 What is the significance of the apostles being sent by Jesus in spreading the gospel?
@@ -31,7 +31,11 @@ Here are a few points highlighting the significance of the apostles in spreading
 In conclusion, while the specifics of their roles may differ between Christianity and Islam, the apostles’ significant role in spreading the teachings of Jesus supports the broader Islamic view of the continuity of divine guidance through prophets and their communities.
 
 ## Average Grade
-85.0
+82.0
 
 ## Grades
  * [85.0](./Apostleship_Understanding_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Apostleship_Understanding_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Apostleship_Understanding_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Apostleship_Understanding_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Apostleship_Understanding_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [New Testament Instruction](../../questions/New_Testament_Instruction.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [New Testament Instruction](../../questions/New_Testament_Instruction.md)
 
 ## Question [New Testament Instruction](../../questions/New_Testament_Instruction.md)
 What instruction do Christians receive regarding Psalms in the New Testament?
@@ -19,7 +19,11 @@ However, it's important to note that the Old Testament is not identical for Musl
 That being said, many Christians do study and appreciate the Psalms for their wisdom, spiritual insight, and poetic beauty. They are often used in Christian worship services, prayers, and hymns. In this sense, the Psalms remain significant in Christian religious practice.
 
 ## Average Grade
-90.0
+89.0
 
 ## Grades
  * [90.0](./New_Testament_Instruction_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./New_Testament_Instruction_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./New_Testament_Instruction_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./New_Testament_Instruction_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./New_Testament_Instruction_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

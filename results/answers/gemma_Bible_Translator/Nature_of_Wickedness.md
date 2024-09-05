@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Nature of Wickedness](../../questions/Nature_of_Wickedness.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Nature of Wickedness](../../questions/Nature_of_Wickedness.md)
 
 ## Question [Nature of Wickedness](../../questions/Nature_of_Wickedness.md)
 In what ways does the Bible suggest that individuals can be 'wicked' in their actions, and what does it say about the state of such individuals?

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Understanding Temptation](../../questions/Understanding_Temptation.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Understanding Temptation](../../questions/Understanding_Temptation.md)
 
 ## Question [Understanding Temptation](../../questions/Understanding_Temptation.md)
 What strategies did Jesus use to resist the temptations presented by Satan?
@@ -29,7 +29,11 @@ Here are some strategies that can be gleaned from Prophet Jesus' response to Sat
 5. Recognizing the true source of power: Instead of seeking temporary power through Satan's offers, Prophet Jesus knew that true power came from God alone. By remaining steadfast in his servitude to Allah, he was able to resist temptations effectively.
 
 ## Average Grade
-80.0
+77.0
 
 ## Grades
  * [80.0](./Understanding_Temptation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Understanding_Temptation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Understanding_Temptation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [75.0](./Understanding_Temptation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Understanding_Temptation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

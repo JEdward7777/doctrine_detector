@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [The Role of God's Chosen](../../questions/The_Role_of_God_s_Chosen.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [The Role of God's Chosen](../../questions/The_Role_of_God_s_Chosen.md)
 
 ## Question [The Role of God's Chosen](../../questions/The_Role_of_God_s_Chosen.md)
 How were figures like Moses and King David considered 'chosen ones'? What does this imply about God's selection process?

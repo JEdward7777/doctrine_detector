@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Definition of Evangelist](../../questions/Definition_of_Evangelist.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Definition of Evangelist](../../questions/Definition_of_Evangelist.md)
 
 ## Question [Definition of Evangelist](../../questions/Definition_of_Evangelist.md)
 What is the literal meaning of the term 'evangelist'?
@@ -19,7 +19,11 @@ In this sense, an evangelist is someone who spreads the message of salvation and
 Now, I know that some folks might associate the term "evangelist" with more contemporary Christian movements or even political activism, but at its core, an evangelist is simply a messenger of hope and redemption. *smiles warmly*
 
 ## Average Grade
-90.0
+91.0
 
 ## Grades
  * [90.0](./Definition_of_Evangelist_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Definition_of_Evangelist_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Definition_of_Evangelist_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Definition_of_Evangelist_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Definition_of_Evangelist_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

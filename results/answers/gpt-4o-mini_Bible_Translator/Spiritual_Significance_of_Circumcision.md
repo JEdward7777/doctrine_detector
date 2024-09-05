@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) answer to [Spiritual Significance of Circumcision](../../questions/Spiritual_Significance_of_Circumcision.md)
+# Generated Answer from [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) for [Spiritual Significance of Circumcision](../../questions/Spiritual_Significance_of_Circumcision.md)
 
 ## Question [Spiritual Significance of Circumcision](../../questions/Spiritual_Significance_of_Circumcision.md)
 What does the phrase 'circumcision of the heart' symbolize in a Christian context?
@@ -19,7 +19,11 @@ This concept has its roots in the Old Testament, particularly in Deuteronomy 10:
 Overall, the "circumcision of the heart" signifies a surrender to God, a transformative faith that leads to genuine obedience and a relationship with Him, highlighting the move from external rituals to an internal disposition of love, devotion, and repentance.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Spiritual_Significance_of_Circumcision_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Spiritual_Significance_of_Circumcision_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Spiritual_Significance_of_Circumcision_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Spiritual_Significance_of_Circumcision_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Spiritual_Significance_of_Circumcision_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

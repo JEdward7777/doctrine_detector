@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) answer to [Ministry Definition](../../questions/Ministry_Definition.md)
+# Generated Answer from [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) for [Ministry Definition](../../questions/Ministry_Definition.md)
 
 ## Question [Ministry Definition](../../questions/Ministry_Definition.md)
 What does it mean to 'minister' to others according to the Bible?
@@ -15,7 +15,11 @@ Understanding the biblical definition of ministry is crucial for effective servi
 In the context of the Bible, to 'minister' to others means to serve and help them in a caring and compassionate manner. This can involve providing support, guidance, and assistance to those in need, as well as sharing the teachings and principles of faith. It is a call to show love and kindness to others, regardless of their backgrounds or circumstances.
 
 ## Average Grade
-90.0
+88.0
 
 ## Grades
  * [90.0](./Ministry_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Ministry_Definition_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Ministry_Definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Ministry_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Ministry_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

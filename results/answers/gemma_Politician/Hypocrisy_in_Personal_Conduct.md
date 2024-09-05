@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Politician](../../answering_models/gemma_Politician.md) answer to [Hypocrisy in Personal Conduct](../../questions/Hypocrisy_in_Personal_Conduct.md)
+# Generated Answer from [gemma Politician](../../answering_models/gemma_Politician.md) for [Hypocrisy in Personal Conduct](../../questions/Hypocrisy_in_Personal_Conduct.md)
 
 ## Question [Hypocrisy in Personal Conduct](../../questions/Hypocrisy_in_Personal_Conduct.md)
 How can we ensure that our actions align with our beliefs to avoid being hypocrites?
@@ -68,7 +68,11 @@ Hypocrisy can lead to a loss of integrity and may cause others to question our f
 * Promote unity and respect for diverse perspectives.
 
 ## Average Grade
-85.0
+82.0
 
 ## Grades
  * [85.0](./Hypocrisy_in_Personal_Conduct_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Hypocrisy_in_Personal_Conduct_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Hypocrisy_in_Personal_Conduct_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Hypocrisy_in_Personal_Conduct_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Hypocrisy_in_Personal_Conduct_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

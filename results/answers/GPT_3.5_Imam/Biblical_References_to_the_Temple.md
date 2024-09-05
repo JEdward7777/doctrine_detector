@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Biblical References to the Temple](../../questions/Biblical_References_to_the_Temple.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Biblical References to the Temple](../../questions/Biblical_References_to_the_Temple.md)
 
 ## Question [Biblical References to the Temple](../../questions/Biblical_References_to_the_Temple.md)
 Which scriptures specifically reference the temple as the 'house of Yahweh'?
@@ -19,7 +19,11 @@ In Islamic teachings, we believe in the oneness of Allah (SWT) and consider all 
 This verse emphasizes that mosques, like the Kaaba in Mecca and the Prophet's Mosque in Medina, are dedicated solely for the worship of Allah (SWT). While the term "house of Yahweh" is specifically used in the context of the Hebrew Bible, in Islam, we believe in the sanctity of all places of worship dedicated to the worship of the one true God.
 
 ## Average Grade
-70.0
+68.0
 
 ## Grades
  * [70.0](./Biblical_References_to_the_Temple_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [75.0](./Biblical_References_to_the_Temple_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Biblical_References_to_the_Temple_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [65.0](./Biblical_References_to_the_Temple_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Biblical_References_to_the_Temple_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

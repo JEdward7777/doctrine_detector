@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Examples of Jesus' Miracles](../../questions/Examples_of_Jesus__Miracles.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Examples of Jesus' Miracles](../../questions/Examples_of_Jesus__Miracles.md)
 
 ## Question [Examples of Jesus' Miracles](../../questions/Examples_of_Jesus__Miracles.md)
 Can you list some specific miracles performed by Jesus and their significance?
@@ -29,7 +29,11 @@ Certainly! In Islam, Jesus (known as "Isa" in Arabic) is considered one of the m
 The significance of these miracles in Islam is multifaceted—they affirm the belief in Allah's power, reinforce the messages of prophets, and call people to worship the One true God. They also highlight the special status of Jesus as a prophet and messenger, while maintaining the Islamic principle of monotheism, emphasizing that all miracles occur by the will of Allah alone.
 
 ## Average Grade
-50.0
+49.0
 
 ## Grades
  * [50.0](./Examples_of_Jesus__Miracles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [40.0](./Examples_of_Jesus__Miracles_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [30.0](./Examples_of_Jesus__Miracles_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [40.0](./Examples_of_Jesus__Miracles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Examples_of_Jesus__Miracles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

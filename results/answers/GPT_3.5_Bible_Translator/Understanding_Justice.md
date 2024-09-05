@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Understanding Justice](../../questions/Understanding_Justice.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Understanding Justice](../../questions/Understanding_Justice.md)
 
 ## Question [Understanding Justice](../../questions/Understanding_Justice.md)
 What does it mean to act justly according to God's laws?
@@ -19,7 +19,11 @@ God's laws, as revealed in the Bible, call us to love our neighbors as ourselves
 Ultimately, acting justly according to God's laws means living in a way that reflects God's character of love, mercy, and compassion towards all people. It involves seeking to bring about reconciliation, restoration, and wholeness in our relationships with others and in the world around us.
 
 ## Average Grade
-95.0
+91.0
 
 ## Grades
  * [95.0](./Understanding_Justice_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Understanding_Justice_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Understanding_Justice_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Understanding_Justice_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_Justice_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

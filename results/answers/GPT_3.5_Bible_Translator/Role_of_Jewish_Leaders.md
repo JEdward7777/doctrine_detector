@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Role of Jewish Leaders](../../questions/Role_of_Jewish_Leaders.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Role of Jewish Leaders](../../questions/Role_of_Jewish_Leaders.md)
 
 ## Question [Role of Jewish Leaders](../../questions/Role_of_Jewish_Leaders.md)
 How did the Jewish religious leaders influence the crucifixion of Jesus?
@@ -19,7 +19,11 @@ The Jewish religious leaders manipulated the political situation during the time
 Ultimately, it was Pilate who ordered the crucifixion of Jesus, but the Jewish religious leaders played a crucial role in bringing about this outcome. It is important to note, however, that not all Jewish people at the time agreed with the actions of the religious leaders, and many of Jesus' followers were themselves Jewish. The crucifixion of Jesus was ultimately part of God's plan for salvation, as Jesus willingly gave up his life to redeem humanity from sin.
 
 ## Average Grade
-85.0
+86.0
 
 ## Grades
  * [85.0](./Role_of_Jewish_Leaders_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Role_of_Jewish_Leaders_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Role_of_Jewish_Leaders_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Role_of_Jewish_Leaders_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Role_of_Jewish_Leaders_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

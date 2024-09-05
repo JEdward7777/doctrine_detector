@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) answer to [Annual Remembrance](../../questions/Annual_Remembrance.md)
+# Generated Answer from [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) for [Annual Remembrance](../../questions/Annual_Remembrance.md)
 
 ## Question [Annual Remembrance](../../questions/Annual_Remembrance.md)
 Why were the Israelites commanded to celebrate Passover every year according to the Bible?
@@ -25,7 +25,11 @@ The commandment for the Israelites to celebrate Passover annually is rooted in t
 Overall, the annual celebration of Passover is a deeply meaningful tradition that embodies themes of freedom, remembrance, and community.
 
 ## Average Grade
-90.0
+89.0
 
 ## Grades
  * [90.0](./Annual_Remembrance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Annual_Remembrance_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Annual_Remembrance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Annual_Remembrance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Annual_Remembrance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

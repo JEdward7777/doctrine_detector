@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Biblical References 4](../../questions/Biblical_References_4.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Biblical References 4](../../questions/Biblical_References_4.md)
 
 ## Question [Biblical References 4](../../questions/Biblical_References_4.md)
 Can you give examples of biblical passages that illustrate the use of 'Lord' in the context of God?

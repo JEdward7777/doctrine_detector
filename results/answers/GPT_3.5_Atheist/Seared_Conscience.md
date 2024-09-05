@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Seared Conscience](../../questions/Seared_Conscience.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Seared Conscience](../../questions/Seared_Conscience.md)
 
 ## Question [Seared Conscience](../../questions/Seared_Conscience.md)
 What does the Bible mean by a 'seared' conscience, and what implications does it have for a believer?
@@ -19,7 +19,11 @@ For a believer, having a seared conscience can lead to a lack of sensitivity to 
 In a culturally retributed perspective, a seared conscience can be seen as a consequence of one's actions and a reflection of their character. It serves as a warning against moral complacency and the dangers of ignoring one's conscience. It is a call for believers to remain vigilant in their faith and strive for moral integrity.
 
 ## Average Grade
-85.0
+87.4
 
 ## Grades
  * [85.0](./Seared_Conscience_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Seared_Conscience_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Seared_Conscience_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [92.0](./Seared_Conscience_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Seared_Conscience_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

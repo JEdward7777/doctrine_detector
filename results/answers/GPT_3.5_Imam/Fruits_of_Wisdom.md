@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Fruits of Wisdom](../../questions/Fruits_of_Wisdom.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Fruits of Wisdom](../../questions/Fruits_of_Wisdom.md)
 
 ## Question [Fruits of Wisdom](../../questions/Fruits_of_Wisdom.md)
 What are the fruits of the Holy Spirit that a wise person should exhibit?
@@ -37,7 +37,11 @@ In Islam, we believe in the concept of the fruits of Faith, which are known as t
 These fruits of Iman are meant to guide and inspire Muslims to lead a virtuous and fulfilling life, in accordance with the teachings of Islam.
 
 ## Average Grade
-60.0
+56.0
 
 ## Grades
  * [60.0](./Fruits_of_Wisdom_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [50.0](./Fruits_of_Wisdom_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Fruits_of_Wisdom_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [40.0](./Fruits_of_Wisdom_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Fruits_of_Wisdom_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Purpose of the Soul](../../questions/Purpose_of_the_Soul.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Purpose of the Soul](../../questions/Purpose_of_the_Soul.md)
 
 ## Question [Purpose of the Soul](../../questions/Purpose_of_the_Soul.md)
 In what ways does the soul relate to a person's relationship with God as described in scripture?

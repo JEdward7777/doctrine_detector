@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral atheist](../../answering_models/mistral_atheist.md) answer to [Biblical References to Pentecost](../../questions/Biblical_References_to_Pentecost.md)
+# Generated Answer from [mistral atheist](../../answering_models/mistral_atheist.md) for [Biblical References to Pentecost](../../questions/Biblical_References_to_Pentecost.md)
 
 ## Question [Biblical References to Pentecost](../../questions/Biblical_References_to_Pentecost.md)
 Which books of the Bible contain references to the Festival of Weeks and its significance?
@@ -23,7 +23,11 @@ In the New Testament:
 The Book of Acts (Acts 2:1) records the event known as the Pentecost in Christian tradition, which occurred on this Jewish festival, when the Holy Spirit descended upon the disciples of Jesus. This event is significant for Christians as it marks the beginning of the Christian Church.
 
 ## Average Grade
-95.0
+85.0
 
 ## Grades
  * [95.0](./Biblical_References_to_Pentecost_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Biblical_References_to_Pentecost_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Biblical_References_to_Pentecost_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Biblical_References_to_Pentecost_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Biblical_References_to_Pentecost_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

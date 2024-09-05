@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Fellowship Meaning](../../questions/Fellowship_Meaning.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Fellowship Meaning](../../questions/Fellowship_Meaning.md)
 
 ## Question [Fellowship Meaning](../../questions/Fellowship_Meaning.md)
 What does the term 'fellowship' mean in a Christian context?

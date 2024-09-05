@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) answer to [Repentance and Judgment](../../questions/Repentance_and_Judgment.md)
+# Generated Answer from [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) for [Repentance and Judgment](../../questions/Repentance_and_Judgment.md)
 
 ## Question [Repentance and Judgment](../../questions/Repentance_and_Judgment.md)
 What does the Bible say about the relationship between repentance and the wrath of God?
@@ -21,7 +21,11 @@ Regarding the concept of the wrath of God, some interpretations emphasize a view
 Overall, discussions of repentance and the wrath of God should be conducted with respect for differing interpretations and beliefs, with a focus on promoting understanding and dialogue among people of all faiths and backgrounds.
 
 ## Average Grade
-90.0
+82.0
 
 ## Grades
  * [90.0](./Repentance_and_Judgment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Repentance_and_Judgment_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Repentance_and_Judgment_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Repentance_and_Judgment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Repentance_and_Judgment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

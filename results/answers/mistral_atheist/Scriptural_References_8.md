@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral atheist](../../answering_models/mistral_atheist.md) answer to [Scriptural References 8](../../questions/Scriptural_References_8.md)
+# Generated Answer from [mistral atheist](../../answering_models/mistral_atheist.md) for [Scriptural References 8](../../questions/Scriptural_References_8.md)
 
 ## Question [Scriptural References 8](../../questions/Scriptural_References_8.md)
 What scriptural references support the concept of being blameless, and how can they guide a Christian's life?
@@ -27,3 +27,7 @@ To guide a Christian's life, these scriptural references encourage living a virt
 
 ## Grades
  * [85.0](./Scriptural_References_8_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Scriptural_References_8_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Scriptural_References_8_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Scriptural_References_8_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Scriptural_References_8_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

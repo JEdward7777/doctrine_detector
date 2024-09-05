@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Faith and Promise](../../questions/Faith_and_Promise.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Faith and Promise](../../questions/Faith_and_Promise.md)
 
 ## Question [Faith and Promise](../../questions/Faith_and_Promise.md)
 What role does faith play in receiving and trusting the promises of God, as seen in the example of Abram's belief?
@@ -27,7 +27,11 @@ Additionally, the example of Abram illustrates the grace and mercy of Allah, as 
 In summary, Abram’s faith serves as a powerful illustration for Muslims on the significance of trusting in God's promises. It teaches us that faith is the foundation for receiving divine assurances and encourages believers to develop a strong connection with Allah through sincere belief and submission.
 
 ## Average Grade
-80.0
+89.2
 
 ## Grades
  * [80.0](./Faith_and_Promise_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Faith_and_Promise_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Faith_and_Promise_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [96.0](./Faith_and_Promise_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Faith_and_Promise_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

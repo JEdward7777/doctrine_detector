@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Politician](../../answering_models/mistral_Politician.md) answer to [Observing Folly](../../questions/Observing_Folly.md)
+# Generated Answer from [mistral Politician](../../answering_models/mistral_Politician.md) for [Observing Folly](../../questions/Observing_Folly.md)
 
 ## Question [Observing Folly](../../questions/Observing_Folly.md)
 What are some actions that the Bible categorizes as folly?
@@ -32,3 +32,7 @@ It's crucial to emphasize that these behaviors are interpreted differently by va
 
 ## Grades
  * [75.0](./Observing_Folly_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Observing_Folly_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Observing_Folly_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Observing_Folly_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Observing_Folly_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

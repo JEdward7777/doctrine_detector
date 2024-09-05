@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Old Testament Ministry](../../questions/Old_Testament_Ministry.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Old Testament Ministry](../../questions/Old_Testament_Ministry.md)
 
 ## Question [Old Testament Ministry](../../questions/Old_Testament_Ministry.md)
 How did the priests in the Old Testament carry out their ministry in the temple?
@@ -35,7 +35,11 @@ In ancient Israel, the temple was the central hub of Jewish worship and religiou
 In summary, the priests in the Old Testament carried out their ministry by performing a range of rituals, ceremonies, and worship services within the temple. Their duties were designed to maintain the sacred space, ensure the people's spiritual well-being, and connect with God through sacrifices, offerings, and prayers.
 
 ## Average Grade
-90.0
+89.0
 
 ## Grades
  * [90.0](./Old_Testament_Ministry_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Old_Testament_Ministry_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Old_Testament_Ministry_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Old_Testament_Ministry_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Old_Testament_Ministry_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

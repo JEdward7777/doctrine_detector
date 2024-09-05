@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Scriptural References 7](../../questions/Scriptural_References_7.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Scriptural References 7](../../questions/Scriptural_References_7.md)
 
 ## Question [Scriptural References 7](../../questions/Scriptural_References_7.md)
 How do the verses in 1 Peter 5:5-7 and Philippians 2:9-11 illustrate the concept of exaltation in the Christian faith?
@@ -29,7 +29,11 @@ While I acknowledge the differences in our respective theological frameworks, I 
 In conclusion, as a Muslim Imam, I must approach these Christian scriptures with an understanding of their unique theological context and terminology. While there may be some commonalities in the concept of exaltation, the specific interpretations and understandings of divine nature differ significantly between Islam and Christianity.
 
 ## Average Grade
-85.0
+78.0
 
 ## Grades
  * [85.0](./Scriptural_References_7_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Scriptural_References_7_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Scriptural_References_7_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [65.0](./Scriptural_References_7_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Scriptural_References_7_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

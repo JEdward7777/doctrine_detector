@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Trust in God](../../questions/Trust_in_God.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Trust in God](../../questions/Trust_in_God.md)
 
 ## Question [Trust in God](../../questions/Trust_in_God.md)
 How does having hope in God differ from merely wishing for something?
@@ -23,7 +23,11 @@ Having hope in God is different from merely wishing for something in several way
 In summary, having hope in God is a deep-seated confidence and trust in Him, based on His character and promises, while merely wishing for something is often a fleeting desire without a solid foundation or source of assurance.
 
 ## Average Grade
-95.0
+94.0
 
 ## Grades
  * [95.0](./Trust_in_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Trust_in_God_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Trust_in_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Trust_in_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Trust_in_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

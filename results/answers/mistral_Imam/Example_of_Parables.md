@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Example of Parables](../../questions/Example_of_Parables.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Example of Parables](../../questions/Example_of_Parables.md)
 
 ## Question [Example of Parables](../../questions/Example_of_Parables.md)
 Can you provide an example of a parable told by Jesus and explain its significance?
@@ -26,7 +26,11 @@ This parable offers valuable lessons about the importance of hearing and underst
 The significance of this parable in both Christianity and Islam lies in the message it conveys: One must have a ready and receptive heart to truly understand and follow the teachings of their faith. In both traditions, the emphasis is on cultivating understanding, compassion, and obedience to God, just as a good farmer takes care of his crops to ensure growth and productivity.
 
 ## Average Grade
-85.0
+86.0
 
 ## Grades
  * [85.0](./Example_of_Parables_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Example_of_Parables_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Example_of_Parables_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Example_of_Parables_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Example_of_Parables_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Understanding Curses](../../questions/Understanding_Curses.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Understanding Curses](../../questions/Understanding_Curses.md)
 
 ## Question [Understanding Curses](../../questions/Understanding_Curses.md)
 What does the Bible say about the consequences of cursing others, as exemplified in passages like James 3:10?
@@ -29,7 +29,11 @@ As leaders and members of society, it's vital that we strive to cultivate a cult
 Thank you for bringing up this topic! I'm excited to continue exploring the importance of using our words wisely and promoting positivity in our communities.
 
 ## Average Grade
-90.0
+88.0
 
 ## Grades
  * [90.0](./Understanding_Curses_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Understanding_Curses_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Understanding_Curses_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Understanding_Curses_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Understanding_Curses_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

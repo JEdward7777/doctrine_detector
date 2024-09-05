@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Structure of the Tabernacle](../../questions/Structure_of_the_Tabernacle.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Structure of the Tabernacle](../../questions/Structure_of_the_Tabernacle.md)
 
 ## Question [Structure of the Tabernacle](../../questions/Structure_of_the_Tabernacle.md)
 What were the two main sections of the tabernacle, and what was located in each?
@@ -23,7 +23,11 @@ In the Old Testament, the tabernacle was divided into two main sections: the Hol
 These sections of the tabernacle were designed as a sacred dwelling place for God among His people, with the Most Holy Place symbolizing His presence in a particularly intense way.
 
 ## Average Grade
-90.0
+85.0
 
 ## Grades
  * [90.0](./Structure_of_the_Tabernacle_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Structure_of_the_Tabernacle_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Structure_of_the_Tabernacle_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Structure_of_the_Tabernacle_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Structure_of_the_Tabernacle_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

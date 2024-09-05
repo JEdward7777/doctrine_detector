@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Role of Jesus as Messiah](../../questions/Role_of_Jesus_as_Messiah.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Role of Jesus as Messiah](../../questions/Role_of_Jesus_as_Messiah.md)
 
 ## Question [Role of Jesus as Messiah](../../questions/Role_of_Jesus_as_Messiah.md)
 How does the concept of the kingdom relate to Jesus' role as the Messiah?

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Covenant Definition](../../questions/Covenant_Definition.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Covenant Definition](../../questions/Covenant_Definition.md)
 
 ## Question [Covenant Definition](../../questions/Covenant_Definition.md)
 What is the Biblical definition of a covenant?
@@ -19,7 +19,11 @@ Islamic teachings emphasize the importance of fulfilling covenants and honoring 
 In summary, from an Islamic standpoint, a covenant is a sacred agreement that should be respected, honored, and fulfilled to maintain trust and harmony among people.
 
 ## Average Grade
-80.0
+75.0
 
 ## Grades
  * [80.0](./Covenant_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [75.0](./Covenant_Definition_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Covenant_Definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Covenant_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Covenant_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

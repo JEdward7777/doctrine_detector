@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Example of Parables](../../questions/Example_of_Parables.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Example of Parables](../../questions/Example_of_Parables.md)
 
 ## Question [Example of Parables](../../questions/Example_of_Parables.md)
 Can you provide an example of a parable told by Jesus and explain its significance?

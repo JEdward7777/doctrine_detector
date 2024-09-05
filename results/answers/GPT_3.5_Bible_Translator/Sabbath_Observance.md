@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Sabbath Observance](../../questions/Sabbath_Observance.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Sabbath Observance](../../questions/Sabbath_Observance.md)
 
 ## Question [Sabbath Observance](../../questions/Sabbath_Observance.md)
 What does it mean to keep the Sabbath holy according to the commandments given to Moses?
@@ -17,7 +17,11 @@ Keeping the Sabbath holy, as stated in the commandments given to Moses, means se
 Keeping the Sabbath holy involves refraining from secular work and activities, focusing on worship and rest, and spending time in prayer and reflection. It is a day to remember and honor God's creation and to cultivate our relationship with Him. Christians observe the Sabbath on Sunday, the day of Christ's resurrection, in light of the New Testament teachings and the early church tradition.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Sabbath_Observance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Sabbath_Observance_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Sabbath_Observance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Sabbath_Observance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Sabbath_Observance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

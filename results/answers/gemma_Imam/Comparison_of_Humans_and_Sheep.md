@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Comparison of Humans and Sheep](../../questions/Comparison_of_Humans_and_Sheep.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Comparison of Humans and Sheep](../../questions/Comparison_of_Humans_and_Sheep.md)
 
 ## Question [Comparison of Humans and Sheep](../../questions/Comparison_of_Humans_and_Sheep.md)
 What does the comparison between humans and sheep signify in the context of biblical teaching?
@@ -37,7 +37,11 @@ While the Bible is a source of inspiration for Muslims, the Quran and Islamic tr
 The comparison between humans and sheep in the biblical teaching offers lessons about humility, dependence on God, and the potential for deception. It is important to consider both the biblical and Islamic perspectives to gain a comprehensive understanding of this comparison.
 
 ## Average Grade
-85.0
+81.0
 
 ## Grades
  * [85.0](./Comparison_of_Humans_and_Sheep_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Comparison_of_Humans_and_Sheep_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Comparison_of_Humans_and_Sheep_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Comparison_of_Humans_and_Sheep_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Comparison_of_Humans_and_Sheep_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma atheist](../../answering_models/gemma_atheist.md) answer to [Definition of Begetting](../../questions/Definition_of_Begetting.md)
+# Generated Answer from [gemma atheist](../../answering_models/gemma_atheist.md) for [Definition of Begetting](../../questions/Definition_of_Begetting.md)
 
 ## Question [Definition of Begetting](../../questions/Definition_of_Begetting.md)
 What does the term 'beget' imply in a Biblical context?
@@ -25,7 +25,11 @@ For example, the Bible describes God as the 'begetter' of all things, suggesting
 This interpretation aligns with the scientific understanding of the universe as a complex system of interconnected parts that emerged from earlier forms of matter and energy.
 
 ## Average Grade
-65.0
+57.0
 
 ## Grades
  * [65.0](./Definition_of_Begetting_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [40.0](./Definition_of_Begetting_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Definition_of_Begetting_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [50.0](./Definition_of_Begetting_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Definition_of_Begetting_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral atheist](../../answering_models/mistral_atheist.md) answer to [Significance of Altars](../../questions/Significance_of_Altars.md)
+# Generated Answer from [mistral atheist](../../answering_models/mistral_atheist.md) for [Significance of Altars](../../questions/Significance_of_Altars.md)
 
 ## Question [Significance of Altars](../../questions/Significance_of_Altars.md)
 What was the significance of building an altar in the context of ancient Israelite worship?
@@ -35,3 +35,7 @@ In summary, building an altar in ancient Israelite worship carried significant c
 
 ## Grades
  * [90.0](./Significance_of_Altars_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Significance_of_Altars_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Significance_of_Altars_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Significance_of_Altars_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Significance_of_Altars_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

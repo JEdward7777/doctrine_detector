@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Physical vs. Spiritual Death](../../questions/Physical_vs._Spiritual_Death.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Physical vs. Spiritual Death](../../questions/Physical_vs._Spiritual_Death.md)
 
 ## Question [Physical vs. Spiritual Death](../../questions/Physical_vs._Spiritual_Death.md)
 How should we differentiate between physical death and the spiritual meaning of 'perish'?

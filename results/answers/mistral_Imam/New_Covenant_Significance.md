@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [New Covenant Significance](../../questions/New_Covenant_Significance.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [New Covenant Significance](../../questions/New_Covenant_Significance.md)
 
 ## Question [New Covenant Significance](../../questions/New_Covenant_Significance.md)
 What is the significance of the new covenant established through Jesus?
@@ -21,7 +21,11 @@ In this verse, Jesus' mission is to affirm the existing laws (the Torah) and pro
 It's always beneficial to engage in respectful dialogue about religious differences and learn from each other, fostering mutual understanding and peace among humanity.
 
 ## Average Grade
-50.0
+56.0
 
 ## Grades
  * [50.0](./New_Covenant_Significance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [55.0](./New_Covenant_Significance_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./New_Covenant_Significance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [65.0](./New_Covenant_Significance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [40.0](./New_Covenant_Significance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

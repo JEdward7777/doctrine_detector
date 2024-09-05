@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) answer to [Access to the Most Holy Place](../../questions/Access_to_the_Most_Holy_Place.md)
+# Generated Answer from [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) for [Access to the Most Holy Place](../../questions/Access_to_the_Most_Holy_Place.md)
 
 ## Question [Access to the Most Holy Place](../../questions/Access_to_the_Most_Holy_Place.md)
 Who was permitted to enter the 'most holy place' and why was this restriction important?
@@ -25,7 +25,11 @@ The restriction was significant for several reasons:
 Overall, the restrictions around the Most Holy Place emphasized God's holiness, the seriousness of sin, and ultimately pointed towards the greater revelation of salvation through Jesus Christ.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Access_to_the_Most_Holy_Place_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Access_to_the_Most_Holy_Place_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Access_to_the_Most_Holy_Place_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Access_to_the_Most_Holy_Place_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Access_to_the_Most_Holy_Place_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Understanding Divine Nature](../../questions/Understanding_Divine_Nature.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Understanding Divine Nature](../../questions/Understanding_Divine_Nature.md)
 
 ## Question [Understanding Divine Nature](../../questions/Understanding_Divine_Nature.md)
 What does the term 'divine nature' imply about God's characteristics?

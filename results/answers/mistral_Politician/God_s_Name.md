@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Politician](../../answering_models/mistral_Politician.md) answer to [God's Name](../../questions/God_s_Name.md)
+# Generated Answer from [mistral Politician](../../answering_models/mistral_Politician.md) for [God's Name](../../questions/God_s_Name.md)
 
 ## Question [God's Name](../../questions/God_s_Name.md)
 What is the significance of God's name 'Yahweh' as revealed in the Bible?
@@ -23,7 +23,11 @@ Moreover, Yahweh is closely linked to the Hebrew concept of monotheism - the bel
 In conclusion, the name Yahweh carries deep spiritual, historical, and cultural significance for millions of people worldwide. It's essential that we recognize and respect its importance while also promoting understanding, inclusivity, and mutual respect among all faith traditions.
 
 ## Average Grade
-90.0
+91.0
 
 ## Grades
  * [90.0](./God_s_Name_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./God_s_Name_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./God_s_Name_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./God_s_Name_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./God_s_Name_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

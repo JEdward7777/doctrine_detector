@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Testing God](../../questions/Testing_God.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Testing God](../../questions/Testing_God.md)
 
 ## Question [Testing God](../../questions/Testing_God.md)
 Why is it considered wrong to put God to the test?
@@ -27,7 +27,11 @@ In Islam, putting God to the test is generally discouraged because it can imply 
 In conclusion, it is important for Muslims to approach their faith with humility and trust, recognizing that Allah knows what is best for His creation. Testing God is seen as a lack of respect for His divinity and wisdom.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Testing_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Testing_God_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Testing_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Testing_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Testing_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

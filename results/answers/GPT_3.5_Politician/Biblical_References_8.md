@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) answer to [Biblical References 8](../../questions/Biblical_References_8.md)
+# Generated Answer from [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) for [Biblical References 8](../../questions/Biblical_References_8.md)
 
 ## Question [Biblical References 8](../../questions/Biblical_References_8.md)
 Which Bible verses reference the concept of ransom, and how do they contribute to the understanding of redemption?
@@ -21,7 +21,11 @@ Another well-known verse that relates to the concept of ransom is Mark 10:45, wh
 Overall, the concept of ransom in the Bible is seen as a powerful symbol of the sacrifice and love that underlie the redemption of humanity. It emphasizes the idea that through faith and acceptance of Jesus as the ultimate ransom, individuals can find forgiveness, salvation, and eternal life.
 
 ## Average Grade
-90.0
+88.0
 
 ## Grades
  * [90.0](./Biblical_References_8_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Biblical_References_8_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Biblical_References_8_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Biblical_References_8_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Biblical_References_8_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

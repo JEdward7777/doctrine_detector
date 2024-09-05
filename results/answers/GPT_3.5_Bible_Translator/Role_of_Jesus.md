@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Role of Jesus](../../questions/Role_of_Jesus.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Role of Jesus](../../questions/Role_of_Jesus.md)
 
 ## Question [Role of Jesus](../../questions/Role_of_Jesus.md)
 How does the Bible describe the role of Jesus in our salvation?
@@ -21,7 +21,11 @@ Additionally, Romans 10:9-10 explains, "If you confess with your mouth, 'Jesus i
 Overall, the Bible teaches that Jesus is the savior who offers salvation to all who believe in him and accept him as Lord and Savior. His death and resurrection provide the foundation for our forgiveness and eternal life with God.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Role_of_Jesus_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Role_of_Jesus_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Role_of_Jesus_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Role_of_Jesus_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Role_of_Jesus_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

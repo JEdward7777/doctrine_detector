@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) answer to [Self-Exaltation](../../questions/Self-Exaltation.md)
+# Generated Answer from [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) for [Self-Exaltation](../../questions/Self-Exaltation.md)
 
 ## Question [Self-Exaltation](../../questions/Self-Exaltation.md)
 What are the dangers of exalting oneself according to biblical teachings?
@@ -19,7 +19,11 @@ Exalting oneself can lead to negative consequences such as alienating others, cr
 By acknowledging and respecting the worth and dignity of all individuals, and by practicing humility and gratitude, one can cultivate a greater sense of empathy, compassion, and understanding towards others. This can help foster a more harmonious and inclusive society where all individuals feel valued and respected, regardless of their status or achievements.
 
 ## Average Grade
-85.0
+87.0
 
 ## Grades
  * [85.0](./Self-Exaltation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Self-Exaltation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Self-Exaltation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Self-Exaltation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Self-Exaltation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

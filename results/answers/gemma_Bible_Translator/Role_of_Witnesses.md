@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Role of Witnesses](../../questions/Role_of_Witnesses.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Role of Witnesses](../../questions/Role_of_Witnesses.md)
 
 ## Question [Role of Witnesses](../../questions/Role_of_Witnesses.md)
 What role do witnesses play in the New Testament regarding the life and resurrection of Jesus?

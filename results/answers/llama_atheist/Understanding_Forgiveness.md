@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Understanding Forgiveness](../../questions/Understanding_Forgiveness.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Understanding Forgiveness](../../questions/Understanding_Forgiveness.md)
 
 ## Question [Understanding Forgiveness](../../questions/Understanding_Forgiveness.md)
 What does it mean to forgive someone according to Christian teaching?
@@ -27,7 +27,11 @@ Furthermore, forgiveness can be seen as a form of social reconciliation, where i
 Ultimately, while religious beliefs may provide cultural and historical context for understanding forgiveness, it is an important concept that can be explored and appreciated from a secular perspective as well.
 
 ## Average Grade
-70.0
+64.0
 
 ## Grades
  * [70.0](./Understanding_Forgiveness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [60.0](./Understanding_Forgiveness_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [50.0](./Understanding_Forgiveness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Understanding_Forgiveness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Understanding_Forgiveness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

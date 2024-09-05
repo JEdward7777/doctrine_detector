@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Role of the Messiah](../../questions/Role_of_the_Messiah.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Role of the Messiah](../../questions/Role_of_the_Messiah.md)
 
 ## Question [Role of the Messiah](../../questions/Role_of_the_Messiah.md)
 What roles did the Messiah fulfill according to the Bible?
@@ -21,7 +21,11 @@ Christians believe that Jesus fulfilled these roles through his teachings, mirac
 It's important to note the differences in the understanding of the Messiah between Islam and Christianity, as both religions have distinct theological beliefs and interpretations of scripture regarding this topic.
 
 ## Average Grade
-80.0
+81.0
 
 ## Grades
  * [80.0](./Role_of_the_Messiah_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Role_of_the_Messiah_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Role_of_the_Messiah_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Role_of_the_Messiah_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Role_of_the_Messiah_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

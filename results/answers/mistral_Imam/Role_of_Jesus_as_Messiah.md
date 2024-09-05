@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Role of Jesus as Messiah](../../questions/Role_of_Jesus_as_Messiah.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Role of Jesus as Messiah](../../questions/Role_of_Jesus_as_Messiah.md)
 
 ## Question [Role of Jesus as Messiah](../../questions/Role_of_Jesus_as_Messiah.md)
 How does the concept of the kingdom relate to Jesus' role as the Messiah?
@@ -23,7 +23,11 @@ In Surah Al-Imran (3:45-46), the Quran states: "And remember, Jesus, the son of 
 So, while Jesus plays a crucial role in Islamic teachings, his connection to the concept of the kingdom is not about worldly rule or government but rather spiritual guidance and submission to Allah.
 
 ## Average Grade
-50.0
+36.0
 
 ## Grades
  * [50.0](./Role_of_Jesus_as_Messiah_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [20.0](./Role_of_Jesus_as_Messiah_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [20.0](./Role_of_Jesus_as_Messiah_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Role_of_Jesus_as_Messiah_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [30.0](./Role_of_Jesus_as_Messiah_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

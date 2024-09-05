@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Translation Suggestions](../../questions/Translation_Suggestions.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Translation Suggestions](../../questions/Translation_Suggestions.md)
 
 ## Question [Translation Suggestions](../../questions/Translation_Suggestions.md)
 What are some alternative translations for the phrase 'to be zealous' that reflect its biblical meaning?
@@ -27,7 +27,11 @@ Here are some alternative translations that reflect this biblical meaning:
 Remember, brother/sister, that these alternative translations are meant to capture the original biblical meaning of "to be zealous," which is often misunderstood or misinterpreted in modern times. May Allah guide us to understand and apply the teachings of the Bible in a way that reflects our deep devotion and commitment to Him.
 
 ## Average Grade
-65.0
+70.0
 
 ## Grades
  * [65.0](./Translation_Suggestions_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Translation_Suggestions_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Translation_Suggestions_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Translation_Suggestions_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Translation_Suggestions_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

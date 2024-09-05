@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Translation of Royal Titles](../../questions/Translation_of_Royal_Titles.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Translation of Royal Titles](../../questions/Translation_of_Royal_Titles.md)
 
 ## Question [Translation of Royal Titles](../../questions/Translation_of_Royal_Titles.md)
 How can the phrase 'Your Majesty' be appropriately translated in different languages?

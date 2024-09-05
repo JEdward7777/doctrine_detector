@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Biblical References to the Temple](../../questions/Biblical_References_to_the_Temple.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Biblical References to the Temple](../../questions/Biblical_References_to_the_Temple.md)
 
 ## Question [Biblical References to the Temple](../../questions/Biblical_References_to_the_Temple.md)
 Which scriptures specifically reference the temple as the 'house of Yahweh'?
@@ -37,7 +37,11 @@ In this passage, God is announcing His return and emphasizing that it will take 
 These verses specifically refer to the Temple as the "house of Yahweh," highlighting its importance as a place where God dwelt among His people.
 
 ## Average Grade
-85.0
+86.0
 
 ## Grades
  * [85.0](./Biblical_References_to_the_Temple_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Biblical_References_to_the_Temple_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Biblical_References_to_the_Temple_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Biblical_References_to_the_Temple_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Biblical_References_to_the_Temple_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

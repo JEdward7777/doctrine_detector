@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Exalting God](../../questions/Exalting_God.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Exalting God](../../questions/Exalting_God.md)
 
 ## Question [Exalting God](../../questions/Exalting_God.md)
 What does it mean to exalt God in your daily life?
@@ -49,7 +49,11 @@ Understanding the importance of exalting God above all else in life.
 * Create an environment that fosters reflection and remembrance of Allah.
 
 ## Average Grade
-90.0
+88.0
 
 ## Grades
  * [90.0](./Exalting_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Exalting_God_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Exalting_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Exalting_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Exalting_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

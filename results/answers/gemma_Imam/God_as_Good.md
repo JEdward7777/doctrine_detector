@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [God as Good](../../questions/God_as_Good.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [God as Good](../../questions/God_as_Good.md)
 
 ## Question [God as Good](../../questions/God_as_Good.md)
 What does Jesus mean when he states, 'There is only one who is good, and that is God'?
@@ -35,7 +35,11 @@ Recognizing the source of goodness in our actions and beliefs.
 **In conclusion, Jesus' statement 'There is only one who is good, and that is God' resonates with Islamic teachings and reinforces the monotheistic beliefs of Islam.**
 
 ## Average Grade
-88.0
+79.6
 
 ## Grades
  * [88.0](./God_as_Good_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./God_as_Good_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./God_as_Good_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./God_as_Good_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./God_as_Good_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

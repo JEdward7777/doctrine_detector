@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Source of Holiness](../../questions/Source_of_Holiness.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Source of Holiness](../../questions/Source_of_Holiness.md)
 
 ## Question [Source of Holiness](../../questions/Source_of_Holiness.md)
 How do believers become saints according to the Christian faith?
@@ -25,7 +25,11 @@ The term "saint" comes from the Greek word "hagios," which means "set apart for 
 So, to answer your question, believers become saints through their death and subsequent resurrection into eternal life with God.
 
 ## Average Grade
-90.0
+92.0
 
 ## Grades
  * [90.0](./Source_of_Holiness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Source_of_Holiness_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Source_of_Holiness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Source_of_Holiness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Source_of_Holiness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

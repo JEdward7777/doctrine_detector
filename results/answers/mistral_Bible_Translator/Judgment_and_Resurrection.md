@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) answer to [Judgment and Resurrection](../../questions/Judgment_and_Resurrection.md)
+# Generated Answer from [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) for [Judgment and Resurrection](../../questions/Judgment_and_Resurrection.md)
 
 ## Question [Judgment and Resurrection](../../questions/Judgment_and_Resurrection.md)
 What events are associated with the 'day of Yahweh' or 'day of the Lord'?
@@ -29,7 +29,11 @@ Clarifying the events that will take place during this significant time in Chris
 It's important to note that interpretations may vary among Christian denominations, as well as between Jewish and Christian perspectives. For a more comprehensive understanding, it would be beneficial to study these passages in their original context and consult the teachings of various Christian traditions.
 
 ## Average Grade
-90.0
+88.0
 
 ## Grades
  * [90.0](./Judgment_and_Resurrection_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Judgment_and_Resurrection_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Judgment_and_Resurrection_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Judgment_and_Resurrection_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Judgment_and_Resurrection_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

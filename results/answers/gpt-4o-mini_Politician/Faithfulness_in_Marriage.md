@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) answer to [Faithfulness in Marriage](../../questions/Faithfulness_in_Marriage.md)
+# Generated Answer from [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) for [Faithfulness in Marriage](../../questions/Faithfulness_in_Marriage.md)
 
 ## Question [Faithfulness in Marriage](../../questions/Faithfulness_in_Marriage.md)
 What does the Bible teach about faithfulness in marriage regarding adultery?
@@ -23,7 +23,11 @@ Furthermore, the Apostle Paul addresses marital faithfulness in his letters, not
 Overall, the biblical view encourages couples to uphold their vows and emphasizes the importance of faithfulness as a reflection of their love and commitment to one another and their relationship with God. These teachings can foster values that promote strong, loving, and lasting relationships within marriage.
 
 ## Average Grade
-95.0
+94.0
 
 ## Grades
  * [95.0](./Faithfulness_in_Marriage_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Faithfulness_in_Marriage_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Faithfulness_in_Marriage_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Faithfulness_in_Marriage_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Faithfulness_in_Marriage_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

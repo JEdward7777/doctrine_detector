@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [New Testament Redemption](../../questions/New_Testament_Redemption.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [New Testament Redemption](../../questions/New_Testament_Redemption.md)
 
 ## Question [New Testament Redemption](../../questions/New_Testament_Redemption.md)
 How does the concept of purification change from the Old Testament to the New Testament?
@@ -42,7 +42,11 @@ Recognizing the sufficiency of Christ’s sacrifice as the means of eternal puri
 * The focus is on achieving inner purity through spiritual growth and adhering to Islamic values.
 
 ## Average Grade
-95.0
+91.0
 
 ## Grades
  * [95.0](./New_Testament_Redemption_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./New_Testament_Redemption_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./New_Testament_Redemption_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./New_Testament_Redemption_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./New_Testament_Redemption_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

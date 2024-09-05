@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Understanding the Tabernacle](../../questions/Understanding_the_Tabernacle.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Understanding the Tabernacle](../../questions/Understanding_the_Tabernacle.md)
 
 ## Question [Understanding the Tabernacle](../../questions/Understanding_the_Tabernacle.md)
 What was the purpose of the tabernacle for the Israelites during their 40 years in the desert?
@@ -25,7 +25,11 @@ In Islamic theology, we recognize that the Tabernacle was a unique institution g
 May Allah bless our understanding of His revelations, and may we strive to follow in the footsteps of the prophets who came before us!
 
 ## Average Grade
-90.0
+86.0
 
 ## Grades
  * [90.0](./Understanding_the_Tabernacle_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Understanding_the_Tabernacle_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Understanding_the_Tabernacle_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [75.0](./Understanding_the_Tabernacle_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_the_Tabernacle_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

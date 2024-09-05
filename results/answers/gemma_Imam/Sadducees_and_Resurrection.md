@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Sadducees and Resurrection](../../questions/Sadducees_and_Resurrection.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Sadducees and Resurrection](../../questions/Sadducees_and_Resurrection.md)
 
 ## Question [Sadducees and Resurrection](../../questions/Sadducees_and_Resurrection.md)
 What was the belief of the Sadducees regarding the resurrection, and how does this contrast with Christian teaching?
@@ -33,7 +33,11 @@ Christian teachings affirm the resurrection of Jesus Christ as a central event i
 * **Eschatology:** The differing views on resurrection shape eschatological beliefs and interpretations of the afterlife.
 
 ## Average Grade
-90.0
+87.0
 
 ## Grades
  * [90.0](./Sadducees_and_Resurrection_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Sadducees_and_Resurrection_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Sadducees_and_Resurrection_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Sadducees_and_Resurrection_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [70.0](./Sadducees_and_Resurrection_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

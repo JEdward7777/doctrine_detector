@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) answer to [Covenant Faithfulness Defined](../../questions/Covenant_Faithfulness_Defined.md)
+# Generated Answer from [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) for [Covenant Faithfulness Defined](../../questions/Covenant_Faithfulness_Defined.md)
 
 ## Question [Covenant Faithfulness Defined](../../questions/Covenant_Faithfulness_Defined.md)
 What does the term 'covenant faithfulness' mean in the context of biblical relationships?
@@ -21,7 +21,11 @@ Notable examples of this concept can be found in the Old Testament, such as God'
 In Christian theology, Jesus Christ is also often seen as the embodiment of covenant faithfulness, fulfilling the divine promises made in the Old Testament and establishing a new covenant (New Covenant) through his life, death, and resurrection (Matthew 26:28, Hebrews 9:15-20). This new covenant calls Christians to be faithful disciples who emulate Christ's love and obedience in their relationships with God and others.
 
 ## Average Grade
-90.0
+89.0
 
 ## Grades
  * [90.0](./Covenant_Faithfulness_Defined_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Covenant_Faithfulness_Defined_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Covenant_Faithfulness_Defined_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Covenant_Faithfulness_Defined_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Covenant_Faithfulness_Defined_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

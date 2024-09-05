@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Scriptural References](../../questions/Scriptural_References.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Scriptural References](../../questions/Scriptural_References.md)
 
 ## Question [Scriptural References](../../questions/Scriptural_References.md)
 Which book of the Bible contains the reference to God as 'Almighty' in relation to Abraham?
@@ -19,7 +19,11 @@ The reference to God as "Almighty" in relation to Abraham can be found in Genesi
 This verse is part of the book of Genesis, which is the first book of the Bible.
 
 ## Average Grade
-85.0
+88.0
 
 ## Grades
  * [85.0](./Scriptural_References_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Scriptural_References_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Scriptural_References_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Scriptural_References_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Scriptural_References_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

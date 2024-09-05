@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Role of Apostles in Early Church](../../questions/Role_of_Apostles_in_Early_Church.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Role of Apostles in Early Church](../../questions/Role_of_Apostles_in_Early_Church.md)
 
 ## Question [Role of Apostles in Early Church](../../questions/Role_of_Apostles_in_Early_Church.md)
 What can we learn from the apostles' actions in teaching and fostering community among believers?
@@ -25,7 +25,11 @@ The actions of the apostles in teaching and fostering community among believers 
 Overall, the apostles' actions in teaching and fostering community among believers highlight the importance of sound doctrine, leading by example, building community, and equipping believers for ministry. As modern-day Christians, we can learn from their example and strive to emulate their commitment to teaching, modeling Christ-like behavior, fostering community, and equipping believers for service in the kingdom of God.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Role_of_Apostles_in_Early_Church_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Role_of_Apostles_in_Early_Church_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Role_of_Apostles_in_Early_Church_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Role_of_Apostles_in_Early_Church_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Role_of_Apostles_in_Early_Church_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

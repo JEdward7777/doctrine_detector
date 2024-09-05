@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Definition of Evangelist](../../questions/Definition_of_Evangelist.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Definition of Evangelist](../../questions/Definition_of_Evangelist.md)
 
 ## Question [Definition of Evangelist](../../questions/Definition_of_Evangelist.md)
 What is the literal meaning of the term 'evangelist'?
@@ -23,7 +23,11 @@ However, it's essential to note that the concept of evangelism is unique to Chri
 If you have any more questions or concerns, please feel free to ask, and I'll do my best to clarify things for you.
 
 ## Average Grade
-70.0
+79.0
 
 ## Grades
  * [70.0](./Definition_of_Evangelist_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Definition_of_Evangelist_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Definition_of_Evangelist_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Definition_of_Evangelist_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Definition_of_Evangelist_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Definition of Evangelist](../../questions/Definition_of_Evangelist.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Definition of Evangelist](../../questions/Definition_of_Evangelist.md)
 
 ## Question [Definition of Evangelist](../../questions/Definition_of_Evangelist.md)
 What is the literal meaning of the term 'evangelist'?
@@ -21,7 +21,11 @@ The term "evangelist" is used only twice in the New Testament: once to describe 
 In modern usage, an evangelist is often understood as someone who shares the Gospel message with others, often through preaching, teaching, or personal witness. However, it's important to note that this understanding is rooted in the original meaning of the term, which emphasizes proclaiming good news about Jesus Christ and His redemptive work on behalf of humanity.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Definition_of_Evangelist_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Definition_of_Evangelist_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Definition_of_Evangelist_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Definition_of_Evangelist_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Definition_of_Evangelist_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

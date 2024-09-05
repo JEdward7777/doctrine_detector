@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Terminology 2](../../questions/Terminology_2.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Terminology 2](../../questions/Terminology_2.md)
 
 ## Question [Terminology 2](../../questions/Terminology_2.md)
 What different terms are used to refer to the Lord’s Supper in Christian communities?
@@ -27,7 +27,11 @@ In Christianity, the Lord's Supper is often referred to by different names depen
 These terms are not exhaustive, and different Christian traditions may have their own unique names or phrases to refer to this important sacrament. As an atheist, I remain neutral on these matters, but I hope this information helps shed some light on the various ways that Christians refer to the Lord's Supper!
 
 ## Average Grade
-90.0
+78.0
 
 ## Grades
  * [90.0](./Terminology_2_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Terminology_2_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Terminology_2_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Terminology_2_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Terminology_2_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

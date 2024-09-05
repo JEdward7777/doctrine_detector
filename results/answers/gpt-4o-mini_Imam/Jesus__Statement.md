@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Jesus' Statement](../../questions/Jesus__Statement.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Jesus' Statement](../../questions/Jesus__Statement.md)
 
 ## Question [Jesus' Statement](../../questions/Jesus__Statement.md)
 What did Jesus mean when he said, 'I am the Resurrection and the Life'?
@@ -21,7 +21,11 @@ In Islamic theology, we recognize Jesus (known as 'Isa in Arabic) as a significa
 In sum, in Christianity, Jesus’ assertion of being "the Resurrection and the Life" highlights his role as the source of eternal life for believers. Meanwhile, while Islam acknowledges Jesus' prophetic role, it teaches a distinct understanding of resurrection tied to faith in Allah and the accountability of one's actions on the Day of Judgment.
 
 ## Average Grade
-90.0
+87.0
 
 ## Grades
  * [90.0](./Jesus__Statement_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Jesus__Statement_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Jesus__Statement_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Jesus__Statement_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Jesus__Statement_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

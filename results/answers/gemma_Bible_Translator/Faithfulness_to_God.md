@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Faithfulness to God](../../questions/Faithfulness_to_God.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Faithfulness to God](../../questions/Faithfulness_to_God.md)
 
 ## Question [Faithfulness to God](../../questions/Faithfulness_to_God.md)
 What does it mean to be faithful to God according to the biblical definition?

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [Understanding Abomination](../../questions/Understanding_Abomination.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [Understanding Abomination](../../questions/Understanding_Abomination.md)
 
 ## Question [Understanding Abomination](../../questions/Understanding_Abomination.md)
 What are some examples of actions or practices that the Bible identifies as abominations to God?
@@ -31,7 +31,11 @@ The Bible, particularly in the Old Testament, outlines various actions and pract
 These examples reflect a broader ethical framework in the biblical texts, emphasizing justice, integrity, and fidelity in relationships—both human and divine. Interpretations of these verses can vary widely among different religious communities and scholars.
 
 ## Average Grade
-90.0
+91.0
 
 ## Grades
  * [90.0](./Understanding_Abomination_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Understanding_Abomination_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Understanding_Abomination_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Understanding_Abomination_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Understanding_Abomination_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

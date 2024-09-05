@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Politician](../../answering_models/gemma_Politician.md) answer to [Understanding Majesty](../../questions/Understanding_Majesty.md)
+# Generated Answer from [gemma Politician](../../answering_models/gemma_Politician.md) for [Understanding Majesty](../../questions/Understanding_Majesty.md)
 
 ## Question [Understanding Majesty](../../questions/Understanding_Majesty.md)
 What does the term 'majesty' signify in relation to God's character?
@@ -15,7 +15,11 @@ Understanding God's attributes and His sovereignty over creation.
 The term 'majesty' in relation to God's character implies a combination of attributes that evoke awe, reverence, and wonder. It suggests qualities such as supreme power, authority, grandeur, and unwavering sovereignty. While these attributes may be associated with traditional portrayals of God, it's important to acknowledge that different cultures and beliefs may have varying interpretations and sensitivities.
 
 ## Average Grade
-95.0
+88.0
 
 ## Grades
  * [95.0](./Understanding_Majesty_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Understanding_Majesty_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Understanding_Majesty_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Understanding_Majesty_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_Majesty_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

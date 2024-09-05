@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Definition of Gospel](../../questions/Definition_of_Gospel.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Definition of Gospel](../../questions/Definition_of_Gospel.md)
 
 ## Question [Definition of Gospel](../../questions/Definition_of_Gospel.md)
 What does the term 'gospel' literally mean, and how is it understood in the context of the Bible?

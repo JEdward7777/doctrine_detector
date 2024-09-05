@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) answer to [Physical offspring of God](../../questions/Physical_offspring_of_God.md)
+# Generated Answer from [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) for [Physical offspring of God](../../questions/Physical_offspring_of_God.md)
 
 ## Question [Physical offspring of God](../../questions/Physical_offspring_of_God.md)
 What can be done to clarify the term 'Son of God' for someone who believes it implies physical offspring of God?
@@ -21,7 +21,11 @@ It may also be helpful to explore the various interpretations and meanings of th
 Ultimately, fostering open and respectful dialogue about religious beliefs and interpretations can help to promote understanding and mutual respect among people of different faith traditions.
 
 ## Average Grade
-85.0
+87.0
 
 ## Grades
  * [85.0](./Physical_offspring_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Physical_offspring_of_God_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Physical_offspring_of_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Physical_offspring_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Physical_offspring_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Understanding Propitiation](../../questions/Understanding_Propitiation.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Understanding Propitiation](../../questions/Understanding_Propitiation.md)
 
 ## Question [Understanding Propitiation](../../questions/Understanding_Propitiation.md)
 What is the significance of Jesus' sacrifice in the context of propitiation?

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Fulfillment of Prophecies](../../questions/Fulfillment_of_Prophecies.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Fulfillment of Prophecies](../../questions/Fulfillment_of_Prophecies.md)
 
 ## Question [Fulfillment of Prophecies](../../questions/Fulfillment_of_Prophecies.md)
 What does it mean when a prophecy is said to be fulfilled according to Biblical teaching?
@@ -27,3 +27,7 @@ In conclusion, when a prophecy is said to be fulfilled according to Biblical tea
 
 ## Grades
  * [85.0](./Fulfillment_of_Prophecies_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Fulfillment_of_Prophecies_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Fulfillment_of_Prophecies_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Fulfillment_of_Prophecies_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Fulfillment_of_Prophecies_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

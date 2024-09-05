@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Politician](../../answering_models/gemma_Politician.md) answer to [Human Jealousy](../../questions/Human_Jealousy.md)
+# Generated Answer from [gemma Politician](../../answering_models/gemma_Politician.md) for [Human Jealousy](../../questions/Human_Jealousy.md)
 
 ## Question [Human Jealousy](../../questions/Human_Jealousy.md)
 How should we respond to feelings of jealousy in our relationships?
@@ -54,7 +54,11 @@ Reflecting on personal relationships and the impact of jealousy on them.
 * Respect their autonomy and right to make their own decisions.
 
 ## Average Grade
-90.0
+82.0
 
 ## Grades
  * [90.0](./Human_Jealousy_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Human_Jealousy_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Human_Jealousy_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Human_Jealousy_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Human_Jealousy_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

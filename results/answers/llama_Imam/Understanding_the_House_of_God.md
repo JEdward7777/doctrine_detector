@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Understanding the House of God](../../questions/Understanding_the_House_of_God.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Understanding the House of God](../../questions/Understanding_the_House_of_God.md)
 
 ## Question [Understanding the House of God](../../questions/Understanding_the_House_of_God.md)
 What is meant by the term 'house of God' in biblical context?
@@ -29,7 +29,11 @@ In conclusion, the concept of the "House of God" in biblical context highlights 
 Wasalamu alaykum, may Allah guide us towards a deeper understanding of His will.
 
 ## Average Grade
-90.0
+87.0
 
 ## Grades
  * [90.0](./Understanding_the_House_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Understanding_the_House_of_God_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Understanding_the_House_of_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Understanding_the_House_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_the_House_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

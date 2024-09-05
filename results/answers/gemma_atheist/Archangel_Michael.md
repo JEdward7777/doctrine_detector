@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma atheist](../../answering_models/gemma_atheist.md) answer to [Archangel Michael](../../questions/Archangel_Michael.md)
+# Generated Answer from [gemma atheist](../../answering_models/gemma_atheist.md) for [Archangel Michael](../../questions/Archangel_Michael.md)
 
 ## Question [Archangel Michael](../../questions/Archangel_Michael.md)
 Who is the only angel referred to as an 'archangel' in the Bible?
@@ -15,7 +15,11 @@ Recognizing Michael's unique position can influence one's understanding of spiri
 The premise of your question is inaccurate. The Bible does not contain any references to angels or archangels.
 
 ## Average Grade
-95.0
+86.0
 
 ## Grades
  * [95.0](./Archangel_Michael_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Archangel_Michael_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Archangel_Michael_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Archangel_Michael_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Archangel_Michael_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

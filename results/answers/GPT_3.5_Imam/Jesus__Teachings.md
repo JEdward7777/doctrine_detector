@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Jesus' Teachings](../../questions/Jesus__Teachings.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Jesus' Teachings](../../questions/Jesus__Teachings.md)
 
 ## Question [Jesus' Teachings](../../questions/Jesus__Teachings.md)
 How did Jesus use the term 'amen' to emphasize His teachings?
@@ -21,7 +21,11 @@ It is believed that Jesus emphasized his teachings by speaking with authority, c
 Ultimately, the main focus in Islam is on the core teachings and principles that were shared by all prophets, including Jesus, such as the worship of One God, righteousness, and compassion towards others. The significance of Jesus' teachings lies in their essence and substance, rather than specific terms or phrases used to emphasize them.
 
 ## Average Grade
-75.0
+68.0
 
 ## Grades
  * [75.0](./Jesus__Teachings_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [65.0](./Jesus__Teachings_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Jesus__Teachings_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Jesus__Teachings_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Jesus__Teachings_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

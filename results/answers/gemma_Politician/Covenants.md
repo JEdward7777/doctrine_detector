@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Politician](../../answering_models/gemma_Politician.md) answer to [Covenants](../../questions/Covenants.md)
+# Generated Answer from [gemma Politician](../../answering_models/gemma_Politician.md) for [Covenants](../../questions/Covenants.md)
 
 ## Question [Covenants](../../questions/Covenants.md)
 How do the promises made in biblical covenants illustrate God's commitment to His people throughout Scripture?
@@ -37,7 +37,11 @@ Recognizing the continuity of God's promises helps believers see the overarching
 **These promises demonstrate God's faithfulness to His people throughout Scripture, regardless of their imperfections or shortcomings. They illustrate God's unchanging love, mercy, and desire to establish a lasting and meaningful relationship with them.**
 
 ## Average Grade
-95.0
+91.0
 
 ## Grades
  * [95.0](./Covenants_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Covenants_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Covenants_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Covenants_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Covenants_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

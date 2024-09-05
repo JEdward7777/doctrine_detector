@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Origins of the Hebrews](../../questions/Origins_of_the_Hebrews.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Origins of the Hebrews](../../questions/Origins_of_the_Hebrews.md)
 
 ## Question [Origins of the Hebrews](../../questions/Origins_of_the_Hebrews.md)
 Who are the Hebrews descended from in the Bible?
@@ -21,7 +21,11 @@ This lineage is crucial to understanding the Hebrew people's identity and their 
 From a historical-critical perspective, it's important to note that the biblical account of the Hebrews' descent from Shem might have been influenced by ancient Near Eastern genealogical traditions. Nevertheless, this narrative remains a cornerstone of Jewish and Christian identity, shaping their understanding of themselves as a people chosen by God.
 
 ## Average Grade
-95.0
+82.0
 
 ## Grades
  * [95.0](./Origins_of_the_Hebrews_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Origins_of_the_Hebrews_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Origins_of_the_Hebrews_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Origins_of_the_Hebrews_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Origins_of_the_Hebrews_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

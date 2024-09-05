@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Jesus as the High Priest](../../questions/Jesus_as_the_High_Priest.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Jesus as the High Priest](../../questions/Jesus_as_the_High_Priest.md)
 
 ## Question [Jesus as the High Priest](../../questions/Jesus_as_the_High_Priest.md)
 How is Jesus described in relation to the high priesthood according to the New Testament?
@@ -19,7 +19,11 @@ This reference to Melchizedek comes from an Old Testament story in Genesis 14, w
 Through his sacrificial death on the cross and his resurrection, Jesus is seen as the ultimate high priest who intercedes on behalf of humanity before God. He is described as a compassionate and understanding high priest who can sympathize with our weaknesses, yet without sin. This concept of Jesus as a high priest emphasizes his role as the mediator between humanity and God, offering forgiveness and salvation to all who believe in him.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Jesus_as_the_High_Priest_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Jesus_as_the_High_Priest_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Jesus_as_the_High_Priest_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Jesus_as_the_High_Priest_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Jesus_as_the_High_Priest_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

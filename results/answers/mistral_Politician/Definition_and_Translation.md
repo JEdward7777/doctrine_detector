@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Politician](../../answering_models/mistral_Politician.md) answer to [Definition and Translation](../../questions/Definition_and_Translation.md)
+# Generated Answer from [mistral Politician](../../answering_models/mistral_Politician.md) for [Definition and Translation](../../questions/Definition_and_Translation.md)
 
 ## Question [Definition and Translation](../../questions/Definition_and_Translation.md)
 What are some alternative translations for the term 'intercede' as used in Scripture?
@@ -23,7 +23,11 @@ Here are some examples of how these terms could be used in Scriptural context:
 * Instead of "Then I heard a loud voice shouting across the heavens: 'It has come at last— salvation and power and the Kingdom of our God, and the authority of his Christ.' For the accuser of our brothers and sisters, who accuses them before our God day and night, has been hurled down to earth." (Revelation 12:10-11), one could say: "I heard a great voice booming across the heavens, proclaiming, 'The time has arrived— redemption, might, and the dominion of our God, along with the authority of His anointed.' For the indictor of our kin, who constantly presents charges against them before our God, has been cast out from heaven to earth."
 
 ## Average Grade
-90.0
+89.0
 
 ## Grades
  * [90.0](./Definition_and_Translation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Definition_and_Translation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Definition_and_Translation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Definition_and_Translation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Definition_and_Translation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

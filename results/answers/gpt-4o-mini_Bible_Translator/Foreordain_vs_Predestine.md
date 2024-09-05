@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) answer to [Foreordain vs Predestine](../../questions/Foreordain_vs_Predestine.md)
+# Generated Answer from [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) for [Foreordain vs Predestine](../../questions/Foreordain_vs_Predestine.md)
 
 ## Question [Foreordain vs Predestine](../../questions/Foreordain_vs_Predestine.md)
 How does the term 'foreordain' relate to 'predestine' in Christian teachings?
@@ -25,3 +25,7 @@ In summary, while both terms indicate God's sovereign action in determining the 
 
 ## Grades
  * [90.0](./Foreordain_vs_Predestine_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Foreordain_vs_Predestine_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Foreordain_vs_Predestine_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Foreordain_vs_Predestine_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Foreordain_vs_Predestine_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

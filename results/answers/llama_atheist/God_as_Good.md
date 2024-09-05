@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [God as Good](../../questions/God_as_Good.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [God as Good](../../questions/God_as_Good.md)
 
 ## Question [God as Good](../../questions/God_as_Good.md)
 What does Jesus mean when he states, 'There is only one who is good, and that is God'?
@@ -29,3 +29,7 @@ As an atheist scholar, I would caution against reading too much moral theology i
 
 ## Grades
  * [80.0](./God_as_Good_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./God_as_Good_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./God_as_Good_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./God_as_Good_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./God_as_Good_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

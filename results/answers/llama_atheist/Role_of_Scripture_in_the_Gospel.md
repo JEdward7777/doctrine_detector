@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Role of Scripture in the Gospel](../../questions/Role_of_Scripture_in_the_Gospel.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Role of Scripture in the Gospel](../../questions/Role_of_Scripture_in_the_Gospel.md)
 
 ## Question [Role of Scripture in the Gospel](../../questions/Role_of_Scripture_in_the_Gospel.md)
 How does the Bible illustrate the use of Scripture in sharing the Gospel message?
@@ -29,7 +29,11 @@ By examining these aspects of the Bible's use of Scripture, we can appreciate it
 In sharing the Gospel message, Christians have often used biblical narratives and quotations to convey their beliefs about redemption through Jesus Christ. However, from a secular perspective, the Bible's influence on cultural values, ethics, and moral principles can be understood without referencing divine authority or supernatural claims.
 
 ## Average Grade
-20.0
+53.0
 
 ## Grades
  * [20.0](./Role_of_Scripture_in_the_Gospel_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [60.0](./Role_of_Scripture_in_the_Gospel_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [50.0](./Role_of_Scripture_in_the_Gospel_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [75.0](./Role_of_Scripture_in_the_Gospel_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Role_of_Scripture_in_the_Gospel_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

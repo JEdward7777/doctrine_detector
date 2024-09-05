@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Understanding the Spirit](../../questions/Understanding_the_Spirit.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Understanding the Spirit](../../questions/Understanding_the_Spirit.md)
 
 ## Question [Understanding the Spirit](../../questions/Understanding_the_Spirit.md)
 How does the Bible differentiate between the human spirit and the concept of an evil spirit?
@@ -21,7 +21,11 @@ The Bible makes a clear distinction between the human spirit and evil spirits. H
 It is important for Christians to rely on the guidance of the Holy Spirit, who empowers believers to resist evil spirits and live according to God's will. Through prayer, worship, and scripture study, Christians can discern the difference between the promptings of the human spirit, the Holy Spirit, and evil spirits.
 
 ## Average Grade
-95.0
+88.0
 
 ## Grades
  * [95.0](./Understanding_the_Spirit_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Understanding_the_Spirit_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Understanding_the_Spirit_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Understanding_the_Spirit_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Understanding_the_Spirit_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

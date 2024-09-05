@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [Biblical References 6](../../questions/Biblical_References_6.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [Biblical References 6](../../questions/Biblical_References_6.md)
 
 ## Question [Biblical References 6](../../questions/Biblical_References_6.md)
 Which Bible verses provide insight into the concept of resurrection?
@@ -27,7 +27,11 @@ The concept of resurrection is significant in the Bible, particularly in the New
 These verses collectively reflect the theological significance of resurrection as a promise of new life, transformation, and eternal existence beyond physical death. They are central to the Christian faith and have shaped various beliefs and practices regarding life after death.
 
 ## Average Grade
-85.0
+89.0
 
 ## Grades
  * [85.0](./Biblical_References_6_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Biblical_References_6_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Biblical_References_6_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Biblical_References_6_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Biblical_References_6_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

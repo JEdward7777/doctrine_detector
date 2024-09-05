@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Understanding Atonement](../../questions/Understanding_Atonement.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Understanding Atonement](../../questions/Understanding_Atonement.md)
 
 ## Question [Understanding Atonement](../../questions/Understanding_Atonement.md)
 What is the significance of Christ's death as the permanent atonement for sin in Christian belief?
@@ -30,7 +30,11 @@ In Islam, salvation and redemption are believed to be through faith in Allah and
 **Therefore, the concept of Christ's death as the permanent atonement for sin is not recognized in Islamic theology.**
 
 ## Average Grade
-20.0
+49.0
 
 ## Grades
  * [20.0](./Understanding_Atonement_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [30.0](./Understanding_Atonement_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [50.0](./Understanding_Atonement_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Understanding_Atonement_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Understanding_Atonement_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

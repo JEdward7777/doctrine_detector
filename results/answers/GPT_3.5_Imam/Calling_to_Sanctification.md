@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Calling to Sanctification](../../questions/Calling_to_Sanctification.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Calling to Sanctification](../../questions/Calling_to_Sanctification.md)
 
 ## Question [Calling to Sanctification](../../questions/Calling_to_Sanctification.md)
 What command is given to believers regarding their personal sanctification?
@@ -19,7 +19,11 @@ The Prophet Muhammad (peace be upon him) also stressed the importance of persona
 Therefore, believers are encouraged to constantly strive towards self-improvement, seeking forgiveness for their sins, performing acts of worship sincerely, and treating others with kindness and compassion. By purifying the heart and soul, believers can develop a stronger connection with Allah and lead a more fulfilling and spiritually enriched life.
 
 ## Average Grade
-90.0
+87.0
 
 ## Grades
  * [90.0](./Calling_to_Sanctification_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Calling_to_Sanctification_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Calling_to_Sanctification_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Calling_to_Sanctification_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Calling_to_Sanctification_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

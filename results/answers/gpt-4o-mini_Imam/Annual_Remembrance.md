@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Annual Remembrance](../../questions/Annual_Remembrance.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Annual Remembrance](../../questions/Annual_Remembrance.md)
 
 ## Question [Annual Remembrance](../../questions/Annual_Remembrance.md)
 Why were the Israelites commanded to celebrate Passover every year according to the Bible?
@@ -29,7 +29,11 @@ Here are some key reasons for the annual celebration of Passover:
 In conclusion, the annual celebration of Passover is deeply rooted in the history and faith of the Israelites, providing them with an opportunity for remembrance, education, community bonding, and spiritual reflection.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Annual_Remembrance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Annual_Remembrance_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Annual_Remembrance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Annual_Remembrance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Annual_Remembrance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

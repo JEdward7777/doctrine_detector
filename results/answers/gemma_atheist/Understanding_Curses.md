@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma atheist](../../answering_models/gemma_atheist.md) answer to [Understanding Curses](../../questions/Understanding_Curses.md)
+# Generated Answer from [gemma atheist](../../answering_models/gemma_atheist.md) for [Understanding Curses](../../questions/Understanding_Curses.md)
 
 ## Question [Understanding Curses](../../questions/Understanding_Curses.md)
 What does the Bible say about the consequences of cursing others, as exemplified in passages like James 3:10?
@@ -42,7 +42,11 @@ While the Bible clearly discourages cursing, it's important to move beyond liter
 The Bible teaches that cursing others has negative consequences, but interpreting these teachings cautiously and considering cultural contexts is crucial for responsible application. By prioritizing respect, self-control, and compassion, we can foster more positive and inclusive communities.
 
 ## Average Grade
-95.0
+90.0
 
 ## Grades
  * [95.0](./Understanding_Curses_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Understanding_Curses_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Understanding_Curses_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Understanding_Curses_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Understanding_Curses_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

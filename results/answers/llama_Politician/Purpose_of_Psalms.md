@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Purpose of Psalms](../../questions/Purpose_of_Psalms.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Purpose of Psalms](../../questions/Purpose_of_Psalms.md)
 
 ## Question [Purpose of Psalms](../../questions/Purpose_of_Psalms.md)
 What role did the Psalms play in the worship practices of the nation of Israel?
@@ -29,7 +29,11 @@ In conclusion, the Psalms occupied a central position in the worship practices o
 Now, I hope that was clear and respectful of all parties involved. *glances around the room*
 
 ## Average Grade
-95.0
+85.0
 
 ## Grades
  * [95.0](./Purpose_of_Psalms_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Purpose_of_Psalms_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Purpose_of_Psalms_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Purpose_of_Psalms_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [70.0](./Purpose_of_Psalms_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Testing God](../../questions/Testing_God.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Testing God](../../questions/Testing_God.md)
 
 ## Question [Testing God](../../questions/Testing_God.md)
 Why is it considered wrong to put God to the test?
@@ -26,7 +26,11 @@ In modern times, this prohibition can be seen as a call to humility, trust, and 
 As an atheist, I acknowledge that these concerns are rooted in cultural and historical contexts. Nevertheless, I believe that these ideas can be seen as a call to critical thinking, moral responsibility, and humility, regardless of one's religious beliefs or lack thereof.
 
 ## Average Grade
-90.0
+83.0
 
 ## Grades
  * [90.0](./Testing_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Testing_God_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Testing_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Testing_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Testing_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

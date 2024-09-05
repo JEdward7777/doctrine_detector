@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral atheist](../../answering_models/mistral_atheist.md) answer to [Building Materials](../../questions/Building_Materials.md)
+# Generated Answer from [mistral atheist](../../answering_models/mistral_atheist.md) for [Building Materials](../../questions/Building_Materials.md)
 
 ## Question [Building Materials](../../questions/Building_Materials.md)
 What materials were commonly used to construct altars during biblical times?
@@ -27,7 +27,11 @@ Knowing the materials and structure of altars can deepen a Christian's understan
 These examples demonstrate the diversity in materials used for altars during Biblical times, reflecting both practicality and cultural practices.
 
 ## Average Grade
-90.0
+85.0
 
 ## Grades
  * [90.0](./Building_Materials_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Building_Materials_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Building_Materials_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Building_Materials_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Building_Materials_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

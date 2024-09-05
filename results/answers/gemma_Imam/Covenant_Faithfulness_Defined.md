@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Covenant Faithfulness Defined](../../questions/Covenant_Faithfulness_Defined.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Covenant Faithfulness Defined](../../questions/Covenant_Faithfulness_Defined.md)
 
 ## Question [Covenant Faithfulness Defined](../../questions/Covenant_Faithfulness_Defined.md)
 What does the term 'covenant faithfulness' mean in the context of biblical relationships?
@@ -43,7 +43,11 @@ Understanding the biblical concept of covenant and its implications for God's re
 Covenant faithfulness is a fundamental aspect of biblical relationships, emphasizing the importance of obedience, faithfulness, and accountability in maintaining a close and intimate relationship with God.
 
 ## Average Grade
-80.0
+79.0
 
 ## Grades
  * [80.0](./Covenant_Faithfulness_Defined_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Covenant_Faithfulness_Defined_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Covenant_Faithfulness_Defined_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Covenant_Faithfulness_Defined_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Covenant_Faithfulness_Defined_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

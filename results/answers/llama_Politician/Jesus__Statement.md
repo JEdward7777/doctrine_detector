@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Jesus' Statement](../../questions/Jesus__Statement.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Jesus' Statement](../../questions/Jesus__Statement.md)
 
 ## Question [Jesus' Statement](../../questions/Jesus__Statement.md)
 What did Jesus mean when he said, 'I am the Resurrection and the Life'?
@@ -23,7 +23,11 @@ By saying "I am the Resurrection and the Life," Jesus could be urging us to focu
 Now, I know some folks might interpret this passage in a more literal or theological sense, but as a politician, I must prioritize building bridges between people from all walks of life. And what better way to do that than by embracing the universal themes of hope, renewal, and redemption that Jesus' words convey?
 
 ## Average Grade
-40.0
+52.0
 
 ## Grades
  * [40.0](./Jesus__Statement_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [40.0](./Jesus__Statement_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [40.0](./Jesus__Statement_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Jesus__Statement_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Jesus__Statement_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

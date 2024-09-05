@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Covenant Conditions](../../questions/Covenant_Conditions.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Covenant Conditions](../../questions/Covenant_Conditions.md)
 
 ## Question [Covenant Conditions](../../questions/Covenant_Conditions.md)
 What are some examples of conditional and unconditional covenants in the Bible?
@@ -34,7 +34,11 @@ In Islam, we also believe that the covenant between Allah and Muhammad (peace be
 I hope this clarifies the concept of conditional and unconditional covenants in both Islamic and Biblical contexts.
 
 ## Average Grade
-80.0
+71.0
 
 ## Grades
  * [80.0](./Covenant_Conditions_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [60.0](./Covenant_Conditions_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [50.0](./Covenant_Conditions_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Covenant_Conditions_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Covenant_Conditions_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

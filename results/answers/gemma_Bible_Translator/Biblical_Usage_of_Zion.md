@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Biblical Usage of Zion](../../questions/Biblical_Usage_of_Zion.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Biblical Usage of Zion](../../questions/Biblical_Usage_of_Zion.md)
 
 ## Question [Biblical Usage of Zion](../../questions/Biblical_Usage_of_Zion.md)
 In what figurative ways is the term 'Zion' used in the Bible?

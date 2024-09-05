@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Injustice in Society](../../questions/Injustice_in_Society.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Injustice in Society](../../questions/Injustice_in_Society.md)
 
 ## Question [Injustice in Society](../../questions/Injustice_in_Society.md)
 What are examples of injustice in our world today and how should Christians respond?

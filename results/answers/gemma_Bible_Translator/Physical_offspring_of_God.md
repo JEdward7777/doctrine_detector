@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Physical offspring of God](../../questions/Physical_offspring_of_God.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Physical offspring of God](../../questions/Physical_offspring_of_God.md)
 
 ## Question [Physical offspring of God](../../questions/Physical_offspring_of_God.md)
 What can be done to clarify the term 'Son of God' for someone who believes it implies physical offspring of God?

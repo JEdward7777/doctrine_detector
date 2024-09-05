@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Curses and Disobedience](../../questions/Curses_and_Disobedience.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Curses and Disobedience](../../questions/Curses_and_Disobedience.md)
 
 ## Question [Curses and Disobedience](../../questions/Curses_and_Disobedience.md)
 How does the concept of curses relate to God's judgment on disobedient people in the context of Galatians 3:10?
@@ -21,7 +21,11 @@ In the case of Galatians 3:10, Paul is emphasizing that those who rely on the la
 Therefore, the concept of curses in the context of God's judgment on disobedient people serves to show the severity of sin and the need for a savior to deliver us from its consequences. Through faith in Jesus Christ, we can be freed from the curse of sin and death and receive the blessing of salvation and eternal life.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Curses_and_Disobedience_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Curses_and_Disobedience_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Curses_and_Disobedience_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Curses_and_Disobedience_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Curses_and_Disobedience_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

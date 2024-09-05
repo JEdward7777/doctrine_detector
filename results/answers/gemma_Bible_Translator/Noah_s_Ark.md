@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Noah's Ark](../../questions/Noah_s_Ark.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Noah's Ark](../../questions/Noah_s_Ark.md)
 
 ## Question [Noah's Ark](../../questions/Noah_s_Ark.md)
 What was the purpose of Noah's Ark as described in the Bible?

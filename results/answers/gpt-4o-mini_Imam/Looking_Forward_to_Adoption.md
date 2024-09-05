@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Looking Forward to Adoption](../../questions/Looking_Forward_to_Adoption.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Looking Forward to Adoption](../../questions/Looking_Forward_to_Adoption.md)
 
 ## Question [Looking Forward to Adoption](../../questions/Looking_Forward_to_Adoption.md)
 What does Romans 8:23 imply about waiting for the adoption of sons and what this means for believers?
@@ -23,7 +23,11 @@ The "groaning" mentioned reflects the struggles and trials faced in life, which 
 In summary, while the theological implications differ between Islam and Christianity, the themes of longing for spiritual growth, redemption, and divine relationship are central to both faiths, encouraging believers to maintain hope and patience as they await their eternal rewards.
 
 ## Average Grade
-60.0
+61.0
 
 ## Grades
  * [60.0](./Looking_Forward_to_Adoption_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [40.0](./Looking_Forward_to_Adoption_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [65.0](./Looking_Forward_to_Adoption_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Looking_Forward_to_Adoption_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Looking_Forward_to_Adoption_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

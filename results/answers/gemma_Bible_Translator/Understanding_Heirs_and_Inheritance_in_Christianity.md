@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Understanding Heirs and Inheritance in Christianity](../../questions/Understanding_Heirs_and_Inheritance_in_Christianity.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Understanding Heirs and Inheritance in Christianity](../../questions/Understanding_Heirs_and_Inheritance_in_Christianity.md)
 
 ## Question [Understanding Heirs and Inheritance in Christianity](../../questions/Understanding_Heirs_and_Inheritance_in_Christianity.md)
 How does the concept of being an heir relate to the Christian understanding of receiving God's promises?
@@ -41,7 +41,11 @@ The concept of being an heir plays a significant role in biblical theology, part
 - Be sensitive to the diversity of theological perspectives within Christianity.
 
 ## Average Grade
-95.0
+81.6
 
 ## Grades
  * [95.0](./Understanding_Heirs_and_Inheritance_in_Christianity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Understanding_Heirs_and_Inheritance_in_Christianity_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Understanding_Heirs_and_Inheritance_in_Christianity_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [93.0](./Understanding_Heirs_and_Inheritance_in_Christianity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [40.0](./Understanding_Heirs_and_Inheritance_in_Christianity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

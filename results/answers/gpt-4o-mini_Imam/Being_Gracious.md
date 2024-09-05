@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Being Gracious](../../questions/Being_Gracious.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Being Gracious](../../questions/Being_Gracious.md)
 
 ## Question [Being Gracious](../../questions/Being_Gracious.md)
 How is the term 'gracious' defined and what does it imply about our interactions with others?
@@ -31,7 +31,11 @@ In Islam, these qualities are highly valued, as reflected in the teachings of th
 Thus, embodying graciousness in our interactions is not only a personal virtue but also an essential part of Islamic conduct that fosters harmony and strengthens community bonds.
 
 ## Average Grade
-75.0
+78.0
 
 ## Grades
  * [75.0](./Being_Gracious_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Being_Gracious_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Being_Gracious_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Being_Gracious_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Being_Gracious_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

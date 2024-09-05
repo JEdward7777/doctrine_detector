@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Relation to Atonement](../../questions/Relation_to_Atonement.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Relation to Atonement](../../questions/Relation_to_Atonement.md)
 
 ## Question [Relation to Atonement](../../questions/Relation_to_Atonement.md)
 How does the term 'propitiation' relate to the term 'atonement'?
@@ -25,7 +25,11 @@ In this context, propitiation can be seen as a necessary step towards atonement.
 It's essential to note that these concepts are deeply embedded within religious belief systems and may not be universally applicable or relevant outside those contexts. As a scholar, my goal is to provide an analysis of these terms without taking a stance on their validity or relevance beyond their cultural and historical contexts.
 
 ## Average Grade
-90.0
+88.0
 
 ## Grades
  * [90.0](./Relation_to_Atonement_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Relation_to_Atonement_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Relation_to_Atonement_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Relation_to_Atonement_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Relation_to_Atonement_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

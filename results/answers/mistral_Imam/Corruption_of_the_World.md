@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Corruption of the World](../../questions/Corruption_of_the_World.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Corruption of the World](../../questions/Corruption_of_the_World.md)
 
 ## Question [Corruption of the World](../../questions/Corruption_of_the_World.md)
 In what ways can Christians identify corrupt influences in the world around them?
@@ -27,7 +27,11 @@ Remaining vigilant against worldly influences that may lead away from godly livi
 6. Encouragement of community and accountability (Hebrews 10:24-25): Being part of a Christian community offers support, encouragement, and accountability. Christians can help each other identify and overcome corrupt influences by staying connected and sharing their experiences.
 
 ## Average Grade
-95.0
+94.0
 
 ## Grades
  * [95.0](./Corruption_of_the_World_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Corruption_of_the_World_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Corruption_of_the_World_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Corruption_of_the_World_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Corruption_of_the_World_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Spiritual Healing Through Confession](../../questions/Spiritual_Healing_Through_Confession.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Spiritual Healing Through Confession](../../questions/Spiritual_Healing_Through_Confession.md)
 
 ## Question [Spiritual Healing Through Confession](../../questions/Spiritual_Healing_Through_Confession.md)
 How does confessing sins to one another contribute to spiritual healing, as mentioned in James 5:16?
@@ -19,7 +19,11 @@ In the context of the verse you mentioned from the Bible (James 5:16), which sta
 While the approach to seeking spiritual healing may differ between Islam and Christianity, the underlying message of seeking repentance, forgiveness, support, and healing remains a common theme in both faiths. Muslims are encouraged to turn to Allah for forgiveness and healing, and seeking guidance and support from wise and trustworthy individuals within the community can also be beneficial for one's spiritual growth and well-being.
 
 ## Average Grade
-95.0
+90.0
 
 ## Grades
  * [95.0](./Spiritual_Healing_Through_Confession_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Spiritual_Healing_Through_Confession_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Spiritual_Healing_Through_Confession_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Spiritual_Healing_Through_Confession_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Spiritual_Healing_Through_Confession_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

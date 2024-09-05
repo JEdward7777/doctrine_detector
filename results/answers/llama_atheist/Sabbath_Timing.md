@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Sabbath Timing](../../questions/Sabbath_Timing.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Sabbath Timing](../../questions/Sabbath_Timing.md)
 
 ## Question [Sabbath Timing](../../questions/Sabbath_Timing.md)
 What is the timing of the Sabbath according to Jewish tradition?
@@ -26,7 +26,11 @@ The timing is based on the biblical commandment to "remember the Sabbath day and
 Now, if you'll excuse me, I need to get back to my research on the history of Sabbath observance!
 
 ## Average Grade
-75.0
+63.0
 
 ## Grades
  * [75.0](./Sabbath_Timing_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [30.0](./Sabbath_Timing_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [50.0](./Sabbath_Timing_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Sabbath_Timing_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Sabbath_Timing_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

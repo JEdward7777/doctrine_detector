@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Scriptural Reference](../../questions/Scriptural_Reference.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Scriptural Reference](../../questions/Scriptural_Reference.md)
 
 ## Question [Scriptural Reference](../../questions/Scriptural_Reference.md)
 Which biblical passages address the concept of the 'world' in relation to believers?
@@ -41,7 +41,11 @@ Here, Paul emphasizes the believer's freedom from the world and its desires.
 These passages illustrate the various ways the biblical authors understood the concept of "the world" in relation to believers.
 
 ## Average Grade
-85.0
+87.0
 
 ## Grades
  * [85.0](./Scriptural_Reference_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Scriptural_Reference_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Scriptural_Reference_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Scriptural_Reference_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Scriptural_Reference_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

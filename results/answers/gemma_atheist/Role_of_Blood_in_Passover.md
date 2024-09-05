@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma atheist](../../answering_models/gemma_atheist.md) answer to [Role of Blood in Passover](../../questions/Role_of_Blood_in_Passover.md)
+# Generated Answer from [gemma atheist](../../answering_models/gemma_atheist.md) for [Role of Blood in Passover](../../questions/Role_of_Blood_in_Passover.md)
 
 ## Question [Role of Blood in Passover](../../questions/Role_of_Blood_in_Passover.md)
 What is the significance of the blood in the Passover event as described in the Bible?
@@ -19,7 +19,11 @@ The biblical account of the Passover event is a religious narrative with symboli
 **The interpretation of blood in the Passover event is based on religious beliefs and should not be taken literally or scientifically.**
 
 ## Average Grade
-40.0
+32.0
 
 ## Grades
  * [40.0](./Role_of_Blood_in_Passover_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [20.0](./Role_of_Blood_in_Passover_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [20.0](./Role_of_Blood_in_Passover_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [20.0](./Role_of_Blood_in_Passover_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Role_of_Blood_in_Passover_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [Inheritance and the Promise to Abraham](../../questions/Inheritance_and_the_Promise_to_Abraham.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [Inheritance and the Promise to Abraham](../../questions/Inheritance_and_the_Promise_to_Abraham.md)
 
 ## Question [Inheritance and the Promise to Abraham](../../questions/Inheritance_and_the_Promise_to_Abraham.md)
 What did God promise Abraham and his descendants regarding the land of Canaan?
@@ -19,7 +19,11 @@ The specific passages that outline this promise can be found in Genesis 12:1-3, 
 From a historical and cultural perspective, this narrative has had profound implications in the context of Israelite history, shaping their understanding of identity, belonging, and territorial claims throughout the centuries.
 
 ## Average Grade
-80.0
+83.0
 
 ## Grades
  * [80.0](./Inheritance_and_the_Promise_to_Abraham_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Inheritance_and_the_Promise_to_Abraham_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Inheritance_and_the_Promise_to_Abraham_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Inheritance_and_the_Promise_to_Abraham_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Inheritance_and_the_Promise_to_Abraham_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) answer to [Covenants](../../questions/Covenants.md)
+# Generated Answer from [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) for [Covenants](../../questions/Covenants.md)
 
 ## Question [Covenants](../../questions/Covenants.md)
 How do the promises made in biblical covenants illustrate God's commitment to His people throughout Scripture?
@@ -17,7 +17,11 @@ The promises made in biblical covenants are a significant aspect of how God demo
 It is important to recognize and respect the religious beliefs and perspectives of individuals when discussing biblical themes, ensuring that language is chosen carefully and respectfully to avoid causing offense or misunderstanding.
 
 ## Average Grade
-90.0
+87.0
 
 ## Grades
  * [90.0](./Covenants_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Covenants_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Covenants_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Covenants_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Covenants_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Testimony Meaning](../../questions/Testimony_Meaning.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Testimony Meaning](../../questions/Testimony_Meaning.md)
 
 ## Question [Testimony Meaning](../../questions/Testimony_Meaning.md)
 What is the significance of testimony in the context of the Bible, particularly regarding the commandments of God?
@@ -27,7 +27,11 @@ In Islamic theology, while we do not have an exact equivalent to the biblical co
 In conclusion, while the concept of "testimony" in Christianity may not have direct parallels in Islamic theology, we can appreciate the significance it holds in Christian thought. The importance of bearing witness to one's faith and commitment to living according to God's commandments is a universal theme that transcends religious boundaries.
 
 ## Average Grade
-85.0
+79.0
 
 ## Grades
  * [85.0](./Testimony_Meaning_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Testimony_Meaning_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Testimony_Meaning_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Testimony_Meaning_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Testimony_Meaning_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

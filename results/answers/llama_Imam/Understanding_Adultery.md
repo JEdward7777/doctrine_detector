@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Understanding Adultery](../../questions/Understanding_Adultery.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Understanding Adultery](../../questions/Understanding_Adultery.md)
 
 ## Question [Understanding Adultery](../../questions/Understanding_Adultery.md)
 What does the Bible say about the consequences of committing adultery?
@@ -27,7 +27,11 @@ In Islam, adultery (zina) is a severe moral transgression that can lead to sever
 As an Imam, my role is to guide Muslims based on Islamic teachings, not to comment on or interpret Christian scripture. However, I hope this information provides some insight into the biblical perspective on adultery.
 
 ## Average Grade
-90.0
+86.0
 
 ## Grades
  * [90.0](./Understanding_Adultery_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Understanding_Adultery_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Understanding_Adultery_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Understanding_Adultery_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_Adultery_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

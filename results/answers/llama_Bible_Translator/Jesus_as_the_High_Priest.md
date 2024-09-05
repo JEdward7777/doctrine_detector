@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Jesus as the High Priest](../../questions/Jesus_as_the_High_Priest.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Jesus as the High Priest](../../questions/Jesus_as_the_High_Priest.md)
 
 ## Question [Jesus as the High Priest](../../questions/Jesus_as_the_High_Priest.md)
 How is Jesus described in relation to the high priesthood according to the New Testament?
@@ -25,7 +25,11 @@ In the New Testament, Jesus Christ is often described in relation to the high pr
 Throughout these passages, Jesus is portrayed as the ultimate High Priest, offering Himself as the perfect sacrifice for sins, and mediating between God and humanity. His priesthood is characterized by its eternal nature, divine appointment, and unparalleled effectiveness in securing redemption and reconciliation.
 
 ## Average Grade
-95.0
+94.4
 
 ## Grades
  * [95.0](./Jesus_as_the_High_Priest_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Jesus_as_the_High_Priest_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Jesus_as_the_High_Priest_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Jesus_as_the_High_Priest_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [92.0](./Jesus_as_the_High_Priest_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

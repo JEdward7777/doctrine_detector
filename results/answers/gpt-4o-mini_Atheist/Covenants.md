@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [Covenants](../../questions/Covenants.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [Covenants](../../questions/Covenants.md)
 
 ## Question [Covenants](../../questions/Covenants.md)
 How do the promises made in biblical covenants illustrate God's commitment to His people throughout Scripture?
@@ -32,7 +32,11 @@ The biblical covenants serve as significant threads that weave together the narr
 In leaning into the narrative of the covenants, one can see how they collectively illustrate God's ongoing commitment throughout biblical history, offering insight into His character and the nature of the relationship He seeks with humanity.
 
 ## Average Grade
-90.0
+93.0
 
 ## Grades
  * [90.0](./Covenants_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Covenants_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Covenants_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Covenants_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Covenants_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

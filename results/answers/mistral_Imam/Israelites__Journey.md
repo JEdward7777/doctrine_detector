@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Israelites' Journey](../../questions/Israelites__Journey.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Israelites' Journey](../../questions/Israelites__Journey.md)
 
 ## Question [Israelites' Journey](../../questions/Israelites__Journey.md)
 How did the Israelites' journey to the Promised Land demonstrate God's faithfulness?
@@ -25,7 +25,11 @@ The Israelites' journey to the Promised Land demonstrates God's faithfulness in 
 4. Unity: Throughout the journey, the Israelites had to work together and rely on each other to survive. This unity is symbolic of the Muslim ummah (community), emphasizing the importance of brotherhood, cooperation, and mutual support among believers.
 
 ## Average Grade
-85.0
+80.0
 
 ## Grades
  * [85.0](./Israelites__Journey_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Israelites__Journey_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [75.0](./Israelites__Journey_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Israelites__Journey_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Israelites__Journey_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

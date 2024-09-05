@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Gift of Evangelism](../../questions/Gift_of_Evangelism.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Gift of Evangelism](../../questions/Gift_of_Evangelism.md)
 
 ## Question [Gift of Evangelism](../../questions/Gift_of_Evangelism.md)
 What distinguishes an evangelist from other Christians?
@@ -27,7 +27,11 @@ It's essential to note that these categories are not mutually exclusive, and man
 May Allah guide us all in our respective callings and missions. Wa al-salamu alaykum warahmatullahi wabarakatuh.
 
 ## Average Grade
-80.0
+72.0
 
 ## Grades
  * [80.0](./Gift_of_Evangelism_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Gift_of_Evangelism_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Gift_of_Evangelism_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Gift_of_Evangelism_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Gift_of_Evangelism_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

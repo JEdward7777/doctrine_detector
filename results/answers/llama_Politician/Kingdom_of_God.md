@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Kingdom of God](../../questions/Kingdom_of_God.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Kingdom of God](../../questions/Kingdom_of_God.md)
 
 ## Question [Kingdom of God](../../questions/Kingdom_of_God.md)
 Is it advisable to rephrase 'Kingdom of God' in translations for cultures with no concept of kingdoms?
@@ -23,7 +23,11 @@ However, I must caution against simply replacing "Kingdom of God" with another p
 Ultimately, our goal should be to facilitate a deeper connection between people from different cultures, rather than imposing our own assumptions or biases on others. By embracing a spirit of collaboration and sensitivity, we can work towards creating translations that honor the diversity of human experience while remaining true to the original message of faith.
 
 ## Average Grade
-75.0
+72.0
 
 ## Grades
  * [75.0](./Kingdom_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Kingdom_of_God_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Kingdom_of_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Kingdom_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Kingdom_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

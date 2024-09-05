@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Anointing and the Holy Spirit](../../questions/Anointing_and_the_Holy_Spirit.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Anointing and the Holy Spirit](../../questions/Anointing_and_the_Holy_Spirit.md)
 
 ## Question [Anointing and the Holy Spirit](../../questions/Anointing_and_the_Holy_Spirit.md)
 What does it mean to receive the Holy Spirit as described in the context of anointing?

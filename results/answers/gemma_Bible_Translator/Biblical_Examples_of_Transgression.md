@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Biblical Examples of Transgression](../../questions/Biblical_Examples_of_Transgression.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Biblical Examples of Transgression](../../questions/Biblical_Examples_of_Transgression.md)
 
 ## Question [Biblical Examples of Transgression](../../questions/Biblical_Examples_of_Transgression.md)
 Which Biblical references illustrate the concept of transgression?

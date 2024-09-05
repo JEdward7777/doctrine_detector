@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [True vs. False Worship](../../questions/True_vs._False_Worship.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [True vs. False Worship](../../questions/True_vs._False_Worship.md)
 
 ## Question [True vs. False Worship](../../questions/True_vs._False_Worship.md)
 What is a difference between worshiping God and worshiping false gods?
@@ -41,7 +41,11 @@ In contrast, worshiping God means to recognize His sovereignty and oneness, and 
 In summary, worshiping God means to submit one's will and actions to Allah's commandments, while worshiping false gods means to associate others with Allah's divine attributes or powers. The former is considered righteous and praiseworthy in Islam, whereas the latter is a grave sin that can lead to punishment in this life and the next.
 
 ## Average Grade
-95.0
+90.0
 
 ## Grades
  * [95.0](./True_vs._False_Worship_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./True_vs._False_Worship_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./True_vs._False_Worship_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./True_vs._False_Worship_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./True_vs._False_Worship_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

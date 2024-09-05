@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral atheist](../../answering_models/mistral_atheist.md) answer to [Children of God](../../questions/Children_of_God.md)
+# Generated Answer from [mistral atheist](../../answering_models/mistral_atheist.md) for [Children of God](../../questions/Children_of_God.md)
 
 ## Question [Children of God](../../questions/Children_of_God.md)
 How does being referred to as 'children of God' impact the relationship between believers and God?
@@ -21,7 +21,11 @@ On the other hand, the concept may lead to expectations and responsibilities bei
 In summary, being referred to as "children of God" has complex effects on the relationship between believers and God. It can promote feelings of connection, love, and purpose, but may also create expectations, guilt, and a sense of hierarchical subordination. A deeper understanding of these impacts requires an exploration of cultural, historical, and theological contexts within each religious tradition.
 
 ## Average Grade
-95.0
+84.0
 
 ## Grades
  * [95.0](./Children_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Children_of_God_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Children_of_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Children_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Children_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

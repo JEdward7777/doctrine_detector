@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Eternal Nature of the Son](../../questions/Eternal_Nature_of_the_Son.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Eternal Nature of the Son](../../questions/Eternal_Nature_of_the_Son.md)
 
 ## Question [Eternal Nature of the Son](../../questions/Eternal_Nature_of_the_Son.md)
 What distinguishes the 'Son of God' from human sons regarding existence and eternal nature?
@@ -35,7 +35,11 @@ Other differences between human sons and the Son of God might include:
 It's essential to note that these distinctions are rooted in Christian theology and may vary across different cultural and religious contexts. As an atheist scholar, I'm not attempting to establish or justify the existence or nature of the Son of God but rather provide a nuanced understanding of the concept within its historical and cultural framework.
 
 ## Average Grade
-95.0
+75.0
 
 ## Grades
  * [95.0](./Eternal_Nature_of_the_Son_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [65.0](./Eternal_Nature_of_the_Son_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [75.0](./Eternal_Nature_of_the_Son_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Eternal_Nature_of_the_Son_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Eternal_Nature_of_the_Son_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

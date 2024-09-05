@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma atheist](../../answering_models/gemma_atheist.md) answer to [Idolatry in the Bible](../../questions/Idolatry_in_the_Bible.md)
+# Generated Answer from [gemma atheist](../../answering_models/gemma_atheist.md) for [Idolatry in the Bible](../../questions/Idolatry_in_the_Bible.md)
 
 ## Question [Idolatry in the Bible](../../questions/Idolatry_in_the_Bible.md)
 How does the Bible illustrate the consequences of idolatry among God's people?
@@ -48,7 +48,11 @@ While the specific practices of idolatry may differ across cultures and eras, th
 The Bible serves as a cautionary tale, highlighting the devastating consequences of idolatry on individuals and societies. Understanding these narratives can equip us to critically assess our own cultural practices and resist the allure of idolatry in its various forms.
 
 ## Average Grade
-70.0
+73.0
 
 ## Grades
  * [70.0](./Idolatry_in_the_Bible_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [75.0](./Idolatry_in_the_Bible_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [65.0](./Idolatry_in_the_Bible_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Idolatry_in_the_Bible_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Idolatry_in_the_Bible_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Terminology](../../questions/Terminology.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Terminology](../../questions/Terminology.md)
 
 ## Question [Terminology](../../questions/Terminology.md)
 What are some alternative terms that can be used to describe a deacon?
@@ -27,7 +27,11 @@ Recognizing the various ways to identify service roles within the church.
 These roles may be held by different individuals within an Islamic community, depending on their skills and responsibilities. It is important to note that while these roles are administrative and organizational in nature, they are also spiritual positions requiring knowledge of Islam and piety from the individuals filling them.
 
 ## Average Grade
-75.0
+77.0
 
 ## Grades
  * [75.0](./Terminology_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Terminology_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [75.0](./Terminology_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Terminology_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Terminology_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

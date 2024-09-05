@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Messianic Identity](../../questions/Messianic_Identity.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Messianic Identity](../../questions/Messianic_Identity.md)
 
 ## Question [Messianic Identity](../../questions/Messianic_Identity.md)
 What significance does the title 'King of the Jews' hold in relation to Jesus' identity as the Messiah?
@@ -19,7 +19,11 @@ From a Muslim perspective, it is important to understand that Jesus' true identi
 The title "King of the Jews" ascribed to Jesus during his trial does not diminish his status as the Messiah in Islamic belief. It is essential for Muslims to focus on Jesus' teachings, his miracles, and his role as a guide for humanity rather than getting caught up in political titles or worldly power dynamics.
 
 ## Average Grade
-80.0
+60.0
 
 ## Grades
  * [80.0](./Messianic_Identity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Messianic_Identity_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [20.0](./Messianic_Identity_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Messianic_Identity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Messianic_Identity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

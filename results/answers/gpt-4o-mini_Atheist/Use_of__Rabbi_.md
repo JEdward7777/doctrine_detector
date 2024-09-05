@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [Use of 'Rabbi'](../../questions/Use_of__Rabbi_.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [Use of 'Rabbi'](../../questions/Use_of__Rabbi_.md)
 
 ## Question [Use of 'Rabbi'](../../questions/Use_of__Rabbi_.md)
 How were John the Baptist and Jesus referred to concerning the title 'Rabbi'?
@@ -19,7 +19,11 @@ Jesus, on the other hand, is often referred to as 'Rabbi' by his disciples and f
 It’s important to note that the use of titles and their implications can differ significantly across cultural and historical contexts. In examining these figures, it’s essential to appreciate the nuances in their roles as teachers in the context of their time.
 
 ## Average Grade
-90.0
+85.0
 
 ## Grades
  * [90.0](./Use_of__Rabbi__grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Use_of__Rabbi__grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Use_of__Rabbi__grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Use_of__Rabbi__grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Use_of__Rabbi__grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

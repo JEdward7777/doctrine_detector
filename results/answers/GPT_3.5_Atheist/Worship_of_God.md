@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Worship of God](../../questions/Worship_of_God.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Worship of God](../../questions/Worship_of_God.md)
 
 ## Question [Worship of God](../../questions/Worship_of_God.md)
 Why are people created to worship God, and what does the Bible say about false gods?
@@ -21,7 +21,11 @@ Regarding false gods, the Bible condemns the worship of idols and false gods. In
 From a cultural and historical perspective, the condemnation of false gods in the Bible reflects the monotheistic beliefs of the ancient Israelites and their rejection of the polytheistic practices of the surrounding cultures. The emphasis on worshiping the one true God is a core tenet of the Judeo-Christian tradition.
 
 ## Average Grade
-90.0
+89.0
 
 ## Grades
  * [90.0](./Worship_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Worship_of_God_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Worship_of_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Worship_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Worship_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

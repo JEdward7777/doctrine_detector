@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral atheist](../../answering_models/mistral_atheist.md) answer to [Understanding Adultery](../../questions/Understanding_Adultery.md)
+# Generated Answer from [mistral atheist](../../answering_models/mistral_atheist.md) for [Understanding Adultery](../../questions/Understanding_Adultery.md)
 
 ## Question [Understanding Adultery](../../questions/Understanding_Adultery.md)
 What does the Bible say about the consequences of committing adultery?
@@ -21,7 +21,11 @@ Regarding consequences, Proverbs 6:32-33 says, "Whoever commits adultery lacks s
 It's important to remember that interpretations of the Bible can vary greatly among different religious groups and individuals. This response provides a general overview based on traditional Christian understandings of the Bible.
 
 ## Average Grade
-90.0
+91.0
 
 ## Grades
  * [90.0](./Understanding_Adultery_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Understanding_Adultery_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Understanding_Adultery_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Understanding_Adultery_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_Adultery_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

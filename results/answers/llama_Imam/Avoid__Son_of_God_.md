@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Avoid 'Son of God'](../../questions/Avoid__Son_of_God_.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Avoid 'Son of God'](../../questions/Avoid__Son_of_God_.md)
 
 ## Question [Avoid 'Son of God'](../../questions/Avoid__Son_of_God_.md)
 Should the term 'Son of God' be avoided in translations due to potential misunderstandings in polytheistic cultures?
@@ -27,7 +27,11 @@ In Islamic-Christian dialogue, it's crucial to employ sensitive language and avo
 May Allah guide us all towards understanding and harmony.
 
 ## Average Grade
-85.0
+73.0
 
 ## Grades
  * [85.0](./Avoid__Son_of_God__grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [60.0](./Avoid__Son_of_God__grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Avoid__Son_of_God__grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Avoid__Son_of_God__grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Avoid__Son_of_God__grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

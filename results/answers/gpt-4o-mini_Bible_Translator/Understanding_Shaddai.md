@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) answer to [Understanding Shaddai](../../questions/Understanding_Shaddai.md)
+# Generated Answer from [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) for [Understanding Shaddai](../../questions/Understanding_Shaddai.md)
 
 ## Question [Understanding Shaddai](../../questions/Understanding_Shaddai.md)
 What is the meaning of the Hebrew term 'Shaddai' and how is it used in the context of the Old Testament?
@@ -21,7 +21,11 @@ Throughout the Old Testament, 'Shaddai' emphasizes God’s ultimate power over c
 Additionally, the term is used in various forms across different contexts, essentially reminding the faithful of God's might and willingness to intervene on behalf of those who trust in Him. Overall, the usage of 'Shaddai' in the Old Testament encapsulates a rich depiction of God's character as powerful, nurturing, and faithful.
 
 ## Average Grade
-90.0
+84.0
 
 ## Grades
  * [90.0](./Understanding_Shaddai_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Understanding_Shaddai_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Understanding_Shaddai_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Understanding_Shaddai_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Understanding_Shaddai_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

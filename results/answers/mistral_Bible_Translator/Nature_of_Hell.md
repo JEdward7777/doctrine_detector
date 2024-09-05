@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) answer to [Nature of Hell](../../questions/Nature_of_Hell.md)
+# Generated Answer from [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) for [Nature of Hell](../../questions/Nature_of_Hell.md)
 
 ## Question [Nature of Hell](../../questions/Nature_of_Hell.md)
 What does the Bible say about the nature and experience of hell?
@@ -27,7 +27,11 @@ Understanding the severity and purpose of hell is important for grasping the Chr
 6. Universal Reconciliation: A minority view among Christians is known as "universal reconciliation" or "Annihilationism," which posits that, while hell exists for a time, eventually all souls will be reunited with God. This belief is not widely held in mainstream Christianity.
 
 ## Average Grade
-90.0
+84.0
 
 ## Grades
  * [90.0](./Nature_of_Hell_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Nature_of_Hell_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Nature_of_Hell_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Nature_of_Hell_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Nature_of_Hell_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

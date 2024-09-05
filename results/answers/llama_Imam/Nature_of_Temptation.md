@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Nature of Temptation](../../questions/Nature_of_Temptation.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Nature of Temptation](../../questions/Nature_of_Temptation.md)
 
 ## Question [Nature of Temptation](../../questions/Nature_of_Temptation.md)
 According to the content, what roles do our sinful nature and external influences play in temptation?
@@ -29,7 +29,11 @@ As Muslims, we must strive to cultivate taqwa (God-consciousness) and istiqaamah
 In conclusion, while our sinful nature and external influences can certainly tempt us, it is our responsibility as Muslims to recognize these threats and actively work towards cultivating spiritual strength and resilience.
 
 ## Average Grade
-50.0
+65.0
 
 ## Grades
  * [50.0](./Nature_of_Temptation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [65.0](./Nature_of_Temptation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Nature_of_Temptation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Nature_of_Temptation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Nature_of_Temptation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

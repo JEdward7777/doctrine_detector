@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Sabbath Observance 2](../../questions/Sabbath_Observance_2.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Sabbath Observance 2](../../questions/Sabbath_Observance_2.md)
 
 ## Question [Sabbath Observance 2](../../questions/Sabbath_Observance_2.md)
 How did God instruct the Israelites to gather manna in relation to the Sabbath?
@@ -19,7 +19,11 @@ God instructed the Israelites to gather twice as much manna on the sixth day of 
 This story serves as a reminder of the importance of honoring and observing the Sabbath day as a day of rest and spiritual reflection in the Jewish tradition.
 
 ## Average Grade
-95.0
+90.0
 
 ## Grades
  * [95.0](./Sabbath_Observance_2_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Sabbath_Observance_2_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Sabbath_Observance_2_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Sabbath_Observance_2_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Sabbath_Observance_2_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

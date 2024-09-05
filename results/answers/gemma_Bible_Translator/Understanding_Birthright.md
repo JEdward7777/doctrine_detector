@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Understanding Birthright](../../questions/Understanding_Birthright.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Understanding Birthright](../../questions/Understanding_Birthright.md)
 
 ## Question [Understanding Birthright](../../questions/Understanding_Birthright.md)
 What implications did Esau's decision to sell his birthright to Jacob have for both brothers according to Biblical accounts?

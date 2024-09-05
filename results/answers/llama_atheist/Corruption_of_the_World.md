@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Corruption of the World](../../questions/Corruption_of_the_World.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Corruption of the World](../../questions/Corruption_of_the_World.md)
 
 ## Question [Corruption of the World](../../questions/Corruption_of_the_World.md)
 In what ways can Christians identify corrupt influences in the world around them?
@@ -27,7 +27,11 @@ In my opinion, Christians can identify corrupt influences by recognizing pattern
 In conclusion, identifying corrupt influences requires a critical examination of the world around us. Christians can start by recognizing patterns of exploitation, oppression, and injustice and working towards creating a more equitable and just society.
 
 ## Average Grade
-50.0
+62.0
 
 ## Grades
  * [50.0](./Corruption_of_the_World_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [60.0](./Corruption_of_the_World_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Corruption_of_the_World_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [50.0](./Corruption_of_the_World_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Corruption_of_the_World_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

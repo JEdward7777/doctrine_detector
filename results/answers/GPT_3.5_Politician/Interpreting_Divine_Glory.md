@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) answer to [Interpreting Divine Glory](../../questions/Interpreting_Divine_Glory.md)
+# Generated Answer from [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) for [Interpreting Divine Glory](../../questions/Interpreting_Divine_Glory.md)
 
 ## Question [Interpreting Divine Glory](../../questions/Interpreting_Divine_Glory.md)
 How can 'divine glory' be understood in the context of worship?
@@ -17,7 +17,11 @@ In the context of worship, the concept of 'divine glory' can be understood as a 
 Different religious traditions may have varying interpretations of 'divine glory' in worship, but ultimately it is a way to connect with the transcendent and to experience a sense of the sacred. It is important to be respectful and inclusive of diverse beliefs and practices when discussing such concepts, as people may have different understandings and experiences of what 'divine glory' means to them.
 
 ## Average Grade
-70.0
+76.0
 
 ## Grades
  * [70.0](./Interpreting_Divine_Glory_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Interpreting_Divine_Glory_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Interpreting_Divine_Glory_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Interpreting_Divine_Glory_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Interpreting_Divine_Glory_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

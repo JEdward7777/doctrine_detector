@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Value of the Kingdom](../../questions/Value_of_the_Kingdom.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Value of the Kingdom](../../questions/Value_of_the_Kingdom.md)
 
 ## Question [Value of the Kingdom](../../questions/Value_of_the_Kingdom.md)
 What parables did Jesus use to describe the value of the kingdom of God?
@@ -31,7 +31,11 @@ Jesus used various parables to convey the significance of the Kingdom of God. He
 By examining these parables through a secular lens, we can gain insights into the symbolic language Jesus used to describe the value of the Kingdom of God. While avoiding theological interpretations, we can recognize the cultural and historical significance of these stories as they relate to ancient Jewish and Mediterranean societies.
 
 ## Average Grade
-30.0
+43.0
 
 ## Grades
  * [30.0](./Value_of_the_Kingdom_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [50.0](./Value_of_the_Kingdom_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [40.0](./Value_of_the_Kingdom_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [25.0](./Value_of_the_Kingdom_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [70.0](./Value_of_the_Kingdom_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

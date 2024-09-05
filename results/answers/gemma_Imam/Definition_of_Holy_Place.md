@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Definition of Holy Place](../../questions/Definition_of_Holy_Place.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Definition of Holy Place](../../questions/Definition_of_Holy_Place.md)
 
 ## Question [Definition of Holy Place](../../questions/Definition_of_Holy_Place.md)
 What is the significance of the 'holy place' in the context of the tabernacle or temple?
@@ -25,7 +25,11 @@ Understanding the design and function of God's dwelling place.
 **The concept of a tabernacle or temple in other religions may have different significance and beliefs associated with them.**
 
 ## Average Grade
-90.0
+73.0
 
 ## Grades
  * [90.0](./Definition_of_Holy_Place_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Definition_of_Holy_Place_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [65.0](./Definition_of_Holy_Place_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Definition_of_Holy_Place_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [40.0](./Definition_of_Holy_Place_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Interpretation of 'The Last Day'](../../questions/Interpretation_of__The_Last_Day_.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Interpretation of 'The Last Day'](../../questions/Interpretation_of__The_Last_Day_.md)
 
 ## Question [Interpretation of 'The Last Day'](../../questions/Interpretation_of__The_Last_Day_.md)
 What is meant by 'the last day' as referred to in Christian teaching?
@@ -23,3 +23,7 @@ As Muslims, we also believe in the concept of the Last Day, known as the Day of 
 
 ## Grades
  * [70.0](./Interpretation_of__The_Last_Day__grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Interpretation_of__The_Last_Day__grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Interpretation_of__The_Last_Day__grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Interpretation_of__The_Last_Day__grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Interpretation_of__The_Last_Day__grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Practices of Fellowship](../../questions/Practices_of_Fellowship.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Practices of Fellowship](../../questions/Practices_of_Fellowship.md)
 
 ## Question [Practices of Fellowship](../../questions/Practices_of_Fellowship.md)
 How did early Christians express their fellowship?
@@ -21,7 +21,11 @@ It's also important to acknowledge that the early Christian community was marked
 Now, I know some might interpret this as "inclusive," while others might see it as "unifying." Whatever the case may be, it's clear that the early Christian community was characterized by a strong sense of fellowship and mutual support. And that's something we can all learn from today!
 
 ## Average Grade
-85.0
+86.0
 
 ## Grades
  * [85.0](./Practices_of_Fellowship_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Practices_of_Fellowship_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Practices_of_Fellowship_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Practices_of_Fellowship_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Practices_of_Fellowship_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

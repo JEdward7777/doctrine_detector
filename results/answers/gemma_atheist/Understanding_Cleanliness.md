@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma atheist](../../answering_models/gemma_atheist.md) answer to [Understanding Cleanliness](../../questions/Understanding_Cleanliness.md)
+# Generated Answer from [gemma atheist](../../answering_models/gemma_atheist.md) for [Understanding Cleanliness](../../questions/Understanding_Cleanliness.md)
 
 ## Question [Understanding Cleanliness](../../questions/Understanding_Cleanliness.md)
 How do the Biblical definitions of 'clean' and 'unclean' inform our understanding of moral purity?
@@ -53,7 +53,11 @@ As an atheist scholar, I advocate for a critical reassessment of these concepts.
 The biblical definitions of "clean" and "unclean" have influenced cultural understandings of moral purity, but these interpretations should be critically reevaluated in light of contemporary values and social justice concerns.
 
 ## Average Grade
-60.0
+67.0
 
 ## Grades
  * [60.0](./Understanding_Cleanliness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [60.0](./Understanding_Cleanliness_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Understanding_Cleanliness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Understanding_Cleanliness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_Cleanliness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

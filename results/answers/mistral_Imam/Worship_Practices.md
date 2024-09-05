@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Worship Practices](../../questions/Worship_Practices.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Worship Practices](../../questions/Worship_Practices.md)
 
 ## Question [Worship Practices](../../questions/Worship_Practices.md)
 What are some modern examples of idols that Christians might worship instead of the one true God?
@@ -25,7 +25,11 @@ As for specific examples within Christianity, it's essential to emphasize that t
 3. Human Reason and Science: While respecting human knowledge and understanding is encouraged in many Islamic traditions, some might argue that over-reliance on human reason or science at the expense of religious teachings could lead to idolatry.
 
 ## Average Grade
-85.0
+85.4
 
 ## Grades
  * [85.0](./Worship_Practices_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [87.0](./Worship_Practices_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Worship_Practices_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Worship_Practices_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Worship_Practices_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Translation of Trespass in Different Contexts](../../questions/Translation_of_Trespass_in_Different_Contexts.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Translation of Trespass in Different Contexts](../../questions/Translation_of_Trespass_in_Different_Contexts.md)
 
 ## Question [Translation of Trespass in Different Contexts](../../questions/Translation_of_Trespass_in_Different_Contexts.md)
 What are the implications of translating 'trespass' as 'sin' or 'breaking the rule' when discussing inter-personal violations within a church community?
@@ -27,7 +27,11 @@ To illustrate this point, consider the concept of "haya" (modesty) in Islam. Hay
 In conclusion, while the specific implications of translating "trespass" as "sin" or "breaking the rule" may vary depending on the Christian context, it is essential to consider the relational aspects of harm and the importance of accountability, reconciliation, and restoration within any community. As Muslims, we can learn from this perspective by emphasizing the interconnectedness of individual responsibility and social justice in our own understanding of trespass and communal harmony.
 
 ## Average Grade
-90.0
+87.0
 
 ## Grades
  * [90.0](./Translation_of_Trespass_in_Different_Contexts_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Translation_of_Trespass_in_Different_Contexts_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Translation_of_Trespass_in_Different_Contexts_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Translation_of_Trespass_in_Different_Contexts_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Translation_of_Trespass_in_Different_Contexts_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

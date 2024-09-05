@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral atheist](../../answering_models/mistral_atheist.md) answer to [Definition of Sanctification](../../questions/Definition_of_Sanctification.md)
+# Generated Answer from [mistral atheist](../../answering_models/mistral_atheist.md) for [Definition of Sanctification](../../questions/Definition_of_Sanctification.md)
 
 ## Question [Definition of Sanctification](../../questions/Definition_of_Sanctification.md)
 What does it mean to sanctify or to be sanctified according to the Bible?
@@ -19,7 +19,11 @@ Regarding individuals, sanctification refers to the moral and spiritual transfor
 In summary, sanctifying or being sanctified in the Bible means to be set apart for God, consecrated to His service, and becoming more holy as a result of following Him and growing in faith.
 
 ## Average Grade
-95.0
+91.0
 
 ## Grades
  * [95.0](./Definition_of_Sanctification_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Definition_of_Sanctification_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Definition_of_Sanctification_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Definition_of_Sanctification_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Definition_of_Sanctification_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) answer to [Biblical Context](../../questions/Biblical_Context.md)
+# Generated Answer from [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) for [Biblical Context](../../questions/Biblical_Context.md)
 
 ## Question [Biblical Context](../../questions/Biblical_Context.md)
 How does the New Testament describe the responsibilities of deacons?
@@ -21,7 +21,11 @@ In 1 Timothy 3:8-13, the Apostle Paul provides more detailed instructions for th
 These passages suggest that deacons should serve the community, particularly the vulnerable, with wisdom, humility, and integrity. They should be faithful followers of Jesus Christ, living according to His teachings, and helping to maintain order and unity within the church.
 
 ## Average Grade
-95.0
+85.0
 
 ## Grades
  * [95.0](./Biblical_Context_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Biblical_Context_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Biblical_Context_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Biblical_Context_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Biblical_Context_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

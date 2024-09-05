@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Role of Blood in Passover](../../questions/Role_of_Blood_in_Passover.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Role of Blood in Passover](../../questions/Role_of_Blood_in_Passover.md)
 
 ## Question [Role of Blood in Passover](../../questions/Role_of_Blood_in_Passover.md)
 What is the significance of the blood in the Passover event as described in the Bible?
@@ -19,7 +19,11 @@ Symbolically, the blood of the lamb was a representation of atonement and protec
 In the New Testament, the connection between the Passover lamb and Jesus is made clear in 1 Corinthians 5:7, where Paul refers to Christ as our Passover lamb who has been sacrificed. The shedding of Jesus's blood fulfills the ultimate Passover sacrifice, offering redemption and salvation to all who believe in Him.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Role_of_Blood_in_Passover_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Role_of_Blood_in_Passover_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Role_of_Blood_in_Passover_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Role_of_Blood_in_Passover_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Role_of_Blood_in_Passover_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

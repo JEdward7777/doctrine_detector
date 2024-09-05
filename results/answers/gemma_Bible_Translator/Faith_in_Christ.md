@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Faith in Christ](../../questions/Faith_in_Christ.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Faith in Christ](../../questions/Faith_in_Christ.md)
 
 ## Question [Faith in Christ](../../questions/Faith_in_Christ.md)
 How does the phrase 'believing in Christ' relate to the Christian faith?

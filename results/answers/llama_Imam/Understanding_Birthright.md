@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Understanding Birthright](../../questions/Understanding_Birthright.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Understanding Birthright](../../questions/Understanding_Birthright.md)
 
 ## Question [Understanding Birthright](../../questions/Understanding_Birthright.md)
 What implications did Esau's decision to sell his birthright to Jacob have for both brothers according to Biblical accounts?
@@ -35,7 +35,11 @@ In Islamic tradition, this story is often seen as a cautionary tale about the im
 Wa alaykum salam.
 
 ## Average Grade
-95.0
+85.0
 
 ## Grades
  * [95.0](./Understanding_Birthright_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Understanding_Birthright_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Understanding_Birthright_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Understanding_Birthright_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Understanding_Birthright_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

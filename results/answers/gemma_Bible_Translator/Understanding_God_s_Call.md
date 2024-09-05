@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Understanding God's Call](../../questions/Understanding_God_s_Call.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Understanding God's Call](../../questions/Understanding_God_s_Call.md)
 
 ## Question [Understanding God's Call](../../questions/Understanding_God_s_Call.md)
 What does it mean when the Bible states that God has called us by name?

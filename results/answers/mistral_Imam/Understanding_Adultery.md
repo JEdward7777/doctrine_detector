@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Understanding Adultery](../../questions/Understanding_Adultery.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Understanding Adultery](../../questions/Understanding_Adultery.md)
 
 ## Question [Understanding Adultery](../../questions/Understanding_Adultery.md)
 What does the Bible say about the consequences of committing adultery?
@@ -25,7 +25,11 @@ In Islam, adultery is considered a grave sin and is punishable by law. The Quran
 As Muslims, we should strive to maintain the highest moral standards in our personal lives and seek God's guidance when faced with any challenge or temptation.
 
 ## Average Grade
-90.0
+83.0
 
 ## Grades
  * [90.0](./Understanding_Adultery_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Understanding_Adultery_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Understanding_Adultery_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Understanding_Adultery_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Understanding_Adultery_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

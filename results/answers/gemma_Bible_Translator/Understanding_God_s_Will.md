@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Understanding God's Will](../../questions/Understanding_God_s_Will.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Understanding God's Will](../../questions/Understanding_God_s_Will.md)
 
 ## Question [Understanding God's Will](../../questions/Understanding_God_s_Will.md)
 What does it mean to seek God's will in our everyday decisions?

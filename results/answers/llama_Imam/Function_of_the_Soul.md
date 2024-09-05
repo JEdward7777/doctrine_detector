@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Function of the Soul](../../questions/Function_of_the_Soul.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Function of the Soul](../../questions/Function_of_the_Soul.md)
 
 ## Question [Function of the Soul](../../questions/Function_of_the_Soul.md)
 How can the figurative uses of the word 'soul' in the Bible give insight into its importance for understanding human identity?
@@ -33,7 +33,11 @@ In light of these biblical conceptions of the soul, we can gain insight into its
 While we may not explicitly use the term "soul" in Islamic tradition, these biblical insights can provide valuable perspectives on the human condition. They emphasize the importance of spirituality, the interconnectedness of our bodily and spiritual experiences, and the eternal significance of our innermost selves.
 
 ## Average Grade
-85.0
+86.0
 
 ## Grades
  * [85.0](./Function_of_the_Soul_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Function_of_the_Soul_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Function_of_the_Soul_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Function_of_the_Soul_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Function_of_the_Soul_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

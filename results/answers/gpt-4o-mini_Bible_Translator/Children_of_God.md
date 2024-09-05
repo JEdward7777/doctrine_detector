@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) answer to [Children of God](../../questions/Children_of_God.md)
+# Generated Answer from [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) for [Children of God](../../questions/Children_of_God.md)
 
 ## Question [Children of God](../../questions/Children_of_God.md)
 How does being referred to as 'children of God' impact the relationship between believers and God?
@@ -29,7 +29,11 @@ Being referred to as "children of God" has a profound impact on the relationship
 In summary, being called "children of God" profoundly shapes the relationship between believers and God, instilling a sense of identity, love, responsibility, assurance, and community that is foundational to Christian life and practice.
 
 ## Average Grade
-95.0
+94.0
 
 ## Grades
  * [95.0](./Children_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Children_of_God_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Children_of_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Children_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Children_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

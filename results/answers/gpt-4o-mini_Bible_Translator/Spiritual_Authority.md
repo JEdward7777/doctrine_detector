@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) answer to [Spiritual Authority](../../questions/Spiritual_Authority.md)
+# Generated Answer from [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) for [Spiritual Authority](../../questions/Spiritual_Authority.md)
 
 ## Question [Spiritual Authority](../../questions/Spiritual_Authority.md)
 How do spiritual authorities differ from earthly authorities according to Biblical teaching?
@@ -33,7 +33,11 @@ In biblical teaching, spiritual authorities and earthly authorities are distingu
 In summary, while both spiritual and earthly authorities play important roles in God's plan, they differ in their nature, purpose, and the manner in which believers are called to respond to them.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Spiritual_Authority_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Spiritual_Authority_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Spiritual_Authority_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Spiritual_Authority_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Spiritual_Authority_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

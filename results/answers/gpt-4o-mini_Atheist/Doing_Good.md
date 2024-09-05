@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [Doing Good](../../questions/Doing_Good.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [Doing Good](../../questions/Doing_Good.md)
 
 ## Question [Doing Good](../../questions/Doing_Good.md)
 What does the phrase 'do good to' imply within a Christian context?
@@ -21,7 +21,11 @@ Additionally, "doing good" often involves selflessness and helping those in need
 Overall, the phrase signifies an ethical and moral obligation to contribute positively to the well-being of others and to embody the values of love and service that are central to Christian doctrine.
 
 ## Average Grade
-95.0
+94.0
 
 ## Grades
  * [95.0](./Doing_Good_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Doing_Good_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Doing_Good_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Doing_Good_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Doing_Good_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

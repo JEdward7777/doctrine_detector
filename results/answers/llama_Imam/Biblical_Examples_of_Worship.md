@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Biblical Examples of Worship](../../questions/Biblical_Examples_of_Worship.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Biblical Examples of Worship](../../questions/Biblical_Examples_of_Worship.md)
 
 ## Question [Biblical Examples of Worship](../../questions/Biblical_Examples_of_Worship.md)
 Can you identify an example from the Bible where worship is negatively contrasted with idol worship?
@@ -27,7 +27,11 @@ In this passage, Jeremiah highlights the foolishness and futility of idol worshi
 These examples serve as powerful reminders of the importance of genuine faith and devotion to the One True God, free from the corruption and emptiness of idolatry. May we all strive to follow the path of righteousness and purity, as commanded by our Lord.
 
 ## Average Grade
-95.0
+91.0
 
 ## Grades
  * [95.0](./Biblical_Examples_of_Worship_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Biblical_Examples_of_Worship_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Biblical_Examples_of_Worship_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Biblical_Examples_of_Worship_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Biblical_Examples_of_Worship_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Confession of Sins](../../questions/Confession_of_Sins.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Confession of Sins](../../questions/Confession_of_Sins.md)
 
 ## Question [Confession of Sins](../../questions/Confession_of_Sins.md)
 What should a Christian do when tempted to sin according to the Bible?
@@ -19,7 +19,11 @@ Muslims are also advised to avoid situations and environments that may lead to t
 It is important to note that Islam recognizes that humans are prone to making mistakes, and the doors of forgiveness and repentance are always open for those who sincerely seek to amend their ways.
 
 ## Average Grade
-75.0
+73.0
 
 ## Grades
  * [75.0](./Confession_of_Sins_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [60.0](./Confession_of_Sins_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Confession_of_Sins_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Confession_of_Sins_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Confession_of_Sins_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

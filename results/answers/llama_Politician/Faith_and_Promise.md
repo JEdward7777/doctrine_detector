@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Faith and Promise](../../questions/Faith_and_Promise.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Faith and Promise](../../questions/Faith_and_Promise.md)
 
 ## Question [Faith and Promise](../../questions/Faith_and_Promise.md)
 What role does faith play in receiving and trusting the promises of God, as seen in the example of Abram's belief?
@@ -23,7 +23,11 @@ For those who do identify as people of faith, trust in God's promises can be a s
 In conclusion, Abram's example highlights the importance of faith in shaping our relationship with God. However, we must also acknowledge that faith looks different for each individual and cannot be imposed on anyone else. As we strive to build bridges between people of diverse backgrounds and beliefs, let us prioritize understanding, respect, and empathy – recognizing that everyone has their own unique spiritual journey.
 
 ## Average Grade
-80.0
+72.0
 
 ## Grades
  * [80.0](./Faith_and_Promise_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [65.0](./Faith_and_Promise_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Faith_and_Promise_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Faith_and_Promise_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Faith_and_Promise_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

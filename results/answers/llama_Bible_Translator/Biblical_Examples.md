@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Biblical Examples](../../questions/Biblical_Examples.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Biblical Examples](../../questions/Biblical_Examples.md)
 
 ## Question [Biblical Examples](../../questions/Biblical_Examples.md)
 Which biblical figures are cited as examples of being blameless, and what can we learn from their lives?
@@ -30,7 +30,11 @@ Some key takeaways from these biblical figures are:
 These examples encourage us to strive for moral purity, trust in God's sovereignty, and maintain a close relationship with Him. By emulating the lives of these blameless biblical figures, we can grow in our faith and become more like Christ.
 
 ## Average Grade
-90.0
+91.0
 
 ## Grades
  * [90.0](./Biblical_Examples_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Biblical_Examples_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Biblical_Examples_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Biblical_Examples_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Biblical_Examples_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

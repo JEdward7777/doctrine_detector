@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) answer to [Biblical References](../../questions/Biblical_References.md)
+# Generated Answer from [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) for [Biblical References](../../questions/Biblical_References.md)
 
 ## Question [Biblical References](../../questions/Biblical_References.md)
 Which Bible verses are related to the concept of covenant faithfulness?
@@ -27,7 +27,11 @@ Connecting scriptural examples to the understanding of covenant faithfulness.
 These verses illustrate the importance of covenant faithfulness in both the Old and New Testaments and demonstrate the consistent character of God in keeping His promises.
 
 ## Average Grade
-80.0
+84.0
 
 ## Grades
  * [80.0](./Biblical_References_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Biblical_References_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Biblical_References_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Biblical_References_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Biblical_References_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

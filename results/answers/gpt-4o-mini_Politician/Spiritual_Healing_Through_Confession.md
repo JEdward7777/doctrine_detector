@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) answer to [Spiritual Healing Through Confession](../../questions/Spiritual_Healing_Through_Confession.md)
+# Generated Answer from [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) for [Spiritual Healing Through Confession](../../questions/Spiritual_Healing_Through_Confession.md)
 
 ## Question [Spiritual Healing Through Confession](../../questions/Spiritual_Healing_Through_Confession.md)
 How does confessing sins to one another contribute to spiritual healing, as mentioned in James 5:16?
@@ -23,7 +23,11 @@ Lastly, the act of confession can be seen as a step towards personal growth and 
 In summary, the practice of confessing sins to one another, as mentioned in James 5:16, can lead to spiritual healing by promoting community, alleviating guilt, fostering vulnerability, and encouraging personal growth. These aspects can be beneficial not only for the individual but for the wider community as well.
 
 ## Average Grade
-95.0
+90.0
 
 ## Grades
  * [95.0](./Spiritual_Healing_Through_Confession_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Spiritual_Healing_Through_Confession_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Spiritual_Healing_Through_Confession_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Spiritual_Healing_Through_Confession_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Spiritual_Healing_Through_Confession_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

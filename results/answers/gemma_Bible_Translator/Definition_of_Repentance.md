@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Definition of Repentance](../../questions/Definition_of_Repentance.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Definition of Repentance](../../questions/Definition_of_Repentance.md)
 
 ## Question [Definition of Repentance](../../questions/Definition_of_Repentance.md)
 What does it mean to repent according to the Bible?

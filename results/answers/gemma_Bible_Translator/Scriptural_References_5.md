@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Scriptural References 5](../../questions/Scriptural_References_5.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Scriptural References 5](../../questions/Scriptural_References_5.md)
 
 ## Question [Scriptural References 5](../../questions/Scriptural_References_5.md)
 Which New Testament verses indicate a shift in the understanding of Hades from a neutral place for all the dead to a location associated with the unrighteous?

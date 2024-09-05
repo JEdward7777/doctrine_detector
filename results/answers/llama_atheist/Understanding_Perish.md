@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Understanding Perish](../../questions/Understanding_Perish.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Understanding Perish](../../questions/Understanding_Perish.md)
 
 ## Question [Understanding Perish](../../questions/Understanding_Perish.md)
 What does it mean to 'perish' in a spiritual sense according to the New Testament?
@@ -27,7 +27,11 @@ It's essential to recognize that these uses of "perish" are rooted in the cultur
 In conclusion, while I don't endorse supernatural interpretations, it's clear that in the New Testament, "perish" is often used to convey the idea of spiritual separation, divine judgment, or eternal suffering.
 
 ## Average Grade
-70.0
+77.0
 
 ## Grades
  * [70.0](./Understanding_Perish_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Understanding_Perish_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Understanding_Perish_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Understanding_Perish_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_Perish_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

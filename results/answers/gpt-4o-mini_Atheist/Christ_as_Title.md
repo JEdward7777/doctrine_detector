@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [Christ as Title](../../questions/Christ_as_Title.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [Christ as Title](../../questions/Christ_as_Title.md)
 
 ## Question [Christ as Title](../../questions/Christ_as_Title.md)
 How has the term 'Christ' evolved in its usage throughout the New Testament?
@@ -27,7 +27,11 @@ The term "Christ" has undergone a significant evolution in its usage throughout 
 6. **Conclusion**: Ultimately, the term "Christ" shifts from a culturally understood title of an anointed leader to a unique identifier of Jesus, packed with theological significance. It evolves to encompass aspects of faith, salvation, communal identity, and cosmic authority. Over the course of the New Testament, "Christ" transitions from a title rooted in Jewish expectation to a central element of Christian doctrine and identity, shaping the faith in profound ways.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Christ_as_Title_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Christ_as_Title_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Christ_as_Title_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Christ_as_Title_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Christ_as_Title_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

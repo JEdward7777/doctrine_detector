@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Looking Forward to Adoption](../../questions/Looking_Forward_to_Adoption.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Looking Forward to Adoption](../../questions/Looking_Forward_to_Adoption.md)
 
 ## Question [Looking Forward to Adoption](../../questions/Looking_Forward_to_Adoption.md)
 What does Romans 8:23 imply about waiting for the adoption of sons and what this means for believers?

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Understanding the Kingdom](../../questions/Understanding_the_Kingdom.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Understanding the Kingdom](../../questions/Understanding_the_Kingdom.md)
 
 ## Question [Understanding the Kingdom](../../questions/Understanding_the_Kingdom.md)
 What is the significance of the term 'kingdom of God' as used in the New Testament?
@@ -21,7 +21,11 @@ Furthermore, the kingdom of God is characterized by love, justice, mercy, and pe
 Ultimately, the kingdom of God points to the fulfillment of God's purposes in the world and the restoration of all things in Christ. It is a hopeful and redemptive vision that inspires us to live with faith, hope, and love as we await the coming of God's kingdom in its fullness.
 
 ## Average Grade
-92.0
+91.4
 
 ## Grades
  * [92.0](./Understanding_the_Kingdom_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Understanding_the_Kingdom_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Understanding_the_Kingdom_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Understanding_the_Kingdom_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Understanding_the_Kingdom_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

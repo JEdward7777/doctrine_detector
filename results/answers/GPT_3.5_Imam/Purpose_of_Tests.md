@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Purpose of Tests](../../questions/Purpose_of_Tests.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Purpose of Tests](../../questions/Purpose_of_Tests.md)
 
 ## Question [Purpose of Tests](../../questions/Purpose_of_Tests.md)
 What is the purpose of tests that God allows believers to experience?
@@ -19,7 +19,11 @@ The Quran mentions in chapter 2, verse 155-157: "And We will surely test you wit
 Thus, the purpose of tests in Islam is not to cause harm or suffering, but to purify and elevate the believers, as well as to differentiate between those who are truly devoted to Allah and those who are not. It is believed that by facing and overcoming these tests with patience and faith, believers can attain spiritual growth, closeness to Allah, and ultimately, success in this life and the Hereafter.
 
 ## Average Grade
-85.0
+89.0
 
 ## Grades
  * [85.0](./Purpose_of_Tests_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Purpose_of_Tests_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Purpose_of_Tests_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Purpose_of_Tests_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Purpose_of_Tests_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

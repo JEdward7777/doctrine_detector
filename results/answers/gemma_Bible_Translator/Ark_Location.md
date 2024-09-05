@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Ark Location](../../questions/Ark_Location.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Ark Location](../../questions/Ark_Location.md)
 
 ## Question [Ark Location](../../questions/Ark_Location.md)
 Where was the ark of the covenant located in the tabernacle?

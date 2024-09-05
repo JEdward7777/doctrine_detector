@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Biblical References to Heaven](../../questions/Biblical_References_to_Heaven.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Biblical References to Heaven](../../questions/Biblical_References_to_Heaven.md)
 
 ## Question [Biblical References to Heaven](../../questions/Biblical_References_to_Heaven.md)
 Which Bible verses provide insight into the concept of heaven?
@@ -23,7 +23,11 @@ Exploring these references can enhance our understanding of God's kingdom and th
 While these verses provide insight into the concept of heaven, it's important to note that Islam has its unique understanding and descriptions of Paradise (Jannah) based on the Quran and Hadith, which are considered more authoritative sources for Muslims. For instance, the Quran describes Paradise as a place with rivers of pure water, gardens, beautiful palaces, and no sorrow or pain (e.g., Quran 3:133, 76:17-20).
 
 ## Average Grade
-65.0
+72.0
 
 ## Grades
  * [65.0](./Biblical_References_to_Heaven_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [75.0](./Biblical_References_to_Heaven_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Biblical_References_to_Heaven_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [75.0](./Biblical_References_to_Heaven_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Biblical_References_to_Heaven_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

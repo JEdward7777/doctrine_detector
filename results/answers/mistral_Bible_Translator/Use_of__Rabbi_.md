@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) answer to [Use of 'Rabbi'](../../questions/Use_of__Rabbi_.md)
+# Generated Answer from [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) for [Use of 'Rabbi'](../../questions/Use_of__Rabbi_.md)
 
 ## Question [Use of 'Rabbi'](../../questions/Use_of__Rabbi_.md)
 How were John the Baptist and Jesus referred to concerning the title 'Rabbi'?
@@ -21,7 +21,11 @@ Jesus Christ was recognized by His disciples as Rabbi (Μαθητεύου, Mathe
 It's important to note that Jesus was a Rabbi in a broader sense, being a teacher who imparted wisdom and knowledge. However, during His earthly ministry, He did not use or accept the title "Rabbi" as it was commonly understood at the time.
 
 ## Average Grade
-80.0
+74.0
 
 ## Grades
  * [80.0](./Use_of__Rabbi__grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Use_of__Rabbi__grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Use_of__Rabbi__grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Use_of__Rabbi__grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Use_of__Rabbi__grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

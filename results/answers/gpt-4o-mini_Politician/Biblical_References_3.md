@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) answer to [Biblical References 3](../../questions/Biblical_References_3.md)
+# Generated Answer from [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) for [Biblical References 3](../../questions/Biblical_References_3.md)
 
 ## Question [Biblical References 3](../../questions/Biblical_References_3.md)
 Which Old Testament references contribute to the understanding of the 'Son of Man' as the coming Messiah?
@@ -25,7 +25,11 @@ The concept of the "Son of Man" as a Messianic figure is notably rooted in sever
 These references collectively contribute to the theological framework that sees the "Son of Man" as both a representative of humanity and a figure of divine appointment, embodying the hopes of deliverance and restoration for God's people. Engaging with these texts fosters a deeper appreciation for the nuanced interpretations within the faith that has emerged over centuries.
 
 ## Average Grade
-90.0
+87.0
 
 ## Grades
  * [90.0](./Biblical_References_3_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Biblical_References_3_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Biblical_References_3_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Biblical_References_3_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Biblical_References_3_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

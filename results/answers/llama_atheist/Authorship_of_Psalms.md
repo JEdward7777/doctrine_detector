@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Authorship of Psalms](../../questions/Authorship_of_Psalms.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Authorship of Psalms](../../questions/Authorship_of_Psalms.md)
 
 ## Question [Authorship of Psalms](../../questions/Authorship_of_Psalms.md)
 Who were some of the key figures involved in writing the Psalms?
@@ -25,7 +25,11 @@ In any case, it's crucial to recognize that the Psalms themselves contain no exp
 As an atheist scholar, I'm drawn to exploring the historical and cultural contexts in which these texts were composed. By examining the literary styles, themes, and motifs within the Psalms, we can gain a deeper understanding of the people who wrote (or contributed to) these remarkable works.
 
 ## Average Grade
-65.0
+58.0
 
 ## Grades
  * [65.0](./Authorship_of_Psalms_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [65.0](./Authorship_of_Psalms_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Authorship_of_Psalms_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Authorship_of_Psalms_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [40.0](./Authorship_of_Psalms_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Israelites' Journey](../../questions/Israelites__Journey.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Israelites' Journey](../../questions/Israelites__Journey.md)
 
 ## Question [Israelites' Journey](../../questions/Israelites__Journey.md)
 How did the Israelites' journey to the Promised Land demonstrate God's faithfulness?
@@ -25,7 +25,11 @@ The Israelites' journey to the Promised Land, as recorded in the Old Testament b
 In summary, the Israelites' journey to the Promised Land is a powerful testimony to God's faithfulness in fulfilling His promises, providing for His people, demonstrating His power, and guiding them through discipline and correction. It serves as a reminder of God's unwavering love and faithfulness towards His people, even amidst their frailty and failures.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Israelites__Journey_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Israelites__Journey_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Israelites__Journey_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Israelites__Journey_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Israelites__Journey_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

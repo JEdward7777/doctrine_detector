@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Son of God](../../questions/Son_of_God.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Son of God](../../questions/Son_of_God.md)
 
 ## Question [Son of God](../../questions/Son_of_God.md)
 What distinguishes the title 'Son of God' as it refers to Jesus from the term 'sons of God' used for believers?
@@ -31,7 +31,11 @@ Clarity on this distinction helps avoid confusion in theological discussions.
 * **Authority:** The Son of God shares the divine authority and throne, while believers have been given authority as ambassadors for Christ.
 
 ## Average Grade
-95.0
+91.0
 
 ## Grades
  * [95.0](./Son_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Son_of_God_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Son_of_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Son_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Son_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Consecration and Service](../../questions/Consecration_and_Service.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Consecration and Service](../../questions/Consecration_and_Service.md)
 
 ## Question [Consecration and Service](../../questions/Consecration_and_Service.md)
 How does the act of consecration prepare individuals or things for God's service?
@@ -21,7 +21,11 @@ In practical terms, the act of consecration can serve to focus the individual's 
 Overall, the act of consecration can be seen as a way to infuse meaning and purpose into the service of God, by highlighting the sacred nature of the items or individuals being dedicated.
 
 ## Average Grade
-80.0
+84.0
 
 ## Grades
  * [80.0](./Consecration_and_Service_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Consecration_and_Service_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Consecration_and_Service_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Consecration_and_Service_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Consecration_and_Service_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

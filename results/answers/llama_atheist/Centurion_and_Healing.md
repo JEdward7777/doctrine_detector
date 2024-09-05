@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Centurion and Healing](../../questions/Centurion_and_Healing.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Centurion and Healing](../../questions/Centurion_and_Healing.md)
 
 ## Question [Centurion and Healing](../../questions/Centurion_and_Healing.md)
 What does the interaction between the centurion and Jesus reveal about faith and authority?
@@ -33,7 +33,11 @@ In conclusion, the interaction between the centurion and Jesus reveals several i
 As an atheistic scholar, I acknowledge that these themes may have been perceived differently within ancient Jewish culture. Nevertheless, this narrative remains a powerful example of how Jesus' message challenged traditional notions of authority, social hierarchy, and faith, ultimately paving the way for his radical teachings about the kingdom of God.
 
 ## Average Grade
-85.0
+74.0
 
 ## Grades
  * [85.0](./Centurion_and_Healing_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [65.0](./Centurion_and_Healing_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [65.0](./Centurion_and_Healing_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Centurion_and_Healing_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Centurion_and_Healing_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

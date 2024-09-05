@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Centurion at the Crucifixion](../../questions/Centurion_at_the_Crucifixion.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Centurion at the Crucifixion](../../questions/Centurion_at_the_Crucifixion.md)
 
 ## Question [Centurion at the Crucifixion](../../questions/Centurion_at_the_Crucifixion.md)
 What significance does the reaction of the centurion at the crucifixion of Jesus have for Christians?
@@ -19,7 +19,11 @@ For Christians, the centurion's confession of faith is a reminder that Jesus' de
 Furthermore, the centurion's recognition of Jesus as the Son of God highlights the truly transformative nature of the crucifixion. Through Jesus' death and resurrection, people from all walks of life, including those who may have been initially skeptical or hostile, can come to know and believe in Jesus as their savior and Lord. Ultimately, the centurion's response serves as a powerful example of the redemptive power of Jesus' sacrifice and the possibility of faith and salvation for all who believe.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Centurion_at_the_Crucifixion_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Centurion_at_the_Crucifixion_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Centurion_at_the_Crucifixion_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Centurion_at_the_Crucifixion_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Centurion_at_the_Crucifixion_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

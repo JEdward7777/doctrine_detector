@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Comparison of Humans and Sheep](../../questions/Comparison_of_Humans_and_Sheep.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Comparison of Humans and Sheep](../../questions/Comparison_of_Humans_and_Sheep.md)
 
 ## Question [Comparison of Humans and Sheep](../../questions/Comparison_of_Humans_and_Sheep.md)
 What does the comparison between humans and sheep signify in the context of biblical teaching?
@@ -27,7 +27,11 @@ In a Christian context, the comparison between humans and sheep often signifies 
 While the metaphor of sheep is less commonly used in Islamic teachings, parallels can be drawn in the emphasis on community, guidance, and the significance of following divine instruction. In Islam, Allah is referred to as Al-Raḥmān (The Most Merciful) and Al-Wadūd (The Most Loving), emphasizing His nurturing qualities for His creation.
 
 ## Average Grade
-85.0
+90.0
 
 ## Grades
  * [85.0](./Comparison_of_Humans_and_Sheep_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Comparison_of_Humans_and_Sheep_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Comparison_of_Humans_and_Sheep_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Comparison_of_Humans_and_Sheep_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Comparison_of_Humans_and_Sheep_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

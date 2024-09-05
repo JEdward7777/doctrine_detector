@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) answer to [Interpreting 'High' in God's Title](../../questions/Interpreting__High__in_God_s_Title.md)
+# Generated Answer from [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) for [Interpreting 'High' in God's Title](../../questions/Interpreting__High__in_God_s_Title.md)
 
 ## Question [Interpreting 'High' in God's Title](../../questions/Interpreting__High__in_God_s_Title.md)
 How should we interpret the term 'high' in the title 'Most High' when considering God's nature?
@@ -27,7 +27,11 @@ The term "Most High," often used to describe God in the Bible, conveys several t
 In summary, interpreting the term "Most High" involves recognizing God's supreme, sovereign, transcendent, holy nature, and the appropriate human response of reverent worship. Throughout Scripture, this title reminds believers of their Creator's unparalleled position and the call to align their lives under His authority.
 
 ## Average Grade
-90.0
+89.0
 
 ## Grades
  * [90.0](./Interpreting__High__in_God_s_Title_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Interpreting__High__in_God_s_Title_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Interpreting__High__in_God_s_Title_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Interpreting__High__in_God_s_Title_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Interpreting__High__in_God_s_Title_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

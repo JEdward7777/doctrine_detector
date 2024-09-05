@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) answer to [Translation of Ransom](../../questions/Translation_of_Ransom.md)
+# Generated Answer from [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) for [Translation of Ransom](../../questions/Translation_of_Ransom.md)
 
 ## Question [Translation of Ransom](../../questions/Translation_of_Ransom.md)
 How can the term 'ransom' be translated to convey its meaning in different languages?
@@ -27,7 +27,11 @@ Ensuring theological terms are accurately understood across linguistic and cultu
 11. Portuguese (Brazilian) - Redenção, libertação ou salvação de uma pessoa que foi capturada ou escravizada e é conquistada mediante um pagamento.
 
 ## Average Grade
-85.0
+87.0
 
 ## Grades
  * [85.0](./Translation_of_Ransom_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Translation_of_Ransom_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Translation_of_Ransom_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Translation_of_Ransom_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Translation_of_Ransom_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma atheist](../../answering_models/gemma_atheist.md) answer to [Spiritual Gifts](../../questions/Spiritual_Gifts.md)
+# Generated Answer from [gemma atheist](../../answering_models/gemma_atheist.md) for [Spiritual Gifts](../../questions/Spiritual_Gifts.md)
 
 ## Question [Spiritual Gifts](../../questions/Spiritual_Gifts.md)
 What are the implications of the phrase 'spiritual gifts' as described in the Bible?
@@ -50,7 +50,11 @@ Recognizing the importance of utilizing spiritual gifts for community growth and
 The phrase "spiritual gifts" is laden with cultural and historical baggage. While it offers insights into the religious beliefs of ancient societies, it should not be taken literally or applied to modern-day contexts. By approaching this concept with critical awareness and an open mind, we can avoid harmful interpretations and promote a more inclusive and respectful society.
 
 ## Average Grade
-50.0
+53.0
 
 ## Grades
  * [50.0](./Spiritual_Gifts_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [40.0](./Spiritual_Gifts_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Spiritual_Gifts_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [30.0](./Spiritual_Gifts_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Spiritual_Gifts_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

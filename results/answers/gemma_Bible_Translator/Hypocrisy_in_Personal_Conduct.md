@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Hypocrisy in Personal Conduct](../../questions/Hypocrisy_in_Personal_Conduct.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Hypocrisy in Personal Conduct](../../questions/Hypocrisy_in_Personal_Conduct.md)
 
 ## Question [Hypocrisy in Personal Conduct](../../questions/Hypocrisy_in_Personal_Conduct.md)
 How can we ensure that our actions align with our beliefs to avoid being hypocrites?

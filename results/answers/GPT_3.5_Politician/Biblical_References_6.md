@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) answer to [Biblical References 6](../../questions/Biblical_References_6.md)
+# Generated Answer from [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) for [Biblical References 6](../../questions/Biblical_References_6.md)
 
 ## Question [Biblical References 6](../../questions/Biblical_References_6.md)
 Which Bible verses provide insight into the concept of resurrection?
@@ -23,7 +23,11 @@ As a politician, I strive to respect and honor all individuals' beliefs and back
 It is important to approach discussions about religious beliefs with sensitivity and understanding, recognizing that not everyone shares the same beliefs. I hope these verses provide a starting point for further exploration of the concept of resurrection in the Bible.
 
 ## Average Grade
-90.0
+88.0
 
 ## Grades
  * [90.0](./Biblical_References_6_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Biblical_References_6_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Biblical_References_6_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Biblical_References_6_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Biblical_References_6_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

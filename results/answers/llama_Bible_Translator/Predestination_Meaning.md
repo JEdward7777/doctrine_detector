@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Predestination Meaning](../../questions/Predestination_Meaning.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Predestination Meaning](../../questions/Predestination_Meaning.md)
 
 ## Question [Predestination Meaning](../../questions/Predestination_Meaning.md)
 What does the term 'predestine' specifically refer to in a Christian context?
@@ -23,7 +23,11 @@ Predestination is not about forcing people to do something against their will, b
 In Christian theology, predestination is often paired with other biblical concepts like election (the choosing of believers for salvation), redemption (the act of saving humanity from sin), and justification (the process by which believers are declared righteous before God).
 
 ## Average Grade
-95.0
+94.0
 
 ## Grades
  * [95.0](./Predestination_Meaning_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Predestination_Meaning_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [100.0](./Predestination_Meaning_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Predestination_Meaning_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Predestination_Meaning_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

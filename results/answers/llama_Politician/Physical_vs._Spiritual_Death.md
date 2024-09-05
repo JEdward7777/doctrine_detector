@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Physical vs. Spiritual Death](../../questions/Physical_vs._Spiritual_Death.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Physical vs. Spiritual Death](../../questions/Physical_vs._Spiritual_Death.md)
 
 ## Question [Physical vs. Spiritual Death](../../questions/Physical_vs._Spiritual_Death.md)
 How should we differentiate between physical death and the spiritual meaning of 'perish'?
@@ -26,7 +26,11 @@ To differentiate between these two concepts, I propose we consider the following
 By making this distinction, we can avoid perpetuating harmful stereotypes or biases and instead foster a nuanced understanding of the complexities surrounding mortality.
 
 ## Average Grade
-85.0
+87.0
 
 ## Grades
  * [85.0](./Physical_vs._Spiritual_Death_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Physical_vs._Spiritual_Death_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Physical_vs._Spiritual_Death_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Physical_vs._Spiritual_Death_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Physical_vs._Spiritual_Death_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

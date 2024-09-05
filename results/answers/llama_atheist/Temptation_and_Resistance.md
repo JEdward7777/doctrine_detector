@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Temptation and Resistance](../../questions/Temptation_and_Resistance.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Temptation and Resistance](../../questions/Temptation_and_Resistance.md)
 
 ## Question [Temptation and Resistance](../../questions/Temptation_and_Resistance.md)
 How did Jesus respond to the temptations presented by Satan?
@@ -30,7 +30,11 @@ These responses showcase Jesus' commitment to his divine mission and his underst
 In conclusion, when considering Jesus' response to Satan's temptations from a secular perspective, we see a narrative that highlights Jesus' humanity, his reliance on scripture, and his commitment to his divine purpose. This story serves as a demonstration of Jesus' moral character, rather than an explicit rejection of Satan or the devil.
 
 ## Average Grade
-50.0
+62.0
 
 ## Grades
  * [50.0](./Temptation_and_Resistance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [75.0](./Temptation_and_Resistance_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Temptation_and_Resistance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [40.0](./Temptation_and_Resistance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Temptation_and_Resistance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

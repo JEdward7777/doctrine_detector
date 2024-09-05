@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Nazirite Vow Significance](../../questions/Nazirite_Vow_Significance.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Nazirite Vow Significance](../../questions/Nazirite_Vow_Significance.md)
 
 ## Question [Nazirite Vow Significance](../../questions/Nazirite_Vow_Significance.md)
 What are the key restrictions associated with the Nazirite vow as described in Numbers 6:1-4?
@@ -25,7 +25,11 @@ In Numbers 6:1-4, we find the rules governing the Nazirite vow. A Nazirite was a
 These restrictions served as a reminder of the Nazirite's commitment to God and their desire to be pure and separate from the world. By following these guidelines, the Nazirite demonstrated their devotion and trust in Yahweh.
 
 ## Average Grade
-80.0
+77.0
 
 ## Grades
  * [80.0](./Nazirite_Vow_Significance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Nazirite_Vow_Significance_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Nazirite_Vow_Significance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Nazirite_Vow_Significance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Nazirite_Vow_Significance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

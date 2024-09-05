@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Role of Witnesses](../../questions/Role_of_Witnesses.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Role of Witnesses](../../questions/Role_of_Witnesses.md)
 
 ## Question [Role of Witnesses](../../questions/Role_of_Witnesses.md)
 What role do witnesses play in the New Testament regarding the life and resurrection of Jesus?
@@ -36,7 +36,11 @@ In Islamic tradition, the Quran emphasizes the importance of witnesses in establ
 **However, it's important to note that Islamic tradition does not explicitly accept the New Testament as scripture.** The interpretation and application of its contents is subject to Islamic legal and theological frameworks.
 
 ## Average Grade
-85.0
+82.4
 
 ## Grades
  * [85.0](./Role_of_Witnesses_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Role_of_Witnesses_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [92.0](./Role_of_Witnesses_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Role_of_Witnesses_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Role_of_Witnesses_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

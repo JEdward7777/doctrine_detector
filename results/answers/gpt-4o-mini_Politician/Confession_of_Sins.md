@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) answer to [Confession of Sins](../../questions/Confession_of_Sins.md)
+# Generated Answer from [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) for [Confession of Sins](../../questions/Confession_of_Sins.md)
 
 ## Question [Confession of Sins](../../questions/Confession_of_Sins.md)
 What should a Christian do when tempted to sin according to the Bible?
@@ -31,7 +31,11 @@ In the Christian tradition, when faced with temptation, there are several biblic
 Each individual may approach these strategies differently, and it's essential to tailor them to one’s personal faith journey and community context.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Confession_of_Sins_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Confession_of_Sins_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Confession_of_Sins_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Confession_of_Sins_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Confession_of_Sins_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

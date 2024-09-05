@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Biblical Usage](../../questions/Biblical_Usage.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Biblical Usage](../../questions/Biblical_Usage.md)
 
 ## Question [Biblical Usage](../../questions/Biblical_Usage.md)
 In what way is the term 'begat' used in the genealogy accounts found in the Bible?
@@ -25,7 +25,11 @@ Of course, as an atheistic scholar, I must caution against reading too much theo
 Now, if you'll excuse me, I need to get back to my desk and finish writing that critique on the use of "begat" in the Pentateuchal genealogies...
 
 ## Average Grade
-60.0
+72.0
 
 ## Grades
  * [60.0](./Biblical_Usage_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Biblical_Usage_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [75.0](./Biblical_Usage_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Biblical_Usage_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Biblical_Usage_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

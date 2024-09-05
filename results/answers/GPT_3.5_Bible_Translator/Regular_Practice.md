@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Regular Practice](../../questions/Regular_Practice.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Regular Practice](../../questions/Regular_Practice.md)
 
 ## Question [Regular Practice](../../questions/Regular_Practice.md)
 Why did the apostle Paul establish the Lord’s Supper as a regular practice for believers?
@@ -19,7 +19,11 @@ Paul emphasized the importance of partaking in the Lord's Supper regularly as a 
 Overall, the Lord's Supper is a sacred practice that serves as a reminder of the love and sacrifice of Jesus Christ, strengthens believers' faith, and fosters communion with God and fellow believers in the Christian community.
 
 ## Average Grade
-90.0
+94.0
 
 ## Grades
  * [90.0](./Regular_Practice_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Regular_Practice_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Regular_Practice_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Regular_Practice_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Regular_Practice_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

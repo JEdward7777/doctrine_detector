@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Seared Conscience](../../questions/Seared_Conscience.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Seared Conscience](../../questions/Seared_Conscience.md)
 
 ## Question [Seared Conscience](../../questions/Seared_Conscience.md)
 What does the Bible mean by a 'seared' conscience, and what implications does it have for a believer?

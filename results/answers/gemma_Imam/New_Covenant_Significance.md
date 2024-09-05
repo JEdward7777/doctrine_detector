@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [New Covenant Significance](../../questions/New_Covenant_Significance.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [New Covenant Significance](../../questions/New_Covenant_Significance.md)
 
 ## Question [New Covenant Significance](../../questions/New_Covenant_Significance.md)
 What is the significance of the new covenant established through Jesus?
@@ -55,7 +55,11 @@ Recognizing the transformative power of Jesus' sacrifice in the context of God's
 The new covenant established through Jesus holds great significance for Muslims as a fulfillment of previous covenants, offering mercy and grace, strengthening faith in Allah, preparing for the final hour, fostering unity, bringing good news, and reflecting Allah's perfection.
 
 ## Average Grade
-80.0
+73.0
 
 ## Grades
  * [80.0](./New_Covenant_Significance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./New_Covenant_Significance_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./New_Covenant_Significance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./New_Covenant_Significance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./New_Covenant_Significance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

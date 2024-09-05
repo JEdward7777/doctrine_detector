@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral atheist](../../answering_models/mistral_atheist.md) answer to [Restoration of Relationships](../../questions/Restoration_of_Relationships.md)
+# Generated Answer from [mistral atheist](../../answering_models/mistral_atheist.md) for [Restoration of Relationships](../../questions/Restoration_of_Relationships.md)
 
 ## Question [Restoration of Relationships](../../questions/Restoration_of_Relationships.md)
 What does it mean for God to restore sinful people back to Himself?
@@ -23,3 +23,7 @@ In an atheistic perspective, the idea of God restoring sinful people back to Him
 
 ## Grades
  * [85.0](./Restoration_of_Relationships_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Restoration_of_Relationships_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Restoration_of_Relationships_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Restoration_of_Relationships_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Restoration_of_Relationships_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

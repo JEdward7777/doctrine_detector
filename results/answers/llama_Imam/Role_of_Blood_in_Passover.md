@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Role of Blood in Passover](../../questions/Role_of_Blood_in_Passover.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Role of Blood in Passover](../../questions/Role_of_Blood_in_Passover.md)
 
 ## Question [Role of Blood in Passover](../../questions/Role_of_Blood_in_Passover.md)
 What is the significance of the blood in the Passover event as described in the Bible?
@@ -27,7 +27,11 @@ However, it is essential to note that Islam does not accept the Passover narrati
 In conclusion, while the significance of blood in the Passover event is open to interpretation, it can be seen as a symbol of sacrifice, divine intervention, or remembrance of divine favor. However, from an Islamic perspective, the Passover narrative is not considered part of our sacred scripture or a revelation from God.
 
 ## Average Grade
-80.0
+66.0
 
 ## Grades
  * [80.0](./Role_of_Blood_in_Passover_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [75.0](./Role_of_Blood_in_Passover_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [40.0](./Role_of_Blood_in_Passover_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [50.0](./Role_of_Blood_in_Passover_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Role_of_Blood_in_Passover_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

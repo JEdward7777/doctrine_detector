@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Christ as Title](../../questions/Christ_as_Title.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Christ as Title](../../questions/Christ_as_Title.md)
 
 ## Question [Christ as Title](../../questions/Christ_as_Title.md)
 How has the term 'Christ' evolved in its usage throughout the New Testament?
@@ -29,7 +29,11 @@ Throughout the New Testament, then, the term "Christ" has evolved from a primari
 In conclusion, the usage of "Christ" in the New Testament has undergone significant changes as the Christian movement grew and spread throughout the Mediterranean world. A nuanced understanding of these developments requires an appreciation for the historical context, linguistic evolution, and cultural dynamics that shaped the early Christian texts.
 
 ## Average Grade
-90.0
+85.0
 
 ## Grades
  * [90.0](./Christ_as_Title_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Christ_as_Title_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Christ_as_Title_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Christ_as_Title_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Christ_as_Title_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

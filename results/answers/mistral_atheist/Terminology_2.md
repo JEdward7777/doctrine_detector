@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral atheist](../../answering_models/mistral_atheist.md) answer to [Terminology 2](../../questions/Terminology_2.md)
+# Generated Answer from [mistral atheist](../../answering_models/mistral_atheist.md) for [Terminology 2](../../questions/Terminology_2.md)
 
 ## Question [Terminology 2](../../questions/Terminology_2.md)
 What different terms are used to refer to the Lord’s Supper in Christian communities?
@@ -25,7 +25,11 @@ Understanding the various terms used within Christianity to refer to this sacred
 9. Divine Liturgy - In some Eastern Orthodox churches, the term "Divine Liturgy" refers to their communion service, with each church having its own particular liturgy (e.g., the Byzantine Rite, the Russian Rite, and others).
 
 ## Average Grade
-90.0
+77.0
 
 ## Grades
  * [90.0](./Terminology_2_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Terminology_2_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Terminology_2_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Terminology_2_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [20.0](./Terminology_2_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

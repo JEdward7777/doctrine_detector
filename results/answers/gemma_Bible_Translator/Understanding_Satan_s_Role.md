@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Understanding Satan's Role](../../questions/Understanding_Satan_s_Role.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Understanding Satan's Role](../../questions/Understanding_Satan_s_Role.md)
 
 ## Question [Understanding Satan's Role](../../questions/Understanding_Satan_s_Role.md)
 What does the name 'Satan' signify in the context of the Christian faith?

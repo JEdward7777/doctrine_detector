@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [Scriptural Basis](../../questions/Scriptural_Basis.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [Scriptural Basis](../../questions/Scriptural_Basis.md)
 
 ## Question [Scriptural Basis](../../questions/Scriptural_Basis.md)
 Which Bible verses support the concept of propitiation?
@@ -27,7 +27,11 @@ The concept of propitiation, which generally refers to the act of appeasing or s
 These verses illustrate the theological interpretation of Jesus' sacrifice as an act that appeases God's wrath, thereby restoring the relationship between humanity and the divine. As with any theological concept, interpretations may vary among different Christian denominations and scholars.
 
 ## Average Grade
-95.0
+94.0
 
 ## Grades
  * [95.0](./Scriptural_Basis_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Scriptural_Basis_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Scriptural_Basis_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Scriptural_Basis_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Scriptural_Basis_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

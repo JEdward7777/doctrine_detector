@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Noah's Ark](../../questions/Noah_s_Ark.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Noah's Ark](../../questions/Noah_s_Ark.md)
 
 ## Question [Noah's Ark](../../questions/Noah_s_Ark.md)
 What was the purpose of Noah's Ark as described in the Bible?
@@ -26,7 +26,11 @@ In Islamic tradition, the Ark is seen as a symbol of Allah's mercy and justice. 
 It is worth noting that in Islamic understanding, the story of Noah's Ark is not merely a historical account but also a prophetic warning about the consequences of disobedience and the importance of following Allah's guidance.
 
 ## Average Grade
-95.0
+86.0
 
 ## Grades
  * [95.0](./Noah_s_Ark_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Noah_s_Ark_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Noah_s_Ark_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Noah_s_Ark_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Noah_s_Ark_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Scriptural Reference](../../questions/Scriptural_Reference.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Scriptural Reference](../../questions/Scriptural_Reference.md)
 
 ## Question [Scriptural Reference](../../questions/Scriptural_Reference.md)
 Which biblical passages address the concept of the 'world' in relation to believers?
@@ -46,7 +46,11 @@ How to navigate life as a believer in a world characterized by ungodly values.
 The biblical passages reveal a balanced perspective on the world and its significance for believers. While the world is not to be neglected, true fulfillment and purpose are found in God's kingdom and following his teachings.
 
 ## Average Grade
-90.0
+80.0
 
 ## Grades
  * [90.0](./Scriptural_Reference_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Scriptural_Reference_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Scriptural_Reference_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Scriptural_Reference_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Scriptural_Reference_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

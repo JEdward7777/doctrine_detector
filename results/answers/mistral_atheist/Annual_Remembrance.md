@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral atheist](../../answering_models/mistral_atheist.md) answer to [Annual Remembrance](../../questions/Annual_Remembrance.md)
+# Generated Answer from [mistral atheist](../../answering_models/mistral_atheist.md) for [Annual Remembrance](../../questions/Annual_Remembrance.md)
 
 ## Question [Annual Remembrance](../../questions/Annual_Remembrance.md)
 Why were the Israelites commanded to celebrate Passover every year according to the Bible?
@@ -25,7 +25,11 @@ The purpose of the Passover has both ritualistic and historical significance:
 The annual observance of Passover serves as a reminder of these events and their meaning for the Jewish people, reaffirming their belief in God's power and providence while reinforcing their unique cultural and religious identity.
 
 ## Average Grade
-90.0
+88.0
 
 ## Grades
  * [90.0](./Annual_Remembrance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Annual_Remembrance_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Annual_Remembrance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Annual_Remembrance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Annual_Remembrance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) answer to [Unfaithfulness in Worship](../../questions/Unfaithfulness_in_Worship.md)
+# Generated Answer from [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) for [Unfaithfulness in Worship](../../questions/Unfaithfulness_in_Worship.md)
 
 ## Question [Unfaithfulness in Worship](../../questions/Unfaithfulness_in_Worship.md)
 How did the people of Israel demonstrate unfaithfulness in their worship?
@@ -15,7 +15,11 @@ To understand the implications of unfaithfulness in a believer's relationship wi
 It is important to approach discussions about religious practices and beliefs with sensitivity and respect. It is crucial to acknowledge that different individuals and groups may have varying perspectives on matters of faith and worship.
 
 ## Average Grade
-90.0
+83.0
 
 ## Grades
  * [90.0](./Unfaithfulness_in_Worship_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Unfaithfulness_in_Worship_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Unfaithfulness_in_Worship_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Unfaithfulness_in_Worship_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Unfaithfulness_in_Worship_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

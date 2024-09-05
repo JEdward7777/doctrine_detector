@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Politician](../../answering_models/mistral_Politician.md) answer to [Biblical References to Pentecost](../../questions/Biblical_References_to_Pentecost.md)
+# Generated Answer from [mistral Politician](../../answering_models/mistral_Politician.md) for [Biblical References to Pentecost](../../questions/Biblical_References_to_Pentecost.md)
 
 ## Question [Biblical References to Pentecost](../../questions/Biblical_References_to_Pentecost.md)
 Which books of the Bible contain references to the Festival of Weeks and its significance?
@@ -23,7 +23,11 @@ This festival is also known as Shavuot in Judaism, where it commemorates the giv
 I hope this helps you in your search for politically correct and inclusive language when discussing these texts.
 
 ## Average Grade
-85.0
+84.0
 
 ## Grades
  * [85.0](./Biblical_References_to_Pentecost_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Biblical_References_to_Pentecost_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Biblical_References_to_Pentecost_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Biblical_References_to_Pentecost_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Biblical_References_to_Pentecost_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

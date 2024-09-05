@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Understanding the Crucifixion](../../questions/Understanding_the_Crucifixion.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Understanding the Crucifixion](../../questions/Understanding_the_Crucifixion.md)
 
 ## Question [Understanding the Crucifixion](../../questions/Understanding_the_Crucifixion.md)
 What significance does Jesus' crucifixion hold in Christian belief?
@@ -17,7 +17,11 @@ The crucifixion of Jesus holds significant theological and spiritual importance 
 Through his sacrificial death on the cross, Christians believe that Jesus paid the penalty for humanity's sins, reconciling them with God and providing a way for forgiveness and salvation. The crucifixion is seen as the ultimate act of love and redemption, demonstrating God's great mercy and grace towards humanity. It is central to the Christian faith, as it is believed to have provided the means for salvation and eternal life for all who believe in Jesus as their Savior.
 
 ## Average Grade
-95.0
+91.0
 
 ## Grades
  * [95.0](./Understanding_the_Crucifixion_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Understanding_the_Crucifixion_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Understanding_the_Crucifixion_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Understanding_the_Crucifixion_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_the_Crucifixion_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

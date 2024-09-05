@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Politician](../../answering_models/gemma_Politician.md) answer to [Sanctification in the New Testament](../../questions/Sanctification_in_the_New_Testament.md)
+# Generated Answer from [gemma Politician](../../answering_models/gemma_Politician.md) for [Sanctification in the New Testament](../../questions/Sanctification_in_the_New_Testament.md)
 
 ## Question [Sanctification in the New Testament](../../questions/Sanctification_in_the_New_Testament.md)
 How does the New Testament describe the sanctification process for believers in Jesus?
@@ -37,7 +37,11 @@ The New Testament emphasizes that sanctification is a work of the Holy Spirit wi
 * God's love and grace are essential for the process.
 
 ## Average Grade
-90.0
+91.0
 
 ## Grades
  * [90.0](./Sanctification_in_the_New_Testament_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Sanctification_in_the_New_Testament_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Sanctification_in_the_New_Testament_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Sanctification_in_the_New_Testament_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Sanctification_in_the_New_Testament_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

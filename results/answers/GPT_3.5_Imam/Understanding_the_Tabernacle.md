@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Understanding the Tabernacle](../../questions/Understanding_the_Tabernacle.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Understanding the Tabernacle](../../questions/Understanding_the_Tabernacle.md)
 
 ## Question [Understanding the Tabernacle](../../questions/Understanding_the_Tabernacle.md)
 What was the purpose of the tabernacle for the Israelites during their 40 years in the desert?
@@ -19,7 +19,11 @@ The tabernacle also played a crucial role in the religious practices and rituals
 Overall, the tabernacle served as a central place for the Israelites to worship Allah, receive His guidance, and seek His forgiveness and blessings during their journey through the desert towards the Promised Land.
 
 ## Average Grade
-80.0
+84.0
 
 ## Grades
  * [80.0](./Understanding_the_Tabernacle_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Understanding_the_Tabernacle_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Understanding_the_Tabernacle_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Understanding_the_Tabernacle_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_the_Tabernacle_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

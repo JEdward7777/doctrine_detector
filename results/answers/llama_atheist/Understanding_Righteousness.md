@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Understanding Righteousness](../../questions/Understanding_Righteousness.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Understanding Righteousness](../../questions/Understanding_Righteousness.md)
 
 ## Question [Understanding Righteousness](../../questions/Understanding_Righteousness.md)
 What does it mean for God to be described as 'righteous'?
@@ -29,7 +29,11 @@ Ultimately, the meaning of a righteous God will depend on one's philosophical st
 What are your thoughts on this topic? How do you understand the concept of a righteous God?
 
 ## Average Grade
-40.0
+62.0
 
 ## Grades
  * [40.0](./Understanding_Righteousness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [60.0](./Understanding_Righteousness_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [65.0](./Understanding_Righteousness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Understanding_Righteousness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_Righteousness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) answer to [Testing God](../../questions/Testing_God.md)
+# Generated Answer from [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) for [Testing God](../../questions/Testing_God.md)
 
 ## Question [Testing God](../../questions/Testing_God.md)
 Why is it considered wrong to put God to the test?
@@ -15,7 +15,11 @@ Recognizing this principle is crucial for maintaining a proper relationship with
 It is important to be respectful and mindful when discussing beliefs held by others. Different religions and cultures have varying interpretations of the concept of putting God to the test. It is always best to approach these topics with sensitivity and understanding, to avoid causing offense or misunderstanding.
 
 ## Average Grade
-90.0
+89.0
 
 ## Grades
  * [90.0](./Testing_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Testing_God_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Testing_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Testing_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Testing_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

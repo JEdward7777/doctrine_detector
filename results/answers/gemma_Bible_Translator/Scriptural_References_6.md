@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Scriptural References 6](../../questions/Scriptural_References_6.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Scriptural References 6](../../questions/Scriptural_References_6.md)
 
 ## Question [Scriptural References 6](../../questions/Scriptural_References_6.md)
 Which biblical passages provide insight into the characteristics of fools and foolish behavior?

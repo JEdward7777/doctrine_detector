@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Doing Good](../../questions/Doing_Good.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Doing Good](../../questions/Doing_Good.md)
 
 ## Question [Doing Good](../../questions/Doing_Good.md)
 What does the phrase 'do good to' imply within a Christian context?
@@ -39,7 +39,11 @@ The concept of "doing good" is also emphasized in Islam, with emphasis on helpin
 **In essence, 'do good to' in a Christian context is a call to action that emphasizes the importance of loving and serving others as a reflection of God's love.**
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Doing_Good_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Doing_Good_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Doing_Good_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Doing_Good_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Doing_Good_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

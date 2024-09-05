@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Faith's Impact](../../questions/Faith_s_Impact.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Faith's Impact](../../questions/Faith_s_Impact.md)
 
 ## Question [Faith's Impact](../../questions/Faith_s_Impact.md)
 How does true faith in Jesus manifest in a person's life?
@@ -33,7 +33,11 @@ In Islam, we recognize Jesus (known as Isa in Arabic) as a revered prophet and m
 In summary, true faith in Jesus, from an Islamic perspective, inspires individuals to embody the values of love, compassion, humility, and the pursuit of righteousness, striving to connect with God through their actions and the way they treat others.
 
 ## Average Grade
-80.0
+72.0
 
 ## Grades
  * [80.0](./Faith_s_Impact_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [60.0](./Faith_s_Impact_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Faith_s_Impact_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Faith_s_Impact_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Faith_s_Impact_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

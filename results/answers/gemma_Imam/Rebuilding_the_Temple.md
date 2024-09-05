@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Rebuilding the Temple](../../questions/Rebuilding_the_Temple.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Rebuilding the Temple](../../questions/Rebuilding_the_Temple.md)
 
 ## Question [Rebuilding the Temple](../../questions/Rebuilding_the_Temple.md)
 What events led to the destruction and subsequent rebuilding of the temple in Jerusalem?
@@ -41,7 +41,11 @@ The Temple in Jerusalem, also known as the Al-Haram Mosque, has a rich and compl
 * **Historical Legacy:** The reconstruction of the Temple Mount is a testament to the rich history and cultural heritage of Jerusalem.
 
 ## Average Grade
-85.0
+59.0
 
 ## Grades
  * [85.0](./Rebuilding_the_Temple_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Rebuilding_the_Temple_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [20.0](./Rebuilding_the_Temple_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Rebuilding_the_Temple_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [40.0](./Rebuilding_the_Temple_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

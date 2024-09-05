@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Translation and Interpretation](../../questions/Translation_and_Interpretation.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Translation and Interpretation](../../questions/Translation_and_Interpretation.md)
 
 ## Question [Translation and Interpretation](../../questions/Translation_and_Interpretation.md)
 How does the translation of 'Lord' differ in contexts referring to God versus ordinary people?

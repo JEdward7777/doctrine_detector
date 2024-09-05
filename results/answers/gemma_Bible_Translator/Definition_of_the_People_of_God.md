@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Definition of the People of God](../../questions/Definition_of_the_People_of_God.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Definition of the People of God](../../questions/Definition_of_the_People_of_God.md)
 
 ## Question [Definition of the People of God](../../questions/Definition_of_the_People_of_God.md)
 What does it mean to be considered one of the 'people of God' in the Old Testament?

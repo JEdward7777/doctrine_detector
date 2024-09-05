@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Transition from Tabernacle to Temple](../../questions/Transition_from_Tabernacle_to_Temple.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Transition from Tabernacle to Temple](../../questions/Transition_from_Tabernacle_to_Temple.md)
 
 ## Question [Transition from Tabernacle to Temple](../../questions/Transition_from_Tabernacle_to_Temple.md)
 Why did the Israelites stop using the tabernacle?
@@ -27,7 +27,11 @@ King Solomon built the Temple (also known as the First Temple) in Jerusalem, whi
 In this sense, the Tabernacle ceased to be the central place of worship because God had instructed David to prepare for something new – the Temple, which would serve as a permanent dwelling-place for God's glory and the Israelites' worship.
 
 ## Average Grade
-98.0
+93.6
 
 ## Grades
  * [98.0](./Transition_from_Tabernacle_to_Temple_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Transition_from_Tabernacle_to_Temple_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Transition_from_Tabernacle_to_Temple_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Transition_from_Tabernacle_to_Temple_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Transition_from_Tabernacle_to_Temple_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

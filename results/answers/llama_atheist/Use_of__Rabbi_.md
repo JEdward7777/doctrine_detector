@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Use of 'Rabbi'](../../questions/Use_of__Rabbi_.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Use of 'Rabbi'](../../questions/Use_of__Rabbi_.md)
 
 ## Question [Use of 'Rabbi'](../../questions/Use_of__Rabbi_.md)
 How were John the Baptist and Jesus referred to concerning the title 'Rabbi'?
@@ -23,7 +23,11 @@ It's worth noting that this title wasn't exclusive to Jewish teachers or leaders
 In both cases – John the Baptist and Jesus – the title "Rabbi" serves to emphasize their roles as authoritative figures in their respective communities. It highlights their wisdom, teaching, and influence, which are all important aspects of their ministries.
 
 ## Average Grade
-90.0
+89.0
 
 ## Grades
  * [90.0](./Use_of__Rabbi__grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Use_of__Rabbi__grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Use_of__Rabbi__grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Use_of__Rabbi__grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Use_of__Rabbi__grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [God's Promises](../../questions/God_s_Promises.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [God's Promises](../../questions/God_s_Promises.md)
 
 ## Question [God's Promises](../../questions/God_s_Promises.md)
 What significance do God's promises hold in the context of His relationship with His people, as seen in the examples from the Bible?
@@ -32,7 +32,11 @@ In conclusion, God's promises in the context of His relationship with His people
 May Allah (swt) guide us all on this journey of faith and grant us the wisdom to understand the significance of His promises in our lives. Ameen.
 
 ## Average Grade
-90.0
+84.0
 
 ## Grades
  * [90.0](./God_s_Promises_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./God_s_Promises_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./God_s_Promises_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./God_s_Promises_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./God_s_Promises_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Biblical References to Gentiles](../../questions/Biblical_References_to_Gentiles.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Biblical References to Gentiles](../../questions/Biblical_References_to_Gentiles.md)
 
 ## Question [Biblical References to Gentiles](../../questions/Biblical_References_to_Gentiles.md)
 What do Acts 9:13-16 and Galatians 2:16 reveal about the inclusion of Gentiles in the Christian faith?
@@ -27,7 +27,11 @@ In both passages, we see the clear inclusion of Gentiles in the Christian faith.
 These passages demonstrate that the Christian faith is not limited to Jewish people or those who have undergone specific rituals (like circumcision). Instead, they emphasize that anyone, regardless of their ethnic background or religious affiliation, can become a part of the Christian community by putting their faith in Jesus Christ.
 
 ## Average Grade
-95.0
+92.4
 
 ## Grades
  * [95.0](./Biblical_References_to_Gentiles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Biblical_References_to_Gentiles_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Biblical_References_to_Gentiles_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Biblical_References_to_Gentiles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [92.0](./Biblical_References_to_Gentiles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

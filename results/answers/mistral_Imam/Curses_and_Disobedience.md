@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Curses and Disobedience](../../questions/Curses_and_Disobedience.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Curses and Disobedience](../../questions/Curses_and_Disobedience.md)
 
 ## Question [Curses and Disobedience](../../questions/Curses_and_Disobedience.md)
 How does the concept of curses relate to God's judgment on disobedient people in the context of Galatians 3:10?
@@ -23,7 +23,11 @@ In Islam, the concept of divine judgment is rooted in the idea that every good d
 In summary, while the verse you mentioned suggests a connection between disobedience and curses, it is important to interpret this within its original context and to harmonize it with Islamic teachings. In Islam, disobedience can lead to consequences in this life and the hereafter, but the concept of curses as a form of divine retribution is not central to our understanding of God's judgment on disobedient people.
 
 ## Average Grade
-60.0
+76.0
 
 ## Grades
  * [60.0](./Curses_and_Disobedience_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Curses_and_Disobedience_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [75.0](./Curses_and_Disobedience_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Curses_and_Disobedience_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Curses_and_Disobedience_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

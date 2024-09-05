@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Understanding of Sheol and Hades](../../questions/Understanding_of_Sheol_and_Hades.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Understanding of Sheol and Hades](../../questions/Understanding_of_Sheol_and_Hades.md)
 
 ## Question [Understanding of Sheol and Hades](../../questions/Understanding_of_Sheol_and_Hades.md)
 How do the concepts of Sheol and Hades differ in the context of the Bible, especially in relation to the afterlife of the righteous versus the unrighteous?
@@ -23,7 +23,11 @@ In terms of the afterlife of the righteous versus the unrighteous, the concept o
 Overall, while Sheol and Hades both refer to the realm of the dead in biblical literature, the distinction between the afterlife of the righteous and unrighteous is more pronounced in Christian theology with the concept of heaven and hell.
 
 ## Average Grade
-85.0
+86.0
 
 ## Grades
  * [85.0](./Understanding_of_Sheol_and_Hades_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Understanding_of_Sheol_and_Hades_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Understanding_of_Sheol_and_Hades_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Understanding_of_Sheol_and_Hades_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_of_Sheol_and_Hades_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

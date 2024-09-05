@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [Old vs. New Testament Atonement](../../questions/Old_vs._New_Testament_Atonement.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [Old vs. New Testament Atonement](../../questions/Old_vs._New_Testament_Atonement.md)
 
 ## Question [Old vs. New Testament Atonement](../../questions/Old_vs._New_Testament_Atonement.md)
 How does the concept of atonement in the Old Testament differ from the New Testament understanding?
@@ -35,7 +35,11 @@ In the New Testament, the understanding of atonement transforms, largely through
 In summary, while both the Old and New Testaments address atonement, the former is largely focused on ritual sacrifices within a specific covenant community, while the latter emphasizes the sufficiency of Christ's sacrifice, grace, faith, and a universal call to salvation.
 
 ## Average Grade
-92.0
+90.4
 
 ## Grades
  * [92.0](./Old_vs._New_Testament_Atonement_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Old_vs._New_Testament_Atonement_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Old_vs._New_Testament_Atonement_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Old_vs._New_Testament_Atonement_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Old_vs._New_Testament_Atonement_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

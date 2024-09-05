@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral atheist](../../answering_models/mistral_atheist.md) answer to [Definition of Gospel](../../questions/Definition_of_Gospel.md)
+# Generated Answer from [mistral atheist](../../answering_models/mistral_atheist.md) for [Definition of Gospel](../../questions/Definition_of_Gospel.md)
 
 ## Question [Definition of Gospel](../../questions/Definition_of_Gospel.md)
 What does the term 'gospel' literally mean, and how is it understood in the context of the Bible?
@@ -19,7 +19,11 @@ In the context of Christianity, the Gospels are the first four books of the New 
 The term "Gospel" within Christianity signifies the good news of salvation through faith in Jesus Christ and His teachings. This idea is central to Christian belief and forms the foundation of the Christian faith.
 
 ## Average Grade
-90.0
+89.0
 
 ## Grades
  * [90.0](./Definition_of_Gospel_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Definition_of_Gospel_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Definition_of_Gospel_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Definition_of_Gospel_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Definition_of_Gospel_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

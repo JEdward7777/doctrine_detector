@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Sanctuary Definition](../../questions/Sanctuary_Definition.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Sanctuary Definition](../../questions/Sanctuary_Definition.md)
 
 ## Question [Sanctuary Definition](../../questions/Sanctuary_Definition.md)
 What does the term 'sanctuary' refer to in the context of the Bible?
@@ -23,7 +23,11 @@ In modern times, the term "sanctuary" has taken on additional connotations, ofte
 Now, I understand that some may have differing views on the concept of sanctuary, and that's perfectly okay! *smiling* As a responsible leader, my goal is to foster open dialogue, respect, and understanding among people from diverse backgrounds.
 
 ## Average Grade
-80.0
+82.0
 
 ## Grades
  * [80.0](./Sanctuary_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Sanctuary_Definition_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Sanctuary_Definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Sanctuary_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Sanctuary_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

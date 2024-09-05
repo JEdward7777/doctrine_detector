@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Sadducees and Resurrection](../../questions/Sadducees_and_Resurrection.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Sadducees and Resurrection](../../questions/Sadducees_and_Resurrection.md)
 
 ## Question [Sadducees and Resurrection](../../questions/Sadducees_and_Resurrection.md)
 What was the belief of the Sadducees regarding the resurrection, and how does this contrast with Christian teaching?
@@ -17,7 +17,11 @@ The Sadducees were a Jewish sect during the Second Temple period who did not bel
 In contrast, Christian teaching, particularly within the New Testament, emphasizes the resurrection of Jesus Christ and the hope of resurrection for all believers. Christians believe in the bodily resurrection of the dead and the promise of eternal life. This belief is central to Christian faith and is seen as a core doctrine that sets Christianity apart from other religions, including the beliefs of the Sadducees.
 
 ## Average Grade
-90.0
+89.0
 
 ## Grades
  * [90.0](./Sadducees_and_Resurrection_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Sadducees_and_Resurrection_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Sadducees_and_Resurrection_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Sadducees_and_Resurrection_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Sadducees_and_Resurrection_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

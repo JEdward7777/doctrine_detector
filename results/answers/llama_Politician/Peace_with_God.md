@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Peace with God](../../questions/Peace_with_God.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Peace with God](../../questions/Peace_with_God.md)
 
 ## Question [Peace with God](../../questions/Peace_with_God.md)
 What role does faith in Jesus' sacrifice play in achieving peace with God according to scripture?
@@ -25,7 +25,11 @@ To foster peace with God, scripture suggests that one must have faith in Jesus' 
 In conclusion, while faith in Jesus' sacrifice is a central aspect of Christian theology, I believe it's essential to acknowledge the diversity of beliefs and traditions that exist within our global community. By doing so, we can work together towards fostering greater understanding, respect, and harmony among people of all backgrounds.
 
 ## Average Grade
-85.0
+84.0
 
 ## Grades
  * [85.0](./Peace_with_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Peace_with_God_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Peace_with_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Peace_with_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Peace_with_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

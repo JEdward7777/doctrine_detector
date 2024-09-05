@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma atheist](../../answering_models/gemma_atheist.md) answer to [Understanding God's Call](../../questions/Understanding_God_s_Call.md)
+# Generated Answer from [gemma atheist](../../answering_models/gemma_atheist.md) for [Understanding God's Call](../../questions/Understanding_God_s_Call.md)
 
 ## Question [Understanding God's Call](../../questions/Understanding_God_s_Call.md)
 What does it mean when the Bible states that God has called us by name?
@@ -40,7 +40,11 @@ The statement "God has called us by name" in the Bible is a culturally and lingu
 The statement "God has called us by name" is a complex and multifaceted concept with various interpretations and applications across cultures and perspectives. It is important to consider the cultural and linguistic context, multiple interpretations, and open-mindedness when interpreting this statement.
 
 ## Average Grade
-60.0
+64.0
 
 ## Grades
  * [60.0](./Understanding_God_s_Call_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [60.0](./Understanding_God_s_Call_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Understanding_God_s_Call_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Understanding_God_s_Call_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [70.0](./Understanding_God_s_Call_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

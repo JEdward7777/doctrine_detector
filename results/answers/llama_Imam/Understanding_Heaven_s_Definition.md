@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Understanding Heaven's Definition](../../questions/Understanding_Heaven_s_Definition.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Understanding Heaven's Definition](../../questions/Understanding_Heaven_s_Definition.md)
 
 ## Question [Understanding Heaven's Definition](../../questions/Understanding_Heaven_s_Definition.md)
 What is the biblical definition of 'heaven' and how does it differ from 'sky'?
@@ -30,7 +30,11 @@ To summarize:
 May Allah guide us all to seek knowledge and wisdom, and may we strive to understand His divine plan for humanity. Ameen.
 
 ## Average Grade
-90.0
+89.0
 
 ## Grades
  * [90.0](./Understanding_Heaven_s_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Understanding_Heaven_s_Definition_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Understanding_Heaven_s_Definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Understanding_Heaven_s_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Understanding_Heaven_s_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

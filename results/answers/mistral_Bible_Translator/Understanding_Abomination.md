@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) answer to [Understanding Abomination](../../questions/Understanding_Abomination.md)
+# Generated Answer from [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) for [Understanding Abomination](../../questions/Understanding_Abomination.md)
 
 ## Question [Understanding Abomination](../../questions/Understanding_Abomination.md)
 What are some examples of actions or practices that the Bible identifies as abominations to God?
@@ -29,7 +29,11 @@ It's important for Christians to understand what actions are against God's will 
 8. Taking advantage of the poor or needy (Proverbs 22:22-23, James 5:4): The Bible condemns exploitation and unjust treatment of the disadvantaged as a rejection of God's care for them.
 
 ## Average Grade
-95.0
+83.0
 
 ## Grades
  * [95.0](./Understanding_Abomination_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [75.0](./Understanding_Abomination_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Understanding_Abomination_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Understanding_Abomination_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [70.0](./Understanding_Abomination_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

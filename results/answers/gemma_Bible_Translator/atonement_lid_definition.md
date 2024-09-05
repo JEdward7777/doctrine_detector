@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [atonement_lid_definition](../../questions/atonement_lid_definition.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [atonement_lid_definition](../../questions/atonement_lid_definition.md)
 
 ## Question [atonement_lid_definition](../../questions/atonement_lid_definition.md)
 What was the significance of the atonement lid in the context of the ark of the covenant?
@@ -15,7 +15,11 @@ Understanding the symbolic representation of God's mercy and atonement in the Ol
 There is no biblical evidence to support the concept of an "atonement lid" in the context of the ark of the covenant. Therefore, I am unable to provide any information regarding its significance.</end_of_turn>
 
 ## Average Grade
-80.0
+72.0
 
 ## Grades
  * [80.0](./atonement_lid_definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [60.0](./atonement_lid_definition_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./atonement_lid_definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./atonement_lid_definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./atonement_lid_definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

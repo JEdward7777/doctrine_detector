@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) answer to [Eternal Consequences](../../questions/Eternal_Consequences.md)
+# Generated Answer from [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) for [Eternal Consequences](../../questions/Eternal_Consequences.md)
 
 ## Question [Eternal Consequences](../../questions/Eternal_Consequences.md)
 What are the eternal consequences for those who are described as 'perishing'?
@@ -27,7 +27,11 @@ Key eternal consequences for those described as perishing include:
 In summary, the eternal consequences for those who are perishing according to Christian theology involve separation from God, potential eternal punishment, loss of eternal life, and living under God's wrath. The overarching theme in Christian teaching is the call to repent and accept God's offer of salvation through Jesus Christ to avoid these consequences.
 
 ## Average Grade
-95.0
+94.0
 
 ## Grades
  * [95.0](./Eternal_Consequences_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Eternal_Consequences_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Eternal_Consequences_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Eternal_Consequences_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Eternal_Consequences_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Godliness Definition](../../questions/Godliness_Definition.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Godliness Definition](../../questions/Godliness_Definition.md)
 
 ## Question [Godliness Definition](../../questions/Godliness_Definition.md)
 How does the Bible define 'godliness' in the context of living one's life?
@@ -27,7 +27,11 @@ In the New Testament epistles, godliness is linked to living a life of faith, ho
 In summary, the Bible defines godliness as living according to God's standards, which are based on His nature and character. This involves practicing social justice, showing compassion, having a humble attitude towards God, loving Him with one's whole being, and walking with Him through obedience to His Word.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Godliness_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Godliness_Definition_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Godliness_Definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Godliness_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Godliness_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

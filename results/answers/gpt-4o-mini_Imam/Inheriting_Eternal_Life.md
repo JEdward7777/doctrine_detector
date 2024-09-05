@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Inheriting Eternal Life](../../questions/Inheriting_Eternal_Life.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Inheriting Eternal Life](../../questions/Inheriting_Eternal_Life.md)
 
 ## Question [Inheriting Eternal Life](../../questions/Inheriting_Eternal_Life.md)
 According to the Bible, what must one do to inherit eternal life?
@@ -19,7 +19,11 @@ Another significant passage can be found in the Gospel of John (3:16), which sta
 In the context of Islamic theology, we believe that the concept of eternal life is tied to faith in Allah (God) and living a righteous life according to His guidance, as conveyed through the Qur'an and the teachings of the Prophet Muhammad (peace be upon him). In Islam, the emphasis is on faith (Iman) and righteous deeds (Amal Salih) being essential for success in the Hereafter.
 
 ## Average Grade
-60.0
+72.0
 
 ## Grades
  * [60.0](./Inheriting_Eternal_Life_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Inheriting_Eternal_Life_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Inheriting_Eternal_Life_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Inheriting_Eternal_Life_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Inheriting_Eternal_Life_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Ways to Honor God](../../questions/Ways_to_Honor_God.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Ways to Honor God](../../questions/Ways_to_Honor_God.md)
 
 ## Question [Ways to Honor God](../../questions/Ways_to_Honor_God.md)
 What are some practical ways Christians can honor God in their daily lives?
@@ -32,3 +32,7 @@ By incorporating these practical ways of honoring God into our daily lives, we c
 
 ## Grades
  * [95.0](./Ways_to_Honor_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Ways_to_Honor_God_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Ways_to_Honor_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Ways_to_Honor_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Ways_to_Honor_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

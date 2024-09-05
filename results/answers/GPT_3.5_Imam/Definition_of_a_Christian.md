@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Definition of a Christian](../../questions/Definition_of_a_Christian.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Definition of a Christian](../../questions/Definition_of_a_Christian.md)
 
 ## Question [Definition of a Christian](../../questions/Definition_of_a_Christian.md)
 What is the biblical definition of a 'Christian'?
@@ -17,7 +17,11 @@ In Islam, we do not use the term "Christian" to define our beliefs or identity. 
 As Muslims, we respect the beliefs of Christians and encourage mutual understanding and dialogue while maintaining the distinctiveness of our own faith.
 
 ## Average Grade
-60.0
+72.0
 
 ## Grades
  * [60.0](./Definition_of_a_Christian_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Definition_of_a_Christian_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Definition_of_a_Christian_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Definition_of_a_Christian_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Definition_of_a_Christian_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

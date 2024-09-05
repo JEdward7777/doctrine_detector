@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) answer to [Right Judgment](../../questions/Right_Judgment.md)
+# Generated Answer from [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) for [Right Judgment](../../questions/Right_Judgment.md)
 
 ## Question [Right Judgment](../../questions/Right_Judgment.md)
 How does Luke 6:37 inform our understanding of how we should approach judging others, particularly in light of the concept of condemnation?
@@ -27,7 +27,11 @@ In examining this verse, we can draw a few key insights for our understanding of
 In summary, Luke 6:37 advocates for a balanced approach to our relationships with others—one rooted in compassion, understanding, and a commitment to personal growth. By focusing on these ideals, we can contribute to a more harmonious society that values each individual's dignity and potential.
 
 ## Average Grade
-85.0
+87.0
 
 ## Grades
  * [85.0](./Right_Judgment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Right_Judgment_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Right_Judgment_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Right_Judgment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Right_Judgment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

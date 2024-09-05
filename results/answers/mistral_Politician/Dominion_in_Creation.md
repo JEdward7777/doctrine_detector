@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Politician](../../answering_models/mistral_Politician.md) answer to [Dominion in Creation](../../questions/Dominion_in_Creation.md)
+# Generated Answer from [mistral Politician](../../answering_models/mistral_Politician.md) for [Dominion in Creation](../../questions/Dominion_in_Creation.md)
 
 ## Question [Dominion in Creation](../../questions/Dominion_in_Creation.md)
 What does the Bible teach about humanity's role in having dominion over the earth?
@@ -19,7 +19,11 @@ The Bible also stresses that all people are created equal (Genesis 1:27) and enc
 As always, I encourage everyone to consult religious texts and their faith leaders for a deeper understanding of these teachings and how they might apply to contemporary issues.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Dominion_in_Creation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Dominion_in_Creation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Dominion_in_Creation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Dominion_in_Creation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Dominion_in_Creation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

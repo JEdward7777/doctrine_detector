@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Politician](../../answering_models/mistral_Politician.md) answer to [Sanctuary in the Old Testament](../../questions/Sanctuary_in_the_Old_Testament.md)
+# Generated Answer from [mistral Politician](../../answering_models/mistral_Politician.md) for [Sanctuary in the Old Testament](../../questions/Sanctuary_in_the_Old_Testament.md)
 
 ## Question [Sanctuary in the Old Testament](../../questions/Sanctuary_in_the_Old_Testament.md)
 How did God describe the sanctuary in relation to His people in the Old Testament?
@@ -24,7 +24,11 @@ To provide some examples:
 In summary, the Old Testament portrays the sanctuary as a holy place for the Israelites to connect with God and experience His presence. It was a tangible reminder of their covenant relationship with Him. In modern terms, we can compare the sanctuary to a church or religious institution that serves as a sacred space for worship and spiritual growth.
 
 ## Average Grade
-90.0
+84.0
 
 ## Grades
  * [90.0](./Sanctuary_in_the_Old_Testament_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Sanctuary_in_the_Old_Testament_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Sanctuary_in_the_Old_Testament_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Sanctuary_in_the_Old_Testament_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Sanctuary_in_the_Old_Testament_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

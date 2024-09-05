@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Nature of Hell](../../questions/Nature_of_Hell.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Nature of Hell](../../questions/Nature_of_Hell.md)
 
 ## Question [Nature of Hell](../../questions/Nature_of_Hell.md)
 What does the Bible say about the nature and experience of hell?
@@ -33,7 +33,11 @@ It's essential to note that these passages were written in different cultural co
 In conclusion, while the Bible presents a variety of themes related to hell, it is essential to consider the cultural and historical contexts in which these passages were written. As an atheist scholar, I do not bring personal beliefs or faith to my understanding but instead seek to understand the text within its original context and the broader cultural narrative.
 
 ## Average Grade
-60.0
+72.0
 
 ## Grades
  * [60.0](./Nature_of_Hell_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Nature_of_Hell_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Nature_of_Hell_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Nature_of_Hell_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Nature_of_Hell_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

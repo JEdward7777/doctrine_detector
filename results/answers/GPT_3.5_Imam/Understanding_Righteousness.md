@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Understanding Righteousness](../../questions/Understanding_Righteousness.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Understanding Righteousness](../../questions/Understanding_Righteousness.md)
 
 ## Question [Understanding Righteousness](../../questions/Understanding_Righteousness.md)
 What does it mean for God to be described as 'righteous'?
@@ -19,7 +19,11 @@ God's righteousness is reflected in His actions towards His creation, as He trea
 Ultimately, God's righteousness serves as a source of comfort and assurance for believers, as they rely on His just nature in times of hardship and seek His guidance in every aspect of their lives.
 
 ## Average Grade
-60.0
+80.0
 
 ## Grades
  * [60.0](./Understanding_Righteousness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Understanding_Righteousness_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Understanding_Righteousness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Understanding_Righteousness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [70.0](./Understanding_Righteousness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

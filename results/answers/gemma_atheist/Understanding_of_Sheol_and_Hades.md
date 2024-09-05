@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma atheist](../../answering_models/gemma_atheist.md) answer to [Understanding of Sheol and Hades](../../questions/Understanding_of_Sheol_and_Hades.md)
+# Generated Answer from [gemma atheist](../../answering_models/gemma_atheist.md) for [Understanding of Sheol and Hades](../../questions/Understanding_of_Sheol_and_Hades.md)
 
 ## Question [Understanding of Sheol and Hades](../../questions/Understanding_of_Sheol_and_Hades.md)
 How do the concepts of Sheol and Hades differ in the context of the Bible, especially in relation to the afterlife of the righteous versus the unrighteous?
@@ -53,3 +53,7 @@ While the concepts of Sheol and Hades offer insights into the biblical understan
 
 ## Grades
  * [85.0](./Understanding_of_Sheol_and_Hades_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Understanding_of_Sheol_and_Hades_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Understanding_of_Sheol_and_Hades_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Understanding_of_Sheol_and_Hades_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Understanding_of_Sheol_and_Hades_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Authentic Christian Living](../../questions/Authentic_Christian_Living.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Authentic Christian Living](../../questions/Authentic_Christian_Living.md)
 
 ## Question [Authentic Christian Living](../../questions/Authentic_Christian_Living.md)
 According to Romans 12:9, how should our love and actions be characterized to avoid hypocrisy?
@@ -21,7 +21,11 @@ To avoid hypocrisy in our love and actions, Muslims are encouraged to purify the
 Therefore, to avoid hypocrisy and demonstrate sincerity in our love and actions, Muslims are advised to constantly check and purify their intentions, seek forgiveness for any insincerity or pretense, and strive to do everything with the sole intention of pleasing Allah. By doing so, we can ensure that our love and actions are characterized by sincerity and authenticity, as encouraged in Islam.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Authentic_Christian_Living_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Authentic_Christian_Living_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Authentic_Christian_Living_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Authentic_Christian_Living_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Authentic_Christian_Living_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Significance of Names](../../questions/Significance_of_Names.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Significance of Names](../../questions/Significance_of_Names.md)
 
 ## Question [Significance of Names](../../questions/Significance_of_Names.md)
 Why is it significant that 'Shaddai' is often translated as a title rather than a name in Bible translations?
@@ -40,7 +40,11 @@ Deepening the understanding of God's character and relational aspect in the Chri
 * Translating "Shaddai" as a title avoids confusion with other names mentioned in the Bible.
 
 ## Average Grade
-70.0
+52.0
 
 ## Grades
  * [70.0](./Significance_of_Names_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [30.0](./Significance_of_Names_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [40.0](./Significance_of_Names_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Significance_of_Names_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Significance_of_Names_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

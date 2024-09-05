@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Understanding Evil](../../questions/Understanding_Evil.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Understanding Evil](../../questions/Understanding_Evil.md)
 
 ## Question [Understanding Evil](../../questions/Understanding_Evil.md)
 How does the Bible distinguish between 'evil' and 'wickedness' in terms of moral character and behavior?
@@ -28,7 +28,11 @@ In conclusion, while there may be some overlap between "evil" and "wickedness" i
 As we seek to understand and apply these biblical concepts, it's crucial to recognize the complexities and nuances within each term. By doing so, we can foster more thoughtful and inclusive discussions about morality, ethics, and spirituality.
 
 ## Average Grade
-90.0
+91.0
 
 ## Grades
  * [90.0](./Understanding_Evil_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Understanding_Evil_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Understanding_Evil_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Understanding_Evil_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_Evil_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

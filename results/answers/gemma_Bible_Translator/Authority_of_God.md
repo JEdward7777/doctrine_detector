@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Authority of God](../../questions/Authority_of_God.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Authority of God](../../questions/Authority_of_God.md)
 
 ## Question [Authority of God](../../questions/Authority_of_God.md)
 What does the term 'Yahweh of hosts' signify about God's authority over spiritual beings?

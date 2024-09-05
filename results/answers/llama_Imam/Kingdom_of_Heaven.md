@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Kingdom of Heaven](../../questions/Kingdom_of_Heaven.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Kingdom of Heaven](../../questions/Kingdom_of_Heaven.md)
 
 ## Question [Kingdom of Heaven](../../questions/Kingdom_of_Heaven.md)
 Why is it important to retain the term 'heaven' in the phrase 'kingdom of heaven' in the book of Matthew?
@@ -25,7 +25,11 @@ Furthermore, using this phrase allows Jesus to contrast His message with that of
 In conclusion, retaining the term "heaven" in the phrase "kingdom of heaven" is important because it underscores the spiritual nature of Jesus' message, emphasizes the contrast between earthly and heavenly values, and invites people to submit to Allah's will and wisdom.
 
 ## Average Grade
-85.0
+82.0
 
 ## Grades
  * [85.0](./Kingdom_of_Heaven_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Kingdom_of_Heaven_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [75.0](./Kingdom_of_Heaven_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Kingdom_of_Heaven_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Kingdom_of_Heaven_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Authentic Christian Living](../../questions/Authentic_Christian_Living.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Authentic Christian Living](../../questions/Authentic_Christian_Living.md)
 
 ## Question [Authentic Christian Living](../../questions/Authentic_Christian_Living.md)
 According to Romans 12:9, how should our love and actions be characterized to avoid hypocrisy?

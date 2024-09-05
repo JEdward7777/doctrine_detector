@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Understanding Intercession](../../questions/Understanding_Intercession.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Understanding Intercession](../../questions/Understanding_Intercession.md)
 
 ## Question [Understanding Intercession](../../questions/Understanding_Intercession.md)
 What does the Bible teach about the role of the Holy Spirit in intercession?
@@ -19,7 +19,11 @@ In Islamic teachings, Prophet Muhammad (peace be upon him) will have the privile
 It is important for Muslims to seek guidance and forgiveness directly from Allah through prayer and supplication, as He is the ultimate source of help and intercession. We believe that it is essential to maintain a direct and personal connection with Allah in seeking His mercy, forgiveness, and blessings.
 
 ## Average Grade
-70.0
+60.0
 
 ## Grades
  * [70.0](./Understanding_Intercession_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Understanding_Intercession_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Understanding_Intercession_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [40.0](./Understanding_Intercession_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Understanding_Intercession_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

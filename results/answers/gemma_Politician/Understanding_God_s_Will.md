@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Politician](../../answering_models/gemma_Politician.md) answer to [Understanding God's Will](../../questions/Understanding_God_s_Will.md)
+# Generated Answer from [gemma Politician](../../answering_models/gemma_Politician.md) for [Understanding God's Will](../../questions/Understanding_God_s_Will.md)
 
 ## Question [Understanding God's Will](../../questions/Understanding_God_s_Will.md)
 What does it mean to seek God's will in our everyday decisions?
@@ -34,3 +34,7 @@ People may struggle with making decisions that honor God or may feel uncertain a
 
 ## Grades
  * [90.0](./Understanding_God_s_Will_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Understanding_God_s_Will_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Understanding_God_s_Will_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Understanding_God_s_Will_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_God_s_Will_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

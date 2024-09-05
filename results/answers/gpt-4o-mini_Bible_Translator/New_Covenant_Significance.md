@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) answer to [New Covenant Significance](../../questions/New_Covenant_Significance.md)
+# Generated Answer from [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) for [New Covenant Significance](../../questions/New_Covenant_Significance.md)
 
 ## Question [New Covenant Significance](../../questions/New_Covenant_Significance.md)
 What is the significance of the new covenant established through Jesus?
@@ -31,7 +31,11 @@ The new covenant established through Jesus is of great significance in Christian
 Overall, the new covenant symbolizes a transformative relationship with God characterized by grace, forgiveness, and the empowerment of the Holy Spirit, marking a pivotal moment in the Christian faith.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./New_Covenant_Significance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./New_Covenant_Significance_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./New_Covenant_Significance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./New_Covenant_Significance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./New_Covenant_Significance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

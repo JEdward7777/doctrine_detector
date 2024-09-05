@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Understanding Reconciliation](../../questions/Understanding_Reconciliation.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Understanding Reconciliation](../../questions/Understanding_Reconciliation.md)
 
 ## Question [Understanding Reconciliation](../../questions/Understanding_Reconciliation.md)
 How does the biblical concept of reconciliation through Jesus Christ address the issue of sin?
@@ -21,7 +21,11 @@ By accepting Jesus Christ as our Lord and Savior, confessing our sins, and repen
 Ultimately, the concept of reconciliation through Jesus Christ highlights the incredible love and grace of God, who offers us a way to be forgiven and restored to a right relationship with Him despite our sinfulness.
 
 ## Average Grade
-95.0
+94.0
 
 ## Grades
  * [95.0](./Understanding_Reconciliation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Understanding_Reconciliation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Understanding_Reconciliation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Understanding_Reconciliation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Understanding_Reconciliation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

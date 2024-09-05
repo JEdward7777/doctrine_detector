@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Role of Priests](../../questions/Role_of_Priests.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Role of Priests](../../questions/Role_of_Priests.md)
 
 ## Question [Role of Priests](../../questions/Role_of_Priests.md)
 What were the main responsibilities of priests in the Old Testament according to the Bible?

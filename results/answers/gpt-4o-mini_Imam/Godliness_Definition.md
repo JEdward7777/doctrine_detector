@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Godliness Definition](../../questions/Godliness_Definition.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Godliness Definition](../../questions/Godliness_Definition.md)
 
 ## Question [Godliness Definition](../../questions/Godliness_Definition.md)
 How does the Bible define 'godliness' in the context of living one's life?
@@ -23,7 +23,11 @@ In essence, the biblical perspective on godliness emphasizes a way of life that 
 If you have specific aspects of godliness in relation to Islamic teaching, I would be glad to help clarify or compare those elements from our perspective.
 
 ## Average Grade
-90.0
+89.0
 
 ## Grades
  * [90.0](./Godliness_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Godliness_Definition_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Godliness_Definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Godliness_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Godliness_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

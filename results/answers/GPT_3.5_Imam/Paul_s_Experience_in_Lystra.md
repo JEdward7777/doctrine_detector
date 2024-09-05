@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Paul's Experience in Lystra](../../questions/Paul_s_Experience_in_Lystra.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Paul's Experience in Lystra](../../questions/Paul_s_Experience_in_Lystra.md)
 
 ## Question [Paul's Experience in Lystra](../../questions/Paul_s_Experience_in_Lystra.md)
 What lessons can be learned from the stoning of Paul in Lystra regarding perseverance in faith and ministry?
@@ -25,7 +25,11 @@ The story of the stoning of Paul in Lystra, as recorded in the Bible in Acts 14:
 Overall, the stoning of Paul in Lystra teaches us valuable lessons about perseverance, trust in Allah, seeking support from the Muslim community, and turning hardships into opportunities for growth in our faith and ministry as Muslims.
 
 ## Average Grade
-25.0
+28.0
 
 ## Grades
  * [25.0](./Paul_s_Experience_in_Lystra_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [25.0](./Paul_s_Experience_in_Lystra_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [30.0](./Paul_s_Experience_in_Lystra_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [20.0](./Paul_s_Experience_in_Lystra_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [40.0](./Paul_s_Experience_in_Lystra_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

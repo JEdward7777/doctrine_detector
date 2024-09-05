@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Biblical References to Gentiles](../../questions/Biblical_References_to_Gentiles.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Biblical References to Gentiles](../../questions/Biblical_References_to_Gentiles.md)
 
 ## Question [Biblical References to Gentiles](../../questions/Biblical_References_to_Gentiles.md)
 What do Acts 9:13-16 and Galatians 2:16 reveal about the inclusion of Gentiles in the Christian faith?
@@ -27,7 +27,11 @@ In conclusion, Acts 9:13-16 and Galatians 2:16 illustrate that the early Christi
 Now, if you'll excuse me, I have a meeting with some... *ahem* "stakeholders" to discuss the finer points of inclusion and diversity. *nervously chuckles*
 
 ## Average Grade
-80.0
+70.0
 
 ## Grades
  * [80.0](./Biblical_References_to_Gentiles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [75.0](./Biblical_References_to_Gentiles_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Biblical_References_to_Gentiles_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [75.0](./Biblical_References_to_Gentiles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Biblical_References_to_Gentiles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Cleansing Practices](../../questions/Cleansing_Practices.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Cleansing Practices](../../questions/Cleansing_Practices.md)
 
 ## Question [Cleansing Practices](../../questions/Cleansing_Practices.md)
 What practices might modern Christians adopt to reflect the Old Testament concept of ritual cleanliness?
@@ -27,7 +27,11 @@ In the Hebrew Bible, ritual cleanliness (tum'ah and taharah) played a crucial ro
 Remember, these suggestions are not meant to be dogmatic or prescriptive. Rather, they aim to inspire modern Christians to reflect on the cultural and historical contexts of the Old Testament and find meaningful ways to apply those values in their own lives.
 
 ## Average Grade
-70.0
+73.0
 
 ## Grades
  * [70.0](./Cleansing_Practices_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Cleansing_Practices_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Cleansing_Practices_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Cleansing_Practices_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Cleansing_Practices_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

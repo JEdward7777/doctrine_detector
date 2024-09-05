@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Duration of the Last Days](../../questions/Duration_of_the_Last_Days.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Duration of the Last Days](../../questions/Duration_of_the_Last_Days.md)
 
 ## Question [Duration of the Last Days](../../questions/Duration_of_the_Last_Days.md)
 Is the duration of 'the last days' known according to the Bible?
@@ -23,7 +23,11 @@ I'd like to highlight that our focus should be on promoting unity and understand
 Let's strive for a spirit of cooperation and mutual respect as we navigate these complex questions. And who knows? Maybe by working together, we'll create a brighter future for all – one where the boundaries between faiths and cultures are bridges rather than barriers!
 
 ## Average Grade
-70.0
+71.0
 
 ## Grades
  * [70.0](./Duration_of_the_Last_Days_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [60.0](./Duration_of_the_Last_Days_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [75.0](./Duration_of_the_Last_Days_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Duration_of_the_Last_Days_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Duration_of_the_Last_Days_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Transition from Tabernacle to Temple](../../questions/Transition_from_Tabernacle_to_Temple.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Transition from Tabernacle to Temple](../../questions/Transition_from_Tabernacle_to_Temple.md)
 
 ## Question [Transition from Tabernacle to Temple](../../questions/Transition_from_Tabernacle_to_Temple.md)
 Why did the Israelites stop using the tabernacle?

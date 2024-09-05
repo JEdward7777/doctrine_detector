@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Idolatry in the Bible](../../questions/Idolatry_in_the_Bible.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Idolatry in the Bible](../../questions/Idolatry_in_the_Bible.md)
 
 ## Question [Idolatry in the Bible](../../questions/Idolatry_in_the_Bible.md)
 How does the Bible illustrate the consequences of idolatry among God's people?

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Scriptural Reference](../../questions/Scriptural_Reference.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Scriptural Reference](../../questions/Scriptural_Reference.md)
 
 ## Question [Scriptural Reference](../../questions/Scriptural_Reference.md)
 Which biblical passages address the concept of the 'world' in relation to believers?
@@ -25,7 +25,11 @@ There are several biblical passages that address the concept of the "world" in r
 These passages highlight the tension between believers and the world, emphasizing the need for Christians to be separate from the desires and values of the world while also called to love and serve the people in the world as Christ did.
 
 ## Average Grade
-85.0
+87.0
 
 ## Grades
  * [85.0](./Scriptural_Reference_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Scriptural_Reference_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Scriptural_Reference_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Scriptural_Reference_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Scriptural_Reference_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

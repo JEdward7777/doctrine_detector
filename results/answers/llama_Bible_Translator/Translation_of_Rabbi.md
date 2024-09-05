@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Translation of Rabbi](../../questions/Translation_of_Rabbi.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Translation of Rabbi](../../questions/Translation_of_Rabbi.md)
 
 ## Question [Translation of Rabbi](../../questions/Translation_of_Rabbi.md)
 What considerations should be made when translating the term 'Rabbi' in various languages?
@@ -31,7 +31,11 @@ Some possible translations of "Rabbi" could be:
 Ultimately, the best translation will depend on the specific context, target audience, and cultural nuances. As Christian Bible translators, our goal is to communicate the original meaning with clarity and accuracy, while also considering the needs of our readers.
 
 ## Average Grade
-95.0
+91.0
 
 ## Grades
  * [95.0](./Translation_of_Rabbi_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Translation_of_Rabbi_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Translation_of_Rabbi_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Translation_of_Rabbi_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Translation_of_Rabbi_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Conscience Understanding](../../questions/Conscience_Understanding.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Conscience Understanding](../../questions/Conscience_Understanding.md)
 
 ## Question [Conscience Understanding](../../questions/Conscience_Understanding.md)
 What is the biblical definition of conscience, and how does it function according to Christian beliefs?

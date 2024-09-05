@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Repentance and Judgment](../../questions/Repentance_and_Judgment.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Repentance and Judgment](../../questions/Repentance_and_Judgment.md)
 
 ## Question [Repentance and Judgment](../../questions/Repentance_and_Judgment.md)
 What does the Bible say about the relationship between repentance and the wrath of God?
@@ -27,7 +27,11 @@ So, my fellow Americans, let's focus on the positive here. Let's talk about how 
 Thank you for your thoughtful question, and I hope my response has been helpful in sparking some important conversations!
 
 ## Average Grade
-70.0
+83.0
 
 ## Grades
  * [70.0](./Repentance_and_Judgment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Repentance_and_Judgment_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Repentance_and_Judgment_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Repentance_and_Judgment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Repentance_and_Judgment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

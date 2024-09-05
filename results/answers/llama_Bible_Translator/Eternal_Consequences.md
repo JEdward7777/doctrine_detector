@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Eternal Consequences](../../questions/Eternal_Consequences.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Eternal Consequences](../../questions/Eternal_Consequences.md)
 
 ## Question [Eternal Consequences](../../questions/Eternal_Consequences.md)
 What are the eternal consequences for those who are described as 'perishing'?
@@ -23,7 +23,11 @@ The Bible teaches that those who perish will be separated from God forever, expe
 It's essential to emphasize that this perishing is not because of who we are by nature (Ephesians 2:3), but rather because of our choice to reject God's offer of salvation through faith in Jesus Christ. The good news is that those who put their faith in Him will never perish, but have eternal life and dwell with God forever (John 17:3).
 
 ## Average Grade
-95.0
+94.0
 
 ## Grades
  * [95.0](./Eternal_Consequences_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Eternal_Consequences_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Eternal_Consequences_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Eternal_Consequences_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Eternal_Consequences_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Practices of Fellowship](../../questions/Practices_of_Fellowship.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Practices of Fellowship](../../questions/Practices_of_Fellowship.md)
 
 ## Question [Practices of Fellowship](../../questions/Practices_of_Fellowship.md)
 How did early Christians express their fellowship?

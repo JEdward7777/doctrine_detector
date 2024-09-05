@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma atheist](../../answering_models/gemma_atheist.md) answer to [Understanding Guilt](../../questions/Understanding_Guilt.md)
+# Generated Answer from [gemma atheist](../../answering_models/gemma_atheist.md) for [Understanding Guilt](../../questions/Understanding_Guilt.md)
 
 ## Question [Understanding Guilt](../../questions/Understanding_Guilt.md)
 What does it mean to be guilty according to the Bible?
@@ -48,7 +48,11 @@ Understanding the concept of guilt is crucial for recognizing our need for repen
 * The absence of a belief in a supernatural creator or moral lawgiver may influence the way individuals understand and process guilt.
 
 ## Average Grade
-88.0
+89.6
 
 ## Grades
  * [88.0](./Understanding_Guilt_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Understanding_Guilt_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Understanding_Guilt_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Understanding_Guilt_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Understanding_Guilt_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

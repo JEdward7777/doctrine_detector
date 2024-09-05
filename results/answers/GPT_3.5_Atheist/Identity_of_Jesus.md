@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Identity of Jesus](../../questions/Identity_of_Jesus.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Identity of Jesus](../../questions/Identity_of_Jesus.md)
 
 ## Question [Identity of Jesus](../../questions/Identity_of_Jesus.md)
 What does the name 'Jesus' signify in terms of His purpose?
@@ -19,7 +19,11 @@ However, from a purely scholarly and atheistic standpoint, the name "Jesus" repr
 It is important to approach discussions about Jesus and his purpose with an understanding of the cultural and religious contexts in which his story has been told, while also considering the historical and scholarly perspectives that seek to uncover the truth behind the myth.
 
 ## Average Grade
-80.0
+74.0
 
 ## Grades
  * [80.0](./Identity_of_Jesus_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [50.0](./Identity_of_Jesus_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Identity_of_Jesus_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [75.0](./Identity_of_Jesus_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Identity_of_Jesus_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

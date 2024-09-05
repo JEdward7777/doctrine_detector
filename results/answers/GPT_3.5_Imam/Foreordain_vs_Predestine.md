@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Foreordain vs Predestine](../../questions/Foreordain_vs_Predestine.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Foreordain vs Predestine](../../questions/Foreordain_vs_Predestine.md)
 
 ## Question [Foreordain vs Predestine](../../questions/Foreordain_vs_Predestine.md)
 How does the term 'foreordain' relate to 'predestine' in Christian teachings?
@@ -19,7 +19,11 @@ In Islam, the concept of predestination (Qadar) is also present, however, it is 
 So, while both Christianity and Islam believe in the concept of predestination in some form, the understanding of how it works and the implications for human free will differ between the two faiths.
 
 ## Average Grade
-95.0
+85.0
 
 ## Grades
  * [95.0](./Foreordain_vs_Predestine_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Foreordain_vs_Predestine_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Foreordain_vs_Predestine_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Foreordain_vs_Predestine_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [70.0](./Foreordain_vs_Predestine_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

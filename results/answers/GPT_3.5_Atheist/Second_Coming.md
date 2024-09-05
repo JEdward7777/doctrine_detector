@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Second Coming](../../questions/Second_Coming.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Second Coming](../../questions/Second_Coming.md)
 
 ## Question [Second Coming](../../questions/Second_Coming.md)
 What does Jesus’ statement about the 'Son of Man' coming back on the clouds imply for believers?
@@ -19,7 +19,11 @@ For believers, this statement may imply a sense of hope, reassurance, and antici
 Ultimately, interpreting such statements is subjective and can vary among believers based on their personal beliefs, cultural backgrounds, and religious traditions.
 
 ## Average Grade
-60.0
+54.0
 
 ## Grades
  * [60.0](./Second_Coming_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [50.0](./Second_Coming_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [40.0](./Second_Coming_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Second_Coming_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Second_Coming_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

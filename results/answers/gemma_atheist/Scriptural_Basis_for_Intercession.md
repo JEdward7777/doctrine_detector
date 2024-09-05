@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma atheist](../../answering_models/gemma_atheist.md) answer to [Scriptural Basis for Intercession](../../questions/Scriptural_Basis_for_Intercession.md)
+# Generated Answer from [gemma atheist](../../answering_models/gemma_atheist.md) for [Scriptural Basis for Intercession](../../questions/Scriptural_Basis_for_Intercession.md)
 
 ## Question [Scriptural Basis for Intercession](../../questions/Scriptural_Basis_for_Intercession.md)
 Which Bible verses provide insights into the practice of interceding for others?
@@ -53,7 +53,11 @@ This verse suggests that God responds to sincere prayer and acts of humility fro
 * Emphasizing the universality of prayer as a human act of connection and compassion.
 
 ## Average Grade
-85.0
+74.0
 
 ## Grades
  * [85.0](./Scriptural_Basis_for_Intercession_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Scriptural_Basis_for_Intercession_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Scriptural_Basis_for_Intercession_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Scriptural_Basis_for_Intercession_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Scriptural_Basis_for_Intercession_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

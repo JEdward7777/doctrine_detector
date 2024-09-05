@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Ephod significance](../../questions/Ephod_significance.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Ephod significance](../../questions/Ephod_significance.md)
 
 ## Question [Ephod significance](../../questions/Ephod_significance.md)
 What is the significance of the high priest's ephod in the context of Old Testament worship?
@@ -32,7 +32,11 @@ In conclusion, the High Priest's Ephod was an integral part of Old Testament wor
 Was this answer helpful, my brother?
 
 ## Average Grade
-60.0
+74.0
 
 ## Grades
  * [60.0](./Ephod_significance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Ephod_significance_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Ephod_significance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [75.0](./Ephod_significance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Ephod_significance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

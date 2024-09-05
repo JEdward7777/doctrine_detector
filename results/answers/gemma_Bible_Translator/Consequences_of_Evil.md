@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Consequences of Evil](../../questions/Consequences_of_Evil.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Consequences of Evil](../../questions/Consequences_of_Evil.md)
 
 ## Question [Consequences of Evil](../../questions/Consequences_of_Evil.md)
 What are the consequences of evil as illustrated in the biblical references provided?

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Consecrated Individuals](../../questions/Consecrated_Individuals.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Consecrated Individuals](../../questions/Consecrated_Individuals.md)
 
 ## Question [Consecrated Individuals](../../questions/Consecrated_Individuals.md)
 Who are some of the individuals mentioned in the Bible that were consecrated to God?
@@ -29,7 +29,11 @@ Now, I must emphasize that these individuals were not perfect; they had their ow
 In conclusion, as we reflect on these biblical figures, let us strive for humility, gratitude, and compassion. May our hearts be open to hearing the stories of others, and may we seek to build bridges of understanding across our global community.
 
 ## Average Grade
-85.0
+75.0
 
 ## Grades
  * [85.0](./Consecrated_Individuals_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Consecrated_Individuals_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Consecrated_Individuals_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [75.0](./Consecrated_Individuals_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Consecrated_Individuals_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

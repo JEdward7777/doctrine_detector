@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [Dominion of Christ](../../questions/Dominion_of_Christ.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [Dominion of Christ](../../questions/Dominion_of_Christ.md)
 
 ## Question [Dominion of Christ](../../questions/Dominion_of_Christ.md)
 How is Jesus Christ's dominion described in the Bible?
@@ -27,7 +27,11 @@ In the Bible, the dominion of Jesus Christ is described in various ways, reflect
 In summary, the dominion of Jesus Christ, as described in the Bible, encompasses spiritual authority, kingship, shepherd-like care for his followers, and the ultimate role of judge in the final judgment. These themes showcase a multifaceted understanding of his dominion, both in the present and the future.
 
 ## Average Grade
-92.0
+92.4
 
 ## Grades
  * [92.0](./Dominion_of_Christ_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Dominion_of_Christ_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Dominion_of_Christ_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Dominion_of_Christ_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Dominion_of_Christ_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

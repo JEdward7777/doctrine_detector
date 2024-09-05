@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Godliness Definition](../../questions/Godliness_Definition.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Godliness Definition](../../questions/Godliness_Definition.md)
 
 ## Question [Godliness Definition](../../questions/Godliness_Definition.md)
 How does the Bible define 'godliness' in the context of living one's life?
@@ -32,7 +32,11 @@ In terms of living one's life, godliness in Islam is demonstrated through:
 In summary, godliness in Islam is a multifaceted concept that encompasses submission to Allah's will, repentance, piety, gratitude, and a commitment to living a virtuous life that reflects His attributes of Mercy, Compassion, and Justice.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Godliness_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Godliness_Definition_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Godliness_Definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Godliness_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Godliness_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [New Testament Priesthood](../../questions/New_Testament_Priesthood.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [New Testament Priesthood](../../questions/New_Testament_Priesthood.md)
 
 ## Question [New Testament Priesthood](../../questions/New_Testament_Priesthood.md)
 What does it mean for every believer in Jesus to be considered a priest in the New Testament?
@@ -27,7 +27,11 @@ The notion that every believer in Jesus becomes a priest can be understood in se
 In summary, when every believer in Jesus is considered a priest, it emphasizes the accessibility of salvation, the importance of holy living, and the universal call to ministry. It also underscores the equal access to God and participation in the priestly work of Jesus Christ, highlighting the inclusive nature of Christian spirituality.
 
 ## Average Grade
-90.0
+89.0
 
 ## Grades
  * [90.0](./New_Testament_Priesthood_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./New_Testament_Priesthood_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./New_Testament_Priesthood_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./New_Testament_Priesthood_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./New_Testament_Priesthood_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

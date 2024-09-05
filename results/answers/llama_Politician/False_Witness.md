@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [False Witness](../../questions/False_Witness.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [False Witness](../../questions/False_Witness.md)
 
 ## Question [False Witness](../../questions/False_Witness.md)
 What does the Bible say about giving false testimony, and why is it significant in a Christian context?
@@ -23,7 +23,11 @@ In a world where trust is often in short supply, Christians have an opportunity 
 So, let's strive to be people of integrity, committed to living out our faith with transparency and sincerity. As Psalm 15:2 says, "He who walks in integrity walks securely; but he whose eyes are cloudy will have a fall." Let us choose to walk in the light of truth, my friends, and may God bless our efforts to be faithful servants of His Kingdom!
 
 ## Average Grade
-95.0
+94.0
 
 ## Grades
  * [95.0](./False_Witness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./False_Witness_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./False_Witness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./False_Witness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./False_Witness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

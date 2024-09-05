@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Value of the Kingdom](../../questions/Value_of_the_Kingdom.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Value of the Kingdom](../../questions/Value_of_the_Kingdom.md)
 
 ## Question [Value of the Kingdom](../../questions/Value_of_the_Kingdom.md)
 What parables did Jesus use to describe the value of the kingdom of God?

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Understanding Sacrifice](../../questions/Understanding_Sacrifice.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Understanding Sacrifice](../../questions/Understanding_Sacrifice.md)
 
 ## Question [Understanding Sacrifice](../../questions/Understanding_Sacrifice.md)
 Why is Jesus referred to as the 'Lamb of God' in relation to the sacrifices commanded in the Old Testament?
@@ -29,7 +29,11 @@ In this sense, Jesus as the Lamb of God represents:
 The title "Lamb of God" underscores Jesus' role as the sin-bearing substitute, emphasizing His sacrifice and its significance for human salvation.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Understanding_Sacrifice_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Understanding_Sacrifice_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Understanding_Sacrifice_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Understanding_Sacrifice_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_Sacrifice_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

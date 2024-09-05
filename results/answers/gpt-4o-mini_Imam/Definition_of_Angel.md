@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Definition of Angel](../../questions/Definition_of_Angel.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Definition of Angel](../../questions/Definition_of_Angel.md)
 
 ## Question [Definition of Angel](../../questions/Definition_of_Angel.md)
 What is the biblical definition of an angel and its primary role?
@@ -21,7 +21,11 @@ For instance, the angel Gabriel (Jibril in Arabic) is known as the messenger who
 Thus, while the biblical definition of angels may emphasize their role as messengers and servants of God as well, in Islam, angels hold a broader significance as essential beings in the execution of Allah's will across creation.
 
 ## Average Grade
-70.0
+76.0
 
 ## Grades
  * [70.0](./Definition_of_Angel_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Definition_of_Angel_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Definition_of_Angel_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Definition_of_Angel_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Definition_of_Angel_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

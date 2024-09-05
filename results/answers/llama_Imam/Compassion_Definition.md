@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Compassion Definition](../../questions/Compassion_Definition.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Compassion Definition](../../questions/Compassion_Definition.md)
 
 ## Question [Compassion Definition](../../questions/Compassion_Definition.md)
 How does the Bible define compassion and what actions are associated with being compassionate?
@@ -36,3 +36,7 @@ As Muslims, we also emphasize compassion and mercy (rahma) in our faith. We beli
 
 ## Grades
  * [95.0](./Compassion_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Compassion_Definition_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Compassion_Definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Compassion_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Compassion_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

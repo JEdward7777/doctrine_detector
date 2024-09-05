@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Symbolism of the Lamb](../../questions/Symbolism_of_the_Lamb.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Symbolism of the Lamb](../../questions/Symbolism_of_the_Lamb.md)
 
 ## Question [Symbolism of the Lamb](../../questions/Symbolism_of_the_Lamb.md)
 What is the significance of using a lamb for sacrifices in the Bible, and how does this relate to the concept of atonement?

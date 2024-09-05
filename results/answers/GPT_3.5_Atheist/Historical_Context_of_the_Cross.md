@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Historical Context of the Cross](../../questions/Historical_Context_of_the_Cross.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Historical Context of the Cross](../../questions/Historical_Context_of_the_Cross.md)
 
 ## Question [Historical Context of the Cross](../../questions/Historical_Context_of_the_Cross.md)
 How did the Roman practice of crucifixion affect the perception of the cross in early Christianity?
@@ -21,7 +21,11 @@ By appropriating the symbol of the cross, early Christians were able to transfor
 In this way, the Roman practice of crucifixion helped shape the perception of the cross in early Christianity, turning it from a symbol of death and destruction into a symbol of hope and salvation.
 
 ## Average Grade
-90.0
+91.0
 
 ## Grades
  * [90.0](./Historical_Context_of_the_Cross_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Historical_Context_of_the_Cross_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Historical_Context_of_the_Cross_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Historical_Context_of_the_Cross_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Historical_Context_of_the_Cross_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

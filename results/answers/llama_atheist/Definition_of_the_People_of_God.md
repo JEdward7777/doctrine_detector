@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Definition of the People of God](../../questions/Definition_of_the_People_of_God.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Definition of the People of God](../../questions/Definition_of_the_People_of_God.md)
 
 ## Question [Definition of the People of God](../../questions/Definition_of_the_People_of_God.md)
 What does it mean to be considered one of the 'people of God' in the Old Testament?
@@ -29,7 +29,11 @@ Of course, this concept of being one of the "people of God" is not without its c
 As an atheist scholar, I acknowledge that my interpretation may differ from that of religious scholars who bring their own theological perspectives to the text. Nonetheless, I believe it's essential to understand the cultural context in which these phrases were written and how they contributed to the development of Israelite identity and society.
 
 ## Average Grade
-60.0
+67.0
 
 ## Grades
  * [60.0](./Definition_of_the_People_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Definition_of_the_People_of_God_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Definition_of_the_People_of_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [65.0](./Definition_of_the_People_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Definition_of_the_People_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

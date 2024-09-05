@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Tempting God](../../questions/Tempting_God.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Tempting God](../../questions/Tempting_God.md)
 
 ## Question [Tempting God](../../questions/Tempting_God.md)
 What does it mean to 'tempt God' and how can this behavior lead to consequences according to Biblical teaching?
@@ -21,7 +21,11 @@ In the Old Testament, the Israelites often tempted God by grumbling, complaining
 Ultimately, tempting God is a serious offense because it undermines our relationship with Him and reveals a lack of faith and obedience. Instead, Christians are called to trust in God's providence, obey His commandments, and rely on His strength rather than testing or challenging Him.
 
 ## Average Grade
-90.0
+91.4
 
 ## Grades
  * [90.0](./Tempting_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [92.0](./Tempting_God_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Tempting_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Tempting_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Tempting_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

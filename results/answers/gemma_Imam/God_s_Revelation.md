@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [God's Revelation](../../questions/God_s_Revelation.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [God's Revelation](../../questions/God_s_Revelation.md)
 
 ## Question [God's Revelation](../../questions/God_s_Revelation.md)
 How does God introduce Himself using His name in the Bible?
@@ -34,7 +34,11 @@ The understanding of God's self-revelation differs between Islamic and Christian
 **Therefore, while the Bible introduces God using various names, Muslims interpret these names as representing God's attributes and relationship with his creation, rather than revealing his ultimate essence or identity.**
 
 ## Average Grade
-70.0
+81.0
 
 ## Grades
  * [70.0](./God_s_Revelation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./God_s_Revelation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [75.0](./God_s_Revelation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./God_s_Revelation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./God_s_Revelation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

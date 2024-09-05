@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Understanding Majesty](../../questions/Understanding_Majesty.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Understanding Majesty](../../questions/Understanding_Majesty.md)
 
 ## Question [Understanding Majesty](../../questions/Understanding_Majesty.md)
 What does the term 'majesty' signify in relation to God's character?

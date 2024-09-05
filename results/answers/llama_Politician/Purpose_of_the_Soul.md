@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Purpose of the Soul](../../questions/Purpose_of_the_Soul.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Purpose of the Soul](../../questions/Purpose_of_the_Soul.md)
 
 ## Question [Purpose of the Soul](../../questions/Purpose_of_the_Soul.md)
 In what ways does the soul relate to a person's relationship with God as described in scripture?
@@ -29,7 +29,11 @@ In conclusion, the soul's relation to a person's relationship with God as descri
 Now, let me just clarify that these are my personal views, and I'm not speaking on behalf of any particular religious group or community... *cough*
 
 ## Average Grade
-88.0
+87.0
 
 ## Grades
  * [88.0](./Purpose_of_the_Soul_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [92.0](./Purpose_of_the_Soul_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Purpose_of_the_Soul_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Purpose_of_the_Soul_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Purpose_of_the_Soul_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Understanding God's Will](../../questions/Understanding_God_s_Will.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Understanding God's Will](../../questions/Understanding_God_s_Will.md)
 
 ## Question [Understanding God's Will](../../questions/Understanding_God_s_Will.md)
 What does it mean to seek God's will in our everyday decisions?
@@ -40,3 +40,7 @@ In conclusion, seeking Allah's will is not just a passive act; it's an active pr
 
 ## Grades
  * [90.0](./Understanding_God_s_Will_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Understanding_God_s_Will_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Understanding_God_s_Will_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Understanding_God_s_Will_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Understanding_God_s_Will_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

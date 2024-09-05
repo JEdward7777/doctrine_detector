@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Consequences of Pride](../../questions/Consequences_of_Pride.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Consequences of Pride](../../questions/Consequences_of_Pride.md)
 
 ## Question [Consequences of Pride](../../questions/Consequences_of_Pride.md)
 What does the Bible say about the consequences of pride and the importance of humility?

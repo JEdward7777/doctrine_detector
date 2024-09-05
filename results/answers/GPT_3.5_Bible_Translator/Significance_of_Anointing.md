@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Significance of Anointing](../../questions/Significance_of_Anointing.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Significance of Anointing](../../questions/Significance_of_Anointing.md)
 
 ## Question [Significance of Anointing](../../questions/Significance_of_Anointing.md)
 What is the significance of anointing in the context of Old Testament priests, kings, and prophets?
@@ -23,7 +23,11 @@ For prophets, anointing with oil symbolized the commissioning by God to speak Hi
 Overall, anointing in the Old Testament represented God's presence, approval, and empowerment upon His chosen servants for their specific roles in fulfilling His purposes and plans.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Significance_of_Anointing_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Significance_of_Anointing_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Significance_of_Anointing_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Significance_of_Anointing_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Significance_of_Anointing_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

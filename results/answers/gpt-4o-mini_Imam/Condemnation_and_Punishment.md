@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Condemnation and Punishment](../../questions/Condemnation_and_Punishment.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Condemnation and Punishment](../../questions/Condemnation_and_Punishment.md)
 
 ## Question [Condemnation and Punishment](../../questions/Condemnation_and_Punishment.md)
 In what ways do the teachings in Matthew 12:7 and Psalms 34:22 shape our perspective on punishment as a form of condemnation?
@@ -23,7 +23,11 @@ Both verses shape our perspective about punishment by encouraging us to see it n
 In conclusion, the teachings from both Matthew and Psalms invite us to foster a mindset that leans heavily on mercy, compassion, and the possibility of redemption, consistent with broader Islamic teachings that prioritize these values in interactions and responses to transgressions.
 
 ## Average Grade
-70.0
+67.0
 
 ## Grades
  * [70.0](./Condemnation_and_Punishment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [60.0](./Condemnation_and_Punishment_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Condemnation_and_Punishment_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Condemnation_and_Punishment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Condemnation_and_Punishment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

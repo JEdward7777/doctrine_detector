@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Trust in God 2](../../questions/Trust_in_God_2.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Trust in God 2](../../questions/Trust_in_God_2.md)
 
 ## Question [Trust in God 2](../../questions/Trust_in_God_2.md)
 What does it mean to trust in Jesus according to Christian teachings?
@@ -26,7 +26,11 @@ In Christian theology, trusting in Jesus involves several key elements:
 It's important to note that Christians believe that this trust in Jesus is not just intellectual assent but a personal, heartfelt commitment that transforms their lives and shapes their actions. As Muslims, we have a different understanding of Jesus (peace be upon him) and his role in God's plan, but it is essential to respect and acknowledge the sincerity and devotion of our Christian brothers and sisters who put their trust in Him.
 
 ## Average Grade
-90.0
+87.0
 
 ## Grades
  * [90.0](./Trust_in_God_2_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Trust_in_God_2_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Trust_in_God_2_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Trust_in_God_2_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Trust_in_God_2_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

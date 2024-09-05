@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Scriptural Basis](../../questions/Scriptural_Basis.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Scriptural Basis](../../questions/Scriptural_Basis.md)
 
 ## Question [Scriptural Basis](../../questions/Scriptural_Basis.md)
 Which Bible verses support the concept of propitiation?
@@ -25,7 +25,11 @@ Propitiation refers to the act of appeasing God's wrath and satisfying His justi
 These verses emphasize the central role of Jesus Christ's sacrificial death on the cross as the ultimate propitiation for our sins, reconciling us to God and satisfying His righteous judgment against sin.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Scriptural_Basis_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Scriptural_Basis_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Scriptural_Basis_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Scriptural_Basis_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Scriptural_Basis_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

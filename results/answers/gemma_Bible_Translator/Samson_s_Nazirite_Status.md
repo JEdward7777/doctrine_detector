@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Samson's Nazirite Status](../../questions/Samson_s_Nazirite_Status.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Samson's Nazirite Status](../../questions/Samson_s_Nazirite_Status.md)
 
 ## Question [Samson's Nazirite Status](../../questions/Samson_s_Nazirite_Status.md)
 How does Samson's story illustrate the implications of the Nazirite vow as outlined in the Bible?

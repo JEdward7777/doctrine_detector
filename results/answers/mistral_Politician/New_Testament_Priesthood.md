@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Politician](../../answering_models/mistral_Politician.md) answer to [New Testament Priesthood](../../questions/New_Testament_Priesthood.md)
+# Generated Answer from [mistral Politician](../../answering_models/mistral_Politician.md) for [New Testament Priesthood](../../questions/New_Testament_Priesthood.md)
 
 ## Question [New Testament Priesthood](../../questions/New_Testament_Priesthood.md)
 What does it mean for every believer in Jesus to be considered a priest in the New Testament?
@@ -21,7 +21,11 @@ However, it's important to note that the role of a priest in the New Testament i
 In conclusion, while every believer in Jesus may have a spiritual priesthood within themselves, this does not mean they are equivalent to a priest in a formal, institutional sense. It's always essential to approach religious texts with sensitivity and respect for their historical and cultural contexts.
 
 ## Average Grade
-90.0
+89.0
 
 ## Grades
  * [90.0](./New_Testament_Priesthood_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./New_Testament_Priesthood_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./New_Testament_Priesthood_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./New_Testament_Priesthood_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./New_Testament_Priesthood_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

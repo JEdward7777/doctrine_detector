@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Kingdom of God](../../questions/Kingdom_of_God.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Kingdom of God](../../questions/Kingdom_of_God.md)
 
 ## Question [Kingdom of God](../../questions/Kingdom_of_God.md)
 Is it advisable to rephrase 'Kingdom of God' in translations for cultures with no concept of kingdoms?
@@ -31,7 +31,11 @@ Ultimately, the goal of Bible translation is to convey the truth and message of 
 In conclusion, while it may not be advisable to directly translate "Kingdom of God" in all cultures without kingdoms, we can use equivalent concepts or phrases that convey the essence of God's reign and rule over creation. This will enable readers from diverse cultural backgrounds to grasp the core message of the gospel and respond to Jesus' invitation to enter into God's domain.
 
 ## Average Grade
-75.0
+83.0
 
 ## Grades
  * [75.0](./Kingdom_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Kingdom_of_God_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Kingdom_of_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Kingdom_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Kingdom_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

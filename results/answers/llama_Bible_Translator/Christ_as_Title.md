@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Christ as Title](../../questions/Christ_as_Title.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Christ as Title](../../questions/Christ_as_Title.md)
 
 ## Question [Christ as Title](../../questions/Christ_as_Title.md)
 How has the term 'Christ' evolved in its usage throughout the New Testament?
@@ -25,7 +25,11 @@ The term "Christ" (Greek: Χριστός, Christos) has indeed undergone signifi
 Throughout the New Testament, then, the term "Christ" evolves from emphasizing Jesus' role as the Messiah (Old Testament expectation) to highlighting his divine nature and salvific work (early Christian proclamation). By the time of the later epistles, Christ has become a comprehensive title that summarizes the entire gospel message.
 
 ## Average Grade
-85.0
+90.4
 
 ## Grades
  * [85.0](./Christ_as_Title_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Christ_as_Title_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Christ_as_Title_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Christ_as_Title_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [92.0](./Christ_as_Title_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma atheist](../../answering_models/gemma_atheist.md) answer to [Usage in Scripture](../../questions/Usage_in_Scripture.md)
+# Generated Answer from [gemma atheist](../../answering_models/gemma_atheist.md) for [Usage in Scripture](../../questions/Usage_in_Scripture.md)
 
 ## Question [Usage in Scripture](../../questions/Usage_in_Scripture.md)
 In which contexts is the term 'Holy One' used in the Old and New Testaments?
@@ -33,7 +33,11 @@ Exploring the authority and divinity of Jesus as seen in the New Testament.
 * Contextual awareness and sensitivity are crucial when discussing religious concepts to ensure respectful and inclusive communication.
 
 ## Average Grade
-90.0
+84.0
 
 ## Grades
  * [90.0](./Usage_in_Scripture_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Usage_in_Scripture_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Usage_in_Scripture_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Usage_in_Scripture_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Usage_in_Scripture_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [High Priest Access](../../questions/High_Priest_Access.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [High Priest Access](../../questions/High_Priest_Access.md)
 
 ## Question [High Priest Access](../../questions/High_Priest_Access.md)
 Who was allowed to approach the ark of the covenant and under what circumstances?
@@ -27,7 +27,11 @@ It is also worth noting that the Ark was not just any ordinary vessel; it was a 
 In summary, my brother, according to Islamic understanding, only righteous believers who had faith in Allah and His messenger Noah were allowed to approach and enter the Ark of the Covenant under the circumstances described in the Quran.
 
 ## Average Grade
-50.0
+52.0
 
 ## Grades
  * [50.0](./High_Priest_Access_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [60.0](./High_Priest_Access_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [50.0](./High_Priest_Access_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./High_Priest_Access_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [40.0](./High_Priest_Access_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

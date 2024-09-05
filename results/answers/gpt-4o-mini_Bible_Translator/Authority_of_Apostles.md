@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) answer to [Authority of Apostles](../../questions/Authority_of_Apostles.md)
+# Generated Answer from [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) for [Authority of Apostles](../../questions/Authority_of_Apostles.md)
 
 ## Question [Authority of Apostles](../../questions/Authority_of_Apostles.md)
 How does the authority of the apostles relate to their ability to perform miracles and preach boldly?
@@ -25,7 +25,11 @@ The authority of the apostles is intrinsically linked to their commissioning by 
 In summary, the authority of the apostles is not merely a matter of title but is deeply rooted in their divine commissioning and empowerment. This authority manifested in their ability to perform miracles and preach with boldness, effectively carrying out the mission given to them by Christ. This relationship indicates that their work and the accompanying signs were meant to foster faith in Christ and establish the early Church.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Authority_of_Apostles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Authority_of_Apostles_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Authority_of_Apostles_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Authority_of_Apostles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Authority_of_Apostles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

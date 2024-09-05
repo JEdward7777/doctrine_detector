@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Spiritual Authority](../../questions/Spiritual_Authority.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Spiritual Authority](../../questions/Spiritual_Authority.md)
 
 ## Question [Spiritual Authority](../../questions/Spiritual_Authority.md)
 How do spiritual authorities differ from earthly authorities according to Biblical teaching?
@@ -36,7 +36,11 @@ In our shared Abrahamic faith, recognizing the distinction between spiritual and
 I hope this answer has provided some insight into the Biblical teaching on this topic. If you have any further questions or would like me to elaborate on Islamic perspectives, please feel free to ask!
 
 ## Average Grade
-95.0
+89.0
 
 ## Grades
  * [95.0](./Spiritual_Authority_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Spiritual_Authority_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Spiritual_Authority_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Spiritual_Authority_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Spiritual_Authority_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

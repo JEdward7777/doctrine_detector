@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Examples of Jesus' Miracles](../../questions/Examples_of_Jesus__Miracles.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Examples of Jesus' Miracles](../../questions/Examples_of_Jesus__Miracles.md)
 
 ## Question [Examples of Jesus' Miracles](../../questions/Examples_of_Jesus__Miracles.md)
 Can you list some specific miracles performed by Jesus and their significance?

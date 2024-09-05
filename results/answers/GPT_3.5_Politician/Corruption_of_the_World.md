@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) answer to [Corruption of the World](../../questions/Corruption_of_the_World.md)
+# Generated Answer from [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) for [Corruption of the World](../../questions/Corruption_of_the_World.md)
 
 ## Question [Corruption of the World](../../questions/Corruption_of_the_World.md)
 In what ways can Christians identify corrupt influences in the world around them?
@@ -19,7 +19,11 @@ One approach to identifying corrupt influences in the world around us is to prom
 It is important to emphasize the importance of respecting diverse perspectives and engaging in thoughtful discussions to address corruption collectively. By promoting a culture of inclusivity and respect, individuals can work together to identify and combat corrupt influences in a way that is sensitive to various beliefs and viewpoints.
 
 ## Average Grade
-75.0
+72.0
 
 ## Grades
  * [75.0](./Corruption_of_the_World_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [60.0](./Corruption_of_the_World_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [75.0](./Corruption_of_the_World_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Corruption_of_the_World_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Corruption_of_the_World_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

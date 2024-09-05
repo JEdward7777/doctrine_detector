@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Tempting God](../../questions/Tempting_God.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Tempting God](../../questions/Tempting_God.md)
 
 ## Question [Tempting God](../../questions/Tempting_God.md)
 What does it mean to 'tempt God' and how can this behavior lead to consequences according to Biblical teaching?

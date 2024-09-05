@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Return from Exile](../../questions/Return_from_Exile.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Return from Exile](../../questions/Return_from_Exile.md)
 
 ## Question [Return from Exile](../../questions/Return_from_Exile.md)
 What does the return of the Jews from Babylon signify in the context of God's promises?
@@ -19,7 +19,11 @@ By allowing the Jews to return to their homeland, God showed His mercy and grace
 In the broader theological context, the return of the Jews from Babylon serves as a reminder of God's sovereignty, faithfulness, and love for His people. It shows that even in times of exile and hardship, God remains true to His promises and works out His purposes for His glory and the good of those who trust in Him.
 
 ## Average Grade
-95.0
+91.0
 
 ## Grades
  * [95.0](./Return_from_Exile_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Return_from_Exile_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Return_from_Exile_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Return_from_Exile_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Return_from_Exile_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

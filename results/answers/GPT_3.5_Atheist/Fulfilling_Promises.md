@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Fulfilling Promises](../../questions/Fulfilling_Promises.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Fulfilling Promises](../../questions/Fulfilling_Promises.md)
 
 ## Question [Fulfilling Promises](../../questions/Fulfilling_Promises.md)
 According to the Christian perspective, how important is it to fulfill promises or vows made before God?
@@ -21,7 +21,11 @@ Therefore, Christians are encouraged to be honest and faithful in their commitme
 Ultimately, keeping promises and vows made before God is seen as a crucial aspect of demonstrating one's faith and devotion in Christianity.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Fulfilling_Promises_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Fulfilling_Promises_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Fulfilling_Promises_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Fulfilling_Promises_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Fulfilling_Promises_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

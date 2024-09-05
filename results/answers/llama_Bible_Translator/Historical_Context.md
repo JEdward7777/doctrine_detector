@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Historical Context](../../questions/Historical_Context.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Historical Context](../../questions/Historical_Context.md)
 
 ## Question [Historical Context](../../questions/Historical_Context.md)
 What biblical events illustrate the concept of 'remnant' as seen in Isaiah and Amos?
@@ -25,7 +25,11 @@ Some key biblical events that illustrate this concept include:
 These biblical events demonstrate that throughout Israel's history, God has preserved a remnant of faithful people, even when the majority has turned away from Him. This concept is also applicable to the Church today, as believers continue to face challenges and temptations, but remain committed to their faith in Jesus Christ.
 
 ## Average Grade
-90.0
+89.0
 
 ## Grades
  * [90.0](./Historical_Context_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Historical_Context_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Historical_Context_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Historical_Context_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Historical_Context_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

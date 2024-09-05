@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Faith and Promise](../../questions/Faith_and_Promise.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Faith and Promise](../../questions/Faith_and_Promise.md)
 
 ## Question [Faith and Promise](../../questions/Faith_and_Promise.md)
 What role does faith play in receiving and trusting the promises of God, as seen in the example of Abram's belief?
@@ -32,7 +32,11 @@ So, what can we learn from Abram's example?
 May we, like Abram, trust God's promises and walk by faith, not by sight (2 Corinthians 5:7).
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Faith_and_Promise_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Faith_and_Promise_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Faith_and_Promise_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Faith_and_Promise_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Faith_and_Promise_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

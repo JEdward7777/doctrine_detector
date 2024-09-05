@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [Ark of the Covenant](../../questions/Ark_of_the_Covenant.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [Ark of the Covenant](../../questions/Ark_of_the_Covenant.md)
 
 ## Question [Ark of the Covenant](../../questions/Ark_of_the_Covenant.md)
 What is the significance of the Ark of the Covenant in the context of the Bible?
@@ -29,7 +29,11 @@ The Ark of the Covenant holds significant theological and cultural importance in
 Overall, the Ark of the Covenant serves as a multifaceted emblem of divine presence, law, guidance, worship, and national identity for the Israelites, making it a cornerstone of biblical narrative and theology. Its rich symbolism continues to resonate in religious and cultural discussions today.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Ark_of_the_Covenant_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Ark_of_the_Covenant_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Ark_of_the_Covenant_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Ark_of_the_Covenant_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Ark_of_the_Covenant_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

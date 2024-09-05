@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Types of Love](../../questions/Types_of_Love.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Types of Love](../../questions/Types_of_Love.md)
 
 ## Question [Types of Love](../../questions/Types_of_Love.md)
 How do different forms of love, such as brotherly love and romantic love, fit into the biblical definition of love?
@@ -23,7 +23,11 @@ Romantic love (eros) is a type of love that involves passion, attraction, and de
 Overall, all forms of love can be understood within the biblical definition of love as expressed through agape love. Christians are called to love one another in all relationships, whether it be brotherly love, romantic love, or any other form, with a selfless and sacrificial love that reflects the love of God.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Types_of_Love_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Types_of_Love_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Types_of_Love_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Types_of_Love_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Types_of_Love_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

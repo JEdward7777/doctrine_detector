@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Politician](../../answering_models/gemma_Politician.md) answer to [New Covenant Significance](../../questions/New_Covenant_Significance.md)
+# Generated Answer from [gemma Politician](../../answering_models/gemma_Politician.md) for [New Covenant Significance](../../questions/New_Covenant_Significance.md)
 
 ## Question [New Covenant Significance](../../questions/New_Covenant_Significance.md)
 What is the significance of the new covenant established through Jesus?
@@ -40,7 +40,11 @@ The significance of the new covenant established through Jesus is a complex and 
 * **Engage in informed and respectful discussions:** Base your remarks on accurate information and avoid making speculative or controversial claims.
 
 ## Average Grade
-90.0
+89.0
 
 ## Grades
  * [90.0](./New_Covenant_Significance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./New_Covenant_Significance_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./New_Covenant_Significance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./New_Covenant_Significance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./New_Covenant_Significance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

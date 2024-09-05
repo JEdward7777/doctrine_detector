@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Significance of Pentecost](../../questions/Significance_of_Pentecost.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Significance of Pentecost](../../questions/Significance_of_Pentecost.md)
 
 ## Question [Significance of Pentecost](../../questions/Significance_of_Pentecost.md)
 Why is the Day of Pentecost considered especially significant in the New Testament?
@@ -19,7 +19,11 @@ On the Day of Pentecost, the Holy Spirit came upon the disciples in a powerful w
 The Day of Pentecost also symbolizes the birth of the Christian church as a community of believers who are united by faith in Christ and empowered by the Holy Spirit to spread the message of salvation to the ends of the earth. It serves as a reminder of the importance of the Holy Spirit in the life of the believer and the work of the church in the world.
 
 ## Average Grade
-95.0
+91.0
 
 ## Grades
  * [95.0](./Significance_of_Pentecost_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Significance_of_Pentecost_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Significance_of_Pentecost_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Significance_of_Pentecost_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Significance_of_Pentecost_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

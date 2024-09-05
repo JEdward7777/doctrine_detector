@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Understanding Forgiveness](../../questions/Understanding_Forgiveness.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Understanding Forgiveness](../../questions/Understanding_Forgiveness.md)
 
 ## Question [Understanding Forgiveness](../../questions/Understanding_Forgiveness.md)
 What does it mean to forgive someone according to Christian teaching?
@@ -27,7 +27,11 @@ But I think you'll agree that forgiveness can be incredibly liberating and trans
 Now, I hope this gives you a sense of what Christian teaching says about forgiveness. But please know that there are many different perspectives on this topic within Christianity, and I'm happy to listen to and learn from others' experiences and insights as well.
 
 ## Average Grade
-90.0
+88.0
 
 ## Grades
  * [90.0](./Understanding_Forgiveness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Understanding_Forgiveness_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Understanding_Forgiveness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Understanding_Forgiveness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_Forgiveness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

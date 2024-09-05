@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Son of God](../../questions/Son_of_God.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Son of God](../../questions/Son_of_God.md)
 
 ## Question [Son of God](../../questions/Son_of_God.md)
 What distinguishes the title 'Son of God' as it refers to Jesus from the term 'sons of God' used for believers?
@@ -21,7 +21,11 @@ On the other hand, the term "sons of God" when used for believers in Islamic bel
 It is important to note that the Islamic perspective emphasizes the oneness of God (Tawhid) and rejects the concept of a literal biological offspring or progeny of God. Muslims believe that God does not beget nor is He begotten, and there is nothing comparable to Him.
 
 ## Average Grade
-85.0
+87.0
 
 ## Grades
  * [85.0](./Son_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Son_of_God_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Son_of_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Son_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Son_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

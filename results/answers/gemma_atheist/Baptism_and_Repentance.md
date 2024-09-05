@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma atheist](../../answering_models/gemma_atheist.md) answer to [Baptism and Repentance](../../questions/Baptism_and_Repentance.md)
+# Generated Answer from [gemma atheist](../../answering_models/gemma_atheist.md) for [Baptism and Repentance](../../questions/Baptism_and_Repentance.md)
 
 ## Question [Baptism and Repentance](../../questions/Baptism_and_Repentance.md)
 How is repentance related to the act of baptism as presented in the New Testament?
@@ -41,7 +41,11 @@ The association between repentance and baptism as presented in the New Testament
 The association between repentance and baptism in the New Testament is a complex and nuanced issue, influenced by both theological beliefs and cultural practices. Recognizing the cultural context and potential multiple interpretations allows for a more nuanced and inclusive understanding of this ritual.
 
 ## Average Grade
-70.0
+51.0
 
 ## Grades
  * [70.0](./Baptism_and_Repentance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [65.0](./Baptism_and_Repentance_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [40.0](./Baptism_and_Repentance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [40.0](./Baptism_and_Repentance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [40.0](./Baptism_and_Repentance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

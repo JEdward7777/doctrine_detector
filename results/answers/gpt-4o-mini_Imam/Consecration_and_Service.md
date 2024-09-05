@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Consecration and Service](../../questions/Consecration_and_Service.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Consecration and Service](../../questions/Consecration_and_Service.md)
 
 ## Question [Consecration and Service](../../questions/Consecration_and_Service.md)
 How does the act of consecration prepare individuals or things for God's service?
@@ -31,7 +31,11 @@ In Islam, the act of consecration, or what may be referred to as "tah­sin" or "
 In summary, the act of consecration in Islam is a multifaceted process that prepares individuals and things for divine service by instilling intention, promoting purification, enhancing awareness of faith, and fostering a community spirit. It is an essential aspect of living a life that is dedicated to fulfilling the commands of Allah and nurturing one's spiritual growth.
 
 ## Average Grade
-95.0
+90.0
 
 ## Grades
  * [95.0](./Consecration_and_Service_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Consecration_and_Service_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Consecration_and_Service_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Consecration_and_Service_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Consecration_and_Service_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Significance of Names](../../questions/Significance_of_Names.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Significance of Names](../../questions/Significance_of_Names.md)
 
 ## Question [Significance of Names](../../questions/Significance_of_Names.md)
 Why is it significant that 'Shaddai' is often translated as a title rather than a name in Bible translations?

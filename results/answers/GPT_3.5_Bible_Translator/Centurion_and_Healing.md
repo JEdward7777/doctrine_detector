@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Centurion and Healing](../../questions/Centurion_and_Healing.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Centurion and Healing](../../questions/Centurion_and_Healing.md)
 
 ## Question [Centurion and Healing](../../questions/Centurion_and_Healing.md)
 What does the interaction between the centurion and Jesus reveal about faith and authority?
@@ -21,7 +21,11 @@ Secondly, the interaction reveals the authority of Jesus. Jesus marvels at the c
 Overall, the interaction between the centurion and Jesus underscores the importance of faith in recognizing the authority of Jesus. It teaches us that true faith involves acknowledging Jesus' authority and power, and trusting in him to work miracles in our lives.
 
 ## Average Grade
-95.0
+92.4
 
 ## Grades
  * [95.0](./Centurion_and_Healing_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Centurion_and_Healing_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Centurion_and_Healing_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [92.0](./Centurion_and_Healing_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Centurion_and_Healing_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

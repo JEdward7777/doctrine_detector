@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Understanding Birthright](../../questions/Understanding_Birthright.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Understanding Birthright](../../questions/Understanding_Birthright.md)
 
 ## Question [Understanding Birthright](../../questions/Understanding_Birthright.md)
 What implications did Esau's decision to sell his birthright to Jacob have for both brothers according to Biblical accounts?
@@ -19,7 +19,11 @@ In the story of Prophet Jacob and Prophet Esau, their relationship is tested by 
 It is important to remember that Islam values the concept of repentance and forgiveness, and encourages individuals to seek reconciliation and make amends for any wrongdoings. In the case of Prophet Esau selling his birthright to Prophet Jacob, it serves as a reminder of the consequences of envy and deceit, as well as the significance of humility, forgiveness, and reconciliation in maintaining healthy family relationships.
 
 ## Average Grade
-85.0
+81.0
 
 ## Grades
  * [85.0](./Understanding_Birthright_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Understanding_Birthright_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Understanding_Birthright_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Understanding_Birthright_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Understanding_Birthright_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Nature of the Soul](../../questions/Nature_of_the_Soul.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Nature of the Soul](../../questions/Nature_of_the_Soul.md)
 
 ## Question [Nature of the Soul](../../questions/Nature_of_the_Soul.md)
 How does the Bible differentiate between the concepts of 'soul' and 'spirit'?

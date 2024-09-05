@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Confession of Sins](../../questions/Confession_of_Sins.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Confession of Sins](../../questions/Confession_of_Sins.md)
 
 ## Question [Confession of Sins](../../questions/Confession_of_Sins.md)
 What should a Christian do when tempted to sin according to the Bible?

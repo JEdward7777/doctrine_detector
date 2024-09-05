@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) answer to [Understanding Birthright](../../questions/Understanding_Birthright.md)
+# Generated Answer from [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) for [Understanding Birthright](../../questions/Understanding_Birthright.md)
 
 ## Question [Understanding Birthright](../../questions/Understanding_Birthright.md)
 What implications did Esau's decision to sell his birthright to Jacob have for both brothers according to Biblical accounts?
@@ -21,7 +21,11 @@ For Jacob, this transaction symbolizes a strategic maneuver to gain favor and es
 Overall, the implications of this transaction go beyond mere sibling rivalry; they reflect broader themes of personal responsibility, the consequences of decision-making, and the intricate relationships within families. Additionally, these events set the stage for future narratives involving both brothers, leading to a complex interplay of rivalry, reconciliation, and the unfolding of God's plans for their descendants.
 
 ## Average Grade
-90.0
+88.0
 
 ## Grades
  * [90.0](./Understanding_Birthright_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Understanding_Birthright_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Understanding_Birthright_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Understanding_Birthright_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_Birthright_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Translation of Ark](../../questions/Translation_of_Ark.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Translation of Ark](../../questions/Translation_of_Ark.md)
 
 ## Question [Translation of Ark](../../questions/Translation_of_Ark.md)
 How does the term 'ark' vary in translation within different Biblical contexts?
@@ -21,7 +21,11 @@ Another well-known example is the "Ark of Noah," which is the massive ship descr
 Overall, the term "ark" is used in different Biblical contexts to refer to various types of containers or vessels that hold significant religious or symbolic importance within the stories of the Bible.
 
 ## Average Grade
-90.0
+87.0
 
 ## Grades
  * [90.0](./Translation_of_Ark_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Translation_of_Ark_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Translation_of_Ark_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Translation_of_Ark_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Translation_of_Ark_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

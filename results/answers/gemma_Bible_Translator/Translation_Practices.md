@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Translation Practices](../../questions/Translation_Practices.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Translation Practices](../../questions/Translation_Practices.md)
 
 ## Question [Translation Practices](../../questions/Translation_Practices.md)
 Why do many Bible translations use 'LORD' in place of 'Yahweh'?

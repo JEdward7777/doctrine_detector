@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) answer to [Biblical References 4](../../questions/Biblical_References_4.md)
+# Generated Answer from [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) for [Biblical References 4](../../questions/Biblical_References_4.md)
 
 ## Question [Biblical References 4](../../questions/Biblical_References_4.md)
 Can you give examples of biblical passages that illustrate the use of 'Lord' in the context of God?
@@ -29,7 +29,11 @@ In the New Testament (Greek Bible), the term "Kyrios" (Κύριος) is often us
 3. Acts 20:28 - "Take heed therefore unto yourselves, and to all the flock, over which the Holy Ghost hath made you overseers, to feed the church of God, which he hath purchased with his own blood."
 
 ## Average Grade
-90.0
+84.0
 
 ## Grades
  * [90.0](./Biblical_References_4_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Biblical_References_4_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Biblical_References_4_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Biblical_References_4_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Biblical_References_4_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

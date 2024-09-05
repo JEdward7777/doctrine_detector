@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) answer to [Inheritance and the Promise to Abraham](../../questions/Inheritance_and_the_Promise_to_Abraham.md)
+# Generated Answer from [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) for [Inheritance and the Promise to Abraham](../../questions/Inheritance_and_the_Promise_to_Abraham.md)
 
 ## Question [Inheritance and the Promise to Abraham](../../questions/Inheritance_and_the_Promise_to_Abraham.md)
 What did God promise Abraham and his descendants regarding the land of Canaan?
@@ -21,7 +21,11 @@ The fulfillment of this promise is detailed throughout the Old Testament, partic
 This is a brief overview of the promises made by God to Abraham and his descendants regarding the land of Canaan. It is important to note that this is just one aspect of the larger story of God's relationship with His people as told in the Bible, and there are many other themes and elements to be considered when studying this topic.
 
 ## Average Grade
-85.0
+88.0
 
 ## Grades
  * [85.0](./Inheritance_and_the_Promise_to_Abraham_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Inheritance_and_the_Promise_to_Abraham_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Inheritance_and_the_Promise_to_Abraham_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Inheritance_and_the_Promise_to_Abraham_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Inheritance_and_the_Promise_to_Abraham_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

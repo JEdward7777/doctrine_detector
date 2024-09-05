@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Sacrificial Love](../../questions/Sacrificial_Love.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Sacrificial Love](../../questions/Sacrificial_Love.md)
 
 ## Question [Sacrificial Love](../../questions/Sacrificial_Love.md)
 What does it mean to love others sacrificially as demonstrated by Jesus?
@@ -34,7 +34,11 @@ Understanding the essence of God's love and how that should reflect in our perso
 **Loving others sacrificially is an ongoing journey.** It requires conscious effort, patience, and humility. By following the example of Jesus and other Muslims who have loved others sacrificially, we can cultivate a deeper and more meaningful connection to our community and the world.
 
 ## Average Grade
-70.0
+81.0
 
 ## Grades
  * [70.0](./Sacrificial_Love_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Sacrificial_Love_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Sacrificial_Love_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Sacrificial_Love_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Sacrificial_Love_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

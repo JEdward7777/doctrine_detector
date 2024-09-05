@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Biblical Examples of Repentance](../../questions/Biblical_Examples_of_Repentance.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Biblical Examples of Repentance](../../questions/Biblical_Examples_of_Repentance.md)
 
 ## Question [Biblical Examples of Repentance](../../questions/Biblical_Examples_of_Repentance.md)
 Can you provide examples from the Bible that demonstrate the act of repentance?
@@ -19,7 +19,11 @@ Another example is the story of the prodigal son in the New Testament. In the pa
 These examples show how individuals in the Bible acknowledged their sins, expressed remorse, and sought forgiveness, highlighting the importance of repentance in the Judeo-Christian tradition.
 
 ## Average Grade
-90.0
+88.0
 
 ## Grades
  * [90.0](./Biblical_Examples_of_Repentance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Biblical_Examples_of_Repentance_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Biblical_Examples_of_Repentance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Biblical_Examples_of_Repentance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Biblical_Examples_of_Repentance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

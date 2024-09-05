@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Understanding the Trinity](../../questions/Understanding_the_Trinity.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Understanding the Trinity](../../questions/Understanding_the_Trinity.md)
 
 ## Question [Understanding the Trinity](../../questions/Understanding_the_Trinity.md)
 How can God exist as God the Father, God the Son, and God the Holy Spirit while being one God?
@@ -23,7 +23,11 @@ The Trinity can be further understood through the roles and relationships of the
 While the Trinity may be a mystery that is difficult for us to fully comprehend, it is a foundational belief in Christianity that is supported by the teachings of Scripture. Christians affirm the Trinity not as three separate Gods, but as one God in three persons, perfectly united in essence, will, and purpose.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Understanding_the_Trinity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Understanding_the_Trinity_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Understanding_the_Trinity_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Understanding_the_Trinity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_the_Trinity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

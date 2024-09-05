@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma atheist](../../answering_models/gemma_atheist.md) answer to [Role of Witnesses](../../questions/Role_of_Witnesses.md)
+# Generated Answer from [gemma atheist](../../answering_models/gemma_atheist.md) for [Role of Witnesses](../../questions/Role_of_Witnesses.md)
 
 ## Question [Role of Witnesses](../../questions/Role_of_Witnesses.md)
 What role do witnesses play in the New Testament regarding the life and resurrection of Jesus?
@@ -54,7 +54,11 @@ As an atheist scholar, I acknowledge the importance of understanding the cultura
 The witness statements in the New Testament provide valuable insights into the beliefs of early Christians and the cultural context of their time. However, they must be interpreted cautiously, considering the cultural biases and limitations of the historical record.
 
 ## Average Grade
-75.0
+70.0
 
 ## Grades
  * [75.0](./Role_of_Witnesses_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Role_of_Witnesses_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [65.0](./Role_of_Witnesses_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Role_of_Witnesses_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Role_of_Witnesses_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

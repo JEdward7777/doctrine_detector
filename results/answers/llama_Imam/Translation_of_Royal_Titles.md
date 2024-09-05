@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Translation of Royal Titles](../../questions/Translation_of_Royal_Titles.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Translation of Royal Titles](../../questions/Translation_of_Royal_Titles.md)
 
 ## Question [Translation of Royal Titles](../../questions/Translation_of_Royal_Titles.md)
 How can the phrase 'Your Majesty' be appropriately translated in different languages?
@@ -28,7 +28,11 @@ Remember that these translations might not be exact equivalents, as cultural and
 May Allah guide us in our endeavors to respect and honor those who hold positions of authority and leadership.
 
 ## Average Grade
-70.0
+79.0
 
 ## Grades
  * [70.0](./Translation_of_Royal_Titles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Translation_of_Royal_Titles_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Translation_of_Royal_Titles_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Translation_of_Royal_Titles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Translation_of_Royal_Titles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

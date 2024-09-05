@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Significance of Unleavened Bread](../../questions/Significance_of_Unleavened_Bread.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Significance of Unleavened Bread](../../questions/Significance_of_Unleavened_Bread.md)
 
 ## Question [Significance of Unleavened Bread](../../questions/Significance_of_Unleavened_Bread.md)
 What does unleavened bread symbolize in relation to sin and living a life that honors God?
@@ -21,7 +21,11 @@ This verse emphasizes the importance of charity, generosity, and good deeds in I
 Ultimately, the symbolism of bread in Islam centers around gratitude for Allah's blessings, sharing with others, and seeking purification of the soul through righteous deeds.
 
 ## Average Grade
-70.0
+76.0
 
 ## Grades
  * [70.0](./Significance_of_Unleavened_Bread_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Significance_of_Unleavened_Bread_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Significance_of_Unleavened_Bread_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Significance_of_Unleavened_Bread_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [70.0](./Significance_of_Unleavened_Bread_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

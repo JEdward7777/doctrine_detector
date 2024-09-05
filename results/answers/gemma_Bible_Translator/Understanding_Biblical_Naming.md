@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Understanding Biblical Naming](../../questions/Understanding_Biblical_Naming.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Understanding Biblical Naming](../../questions/Understanding_Biblical_Naming.md)
 
 ## Question [Understanding Biblical Naming](../../questions/Understanding_Biblical_Naming.md)
 What does it mean when the Bible states 'His name is called John' in the context of biblical naming?

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Translation of Saints](../../questions/Translation_of_Saints.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Translation of Saints](../../questions/Translation_of_Saints.md)
 
 ## Question [Translation of Saints](../../questions/Translation_of_Saints.md)
 What is a recommended way to translate the term 'saints'?

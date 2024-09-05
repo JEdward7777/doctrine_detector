@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Biblical Examples](../../questions/Biblical_Examples.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Biblical Examples](../../questions/Biblical_Examples.md)
 
 ## Question [Biblical Examples](../../questions/Biblical_Examples.md)
 Which biblical figures are cited as examples of being blameless, and what can we learn from their lives?
@@ -67,7 +67,11 @@ Mary is praised for her purity and unwavering faith. Her life exemplifies virtuo
 - A life of humility, compassion, and spiritual growth is a path towards becoming blameless.
 
 ## Average Grade
-60.0
+54.0
 
 ## Grades
  * [60.0](./Biblical_Examples_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [40.0](./Biblical_Examples_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [30.0](./Biblical_Examples_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Biblical_Examples_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Biblical_Examples_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

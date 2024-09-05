@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) answer to [Biblical References 7](../../questions/Biblical_References_7.md)
+# Generated Answer from [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) for [Biblical References 7](../../questions/Biblical_References_7.md)
 
 ## Question [Biblical References 7](../../questions/Biblical_References_7.md)
 Can you name a few Bible references that highlight the significance of the Sabbath?
@@ -25,7 +25,11 @@ Identifying scriptural backing for the Sabbath observance and its relevance in C
 These passages highlight the importance of the Sabbath as a part of God's covenant with Israel, as a reminder of God's deliverance from Egypt, and as a day set apart for rest, worship, and fellowship. They also show that the Sabbath was not exclusive to the people of Israel but extended to foreigners who chose to follow God and keep His commands.
 
 ## Average Grade
-95.0
+94.0
 
 ## Grades
  * [95.0](./Biblical_References_7_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Biblical_References_7_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Biblical_References_7_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Biblical_References_7_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Biblical_References_7_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

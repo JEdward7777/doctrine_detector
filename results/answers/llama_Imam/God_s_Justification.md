@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [God's Justification](../../questions/God_s_Justification.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [God's Justification](../../questions/God_s_Justification.md)
 
 ## Question [God's Justification](../../questions/God_s_Justification.md)
 How does God justify sinners and what does justification entail?
@@ -33,7 +33,11 @@ This verse highlights the importance of sincerity in seeking forgiveness. Allah'
 In conclusion, justification in Islam involves a process of acknowledging one's sin, seeking forgiveness, making amends when possible, purifying oneself through righteous deeds, and committing to ongoing efforts to follow Allah's commands. May Allah guide us all towards the path of righteousness and justification.
 
 ## Average Grade
-20.0
+23.0
 
 ## Grades
  * [20.0](./God_s_Justification_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [0.0](./God_s_Justification_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [25.0](./God_s_Justification_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [30.0](./God_s_Justification_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [40.0](./God_s_Justification_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

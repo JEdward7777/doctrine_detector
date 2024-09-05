@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Judgment and Resurrection](../../questions/Judgment_and_Resurrection.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Judgment and Resurrection](../../questions/Judgment_and_Resurrection.md)
 
 ## Question [Judgment and Resurrection](../../questions/Judgment_and_Resurrection.md)
 What events are associated with the 'day of Yahweh' or 'day of the Lord'?
@@ -28,7 +28,11 @@ In Islamic tradition, we understand these events to be part of a broader cosmic 
 As Muslims, we believe that the Day of Judgment is a singular event where every individual will be held accountable for their actions in this life. It is not a gradual or incremental process, but rather a sudden and catastrophic event that will bring an end to human history as we know it.
 
 ## Average Grade
-85.0
+78.0
 
 ## Grades
  * [85.0](./Judgment_and_Resurrection_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Judgment_and_Resurrection_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Judgment_and_Resurrection_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Judgment_and_Resurrection_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Judgment_and_Resurrection_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

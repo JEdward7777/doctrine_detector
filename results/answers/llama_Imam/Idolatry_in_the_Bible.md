@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Idolatry in the Bible](../../questions/Idolatry_in_the_Bible.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Idolatry in the Bible](../../questions/Idolatry_in_the_Bible.md)
 
 ## Question [Idolatry in the Bible](../../questions/Idolatry_in_the_Bible.md)
 How does the Bible illustrate the consequences of idolatry among God's people?
@@ -30,7 +30,11 @@ In each of these examples, the Bible illustrates that idolatry is a serious offe
 As Muslims, we understand that idolatry is a grave sin in Islam as well (Qur'an 31:1-5). We believe that Allah (God) is the One True God, and that any attempt to worship or honor other gods is an affront to His unity and oneness.
 
 ## Average Grade
-90.0
+91.0
 
 ## Grades
  * [90.0](./Idolatry_in_the_Bible_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Idolatry_in_the_Bible_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Idolatry_in_the_Bible_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Idolatry_in_the_Bible_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Idolatry_in_the_Bible_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

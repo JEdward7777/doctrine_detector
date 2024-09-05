@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Definition and Translation](../../questions/Definition_and_Translation.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Definition and Translation](../../questions/Definition_and_Translation.md)
 
 ## Question [Definition and Translation](../../questions/Definition_and_Translation.md)
 What are some alternative translations for the term 'intercede' as used in Scripture?
@@ -27,7 +27,11 @@ To help clarify the meaning and application of intercession in different context
 * **"He intercedes for his believing servants."** (Muslim) - Here, 'intercede' refers to advocating for the believers before Allah.
 
 ## Average Grade
-85.0
+84.0
 
 ## Grades
  * [85.0](./Definition_and_Translation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Definition_and_Translation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Definition_and_Translation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Definition_and_Translation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Definition_and_Translation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

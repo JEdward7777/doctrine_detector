@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Understanding Shaddai](../../questions/Understanding_Shaddai.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Understanding Shaddai](../../questions/Understanding_Shaddai.md)
 
 ## Question [Understanding Shaddai](../../questions/Understanding_Shaddai.md)
 What is the meaning of the Hebrew term 'Shaddai' and how is it used in the context of the Old Testament?

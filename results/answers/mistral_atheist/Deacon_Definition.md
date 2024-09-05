@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral atheist](../../answering_models/mistral_atheist.md) answer to [Deacon Definition](../../questions/Deacon_Definition.md)
+# Generated Answer from [mistral atheist](../../answering_models/mistral_atheist.md) for [Deacon Definition](../../questions/Deacon_Definition.md)
 
 ## Question [Deacon Definition](../../questions/Deacon_Definition.md)
 What is the primary role of a deacon in the local church?
@@ -29,7 +29,11 @@ Understanding the biblical role of servanthood in the church.
 It's essential to note that the specific roles and responsibilities of deacons can vary greatly depending on the denomination and local context. In some churches, deacons may hold more significant positions of authority, while in others their role is primarily one of service.
 
 ## Average Grade
-85.0
+78.0
 
 ## Grades
  * [85.0](./Deacon_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Deacon_Definition_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Deacon_Definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Deacon_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Deacon_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

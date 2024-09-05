@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Role of the Holy Spirit in Creation](../../questions/Role_of_the_Holy_Spirit_in_Creation.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Role of the Holy Spirit in Creation](../../questions/Role_of_the_Holy_Spirit_in_Creation.md)
 
 ## Question [Role of the Holy Spirit in Creation](../../questions/Role_of_the_Holy_Spirit_in_Creation.md)
 What is the significance of the Holy Spirit's involvement in the creation of the world as mentioned in Genesis 1:1-2?
@@ -23,7 +23,11 @@ The Holy Spirit's involvement in creation also highlights the ongoing work of th
 Overall, the Holy Spirit's involvement in creation in Genesis 1:1-2 underscores the vital role of the Spirit in bringing about God's purposes in the world and in our lives.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Role_of_the_Holy_Spirit_in_Creation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Role_of_the_Holy_Spirit_in_Creation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Role_of_the_Holy_Spirit_in_Creation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Role_of_the_Holy_Spirit_in_Creation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Role_of_the_Holy_Spirit_in_Creation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

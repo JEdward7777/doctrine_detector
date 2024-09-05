@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) answer to [The Role of Believers in Glory](../../questions/The_Role_of_Believers_in_Glory.md)
+# Generated Answer from [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) for [The Role of Believers in Glory](../../questions/The_Role_of_Believers_in_Glory.md)
 
 ## Question [The Role of Believers in Glory](../../questions/The_Role_of_Believers_in_Glory.md)
 What does it mean for believers to be glorified with Christ according to the New Testament?
@@ -27,7 +27,11 @@ In the New Testament, the concept of believers being glorified with Christ encom
 In essence, the glorification of believers with Christ reflects a comprehensive understanding of salvation that encompasses past, present, and future realities, celebrating the hope and transformation that come through faith in Him.
 
 ## Average Grade
-90.0
+88.0
 
 ## Grades
  * [90.0](./The_Role_of_Believers_in_Glory_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./The_Role_of_Believers_in_Glory_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./The_Role_of_Believers_in_Glory_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./The_Role_of_Believers_in_Glory_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [70.0](./The_Role_of_Believers_in_Glory_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

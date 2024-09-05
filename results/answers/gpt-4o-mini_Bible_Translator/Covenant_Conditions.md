@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) answer to [Covenant Conditions](../../questions/Covenant_Conditions.md)
+# Generated Answer from [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) for [Covenant Conditions](../../questions/Covenant_Conditions.md)
 
 ## Question [Covenant Conditions](../../questions/Covenant_Conditions.md)
 What are some examples of conditional and unconditional covenants in the Bible?
@@ -33,7 +33,11 @@ In the Bible, covenants are significant agreements made between God and humans, 
 These covenants illustrate the diverse ways in which God relates to humanity, emphasizing both His justice and mercy throughout biblical history.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Covenant_Conditions_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Covenant_Conditions_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Covenant_Conditions_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Covenant_Conditions_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Covenant_Conditions_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Biblical Examples of Innocence](../../questions/Biblical_Examples_of_Innocence.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Biblical Examples of Innocence](../../questions/Biblical_Examples_of_Innocence.md)
 
 ## Question [Biblical Examples of Innocence](../../questions/Biblical_Examples_of_Innocence.md)
 Can you provide examples from Scripture that illustrate the idea of innocence, particularly concerning Jesus and his accusers?
@@ -19,7 +19,11 @@ Another example is when Jesus was brought before the high priest and Sanhedrin f
 These examples highlight the theme of innocence in the biblical narrative, particularly in the unjust treatment of Jesus by his accusers. They serve as a powerful reminder of the importance of seeking justice and fairness in all interactions, even in the face of opposition and false accusations.
 
 ## Average Grade
-90.0
+88.0
 
 ## Grades
  * [90.0](./Biblical_Examples_of_Innocence_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Biblical_Examples_of_Innocence_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Biblical_Examples_of_Innocence_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Biblical_Examples_of_Innocence_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Biblical_Examples_of_Innocence_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

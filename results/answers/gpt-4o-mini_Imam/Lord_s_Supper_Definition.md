@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Lord’s Supper Definition](../../questions/Lord_s_Supper_Definition.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Lord’s Supper Definition](../../questions/Lord_s_Supper_Definition.md)
 
 ## Question [Lord’s Supper Definition](../../questions/Lord_s_Supper_Definition.md)
 What significant event does the Lord’s Supper commemorate?
@@ -17,7 +17,11 @@ The Lord's Supper, known as the Eucharist or Communion in Christian traditions, 
 While this event is primarily a Christian belief, in the context of Islam, we recognize and respect the importance of Jesus (Isa) as a prophet and messenger of God. However, our understanding of the events surrounding Jesus' life, including the Last Supper, differs significantly from Christian narratives. In Islam, we honor Jesus as a servant of God and a significant figure but do not attribute the same theological meanings to these events as Christians do.
 
 ## Average Grade
-70.0
+74.0
 
 ## Grades
  * [70.0](./Lord_s_Supper_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Lord_s_Supper_Definition_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Lord_s_Supper_Definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Lord_s_Supper_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Lord_s_Supper_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

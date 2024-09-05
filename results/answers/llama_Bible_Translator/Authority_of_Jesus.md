@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Authority of Jesus](../../questions/Authority_of_Jesus.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Authority of Jesus](../../questions/Authority_of_Jesus.md)
 
 ## Question [Authority of Jesus](../../questions/Authority_of_Jesus.md)
 In what ways does the title 'King of the Jews' illustrate Jesus' authority over all creation?
@@ -26,7 +26,11 @@ The title "King of the Jews" (John 18:39; Matthew 2:2) not only reveals Jesus' a
 In summary, the title "King of the Jews" illustrates Jesus' authority over all creation by emphasizing His royal lineage, universal scope, divine authority, redemptive work, supernatural power, and eschatological significance.
 
 ## Average Grade
-90.0
+94.0
 
 ## Grades
  * [90.0](./Authority_of_Jesus_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Authority_of_Jesus_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Authority_of_Jesus_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Authority_of_Jesus_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Authority_of_Jesus_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Understanding Bonds](../../questions/Understanding_Bonds.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Understanding Bonds](../../questions/Understanding_Bonds.md)
 
 ## Question [Understanding Bonds](../../questions/Understanding_Bonds.md)
 How does the Biblical concept of 'bonds' relate to our spiritual obligations and our relationship with God?
@@ -25,7 +25,11 @@ Additionally, both traditions highlight a sense of community that arises from th
 Ultimately, the Biblical concept of 'bonds' and our understanding of spiritual obligations both call us to a deeper relationship with God. They remind us of our duties toward Him and one another, emphasizing the importance of faith, commitment, and community in our journey toward spiritual fulfillment.
 
 ## Average Grade
-85.0
+86.0
 
 ## Grades
  * [85.0](./Understanding_Bonds_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Understanding_Bonds_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Understanding_Bonds_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Understanding_Bonds_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_Bonds_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

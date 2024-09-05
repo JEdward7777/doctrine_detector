@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [Centurion at the Crucifixion](../../questions/Centurion_at_the_Crucifixion.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [Centurion at the Crucifixion](../../questions/Centurion_at_the_Crucifixion.md)
 
 ## Question [Centurion at the Crucifixion](../../questions/Centurion_at_the_Crucifixion.md)
 What significance does the reaction of the centurion at the crucifixion of Jesus have for Christians?
@@ -27,7 +27,11 @@ The reaction of the centurion at the crucifixion of Jesus, particularly as recor
 In summary, the centurion's reaction at the crucifixion serves to deepen the understanding of Jesus’ significance and the universal nature of his message, reinforcing themes of divinity, inclusivity, transformation, and faith within Christian theology.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Centurion_at_the_Crucifixion_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Centurion_at_the_Crucifixion_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Centurion_at_the_Crucifixion_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Centurion_at_the_Crucifixion_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Centurion_at_the_Crucifixion_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [God's Zeal](../../questions/God_s_Zeal.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [God's Zeal](../../questions/God_s_Zeal.md)
 
 ## Question [God's Zeal](../../questions/God_s_Zeal.md)
 How does the term 'zeal of the Lord' reflect God's actions towards His people?
@@ -21,7 +21,11 @@ On the other hand, the zeal of the Lord is also seen as a manifestation of God's
 Overall, the term "zeal of the Lord" reflects God's intense passion and commitment towards His people, both in judgment and in love, showing that God's actions are always motivated by His perfect and righteous character.
 
 ## Average Grade
-90.0
+89.0
 
 ## Grades
  * [90.0](./God_s_Zeal_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./God_s_Zeal_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./God_s_Zeal_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./God_s_Zeal_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./God_s_Zeal_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

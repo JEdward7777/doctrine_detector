@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma atheist](../../answering_models/gemma_atheist.md) answer to [Beloved in Scripture](../../questions/Beloved_in_Scripture.md)
+# Generated Answer from [gemma atheist](../../answering_models/gemma_atheist.md) for [Beloved in Scripture](../../questions/Beloved_in_Scripture.md)
 
 ## Question [Beloved in Scripture](../../questions/Beloved_in_Scripture.md)
 How is the term 'beloved' used in the New Testament letters to Christian churches?
@@ -38,7 +38,11 @@ Recognizing the importance of love and unity among Christians as reflected in bi
 * Consider the diverse perspectives and interpretations of the term "beloved" among different cultures and religious groups.
 
 ## Average Grade
-95.0
+90.0
 
 ## Grades
  * [95.0](./Beloved_in_Scripture_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Beloved_in_Scripture_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Beloved_in_Scripture_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Beloved_in_Scripture_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [70.0](./Beloved_in_Scripture_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

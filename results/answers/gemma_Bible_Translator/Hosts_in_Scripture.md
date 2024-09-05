@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Hosts in Scripture](../../questions/Hosts_in_Scripture.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Hosts in Scripture](../../questions/Hosts_in_Scripture.md)
 
 ## Question [Hosts in Scripture](../../questions/Hosts_in_Scripture.md)
 In what context is the term 'hosts' used in scripture, and what does it encompass?

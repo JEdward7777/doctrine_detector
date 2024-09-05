@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Dominion in Creation](../../questions/Dominion_in_Creation.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Dominion in Creation](../../questions/Dominion_in_Creation.md)
 
 ## Question [Dominion in Creation](../../questions/Dominion_in_Creation.md)
 What does the Bible teach about humanity's role in having dominion over the earth?
@@ -19,7 +19,11 @@ As stewards of God's creation, we are called to care for and preserve the earth 
 Ultimately, our role as stewards of the earth is a sacred responsibility given to us by God, and we are called to fulfill it in a way that honors Him and His creation.
 
 ## Average Grade
-95.0
+94.0
 
 ## Grades
  * [95.0](./Dominion_in_Creation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Dominion_in_Creation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Dominion_in_Creation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Dominion_in_Creation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Dominion_in_Creation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [Second Coming](../../questions/Second_Coming.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [Second Coming](../../questions/Second_Coming.md)
 
 ## Question [Second Coming](../../questions/Second_Coming.md)
 What does Jesus’ statement about the 'Son of Man' coming back on the clouds imply for believers?
@@ -25,7 +25,11 @@ Jesus' reference to the 'Son of Man' coming back on the clouds can be found in v
 In essence, while interpretations can vary widely across different denominations and theological beliefs, the idea of the 'Son of Man' returning on the clouds generally implies a blend of hope, accountability, and a commitment to a lifestyle reflective of Jesus' teachings.
 
 ## Average Grade
-95.0
+91.0
 
 ## Grades
  * [95.0](./Second_Coming_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Second_Coming_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Second_Coming_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Second_Coming_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Second_Coming_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

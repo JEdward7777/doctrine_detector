@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Biblical References 2](../../questions/Biblical_References_2.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Biblical References 2](../../questions/Biblical_References_2.md)
 
 ## Question [Biblical References 2](../../questions/Biblical_References_2.md)
 Which Bible verses illustrate the concept of God's majesty?
@@ -27,7 +27,11 @@ In the Christian tradition, several Bible verses illustrate the concept of God's
 These verses reflect the grandeur and exalted nature of God in Christian theology, which can offer insights into the reverence and awe that is often associated with the concept of majesty in the Abrahamic faiths, including Islam.
 
 ## Average Grade
-95.0
+91.0
 
 ## Grades
  * [95.0](./Biblical_References_2_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Biblical_References_2_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Biblical_References_2_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Biblical_References_2_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Biblical_References_2_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

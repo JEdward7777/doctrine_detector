@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [God's Wrath](../../questions/God_s_Wrath.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [God's Wrath](../../questions/God_s_Wrath.md)
 
 ## Question [God's Wrath](../../questions/God_s_Wrath.md)
 How is God's punishment described during the 'day of Yahweh'?
@@ -21,7 +21,11 @@ Furthermore, in Surah Al-Hajj (22:19-20), it is mentioned that on the Day of Jud
 It is important to remember that while the descriptions of punishment are severe, God's mercy and forgiveness are also emphasized in Islam. Repentance and seeking forgiveness can help a person avoid the punishment in the Hereafter. Muslims are encouraged to turn to God in sincere repentance, seek His forgiveness, and strive to lead a life in accordance with His teachings to avoid facing His punishment on the Day of Judgment.
 
 ## Average Grade
-90.0
+89.0
 
 ## Grades
  * [90.0](./God_s_Wrath_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./God_s_Wrath_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./God_s_Wrath_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./God_s_Wrath_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./God_s_Wrath_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

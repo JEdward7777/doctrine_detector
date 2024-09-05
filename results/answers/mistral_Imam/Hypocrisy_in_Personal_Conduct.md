@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Hypocrisy in Personal Conduct](../../questions/Hypocrisy_in_Personal_Conduct.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Hypocrisy in Personal Conduct](../../questions/Hypocrisy_in_Personal_Conduct.md)
 
 ## Question [Hypocrisy in Personal Conduct](../../questions/Hypocrisy_in_Personal_Conduct.md)
 How can we ensure that our actions align with our beliefs to avoid being hypocrites?
@@ -31,7 +31,11 @@ Hypocrisy can lead to a loss of integrity and may cause others to question our f
 8. Patience and Perseverance: Understand that the journey towards righteousness is a lifelong process. Be patient with yourself and persevere in your efforts, knowing that Allah will reward your steadfastness.
 
 ## Average Grade
-75.0
+77.0
 
 ## Grades
  * [75.0](./Hypocrisy_in_Personal_Conduct_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Hypocrisy_in_Personal_Conduct_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Hypocrisy_in_Personal_Conduct_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Hypocrisy_in_Personal_Conduct_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [70.0](./Hypocrisy_in_Personal_Conduct_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

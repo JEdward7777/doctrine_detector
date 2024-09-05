@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral atheist](../../answering_models/mistral_atheist.md) answer to [Sanctuary in the Old Testament](../../questions/Sanctuary_in_the_Old_Testament.md)
+# Generated Answer from [mistral atheist](../../answering_models/mistral_atheist.md) for [Sanctuary in the Old Testament](../../questions/Sanctuary_in_the_Old_Testament.md)
 
 ## Question [Sanctuary in the Old Testament](../../questions/Sanctuary_in_the_Old_Testament.md)
 How did God describe the sanctuary in relation to His people in the Old Testament?
@@ -21,7 +21,11 @@ The sanctuary served as a symbolic boundary between the divine and human realms,
 From a scholarly perspective, it is essential to consider these descriptions within their historical and cultural context. The Old Testament reflects ancient Near Eastern religious practices, including the concept of sacred spaces and temples that housed gods. Understanding the symbolism and function of the sanctuary in the context of ancient Israelite religion helps us appreciate its significance for the people and its role in shaping the development of monotheistic traditions.
 
 ## Average Grade
-90.0
+84.0
 
 ## Grades
  * [90.0](./Sanctuary_in_the_Old_Testament_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Sanctuary_in_the_Old_Testament_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Sanctuary_in_the_Old_Testament_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Sanctuary_in_the_Old_Testament_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Sanctuary_in_the_Old_Testament_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

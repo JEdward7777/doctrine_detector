@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) answer to [Response to the Crucifixion](../../questions/Response_to_the_Crucifixion.md)
+# Generated Answer from [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) for [Response to the Crucifixion](../../questions/Response_to_the_Crucifixion.md)
 
 ## Question [Response to the Crucifixion](../../questions/Response_to_the_Crucifixion.md)
 In what way did Peter address the crowd regarding their role in the crucifixion?
@@ -23,7 +23,11 @@ Peter goes on to tell them that they were involved in the crucifixion but now ha
 In this way, Peter addresses their role in the crucifixion, acknowledging their participation but also offering them a path towards forgiveness and eternal life through faith in Jesus Christ.
 
 ## Average Grade
-90.0
+91.0
 
 ## Grades
  * [90.0](./Response_to_the_Crucifixion_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Response_to_the_Crucifixion_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Response_to_the_Crucifixion_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Response_to_the_Crucifixion_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Response_to_the_Crucifixion_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

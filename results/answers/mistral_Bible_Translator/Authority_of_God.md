@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) answer to [Authority of God](../../questions/Authority_of_God.md)
+# Generated Answer from [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) for [Authority of God](../../questions/Authority_of_God.md)
 
 ## Question [Authority of God](../../questions/Authority_of_God.md)
 What does the term 'Yahweh of hosts' signify about God's authority over spiritual beings?
@@ -23,7 +23,11 @@ This term signifies several aspects about God's authority:
 5. Judgment: In some contexts, "Yahweh of hosts" appears when God is about to enact judgment on nations or individuals who oppose Him or His people. This highlights His role as the ultimate judge.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Authority_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Authority_of_God_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Authority_of_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Authority_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Authority_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

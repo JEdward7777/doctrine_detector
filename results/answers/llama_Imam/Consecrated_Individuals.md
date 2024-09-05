@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Consecrated Individuals](../../questions/Consecrated_Individuals.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Consecrated Individuals](../../questions/Consecrated_Individuals.md)
 
 ## Question [Consecrated Individuals](../../questions/Consecrated_Individuals.md)
 Who are some of the individuals mentioned in the Bible that were consecrated to God?
@@ -29,7 +29,11 @@ Other individuals who are considered righteous in Islam include:
 These individuals are all mentioned in the Quran, which Muslims believe to be a complete and perfect revelation from Allah. While our understanding of their stories may differ from that of Christians, we recognize them as important figures who were consecrated to God's service.
 
 ## Average Grade
-55.0
+61.0
 
 ## Grades
  * [55.0](./Consecrated_Individuals_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [50.0](./Consecrated_Individuals_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [50.0](./Consecrated_Individuals_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Consecrated_Individuals_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Consecrated_Individuals_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

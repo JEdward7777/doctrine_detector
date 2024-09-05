@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Christ as Title](../../questions/Christ_as_Title.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Christ as Title](../../questions/Christ_as_Title.md)
 
 ## Question [Christ as Title](../../questions/Christ_as_Title.md)
 How has the term 'Christ' evolved in its usage throughout the New Testament?
@@ -19,7 +19,11 @@ Throughout the New Testament, the term 'Christ' is consistently used to denote J
 In summary, the term 'Christ' has evolved in its usage throughout the New Testament to highlight Jesus' unique status as the anointed Messiah and Savior sent by God to bring salvation to humanity.
 
 ## Average Grade
-85.0
+88.0
 
 ## Grades
  * [85.0](./Christ_as_Title_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Christ_as_Title_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Christ_as_Title_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Christ_as_Title_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Christ_as_Title_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

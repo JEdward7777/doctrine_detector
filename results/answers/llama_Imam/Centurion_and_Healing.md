@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Centurion and Healing](../../questions/Centurion_and_Healing.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Centurion and Healing](../../questions/Centurion_and_Healing.md)
 
 ## Question [Centurion and Healing](../../questions/Centurion_and_Healing.md)
 What does the interaction between the centurion and Jesus reveal about faith and authority?
@@ -25,7 +25,11 @@ Furthermore, this event illustrates the concept of "wasiyyah" or spiritual succe
 In conclusion, my brother, the interaction between the centurion and Jesus serves as a reminder of the importance of faith in connecting with the divine and recognizing the authority of prophets and messengers. May this story inspire us to deepen our understanding of the nature of faith and authority in Islam.
 
 ## Average Grade
-85.0
+74.0
 
 ## Grades
  * [85.0](./Centurion_and_Healing_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Centurion_and_Healing_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [75.0](./Centurion_and_Healing_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [55.0](./Centurion_and_Healing_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Centurion_and_Healing_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

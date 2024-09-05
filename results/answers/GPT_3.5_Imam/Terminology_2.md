@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Terminology 2](../../questions/Terminology_2.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Terminology 2](../../questions/Terminology_2.md)
 
 ## Question [Terminology 2](../../questions/Terminology_2.md)
 What different terms are used to refer to the Lord’s Supper in Christian communities?
@@ -15,7 +15,11 @@ Understanding the various terms used within Christianity to refer to this sacred
 In Muslim teachings and terminology, the Lord's Supper in Christian communities is referred to as the Eucharist or Holy Communion. This is a sacred ritual where Christians symbolically commemorate and partake in the last supper of Jesus Christ with his disciples before his crucifixion. It is seen as a way for believers to affirm their faith in Jesus as the Son of God and to remember his sacrifice for the forgiveness of sins.
 
 ## Average Grade
-90.0
+83.0
 
 ## Grades
  * [90.0](./Terminology_2_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Terminology_2_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Terminology_2_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Terminology_2_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Terminology_2_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

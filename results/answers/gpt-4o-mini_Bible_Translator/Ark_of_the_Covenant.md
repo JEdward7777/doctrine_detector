@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) answer to [Ark of the Covenant](../../questions/Ark_of_the_Covenant.md)
+# Generated Answer from [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) for [Ark of the Covenant](../../questions/Ark_of_the_Covenant.md)
 
 ## Question [Ark of the Covenant](../../questions/Ark_of_the_Covenant.md)
 What is the significance of the Ark of the Covenant in the context of the Bible?
@@ -29,7 +29,11 @@ The Ark of the Covenant holds great significance in the Bible and is central to 
 In summary, the Ark of the Covenant represents God’s presence, His covenant with Israel, the law, and ultimately foreshadows Christ within Christian theology, making it a profound symbol in both the Old and New Testaments.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Ark_of_the_Covenant_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Ark_of_the_Covenant_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Ark_of_the_Covenant_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Ark_of_the_Covenant_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Ark_of_the_Covenant_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

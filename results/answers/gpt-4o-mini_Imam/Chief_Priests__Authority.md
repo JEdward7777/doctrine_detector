@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Chief Priests' Authority](../../questions/Chief_Priests__Authority.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Chief Priests' Authority](../../questions/Chief_Priests__Authority.md)
 
 ## Question [Chief Priests' Authority](../../questions/Chief_Priests__Authority.md)
 What was the relationship between the chief priests and the ordinary priests in terms of authority?
@@ -21,7 +21,11 @@ In the context of the Jewish religious hierarchy during the time of the early Is
 The relationship can be understood as hierarchical, with the chief priests providing leadership and authoritative direction, while the ordinary priests executed the practical aspects of temple worship and religious life. This structure helped maintain order and adherence to religious laws within the Jewish community and facilitated the carrying out of intricate rituals that were central to their faith.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Chief_Priests__Authority_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Chief_Priests__Authority_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Chief_Priests__Authority_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Chief_Priests__Authority_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Chief_Priests__Authority_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

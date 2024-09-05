@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Understanding Cleanliness](../../questions/Understanding_Cleanliness.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Understanding Cleanliness](../../questions/Understanding_Cleanliness.md)
 
 ## Question [Understanding Cleanliness](../../questions/Understanding_Cleanliness.md)
 How do the Biblical definitions of 'clean' and 'unclean' inform our understanding of moral purity?
@@ -23,7 +23,11 @@ It's also worth mentioning that Islam places great emphasis on ritual purity (Ta
 However, it's crucial to remember that these interpretations are not universal and may vary among different Muslim communities and scholars. It's always best to consult with a knowledgeable scholar or religious leader for guidance in understanding such topics.
 
 ## Average Grade
-90.0
+87.0
 
 ## Grades
  * [90.0](./Understanding_Cleanliness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Understanding_Cleanliness_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Understanding_Cleanliness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Understanding_Cleanliness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_Cleanliness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

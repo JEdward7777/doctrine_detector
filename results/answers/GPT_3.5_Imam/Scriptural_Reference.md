@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Scriptural Reference](../../questions/Scriptural_Reference.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Scriptural Reference](../../questions/Scriptural_Reference.md)
 
 ## Question [Scriptural Reference](../../questions/Scriptural_Reference.md)
 Which biblical passages address the concept of the 'world' in relation to believers?
@@ -23,7 +23,11 @@ In the Islamic faith, we believe in the Quran as the final and most complete rev
 These passages emphasize the idea that believers should not be attached to the materialistic and transient aspects of the world but should instead focus on following the teachings of God and living a righteous and virtuous life.
 
 ## Average Grade
-85.0
+87.4
 
 ## Grades
  * [85.0](./Scriptural_Reference_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [92.0](./Scriptural_Reference_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Scriptural_Reference_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Scriptural_Reference_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Scriptural_Reference_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

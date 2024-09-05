@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) answer to [Daily Bearing the Cross](../../questions/Daily_Bearing_the_Cross.md)
+# Generated Answer from [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) for [Daily Bearing the Cross](../../questions/Daily_Bearing_the_Cross.md)
 
 ## Question [Daily Bearing the Cross](../../questions/Daily_Bearing_the_Cross.md)
 What does it mean to 'take up your cross' as mentioned in Luke 9:23?
@@ -19,3 +19,7 @@ Thank you for the question. "Taking up your cross" in Luke 9:23 is a metaphor co
 
 ## Grades
  * [90.0](./Daily_Bearing_the_Cross_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Daily_Bearing_the_Cross_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Daily_Bearing_the_Cross_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Daily_Bearing_the_Cross_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Daily_Bearing_the_Cross_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

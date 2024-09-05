@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) answer to [High Priest Access](../../questions/High_Priest_Access.md)
+# Generated Answer from [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) for [High Priest Access](../../questions/High_Priest_Access.md)
 
 ## Question [High Priest Access](../../questions/High_Priest_Access.md)
 Who was allowed to approach the ark of the covenant and under what circumstances?
@@ -23,7 +23,11 @@ Recognizing the role of the high priest in the Israelite's relationship with God
 It is important to note that these rules were specific to ancient Israelite worship, and modern Christian practices are based on the teachings of Jesus Christ and the New Testament. The Ark of the Covenant is no longer a central focus in Christianity as it was for the Israelites.
 
 ## Average Grade
-90.0
+85.0
 
 ## Grades
  * [90.0](./High_Priest_Access_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./High_Priest_Access_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./High_Priest_Access_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./High_Priest_Access_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./High_Priest_Access_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

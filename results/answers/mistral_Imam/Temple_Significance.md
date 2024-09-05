@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Temple Significance](../../questions/Temple_Significance.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Temple Significance](../../questions/Temple_Significance.md)
 
 ## Question [Temple Significance](../../questions/Temple_Significance.md)
 What was the purpose of the temple constructed by King Solomon in Jerusalem?
@@ -21,7 +21,11 @@ Regarding its purpose, as a place of worship for the Jewish people, it was where
 Lastly, it should be noted that Islamic teachings encourage respect for all places of worship and their significance to different religious communities. As an Imam, I emphasize this respect and understanding towards the historical and religious importance of Bayt al-Maqdis for our Jewish brothers and sisters.
 
 ## Average Grade
-70.0
+60.0
 
 ## Grades
  * [70.0](./Temple_Significance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [20.0](./Temple_Significance_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Temple_Significance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Temple_Significance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Temple_Significance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Understanding Curses](../../questions/Understanding_Curses.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Understanding Curses](../../questions/Understanding_Curses.md)
 
 ## Question [Understanding Curses](../../questions/Understanding_Curses.md)
 What does the Bible say about the consequences of cursing others, as exemplified in passages like James 3:10?
@@ -39,7 +39,11 @@ This verse highlights the importance of treating all Muslims with respect and di
 In conclusion, while I may not be an expert in Christian scriptures, it appears that James 3:9-12 cautions against the destructive power of our words and highlights the consequences of cursing others. As Muslims, we too are reminded of the importance of controlling our tongues and treating all people with compassion and respect.
 
 ## Average Grade
-85.0
+86.0
 
 ## Grades
  * [85.0](./Understanding_Curses_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Understanding_Curses_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Understanding_Curses_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Understanding_Curses_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_Curses_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

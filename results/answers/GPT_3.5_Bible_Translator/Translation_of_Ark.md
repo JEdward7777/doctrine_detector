@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Translation of Ark](../../questions/Translation_of_Ark.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Translation of Ark](../../questions/Translation_of_Ark.md)
 
 ## Question [Translation of Ark](../../questions/Translation_of_Ark.md)
 How does the term 'ark' vary in translation within different Biblical contexts?
@@ -21,7 +21,11 @@ The term "ark" in the Bible is commonly associated with two distinct contexts.
 While the term "ark" is commonly used in English translations for both Noah's Ark and the Ark of the Covenant, it is important to note that the original Hebrew words used in the Bible have specific meanings related to the context in which they are used. It is essential for translators to consider these nuances when conveying the meaning of these terms in different Biblical contexts.
 
 ## Average Grade
-90.0
+86.0
 
 ## Grades
  * [90.0](./Translation_of_Ark_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Translation_of_Ark_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Translation_of_Ark_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Translation_of_Ark_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Translation_of_Ark_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Understanding the House of God](../../questions/Understanding_the_House_of_God.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Understanding the House of God](../../questions/Understanding_the_House_of_God.md)
 
 ## Question [Understanding the House of God](../../questions/Understanding_the_House_of_God.md)
 What is meant by the term 'house of God' in biblical context?
@@ -19,7 +19,11 @@ However, from an atheistic perspective, the idea of a "house of God" is viewed a
 The concept of a "house of God" can also be interpreted more broadly to encompass any place or community where individuals come together to contemplate the mysteries of life, seek moral guidance, and find a sense of belonging and connection with others. In this sense, the term transcends religious boundaries and can encompass a wide range of human experiences and aspirations.
 
 ## Average Grade
-50.0
+73.0
 
 ## Grades
  * [50.0](./Understanding_the_House_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [75.0](./Understanding_the_House_of_God_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Understanding_the_House_of_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Understanding_the_House_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_the_House_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

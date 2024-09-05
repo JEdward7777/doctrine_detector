@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) answer to [Authority from God](../../questions/Authority_from_God.md)
+# Generated Answer from [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) for [Authority from God](../../questions/Authority_from_God.md)
 
 ## Question [Authority from God](../../questions/Authority_from_God.md)
 What is meant by 'divine authority' and its significance in the life of a believer?
@@ -29,7 +29,11 @@ For believers, the significance of divine authority often includes:
 Overall, divine authority plays a critical role in shaping the spiritual lives and practices of believers, influencing their interactions with the world and others. It is important to approach discussions about this topic with sensitivity and an appreciation for the diverse beliefs held by individuals across different faiths and traditions.
 
 ## Average Grade
-90.0
+91.0
 
 ## Grades
  * [90.0](./Authority_from_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Authority_from_God_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Authority_from_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Authority_from_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Authority_from_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

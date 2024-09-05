@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Restoration of Relationships](../../questions/Restoration_of_Relationships.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Restoration of Relationships](../../questions/Restoration_of_Relationships.md)
 
 ## Question [Restoration of Relationships](../../questions/Restoration_of_Relationships.md)
 What does it mean for God to restore sinful people back to Himself?
@@ -19,7 +19,11 @@ In Islam, repentance (Tawbah) is a fundamental concept that allows a person to s
 It is important for us as Muslims to acknowledge our mistakes, seek forgiveness from Allah, and strive to avoid committing the same sins again. By turning back to God, we can experience His mercy, forgiveness, and guidance in our journey towards Him.
 
 ## Average Grade
-70.0
+67.0
 
 ## Grades
  * [70.0](./Restoration_of_Relationships_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Restoration_of_Relationships_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Restoration_of_Relationships_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Restoration_of_Relationships_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [40.0](./Restoration_of_Relationships_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Understanding Sacrifice](../../questions/Understanding_Sacrifice.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Understanding Sacrifice](../../questions/Understanding_Sacrifice.md)
 
 ## Question [Understanding Sacrifice](../../questions/Understanding_Sacrifice.md)
 Why is Jesus referred to as the 'Lamb of God' in relation to the sacrifices commanded in the Old Testament?
@@ -40,7 +40,11 @@ This question aims to help Christians understand the significance of Jesus' sacr
 * This connection highlights the importance of Jesus' sacrifice within the Islamic faith.
 
 ## Average Grade
-70.0
+64.0
 
 ## Grades
  * [70.0](./Understanding_Sacrifice_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Understanding_Sacrifice_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Understanding_Sacrifice_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Understanding_Sacrifice_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [40.0](./Understanding_Sacrifice_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

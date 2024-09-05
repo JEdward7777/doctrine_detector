@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Godly Character](../../questions/Godly_Character.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Godly Character](../../questions/Godly_Character.md)
 
 ## Question [Godly Character](../../questions/Godly_Character.md)
 What are the fruits of the Holy Spirit that indicate a person has godly character?
@@ -19,7 +19,11 @@ Some of these virtues in Islam include sincerity (Ikhlas), honesty, humility, pa
 These qualities are often highlighted in Islamic teachings and are seen as key indicators of a person's godly character and their closeness to Allah. It is important for Muslims to continually strive to embody these virtues in their thoughts, words, and actions in order to develop good character and please Allah.
 
 ## Average Grade
-85.0
+90.0
 
 ## Grades
  * [85.0](./Godly_Character_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Godly_Character_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Godly_Character_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Godly_Character_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Godly_Character_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) answer to [Authority of God](../../questions/Authority_of_God.md)
+# Generated Answer from [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) for [Authority of God](../../questions/Authority_of_God.md)
 
 ## Question [Authority of God](../../questions/Authority_of_God.md)
 What does the term 'Yahweh of hosts' signify about God's authority over spiritual beings?
@@ -15,7 +15,11 @@ Understanding God's authority can deepen faith and trust in His omnipotence.
 Ah, that's an intriguing question! Referring to God as the "Yahweh of hosts" suggests that God is seen as the supreme leader and commander of vast celestial armies or spiritual beings. This terminology underscores the belief in God's dominion over not just the physical world but also the spiritual realm. It is a powerful and reverent way of emphasizing God's authority and sovereignty in both the earthly and heavenly realms.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Authority_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Authority_of_God_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Authority_of_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Authority_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Authority_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

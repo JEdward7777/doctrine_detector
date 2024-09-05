@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Nature of Judgment Day](../../questions/Nature_of_Judgment_Day.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Nature of Judgment Day](../../questions/Nature_of_Judgment_Day.md)
 
 ## Question [Nature of Judgment Day](../../questions/Nature_of_Judgment_Day.md)
 What does 'judgment day' mean in a Christian context according to the Bible?

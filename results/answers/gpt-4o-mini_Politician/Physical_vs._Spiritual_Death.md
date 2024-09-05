@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) answer to [Physical vs. Spiritual Death](../../questions/Physical_vs._Spiritual_Death.md)
+# Generated Answer from [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) for [Physical vs. Spiritual Death](../../questions/Physical_vs._Spiritual_Death.md)
 
 ## Question [Physical vs. Spiritual Death](../../questions/Physical_vs._Spiritual_Death.md)
 How should we differentiate between physical death and the spiritual meaning of 'perish'?
@@ -21,7 +21,11 @@ In contrast, the spiritual meaning of 'perish' can encompass a broader range of 
 To differentiate these concepts, one approach is to frame discussions within their respective contexts—acknowledging the physical aspect as a natural part of life while exploring spiritual notions as part of a broader philosophical or theological discourse. By providing a space for open dialogue, we can honor the diverse beliefs and feelings people hold regarding these profound topics.
 
 ## Average Grade
-80.0
+81.0
 
 ## Grades
  * [80.0](./Physical_vs._Spiritual_Death_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Physical_vs._Spiritual_Death_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Physical_vs._Spiritual_Death_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Physical_vs._Spiritual_Death_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [65.0](./Physical_vs._Spiritual_Death_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

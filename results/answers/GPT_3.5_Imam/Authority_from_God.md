@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Authority from God](../../questions/Authority_from_God.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Authority from God](../../questions/Authority_from_God.md)
 
 ## Question [Authority from God](../../questions/Authority_from_God.md)
 What is meant by 'divine authority' and its significance in the life of a believer?
@@ -23,7 +23,11 @@ Furthermore, recognizing divine authority also leads to a sense of accountabilit
 In summary, recognizing and submitting to the divine authority of Allah is central to the life of a Muslim believer. It provides guidance, comfort, and a sense of purpose, ultimately leading to a life of piety and devotion to Allah.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Authority_from_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Authority_from_God_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Authority_from_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Authority_from_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Authority_from_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) answer to [Translating El Shaddai](../../questions/Translating_El_Shaddai.md)
+# Generated Answer from [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) for [Translating El Shaddai](../../questions/Translating_El_Shaddai.md)
 
 ## Question [Translating El Shaddai](../../questions/Translating_El_Shaddai.md)
 How should the phrase 'El Shaddai' be translated in different languages based on local Bible translations?
@@ -15,7 +15,11 @@ Ensuring accurate representation of God's name across different cultures and lan
 I would recommend respecting the local Bible translations and using the corresponding terms in different languages when referencing 'El Shaddai.' It's important to acknowledge and honor the diverse cultural and religious beliefs of individuals around the world while maintaining accuracy in translation.
 
 ## Average Grade
-85.0
+89.0
 
 ## Grades
  * [85.0](./Translating_El_Shaddai_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Translating_El_Shaddai_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Translating_El_Shaddai_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Translating_El_Shaddai_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Translating_El_Shaddai_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

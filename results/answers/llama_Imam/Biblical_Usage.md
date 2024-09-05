@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Biblical Usage](../../questions/Biblical_Usage.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Biblical Usage](../../questions/Biblical_Usage.md)
 
 ## Question [Biblical Usage](../../questions/Biblical_Usage.md)
 In what way is the term 'begat' used in the genealogy accounts found in the Bible?
@@ -23,7 +23,11 @@ In the Quran, however, we don't find a direct equivalent to the term "begat." In
 In summary, the term "begat" in the Bible refers to the act of having children or offspring, emphasizing the father-son relationship. While the Quran does not use this exact term, it describes genealogy using different expressions, highlighting the importance of prophetic lineage and the role of women in these accounts.
 
 ## Average Grade
-80.0
+82.0
 
 ## Grades
  * [80.0](./Biblical_Usage_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Biblical_Usage_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Biblical_Usage_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Biblical_Usage_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Biblical_Usage_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

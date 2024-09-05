@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [The Great Commission](../../questions/The_Great_Commission.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [The Great Commission](../../questions/The_Great_Commission.md)
 
 ## Question [The Great Commission](../../questions/The_Great_Commission.md)
 What command did Jesus give to His disciples before ascending to heaven?

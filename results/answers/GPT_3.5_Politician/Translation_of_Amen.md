@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) answer to [Translation of Amen](../../questions/Translation_of_Amen.md)
+# Generated Answer from [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) for [Translation of Amen](../../questions/Translation_of_Amen.md)
 
 ## Question [Translation of Amen](../../questions/Translation_of_Amen.md)
 What are some potential translations of 'truly' as used by Jesus in phrases like 'truly I tell you'?
@@ -15,7 +15,11 @@ Understanding the importance of accurate biblical translation and interpretation
 Some potential translations of 'truly' in phrases like 'truly I tell you' could include 'verily', 'indeed', 'certainly', 'truly', 'truly, truly', or 'I assure you'. It's important to consider the context and audience when selecting the most appropriate translation to ensure clarity and respect for different interpretations.
 
 ## Average Grade
-85.0
+85.4
 
 ## Grades
  * [85.0](./Translation_of_Amen_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Translation_of_Amen_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Translation_of_Amen_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [92.0](./Translation_of_Amen_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Translation_of_Amen_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

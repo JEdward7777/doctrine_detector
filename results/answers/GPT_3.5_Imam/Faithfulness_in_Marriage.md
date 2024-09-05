@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Faithfulness in Marriage](../../questions/Faithfulness_in_Marriage.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Faithfulness in Marriage](../../questions/Faithfulness_in_Marriage.md)
 
 ## Question [Faithfulness in Marriage](../../questions/Faithfulness_in_Marriage.md)
 What does the Bible teach about faithfulness in marriage regarding adultery?
@@ -21,7 +21,11 @@ Regarding the consequences of adultery, the Prophet Muhammad (peace be upon him)
 Therefore, faithfulness in marriage and guarding oneself against adultery is an important aspect of maintaining a healthy and Islamic marriage. Muslims are encouraged to strengthen their marital bond, communicate openly with their spouse, fulfill each other's needs, and seek help from Allah to resist temptation and maintain fidelity in the relationship.
 
 ## Average Grade
-95.0
+90.0
 
 ## Grades
  * [95.0](./Faithfulness_in_Marriage_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Faithfulness_in_Marriage_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Faithfulness_in_Marriage_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Faithfulness_in_Marriage_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Faithfulness_in_Marriage_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

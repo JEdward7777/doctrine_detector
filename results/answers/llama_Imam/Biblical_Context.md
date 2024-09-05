@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Biblical Context](../../questions/Biblical_Context.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Biblical Context](../../questions/Biblical_Context.md)
 
 ## Question [Biblical Context](../../questions/Biblical_Context.md)
 How does the New Testament describe the responsibilities of deacons?
@@ -35,7 +35,11 @@ In Islam, we have our own understanding of service to humanity, as exemplified b
 May Allah guide us all to serve His creation with compassion, wisdom, and integrity.
 
 ## Average Grade
-90.0
+86.0
 
 ## Grades
  * [90.0](./Biblical_Context_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Biblical_Context_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Biblical_Context_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Biblical_Context_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [70.0](./Biblical_Context_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

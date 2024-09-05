@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Response to the Crucifixion](../../questions/Response_to_the_Crucifixion.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Response to the Crucifixion](../../questions/Response_to_the_Crucifixion.md)
 
 ## Question [Response to the Crucifixion](../../questions/Response_to_the_Crucifixion.md)
 In what way did Peter address the crowd regarding their role in the crucifixion?
@@ -21,7 +21,11 @@ In this passage, Peter is not addressing the crowd regarding their individual ro
 However, it's important to note that Peter's focus here is not on assigning blame or guilt, but rather on proclaiming the truth of Jesus' life, death, and resurrection as an act of God's plan and salvation for humanity.
 
 ## Average Grade
-90.0
+88.0
 
 ## Grades
  * [90.0](./Response_to_the_Crucifixion_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Response_to_the_Crucifixion_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Response_to_the_Crucifixion_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Response_to_the_Crucifixion_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Response_to_the_Crucifixion_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

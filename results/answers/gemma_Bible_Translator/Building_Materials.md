@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Building Materials](../../questions/Building_Materials.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Building Materials](../../questions/Building_Materials.md)
 
 ## Question [Building Materials](../../questions/Building_Materials.md)
 What materials were commonly used to construct altars during biblical times?

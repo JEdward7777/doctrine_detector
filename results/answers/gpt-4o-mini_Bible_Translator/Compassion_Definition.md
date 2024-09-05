@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) answer to [Compassion Definition](../../questions/Compassion_Definition.md)
+# Generated Answer from [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) for [Compassion Definition](../../questions/Compassion_Definition.md)
 
 ## Question [Compassion Definition](../../questions/Compassion_Definition.md)
 How does the Bible define compassion and what actions are associated with being compassionate?
@@ -29,7 +29,11 @@ Compassion in the Bible is often understood as a deep awareness of and sympathy 
 In summary, compassion in the Bible encapsulates a heart of empathy that leads to action, reflecting God’s love and mercy towards humanity and encouraging believers to engage actively in the lives of others, especially those in need.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Compassion_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Compassion_Definition_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Compassion_Definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Compassion_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Compassion_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Nature of Hell](../../questions/Nature_of_Hell.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Nature of Hell](../../questions/Nature_of_Hell.md)
 
 ## Question [Nature of Hell](../../questions/Nature_of_Hell.md)
 What does the Bible say about the nature and experience of hell?
@@ -21,7 +21,11 @@ The Bible also portrays hell as a place of darkness, weeping, and gnashing of te
 Overall, the concept of hell in the Bible serves as a warning to believers to lead a righteous life and avoid sin, as the consequences of disobedience are severe and everlasting. It emphasizes the importance of repentance, seeking forgiveness, and living a life in accordance with God's commandments to avoid the dreadful fate of hellfire.
 
 ## Average Grade
-80.0
+84.0
 
 ## Grades
  * [80.0](./Nature_of_Hell_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Nature_of_Hell_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Nature_of_Hell_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Nature_of_Hell_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Nature_of_Hell_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

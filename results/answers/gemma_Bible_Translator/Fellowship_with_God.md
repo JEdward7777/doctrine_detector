@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Fellowship with God](../../questions/Fellowship_with_God.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Fellowship with God](../../questions/Fellowship_with_God.md)
 
 ## Question [Fellowship with God](../../questions/Fellowship_with_God.md)
 What is the significance of fellowship with God in Christianity?

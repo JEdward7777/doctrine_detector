@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) answer to [Observing Folly](../../questions/Observing_Folly.md)
+# Generated Answer from [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) for [Observing Folly](../../questions/Observing_Folly.md)
 
 ## Question [Observing Folly](../../questions/Observing_Folly.md)
 What are some actions that the Bible categorizes as folly?
@@ -35,7 +35,11 @@ The Bible offers various insights into what is considered folly or unwise behavi
 These examples reflect a broader investment in the wisdom of maintaining harmony, seeking understanding, and upholding integrity in our actions and relationships.
 
 ## Average Grade
-90.0
+92.0
 
 ## Grades
  * [90.0](./Observing_Folly_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Observing_Folly_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Observing_Folly_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Observing_Folly_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Observing_Folly_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Nature of Wickedness](../../questions/Nature_of_Wickedness.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Nature of Wickedness](../../questions/Nature_of_Wickedness.md)
 
 ## Question [Nature of Wickedness](../../questions/Nature_of_Wickedness.md)
 In what ways does the Bible suggest that individuals can be 'wicked' in their actions, and what does it say about the state of such individuals?
@@ -49,7 +49,11 @@ The Bible paints a grim picture of the state of wicked individuals:
 The Bible clearly condemns wickedness and reveals its devastating consequences for individuals. It teaches that wickedness is motivated by evil intent, disobedience to God's laws, and a hardened heart. The state of wicked individuals is one of condemnation, isolation, and divine judgment.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Nature_of_Wickedness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Nature_of_Wickedness_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Nature_of_Wickedness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Nature_of_Wickedness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Nature_of_Wickedness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

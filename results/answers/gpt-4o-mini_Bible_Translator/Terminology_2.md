@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) answer to [Terminology 2](../../questions/Terminology_2.md)
+# Generated Answer from [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) for [Terminology 2](../../questions/Terminology_2.md)
 
 ## Question [Terminology 2](../../questions/Terminology_2.md)
 What different terms are used to refer to the Lord’s Supper in Christian communities?
@@ -33,7 +33,11 @@ The Lord's Supper is referred to by various terms in different Christian communi
 Different denominations may emphasize different theological aspects and meanings associated with the Lord's Supper, but all these terms reflect a central aspect of Christian worship and remembrance of Jesus Christ's sacrifice.
 
 ## Average Grade
-95.0
+87.0
 
 ## Grades
  * [95.0](./Terminology_2_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Terminology_2_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Terminology_2_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Terminology_2_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Terminology_2_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

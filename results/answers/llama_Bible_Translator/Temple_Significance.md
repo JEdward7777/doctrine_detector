@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Temple Significance](../../questions/Temple_Significance.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Temple Significance](../../questions/Temple_Significance.md)
 
 ## Question [Temple Significance](../../questions/Temple_Significance.md)
 What was the purpose of the temple constructed by King Solomon in Jerusalem?
@@ -25,7 +25,11 @@ In addition to these purposes, the temple was a symbol of God's covenant with Hi
 Throughout history, the temple played a significant role in Jewish and Christian traditions, serving as a physical representation of God's relationship with humanity.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Temple_Significance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Temple_Significance_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Temple_Significance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Temple_Significance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Temple_Significance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

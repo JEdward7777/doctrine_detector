@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma atheist](../../answering_models/gemma_atheist.md) answer to [Biblical References to the Temple](../../questions/Biblical_References_to_the_Temple.md)
+# Generated Answer from [gemma atheist](../../answering_models/gemma_atheist.md) for [Biblical References to the Temple](../../questions/Biblical_References_to_the_Temple.md)
 
 ## Question [Biblical References to the Temple](../../questions/Biblical_References_to_the_Temple.md)
 Which scriptures specifically reference the temple as the 'house of Yahweh'?
@@ -15,7 +15,11 @@ Identifying key scriptures that discuss the concept of the temple in relation to
 The premise of your question is inaccurate. The scriptures do not specifically reference the temple as the "house of Yahweh" in an atheistic or culturally retributed manner.
 
 ## Average Grade
-90.0
+86.0
 
 ## Grades
  * [90.0](./Biblical_References_to_the_Temple_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Biblical_References_to_the_Temple_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Biblical_References_to_the_Temple_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Biblical_References_to_the_Temple_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Biblical_References_to_the_Temple_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Old vs. New Testament Atonement](../../questions/Old_vs._New_Testament_Atonement.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Old vs. New Testament Atonement](../../questions/Old_vs._New_Testament_Atonement.md)
 
 ## Question [Old vs. New Testament Atonement](../../questions/Old_vs._New_Testament_Atonement.md)
 How does the concept of atonement in the Old Testament differ from the New Testament understanding?
@@ -23,7 +23,11 @@ In Islam, atonement is achieved primarily through sincere repentance and seeking
 In summary, while the Old Testament emphasizes atonement through sacrifices and repentance, the New Testament places more focus on Jesus as the ultimate sacrifice for human sins. Islam upholds that all prophets guide humanity towards God's truth, but emphasizes atonement through sincere repentance, seeking God's forgiveness, and performing good deeds.
 
 ## Average Grade
-70.0
+71.0
 
 ## Grades
  * [70.0](./Old_vs._New_Testament_Atonement_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Old_vs._New_Testament_Atonement_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Old_vs._New_Testament_Atonement_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [75.0](./Old_vs._New_Testament_Atonement_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Old_vs._New_Testament_Atonement_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Jesus' Statement](../../questions/Jesus__Statement.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Jesus' Statement](../../questions/Jesus__Statement.md)
 
 ## Question [Jesus' Statement](../../questions/Jesus__Statement.md)
 What did Jesus mean when he said, 'I am the Resurrection and the Life'?
@@ -23,7 +23,11 @@ In Islam, we believe that Allah is the only One who has power over life and deat
 Therefore, as Muslims, we cannot attribute this specific phrase to Jesus or consider it a declaration of divinity. Instead, we can appreciate the beauty of the Bible from an interfaith perspective, acknowledging the importance of Jesus' message in his own cultural and historical context, while also honoring our own sacred scripture, the Quran, as the ultimate guide for Muslims.
 
 ## Average Grade
-60.0
+64.0
 
 ## Grades
  * [60.0](./Jesus__Statement_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [60.0](./Jesus__Statement_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [50.0](./Jesus__Statement_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Jesus__Statement_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Jesus__Statement_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

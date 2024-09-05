@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Centurion and Peter](../../questions/Centurion_and_Peter.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Centurion and Peter](../../questions/Centurion_and_Peter.md)
 
 ## Question [Centurion and Peter](../../questions/Centurion_and_Peter.md)
 How does the centurion's visit from Peter represent the expansion of the Gospel beyond the Jewish community?

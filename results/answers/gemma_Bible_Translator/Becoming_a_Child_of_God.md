@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Becoming a Child of God](../../questions/Becoming_a_Child_of_God.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Becoming a Child of God](../../questions/Becoming_a_Child_of_God.md)
 
 ## Question [Becoming a Child of God](../../questions/Becoming_a_Child_of_God.md)
 What does it mean to believe in God the Son and become a child of God the Father?

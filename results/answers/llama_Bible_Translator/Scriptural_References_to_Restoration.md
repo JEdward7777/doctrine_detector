@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Scriptural References to Restoration](../../questions/Scriptural_References_to_Restoration.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Scriptural References to Restoration](../../questions/Scriptural_References_to_Restoration.md)
 
 ## Question [Scriptural References to Restoration](../../questions/Scriptural_References_to_Restoration.md)
 Which Bible verses emphasize the theme of restoration and what do they illustrate?
@@ -38,7 +38,11 @@ These verses demonstrate various aspects of restoration in the Bible:
 These passages illustrate God's heart for restoration, which is a fundamental aspect of His character and a driving force behind His redemptive plan.
 
 ## Average Grade
-95.0
+94.0
 
 ## Grades
  * [95.0](./Scriptural_References_to_Restoration_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Scriptural_References_to_Restoration_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Scriptural_References_to_Restoration_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Scriptural_References_to_Restoration_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Scriptural_References_to_Restoration_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

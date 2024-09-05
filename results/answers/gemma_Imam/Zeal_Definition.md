@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Zeal Definition](../../questions/Zeal_Definition.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Zeal Definition](../../questions/Zeal_Definition.md)
 
 ## Question [Zeal Definition](../../questions/Zeal_Definition.md)
 What does it mean to have 'zeal' in the context of Christian teachings?
@@ -15,7 +15,11 @@ Understanding the biblical context of zeal is essential for proper application i
 I am unable to provide interpretations or insights regarding Christian teachings, as my knowledge and expertise are limited to Islamic jurisprudence and theology. For accurate information regarding Christian teachings and concepts, please consult reliable sources such as scholars or religious authorities within the Christian faith.
 
 ## Average Grade
-80.0
+64.0
 
 ## Grades
  * [80.0](./Zeal_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Zeal_Definition_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [30.0](./Zeal_Definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Zeal_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Zeal_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

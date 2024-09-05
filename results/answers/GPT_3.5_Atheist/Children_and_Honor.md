@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Children and Honor](../../questions/Children_and_Honor.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Children and Honor](../../questions/Children_and_Honor.md)
 
 ## Question [Children and Honor](../../questions/Children_and_Honor.md)
 What does the Bible instruct regarding how children should honor their parents?
@@ -17,7 +17,11 @@ The Bible instructs children to honor their parents in various passages, includi
 The concept of honoring one's parents is seen as an important moral and ethical duty in many cultures and religions, not just in Christianity. It is a way to show respect, gratitude, and care for those who brought us into the world and raised us. Honoring parents can include obeying their guidance (when it is positive and beneficial), showing appreciation and love, providing care and support as they age, and treating them with respect and dignity.
 
 ## Average Grade
-90.0
+82.0
 
 ## Grades
  * [90.0](./Children_and_Honor_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Children_and_Honor_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Children_and_Honor_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Children_and_Honor_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Children_and_Honor_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

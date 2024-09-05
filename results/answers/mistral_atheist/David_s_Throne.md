@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral atheist](../../answering_models/mistral_atheist.md) answer to [David's Throne](../../questions/David_s_Throne.md)
+# Generated Answer from [mistral atheist](../../answering_models/mistral_atheist.md) for [David's Throne](../../questions/David_s_Throne.md)
 
 ## Question [David's Throne](../../questions/David_s_Throne.md)
 What does the promise of David's throne lasting forever signify in Christian theology?
@@ -21,7 +21,11 @@ The messianic significance comes from the belief that this promise finds its ult
 In essence, the promise of an eternal throne for King David in Christian theology serves as a powerful metaphor for God's unchanging covenant with His people and the ultimate fulfillment of that promise in Jesus Christ.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./David_s_Throne_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./David_s_Throne_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./David_s_Throne_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./David_s_Throne_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./David_s_Throne_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

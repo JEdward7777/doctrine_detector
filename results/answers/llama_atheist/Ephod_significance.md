@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Ephod significance](../../questions/Ephod_significance.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Ephod significance](../../questions/Ephod_significance.md)
 
 ## Question [Ephod significance](../../questions/Ephod_significance.md)
 What is the significance of the high priest's ephod in the context of Old Testament worship?
@@ -28,7 +28,11 @@ Several aspects make the ephod significant in Old Testament worship:
 It is essential to note that the significance of the ephod can be understood within its biblical context without resorting to modern-day theological or cultural interpretations.
 
 ## Average Grade
-95.0
+90.4
 
 ## Grades
  * [95.0](./Ephod_significance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Ephod_significance_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Ephod_significance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Ephod_significance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [92.0](./Ephod_significance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

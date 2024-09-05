@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Understanding Sacrifice](../../questions/Understanding_Sacrifice.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Understanding Sacrifice](../../questions/Understanding_Sacrifice.md)
 
 ## Question [Understanding Sacrifice](../../questions/Understanding_Sacrifice.md)
 Why is Jesus referred to as the 'Lamb of God' in relation to the sacrifices commanded in the Old Testament?
@@ -19,7 +19,11 @@ Muslims believe in the concept of sacrifice as well, but our perspective is diff
 While Muslims acknowledge the significance of Jesus in our faith and revere him as a prophet, we do not hold the belief that he was the ultimate sacrificial offering for the atonement of sins. Instead, we believe in seeking forgiveness directly from Allah through sincere repentance, good deeds, and following the teachings of the Prophets, including Jesus.
 
 ## Average Grade
-50.0
+66.0
 
 ## Grades
  * [50.0](./Understanding_Sacrifice_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [60.0](./Understanding_Sacrifice_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Understanding_Sacrifice_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [50.0](./Understanding_Sacrifice_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Understanding_Sacrifice_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

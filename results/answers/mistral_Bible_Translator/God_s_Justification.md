@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) answer to [God's Justification](../../questions/God_s_Justification.md)
+# Generated Answer from [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) for [God's Justification](../../questions/God_s_Justification.md)
 
 ## Question [God's Justification](../../questions/God_s_Justification.md)
 How does God justify sinners and what does justification entail?
@@ -27,7 +27,11 @@ Justification entails several key elements:
 5. Sanctification: While justification is a one-time event occurring at the moment of faith, it also marks the beginning of a process of sanctification, whereby God progressively transforms us into the image of Christ in our lives. (Romans 8:29-30)
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./God_s_Justification_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./God_s_Justification_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./God_s_Justification_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./God_s_Justification_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./God_s_Justification_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

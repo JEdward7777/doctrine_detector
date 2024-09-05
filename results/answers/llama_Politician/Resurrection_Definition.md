@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Resurrection Definition](../../questions/Resurrection_Definition.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Resurrection Definition](../../questions/Resurrection_Definition.md)
 
 ## Question [Resurrection Definition](../../questions/Resurrection_Definition.md)
 What does the term 'resurrection' refer to in a Christian context?
@@ -21,7 +21,11 @@ In a broader sense, the concept of resurrection can also be seen as a metaphor f
 So, while I'm certainly aware that not everyone may accept the Christian interpretation of resurrection, I believe it's crucial for us to engage in respectful dialogue and strive for mutual understanding. By doing so, we can create a more inclusive and compassionate society where all individuals feel valued and respected.
 
 ## Average Grade
-60.0
+67.0
 
 ## Grades
  * [60.0](./Resurrection_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [60.0](./Resurrection_Definition_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Resurrection_Definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Resurrection_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Resurrection_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

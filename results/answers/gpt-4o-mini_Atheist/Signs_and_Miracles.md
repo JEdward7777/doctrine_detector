@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [Signs and Miracles](../../questions/Signs_and_Miracles.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [Signs and Miracles](../../questions/Signs_and_Miracles.md)
 
 ## Question [Signs and Miracles](../../questions/Signs_and_Miracles.md)
 What role do signs and miracles play in proving the truth of God's message, as seen in the acts of Jesus and the apostles?
@@ -29,7 +29,11 @@ In the context of Christian theology, signs and miracles serve several important
 In considering these roles, it is important to recognize that interpretations of signs and miracles can vary widely across different cultures and religious contexts. The scholarly examination of these phenomena often seeks to understand the historical, social, and psychological factors that shape how communities perceive and ascribe meaning to these events.
 
 ## Average Grade
-90.0
+92.0
 
 ## Grades
  * [90.0](./Signs_and_Miracles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Signs_and_Miracles_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Signs_and_Miracles_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Signs_and_Miracles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Signs_and_Miracles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

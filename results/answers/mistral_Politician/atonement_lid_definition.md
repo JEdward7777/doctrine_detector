@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Politician](../../answering_models/mistral_Politician.md) answer to [atonement_lid_definition](../../questions/atonement_lid_definition.md)
+# Generated Answer from [mistral Politician](../../answering_models/mistral_Politician.md) for [atonement_lid_definition](../../questions/atonement_lid_definition.md)
 
 ## Question [atonement_lid_definition](../../questions/atonement_lid_definition.md)
 What was the significance of the atonement lid in the context of the ark of the covenant?
@@ -21,7 +21,11 @@ On Yom Kippur, the High Priest would sprinkle the blood of the sacrificed red he
 It is essential to note that this description reflects historical accounts of the ancient Jewish tradition and should be understood within its cultural and historical context. As a politician, I encourage open dialogue, understanding, and respect for diverse beliefs and traditions, recognizing their importance in shaping our collective human experience.
 
 ## Average Grade
-85.0
+87.0
 
 ## Grades
  * [85.0](./atonement_lid_definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./atonement_lid_definition_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./atonement_lid_definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./atonement_lid_definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./atonement_lid_definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

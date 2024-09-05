@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Symbolism of Manna](../../questions/Symbolism_of_Manna.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Symbolism of Manna](../../questions/Symbolism_of_Manna.md)
 
 ## Question [Symbolism of Manna](../../questions/Symbolism_of_Manna.md)
 What does the term 'manna' symbolize regarding God's provision?
@@ -21,7 +21,11 @@ Moreover, manna can also symbolize the importance of gratitude and reliance on G
 In summary, manna symbolizes God's unwavering care and provision, encouraging believers to have faith, to be thankful, and to recognize that all sustenance ultimately comes from Him.
 
 ## Average Grade
-90.0
+85.0
 
 ## Grades
  * [90.0](./Symbolism_of_Manna_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Symbolism_of_Manna_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Symbolism_of_Manna_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Symbolism_of_Manna_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Symbolism_of_Manna_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

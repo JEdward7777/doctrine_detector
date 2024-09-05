@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Understanding Eternal Life](../../questions/Understanding_Eternal_Life.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Understanding Eternal Life](../../questions/Understanding_Eternal_Life.md)
 
 ## Question [Understanding Eternal Life](../../questions/Understanding_Eternal_Life.md)
 What does the Bible teach about inheriting eternal life?
@@ -21,7 +21,11 @@ In Islam, the concept of eternal life is also present but is understood differen
 It's important to note that interpretations of religious texts may vary among different communities and individuals within each faith. I encourage open-minded dialogue and respectful discussions to deepen understanding between people from diverse backgrounds and beliefs.
 
 ## Average Grade
-50.0
+63.0
 
 ## Grades
  * [50.0](./Understanding_Eternal_Life_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [40.0](./Understanding_Eternal_Life_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Understanding_Eternal_Life_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Understanding_Eternal_Life_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_Eternal_Life_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral atheist](../../answering_models/mistral_atheist.md) answer to [Biblical Examples of Worship](../../questions/Biblical_Examples_of_Worship.md)
+# Generated Answer from [mistral atheist](../../answering_models/mistral_atheist.md) for [Biblical Examples of Worship](../../questions/Biblical_Examples_of_Worship.md)
 
 ## Question [Biblical Examples of Worship](../../questions/Biblical_Examples_of_Worship.md)
 Can you identify an example from the Bible where worship is negatively contrasted with idol worship?
@@ -19,7 +19,11 @@ This highlights the importance of avoiding idolatry and remaining faithful to Go
 In this passage, the commandment against idolatry is given. It contrasts the worship of God with the making and worshiping of graven images or idols, suggesting that only the true God is worthy of worship, not any physical objects or false gods. This theme is repeated throughout the Bible, emphasizing monotheism and the rejection of idolatry. For instance, in Isaiah 44:9-20, the prophet condemns idol worship and contrasts it with the living God who created and sustains all things.
 
 ## Average Grade
-95.0
+89.0
 
 ## Grades
  * [95.0](./Biblical_Examples_of_Worship_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Biblical_Examples_of_Worship_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Biblical_Examples_of_Worship_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Biblical_Examples_of_Worship_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Biblical_Examples_of_Worship_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

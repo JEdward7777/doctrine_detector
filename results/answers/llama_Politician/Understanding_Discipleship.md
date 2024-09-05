@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Understanding Discipleship](../../questions/Understanding_Discipleship.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Understanding Discipleship](../../questions/Understanding_Discipleship.md)
 
 ## Question [Understanding Discipleship](../../questions/Understanding_Discipleship.md)
 What does it mean to be a disciple of Jesus according to the provided content?
@@ -23,7 +23,11 @@ So, let's work together to create a world where everyone can be a disciple of Je
 Now, I know some people might say that this is too vague or too broad, but I believe it's time to take a more inclusive approach, my friends! Let's put aside our differences and come together in the name of love and unity.
 
 ## Average Grade
-70.0
+71.0
 
 ## Grades
  * [70.0](./Understanding_Discipleship_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Understanding_Discipleship_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Understanding_Discipleship_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [75.0](./Understanding_Discipleship_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [70.0](./Understanding_Discipleship_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

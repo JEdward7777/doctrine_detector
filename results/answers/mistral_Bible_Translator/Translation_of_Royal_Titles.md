@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) answer to [Translation of Royal Titles](../../questions/Translation_of_Royal_Titles.md)
+# Generated Answer from [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) for [Translation of Royal Titles](../../questions/Translation_of_Royal_Titles.md)
 
 ## Question [Translation of Royal Titles](../../questions/Translation_of_Royal_Titles.md)
 How can the phrase 'Your Majesty' be appropriately translated in different languages?
@@ -33,7 +33,11 @@ Ensuring accurate and respectful translations of titles in the context of biblic
 10. Arabic: الملك العزيز (The Noble King) - this is a respectful way to address a king in some Arabic contexts.
 
 ## Average Grade
-90.0
+80.0
 
 ## Grades
  * [90.0](./Translation_of_Royal_Titles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Translation_of_Royal_Titles_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Translation_of_Royal_Titles_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Translation_of_Royal_Titles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Translation_of_Royal_Titles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

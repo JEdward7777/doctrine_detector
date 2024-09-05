@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Purpose of Holiness](../../questions/Purpose_of_Holiness.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Purpose of Holiness](../../questions/Purpose_of_Holiness.md)
 
 ## Question [Purpose of Holiness](../../questions/Purpose_of_Holiness.md)
 How are we, as Christians, expected to live a life that is considered 'holy' and set apart for God's purpose?
@@ -27,7 +27,11 @@ As a Muslim Imam, I believe that living a life that is considered holy and set a
 Overall, living a holy life involves a commitment to deepen one's relationship with God, following His commandments, and striving to embody His virtues in all aspects of life. It is a journey of self-improvement, spiritual growth, and striving for excellence in all that one does.
 
 ## Average Grade
-20.0
+45.0
 
 ## Grades
  * [20.0](./Purpose_of_Holiness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [20.0](./Purpose_of_Holiness_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [50.0](./Purpose_of_Holiness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [50.0](./Purpose_of_Holiness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Purpose_of_Holiness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

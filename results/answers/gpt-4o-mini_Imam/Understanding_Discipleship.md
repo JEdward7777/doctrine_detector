@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Understanding Discipleship](../../questions/Understanding_Discipleship.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Understanding Discipleship](../../questions/Understanding_Discipleship.md)
 
 ## Question [Understanding Discipleship](../../questions/Understanding_Discipleship.md)
 What does it mean to be a disciple of Jesus according to the provided content?
@@ -25,7 +25,11 @@ From an Islamic perspective, while we respect Jesus (known as Isa in Arabic) as 
 If you have more specific content or context regarding what it means to be a disciple of Jesus from a particular source, please provide that, and I can tailor the response accordingly.
 
 ## Average Grade
-85.0
+89.0
 
 ## Grades
  * [85.0](./Understanding_Discipleship_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Understanding_Discipleship_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Understanding_Discipleship_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Understanding_Discipleship_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_Discipleship_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

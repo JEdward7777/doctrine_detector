@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Understanding the Crucifixion](../../questions/Understanding_the_Crucifixion.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Understanding the Crucifixion](../../questions/Understanding_the_Crucifixion.md)
 
 ## Question [Understanding the Crucifixion](../../questions/Understanding_the_Crucifixion.md)
 What significance does Jesus' crucifixion hold in Christian belief?
@@ -29,7 +29,11 @@ In Christian belief, the crucifixion of Jesus holds profound significance as it 
 In Islam, however, the belief regarding Jesus (known as Isa) significantly differs. Muslims believe that Jesus was a prophet and that he was not crucified, nor did he die on the cross. Instead, it is believed that he was raised to Heaven by Allah, and that another was made to resemble him in his place. Thus, while the crucifixion is central to Christianity, it is not a part of Islamic belief.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Understanding_the_Crucifixion_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Understanding_the_Crucifixion_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Understanding_the_Crucifixion_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Understanding_the_Crucifixion_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_the_Crucifixion_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

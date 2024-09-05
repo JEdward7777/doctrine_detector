@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Faith's Impact](../../questions/Faith_s_Impact.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Faith's Impact](../../questions/Faith_s_Impact.md)
 
 ## Question [Faith's Impact](../../questions/Faith_s_Impact.md)
 How does true faith in Jesus manifest in a person's life?
@@ -23,7 +23,11 @@ Now, I know some people might say, "But what about all the 'right' answers? What
 Ultimately, true faith in Jesus is about seeking justice, mercy, and love – not just for ourselves or our own communities, but for all people. And I think that's something we can all get behind, regardless of our differences. (smiling)
 
 ## Average Grade
-50.0
+70.0
 
 ## Grades
  * [50.0](./Faith_s_Impact_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [60.0](./Faith_s_Impact_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Faith_s_Impact_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Faith_s_Impact_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Faith_s_Impact_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

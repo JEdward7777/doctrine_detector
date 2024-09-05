@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Practices of Fellowship](../../questions/Practices_of_Fellowship.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Practices of Fellowship](../../questions/Practices_of_Fellowship.md)
 
 ## Question [Practices of Fellowship](../../questions/Practices_of_Fellowship.md)
 How did early Christians express their fellowship?
@@ -45,7 +45,11 @@ Recognizing the practices of fellowship can help contemporary Christians foster 
 * This shared foundation strengthened their fellowship and allowed them to support and encourage one another.
 
 ## Average Grade
-90.0
+83.0
 
 ## Grades
  * [90.0](./Practices_of_Fellowship_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Practices_of_Fellowship_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Practices_of_Fellowship_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Practices_of_Fellowship_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [70.0](./Practices_of_Fellowship_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

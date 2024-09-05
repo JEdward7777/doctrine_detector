@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Ephod significance](../../questions/Ephod_significance.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Ephod significance](../../questions/Ephod_significance.md)
 
 ## Question [Ephod significance](../../questions/Ephod_significance.md)
 What is the significance of the high priest's ephod in the context of Old Testament worship?
@@ -31,7 +31,11 @@ In the context of Old Testament worship, the high priest's ephod holds significa
 In summary, the ephod’s intricate design, its use in ritual, and symbols of representation and intercession all illustrate the pivotal role of priesthood in worship and the importance of approaching God reverently and according to His prescribed means.
 
 ## Average Grade
-90.0
+90.4
 
 ## Grades
  * [90.0](./Ephod_significance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [92.0](./Ephod_significance_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Ephod_significance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Ephod_significance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Ephod_significance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

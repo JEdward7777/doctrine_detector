@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [New Testament References](../../questions/New_Testament_References.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [New Testament References](../../questions/New_Testament_References.md)
 
 ## Question [New Testament References](../../questions/New_Testament_References.md)
 What evidence is there in the New Testament suggesting that John the Baptist may have been a Nazirite?
@@ -26,7 +26,11 @@ While these parallels and patterns are intriguing, it is essential to acknowledg
 As an atheistic scholar, I must emphasize that any claims about John the Baptist being a Nazirite should be approached with caution and rigorously tested against the available evidence. Ultimately, the possibility of John being a Nazirite remains a fascinating area of inquiry, one that highlights the complexities and nuances of early Christian history.
 
 ## Average Grade
-40.0
+69.0
 
 ## Grades
  * [40.0](./New_Testament_References_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [75.0](./New_Testament_References_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./New_Testament_References_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./New_Testament_References_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./New_Testament_References_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [Application of Reconciliation](../../questions/Application_of_Reconciliation.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [Application of Reconciliation](../../questions/Application_of_Reconciliation.md)
 
 ## Question [Application of Reconciliation](../../questions/Application_of_Reconciliation.md)
 In what ways can Christians apply the principle of reconciliation to their relationships with others?
@@ -37,7 +37,11 @@ Christians can apply the principle of reconciliation to their relationships with
 Overall, reconciliation in relationships aligns with the core Christian values of love, compassion, and grace. By consciously applying these principles, Christians can contribute to healthier, more harmonious interactions with others.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Application_of_Reconciliation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Application_of_Reconciliation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Application_of_Reconciliation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Application_of_Reconciliation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Application_of_Reconciliation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Translation of Begotten](../../questions/Translation_of_Begotten.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Translation of Begotten](../../questions/Translation_of_Begotten.md)
 
 ## Question [Translation of Begotten](../../questions/Translation_of_Begotten.md)
 How can the term 'begotten' be understood in relation to spiritual rebirth?

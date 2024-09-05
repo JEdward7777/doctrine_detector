@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Zeal Definition](../../questions/Zeal_Definition.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Zeal Definition](../../questions/Zeal_Definition.md)
 
 ## Question [Zeal Definition](../../questions/Zeal_Definition.md)
 What does it mean to have 'zeal' in the context of Christian teachings?

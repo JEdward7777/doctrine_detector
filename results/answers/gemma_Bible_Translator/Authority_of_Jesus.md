@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Authority of Jesus](../../questions/Authority_of_Jesus.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Authority of Jesus](../../questions/Authority_of_Jesus.md)
 
 ## Question [Authority of Jesus](../../questions/Authority_of_Jesus.md)
 In what ways does the title 'King of the Jews' illustrate Jesus' authority over all creation?

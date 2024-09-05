@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Nature of Exhortation](../../questions/Nature_of_Exhortation.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Nature of Exhortation](../../questions/Nature_of_Exhortation.md)
 
 ## Question [Nature of Exhortation](../../questions/Nature_of_Exhortation.md)
 How should Christians approach exhortation according to the teachings of the New Testament?
@@ -39,3 +39,7 @@ Now, if you'll excuse me, I need to get back to my research on the cultural sign
 
 ## Grades
  * [90.0](./Nature_of_Exhortation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Nature_of_Exhortation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Nature_of_Exhortation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Nature_of_Exhortation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Nature_of_Exhortation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

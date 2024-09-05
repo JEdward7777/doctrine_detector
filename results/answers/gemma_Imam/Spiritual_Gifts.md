@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Spiritual Gifts](../../questions/Spiritual_Gifts.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Spiritual Gifts](../../questions/Spiritual_Gifts.md)
 
 ## Question [Spiritual Gifts](../../questions/Spiritual_Gifts.md)
 What are the implications of the phrase 'spiritual gifts' as described in the Bible?
@@ -33,7 +33,11 @@ The concept of "spiritual gifts" as described in the Bible is not explicitly rec
 The phrase "spiritual gifts" as described in the Bible is not reconcilable with Islamic belief and practice. Muslims should adhere to the teachings of the Quran and Sunnah and seek spiritual guidance from reputable Islamic sources.
 
 ## Average Grade
-75.0
+64.0
 
 ## Grades
  * [75.0](./Spiritual_Gifts_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [65.0](./Spiritual_Gifts_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Spiritual_Gifts_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Spiritual_Gifts_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Spiritual_Gifts_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

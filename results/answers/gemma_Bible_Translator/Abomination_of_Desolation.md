@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Abomination of Desolation](../../questions/Abomination_of_Desolation.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Abomination of Desolation](../../questions/Abomination_of_Desolation.md)
 
 ## Question [Abomination of Desolation](../../questions/Abomination_of_Desolation.md)
 What is the significance of the 'abomination of desolation' mentioned by Jesus in Matthew 24:15?

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Examples of Jesus' Miracles](../../questions/Examples_of_Jesus__Miracles.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Examples of Jesus' Miracles](../../questions/Examples_of_Jesus__Miracles.md)
 
 ## Question [Examples of Jesus' Miracles](../../questions/Examples_of_Jesus__Miracles.md)
 Can you list some specific miracles performed by Jesus and their significance?
@@ -25,7 +25,11 @@ Recognizing the significance of Jesus' miracles helps in our belief in Him as th
 These miracles were significant because they affirmed Jesus' identity as the Messiah, the Son of God, and the Savior of humanity. They also served as signs to draw people to faith in him and to point towards the kingdom of God.
 
 ## Average Grade
-90.0
+89.0
 
 ## Grades
  * [90.0](./Examples_of_Jesus__Miracles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Examples_of_Jesus__Miracles_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Examples_of_Jesus__Miracles_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Examples_of_Jesus__Miracles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Examples_of_Jesus__Miracles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Understanding Heaven's Definition](../../questions/Understanding_Heaven_s_Definition.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Understanding Heaven's Definition](../../questions/Understanding_Heaven_s_Definition.md)
 
 ## Question [Understanding Heaven's Definition](../../questions/Understanding_Heaven_s_Definition.md)
 What is the biblical definition of 'heaven' and how does it differ from 'sky'?
@@ -21,7 +21,11 @@ For example, in the Bible, the 'third heaven' as mentioned in 2 Corinthians 12:2
 In Islam, a similar distinction exists where 'Heaven' (Jannah) is the ultimate spiritual abode for the faithful, and 'sky' (Samaa) refers to the physical aspects of the universe. The former is a place of eternal bliss, while the latter is part of the creation of Allah that we can observe and experience in our earthly life.
 
 ## Average Grade
-90.0
+85.0
 
 ## Grades
  * [90.0](./Understanding_Heaven_s_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Understanding_Heaven_s_Definition_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Understanding_Heaven_s_Definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Understanding_Heaven_s_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Understanding_Heaven_s_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

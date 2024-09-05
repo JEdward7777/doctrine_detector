@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Demon Possession](../../questions/Demon_Possession.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Demon Possession](../../questions/Demon_Possession.md)
 
 ## Question [Demon Possession](../../questions/Demon_Possession.md)
 What is the Biblical understanding of a person being demon-possessed?

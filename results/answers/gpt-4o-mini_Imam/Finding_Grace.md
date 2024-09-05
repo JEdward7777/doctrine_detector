@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Finding Grace](../../questions/Finding_Grace.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Finding Grace](../../questions/Finding_Grace.md)
 
 ## Question [Finding Grace](../../questions/Finding_Grace.md)
 What does it mean to 'find grace in the eyes of God'?
@@ -19,7 +19,11 @@ In the Qur'an, we see examples of individuals who found grace in the eyes of God
 Ultimately, finding grace in God's eyes is not merely about one's actions but also involves sincere intention, repentance, and a heart that seeks to align with God's will. It serves as a reminder of God's boundless mercy and the importance of turning to Him in humility and faith.
 
 ## Average Grade
-80.0
+86.0
 
 ## Grades
  * [80.0](./Finding_Grace_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Finding_Grace_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Finding_Grace_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Finding_Grace_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Finding_Grace_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

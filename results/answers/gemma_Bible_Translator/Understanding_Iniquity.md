@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Understanding Iniquity](../../questions/Understanding_Iniquity.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Understanding Iniquity](../../questions/Understanding_Iniquity.md)
 
 ## Question [Understanding Iniquity](../../questions/Understanding_Iniquity.md)
 What is the biblical distinction between iniquity, sin, and transgression?

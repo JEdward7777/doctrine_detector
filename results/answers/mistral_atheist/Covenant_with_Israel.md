@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral atheist](../../answering_models/mistral_atheist.md) answer to [Covenant with Israel](../../questions/Covenant_with_Israel.md)
+# Generated Answer from [mistral atheist](../../answering_models/mistral_atheist.md) for [Covenant with Israel](../../questions/Covenant_with_Israel.md)
 
 ## Question [Covenant with Israel](../../questions/Covenant_with_Israel.md)
 What was the nature of the covenant that God made with the people of Israel?
@@ -21,7 +21,11 @@ The covenant is further elaborated upon in the books of Exodus, Leviticus, and D
 It's important to note that interpretations of this covenant vary widely among scholars, religious groups, and individuals. Some view it as a historical agreement between God and the Israelites, while others see it as a metaphorical or symbolic representation of a spiritual relationship. As an atheistic scholar, I would not personally subscribe to the existence of a divine entity making such a covenant with humans. However, understanding the cultural and historical significance of this concept is crucial for analyzing religious texts and the societies they emerged from.
 
 ## Average Grade
-70.0
+58.0
 
 ## Grades
  * [70.0](./Covenant_with_Israel_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [60.0](./Covenant_with_Israel_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Covenant_with_Israel_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [50.0](./Covenant_with_Israel_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [40.0](./Covenant_with_Israel_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

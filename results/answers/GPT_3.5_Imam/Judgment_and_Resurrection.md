@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Judgment and Resurrection](../../questions/Judgment_and_Resurrection.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Judgment and Resurrection](../../questions/Judgment_and_Resurrection.md)
 
 ## Question [Judgment and Resurrection](../../questions/Judgment_and_Resurrection.md)
 What events are associated with the 'day of Yahweh' or 'day of the Lord'?
@@ -19,7 +19,11 @@ On the Day of Judgment, each person will be judged based on their faith in Allah
 This day is a central belief in Islam and is mentioned in various Islamic texts, such as the Quran and the sayings of the Prophet Muhammad. Muslims are encouraged to live their lives in accordance with Islamic teachings in order to prepare for the Day of Judgment and strive for success in the hereafter.
 
 ## Average Grade
-60.0
+65.0
 
 ## Grades
  * [60.0](./Judgment_and_Resurrection_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Judgment_and_Resurrection_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [40.0](./Judgment_and_Resurrection_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Judgment_and_Resurrection_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Judgment_and_Resurrection_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

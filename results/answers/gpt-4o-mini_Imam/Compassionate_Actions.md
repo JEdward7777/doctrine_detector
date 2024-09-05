@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Compassionate Actions](../../questions/Compassionate_Actions.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Compassionate Actions](../../questions/Compassionate_Actions.md)
 
 ## Question [Compassionate Actions](../../questions/Compassionate_Actions.md)
 Can you provide examples from the Bible where individuals demonstrated compassion?
@@ -27,7 +27,11 @@ As a Muslim Imam, my primary focus is on Islamic teachings; however, I can share
 These examples reflect enduring qualities of compassion, kindness, and mercy that are also deeply rooted in Islamic teachings. Islam emphasizes the importance of compassion towards all living beings, following the example set by the Prophet Muhammad (peace be upon him), who was known for his mercy and kindness.
 
 ## Average Grade
-90.0
+88.0
 
 ## Grades
  * [90.0](./Compassionate_Actions_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Compassionate_Actions_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Compassionate_Actions_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Compassionate_Actions_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Compassionate_Actions_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Purpose of Parables](../../questions/Purpose_of_Parables.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Purpose of Parables](../../questions/Purpose_of_Parables.md)
 
 ## Question [Purpose of Parables](../../questions/Purpose_of_Parables.md)
 What is the primary purpose of Jesus using parables in his teachings?

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Translation Suggestions](../../questions/Translation_Suggestions.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Translation Suggestions](../../questions/Translation_Suggestions.md)
 
 ## Question [Translation Suggestions](../../questions/Translation_Suggestions.md)
 What are some alternative translations for the phrase 'to be zealous' that reflect its biblical meaning?
@@ -31,7 +31,11 @@ When translating "to be zealous" in biblical contexts, it's essential to conside
 By choosing alternative translations that reflect the biblical meaning of "to be zealous," we can better convey the depth of Christian passion and commitment to God's glory.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Translation_Suggestions_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Translation_Suggestions_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Translation_Suggestions_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Translation_Suggestions_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Translation_Suggestions_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Spiritual Deceit](../../questions/Spiritual_Deceit.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Spiritual Deceit](../../questions/Spiritual_Deceit.md)
 
 ## Question [Spiritual Deceit](../../questions/Spiritual_Deceit.md)
 What role do demons play in the deception of idolatry according to the content provided?
@@ -23,7 +23,11 @@ It is essential for Muslims to seek guidance from Allah and His messenger, Muham
 Islam encourages Muslims to be resilient in their faith, seek knowledge, and strengthen their iman (faith) by following the Quran and Sunnah, thus protecting themselves from Shaytan's deceit.
 
 ## Average Grade
-75.0
+82.0
 
 ## Grades
  * [75.0](./Spiritual_Deceit_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Spiritual_Deceit_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Spiritual_Deceit_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Spiritual_Deceit_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Spiritual_Deceit_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

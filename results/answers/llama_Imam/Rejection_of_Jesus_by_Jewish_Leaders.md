@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Rejection of Jesus by Jewish Leaders](../../questions/Rejection_of_Jesus_by_Jewish_Leaders.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Rejection of Jesus by Jewish Leaders](../../questions/Rejection_of_Jesus_by_Jewish_Leaders.md)
 
 ## Question [Rejection of Jesus by Jewish Leaders](../../questions/Rejection_of_Jesus_by_Jewish_Leaders.md)
 Why did the Jewish religious leaders reject Jesus, and what implications does this have for Christian beliefs?
@@ -31,7 +31,11 @@ The rejection of Jesus by the Jewish leaders has significant implications for Ch
 In conclusion, the rejection of Jesus by the Jewish religious leaders is a complex issue with significant implications for Christian beliefs. As Muslims, we believe that Jesus was a prophet sent to guide the Children of Israel, but his message and teachings were distorted and rejected by those who should have accepted him. We also recognize that the conflict between Jews and Christians has its roots in this rejection, and we pray for peace and understanding between all people of faith.
 
 ## Average Grade
-85.0
+82.0
 
 ## Grades
  * [85.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

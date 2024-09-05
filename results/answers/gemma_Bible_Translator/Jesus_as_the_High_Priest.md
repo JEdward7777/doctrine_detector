@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Jesus as the High Priest](../../questions/Jesus_as_the_High_Priest.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Jesus as the High Priest](../../questions/Jesus_as_the_High_Priest.md)
 
 ## Question [Jesus as the High Priest](../../questions/Jesus_as_the_High_Priest.md)
 How is Jesus described in relation to the high priesthood according to the New Testament?

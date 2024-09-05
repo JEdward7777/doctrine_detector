@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Demon Possession](../../questions/Demon_Possession.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Demon Possession](../../questions/Demon_Possession.md)
 
 ## Question [Demon Possession](../../questions/Demon_Possession.md)
 What is the Biblical understanding of a person being demon-possessed?
@@ -19,7 +19,11 @@ In these stories, demons are presented as malevolent supernatural beings that ca
 It is important to note that this understanding of demon possession differs from Islamic teachings about jinn, which are mentioned in the Quran. While some similarities may exist in terms of evil spirits causing harm or distress to individuals, there are significant differences between these two concepts and beliefs. As a Muslim scholar, I would encourage anyone seeking spiritual guidance to study Islam and consult a qualified religious scholar for accurate information and understanding.
 
 ## Average Grade
-80.0
+67.0
 
 ## Grades
  * [80.0](./Demon_Possession_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [50.0](./Demon_Possession_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [40.0](./Demon_Possession_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Demon_Possession_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Demon_Possession_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

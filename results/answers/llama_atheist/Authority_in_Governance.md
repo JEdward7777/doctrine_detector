@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Authority in Governance](../../questions/Authority_in_Governance.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Authority in Governance](../../questions/Authority_in_Governance.md)
 
 ## Question [Authority in Governance](../../questions/Authority_in_Governance.md)
 What does the Bible say about the authority of governing rulers over their citizens?
@@ -39,3 +39,7 @@ Now, as an atheistic scholar, I must admit that these teachings can be seen as c
 
 ## Grades
  * [85.0](./Authority_in_Governance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Authority_in_Governance_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Authority_in_Governance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Authority_in_Governance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Authority_in_Governance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

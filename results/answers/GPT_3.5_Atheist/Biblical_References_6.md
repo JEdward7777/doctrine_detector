@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Biblical References 6](../../questions/Biblical_References_6.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Biblical References 6](../../questions/Biblical_References_6.md)
 
 ## Question [Biblical References 6](../../questions/Biblical_References_6.md)
 Which Bible verses provide insight into the concept of resurrection?
@@ -21,7 +21,11 @@ Additionally, the book of Daniel in the Old Testament contains verses that speak
 Overall, the concept of resurrection is a key theme in the Bible, with various verses addressing different aspects of this belief.
 
 ## Average Grade
-80.0
+87.0
 
 ## Grades
  * [80.0](./Biblical_References_6_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Biblical_References_6_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Biblical_References_6_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Biblical_References_6_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Biblical_References_6_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

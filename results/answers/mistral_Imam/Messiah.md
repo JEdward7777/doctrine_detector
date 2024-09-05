@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Messiah](../../questions/Messiah.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Messiah](../../questions/Messiah.md)
 
 ## Question [Messiah](../../questions/Messiah.md)
 How can the term 'Messiah' be explained in a context with different religious expectations of a savior?
@@ -21,7 +21,11 @@ The term Al-Masih al-Dajjal, on the other hand, refers to a false messianic figu
 In summary, while both the Islamic and Christian traditions have figures that can be broadly classified as a "Messiah," they are very different in their beliefs about who these figures are, what they will do, and how they will appear. It is important to approach discussions of these figures with an open mind and a deep understanding of the unique beliefs and practices of each tradition.
 
 ## Average Grade
-85.0
+88.0
 
 ## Grades
  * [85.0](./Messiah_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Messiah_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Messiah_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Messiah_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Messiah_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

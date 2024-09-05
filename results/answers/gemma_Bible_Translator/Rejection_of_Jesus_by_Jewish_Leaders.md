@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Rejection of Jesus by Jewish Leaders](../../questions/Rejection_of_Jesus_by_Jewish_Leaders.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Rejection of Jesus by Jewish Leaders](../../questions/Rejection_of_Jesus_by_Jewish_Leaders.md)
 
 ## Question [Rejection of Jesus by Jewish Leaders](../../questions/Rejection_of_Jesus_by_Jewish_Leaders.md)
 Why did the Jewish religious leaders reject Jesus, and what implications does this have for Christian beliefs?

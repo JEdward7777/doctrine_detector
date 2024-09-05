@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral atheist](../../answering_models/mistral_atheist.md) answer to [Authority of Apostles](../../questions/Authority_of_Apostles.md)
+# Generated Answer from [mistral atheist](../../answering_models/mistral_atheist.md) for [Authority of Apostles](../../questions/Authority_of_Apostles.md)
 
 ## Question [Authority of Apostles](../../questions/Authority_of_Apostles.md)
 How does the authority of the apostles relate to their ability to perform miracles and preach boldly?
@@ -23,7 +23,11 @@ From a scholarly, atheistic perspective, one might interpret these miracles as s
 Ultimately, the relationship between the authority of the apostles and their ability to perform miracles and preach boldly is complex and multifaceted, reflecting the richness and complexity of early Christian thought and the broader social, cultural, and religious contexts in which it emerged.
 
 ## Average Grade
-85.0
+87.0
 
 ## Grades
  * [85.0](./Authority_of_Apostles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Authority_of_Apostles_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Authority_of_Apostles_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Authority_of_Apostles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Authority_of_Apostles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

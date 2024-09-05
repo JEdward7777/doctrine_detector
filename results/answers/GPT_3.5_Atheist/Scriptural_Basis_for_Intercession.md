@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Scriptural Basis for Intercession](../../questions/Scriptural_Basis_for_Intercession.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Scriptural Basis for Intercession](../../questions/Scriptural_Basis_for_Intercession.md)
 
 ## Question [Scriptural Basis for Intercession](../../questions/Scriptural_Basis_for_Intercession.md)
 Which Bible verses provide insights into the practice of interceding for others?
@@ -19,7 +19,11 @@ Another verse that emphasizes interceding for others is James 5:16, which states
 Overall, the practice of interceding for others is a key aspect of many religious traditions, including Christianity. It reflects the idea of caring for and supporting others in times of need, and is seen as a way to demonstrate love and compassion for those around us.
 
 ## Average Grade
-90.0
+81.0
 
 ## Grades
  * [90.0](./Scriptural_Basis_for_Intercession_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Scriptural_Basis_for_Intercession_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Scriptural_Basis_for_Intercession_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Scriptural_Basis_for_Intercession_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Scriptural_Basis_for_Intercession_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Translation of Sanctuary](../../questions/Translation_of_Sanctuary.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Translation of Sanctuary](../../questions/Translation_of_Sanctuary.md)
 
 ## Question [Translation of Sanctuary](../../questions/Translation_of_Sanctuary.md)
 What care should be taken when translating the term 'sanctuary' in modern texts?

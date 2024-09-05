@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Use in Burial](../../questions/Use_in_Burial.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Use in Burial](../../questions/Use_in_Burial.md)
 
 ## Question [Use in Burial](../../questions/Use_in_Burial.md)
 How was myrrh used in the context of burial practices in biblical times?
@@ -23,3 +23,7 @@ Overall, the use of myrrh in burial practices in biblical times was a symbol of 
 
 ## Grades
  * [90.0](./Use_in_Burial_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Use_in_Burial_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Use_in_Burial_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Use_in_Burial_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Use_in_Burial_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

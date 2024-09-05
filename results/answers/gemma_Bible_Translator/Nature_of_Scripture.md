@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Nature of Scripture](../../questions/Nature_of_Scripture.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Nature of Scripture](../../questions/Nature_of_Scripture.md)
 
 ## Question [Nature of Scripture](../../questions/Nature_of_Scripture.md)
 How are the terms 'scripture' and 'the word of God' related in the biblical context?

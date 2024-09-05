@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Origin of the Term](../../questions/Origin_of_the_Term.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Origin of the Term](../../questions/Origin_of_the_Term.md)
 
 ## Question [Origin of the Term](../../questions/Origin_of_the_Term.md)
 Where were Jesus' followers first called 'Christians'?
@@ -23,7 +23,11 @@ The term "Christian" is believed to have originated in Antioch, Syria (modern-da
 So, my dear brother or sister, while we Muslims do not accept the divinity of Jesus or consider him a prophet of God like Muhammad (peace be upon him), it is interesting to note the evolution of terms used to describe his followers.
 
 ## Average Grade
-90.0
+87.0
 
 ## Grades
  * [90.0](./Origin_of_the_Term_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Origin_of_the_Term_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Origin_of_the_Term_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Origin_of_the_Term_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Origin_of_the_Term_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

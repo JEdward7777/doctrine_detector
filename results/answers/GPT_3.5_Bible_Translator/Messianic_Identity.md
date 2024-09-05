@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Messianic Identity](../../questions/Messianic_Identity.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Messianic Identity](../../questions/Messianic_Identity.md)
 
 ## Question [Messianic Identity](../../questions/Messianic_Identity.md)
 What significance does the title 'King of the Jews' hold in relation to Jesus' identity as the Messiah?
@@ -21,7 +21,11 @@ By being called the "King of the Jews," Jesus is not only identified as the fulf
 In conclusion, the title "King of the Jews" is a powerful affirmation of Jesus' identity as the long-awaited Messiah who fulfills biblical prophecies and establishes his kingdom through his sacrificial death and resurrection for the redemption of all humanity.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Messianic_Identity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Messianic_Identity_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Messianic_Identity_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Messianic_Identity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Messianic_Identity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

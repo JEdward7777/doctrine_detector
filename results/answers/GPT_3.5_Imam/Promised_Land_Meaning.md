@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Promised Land Meaning](../../questions/Promised_Land_Meaning.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Promised Land Meaning](../../questions/Promised_Land_Meaning.md)
 
 ## Question [Promised Land Meaning](../../questions/Promised_Land_Meaning.md)
 What does the term 'Promised Land' signify in the context of God's covenant with Abraham?
@@ -21,7 +21,11 @@ The Promised Land is often understood to be the land of Canaan, which includes p
 As Muslims, we believe in the Prophethood of Abraham, and we honor his legacy by acknowledging the significance of the Promised Land in our religious teachings.
 
 ## Average Grade
-70.0
+62.0
 
 ## Grades
  * [70.0](./Promised_Land_Meaning_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [60.0](./Promised_Land_Meaning_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Promised_Land_Meaning_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [50.0](./Promised_Land_Meaning_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Promised_Land_Meaning_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [Translation of Holy One](../../questions/Translation_of_Holy_One.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [Translation of Holy One](../../questions/Translation_of_Holy_One.md)
 
 ## Question [Translation of Holy One](../../questions/Translation_of_Holy_One.md)
 How should the term 'Holy One' be translated in different languages?
@@ -28,7 +28,11 @@ The term "Holy One" can be translated into different languages while considering
 Translating this term requires sensitivity to its connotations in each language, as well as the contexts in which it is used, especially in religious or spiritual texts.
 
 ## Average Grade
-90.0
+90.6
 
 ## Grades
  * [90.0](./Translation_of_Holy_One_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Translation_of_Holy_One_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Translation_of_Holy_One_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [93.0](./Translation_of_Holy_One_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Translation_of_Holy_One_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

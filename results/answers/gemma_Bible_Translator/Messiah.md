@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Messiah](../../questions/Messiah.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Messiah](../../questions/Messiah.md)
 
 ## Question [Messiah](../../questions/Messiah.md)
 How can the term 'Messiah' be explained in a context with different religious expectations of a savior?

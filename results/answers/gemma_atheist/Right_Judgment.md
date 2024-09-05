@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma atheist](../../answering_models/gemma_atheist.md) answer to [Right Judgment](../../questions/Right_Judgment.md)
+# Generated Answer from [gemma atheist](../../answering_models/gemma_atheist.md) for [Right Judgment](../../questions/Right_Judgment.md)
 
 ## Question [Right Judgment](../../questions/Right_Judgment.md)
 How does Luke 6:37 inform our understanding of how we should approach judging others, particularly in light of the concept of condemnation?
@@ -44,7 +44,11 @@ While Luke 6:37 discourages condemning others, it does not advocate for blind ac
 * True understanding promotes open dialogue and the possibility of resolving differences.
 
 ## Average Grade
-92.0
+90.4
 
 ## Grades
  * [92.0](./Right_Judgment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Right_Judgment_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Right_Judgment_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Right_Judgment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Right_Judgment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

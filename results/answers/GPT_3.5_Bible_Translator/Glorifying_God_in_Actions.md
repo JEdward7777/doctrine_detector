@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Glorifying God in Actions](../../questions/Glorifying_God_in_Actions.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Glorifying God in Actions](../../questions/Glorifying_God_in_Actions.md)
 
 ## Question [Glorifying God in Actions](../../questions/Glorifying_God_in_Actions.md)
 In what ways can a believer actively glorify God in their daily life?
@@ -28,7 +28,11 @@ Believers can actively glorify God in their daily life by:
 By consciously living out these principles in their daily lives, believers can bring glory to God and point others to His greatness and goodness.
 
 ## Average Grade
-90.0
+91.0
 
 ## Grades
  * [90.0](./Glorifying_God_in_Actions_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Glorifying_God_in_Actions_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Glorifying_God_in_Actions_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Glorifying_God_in_Actions_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Glorifying_God_in_Actions_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

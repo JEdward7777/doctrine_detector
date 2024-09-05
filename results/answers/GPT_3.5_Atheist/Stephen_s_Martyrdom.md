@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Stephen's Martyrdom](../../questions/Stephen_s_Martyrdom.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Stephen's Martyrdom](../../questions/Stephen_s_Martyrdom.md)
 
 ## Question [Stephen's Martyrdom](../../questions/Stephen_s_Martyrdom.md)
 What significance does the stoning of Stephen hold in the early Christian church, and what does it reveal about the challenges faced by early believers?
@@ -23,3 +23,7 @@ Despite the hardships and dangers they encountered, early believers like Stephen
 
 ## Grades
  * [90.0](./Stephen_s_Martyrdom_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Stephen_s_Martyrdom_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Stephen_s_Martyrdom_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Stephen_s_Martyrdom_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Stephen_s_Martyrdom_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

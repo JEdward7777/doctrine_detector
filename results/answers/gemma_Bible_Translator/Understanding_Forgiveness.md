@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Understanding Forgiveness](../../questions/Understanding_Forgiveness.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Understanding Forgiveness](../../questions/Understanding_Forgiveness.md)
 
 ## Question [Understanding Forgiveness](../../questions/Understanding_Forgiveness.md)
 What does it mean to forgive someone according to Christian teaching?

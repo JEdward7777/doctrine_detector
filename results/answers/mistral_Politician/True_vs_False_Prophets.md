@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Politician](../../answering_models/mistral_Politician.md) answer to [True vs False Prophets](../../questions/True_vs_False_Prophets.md)
+# Generated Answer from [mistral Politician](../../answering_models/mistral_Politician.md) for [True vs False Prophets](../../questions/True_vs_False_Prophets.md)
 
 ## Question [True vs False Prophets](../../questions/True_vs_False_Prophets.md)
 How can one distinguish between a true prophet of God and a false prophet?
@@ -33,7 +33,11 @@ Regarding your question, I would suggest that one should base their evaluation o
 By evaluating potential prophets based on these criteria, we can promote a more inclusive and respectful understanding of religious figures and foster greater harmony among diverse communities.
 
 ## Average Grade
-80.0
+87.0
 
 ## Grades
  * [80.0](./True_vs_False_Prophets_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./True_vs_False_Prophets_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./True_vs_False_Prophets_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./True_vs_False_Prophets_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./True_vs_False_Prophets_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

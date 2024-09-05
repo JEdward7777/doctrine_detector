@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Nature of Wickedness](../../questions/Nature_of_Wickedness.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Nature of Wickedness](../../questions/Nature_of_Wickedness.md)
 
 ## Question [Nature of Wickedness](../../questions/Nature_of_Wickedness.md)
 In what ways does the Bible suggest that individuals can be 'wicked' in their actions, and what does it say about the state of such individuals?
@@ -28,7 +28,11 @@ It's essential to note that Islamic theology views all human beings as being cap
 I hope this answer is helpful in providing an Islamic perspective on the Bible's teachings about wickedness.
 
 ## Average Grade
-80.0
+76.0
 
 ## Grades
  * [80.0](./Nature_of_Wickedness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [50.0](./Nature_of_Wickedness_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Nature_of_Wickedness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Nature_of_Wickedness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Nature_of_Wickedness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [Stoning as Punishment](../../questions/Stoning_as_Punishment.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [Stoning as Punishment](../../questions/Stoning_as_Punishment.md)
 
 ## Question [Stoning as Punishment](../../questions/Stoning_as_Punishment.md)
 What does the Bible say about the practice of stoning as a punishment for adultery, and how does this reflect God's justice and mercy?
@@ -21,7 +21,11 @@ On the other hand, the New Testament introduces a contrasting perspective on jus
 This duality reflects broader themes in the Judeo-Christian tradition regarding the nature of God as one who seeks justice but also desires mercy. It invites ongoing interpretations and discussions about the balance between upholding moral standards and extending grace. The practice of stoning for adultery, while historically specific, raises contemporary ethical questions about punishment, restorative justice, and the role of compassion in dealing with transgressions within any community.
 
 ## Average Grade
-85.0
+89.0
 
 ## Grades
  * [85.0](./Stoning_as_Punishment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Stoning_as_Punishment_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Stoning_as_Punishment_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Stoning_as_Punishment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Stoning_as_Punishment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

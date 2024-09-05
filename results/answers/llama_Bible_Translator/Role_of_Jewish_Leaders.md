@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Role of Jewish Leaders](../../questions/Role_of_Jewish_Leaders.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Role of Jewish Leaders](../../questions/Role_of_Jewish_Leaders.md)
 
 ## Question [Role of Jewish Leaders](../../questions/Role_of_Jewish_Leaders.md)
 How did the Jewish religious leaders influence the crucifixion of Jesus?
@@ -33,7 +33,11 @@ It's essential to note that while the Jewish leaders played a significant role i
 In conclusion, the Jewish religious leaders' influence on Jesus' crucifixion stemmed from a combination of factors, including jealousy, fear, misconceptions about Jesus' teachings, concerns about His claims to divinity, and cooperation with Roman authorities.
 
 ## Average Grade
-90.0
+90.4
 
 ## Grades
  * [90.0](./Role_of_Jewish_Leaders_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Role_of_Jewish_Leaders_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Role_of_Jewish_Leaders_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Role_of_Jewish_Leaders_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [92.0](./Role_of_Jewish_Leaders_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

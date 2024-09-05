@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Role of Priests](../../questions/Role_of_Priests.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Role of Priests](../../questions/Role_of_Priests.md)
 
 ## Question [Role of Priests](../../questions/Role_of_Priests.md)
 What were the main responsibilities of priests in the Old Testament according to the Bible?
@@ -23,7 +23,11 @@ In the Old Testament, priests had several main responsibilities, as outlined in 
 Overall, the role of priests in the Old Testament was to represent the people before God, facilitate their worship and communication with Him, and uphold the covenant between God and His people through obedience to His commands.
 
 ## Average Grade
-80.0
+85.0
 
 ## Grades
  * [80.0](./Role_of_Priests_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Role_of_Priests_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Role_of_Priests_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Role_of_Priests_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Role_of_Priests_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

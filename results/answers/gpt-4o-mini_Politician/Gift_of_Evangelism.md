@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) answer to [Gift of Evangelism](../../questions/Gift_of_Evangelism.md)
+# Generated Answer from [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) for [Gift of Evangelism](../../questions/Gift_of_Evangelism.md)
 
 ## Question [Gift of Evangelism](../../questions/Gift_of_Evangelism.md)
 What distinguishes an evangelist from other Christians?
@@ -25,7 +25,11 @@ The term "evangelist" typically refers to a person who actively shares the messa
 While all evangelists are Christians, not all Christians may identify as evangelists; many may focus on worship, community service, or personal faith without an explicit goal of evangelism. This differentiation emphasizes the varied expressions and roles within the larger Christian community, each contributing to the faith in unique ways.
 
 ## Average Grade
-90.0
+83.0
 
 ## Grades
  * [90.0](./Gift_of_Evangelism_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Gift_of_Evangelism_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Gift_of_Evangelism_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Gift_of_Evangelism_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Gift_of_Evangelism_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

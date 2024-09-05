@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) answer to [Covenants](../../questions/Covenants.md)
+# Generated Answer from [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) for [Covenants](../../questions/Covenants.md)
 
 ## Question [Covenants](../../questions/Covenants.md)
 How do the promises made in biblical covenants illustrate God's commitment to His people throughout Scripture?
@@ -27,7 +27,11 @@ Some key examples include:
 These biblical covenants illustrate God's steadfast commitment to His people despite their failures and shortcomings. They show that even when we are unfaithful, God remains faithful and keeps His promises. Through these covenants, we can understand the nature of God's relationship with humanity and trust in His faithfulness to fulfill His promises for those who believe in Jesus Christ.
 
 ## Average Grade
-85.0
+91.0
 
 ## Grades
  * [85.0](./Covenants_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Covenants_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Covenants_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Covenants_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Covenants_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Messianic Identity](../../questions/Messianic_Identity.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Messianic Identity](../../questions/Messianic_Identity.md)
 
 ## Question [Messianic Identity](../../questions/Messianic_Identity.md)
 What significance does the title 'King of the Jews' hold in relation to Jesus' identity as the Messiah?

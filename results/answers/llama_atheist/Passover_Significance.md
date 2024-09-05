@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Passover Significance](../../questions/Passover_Significance.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Passover Significance](../../questions/Passover_Significance.md)
 
 ## Question [Passover Significance](../../questions/Passover_Significance.md)
 What does the celebration of Passover signify for Christians in relation to Jesus?
@@ -27,3 +27,7 @@ In this sense, Christians may view Passover as an anticipation or foreshadowing 
 
 ## Grades
  * [90.0](./Passover_Significance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Passover_Significance_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Passover_Significance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Passover_Significance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Passover_Significance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Understanding Sacrifice](../../questions/Understanding_Sacrifice.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Understanding Sacrifice](../../questions/Understanding_Sacrifice.md)
 
 ## Question [Understanding Sacrifice](../../questions/Understanding_Sacrifice.md)
 Why is Jesus referred to as the 'Lamb of God' in relation to the sacrifices commanded in the Old Testament?
@@ -27,7 +27,11 @@ Furthermore, this epithet also alludes to the apocalyptic vision of a future whe
 In conclusion, the reference to Jesus as the "Lamb of God" is deeply rooted in Jewish scripture and tradition. By employing this metaphor, John's Gospel connects Jesus' life, death, and resurrection to the broader narrative of salvation history, highlighting his role as the ultimate sacrificial lamb who brings redemption to humanity.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Understanding_Sacrifice_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Understanding_Sacrifice_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Understanding_Sacrifice_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Understanding_Sacrifice_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_Sacrifice_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

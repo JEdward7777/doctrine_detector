@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Nature of God](../../questions/Nature_of_God.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Nature of God](../../questions/Nature_of_God.md)
 
 ## Question [Nature of God](../../questions/Nature_of_God.md)
 What does it mean when Jesus said that God is a spirit, and how should this understanding influence our worship?

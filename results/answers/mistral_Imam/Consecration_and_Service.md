@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Consecration and Service](../../questions/Consecration_and_Service.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Consecration and Service](../../questions/Consecration_and_Service.md)
 
 ## Question [Consecration and Service](../../questions/Consecration_and_Service.md)
 How does the act of consecration prepare individuals or things for God's service?
@@ -21,7 +21,11 @@ Moreover, consecration is not only limited to Hajj or Umrah; it can also be appl
 In summary, consecration prepares individuals and things by refocusing their intentions towards God, reminding them of their purpose in life, instilling humility, promoting simplicity, and making the act or object suitable for Allah's service.
 
 ## Average Grade
-85.0
+88.0
 
 ## Grades
  * [85.0](./Consecration_and_Service_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Consecration_and_Service_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Consecration_and_Service_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Consecration_and_Service_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Consecration_and_Service_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

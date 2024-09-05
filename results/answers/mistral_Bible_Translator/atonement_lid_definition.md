@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) answer to [atonement_lid_definition](../../questions/atonement_lid_definition.md)
+# Generated Answer from [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) for [atonement_lid_definition](../../questions/atonement_lid_definition.md)
 
 ## Question [atonement_lid_definition](../../questions/atonement_lid_definition.md)
 What was the significance of the atonement lid in the context of the ark of the covenant?
@@ -19,7 +19,11 @@ The atonement lid had two golden cherubim facing each other, symbolizing God's p
 This annual ritual served as a reminder that the people's sins were covered by God's grace, but it was also a foreshadowing of Christ, who would ultimately provide eternal redemption through His sacrifice on the cross (Hebrews 9:5, 24). The atonement lid thus carried great symbolic and spiritual significance within the Jewish faith and prefigured the ultimate atonement that Jesus Christ would bring.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./atonement_lid_definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./atonement_lid_definition_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./atonement_lid_definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./atonement_lid_definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./atonement_lid_definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

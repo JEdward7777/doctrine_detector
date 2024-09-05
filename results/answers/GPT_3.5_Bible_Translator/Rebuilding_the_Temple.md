@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Rebuilding the Temple](../../questions/Rebuilding_the_Temple.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Rebuilding the Temple](../../questions/Rebuilding_the_Temple.md)
 
 ## Question [Rebuilding the Temple](../../questions/Rebuilding_the_Temple.md)
 What events led to the destruction and subsequent rebuilding of the temple in Jerusalem?
@@ -23,7 +23,11 @@ There is also biblical imagery in the New Testament that presents believers them
 Overall, the destruction and subsequent rebuilding of the temple in Jerusalem serve as a reminder of the complex historical and theological significance within Christian and Jewish traditions.
 
 ## Average Grade
-80.0
+73.0
 
 ## Grades
  * [80.0](./Rebuilding_the_Temple_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Rebuilding_the_Temple_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Rebuilding_the_Temple_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Rebuilding_the_Temple_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [40.0](./Rebuilding_the_Temple_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

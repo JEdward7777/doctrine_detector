@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Nature of the Soul](../../questions/Nature_of_the_Soul.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Nature of the Soul](../../questions/Nature_of_the_Soul.md)
 
 ## Question [Nature of the Soul](../../questions/Nature_of_the_Soul.md)
 How does the Bible differentiate between the concepts of 'soul' and 'spirit'?
@@ -46,7 +46,11 @@ In Islam, we don't have an exact equivalent for these biblical terms. However, w
 While there may be some similarities between the biblical concepts of soul and spirit, and their Islamic counterparts, it is essential to recognize the unique theological and cultural contexts in which these terms are used.
 
 ## Average Grade
-75.0
+77.0
 
 ## Grades
  * [75.0](./Nature_of_the_Soul_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [75.0](./Nature_of_the_Soul_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Nature_of_the_Soul_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Nature_of_the_Soul_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Nature_of_the_Soul_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

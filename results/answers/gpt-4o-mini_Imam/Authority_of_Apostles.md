@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Authority of Apostles](../../questions/Authority_of_Apostles.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Authority of Apostles](../../questions/Authority_of_Apostles.md)
 
 ## Question [Authority of Apostles](../../questions/Authority_of_Apostles.md)
 How does the authority of the apostles relate to their ability to perform miracles and preach boldly?
@@ -23,7 +23,11 @@ In Islamic theology, the concept of authority, miracles, and preaching is nuance
 In summary, the authority bestowed upon apostles or figures akin to them in Islam is deeply connected to their mission of delivering God's message, validated by miracles as signs of their truthfulness, and empowering them to preach boldly against opposition. In this way, the interplay of divine authority, miraculous signs, and bold preaching creates a framework for understanding the role of prophets and messengers in Islam.
 
 ## Average Grade
-70.0
+83.0
 
 ## Grades
  * [70.0](./Authority_of_Apostles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Authority_of_Apostles_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Authority_of_Apostles_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Authority_of_Apostles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Authority_of_Apostles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

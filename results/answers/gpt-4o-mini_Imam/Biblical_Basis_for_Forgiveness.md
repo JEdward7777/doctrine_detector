@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Biblical Basis for Forgiveness](../../questions/Biblical_Basis_for_Forgiveness.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Biblical Basis for Forgiveness](../../questions/Biblical_Basis_for_Forgiveness.md)
 
 ## Question [Biblical Basis for Forgiveness](../../questions/Biblical_Basis_for_Forgiveness.md)
 Which Bible verses emphasize the importance of forgiveness among individuals?
@@ -31,7 +31,11 @@ In Islam, forgiveness is also a highly valued concept, and believers are encoura
 If you have any specific questions about forgiveness in Islam or would like to explore a certain aspect further, feel free to ask!
 
 ## Average Grade
-95.0
+91.0
 
 ## Grades
  * [95.0](./Biblical_Basis_for_Forgiveness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Biblical_Basis_for_Forgiveness_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Biblical_Basis_for_Forgiveness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Biblical_Basis_for_Forgiveness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Biblical_Basis_for_Forgiveness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

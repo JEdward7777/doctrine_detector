@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral atheist](../../answering_models/mistral_atheist.md) answer to [Privileges of Sonship](../../questions/Privileges_of_Sonship.md)
+# Generated Answer from [mistral atheist](../../answering_models/mistral_atheist.md) for [Privileges of Sonship](../../questions/Privileges_of_Sonship.md)
 
 ## Question [Privileges of Sonship](../../questions/Privileges_of_Sonship.md)
 What privileges do adopted children of God receive as mentioned in Romans 8:14-15?
@@ -23,7 +23,11 @@ Recognizing the depth of the relationship between believers and God.
 However, interpretations may vary among different religious groups and individuals, so I encourage you to explore further in your own cultural context or consult with a religious scholar for a more nuanced understanding.
 
 ## Average Grade
-95.0
+87.0
 
 ## Grades
  * [95.0](./Privileges_of_Sonship_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Privileges_of_Sonship_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Privileges_of_Sonship_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Privileges_of_Sonship_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Privileges_of_Sonship_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

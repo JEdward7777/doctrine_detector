@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [Ephod significance](../../questions/Ephod_significance.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [Ephod significance](../../questions/Ephod_significance.md)
 
 ## Question [Ephod significance](../../questions/Ephod_significance.md)
 What is the significance of the high priest's ephod in the context of Old Testament worship?
@@ -29,7 +29,11 @@ The ephod is a significant garment worn by the high priest in the context of Old
 Overall, the ephod's significance lies in its multifaceted role in representing the high priest’s duties, the divine authority vested in him, and its function in facilitating worship and maintaining the covenant relationship between God and Israel.
 
 ## Average Grade
-90.0
+91.0
 
 ## Grades
  * [90.0](./Ephod_significance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Ephod_significance_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Ephod_significance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Ephod_significance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Ephod_significance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

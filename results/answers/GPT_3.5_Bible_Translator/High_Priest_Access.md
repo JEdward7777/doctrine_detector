@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [High Priest Access](../../questions/High_Priest_Access.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [High Priest Access](../../questions/High_Priest_Access.md)
 
 ## Question [High Priest Access](../../questions/High_Priest_Access.md)
 Who was allowed to approach the ark of the covenant and under what circumstances?
@@ -23,7 +23,11 @@ There are several instances in the Bible where individuals who were not authoriz
 Therefore, approaching the ark of the covenant was a sacred and solemn responsibility reserved for the appointed Levitical priests, and any unauthorized or irreverent approach was met with severe consequences.
 
 ## Average Grade
-90.0
+87.0
 
 ## Grades
  * [90.0](./High_Priest_Access_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./High_Priest_Access_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./High_Priest_Access_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./High_Priest_Access_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./High_Priest_Access_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

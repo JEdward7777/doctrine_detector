@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma atheist](../../answering_models/gemma_atheist.md) answer to [Sabbath Observance](../../questions/Sabbath_Observance.md)
+# Generated Answer from [gemma atheist](../../answering_models/gemma_atheist.md) for [Sabbath Observance](../../questions/Sabbath_Observance.md)
 
 ## Question [Sabbath Observance](../../questions/Sabbath_Observance.md)
 What does it mean to keep the Sabbath holy according to the commandments given to Moses?
@@ -39,7 +39,11 @@ When considering the Sabbath in a culturally retributed way, we must acknowledge
 Keeping the Sabbath holy is a complex and nuanced concept that can be interpreted and practiced in culturally diverse ways. While traditional interpretations emphasize religious beliefs, it is important to acknowledge the cultural significance and ethical implications of this practice.
 
 ## Average Grade
-40.0
+57.0
 
 ## Grades
  * [40.0](./Sabbath_Observance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [50.0](./Sabbath_Observance_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [75.0](./Sabbath_Observance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [50.0](./Sabbath_Observance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [70.0](./Sabbath_Observance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

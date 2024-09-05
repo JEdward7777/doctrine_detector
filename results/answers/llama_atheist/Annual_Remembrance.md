@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Annual Remembrance](../../questions/Annual_Remembrance.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Annual Remembrance](../../questions/Annual_Remembrance.md)
 
 ## Question [Annual Remembrance](../../questions/Annual_Remembrance.md)
 Why were the Israelites commanded to celebrate Passover every year according to the Bible?
@@ -29,7 +29,11 @@ In terms of cultural significance, the Passover celebration likely played a role
 It's important to note that these interpretations are based on historical and cultural analysis, rather than religious beliefs or supernatural explanations. As a secular scholar, I'm focused on understanding the Passover celebration within its historical and cultural context, without relying on divine intervention or revelation.
 
 ## Average Grade
-40.0
+45.0
 
 ## Grades
  * [40.0](./Annual_Remembrance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [20.0](./Annual_Remembrance_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [50.0](./Annual_Remembrance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [30.0](./Annual_Remembrance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Annual_Remembrance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

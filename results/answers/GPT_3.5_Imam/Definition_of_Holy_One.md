@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Definition of Holy One](../../questions/Definition_of_Holy_One.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Definition of Holy One](../../questions/Definition_of_Holy_One.md)
 
 ## Question [Definition of Holy One](../../questions/Definition_of_Holy_One.md)
 What is the significance of the term 'Holy One' in the Bible?
@@ -19,7 +19,11 @@ In the Quran, Allah is referred to as Al-Quddus, which means "The Holy One" or "
 Therefore, the term "Holy One" carries a great significance in both the Bible and the Quran, emphasizing the absolute purity, perfection, and sacredness of God. Muslims and Christians alike strive to uphold the values of holiness in their lives in obedience to their respective scriptures.
 
 ## Average Grade
-70.0
+60.0
 
 ## Grades
  * [70.0](./Definition_of_Holy_One_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [60.0](./Definition_of_Holy_One_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Definition_of_Holy_One_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [25.0](./Definition_of_Holy_One_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Definition_of_Holy_One_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

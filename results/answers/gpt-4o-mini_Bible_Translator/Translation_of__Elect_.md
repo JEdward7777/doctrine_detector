@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) answer to [Translation of 'Elect'](../../questions/Translation_of__Elect_.md)
+# Generated Answer from [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) for [Translation of 'Elect'](../../questions/Translation_of__Elect_.md)
 
 ## Question [Translation of 'Elect'](../../questions/Translation_of__Elect_.md)
 In what ways does the translation of 'elect' differ in older and modern English Bible versions, and what impact does this have on understanding Scripture?
@@ -26,7 +26,11 @@ The translation of the term "elect" in the Bible has evolved from older English 
 In summary, the translation of "elect" across different versions reveals shifts in understanding that influence how contemporary readers engage with theological concepts. Recognizing these differences can lead to more informed discussions about the nature of God's choosing and its implications for believers today.
 
 ## Average Grade
-90.0
+88.4
 
 ## Grades
  * [90.0](./Translation_of__Elect__grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [87.0](./Translation_of__Elect__grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Translation_of__Elect__grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Translation_of__Elect__grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Translation_of__Elect__grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

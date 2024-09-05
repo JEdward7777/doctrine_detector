@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Local Church Meetings](../../questions/Local_Church_Meetings.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Local Church Meetings](../../questions/Local_Church_Meetings.md)
 
 ## Question [Local Church Meetings](../../questions/Local_Church_Meetings.md)
 How did the believers in a particular city typically meet according to the church content?

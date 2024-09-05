@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral atheist](../../answering_models/mistral_atheist.md) answer to [Authority of Parents](../../questions/Authority_of_Parents.md)
+# Generated Answer from [mistral atheist](../../answering_models/mistral_atheist.md) for [Authority of Parents](../../questions/Authority_of_Parents.md)
 
 ## Question [Authority of Parents](../../questions/Authority_of_Parents.md)
 What is the Biblical basis for parental authority over children?
@@ -29,3 +29,7 @@ These passages highlight the responsibility of children to honor and obey their 
 
 ## Grades
  * [90.0](./Authority_of_Parents_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Authority_of_Parents_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Authority_of_Parents_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Authority_of_Parents_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Authority_of_Parents_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [Significance of the Tetrarch Title](../../questions/Significance_of_the_Tetrarch_Title.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [Significance of the Tetrarch Title](../../questions/Significance_of_the_Tetrarch_Title.md)
 
 ## Question [Significance of the Tetrarch Title](../../questions/Significance_of_the_Tetrarch_Title.md)
 What does the title 'tetrarch' reveal about the governance structure during the time of Jesus?
@@ -25,7 +25,11 @@ The title "tetrarch" provides significant insight into the governance structure 
 In summary, the title "tetrarch" illustrates a complex governance structure in Judea during Jesus' time. It highlights the presence of Roman administrative practices, the fragmentation of authority after Herod the Great's reign, and the local rulers' need to balance their roles within the framework of Roman imperial power. This context is critical for understanding the social and political environment in which Jesus lived and preached.
 
 ## Average Grade
-95.0
+91.0
 
 ## Grades
  * [95.0](./Significance_of_the_Tetrarch_Title_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Significance_of_the_Tetrarch_Title_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Significance_of_the_Tetrarch_Title_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Significance_of_the_Tetrarch_Title_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Significance_of_the_Tetrarch_Title_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

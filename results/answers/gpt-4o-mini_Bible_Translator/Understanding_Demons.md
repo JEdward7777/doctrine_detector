@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) answer to [Understanding Demons](../../questions/Understanding_Demons.md)
+# Generated Answer from [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) for [Understanding Demons](../../questions/Understanding_Demons.md)
 
 ## Question [Understanding Demons](../../questions/Understanding_Demons.md)
 What does the term 'unclean spirit' signify in relation to demons as described in Christian teachings?
@@ -21,7 +21,11 @@ For example, in the Gospels, unclean spirits are depicted as being cast out by J
 Overall, unclean spirits are symbolic of the spiritual corruption and moral degradation that exists in the world, and their expulsion represents the victory of God's kingdom over evil.
 
 ## Average Grade
-90.0
+91.0
 
 ## Grades
  * [90.0](./Understanding_Demons_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Understanding_Demons_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Understanding_Demons_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Understanding_Demons_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_Demons_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

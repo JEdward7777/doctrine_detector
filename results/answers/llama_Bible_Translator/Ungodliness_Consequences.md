@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Ungodliness Consequences](../../questions/Ungodliness_Consequences.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Ungodliness Consequences](../../questions/Ungodliness_Consequences.md)
 
 ## Question [Ungodliness Consequences](../../questions/Ungodliness_Consequences.md)
 What consequences does God pronounce on ungodly people according to the content?
@@ -29,7 +29,11 @@ However, as a Christian, I must emphasize the incredible news that Jesus Christ 
 If you have any questions or concerns about this topic, please feel free to ask!
 
 ## Average Grade
-95.0
+94.4
 
 ## Grades
  * [95.0](./Ungodliness_Consequences_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [92.0](./Ungodliness_Consequences_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Ungodliness_Consequences_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Ungodliness_Consequences_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Ungodliness_Consequences_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

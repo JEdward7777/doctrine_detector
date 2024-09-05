@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Scriptural References to Restoration](../../questions/Scriptural_References_to_Restoration.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Scriptural References to Restoration](../../questions/Scriptural_References_to_Restoration.md)
 
 ## Question [Scriptural References to Restoration](../../questions/Scriptural_References_to_Restoration.md)
 Which Bible verses emphasize the theme of restoration and what do they illustrate?
@@ -45,7 +45,11 @@ In these examples, the theme of restoration is often linked to ideas of redempti
 Please note that as a Muslim Imam, I must emphasize that these passages should be understood within their own biblical context and not be taken as a reference point for Islamic teachings.
 
 ## Average Grade
-85.0
+83.0
 
 ## Grades
  * [85.0](./Scriptural_References_to_Restoration_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Scriptural_References_to_Restoration_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Scriptural_References_to_Restoration_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Scriptural_References_to_Restoration_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Scriptural_References_to_Restoration_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

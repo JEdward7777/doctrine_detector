@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Role of Priests](../../questions/Role_of_Priests.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Role of Priests](../../questions/Role_of_Priests.md)
 
 ## Question [Role of Priests](../../questions/Role_of_Priests.md)
 What were the main responsibilities of priests in the Old Testament according to the Bible?
@@ -27,7 +27,11 @@ Now, I must emphasize that these responsibilities were primarily entrusted to me
 As we move forward in our understanding of the Old Testament, it's crucial to acknowledge both the historical context and the cultural nuances that shaped the roles of priests. By doing so, we can work towards a more inclusive and respectful appreciation for the diverse contributions of individuals from all walks of life.
 
 ## Average Grade
-90.0
+89.0
 
 ## Grades
  * [90.0](./Role_of_Priests_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Role_of_Priests_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Role_of_Priests_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Role_of_Priests_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Role_of_Priests_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

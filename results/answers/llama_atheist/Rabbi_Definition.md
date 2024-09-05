@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Rabbi Definition](../../questions/Rabbi_Definition.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Rabbi Definition](../../questions/Rabbi_Definition.md)
 
 ## Question [Rabbi Definition](../../questions/Rabbi_Definition.md)
 What does the term 'Rabbi' mean in the context of Christian teaching?
@@ -23,7 +23,11 @@ It's also worth mentioning that some Christian denominations have adopted the ti
 Ultimately, while the term "Rabbi" originates from Judaism, its usage in Christian context is more of an analogy than a direct borrowing.
 
 ## Average Grade
-85.0
+80.0
 
 ## Grades
  * [85.0](./Rabbi_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Rabbi_Definition_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Rabbi_Definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [75.0](./Rabbi_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Rabbi_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

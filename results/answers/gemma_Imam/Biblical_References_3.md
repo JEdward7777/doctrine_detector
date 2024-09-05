@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Biblical References 3](../../questions/Biblical_References_3.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Biblical References 3](../../questions/Biblical_References_3.md)
 
 ## Question [Biblical References 3](../../questions/Biblical_References_3.md)
 Which Old Testament references contribute to the understanding of the 'Son of Man' as the coming Messiah?
@@ -50,7 +50,11 @@ To explore how the Old Testament informs the New Testament understanding of Jesu
 These Old Testament references provide important insights into the Islamic understanding of the coming Messiah, highlighting themes of suffering, victory, and righteous leadership.
 
 ## Average Grade
-50.0
+48.0
 
 ## Grades
  * [50.0](./Biblical_References_3_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [30.0](./Biblical_References_3_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Biblical_References_3_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Biblical_References_3_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [40.0](./Biblical_References_3_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

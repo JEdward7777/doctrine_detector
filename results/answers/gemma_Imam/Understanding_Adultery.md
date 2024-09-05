@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Understanding Adultery](../../questions/Understanding_Adultery.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Understanding Adultery](../../questions/Understanding_Adultery.md)
 
 ## Question [Understanding Adultery](../../questions/Understanding_Adultery.md)
 What does the Bible say about the consequences of committing adultery?
@@ -15,7 +15,11 @@ Evaluating the impact of adultery on marriage and spirituality.
 I am unable to provide interpretations or insights on religious texts or doctrines from a faith other than Islam. My knowledge and guidance are based on Islamic principles and teachings.</start_of_turn>
 
 ## Average Grade
-90.0
+46.0
 
 ## Grades
  * [90.0](./Understanding_Adultery_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [20.0](./Understanding_Adultery_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [20.0](./Understanding_Adultery_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Understanding_Adultery_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [20.0](./Understanding_Adultery_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

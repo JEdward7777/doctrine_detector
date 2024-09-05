@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Jesus' Statement](../../questions/Jesus__Statement.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Jesus' Statement](../../questions/Jesus__Statement.md)
 
 ## Question [Jesus' Statement](../../questions/Jesus__Statement.md)
 What did Jesus mean when he said, 'I am the Resurrection and the Life'?
@@ -40,7 +40,11 @@ Clarifying Jesus' identity and role in resurrection is important for faith and t
 **In summary, Jesus' statement "I am the Resurrection and the Life" means that he is the source of both physical resurrection and spiritual life for all who believe in him.**
 
 ## Average Grade
-85.0
+90.0
 
 ## Grades
  * [85.0](./Jesus__Statement_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Jesus__Statement_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Jesus__Statement_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Jesus__Statement_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Jesus__Statement_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Ministry Fulfillment](../../questions/Ministry_Fulfillment.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Ministry Fulfillment](../../questions/Ministry_Fulfillment.md)
 
 ## Question [Ministry Fulfillment](../../questions/Ministry_Fulfillment.md)
 What does it mean to fulfill your ministry as a Christian?

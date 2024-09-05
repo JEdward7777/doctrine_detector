@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Ethiopian Eunuch](../../questions/Ethiopian_Eunuch.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Ethiopian Eunuch](../../questions/Ethiopian_Eunuch.md)
 
 ## Question [Ethiopian Eunuch](../../questions/Ethiopian_Eunuch.md)
 What significance does the encounter between the apostle Philip and the Ethiopian eunuch have in the context of the early church?
@@ -25,7 +25,11 @@ Lastly, this episode serves as a poignant reminder that the early church recogni
 In conclusion, the encounter between Philip and the Ethiopian eunuch represents a pivotal moment in the early church's history, exemplifying the values of inclusivity, cultural sensitivity, and universalism that have come to define our faith. As we navigate the complexities of modern society, I believe this narrative offers valuable lessons for us to learn from and build upon.
 
 ## Average Grade
-90.0
+92.0
 
 ## Grades
  * [90.0](./Ethiopian_Eunuch_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Ethiopian_Eunuch_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Ethiopian_Eunuch_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Ethiopian_Eunuch_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Ethiopian_Eunuch_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

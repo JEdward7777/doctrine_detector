@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [The Messiah](../../questions/The_Messiah.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [The Messiah](../../questions/The_Messiah.md)
 
 ## Question [The Messiah](../../questions/The_Messiah.md)
 How are the terms 'Jesus' and 'Christ' related?
@@ -19,7 +19,11 @@ In Christian belief, Jesus Christ refers to Jesus being the Messiah or Anointed 
 So while the term "Christ" is related to Jesus in Christian belief, its connotation differs significantly from Islamic teachings about Isa (Jesus).
 
 ## Average Grade
-70.0
+58.0
 
 ## Grades
  * [70.0](./The_Messiah_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [50.0](./The_Messiah_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [30.0](./The_Messiah_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./The_Messiah_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./The_Messiah_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Understanding Bonds](../../questions/Understanding_Bonds.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Understanding Bonds](../../questions/Understanding_Bonds.md)
 
 ## Question [Understanding Bonds](../../questions/Understanding_Bonds.md)
 How does the Biblical concept of 'bonds' relate to our spiritual obligations and our relationship with God?
@@ -21,7 +21,11 @@ In terms of our relationship with God, these bonds play a crucial role in shapin
 Ultimately, the concept of bonds in a biblical context reminds us of the importance of staying true to our convictions, honoring our commitments, and nurturing our relationship with God and with our fellow human beings. It is through these bonds that we can find fulfillment, purpose, and a sense of belonging in the world.
 
 ## Average Grade
-90.0
+91.0
 
 ## Grades
  * [90.0](./Understanding_Bonds_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Understanding_Bonds_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Understanding_Bonds_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Understanding_Bonds_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Understanding_Bonds_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

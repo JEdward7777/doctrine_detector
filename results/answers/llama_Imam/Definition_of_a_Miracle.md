@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Definition of a Miracle](../../questions/Definition_of_a_Miracle.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Definition of a Miracle](../../questions/Definition_of_a_Miracle.md)
 
 ## Question [Definition of a Miracle](../../questions/Definition_of_a_Miracle.md)
 What is a miracle and how does it relate to God's authority?
@@ -37,7 +37,11 @@ In conclusion, miracles in Islam are a testament to Allah's authority, power, an
 Wa alaykum salam.
 
 ## Average Grade
-95.0
+90.0
 
 ## Grades
  * [95.0](./Definition_of_a_Miracle_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Definition_of_a_Miracle_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Definition_of_a_Miracle_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Definition_of_a_Miracle_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Definition_of_a_Miracle_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

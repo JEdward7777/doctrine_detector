@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [The Role of God's Chosen](../../questions/The_Role_of_God_s_Chosen.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [The Role of God's Chosen](../../questions/The_Role_of_God_s_Chosen.md)
 
 ## Question [The Role of God's Chosen](../../questions/The_Role_of_God_s_Chosen.md)
 How were figures like Moses and King David considered 'chosen ones'? What does this imply about God's selection process?
@@ -33,7 +33,11 @@ As an atheist, I see these concepts through the lens of human history and cultur
 Ultimately, the concept of chosenness highlights the complex relationships between humans, their gods, and their societies. While it may have held significant symbolic meaning for ancient Israelites, it's crucial to approach these ideas with a critical eye, recognizing both their cultural significance and the limitations of our understanding.
 
 ## Average Grade
-50.0
+38.0
 
 ## Grades
  * [50.0](./The_Role_of_God_s_Chosen_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [60.0](./The_Role_of_God_s_Chosen_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [30.0](./The_Role_of_God_s_Chosen_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [20.0](./The_Role_of_God_s_Chosen_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [30.0](./The_Role_of_God_s_Chosen_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

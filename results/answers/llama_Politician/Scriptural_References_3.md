@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Scriptural References 3](../../questions/Scriptural_References_3.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Scriptural References 3](../../questions/Scriptural_References_3.md)
 
 ## Question [Scriptural References 3](../../questions/Scriptural_References_3.md)
 What do passages like Matthew 23:27-28 teach us about the nature of iniquity?
@@ -25,7 +25,11 @@ As leaders, we must strive to create an environment where everyone has the oppor
 In conclusion, my fellow citizens, let us remember that true leadership is not about grandstanding or scoring political points but about creating a world where everyone can live with dignity and respect. As we navigate these complex issues, let us remain committed to the values of empathy, compassion, and inclusivity. Together, we can build a brighter future for all!
 
 ## Average Grade
-90.0
+85.0
 
 ## Grades
  * [90.0](./Scriptural_References_3_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Scriptural_References_3_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Scriptural_References_3_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Scriptural_References_3_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Scriptural_References_3_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

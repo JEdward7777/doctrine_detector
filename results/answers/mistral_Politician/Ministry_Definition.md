@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Politician](../../answering_models/mistral_Politician.md) answer to [Ministry Definition](../../questions/Ministry_Definition.md)
+# Generated Answer from [mistral Politician](../../answering_models/mistral_Politician.md) for [Ministry Definition](../../questions/Ministry_Definition.md)
 
 ## Question [Ministry Definition](../../questions/Ministry_Definition.md)
 What does it mean to 'minister' to others according to the Bible?
@@ -21,7 +21,11 @@ In a broader sense, ministry can also refer to any service or act of kindness sh
 In all forms of ministry, the aim is to show love, compassion, and care towards others, while striving to honor God in our actions.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Ministry_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Ministry_Definition_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Ministry_Definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Ministry_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Ministry_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

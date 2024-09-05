@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Politician](../../answering_models/mistral_Politician.md) answer to [Ways to Honor God](../../questions/Ways_to_Honor_God.md)
+# Generated Answer from [mistral Politician](../../answering_models/mistral_Politician.md) for [Ways to Honor God](../../questions/Ways_to_Honor_God.md)
 
 ## Question [Ways to Honor God](../../questions/Ways_to_Honor_God.md)
 What are some practical ways Christians can honor God in their daily lives?
@@ -37,3 +37,7 @@ Exploring actionable expressions of faith and worship in everyday life.
 
 ## Grades
  * [90.0](./Ways_to_Honor_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Ways_to_Honor_God_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Ways_to_Honor_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Ways_to_Honor_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Ways_to_Honor_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

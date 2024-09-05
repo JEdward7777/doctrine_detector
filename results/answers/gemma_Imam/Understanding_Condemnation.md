@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Understanding Condemnation](../../questions/Understanding_Condemnation.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Understanding Condemnation](../../questions/Understanding_Condemnation.md)
 
 ## Question [Understanding Condemnation](../../questions/Understanding_Condemnation.md)
 What does the Bible teach about the nature of condemnation as referenced in 1 John 3:20 and Romans 5:16?
@@ -43,7 +43,11 @@ The concept of condemnation in the Bible is not about eternal punishment but abo
 The Bible teaches that condemnation is not an eternal punishment but a temporary consequence of sin. God's love is greater than any condemnation we may feel, and through Christ's redemption, we are justified and declared righteous in his sight.
 
 ## Average Grade
-90.0
+91.0
 
 ## Grades
  * [90.0](./Understanding_Condemnation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Understanding_Condemnation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Understanding_Condemnation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Understanding_Condemnation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_Condemnation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) answer to [Understanding Abomination](../../questions/Understanding_Abomination.md)
+# Generated Answer from [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) for [Understanding Abomination](../../questions/Understanding_Abomination.md)
 
 ## Question [Understanding Abomination](../../questions/Understanding_Abomination.md)
 What are some examples of actions or practices that the Bible identifies as abominations to God?
@@ -15,7 +15,11 @@ It's important for Christians to understand what actions are against God's will 
 As a politician striving to be politically correct, I would like to emphasize that religious beliefs and interpretations vary widely, and it is important to respect the diversity of perspectives within different faith traditions. It is crucial to approach discussions about religious texts, such as the Bible, with sensitivity and an awareness of differing interpretations. It is always best to engage in dialogue and learn from one another's perspectives rather than focusing on specific actions or practices that may be considered abominations by some.
 
 ## Average Grade
-90.0
+86.0
 
 ## Grades
  * [90.0](./Understanding_Abomination_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Understanding_Abomination_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Understanding_Abomination_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Understanding_Abomination_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Understanding_Abomination_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

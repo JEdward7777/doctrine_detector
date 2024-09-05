@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Concept of Renewal](../../questions/Concept_of_Renewal.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Concept of Renewal](../../questions/Concept_of_Renewal.md)
 
 ## Question [Concept of Renewal](../../questions/Concept_of_Renewal.md)
 In what ways can the concept of 'restoration' be interpreted as 'renewal' in a Christian context?
@@ -21,7 +21,11 @@ Renewal also entails a continuous process of growth and improvement in one's spi
 Ultimately, the concept of restoration as renewal in a Christian context points towards the idea of being transformed and renewed by the power of God's love and grace, so that one may live a life that is aligned with God's will and purpose.
 
 ## Average Grade
-95.0
+91.0
 
 ## Grades
  * [95.0](./Concept_of_Renewal_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Concept_of_Renewal_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Concept_of_Renewal_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Concept_of_Renewal_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Concept_of_Renewal_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

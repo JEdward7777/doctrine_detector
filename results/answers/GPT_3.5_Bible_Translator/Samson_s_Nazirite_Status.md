@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Samson's Nazirite Status](../../questions/Samson_s_Nazirite_Status.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Samson's Nazirite Status](../../questions/Samson_s_Nazirite_Status.md)
 
 ## Question [Samson's Nazirite Status](../../questions/Samson_s_Nazirite_Status.md)
 How does Samson's story illustrate the implications of the Nazirite vow as outlined in the Bible?
@@ -21,7 +21,11 @@ Samson's story emphasizes the importance of honoring one's commitments to God, i
 Overall, Samson's narrative underscores the seriousness of following God's commands and the importance of living a life dedicated to obedience and faithfulness. It serves as a cautionary tale for believers to take their commitments to God seriously and to strive for holiness in their actions and decisions.
 
 ## Average Grade
-85.0
+88.0
 
 ## Grades
  * [85.0](./Samson_s_Nazirite_Status_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Samson_s_Nazirite_Status_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Samson_s_Nazirite_Status_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Samson_s_Nazirite_Status_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Samson_s_Nazirite_Status_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

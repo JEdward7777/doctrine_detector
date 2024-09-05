@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Translation of Saints](../../questions/Translation_of_Saints.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Translation of Saints](../../questions/Translation_of_Saints.md)
 
 ## Question [Translation of Saints](../../questions/Translation_of_Saints.md)
 What is a recommended way to translate the term 'saints'?
@@ -28,7 +28,11 @@ Instead, we focus on honoring and commemorating the virtues, deeds, and struggle
 In conclusion, I would recommend using terms like Awliya', Wali, or Pious Servants of Allah when referring to revered figures in Islam. This will help maintain clarity and accuracy in our understanding and appreciation of these individuals who have made significant contributions to the Islamic tradition.
 
 ## Average Grade
-50.0
+62.0
 
 ## Grades
  * [50.0](./Translation_of_Saints_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Translation_of_Saints_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Translation_of_Saints_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Translation_of_Saints_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [40.0](./Translation_of_Saints_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

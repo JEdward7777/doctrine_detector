@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Identity of Jesus](../../questions/Identity_of_Jesus.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Identity of Jesus](../../questions/Identity_of_Jesus.md)
 
 ## Question [Identity of Jesus](../../questions/Identity_of_Jesus.md)
 What does the name 'Jesus' signify in terms of His purpose?
@@ -21,7 +21,11 @@ Moreover, Jesus is seen as a significant figure who foretold the coming of Proph
 Ultimately, Jesus' purpose in Islam is rooted in delivering God's message, guiding humanity towards righteousness, and exemplifying a life of devotion and obedience to God. His life serves as a model for Muslims, emphasizing compassion, humility, and a steadfast commitment to faith.
 
 ## Average Grade
-50.0
+56.0
 
 ## Grades
  * [50.0](./Identity_of_Jesus_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Identity_of_Jesus_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [40.0](./Identity_of_Jesus_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [40.0](./Identity_of_Jesus_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Identity_of_Jesus_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

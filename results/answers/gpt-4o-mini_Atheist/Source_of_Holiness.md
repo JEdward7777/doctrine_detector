@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [Source of Holiness](../../questions/Source_of_Holiness.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [Source of Holiness](../../questions/Source_of_Holiness.md)
 
 ## Question [Source of Holiness](../../questions/Source_of_Holiness.md)
 How do believers become saints according to the Christian faith?
@@ -27,7 +27,11 @@ Different Christian denominations have varying processes and criteria for recogn
 In all cases, sainthood is viewed not just as a recognition of virtue but as a call to the faithful to emulate the lives of those who have demonstrated exceptional holiness.
 
 ## Average Grade
-95.0
+90.0
 
 ## Grades
  * [95.0](./Source_of_Holiness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Source_of_Holiness_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Source_of_Holiness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Source_of_Holiness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Source_of_Holiness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

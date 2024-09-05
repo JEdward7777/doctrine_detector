@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) answer to [Inheritance and the Promise to Abraham](../../questions/Inheritance_and_the_Promise_to_Abraham.md)
+# Generated Answer from [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) for [Inheritance and the Promise to Abraham](../../questions/Inheritance_and_the_Promise_to_Abraham.md)
 
 ## Question [Inheritance and the Promise to Abraham](../../questions/Inheritance_and_the_Promise_to_Abraham.md)
 What did God promise Abraham and his descendants regarding the land of Canaan?
@@ -17,7 +17,11 @@ In the context of the Abrahamic faiths, which include Judaism, Christianity, and
 The promise encompasses not only a physical inheritance of land but also signifies a broader spiritual covenant, emphasizing themes of faith, community, and divine guidance. It's important to approach discussions about these promises with sensitivity, recognizing their profound significance to various faith traditions and the diverse interpretations that exist within them.
 
 ## Average Grade
-85.0
+81.0
 
 ## Grades
  * [85.0](./Inheritance_and_the_Promise_to_Abraham_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Inheritance_and_the_Promise_to_Abraham_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Inheritance_and_the_Promise_to_Abraham_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Inheritance_and_the_Promise_to_Abraham_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Inheritance_and_the_Promise_to_Abraham_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

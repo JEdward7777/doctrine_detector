@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Understanding Atonement](../../questions/Understanding_Atonement.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Understanding Atonement](../../questions/Understanding_Atonement.md)
 
 ## Question [Understanding Atonement](../../questions/Understanding_Atonement.md)
 What is the significance of Christ's death as the permanent atonement for sin in Christian belief?
@@ -30,7 +30,11 @@ The significance of Christ's death can be summarized in several key points:
 While this perspective may differ from Islamic beliefs about Jesus' role as a prophet and messenger, it is essential to acknowledge the significance of Christ's death within the Christian context. As Muslims, we must respect the beliefs of our fellow human beings, even when they differ from ours.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Understanding_Atonement_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Understanding_Atonement_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Understanding_Atonement_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Understanding_Atonement_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Understanding_Atonement_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

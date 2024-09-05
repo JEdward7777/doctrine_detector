@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Role of Eunuchs](../../questions/Role_of_Eunuchs.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Role of Eunuchs](../../questions/Role_of_Eunuchs.md)
 
 ## Question [Role of Eunuchs](../../questions/Role_of_Eunuchs.md)
 How did the role of eunuchs in ancient times, such as serving in royal courts, reflect God's plan for different individuals in society?
@@ -21,3 +21,7 @@ In many ancient societies, including some where eunuchs were prominent, individu
 
 ## Grades
  * [50.0](./Role_of_Eunuchs_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [60.0](./Role_of_Eunuchs_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [50.0](./Role_of_Eunuchs_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [30.0](./Role_of_Eunuchs_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Role_of_Eunuchs_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

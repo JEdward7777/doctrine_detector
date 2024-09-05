@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Jesus as High Priest](../../questions/Jesus_as_High_Priest.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Jesus as High Priest](../../questions/Jesus_as_High_Priest.md)
 
 ## Question [Jesus as High Priest](../../questions/Jesus_as_High_Priest.md)
 How is Jesus referred to in relation to the priesthood, and what does this mean for the sacrifices made by human priests?

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Injustice in Society](../../questions/Injustice_in_Society.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Injustice in Society](../../questions/Injustice_in_Society.md)
 
 ## Question [Injustice in Society](../../questions/Injustice_in_Society.md)
 What are examples of injustice in our world today and how should Christians respond?
@@ -21,7 +21,11 @@ For Christians specifically, many take inspiration from their faith to engage in
 Ultimately, it is crucial for individuals of all backgrounds to come together in solidarity to combat injustice and work towards a more equitable and fair society for all.
 
 ## Average Grade
-70.0
+72.0
 
 ## Grades
  * [70.0](./Injustice_in_Society_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Injustice_in_Society_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Injustice_in_Society_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Injustice_in_Society_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Injustice_in_Society_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

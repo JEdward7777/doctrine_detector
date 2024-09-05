@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Children and Honor](../../questions/Children_and_Honor.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Children and Honor](../../questions/Children_and_Honor.md)
 
 ## Question [Children and Honor](../../questions/Children_and_Honor.md)
 What does the Bible instruct regarding how children should honor their parents?
@@ -27,7 +27,11 @@ In both the Quran and the Bible, there is emphasis on children honoring their pa
 I hope this answers your question from an Islamic perspective!
 
 ## Average Grade
-75.0
+71.0
 
 ## Grades
  * [75.0](./Children_and_Honor_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Children_and_Honor_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Children_and_Honor_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Children_and_Honor_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Children_and_Honor_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

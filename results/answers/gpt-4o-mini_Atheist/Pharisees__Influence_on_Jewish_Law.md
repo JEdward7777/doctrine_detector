@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [Pharisees' Influence on Jewish Law](../../questions/Pharisees__Influence_on_Jewish_Law.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [Pharisees' Influence on Jewish Law](../../questions/Pharisees__Influence_on_Jewish_Law.md)
 
 ## Question [Pharisees' Influence on Jewish Law](../../questions/Pharisees__Influence_on_Jewish_Law.md)
 How did the Pharisees' strict adherence to the Laws of Moses impact their relationship with Jesus and early Christians?
@@ -25,7 +25,11 @@ The Pharisees, a prominent Jewish group during the Second Temple period, were kn
 Ultimately, the strict adherence of the Pharisees to the Laws of Moses created a framework for both conflict and dialogue, influencing the development of early Christian theology and practices as they emerged in a predominantly Jewish cultural landscape.
 
 ## Average Grade
-90.0
+91.0
 
 ## Grades
  * [90.0](./Pharisees__Influence_on_Jewish_Law_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Pharisees__Influence_on_Jewish_Law_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Pharisees__Influence_on_Jewish_Law_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Pharisees__Influence_on_Jewish_Law_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Pharisees__Influence_on_Jewish_Law_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

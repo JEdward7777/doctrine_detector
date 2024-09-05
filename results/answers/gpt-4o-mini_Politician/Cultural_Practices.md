@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) answer to [Cultural Practices](../../questions/Cultural_Practices.md)
+# Generated Answer from [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) for [Cultural Practices](../../questions/Cultural_Practices.md)
 
 ## Question [Cultural Practices](../../questions/Cultural_Practices.md)
 What cultural practices were associated with the Jewish view of Gentiles and how did they impact early Christian practices?
@@ -31,7 +31,11 @@ These cultural practices shaped early Christian communities, particularly as the
 In summary, while Jewish cultural practices created a framework that initially separated Jews from Gentiles, early Christian movements began to reorient these relationships, leading to inclusivity and significant adaptations that helped define Christianity as it grew and spread across various cultures. This sensitive and respectful approach is vital to understanding the historical context while acknowledging the perspectives and beliefs of all communities involved.
 
 ## Average Grade
-95.0
+92.4
 
 ## Grades
  * [95.0](./Cultural_Practices_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [92.0](./Cultural_Practices_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Cultural_Practices_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Cultural_Practices_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Cultural_Practices_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

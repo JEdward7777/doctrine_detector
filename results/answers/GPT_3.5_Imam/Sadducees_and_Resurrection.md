@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Sadducees and Resurrection](../../questions/Sadducees_and_Resurrection.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Sadducees and Resurrection](../../questions/Sadducees_and_Resurrection.md)
 
 ## Question [Sadducees and Resurrection](../../questions/Sadducees_and_Resurrection.md)
 What was the belief of the Sadducees regarding the resurrection, and how does this contrast with Christian teaching?
@@ -19,7 +19,11 @@ In contrast, Christian teaching, as understood by mainstream Christian denominat
 Overall, the Sadducees’ disbelief in the resurrection contrasts with the central Christian belief in the resurrection, which is seen as a fundamental aspect of Christian eschatology and the hope for eternal life in union with God.
 
 ## Average Grade
-90.0
+81.0
 
 ## Grades
  * [90.0](./Sadducees_and_Resurrection_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Sadducees_and_Resurrection_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Sadducees_and_Resurrection_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Sadducees_and_Resurrection_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Sadducees_and_Resurrection_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

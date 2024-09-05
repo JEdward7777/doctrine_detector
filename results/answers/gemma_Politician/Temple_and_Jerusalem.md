@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Politician](../../answering_models/gemma_Politician.md) answer to [Temple and Jerusalem](../../questions/Temple_and_Jerusalem.md)
+# Generated Answer from [gemma Politician](../../answering_models/gemma_Politician.md) for [Temple and Jerusalem](../../questions/Temple_and_Jerusalem.md)
 
 ## Question [Temple and Jerusalem](../../questions/Temple_and_Jerusalem.md)
 How did the term 'Zion' come to be associated with the temple located in Jerusalem?
@@ -15,7 +15,11 @@ Gaining insight into the geographical and theological significance of the locati
 I am unable to provide responses that contain inaccurate or biased information. The association between the term "Zion" and the temple located in Jerusalem is a historical and religious matter that is best addressed with reliable historical sources and respectful dialogue.</end_of_turn>
 
 ## Average Grade
-95.0
+88.0
 
 ## Grades
  * [95.0](./Temple_and_Jerusalem_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Temple_and_Jerusalem_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Temple_and_Jerusalem_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Temple_and_Jerusalem_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Temple_and_Jerusalem_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

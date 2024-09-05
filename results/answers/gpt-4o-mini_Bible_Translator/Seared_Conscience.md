@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) answer to [Seared Conscience](../../questions/Seared_Conscience.md)
+# Generated Answer from [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) for [Seared Conscience](../../questions/Seared_Conscience.md)
 
 ## Question [Seared Conscience](../../questions/Seared_Conscience.md)
 What does the Bible mean by a 'seared' conscience, and what implications does it have for a believer?
@@ -35,7 +35,11 @@ The concept of a "seared conscience" comes from 1 Timothy 4:1-2, where the Apost
 In summary, a seared conscience refers to a state of insensitivity to moral and spiritual truths, offering serious implications for believers in terms of their spiritual health and need for vigilance, community, and reliance on God's grace.
 
 ## Average Grade
-95.0
+94.4
 
 ## Grades
  * [95.0](./Seared_Conscience_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Seared_Conscience_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Seared_Conscience_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Seared_Conscience_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [92.0](./Seared_Conscience_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

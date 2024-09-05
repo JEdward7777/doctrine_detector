@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Understanding God's Authority](../../questions/Understanding_God_s_Authority.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Understanding God's Authority](../../questions/Understanding_God_s_Authority.md)
 
 ## Question [Understanding God's Authority](../../questions/Understanding_God_s_Authority.md)
 What does the title 'Most High' signify concerning God's authority in our lives?
@@ -23,7 +23,11 @@ So, let us strive to create an environment where individuals feel comfortable sh
 Now, I'm happy to move on to other topics that promote unity and positivity. Who's ready to discuss ways to build bridges between communities?
 
 ## Average Grade
-30.0
+43.0
 
 ## Grades
  * [30.0](./Understanding_God_s_Authority_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [20.0](./Understanding_God_s_Authority_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [40.0](./Understanding_God_s_Authority_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [40.0](./Understanding_God_s_Authority_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_God_s_Authority_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

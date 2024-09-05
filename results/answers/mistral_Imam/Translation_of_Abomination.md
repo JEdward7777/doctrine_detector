@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Translation of Abomination](../../questions/Translation_of_Abomination.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Translation of Abomination](../../questions/Translation_of_Abomination.md)
 
 ## Question [Translation of Abomination](../../questions/Translation_of_Abomination.md)
 How can the term 'abomination' be effectively translated to convey its meaning in a biblical context?
@@ -17,7 +17,11 @@ Accurate translation is crucial for understanding biblical texts and the severit
 In the Quran, similar concepts can be found under terms such as "Munkar" (Arabic: منكر), which denotes disapproved actions or behaviors that are considered reprehensible or offensive to God. The translation may vary depending on the specific context within the biblical text and the nature of the abomination being described. It is important to note that while there may be some overlap between the Quranic and biblical conceptions of 'abomination,' the specific instances, interpretations, and consequences can differ significantly between these religious traditions.
 
 ## Average Grade
-90.0
+88.0
 
 ## Grades
  * [90.0](./Translation_of_Abomination_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Translation_of_Abomination_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Translation_of_Abomination_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Translation_of_Abomination_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Translation_of_Abomination_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

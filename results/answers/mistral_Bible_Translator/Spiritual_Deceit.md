@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) answer to [Spiritual Deceit](../../questions/Spiritual_Deceit.md)
+# Generated Answer from [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) for [Spiritual Deceit](../../questions/Spiritual_Deceit.md)
 
 ## Question [Spiritual Deceit](../../questions/Spiritual_Deceit.md)
 What role do demons play in the deception of idolatry according to the content provided?
@@ -21,7 +21,11 @@ Similarly, in 1 Corinthians 10:20-21, Paul warns the Corinthian church against p
 These passages suggest that demons play a role in the deception of idolatry by influencing human actions towards false worship and leading people astray from the true God. However, it is important to remember that this is a religious belief and not universally accepted as fact outside of Christian theology.
 
 ## Average Grade
-95.0
+91.0
 
 ## Grades
  * [95.0](./Spiritual_Deceit_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Spiritual_Deceit_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Spiritual_Deceit_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Spiritual_Deceit_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Spiritual_Deceit_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

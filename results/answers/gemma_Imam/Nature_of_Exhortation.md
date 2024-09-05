@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Nature of Exhortation](../../questions/Nature_of_Exhortation.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Nature of Exhortation](../../questions/Nature_of_Exhortation.md)
 
 ## Question [Nature of Exhortation](../../questions/Nature_of_Exhortation.md)
 How should Christians approach exhortation according to the teachings of the New Testament?
@@ -57,7 +57,11 @@ Exhortation plays a vital role in Christian life and practice. While there are d
 - Prayer and reflection are essential for producing meaningful and impactful words.
 
 ## Average Grade
-80.0
+83.0
 
 ## Grades
  * [80.0](./Nature_of_Exhortation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Nature_of_Exhortation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Nature_of_Exhortation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Nature_of_Exhortation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Nature_of_Exhortation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Jesus' Teachings](../../questions/Jesus__Teachings.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Jesus' Teachings](../../questions/Jesus__Teachings.md)
 
 ## Question [Jesus' Teachings](../../questions/Jesus__Teachings.md)
 How did Jesus use the term 'amen' to emphasize His teachings?
@@ -21,7 +21,11 @@ Additionally, Jesus used "amen" to contrast his teachings with those of the reli
 Overall, Jesus used the term "amen" to underscore the importance and truth of his teachings, calling his listeners to take his words seriously and to respond with faith and obedience.
 
 ## Average Grade
-95.0
+93.6
 
 ## Grades
  * [95.0](./Jesus__Teachings_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Jesus__Teachings_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Jesus__Teachings_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [98.0](./Jesus__Teachings_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Jesus__Teachings_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

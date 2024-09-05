@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Privileges of Sonship](../../questions/Privileges_of_Sonship.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Privileges of Sonship](../../questions/Privileges_of_Sonship.md)
 
 ## Question [Privileges of Sonship](../../questions/Privileges_of_Sonship.md)
 What privileges do adopted children of God receive as mentioned in Romans 8:14-15?
@@ -23,7 +23,11 @@ In Romans 8:14-15, the apostle Paul speaks about the privileges that adopted chi
 Overall, the privileges that adopted children of God receive include guidance and empowerment by the Holy Spirit, assurance of their identity as God's beloved children, and the promise of sharing in the blessings of sonship with Christ.
 
 ## Average Grade
-85.0
+86.0
 
 ## Grades
  * [85.0](./Privileges_of_Sonship_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Privileges_of_Sonship_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Privileges_of_Sonship_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Privileges_of_Sonship_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Privileges_of_Sonship_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

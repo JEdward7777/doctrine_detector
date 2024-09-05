@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [Distinction in Divine Titles](../../questions/Distinction_in_Divine_Titles.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [Distinction in Divine Titles](../../questions/Distinction_in_Divine_Titles.md)
 
 ## Question [Distinction in Divine Titles](../../questions/Distinction_in_Divine_Titles.md)
 Why is it important not to translate 'Lord Yahweh' as 'Lord LORD'?
@@ -27,7 +27,11 @@ Translating 'Lord Yahweh' as 'Lord LORD' can obscure the original meaning and si
 In summary, maintaining the distinction helps preserve the original meaning, theological significance, and cultural context of the Biblical text, enriching the understanding for contemporary readers.
 
 ## Average Grade
-85.0
+91.0
 
 ## Grades
  * [85.0](./Distinction_in_Divine_Titles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Distinction_in_Divine_Titles_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Distinction_in_Divine_Titles_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Distinction_in_Divine_Titles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Distinction_in_Divine_Titles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Jesus' Teachings](../../questions/Jesus__Teachings.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Jesus' Teachings](../../questions/Jesus__Teachings.md)
 
 ## Question [Jesus' Teachings](../../questions/Jesus__Teachings.md)
 How did Jesus use the term 'amen' to emphasize His teachings?
@@ -31,7 +31,11 @@ In Islamic understanding, the use of "Amen" by Prophet Isa emphasizes the import
 May Allah guide us to understand His words and may we be among those who truly know the truth. Ameen.
 
 ## Average Grade
-85.0
+84.0
 
 ## Grades
  * [85.0](./Jesus__Teachings_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Jesus__Teachings_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Jesus__Teachings_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Jesus__Teachings_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Jesus__Teachings_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

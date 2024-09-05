@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Testing and Temptation](../../questions/Testing_and_Temptation.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Testing and Temptation](../../questions/Testing_and_Temptation.md)
 
 ## Question [Testing and Temptation](../../questions/Testing_and_Temptation.md)
 How does the concept of testing differ from the idea of temptation in a biblical context?

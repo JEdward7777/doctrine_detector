@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [Adultery and Unfaithfulness](../../questions/Adultery_and_Unfaithfulness.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [Adultery and Unfaithfulness](../../questions/Adultery_and_Unfaithfulness.md)
 
 ## Question [Adultery and Unfaithfulness](../../questions/Adultery_and_Unfaithfulness.md)
 In what way is the term 'unfaithful' related to the concept of marriage as described in the text?
@@ -19,7 +19,11 @@ Marriage is traditionally understood as a covenant or partnership that includes 
 Culturally, responses to unfaithfulness vary widely, with some cultures emphasizing forgiveness and reconciliation while others may prioritize separation or divorce as a means of addressing the breach. Thus, the term 'unfaithful' serves as a significant point of discussion in exploring the values and expectations that underpin marital relationships.
 
 ## Average Grade
-90.0
+87.0
 
 ## Grades
  * [90.0](./Adultery_and_Unfaithfulness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Adultery_and_Unfaithfulness_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Adultery_and_Unfaithfulness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Adultery_and_Unfaithfulness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Adultery_and_Unfaithfulness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma atheist](../../answering_models/gemma_atheist.md) answer to [Eternal Punishment](../../questions/Eternal_Punishment.md)
+# Generated Answer from [gemma atheist](../../answering_models/gemma_atheist.md) for [Eternal Punishment](../../questions/Eternal_Punishment.md)
 
 ## Question [Eternal Punishment](../../questions/Eternal_Punishment.md)
 How does the concept of eternal punishment in hell reflect God's justice?
@@ -45,7 +45,11 @@ Issues about the nature of divine justice and mercy in relation to eternal conse
 The concept of eternal punishment in hell reflects cultural and philosophical assumptions rather than a just and merciful God. It is not consistent with the principles of logic, ethics, or the teachings of many religions.
 
 ## Average Grade
-50.0
+56.0
 
 ## Grades
  * [50.0](./Eternal_Punishment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [30.0](./Eternal_Punishment_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Eternal_Punishment_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [55.0](./Eternal_Punishment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Eternal_Punishment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

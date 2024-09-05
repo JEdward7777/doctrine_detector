@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [Restoration of Relationships](../../questions/Restoration_of_Relationships.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [Restoration of Relationships](../../questions/Restoration_of_Relationships.md)
 
 ## Question [Restoration of Relationships](../../questions/Restoration_of_Relationships.md)
 What does it mean for God to restore sinful people back to Himself?
@@ -27,7 +27,11 @@ The concept of God restoring sinful people back to Himself typically centers aro
 In summary, the restoration of sinful people back to God encompasses ideas of reconciliation, forgiveness, personal and communal transformation, and is enriched by cultural and philosophical perspectives.
 
 ## Average Grade
-85.0
+86.0
 
 ## Grades
  * [85.0](./Restoration_of_Relationships_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Restoration_of_Relationships_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Restoration_of_Relationships_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Restoration_of_Relationships_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Restoration_of_Relationships_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

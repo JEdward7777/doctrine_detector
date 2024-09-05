@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Authority of Parents](../../questions/Authority_of_Parents.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Authority of Parents](../../questions/Authority_of_Parents.md)
 
 ## Question [Authority of Parents](../../questions/Authority_of_Parents.md)
 What is the Biblical basis for parental authority over children?
@@ -39,7 +39,11 @@ Islamic law also recognizes parental authority as a fundamental responsibility. 
 Both the Bible and Islamic law share the principle of parental authority over children. The scriptures emphasize the divine responsibility of parents to guide, discipline, and provide for their children's spiritual and physical well-being.
 
 ## Average Grade
-85.0
+88.0
 
 ## Grades
  * [85.0](./Authority_of_Parents_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Authority_of_Parents_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Authority_of_Parents_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Authority_of_Parents_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Authority_of_Parents_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

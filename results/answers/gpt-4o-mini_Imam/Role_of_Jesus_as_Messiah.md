@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Role of Jesus as Messiah](../../questions/Role_of_Jesus_as_Messiah.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Role of Jesus as Messiah](../../questions/Role_of_Jesus_as_Messiah.md)
 
 ## Question [Role of Jesus as Messiah](../../questions/Role_of_Jesus_as_Messiah.md)
 How does the concept of the kingdom relate to Jesus' role as the Messiah?
@@ -23,7 +23,11 @@ While Jesus is not seen as establishing a kingdom in the earthly sense during hi
 In summary, while the concept of kingship and a kingdom can be related to Jesus' role in both Christian and Islamic contexts, the Islamic view emphasizes his prophetic mission, his role in eschatology, and ultimately the sovereignty of God, rather than a personal kingship.
 
 ## Average Grade
-85.0
+74.0
 
 ## Grades
  * [85.0](./Role_of_Jesus_as_Messiah_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Role_of_Jesus_as_Messiah_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [75.0](./Role_of_Jesus_as_Messiah_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Role_of_Jesus_as_Messiah_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Role_of_Jesus_as_Messiah_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

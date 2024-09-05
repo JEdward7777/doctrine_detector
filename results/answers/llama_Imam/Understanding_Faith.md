@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Understanding Faith](../../questions/Understanding_Faith.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Understanding Faith](../../questions/Understanding_Faith.md)
 
 ## Question [Understanding Faith](../../questions/Understanding_Faith.md)
 What does it mean to 'have faith in Jesus' according to the provided content?
@@ -21,7 +21,11 @@ Therefore, from an Islamic perspective, the concept of "having faith in Jesus" i
 It's essential to clarify that the concept of having faith in Jesus might have different meanings depending on the Christian context or understanding. As a Muslim Imam, my role is to provide guidance within the Islamic tradition, and I encourage you to explore and understand the teachings of Islam without compromising our own beliefs and practices.
 
 ## Average Grade
-30.0
+36.0
 
 ## Grades
  * [30.0](./Understanding_Faith_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [30.0](./Understanding_Faith_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [20.0](./Understanding_Faith_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [20.0](./Understanding_Faith_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Understanding_Faith_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

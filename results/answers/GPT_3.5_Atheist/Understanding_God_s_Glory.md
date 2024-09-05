@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Understanding God's Glory](../../questions/Understanding_God_s_Glory.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Understanding God's Glory](../../questions/Understanding_God_s_Glory.md)
 
 ## Question [Understanding God's Glory](../../questions/Understanding_God_s_Glory.md)
 How does the concept of God's glory in the Bible differ from worldly sources of glory?
@@ -19,7 +19,11 @@ On the other hand, worldly sources of glory are often temporary, fleeting, and u
 Overall, the concept of God's glory in the Bible emphasizes the supreme and unrivaled nature of God's character, while worldly sources of glory are seen as insignificant and fleeting in comparison.
 
 ## Average Grade
-90.0
+92.0
 
 ## Grades
  * [90.0](./Understanding_God_s_Glory_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Understanding_God_s_Glory_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Understanding_God_s_Glory_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Understanding_God_s_Glory_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Understanding_God_s_Glory_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

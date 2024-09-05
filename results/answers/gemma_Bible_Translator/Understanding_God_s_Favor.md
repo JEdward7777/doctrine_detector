@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Understanding God's Favor](../../questions/Understanding_God_s_Favor.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Understanding God's Favor](../../questions/Understanding_God_s_Favor.md)
 
 ## Question [Understanding God's Favor](../../questions/Understanding_God_s_Favor.md)
 How did Jesus demonstrate favor with God and men according to the Bible?

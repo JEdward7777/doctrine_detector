@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Politician](../../answering_models/mistral_Politician.md) answer to [Matthew, Mark, and Luke](../../questions/Matthew,_Mark,_and_Luke.md)
+# Generated Answer from [mistral Politician](../../answering_models/mistral_Politician.md) for [Matthew, Mark, and Luke](../../questions/Matthew,_Mark,_and_Luke.md)
 
 ## Question [Matthew, Mark, and Luke](../../questions/Matthew,_Mark,_and_Luke.md)
 In which books of the Bible are the names of the twelve disciples listed?
@@ -30,7 +30,11 @@ Being familiar with the Gospel accounts and their teachings.
 It is worth noting that depending on various translations and interpretations, the names of the Twelve Disciples may be listed in slightly different orders, and there may be some variations in the names for certain disciples. For example, Thaddaeus might be referred to as Judas (not Iscariot) or Lebbaeus, and Bartholomew is sometimes identified with Nathanael. Nevertheless, the above list represents the most common sequence found in the majority of Bible translations.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Matthew,_Mark,_and_Luke_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Matthew,_Mark,_and_Luke_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Matthew,_Mark,_and_Luke_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Matthew,_Mark,_and_Luke_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Matthew,_Mark,_and_Luke_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

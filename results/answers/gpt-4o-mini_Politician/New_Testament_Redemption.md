@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) answer to [New Testament Redemption](../../questions/New_Testament_Redemption.md)
+# Generated Answer from [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) for [New Testament Redemption](../../questions/New_Testament_Redemption.md)
 
 ## Question [New Testament Redemption](../../questions/New_Testament_Redemption.md)
 How does the concept of purification change from the Old Testament to the New Testament?
@@ -21,7 +21,11 @@ In contrast, the New Testament introduces a deeper spiritual dimension to the co
 Overall, while the Old Testament focuses on ceremonial and external purity, the New Testament emphasizes spiritual purity and transformation through a personal relationship with Jesus Christ. This progression highlights the continuity of God’s desire for His people to be pure, while also revealing the new covenant's transformative power.
 
 ## Average Grade
-90.0
+91.0
 
 ## Grades
  * [90.0](./New_Testament_Redemption_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./New_Testament_Redemption_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./New_Testament_Redemption_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./New_Testament_Redemption_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./New_Testament_Redemption_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

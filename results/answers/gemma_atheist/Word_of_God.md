@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma atheist](../../answering_models/gemma_atheist.md) answer to [Word of God](../../questions/Word_of_God.md)
+# Generated Answer from [gemma atheist](../../answering_models/gemma_atheist.md) for [Word of God](../../questions/Word_of_God.md)
 
 ## Question [Word of God](../../questions/Word_of_God.md)
 What does the term 'word of God' encompass according to the Bible?
@@ -41,7 +41,11 @@ As an atheist scholar, I acknowledge the importance of addressing questions in a
 The interpretation and application of the Word of God may vary widely across different contexts and communities. It is essential to respect the diverse perspectives and interpretations of others.
 
 ## Average Grade
-95.0
+87.0
 
 ## Grades
  * [95.0](./Word_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Word_of_God_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Word_of_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Word_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Word_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

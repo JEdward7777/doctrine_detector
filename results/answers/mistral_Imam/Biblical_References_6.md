@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Biblical References 6](../../questions/Biblical_References_6.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Biblical References 6](../../questions/Biblical_References_6.md)
 
 ## Question [Biblical References 6](../../questions/Biblical_References_6.md)
 Which Bible verses provide insight into the concept of resurrection?
@@ -31,7 +31,11 @@ In Islam, the Quran confirms this concept of resurrection and provides further d
 These verses emphasize the idea that God has the power to raise the dead and bring about a new creation, which is a concept shared with many believers in the Bible.
 
 ## Average Grade
-80.0
+78.0
 
 ## Grades
  * [80.0](./Biblical_References_6_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Biblical_References_6_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Biblical_References_6_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [75.0](./Biblical_References_6_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Biblical_References_6_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

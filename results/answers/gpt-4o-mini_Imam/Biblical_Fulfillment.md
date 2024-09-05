@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Biblical Fulfillment](../../questions/Biblical_Fulfillment.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Biblical Fulfillment](../../questions/Biblical_Fulfillment.md)
 
 ## Question [Biblical Fulfillment](../../questions/Biblical_Fulfillment.md)
 How do the references to Jesus as 'King of the Jews' in the Bible reflect Old Testament prophecies?
@@ -29,7 +29,11 @@ While Muslims do not view Jesus as the son of God but rather as a revered prophe
 In summary, the references to Jesus as "King of the Jews" reflect a deep connection with Old Testament prophecies concerning messianic expectations, underscoring the prophetic traditions that anticipate a divinely appointed leader.
 
 ## Average Grade
-90.0
+93.4
 
 ## Grades
  * [90.0](./Biblical_Fulfillment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Biblical_Fulfillment_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Biblical_Fulfillment_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Biblical_Fulfillment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [92.0](./Biblical_Fulfillment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

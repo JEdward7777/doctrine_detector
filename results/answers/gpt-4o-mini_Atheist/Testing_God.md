@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [Testing God](../../questions/Testing_God.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [Testing God](../../questions/Testing_God.md)
 
 ## Question [Testing God](../../questions/Testing_God.md)
 Why is it considered wrong to put God to the test?
@@ -29,7 +29,11 @@ The idea that it is wrong to put God to the test often stems from religious teac
 While interpretations and teachings vary between different cultures and religious groups, these themes are commonly found in discussions about the appropriateness of testing God. Understanding these perspectives can foster interfaith dialogues and a deeper appreciation of different beliefs and values.
 
 ## Average Grade
-95.0
+90.4
 
 ## Grades
  * [95.0](./Testing_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [92.0](./Testing_God_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Testing_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Testing_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Testing_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

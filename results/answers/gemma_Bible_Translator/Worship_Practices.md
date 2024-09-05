@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Worship Practices](../../questions/Worship_Practices.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Worship Practices](../../questions/Worship_Practices.md)
 
 ## Question [Worship Practices](../../questions/Worship_Practices.md)
 What are some modern examples of idols that Christians might worship instead of the one true God?

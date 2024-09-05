@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Sign of the Messiah](../../questions/Sign_of_the_Messiah.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Sign of the Messiah](../../questions/Sign_of_the_Messiah.md)
 
 ## Question [Sign of the Messiah](../../questions/Sign_of_the_Messiah.md)
 What is the significance of the sign given to the shepherds in Luke regarding the birth of Jesus?
@@ -19,7 +19,11 @@ However, the birth of Jesus is a significant event in Islamic belief as well. Mu
 Ultimately, the key message of Jesus' birth, whether in the Bible or the Quran, is the reminder of God's power, mercy, and love for humanity, and the importance of righteousness, humility, and obedience to God's commands.
 
 ## Average Grade
-85.0
+79.0
 
 ## Grades
  * [85.0](./Sign_of_the_Messiah_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Sign_of_the_Messiah_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Sign_of_the_Messiah_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Sign_of_the_Messiah_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Sign_of_the_Messiah_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

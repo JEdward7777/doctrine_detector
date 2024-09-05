@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Importance of Proclaiming the Gospel](../../questions/Importance_of_Proclaiming_the_Gospel.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Importance of Proclaiming the Gospel](../../questions/Importance_of_Proclaiming_the_Gospel.md)
 
 ## Question [Importance of Proclaiming the Gospel](../../questions/Importance_of_Proclaiming_the_Gospel.md)
 Why is it important for Christians to proclaim the 'good news'?
@@ -19,7 +19,11 @@ Additionally, the act of proclaiming the 'good news' is often motivated by a dee
 Overall, the proclamation of the 'good news' serves as a way for Christians to express their faith, share their beliefs with others, and potentially impact the lives of those who hear the message.
 
 ## Average Grade
-90.0
+87.0
 
 ## Grades
  * [90.0](./Importance_of_Proclaiming_the_Gospel_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Importance_of_Proclaiming_the_Gospel_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Importance_of_Proclaiming_the_Gospel_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Importance_of_Proclaiming_the_Gospel_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [70.0](./Importance_of_Proclaiming_the_Gospel_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

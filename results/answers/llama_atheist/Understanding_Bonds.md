@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Understanding Bonds](../../questions/Understanding_Bonds.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Understanding Bonds](../../questions/Understanding_Bonds.md)
 
 ## Question [Understanding Bonds](../../questions/Understanding_Bonds.md)
 How does the Biblical concept of 'bonds' relate to our spiritual obligations and our relationship with God?
@@ -42,7 +42,11 @@ In modern times, the concept of "bonds" can be seen as an analogy for our spirit
 As an atheistic scholar, I acknowledge that these concepts may not have direct relevance to my own beliefs or worldview. However, by examining the cultural context and historical significance of "bonds" in biblical thought, we can gain insights into the complexities of human spirituality and our relationships with one another.
 
 ## Average Grade
-80.0
+72.0
 
 ## Grades
  * [80.0](./Understanding_Bonds_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Understanding_Bonds_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [50.0](./Understanding_Bonds_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Understanding_Bonds_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_Bonds_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Politician](../../answering_models/mistral_Politician.md) answer to [Eternal Consequences](../../questions/Eternal_Consequences.md)
+# Generated Answer from [mistral Politician](../../answering_models/mistral_Politician.md) for [Eternal Consequences](../../questions/Eternal_Consequences.md)
 
 ## Question [Eternal Consequences](../../questions/Eternal_Consequences.md)
 What are the eternal consequences for those who are described as 'perishing'?
@@ -19,7 +19,11 @@ When it comes to the afterlife or eternal consequences, many cultures and belief
 If you're interested in discussing specific religious beliefs regarding the afterlife or eternal consequences, I would be happy to research and present information on various perspectives from around the world. Let's continue fostering an open dialogue that encourages empathy, inclusivity, and respect for all people.
 
 ## Average Grade
-20.0
+25.0
 
 ## Grades
  * [20.0](./Eternal_Consequences_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [25.0](./Eternal_Consequences_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [20.0](./Eternal_Consequences_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [40.0](./Eternal_Consequences_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [20.0](./Eternal_Consequences_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

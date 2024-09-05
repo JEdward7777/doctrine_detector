@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Understanding the Role of a Savior](../../questions/Understanding_the_Role_of_a_Savior.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Understanding the Role of a Savior](../../questions/Understanding_the_Role_of_a_Savior.md)
 
 ## Question [Understanding the Role of a Savior](../../questions/Understanding_the_Role_of_a_Savior.md)
 How does the Old Testament's concept of judges as saviors inform our understanding of Jesus Christ as the ultimate Savior in the New Testament?

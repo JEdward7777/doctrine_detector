@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [Understanding Temptation](../../questions/Understanding_Temptation.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [Understanding Temptation](../../questions/Understanding_Temptation.md)
 
 ## Question [Understanding Temptation](../../questions/Understanding_Temptation.md)
 What strategies did Jesus use to resist the temptations presented by Satan?
@@ -27,7 +27,11 @@ The narrative of Jesus resisting temptations by Satan is primarily found in the 
 These strategies illustrate not only Jesus' resistance to temptation but also provide a framework for addressing challenges that individuals may face. Emphasizing spiritual knowledge, identity, community, and moral values can be helpful for anyone encountering personal dilemmas.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Understanding_Temptation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Understanding_Temptation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Understanding_Temptation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Understanding_Temptation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_Temptation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

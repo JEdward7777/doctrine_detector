@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Role of Scribes in the Old Testament](../../questions/Role_of_Scribes_in_the_Old_Testament.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Role of Scribes in the Old Testament](../../questions/Role_of_Scribes_in_the_Old_Testament.md)
 
 ## Question [Role of Scribes in the Old Testament](../../questions/Role_of_Scribes_in_the_Old_Testament.md)
 What responsibilities did scribes have in preserving the Old Testament scriptures?

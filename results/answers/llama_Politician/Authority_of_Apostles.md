@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Authority of Apostles](../../questions/Authority_of_Apostles.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Authority of Apostles](../../questions/Authority_of_Apostles.md)
 
 ## Question [Authority of Apostles](../../questions/Authority_of_Apostles.md)
 How does the authority of the apostles relate to their ability to perform miracles and preach boldly?
@@ -33,3 +33,7 @@ Now, if you'll excuse me, I have some... diplomatic outreach to attend to.
 
 ## Grades
  * [75.0](./Authority_of_Apostles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [65.0](./Authority_of_Apostles_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [75.0](./Authority_of_Apostles_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [75.0](./Authority_of_Apostles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Authority_of_Apostles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

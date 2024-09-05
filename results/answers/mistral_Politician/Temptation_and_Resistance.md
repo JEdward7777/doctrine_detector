@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Politician](../../answering_models/mistral_Politician.md) answer to [Temptation and Resistance](../../questions/Temptation_and_Resistance.md)
+# Generated Answer from [mistral Politician](../../answering_models/mistral_Politician.md) for [Temptation and Resistance](../../questions/Temptation_and_Resistance.md)
 
 ## Question [Temptation and Resistance](../../questions/Temptation_and_Resistance.md)
 How did Jesus respond to the temptations presented by Satan?
@@ -23,7 +23,11 @@ Finally, Satan offered Jesus all the kingdoms of the world if he would bow down 
 By resisting Satan's temptations in this manner, Jesus demonstrated a commitment to God's will above all else, setting an example for humanity to follow. It is important to remember that the focus should always be on promoting love, understanding, and respect for all people, regardless of their beliefs or backgrounds.
 
 ## Average Grade
-95.0
+94.0
 
 ## Grades
  * [95.0](./Temptation_and_Resistance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Temptation_and_Resistance_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Temptation_and_Resistance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Temptation_and_Resistance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Temptation_and_Resistance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

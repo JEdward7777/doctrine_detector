@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral atheist](../../answering_models/mistral_atheist.md) answer to [The New Covenant](../../questions/The_New_Covenant.md)
+# Generated Answer from [mistral atheist](../../answering_models/mistral_atheist.md) for [The New Covenant](../../questions/The_New_Covenant.md)
 
 ## Question [The New Covenant](../../questions/The_New_Covenant.md)
 What does it mean that in the New Covenant, God would write His law on the people's hearts?
@@ -19,7 +19,11 @@ This concept suggests that obedience to God's commands would no longer be driven
 This idea is often interpreted as a metaphor for spiritual transformation, where individuals come to embody the principles of love, justice, and righteousness that are at the core of God's law. However, it's important to note that this concept can be understood differently by various religious groups and scholars due to its symbolic nature.
 
 ## Average Grade
-90.0
+89.0
 
 ## Grades
  * [90.0](./The_New_Covenant_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./The_New_Covenant_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./The_New_Covenant_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./The_New_Covenant_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./The_New_Covenant_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Relation to Atonement](../../questions/Relation_to_Atonement.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Relation to Atonement](../../questions/Relation_to_Atonement.md)
 
 ## Question [Relation to Atonement](../../questions/Relation_to_Atonement.md)
 How does the term 'propitiation' relate to the term 'atonement'?
@@ -19,7 +19,11 @@ The term 'propitiation' is often understood in Christian theology as the act of 
 In summary, while the term 'propitiation' may be related to the concept of atonement in some religious contexts, in Islam, the focus is on seeking forgiveness and atonement through direct repentance and seeking Allah's mercy and forgiveness.
 
 ## Average Grade
-90.0
+83.0
 
 ## Grades
  * [90.0](./Relation_to_Atonement_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [75.0](./Relation_to_Atonement_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Relation_to_Atonement_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Relation_to_Atonement_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Relation_to_Atonement_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

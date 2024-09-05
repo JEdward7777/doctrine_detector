@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Terminology](../../questions/Terminology.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Terminology](../../questions/Terminology.md)
 
 ## Question [Terminology](../../questions/Terminology.md)
 What are some alternative terms that can be used to describe a deacon?
@@ -24,7 +24,11 @@ In a Muslim context, the role of a deacon does not exist in the same manner as i
 These terms are specific to Islamic practices and structures rather than being direct equivalents to the role of a deacon but reflect similar qualities of service and leadership within the community.
 
 ## Average Grade
-70.0
+77.0
 
 ## Grades
  * [70.0](./Terminology_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Terminology_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Terminology_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Terminology_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Terminology_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

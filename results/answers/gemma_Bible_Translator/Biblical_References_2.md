@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Biblical References 2](../../questions/Biblical_References_2.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Biblical References 2](../../questions/Biblical_References_2.md)
 
 ## Question [Biblical References 2](../../questions/Biblical_References_2.md)
 Which Bible verses illustrate the concept of God's majesty?

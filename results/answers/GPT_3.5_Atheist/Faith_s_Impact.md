@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Faith's Impact](../../questions/Faith_s_Impact.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Faith's Impact](../../questions/Faith_s_Impact.md)
 
 ## Question [Faith's Impact](../../questions/Faith_s_Impact.md)
 How does true faith in Jesus manifest in a person's life?
@@ -21,7 +21,11 @@ For some individuals, true faith in Jesus may also involve a deep personal devot
 It is important to recognize that manifestations of faith can vary greatly among individuals, influenced by factors such as culture, upbringing, personal experiences, and interpretation of religious teachings. As an atheistic scholar, I would encourage an open-minded and respectful dialogue about the diversity of beliefs and expressions of faith in our world.
 
 ## Average Grade
-20.0
+35.0
 
 ## Grades
  * [20.0](./Faith_s_Impact_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [40.0](./Faith_s_Impact_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [30.0](./Faith_s_Impact_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [25.0](./Faith_s_Impact_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Faith_s_Impact_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

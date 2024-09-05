@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Authority of God](../../questions/Authority_of_God.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Authority of God](../../questions/Authority_of_God.md)
 
 ## Question [Authority of God](../../questions/Authority_of_God.md)
 What does the term 'Yahweh of hosts' signify about God's authority over spiritual beings?
@@ -27,7 +27,11 @@ Furthermore, the use of "hosts" in this title might allude to God's military pro
 In summary, when we consider Yahweh of Hosts in its ancient Near Eastern context, it signifies that God has absolute authority over spiritual beings, encompassing the entire cosmos. This title underscores God's supremacy, power, and control over the heavens and earth, underscoring His role as the one true God.
 
 ## Average Grade
-90.0
+93.0
 
 ## Grades
  * [90.0](./Authority_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Authority_of_God_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Authority_of_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Authority_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Authority_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

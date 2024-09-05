@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Word of God](../../questions/Word_of_God.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Word of God](../../questions/Word_of_God.md)
 
 ## Question [Word of God](../../questions/Word_of_God.md)
 What does the term 'word of God' encompass according to the Bible?
@@ -19,7 +19,11 @@ Additionally, in the New Testament, the term "Word of God" is often used to refe
 Therefore, the concept of the "Word of God" in the Bible encompasses both the written scriptures and the person of Jesus Christ, both of which are believed to reveal God's will and plan for humanity.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Word_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Word_of_God_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Word_of_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Word_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Word_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

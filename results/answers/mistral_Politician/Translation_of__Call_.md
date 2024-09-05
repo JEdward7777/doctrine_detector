@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Politician](../../answering_models/mistral_Politician.md) answer to [Translation of 'Call'](../../questions/Translation_of__Call_.md)
+# Generated Answer from [mistral Politician](../../answering_models/mistral_Politician.md) for [Translation of 'Call'](../../questions/Translation_of__Call_.md)
 
 ## Question [Translation of 'Call'](../../questions/Translation_of__Call_.md)
 What are some alternative translations of the phrase 'You must call his name' in a biblical context?
@@ -24,7 +24,11 @@ Understanding the nuances of biblical language and its impact on interpretation.
 10. Using the name that identifies him individually is suggested. (Descriptive, focuses on uniqueness)
 
 ## Average Grade
-85.0
+75.0
 
 ## Grades
  * [85.0](./Translation_of__Call__grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Translation_of__Call__grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [75.0](./Translation_of__Call__grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Translation_of__Call__grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Translation_of__Call__grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

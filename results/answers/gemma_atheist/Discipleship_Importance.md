@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma atheist](../../answering_models/gemma_atheist.md) answer to [Discipleship Importance](../../questions/Discipleship_Importance.md)
+# Generated Answer from [gemma atheist](../../answering_models/gemma_atheist.md) for [Discipleship Importance](../../questions/Discipleship_Importance.md)
 
 ## Question [Discipleship Importance](../../questions/Discipleship_Importance.md)
 Why were the twelve apostles chosen as Jesus' closest disciples?
@@ -44,7 +44,11 @@ The Gospels provide accounts of Jesus selecting the twelve apostles during vario
 The choice of the twelve apostles was a culturally influenced decision that reflected the social and religious norms of the first century AD. It was also a strategic move to ensure the continuity and growth of Jesus's ministry.
 
 ## Average Grade
-92.0
+90.4
 
 ## Grades
  * [92.0](./Discipleship_Importance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Discipleship_Importance_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Discipleship_Importance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Discipleship_Importance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Discipleship_Importance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

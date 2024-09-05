@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Chief Priests' Authority](../../questions/Chief_Priests__Authority.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Chief Priests' Authority](../../questions/Chief_Priests__Authority.md)
 
 ## Question [Chief Priests' Authority](../../questions/Chief_Priests__Authority.md)
 What was the relationship between the chief priests and the ordinary priests in terms of authority?
@@ -21,7 +21,11 @@ However, it's important to note that their relationship was not one of authority
 This relationship can be seen as a reminder for Muslim leaders to prioritize unity, cooperation, and mutual respect within the community, while recognizing that each person has their unique role to play in serving Allah and uplifting humanity.
 
 ## Average Grade
-85.0
+79.0
 
 ## Grades
  * [85.0](./Chief_Priests__Authority_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Chief_Priests__Authority_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Chief_Priests__Authority_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Chief_Priests__Authority_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Chief_Priests__Authority_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

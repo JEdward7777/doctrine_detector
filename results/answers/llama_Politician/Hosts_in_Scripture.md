@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Hosts in Scripture](../../questions/Hosts_in_Scripture.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Hosts in Scripture](../../questions/Hosts_in_Scripture.md)
 
 ## Question [Hosts in Scripture](../../questions/Hosts_in_Scripture.md)
 In what context is the term 'hosts' used in scripture, and what does it encompass?
@@ -23,7 +23,11 @@ As your elected representative, I want to assure you that my understanding of sc
 Now, if you'll excuse me, I need to attend to some pressing matters in our great city. But rest assured, I will continue to study and reflect on these profound biblical concepts, always seeking to promote understanding and inclusivity.
 
 ## Average Grade
-75.0
+74.0
 
 ## Grades
  * [75.0](./Hosts_in_Scripture_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Hosts_in_Scripture_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Hosts_in_Scripture_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Hosts_in_Scripture_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Hosts_in_Scripture_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Understanding New Birth](../../questions/Understanding_New_Birth.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Understanding New Birth](../../questions/Understanding_New_Birth.md)
 
 ## Question [Understanding New Birth](../../questions/Understanding_New_Birth.md)
 What does it mean to be 'born again' according to the Bible?
@@ -21,7 +21,11 @@ It's important to note that this concept does not have direct parallels within I
 However, it is always valuable to engage in dialogue and mutual understanding between different faiths, as it fosters respect, appreciation, and learning among people from diverse backgrounds.
 
 ## Average Grade
-95.0
+91.0
 
 ## Grades
  * [95.0](./Understanding_New_Birth_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Understanding_New_Birth_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Understanding_New_Birth_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Understanding_New_Birth_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Understanding_New_Birth_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

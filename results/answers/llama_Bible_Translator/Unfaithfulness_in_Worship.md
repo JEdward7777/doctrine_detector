@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Unfaithfulness in Worship](../../questions/Unfaithfulness_in_Worship.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Unfaithfulness in Worship](../../questions/Unfaithfulness_in_Worship.md)
 
 ## Question [Unfaithfulness in Worship](../../questions/Unfaithfulness_in_Worship.md)
 How did the people of Israel demonstrate unfaithfulness in their worship?
@@ -25,7 +25,11 @@ What a great question! Throughout the Hebrew Scriptures, God's people, the Israe
 These forms of unfaithfulness led to God's judgment and punishment on the Israelites, as recorded throughout the Hebrew Scriptures. However, God always remained faithful to His covenant with Abraham, Isaac, and Jacob, and He would ultimately send a Messiah to redeem His people (Genesis 3:15; Galatians 3:8).
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Unfaithfulness_in_Worship_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Unfaithfulness_in_Worship_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Unfaithfulness_in_Worship_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Unfaithfulness_in_Worship_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Unfaithfulness_in_Worship_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

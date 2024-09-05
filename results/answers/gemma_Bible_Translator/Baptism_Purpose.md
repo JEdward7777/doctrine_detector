@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Baptism Purpose](../../questions/Baptism_Purpose.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Baptism Purpose](../../questions/Baptism_Purpose.md)
 
 ## Question [Baptism Purpose](../../questions/Baptism_Purpose.md)
 What is the significance of baptism in the life of a Christian according to New Testament teachings?

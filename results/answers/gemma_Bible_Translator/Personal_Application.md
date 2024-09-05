@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Personal Application](../../questions/Personal_Application.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Personal Application](../../questions/Personal_Application.md)
 
 ## Question [Personal Application](../../questions/Personal_Application.md)
 What does it mean for a Christian to experience purification from sin?

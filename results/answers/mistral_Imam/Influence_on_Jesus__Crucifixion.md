@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Influence on Jesus' Crucifixion](../../questions/Influence_on_Jesus__Crucifixion.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Influence on Jesus' Crucifixion](../../questions/Influence_on_Jesus__Crucifixion.md)
 
 ## Question [Influence on Jesus' Crucifixion](../../questions/Influence_on_Jesus__Crucifixion.md)
 How did the Sadducees and Pharisees influence the decision to crucify Jesus, and what does this reveal about their character?
@@ -25,7 +25,11 @@ From an Islamic perspective, Prophet Isa (Jesus) is considered a Messenger of Go
 In light of this, it's essential to approach these historical events with an understanding that different religious traditions may interpret them differently based on their beliefs and scriptures.
 
 ## Average Grade
-70.0
+50.0
 
 ## Grades
  * [70.0](./Influence_on_Jesus__Crucifixion_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [50.0](./Influence_on_Jesus__Crucifixion_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [50.0](./Influence_on_Jesus__Crucifixion_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [40.0](./Influence_on_Jesus__Crucifixion_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [40.0](./Influence_on_Jesus__Crucifixion_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [God's Promises](../../questions/God_s_Promises.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [God's Promises](../../questions/God_s_Promises.md)
 
 ## Question [God's Promises](../../questions/God_s_Promises.md)
 What significance do God's promises hold in the context of His relationship with His people, as seen in the examples from the Bible?
@@ -23,7 +23,11 @@ Furthermore, God's promises in Islam also include the assurance of His protectio
 Overall, God's promises in Islam play a crucial role in the relationship between Allah and His people, providing them with the guidance, assurance, and motivation needed to navigate through life's ups and downs with faith and resilience.
 
 ## Average Grade
-70.0
+81.0
 
 ## Grades
  * [70.0](./God_s_Promises_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./God_s_Promises_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./God_s_Promises_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./God_s_Promises_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./God_s_Promises_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

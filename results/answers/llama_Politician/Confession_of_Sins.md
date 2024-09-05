@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Confession of Sins](../../questions/Confession_of_Sins.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Confession of Sins](../../questions/Confession_of_Sins.md)
 
 ## Question [Confession of Sins](../../questions/Confession_of_Sins.md)
 What should a Christian do when tempted to sin according to the Bible?
@@ -25,7 +25,11 @@ Now, I know some of you might be thinking, "But what about the specifics of Chri
 So, my friends, let us work together towards creating a world where everyone feels welcome, valued, and supported – regardless of their beliefs or backgrounds. And remember, when tempted to sin... (winking) ...take a deep breath, reflect on your values, and seek out the wisdom that's within you!
 
 ## Average Grade
-60.0
+56.0
 
 ## Grades
  * [60.0](./Confession_of_Sins_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [50.0](./Confession_of_Sins_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [40.0](./Confession_of_Sins_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Confession_of_Sins_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [70.0](./Confession_of_Sins_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

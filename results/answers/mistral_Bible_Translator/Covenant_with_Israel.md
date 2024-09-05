@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) answer to [Covenant with Israel](../../questions/Covenant_with_Israel.md)
+# Generated Answer from [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) for [Covenant with Israel](../../questions/Covenant_with_Israel.md)
 
 ## Question [Covenant with Israel](../../questions/Covenant_with_Israel.md)
 What was the nature of the covenant that God made with the people of Israel?
@@ -19,7 +19,11 @@ The Mosaic Covenant can be understood in terms of God's promises and the Israeli
 This covenant had a conditional nature, as it was based on the Israelites' obedience to God's commands. However, it should be noted that the New Testament reveals that the Mosaic Covenant was a shadow of the New Covenant established through Jesus Christ (Hebrews 8:6-13). The New Covenant is not based on human effort or obedience to laws but on God's grace through faith in Christ.
 
 ## Average Grade
-90.0
+86.0
 
 ## Grades
  * [90.0](./Covenant_with_Israel_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Covenant_with_Israel_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Covenant_with_Israel_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Covenant_with_Israel_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Covenant_with_Israel_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

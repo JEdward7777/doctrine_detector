@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Nazirite Vow Significance](../../questions/Nazirite_Vow_Significance.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Nazirite Vow Significance](../../questions/Nazirite_Vow_Significance.md)
 
 ## Question [Nazirite Vow Significance](../../questions/Nazirite_Vow_Significance.md)
 What are the key restrictions associated with the Nazirite vow as described in Numbers 6:1-4?
@@ -19,7 +19,11 @@ If someone wishes to make a voluntary vow (nadhr) in Islam, they should ensure t
 Ultimately, in Islam, the focus is more on fulfilling the obligations and duties prescribed by Allah rather than taking on additional voluntary restrictions or vows. It is always recommended to seek knowledge and guidance from qualified scholars when it comes to matters of religious practices and vows in Islam.
 
 ## Average Grade
-70.0
+68.0
 
 ## Grades
  * [70.0](./Nazirite_Vow_Significance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Nazirite_Vow_Significance_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Nazirite_Vow_Significance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Nazirite_Vow_Significance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Nazirite_Vow_Significance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

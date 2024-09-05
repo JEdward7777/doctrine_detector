@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [The Importance of Mercy](../../questions/The_Importance_of_Mercy.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [The Importance of Mercy](../../questions/The_Importance_of_Mercy.md)
 
 ## Question [The Importance of Mercy](../../questions/The_Importance_of_Mercy.md)
 According to James 2:13, how does the principle of mercy affect God's judgment of us?

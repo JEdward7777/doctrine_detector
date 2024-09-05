@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Gift of Evangelism](../../questions/Gift_of_Evangelism.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Gift of Evangelism](../../questions/Gift_of_Evangelism.md)
 
 ## Question [Gift of Evangelism](../../questions/Gift_of_Evangelism.md)
 What distinguishes an evangelist from other Christians?

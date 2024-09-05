@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Example of Parables](../../questions/Example_of_Parables.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Example of Parables](../../questions/Example_of_Parables.md)
 
 ## Question [Example of Parables](../../questions/Example_of_Parables.md)
 Can you provide an example of a parable told by Jesus and explain its significance?
@@ -25,7 +25,11 @@ This parable is significant in several ways:
 In Islamic teachings, the themes of repentance, forgiveness, love, mercy, and reconciliation are also emphasized. Allah is oft-forgiving and merciful, and He encourages us to turn back to Him in repentance, promising His forgiveness and acceptance. The story of the Prodigal Son serves as a powerful reminder of these teachings and the compassionate nature of Allah.
 
 ## Average Grade
-60.0
+59.0
 
 ## Grades
  * [60.0](./Example_of_Parables_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Example_of_Parables_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [30.0](./Example_of_Parables_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [40.0](./Example_of_Parables_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Example_of_Parables_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

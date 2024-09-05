@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Ungodliness Consequences](../../questions/Ungodliness_Consequences.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Ungodliness Consequences](../../questions/Ungodliness_Consequences.md)
 
 ## Question [Ungodliness Consequences](../../questions/Ungodliness_Consequences.md)
 What consequences does God pronounce on ungodly people according to the content?
@@ -23,7 +23,11 @@ The consequences that God pronounces on ungodly people vary throughout the Bible
 It is important to note that while these consequences are pronounced in the Bible, God's desire is always for repentance and reconciliation rather than judgment (2 Peter 3:9). He offers forgiveness and salvation through faith in Jesus Christ to all who turn from their sins and believe in Him (John 3:16, Acts 3:19).
 
 ## Average Grade
-95.0
+89.0
 
 ## Grades
  * [95.0](./Ungodliness_Consequences_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Ungodliness_Consequences_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Ungodliness_Consequences_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Ungodliness_Consequences_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Ungodliness_Consequences_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

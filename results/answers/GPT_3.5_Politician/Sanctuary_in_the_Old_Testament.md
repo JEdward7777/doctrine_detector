@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) answer to [Sanctuary in the Old Testament](../../questions/Sanctuary_in_the_Old_Testament.md)
+# Generated Answer from [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) for [Sanctuary in the Old Testament](../../questions/Sanctuary_in_the_Old_Testament.md)
 
 ## Question [Sanctuary in the Old Testament](../../questions/Sanctuary_in_the_Old_Testament.md)
 How did God describe the sanctuary in relation to His people in the Old Testament?
@@ -15,7 +15,11 @@ Recognizing the importance of the sanctuary as a dwelling place for God and a so
 In the Old Testament, God described the sanctuary as a place where His presence would dwell among His people and where they could come to seek forgiveness, guidance, and peace. The sanctuary was a sacred space where the Israelites could worship and connect with God in a meaningful way. It was meant to be a symbol of God's love and compassion for His people, a place of refuge and sanctity.
 
 ## Average Grade
-90.0
+87.0
 
 ## Grades
  * [90.0](./Sanctuary_in_the_Old_Testament_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Sanctuary_in_the_Old_Testament_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Sanctuary_in_the_Old_Testament_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Sanctuary_in_the_Old_Testament_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Sanctuary_in_the_Old_Testament_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

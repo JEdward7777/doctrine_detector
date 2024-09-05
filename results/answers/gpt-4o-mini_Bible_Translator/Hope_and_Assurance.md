@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) answer to [Hope and Assurance](../../questions/Hope_and_Assurance.md)
+# Generated Answer from [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) for [Hope and Assurance](../../questions/Hope_and_Assurance.md)
 
 ## Question [Hope and Assurance](../../questions/Hope_and_Assurance.md)
 What is the significance of having no hope according to biblical references?
@@ -27,7 +27,11 @@ In the Bible, the concept of having "no hope" is often tied to a sense of despai
 In summary, the significance of having no hope in the Bible serves as a backdrop to understanding the profound hope that is available in God, particularly through faith in Jesus Christ. It illustrates the importance of this divine hope in overcoming despair and finding purpose and meaning in life, both now and in eternity.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Hope_and_Assurance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Hope_and_Assurance_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Hope_and_Assurance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Hope_and_Assurance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Hope_and_Assurance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

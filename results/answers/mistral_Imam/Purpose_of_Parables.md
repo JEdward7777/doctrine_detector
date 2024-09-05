@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Purpose of Parables](../../questions/Purpose_of_Parables.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Purpose of Parables](../../questions/Purpose_of_Parables.md)
 
 ## Question [Purpose of Parables](../../questions/Purpose_of_Parables.md)
 What is the primary purpose of Jesus using parables in his teachings?
@@ -21,7 +21,11 @@ In Islamic texts, such as Hadith and Quran, Jesus's use of parables is highly pr
 Therefore, the primary purpose of Jesus using parables in his teachings was to make profound spiritual truths accessible and relatable for all people, thereby facilitating their spiritual growth and understanding.
 
 ## Average Grade
-70.0
+76.0
 
 ## Grades
  * [70.0](./Purpose_of_Parables_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Purpose_of_Parables_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Purpose_of_Parables_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Purpose_of_Parables_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Purpose_of_Parables_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

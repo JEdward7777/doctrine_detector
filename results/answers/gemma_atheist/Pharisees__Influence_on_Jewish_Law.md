@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma atheist](../../answering_models/gemma_atheist.md) answer to [Pharisees' Influence on Jewish Law](../../questions/Pharisees__Influence_on_Jewish_Law.md)
+# Generated Answer from [gemma atheist](../../answering_models/gemma_atheist.md) for [Pharisees' Influence on Jewish Law](../../questions/Pharisees__Influence_on_Jewish_Law.md)
 
 ## Question [Pharisees' Influence on Jewish Law](../../questions/Pharisees__Influence_on_Jewish_Law.md)
 How did the Pharisees' strict adherence to the Laws of Moses impact their relationship with Jesus and early Christians?
@@ -49,7 +49,11 @@ Understanding the role of the Pharisees provides insight into the challenges Jes
 * Their emphasis on tradition and authority continues to influence debates about religious authority and interpretation.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Pharisees__Influence_on_Jewish_Law_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Pharisees__Influence_on_Jewish_Law_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Pharisees__Influence_on_Jewish_Law_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Pharisees__Influence_on_Jewish_Law_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Pharisees__Influence_on_Jewish_Law_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

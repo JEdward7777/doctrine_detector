@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [Scriptural References 2](../../questions/Scriptural_References_2.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [Scriptural References 2](../../questions/Scriptural_References_2.md)
 
 ## Question [Scriptural References 2](../../questions/Scriptural_References_2.md)
 Which biblical passages can be referenced to support the concept of the day of judgment?
@@ -31,7 +31,11 @@ The concept of the Day of Judgment is referenced in several biblical passages ac
 These passages reflect a consistent theme throughout the Bible regarding the final judgment and accountability for one’s actions. They are often cited in theological discussions surrounding eschatology, the study of end times and judgment.
 
 ## Average Grade
-88.0
+84.6
 
 ## Grades
  * [88.0](./Scriptural_References_2_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Scriptural_References_2_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Scriptural_References_2_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Scriptural_References_2_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Scriptural_References_2_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

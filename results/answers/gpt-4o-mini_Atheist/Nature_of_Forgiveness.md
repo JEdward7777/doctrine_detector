@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [Nature of Forgiveness](../../questions/Nature_of_Forgiveness.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [Nature of Forgiveness](../../questions/Nature_of_Forgiveness.md)
 
 ## Question [Nature of Forgiveness](../../questions/Nature_of_Forgiveness.md)
 What does Jesus's teaching about forgiveness reveal about the character of God the Father?
@@ -31,3 +31,7 @@ In summary, Jesus's teachings on forgiveness depict God the Father as a loving, 
 
 ## Grades
  * [95.0](./Nature_of_Forgiveness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Nature_of_Forgiveness_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Nature_of_Forgiveness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Nature_of_Forgiveness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Nature_of_Forgiveness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

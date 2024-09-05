@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Definition of Saints](../../questions/Definition_of_Saints.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Definition of Saints](../../questions/Definition_of_Saints.md)
 
 ## Question [Definition of Saints](../../questions/Definition_of_Saints.md)
 What does the term 'saints' mean in the context of the New Testament?

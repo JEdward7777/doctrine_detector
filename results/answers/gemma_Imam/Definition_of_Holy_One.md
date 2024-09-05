@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Definition of Holy One](../../questions/Definition_of_Holy_One.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Definition of Holy One](../../questions/Definition_of_Holy_One.md)
 
 ## Question [Definition of Holy One](../../questions/Definition_of_Holy_One.md)
 What is the significance of the term 'Holy One' in the Bible?
@@ -37,7 +37,11 @@ The term "Holy One" appears throughout the Bible and holds great significance fo
 The term "Holy One" holds significance in both Christianity and Islam, reflecting the purity and sanctity associated with Jesus Christ. While Muslims acknowledge Jesus' importance as a prophet, their beliefs diverge from Christian interpretations of his divinity.
 
 ## Average Grade
-40.0
+58.0
 
 ## Grades
  * [40.0](./Definition_of_Holy_One_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [60.0](./Definition_of_Holy_One_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Definition_of_Holy_One_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Definition_of_Holy_One_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Definition_of_Holy_One_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

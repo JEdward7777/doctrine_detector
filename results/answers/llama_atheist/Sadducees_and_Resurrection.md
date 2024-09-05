@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Sadducees and Resurrection](../../questions/Sadducees_and_Resurrection.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Sadducees and Resurrection](../../questions/Sadducees_and_Resurrection.md)
 
 ## Question [Sadducees and Resurrection](../../questions/Sadducees_and_Resurrection.md)
 What was the belief of the Sadducees regarding the resurrection, and how does this contrast with Christian teaching?
@@ -27,7 +27,11 @@ In contrast, Christian teaching on the resurrection is rooted in the New Testame
 So, while the Sadducees saw no need for an afterlife or resurrection, Christians believe that these events are essential to understanding God's plan of salvation and our ultimate destiny.
 
 ## Average Grade
-90.0
+89.0
 
 ## Grades
  * [90.0](./Sadducees_and_Resurrection_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Sadducees_and_Resurrection_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Sadducees_and_Resurrection_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Sadducees_and_Resurrection_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Sadducees_and_Resurrection_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

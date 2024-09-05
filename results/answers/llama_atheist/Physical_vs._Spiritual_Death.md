@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Physical vs. Spiritual Death](../../questions/Physical_vs._Spiritual_Death.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Physical vs. Spiritual Death](../../questions/Physical_vs._Spiritual_Death.md)
 
 ## Question [Physical vs. Spiritual Death](../../questions/Physical_vs._Spiritual_Death.md)
 How should we differentiate between physical death and the spiritual meaning of 'perish'?
@@ -31,7 +31,11 @@ To further distinguish between these two meanings, let's consider the context in
 In conclusion, while the term "perish" can have both physical and metaphorical meanings, we can differentiate between them by considering the context in which it's used. By recognizing that language is often culturally-retributed, we can better understand how different cultures and individuals interpret this concept.
 
 ## Average Grade
-60.0
+66.0
 
 ## Grades
  * [60.0](./Physical_vs._Spiritual_Death_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Physical_vs._Spiritual_Death_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Physical_vs._Spiritual_Death_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Physical_vs._Spiritual_Death_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [40.0](./Physical_vs._Spiritual_Death_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

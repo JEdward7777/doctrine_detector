@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [Definition of Beloved](../../questions/Definition_of_Beloved.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [Definition of Beloved](../../questions/Definition_of_Beloved.md)
 
 ## Question [Definition of Beloved](../../questions/Definition_of_Beloved.md)
 What does the term 'beloved' signify in a biblical context?
@@ -25,7 +25,11 @@ In a biblical context, the term "beloved" carries deep significance and is often
 Overall, "beloved" encapsulates themes of love, identity, community, and moral obligation within the biblical narrative, illustrating the profound connections between divine and human relationships.
 
 ## Average Grade
-90.0
+85.4
 
 ## Grades
  * [90.0](./Definition_of_Beloved_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Definition_of_Beloved_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Definition_of_Beloved_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [92.0](./Definition_of_Beloved_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Definition_of_Beloved_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

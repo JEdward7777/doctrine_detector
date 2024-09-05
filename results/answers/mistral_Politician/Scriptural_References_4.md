@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Politician](../../answering_models/mistral_Politician.md) answer to [Scriptural References 4](../../questions/Scriptural_References_4.md)
+# Generated Answer from [mistral Politician](../../answering_models/mistral_Politician.md) for [Scriptural References 4](../../questions/Scriptural_References_4.md)
 
 ## Question [Scriptural References 4](../../questions/Scriptural_References_4.md)
 How do the references to birthright in 1 Chronicles 5:1, Genesis 25:34, and Hebrews 12:14-17 deepen our understanding of its significance in Biblical teachings?
@@ -23,7 +23,11 @@ Hebrews 12:14-17 expands on the concept by emphasizing the need for obedience ra
 Overall, these verses demonstrate the significance of birthright within Biblical teachings as a marker of identity, privilege, and responsibility. However, it's essential to remember that biblical texts can hold diverse interpretations, and the religious beliefs of individuals may vary greatly.
 
 ## Average Grade
-85.0
+86.0
 
 ## Grades
  * [85.0](./Scriptural_References_4_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Scriptural_References_4_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Scriptural_References_4_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Scriptural_References_4_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Scriptural_References_4_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

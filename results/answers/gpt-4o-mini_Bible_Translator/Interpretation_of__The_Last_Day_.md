@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) answer to [Interpretation of 'The Last Day'](../../questions/Interpretation_of__The_Last_Day_.md)
+# Generated Answer from [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) for [Interpretation of 'The Last Day'](../../questions/Interpretation_of__The_Last_Day_.md)
 
 ## Question [Interpretation of 'The Last Day'](../../questions/Interpretation_of__The_Last_Day_.md)
 What is meant by 'the last day' as referred to in Christian teaching?
@@ -25,7 +25,11 @@ In Christian teaching, "the last day" typically refers to the final day of human
 Overall, the term embodies a future hope for believers, emphasizing themes of justice, resurrection, and the establishment of God’s eternal kingdom. Different Christian denominations may have varied interpretations of the specifics surrounding "the last day," but these core beliefs are widely held among many Christian traditions.
 
 ## Average Grade
-85.0
+74.0
 
 ## Grades
  * [85.0](./Interpretation_of__The_Last_Day__grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Interpretation_of__The_Last_Day__grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Interpretation_of__The_Last_Day__grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Interpretation_of__The_Last_Day__grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [20.0](./Interpretation_of__The_Last_Day__grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Jesus is Lord](../../questions/Jesus_is_Lord.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Jesus is Lord](../../questions/Jesus_is_Lord.md)
 
 ## Question [Jesus is Lord](../../questions/Jesus_is_Lord.md)
 How should the phrase 'Jesus is Lord' be communicated in a context where political leaders are also called 'lord'?
@@ -21,7 +21,11 @@ You can explain that when Christians refer to Jesus as Lord, they are acknowledg
 It is important to have respectful and open discussions when addressing beliefs that may differ from our own. Encouraging dialogue and understanding can help bridge any potential misunderstandings that may arise from different interpretations of religious language and titles.
 
 ## Average Grade
-85.0
+84.0
 
 ## Grades
  * [85.0](./Jesus_is_Lord_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Jesus_is_Lord_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Jesus_is_Lord_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Jesus_is_Lord_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Jesus_is_Lord_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

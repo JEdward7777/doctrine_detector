@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Scriptural References 4](../../questions/Scriptural_References_4.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Scriptural References 4](../../questions/Scriptural_References_4.md)
 
 ## Question [Scriptural References 4](../../questions/Scriptural_References_4.md)
 How do the references to birthright in 1 Chronicles 5:1, Genesis 25:34, and Hebrews 12:14-17 deepen our understanding of its significance in Biblical teachings?
@@ -36,7 +36,11 @@ By considering these passages together, we can gain a deeper understanding of th
 May these insights inspire us to seek a heavenly birthright, grounded in a deepening relationship with God through Jesus Christ.
 
 ## Average Grade
-90.0
+92.0
 
 ## Grades
  * [90.0](./Scriptural_References_4_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Scriptural_References_4_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Scriptural_References_4_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Scriptural_References_4_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Scriptural_References_4_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

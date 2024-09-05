@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Scriptural References 6](../../questions/Scriptural_References_6.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Scriptural References 6](../../questions/Scriptural_References_6.md)
 
 ## Question [Scriptural References 6](../../questions/Scriptural_References_6.md)
 Which biblical passages provide insight into the characteristics of fools and foolish behavior?
@@ -25,7 +25,11 @@ In the Bible, the concept of "fools" is often used to describe individuals who e
 In general, these passages suggest that fools are characterized by impulsiveness, dishonesty, lack of caution, and susceptibility to flattery. Foolish behavior often involves acting without thought or consideration for the consequences, which can lead to negative outcomes.
 
 ## Average Grade
-50.0
+57.0
 
 ## Grades
  * [50.0](./Scriptural_References_6_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [50.0](./Scriptural_References_6_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [40.0](./Scriptural_References_6_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Scriptural_References_6_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Scriptural_References_6_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

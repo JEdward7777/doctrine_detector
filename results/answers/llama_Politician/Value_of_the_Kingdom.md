@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Value of the Kingdom](../../questions/Value_of_the_Kingdom.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Value of the Kingdom](../../questions/Value_of_the_Kingdom.md)
 
 ## Question [Value of the Kingdom](../../questions/Value_of_the_Kingdom.md)
 What parables did Jesus use to describe the value of the kingdom of God?
@@ -27,7 +27,11 @@ Now, I understand that these parables might be perceived differently by various 
 Thank you for the opportunity to reflect on these parables and their relevance to our shared values of compassion, empathy, and social justice.
 
 ## Average Grade
-90.0
+89.0
 
 ## Grades
  * [90.0](./Value_of_the_Kingdom_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Value_of_the_Kingdom_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Value_of_the_Kingdom_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Value_of_the_Kingdom_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Value_of_the_Kingdom_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

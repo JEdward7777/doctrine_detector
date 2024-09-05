@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Lord’s Supper Definition](../../questions/Lord_s_Supper_Definition.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Lord’s Supper Definition](../../questions/Lord_s_Supper_Definition.md)
 
 ## Question [Lord’s Supper Definition](../../questions/Lord_s_Supper_Definition.md)
 What significant event does the Lord’s Supper commemorate?
@@ -15,7 +15,11 @@ Understanding the meaning and significance of the Lord’s Supper in Christian f
 The Lord's Supper, also known as the Eucharist or Holy Communion, is a sacred act in Christianity that commemorates the last meal that Jesus shared with his disciples before his crucifixion. It symbolizes the sacrifice of Jesus on the cross, his body broken and his blood shed for the forgiveness of sins. In the Islamic tradition, while we do not have the concept of the Lord's Supper, we believe in Prophet Jesus (Isa) as a revered prophet and messenger of Allah.
 
 ## Average Grade
-90.0
+75.0
 
 ## Grades
  * [90.0](./Lord_s_Supper_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Lord_s_Supper_Definition_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Lord_s_Supper_Definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [75.0](./Lord_s_Supper_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Lord_s_Supper_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

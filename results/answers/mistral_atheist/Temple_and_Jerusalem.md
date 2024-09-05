@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral atheist](../../answering_models/mistral_atheist.md) answer to [Temple and Jerusalem](../../questions/Temple_and_Jerusalem.md)
+# Generated Answer from [mistral atheist](../../answering_models/mistral_atheist.md) for [Temple and Jerusalem](../../questions/Temple_and_Jerusalem.md)
 
 ## Question [Temple and Jerusalem](../../questions/Temple_and_Jerusalem.md)
 How did the term 'Zion' come to be associated with the temple located in Jerusalem?
@@ -21,7 +21,11 @@ When the Second Temple was rebuilt by the Jews after their return from Babylonia
 In later Jewish tradition, the term Zion continued to be used metaphorically to represent the idealized version of Jerusalem or the Jewish homeland. In Christianity, it often refers to the heavenly realm or the spiritual church (see Revelation 14:1). Today, "Zion" is most commonly associated with the State of Israel and the city of Jerusalem, representing the cultural, religious, and historical center of Judaism.
 
 ## Average Grade
-85.0
+89.0
 
 ## Grades
  * [85.0](./Temple_and_Jerusalem_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Temple_and_Jerusalem_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Temple_and_Jerusalem_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Temple_and_Jerusalem_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Temple_and_Jerusalem_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

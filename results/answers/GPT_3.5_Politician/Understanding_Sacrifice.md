@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) answer to [Understanding Sacrifice](../../questions/Understanding_Sacrifice.md)
+# Generated Answer from [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) for [Understanding Sacrifice](../../questions/Understanding_Sacrifice.md)
 
 ## Question [Understanding Sacrifice](../../questions/Understanding_Sacrifice.md)
 Why is Jesus referred to as the 'Lamb of God' in relation to the sacrifices commanded in the Old Testament?
@@ -15,7 +15,11 @@ This question aims to help Christians understand the significance of Jesus' sacr
 The term "Lamb of God" in relation to Jesus is a deeply symbolic and spiritual concept in Christian theology. It is commonly understood as a reference to Jesus being the ultimate sacrifice for the sins of humanity, drawing parallels to the sacrificial lambs in the Old Testament that were offered as atonement for sins. This symbolizes Jesus' willing self-sacrifice and his role in bringing about salvation and redemption for all mankind. However, it's important to note that interpretations of religious symbols and teachings can vary among different individuals and denominations.
 
 ## Average Grade
-95.0
+90.0
 
 ## Grades
  * [95.0](./Understanding_Sacrifice_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Understanding_Sacrifice_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Understanding_Sacrifice_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Understanding_Sacrifice_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [70.0](./Understanding_Sacrifice_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

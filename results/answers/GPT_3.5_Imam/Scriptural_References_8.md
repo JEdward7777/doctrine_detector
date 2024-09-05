@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Scriptural References 8](../../questions/Scriptural_References_8.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Scriptural References 8](../../questions/Scriptural_References_8.md)
 
 ## Question [Scriptural References 8](../../questions/Scriptural_References_8.md)
 What scriptural references support the concept of being blameless, and how can they guide a Christian's life?
@@ -21,7 +21,11 @@ In practical terms, striving to be blameless as a Muslim means being mindful of 
 Ultimately, the goal for a Muslim is to seek Allah's pleasure and forgiveness, and to continuously strive towards self-improvement in order to lead a life that is in accordance with Islamic principles and values.
 
 ## Average Grade
-40.0
+54.0
 
 ## Grades
  * [40.0](./Scriptural_References_8_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Scriptural_References_8_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Scriptural_References_8_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Scriptural_References_8_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [40.0](./Scriptural_References_8_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

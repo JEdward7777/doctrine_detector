@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Dominion of Christ](../../questions/Dominion_of_Christ.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Dominion of Christ](../../questions/Dominion_of_Christ.md)
 
 ## Question [Dominion of Christ](../../questions/Dominion_of_Christ.md)
 How is Jesus Christ's dominion described in the Bible?

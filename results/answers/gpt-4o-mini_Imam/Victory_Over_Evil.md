@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Victory Over Evil](../../questions/Victory_Over_Evil.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Victory Over Evil](../../questions/Victory_Over_Evil.md)
 
 ## Question [Victory Over Evil](../../questions/Victory_Over_Evil.md)
 What promise does God give regarding the ultimate defeat of Satan?
@@ -24,7 +24,11 @@ Additionally, on the Day of Judgment, there are accounts in the Qur'an (such as 
 The final defeat of Satan serves as a reminder of the importance of seeking guidance and remaining steadfast in faith. It reinforces the idea that while Satan may have influence in this worldly life, true victory lies with those who follow Allah's path and hold fast to His commandments.
 
 ## Average Grade
-80.0
+71.0
 
 ## Grades
  * [80.0](./Victory_Over_Evil_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [75.0](./Victory_Over_Evil_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Victory_Over_Evil_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Victory_Over_Evil_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Victory_Over_Evil_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

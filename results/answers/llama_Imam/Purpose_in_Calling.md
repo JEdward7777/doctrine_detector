@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Purpose in Calling](../../questions/Purpose_in_Calling.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Purpose in Calling](../../questions/Purpose_in_Calling.md)
 
 ## Question [Purpose in Calling](../../questions/Purpose_in_Calling.md)
 How can one discern their 'calling' or 'purpose' as described in the Bible?
@@ -33,3 +33,7 @@ May Allah guide you on this journey of self-discovery, and may you find joy, con
 
 ## Grades
  * [90.0](./Purpose_in_Calling_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Purpose_in_Calling_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Purpose_in_Calling_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Purpose_in_Calling_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Purpose_in_Calling_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

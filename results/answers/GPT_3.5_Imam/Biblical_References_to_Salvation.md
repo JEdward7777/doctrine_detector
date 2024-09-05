@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Biblical References to Salvation](../../questions/Biblical_References_to_Salvation.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Biblical References to Salvation](../../questions/Biblical_References_to_Salvation.md)
 
 ## Question [Biblical References to Salvation](../../questions/Biblical_References_to_Salvation.md)
 What do the passages from 1 Timothy 4:10 and 2 Peter 2:20 reveal about the nature of Christ as Savior?
@@ -21,7 +21,11 @@ In Islam, salvation comes through sincere faith in one God (Allah), striving to 
 So, while we have different beliefs about the nature of Christ as Savior compared to what is depicted in the Christian scriptures, Muslims still hold a deep respect and reverence for Jesus as a prophet and messenger of God.
 
 ## Average Grade
-25.0
+41.0
 
 ## Grades
  * [25.0](./Biblical_References_to_Salvation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [25.0](./Biblical_References_to_Salvation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [65.0](./Biblical_References_to_Salvation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [30.0](./Biblical_References_to_Salvation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Biblical_References_to_Salvation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

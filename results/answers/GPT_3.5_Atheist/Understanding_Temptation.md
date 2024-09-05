@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Understanding Temptation](../../questions/Understanding_Temptation.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Understanding Temptation](../../questions/Understanding_Temptation.md)
 
 ## Question [Understanding Temptation](../../questions/Understanding_Temptation.md)
 What strategies did Jesus use to resist the temptations presented by Satan?
@@ -19,7 +19,11 @@ In the biblical narrative, Jesus resists three temptations presented by Satan by
 From a literary and moral standpoint, the story of Jesus' temptation can be seen as a representation of the internal struggles individuals face when making ethical decisions. The strategies he used to resist temptations can be interpreted as a call to prioritize spiritual values over material desires and to remain steadfast in one's beliefs, even in the face of adversity.
 
 ## Average Grade
-60.0
+72.0
 
 ## Grades
  * [60.0](./Understanding_Temptation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Understanding_Temptation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Understanding_Temptation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Understanding_Temptation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Understanding_Temptation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

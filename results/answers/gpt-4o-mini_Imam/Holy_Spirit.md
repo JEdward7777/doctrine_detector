@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Holy Spirit](../../questions/Holy_Spirit.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Holy Spirit](../../questions/Holy_Spirit.md)
 
 ## Question [Holy Spirit](../../questions/Holy_Spirit.md)
 How should the concept of the Holy Spirit be introduced in contexts unfamiliar with the Trinity?
@@ -31,7 +31,11 @@ Introducing the concept of the Holy Spirit in contexts unfamiliar with the Trini
 By approaching the topic in a way that respects both Islamic beliefs and the nuances of Christian thought, you can foster a productive and enlightening conversation about the Holy Spirit.
 
 ## Average Grade
-90.0
+86.0
 
 ## Grades
  * [90.0](./Holy_Spirit_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Holy_Spirit_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Holy_Spirit_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Holy_Spirit_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Holy_Spirit_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

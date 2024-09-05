@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Symbolism of the Lamb](../../questions/Symbolism_of_the_Lamb.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Symbolism of the Lamb](../../questions/Symbolism_of_the_Lamb.md)
 
 ## Question [Symbolism of the Lamb](../../questions/Symbolism_of_the_Lamb.md)
 What is the significance of using a lamb for sacrifices in the Bible, and how does this relate to the concept of atonement?
@@ -21,7 +21,11 @@ This concept finds its ultimate fulfillment in the New Testament with the sacrif
 Therefore, the use of a lamb in sacrifices in the Bible points to the ultimate sacrifice of Jesus Christ for the atonement of sin, emphasizing the need for a perfect and unblemished offering to reconcile humanity to a holy God.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Symbolism_of_the_Lamb_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Symbolism_of_the_Lamb_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Symbolism_of_the_Lamb_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Symbolism_of_the_Lamb_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Symbolism_of_the_Lamb_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

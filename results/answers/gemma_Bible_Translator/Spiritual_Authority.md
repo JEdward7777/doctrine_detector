@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Spiritual Authority](../../questions/Spiritual_Authority.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Spiritual Authority](../../questions/Spiritual_Authority.md)
 
 ## Question [Spiritual Authority](../../questions/Spiritual_Authority.md)
 How do spiritual authorities differ from earthly authorities according to Biblical teaching?

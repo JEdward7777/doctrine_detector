@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral atheist](../../answering_models/mistral_atheist.md) answer to [Translation Practices](../../questions/Translation_Practices.md)
+# Generated Answer from [mistral atheist](../../answering_models/mistral_atheist.md) for [Translation Practices](../../questions/Translation_Practices.md)
 
 ## Question [Translation Practices](../../questions/Translation_Practices.md)
 Why do many Bible translations use 'LORD' in place of 'Yahweh'?
@@ -23,3 +23,7 @@ It is essential to acknowledge the cultural and historical contexts that have in
 
 ## Grades
  * [85.0](./Translation_Practices_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Translation_Practices_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Translation_Practices_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Translation_Practices_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Translation_Practices_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

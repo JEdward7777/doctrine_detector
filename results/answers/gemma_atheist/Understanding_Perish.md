@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma atheist](../../answering_models/gemma_atheist.md) answer to [Understanding Perish](../../questions/Understanding_Perish.md)
+# Generated Answer from [gemma atheist](../../answering_models/gemma_atheist.md) for [Understanding Perish](../../questions/Understanding_Perish.md)
 
 ## Question [Understanding Perish](../../questions/Understanding_Perish.md)
 What does it mean to 'perish' in a spiritual sense according to the New Testament?
@@ -42,7 +42,11 @@ Within the New Testament, "perishing" has several nuanced meanings related to sp
 It's crucial to interpret these concepts within their original cultural and linguistic contexts. Concepts like "eternal damnation" may not resonate with non-Christian cultures. Alternatives like "spiritual stagnation" or "separation from divine connection" might be more appropriate for non-religious audiences.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Understanding_Perish_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Understanding_Perish_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Understanding_Perish_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Understanding_Perish_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_Perish_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Zeal Definition](../../questions/Zeal_Definition.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Zeal Definition](../../questions/Zeal_Definition.md)
 
 ## Question [Zeal Definition](../../questions/Zeal_Definition.md)
 What does it mean to have 'zeal' in the context of Christian teachings?
@@ -34,7 +34,11 @@ However, it is important to note that Muslims can share some similarities with C
 Ultimately, while the concept of zeal may not be directly applicable to Islamic teachings, Muslims can still exhibit a strong sense of passion, dedication, and conviction in their faith, even if it doesn't align with the Christian notion of "zeal."
 
 ## Average Grade
-85.0
+75.0
 
 ## Grades
  * [85.0](./Zeal_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Zeal_Definition_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Zeal_Definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [75.0](./Zeal_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Zeal_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

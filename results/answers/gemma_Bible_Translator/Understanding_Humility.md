@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Understanding Humility](../../questions/Understanding_Humility.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Understanding Humility](../../questions/Understanding_Humility.md)
 
 ## Question [Understanding Humility](../../questions/Understanding_Humility.md)
 What does it mean to humble oneself before God according to the Christian perspective?

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Practices of Fellowship](../../questions/Practices_of_Fellowship.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Practices of Fellowship](../../questions/Practices_of_Fellowship.md)
 
 ## Question [Practices of Fellowship](../../questions/Practices_of_Fellowship.md)
 How did early Christians express their fellowship?
@@ -33,7 +33,11 @@ Early Christians expressed their fellowship in a variety of meaningful ways that
 These aspects of fellowship not only helped to establish a strong sense of community among early Christians but also laid the foundation for the practices and traditions that continue in various forms within Christianity today.
 
 ## Average Grade
-90.0
+93.0
 
 ## Grades
  * [90.0](./Practices_of_Fellowship_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Practices_of_Fellowship_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Practices_of_Fellowship_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Practices_of_Fellowship_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Practices_of_Fellowship_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

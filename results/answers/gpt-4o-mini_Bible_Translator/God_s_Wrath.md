@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) answer to [God's Wrath](../../questions/God_s_Wrath.md)
+# Generated Answer from [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) for [God's Wrath](../../questions/God_s_Wrath.md)
 
 ## Question [God's Wrath](../../questions/God_s_Wrath.md)
 How is God's punishment described during the 'day of Yahweh'?
@@ -29,7 +29,11 @@ Descriptions of God's punishment during the Day of Yahweh can be found in severa
 Overall, the Day of Yahweh is depicted as a complex period of divine judgment intertwined with grace and hope for restoration for those who seek God.
 
 ## Average Grade
-90.0
+87.0
 
 ## Grades
  * [90.0](./God_s_Wrath_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./God_s_Wrath_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./God_s_Wrath_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./God_s_Wrath_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./God_s_Wrath_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

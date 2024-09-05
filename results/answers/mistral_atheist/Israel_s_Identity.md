@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral atheist](../../answering_models/mistral_atheist.md) answer to [Israel's Identity](../../questions/Israel_s_Identity.md)
+# Generated Answer from [mistral atheist](../../answering_models/mistral_atheist.md) for [Israel's Identity](../../questions/Israel_s_Identity.md)
 
 ## Question [Israel's Identity](../../questions/Israel_s_Identity.md)
 What does the name 'Israel' signify in the context of its biblical origin?
@@ -21,7 +21,11 @@ In the broader context of Biblical history, Israel refers to the ancient Hebrew 
 In more modern times, "Israel" is the name used for the sovereign state established in 1948 following the end of British Mandate over Palestine, with its capital at Jerusalem. It is important to note that the contemporary State of Israel represents a complex intersection of historical, religious, and political realities, and interpretations may vary widely among different groups and individuals.
 
 ## Average Grade
-92.0
+87.4
 
 ## Grades
  * [92.0](./Israel_s_Identity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Israel_s_Identity_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Israel_s_Identity_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Israel_s_Identity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Israel_s_Identity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral atheist](../../answering_models/mistral_atheist.md) answer to [Ark of the Covenant](../../questions/Ark_of_the_Covenant.md)
+# Generated Answer from [mistral atheist](../../answering_models/mistral_atheist.md) for [Ark of the Covenant](../../questions/Ark_of_the_Covenant.md)
 
 ## Question [Ark of the Covenant](../../questions/Ark_of_the_Covenant.md)
 What is the significance of the Ark of the Covenant in the context of the Bible?
@@ -27,3 +27,7 @@ Despite the fact that many modern scholars question the historical accuracy of t
 
 ## Grades
  * [90.0](./Ark_of_the_Covenant_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Ark_of_the_Covenant_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Ark_of_the_Covenant_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Ark_of_the_Covenant_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Ark_of_the_Covenant_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [Temple and Jerusalem](../../questions/Temple_and_Jerusalem.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [Temple and Jerusalem](../../questions/Temple_and_Jerusalem.md)
 
 ## Question [Temple and Jerusalem](../../questions/Temple_and_Jerusalem.md)
 How did the term 'Zion' come to be associated with the temple located in Jerusalem?
@@ -29,7 +29,11 @@ The connection between Zion and the temple arises from several key developments:
 As a result of these historical and cultural layers, "Zion" has developed into a multifaceted term encompassing notions of physical space, spiritual significance, and collective identity, particularly tied to the temple in Jerusalem's history and its ongoing relevance in Jewish and broader religious contexts.
 
 ## Average Grade
-85.0
+88.0
 
 ## Grades
  * [85.0](./Temple_and_Jerusalem_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Temple_and_Jerusalem_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Temple_and_Jerusalem_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Temple_and_Jerusalem_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Temple_and_Jerusalem_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

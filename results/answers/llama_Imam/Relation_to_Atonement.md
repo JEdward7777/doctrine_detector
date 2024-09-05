@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Relation to Atonement](../../questions/Relation_to_Atonement.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Relation to Atonement](../../questions/Relation_to_Atonement.md)
 
 ## Question [Relation to Atonement](../../questions/Relation_to_Atonement.md)
 How does the term 'propitiation' relate to the term 'atonement'?
@@ -25,7 +25,11 @@ In the context of Islamic theology, atonement and propitiation are closely tied 
 In conclusion, brother, in Islamic theology, atonement and propitiation are interconnected concepts that revolve around the idea of wiping away one's sins and appeasing Allah's wrath through righteous deeds and repentance. May Allah guide us all towards the path of righteousness.
 
 ## Average Grade
-80.0
+78.0
 
 ## Grades
  * [80.0](./Relation_to_Atonement_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Relation_to_Atonement_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Relation_to_Atonement_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Relation_to_Atonement_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Relation_to_Atonement_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

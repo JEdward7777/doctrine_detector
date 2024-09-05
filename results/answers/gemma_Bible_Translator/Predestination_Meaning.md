@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Predestination Meaning](../../questions/Predestination_Meaning.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Predestination Meaning](../../questions/Predestination_Meaning.md)
 
 ## Question [Predestination Meaning](../../questions/Predestination_Meaning.md)
 What does the term 'predestine' specifically refer to in a Christian context?

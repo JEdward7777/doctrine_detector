@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [The Faith Expressions](../../questions/The_Faith_Expressions.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [The Faith Expressions](../../questions/The_Faith_Expressions.md)
 
 ## Question [The Faith Expressions](../../questions/The_Faith_Expressions.md)
 What is meant by the phrase 'keep the faith' in the context of belief in Jesus?
@@ -19,7 +19,11 @@ However, from an Islamic perspective, we recognize Jesus (known as 'Isa in Arabi
 In essence, in an Islamic context, "keeping the faith" means remaining steadfast in the beliefs of Islam, adhering to the teachings of the Qur'an, and practicing the Sunnah of the Prophet Muhammad (peace be upon him).
 
 ## Average Grade
-80.0
+71.0
 
 ## Grades
  * [80.0](./The_Faith_Expressions_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./The_Faith_Expressions_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [75.0](./The_Faith_Expressions_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./The_Faith_Expressions_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./The_Faith_Expressions_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

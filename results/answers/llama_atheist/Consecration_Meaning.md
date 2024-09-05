@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Consecration Meaning](../../questions/Consecration_Meaning.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Consecration Meaning](../../questions/Consecration_Meaning.md)
 
 ## Question [Consecration Meaning](../../questions/Consecration_Meaning.md)
 What does it mean to consecrate something or someone in a Christian context?
@@ -27,7 +27,11 @@ In Christian theology, consecration is often linked to the concept of sacrifice.
 As an atheist, I do not personally subscribe to these beliefs, but I recognize the cultural significance of consecration within Christian traditions.
 
 ## Average Grade
-60.0
+67.0
 
 ## Grades
  * [60.0](./Consecration_Meaning_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [75.0](./Consecration_Meaning_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Consecration_Meaning_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Consecration_Meaning_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Consecration_Meaning_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

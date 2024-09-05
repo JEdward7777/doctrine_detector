@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Understanding the Cornerstone](../../questions/Understanding_the_Cornerstone.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Understanding the Cornerstone](../../questions/Understanding_the_Cornerstone.md)
 
 ## Question [Understanding the Cornerstone](../../questions/Understanding_the_Cornerstone.md)
 What role does Jesus Christ play as the 'cornerstone' in the context of the Assembly of believers?

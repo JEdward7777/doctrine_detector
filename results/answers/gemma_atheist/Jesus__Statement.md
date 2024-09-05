@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma atheist](../../answering_models/gemma_atheist.md) answer to [Jesus' Statement](../../questions/Jesus__Statement.md)
+# Generated Answer from [gemma atheist](../../answering_models/gemma_atheist.md) for [Jesus' Statement](../../questions/Jesus__Statement.md)
 
 ## Question [Jesus' Statement](../../questions/Jesus__Statement.md)
 What did Jesus mean when he said, 'I am the Resurrection and the Life'?
@@ -43,7 +43,11 @@ The statement "I am the Resurrection and the Life" is found in the Gospel of Joh
 The statement "I am the Resurrection and the Life" is a complex and multifaceted declaration that reflects both the cultural context and the profound claims of Christianity. It encompasses symbolic fulfillment, cultural beliefs, supernatural power, and ethical transformation.
 
 ## Average Grade
-85.0
+82.0
 
 ## Grades
  * [85.0](./Jesus__Statement_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Jesus__Statement_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Jesus__Statement_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Jesus__Statement_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Jesus__Statement_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

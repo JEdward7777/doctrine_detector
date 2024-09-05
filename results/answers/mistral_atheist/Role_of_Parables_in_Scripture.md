@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral atheist](../../answering_models/mistral_atheist.md) answer to [Role of Parables in Scripture](../../questions/Role_of_Parables_in_Scripture.md)
+# Generated Answer from [mistral atheist](../../answering_models/mistral_atheist.md) for [Role of Parables in Scripture](../../questions/Role_of_Parables_in_Scripture.md)
 
 ## Question [Role of Parables in Scripture](../../questions/Role_of_Parables_in_Scripture.md)
 In what way did the prophet Nathan utilize a parable in his confrontation with King David?
@@ -29,3 +29,7 @@ This approach allowed Nathan to confront King David about his sin without being 
 
 ## Grades
  * [95.0](./Role_of_Parables_in_Scripture_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Role_of_Parables_in_Scripture_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Role_of_Parables_in_Scripture_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Role_of_Parables_in_Scripture_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Role_of_Parables_in_Scripture_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

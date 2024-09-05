@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Understanding Grace](../../questions/Understanding_Grace.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Understanding Grace](../../questions/Understanding_Grace.md)
 
 ## Question [Understanding Grace](../../questions/Understanding_Grace.md)
 What does the term 'grace' signify in a Christian context?

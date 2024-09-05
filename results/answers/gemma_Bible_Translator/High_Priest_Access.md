@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [High Priest Access](../../questions/High_Priest_Access.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [High Priest Access](../../questions/High_Priest_Access.md)
 
 ## Question [High Priest Access](../../questions/High_Priest_Access.md)
 Who was allowed to approach the ark of the covenant and under what circumstances?

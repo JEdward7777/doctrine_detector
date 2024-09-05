@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Politician](../../answering_models/mistral_Politician.md) answer to [Definition of Sanctification](../../questions/Definition_of_Sanctification.md)
+# Generated Answer from [mistral Politician](../../answering_models/mistral_Politician.md) for [Definition of Sanctification](../../questions/Definition_of_Sanctification.md)
 
 ## Question [Definition of Sanctification](../../questions/Definition_of_Sanctification.md)
 What does it mean to sanctify or to be sanctified according to the Bible?
@@ -19,7 +19,11 @@ In the Bible, sanctification is a work of God and a cooperative work between God
 When a person is "sanctified," they are set apart for God's use, consecrated, and made holy. This is an important concept in Christian theology because it emphasizes the importance of pursuing a life that is pleasing to God and aligned with His will. It also highlights the transformation that occurs when a person comes into a relationship with God through faith in Jesus Christ.
 
 ## Average Grade
-95.0
+88.0
 
 ## Grades
  * [95.0](./Definition_of_Sanctification_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Definition_of_Sanctification_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Definition_of_Sanctification_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Definition_of_Sanctification_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Definition_of_Sanctification_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

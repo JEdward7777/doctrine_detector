@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [God's Wrath](../../questions/God_s_Wrath.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [God's Wrath](../../questions/God_s_Wrath.md)
 
 ## Question [God's Wrath](../../questions/God_s_Wrath.md)
 How is God's punishment described during the 'day of Yahweh'?
@@ -29,7 +29,11 @@ The Quran describes some aspects of this day:
 It is essential to remember that the ultimate goal of Islamic teachings is not to instill fear but rather to guide individuals towards making the right choices and leading a virtuous life in this world, which will earn them eternal rewards on the Day of Resurrection.
 
 ## Average Grade
-70.0
+76.0
 
 ## Grades
  * [70.0](./God_s_Wrath_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [75.0](./God_s_Wrath_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./God_s_Wrath_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./God_s_Wrath_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./God_s_Wrath_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

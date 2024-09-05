@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Scriptural References 4](../../questions/Scriptural_References_4.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Scriptural References 4](../../questions/Scriptural_References_4.md)
 
 ## Question [Scriptural References 4](../../questions/Scriptural_References_4.md)
 How do the references to birthright in 1 Chronicles 5:1, Genesis 25:34, and Hebrews 12:14-17 deepen our understanding of its significance in Biblical teachings?
@@ -47,7 +47,11 @@ This question prompts the discussion of scripture interpretation and its relevan
 * Islamic teachings emphasize the importance of justice and fairness, and discourage discrimination based on lineage.
 
 ## Average Grade
-70.0
+64.0
 
 ## Grades
  * [70.0](./Scriptural_References_4_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Scriptural_References_4_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Scriptural_References_4_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Scriptural_References_4_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Scriptural_References_4_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

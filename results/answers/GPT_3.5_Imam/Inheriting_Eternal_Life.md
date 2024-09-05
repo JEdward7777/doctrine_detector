@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Inheriting Eternal Life](../../questions/Inheriting_Eternal_Life.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Inheriting Eternal Life](../../questions/Inheriting_Eternal_Life.md)
 
 ## Question [Inheriting Eternal Life](../../questions/Inheriting_Eternal_Life.md)
 According to the Bible, what must one do to inherit eternal life?
@@ -19,7 +19,11 @@ Islamic teachings emphasize the importance of belief in the Oneness of Allah, fo
 Ultimately, the Quran teaches that faith and good deeds are necessary for attaining eternal life in Paradise. Allah says in the Quran, "But those who believe and do righteous deeds - for them are the Gardens of Pleasure" (Quran 31:8).
 
 ## Average Grade
-50.0
+20.0
 
 ## Grades
  * [50.0](./Inheriting_Eternal_Life_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [0.0](./Inheriting_Eternal_Life_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [0.0](./Inheriting_Eternal_Life_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [20.0](./Inheriting_Eternal_Life_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [30.0](./Inheriting_Eternal_Life_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

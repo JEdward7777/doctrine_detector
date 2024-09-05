@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Biblical References 2](../../questions/Biblical_References_2.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Biblical References 2](../../questions/Biblical_References_2.md)
 
 ## Question [Biblical References 2](../../questions/Biblical_References_2.md)
 Which Bible verses illustrate the concept of God's majesty?
@@ -50,7 +50,11 @@ In these passages, we see descriptions of God's majesty as Creator, Ruler, and J
 Remember, my brother, that while there may be similarities in our scriptures, it is essential to approach each other with respect, understanding, and a willingness to learn from one another.
 
 ## Average Grade
-85.0
+84.0
 
 ## Grades
  * [85.0](./Biblical_References_2_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Biblical_References_2_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Biblical_References_2_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Biblical_References_2_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Biblical_References_2_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

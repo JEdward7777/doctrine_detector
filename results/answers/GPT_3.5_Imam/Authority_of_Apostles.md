@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Authority of Apostles](../../questions/Authority_of_Apostles.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Authority of Apostles](../../questions/Authority_of_Apostles.md)
 
 ## Question [Authority of Apostles](../../questions/Authority_of_Apostles.md)
 How does the authority of the apostles relate to their ability to perform miracles and preach boldly?
@@ -23,7 +23,11 @@ It is important to note that prophets were not only given the ability to perform
 Overall, the authority of the prophets to perform miracles and preach boldly was a manifestation of their special status as chosen messengers of Allah and was essential in fulfilling their mission of calling people to the worship of One God and guiding them to the right path.
 
 ## Average Grade
-80.0
+73.0
 
 ## Grades
  * [80.0](./Authority_of_Apostles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Authority_of_Apostles_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Authority_of_Apostles_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Authority_of_Apostles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [40.0](./Authority_of_Apostles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

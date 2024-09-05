@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Translation of Ark](../../questions/Translation_of_Ark.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Translation of Ark](../../questions/Translation_of_Ark.md)
 
 ## Question [Translation of Ark](../../questions/Translation_of_Ark.md)
 How does the term 'ark' vary in translation within different Biblical contexts?
@@ -34,7 +34,11 @@ To answer your question, the term "ark" can vary in translation depending on the
 By acknowledging these variations in translation, we can gain a deeper understanding of how different cultures and contexts have shaped our understanding of this biblical term.
 
 ## Average Grade
-95.0
+90.0
 
 ## Grades
  * [95.0](./Translation_of_Ark_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Translation_of_Ark_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Translation_of_Ark_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Translation_of_Ark_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Translation_of_Ark_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

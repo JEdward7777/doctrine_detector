@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Temple as God's Dwelling](../../questions/Temple_as_God_s_Dwelling.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Temple as God's Dwelling](../../questions/Temple_as_God_s_Dwelling.md)
 
 ## Question [Temple as God's Dwelling](../../questions/Temple_as_God_s_Dwelling.md)
 How is the concept of the temple as God's dwelling expressed in both the Old and New Testaments?
@@ -19,7 +19,11 @@ The Quran emphasizes the importance of purity and monotheism, and does not recog
 Therefore, concepts related to temples as physical structures are not relevant within Islamic beliefs.
 
 ## Average Grade
-70.0
+63.0
 
 ## Grades
  * [70.0](./Temple_as_God_s_Dwelling_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Temple_as_God_s_Dwelling_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Temple_as_God_s_Dwelling_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Temple_as_God_s_Dwelling_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [20.0](./Temple_as_God_s_Dwelling_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

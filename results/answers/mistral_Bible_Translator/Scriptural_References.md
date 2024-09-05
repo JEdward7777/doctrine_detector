@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) answer to [Scriptural References](../../questions/Scriptural_References.md)
+# Generated Answer from [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) for [Scriptural References](../../questions/Scriptural_References.md)
 
 ## Question [Scriptural References](../../questions/Scriptural_References.md)
 Which book of the Bible contains the reference to God as 'Almighty' in relation to Abraham?
@@ -19,7 +19,11 @@ In the original Hebrew text, the phrase used for "Almighty" is "El Shaddai." Thi
 It's important to note that translations may vary, but most English versions use "Almighty" or "God Almighty" to capture the meaning of this name for God.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Scriptural_References_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Scriptural_References_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Scriptural_References_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Scriptural_References_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Scriptural_References_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

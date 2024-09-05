@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Children and Honor](../../questions/Children_and_Honor.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Children and Honor](../../questions/Children_and_Honor.md)
 
 ## Question [Children and Honor](../../questions/Children_and_Honor.md)
 What does the Bible instruct regarding how children should honor their parents?
@@ -29,7 +29,11 @@ In a broader cultural context, this commandment reflects the importance of famil
 In our modern society, while we may not adhere strictly to these ancient customs, the principle remains relevant: showing respect and gratitude towards those who have shaped us and contributed to our well-being. This value can be applied universally, transcending cultural and religious boundaries, as it is rooted in basic human decency and mutual respect.
 
 ## Average Grade
-90.0
+89.0
 
 ## Grades
  * [90.0](./Children_and_Honor_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Children_and_Honor_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Children_and_Honor_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Children_and_Honor_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Children_and_Honor_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

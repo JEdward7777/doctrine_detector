@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Faith and Trust](../../questions/Faith_and_Trust.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Faith and Trust](../../questions/Faith_and_Trust.md)
 
 ## Question [Faith and Trust](../../questions/Faith_and_Trust.md)
 In what ways are trust and faith related in the context of Christian belief?
@@ -19,7 +19,11 @@ Faith, on the other hand, is the confident belief in the truths and promises of 
 Trust and faith go hand in hand in the Christian life. Trusting in God's character, we put our faith in Him and His plans for our lives. This leads to a life of obedience, reliance, and dependence on Him. As we grow in trust and faith, we can experience the peace, joy, and hope that comes from knowing and believing in God's unfailing love and faithfulness towards us.
 
 ## Average Grade
-95.0
+90.0
 
 ## Grades
  * [95.0](./Faith_and_Trust_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Faith_and_Trust_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Faith_and_Trust_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Faith_and_Trust_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Faith_and_Trust_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

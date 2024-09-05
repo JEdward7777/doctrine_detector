@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) answer to [Biblical Perspective on Guilt](../../questions/Biblical_Perspective_on_Guilt.md)
+# Generated Answer from [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) for [Biblical Perspective on Guilt](../../questions/Biblical_Perspective_on_Guilt.md)
 
 ## Question [Biblical Perspective on Guilt](../../questions/Biblical_Perspective_on_Guilt.md)
 How does the Bible illustrate the consequences of guilt and sin?
@@ -27,7 +27,11 @@ The Bible addresses the themes of guilt and sin through various narratives and t
 These examples reflect a nuanced understanding of guilt and sin, demonstrating that while these experiences are often challenging and painful, they can also lead to growth, repentance, and deeper relationships with God and others. The overarching message encourages compassion, understanding, and the hope of redemption.
 
 ## Average Grade
-85.0
+87.0
 
 ## Grades
  * [85.0](./Biblical_Perspective_on_Guilt_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Biblical_Perspective_on_Guilt_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Biblical_Perspective_on_Guilt_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Biblical_Perspective_on_Guilt_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Biblical_Perspective_on_Guilt_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Division of Israel](../../questions/Division_of_Israel.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Division of Israel](../../questions/Division_of_Israel.md)
 
 ## Question [Division of Israel](../../questions/Division_of_Israel.md)
 What major event occurred in Israel's history after King Solomon's reign?
@@ -25,7 +25,11 @@ It's worth noting that Muslims consider Jerusalem a sacred site because it is th
 I hope this answers your question while also providing some context from an Islamic perspective. If you have any further questions or concerns, please don't hesitate to ask.
 
 ## Average Grade
-20.0
+37.0
 
 ## Grades
  * [20.0](./Division_of_Israel_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [75.0](./Division_of_Israel_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [30.0](./Division_of_Israel_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [20.0](./Division_of_Israel_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [40.0](./Division_of_Israel_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

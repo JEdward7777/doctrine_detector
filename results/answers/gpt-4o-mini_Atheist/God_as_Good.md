@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [God as Good](../../questions/God_as_Good.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [God as Good](../../questions/God_as_Good.md)
 
 ## Question [God as Good](../../questions/God_as_Good.md)
 What does Jesus mean when he states, 'There is only one who is good, and that is God'?
@@ -27,7 +27,11 @@ From a scholarly perspective, this statement can be unpacked in several ways:
 In sum, Jesus’ declaration about goodness invites an exploration of the relationship between humanity, morality, and the divine, and it continues to be a point of reflection in theological discussions today.
 
 ## Average Grade
-90.0
+88.0
 
 ## Grades
  * [90.0](./God_as_Good_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./God_as_Good_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./God_as_Good_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./God_as_Good_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./God_as_Good_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

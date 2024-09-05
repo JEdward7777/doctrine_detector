@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) answer to [Terminology](../../questions/Terminology.md)
+# Generated Answer from [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) for [Terminology](../../questions/Terminology.md)
 
 ## Question [Terminology](../../questions/Terminology.md)
 What are some alternative terms that can be used to describe a deacon?
@@ -25,7 +25,11 @@ In Christian contexts, the term "deacon" can be described or referred to using s
 Keep in mind that the specific title and understanding of a deacon can vary among different Christian denominations, so some of these alternatives may be more relevant in certain contexts than others.
 
 ## Average Grade
-85.0
+86.0
 
 ## Grades
  * [85.0](./Terminology_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Terminology_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Terminology_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Terminology_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Terminology_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

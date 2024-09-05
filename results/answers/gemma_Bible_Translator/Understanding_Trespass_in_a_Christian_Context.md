@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Understanding Trespass in a Christian Context](../../questions/Understanding_Trespass_in_a_Christian_Context.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Understanding Trespass in a Christian Context](../../questions/Understanding_Trespass_in_a_Christian_Context.md)
 
 ## Question [Understanding Trespass in a Christian Context](../../questions/Understanding_Trespass_in_a_Christian_Context.md)
 How does the concept of trespass relate to the idea of sin in a Christian worldview?

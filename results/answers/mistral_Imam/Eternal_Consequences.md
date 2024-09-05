@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Eternal Consequences](../../questions/Eternal_Consequences.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Eternal Consequences](../../questions/Eternal_Consequences.md)
 
 ## Question [Eternal Consequences](../../questions/Eternal_Consequences.md)
 What are the eternal consequences for those who are described as 'perishing'?
@@ -25,7 +25,11 @@ It is crucial to remember that Islam encourages guidance, love, and compassion t
 Lastly, it is essential for Muslims to focus on their own faith and actions rather than judging or condemning others. The Prophet Muhammad (peace be upon him) said, "Verily, Allah loves that when a person calls his brother to a path Allah likes, he prefers for him the same as he likes for himself." By following this example, Muslims can hope for the best outcome for everyone while continuing to strive towards their own spiritual growth and development.
 
 ## Average Grade
-95.0
+91.0
 
 ## Grades
  * [95.0](./Eternal_Consequences_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Eternal_Consequences_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Eternal_Consequences_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Eternal_Consequences_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Eternal_Consequences_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Unfaithfulness in Worship](../../questions/Unfaithfulness_in_Worship.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Unfaithfulness in Worship](../../questions/Unfaithfulness_in_Worship.md)
 
 ## Question [Unfaithfulness in Worship](../../questions/Unfaithfulness_in_Worship.md)
 How did the people of Israel demonstrate unfaithfulness in their worship?

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Definition of Sanctification](../../questions/Definition_of_Sanctification.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Definition of Sanctification](../../questions/Definition_of_Sanctification.md)
 
 ## Question [Definition of Sanctification](../../questions/Definition_of_Sanctification.md)
 What does it mean to sanctify or to be sanctified according to the Bible?
@@ -40,7 +40,11 @@ Understanding the biblical definition of sanctification.
 * The martyrs and those who have died in a state of righteousness.
 
 ## Average Grade
-80.0
+77.0
 
 ## Grades
  * [80.0](./Definition_of_Sanctification_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Definition_of_Sanctification_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Definition_of_Sanctification_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Definition_of_Sanctification_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [40.0](./Definition_of_Sanctification_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

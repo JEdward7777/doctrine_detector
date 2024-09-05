@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) answer to [Hypocrisy in Personal Conduct](../../questions/Hypocrisy_in_Personal_Conduct.md)
+# Generated Answer from [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) for [Hypocrisy in Personal Conduct](../../questions/Hypocrisy_in_Personal_Conduct.md)
 
 ## Question [Hypocrisy in Personal Conduct](../../questions/Hypocrisy_in_Personal_Conduct.md)
 How can we ensure that our actions align with our beliefs to avoid being hypocrites?
@@ -35,7 +35,11 @@ Hypocrisy can lead to a loss of integrity and may cause others to question our f
 10. Seek accountability: By having someone hold us accountable, we can remain focused on living according to our faith and avoid slipping into hypocrisy. Accountability partners can provide encouragement, support, and help keep us on the right path.
 
 ## Average Grade
-90.0
+88.0
 
 ## Grades
  * [90.0](./Hypocrisy_in_Personal_Conduct_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Hypocrisy_in_Personal_Conduct_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Hypocrisy_in_Personal_Conduct_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Hypocrisy_in_Personal_Conduct_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Hypocrisy_in_Personal_Conduct_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

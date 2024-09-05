@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Covenant Conditions](../../questions/Covenant_Conditions.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Covenant Conditions](../../questions/Covenant_Conditions.md)
 
 ## Question [Covenant Conditions](../../questions/Covenant_Conditions.md)
 What are some examples of conditional and unconditional covenants in the Bible?

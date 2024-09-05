@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [Temple Significance](../../questions/Temple_Significance.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [Temple Significance](../../questions/Temple_Significance.md)
 
 ## Question [Temple Significance](../../questions/Temple_Significance.md)
 What was the purpose of the temple constructed by King Solomon in Jerusalem?
@@ -29,7 +29,11 @@ The temple constructed by King Solomon in Jerusalem, often referred to as Solomo
 In summary, Solomon's Temple was a multifaceted institution that played a crucial role in the religious, social, and political life of ancient Israel. Its impact has continued to resonate through history, influencing Jewish thought and identity up to the present day.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Temple_Significance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Temple_Significance_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Temple_Significance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Temple_Significance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Temple_Significance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

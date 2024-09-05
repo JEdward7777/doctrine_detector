@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Translating 'Fear' in Context](../../questions/Translating__Fear__in_Context.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Translating 'Fear' in Context](../../questions/Translating__Fear__in_Context.md)
 
 ## Question [Translating 'Fear' in Context](../../questions/Translating__Fear__in_Context.md)
 What are the different ways in which 'fear' can be translated when referring to God, and why is this understanding important?

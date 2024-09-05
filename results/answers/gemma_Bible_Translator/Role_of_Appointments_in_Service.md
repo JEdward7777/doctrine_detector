@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Role of Appointments in Service](../../questions/Role_of_Appointments_in_Service.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Role of Appointments in Service](../../questions/Role_of_Appointments_in_Service.md)
 
 ## Question [Role of Appointments in Service](../../questions/Role_of_Appointments_in_Service.md)
 In what ways are Christians called to fulfill the roles they are appointed to within the Church?

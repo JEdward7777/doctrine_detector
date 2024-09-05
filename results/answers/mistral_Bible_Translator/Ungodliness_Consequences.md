@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) answer to [Ungodliness Consequences](../../questions/Ungodliness_Consequences.md)
+# Generated Answer from [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) for [Ungodliness Consequences](../../questions/Ungodliness_Consequences.md)
 
 ## Question [Ungodliness Consequences](../../questions/Ungodliness_Consequences.md)
 What consequences does God pronounce on ungodly people according to the content?
@@ -27,7 +27,11 @@ Awareness of the spiritual ramifications of living in disobedience to God.
 6. Revelation 20:11-15 - In the book of Revelation, there is a description of the final judgment where ungodly people are thrown into the lake of fire and brimstone to be tormented day and night for ever and ever.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Ungodliness_Consequences_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Ungodliness_Consequences_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Ungodliness_Consequences_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Ungodliness_Consequences_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Ungodliness_Consequences_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

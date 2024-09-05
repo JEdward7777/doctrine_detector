@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Obeying God's Commands](../../questions/Obeying_God_s_Commands.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Obeying God's Commands](../../questions/Obeying_God_s_Commands.md)
 
 ## Question [Obeying God's Commands](../../questions/Obeying_God_s_Commands.md)
 How do the laws given to Moses relate to the concept of a covenant between God and His people?
@@ -51,7 +51,11 @@ Understanding the significance of obedience to God's commands in the context of 
 The laws of Moses played a vital role in establishing and upholding the initial covenant between God and the Israelites. However, they were ultimately foreshadowed and surpassed by the New Covenant, which is based on grace and offers eternal life through Jesus Christ.
 
 ## Average Grade
-90.0
+92.0
 
 ## Grades
  * [90.0](./Obeying_God_s_Commands_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Obeying_God_s_Commands_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Obeying_God_s_Commands_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Obeying_God_s_Commands_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Obeying_God_s_Commands_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

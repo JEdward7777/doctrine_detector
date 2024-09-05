@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Deacon Definition](../../questions/Deacon_Definition.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Deacon Definition](../../questions/Deacon_Definition.md)
 
 ## Question [Deacon Definition](../../questions/Deacon_Definition.md)
 What is the primary role of a deacon in the local church?
@@ -19,7 +19,11 @@ Imams also play a vital role in assisting their community members during times o
 Overall, the primary role of an Imam in a Muslim community is to serve as a spiritual guide and leader who helps individuals grow in their faith and practice of Islam, while also promoting the values of compassion, justice, and mercy in society.
 
 ## Average Grade
-60.0
+54.0
 
 ## Grades
  * [60.0](./Deacon_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [30.0](./Deacon_Definition_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Deacon_Definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [40.0](./Deacon_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Deacon_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

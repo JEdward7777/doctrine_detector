@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Understanding the Last Days](../../questions/Understanding_the_Last_Days.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Understanding the Last Days](../../questions/Understanding_the_Last_Days.md)
 
 ## Question [Understanding the Last Days](../../questions/Understanding_the_Last_Days.md)
 What do the 'last days' signify in relation to Jesus’ first and second comings?
@@ -31,7 +31,11 @@ It is important to note that Islam does not believe in predestination or predete
 In conclusion, the Last Days in Islamic eschatology signify a period of turmoil and chaos preceding Jesus' return, which is believed to mark the beginning of the end times. During this period, signs and events will occur that will test humanity's faith, morals, and values.
 
 ## Average Grade
-60.0
+69.0
 
 ## Grades
  * [60.0](./Understanding_the_Last_Days_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Understanding_the_Last_Days_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Understanding_the_Last_Days_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Understanding_the_Last_Days_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_the_Last_Days_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

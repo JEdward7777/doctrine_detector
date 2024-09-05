@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Assurance of Salvation](../../questions/Assurance_of_Salvation.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Assurance of Salvation](../../questions/Assurance_of_Salvation.md)
 
 ## Question [Assurance of Salvation](../../questions/Assurance_of_Salvation.md)
 What assurance is given to those who believe in Jesus?
@@ -25,7 +25,11 @@ Reassuring believers of their salvation through faith in Jesus.
 **Therefore, while belief in Jesus can be a part of a Muslim's faith, it is the comprehensive Islamic belief system that provides assurance and salvation.**
 
 ## Average Grade
-20.0
+24.0
 
 ## Grades
  * [20.0](./Assurance_of_Salvation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [20.0](./Assurance_of_Salvation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [20.0](./Assurance_of_Salvation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [20.0](./Assurance_of_Salvation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [40.0](./Assurance_of_Salvation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [God's Name](../../questions/God_s_Name.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [God's Name](../../questions/God_s_Name.md)
 
 ## Question [God's Name](../../questions/God_s_Name.md)
 What is the significance of God's name 'Yahweh' as revealed in the Bible?
@@ -25,7 +25,11 @@ The name "Yahweh" holds significant meaning in the context of the Hebrew Bible (
 In summary, the significance of "Yahweh" encompasses the nature of divinity, the covenantal relationship with Israel, the emphasis on holiness, and profound theological implications regarding God’s existence and involvement in the world. This multifaceted understanding has shaped Jewish thought and continues to do so in discussions of theology and philosophy.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./God_s_Name_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./God_s_Name_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./God_s_Name_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./God_s_Name_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./God_s_Name_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

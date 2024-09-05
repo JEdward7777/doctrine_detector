@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [True vs False Prophets](../../questions/True_vs_False_Prophets.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [True vs False Prophets](../../questions/True_vs_False_Prophets.md)
 
 ## Question [True vs False Prophets](../../questions/True_vs_False_Prophets.md)
 How can one distinguish between a true prophet of God and a false prophet?
@@ -31,7 +31,11 @@ By applying these criteria, we can critically evaluate prophetic claims and sepa
 Now, if you'll excuse me, I have some peer-reviewed articles to review and skeptical questions to answer.
 
 ## Average Grade
-70.0
+67.0
 
 ## Grades
  * [70.0](./True_vs_False_Prophets_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./True_vs_False_Prophets_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./True_vs_False_Prophets_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [65.0](./True_vs_False_Prophets_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./True_vs_False_Prophets_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

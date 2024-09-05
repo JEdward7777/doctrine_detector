@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Zeal Definition](../../questions/Zeal_Definition.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Zeal Definition](../../questions/Zeal_Definition.md)
 
 ## Question [Zeal Definition](../../questions/Zeal_Definition.md)
 What does it mean to have 'zeal' in the context of Christian teachings?
@@ -19,7 +19,11 @@ However, it is important to note that zeal must be tempered with wisdom, humilit
 One well-known example of zeal in the Bible is the apostle Paul, who demonstrated great passion and dedication in his mission to spread the Gospel, even in the face of persecution and hardships. Ultimately, zeal in the Christian context is about wholeheartedly pursuing a relationship with God and living out His purposes with enthusiasm and sincerity.
 
 ## Average Grade
-90.0
+91.0
 
 ## Grades
  * [90.0](./Zeal_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Zeal_Definition_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Zeal_Definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Zeal_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Zeal_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

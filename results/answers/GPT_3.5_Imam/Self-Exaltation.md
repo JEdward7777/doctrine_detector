@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Self-Exaltation](../../questions/Self-Exaltation.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Self-Exaltation](../../questions/Self-Exaltation.md)
 
 ## Question [Self-Exaltation](../../questions/Self-Exaltation.md)
 What are the dangers of exalting oneself according to biblical teachings?
@@ -25,7 +25,11 @@ In Islam, similar to the teachings found in the Bible, exalting oneself is highl
 In conclusion, exalting oneself is considered detrimental in Islam as it goes against the teachings of humility, compassion, and seeking forgiveness. Muslims are encouraged to remain humble before Allah and to treat others with kindness and respect, regardless of their social status or background.
 
 ## Average Grade
-95.0
+94.0
 
 ## Grades
  * [95.0](./Self-Exaltation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Self-Exaltation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Self-Exaltation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Self-Exaltation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Self-Exaltation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

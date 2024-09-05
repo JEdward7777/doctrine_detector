@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Fellowship with God](../../questions/Fellowship_with_God.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Fellowship with God](../../questions/Fellowship_with_God.md)
 
 ## Question [Fellowship with God](../../questions/Fellowship_with_God.md)
 What is the significance of fellowship with God in Christianity?
@@ -33,7 +33,11 @@ While Islam does not recognize the concept of "fellowship with God" as a distinc
 In conclusion, while fellowship with God is a unique concept in Christianity, Muslims can appreciate the value placed on deepening relationships with their Creator. However, we must be mindful of the differences between Islamic and Christian teachings and avoid confusing or conflating these concepts.
 
 ## Average Grade
-80.0
+85.0
 
 ## Grades
  * [80.0](./Fellowship_with_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Fellowship_with_God_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Fellowship_with_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Fellowship_with_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Fellowship_with_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

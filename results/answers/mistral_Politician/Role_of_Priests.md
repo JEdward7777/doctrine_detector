@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Politician](../../answering_models/mistral_Politician.md) answer to [Role of Priests](../../questions/Role_of_Priests.md)
+# Generated Answer from [mistral Politician](../../answering_models/mistral_Politician.md) for [Role of Priests](../../questions/Role_of_Priests.md)
 
 ## Question [Role of Priests](../../questions/Role_of_Priests.md)
 What were the main responsibilities of priests in the Old Testament according to the Bible?
@@ -31,3 +31,7 @@ Understanding the biblical role of priests
 
 ## Grades
  * [70.0](./Role_of_Priests_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Role_of_Priests_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [50.0](./Role_of_Priests_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Role_of_Priests_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Role_of_Priests_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

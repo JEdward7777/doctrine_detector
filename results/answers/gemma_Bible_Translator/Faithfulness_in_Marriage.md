@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Faithfulness in Marriage](../../questions/Faithfulness_in_Marriage.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Faithfulness in Marriage](../../questions/Faithfulness_in_Marriage.md)
 
 ## Question [Faithfulness in Marriage](../../questions/Faithfulness_in_Marriage.md)
 What does the Bible teach about faithfulness in marriage regarding adultery?

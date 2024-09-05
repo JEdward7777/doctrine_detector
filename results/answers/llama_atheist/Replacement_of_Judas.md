@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Replacement of Judas](../../questions/Replacement_of_Judas.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Replacement of Judas](../../questions/Replacement_of_Judas.md)
 
 ## Question [Replacement of Judas](../../questions/Replacement_of_Judas.md)
 Who was chosen to replace Judas Iscariot among the twelve apostles?
@@ -27,7 +27,11 @@ It's essential to note that these accounts are part of Christian scripture and m
 If you'd like more context or clarification on any specific aspect of this story, feel free to ask!
 
 ## Average Grade
-85.0
+87.0
 
 ## Grades
  * [85.0](./Replacement_of_Judas_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Replacement_of_Judas_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Replacement_of_Judas_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Replacement_of_Judas_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Replacement_of_Judas_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

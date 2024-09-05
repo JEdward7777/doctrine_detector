@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) answer to [Translation of Divine Titles](../../questions/Translation_of_Divine_Titles.md)
+# Generated Answer from [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) for [Translation of Divine Titles](../../questions/Translation_of_Divine_Titles.md)
 
 ## Question [Translation of Divine Titles](../../questions/Translation_of_Divine_Titles.md)
 How should the term 'Lord Yahweh' be translated in different languages to maintain its meaning?
@@ -34,7 +34,11 @@ The term "Lord Yahweh" is significant in biblical texts, representing the person
 Ultimately, the goal in translating "Lord Yahweh" is to preserve both the uniqueness of God's name and the understanding of His lordship across different cultures and languages. Consulting with theologians or native speakers who are familiar with both the original texts and the target language can further ensure accuracy and reverence in translation.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Translation_of_Divine_Titles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Translation_of_Divine_Titles_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Translation_of_Divine_Titles_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Translation_of_Divine_Titles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Translation_of_Divine_Titles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

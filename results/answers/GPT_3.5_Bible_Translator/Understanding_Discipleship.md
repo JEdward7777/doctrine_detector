@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Understanding Discipleship](../../questions/Understanding_Discipleship.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Understanding Discipleship](../../questions/Understanding_Discipleship.md)
 
 ## Question [Understanding Discipleship](../../questions/Understanding_Discipleship.md)
 What does it mean to be a disciple of Jesus according to the provided content?
@@ -19,7 +19,11 @@ Being a disciple of Jesus also involves a personal relationship with Him, throug
 Ultimately, being a disciple of Jesus is not just about being a follower or a student, but about being a devoted servant and ambassador of the Kingdom of God, spreading the message of salvation and making disciples of all nations (Matthew 28:19-20). It is a lifelong journey of faith, obedience, and transformation, empowered by the grace of God and the work of the Holy Spirit in our lives.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Understanding_Discipleship_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Understanding_Discipleship_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Understanding_Discipleship_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Understanding_Discipleship_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_Discipleship_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

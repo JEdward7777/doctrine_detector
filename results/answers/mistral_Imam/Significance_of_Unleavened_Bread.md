@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Significance of Unleavened Bread](../../questions/Significance_of_Unleavened_Bread.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Significance of Unleavened Bread](../../questions/Significance_of_Unleavened_Bread.md)
 
 ## Question [Significance of Unleavened Bread](../../questions/Significance_of_Unleavened_Bread.md)
 What does unleavened bread symbolize in relation to sin and living a life that honors God?
@@ -23,7 +23,11 @@ In the Hadith Qudsi narrated by Bukhari and Muslim, Prophet Muhammad (peace be u
 Here, the emphasis is on maintaining a constant connection with Allah, keeping our lives simple and focused on worship and remembrance. This can be seen as paralleling the simplicity and purity represented by unleavened bread in Islamic tradition.
 
 ## Average Grade
-90.0
+74.0
 
 ## Grades
  * [90.0](./Significance_of_Unleavened_Bread_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Significance_of_Unleavened_Bread_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Significance_of_Unleavened_Bread_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Significance_of_Unleavened_Bread_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Significance_of_Unleavened_Bread_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

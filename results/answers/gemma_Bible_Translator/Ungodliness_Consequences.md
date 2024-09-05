@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Ungodliness Consequences](../../questions/Ungodliness_Consequences.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Ungodliness Consequences](../../questions/Ungodliness_Consequences.md)
 
 ## Question [Ungodliness Consequences](../../questions/Ungodliness_Consequences.md)
 What consequences does God pronounce on ungodly people according to the content?

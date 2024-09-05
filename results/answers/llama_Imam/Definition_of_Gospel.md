@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Definition of Gospel](../../questions/Definition_of_Gospel.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Definition of Gospel](../../questions/Definition_of_Gospel.md)
 
 ## Question [Definition of Gospel](../../questions/Definition_of_Gospel.md)
 What does the term 'gospel' literally mean, and how is it understood in the context of the Bible?
@@ -27,7 +27,11 @@ In Islamic context, the term "Gospel" is often used to refer to the entire Chris
 Wa alaykum salam.
 
 ## Average Grade
-70.0
+61.0
 
 ## Grades
  * [70.0](./Definition_of_Gospel_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [65.0](./Definition_of_Gospel_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Definition_of_Gospel_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Definition_of_Gospel_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [40.0](./Definition_of_Gospel_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

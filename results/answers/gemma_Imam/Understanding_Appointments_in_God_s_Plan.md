@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Understanding Appointments in God's Plan](../../questions/Understanding_Appointments_in_God_s_Plan.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Understanding Appointments in God's Plan](../../questions/Understanding_Appointments_in_God_s_Plan.md)
 
 ## Question [Understanding Appointments in God's Plan](../../questions/Understanding_Appointments_in_God_s_Plan.md)
 What does it mean to be 'appointed to eternal life' in a Christian context?
@@ -20,7 +20,11 @@ In a Christian context, the concept of being "appointed to eternal life" typical
 **In Islam, there is no belief in predestination or the concept of being "appointed to eternal life."** Muslim beliefs center around the idea that salvation and eternal life are through following Islamic laws and principles, and through faith in Allah and the Prophet Muhammad.
 
 ## Average Grade
-95.0
+90.0
 
 ## Grades
  * [95.0](./Understanding_Appointments_in_God_s_Plan_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Understanding_Appointments_in_God_s_Plan_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Understanding_Appointments_in_God_s_Plan_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Understanding_Appointments_in_God_s_Plan_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Understanding_Appointments_in_God_s_Plan_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

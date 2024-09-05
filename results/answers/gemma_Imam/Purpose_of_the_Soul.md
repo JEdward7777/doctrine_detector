@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Purpose of the Soul](../../questions/Purpose_of_the_Soul.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Purpose of the Soul](../../questions/Purpose_of_the_Soul.md)
 
 ## Question [Purpose of the Soul](../../questions/Purpose_of_the_Soul.md)
 In what ways does the soul relate to a person's relationship with God as described in scripture?
@@ -51,7 +51,11 @@ Recognizing the soul's role in relation to God can influence a believer's spirit
 * Quran 9:103: "Say, 'My prayer is only for contentment with my Lord and relief for my soul.'"
 
 ## Average Grade
-90.0
+84.0
 
 ## Grades
  * [90.0](./Purpose_of_the_Soul_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Purpose_of_the_Soul_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Purpose_of_the_Soul_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Purpose_of_the_Soul_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Purpose_of_the_Soul_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

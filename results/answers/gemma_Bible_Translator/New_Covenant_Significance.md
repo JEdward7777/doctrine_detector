@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [New Covenant Significance](../../questions/New_Covenant_Significance.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [New Covenant Significance](../../questions/New_Covenant_Significance.md)
 
 ## Question [New Covenant Significance](../../questions/New_Covenant_Significance.md)
 What is the significance of the new covenant established through Jesus?

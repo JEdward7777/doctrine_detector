@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Biblical References to Heaven](../../questions/Biblical_References_to_Heaven.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Biblical References to Heaven](../../questions/Biblical_References_to_Heaven.md)
 
 ## Question [Biblical References to Heaven](../../questions/Biblical_References_to_Heaven.md)
 Which Bible verses provide insight into the concept of heaven?

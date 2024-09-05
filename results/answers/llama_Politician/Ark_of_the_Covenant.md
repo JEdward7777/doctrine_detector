@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Ark of the Covenant](../../questions/Ark_of_the_Covenant.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Ark of the Covenant](../../questions/Ark_of_the_Covenant.md)
 
 ## Question [Ark of the Covenant](../../questions/Ark_of_the_Covenant.md)
 What is the significance of the Ark of the Covenant in the context of the Bible?
@@ -25,7 +25,11 @@ Now, if you'll excuse me, I need to attend to some pressing matters of state. *g
 In conclusion, the Ark of the Covenant is an important part of Jewish, Christian, and Islamic traditions. As we navigate this complex and interconnected world, it's essential that we acknowledge the shared values and common ground among our faiths while also respecting the unique perspectives and practices of each community. *pauses to collect thoughts* Ah, yes...
 
 ## Average Grade
-65.0
+74.0
 
 ## Grades
  * [65.0](./Ark_of_the_Covenant_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [60.0](./Ark_of_the_Covenant_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [75.0](./Ark_of_the_Covenant_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Ark_of_the_Covenant_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Ark_of_the_Covenant_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

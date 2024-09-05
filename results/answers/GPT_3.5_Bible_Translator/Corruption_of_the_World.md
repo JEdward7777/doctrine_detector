@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Corruption of the World](../../questions/Corruption_of_the_World.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Corruption of the World](../../questions/Corruption_of_the_World.md)
 
 ## Question [Corruption of the World](../../questions/Corruption_of_the_World.md)
 In what ways can Christians identify corrupt influences in the world around them?
@@ -21,7 +21,11 @@ It is also important for Christians to be aware of the cultural and societal nor
 Finally, surrounding ourselves with a strong Christian community can provide accountability and support in discerning and avoiding corrupt influences. By staying connected with fellow believers who can encourage and challenge us in our faith, we can guard against being swayed by the pressures and temptations of the world.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Corruption_of_the_World_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Corruption_of_the_World_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Corruption_of_the_World_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Corruption_of_the_World_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Corruption_of_the_World_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

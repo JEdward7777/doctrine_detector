@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Scriptural References 3](../../questions/Scriptural_References_3.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Scriptural References 3](../../questions/Scriptural_References_3.md)
 
 ## Question [Scriptural References 3](../../questions/Scriptural_References_3.md)
 What do passages like Matthew 23:27-28 teach us about the nature of iniquity?
@@ -27,7 +27,11 @@ In Islamic jurisprudence, scholars have identified various types of iniquity, in
 Ultimately, understanding the nature of iniquity requires a deep appreciation for the concept of Taqwa and the importance of cultivating a strong connection with Allah (SWT).
 
 ## Average Grade
-40.0
+64.0
 
 ## Grades
  * [40.0](./Scriptural_References_3_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Scriptural_References_3_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [75.0](./Scriptural_References_3_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [75.0](./Scriptural_References_3_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Scriptural_References_3_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Importance of Proclaiming the Gospel](../../questions/Importance_of_Proclaiming_the_Gospel.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Importance of Proclaiming the Gospel](../../questions/Importance_of_Proclaiming_the_Gospel.md)
 
 ## Question [Importance of Proclaiming the Gospel](../../questions/Importance_of_Proclaiming_the_Gospel.md)
 Why is it important for Christians to proclaim the 'good news'?
@@ -27,7 +27,11 @@ There are a few reasons why Christians consider it important to proclaim the 'go
 It's important to note that while proclaiming the 'good news' is a central aspect of Christian faith, Muslims have a different perspective on spreading the message of Islam. In Islam, the emphasis is on inviting others to the worship of one God (Allah) and following the teachings of the Prophet Muhammad (peace be upon him), rather than spreading 'good news' in the same way Christians do.
 
 ## Average Grade
-95.0
+91.0
 
 ## Grades
  * [95.0](./Importance_of_Proclaiming_the_Gospel_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Importance_of_Proclaiming_the_Gospel_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Importance_of_Proclaiming_the_Gospel_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Importance_of_Proclaiming_the_Gospel_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Importance_of_Proclaiming_the_Gospel_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

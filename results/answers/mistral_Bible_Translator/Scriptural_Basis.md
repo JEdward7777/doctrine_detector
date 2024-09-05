@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) answer to [Scriptural Basis](../../questions/Scriptural_Basis.md)
+# Generated Answer from [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) for [Scriptural Basis](../../questions/Scriptural_Basis.md)
 
 ## Question [Scriptural Basis](../../questions/Scriptural_Basis.md)
 Which Bible verses support the concept of propitiation?
@@ -25,7 +25,11 @@ To connect the theological concept with biblical references for deeper understan
 These verses demonstrate that Jesus' sacrifice on the cross was an act of propitiation, appeasing God's wrath for humanity's sins. Through faith in Jesus, people are reconciled to God and saved from eternal punishment.
 
 ## Average Grade
-90.0
+92.0
 
 ## Grades
  * [90.0](./Scriptural_Basis_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Scriptural_Basis_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Scriptural_Basis_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Scriptural_Basis_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Scriptural_Basis_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

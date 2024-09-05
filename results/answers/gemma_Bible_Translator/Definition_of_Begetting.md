@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Definition of Begetting](../../questions/Definition_of_Begetting.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Definition of Begetting](../../questions/Definition_of_Begetting.md)
 
 ## Question [Definition of Begetting](../../questions/Definition_of_Begetting.md)
 What does the term 'beget' imply in a Biblical context?

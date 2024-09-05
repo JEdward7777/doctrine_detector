@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Implications of Iniquity](../../questions/Implications_of_Iniquity.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Implications of Iniquity](../../questions/Implications_of_Iniquity.md)
 
 ## Question [Implications of Iniquity](../../questions/Implications_of_Iniquity.md)
 How does the understanding of iniquity as 'harmful acts' influence a Christian's behavior toward others?
@@ -19,7 +19,11 @@ This understanding should influence a Christian's behavior toward others by enco
 Ultimately, viewing iniquity as harmful acts emphasizes the need for Christians to live lives that reflect the love and grace of God, seeking to build up others rather than tear them down, and striving to promote peace, justice, and reconciliation in all their relationships.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Implications_of_Iniquity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Implications_of_Iniquity_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Implications_of_Iniquity_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Implications_of_Iniquity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Implications_of_Iniquity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

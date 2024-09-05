@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [High Priest Access](../../questions/High_Priest_Access.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [High Priest Access](../../questions/High_Priest_Access.md)
 
 ## Question [High Priest Access](../../questions/High_Priest_Access.md)
 Who was allowed to approach the ark of the covenant and under what circumstances?
@@ -25,7 +25,11 @@ In the biblical tradition, the Ark of the Covenant was a sacred object that repr
 In summary, access to the Ark of the Covenant was highly regulated, limited primarily to the High Priest under specific conditions, with a strong emphasis on ritual purity and respect for its sanctity.
 
 ## Average Grade
-95.0
+91.0
 
 ## Grades
  * [95.0](./High_Priest_Access_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./High_Priest_Access_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./High_Priest_Access_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./High_Priest_Access_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./High_Priest_Access_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

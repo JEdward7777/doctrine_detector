@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Understanding God's Glory](../../questions/Understanding_God_s_Glory.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Understanding God's Glory](../../questions/Understanding_God_s_Glory.md)
 
 ## Question [Understanding God's Glory](../../questions/Understanding_God_s_Glory.md)
 How does the concept of God's glory in the Bible differ from worldly sources of glory?
@@ -27,7 +27,11 @@ In the Bible, God's glory (Hebrew: כָּבוֹד, kabod) is a profound and mult
 In conclusion, the concept of God's glory in the Bible is fundamentally different from worldly sources of glory. While the latter may be fleeting, external, and tied to human achievements, God's glory is eternal, intrinsic, and reveals His righteous character. As believers, we're called to seek and magnify this divine glory above all else.
 
 ## Average Grade
-95.0
+94.4
 
 ## Grades
  * [95.0](./Understanding_God_s_Glory_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Understanding_God_s_Glory_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Understanding_God_s_Glory_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Understanding_God_s_Glory_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [92.0](./Understanding_God_s_Glory_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

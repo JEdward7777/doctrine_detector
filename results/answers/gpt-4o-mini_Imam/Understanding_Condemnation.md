@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Understanding Condemnation](../../questions/Understanding_Condemnation.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Understanding Condemnation](../../questions/Understanding_Condemnation.md)
 
 ## Question [Understanding Condemnation](../../questions/Understanding_Condemnation.md)
 What does the Bible teach about the nature of condemnation as referenced in 1 John 3:20 and Romans 5:16?
@@ -21,7 +21,11 @@ In the New Testament of the Bible, passages such as 1 John 3:20 and Romans 5:16 
 In a broader theological context, these verses work together to describe the dual aspects of humanity's condition: the reality of sin that brings about condemnation and the promise of grace that leads to forgiveness and a restored relationship with God. In Islam, similar themes exist regarding sin, repentance, and God's mercy. In both faiths, there is an emphasis on the importance of seeking forgiveness and understanding that God’s mercy is greater than human failings.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Understanding_Condemnation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Understanding_Condemnation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Understanding_Condemnation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Understanding_Condemnation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_Condemnation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

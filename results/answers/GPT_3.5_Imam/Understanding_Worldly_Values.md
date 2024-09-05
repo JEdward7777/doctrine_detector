@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Understanding Worldly Values](../../questions/Understanding_Worldly_Values.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Understanding Worldly Values](../../questions/Understanding_Worldly_Values.md)
 
 ## Question [Understanding Worldly Values](../../questions/Understanding_Worldly_Values.md)
 What does the term 'worldly' imply about the behaviors and values of people according to Christian teachings?
@@ -21,7 +21,11 @@ It is important for Muslims to strike a balance between their worldly commitment
 Ultimately, Islam teaches that true success lies in maintaining a strong connection with Allah, living a life of righteousness, showing compassion to others, and working towards the betterment of society. Being "worldly" in the Islamic context is therefore understood as being focused on worldly matters to the extent that it distracts one from their spiritual journey and moral principles.
 
 ## Average Grade
-88.0
+84.6
 
 ## Grades
  * [88.0](./Understanding_Worldly_Values_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Understanding_Worldly_Values_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Understanding_Worldly_Values_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Understanding_Worldly_Values_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Understanding_Worldly_Values_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

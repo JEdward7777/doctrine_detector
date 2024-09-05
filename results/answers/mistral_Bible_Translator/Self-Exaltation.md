@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) answer to [Self-Exaltation](../../questions/Self-Exaltation.md)
+# Generated Answer from [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) for [Self-Exaltation](../../questions/Self-Exaltation.md)
 
 ## Question [Self-Exaltation](../../questions/Self-Exaltation.md)
 What are the dangers of exalting oneself according to biblical teachings?
@@ -29,7 +29,11 @@ Recognizing and avoiding the sin of pride.
 7. Missing God's Blessings (James 4:6): Exalting oneself can prevent us from receiving God's blessings, as He resists the proud but gives grace to the humble (1 Peter 5:5). By exalting ourselves, we may unintentionally hinder God's work in our lives and miss out on His blessings.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Self-Exaltation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Self-Exaltation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Self-Exaltation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Self-Exaltation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Self-Exaltation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [God's Chosen People](../../questions/God_s_Chosen_People.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [God's Chosen People](../../questions/God_s_Chosen_People.md)
 
 ## Question [God's Chosen People](../../questions/God_s_Chosen_People.md)
 How does the idea of a 'remnant' indicate God's selective grace towards His people?
@@ -44,7 +44,11 @@ It is important to balance the idea of God's selective grace with other biblical
 The 'remnant' concept should not be used to justify exclusion or superiority, but rather to emphasize God's faithfulness to His promises and the importance of individual faith and obedience.
 
 ## Average Grade
-85.0
+88.4
 
 ## Grades
  * [85.0](./God_s_Chosen_People_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./God_s_Chosen_People_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [92.0](./God_s_Chosen_People_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./God_s_Chosen_People_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./God_s_Chosen_People_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

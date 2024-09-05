@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Clear Conscience](../../questions/Clear_Conscience.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Clear Conscience](../../questions/Clear_Conscience.md)
 
 ## Question [Clear Conscience](../../questions/Clear_Conscience.md)
 What does it mean to have a 'clear conscience' in the context of Christian teachings?
@@ -46,7 +46,11 @@ From an Islamic perspective, a clear conscience aligns with these ethical princi
 - These actions contribute to a clear conscience and a sense of fulfillment.
 
 ## Average Grade
-95.0
+87.0
 
 ## Grades
  * [95.0](./Clear_Conscience_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Clear_Conscience_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Clear_Conscience_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Clear_Conscience_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [70.0](./Clear_Conscience_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

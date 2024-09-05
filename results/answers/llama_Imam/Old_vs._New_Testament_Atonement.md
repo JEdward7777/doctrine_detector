@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Old vs. New Testament Atonement](../../questions/Old_vs._New_Testament_Atonement.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Old vs. New Testament Atonement](../../questions/Old_vs._New_Testament_Atonement.md)
 
 ## Question [Old vs. New Testament Atonement](../../questions/Old_vs._New_Testament_Atonement.md)
 How does the concept of atonement in the Old Testament differ from the New Testament understanding?
@@ -27,7 +27,11 @@ In Islamic theology, we understand that Allah (God) is merciful and forgiving, b
 In summary, while both the Old and New Testaments speak to the importance of atonement, the Old Testament presents atonement as a ritualistic process of compensating for sin, whereas the New Testament portrays it as a divine act of reconciliation through Jesus' sacrifice.
 
 ## Average Grade
-90.0
+88.0
 
 ## Grades
  * [90.0](./Old_vs._New_Testament_Atonement_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Old_vs._New_Testament_Atonement_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Old_vs._New_Testament_Atonement_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Old_vs._New_Testament_Atonement_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Old_vs._New_Testament_Atonement_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Understanding Foolishness](../../questions/Understanding_Foolishness.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Understanding Foolishness](../../questions/Understanding_Foolishness.md)
 
 ## Question [Understanding Foolishness](../../questions/Understanding_Foolishness.md)
 According to the Bible, how is a fool defined in relation to belief and obedience to God?

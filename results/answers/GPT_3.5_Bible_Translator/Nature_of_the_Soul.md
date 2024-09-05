@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Nature of the Soul](../../questions/Nature_of_the_Soul.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Nature of the Soul](../../questions/Nature_of_the_Soul.md)
 
 ## Question [Nature of the Soul](../../questions/Nature_of_the_Soul.md)
 How does the Bible differentiate between the concepts of 'soul' and 'spirit'?
@@ -23,7 +23,11 @@ One way to understand the difference between 'soul' and 'spirit' is that the sou
 Overall, while the Bible does not provide a strict definition that neatly separates the concepts of 'soul' and 'spirit', it is clear that both are essential aspects of what it means to be human, and both are important in understanding our relationship with God.
 
 ## Average Grade
-90.0
+88.0
 
 ## Grades
  * [90.0](./Nature_of_the_Soul_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Nature_of_the_Soul_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Nature_of_the_Soul_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Nature_of_the_Soul_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Nature_of_the_Soul_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Building Materials](../../questions/Building_Materials.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Building Materials](../../questions/Building_Materials.md)
 
 ## Question [Building Materials](../../questions/Building_Materials.md)
 What materials were commonly used to construct altars during biblical times?
@@ -19,7 +19,11 @@ In the context of other ancient Near Eastern cultures mentioned in the Bible, ma
 These examples illustrate the diversity of materials used for altars in biblical times. It is essential to remember that these practices were specific to their cultural contexts and should not be equated with Muslim traditions or religious practices today. In Islam, there are no physical altars as part of our worship. Mosques do not have altars because Muslims do not offer sacrifices on any altar; rather, they stand in prayer towards the Kaaba in Makkah (the Qibla).
 
 ## Average Grade
-90.0
+83.0
 
 ## Grades
  * [90.0](./Building_Materials_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Building_Materials_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Building_Materials_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Building_Materials_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Building_Materials_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

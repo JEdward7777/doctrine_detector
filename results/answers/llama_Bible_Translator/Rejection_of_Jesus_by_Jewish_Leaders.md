@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Rejection of Jesus by Jewish Leaders](../../questions/Rejection_of_Jesus_by_Jewish_Leaders.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Rejection of Jesus by Jewish Leaders](../../questions/Rejection_of_Jesus_by_Jewish_Leaders.md)
 
 ## Question [Rejection of Jesus by Jewish Leaders](../../questions/Rejection_of_Jesus_by_Jewish_Leaders.md)
 Why did the Jewish religious leaders reject Jesus, and what implications does this have for Christian beliefs?
@@ -31,7 +31,11 @@ The rejection of Jesus by the Jewish religious leaders has significant implicati
 In summary, Jesus' rejection by the Jewish religious leaders was due to his claims of Messiahship, his teachings that challenged traditional understanding, perceived blasphemy, and fear of Roman involvement. This event has far-reaching implications for Christian theology, emphasizing divine necessity, the New Covenant, salvation through faith, and the mission to the Gentiles.
 
 ## Average Grade
-95.0
+93.4
 
 ## Grades
  * [95.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [92.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

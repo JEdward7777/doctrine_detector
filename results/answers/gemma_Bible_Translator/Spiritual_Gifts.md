@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Spiritual Gifts](../../questions/Spiritual_Gifts.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Spiritual Gifts](../../questions/Spiritual_Gifts.md)
 
 ## Question [Spiritual Gifts](../../questions/Spiritual_Gifts.md)
 What are the implications of the phrase 'spiritual gifts' as described in the Bible?

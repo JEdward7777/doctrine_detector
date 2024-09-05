@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) answer to [Origin of Pentecost](../../questions/Origin_of_Pentecost.md)
+# Generated Answer from [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) for [Origin of Pentecost](../../questions/Origin_of_Pentecost.md)
 
 ## Question [Origin of Pentecost](../../questions/Origin_of_Pentecost.md)
 What historical and religious significance did the Festival of Weeks (Pentecost) have before the events described in the New Testament?
@@ -21,7 +21,11 @@ Religiously, the Festival of Weeks held special significance for the Jewish peop
 It is important to approach discussions about religious festivals with sensitivity and respect for the diverse beliefs and practices of different communities. By acknowledging and honoring the historical and religious significance of the Festival of Weeks, we can promote understanding and appreciation for the traditions and values that are meaningful to others.
 
 ## Average Grade
-60.0
+63.0
 
 ## Grades
  * [60.0](./Origin_of_Pentecost_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [75.0](./Origin_of_Pentecost_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [75.0](./Origin_of_Pentecost_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [45.0](./Origin_of_Pentecost_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Origin_of_Pentecost_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

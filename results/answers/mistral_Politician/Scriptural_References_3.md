@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Politician](../../answering_models/mistral_Politician.md) answer to [Scriptural References 3](../../questions/Scriptural_References_3.md)
+# Generated Answer from [mistral Politician](../../answering_models/mistral_Politician.md) for [Scriptural References 3](../../questions/Scriptural_References_3.md)
 
 ## Question [Scriptural References 3](../../questions/Scriptural_References_3.md)
 What do passages like Matthew 23:27-28 teach us about the nature of iniquity?
@@ -25,7 +25,11 @@ This passage teaches us several things about iniquity:
 In the spirit of political correctness, it is crucial to recognize that this passage can serve as a reminder for us all to examine our hearts, actions, and communities for any iniquities that may exist. By doing so, we can foster understanding, empathy, and unity among ourselves, fostering a more just and equitable society for everyone.
 
 ## Average Grade
-95.0
+75.0
 
 ## Grades
  * [95.0](./Scriptural_References_3_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [60.0](./Scriptural_References_3_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Scriptural_References_3_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Scriptural_References_3_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Scriptural_References_3_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

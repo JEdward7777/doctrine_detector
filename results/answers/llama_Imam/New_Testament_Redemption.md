@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [New Testament Redemption](../../questions/New_Testament_Redemption.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [New Testament Redemption](../../questions/New_Testament_Redemption.md)
 
 ## Question [New Testament Redemption](../../questions/New_Testament_Redemption.md)
 How does the concept of purification change from the Old Testament to the New Testament?
@@ -25,7 +25,11 @@ In the New Testament, purification is also associated with the indwelling of the
 In summary, while both Testaments emphasize purification, the Old Testament focuses on external rituals and sacrifices, whereas the New Testament emphasizes internal cleansing through Jesus' sacrifice and the indwelling of the Holy Spirit.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./New_Testament_Redemption_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./New_Testament_Redemption_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./New_Testament_Redemption_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./New_Testament_Redemption_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./New_Testament_Redemption_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

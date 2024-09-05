@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) answer to [Contents Of Ark](../../questions/Contents_Of_Ark.md)
+# Generated Answer from [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) for [Contents Of Ark](../../questions/Contents_Of_Ark.md)
 
 ## Question [Contents Of Ark](../../questions/Contents_Of_Ark.md)
 What items were contained within the ark of the covenant?
@@ -15,7 +15,11 @@ Learning about the reminders of God's covenant with the Israelites.
 The ark of the covenant is a significant religious symbol for many people around the world. It is believed to have contained important religious artifacts and symbols, including the tablets inscribed with the Ten Commandments, according to some traditions. It is important to respect the diverse beliefs and interpretations surrounding religious objects and symbols.
 
 ## Average Grade
-95.0
+85.0
 
 ## Grades
  * [95.0](./Contents_Of_Ark_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Contents_Of_Ark_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Contents_Of_Ark_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Contents_Of_Ark_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Contents_Of_Ark_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

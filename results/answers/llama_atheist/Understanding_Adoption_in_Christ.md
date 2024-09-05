@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Understanding Adoption in Christ](../../questions/Understanding_Adoption_in_Christ.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Understanding Adoption in Christ](../../questions/Understanding_Adoption_in_Christ.md)
 
 ## Question [Understanding Adoption in Christ](../../questions/Understanding_Adoption_in_Christ.md)
 What does it mean to be adopted as a child of God according to Ephesians 1:5?
@@ -27,7 +27,11 @@ While this passage is rooted in theological claims, it can be seen as an attempt
 In conclusion, while I do not personally subscribe to theological claims about being "adopted as a child of God," I can acknowledge the historical and cultural context in which this passage was written. As an atheist scholar, my goal is to provide a nuanced understanding of religious texts by situating them within their broader cultural and historical frameworks.
 
 ## Average Grade
-80.0
+75.0
 
 ## Grades
  * [80.0](./Understanding_Adoption_in_Christ_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Understanding_Adoption_in_Christ_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Understanding_Adoption_in_Christ_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Understanding_Adoption_in_Christ_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_Adoption_in_Christ_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

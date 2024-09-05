@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Understanding Discipleship](../../questions/Understanding_Discipleship.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Understanding Discipleship](../../questions/Understanding_Discipleship.md)
 
 ## Question [Understanding Discipleship](../../questions/Understanding_Discipleship.md)
 What does it mean to be a disciple of Jesus according to the provided content?

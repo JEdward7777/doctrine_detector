@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Finding Grace](../../questions/Finding_Grace.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Finding Grace](../../questions/Finding_Grace.md)
 
 ## Question [Finding Grace](../../questions/Finding_Grace.md)
 What does it mean to 'find grace in the eyes of God'?
@@ -38,7 +38,11 @@ To cultivate this blessed state, one must strive to maintain a strong connection
 May we all seek to find grace in the eyes of God, my dear brother or sister. May our lives be filled with His mercy, guidance, and blessing. Amen.
 
 ## Average Grade
-90.0
+89.0
 
 ## Grades
  * [90.0](./Finding_Grace_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Finding_Grace_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Finding_Grace_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Finding_Grace_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Finding_Grace_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Understanding Condemnation](../../questions/Understanding_Condemnation.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Understanding Condemnation](../../questions/Understanding_Condemnation.md)
 
 ## Question [Understanding Condemnation](../../questions/Understanding_Condemnation.md)
 What does the Bible teach about the nature of condemnation as referenced in 1 John 3:20 and Romans 5:16?
@@ -25,7 +25,11 @@ In both cases, condemnation is not primarily about God actively judging us, but 
 In Christian theology, we believe that Jesus Christ came to save us from this condemnation by offering Himself as a sacrifice for our sins. Through faith in Him, we can experience forgiveness, reconciliation with God, and the gift of eternal life (John 3:16-17).
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Understanding_Condemnation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Understanding_Condemnation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Understanding_Condemnation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Understanding_Condemnation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_Condemnation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

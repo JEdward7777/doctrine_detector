@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Definition of a Christian](../../questions/Definition_of_a_Christian.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Definition of a Christian](../../questions/Definition_of_a_Christian.md)
 
 ## Question [Definition of a Christian](../../questions/Definition_of_a_Christian.md)
 What is the biblical definition of a 'Christian'?

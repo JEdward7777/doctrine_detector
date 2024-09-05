@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Discipleship Importance](../../questions/Discipleship_Importance.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Discipleship Importance](../../questions/Discipleship_Importance.md)
 
 ## Question [Discipleship Importance](../../questions/Discipleship_Importance.md)
 Why were the twelve apostles chosen as Jesus' closest disciples?
@@ -33,7 +33,11 @@ Ultimately, however, the Bible doesn't provide a single reason why Jesus chose t
 What do you think? Do you have any other questions about the apostles or their roles in Jesus' ministry?
 
 ## Average Grade
-85.0
+83.0
 
 ## Grades
  * [85.0](./Discipleship_Importance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Discipleship_Importance_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Discipleship_Importance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Discipleship_Importance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Discipleship_Importance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

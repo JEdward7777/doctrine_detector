@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) answer to [Dominion in Creation](../../questions/Dominion_in_Creation.md)
+# Generated Answer from [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) for [Dominion in Creation](../../questions/Dominion_in_Creation.md)
 
 ## Question [Dominion in Creation](../../questions/Dominion_in_Creation.md)
 What does the Bible teach about humanity's role in having dominion over the earth?
@@ -21,7 +21,11 @@ It's important to acknowledge that interpretations of these scriptures can vary 
 Overall, the underlying principle is one of responsibility and care, aligning humanity's role in creation with the values of compassion and respect for the diverse forms of life that share our world.
 
 ## Average Grade
-90.0
+88.0
 
 ## Grades
  * [90.0](./Dominion_in_Creation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Dominion_in_Creation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Dominion_in_Creation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Dominion_in_Creation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Dominion_in_Creation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

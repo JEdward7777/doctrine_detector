@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) answer to [Definition of Holy Place](../../questions/Definition_of_Holy_Place.md)
+# Generated Answer from [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) for [Definition of Holy Place](../../questions/Definition_of_Holy_Place.md)
 
 ## Question [Definition of Holy Place](../../questions/Definition_of_Holy_Place.md)
 What is the significance of the 'holy place' in the context of the tabernacle or temple?
@@ -30,7 +30,11 @@ The 'holy place' holds significant theological and spiritual importance in the c
 In summary, the significance of the holy place lies not just in its physical structure but in its embodiment of the relationship between God and His people, highlighting themes of provision, mediation, and holiness that resonate throughout the biblical narrative and culminate in the New Covenant through Christ.
 
 ## Average Grade
-95.0
+94.4
 
 ## Grades
  * [95.0](./Definition_of_Holy_Place_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Definition_of_Holy_Place_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Definition_of_Holy_Place_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Definition_of_Holy_Place_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [92.0](./Definition_of_Holy_Place_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

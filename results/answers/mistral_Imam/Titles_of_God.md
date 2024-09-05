@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Titles of God](../../questions/Titles_of_God.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Titles of God](../../questions/Titles_of_God.md)
 
 ## Question [Titles of God](../../questions/Titles_of_God.md)
 What are some of the titles used in the Bible that refer to God as 'Almighty'?
@@ -22,7 +22,11 @@ Recognizing these titles can enhance our understanding of God's character.
 These titles are used interchangeably to emphasize God's might and power. It's essential to remember that while the Bible and the Quran originate from different religious traditions, they both attest to a single, all-powerful God who is worthy of reverence and obedience.
 
 ## Average Grade
-95.0
+88.0
 
 ## Grades
  * [95.0](./Titles_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Titles_of_God_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Titles_of_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Titles_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Titles_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Translation of Amen](../../questions/Translation_of_Amen.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Translation of Amen](../../questions/Translation_of_Amen.md)
 
 ## Question [Translation of Amen](../../questions/Translation_of_Amen.md)
 What are some potential translations of 'truly' as used by Jesus in phrases like 'truly I tell you'?
@@ -27,3 +27,7 @@ These translations are approximate and may vary depending on the specific contex
 
 ## Grades
  * [70.0](./Translation_of_Amen_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [65.0](./Translation_of_Amen_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Translation_of_Amen_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Translation_of_Amen_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Translation_of_Amen_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Sabbath Timing](../../questions/Sabbath_Timing.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Sabbath Timing](../../questions/Sabbath_Timing.md)
 
 ## Question [Sabbath Timing](../../questions/Sabbath_Timing.md)
 What is the timing of the Sabbath according to Jewish tradition?
@@ -21,7 +21,11 @@ In Jewish tradition, the Sabbath is observed by refraining from work or creative
 It's worth noting that while many Christian denominations observe Sunday worship instead of Saturday, some Christians still honor the seventh-day Sabbath as a reminder of Jesus' Jewish roots and the biblical commandment to keep the Sabbath holy (Exodus 20:8-11).
 
 ## Average Grade
-90.0
+87.0
 
 ## Grades
  * [90.0](./Sabbath_Timing_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Sabbath_Timing_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Sabbath_Timing_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Sabbath_Timing_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Sabbath_Timing_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

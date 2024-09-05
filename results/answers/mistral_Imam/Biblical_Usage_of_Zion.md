@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Biblical Usage of Zion](../../questions/Biblical_Usage_of_Zion.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Biblical Usage of Zion](../../questions/Biblical_Usage_of_Zion.md)
 
 ## Question [Biblical Usage of Zion](../../questions/Biblical_Usage_of_Zion.md)
 In what figurative ways is the term 'Zion' used in the Bible?
@@ -21,7 +21,11 @@ Exploring the broader spiritual implications and symbolic meanings of 'Zion' in 
 It is important to note that the term "Zion" has different connotations in Islamic tradition, and Muslims refer to Jerusalem as Al-Quds (The Holy City) or Bayt al-Muqaddas (Noble Sanctuary).
 
 ## Average Grade
-90.0
+85.0
 
 ## Grades
  * [90.0](./Biblical_Usage_of_Zion_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Biblical_Usage_of_Zion_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Biblical_Usage_of_Zion_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Biblical_Usage_of_Zion_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Biblical_Usage_of_Zion_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

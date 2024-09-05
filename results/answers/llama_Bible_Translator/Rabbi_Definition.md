@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Rabbi Definition](../../questions/Rabbi_Definition.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Rabbi Definition](../../questions/Rabbi_Definition.md)
 
 ## Question [Rabbi Definition](../../questions/Rabbi_Definition.md)
 What does the term 'Rabbi' mean in the context of Christian teaching?
@@ -19,7 +19,11 @@ In Jewish tradition, a rabbi was a learned teacher who had received ordination f
 In Christian theology, this usage of the term "Rabbi" emphasizes Jesus' unique role as both the authoritative teacher (Rabbi) and the divine Savior (Son of God). It underscores Jesus' claim to be the Messiah, the anointed one sent by God to redeem humanity.
 
 ## Average Grade
-95.0
+88.0
 
 ## Grades
  * [95.0](./Rabbi_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Rabbi_Definition_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Rabbi_Definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Rabbi_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Rabbi_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

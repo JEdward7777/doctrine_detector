@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) answer to [Definition of Begetting](../../questions/Definition_of_Begetting.md)
+# Generated Answer from [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) for [Definition of Begetting](../../questions/Definition_of_Begetting.md)
 
 ## Question [Definition of Begetting](../../questions/Definition_of_Begetting.md)
 What does the term 'beget' imply in a Biblical context?
@@ -19,7 +19,11 @@ The term can also carry deeper theological implications, particularly in the con
 Thus, while "beget" primarily conveys the idea of physical fatherhood and generational descent, it can also involve profound theological truths about identity, divinity, and relationships within the Godhead in Christian thought.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Definition_of_Begetting_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Definition_of_Begetting_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Definition_of_Begetting_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Definition_of_Begetting_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Definition_of_Begetting_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

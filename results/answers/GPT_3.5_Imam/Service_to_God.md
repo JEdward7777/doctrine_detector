@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Service to God](../../questions/Service_to_God.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Service to God](../../questions/Service_to_God.md)
 
 ## Question [Service to God](../../questions/Service_to_God.md)
 In what ways can Christians serve God in their ministry according to the text?
@@ -27,7 +27,11 @@ As a Muslim Imam, I believe that Christians can serve God in various ways throug
 Overall, Christians can serve God in their ministry by living out their faith in a way that reflects the teachings of the Bible, following the example of Jesus Christ, and being a light in the world that points others towards God's love and truth.
 
 ## Average Grade
-70.0
+73.0
 
 ## Grades
  * [70.0](./Service_to_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [65.0](./Service_to_God_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [75.0](./Service_to_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Service_to_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Service_to_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

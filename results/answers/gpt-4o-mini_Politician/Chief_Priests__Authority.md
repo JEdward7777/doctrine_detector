@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) answer to [Chief Priests' Authority](../../questions/Chief_Priests__Authority.md)
+# Generated Answer from [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) for [Chief Priests' Authority](../../questions/Chief_Priests__Authority.md)
 
 ## Question [Chief Priests' Authority](../../questions/Chief_Priests__Authority.md)
 What was the relationship between the chief priests and the ordinary priests in terms of authority?
@@ -19,7 +19,11 @@ Ordinary priests, who were part of the Levite tribe, served under the authority 
 This relationship can be seen as a system of leadership where the chief priest sets the direction and oversees the conduct of worship, while ordinary priests carry out the everyday activities that support these religious practices. It's important to recognize that this structure contributed to a cohesive community focused on shared spiritual traditions and values. In any discussion of historical religious practices, it is essential to approach the topic with sensitivity to the beliefs and customs of the individuals involved.
 
 ## Average Grade
-90.0
+87.0
 
 ## Grades
  * [90.0](./Chief_Priests__Authority_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Chief_Priests__Authority_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Chief_Priests__Authority_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Chief_Priests__Authority_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Chief_Priests__Authority_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

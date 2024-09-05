@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Pardon in Christianity](../../questions/Pardon_in_Christianity.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Pardon in Christianity](../../questions/Pardon_in_Christianity.md)
 
 ## Question [Pardon in Christianity](../../questions/Pardon_in_Christianity.md)
 How does the concept of pardon relate to God's forgiveness of sin through Jesus Christ?
@@ -27,7 +27,11 @@ The concept of pardon is deeply rooted in biblical themes such as justification,
 In summary, the concept of pardon in Christian theology refers to the formal release or acquittal from the penalty and consequences of sin that we deserve due to our disobedience. Jesus Christ's sacrifice on the cross offers us a pardon through faith in Him, setting us free from God's judgment and restoring our relationship with Him.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Pardon_in_Christianity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Pardon_in_Christianity_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Pardon_in_Christianity_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Pardon_in_Christianity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Pardon_in_Christianity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Usage in Scripture](../../questions/Usage_in_Scripture.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Usage in Scripture](../../questions/Usage_in_Scripture.md)
 
 ## Question [Usage in Scripture](../../questions/Usage_in_Scripture.md)
 In which contexts is the term 'Holy One' used in the Old and New Testaments?
@@ -31,7 +31,11 @@ Now, I'm aware that some scholars might argue that these passages demonstrate a 
 In conclusion, the term "Holy One" is used primarily to describe Yahweh or Jesus, emphasizing their divine nature, moral excellence, and role as mediators between humanity and God. As an atheist, I recognize that these passages reflect the cultural and historical context of ancient Jewish and early Christian communities, rather than any objective truth about the nature of the universe.
 
 ## Average Grade
-60.0
+70.0
 
 ## Grades
  * [60.0](./Usage_in_Scripture_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Usage_in_Scripture_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Usage_in_Scripture_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [75.0](./Usage_in_Scripture_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Usage_in_Scripture_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

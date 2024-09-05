@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral atheist](../../answering_models/mistral_atheist.md) answer to [Eunuchs in the Bible](../../questions/Eunuchs_in_the_Bible.md)
+# Generated Answer from [mistral atheist](../../answering_models/mistral_atheist.md) for [Eunuchs in the Bible](../../questions/Eunuchs_in_the_Bible.md)
 
 ## Question [Eunuchs in the Bible](../../questions/Eunuchs_in_the_Bible.md)
 What did Jesus mean when He referred to eunuchs in Matthew 19:12, and how does this relate to the concept of celibacy?
@@ -23,7 +23,11 @@ The concept of celibacy here can be linked to Jesus' teachings about self-denial
 It's important to remember that interpretations can vary widely and that Jesus' original audience would have had a different cultural context than we do today. The passage offers rich material for reflection and exploration but requires careful consideration and understanding of the historical, cultural, and religious context.
 
 ## Average Grade
-90.0
+87.0
 
 ## Grades
  * [90.0](./Eunuchs_in_the_Bible_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Eunuchs_in_the_Bible_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Eunuchs_in_the_Bible_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Eunuchs_in_the_Bible_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Eunuchs_in_the_Bible_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

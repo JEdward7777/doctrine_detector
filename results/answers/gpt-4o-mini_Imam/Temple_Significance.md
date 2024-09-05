@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Temple Significance](../../questions/Temple_Significance.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Temple Significance](../../questions/Temple_Significance.md)
 
 ## Question [Temple Significance](../../questions/Temple_Significance.md)
 What was the purpose of the temple constructed by King Solomon in Jerusalem?
@@ -29,7 +29,11 @@ The temple served several key purposes:
 In Islamic tradition, the significance of Solomon (Sulaiman) is also recognized, but the emphasis on the temple itself may differ, as Islamic teachings center more around the worship of Allah and the guidance brought by the prophets. Nonetheless, Solomon's Temple remains a significant historical and religious landmark in the narratives of both Judaism and Christianity, and it is acknowledged in Islam as part of the broader tradition of prophetic history.
 
 ## Average Grade
-90.0
+89.0
 
 ## Grades
  * [90.0](./Temple_Significance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Temple_Significance_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Temple_Significance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Temple_Significance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Temple_Significance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

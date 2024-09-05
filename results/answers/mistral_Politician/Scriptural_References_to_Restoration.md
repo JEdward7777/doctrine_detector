@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Politician](../../answering_models/mistral_Politician.md) answer to [Scriptural References to Restoration](../../questions/Scriptural_References_to_Restoration.md)
+# Generated Answer from [mistral Politician](../../answering_models/mistral_Politician.md) for [Scriptural References to Restoration](../../questions/Scriptural_References_to_Restoration.md)
 
 ## Question [Scriptural References to Restoration](../../questions/Scriptural_References_to_Restoration.md)
 Which Bible verses emphasize the theme of restoration and what do they illustrate?
@@ -25,7 +25,11 @@ Finding scriptural support for the concept of restoration in one's faith journey
 5. Hosea 14:2 - "Take with you words, and return to the Lord; Say to Him, 'Take away all iniquity, And receive us graciously,' So we will give You offerings of thanksgiving." This verse suggests that restoration requires repentance (taking words to God) and offering thanksgiving for His mercy.
 
 ## Average Grade
-90.0
+92.0
 
 ## Grades
  * [90.0](./Scriptural_References_to_Restoration_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Scriptural_References_to_Restoration_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Scriptural_References_to_Restoration_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Scriptural_References_to_Restoration_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Scriptural_References_to_Restoration_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

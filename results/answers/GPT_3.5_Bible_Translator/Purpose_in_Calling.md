@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Purpose in Calling](../../questions/Purpose_in_Calling.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Purpose in Calling](../../questions/Purpose_in_Calling.md)
 
 ## Question [Purpose in Calling](../../questions/Purpose_in_Calling.md)
 How can one discern their 'calling' or 'purpose' as described in the Bible?
@@ -21,7 +21,11 @@ Additionally, Romans 12:1-2 encourages us to present ourselves as living sacrifi
 Ultimately, discerning one's calling or purpose requires a deep relationship with God, a willingness to surrender to His will, and a commitment to obeying His guidance as it is revealed. It may also involve a process of trial and error, as we step out in faith and learn to trust in God's leading.
 
 ## Average Grade
-95.0
+91.0
 
 ## Grades
  * [95.0](./Purpose_in_Calling_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Purpose_in_Calling_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Purpose_in_Calling_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Purpose_in_Calling_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Purpose_in_Calling_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

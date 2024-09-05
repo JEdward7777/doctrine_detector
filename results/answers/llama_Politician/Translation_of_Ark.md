@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Translation of Ark](../../questions/Translation_of_Ark.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Translation of Ark](../../questions/Translation_of_Ark.md)
 
 ## Question [Translation of Ark](../../questions/Translation_of_Ark.md)
 How does the term 'ark' vary in translation within different Biblical contexts?
@@ -27,7 +27,11 @@ Ultimately, the varying translations of the term "ark" serve as a reminder of th
 Now, I'd love to hear your thoughts on this topic! How do you think these variations in translation impact our understanding of the biblical text?
 
 ## Average Grade
-85.0
+83.0
 
 ## Grades
  * [85.0](./Translation_of_Ark_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Translation_of_Ark_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [75.0](./Translation_of_Ark_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Translation_of_Ark_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Translation_of_Ark_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

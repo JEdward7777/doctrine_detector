@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Access to the Most Holy Place](../../questions/Access_to_the_Most_Holy_Place.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Access to the Most Holy Place](../../questions/Access_to_the_Most_Holy_Place.md)
 
 ## Question [Access to the Most Holy Place](../../questions/Access_to_the_Most_Holy_Place.md)
 Who was permitted to enter the 'most holy place' and why was this restriction important?
@@ -30,7 +30,11 @@ This restriction was important for several reasons:
 In summary, only a select few were permitted to enter the Holy of Holies due to their exceptional spiritual status, as it was a sacred place that required reverence, preparation, and respect for divine laws.
 
 ## Average Grade
-85.0
+84.0
 
 ## Grades
  * [85.0](./Access_to_the_Most_Holy_Place_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Access_to_the_Most_Holy_Place_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Access_to_the_Most_Holy_Place_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Access_to_the_Most_Holy_Place_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Access_to_the_Most_Holy_Place_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Examples of Guilt in Scripture](../../questions/Examples_of_Guilt_in_Scripture.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Examples of Guilt in Scripture](../../questions/Examples_of_Guilt_in_Scripture.md)
 
 ## Question [Examples of Guilt in Scripture](../../questions/Examples_of_Guilt_in_Scripture.md)
 What are some examples from the Bible that demonstrate the concept of guilt?
@@ -27,7 +27,11 @@ These biblical accounts demonstrate that guilt is a universal human experience, 
 I hope these examples help illustrate the concept of guilt in the Bible!
 
 ## Average Grade
-90.0
+74.0
 
 ## Grades
  * [90.0](./Examples_of_Guilt_in_Scripture_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Examples_of_Guilt_in_Scripture_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Examples_of_Guilt_in_Scripture_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Examples_of_Guilt_in_Scripture_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [40.0](./Examples_of_Guilt_in_Scripture_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

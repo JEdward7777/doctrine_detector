@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Temple Significance](../../questions/Temple_Significance.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Temple Significance](../../questions/Temple_Significance.md)
 
 ## Question [Temple Significance](../../questions/Temple_Significance.md)
 What was the purpose of the temple constructed by King Solomon in Jerusalem?

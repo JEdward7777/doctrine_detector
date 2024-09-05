@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Baptism Methods](../../questions/Baptism_Methods.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Baptism Methods](../../questions/Baptism_Methods.md)
 
 ## Question [Baptism Methods](../../questions/Baptism_Methods.md)
 What are the different methods of baptism mentioned in the Bible, and how might they be interpreted in various Christian contexts?
@@ -31,7 +31,11 @@ Interpretations of these different methods of baptism vary among Christian tradi
 Overall, while there are different methods of baptism mentioned in the Bible and practiced within various Christian contexts, the most important aspect is the spiritual significance and understanding behind the act of baptism as a symbol of cleansing, rebirth, and incorporation into the body of Christ.
 
 ## Average Grade
-95.0
+91.0
 
 ## Grades
  * [95.0](./Baptism_Methods_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Baptism_Methods_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Baptism_Methods_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Baptism_Methods_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Baptism_Methods_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

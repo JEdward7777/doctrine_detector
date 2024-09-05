@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Foreordain vs Predestine](../../questions/Foreordain_vs_Predestine.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Foreordain vs Predestine](../../questions/Foreordain_vs_Predestine.md)
 
 ## Question [Foreordain vs Predestine](../../questions/Foreordain_vs_Predestine.md)
 How does the term 'foreordain' relate to 'predestine' in Christian teachings?

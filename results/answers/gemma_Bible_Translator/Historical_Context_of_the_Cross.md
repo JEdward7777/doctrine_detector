@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Historical Context of the Cross](../../questions/Historical_Context_of_the_Cross.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Historical Context of the Cross](../../questions/Historical_Context_of_the_Cross.md)
 
 ## Question [Historical Context of the Cross](../../questions/Historical_Context_of_the_Cross.md)
 How did the Roman practice of crucifixion affect the perception of the cross in early Christianity?

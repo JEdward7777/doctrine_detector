@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [The Role of Believers in Glory](../../questions/The_Role_of_Believers_in_Glory.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [The Role of Believers in Glory](../../questions/The_Role_of_Believers_in_Glory.md)
 
 ## Question [The Role of Believers in Glory](../../questions/The_Role_of_Believers_in_Glory.md)
 What does it mean for believers to be glorified with Christ according to the New Testament?
@@ -19,7 +19,11 @@ From an atheistic perspective, the idea of believers being glorified with Christ
 Ultimately, the concept of believers being glorified with Christ is a spiritually significant idea within Christian theology, but one that may not have a tangible or verifiable impact on the physical world outside of religious beliefs and practices.
 
 ## Average Grade
-90.0
+76.0
 
 ## Grades
  * [90.0](./The_Role_of_Believers_in_Glory_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./The_Role_of_Believers_in_Glory_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./The_Role_of_Believers_in_Glory_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./The_Role_of_Believers_in_Glory_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./The_Role_of_Believers_in_Glory_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

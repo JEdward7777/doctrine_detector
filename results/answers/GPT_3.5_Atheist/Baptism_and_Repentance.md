@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Baptism and Repentance](../../questions/Baptism_and_Repentance.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Baptism and Repentance](../../questions/Baptism_and_Repentance.md)
 
 ## Question [Baptism and Repentance](../../questions/Baptism_and_Repentance.md)
 How is repentance related to the act of baptism as presented in the New Testament?
@@ -21,7 +21,11 @@ Additionally, baptism is often understood as a public declaration of one's faith
 Overall, repentance and baptism are closely connected in the New Testament as essential components of the Christian conversion experience. Repentance signifies a genuine turning towards God, while baptism symbolizes the cleansing of sin and the beginning of a new life in Christ.
 
 ## Average Grade
-90.0
+91.0
 
 ## Grades
  * [90.0](./Baptism_and_Repentance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Baptism_and_Repentance_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Baptism_and_Repentance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Baptism_and_Repentance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Baptism_and_Repentance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

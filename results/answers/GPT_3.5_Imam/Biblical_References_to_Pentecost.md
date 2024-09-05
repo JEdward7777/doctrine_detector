@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Biblical References to Pentecost](../../questions/Biblical_References_to_Pentecost.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Biblical References to Pentecost](../../questions/Biblical_References_to_Pentecost.md)
 
 ## Question [Biblical References to Pentecost](../../questions/Biblical_References_to_Pentecost.md)
 Which books of the Bible contain references to the Festival of Weeks and its significance?
@@ -17,7 +17,11 @@ The Festival of Weeks, or Eid al-Fitr as it is known in Islam, is not specifical
 As Muslims, we believe in the previous scriptures, including the Torah, as revealed by Allah to the prophets. While the details of the Festival of Weeks may differ between Judaism and Islam, the principles of obedience to God, gratitude, and celebration of His blessings are common to both faiths.
 
 ## Average Grade
-70.0
+65.0
 
 ## Grades
  * [70.0](./Biblical_References_to_Pentecost_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [65.0](./Biblical_References_to_Pentecost_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Biblical_References_to_Pentecost_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Biblical_References_to_Pentecost_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Biblical_References_to_Pentecost_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

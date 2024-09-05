@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma atheist](../../answering_models/gemma_atheist.md) answer to [Practices of Fellowship](../../questions/Practices_of_Fellowship.md)
+# Generated Answer from [gemma atheist](../../answering_models/gemma_atheist.md) for [Practices of Fellowship](../../questions/Practices_of_Fellowship.md)
 
 ## Question [Practices of Fellowship](../../questions/Practices_of_Fellowship.md)
 How did early Christians express their fellowship?
@@ -51,7 +51,11 @@ Recognizing the practices of fellowship can help contemporary Christians foster 
 * Their shared beliefs, practices, and experiences created a strong sense of identity and belonging.
 
 ## Average Grade
-90.0
+87.0
 
 ## Grades
  * [90.0](./Practices_of_Fellowship_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Practices_of_Fellowship_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Practices_of_Fellowship_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Practices_of_Fellowship_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Practices_of_Fellowship_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Sons of God Interpretation](../../questions/Sons_of_God_Interpretation.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Sons of God Interpretation](../../questions/Sons_of_God_Interpretation.md)
 
 ## Question [Sons of God Interpretation](../../questions/Sons_of_God_Interpretation.md)
 What are the different interpretations of the term 'sons of God' as seen in the Bible, particularly in the context of Genesis 6?
@@ -27,7 +27,11 @@ In light of these differing interpretations, I believe it's essential to acknowl
 Now, if you'll excuse me, I have a meeting with the Interfaith Council to discuss strategies for fostering greater cooperation and understanding among religious groups. *glances at notes* Ah, yes, also need to remember to use gender-neutral language when referring to God...
 
 ## Average Grade
-70.0
+67.0
 
 ## Grades
  * [70.0](./Sons_of_God_Interpretation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [50.0](./Sons_of_God_Interpretation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [75.0](./Sons_of_God_Interpretation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Sons_of_God_Interpretation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Sons_of_God_Interpretation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

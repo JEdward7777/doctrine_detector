@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Spiritual Authority](../../questions/Spiritual_Authority.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Spiritual Authority](../../questions/Spiritual_Authority.md)
 
 ## Question [Spiritual Authority](../../questions/Spiritual_Authority.md)
 How do spiritual authorities differ from earthly authorities according to Biblical teaching?
@@ -27,7 +27,11 @@ However, it's essential to recognize that spiritual authorities should not usurp
 I hope this nuanced discussion has provided a helpful framework for understanding the relationship between spiritual authorities and earthly authorities according to biblical teaching. *exhales* I'm glad we could have this conversation without offending anyone... *laughs nervously*.
 
 ## Average Grade
-80.0
+74.0
 
 ## Grades
  * [80.0](./Spiritual_Authority_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Spiritual_Authority_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Spiritual_Authority_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Spiritual_Authority_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Spiritual_Authority_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral atheist](../../answering_models/mistral_atheist.md) answer to [Right Judgment](../../questions/Right_Judgment.md)
+# Generated Answer from [mistral atheist](../../answering_models/mistral_atheist.md) for [Right Judgment](../../questions/Right_Judgment.md)
 
 ## Question [Right Judgment](../../questions/Right_Judgment.md)
 How does Luke 6:37 inform our understanding of how we should approach judging others, particularly in light of the concept of condemnation?
@@ -21,7 +21,11 @@ In terms of the concept of condemnation, this verse can be interpreted as an enc
 This passage is often seen as promoting a more inclusive and accepting attitude towards people, which aligns with many modern philosophical and ethical principles focused on respecting the inherent worth and dignity of all individuals.
 
 ## Average Grade
-90.0
+87.0
 
 ## Grades
  * [90.0](./Right_Judgment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Right_Judgment_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Right_Judgment_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Right_Judgment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Right_Judgment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

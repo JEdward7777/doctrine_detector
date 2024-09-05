@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) answer to [New Testament Instruction](../../questions/New_Testament_Instruction.md)
+# Generated Answer from [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) for [New Testament Instruction](../../questions/New_Testament_Instruction.md)
 
 ## Question [New Testament Instruction](../../questions/New_Testament_Instruction.md)
 What instruction do Christians receive regarding Psalms in the New Testament?
@@ -19,7 +19,11 @@ For instance, Jesus often quoted from the Psalms during his ministry (Matthew 22
 Thus, Christians are encouraged to study and reflect on the Book of Psalms as it provides insights into their relationship with God and offers guidance for prayer and worship. However, interpretations may vary among different Christian denominations and traditions. It is essential to approach its study within the context of the entire Bible and under the guidance of spiritual leaders when seeking a deeper understanding.
 
 ## Average Grade
-95.0
+90.0
 
 ## Grades
  * [95.0](./New_Testament_Instruction_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./New_Testament_Instruction_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./New_Testament_Instruction_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./New_Testament_Instruction_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./New_Testament_Instruction_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

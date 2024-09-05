@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Relation to Atonement](../../questions/Relation_to_Atonement.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Relation to Atonement](../../questions/Relation_to_Atonement.md)
 
 ## Question [Relation to Atonement](../../questions/Relation_to_Atonement.md)
 How does the term 'propitiation' relate to the term 'atonement'?
@@ -21,7 +21,11 @@ On the other hand, 'atonement' is a broader term that encompasses the idea of ma
 In summary, while 'propitiation' specifically focuses on the act of appeasing a deity, 'atonement' encompasses a wider range of meaning, including seeking reconciliation, making amends, and restoring harmony in a culturally retributive context.
 
 ## Average Grade
-85.0
+87.0
 
 ## Grades
  * [85.0](./Relation_to_Atonement_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Relation_to_Atonement_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Relation_to_Atonement_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Relation_to_Atonement_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Relation_to_Atonement_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

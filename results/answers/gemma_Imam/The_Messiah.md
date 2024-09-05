@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [The Messiah](../../questions/The_Messiah.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [The Messiah](../../questions/The_Messiah.md)
 
 ## Question [The Messiah](../../questions/The_Messiah.md)
 How are the terms 'Jesus' and 'Christ' related?
@@ -27,7 +27,11 @@ The Islamic faith acknowledges the divine origins of Jesus (Isa) as a prophet of
 **Therefore, the terms 'Jesus' and 'Christ' are related as they refer to the same individual, but they represent different theological perspectives.**
 
 ## Average Grade
-60.0
+50.0
 
 ## Grades
  * [60.0](./The_Messiah_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [50.0](./The_Messiah_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [20.0](./The_Messiah_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./The_Messiah_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./The_Messiah_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

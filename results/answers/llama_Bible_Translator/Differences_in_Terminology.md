@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Differences in Terminology](../../questions/Differences_in_Terminology.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Differences in Terminology](../../questions/Differences_in_Terminology.md)
 
 ## Question [Differences in Terminology](../../questions/Differences_in_Terminology.md)
 What are the key differences between the terms 'exhort', 'encourage', and 'admonish'?
@@ -31,7 +31,11 @@ In summary:
 * While there can be some overlap between these terms, they generally convey different nuances.
 
 ## Average Grade
-90.0
+91.0
 
 ## Grades
  * [90.0](./Differences_in_Terminology_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Differences_in_Terminology_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Differences_in_Terminology_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Differences_in_Terminology_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Differences_in_Terminology_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

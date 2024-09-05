@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Sacrificial Love](../../questions/Sacrificial_Love.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Sacrificial Love](../../questions/Sacrificial_Love.md)
 
 ## Question [Sacrificial Love](../../questions/Sacrificial_Love.md)
 What does it mean to love others sacrificially as demonstrated by Jesus?
@@ -19,7 +19,11 @@ The Prophet Muhammad (peace be upon him) is the ultimate example of loving other
 In Islam, we believe that true love and compassion are not just feelings, but actions that must be demonstrated through our behavior and treatment of others. By following the teachings of the Qur'an and the Sunnah, we can strive to emulate the example set by the Prophet Muhammad (peace be upon him) and show sacrificial love to those around us.
 
 ## Average Grade
-80.0
+70.0
 
 ## Grades
  * [80.0](./Sacrificial_Love_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Sacrificial_Love_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Sacrificial_Love_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Sacrificial_Love_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Sacrificial_Love_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

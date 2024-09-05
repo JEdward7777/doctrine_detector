@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Pharisees' Influence on Jewish Law](../../questions/Pharisees__Influence_on_Jewish_Law.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Pharisees' Influence on Jewish Law](../../questions/Pharisees__Influence_on_Jewish_Law.md)
 
 ## Question [Pharisees' Influence on Jewish Law](../../questions/Pharisees__Influence_on_Jewish_Law.md)
 How did the Pharisees' strict adherence to the Laws of Moses impact their relationship with Jesus and early Christians?
@@ -27,7 +27,11 @@ As we navigate this sensitive topic, I hope we can all agree that understanding 
 Now, if you'll excuse me, I have an important meeting with a diverse group of community leaders to discuss... *checks notes* Ah yes! The importance of interfaith cooperation and mutual understanding.
 
 ## Average Grade
-70.0
+77.0
 
 ## Grades
  * [70.0](./Pharisees__Influence_on_Jewish_Law_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [75.0](./Pharisees__Influence_on_Jewish_Law_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [75.0](./Pharisees__Influence_on_Jewish_Law_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Pharisees__Influence_on_Jewish_Law_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Pharisees__Influence_on_Jewish_Law_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

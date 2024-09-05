@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Understanding Demons](../../questions/Understanding_Demons.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Understanding Demons](../../questions/Understanding_Demons.md)
 
 ## Question [Understanding Demons](../../questions/Understanding_Demons.md)
 What does the term 'unclean spirit' signify in relation to demons as described in Christian teachings?
@@ -19,7 +19,11 @@ In Islam, interactions with jinn are also mentioned in the Quran and the teachin
 Overall, while the concept of evil spirits or demons may vary between Christian and Islamic teachings, both emphasize the importance of seeking protection from negative influences and turning to the divine for strength and guidance.
 
 ## Average Grade
-85.0
+84.0
 
 ## Grades
  * [85.0](./Understanding_Demons_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Understanding_Demons_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Understanding_Demons_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Understanding_Demons_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_Demons_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

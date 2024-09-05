@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Nature of Judgment Day](../../questions/Nature_of_Judgment_Day.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Nature of Judgment Day](../../questions/Nature_of_Judgment_Day.md)
 
 ## Question [Nature of Judgment Day](../../questions/Nature_of_Judgment_Day.md)
 What does 'judgment day' mean in a Christian context according to the Bible?
@@ -19,7 +19,11 @@ On judgment day, it is believed that individuals will be held accountable for th
 Overall, judgment day serves as a key tenet in Christian theology, emphasizing the importance of living a righteous life and the belief in divine justice and accountability for one's actions.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Nature_of_Judgment_Day_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Nature_of_Judgment_Day_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Nature_of_Judgment_Day_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Nature_of_Judgment_Day_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Nature_of_Judgment_Day_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) answer to [Role of Sadducees](../../questions/Role_of_Sadducees.md)
+# Generated Answer from [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) for [Role of Sadducees](../../questions/Role_of_Sadducees.md)
 
 ## Question [Role of Sadducees](../../questions/Role_of_Sadducees.md)
 What were the main responsibilities of the Sadducees in the Jewish temple system?
@@ -27,7 +27,11 @@ Exploring the historical context of religious leadership in the time of Jesus.
 Overall, the main responsibilities of the Sadducees in the Jewish Temple system revolved around administering the Temple, interpreting Jewish law, supporting priests, opposing Pharisaical influence, and navigating relationships with Roman authorities. Their strict adherence to written Torah without oral tradition set them apart from other Jewish groups during this time period.
 
 ## Average Grade
-70.0
+77.0
 
 ## Grades
  * [70.0](./Role_of_Sadducees_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Role_of_Sadducees_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Role_of_Sadducees_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Role_of_Sadducees_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Role_of_Sadducees_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

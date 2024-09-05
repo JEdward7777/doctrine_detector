@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Abomination of Desolation](../../questions/Abomination_of_Desolation.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Abomination of Desolation](../../questions/Abomination_of_Desolation.md)
 
 ## Question [Abomination of Desolation](../../questions/Abomination_of_Desolation.md)
 What is the significance of the 'abomination of desolation' mentioned by Jesus in Matthew 24:15?
@@ -17,7 +17,11 @@ The concept of the "abomination of desolation" mentioned by Jesus in Matthew 24:
 From an atheistic perspective, the "abomination of desolation" can be seen as a reflection of the turbulent political and religious environment of the time, rather than a supernatural or prophetic event. It serves as a reminder of the complex interplay between religious beliefs, political power, and historical events in shaping the narratives and teachings of religious figures like Jesus.
 
 ## Average Grade
-40.0
+36.0
 
 ## Grades
  * [40.0](./Abomination_of_Desolation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [40.0](./Abomination_of_Desolation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [20.0](./Abomination_of_Desolation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [20.0](./Abomination_of_Desolation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Abomination_of_Desolation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

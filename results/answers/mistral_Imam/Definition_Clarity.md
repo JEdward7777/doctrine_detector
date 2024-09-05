@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Definition Clarity](../../questions/Definition_Clarity.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Definition Clarity](../../questions/Definition_Clarity.md)
 
 ## Question [Definition Clarity](../../questions/Definition_Clarity.md)
 How is the term 'adultery' defined in the Christian context according to Scripture?
@@ -21,7 +21,11 @@ In the Old Testament (Leviticus 20:10), adultery is defined more broadly as unfa
 Again, I encourage you to consult with religious scholars or leaders for a more comprehensive understanding of these concepts within the Christian faith.
 
 ## Average Grade
-90.0
+85.0
 
 ## Grades
  * [90.0](./Definition_Clarity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Definition_Clarity_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Definition_Clarity_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Definition_Clarity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Definition_Clarity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

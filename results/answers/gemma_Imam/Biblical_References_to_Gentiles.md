@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Biblical References to Gentiles](../../questions/Biblical_References_to_Gentiles.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Biblical References to Gentiles](../../questions/Biblical_References_to_Gentiles.md)
 
 ## Question [Biblical References to Gentiles](../../questions/Biblical_References_to_Gentiles.md)
 What do Acts 9:13-16 and Galatians 2:16 reveal about the inclusion of Gentiles in the Christian faith?
@@ -31,7 +31,11 @@ This verse emphasizes that Christ is the mediator between God and humanity, remo
 These passages demonstrate the radical inclusion of Gentiles in the Christian faith. God's love and salvation are available to all, regardless of ethnicity or cultural background. The inclusion of Gentiles was a pivotal moment in the history of Christianity, breaking down barriers and expanding the reach of the gospel.
 
 ## Average Grade
-90.0
+85.0
 
 ## Grades
  * [90.0](./Biblical_References_to_Gentiles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Biblical_References_to_Gentiles_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Biblical_References_to_Gentiles_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Biblical_References_to_Gentiles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Biblical_References_to_Gentiles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

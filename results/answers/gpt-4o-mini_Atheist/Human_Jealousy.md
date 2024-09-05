@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [Human Jealousy](../../questions/Human_Jealousy.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [Human Jealousy](../../questions/Human_Jealousy.md)
 
 ## Question [Human Jealousy](../../questions/Human_Jealousy.md)
 How should we respond to feelings of jealousy in our relationships?
@@ -37,7 +37,11 @@ Responding to feelings of jealousy in relationships requires self-awareness, ope
 Healthy relationships rely on trust, communication, and mutual respect. Addressing jealousy thoughtfully can lead to deeper understanding and collaboration in the relationship.
 
 ## Average Grade
-90.0
+88.4
 
 ## Grades
  * [90.0](./Human_Jealousy_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Human_Jealousy_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Human_Jealousy_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Human_Jealousy_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [92.0](./Human_Jealousy_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

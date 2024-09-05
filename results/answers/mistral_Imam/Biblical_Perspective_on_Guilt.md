@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Biblical Perspective on Guilt](../../questions/Biblical_Perspective_on_Guilt.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Biblical Perspective on Guilt](../../questions/Biblical_Perspective_on_Guilt.md)
 
 ## Question [Biblical Perspective on Guilt](../../questions/Biblical_Perspective_on_Guilt.md)
 How does the Bible illustrate the consequences of guilt and sin?
@@ -23,7 +23,11 @@ In the New Testament, Jesus Christ's teachings emphasize repentance and forgiven
 In summary, the Bible illustrates the consequences of guilt and sin as physical hardship, emotional turmoil (e.g., fear, shame), social isolation, and even spiritual death (separation from God). It also presents a message of hope, emphasizing repentance, forgiveness, and the possibility of making amends for past mistakes to live a better life moving forward.
 
 ## Average Grade
-85.0
+86.0
 
 ## Grades
  * [85.0](./Biblical_Perspective_on_Guilt_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Biblical_Perspective_on_Guilt_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Biblical_Perspective_on_Guilt_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Biblical_Perspective_on_Guilt_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Biblical_Perspective_on_Guilt_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

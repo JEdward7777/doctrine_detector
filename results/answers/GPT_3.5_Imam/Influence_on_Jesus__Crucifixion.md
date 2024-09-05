@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Influence on Jesus' Crucifixion](../../questions/Influence_on_Jesus__Crucifixion.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Influence on Jesus' Crucifixion](../../questions/Influence_on_Jesus__Crucifixion.md)
 
 ## Question [Influence on Jesus' Crucifixion](../../questions/Influence_on_Jesus__Crucifixion.md)
 How did the Sadducees and Pharisees influence the decision to crucify Jesus, and what does this reveal about their character?
@@ -27,3 +27,7 @@ In Islam, Jesus is revered as a Prophet of God and is not condemned to death on 
 
 ## Grades
  * [85.0](./Influence_on_Jesus__Crucifixion_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Influence_on_Jesus__Crucifixion_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Influence_on_Jesus__Crucifixion_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Influence_on_Jesus__Crucifixion_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Influence_on_Jesus__Crucifixion_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Assurance of Salvation](../../questions/Assurance_of_Salvation.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Assurance of Salvation](../../questions/Assurance_of_Salvation.md)
 
 ## Question [Assurance of Salvation](../../questions/Assurance_of_Salvation.md)
 What assurance is given to those who believe in Jesus?
@@ -23,7 +23,11 @@ Well, you see, faith is a very personal and individual matter, and we must respe
 Now, I understand that not everyone shares these beliefs, and that's perfectly okay! We must always respect the autonomy of each individual's faith journey.
 
 ## Average Grade
-40.0
+60.0
 
 ## Grades
  * [40.0](./Assurance_of_Salvation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [50.0](./Assurance_of_Salvation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [50.0](./Assurance_of_Salvation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [75.0](./Assurance_of_Salvation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Assurance_of_Salvation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

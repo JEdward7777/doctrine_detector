@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) answer to [Translation of 'Call'](../../questions/Translation_of__Call_.md)
+# Generated Answer from [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) for [Translation of 'Call'](../../questions/Translation_of__Call_.md)
 
 ## Question [Translation of 'Call'](../../questions/Translation_of__Call_.md)
 What are some alternative translations of the phrase 'You must call his name' in a biblical context?
@@ -24,7 +24,11 @@ In a biblical context, the phrase "You must call his name" is found in passages 
 Depending on the translation and the context, the specific wording may vary, but they all convey the essential meaning of the divine instruction regarding the naming of Jesus.
 
 ## Average Grade
-95.0
+89.0
 
 ## Grades
  * [95.0](./Translation_of__Call__grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Translation_of__Call__grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Translation_of__Call__grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Translation_of__Call__grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Translation_of__Call__grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

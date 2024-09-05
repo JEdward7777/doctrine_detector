@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Idolatry in the Bible](../../questions/Idolatry_in_the_Bible.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Idolatry in the Bible](../../questions/Idolatry_in_the_Bible.md)
 
 ## Question [Idolatry in the Bible](../../questions/Idolatry_in_the_Bible.md)
 How does the Bible illustrate the consequences of idolatry among God's people?
@@ -35,7 +35,11 @@ In conclusion, the Bible portrays idolatry as a serious offense that can have fa
 Now, if you'll excuse me, I need to get back to my research on ancient Mesopotamian mythology...
 
 ## Average Grade
-90.0
+88.0
 
 ## Grades
  * [90.0](./Idolatry_in_the_Bible_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Idolatry_in_the_Bible_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Idolatry_in_the_Bible_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Idolatry_in_the_Bible_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Idolatry_in_the_Bible_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

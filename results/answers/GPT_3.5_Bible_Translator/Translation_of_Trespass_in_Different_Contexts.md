@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Translation of Trespass in Different Contexts](../../questions/Translation_of_Trespass_in_Different_Contexts.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Translation of Trespass in Different Contexts](../../questions/Translation_of_Trespass_in_Different_Contexts.md)
 
 ## Question [Translation of Trespass in Different Contexts](../../questions/Translation_of_Trespass_in_Different_Contexts.md)
 What are the implications of translating 'trespass' as 'sin' or 'breaking the rule' when discussing inter-personal violations within a church community?
@@ -25,3 +25,7 @@ In conclusion, the choice of translation in discussing interpersonal violations 
 
 ## Grades
  * [95.0](./Translation_of_Trespass_in_Different_Contexts_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Translation_of_Trespass_in_Different_Contexts_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Translation_of_Trespass_in_Different_Contexts_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Translation_of_Trespass_in_Different_Contexts_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Translation_of_Trespass_in_Different_Contexts_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

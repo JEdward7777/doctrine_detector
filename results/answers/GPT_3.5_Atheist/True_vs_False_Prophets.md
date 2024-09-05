@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [True vs False Prophets](../../questions/True_vs_False_Prophets.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [True vs False Prophets](../../questions/True_vs_False_Prophets.md)
 
 ## Question [True vs False Prophets](../../questions/True_vs_False_Prophets.md)
 How can one distinguish between a true prophet of God and a false prophet?
@@ -21,7 +21,11 @@ Additionally, looking at the historical context and the motivations of the indiv
 Ultimately, the distinction between a true prophet and a false prophet is subjective and can vary depending on one's beliefs and cultural background. It is important to critically analyze the teachings and actions of individuals claiming to be prophets before accepting them as such.
 
 ## Average Grade
-85.0
+77.0
 
 ## Grades
  * [85.0](./True_vs_False_Prophets_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./True_vs_False_Prophets_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./True_vs_False_Prophets_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./True_vs_False_Prophets_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./True_vs_False_Prophets_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

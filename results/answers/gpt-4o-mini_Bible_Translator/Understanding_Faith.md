@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) answer to [Understanding Faith](../../questions/Understanding_Faith.md)
+# Generated Answer from [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) for [Understanding Faith](../../questions/Understanding_Faith.md)
 
 ## Question [Understanding Faith](../../questions/Understanding_Faith.md)
 What does it mean to 'have faith in Jesus' according to the provided content?
@@ -19,3 +19,7 @@ Having faith in Jesus generally means to trust in Him as the Son of God, believe
 
 ## Grades
  * [90.0](./Understanding_Faith_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Understanding_Faith_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Understanding_Faith_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Understanding_Faith_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Understanding_Faith_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

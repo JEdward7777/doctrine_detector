@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Purpose of Exhortation](../../questions/Purpose_of_Exhortation.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Purpose of Exhortation](../../questions/Purpose_of_Exhortation.md)
 
 ## Question [Purpose of Exhortation](../../questions/Purpose_of_Exhortation.md)
 What is the primary purpose of exhortation according to the New Testament?
@@ -21,7 +21,11 @@ In many passages, the New Testament emphasizes the importance of building up the
 Ultimately, the primary purpose of exhortation is to bring glory to God by helping believers grow in their faith, serve each other, and bear witness to Christ's redeeming love in a dark world.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Purpose_of_Exhortation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Purpose_of_Exhortation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Purpose_of_Exhortation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Purpose_of_Exhortation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Purpose_of_Exhortation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

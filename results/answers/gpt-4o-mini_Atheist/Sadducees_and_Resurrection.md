@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [Sadducees and Resurrection](../../questions/Sadducees_and_Resurrection.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [Sadducees and Resurrection](../../questions/Sadducees_and_Resurrection.md)
 
 ## Question [Sadducees and Resurrection](../../questions/Sadducees_and_Resurrection.md)
 What was the belief of the Sadducees regarding the resurrection, and how does this contrast with Christian teaching?
@@ -19,7 +19,11 @@ In contrast, mainstream Christian teaching, particularly as articulated in the N
 Thus, the primary contrast lies in the Sadducees' materialistic view of existence, focusing on life in the present and denying any afterlife, whereas Christian doctrine embraces the transformative hope of resurrection and eternal life beyond earthly existence.
 
 ## Average Grade
-95.0
+88.0
 
 ## Grades
  * [95.0](./Sadducees_and_Resurrection_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Sadducees_and_Resurrection_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Sadducees_and_Resurrection_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Sadducees_and_Resurrection_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Sadducees_and_Resurrection_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

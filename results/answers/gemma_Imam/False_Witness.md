@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [False Witness](../../questions/False_Witness.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [False Witness](../../questions/False_Witness.md)
 
 ## Question [False Witness](../../questions/False_Witness.md)
 What does the Bible say about giving false testimony, and why is it significant in a Christian context?
@@ -39,7 +39,11 @@ The Bible strongly condemns the act of giving false testimony. This is evident i
 * Christians are encouraged to seek guidance from their faith leaders or religious texts when faced with ethical dilemmas related to testimony.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./False_Witness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./False_Witness_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./False_Witness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./False_Witness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./False_Witness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

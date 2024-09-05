@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [atonement_lid_definition](../../questions/atonement_lid_definition.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [atonement_lid_definition](../../questions/atonement_lid_definition.md)
 
 ## Question [atonement_lid_definition](../../questions/atonement_lid_definition.md)
 What was the significance of the atonement lid in the context of the ark of the covenant?
@@ -23,7 +23,11 @@ This practice is not directly mentioned in the Quran, but it aligns with one of 
 In conclusion, while the specific details about the atonement lid in the Ark of the Covenant may not be directly addressed in Islamic sources, its symbolism of seeking divine forgiveness is a shared concept with Islam.
 
 ## Average Grade
-85.0
+83.0
 
 ## Grades
  * [85.0](./atonement_lid_definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./atonement_lid_definition_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./atonement_lid_definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./atonement_lid_definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./atonement_lid_definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

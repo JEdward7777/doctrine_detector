@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) answer to [Understanding Transgression](../../questions/Understanding_Transgression.md)
+# Generated Answer from [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) for [Understanding Transgression](../../questions/Understanding_Transgression.md)
 
 ## Question [Understanding Transgression](../../questions/Understanding_Transgression.md)
 What does the term 'transgress' imply in a Biblical context?
@@ -15,7 +15,11 @@ Understanding the nature of sin and our relationship with God's commandments.
 In a Biblical context, the term "transgress" typically refers to going against God's laws or commands. It implies a violation or crossing of boundaries set by religious or moral principles. It is important to approach discussions of religious terms with sensitivity and respect for diverse beliefs and interpretations.
 
 ## Average Grade
-90.0
+89.0
 
 ## Grades
  * [90.0](./Understanding_Transgression_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Understanding_Transgression_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Understanding_Transgression_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Understanding_Transgression_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_Transgression_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

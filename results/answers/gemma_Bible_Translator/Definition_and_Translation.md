@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Definition and Translation](../../questions/Definition_and_Translation.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Definition and Translation](../../questions/Definition_and_Translation.md)
 
 ## Question [Definition and Translation](../../questions/Definition_and_Translation.md)
 What are some alternative translations for the term 'intercede' as used in Scripture?

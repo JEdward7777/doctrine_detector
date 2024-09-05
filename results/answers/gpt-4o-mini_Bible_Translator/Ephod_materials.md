@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) answer to [Ephod materials](../../questions/Ephod_materials.md)
+# Generated Answer from [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) for [Ephod materials](../../questions/Ephod_materials.md)
 
 ## Question [Ephod materials](../../questions/Ephod_materials.md)
 What materials were used in the construction of the high priest's ephod?
@@ -21,7 +21,11 @@ The high priest's ephod, as described in the Old Testament, particularly in Exod
 The ephod was a significant part of the high priest's garments, symbolizing his role in mediating between God and the people of Israel.
 
 ## Average Grade
-85.0
+83.0
 
 ## Grades
  * [85.0](./Ephod_materials_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Ephod_materials_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Ephod_materials_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Ephod_materials_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Ephod_materials_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

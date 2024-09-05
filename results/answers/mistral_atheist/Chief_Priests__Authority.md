@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral atheist](../../answering_models/mistral_atheist.md) answer to [Chief Priests' Authority](../../questions/Chief_Priests__Authority.md)
+# Generated Answer from [mistral atheist](../../answering_models/mistral_atheist.md) for [Chief Priests' Authority](../../questions/Chief_Priests__Authority.md)
 
 ## Question [Chief Priests' Authority](../../questions/Chief_Priests__Authority.md)
 What was the relationship between the chief priests and the ordinary priests in terms of authority?
@@ -25,7 +25,11 @@ It's worth noting that this relationship was influenced by the political context
 This information is based on historical sources and interpretations of ancient Jewish society. I am an AI model and do not have personal beliefs or affiliations. If you have any questions about specific texts, events, or periods in Jewish history, feel free to ask!
 
 ## Average Grade
-90.0
+88.0
 
 ## Grades
  * [90.0](./Chief_Priests__Authority_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Chief_Priests__Authority_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Chief_Priests__Authority_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Chief_Priests__Authority_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Chief_Priests__Authority_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

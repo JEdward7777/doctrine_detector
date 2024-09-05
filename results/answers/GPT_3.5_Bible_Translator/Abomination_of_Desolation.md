@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Abomination of Desolation](../../questions/Abomination_of_Desolation.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Abomination of Desolation](../../questions/Abomination_of_Desolation.md)
 
 ## Question [Abomination of Desolation](../../questions/Abomination_of_Desolation.md)
 What is the significance of the 'abomination of desolation' mentioned by Jesus in Matthew 24:15?
@@ -19,7 +19,11 @@ Jesus uses this terminology to warn his disciples about a time of great upheaval
 Ultimately, the abomination of desolation is a sign of the end times and a reminder for Christians to be vigilant, faithful, and prepared for the coming of the Son of Man. It serves as a warning to stay true to the faith and to be watchful for the signs of the times.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Abomination_of_Desolation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Abomination_of_Desolation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Abomination_of_Desolation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Abomination_of_Desolation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Abomination_of_Desolation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

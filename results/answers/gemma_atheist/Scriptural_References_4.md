@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma atheist](../../answering_models/gemma_atheist.md) answer to [Scriptural References 4](../../questions/Scriptural_References_4.md)
+# Generated Answer from [gemma atheist](../../answering_models/gemma_atheist.md) for [Scriptural References 4](../../questions/Scriptural_References_4.md)
 
 ## Question [Scriptural References 4](../../questions/Scriptural_References_4.md)
 How do the references to birthright in 1 Chronicles 5:1, Genesis 25:34, and Hebrews 12:14-17 deepen our understanding of its significance in Biblical teachings?
@@ -44,7 +44,11 @@ Interpreting ancient texts through contemporary lenses can be problematic. Cultu
 The references to birthright in the Bible offer insights into the cultural and legal frameworks of ancient Israel. However, interpreting these verses requires careful consideration of their cultural context and the limitations of interpreting ancient texts through modern lenses.
 
 ## Average Grade
-85.0
+85.4
 
 ## Grades
  * [85.0](./Scriptural_References_4_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [82.0](./Scriptural_References_4_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Scriptural_References_4_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Scriptural_References_4_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Scriptural_References_4_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [Biblical References to Pentecost](../../questions/Biblical_References_to_Pentecost.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [Biblical References to Pentecost](../../questions/Biblical_References_to_Pentecost.md)
 
 ## Question [Biblical References to Pentecost](../../questions/Biblical_References_to_Pentecost.md)
 Which books of the Bible contain references to the Festival of Weeks and its significance?
@@ -33,7 +33,11 @@ The Festival of Weeks, also known as Shavuot or Pentecost, is mentioned in sever
 These references illustrate the festival's dual significance as both an agricultural harvest celebration and a time for spiritual reflection and community celebration among the people of Israel.
 
 ## Average Grade
-70.0
+67.0
 
 ## Grades
  * [70.0](./Biblical_References_to_Pentecost_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [60.0](./Biblical_References_to_Pentecost_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Biblical_References_to_Pentecost_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Biblical_References_to_Pentecost_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [40.0](./Biblical_References_to_Pentecost_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

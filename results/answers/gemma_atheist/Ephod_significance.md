@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma atheist](../../answering_models/gemma_atheist.md) answer to [Ephod significance](../../questions/Ephod_significance.md)
+# Generated Answer from [gemma atheist](../../answering_models/gemma_atheist.md) for [Ephod significance](../../questions/Ephod_significance.md)
 
 ## Question [Ephod significance](../../questions/Ephod_significance.md)
 What is the significance of the high priest's ephod in the context of Old Testament worship?
@@ -50,7 +50,11 @@ Understanding the role of the ephod helps in comprehending the Old Testament pri
 The high priest's ephod was a complex and significant symbol in Old Testament worship, representing cosmic order, mediating between the divine and human realms, and reflecting the ancient Israelite understanding of the universe and their place within it.
 
 ## Average Grade
-85.0
+87.0
 
 ## Grades
  * [85.0](./Ephod_significance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Ephod_significance_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Ephod_significance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Ephod_significance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Ephod_significance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

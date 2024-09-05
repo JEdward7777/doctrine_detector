@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [The Spirit of Antichrist](../../questions/The_Spirit_of_Antichrist.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [The Spirit of Antichrist](../../questions/The_Spirit_of_Antichrist.md)
 
 ## Question [The Spirit of Antichrist](../../questions/The_Spirit_of_Antichrist.md)
 What does the Bible say about the spirit of antichrist that exists in the world?
@@ -21,7 +21,11 @@ This passage emphasizes the importance of discerning true teachings from false o
 In summary, while the concept of the Antichrist may be more elaborately discussed in Islamic theology, the notion of opposing forces to faith and truth is a common theme across various religious traditions. It is essential for believers to remain steadfast in their faith, seek knowledge, and discern truth from falsehood.
 
 ## Average Grade
-85.0
+79.0
 
 ## Grades
  * [85.0](./The_Spirit_of_Antichrist_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./The_Spirit_of_Antichrist_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./The_Spirit_of_Antichrist_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./The_Spirit_of_Antichrist_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./The_Spirit_of_Antichrist_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

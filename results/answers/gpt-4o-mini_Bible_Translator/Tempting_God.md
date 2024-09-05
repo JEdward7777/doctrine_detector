@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) answer to [Tempting God](../../questions/Tempting_God.md)
+# Generated Answer from [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) for [Tempting God](../../questions/Tempting_God.md)
 
 ## Question [Tempting God](../../questions/Tempting_God.md)
 What does it mean to 'tempt God' and how can this behavior lead to consequences according to Biblical teaching?
@@ -29,7 +29,11 @@ The consequences of tempting God can be severe, as seen in various biblical exam
 In summary, to 'tempt God' is to place oneself in a position of testing God's character or willingness to act based on doubt or disregard for His commandments. This behavior can lead to significant spiritual consequences, including loss of blessings, judgment, or a hardened heart. Understanding His faithfulness and acting in faith rather than testing Him is an essential part of the biblical teaching on this subject.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Tempting_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Tempting_God_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Tempting_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Tempting_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Tempting_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

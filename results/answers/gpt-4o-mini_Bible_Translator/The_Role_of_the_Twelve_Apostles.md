@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) answer to [The Role of the Twelve Apostles](../../questions/The_Role_of_the_Twelve_Apostles.md)
+# Generated Answer from [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) for [The Role of the Twelve Apostles](../../questions/The_Role_of_the_Twelve_Apostles.md)
 
 ## Question [The Role of the Twelve Apostles](../../questions/The_Role_of_the_Twelve_Apostles.md)
 Why were the twelve apostles significant among Jesus' disciples?
@@ -31,7 +31,11 @@ The twelve apostles hold a significant place among Jesus' disciples for several 
 In summary, the apostles' significance lies in their unique role as chosen followers of Christ, their foundational contributions to the early church, the witness they provided to Jesus' life and works, and the continuity they represent in God's plan for humanity.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./The_Role_of_the_Twelve_Apostles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./The_Role_of_the_Twelve_Apostles_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./The_Role_of_the_Twelve_Apostles_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./The_Role_of_the_Twelve_Apostles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./The_Role_of_the_Twelve_Apostles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

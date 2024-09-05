@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) answer to [Testing God](../../questions/Testing_God.md)
+# Generated Answer from [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) for [Testing God](../../questions/Testing_God.md)
 
 ## Question [Testing God](../../questions/Testing_God.md)
 Why is it considered wrong to put God to the test?
@@ -27,7 +27,11 @@ Putting God to the test is considered wrong in Christian theology for several re
 In summary, putting God to the test is discouraged in Christianity as it reflects doubt, a lack of faith, and an inappropriate attitude toward God's authority and nature. Instead, believers are encouraged to trust in His promises and seek a deeper relationship with Him through faith.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Testing_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Testing_God_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Testing_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Testing_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Testing_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

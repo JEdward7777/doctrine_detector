@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) answer to [Jesus as High Priest](../../questions/Jesus_as_High_Priest.md)
+# Generated Answer from [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) for [Jesus as High Priest](../../questions/Jesus_as_High_Priest.md)
 
 ## Question [Jesus as High Priest](../../questions/Jesus_as_High_Priest.md)
 How is Jesus referred to in relation to the priesthood, and what does this mean for the sacrifices made by human priests?
@@ -21,7 +21,11 @@ The implications of Jesus' role as High Priest are profound for the sacrifices m
 In summary, Jesus is referred to as our High Priest, which means that He has established a new covenant in which His once-for-all sacrifice renders the continuous sacrificial offerings of human priests unnecessary. This theology signifies a shift from the Old Covenant's sacrificial system to a new understanding of atonement and communion with God through Jesus Christ.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Jesus_as_High_Priest_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Jesus_as_High_Priest_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Jesus_as_High_Priest_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Jesus_as_High_Priest_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Jesus_as_High_Priest_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

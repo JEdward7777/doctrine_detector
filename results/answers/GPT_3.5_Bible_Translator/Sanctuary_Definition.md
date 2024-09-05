@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Sanctuary Definition](../../questions/Sanctuary_Definition.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Sanctuary Definition](../../questions/Sanctuary_Definition.md)
 
 ## Question [Sanctuary Definition](../../questions/Sanctuary_Definition.md)
 What does the term 'sanctuary' refer to in the context of the Bible?
@@ -19,7 +19,11 @@ In a broader sense, the term "sanctuary" can also refer to a place of refuge and
 Ultimately, the idea of sanctuary in the Bible reflects the holiness and presence of God, as well as the sacred space where believers can draw near to Him in worship and find safety and security in His love and grace.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Sanctuary_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Sanctuary_Definition_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Sanctuary_Definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Sanctuary_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Sanctuary_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

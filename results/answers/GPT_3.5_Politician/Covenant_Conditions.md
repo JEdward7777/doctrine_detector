@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) answer to [Covenant Conditions](../../questions/Covenant_Conditions.md)
+# Generated Answer from [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) for [Covenant Conditions](../../questions/Covenant_Conditions.md)
 
 ## Question [Covenant Conditions](../../questions/Covenant_Conditions.md)
 What are some examples of conditional and unconditional covenants in the Bible?
@@ -19,7 +19,11 @@ On the other hand, conditional covenants in the Bible include the covenant at Mo
 It is important to approach these covenants with sensitivity and respect for the beliefs of others, as they hold deep meaning for many individuals across different faith traditions.
 
 ## Average Grade
-90.0
+85.0
 
 ## Grades
  * [90.0](./Covenant_Conditions_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Covenant_Conditions_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Covenant_Conditions_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Covenant_Conditions_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Covenant_Conditions_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

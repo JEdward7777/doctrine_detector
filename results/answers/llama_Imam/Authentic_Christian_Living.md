@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Authentic Christian Living](../../questions/Authentic_Christian_Living.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Authentic Christian Living](../../questions/Authentic_Christian_Living.md)
 
 ## Question [Authentic Christian Living](../../questions/Authentic_Christian_Living.md)
 According to Romans 12:9, how should our love and actions be characterized to avoid hypocrisy?
@@ -29,7 +29,11 @@ To avoid hypocrisy in our love and actions, Muslims can take the following steps
 In summary, just as the Bible warns against hypocrisy by emphasizing authentic expressions of love, Islam encourages Muslims to cultivate a deep sense of love for Allah and His Messenger, perform good deeds without seeking recognition, and strive for consistency in their words and actions.
 
 ## Average Grade
-95.0
+91.0
 
 ## Grades
  * [95.0](./Authentic_Christian_Living_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Authentic_Christian_Living_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Authentic_Christian_Living_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Authentic_Christian_Living_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Authentic_Christian_Living_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

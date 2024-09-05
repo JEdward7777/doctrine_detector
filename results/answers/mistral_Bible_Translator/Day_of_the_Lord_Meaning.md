@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) answer to [Day of the Lord Meaning](../../questions/Day_of_the_Lord_Meaning.md)
+# Generated Answer from [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) for [Day of the Lord Meaning](../../questions/Day_of_the_Lord_Meaning.md)
 
 ## Question [Day of the Lord Meaning](../../questions/Day_of_the_Lord_Meaning.md)
 What does the term 'day of the Lord' signify in the New Testament?
@@ -19,7 +19,11 @@ It is important to note that the concept of the "Day of the Lord" in the New Tes
 However, interpretations may vary among different Christian denominations regarding specific details such as timing and exact implications, so it is essential to study this topic within the broader context of biblical teaching and with guidance from spiritual leaders in one's community.
 
 ## Average Grade
-95.0
+86.0
 
 ## Grades
  * [95.0](./Day_of_the_Lord_Meaning_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Day_of_the_Lord_Meaning_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Day_of_the_Lord_Meaning_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Day_of_the_Lord_Meaning_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Day_of_the_Lord_Meaning_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Purpose in Calling](../../questions/Purpose_in_Calling.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Purpose in Calling](../../questions/Purpose_in_Calling.md)
 
 ## Question [Purpose in Calling](../../questions/Purpose_in_Calling.md)
 How can one discern their 'calling' or 'purpose' as described in the Bible?
@@ -35,7 +35,11 @@ While these suggestions can help individuals discern their purpose or calling, i
 As a scholar, I must emphasize the importance of critical thinking and intellectual honesty in exploring one's purpose or calling. It's crucial to avoid simplistic or dogmatic approaches and instead foster an environment that encourages self-reflection, creativity, and open-mindedness. By doing so, we can cultivate a deeper understanding of ourselves and our place in the world, regardless of whether we subscribe to religious beliefs or not.
 
 ## Average Grade
-60.0
+68.0
 
 ## Grades
  * [60.0](./Purpose_in_Calling_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Purpose_in_Calling_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Purpose_in_Calling_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Purpose_in_Calling_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Purpose_in_Calling_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

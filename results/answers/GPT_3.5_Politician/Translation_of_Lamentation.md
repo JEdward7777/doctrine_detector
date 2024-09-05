@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) answer to [Translation of Lamentation](../../questions/Translation_of_Lamentation.md)
+# Generated Answer from [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) for [Translation of Lamentation](../../questions/Translation_of_Lamentation.md)
 
 ## Question [Translation of Lamentation](../../questions/Translation_of_Lamentation.md)
 How can the translations of the word 'lament' enhance our understanding of its Biblical context?
@@ -19,7 +19,11 @@ In studying the translations of "lament" in the Bible, one might find that diffe
 Therefore, examining different translations of the word "lament" can provide a more comprehensive and nuanced understanding of the Biblical context, allowing readers to delve deeper into the emotional depth and spiritual significance of the text. It is through this holistic approach to language and interpretation that we can truly appreciate the richness and complexity of Biblical teachings.
 
 ## Average Grade
-90.0
+87.0
 
 ## Grades
  * [90.0](./Translation_of_Lamentation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Translation_of_Lamentation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Translation_of_Lamentation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Translation_of_Lamentation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Translation_of_Lamentation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

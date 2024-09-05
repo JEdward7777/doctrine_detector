@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Translation Variations](../../questions/Translation_Variations.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Translation Variations](../../questions/Translation_Variations.md)
 
 ## Question [Translation Variations](../../questions/Translation_Variations.md)
 What are some alternative translations for 'covenant faithfulness'?
@@ -27,7 +27,11 @@ In the context of Islamic spirituality, covenant faithfulness is about cultivati
 May Allah guide us all in our journey towards faithfulness and righteousness!
 
 ## Average Grade
-80.0
+76.0
 
 ## Grades
  * [80.0](./Translation_Variations_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Translation_Variations_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Translation_Variations_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Translation_Variations_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [40.0](./Translation_Variations_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

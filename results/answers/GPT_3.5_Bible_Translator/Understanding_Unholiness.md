@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Understanding Unholiness](../../questions/Understanding_Unholiness.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Understanding Unholiness](../../questions/Understanding_Unholiness.md)
 
 ## Question [Understanding Unholiness](../../questions/Understanding_Unholiness.md)
 What are some characteristics of an 'unholy' life, and how can we identify them in our actions or society?
@@ -29,7 +29,11 @@ According to Christian theology, an "unholy" life is characterized by actions, a
 In society, we can identify these characteristics of an unholy life by observing the prevailing attitudes, values, and behaviors that are contrary to the teachings of Christ. This includes widespread injustice, oppression, violence, discrimination, and disregard for human dignity and worth. As Christians, we are called to be salt and light in the world, standing up for truth, justice, and righteousness, and sharing the love and grace of God with others.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Understanding_Unholiness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Understanding_Unholiness_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Understanding_Unholiness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Understanding_Unholiness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_Unholiness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Finding Grace](../../questions/Finding_Grace.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Finding Grace](../../questions/Finding_Grace.md)
 
 ## Question [Finding Grace](../../questions/Finding_Grace.md)
 What does it mean to 'find grace in the eyes of God'?
@@ -19,7 +19,11 @@ As Muslims, we believe that Allah's grace is a blessing that comes from His infi
 Ultimately, finding grace in the eyes of God is a reflection of our relationship with Him and our commitment to following His teachings. It is a source of comfort and hope for believers, knowing that no matter how many mistakes we make, Allah's mercy is always available to us as long as we sincerely repent and seek His forgiveness.
 
 ## Average Grade
-87.0
+89.4
 
 ## Grades
  * [87.0](./Finding_Grace_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Finding_Grace_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Finding_Grace_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Finding_Grace_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Finding_Grace_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

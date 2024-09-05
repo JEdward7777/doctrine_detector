@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Politician](../../answering_models/gemma_Politician.md) answer to [The Role of God's Chosen](../../questions/The_Role_of_God_s_Chosen.md)
+# Generated Answer from [gemma Politician](../../answering_models/gemma_Politician.md) for [The Role of God's Chosen](../../questions/The_Role_of_God_s_Chosen.md)
 
 ## Question [The Role of God's Chosen](../../questions/The_Role_of_God_s_Chosen.md)
 How were figures like Moses and King David considered 'chosen ones'? What does this imply about God's selection process?
@@ -48,7 +48,11 @@ The concept of "chosen ones" in religious texts like the Bible is a complex and 
 * Focus on discussing the historical and religious significance of the concept without promoting any particular beliefs or ideologies.
 
 ## Average Grade
-90.0
+84.0
 
 ## Grades
  * [90.0](./The_Role_of_God_s_Chosen_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./The_Role_of_God_s_Chosen_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./The_Role_of_God_s_Chosen_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./The_Role_of_God_s_Chosen_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./The_Role_of_God_s_Chosen_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Being Gracious](../../questions/Being_Gracious.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Being Gracious](../../questions/Being_Gracious.md)
 
 ## Question [Being Gracious](../../questions/Being_Gracious.md)
 How is the term 'gracious' defined and what does it imply about our interactions with others?
@@ -19,7 +19,11 @@ When we are gracious towards others, we are demonstrating love and forgiveness, 
 Being gracious in our interactions with others can lead to building meaningful relationships, fostering reconciliation, and showing others the love of Christ. It is a way to live out our faith and reflect the character of God to those around us.
 
 ## Average Grade
-95.0
+92.4
 
 ## Grades
  * [95.0](./Being_Gracious_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Being_Gracious_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Being_Gracious_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [92.0](./Being_Gracious_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Being_Gracious_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

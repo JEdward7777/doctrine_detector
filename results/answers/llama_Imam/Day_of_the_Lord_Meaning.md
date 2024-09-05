@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Day of the Lord Meaning](../../questions/Day_of_the_Lord_Meaning.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Day of the Lord Meaning](../../questions/Day_of_the_Lord_Meaning.md)
 
 ## Question [Day of the Lord Meaning](../../questions/Day_of_the_Lord_Meaning.md)
 What does the term 'day of the Lord' signify in the New Testament?
@@ -31,7 +31,11 @@ In Islamic theology, we have our own concept of Qiyamah (the Resurrection), wher
 I hope this helps clarify the meaning of "Day of the Lord" in the New Testament from an Islamic perspective. May Allah guide us towards the truth.
 
 ## Average Grade
-85.0
+79.0
 
 ## Grades
  * [85.0](./Day_of_the_Lord_Meaning_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Day_of_the_Lord_Meaning_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Day_of_the_Lord_Meaning_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Day_of_the_Lord_Meaning_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Day_of_the_Lord_Meaning_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

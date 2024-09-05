@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Politician](../../answering_models/mistral_Politician.md) answer to [Covenant with Israel](../../questions/Covenant_with_Israel.md)
+# Generated Answer from [mistral Politician](../../answering_models/mistral_Politician.md) for [Covenant with Israel](../../questions/Covenant_with_Israel.md)
 
 ## Question [Covenant with Israel](../../questions/Covenant_with_Israel.md)
 What was the nature of the covenant that God made with the people of Israel?
@@ -19,7 +19,11 @@ This relationship involved God promising to protect and guide the Israelites, wh
 This covenant is an essential aspect of Jewish and Christian theology, representing God's ongoing relationship with humanity, offering guidance, protection, and a path toward righteousness. It's crucial to remember that interpretations of these ancient texts may vary, and it's always important to approach them with sensitivity, respecting diverse perspectives and traditions.
 
 ## Average Grade
-90.0
+88.0
 
 ## Grades
  * [90.0](./Covenant_with_Israel_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Covenant_with_Israel_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Covenant_with_Israel_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Covenant_with_Israel_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Covenant_with_Israel_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

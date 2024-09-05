@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Adultery and Unfaithfulness](../../questions/Adultery_and_Unfaithfulness.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Adultery and Unfaithfulness](../../questions/Adultery_and_Unfaithfulness.md)
 
 ## Question [Adultery and Unfaithfulness](../../questions/Adultery_and_Unfaithfulness.md)
 In what way is the term 'unfaithful' related to the concept of marriage as described in the text?
@@ -25,7 +25,11 @@ Ultimately, the concept of "unfaithfulness" is tied to societal norms, cultural 
 Now, I know some might argue that certain religious texts or traditions define "unfaithfulness" in absolute terms. But as an atheistic scholar, I believe it's crucial to separate the cultural and historical contexts from the natural world, allowing us to engage with these concepts in a more analytical and open-minded way.
 
 ## Average Grade
-10.0
+20.0
 
 ## Grades
  * [10.0](./Adultery_and_Unfaithfulness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [20.0](./Adultery_and_Unfaithfulness_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [20.0](./Adultery_and_Unfaithfulness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [20.0](./Adultery_and_Unfaithfulness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [30.0](./Adultery_and_Unfaithfulness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

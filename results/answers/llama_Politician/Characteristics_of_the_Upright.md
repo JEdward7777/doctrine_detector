@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Characteristics of the Upright](../../questions/Characteristics_of_the_Upright.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Characteristics of the Upright](../../questions/Characteristics_of_the_Upright.md)
 
 ## Question [Characteristics of the Upright](../../questions/Characteristics_of_the_Upright.md)
 What qualities define an 'upright' person in the biblical context?
@@ -28,7 +28,11 @@ But, I must also acknowledge that the concept of "uprightness" can be subjective
 In conclusion, my friend, being an upright person is about living a life that reflects the values of justice, compassion, and integrity, while also recognizing the complexities and nuances that come with navigating our diverse and multicultural society. Thank you for this thought-provoking question!
 
 ## Average Grade
-85.0
+86.0
 
 ## Grades
  * [85.0](./Characteristics_of_the_Upright_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Characteristics_of_the_Upright_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Characteristics_of_the_Upright_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Characteristics_of_the_Upright_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Characteristics_of_the_Upright_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

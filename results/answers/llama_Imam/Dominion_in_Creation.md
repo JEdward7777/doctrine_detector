@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Dominion in Creation](../../questions/Dominion_in_Creation.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Dominion in Creation](../../questions/Dominion_in_Creation.md)
 
 ## Question [Dominion in Creation](../../questions/Dominion_in_Creation.md)
 What does the Bible teach about humanity's role in having dominion over the earth?
@@ -25,7 +25,11 @@ The New Testament also addresses this topic. In Luke 12:15, Jesus warns against 
 In summary, while the Bible does teach that humanity has a role in having dominion over the earth, it also emphasizes the importance of responsible stewardship and care for the environment. It cautions against exploitation and warns against coveting wealth and possessions at the expense of one's relationships with others and with nature.
 
 ## Average Grade
-85.0
+86.0
 
 ## Grades
  * [85.0](./Dominion_in_Creation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Dominion_in_Creation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Dominion_in_Creation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Dominion_in_Creation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Dominion_in_Creation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

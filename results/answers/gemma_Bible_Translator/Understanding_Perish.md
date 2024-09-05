@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Understanding Perish](../../questions/Understanding_Perish.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Understanding Perish](../../questions/Understanding_Perish.md)
 
 ## Question [Understanding Perish](../../questions/Understanding_Perish.md)
 What does it mean to 'perish' in a spiritual sense according to the New Testament?

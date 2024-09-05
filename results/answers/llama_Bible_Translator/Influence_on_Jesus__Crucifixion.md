@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Influence on Jesus' Crucifixion](../../questions/Influence_on_Jesus__Crucifixion.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Influence on Jesus' Crucifixion](../../questions/Influence_on_Jesus__Crucifixion.md)
 
 ## Question [Influence on Jesus' Crucifixion](../../questions/Influence_on_Jesus__Crucifixion.md)
 How did the Sadducees and Pharisees influence the decision to crucify Jesus, and what does this reveal about their character?
@@ -33,7 +33,11 @@ The Pharisees' character can be deduced from their actions:
 In conclusion, the Sadducees and Pharisees played significant roles in Jesus' crucifixion. Their actions reveal a character marked by pride, self-righteousness, fear of losing power, and a lack of spiritual insight. Their failure to recognize and respond to God's revelation in Jesus led them to perpetuate their own destruction, while ultimately contributing to the fulfillment of prophecies about the Messiah's sacrifice.
 
 ## Average Grade
-85.0
+88.2
 
 ## Grades
  * [85.0](./Influence_on_Jesus__Crucifixion_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Influence_on_Jesus__Crucifixion_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [92.0](./Influence_on_Jesus__Crucifixion_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [89.0](./Influence_on_Jesus__Crucifixion_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Influence_on_Jesus__Crucifixion_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

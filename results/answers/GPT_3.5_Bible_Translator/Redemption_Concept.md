@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Redemption Concept](../../questions/Redemption_Concept.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Redemption Concept](../../questions/Redemption_Concept.md)
 
 ## Question [Redemption Concept](../../questions/Redemption_Concept.md)
 How does the concept of redemption in the Bible compare to the practice of redeeming people or property in ancient Israel?
@@ -23,7 +23,11 @@ In the New Testament, the concept of redemption is closely tied to the idea of l
 So, while the practice of redeeming people or property in ancient Israel may have had legal and cultural implications, the concept of redemption in the Bible goes much deeper and points to the spiritual truth of God's saving grace and mercy towards us.
 
 ## Average Grade
-90.0
+89.0
 
 ## Grades
  * [90.0](./Redemption_Concept_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Redemption_Concept_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Redemption_Concept_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Redemption_Concept_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Redemption_Concept_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

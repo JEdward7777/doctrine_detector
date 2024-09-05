@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [God as Good](../../questions/God_as_Good.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [God as Good](../../questions/God_as_Good.md)
 
 ## Question [God as Good](../../questions/God_as_Good.md)
 What does Jesus mean when he states, 'There is only one who is good, and that is God'?

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma atheist](../../answering_models/gemma_atheist.md) answer to [Types of Love](../../questions/Types_of_Love.md)
+# Generated Answer from [gemma atheist](../../answering_models/gemma_atheist.md) for [Types of Love](../../questions/Types_of_Love.md)
 
 ## Question [Types of Love](../../questions/Types_of_Love.md)
 How do different forms of love, such as brotherly love and romantic love, fit into the biblical definition of love?
@@ -42,7 +42,11 @@ The Bible emphasizes a God-centered love that prioritizes transformation and rec
 While reconciling the biblical definition of love with contemporary understandings of love can be complex, it is crucial to move beyond traditional binary interpretations and embrace the diverse forms of love that enrich human experience.
 
 ## Average Grade
-90.0
+87.0
 
 ## Grades
  * [90.0](./Types_of_Love_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Types_of_Love_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Types_of_Love_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Types_of_Love_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Types_of_Love_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

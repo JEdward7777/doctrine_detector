@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Understanding the Crucifixion](../../questions/Understanding_the_Crucifixion.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Understanding the Crucifixion](../../questions/Understanding_the_Crucifixion.md)
 
 ## Question [Understanding the Crucifixion](../../questions/Understanding_the_Crucifixion.md)
 What significance does Jesus' crucifixion hold in Christian belief?
@@ -19,7 +19,11 @@ The crucifixion is often viewed as a demonstration of God's love and mercy, as J
 Furthermore, the crucifixion is often interpreted as a symbol of selflessness, humility, and forgiveness, with Jesus enduring great suffering and death in order to show the way to eternal life for humanity. Christians believe that through Jesus' sacrificial death and subsequent resurrection, believers can find forgiveness, redemption, and the hope of eternal life in heaven.
 
 ## Average Grade
-90.0
+91.0
 
 ## Grades
  * [90.0](./Understanding_the_Crucifixion_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Understanding_the_Crucifixion_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Understanding_the_Crucifixion_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Understanding_the_Crucifixion_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_the_Crucifixion_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

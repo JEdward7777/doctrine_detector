@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Understanding God's Calling](../../questions/Understanding_God_s_Calling.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Understanding God's Calling](../../questions/Understanding_God_s_Calling.md)
 
 ## Question [Understanding God's Calling](../../questions/Understanding_God_s_Calling.md)
 What does it mean for Christians to know they are 'called' by God?

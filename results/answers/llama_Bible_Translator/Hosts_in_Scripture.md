@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Hosts in Scripture](../../questions/Hosts_in_Scripture.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Hosts in Scripture](../../questions/Hosts_in_Scripture.md)
 
 ## Question [Hosts in Scripture](../../questions/Hosts_in_Scripture.md)
 In what context is the term 'hosts' used in scripture, and what does it encompass?
@@ -34,7 +34,11 @@ Here, the "sons of God" are again likely referring to these heavenly hosts, who 
 In summary, when the Bible uses the term "hosts," it typically refers to God's heavenly army or spiritual beings that serve and worship Him in heaven. These hosts are often depicted as mighty warriors, carrying out God's will and maintaining the order of creation.
 
 ## Average Grade
-90.0
+87.0
 
 ## Grades
  * [90.0](./Hosts_in_Scripture_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Hosts_in_Scripture_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Hosts_in_Scripture_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Hosts_in_Scripture_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Hosts_in_Scripture_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Faith in Christ](../../questions/Faith_in_Christ.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Faith in Christ](../../questions/Faith_in_Christ.md)
 
 ## Question [Faith in Christ](../../questions/Faith_in_Christ.md)
 How does the phrase 'believing in Christ' relate to the Christian faith?
@@ -19,7 +19,11 @@ In John 3:16, it is written: "For God so loved the world that he gave his one an
 Believing in Christ also involves repentance, turning away from sin, and living a life that is centered on Christ and his teachings. It is a relationship of faith, trust, and obedience to Jesus Christ as the Lord of one's life. Ultimately, believing in Christ is the foundation of the Christian faith and the doorway to a personal relationship with God.
 
 ## Average Grade
-90.0
+91.0
 
 ## Grades
  * [90.0](./Faith_in_Christ_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Faith_in_Christ_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Faith_in_Christ_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Faith_in_Christ_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Faith_in_Christ_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

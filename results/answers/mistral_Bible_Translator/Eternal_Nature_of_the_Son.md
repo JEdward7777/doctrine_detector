@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) answer to [Eternal Nature of the Son](../../questions/Eternal_Nature_of_the_Son.md)
+# Generated Answer from [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) for [Eternal Nature of the Son](../../questions/Eternal_Nature_of_the_Son.md)
 
 ## Question [Eternal Nature of the Son](../../questions/Eternal_Nature_of_the_Son.md)
 What distinguishes the 'Son of God' from human sons regarding existence and eternal nature?
@@ -23,7 +23,11 @@ Secondly, while human sons share the nature of their earthly fathers (Luke 3:23)
 In summary, the distinction between the Son of God and human sons lies in their unique relationship with the Father (eternal begetting vs. human procreation), their ontological status (Jesus is fully divine, humans are not), and their nature (Jesus possesses two natures – divine and human; humans only have a human nature).
 
 ## Average Grade
-95.0
+94.0
 
 ## Grades
  * [95.0](./Eternal_Nature_of_the_Son_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Eternal_Nature_of_the_Son_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Eternal_Nature_of_the_Son_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Eternal_Nature_of_the_Son_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Eternal_Nature_of_the_Son_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

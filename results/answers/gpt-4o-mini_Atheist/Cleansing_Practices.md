@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [Cleansing Practices](../../questions/Cleansing_Practices.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [Cleansing Practices](../../questions/Cleansing_Practices.md)
 
 ## Question [Cleansing Practices](../../questions/Cleansing_Practices.md)
 What practices might modern Christians adopt to reflect the Old Testament concept of ritual cleanliness?
@@ -37,7 +37,11 @@ Modern Christians who wish to reflect the Old Testament concept of ritual cleanl
 In adopting these practices, modern Christians may find deeper connections to traditional spiritual themes while also fostering a sense of community, mindfulness, and moral integrity.
 
 ## Average Grade
-85.0
+87.0
 
 ## Grades
  * [85.0](./Cleansing_Practices_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Cleansing_Practices_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Cleansing_Practices_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Cleansing_Practices_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Cleansing_Practices_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

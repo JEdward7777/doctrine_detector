@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [Contents Of Ark](../../questions/Contents_Of_Ark.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [Contents Of Ark](../../questions/Contents_Of_Ark.md)
 
 ## Question [Contents Of Ark](../../questions/Contents_Of_Ark.md)
 What items were contained within the ark of the covenant?
@@ -23,7 +23,11 @@ The Ark of the Covenant, a significant symbol in the Hebrew Bible, is traditiona
 These items are mentioned in various passages of the Hebrew Bible, particularly in the Book of Exodus and Numbers, reflecting themes of divine guidance, provision, and priesthood. The Ark served as a physical representation of the covenant between God and the Israelites.
 
 ## Average Grade
-95.0
+88.0
 
 ## Grades
  * [95.0](./Contents_Of_Ark_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Contents_Of_Ark_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Contents_Of_Ark_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Contents_Of_Ark_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Contents_Of_Ark_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

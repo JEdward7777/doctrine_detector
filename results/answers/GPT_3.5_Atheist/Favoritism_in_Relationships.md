@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Favoritism in Relationships](../../questions/Favoritism_in_Relationships.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Favoritism in Relationships](../../questions/Favoritism_in_Relationships.md)
 
 ## Question [Favoritism in Relationships](../../questions/Favoritism_in_Relationships.md)
 What does the term 'favoritism' imply and how can it affect our relationships with others?
@@ -21,7 +21,11 @@ Moreover, favoritism can hinder opportunities for growth and development, as tho
 In summary, favoritism can be damaging to relationships as it can breed negative emotions, create barriers to communication and collaboration, and ultimately harm the overall dynamics and well-being of individuals and groups.
 
 ## Average Grade
-95.0
+91.0
 
 ## Grades
  * [95.0](./Favoritism_in_Relationships_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Favoritism_in_Relationships_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Favoritism_in_Relationships_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Favoritism_in_Relationships_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Favoritism_in_Relationships_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

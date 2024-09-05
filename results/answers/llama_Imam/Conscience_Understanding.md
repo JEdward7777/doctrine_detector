@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Conscience Understanding](../../questions/Conscience_Understanding.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Conscience Understanding](../../questions/Conscience_Understanding.md)
 
 ## Question [Conscience Understanding](../../questions/Conscience_Understanding.md)
 What is the biblical definition of conscience, and how does it function according to Christian beliefs?
@@ -28,7 +28,11 @@ In the Bible, conscience is often linked to the concept of "heart" (Hebrew: לֵ
 While I may not fully understand the intricacies of Christian theology, it is clear that the concept of conscience plays a significant role in guiding moral decisions and promoting accountability. As Muslims, we also believe in the importance of following our intuition (hilmah) and being mindful of our moral obligations (amr bil-ma'ruf).
 
 ## Average Grade
-85.0
+80.0
 
 ## Grades
  * [85.0](./Conscience_Understanding_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [65.0](./Conscience_Understanding_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Conscience_Understanding_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Conscience_Understanding_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Conscience_Understanding_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

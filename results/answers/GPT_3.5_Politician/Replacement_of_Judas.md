@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) answer to [Replacement of Judas](../../questions/Replacement_of_Judas.md)
+# Generated Answer from [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) for [Replacement of Judas](../../questions/Replacement_of_Judas.md)
 
 ## Question [Replacement of Judas](../../questions/Replacement_of_Judas.md)
 Who was chosen to replace Judas Iscariot among the twelve apostles?
@@ -15,7 +15,11 @@ Recognizing the continuity of apostolic leadership after Jesus' ascension.
 The person chosen to replace Judas Iscariot among the twelve apostles was Matthias.
 
 ## Average Grade
-90.0
+88.0
 
 ## Grades
  * [90.0](./Replacement_of_Judas_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Replacement_of_Judas_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Replacement_of_Judas_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Replacement_of_Judas_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Replacement_of_Judas_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

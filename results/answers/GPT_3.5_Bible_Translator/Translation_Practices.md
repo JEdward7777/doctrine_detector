@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Translation Practices](../../questions/Translation_Practices.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Translation Practices](../../questions/Translation_Practices.md)
 
 ## Question [Translation Practices](../../questions/Translation_Practices.md)
 Why do many Bible translations use 'LORD' in place of 'Yahweh'?
@@ -19,7 +19,11 @@ In the Christian tradition, this practice was also adopted to show respect and r
 While some Bible translations do include the name 'Yahweh' in certain passages, the use of 'LORD' as a substitute for 'Yahweh' has become more widespread in modern translations for consistency and tradition. Ultimately, the choice of using 'LORD' or 'Yahweh' depends on the translation team's theological preferences and the target audience of the translation.
 
 ## Average Grade
-85.0
+82.0
 
 ## Grades
  * [85.0](./Translation_Practices_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Translation_Practices_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Translation_Practices_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Translation_Practices_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [70.0](./Translation_Practices_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Role of the High Priest](../../questions/Role_of_the_High_Priest.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Role of the High Priest](../../questions/Role_of_the_High_Priest.md)
 
 ## Question [Role of the High Priest](../../questions/Role_of_the_High_Priest.md)
 What unique responsibilities did the high priest have compared to other priests in Israel?
@@ -19,7 +19,11 @@ Unlike other priests who served on a rotation basis, the high priest held the po
 Overall, the high priest had a central role in upholding the religious and moral standards of the Israelite community and maintaining a harmonious relationship with God.
 
 ## Average Grade
-95.0
+84.2
 
 ## Grades
  * [95.0](./Role_of_the_High_Priest_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Role_of_the_High_Priest_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [86.0](./Role_of_the_High_Priest_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Role_of_the_High_Priest_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Role_of_the_High_Priest_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma atheist](../../answering_models/gemma_atheist.md) answer to [Scriptural References 5](../../questions/Scriptural_References_5.md)
+# Generated Answer from [gemma atheist](../../answering_models/gemma_atheist.md) for [Scriptural References 5](../../questions/Scriptural_References_5.md)
 
 ## Question [Scriptural References 5](../../questions/Scriptural_References_5.md)
 Which New Testament verses indicate a shift in the understanding of Hades from a neutral place for all the dead to a location associated with the unrighteous?
@@ -37,7 +37,11 @@ Expanding knowledge of scriptural evidence regarding the nature of Hades and its
 * It is important to avoid making ethnocentric assumptions about the afterlife based on these verses.
 
 ## Average Grade
-85.0
+79.0
 
 ## Grades
  * [85.0](./Scriptural_References_5_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Scriptural_References_5_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Scriptural_References_5_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Scriptural_References_5_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [40.0](./Scriptural_References_5_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

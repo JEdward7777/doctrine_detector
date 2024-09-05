@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Historical Examples](../../questions/Historical_Examples.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Historical Examples](../../questions/Historical_Examples.md)
 
 ## Question [Historical Examples](../../questions/Historical_Examples.md)
 Can you provide examples of individuals from the Bible who built altars and the significance of those acts?
@@ -33,7 +33,11 @@ As Muslims, we recognize that our own prophets, such as Abraham, were mentioned 
 Please keep in mind that this discussion is intended to foster understanding and dialogue between Muslims and Christians, rather than promoting interfaith confusion or compromising our respective beliefs. As a Muslim Imam, I am committed to upholding the integrity of Islamic teachings while engaging with other faiths in a respectful and informative manner.
 
 ## Average Grade
-95.0
+89.0
 
 ## Grades
  * [95.0](./Historical_Examples_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Historical_Examples_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Historical_Examples_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Historical_Examples_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Historical_Examples_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

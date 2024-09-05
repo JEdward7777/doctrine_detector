@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Role of Sadducees](../../questions/Role_of_Sadducees.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Role of Sadducees](../../questions/Role_of_Sadducees.md)
 
 ## Question [Role of Sadducees](../../questions/Role_of_Sadducees.md)
 What were the main responsibilities of the Sadducees in the Jewish temple system?

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma atheist](../../answering_models/gemma_atheist.md) answer to [Understanding Propitiation](../../questions/Understanding_Propitiation.md)
+# Generated Answer from [gemma atheist](../../answering_models/gemma_atheist.md) for [Understanding Propitiation](../../questions/Understanding_Propitiation.md)
 
 ## Question [Understanding Propitiation](../../questions/Understanding_Propitiation.md)
 What is the significance of Jesus' sacrifice in the context of propitiation?
@@ -39,7 +39,11 @@ The sacrifice of Jesus resonates culturally and psychologically in many societie
 While the sacrifice of Jesus holds significant religious meaning within Christianity, it does not align with the core tenets of atheism. However, its cultural significance and symbolic representations can resonate in non-religious contexts.
 
 ## Average Grade
-45.0
+51.0
 
 ## Grades
  * [45.0](./Understanding_Propitiation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [60.0](./Understanding_Propitiation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [40.0](./Understanding_Propitiation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [50.0](./Understanding_Propitiation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Understanding_Propitiation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

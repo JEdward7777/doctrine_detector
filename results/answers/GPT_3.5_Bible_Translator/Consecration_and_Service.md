@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Consecration and Service](../../questions/Consecration_and_Service.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Consecration and Service](../../questions/Consecration_and_Service.md)
 
 ## Question [Consecration and Service](../../questions/Consecration_and_Service.md)
 How does the act of consecration prepare individuals or things for God's service?
@@ -21,7 +21,11 @@ Consecration also involves purification and sanctification, as individuals are c
 Ultimately, the act of consecration prepares individuals and things for God's service by aligning them with His will, empowering them for ministry, and enabling them to bear fruit that brings glory to God. It is a continual process of surrender and commitment that shapes and transforms individuals into vessels that are pleasing and useful to God.
 
 ## Average Grade
-90.0
+89.0
 
 ## Grades
  * [90.0](./Consecration_and_Service_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Consecration_and_Service_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Consecration_and_Service_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Consecration_and_Service_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Consecration_and_Service_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

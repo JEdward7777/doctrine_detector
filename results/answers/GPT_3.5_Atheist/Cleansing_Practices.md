@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Cleansing Practices](../../questions/Cleansing_Practices.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Cleansing Practices](../../questions/Cleansing_Practices.md)
 
 ## Question [Cleansing Practices](../../questions/Cleansing_Practices.md)
 What practices might modern Christians adopt to reflect the Old Testament concept of ritual cleanliness?
@@ -27,7 +27,11 @@ As an atheistic scholar, I can approach this question from a cultural and histor
 While these suggestions may not capture the exact rituals and practices outlined in the Old Testament, they can serve as modern interpretations that align with the concept of ritual cleanliness and moral purity found in the ancient texts.
 
 ## Average Grade
-70.0
+66.0
 
 ## Grades
  * [70.0](./Cleansing_Practices_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [40.0](./Cleansing_Practices_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [75.0](./Cleansing_Practices_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Cleansing_Practices_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Cleansing_Practices_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

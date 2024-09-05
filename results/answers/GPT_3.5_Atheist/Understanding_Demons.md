@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Understanding Demons](../../questions/Understanding_Demons.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Understanding Demons](../../questions/Understanding_Demons.md)
 
 ## Question [Understanding Demons](../../questions/Understanding_Demons.md)
 What does the term 'unclean spirit' signify in relation to demons as described in Christian teachings?
@@ -19,7 +19,11 @@ The term can also signify a spiritual force that causes defilement or impurity i
 Overall, in Christian teachings, the term "unclean spirit" is used to emphasize the negative, corrupting influence of demonic forces on individuals and the importance of spiritual purity and protection from such influences.
 
 ## Average Grade
-85.0
+90.0
 
 ## Grades
  * [85.0](./Understanding_Demons_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Understanding_Demons_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Understanding_Demons_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Understanding_Demons_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_Demons_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

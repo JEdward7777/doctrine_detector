@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Gift of Evangelism](../../questions/Gift_of_Evangelism.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Gift of Evangelism](../../questions/Gift_of_Evangelism.md)
 
 ## Question [Gift of Evangelism](../../questions/Gift_of_Evangelism.md)
 What distinguishes an evangelist from other Christians?
@@ -19,7 +19,11 @@ What distinguishes an evangelist from other Christians is their strong emphasis 
 It is important to note that not all Christians identify as evangelists, and there are different approaches to sharing faith within Christianity. Some Christians may prioritize building relationships and demonstrating their faith through their actions rather than actively preaching or proselytizing. Islam similarly values sharing one's beliefs with kindness and wisdom, but it does not endorse aggressive evangelism or attempting to convert others forcefully.
 
 ## Average Grade
-85.0
+75.0
 
 ## Grades
  * [85.0](./Gift_of_Evangelism_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Gift_of_Evangelism_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Gift_of_Evangelism_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Gift_of_Evangelism_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [40.0](./Gift_of_Evangelism_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

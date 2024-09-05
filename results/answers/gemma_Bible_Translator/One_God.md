@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [One God](../../questions/One_God.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [One God](../../questions/One_God.md)
 
 ## Question [One God](../../questions/One_God.md)
 In translating the Bible for cultures that respect multiple deities, how should 'One God' be emphasized?

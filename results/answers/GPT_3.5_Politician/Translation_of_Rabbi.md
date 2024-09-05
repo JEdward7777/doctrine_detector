@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) answer to [Translation of Rabbi](../../questions/Translation_of_Rabbi.md)
+# Generated Answer from [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) for [Translation of Rabbi](../../questions/Translation_of_Rabbi.md)
 
 ## Question [Translation of Rabbi](../../questions/Translation_of_Rabbi.md)
 What considerations should be made when translating the term 'Rabbi' in various languages?
@@ -25,7 +25,11 @@ When translating the term "Rabbi" into various languages, it is important to con
 Overall, the key considerations when translating the term "Rabbi" in various languages are accuracy, cultural sensitivity, and respect for the religious significance of the title. By consulting with experts and being mindful of cultural differences, translations can be made in a way that is politically correct and considerate of all parties involved.
 
 ## Average Grade
-90.0
+84.0
 
 ## Grades
  * [90.0](./Translation_of_Rabbi_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Translation_of_Rabbi_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Translation_of_Rabbi_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Translation_of_Rabbi_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [70.0](./Translation_of_Rabbi_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

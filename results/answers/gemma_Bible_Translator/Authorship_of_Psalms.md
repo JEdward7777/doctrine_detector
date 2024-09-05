@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Authorship of Psalms](../../questions/Authorship_of_Psalms.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Authorship of Psalms](../../questions/Authorship_of_Psalms.md)
 
 ## Question [Authorship of Psalms](../../questions/Authorship_of_Psalms.md)
 Who were some of the key figures involved in writing the Psalms?

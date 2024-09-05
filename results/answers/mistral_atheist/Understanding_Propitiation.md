@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral atheist](../../answering_models/mistral_atheist.md) answer to [Understanding Propitiation](../../questions/Understanding_Propitiation.md)
+# Generated Answer from [mistral atheist](../../answering_models/mistral_atheist.md) for [Understanding Propitiation](../../questions/Understanding_Propitiation.md)
 
 ## Question [Understanding Propitiation](../../questions/Understanding_Propitiation.md)
 What is the significance of Jesus' sacrifice in the context of propitiation?
@@ -21,7 +21,11 @@ In the New Testament, Jesus' crucifixion is depicted as a fulfillment of these s
 It's essential to recognize that this understanding of Jesus' sacrifice is deeply rooted in religious and cultural beliefs that may not align with contemporary scientific or secular worldviews. As an atheistic scholar, I do not hold the belief in a deity that requires propitiation; however, I acknowledge the significance of this concept within the context of early Christianity and its role in shaping Western religious thought and culture.
 
 ## Average Grade
-90.0
+87.0
 
 ## Grades
  * [90.0](./Understanding_Propitiation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Understanding_Propitiation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Understanding_Propitiation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Understanding_Propitiation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_Propitiation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

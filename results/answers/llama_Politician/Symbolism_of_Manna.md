@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Symbolism of Manna](../../questions/Symbolism_of_Manna.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Symbolism of Manna](../../questions/Symbolism_of_Manna.md)
 
 ## Question [Symbolism of Manna](../../questions/Symbolism_of_Manna.md)
 What does the term 'manna' symbolize regarding God's provision?
@@ -25,7 +25,11 @@ So, let's celebrate our differences while acknowledging the universal human expe
 Thank you for engaging with me on this topic!
 
 ## Average Grade
-92.0
+84.4
 
 ## Grades
  * [92.0](./Symbolism_of_Manna_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Symbolism_of_Manna_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Symbolism_of_Manna_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Symbolism_of_Manna_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Symbolism_of_Manna_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

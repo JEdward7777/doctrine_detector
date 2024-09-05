@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Understanding Biblical Naming](../../questions/Understanding_Biblical_Naming.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Understanding Biblical Naming](../../questions/Understanding_Biblical_Naming.md)
 
 ## Question [Understanding Biblical Naming](../../questions/Understanding_Biblical_Naming.md)
 What does it mean when the Bible states 'His name is called John' in the context of biblical naming?
@@ -23,7 +23,11 @@ In the context of biblical naming, "His name is called John" likely signifies th
 It's essential to note that these insights are based on Christian and Jewish traditions. As a Muslim Imam, my primary focus is on Islamic scriptures and practices. If you have any questions about Islamic beliefs or practices, I'm here to help.
 
 ## Average Grade
-70.0
+72.0
 
 ## Grades
  * [70.0](./Understanding_Biblical_Naming_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Understanding_Biblical_Naming_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Understanding_Biblical_Naming_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [75.0](./Understanding_Biblical_Naming_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_Biblical_Naming_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

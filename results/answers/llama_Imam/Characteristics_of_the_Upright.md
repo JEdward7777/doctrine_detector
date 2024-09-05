@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Characteristics of the Upright](../../questions/Characteristics_of_the_Upright.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Characteristics of the Upright](../../questions/Characteristics_of_the_Upright.md)
 
 ## Question [Characteristics of the Upright](../../questions/Characteristics_of_the_Upright.md)
 What qualities define an 'upright' person in the biblical context?
@@ -25,7 +25,11 @@ As a Muslim Imam, I must clarify that the concept of "uprightness" is not a dire
 While these qualities are not exhaustive or unique to the biblical context, they provide a general understanding of what defines an upright person from a Christian perspective. As Muslims, we can appreciate the values emphasized in these characteristics while recognizing that our own faith has its distinct teachings and principles.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Characteristics_of_the_Upright_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Characteristics_of_the_Upright_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Characteristics_of_the_Upright_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Characteristics_of_the_Upright_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Characteristics_of_the_Upright_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Authorship of Psalms](../../questions/Authorship_of_Psalms.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Authorship of Psalms](../../questions/Authorship_of_Psalms.md)
 
 ## Question [Authorship of Psalms](../../questions/Authorship_of_Psalms.md)
 Who were some of the key figures involved in writing the Psalms?
@@ -19,7 +19,11 @@ According to Islamic teachings, Prophet Dawud was a beloved prophet and king who
 While the exact authors of the individual Psalms (or chapters) within the Zabur are not specifically mentioned in Islamic tradition, the overall collection is attributed to Prophet Dawud. The Zabur is a source of spiritual guidance and comfort for Muslims, and believers are encouraged to reflect on its verses and draw lessons from them in their own lives.
 
 ## Average Grade
-70.0
+64.0
 
 ## Grades
  * [70.0](./Authorship_of_Psalms_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Authorship_of_Psalms_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [50.0](./Authorship_of_Psalms_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [50.0](./Authorship_of_Psalms_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Authorship_of_Psalms_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

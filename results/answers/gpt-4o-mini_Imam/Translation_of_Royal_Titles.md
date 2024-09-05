@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Translation of Royal Titles](../../questions/Translation_of_Royal_Titles.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Translation of Royal Titles](../../questions/Translation_of_Royal_Titles.md)
 
 ## Question [Translation of Royal Titles](../../questions/Translation_of_Royal_Titles.md)
 How can the phrase 'Your Majesty' be appropriately translated in different languages?
@@ -25,7 +25,11 @@ The phrase "Your Majesty," used to address kings, queens, or royal figures, can 
 These translations maintain the sense of respect and honor appropriate for speaking to someone of royal status. Each language has its own context and historical background that shapes these forms of address.
 
 ## Average Grade
-85.0
+83.0
 
 ## Grades
  * [85.0](./Translation_of_Royal_Titles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Translation_of_Royal_Titles_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Translation_of_Royal_Titles_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Translation_of_Royal_Titles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Translation_of_Royal_Titles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

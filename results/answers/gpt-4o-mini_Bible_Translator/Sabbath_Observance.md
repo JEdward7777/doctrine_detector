@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) answer to [Sabbath Observance](../../questions/Sabbath_Observance.md)
+# Generated Answer from [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) for [Sabbath Observance](../../questions/Sabbath_Observance.md)
 
 ## Question [Sabbath Observance](../../questions/Sabbath_Observance.md)
 What does it mean to keep the Sabbath holy according to the commandments given to Moses?
@@ -27,7 +27,11 @@ Keeping the Sabbath holy is a central theme in the Fourth Commandment, as articu
 In summary, keeping the Sabbath holy involves resting from labor, honoring God through worship, reflecting on creation, promoting justice and care for others, and recognizing the spiritual significance of the day in the life of faith.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Sabbath_Observance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Sabbath_Observance_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Sabbath_Observance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Sabbath_Observance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Sabbath_Observance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

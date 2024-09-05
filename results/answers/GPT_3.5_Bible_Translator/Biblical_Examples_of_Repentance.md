@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Biblical Examples of Repentance](../../questions/Biblical_Examples_of_Repentance.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Biblical Examples of Repentance](../../questions/Biblical_Examples_of_Repentance.md)
 
 ## Question [Biblical Examples of Repentance](../../questions/Biblical_Examples_of_Repentance.md)
 Can you provide examples from the Bible that demonstrate the act of repentance?
@@ -21,7 +21,11 @@ In the New Testament, we also see examples of repentance in the teachings of Joh
 These examples show that repentance is a crucial part of the Christian faith, as it involves acknowledging our sins, turning away from them, and seeking forgiveness from God.
 
 ## Average Grade
-90.0
+88.0
 
 ## Grades
  * [90.0](./Biblical_Examples_of_Repentance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Biblical_Examples_of_Repentance_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Biblical_Examples_of_Repentance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Biblical_Examples_of_Repentance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Biblical_Examples_of_Repentance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

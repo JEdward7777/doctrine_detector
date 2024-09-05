@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Worship Practices](../../questions/Worship_Practices.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Worship Practices](../../questions/Worship_Practices.md)
 
 ## Question [Worship Practices](../../questions/Worship_Practices.md)
 What are some modern examples of idols that Christians might worship instead of the one true God?
@@ -45,7 +45,11 @@ Example: A talented musician spends most of their time composing music, performi
 These examples are not exhaustive, but they illustrate how easily other things can become idols in our lives. As Christians, it's essential to recognize these pitfalls and prioritize a genuine relationship with God above all else.
 
 ## Average Grade
-80.0
+86.4
 
 ## Grades
  * [80.0](./Worship_Practices_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Worship_Practices_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Worship_Practices_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Worship_Practices_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [92.0](./Worship_Practices_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

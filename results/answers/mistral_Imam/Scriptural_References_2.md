@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Scriptural References 2](../../questions/Scriptural_References_2.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Scriptural References 2](../../questions/Scriptural_References_2.md)
 
 ## Question [Scriptural References 2](../../questions/Scriptural_References_2.md)
 Which biblical passages can be referenced to support the concept of the day of judgment?
@@ -25,7 +25,11 @@ That being said, there are several passages in the Bible that mention the Day of
 These passages echo Islamic beliefs about the Day of Judgment, such as the resurrection of the dead, the accounting for deeds, and the separation between those destined for Paradise (Jannah) and those bound for Hell (Jahannam). However, it's important to remember that the Quran supersedes previous scriptures in Muslim understanding. The details and descriptions might vary slightly due to historical context, but the core concepts are similar.
 
 ## Average Grade
-85.0
+82.0
 
 ## Grades
  * [85.0](./Scriptural_References_2_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Scriptural_References_2_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Scriptural_References_2_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Scriptural_References_2_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Scriptural_References_2_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

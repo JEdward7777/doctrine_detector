@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral atheist](../../answering_models/mistral_atheist.md) answer to [High Priest Access](../../questions/High_Priest_Access.md)
+# Generated Answer from [mistral atheist](../../answering_models/mistral_atheist.md) for [High Priest Access](../../questions/High_Priest_Access.md)
 
 ## Question [High Priest Access](../../questions/High_Priest_Access.md)
 Who was allowed to approach the ark of the covenant and under what circumstances?
@@ -21,7 +21,11 @@ The most notable restriction was that the Ark could not be touched directly by a
 Under ordinary circumstances, the Ark of the Covenant was kept inside the Holy of Holies within the Tabernacle (and later the Temple in Jerusalem), accessible only to the High Priest once a year during the Day of Atonement. Approaching and interacting with the Ark under any other circumstances could result in severe consequences, as emphasized by the story of Uzzah, who reached out to steady the Ark when it appeared to be tipping and was immediately struck dead (2 Samuel 6:1-7).
 
 ## Average Grade
-95.0
+87.0
 
 ## Grades
  * [95.0](./High_Priest_Access_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./High_Priest_Access_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./High_Priest_Access_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./High_Priest_Access_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./High_Priest_Access_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

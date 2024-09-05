@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Hosts in Scripture](../../questions/Hosts_in_Scripture.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Hosts in Scripture](../../questions/Hosts_in_Scripture.md)
 
 ## Question [Hosts in Scripture](../../questions/Hosts_in_Scripture.md)
 In what context is the term 'hosts' used in scripture, and what does it encompass?
@@ -27,7 +27,11 @@ When examining these contexts, it's essential to recognize that ancient Near Eas
 In essence, the term "hosts" encompasses a range of supernatural beings that participate in divine activities, fulfill specific roles, and facilitate communication between God and humanity. By considering these contextual nuances, we can better understand the cultural and historical significance of this biblical concept.
 
 ## Average Grade
-60.0
+67.0
 
 ## Grades
  * [60.0](./Hosts_in_Scripture_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [60.0](./Hosts_in_Scripture_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Hosts_in_Scripture_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Hosts_in_Scripture_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Hosts_in_Scripture_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

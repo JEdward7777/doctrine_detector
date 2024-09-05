@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Translation of Ark](../../questions/Translation_of_Ark.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Translation of Ark](../../questions/Translation_of_Ark.md)
 
 ## Question [Translation of Ark](../../questions/Translation_of_Ark.md)
 How does the term 'ark' vary in translation within different Biblical contexts?
@@ -21,7 +21,11 @@ In some cases, interpreters may opt for a more literal translation, such as "Ø§Ù
 It is always important to consider the context in which a term is used when translating between languages and to remember that translation is never an exact science. Different interpretations, cultures, and historical backgrounds can lead to variations in translation and understanding.
 
 ## Average Grade
-90.0
+87.0
 
 ## Grades
  * [90.0](./Translation_of_Ark_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Translation_of_Ark_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Translation_of_Ark_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Translation_of_Ark_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Translation_of_Ark_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

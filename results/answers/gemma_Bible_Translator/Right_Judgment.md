@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Right Judgment](../../questions/Right_Judgment.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Right Judgment](../../questions/Right_Judgment.md)
 
 ## Question [Right Judgment](../../questions/Right_Judgment.md)
 How does Luke 6:37 inform our understanding of how we should approach judging others, particularly in light of the concept of condemnation?

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Politician](../../answering_models/gemma_Politician.md) answer to [Definition of Gospel](../../questions/Definition_of_Gospel.md)
+# Generated Answer from [gemma Politician](../../answering_models/gemma_Politician.md) for [Definition of Gospel](../../questions/Definition_of_Gospel.md)
 
 ## Question [Definition of Gospel](../../questions/Definition_of_Gospel.md)
 What does the term 'gospel' literally mean, and how is it understood in the context of the Bible?
@@ -28,7 +28,11 @@ In the Bible, the gospel refers to the central message of Christianity: that Jes
 The term "gospel" is often used in religious contexts to describe the central message of Christianity. It emphasizes the joyous and liberating news that through Jesus Christ, salvation and eternal life are available to all.
 
 ## Average Grade
-90.0
+91.0
 
 ## Grades
  * [90.0](./Definition_of_Gospel_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Definition_of_Gospel_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Definition_of_Gospel_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Definition_of_Gospel_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Definition_of_Gospel_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Samson's Nazirite Status](../../questions/Samson_s_Nazirite_Status.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Samson's Nazirite Status](../../questions/Samson_s_Nazirite_Status.md)
 
 ## Question [Samson's Nazirite Status](../../questions/Samson_s_Nazirite_Status.md)
 How does Samson's story illustrate the implications of the Nazirite vow as outlined in the Bible?
@@ -29,7 +29,11 @@ In conclusion, Samson's story vividly illustrates the implications of the Naziri
 And now, if you'll excuse me, I must attend to some pressing matters... *glances at watch* Ah, yes! Time is of the essence, my friends!
 
 ## Average Grade
-85.0
+87.0
 
 ## Grades
  * [85.0](./Samson_s_Nazirite_Status_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Samson_s_Nazirite_Status_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Samson_s_Nazirite_Status_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Samson_s_Nazirite_Status_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Samson_s_Nazirite_Status_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

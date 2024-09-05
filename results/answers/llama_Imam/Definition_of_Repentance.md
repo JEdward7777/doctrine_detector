@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Definition of Repentance](../../questions/Definition_of_Repentance.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Definition of Repentance](../../questions/Definition_of_Repentance.md)
 
 ## Question [Definition of Repentance](../../questions/Definition_of_Repentance.md)
 What does it mean to repent according to the Bible?
@@ -30,7 +30,11 @@ As Muslims, we understand that our Creator is Merciful and Forgiving. He accepts
 In conclusion, brother, while there may be differences in interpretation between the two faiths, we both agree on the importance of seeking forgiveness and turning back to our Lord. May Allah guide us all towards righteousness and mercy!
 
 ## Average Grade
-90.0
+85.0
 
 ## Grades
  * [90.0](./Definition_of_Repentance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Definition_of_Repentance_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Definition_of_Repentance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Definition_of_Repentance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Definition_of_Repentance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Understanding Evil](../../questions/Understanding_Evil.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Understanding Evil](../../questions/Understanding_Evil.md)
 
 ## Question [Understanding Evil](../../questions/Understanding_Evil.md)
 How does the Bible distinguish between 'evil' and 'wickedness' in terms of moral character and behavior?
@@ -21,7 +21,11 @@ Wickedness, or "Fisq," on the other hand, refers specifically to disobedience an
 Therefore, while evil encompasses a broader range of harmful actions and behaviors, wickedness is more focused on the disobedience to God's commands and the commission of sinful acts. Both evil and wickedness are condemned in Islam, and Muslims are encouraged to strive for righteousness, goodness, and adherence to the teachings of Islam to lead a moral and upright life.
 
 ## Average Grade
-90.0
+86.0
 
 ## Grades
  * [90.0](./Understanding_Evil_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Understanding_Evil_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Understanding_Evil_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Understanding_Evil_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_Evil_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

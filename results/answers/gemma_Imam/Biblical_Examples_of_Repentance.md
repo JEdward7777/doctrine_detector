@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Biblical Examples of Repentance](../../questions/Biblical_Examples_of_Repentance.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Biblical Examples of Repentance](../../questions/Biblical_Examples_of_Repentance.md)
 
 ## Question [Biblical Examples of Repentance](../../questions/Biblical_Examples_of_Repentance.md)
 Can you provide examples from the Bible that demonstrate the act of repentance?
@@ -56,7 +56,11 @@ The concept of repentance is central to Islam and is also emphasized in the Bibl
 The Bible provides numerous examples of repentance, demonstrating that it is a transformative process that leads to forgiveness, reconciliation, and new life in Christ. These examples inspire Muslims to seek repentance and experience God's love and mercy.
 
 ## Average Grade
-85.0
+86.0
 
 ## Grades
  * [85.0](./Biblical_Examples_of_Repentance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Biblical_Examples_of_Repentance_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Biblical_Examples_of_Repentance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Biblical_Examples_of_Repentance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Biblical_Examples_of_Repentance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma atheist](../../answering_models/gemma_atheist.md) answer to [Historical Context](../../questions/Historical_Context.md)
+# Generated Answer from [gemma atheist](../../answering_models/gemma_atheist.md) for [Historical Context](../../questions/Historical_Context.md)
 
 ## Question [Historical Context](../../questions/Historical_Context.md)
 What biblical events illustrate the concept of 'remnant' as seen in Isaiah and Amos?
@@ -39,7 +39,11 @@ These prophecies resonate with the cultural understanding of "remnant" in ancien
 The concept of "remnant" in Isaiah and Amos reflects the cultural contexts in which these prophets lived. It highlights the importance of faithfulness and righteousness within communities, even when faced with adversity and judgment.
 
 ## Average Grade
-90.0
+88.4
 
 ## Grades
  * [90.0](./Historical_Context_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Historical_Context_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [92.0](./Historical_Context_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Historical_Context_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Historical_Context_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

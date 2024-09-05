@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [The New Covenant](../../questions/The_New_Covenant.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [The New Covenant](../../questions/The_New_Covenant.md)
 
 ## Question [The New Covenant](../../questions/The_New_Covenant.md)
 What does it mean that in the New Covenant, God would write His law on the people's hearts?
@@ -23,7 +23,11 @@ This verse suggests that God gives individuals the capacity to reason (wisdom) a
 In summary, while there is some similarity between the idea of God writing His law on people's hearts in both Muslim and Christian contexts, the specific meanings and applications differ significantly. In Islam, it is more about the guidance provided by God through revelation, reason, and knowledge rather than an innate understanding or New Covenant concept.
 
 ## Average Grade
-70.0
+74.0
 
 ## Grades
  * [70.0](./The_New_Covenant_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./The_New_Covenant_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [65.0](./The_New_Covenant_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./The_New_Covenant_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./The_New_Covenant_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

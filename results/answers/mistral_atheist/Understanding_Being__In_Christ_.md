@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral atheist](../../answering_models/mistral_atheist.md) answer to [Understanding Being 'In Christ'](../../questions/Understanding_Being__In_Christ_.md)
+# Generated Answer from [mistral atheist](../../answering_models/mistral_atheist.md) for [Understanding Being 'In Christ'](../../questions/Understanding_Being__In_Christ_.md)
 
 ## Question [Understanding Being 'In Christ'](../../questions/Understanding_Being__In_Christ_.md)
 What does it mean to be 'in Christ' according to Christian theology?
@@ -29,7 +29,11 @@ This relationship is typically explained in several ways:
 These are general explanations, and specific beliefs may vary among different Christian denominations and traditions. However, these concepts help illustrate the central importance of being "in Christ" within Christian theology.
 
 ## Average Grade
-95.0
+87.0
 
 ## Grades
  * [95.0](./Understanding_Being__In_Christ__grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Understanding_Being__In_Christ__grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Understanding_Being__In_Christ__grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Understanding_Being__In_Christ__grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Understanding_Being__In_Christ__grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

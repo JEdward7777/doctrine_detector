@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Purpose of Psalms](../../questions/Purpose_of_Psalms.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Purpose of Psalms](../../questions/Purpose_of_Psalms.md)
 
 ## Question [Purpose of Psalms](../../questions/Purpose_of_Psalms.md)
 What role did the Psalms play in the worship practices of the nation of Israel?
@@ -25,7 +25,11 @@ The Psalms, part of the Hebrew Bible and sacred scripture for Jews and also cons
 Overall, the Psalms were a central part of the worship practices of the nation of Israel, serving as a means of connecting with God, expressing faith and devotion, and seeking guidance and solace in all aspects of life.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Purpose_of_Psalms_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Purpose_of_Psalms_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Purpose_of_Psalms_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Purpose_of_Psalms_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Purpose_of_Psalms_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

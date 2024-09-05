@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Foreordain vs Predestine](../../questions/Foreordain_vs_Predestine.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Foreordain vs Predestine](../../questions/Foreordain_vs_Predestine.md)
 
 ## Question [Foreordain vs Predestine](../../questions/Foreordain_vs_Predestine.md)
 How does the term 'foreordain' relate to 'predestine' in Christian teachings?
@@ -28,7 +28,11 @@ To illustrate the relationship between the two terms:
 In summary, foreordination is a broader concept that includes predestination as one aspect of God's sovereign plan. While both terms emphasize God's sovereignty, foreordination has a more comprehensive scope, encompassing all of God's actions in human history, including creation, the fall, redemption, and ultimate victory.
 
 ## Average Grade
-90.0
+88.0
 
 ## Grades
  * [90.0](./Foreordain_vs_Predestine_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Foreordain_vs_Predestine_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Foreordain_vs_Predestine_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Foreordain_vs_Predestine_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Foreordain_vs_Predestine_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

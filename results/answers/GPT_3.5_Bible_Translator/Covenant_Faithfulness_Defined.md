@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Covenant Faithfulness Defined](../../questions/Covenant_Faithfulness_Defined.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Covenant Faithfulness Defined](../../questions/Covenant_Faithfulness_Defined.md)
 
 ## Question [Covenant Faithfulness Defined](../../questions/Covenant_Faithfulness_Defined.md)
 What does the term 'covenant faithfulness' mean in the context of biblical relationships?
@@ -19,7 +19,11 @@ Covenant faithfulness involves loyalty, obedience, love, and trustworthiness in 
 In human relationships, covenant faithfulness calls for mutual trust, respect, and commitment, where individuals honor their commitments, remain faithful to one another, and strive to uphold the values and principles of the covenant relationship. This concept underscores the importance of integrity, reliability, and dependability in fostering healthy and enduring relationships based on biblical principles.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Covenant_Faithfulness_Defined_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Covenant_Faithfulness_Defined_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Covenant_Faithfulness_Defined_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Covenant_Faithfulness_Defined_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Covenant_Faithfulness_Defined_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

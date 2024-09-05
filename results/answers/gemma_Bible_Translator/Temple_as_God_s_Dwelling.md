@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Temple as God's Dwelling](../../questions/Temple_as_God_s_Dwelling.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Temple as God's Dwelling](../../questions/Temple_as_God_s_Dwelling.md)
 
 ## Question [Temple as God's Dwelling](../../questions/Temple_as_God_s_Dwelling.md)
 How is the concept of the temple as God's dwelling expressed in both the Old and New Testaments?

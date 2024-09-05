@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Nature of Eternity](../../questions/Nature_of_Eternity.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Nature of Eternity](../../questions/Nature_of_Eternity.md)
 
 ## Question [Nature of Eternity](../../questions/Nature_of_Eternity.md)
 How is eternity defined in the context of Christian beliefs?

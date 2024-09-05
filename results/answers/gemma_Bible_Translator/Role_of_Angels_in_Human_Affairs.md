@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Role of Angels in Human Affairs](../../questions/Role_of_Angels_in_Human_Affairs.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Role of Angels in Human Affairs](../../questions/Role_of_Angels_in_Human_Affairs.md)
 
 ## Question [Role of Angels in Human Affairs](../../questions/Role_of_Angels_in_Human_Affairs.md)
 In what ways do angels serve God, according to biblical references?

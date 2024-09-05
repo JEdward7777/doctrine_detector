@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Politician](../../answering_models/mistral_Politician.md) answer to [Titles of God](../../questions/Titles_of_God.md)
+# Generated Answer from [mistral Politician](../../answering_models/mistral_Politician.md) for [Titles of God](../../questions/Titles_of_God.md)
 
 ## Question [Titles of God](../../questions/Titles_of_God.md)
 What are some of the titles used in the Bible that refer to God as 'Almighty'?
@@ -23,7 +23,11 @@ Recognizing these titles can enhance our understanding of God's character.
 5. Yahweh-Tzva'ot: This title, found in Isaiah 6:3, means "Lord of Hosts" or "Lord Sabaoth." The term "Hosts" (Tzva'ot) refers to God's army, symbolizing His power and dominion over all created beings. It can be seen as an expression of God's almightiness and supreme authority.
 
 ## Average Grade
-90.0
+83.0
 
 ## Grades
  * [90.0](./Titles_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Titles_of_God_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Titles_of_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Titles_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Titles_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

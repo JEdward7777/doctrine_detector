@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Distinction in Divine Titles](../../questions/Distinction_in_Divine_Titles.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Distinction in Divine Titles](../../questions/Distinction_in_Divine_Titles.md)
 
 ## Question [Distinction in Divine Titles](../../questions/Distinction_in_Divine_Titles.md)
 Why is it important not to translate 'Lord Yahweh' as 'Lord LORD'?
@@ -17,7 +17,11 @@ It is important not to translate 'Lord Yahweh' as 'Lord LORD' because it can act
 By translating 'Lord Yahweh' as 'Lord LORD,' it can create confusion and misunderstanding among readers who may not be aware of the significance of the term "Yahweh." It is important to preserve the original meaning and reverence for God's name in translation in order to accurately communicate the true nature and character of God as revealed in the Bible.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Distinction_in_Divine_Titles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Distinction_in_Divine_Titles_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Distinction_in_Divine_Titles_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Distinction_in_Divine_Titles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Distinction_in_Divine_Titles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

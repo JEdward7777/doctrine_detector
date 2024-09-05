@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Examples in Scripture](../../questions/Examples_in_Scripture.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Examples in Scripture](../../questions/Examples_in_Scripture.md)
 
 ## Question [Examples in Scripture](../../questions/Examples_in_Scripture.md)
 Can you provide examples from the Bible that illustrate instances of demon possession?
@@ -39,7 +39,11 @@ This passage showcases how the concept of demon possession was used to explain s
 It's essential to consider these stories within their historical context, recognizing that they were shaped by ancient Near Eastern and Mediterranean cultural beliefs about demons and spirits. As a scholar, I encourage you to engage critically with these passages, exploring how they reflect early Christianity's theological development and its interaction with the broader cultural environment.
 
 ## Average Grade
-70.0
+79.0
 
 ## Grades
  * [70.0](./Examples_in_Scripture_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Examples_in_Scripture_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [75.0](./Examples_in_Scripture_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Examples_in_Scripture_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Examples_in_Scripture_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

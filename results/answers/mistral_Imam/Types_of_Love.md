@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Types of Love](../../questions/Types_of_Love.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Types of Love](../../questions/Types_of_Love.md)
 
 ## Question [Types of Love](../../questions/Types_of_Love.md)
 How do different forms of love, such as brotherly love and romantic love, fit into the biblical definition of love?
@@ -23,7 +23,11 @@ Romantic love, on the other hand, is a natural human emotion that can be express
 However, it's important to remember that romantic love must always be guided by Islamic values and principles, such as modesty, honesty, and respect. Any expressions or actions that contradict these values are considered inappropriate.
 
 ## Average Grade
-90.0
+89.0
 
 ## Grades
  * [90.0](./Types_of_Love_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Types_of_Love_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Types_of_Love_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Types_of_Love_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Types_of_Love_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

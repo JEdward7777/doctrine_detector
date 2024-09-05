@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Understanding the Title](../../questions/Understanding_the_Title.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Understanding the Title](../../questions/Understanding_the_Title.md)
 
 ## Question [Understanding the Title](../../questions/Understanding_the_Title.md)
 What does the title 'Son of Man' signify in the context of Jesus' identity?
@@ -19,7 +19,11 @@ The Quran presents Jesus as a significant figure who was born miraculously throu
 In conclusion, the title "Son of Man" in Islamic context refers metaphorically to Jesus' humanity and prophetic role, emphasizing that he is one of the great messengers sent by Allah to guide mankind.
 
 ## Average Grade
-60.0
+56.0
 
 ## Grades
  * [60.0](./Understanding_the_Title_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [50.0](./Understanding_the_Title_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Understanding_the_Title_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Understanding_the_Title_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [40.0](./Understanding_the_Title_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

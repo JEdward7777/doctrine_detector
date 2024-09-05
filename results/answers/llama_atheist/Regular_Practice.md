@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Regular Practice](../../questions/Regular_Practice.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Regular Practice](../../questions/Regular_Practice.md)
 
 ## Question [Regular Practice](../../questions/Regular_Practice.md)
 Why did the apostle Paul establish the Lord’s Supper as a regular practice for believers?
@@ -31,7 +31,11 @@ In this context, Paul may have seen the Lord's Supper as a way to:
 In conclusion, while I'm not convinced by theological justifications for the Lord's Supper, it's clear that Paul sought to re-establish this ritualistic practice as a means to reinforce Christian identity, foster unity, and address social and economic issues within the early Christian community.
 
 ## Average Grade
-60.0
+65.0
 
 ## Grades
  * [60.0](./Regular_Practice_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [60.0](./Regular_Practice_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Regular_Practice_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Regular_Practice_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Regular_Practice_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

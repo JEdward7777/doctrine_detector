@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma atheist](../../answering_models/gemma_atheist.md) answer to [Translation of 'Elect'](../../questions/Translation_of__Elect_.md)
+# Generated Answer from [gemma atheist](../../answering_models/gemma_atheist.md) for [Translation of 'Elect'](../../questions/Translation_of__Elect_.md)
 
 ## Question [Translation of 'Elect'](../../questions/Translation_of__Elect_.md)
 In what ways does the translation of 'elect' differ in older and modern English Bible versions, and what impact does this have on understanding Scripture?
@@ -44,7 +44,11 @@ The shift in translation from "chosen" to "picked out" or "set apart" highlights
 The translation of "elect" in older and modern English Bible versions reflects changing cultural contexts. While older versions carry the weight of their historical language, modern translations prioritize clarity and inclusivity, offering a more accessible and nuanced understanding of God's action in Scripture.
 
 ## Average Grade
-90.0
+91.0
 
 ## Grades
  * [90.0](./Translation_of__Elect__grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Translation_of__Elect__grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Translation_of__Elect__grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Translation_of__Elect__grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Translation_of__Elect__grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

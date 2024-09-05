@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Terminology](../../questions/Terminology.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Terminology](../../questions/Terminology.md)
 
 ## Question [Terminology](../../questions/Terminology.md)
 What are some alternative terms that can be used to describe a deacon?

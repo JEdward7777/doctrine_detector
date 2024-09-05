@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Understanding Discipleship](../../questions/Understanding_Discipleship.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Understanding Discipleship](../../questions/Understanding_Discipleship.md)
 
 ## Question [Understanding Discipleship](../../questions/Understanding_Discipleship.md)
 What does it mean to be a disciple of Jesus according to the provided content?
@@ -15,7 +15,11 @@ Understanding the definition and responsibilities of being a disciple.
 The provided text does not contain any content regarding the meaning of being a disciple of Jesus from a Muslim perspective, so I am unable to provide an answer from the provided context.
 
 ## Average Grade
-70.0
+60.0
 
 ## Grades
  * [70.0](./Understanding_Discipleship_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [40.0](./Understanding_Discipleship_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Understanding_Discipleship_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Understanding_Discipleship_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [50.0](./Understanding_Discipleship_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

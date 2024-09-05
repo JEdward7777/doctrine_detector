@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Understanding Evil](../../questions/Understanding_Evil.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Understanding Evil](../../questions/Understanding_Evil.md)
 
 ## Question [Understanding Evil](../../questions/Understanding_Evil.md)
 How does the Bible distinguish between 'evil' and 'wickedness' in terms of moral character and behavior?

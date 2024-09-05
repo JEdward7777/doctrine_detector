@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Cleansing Practices](../../questions/Cleansing_Practices.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Cleansing Practices](../../questions/Cleansing_Practices.md)
 
 ## Question [Cleansing Practices](../../questions/Cleansing_Practices.md)
 What practices might modern Christians adopt to reflect the Old Testament concept of ritual cleanliness?
@@ -25,7 +25,11 @@ While modern Christians don't need to follow the same ritual cleanliness practic
 Remember that these practices should not be seen as a means to earn God's favor or achieve salvation through good works. Rather, they can serve as reminders of our dependence on Jesus Christ and our desire to honor Him in all aspects of life.
 
 ## Average Grade
-95.0
+93.4
 
 ## Grades
  * [95.0](./Cleansing_Practices_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Cleansing_Practices_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Cleansing_Practices_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [92.0](./Cleansing_Practices_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Cleansing_Practices_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

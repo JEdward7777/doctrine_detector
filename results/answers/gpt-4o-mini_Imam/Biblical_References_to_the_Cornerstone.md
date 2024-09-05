@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Biblical References to the Cornerstone](../../questions/Biblical_References_to_the_Cornerstone.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Biblical References to the Cornerstone](../../questions/Biblical_References_to_the_Cornerstone.md)
 
 ## Question [Biblical References to the Cornerstone](../../questions/Biblical_References_to_the_Cornerstone.md)
 Which Bible verses specifically reference Jesus as the cornerstone, and what do they convey about His role?
@@ -25,7 +25,11 @@ In the Christian scriptures, several verses refer to Jesus as the cornerstone, h
 In summary, these verses convey that Jesus is the cornerstone of the faith—central to the structure of the Church and essential for true belief and salvation. His rejection by some highlights the paradox of His ultimate importance and the recognition of His role as foundational to the faith that Christians practice.
 
 ## Average Grade
-95.0
+91.0
 
 ## Grades
  * [95.0](./Biblical_References_to_the_Cornerstone_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Biblical_References_to_the_Cornerstone_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Biblical_References_to_the_Cornerstone_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Biblical_References_to_the_Cornerstone_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Biblical_References_to_the_Cornerstone_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

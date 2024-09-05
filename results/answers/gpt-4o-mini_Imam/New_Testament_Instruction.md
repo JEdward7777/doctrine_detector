@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [New Testament Instruction](../../questions/New_Testament_Instruction.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [New Testament Instruction](../../questions/New_Testament_Instruction.md)
 
 ## Question [New Testament Instruction](../../questions/New_Testament_Instruction.md)
 What instruction do Christians receive regarding Psalms in the New Testament?
@@ -25,7 +25,11 @@ In the New Testament, there are several references that acknowledge the signific
 In summary, while the New Testament does not give direct instructions about the Psalms, it acknowledges their significance in Christian worship, teaching, and reflection, affirming their role in the life of believers.
 
 ## Average Grade
-95.0
+90.0
 
 ## Grades
  * [95.0](./New_Testament_Instruction_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./New_Testament_Instruction_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./New_Testament_Instruction_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./New_Testament_Instruction_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./New_Testament_Instruction_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

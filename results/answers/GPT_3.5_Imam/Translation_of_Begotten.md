@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Translation of Begotten](../../questions/Translation_of_Begotten.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Translation of Begotten](../../questions/Translation_of_Begotten.md)
 
 ## Question [Translation of Begotten](../../questions/Translation_of_Begotten.md)
 How can the term 'begotten' be understood in relation to spiritual rebirth?
@@ -21,7 +21,11 @@ The Prophet Muhammad (peace be upon him) emphasized the importance of repentance
 Therefore, in the context of spiritual rebirth, the term 'begotten' can be understood as a symbolic expression of the transformative process of turning back to Allah, seeking forgiveness, and being spiritually reborn into a new life of faith and devotion.
 
 ## Average Grade
-85.0
+78.0
 
 ## Grades
  * [85.0](./Translation_of_Begotten_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Translation_of_Begotten_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [75.0](./Translation_of_Begotten_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Translation_of_Begotten_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Translation_of_Begotten_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

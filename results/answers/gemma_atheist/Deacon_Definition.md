@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma atheist](../../answering_models/gemma_atheist.md) answer to [Deacon Definition](../../questions/Deacon_Definition.md)
+# Generated Answer from [gemma atheist](../../answering_models/gemma_atheist.md) for [Deacon Definition](../../questions/Deacon_Definition.md)
 
 ## Question [Deacon Definition](../../questions/Deacon_Definition.md)
 What is the primary role of a deacon in the local church?
@@ -56,7 +56,11 @@ Understanding the biblical role of servanthood in the church.
 * Their actions should align with the values and teachings of the church.
 
 ## Average Grade
-60.0
+61.0
 
 ## Grades
  * [60.0](./Deacon_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [60.0](./Deacon_Definition_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [75.0](./Deacon_Definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Deacon_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [40.0](./Deacon_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

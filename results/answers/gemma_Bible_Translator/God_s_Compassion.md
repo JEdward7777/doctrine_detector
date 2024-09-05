@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [God's Compassion](../../questions/God_s_Compassion.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [God's Compassion](../../questions/God_s_Compassion.md)
 
 ## Question [God's Compassion](../../questions/God_s_Compassion.md)
 What does the Bible say about God's nature in relation to compassion?

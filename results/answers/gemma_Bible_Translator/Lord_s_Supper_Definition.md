@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Lord’s Supper Definition](../../questions/Lord_s_Supper_Definition.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Lord’s Supper Definition](../../questions/Lord_s_Supper_Definition.md)
 
 ## Question [Lord’s Supper Definition](../../questions/Lord_s_Supper_Definition.md)
 What significant event does the Lord’s Supper commemorate?
@@ -23,7 +23,11 @@ The event is significant because:
 * **It is a symbol of unity:** The sharing of the Lord's Supper unites believers in remembrance of Christ and strengthens their fellowship.
 
 ## Average Grade
-90.0
+85.0
 
 ## Grades
  * [90.0](./Lord_s_Supper_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Lord_s_Supper_Definition_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Lord_s_Supper_Definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Lord_s_Supper_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Lord_s_Supper_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Origin of the Term](../../questions/Origin_of_the_Term.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Origin of the Term](../../questions/Origin_of_the_Term.md)
 
 ## Question [Origin of the Term](../../questions/Origin_of_the_Term.md)
 Where were Jesus' followers first called 'Christians'?

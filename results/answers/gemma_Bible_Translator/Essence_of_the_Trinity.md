@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Essence of the Trinity](../../questions/Essence_of_the_Trinity.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Essence of the Trinity](../../questions/Essence_of_the_Trinity.md)
 
 ## Question [Essence of the Trinity](../../questions/Essence_of_the_Trinity.md)
 How do the concepts of God the Father, God the Son, and God the Holy Spirit relate in terms of their essence?
@@ -58,3 +58,7 @@ The essence of the Godhead is a complex and glorious mystery. While we may never
 
 ## Grades
  * [95.0](./Essence_of_the_Trinity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Essence_of_the_Trinity_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Essence_of_the_Trinity_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Essence_of_the_Trinity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Essence_of_the_Trinity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

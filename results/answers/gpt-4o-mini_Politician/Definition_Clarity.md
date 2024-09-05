@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) answer to [Definition Clarity](../../questions/Definition_Clarity.md)
+# Generated Answer from [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) for [Definition Clarity](../../questions/Definition_Clarity.md)
 
 ## Question [Definition Clarity](../../questions/Definition_Clarity.md)
 How is the term 'adultery' defined in the Christian context according to Scripture?
@@ -19,7 +19,11 @@ Additionally, Jesus expands on the understanding of adultery in the New Testamen
 Different Christian denominations may emphasize particular aspects of this definition, and interpretations can vary based on cultural and theological perspectives. However, the core idea remains focused on the commitment to marital faithfulness as a key element of a healthy and loving relationship in the eyes of the Christian faith.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Definition_Clarity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Definition_Clarity_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Definition_Clarity_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Definition_Clarity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Definition_Clarity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

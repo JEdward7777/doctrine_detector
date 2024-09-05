@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Understanding Propitiation](../../questions/Understanding_Propitiation.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Understanding Propitiation](../../questions/Understanding_Propitiation.md)
 
 ## Question [Understanding Propitiation](../../questions/Understanding_Propitiation.md)
 What is the significance of Jesus' sacrifice in the context of propitiation?
@@ -23,7 +23,11 @@ According to Islamic tradition, Jesus (peace be upon him) was taken up to the he
 In summary, in Islamic perspective, Jesus' sacrifice has no direct connection to propitiation or atonement for human sins. Instead, it is seen as a test of his faith, a demonstration of his love for Allah, and an affirmation of his prophethood.
 
 ## Average Grade
-50.0
+33.0
 
 ## Grades
  * [50.0](./Understanding_Propitiation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [25.0](./Understanding_Propitiation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [30.0](./Understanding_Propitiation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [20.0](./Understanding_Propitiation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [40.0](./Understanding_Propitiation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

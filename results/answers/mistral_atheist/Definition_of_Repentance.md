@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral atheist](../../answering_models/mistral_atheist.md) answer to [Definition of Repentance](../../questions/Definition_of_Repentance.md)
+# Generated Answer from [mistral atheist](../../answering_models/mistral_atheist.md) for [Definition of Repentance](../../questions/Definition_of_Repentance.md)
 
 ## Question [Definition of Repentance](../../questions/Definition_of_Repentance.md)
 What does it mean to repent according to the Bible?
@@ -21,7 +21,11 @@ Repentance is emphasized throughout the Bible, particularly in the Old Testament
 In summary, to repent according to the Bible means to acknowledge one's sinful behavior, express remorse or sorrow for it, and make a commitment to turn away from those actions and live a life in accordance with God's will.
 
 ## Average Grade
-95.0
+91.0
 
 ## Grades
  * [95.0](./Definition_of_Repentance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Definition_of_Repentance_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Definition_of_Repentance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Definition_of_Repentance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Definition_of_Repentance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

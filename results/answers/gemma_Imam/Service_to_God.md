@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Service to God](../../questions/Service_to_God.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Service to God](../../questions/Service_to_God.md)
 
 ## Question [Service to God](../../questions/Service_to_God.md)
 In what ways can Christians serve God in their ministry according to the text?
@@ -50,7 +50,11 @@ Clarifying actionable ways to engage in ministry helps Christians to live out th
 * Christians can engage in spiritual practices that deepen their connection to God and enable them to serve him better.
 
 ## Average Grade
-90.0
+82.0
 
 ## Grades
  * [90.0](./Service_to_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Service_to_God_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Service_to_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Service_to_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Service_to_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

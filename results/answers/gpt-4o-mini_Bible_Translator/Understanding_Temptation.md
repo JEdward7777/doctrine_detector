@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) answer to [Understanding Temptation](../../questions/Understanding_Temptation.md)
+# Generated Answer from [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) for [Understanding Temptation](../../questions/Understanding_Temptation.md)
 
 ## Question [Understanding Temptation](../../questions/Understanding_Temptation.md)
 What strategies did Jesus use to resist the temptations presented by Satan?
@@ -29,7 +29,11 @@ Jesus employed several strategies to resist the temptations presented by Satan d
 In summary, Jesus resisted temptation by utilizing Scripture, remaining faithful to His mission, maintaining a close relationship with God, recognizing the nature of the temptations, relying on the Holy Spirit, and preparing Himself through fasting. These strategies are valuable for Christians who face temptation in their own lives.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Understanding_Temptation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Understanding_Temptation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Understanding_Temptation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Understanding_Temptation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_Temptation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

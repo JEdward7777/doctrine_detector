@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Biblical References 5](../../questions/Biblical_References_5.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Biblical References 5](../../questions/Biblical_References_5.md)
 
 ## Question [Biblical References 5](../../questions/Biblical_References_5.md)
 Which New Testament scripture connects the concept of unleavened bread to Christian teachings?
@@ -21,7 +21,11 @@ In the context of the Feast of Unleavened Bread, 1 Corinthians 5:6-8 also highli
 These references illustrate how the concept of unleavened bread connects to Christian teachings, emphasizing themes of sacrifice, remembrance, and spiritual cleansing.
 
 ## Average Grade
-90.0
+89.0
 
 ## Grades
  * [90.0](./Biblical_References_5_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Biblical_References_5_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Biblical_References_5_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Biblical_References_5_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Biblical_References_5_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

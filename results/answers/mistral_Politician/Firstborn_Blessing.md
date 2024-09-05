@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Politician](../../answering_models/mistral_Politician.md) answer to [Firstborn Blessing](../../questions/Firstborn_Blessing.md)
+# Generated Answer from [mistral Politician](../../answering_models/mistral_Politician.md) for [Firstborn Blessing](../../questions/Firstborn_Blessing.md)
 
 ## Question [Firstborn Blessing](../../questions/Firstborn_Blessing.md)
 In what ways can the concept of birthright as described in the Bible be applied to understanding one's role or status within a Christian family?
@@ -23,7 +23,11 @@ In a modern context, it's essential to promote equality, respect, and fairness a
 Furthermore, it's important to recognize that interpretations and applications of religious texts can vary widely among different communities and individuals. Encouraging open dialogue, mutual respect, and tolerance for diverse perspectives will help ensure that our understanding of religious concepts remains inclusive, fair, and meaningful in the context of modern society.
 
 ## Average Grade
-90.0
+84.6
 
 ## Grades
  * [90.0](./Firstborn_Blessing_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [88.0](./Firstborn_Blessing_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Firstborn_Blessing_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Firstborn_Blessing_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Firstborn_Blessing_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

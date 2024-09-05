@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Understanding Eternal Life](../../questions/Understanding_Eternal_Life.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Understanding Eternal Life](../../questions/Understanding_Eternal_Life.md)
 
 ## Question [Understanding Eternal Life](../../questions/Understanding_Eternal_Life.md)
 What does the Bible teach about inheriting eternal life?

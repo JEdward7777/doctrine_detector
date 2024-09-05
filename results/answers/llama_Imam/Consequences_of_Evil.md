@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Consequences of Evil](../../questions/Consequences_of_Evil.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Consequences of Evil](../../questions/Consequences_of_Evil.md)
 
 ## Question [Consequences of Evil](../../questions/Consequences_of_Evil.md)
 What are the consequences of evil as illustrated in the biblical references provided?
@@ -42,7 +42,11 @@ While there are differences in the way evil is portrayed in Islamic and biblical
 As a Muslim Imam, I emphasize that it's crucial to understand the nature of evil and its consequences within the context of one's own faith tradition.
 
 ## Average Grade
-85.0
+84.0
 
 ## Grades
  * [85.0](./Consequences_of_Evil_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Consequences_of_Evil_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Consequences_of_Evil_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Consequences_of_Evil_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Consequences_of_Evil_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Understanding the Elect](../../questions/Understanding_the_Elect.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Understanding the Elect](../../questions/Understanding_the_Elect.md)
 
 ## Question [Understanding the Elect](../../questions/Understanding_the_Elect.md)
 What does it mean to be part of the 'elect' or 'chosen ones' according to the Bible?
@@ -23,7 +23,11 @@ It is important to note that the concept of being "elect" or "chosen" does not i
 Ultimately, being part of the "elect" or "chosen ones" is a testament to God's love, mercy, and plan for His people, and it serves as a reminder of the importance of living a life that is dedicated to following Him.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Understanding_the_Elect_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Understanding_the_Elect_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Understanding_the_Elect_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Understanding_the_Elect_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Understanding_the_Elect_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

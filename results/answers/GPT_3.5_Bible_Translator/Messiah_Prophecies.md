@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Messiah Prophecies](../../questions/Messiah_Prophecies.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Messiah Prophecies](../../questions/Messiah_Prophecies.md)
 
 ## Question [Messiah Prophecies](../../questions/Messiah_Prophecies.md)
 What are some of the prophecies about the Messiah mentioned in the Old Testament, and how did Jesus fulfill them?
@@ -27,7 +27,11 @@ There are many prophecies in the Old Testament that point to Jesus as the Messia
 These are just a few examples of the many prophecies in the Old Testament that point to Jesus as the Messiah. Jesus fulfilled these prophecies through His life, death, and resurrection, confirming His identity as the Savior of the world.
 
 ## Average Grade
-90.0
+89.0
 
 ## Grades
  * [90.0](./Messiah_Prophecies_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Messiah_Prophecies_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Messiah_Prophecies_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Messiah_Prophecies_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Messiah_Prophecies_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

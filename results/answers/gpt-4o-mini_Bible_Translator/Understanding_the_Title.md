@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) answer to [Understanding the Title](../../questions/Understanding_the_Title.md)
+# Generated Answer from [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) for [Understanding the Title](../../questions/Understanding_the_Title.md)
 
 ## Question [Understanding the Title](../../questions/Understanding_the_Title.md)
 What does the title 'Son of Man' signify in the context of Jesus' identity?
@@ -25,7 +25,11 @@ The title "Son of Man" is significant in the context of Jesus' identity for seve
 In summary, the title "Son of Man" encapsulates Jesus' identity as both divine and human, His role as the Messiah who suffers, and His prophetic office that encompasses authority and eschatological significance. It draws from Hebrew scriptures and deepens the understanding of His mission and relationship to humanity.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Understanding_the_Title_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Understanding_the_Title_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Understanding_the_Title_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Understanding_the_Title_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_the_Title_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

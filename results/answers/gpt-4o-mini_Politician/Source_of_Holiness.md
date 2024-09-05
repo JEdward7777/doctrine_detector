@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) answer to [Source of Holiness](../../questions/Source_of_Holiness.md)
+# Generated Answer from [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) for [Source of Holiness](../../questions/Source_of_Holiness.md)
 
 ## Question [Source of Holiness](../../questions/Source_of_Holiness.md)
 How do believers become saints according to the Christian faith?
@@ -27,7 +27,11 @@ In the Christian faith, the process of becoming a saint can vary among different
 This approach emphasizes a respectful and inclusive understanding of holiness and the aspiration to lead a life in accordance with one's beliefs.
 
 ## Average Grade
-90.0
+91.0
 
 ## Grades
  * [90.0](./Source_of_Holiness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Source_of_Holiness_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Source_of_Holiness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Source_of_Holiness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Source_of_Holiness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

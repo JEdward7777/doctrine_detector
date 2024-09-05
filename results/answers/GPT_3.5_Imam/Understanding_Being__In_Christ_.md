@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Understanding Being 'In Christ'](../../questions/Understanding_Being__In_Christ_.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Understanding Being 'In Christ'](../../questions/Understanding_Being__In_Christ_.md)
 
 ## Question [Understanding Being 'In Christ'](../../questions/Understanding_Being__In_Christ_.md)
 What does it mean to be 'in Christ' according to Christian theology?
@@ -21,7 +21,11 @@ While the concept of being "in Christ" may not have a direct equivalent in Islam
 Ultimately, the focus in Islam is on developing a deep and meaningful relationship with Allah based on faith, devotion, and obedience to His commandments, rather than being "in Christ" as understood in Christian theology.
 
 ## Average Grade
-80.0
+84.0
 
 ## Grades
  * [80.0](./Understanding_Being__In_Christ__grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Understanding_Being__In_Christ__grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Understanding_Being__In_Christ__grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Understanding_Being__In_Christ__grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Understanding_Being__In_Christ__grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

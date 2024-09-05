@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Healing Through Jesus](../../questions/Healing_Through_Jesus.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Healing Through Jesus](../../questions/Healing_Through_Jesus.md)
 
 ## Question [Healing Through Jesus](../../questions/Healing_Through_Jesus.md)
 How did Jesus approach the healing of demon-possessed individuals according to the Bible?
@@ -25,7 +25,11 @@ In the Bible, Jesus is depicted as having a compassionate and authoritative appr
 This compassionate and authoritative approach emphasizes not only the power of Jesus but also his mission to bring healing and restoration to all people.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Healing_Through_Jesus_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Healing_Through_Jesus_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Healing_Through_Jesus_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Healing_Through_Jesus_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Healing_Through_Jesus_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

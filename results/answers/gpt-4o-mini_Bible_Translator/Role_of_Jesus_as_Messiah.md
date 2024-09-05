@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) answer to [Role of Jesus as Messiah](../../questions/Role_of_Jesus_as_Messiah.md)
+# Generated Answer from [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) for [Role of Jesus as Messiah](../../questions/Role_of_Jesus_as_Messiah.md)
 
 ## Question [Role of Jesus as Messiah](../../questions/Role_of_Jesus_as_Messiah.md)
 How does the concept of the kingdom relate to Jesus' role as the Messiah?
@@ -27,7 +27,11 @@ The concept of the kingdom is central to understanding Jesus' role as the Messia
 In summary, Jesus' role as the Messiah is intricately connected to the concept of the kingdom. He embodies the kingly authority of God, inaugurates the reign of God through His life and work, and invites all to be part of this both now and in the future.
 
 ## Average Grade
-95.0
+94.0
 
 ## Grades
  * [95.0](./Role_of_Jesus_as_Messiah_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Role_of_Jesus_as_Messiah_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Role_of_Jesus_as_Messiah_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Role_of_Jesus_as_Messiah_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Role_of_Jesus_as_Messiah_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

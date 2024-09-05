@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Local Church Meetings](../../questions/Local_Church_Meetings.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Local Church Meetings](../../questions/Local_Church_Meetings.md)
 
 ## Question [Local Church Meetings](../../questions/Local_Church_Meetings.md)
 How did the believers in a particular city typically meet according to the church content?
@@ -23,7 +23,11 @@ It's also important to acknowledge that these community meetings might have invo
 In essence, our sacred texts suggest that these community gatherings were a vital part of people's lives, providing a sense of belonging, comfort, and connection with one another. By framing it in this way, we can appreciate the significance of these meetings without perpetuating any harmful stereotypes or biases.
 
 ## Average Grade
-60.0
+72.4
 
 ## Grades
  * [60.0](./Local_Church_Meetings_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [65.0](./Local_Church_Meetings_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Local_Church_Meetings_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [75.0](./Local_Church_Meetings_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [92.0](./Local_Church_Meetings_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

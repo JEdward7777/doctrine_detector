@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [God's Name](../../questions/God_s_Name.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [God's Name](../../questions/God_s_Name.md)
 
 ## Question [God's Name](../../questions/God_s_Name.md)
 What is the significance of God's name 'Yahweh' as revealed in the Bible?
@@ -25,7 +25,11 @@ While the name Yahweh is specific to the Jewish and Christian traditions, Muslim
 In conclusion, while the name Yahweh has significance within the Jewish and Christian traditions, Muslims recognize its importance as a testament to God's unity and transcendence. As we honor the prophets and messengers of Allah, we also acknowledge the unique role that each tradition plays in conveying the divine message to humanity.
 
 ## Average Grade
-85.0
+84.0
 
 ## Grades
  * [85.0](./God_s_Name_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./God_s_Name_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./God_s_Name_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./God_s_Name_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./God_s_Name_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Understanding God's Calling](../../questions/Understanding_God_s_Calling.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Understanding God's Calling](../../questions/Understanding_God_s_Calling.md)
 
 ## Question [Understanding God's Calling](../../questions/Understanding_God_s_Calling.md)
 What does it mean for Christians to know they are 'called' by God?
@@ -44,7 +44,11 @@ The concept of being "called" by God is central to both Islam and Christianity. 
 The concept of being "called" by God is a shared belief between Muslims and Christians, although it may be expressed differently in their respective traditions. Both faiths recognize the divine origin of this call and believe that it is a pivotal moment in spiritual growth and purpose.
 
 ## Average Grade
-90.0
+88.0
 
 ## Grades
  * [90.0](./Understanding_God_s_Calling_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Understanding_God_s_Calling_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Understanding_God_s_Calling_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Understanding_God_s_Calling_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_God_s_Calling_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

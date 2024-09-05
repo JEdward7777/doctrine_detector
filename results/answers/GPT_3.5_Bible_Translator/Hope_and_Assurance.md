@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Hope and Assurance](../../questions/Hope_and_Assurance.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Hope and Assurance](../../questions/Hope_and_Assurance.md)
 
 ## Question [Hope and Assurance](../../questions/Hope_and_Assurance.md)
 What is the significance of having no hope according to biblical references?
@@ -21,7 +21,11 @@ However, the message of the Bible is one of hope and redemption. Christians are 
 Ultimately, the Christian faith teaches that even in moments of darkness and despair, there is always hope to be found in God's love, grace, and faithfulness. The absence of hope is a reminder of the brokenness and fallen nature of the world, but through faith in Christ, believers can find true and enduring hope that transcends all circumstances.
 
 ## Average Grade
-95.0
+91.0
 
 ## Grades
  * [95.0](./Hope_and_Assurance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Hope_and_Assurance_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Hope_and_Assurance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Hope_and_Assurance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Hope_and_Assurance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

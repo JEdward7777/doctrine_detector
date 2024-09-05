@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [Being Gracious](../../questions/Being_Gracious.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [Being Gracious](../../questions/Being_Gracious.md)
 
 ## Question [Being Gracious](../../questions/Being_Gracious.md)
 How is the term 'gracious' defined and what does it imply about our interactions with others?
@@ -29,7 +29,11 @@ In interactions, being gracious can mean several things:
 Overall, graciousness enriches social interactions by cultivating a culture of empathy and understanding, leading to more meaningful and harmonious relationships. This concept transcends cultural boundaries, as many societies value the principles of kindness and respect in interpersonal dynamics.
 
 ## Average Grade
-90.0
+81.0
 
 ## Grades
  * [90.0](./Being_Gracious_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Being_Gracious_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Being_Gracious_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [75.0](./Being_Gracious_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Being_Gracious_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

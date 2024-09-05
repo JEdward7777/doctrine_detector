@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Definition of Church](../../questions/Definition_of_Church.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Definition of Church](../../questions/Definition_of_Church.md)
 
 ## Question [Definition of Church](../../questions/Definition_of_Church.md)
 What does the term 'church' refer to in the New Testament?
@@ -27,7 +27,11 @@ Some notable aspects of the church in the New Testament include:
 While these concepts are fundamental to Christianity, it is important to note that the Islamic perspective acknowledges the significance of community and worship among different faiths, emphasizing respect and understanding towards the beliefs and practices of others.
 
 ## Average Grade
-85.0
+80.0
 
 ## Grades
  * [85.0](./Definition_of_Church_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Definition_of_Church_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Definition_of_Church_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Definition_of_Church_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Definition_of_Church_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

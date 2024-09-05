@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Understanding Purification](../../questions/Understanding_Purification.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Understanding Purification](../../questions/Understanding_Purification.md)
 
 ## Question [Understanding Purification](../../questions/Understanding_Purification.md)
 What is the significance of purification in the context of Old Testament laws?

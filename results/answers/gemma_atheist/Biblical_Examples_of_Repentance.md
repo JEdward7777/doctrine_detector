@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma atheist](../../answering_models/gemma_atheist.md) answer to [Biblical Examples of Repentance](../../questions/Biblical_Examples_of_Repentance.md)
+# Generated Answer from [gemma atheist](../../answering_models/gemma_atheist.md) for [Biblical Examples of Repentance](../../questions/Biblical_Examples_of_Repentance.md)
 
 ## Question [Biblical Examples of Repentance](../../questions/Biblical_Examples_of_Repentance.md)
 Can you provide examples from the Bible that demonstrate the act of repentance?
@@ -52,7 +52,11 @@ While I do not adhere to religious beliefs, studying scripture can offer valuabl
 While these examples demonstrate the act of repentance in the Bible, it's important to approach scripture critically and consider the cultural and historical frameworks in which these events occurred.
 
 ## Average Grade
-70.0
+63.0
 
 ## Grades
  * [70.0](./Biblical_Examples_of_Repentance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [60.0](./Biblical_Examples_of_Repentance_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [40.0](./Biblical_Examples_of_Repentance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [75.0](./Biblical_Examples_of_Repentance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [70.0](./Biblical_Examples_of_Repentance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

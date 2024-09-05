@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) answer to [Understanding Bonds](../../questions/Understanding_Bonds.md)
+# Generated Answer from [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) for [Understanding Bonds](../../questions/Understanding_Bonds.md)
 
 ## Question [Understanding Bonds](../../questions/Understanding_Bonds.md)
 How does the Biblical concept of 'bonds' relate to our spiritual obligations and our relationship with God?
@@ -19,7 +19,11 @@ From a broadly inclusive standpoint, the concept of "bonds" in the Bible can sym
 It is crucial to acknowledge that interpretations of religious texts are deeply personal and can vary greatly based on individual beliefs and experiences. As a politician, I aim to honor and respect the diversity of interpretations and perspectives on spiritual matters, recognizing that each individual has the right to their own beliefs and practices.
 
 ## Average Grade
-75.0
+76.0
 
 ## Grades
  * [75.0](./Understanding_Bonds_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Understanding_Bonds_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Understanding_Bonds_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Understanding_Bonds_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_Bonds_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

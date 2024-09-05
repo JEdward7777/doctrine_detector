@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [God's Jealousy](../../questions/God_s_Jealousy.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [God's Jealousy](../../questions/God_s_Jealousy.md)
 
 ## Question [God's Jealousy](../../questions/God_s_Jealousy.md)
 What does it mean when the Bible describes God as 'jealous'?
@@ -25,7 +25,11 @@ In both cases, God's jealousy is not about controlling people or demanding absol
 As Christians, we must understand that God's jealousy is not a negative emotion, but rather an expression of His deep love and commitment to us as His people. It's a reminder that our ultimate allegiance belongs to Him alone, and that any compromise or division of our hearts will be seen by Him as a betrayal.
 
 ## Average Grade
-95.0
+94.0
 
 ## Grades
  * [95.0](./God_s_Jealousy_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./God_s_Jealousy_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./God_s_Jealousy_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./God_s_Jealousy_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./God_s_Jealousy_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

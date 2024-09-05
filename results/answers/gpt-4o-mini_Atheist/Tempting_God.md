@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [Tempting God](../../questions/Tempting_God.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [Tempting God](../../questions/Tempting_God.md)
 
 ## Question [Tempting God](../../questions/Tempting_God.md)
 What does it mean to 'tempt God' and how can this behavior lead to consequences according to Biblical teaching?
@@ -21,7 +21,11 @@ Consequences of tempting God can include spiritual, communal, or even physical r
 Overall, the concept serves as a caution against a transactional relationship with the divine, encouraging believers to approach their faith with humility, reverence, and trust, rather than testing God’s limits or intentions.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Tempting_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Tempting_God_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Tempting_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Tempting_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Tempting_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

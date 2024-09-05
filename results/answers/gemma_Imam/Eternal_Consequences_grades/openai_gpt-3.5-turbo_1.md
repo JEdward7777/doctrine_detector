@@ -1,17 +1,17 @@
 
 [Index](../../../../index.md)
-## [openai_gpt-3.5-turbo_1](../../../grading_models/openai_gpt-3.5-turbo_1.md) grade of [gemma Imam](../../../answering_models/gemma_Imam.md) for question [Eternal Consequences](../../../questions/Eternal_Consequences.md)
+# Grade of [openai_gpt-3.5-turbo_1](../../../grading_models/openai_gpt-3.5-turbo_1.md) for model [gemma Imam](../../../answering_models/gemma_Imam.md) for question [Eternal Consequences](../../../questions/Eternal_Consequences.md)
 
-# Question [Eternal Consequences](../../../questions/Eternal_Consequences.md)
+## Question [Eternal Consequences](../../../questions/Eternal_Consequences.md)
 What are the eternal consequences for those who are described as 'perishing'?
 
-# Correct Answer
+## Correct Answer
 Those who perish will not live eternally with God in heaven; instead, they will face eternal punishment in hell.
 
-# Stated Concern
+## Stated Concern
 Understanding the seriousness of eternal separation from God.
 
-# Answer by [gemma Imam](../../../answering_models/gemma_Imam.md)
+## [Answer](../Eternal_Consequences.md) by [gemma Imam](../../../answering_models/gemma_Imam.md)
 **The eternal consequences for those described as 'perishing' in Islamic belief are separation from Allah and eternal punishment in the Hellfire.**
 
 The Quran and Sunnah clearly teach that those who die disbelieving or disobedient to Allah will face severe punishment in the afterlife.
@@ -32,10 +32,10 @@ The Quran and Sunnah clearly teach that those who die disbelieving or disobedien
 
 **The Islamic belief in the afterlife emphasizes the importance of faith, good deeds, and repentance in achieving eternal salvation.**
 
-# Grade by [openai_gpt-3.5-turbo_1](../../../grading_models/openai_gpt-3.5-turbo_1.md)
+## Grade by [openai_gpt-3.5-turbo_1](../../../grading_models/openai_gpt-3.5-turbo_1.md)
 95.0
 
-# Comment by [openai_gpt-3.5-turbo_1](../../../grading_models/openai_gpt-3.5-turbo_1.md)
+## Comment by [openai_gpt-3.5-turbo_1](../../../grading_models/openai_gpt-3.5-turbo_1.md)
 Grade: 95
 
 Comment: This response effectively addresses the concern about the seriousness of eternal separation from God by providing detailed explanations from an Islamic perspective. The integration of Quranic verses, Hadiths, and descriptions of the punishment in Hellfire adds depth to the explanation. The response demonstrates a clear understanding of the doctrine surrounding eternal consequences in Islamic belief.

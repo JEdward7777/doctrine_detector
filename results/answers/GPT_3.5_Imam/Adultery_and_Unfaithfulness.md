@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Adultery and Unfaithfulness](../../questions/Adultery_and_Unfaithfulness.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Adultery and Unfaithfulness](../../questions/Adultery_and_Unfaithfulness.md)
 
 ## Question [Adultery and Unfaithfulness](../../questions/Adultery_and_Unfaithfulness.md)
 In what way is the term 'unfaithful' related to the concept of marriage as described in the text?
@@ -19,7 +19,11 @@ The Quran emphasizes the importance of fidelity in marriage, stating, "And do no
 Therefore, in the context of marriage as described in Islamic texts, being unfaithful contradicts the principles of loyalty, trust, and commitment that are essential for a successful and fulfilling marriage. Muslims are encouraged to honor their marriage vows, fulfill their responsibilities towards their spouses, and avoid actions that could harm the bond of marriage.
 
 ## Average Grade
-95.0
+87.0
 
 ## Grades
  * [95.0](./Adultery_and_Unfaithfulness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Adultery_and_Unfaithfulness_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Adultery_and_Unfaithfulness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Adultery_and_Unfaithfulness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Adultery_and_Unfaithfulness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

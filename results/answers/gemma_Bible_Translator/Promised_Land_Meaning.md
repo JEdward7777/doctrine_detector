@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Promised Land Meaning](../../questions/Promised_Land_Meaning.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Promised Land Meaning](../../questions/Promised_Land_Meaning.md)
 
 ## Question [Promised Land Meaning](../../questions/Promised_Land_Meaning.md)
 What does the term 'Promised Land' signify in the context of God's covenant with Abraham?
@@ -34,7 +34,11 @@ The Bible describes this land as:
 **Therefore, the term "Promised Land" encompasses both the physical land God gave to Abraham and the spiritual blessings and eternal home God offers to his people through Christ.**
 
 ## Average Grade
-95.0
+94.0
 
 ## Grades
  * [95.0](./Promised_Land_Meaning_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Promised_Land_Meaning_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Promised_Land_Meaning_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Promised_Land_Meaning_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Promised_Land_Meaning_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Healing Through Jesus](../../questions/Healing_Through_Jesus.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Healing Through Jesus](../../questions/Healing_Through_Jesus.md)
 
 ## Question [Healing Through Jesus](../../questions/Healing_Through_Jesus.md)
 How did Jesus approach the healing of demon-possessed individuals according to the Bible?
@@ -32,7 +32,11 @@ In these cases, Jesus demonstrated his authority over the forces of evil and his
 As Muslims, we believe that Jesus was a noble prophet who preached the message of Tawhid (the Oneness of Allah) and called people to worship one God. While our understanding of his miracles might differ from those of Christians, we acknowledge his role as a messenger of Allah and his efforts to guide humanity towards the path of righteousness.
 
 ## Average Grade
-80.0
+86.0
 
 ## Grades
  * [80.0](./Healing_Through_Jesus_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Healing_Through_Jesus_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Healing_Through_Jesus_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Healing_Through_Jesus_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Healing_Through_Jesus_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

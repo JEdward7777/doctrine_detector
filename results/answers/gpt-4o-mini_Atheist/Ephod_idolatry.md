@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [Ephod idolatry](../../questions/Ephod_idolatry.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [Ephod idolatry](../../questions/Ephod_idolatry.md)
 
 ## Question [Ephod idolatry](../../questions/Ephod_idolatry.md)
 What lesson can be learned from Gideon's creation of a gold ephod and the subsequent idolatry of the Israelites?
@@ -27,7 +27,11 @@ The story of Gideon, particularly his creation of a gold ephod and the ensuing i
 Overall, the story prompts us to critically evaluate how artifacts of faith, leadership dynamics, and cultural practices interplay in shaping beliefs and behaviors in any society.
 
 ## Average Grade
-85.0
+84.0
 
 ## Grades
  * [85.0](./Ephod_idolatry_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Ephod_idolatry_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Ephod_idolatry_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Ephod_idolatry_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Ephod_idolatry_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Nature of Hell](../../questions/Nature_of_Hell.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Nature of Hell](../../questions/Nature_of_Hell.md)
 
 ## Question [Nature of Hell](../../questions/Nature_of_Hell.md)
 What does the Bible say about the nature and experience of hell?

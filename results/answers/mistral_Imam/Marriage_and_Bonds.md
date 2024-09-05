@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Marriage and Bonds](../../questions/Marriage_and_Bonds.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Marriage and Bonds](../../questions/Marriage_and_Bonds.md)
 
 ## Question [Marriage and Bonds](../../questions/Marriage_and_Bonds.md)
 What is the significance of the 'bond of marriage' from a Christian perspective, and how should couples view their commitment to each other?
@@ -21,7 +21,11 @@ In terms of how couples should view their commitment, Christian teachings emphas
 While the terminology might differ slightly from Islamic teachings, the core values of lifelong commitment, mutual respect, love, and service remain consistent across both religions.
 
 ## Average Grade
-90.0
+92.0
 
 ## Grades
  * [90.0](./Marriage_and_Bonds_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Marriage_and_Bonds_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Marriage_and_Bonds_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Marriage_and_Bonds_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Marriage_and_Bonds_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

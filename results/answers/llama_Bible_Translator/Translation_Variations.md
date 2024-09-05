@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Translation Variations](../../questions/Translation_Variations.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Translation Variations](../../questions/Translation_Variations.md)
 
 ## Question [Translation Variations](../../questions/Translation_Variations.md)
 What are some alternative translations for 'covenant faithfulness'?
@@ -28,7 +28,11 @@ As a Christian Bible translator, I'd like to offer some alternative translations
 These alternative translations aim to convey the essence of covenant faithfulness while accurately reflecting Christian theological truth.
 
 ## Average Grade
-90.0
+89.0
 
 ## Grades
  * [90.0](./Translation_Variations_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Translation_Variations_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Translation_Variations_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Translation_Variations_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Translation_Variations_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

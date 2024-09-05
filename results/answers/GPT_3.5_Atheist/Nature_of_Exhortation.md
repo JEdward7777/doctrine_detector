@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Nature of Exhortation](../../questions/Nature_of_Exhortation.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Nature of Exhortation](../../questions/Nature_of_Exhortation.md)
 
 ## Question [Nature of Exhortation](../../questions/Nature_of_Exhortation.md)
 How should Christians approach exhortation according to the teachings of the New Testament?
@@ -21,7 +21,11 @@ From a cultural standpoint, exhortation can be seen as a way for individuals wit
 Overall, the approach to exhortation in the New Testament emphasizes the importance of mutual support and encouragement within the Christian community, as a means of strengthening individual faith and promoting collective well-being.
 
 ## Average Grade
-60.0
+75.0
 
 ## Grades
  * [60.0](./Nature_of_Exhortation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Nature_of_Exhortation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Nature_of_Exhortation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Nature_of_Exhortation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Nature_of_Exhortation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

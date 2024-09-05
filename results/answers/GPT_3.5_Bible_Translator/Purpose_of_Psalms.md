@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Purpose of Psalms](../../questions/Purpose_of_Psalms.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Purpose of Psalms](../../questions/Purpose_of_Psalms.md)
 
 ## Question [Purpose of Psalms](../../questions/Purpose_of_Psalms.md)
 What role did the Psalms play in the worship practices of the nation of Israel?
@@ -21,7 +21,11 @@ Many of the Psalms were written by King David and other psalmists, who poured ou
 Overall, the Psalms played a crucial role in shaping the worship practices of the nation of Israel, serving as a guide for prayer, meditation, and praise to God.
 
 ## Average Grade
-95.0
+90.0
 
 ## Grades
  * [95.0](./Purpose_of_Psalms_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Purpose_of_Psalms_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Purpose_of_Psalms_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Purpose_of_Psalms_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Purpose_of_Psalms_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Interpreting Divine Glory](../../questions/Interpreting_Divine_Glory.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Interpreting Divine Glory](../../questions/Interpreting_Divine_Glory.md)
 
 ## Question [Interpreting Divine Glory](../../questions/Interpreting_Divine_Glory.md)
 How can 'divine glory' be understood in the context of worship?
@@ -19,7 +19,11 @@ Through our worship, we are constantly reminding ourselves of Allah's perfection
 It is important for Muslims to understand that our worship should be sincere and done with the intention of seeking the pleasure of Allah, not for show or to gain praise from others. When we worship with humility and sincerity, we are truly acknowledging the divine glory of Allah and strengthening our bond with Him.
 
 ## Average Grade
-90.0
+81.0
 
 ## Grades
  * [90.0](./Interpreting_Divine_Glory_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Interpreting_Divine_Glory_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [65.0](./Interpreting_Divine_Glory_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Interpreting_Divine_Glory_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Interpreting_Divine_Glory_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

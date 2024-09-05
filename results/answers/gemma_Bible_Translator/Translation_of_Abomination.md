@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Translation of Abomination](../../questions/Translation_of_Abomination.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Translation of Abomination](../../questions/Translation_of_Abomination.md)
 
 ## Question [Translation of Abomination](../../questions/Translation_of_Abomination.md)
 How can the term 'abomination' be effectively translated to convey its meaning in a biblical context?

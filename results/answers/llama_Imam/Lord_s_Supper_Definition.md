@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Lord’s Supper Definition](../../questions/Lord_s_Supper_Definition.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Lord’s Supper Definition](../../questions/Lord_s_Supper_Definition.md)
 
 ## Question [Lord’s Supper Definition](../../questions/Lord_s_Supper_Definition.md)
 What significant event does the Lord’s Supper commemorate?
@@ -23,7 +23,11 @@ In Islam, we do not have a specific event or ritual that is equivalent to the Lo
 May Allah guide us on our spiritual journeys.
 
 ## Average Grade
-60.0
+59.0
 
 ## Grades
  * [60.0](./Lord_s_Supper_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Lord_s_Supper_Definition_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Lord_s_Supper_Definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [20.0](./Lord_s_Supper_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Lord_s_Supper_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

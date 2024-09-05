@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Symbolism of the Cornerstone](../../questions/Symbolism_of_the_Cornerstone.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Symbolism of the Cornerstone](../../questions/Symbolism_of_the_Cornerstone.md)
 
 ## Question [Symbolism of the Cornerstone](../../questions/Symbolism_of_the_Cornerstone.md)
 In what ways does the metaphor of the cornerstone illustrate the relationship between Jesus and His followers?
@@ -31,3 +31,7 @@ In conclusion, the metaphor of the cornerstone beautifully illustrates the vital
 
 ## Grades
  * [95.0](./Symbolism_of_the_Cornerstone_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Symbolism_of_the_Cornerstone_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Symbolism_of_the_Cornerstone_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Symbolism_of_the_Cornerstone_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Symbolism_of_the_Cornerstone_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

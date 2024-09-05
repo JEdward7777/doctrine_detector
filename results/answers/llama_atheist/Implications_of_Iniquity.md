@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Implications of Iniquity](../../questions/Implications_of_Iniquity.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Implications of Iniquity](../../questions/Implications_of_Iniquity.md)
 
 ## Question [Implications of Iniquity](../../questions/Implications_of_Iniquity.md)
 How does the understanding of iniquity as 'harmful acts' influence a Christian's behavior toward others?
@@ -29,3 +29,7 @@ It's essential to note that these influences might vary depending on individual 
 
 ## Grades
  * [85.0](./Implications_of_Iniquity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Implications_of_Iniquity_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Implications_of_Iniquity_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Implications_of_Iniquity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Implications_of_Iniquity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

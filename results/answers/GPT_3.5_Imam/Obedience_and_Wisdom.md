@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Obedience and Wisdom](../../questions/Obedience_and_Wisdom.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Obedience and Wisdom](../../questions/Obedience_and_Wisdom.md)
 
 ## Question [Obedience and Wisdom](../../questions/Obedience_and_Wisdom.md)
 How does listening to God connect to becoming wise?
@@ -21,7 +21,11 @@ Furthermore, through prayer and meditation, Muslims can seek Allah's guidance an
 Ultimately, the practice of listening to God in Islam is seen as a pathway to cultivating wisdom, as it involves seeking knowledge and guidance from the ultimate source of all wisdom and knowledge.
 
 ## Average Grade
-85.0
+87.0
 
 ## Grades
  * [85.0](./Obedience_and_Wisdom_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Obedience_and_Wisdom_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Obedience_and_Wisdom_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Obedience_and_Wisdom_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Obedience_and_Wisdom_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

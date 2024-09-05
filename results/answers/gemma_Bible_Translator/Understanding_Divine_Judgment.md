@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Understanding Divine Judgment](../../questions/Understanding_Divine_Judgment.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Understanding Divine Judgment](../../questions/Understanding_Divine_Judgment.md)
 
 ## Question [Understanding Divine Judgment](../../questions/Understanding_Divine_Judgment.md)
 What does the Bible say about God’s judgment and how does it differ from human judgment?

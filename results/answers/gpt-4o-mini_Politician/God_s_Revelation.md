@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) answer to [God's Revelation](../../questions/God_s_Revelation.md)
+# Generated Answer from [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) for [God's Revelation](../../questions/God_s_Revelation.md)
 
 ## Question [God's Revelation](../../questions/God_s_Revelation.md)
 How does God introduce Himself using His name in the Bible?
@@ -19,7 +19,11 @@ Additionally, throughout the scriptures, God uses different names that highlight
 These names and titles allow individuals to understand and relate to God in multifaceted ways, reflecting His sovereignty, love, and personal relationship with humanity. It's essential to approach these texts with respect for the diverse interpretations and beliefs that exist within the many religious traditions that engage with the Bible.
 
 ## Average Grade
-85.0
+86.0
 
 ## Grades
  * [85.0](./God_s_Revelation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./God_s_Revelation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./God_s_Revelation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./God_s_Revelation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./God_s_Revelation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

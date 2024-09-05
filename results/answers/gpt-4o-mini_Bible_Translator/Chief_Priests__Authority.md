@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) answer to [Chief Priests' Authority](../../questions/Chief_Priests__Authority.md)
+# Generated Answer from [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) for [Chief Priests' Authority](../../questions/Chief_Priests__Authority.md)
 
 ## Question [Chief Priests' Authority](../../questions/Chief_Priests__Authority.md)
 What was the relationship between the chief priests and the ordinary priests in terms of authority?
@@ -21,7 +21,11 @@ Ordinary priests, often referred to as "kohanim," were members of the priestly c
 In summary, the chief priests held a higher authority over the ordinary priests, guiding the religious practices, making significant decisions regarding Temple operations, and representing the priesthood in matters of governance. The ordinary priests executed the day-to-day duties of the Temple worship under the guidance and authority of the chief priests.
 
 ## Average Grade
-95.0
+91.0
 
 ## Grades
  * [95.0](./Chief_Priests__Authority_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Chief_Priests__Authority_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Chief_Priests__Authority_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Chief_Priests__Authority_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Chief_Priests__Authority_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

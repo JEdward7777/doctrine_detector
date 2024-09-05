@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) answer to [Scriptural References 2](../../questions/Scriptural_References_2.md)
+# Generated Answer from [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) for [Scriptural References 2](../../questions/Scriptural_References_2.md)
 
 ## Question [Scriptural References 2](../../questions/Scriptural_References_2.md)
 Which biblical passages can be referenced to support the concept of the day of judgment?
@@ -29,7 +29,11 @@ This seeks to deepen the understanding of scripture related to judgment and rein
 These passages from the Bible support the concept of the day of judgment. They emphasize that everyone will be held accountable for their actions, and God will judge them accordingly on the last day.
 
 ## Average Grade
-90.0
+83.0
 
 ## Grades
  * [90.0](./Scriptural_References_2_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Scriptural_References_2_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Scriptural_References_2_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Scriptural_References_2_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Scriptural_References_2_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

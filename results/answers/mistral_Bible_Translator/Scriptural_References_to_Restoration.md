@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) answer to [Scriptural References to Restoration](../../questions/Scriptural_References_to_Restoration.md)
+# Generated Answer from [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) for [Scriptural References to Restoration](../../questions/Scriptural_References_to_Restoration.md)
 
 ## Question [Scriptural References to Restoration](../../questions/Scriptural_References_to_Restoration.md)
 Which Bible verses emphasize the theme of restoration and what do they illustrate?
@@ -27,7 +27,11 @@ Finding scriptural support for the concept of restoration in one's faith journey
 7. Revelation 21:5 (NIV) - "He who was seated on the throne said, 'I am making everything new!' Then he said, 'Write this down, for these words are trustworthy and true.'" This verse illustrates God's promise to make all things new in the future when He establishes His Kingdom on earth. It emphasizes that God is a God of restoration and renewal who will ultimately bring about peace and justice in the world.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Scriptural_References_to_Restoration_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Scriptural_References_to_Restoration_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Scriptural_References_to_Restoration_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Scriptural_References_to_Restoration_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Scriptural_References_to_Restoration_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

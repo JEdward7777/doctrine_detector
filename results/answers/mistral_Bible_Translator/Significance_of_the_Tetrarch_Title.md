@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) answer to [Significance of the Tetrarch Title](../../questions/Significance_of_the_Tetrarch_Title.md)
+# Generated Answer from [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) for [Significance of the Tetrarch Title](../../questions/Significance_of_the_Tetrarch_Title.md)
 
 ## Question [Significance of the Tetrarch Title](../../questions/Significance_of_the_Tetrarch_Title.md)
 What does the title 'tetrarch' reveal about the governance structure during the time of Jesus?
@@ -19,7 +19,11 @@ In Jewish history, Herod Antipas was one of the most notable Tetrarchs who ruled
 This governance structure highlights the political context in which Jesus lived, as He ministered to the people under the dual rulership of the Roman Empire and various Jewish leaders like Herod Antipas.
 
 ## Average Grade
-90.0
+91.4
 
 ## Grades
  * [90.0](./Significance_of_the_Tetrarch_Title_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Significance_of_the_Tetrarch_Title_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Significance_of_the_Tetrarch_Title_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Significance_of_the_Tetrarch_Title_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [92.0](./Significance_of_the_Tetrarch_Title_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

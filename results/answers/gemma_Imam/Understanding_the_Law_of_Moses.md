@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Understanding the Law of Moses](../../questions/Understanding_the_Law_of_Moses.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Understanding the Law of Moses](../../questions/Understanding_the_Law_of_Moses.md)
 
 ## Question [Understanding the Law of Moses](../../questions/Understanding_the_Law_of_Moses.md)
 What are some of the specific commandments included in the Law of Moses that God gave for the Israelites to obey?
@@ -45,7 +45,11 @@ The Law of Moses, or Torah, contains many commandments that God gave for the Isr
 It's important to note that while the Law of Moses contains many commandments relevant to the Israelites at the time, some of them may not be directly applicable to Muslims today. Muslims follow the Quran and Sunnah as their primary sources of religious guidance.
 
 ## Average Grade
-90.0
+87.0
 
 ## Grades
  * [90.0](./Understanding_the_Law_of_Moses_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Understanding_the_Law_of_Moses_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Understanding_the_Law_of_Moses_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Understanding_the_Law_of_Moses_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_the_Law_of_Moses_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

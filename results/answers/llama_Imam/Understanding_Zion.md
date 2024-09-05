@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Understanding Zion](../../questions/Understanding_Zion.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Understanding Zion](../../questions/Understanding_Zion.md)
 
 ## Question [Understanding Zion](../../questions/Understanding_Zion.md)
 What is the significance of the term 'Daughter of Zion' in relation to the people of Israel?
@@ -25,7 +25,11 @@ It's essential to note that Islam views the Children of Israel as having receive
 In this context, the term "Daughter of Zion" serves as a reminder of the historical connection between Islam and Judaism/Christianity, highlighting the shared spiritual values and the Abrahamic covenant that underlies these three major faith traditions.
 
 ## Average Grade
-75.0
+73.0
 
 ## Grades
  * [75.0](./Understanding_Zion_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [60.0](./Understanding_Zion_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Understanding_Zion_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Understanding_Zion_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Understanding_Zion_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

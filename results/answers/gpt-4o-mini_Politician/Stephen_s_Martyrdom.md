@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) answer to [Stephen's Martyrdom](../../questions/Stephen_s_Martyrdom.md)
+# Generated Answer from [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) for [Stephen's Martyrdom](../../questions/Stephen_s_Martyrdom.md)
 
 ## Question [Stephen's Martyrdom](../../questions/Stephen_s_Martyrdom.md)
 What significance does the stoning of Stephen hold in the early Christian church, and what does it reveal about the challenges faced by early believers?
@@ -31,3 +31,7 @@ In summary, the stoning of Stephen is significant not only as an individual act 
 
 ## Grades
  * [95.0](./Stephen_s_Martyrdom_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Stephen_s_Martyrdom_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Stephen_s_Martyrdom_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Stephen_s_Martyrdom_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Stephen_s_Martyrdom_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

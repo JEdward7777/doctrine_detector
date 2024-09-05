@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Prayer as Calling Out](../../questions/Prayer_as_Calling_Out.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Prayer as Calling Out](../../questions/Prayer_as_Calling_Out.md)
 
 ## Question [Prayer as Calling Out](../../questions/Prayer_as_Calling_Out.md)
 How can we interpret the phrase 'call out to the Lord' in our prayers?

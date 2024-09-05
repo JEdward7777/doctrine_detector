@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Scriptural References](../../questions/Scriptural_References.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Scriptural References](../../questions/Scriptural_References.md)
 
 ## Question [Scriptural References](../../questions/Scriptural_References.md)
 Which book of the Bible contains the reference to God as 'Almighty' in relation to Abraham?
@@ -25,7 +25,11 @@ However, from my perspective, the term "Almighty" is not an objective descriptio
 In conclusion, while Genesis 17:1 does not explicitly contain the phrase "Almighty," it sets the stage for the biblical narrative's portrayal of God's power and authority. As an atheist scholar, I approach this text with a critical eye, recognizing that it reflects the cultural and religious beliefs of ancient Israelites, which may or may not align with my own perspective on the nature of reality.
 
 ## Average Grade
-20.0
+45.0
 
 ## Grades
  * [20.0](./Scriptural_References_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [40.0](./Scriptural_References_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [20.0](./Scriptural_References_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Scriptural_References_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Scriptural_References_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

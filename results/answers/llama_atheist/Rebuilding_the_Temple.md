@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Rebuilding the Temple](../../questions/Rebuilding_the_Temple.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Rebuilding the Temple](../../questions/Rebuilding_the_Temple.md)
 
 ## Question [Rebuilding the Temple](../../questions/Rebuilding_the_Temple.md)
 What events led to the destruction and subsequent rebuilding of the temple in Jerusalem?
@@ -37,7 +37,11 @@ The subsequent rebuilding of the temple is a complex topic that involves the Her
 As an atheist scholar, I believe that understanding the historical context and archaeological evidence surrounding these events is crucial for a nuanced comprehension of the temple's destruction and rebuilding.
 
 ## Average Grade
-60.0
+64.0
 
 ## Grades
  * [60.0](./Rebuilding_the_Temple_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [50.0](./Rebuilding_the_Temple_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Rebuilding_the_Temple_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Rebuilding_the_Temple_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Rebuilding_the_Temple_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

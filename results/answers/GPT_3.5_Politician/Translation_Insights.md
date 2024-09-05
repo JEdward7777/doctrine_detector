@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) answer to [Translation Insights](../../questions/Translation_Insights.md)
+# Generated Answer from [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) for [Translation Insights](../../questions/Translation_Insights.md)
 
 ## Question [Translation Insights](../../questions/Translation_Insights.md)
 What are some suggested translations for the phrase 'image of God' when applied to humans and Jesus, and why might these translations be significant?
@@ -23,3 +23,7 @@ Using more inclusive and politically correct language in these translations is i
 
 ## Grades
  * [60.0](./Translation_Insights_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [40.0](./Translation_Insights_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Translation_Insights_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Translation_Insights_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [70.0](./Translation_Insights_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

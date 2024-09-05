@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral atheist](../../answering_models/mistral_atheist.md) answer to [Transition from Tabernacle to Temple](../../questions/Transition_from_Tabernacle_to_Temple.md)
+# Generated Answer from [mistral atheist](../../answering_models/mistral_atheist.md) for [Transition from Tabernacle to Temple](../../questions/Transition_from_Tabernacle_to_Temple.md)
 
 ## Question [Transition from Tabernacle to Temple](../../questions/Transition_from_Tabernacle_to_Temple.md)
 Why did the Israelites stop using the tabernacle?
@@ -21,7 +21,11 @@ Second, during the Babylonian captivity (586 BCE), the First Temple was destroye
 So, in essence, the Israelites stopped using the Tabernacle due to settlement and the construction of the Temple in Jerusalem, followed by its destruction and subsequent rebuilding as a permanent structure. This transition reflects important shifts in the religious practices and social organization of the ancient Israelites over time.
 
 ## Average Grade
-90.0
+88.0
 
 ## Grades
  * [90.0](./Transition_from_Tabernacle_to_Temple_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Transition_from_Tabernacle_to_Temple_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Transition_from_Tabernacle_to_Temple_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Transition_from_Tabernacle_to_Temple_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [70.0](./Transition_from_Tabernacle_to_Temple_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

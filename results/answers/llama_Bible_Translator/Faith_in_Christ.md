@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Faith in Christ](../../questions/Faith_in_Christ.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Faith in Christ](../../questions/Faith_in_Christ.md)
 
 ## Question [Faith in Christ](../../questions/Faith_in_Christ.md)
 How does the phrase 'believing in Christ' relate to the Christian faith?
@@ -25,7 +25,11 @@ In Christian theology, believing in Christ is not just a personal decision but a
 I hope this clarifies the importance of "believing in Christ" in Christian theology!
 
 ## Average Grade
-90.0
+91.0
 
 ## Grades
  * [90.0](./Faith_in_Christ_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Faith_in_Christ_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Faith_in_Christ_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Faith_in_Christ_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Faith_in_Christ_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

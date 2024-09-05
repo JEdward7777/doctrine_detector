@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma atheist](../../answering_models/gemma_atheist.md) answer to [God's Name](../../questions/God_s_Name.md)
+# Generated Answer from [gemma atheist](../../answering_models/gemma_atheist.md) for [God's Name](../../questions/God_s_Name.md)
 
 ## Question [God's Name](../../questions/God_s_Name.md)
 What is the significance of God's name 'Yahweh' as revealed in the Bible?
@@ -39,7 +39,11 @@ The biblical accounts of God's name are rooted in ancient Semitic beliefs and pr
 The significance of God's name 'Yahweh' as revealed in the Bible is a cultural and linguistic phenomenon with no objective reality. From an atheistic perspective, it is a product of human beliefs and cultural constructs.
 
 ## Average Grade
-20.0
+31.0
 
 ## Grades
  * [20.0](./God_s_Name_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [20.0](./God_s_Name_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [30.0](./God_s_Name_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [25.0](./God_s_Name_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./God_s_Name_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

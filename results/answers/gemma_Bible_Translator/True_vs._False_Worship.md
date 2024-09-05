@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [True vs. False Worship](../../questions/True_vs._False_Worship.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [True vs. False Worship](../../questions/True_vs._False_Worship.md)
 
 ## Question [True vs. False Worship](../../questions/True_vs._False_Worship.md)
 What is a difference between worshiping God and worshiping false gods?

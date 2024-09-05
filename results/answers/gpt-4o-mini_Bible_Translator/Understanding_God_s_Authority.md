@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) answer to [Understanding God's Authority](../../questions/Understanding_God_s_Authority.md)
+# Generated Answer from [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) for [Understanding God's Authority](../../questions/Understanding_God_s_Authority.md)
 
 ## Question [Understanding God's Authority](../../questions/Understanding_God_s_Authority.md)
 What does the title 'Most High' signify concerning God's authority in our lives?
@@ -25,7 +25,11 @@ The title "Most High" (Hebrew: Elyon; Greek: Hypsistos) signifies God's supreme 
 Overall, the title "Most High" reminds us that God holds the highest authority, encouraging us to live in obedience to His sovereign will, trusting in His protection, and worshiping Him with reverence and awe.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Understanding_God_s_Authority_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Understanding_God_s_Authority_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Understanding_God_s_Authority_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Understanding_God_s_Authority_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Understanding_God_s_Authority_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

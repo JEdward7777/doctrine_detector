@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Fruits of Wisdom](../../questions/Fruits_of_Wisdom.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Fruits of Wisdom](../../questions/Fruits_of_Wisdom.md)
 
 ## Question [Fruits of Wisdom](../../questions/Fruits_of_Wisdom.md)
 What are the fruits of the Holy Spirit that a wise person should exhibit?
@@ -31,7 +31,11 @@ These fruits of the Holy Spirit can be summarized into nine qualities:
 May Allah grant us the wisdom to cultivate these fruits of the Holy Spirit in our lives, and may they be a means of drawing closer to Him. Ameen.
 
 ## Average Grade
-90.0
+89.0
 
 ## Grades
  * [90.0](./Fruits_of_Wisdom_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Fruits_of_Wisdom_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Fruits_of_Wisdom_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Fruits_of_Wisdom_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Fruits_of_Wisdom_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

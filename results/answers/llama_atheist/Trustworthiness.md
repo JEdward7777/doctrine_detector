@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Trustworthiness](../../questions/Trustworthiness.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Trustworthiness](../../questions/Trustworthiness.md)
 
 ## Question [Trustworthiness](../../questions/Trustworthiness.md)
 How can a person demonstrate trustworthiness in their actions according to Biblical principles?
@@ -26,7 +26,11 @@ According to biblical principles, trustworthiness (or integrity) is often associ
 In conclusion, demonstrating trustworthiness according to biblical principles involves keeping commitments, being honest, loyal, just, forgiving, and humble. These values were essential for building strong relationships and a just society in ancient Israel, and they remain important today for fostering healthy communities and personal character.
 
 ## Average Grade
-80.0
+86.0
 
 ## Grades
  * [80.0](./Trustworthiness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Trustworthiness_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Trustworthiness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Trustworthiness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Trustworthiness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

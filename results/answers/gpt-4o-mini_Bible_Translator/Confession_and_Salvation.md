@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) answer to [Confession and Salvation](../../questions/Confession_and_Salvation.md)
+# Generated Answer from [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) for [Confession and Salvation](../../questions/Confession_and_Salvation.md)
 
 ## Question [Confession and Salvation](../../questions/Confession_and_Salvation.md)
 What is the relationship between confessing that Jesus is Lord and being saved according to Paul's writings?
@@ -29,7 +29,11 @@ Moreover, in other letters, such as 1 Corinthians 12:3, Paul underlines that no 
 In summary, Paul's writings highlight that confessing Jesus as Lord, coupled with a belief in His resurrection, is integral to the salvation experience, showcasing the transformative power of faith in Christ.
 
 ## Average Grade
-95.0
+94.4
 
 ## Grades
  * [95.0](./Confession_and_Salvation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Confession_and_Salvation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Confession_and_Salvation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Confession_and_Salvation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [92.0](./Confession_and_Salvation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Nature of Miracles](../../questions/Nature_of_Miracles.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Nature of Miracles](../../questions/Nature_of_Miracles.md)
 
 ## Question [Nature of Miracles](../../questions/Nature_of_Miracles.md)
 What do the miracles performed by Jesus reveal about His identity?
@@ -21,7 +21,11 @@ Furthermore, the performance of miracles allowed Jesus to demonstrate his compas
 In conclusion, the miracles performed by Jesus may be seen as a way to elevate his status and authority within the religious community of his time, rather than definitive proof of his divine nature.
 
 ## Average Grade
-60.0
+53.0
 
 ## Grades
  * [60.0](./Nature_of_Miracles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [40.0](./Nature_of_Miracles_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [65.0](./Nature_of_Miracles_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [40.0](./Nature_of_Miracles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Nature_of_Miracles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

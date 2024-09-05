@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Understanding Holiness](../../questions/Understanding_Holiness.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Understanding Holiness](../../questions/Understanding_Holiness.md)
 
 ## Question [Understanding Holiness](../../questions/Understanding_Holiness.md)
 What does it mean for God to be absolutely holy, and how does that affect our relationship with Him?
@@ -21,7 +21,11 @@ Secondly, understanding God's holiness should motivate us to strive for moral pu
 Lastly, acknowledging God's absolute holiness should encourage us to turn to Him in sincere devotion and worship. Through prayer, seeking forgiveness, and adhering to His commandments, we can strengthen our relationship with Him and experience the peace and guidance that come from being close to the Most Holy.
 
 ## Average Grade
-90.0
+88.0
 
 ## Grades
  * [90.0](./Understanding_Holiness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Understanding_Holiness_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Understanding_Holiness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Understanding_Holiness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_Holiness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

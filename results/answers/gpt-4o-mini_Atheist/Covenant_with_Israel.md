@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [Covenant with Israel](../../questions/Covenant_with_Israel.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [Covenant with Israel](../../questions/Covenant_with_Israel.md)
 
 ## Question [Covenant with Israel](../../questions/Covenant_with_Israel.md)
 What was the nature of the covenant that God made with the people of Israel?
@@ -29,7 +29,11 @@ The nature of this covenant can be understood in several key components:
 Overall, the covenant was a comprehensive framework that defined the relationship between God and Israel, encompassing legal, moral, and social dimensions that would guide the people in their collective existence and worship. This covenantal relationship continues to hold theological significance for Jewish communities today and has also been influential in various Christian interpretations.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Covenant_with_Israel_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Covenant_with_Israel_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Covenant_with_Israel_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Covenant_with_Israel_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Covenant_with_Israel_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

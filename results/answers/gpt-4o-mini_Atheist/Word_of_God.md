@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [Word of God](../../questions/Word_of_God.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [Word of God](../../questions/Word_of_God.md)
 
 ## Question [Word of God](../../questions/Word_of_God.md)
 What does the term 'word of God' encompass according to the Bible?
@@ -27,7 +27,11 @@ The term "Word of God" in the Bible encompasses several meanings and contexts, r
 These various aspects show that the term "Word of God" is multifaceted, reflecting a deep connection between divine revelation, the written scriptures, the person of Christ, and the active faith of the church community. Each interpretation is significant within particular theological contexts and traditions.
 
 ## Average Grade
-90.0
+89.0
 
 ## Grades
  * [90.0](./Word_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Word_of_God_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Word_of_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Word_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Word_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

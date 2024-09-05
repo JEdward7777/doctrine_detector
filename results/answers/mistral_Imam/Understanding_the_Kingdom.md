@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Understanding the Kingdom](../../questions/Understanding_the_Kingdom.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Understanding the Kingdom](../../questions/Understanding_the_Kingdom.md)
 
 ## Question [Understanding the Kingdom](../../questions/Understanding_the_Kingdom.md)
 What is the significance of the term 'kingdom of God' as used in the New Testament?
@@ -28,7 +28,11 @@ In Islam, the concept of God's sovereignty or kingdom is slightly different due 
 In conclusion, the term "Kingdom of God" holds significant meaning in the New Testament and encompasses a range of interpretations among Christian scholars. It is essential to approach cross-religious discussions with an open mind, respect for diverse perspectives, and a desire to learn from one another.
 
 ## Average Grade
-85.0
+84.0
 
 ## Grades
  * [85.0](./Understanding_the_Kingdom_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Understanding_the_Kingdom_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Understanding_the_Kingdom_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Understanding_the_Kingdom_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_the_Kingdom_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

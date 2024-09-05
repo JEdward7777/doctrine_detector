@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma atheist](../../answering_models/gemma_atheist.md) answer to [The Role of the Twelve Apostles](../../questions/The_Role_of_the_Twelve_Apostles.md)
+# Generated Answer from [gemma atheist](../../answering_models/gemma_atheist.md) for [The Role of the Twelve Apostles](../../questions/The_Role_of_the_Twelve_Apostles.md)
 
 ## Question [The Role of the Twelve Apostles](../../questions/The_Role_of_the_Twelve_Apostles.md)
 Why were the twelve apostles significant among Jesus' disciples?
@@ -48,7 +48,11 @@ Recognizing the importance of the apostles in Christian belief and ministry.
 * From an atheistic perspective, these interpretations are cultural constructs rather than objective historical facts.
 
 ## Average Grade
-90.0
+85.0
 
 ## Grades
  * [90.0](./The_Role_of_the_Twelve_Apostles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./The_Role_of_the_Twelve_Apostles_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./The_Role_of_the_Twelve_Apostles_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./The_Role_of_the_Twelve_Apostles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [70.0](./The_Role_of_the_Twelve_Apostles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

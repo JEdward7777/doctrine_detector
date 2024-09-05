@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) answer to [Understanding Righteousness](../../questions/Understanding_Righteousness.md)
+# Generated Answer from [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) for [Understanding Righteousness](../../questions/Understanding_Righteousness.md)
 
 ## Question [Understanding Righteousness](../../questions/Understanding_Righteousness.md)
 What does it mean for God to be described as 'righteous'?
@@ -15,7 +15,11 @@ Understanding the nature of God's righteousness is crucial for appreciating His 
 Describing God as "righteous" typically means that God is viewed as being morally upright, just, and fair in all His actions and decisions. This attribute is often associated with impartiality, honesty, and adherence to moral principles. Different religious traditions may interpret and understand the concept of God's righteousness in various ways.
 
 ## Average Grade
-90.0
+86.0
 
 ## Grades
  * [90.0](./Understanding_Righteousness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Understanding_Righteousness_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Understanding_Righteousness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Understanding_Righteousness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Understanding_Righteousness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

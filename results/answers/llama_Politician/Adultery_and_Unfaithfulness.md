@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Adultery and Unfaithfulness](../../questions/Adultery_and_Unfaithfulness.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Adultery and Unfaithfulness](../../questions/Adultery_and_Unfaithfulness.md)
 
 ## Question [Adultery and Unfaithfulness](../../questions/Adultery_and_Unfaithfulness.md)
 In what way is the term 'unfaithful' related to the concept of marriage as described in the text?
@@ -21,7 +21,11 @@ When we talk about the concept of marriage, it's essential to emphasize the valu
 So, rather than focusing on labels or negative associations, let's work together to build a culture of empathy, understanding, and mutual respect in our society – particularly when it comes to the institution of marriage.
 
 ## Average Grade
-30.0
+54.4
 
 ## Grades
  * [30.0](./Adultery_and_Unfaithfulness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [60.0](./Adultery_and_Unfaithfulness_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [50.0](./Adultery_and_Unfaithfulness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [40.0](./Adultery_and_Unfaithfulness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [92.0](./Adultery_and_Unfaithfulness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

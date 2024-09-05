@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Role of Jewish Leaders](../../questions/Role_of_Jewish_Leaders.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Role of Jewish Leaders](../../questions/Role_of_Jewish_Leaders.md)
 
 ## Question [Role of Jewish Leaders](../../questions/Role_of_Jewish_Leaders.md)
 How did the Jewish religious leaders influence the crucifixion of Jesus?
@@ -23,7 +23,11 @@ It is also important to remember that interpretations of these events have been 
 In summary, while some Jewish religious leaders may have played a role in the events leading up to Jesus' crucifixion, it is crucial to avoid simplistic or reductive explanations and to approach this topic with nuance and sensitivity.
 
 ## Average Grade
-60.0
+83.0
 
 ## Grades
  * [60.0](./Role_of_Jewish_Leaders_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Role_of_Jewish_Leaders_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Role_of_Jewish_Leaders_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Role_of_Jewish_Leaders_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Role_of_Jewish_Leaders_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

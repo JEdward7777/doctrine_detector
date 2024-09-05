@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Trust in God 2](../../questions/Trust_in_God_2.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Trust in God 2](../../questions/Trust_in_God_2.md)
 
 ## Question [Trust in God 2](../../questions/Trust_in_God_2.md)
 What does it mean to trust in Jesus according to Christian teachings?
@@ -23,7 +23,11 @@ Rather, as Christians, we're called to embody the values of compassion, empathy,
 So, if you're interested in exploring this concept further or have any questions about how it might apply to your own faith journey, please don't hesitate to reach out!
 
 ## Average Grade
-90.0
+86.0
 
 ## Grades
  * [90.0](./Trust_in_God_2_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Trust_in_God_2_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Trust_in_God_2_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Trust_in_God_2_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Trust_in_God_2_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

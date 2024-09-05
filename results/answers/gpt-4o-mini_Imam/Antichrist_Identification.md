@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Antichrist Identification](../../questions/Antichrist_Identification.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Antichrist Identification](../../questions/Antichrist_Identification.md)
 
 ## Question [Antichrist Identification](../../questions/Antichrist_Identification.md)
 According to the apostle John, what defines a person as an antichrist?
@@ -19,7 +19,11 @@ From a Muslim perspective, while the concept of antichrist may not hold the same
 It is important to engage with such concepts with sensitivity and respect for differing beliefs within the context of interfaith dialogue. If you have further questions regarding this topic or how it relates to Islamic beliefs, feel free to ask.
 
 ## Average Grade
-90.0
+86.0
 
 ## Grades
  * [90.0](./Antichrist_Identification_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Antichrist_Identification_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Antichrist_Identification_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Antichrist_Identification_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Antichrist_Identification_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

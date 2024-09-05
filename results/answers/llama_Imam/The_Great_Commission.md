@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [The Great Commission](../../questions/The_Great_Commission.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [The Great Commission](../../questions/The_Great_Commission.md)
 
 ## Question [The Great Commission](../../questions/The_Great_Commission.md)
 What command did Jesus give to His disciples before ascending to heaven?
@@ -25,7 +25,11 @@ It is important to note that these commands are specific to the Christian faith 
 If you have any further questions or concerns, please feel free to ask.
 
 ## Average Grade
-85.0
+79.0
 
 ## Grades
  * [85.0](./The_Great_Commission_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./The_Great_Commission_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./The_Great_Commission_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./The_Great_Commission_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./The_Great_Commission_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

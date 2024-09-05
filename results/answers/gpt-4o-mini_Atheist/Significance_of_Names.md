@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [Significance of Names](../../questions/Significance_of_Names.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [Significance of Names](../../questions/Significance_of_Names.md)
 
 ## Question [Significance of Names](../../questions/Significance_of_Names.md)
 Why is it significant that 'Shaddai' is often translated as a title rather than a name in Bible translations?
@@ -27,7 +27,11 @@ The translation of 'Shaddai' as a title rather than a name in biblical texts car
 In summary, the translation of 'Shaddai' as a title rather than a proper name highlights the complex interaction between culture, theology, and text, shaping both individual and communal understandings of the divine. It encourages a more relational view of God that resonates across generations and diverse contexts.
 
 ## Average Grade
-95.0
+91.0
 
 ## Grades
  * [95.0](./Significance_of_Names_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Significance_of_Names_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Significance_of_Names_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Significance_of_Names_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Significance_of_Names_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

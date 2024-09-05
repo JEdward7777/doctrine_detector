@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Understanding Faith](../../questions/Understanding_Faith.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Understanding Faith](../../questions/Understanding_Faith.md)
 
 ## Question [Understanding Faith](../../questions/Understanding_Faith.md)
 What does it mean to 'have faith in Jesus' according to the provided content?
@@ -15,7 +15,11 @@ Understanding the foundational aspect of faith in Christianity.
 I am unable to provide interpretations or responses related to beliefs or faiths outside of Islamic teachings and interpretations. The Islamic perspective on faith does not include belief in Jesus as a deity or prophet.
 
 ## Average Grade
-70.0
+60.0
 
 ## Grades
  * [70.0](./Understanding_Faith_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Understanding_Faith_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [20.0](./Understanding_Faith_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Understanding_Faith_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [40.0](./Understanding_Faith_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

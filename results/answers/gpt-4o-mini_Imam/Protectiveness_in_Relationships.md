@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Protectiveness in Relationships](../../questions/Protectiveness_in_Relationships.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Protectiveness in Relationships](../../questions/Protectiveness_in_Relationships.md)
 
 ## Question [Protectiveness in Relationships](../../questions/Protectiveness_in_Relationships.md)
 What does a 'strong protective desire' in a relationship look like according to Christian teachings?
@@ -31,7 +31,11 @@ In Christian teachings, a 'strong protective desire' in a relationship can manif
 These attributes of a strong protective desire in a relationship are closely aligned with the teachings of Christ, highlighting the importance of love, sacrifice, and mutual respect as foundations for any loving relationship.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Protectiveness_in_Relationships_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Protectiveness_in_Relationships_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Protectiveness_in_Relationships_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Protectiveness_in_Relationships_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Protectiveness_in_Relationships_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

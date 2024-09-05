@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Seared Conscience](../../questions/Seared_Conscience.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Seared Conscience](../../questions/Seared_Conscience.md)
 
 ## Question [Seared Conscience](../../questions/Seared_Conscience.md)
 What does the Bible mean by a 'seared' conscience, and what implications does it have for a believer?
@@ -36,7 +36,11 @@ To avoid having one's conscience seared:
 Remember that a seared conscience is not a permanent condition. With repentance, prayer, and a renewed commitment to following Jesus, it's possible to recover from moral numbness and regain sensitivity to the Holy Spirit's promptings.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Seared_Conscience_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Seared_Conscience_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Seared_Conscience_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Seared_Conscience_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Seared_Conscience_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

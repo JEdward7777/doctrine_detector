@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [New Testament References](../../questions/New_Testament_References.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [New Testament References](../../questions/New_Testament_References.md)
 
 ## Question [New Testament References](../../questions/New_Testament_References.md)
 What evidence is there in the New Testament suggesting that John the Baptist may have been a Nazirite?
@@ -23,7 +23,11 @@ Connecting Old Testament practices with New Testament figures to better understa
 While these interpretations are not definitive, they do present an intriguing case that John the Baptist may have exhibited some characteristics of a Nazirite. It is essential to remember that the New Testament does not explicitly state this and that any interpretations should be made with caution and in consultation with religious scholars.
 
 ## Average Grade
-80.0
+79.0
 
 ## Grades
  * [80.0](./New_Testament_References_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./New_Testament_References_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./New_Testament_References_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./New_Testament_References_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./New_Testament_References_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

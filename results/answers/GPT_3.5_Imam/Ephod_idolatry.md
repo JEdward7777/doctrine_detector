@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Ephod idolatry](../../questions/Ephod_idolatry.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Ephod idolatry](../../questions/Ephod_idolatry.md)
 
 ## Question [Ephod idolatry](../../questions/Ephod_idolatry.md)
 What lesson can be learned from Gideon's creation of a gold ephod and the subsequent idolatry of the Israelites?
@@ -23,7 +23,11 @@ Furthermore, the story highlights the danger of materialism and the temptation t
 Ultimately, the story of Gideon's ephod reminds us of the importance of staying true to the pure monotheistic teachings of Islam and guarding against any forms of innovation or idolatry that may lead us astray from the straight path.
 
 ## Average Grade
-85.0
+86.0
 
 ## Grades
  * [85.0](./Ephod_idolatry_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Ephod_idolatry_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Ephod_idolatry_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Ephod_idolatry_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Ephod_idolatry_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

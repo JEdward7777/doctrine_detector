@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [New Testament Priesthood](../../questions/New_Testament_Priesthood.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [New Testament Priesthood](../../questions/New_Testament_Priesthood.md)
 
 ## Question [New Testament Priesthood](../../questions/New_Testament_Priesthood.md)
 What does it mean for every believer in Jesus to be considered a priest in the New Testament?
@@ -23,3 +23,7 @@ It's important to note that interpretations can vary among different Muslim and 
 
 ## Grades
  * [85.0](./New_Testament_Priesthood_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./New_Testament_Priesthood_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./New_Testament_Priesthood_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./New_Testament_Priesthood_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./New_Testament_Priesthood_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

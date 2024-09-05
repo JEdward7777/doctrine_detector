@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Understanding Being 'In Christ'](../../questions/Understanding_Being__In_Christ_.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Understanding Being 'In Christ'](../../questions/Understanding_Being__In_Christ_.md)
 
 ## Question [Understanding Being 'In Christ'](../../questions/Understanding_Being__In_Christ_.md)
 What does it mean to be 'in Christ' according to Christian theology?

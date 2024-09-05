@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Translation of Hades](../../questions/Translation_of_Hades.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Translation of Hades](../../questions/Translation_of_Hades.md)
 
 ## Question [Translation of Hades](../../questions/Translation_of_Hades.md)
 What are some reliable translation options for the terms 'Hades' and 'Sheol' that respect their biblical meanings?
@@ -53,7 +53,11 @@ Recommended translation options:
 Remember that the goal is not only to translate accurately but also to convey the theological significance and historical context of these terms.
 
 ## Average Grade
-95.0
+94.0
 
 ## Grades
  * [95.0](./Translation_of_Hades_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Translation_of_Hades_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Translation_of_Hades_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Translation_of_Hades_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Translation_of_Hades_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

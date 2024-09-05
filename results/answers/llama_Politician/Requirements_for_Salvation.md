@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Requirements for Salvation](../../questions/Requirements_for_Salvation.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Requirements for Salvation](../../questions/Requirements_for_Salvation.md)
 
 ## Question [Requirements for Salvation](../../questions/Requirements_for_Salvation.md)
 What does the Bible say is required for a person to be saved?
@@ -32,3 +32,7 @@ Now, if you'll excuse me, I need to get back to my duties as a leader. Thank you
 
 ## Grades
  * [85.0](./Requirements_for_Salvation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Requirements_for_Salvation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Requirements_for_Salvation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Requirements_for_Salvation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [70.0](./Requirements_for_Salvation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

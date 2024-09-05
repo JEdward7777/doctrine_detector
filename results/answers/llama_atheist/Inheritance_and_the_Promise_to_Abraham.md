@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Inheritance and the Promise to Abraham](../../questions/Inheritance_and_the_Promise_to_Abraham.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Inheritance and the Promise to Abraham](../../questions/Inheritance_and_the_Promise_to_Abraham.md)
 
 ## Question [Inheritance and the Promise to Abraham](../../questions/Inheritance_and_the_Promise_to_Abraham.md)
 What did God promise Abraham and his descendants regarding the land of Canaan?
@@ -37,7 +37,11 @@ From a cultural perspective, the story of God's promise to Abraham reflects anci
 In conclusion, while I'm not inclined to interpret these biblical passages as "God's promise" to Abraham and his descendants, they do reflect historical and cultural themes related to land inheritance and covenant-making that were important in the ancient Near East.
 
 ## Average Grade
-60.0
+49.0
 
 ## Grades
  * [60.0](./Inheritance_and_the_Promise_to_Abraham_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [20.0](./Inheritance_and_the_Promise_to_Abraham_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [30.0](./Inheritance_and_the_Promise_to_Abraham_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [50.0](./Inheritance_and_the_Promise_to_Abraham_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Inheritance_and_the_Promise_to_Abraham_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

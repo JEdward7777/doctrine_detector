@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral atheist](../../answering_models/mistral_atheist.md) answer to [Understanding Atonement](../../questions/Understanding_Atonement.md)
+# Generated Answer from [mistral atheist](../../answering_models/mistral_atheist.md) for [Understanding Atonement](../../questions/Understanding_Atonement.md)
 
 ## Question [Understanding Atonement](../../questions/Understanding_Atonement.md)
 What is the significance of Christ's death as the permanent atonement for sin in Christian belief?
@@ -25,3 +25,7 @@ It's important to note that interpretations and understanding of these beliefs c
 
 ## Grades
  * [95.0](./Understanding_Atonement_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Understanding_Atonement_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Understanding_Atonement_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Understanding_Atonement_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Understanding_Atonement_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

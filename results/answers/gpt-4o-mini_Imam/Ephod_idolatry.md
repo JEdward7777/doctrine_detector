@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Ephod idolatry](../../questions/Ephod_idolatry.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Ephod idolatry](../../questions/Ephod_idolatry.md)
 
 ## Question [Ephod idolatry](../../questions/Ephod_idolatry.md)
 What lesson can be learned from Gideon's creation of a gold ephod and the subsequent idolatry of the Israelites?
@@ -27,7 +27,11 @@ The story of Gideon and the creation of the golden ephod, as recounted in the Bo
 In summary, the story of Gideon’s ephod serves as a multipronged lesson about the serious nature of idolatry, the role of leadership in guiding faith, and the need for continual commitment to the oneness of Allah in both individual and community practices. It calls for reflection on our actions and the impact they have on our relationship with God and with one another.
 
 ## Average Grade
-85.0
+84.0
 
 ## Grades
  * [85.0](./Ephod_idolatry_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Ephod_idolatry_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Ephod_idolatry_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Ephod_idolatry_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Ephod_idolatry_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

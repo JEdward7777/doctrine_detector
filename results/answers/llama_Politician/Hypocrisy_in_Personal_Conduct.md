@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Hypocrisy in Personal Conduct](../../questions/Hypocrisy_in_Personal_Conduct.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Hypocrisy in Personal Conduct](../../questions/Hypocrisy_in_Personal_Conduct.md)
 
 ## Question [Hypocrisy in Personal Conduct](../../questions/Hypocrisy_in_Personal_Conduct.md)
 How can we ensure that our actions align with our beliefs to avoid being hypocrites?
@@ -29,7 +29,11 @@ Lastly, it's essential to recognize that we're all human beings with limitations
 In conclusion, I firmly believe that by embracing these principles – self-reflection, transparency, engagement, trust-building, and a willingness to learn from our mistakes – we can significantly reduce the risk of hypocrisy and align our actions with our beliefs. Thank you for asking such an important question! (smiling)
 
 ## Average Grade
-90.0
+86.0
 
 ## Grades
  * [90.0](./Hypocrisy_in_Personal_Conduct_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Hypocrisy_in_Personal_Conduct_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Hypocrisy_in_Personal_Conduct_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Hypocrisy_in_Personal_Conduct_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Hypocrisy_in_Personal_Conduct_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

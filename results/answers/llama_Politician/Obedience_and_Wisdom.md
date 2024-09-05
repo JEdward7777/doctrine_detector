@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Obedience and Wisdom](../../questions/Obedience_and_Wisdom.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Obedience and Wisdom](../../questions/Obedience_and_Wisdom.md)
 
 ## Question [Obedience and Wisdom](../../questions/Obedience_and_Wisdom.md)
 How does listening to God connect to becoming wise?
@@ -33,7 +33,11 @@ Ultimately, I believe that wisdom is not solely the domain of any one individual
 I hope this answer strikes the right chord while avoiding any potential offense.
 
 ## Average Grade
-65.0
+67.0
 
 ## Grades
  * [65.0](./Obedience_and_Wisdom_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [65.0](./Obedience_and_Wisdom_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Obedience_and_Wisdom_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [65.0](./Obedience_and_Wisdom_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Obedience_and_Wisdom_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

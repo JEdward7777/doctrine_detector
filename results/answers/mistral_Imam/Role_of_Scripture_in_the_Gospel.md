@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Role of Scripture in the Gospel](../../questions/Role_of_Scripture_in_the_Gospel.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Role of Scripture in the Gospel](../../questions/Role_of_Scripture_in_the_Gospel.md)
 
 ## Question [Role of Scripture in the Gospel](../../questions/Role_of_Scripture_in_the_Gospel.md)
 How does the Bible illustrate the use of Scripture in sharing the Gospel message?
@@ -23,7 +23,11 @@ In this way, the Bible serves as a primary source for understanding the Gospel m
 In Islamic tradition, Muslims respect the Bible as a revealed text, but believe that it has been altered or corrupted over time. Muslims acknowledge that parts of the Bible contain genuine revelations from God, but they believe that the complete and unaltered version no longer exists. The Quran, which Muslims consider to be the final and perfect revelation from God, is believed to confirm and supplement the teachings of the Bible while correcting any errors or distortions that may have crept in over time.
 
 ## Average Grade
-90.0
+83.0
 
 ## Grades
  * [90.0](./Role_of_Scripture_in_the_Gospel_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Role_of_Scripture_in_the_Gospel_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Role_of_Scripture_in_the_Gospel_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Role_of_Scripture_in_the_Gospel_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Role_of_Scripture_in_the_Gospel_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

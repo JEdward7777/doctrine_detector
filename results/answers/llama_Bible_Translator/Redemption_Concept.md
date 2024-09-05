@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Redemption Concept](../../questions/Redemption_Concept.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Redemption Concept](../../questions/Redemption_Concept.md)
 
 ## Question [Redemption Concept](../../questions/Redemption_Concept.md)
 How does the concept of redemption in the Bible compare to the practice of redeeming people or property in ancient Israel?
@@ -32,7 +32,11 @@ The ultimate act of redemption came through Jesus Christ, who became the "Lamb o
 In summary, while ancient Israelite redemption referred to buying back lost or sold property, biblical redemption is about restoring the relationship between humans and God through Jesus Christ. The Bible uses various metaphors and themes to describe this process, ultimately pointing to the redemptive work of Jesus on the cross.
 
 ## Average Grade
-95.0
+91.0
 
 ## Grades
  * [95.0](./Redemption_Concept_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Redemption_Concept_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Redemption_Concept_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Redemption_Concept_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Redemption_Concept_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

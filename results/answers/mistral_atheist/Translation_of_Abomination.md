@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral atheist](../../answering_models/mistral_atheist.md) answer to [Translation of Abomination](../../questions/Translation_of_Abomination.md)
+# Generated Answer from [mistral atheist](../../answering_models/mistral_atheist.md) for [Translation of Abomination](../../questions/Translation_of_Abomination.md)
 
 ## Question [Translation of Abomination](../../questions/Translation_of_Abomination.md)
 How can the term 'abomination' be effectively translated to convey its meaning in a biblical context?
@@ -19,7 +19,11 @@ The meaning of 'abomination' can be effectively conveyed in a culturally respect
 It's important to note that translations can be subjective and may vary depending on the specific text, historical context, and interpretative approach employed. A comprehensive understanding of the cultural and religious background in which the term 'abomination' is used will help ensure an accurate and meaningful translation.
 
 ## Average Grade
-88.0
+86.6
 
 ## Grades
  * [88.0](./Translation_of_Abomination_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Translation_of_Abomination_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Translation_of_Abomination_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Translation_of_Abomination_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Translation_of_Abomination_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

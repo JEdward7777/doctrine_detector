@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma atheist](../../answering_models/gemma_atheist.md) answer to [Role of Repentance in Forgiveness](../../questions/Role_of_Repentance_in_Forgiveness.md)
+# Generated Answer from [gemma atheist](../../answering_models/gemma_atheist.md) for [Role of Repentance in Forgiveness](../../questions/Role_of_Repentance_in_Forgiveness.md)
 
 ## Question [Role of Repentance in Forgiveness](../../questions/Role_of_Repentance_in_Forgiveness.md)
 What is the relationship between repentance and forgiveness in the Bible?
@@ -45,7 +45,11 @@ While the Bible presents a complex and multifaceted theology of forgiveness and 
 From an atheological perspective, the relationship between repentance and forgiveness in the Bible can be reimagined as a dynamic and liberating process. By rejecting rigid transactional models and embracing a more nuanced understanding of both concepts, we can foster a more inclusive and restorative understanding of faith and forgiveness.
 
 ## Average Grade
-70.0
+75.0
 
 ## Grades
  * [70.0](./Role_of_Repentance_in_Forgiveness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Role_of_Repentance_in_Forgiveness_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Role_of_Repentance_in_Forgiveness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [75.0](./Role_of_Repentance_in_Forgiveness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Role_of_Repentance_in_Forgiveness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

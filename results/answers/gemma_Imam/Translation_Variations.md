@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Translation Variations](../../questions/Translation_Variations.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Translation Variations](../../questions/Translation_Variations.md)
 
 ## Question [Translation Variations](../../questions/Translation_Variations.md)
 What are some alternative translations for 'covenant faithfulness'?
@@ -23,7 +23,11 @@ Exploring different interpretations of biblical terms to deepen understanding.
 * **Adab:** This signifies the refinement of character and behavior, encompassing respect, humility, and trustworthiness.
 
 ## Average Grade
-75.0
+69.0
 
 ## Grades
  * [75.0](./Translation_Variations_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [75.0](./Translation_Variations_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Translation_Variations_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [75.0](./Translation_Variations_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Translation_Variations_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

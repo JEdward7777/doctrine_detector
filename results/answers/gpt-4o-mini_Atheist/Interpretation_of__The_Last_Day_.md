@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [Interpretation of 'The Last Day'](../../questions/Interpretation_of__The_Last_Day_.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [Interpretation of 'The Last Day'](../../questions/Interpretation_of__The_Last_Day_.md)
 
 ## Question [Interpretation of 'The Last Day'](../../questions/Interpretation_of__The_Last_Day_.md)
 What is meant by 'the last day' as referred to in Christian teaching?
@@ -27,7 +27,11 @@ Different Christian denominations may interpret "the last day" in varied ways, b
 Overall, "the last day" encapsulates the Christian hope for ultimate justice, restoration, and reconciliation with God at the conclusion of human history.
 
 ## Average Grade
-90.0
+80.0
 
 ## Grades
  * [90.0](./Interpretation_of__The_Last_Day__grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Interpretation_of__The_Last_Day__grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Interpretation_of__The_Last_Day__grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Interpretation_of__The_Last_Day__grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Interpretation_of__The_Last_Day__grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

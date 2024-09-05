@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Translation Suggestions](../../questions/Translation_Suggestions.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Translation Suggestions](../../questions/Translation_Suggestions.md)
 
 ## Question [Translation Suggestions](../../questions/Translation_Suggestions.md)
 What are some alternative translations for the phrase 'to be zealous' that reflect its biblical meaning?
@@ -30,7 +30,11 @@ The term "zealous" in the Bible often refers to a deep commitment to religious p
 In Islamic tradition, zeal is highly valued as an essential quality for believers. It encompasses the willingness to embrace religious duties, uphold Islamic values, and defend the faith with conviction and determination.
 
 ## Average Grade
-90.0
+85.0
 
 ## Grades
  * [90.0](./Translation_Suggestions_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Translation_Suggestions_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Translation_Suggestions_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Translation_Suggestions_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Translation_Suggestions_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

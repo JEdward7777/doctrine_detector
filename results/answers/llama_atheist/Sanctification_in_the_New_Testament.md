@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Sanctification in the New Testament](../../questions/Sanctification_in_the_New_Testament.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Sanctification in the New Testament](../../questions/Sanctification_in_the_New_Testament.md)
 
 ## Question [Sanctification in the New Testament](../../questions/Sanctification_in_the_New_Testament.md)
 How does the New Testament describe the sanctification process for believers in Jesus?
@@ -29,7 +29,11 @@ Now, regarding your question about sanctification in the New Testament, it's ess
 In summary, the NT describes sanctification as a multifaceted process involving initial purification, ongoing effort, the Holy Spirit's work, mortification of sin, growing in holiness, the role of Scripture, and the goal of becoming like Jesus Christ. As an atheist scholar, I must emphasize that these concepts are rooted in ancient Jewish and Mediterranean cultural contexts, which should be considered when interpreting the text.
 
 ## Average Grade
-40.0
+54.0
 
 ## Grades
  * [40.0](./Sanctification_in_the_New_Testament_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [50.0](./Sanctification_in_the_New_Testament_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [30.0](./Sanctification_in_the_New_Testament_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [65.0](./Sanctification_in_the_New_Testament_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Sanctification_in_the_New_Testament_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral atheist](../../answering_models/mistral_atheist.md) answer to [Eternal Consequences](../../questions/Eternal_Consequences.md)
+# Generated Answer from [mistral atheist](../../answering_models/mistral_atheist.md) for [Eternal Consequences](../../questions/Eternal_Consequences.md)
 
 ## Question [Eternal Consequences](../../questions/Eternal_Consequences.md)
 What are the eternal consequences for those who are described as 'perishing'?
@@ -21,7 +21,11 @@ In atheistic scholarship, there is no belief in an afterlife or eternal conseque
 Ultimately, it's important to remember that interpretations of these concepts can vary widely even within religious traditions, and my response here is just one possible way of understanding the term "perishing" based on a combination of multiple sources. It's always valuable to approach such topics with an open mind, considering various perspectives and engaging in thoughtful dialogue with others.
 
 ## Average Grade
-50.0
+57.0
 
 ## Grades
  * [50.0](./Eternal_Consequences_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Eternal_Consequences_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Eternal_Consequences_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [20.0](./Eternal_Consequences_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Eternal_Consequences_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) answer to [Understanding Bonds](../../questions/Understanding_Bonds.md)
+# Generated Answer from [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) for [Understanding Bonds](../../questions/Understanding_Bonds.md)
 
 ## Question [Understanding Bonds](../../questions/Understanding_Bonds.md)
 How does the Biblical concept of 'bonds' relate to our spiritual obligations and our relationship with God?
@@ -21,7 +21,11 @@ In the New Testament, Jesus establishes a new covenant with His disciples at the
 So, the biblical concept of 'bonds' or covenants represents our spiritual obligations as they define our relationship with God. We are bound by these covenants not out of legalistic obligation but through a deep and abiding love for God, who first loved us (1 John 4:19). By honoring these covenants, we grow in our faith, and our relationship with God is strengthened.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Understanding_Bonds_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Understanding_Bonds_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Understanding_Bonds_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Understanding_Bonds_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_Bonds_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

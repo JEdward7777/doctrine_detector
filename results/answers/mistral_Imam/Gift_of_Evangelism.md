@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Gift of Evangelism](../../questions/Gift_of_Evangelism.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Gift of Evangelism](../../questions/Gift_of_Evangelism.md)
 
 ## Question [Gift of Evangelism](../../questions/Gift_of_Evangelism.md)
 What distinguishes an evangelist from other Christians?
@@ -17,7 +17,11 @@ Understanding the spiritual gifts related to evangelism and their role in the ch
 In Islam, it is encouraged to share one's faith peacefully and respectfully with others, but Muslims should never force their beliefs upon others or engage in proselytizing activities that are disrespectful or coercive. This principle is emphasized in the Quran (2:256): "Let there be no compulsion in religion."
 
 ## Average Grade
-85.0
+73.0
 
 ## Grades
  * [85.0](./Gift_of_Evangelism_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Gift_of_Evangelism_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Gift_of_Evangelism_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Gift_of_Evangelism_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [40.0](./Gift_of_Evangelism_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

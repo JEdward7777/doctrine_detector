@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Translation of Hades](../../questions/Translation_of_Hades.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Translation of Hades](../../questions/Translation_of_Hades.md)
 
 ## Question [Translation of Hades](../../questions/Translation_of_Hades.md)
 What are some reliable translation options for the terms 'Hades' and 'Sheol' that respect their biblical meanings?
@@ -35,7 +35,11 @@ Remember that translations are always a compromise between conveying the origina
 What specific texts or contexts are you exploring? I'd be happy to help with more detailed analysis!
 
 ## Average Grade
-95.0
+90.0
 
 ## Grades
  * [95.0](./Translation_of_Hades_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Translation_of_Hades_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Translation_of_Hades_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Translation_of_Hades_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Translation_of_Hades_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

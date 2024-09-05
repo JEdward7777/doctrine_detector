@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Judgment of Others](../../questions/Judgment_of_Others.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Judgment of Others](../../questions/Judgment_of_Others.md)
 
 ## Question [Judgment of Others](../../questions/Judgment_of_Others.md)
 What does Jesus teach us about pointing out the faults of others in relation to our own faults?
@@ -21,7 +21,11 @@ Similarly, within Islam, there's a Hadith narrated by Bukhari (2469) where Proph
 By focusing on our own flaws and working towards personal growth, we create an environment of constructive dialogue, empathy, and understanding that fosters unity and promotes a spirit of cooperation in our communities. It is essential to remember that every person has their unique journey, and judging others based on our limited perspectives may hinder the process of mutual learning and guidance.
 
 ## Average Grade
-90.0
+88.0
 
 ## Grades
  * [90.0](./Judgment_of_Others_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Judgment_of_Others_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Judgment_of_Others_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Judgment_of_Others_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Judgment_of_Others_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) answer to [Historical Context](../../questions/Historical_Context.md)
+# Generated Answer from [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) for [Historical Context](../../questions/Historical_Context.md)
 
 ## Question [Historical Context](../../questions/Historical_Context.md)
 What biblical events illustrate the concept of 'remnant' as seen in Isaiah and Amos?
@@ -27,7 +27,11 @@ The concept of the 'remnant' is an important theme in the prophetic books of Isa
 The concept of the remnant serves as a powerful reminder that God always preserves a faithful group, providing hope and continuity of worship and obedience amid challenges and trials.
 
 ## Average Grade
-90.0
+91.0
 
 ## Grades
  * [90.0](./Historical_Context_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Historical_Context_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Historical_Context_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Historical_Context_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Historical_Context_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

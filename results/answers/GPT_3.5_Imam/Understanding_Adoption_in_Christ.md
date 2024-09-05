@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Understanding Adoption in Christ](../../questions/Understanding_Adoption_in_Christ.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Understanding Adoption in Christ](../../questions/Understanding_Adoption_in_Christ.md)
 
 ## Question [Understanding Adoption in Christ](../../questions/Understanding_Adoption_in_Christ.md)
 What does it mean to be adopted as a child of God according to Ephesians 1:5?
@@ -19,7 +19,11 @@ In Islam, being a child of God is understood in a spiritual sense, where believe
 Therefore, as Muslims, we do not interpret Ephesians 1:5 in the same way that it may be understood in a Christian context. Muslims believe in a direct and personal relationship with Allah as His servants and worshippers, seeking closeness to Him through faith, good deeds, and submission to His will.
 
 ## Average Grade
-60.0
+53.0
 
 ## Grades
  * [60.0](./Understanding_Adoption_in_Christ_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [30.0](./Understanding_Adoption_in_Christ_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [50.0](./Understanding_Adoption_in_Christ_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [40.0](./Understanding_Adoption_in_Christ_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_Adoption_in_Christ_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

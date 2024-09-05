@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Scriptural References 2](../../questions/Scriptural_References_2.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Scriptural References 2](../../questions/Scriptural_References_2.md)
 
 ## Question [Scriptural References 2](../../questions/Scriptural_References_2.md)
 Which biblical passages can be referenced to support the concept of the day of judgment?
@@ -25,7 +25,11 @@ It's essential to recognize that these passages, along with many others in Scrip
 Let us strive to create a welcoming space for dialogue, where individuals from diverse backgrounds and faith traditions can share their perspectives and insights without fear of judgment or ostracism. By doing so, we can foster greater understanding and cooperation, recognizing that our shared humanity is the foundation upon which we build a brighter future for all.
 
 ## Average Grade
-80.0
+84.0
 
 ## Grades
  * [80.0](./Scriptural_References_2_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Scriptural_References_2_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Scriptural_References_2_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Scriptural_References_2_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Scriptural_References_2_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

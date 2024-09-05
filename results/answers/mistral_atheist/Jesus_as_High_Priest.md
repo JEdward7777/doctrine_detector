@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral atheist](../../answering_models/mistral_atheist.md) answer to [Jesus as High Priest](../../questions/Jesus_as_High_Priest.md)
+# Generated Answer from [mistral atheist](../../answering_models/mistral_atheist.md) for [Jesus as High Priest](../../questions/Jesus_as_High_Priest.md)
 
 ## Question [Jesus as High Priest](../../questions/Jesus_as_High_Priest.md)
 How is Jesus referred to in relation to the priesthood, and what does this mean for the sacrifices made by human priests?
@@ -21,7 +21,11 @@ With Jesus as the Great High Priest, however, the need for such animal sacrifice
 This shift from human priests making sacrifices to Jesus as the eternal High Priest signifies a change in the nature of atonement and the relationship between God and humanity. It's important to note that interpretations can vary among different Christian denominations and traditions, so it's essential to consider the specific beliefs and teachings of the particular group being studied.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Jesus_as_High_Priest_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Jesus_as_High_Priest_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Jesus_as_High_Priest_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Jesus_as_High_Priest_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Jesus_as_High_Priest_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

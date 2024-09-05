@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Understanding Adoption in Christ](../../questions/Understanding_Adoption_in_Christ.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Understanding Adoption in Christ](../../questions/Understanding_Adoption_in_Christ.md)
 
 ## Question [Understanding Adoption in Christ](../../questions/Understanding_Adoption_in_Christ.md)
 What does it mean to be adopted as a child of God according to Ephesians 1:5?

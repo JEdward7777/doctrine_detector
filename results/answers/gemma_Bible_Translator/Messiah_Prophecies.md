@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Messiah Prophecies](../../questions/Messiah_Prophecies.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Messiah Prophecies](../../questions/Messiah_Prophecies.md)
 
 ## Question [Messiah Prophecies](../../questions/Messiah_Prophecies.md)
 What are some of the prophecies about the Messiah mentioned in the Old Testament, and how did Jesus fulfill them?

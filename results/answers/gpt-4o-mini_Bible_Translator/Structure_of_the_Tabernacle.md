@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) answer to [Structure of the Tabernacle](../../questions/Structure_of_the_Tabernacle.md)
+# Generated Answer from [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) for [Structure of the Tabernacle](../../questions/Structure_of_the_Tabernacle.md)
 
 ## Question [Structure of the Tabernacle](../../questions/Structure_of_the_Tabernacle.md)
 What were the two main sections of the tabernacle, and what was located in each?
@@ -25,7 +25,11 @@ The Tabernacle, as described in the Book of Exodus in the Bible, was divided int
 Access to the Most Holy Place was restricted to the High Priest and only on the Day of Atonement (Yom Kippur), highlighting the holiness of God and the need for atonement for sin.
 
 ## Average Grade
-90.0
+81.0
 
 ## Grades
  * [90.0](./Structure_of_the_Tabernacle_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Structure_of_the_Tabernacle_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Structure_of_the_Tabernacle_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Structure_of_the_Tabernacle_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [40.0](./Structure_of_the_Tabernacle_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

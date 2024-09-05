@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Definition of Holy One](../../questions/Definition_of_Holy_One.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Definition of Holy One](../../questions/Definition_of_Holy_One.md)
 
 ## Question [Definition of Holy One](../../questions/Definition_of_Holy_One.md)
 What is the significance of the term 'Holy One' in the Bible?

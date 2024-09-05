@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) answer to [Definition of the People of God](../../questions/Definition_of_the_People_of_God.md)
+# Generated Answer from [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) for [Definition of the People of God](../../questions/Definition_of_the_People_of_God.md)
 
 ## Question [Definition of the People of God](../../questions/Definition_of_the_People_of_God.md)
 What does it mean to be considered one of the 'people of God' in the Old Testament?
@@ -19,7 +19,11 @@ The People of God are those who have entered into a sacred bond with God, promis
 The New Testament continues this concept, as followers of Jesus Christ are also considered the People of God (1 Peter 2:9-10). They have been grafted in through faith in Jesus, continuing the covenantal relationship that began with Abraham and his descendants. The focus shifts from adherence to the Mosaic law to living out love for God and one another as a manifestation of the spirit of Christ.
 
 ## Average Grade
-90.0
+85.0
 
 ## Grades
  * [90.0](./Definition_of_the_People_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Definition_of_the_People_of_God_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Definition_of_the_People_of_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Definition_of_the_People_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [70.0](./Definition_of_the_People_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

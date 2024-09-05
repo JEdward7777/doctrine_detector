@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) answer to [Example of Parables](../../questions/Example_of_Parables.md)
+# Generated Answer from [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) for [Example of Parables](../../questions/Example_of_Parables.md)
 
 ## Question [Example of Parables](../../questions/Example_of_Parables.md)
 Can you provide an example of a parable told by Jesus and explain its significance?
@@ -23,7 +23,11 @@ In this parable, Jesus uses the act of sowing seeds to represent the word of God
 Jesus concludes by stating, "He who has ears to hear, let him hear" (Matthew 13:9), emphasizing the importance of not just hearing the word but actively listening with open hearts and minds to understand and apply its teachings in our lives.
 
 ## Average Grade
-90.0
+89.0
 
 ## Grades
  * [90.0](./Example_of_Parables_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Example_of_Parables_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Example_of_Parables_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Example_of_Parables_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Example_of_Parables_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

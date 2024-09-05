@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Cultural Practices](../../questions/Cultural_Practices.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Cultural Practices](../../questions/Cultural_Practices.md)
 
 ## Question [Cultural Practices](../../questions/Cultural_Practices.md)
 What cultural practices were associated with the Jewish view of Gentiles and how did they impact early Christian practices?
@@ -29,7 +29,11 @@ These cultural practices had significant impacts on early Christian communities:
 In conclusion, the Jewish view of Gentiles had significant cultural and theological impacts on early Christian practices. The separation between "clean" and "unclean," the emphasis on separation and holiness, and the development of apologetic strategies all shaped the early Christian community's identity and mission.
 
 ## Average Grade
-90.0
+87.4
 
 ## Grades
  * [90.0](./Cultural_Practices_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Cultural_Practices_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Cultural_Practices_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Cultural_Practices_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [92.0](./Cultural_Practices_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

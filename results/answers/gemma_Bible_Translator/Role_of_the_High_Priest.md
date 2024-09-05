@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Role of the High Priest](../../questions/Role_of_the_High_Priest.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Role of the High Priest](../../questions/Role_of_the_High_Priest.md)
 
 ## Question [Role of the High Priest](../../questions/Role_of_the_High_Priest.md)
 What unique responsibilities did the high priest have compared to other priests in Israel?

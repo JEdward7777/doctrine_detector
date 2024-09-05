@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [God's Revelation](../../questions/God_s_Revelation.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [God's Revelation](../../questions/God_s_Revelation.md)
 
 ## Question [God's Revelation](../../questions/God_s_Revelation.md)
 How does God introduce Himself using His name in the Bible?

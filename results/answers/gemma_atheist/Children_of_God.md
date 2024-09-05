@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma atheist](../../answering_models/gemma_atheist.md) answer to [Children of God](../../questions/Children_of_God.md)
+# Generated Answer from [gemma atheist](../../answering_models/gemma_atheist.md) for [Children of God](../../questions/Children_of_God.md)
 
 ## Question [Children of God](../../questions/Children_of_God.md)
 How does being referred to as 'children of God' impact the relationship between believers and God?
@@ -57,7 +57,11 @@ This understanding could deepen one’s faith and sense of belonging in the Chri
 * It can also perpetuate a narrow and exclusive understanding of Christianity, ignoring the diversity of beliefs and practices within the faith.
 
 ## Average Grade
-90.0
+83.6
 
 ## Grades
  * [90.0](./Children_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [88.0](./Children_of_God_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Children_of_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Children_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Children_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

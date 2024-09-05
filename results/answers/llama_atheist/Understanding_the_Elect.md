@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Understanding the Elect](../../questions/Understanding_the_Elect.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Understanding the Elect](../../questions/Understanding_the_Elect.md)
 
 ## Question [Understanding the Elect](../../questions/Understanding_the_Elect.md)
 What does it mean to be part of the 'elect' or 'chosen ones' according to the Bible?
@@ -33,7 +33,11 @@ Sources:
 * Luke 9:35
 
 ## Average Grade
-65.0
+55.0
 
 ## Grades
  * [65.0](./Understanding_the_Elect_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [45.0](./Understanding_the_Elect_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [20.0](./Understanding_the_Elect_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Understanding_the_Elect_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_the_Elect_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

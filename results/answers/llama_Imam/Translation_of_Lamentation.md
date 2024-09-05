@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Translation of Lamentation](../../questions/Translation_of_Lamentation.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Translation of Lamentation](../../questions/Translation_of_Lamentation.md)
 
 ## Question [Translation of Lamentation](../../questions/Translation_of_Lamentation.md)
 How can the translations of the word 'lament' enhance our understanding of its Biblical context?
@@ -34,7 +34,11 @@ Understanding the various translations of "lament" in a biblical context can hel
 While these insights may not directly impact our Islamic tradition, they can foster greater understanding and appreciation for the shared human experiences that exist across different religious contexts.
 
 ## Average Grade
-85.0
+84.0
 
 ## Grades
  * [85.0](./Translation_of_Lamentation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Translation_of_Lamentation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Translation_of_Lamentation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Translation_of_Lamentation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Translation_of_Lamentation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

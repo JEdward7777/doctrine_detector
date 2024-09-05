@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Definition Clarity](../../questions/Definition_Clarity.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Definition Clarity](../../questions/Definition_Clarity.md)
 
 ## Question [Definition Clarity](../../questions/Definition_Clarity.md)
 How is the term 'adultery' defined in the Christian context according to Scripture?

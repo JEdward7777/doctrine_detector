@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Value of the Kingdom](../../questions/Value_of_the_Kingdom.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Value of the Kingdom](../../questions/Value_of_the_Kingdom.md)
 
 ## Question [Value of the Kingdom](../../questions/Value_of_the_Kingdom.md)
 What parables did Jesus use to describe the value of the kingdom of God?
@@ -28,7 +28,11 @@ That being said, some of the most well-known parables attributed to Jesus includ
 While we may not have exact knowledge of Jesus' parables or teachings about the kingdom of God, these stories from Islamic and Christian traditions share common themes and moral lessons that can guide us on our spiritual journeys.
 
 ## Average Grade
-80.0
+75.0
 
 ## Grades
  * [80.0](./Value_of_the_Kingdom_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Value_of_the_Kingdom_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Value_of_the_Kingdom_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Value_of_the_Kingdom_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Value_of_the_Kingdom_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

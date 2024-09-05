@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Signs and Miracles](../../questions/Signs_and_Miracles.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Signs and Miracles](../../questions/Signs_and_Miracles.md)
 
 ## Question [Signs and Miracles](../../questions/Signs_and_Miracles.md)
 What role do signs and miracles play in proving the truth of God's message, as seen in the acts of Jesus and the apostles?
@@ -27,7 +27,11 @@ Ultimately, the role of signs and miracles in proving the truth of God's message
 So, let us continue this important conversation with sensitivity, respect, and a commitment to understanding one another. For in the end, it is our shared humanity that binds us together as we navigate the complexities of faith, doubt, and spiritual exploration. Thank you.
 
 ## Average Grade
-85.0
+77.0
 
 ## Grades
  * [85.0](./Signs_and_Miracles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [75.0](./Signs_and_Miracles_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Signs_and_Miracles_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Signs_and_Miracles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Signs_and_Miracles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

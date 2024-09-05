@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Differences in Terminology](../../questions/Differences_in_Terminology.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Differences in Terminology](../../questions/Differences_in_Terminology.md)
 
 ## Question [Differences in Terminology](../../questions/Differences_in_Terminology.md)
 What are the key differences between the terms 'exhort', 'encourage', and 'admonish'?
@@ -40,7 +40,11 @@ Clarifying the appropriate use of different forms of encouragement according to 
 * **Context:** Exhortations are typically religious or ethical in nature, encouragements are often more general, and admonitions are usually disciplinary.
 
 ## Average Grade
-90.0
+82.0
 
 ## Grades
  * [90.0](./Differences_in_Terminology_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Differences_in_Terminology_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Differences_in_Terminology_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Differences_in_Terminology_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Differences_in_Terminology_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

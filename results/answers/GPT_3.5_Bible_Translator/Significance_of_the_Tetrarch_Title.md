@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Significance of the Tetrarch Title](../../questions/Significance_of_the_Tetrarch_Title.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Significance of the Tetrarch Title](../../questions/Significance_of_the_Tetrarch_Title.md)
 
 ## Question [Significance of the Tetrarch Title](../../questions/Significance_of_the_Tetrarch_Title.md)
 What does the title 'tetrarch' reveal about the governance structure during the time of Jesus?
@@ -19,7 +19,11 @@ In the New Testament, the title "tetrarch" is specifically used to refer to Hero
 The existence of tetrarchs like Herod Antipas demonstrates the political complexity and fragmentation of power during the time of Jesus, as well as the influence of Roman rule over the region of Judea and surrounding areas. The title 'tetrarch' reveals the intricacies of governance and authority structures in place during the time of Jesus, highlighting the political context in which Jesus' ministry and teachings took place.
 
 ## Average Grade
-95.0
+89.8
 
 ## Grades
  * [95.0](./Significance_of_the_Tetrarch_Title_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Significance_of_the_Tetrarch_Title_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [94.0](./Significance_of_the_Tetrarch_Title_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Significance_of_the_Tetrarch_Title_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Significance_of_the_Tetrarch_Title_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

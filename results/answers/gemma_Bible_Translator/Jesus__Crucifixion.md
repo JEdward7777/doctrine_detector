@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Jesus’ Crucifixion](../../questions/Jesus__Crucifixion.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Jesus’ Crucifixion](../../questions/Jesus__Crucifixion.md)
 
 ## Question [Jesus’ Crucifixion](../../questions/Jesus__Crucifixion.md)
 What does the offer of wine mixed with myrrh indicate about Jesus' experience on the cross?

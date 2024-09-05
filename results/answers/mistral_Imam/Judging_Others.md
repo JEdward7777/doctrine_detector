@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Judging Others](../../questions/Judging_Others.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Judging Others](../../questions/Judging_Others.md)
 
 ## Question [Judging Others](../../questions/Judging_Others.md)
 What instructions does the Bible give regarding how Christians should judge each other?
@@ -25,7 +25,11 @@ The Bible offers guidance on how Christians should judge each other, and it emph
 These verses suggest that Christians should avoid judging others harshly or condemning them, but instead offer guidance, help, and support with humility and love. It's important to remember that everyone is on a unique spiritual journey, and we should strive to encourage each other rather than criticize or condemn.
 
 ## Average Grade
-95.0
+94.0
 
 ## Grades
  * [95.0](./Judging_Others_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Judging_Others_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Judging_Others_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Judging_Others_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Judging_Others_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

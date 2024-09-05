@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Understanding the Last Days](../../questions/Understanding_the_Last_Days.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Understanding the Last Days](../../questions/Understanding_the_Last_Days.md)
 
 ## Question [Understanding the Last Days](../../questions/Understanding_the_Last_Days.md)
 What do the 'last days' signify in relation to Jesus’ first and second comings?
@@ -21,7 +21,11 @@ However, it is important to note that different Christian denominations may have
 From an atheistic perspective, such beliefs are considered matters of faith rather than objective reality. As a scholar, it is important to approach these concepts with a critical and analytical mindset, recognizing that they are part of a religious tradition and theological framework rather than scientifically verifiable truths.
 
 ## Average Grade
-60.0
+63.0
 
 ## Grades
  * [60.0](./Understanding_the_Last_Days_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [60.0](./Understanding_the_Last_Days_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Understanding_the_Last_Days_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [50.0](./Understanding_the_Last_Days_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_the_Last_Days_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

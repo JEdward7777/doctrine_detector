@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [The Role of Cleansing in Christianity](../../questions/The_Role_of_Cleansing_in_Christianity.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [The Role of Cleansing in Christianity](../../questions/The_Role_of_Cleansing_in_Christianity.md)
 
 ## Question [The Role of Cleansing in Christianity](../../questions/The_Role_of_Cleansing_in_Christianity.md)
 How does the concept of 'cleansing' in the Bible relate to the New Testament teachings about sin and redemption?
@@ -19,7 +19,11 @@ Jesus taught that true cleansing and forgiveness of sins come not from following
 In essence, the concept of 'cleansing' in the Bible is transformed in the New Testament to emphasize the spiritual renewal and transformation of individuals through faith in Jesus Christ, rather than just external rituals or sacrifices. It is through this understanding of sin and redemption that believers are able to experience true cleansing and forgiveness in the eyes of God.
 
 ## Average Grade
-92.0
+91.4
 
 ## Grades
  * [92.0](./The_Role_of_Cleansing_in_Christianity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./The_Role_of_Cleansing_in_Christianity_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./The_Role_of_Cleansing_in_Christianity_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./The_Role_of_Cleansing_in_Christianity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./The_Role_of_Cleansing_in_Christianity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

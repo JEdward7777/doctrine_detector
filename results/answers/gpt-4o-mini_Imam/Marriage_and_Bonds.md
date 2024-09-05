@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Marriage and Bonds](../../questions/Marriage_and_Bonds.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Marriage and Bonds](../../questions/Marriage_and_Bonds.md)
 
 ## Question [Marriage and Bonds](../../questions/Marriage_and_Bonds.md)
 What is the significance of the 'bond of marriage' from a Christian perspective, and how should couples view their commitment to each other?
@@ -21,7 +21,11 @@ Furthermore, Christians often see marriage as an opportunity to practice virtues
 In sum, the significance of the bond of marriage in Christianity lies in its covenantal nature, reflecting divine love and intent, while urging couples to uphold their commitment with sincerity, faith, and mutual support.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Marriage_and_Bonds_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Marriage_and_Bonds_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Marriage_and_Bonds_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Marriage_and_Bonds_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Marriage_and_Bonds_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

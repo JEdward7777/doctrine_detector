@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) answer to [Scriptural References 5](../../questions/Scriptural_References_5.md)
+# Generated Answer from [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) for [Scriptural References 5](../../questions/Scriptural_References_5.md)
 
 ## Question [Scriptural References 5](../../questions/Scriptural_References_5.md)
 Which New Testament verses indicate a shift in the understanding of Hades from a neutral place for all the dead to a location associated with the unrighteous?
@@ -25,7 +25,11 @@ The New Testament does show a shift in the understanding of Hades, moving from a
 These illustrations, among others in the New Testament, contribute to a developing understanding of Hades as a place with moral implications, particularly in relation to the fate of the unrighteous. It's important to approach these interpretations with an awareness of the cultural and theological contexts in which they were written.
 
 ## Average Grade
-90.0
+91.0
 
 ## Grades
  * [90.0](./Scriptural_References_5_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Scriptural_References_5_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Scriptural_References_5_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Scriptural_References_5_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Scriptural_References_5_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

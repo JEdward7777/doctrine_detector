@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) answer to [Temple as God's Dwelling](../../questions/Temple_as_God_s_Dwelling.md)
+# Generated Answer from [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) for [Temple as God's Dwelling](../../questions/Temple_as_God_s_Dwelling.md)
 
 ## Question [Temple as God's Dwelling](../../questions/Temple_as_God_s_Dwelling.md)
 How is the concept of the temple as God's dwelling expressed in both the Old and New Testaments?
@@ -25,7 +25,11 @@ Moreover, the Book of Revelation culminates this theme by envisioning a future w
 In summary, both Testaments present the temple as a vital concept of God's dwelling, evolving from a physical location in the Old Testament to a more relational and spiritual understanding in the New Testament, ultimately focusing on the indwelling of God among His people and the promise of eternal communion. This progression invites believers from all backgrounds to experience a personal relationship with God.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Temple_as_God_s_Dwelling_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Temple_as_God_s_Dwelling_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Temple_as_God_s_Dwelling_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Temple_as_God_s_Dwelling_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Temple_as_God_s_Dwelling_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

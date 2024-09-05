@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Pardon in Christianity](../../questions/Pardon_in_Christianity.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Pardon in Christianity](../../questions/Pardon_in_Christianity.md)
 
 ## Question [Pardon in Christianity](../../questions/Pardon_in_Christianity.md)
 How does the concept of pardon relate to God's forgiveness of sin through Jesus Christ?
@@ -21,7 +21,11 @@ The Quran emphasizes that Allah's mercy encompasses all things (Quran 7:156) and
 Thus, while both religions hold the concept of forgiveness in high esteem, the means by which forgiveness is obtained differs significantly. In Islam, the forgiveness of sins is accomplished through sincere repentance to Allah alone, without the need for any intermediary figure. This underscores the importance of individual accountability and the direct relationship between believers and their Creator.
 
 ## Average Grade
-85.0
+79.0
 
 ## Grades
  * [85.0](./Pardon_in_Christianity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Pardon_in_Christianity_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [75.0](./Pardon_in_Christianity_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Pardon_in_Christianity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Pardon_in_Christianity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

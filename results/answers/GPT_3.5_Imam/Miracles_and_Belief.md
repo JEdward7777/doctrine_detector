@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Miracles and Belief](../../questions/Miracles_and_Belief.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Miracles and Belief](../../questions/Miracles_and_Belief.md)
 
 ## Question [Miracles and Belief](../../questions/Miracles_and_Belief.md)
 How do miracles function as signs that lead to belief in God?
@@ -23,7 +23,11 @@ Miracles are also meant to provoke reflection and contemplation among people. Th
 Ultimately, miracles serve as a means to strengthen one's faith and belief in God. They provide a tangible and visible demonstration of His existence and power, encouraging people to turn to Him in worship and submission. However, it is important to remember that while miracles can serve as signs that lead to belief, faith ultimately comes from within and is a personal choice that each individual must make.
 
 ## Average Grade
-85.0
+87.0
 
 ## Grades
  * [85.0](./Miracles_and_Belief_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Miracles_and_Belief_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Miracles_and_Belief_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Miracles_and_Belief_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Miracles_and_Belief_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

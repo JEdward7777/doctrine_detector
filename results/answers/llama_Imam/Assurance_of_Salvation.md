@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Assurance of Salvation](../../questions/Assurance_of_Salvation.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Assurance of Salvation](../../questions/Assurance_of_Salvation.md)
 
 ## Question [Assurance of Salvation](../../questions/Assurance_of_Salvation.md)
 What assurance is given to those who believe in Jesus?
@@ -29,7 +29,11 @@ Furthermore, in Islamic tradition, it is believed that those who believe in Jesu
 In conclusion, while there may be differences between Islamic and Christian beliefs about Jesus' nature and role, the Quranic account of Jesus provides assurance to those who believe in him that their faith is rewarded by Allah. This is a fundamental aspect of Muslim-Christian dialogue and mutual understanding.
 
 ## Average Grade
-30.0
+50.0
 
 ## Grades
  * [30.0](./Assurance_of_Salvation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [60.0](./Assurance_of_Salvation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Assurance_of_Salvation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [30.0](./Assurance_of_Salvation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Assurance_of_Salvation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

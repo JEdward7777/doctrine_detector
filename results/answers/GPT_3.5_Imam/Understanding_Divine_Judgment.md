@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Understanding Divine Judgment](../../questions/Understanding_Divine_Judgment.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Understanding Divine Judgment](../../questions/Understanding_Divine_Judgment.md)
 
 ## Question [Understanding Divine Judgment](../../questions/Understanding_Divine_Judgment.md)
 What does the Bible say about God’s judgment and how does it differ from human judgment?
@@ -21,7 +21,11 @@ Human judgment, on the other hand, is fallible and subjective. People are prone 
 Overall, the main difference between God's judgment and human judgment lies in their nature and scope. While human judgment is limited, God's judgment is perfect, all-encompassing, and ultimately just. Muslims are instructed to seek Allah's mercy and forgiveness and to trust in His ultimate wisdom and justice in the Day of Judgment.
 
 ## Average Grade
-95.0
+90.0
 
 ## Grades
  * [95.0](./Understanding_Divine_Judgment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Understanding_Divine_Judgment_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Understanding_Divine_Judgment_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Understanding_Divine_Judgment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_Divine_Judgment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

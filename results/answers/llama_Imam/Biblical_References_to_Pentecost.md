@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Biblical References to Pentecost](../../questions/Biblical_References_to_Pentecost.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Biblical References to Pentecost](../../questions/Biblical_References_to_Pentecost.md)
 
 ## Question [Biblical References to Pentecost](../../questions/Biblical_References_to_Pentecost.md)
 Which books of the Bible contain references to the Festival of Weeks and its significance?
@@ -29,7 +29,11 @@ In Christian Bibles (New Testament), Pentecost is mentioned in:
 Please note that these references are not necessarily related to Islamic beliefs or practices, as they pertain specifically to Jewish and Christian traditions. However, I hope this information is helpful in understanding the context and significance of the Festival of Weeks within the broader Abrahamic faiths.
 
 ## Average Grade
-50.0
+64.0
 
 ## Grades
  * [50.0](./Biblical_References_to_Pentecost_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [60.0](./Biblical_References_to_Pentecost_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Biblical_References_to_Pentecost_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [50.0](./Biblical_References_to_Pentecost_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Biblical_References_to_Pentecost_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Multiple gods](../../questions/Multiple_gods.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Multiple gods](../../questions/Multiple_gods.md)
 
 ## Question [Multiple gods](../../questions/Multiple_gods.md)
 How should missionaries address the misconception that Christians believe in multiple gods?
@@ -28,7 +28,11 @@ To address this issue, I recommend that missionaries:
 By following these suggestions, missionaries can help to clear up the misconception that Christianity is polytheistic and instead present a more nuanced understanding of Trinitarian theology that is both biblically grounded and culturally sensitive.
 
 ## Average Grade
-85.0
+89.4
 
 ## Grades
  * [85.0](./Multiple_gods_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Multiple_gods_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Multiple_gods_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Multiple_gods_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [92.0](./Multiple_gods_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

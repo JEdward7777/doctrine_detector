@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Biblical References 5](../../questions/Biblical_References_5.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Biblical References 5](../../questions/Biblical_References_5.md)
 
 ## Question [Biblical References 5](../../questions/Biblical_References_5.md)
 Which New Testament scripture connects the concept of unleavened bread to Christian teachings?
@@ -17,7 +17,11 @@ The concept of unleavened bread is often connected to Christian teachings in the
 This connection is significant because during the Last Supper, Jesus and his disciples were observing the Jewish Passover meal, which traditionally includes the consumption of unleavened bread as a symbol of the Israelites' hurried departure from Egypt when they did not have time to let their bread rise. Christians see the consumption of unleavened bread during the Last Supper as symbolic of the new covenant established through Jesus' sacrifice.
 
 ## Average Grade
-90.0
+88.0
 
 ## Grades
  * [90.0](./Biblical_References_5_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Biblical_References_5_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Biblical_References_5_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Biblical_References_5_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Biblical_References_5_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

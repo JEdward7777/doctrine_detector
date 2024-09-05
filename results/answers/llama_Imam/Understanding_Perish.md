@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Understanding Perish](../../questions/Understanding_Perish.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Understanding Perish](../../questions/Understanding_Perish.md)
 
 ## Question [Understanding Perish](../../questions/Understanding_Perish.md)
 What does it mean to 'perish' in a spiritual sense according to the New Testament?
@@ -23,7 +23,11 @@ It's essential to note that this concept is distinct from the Muslim understandi
 In conclusion, while the concept of "perishing" may have parallels with Muslim concepts such as punishment or separation from Allah, it remains a uniquely Christian doctrine that should be approached with sensitivity and respect for the differences between our two religious traditions.
 
 ## Average Grade
-90.0
+86.0
 
 ## Grades
  * [90.0](./Understanding_Perish_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Understanding_Perish_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Understanding_Perish_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Understanding_Perish_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_Perish_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

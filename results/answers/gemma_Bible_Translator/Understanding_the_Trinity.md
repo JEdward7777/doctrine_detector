@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Understanding the Trinity](../../questions/Understanding_the_Trinity.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Understanding the Trinity](../../questions/Understanding_the_Trinity.md)
 
 ## Question [Understanding the Trinity](../../questions/Understanding_the_Trinity.md)
 How can God exist as God the Father, God the Son, and God the Holy Spirit while being one God?

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Use in Burial](../../questions/Use_in_Burial.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Use in Burial](../../questions/Use_in_Burial.md)
 
 ## Question [Use in Burial](../../questions/Use_in_Burial.md)
 How was myrrh used in the context of burial practices in biblical times?

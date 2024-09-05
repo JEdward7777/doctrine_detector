@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [New Testament Instruction](../../questions/New_Testament_Instruction.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [New Testament Instruction](../../questions/New_Testament_Instruction.md)
 
 ## Question [New Testament Instruction](../../questions/New_Testament_Instruction.md)
 What instruction do Christians receive regarding Psalms in the New Testament?

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) answer to [Historical Examples](../../questions/Historical_Examples.md)
+# Generated Answer from [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) for [Historical Examples](../../questions/Historical_Examples.md)
 
 ## Question [Historical Examples](../../questions/Historical_Examples.md)
 Can you provide examples of individuals from the Bible who built altars and the significance of those acts?
@@ -29,7 +29,11 @@ Certainly! In the Bible, several individuals are noted for building altars, and 
 The act of building altars in the Bible often signifies a personal or communal act of worship, a response to God's divine interventions, and a physical manifestation of faith. Altars served as places for sacrifice, remembrance, and establishing covenants, and highlighted the importance of acknowledging God's presence and authority in the lives of the people.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Historical_Examples_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Historical_Examples_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Historical_Examples_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Historical_Examples_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Historical_Examples_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Ministry Definition](../../questions/Ministry_Definition.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Ministry Definition](../../questions/Ministry_Definition.md)
 
 ## Question [Ministry Definition](../../questions/Ministry_Definition.md)
 What does it mean to 'minister' to others according to the Bible?
@@ -19,7 +19,11 @@ As Muslims, we are taught to be of service to others, to show kindness, compassi
 In a broader sense, the idea of "ministering" to others in Islam can be seen as fulfilling our duty as Muslims to enjoin good and forbid evil, to call people to the truth and righteousness, and to guide them on the path of Islam. Ultimately, our goal is to help others attain closeness to Allah and lead a life that is pleasing to Him.
 
 ## Average Grade
-65.0
+63.0
 
 ## Grades
  * [65.0](./Ministry_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [60.0](./Ministry_Definition_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Ministry_Definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Ministry_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [70.0](./Ministry_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

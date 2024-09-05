@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Understanding Amen](../../questions/Understanding_Amen.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Understanding Amen](../../questions/Understanding_Amen.md)
 
 ## Question [Understanding Amen](../../questions/Understanding_Amen.md)
 What does the term 'amen' signify when used at the end of a prayer?
@@ -19,7 +19,11 @@ In Islamic tradition, 'amen' is an Arabic word that means "so be it" or "thus it
 The use of 'amen' in Islamic prayers is rooted in the Quran and Sunnah. The Prophet Muhammad (peace be upon him) is reported to have used 'amen' frequently in his prayers and supplications.
 
 ## Average Grade
-20.0
+40.0
 
 ## Grades
  * [20.0](./Understanding_Amen_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [20.0](./Understanding_Amen_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [40.0](./Understanding_Amen_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Understanding_Amen_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Understanding_Amen_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

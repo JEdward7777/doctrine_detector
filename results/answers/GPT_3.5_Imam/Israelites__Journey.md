@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Israelites' Journey](../../questions/Israelites__Journey.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Israelites' Journey](../../questions/Israelites__Journey.md)
 
 ## Question [Israelites' Journey](../../questions/Israelites__Journey.md)
 How did the Israelites' journey to the Promised Land demonstrate God's faithfulness?
@@ -25,3 +25,7 @@ Overall, the Israelites' journey to the Promised Land serves as a powerful remin
 
 ## Grades
  * [90.0](./Israelites__Journey_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Israelites__Journey_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Israelites__Journey_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Israelites__Journey_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Israelites__Journey_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Spiritual Significance of Circumcision](../../questions/Spiritual_Significance_of_Circumcision.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Spiritual Significance of Circumcision](../../questions/Spiritual_Significance_of_Circumcision.md)
 
 ## Question [Spiritual Significance of Circumcision](../../questions/Spiritual_Significance_of_Circumcision.md)
 What does the phrase 'circumcision of the heart' symbolize in a Christian context?
@@ -17,7 +17,11 @@ Understanding the spiritual implications of physical practices in modern Christi
 In Christian teachings, this concept is not directly related to physical circumcision as it is in Islam but rather represents a spiritual journey toward salvation and holiness. The importance of the heart in this context lies in its symbolism for human emotions, thoughts, and the core of one's being – the place where faith resides.
 
 ## Average Grade
-90.0
+88.0
 
 ## Grades
  * [90.0](./Spiritual_Significance_of_Circumcision_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Spiritual_Significance_of_Circumcision_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Spiritual_Significance_of_Circumcision_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Spiritual_Significance_of_Circumcision_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Spiritual_Significance_of_Circumcision_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

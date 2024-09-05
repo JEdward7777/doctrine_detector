@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral atheist](../../answering_models/mistral_atheist.md) answer to [Old Testament Ministry](../../questions/Old_Testament_Ministry.md)
+# Generated Answer from [mistral atheist](../../answering_models/mistral_atheist.md) for [Old Testament Ministry](../../questions/Old_Testament_Ministry.md)
 
 ## Question [Old Testament Ministry](../../questions/Old_Testament_Ministry.md)
 How did the priests in the Old Testament carry out their ministry in the temple?
@@ -29,7 +29,11 @@ The high priest, who was the most senior of all the priests, held a special posi
 It is important to note that this answer provides a general overview of priestly duties in the Old Testament and may not reflect the specific practices of all ancient temples or historical periods. Additionally, interpretations and understandings of these practices can vary greatly among scholars, religious groups, and cultural contexts.
 
 ## Average Grade
-90.0
+83.0
 
 ## Grades
  * [90.0](./Old_Testament_Ministry_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Old_Testament_Ministry_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Old_Testament_Ministry_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Old_Testament_Ministry_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Old_Testament_Ministry_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

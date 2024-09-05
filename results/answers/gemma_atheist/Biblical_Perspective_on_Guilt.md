@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma atheist](../../answering_models/gemma_atheist.md) answer to [Biblical Perspective on Guilt](../../questions/Biblical_Perspective_on_Guilt.md)
+# Generated Answer from [gemma atheist](../../answering_models/gemma_atheist.md) for [Biblical Perspective on Guilt](../../questions/Biblical_Perspective_on_Guilt.md)
 
 ## Question [Biblical Perspective on Guilt](../../questions/Biblical_Perspective_on_Guilt.md)
 How does the Bible illustrate the consequences of guilt and sin?
@@ -45,7 +45,11 @@ An atheological approach challenges the idea of a supernatural creator and empha
 While the Bible offers valuable insights into the human experience of guilt and sin, interpreting these texts critically and considering their cultural contexts is crucial for responsible engagement. Alternative perspectives provide valuable frameworks for understanding these concepts without resorting to supernatural explanations.
 
 ## Average Grade
-70.0
+49.0
 
 ## Grades
  * [70.0](./Biblical_Perspective_on_Guilt_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [60.0](./Biblical_Perspective_on_Guilt_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [30.0](./Biblical_Perspective_on_Guilt_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [65.0](./Biblical_Perspective_on_Guilt_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [20.0](./Biblical_Perspective_on_Guilt_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

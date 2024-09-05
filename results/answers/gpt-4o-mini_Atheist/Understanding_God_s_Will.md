@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [Understanding God's Will](../../questions/Understanding_God_s_Will.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [Understanding God's Will](../../questions/Understanding_God_s_Will.md)
 
 ## Question [Understanding God's Will](../../questions/Understanding_God_s_Will.md)
 What does it mean to seek God's will in our everyday decisions?
@@ -19,7 +19,11 @@ From a more secular or atheistic perspective, one might interpret this concept a
 Ultimately, whether approached from a theistic or non-theistic lens, the core idea revolves around making thoughtful choices that resonate with one's values and the broader impacts those choices have on oneself and others.
 
 ## Average Grade
-60.0
+67.0
 
 ## Grades
  * [60.0](./Understanding_God_s_Will_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [50.0](./Understanding_God_s_Will_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [75.0](./Understanding_God_s_Will_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [65.0](./Understanding_God_s_Will_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_God_s_Will_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

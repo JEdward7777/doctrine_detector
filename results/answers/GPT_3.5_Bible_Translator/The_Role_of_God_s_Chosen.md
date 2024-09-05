@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [The Role of God's Chosen](../../questions/The_Role_of_God_s_Chosen.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [The Role of God's Chosen](../../questions/The_Role_of_God_s_Chosen.md)
 
 ## Question [The Role of God's Chosen](../../questions/The_Role_of_God_s_Chosen.md)
 How were figures like Moses and King David considered 'chosen ones'? What does this imply about God's selection process?
@@ -19,7 +19,11 @@ The fact that Moses and David were chosen by God implies that God's selection pr
 Ultimately, the selection of individuals like Moses and David as 'chosen ones' highlights God's grace, mercy, and sovereignty in working through imperfect and flawed individuals to accomplish His redemptive purposes in the world. It is a reminder that God's ways are higher than our ways, and His selection process is based on His perfect wisdom and purposes.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./The_Role_of_God_s_Chosen_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./The_Role_of_God_s_Chosen_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./The_Role_of_God_s_Chosen_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./The_Role_of_God_s_Chosen_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./The_Role_of_God_s_Chosen_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

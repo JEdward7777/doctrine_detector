@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Nazirite Vow Significance](../../questions/Nazirite_Vow_Significance.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Nazirite Vow Significance](../../questions/Nazirite_Vow_Significance.md)
 
 ## Question [Nazirite Vow Significance](../../questions/Nazirite_Vow_Significance.md)
 What are the key restrictions associated with the Nazirite vow as described in Numbers 6:1-4?

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Nature of Exhortation](../../questions/Nature_of_Exhortation.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Nature of Exhortation](../../questions/Nature_of_Exhortation.md)
 
 ## Question [Nature of Exhortation](../../questions/Nature_of_Exhortation.md)
 How should Christians approach exhortation according to the teachings of the New Testament?
@@ -21,7 +21,11 @@ Another important aspect of exhortation is the need for humility. In Galatians 6
 Overall, Christians should approach exhortation with a heart of love, humility, and a desire to see others grow in their faith and relationship with God. It should always be done in a spirit of gentleness and with the goal of building up the body of Christ.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Nature_of_Exhortation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Nature_of_Exhortation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Nature_of_Exhortation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Nature_of_Exhortation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Nature_of_Exhortation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

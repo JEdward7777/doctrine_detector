@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Lord’s Supper Definition](../../questions/Lord_s_Supper_Definition.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Lord’s Supper Definition](../../questions/Lord_s_Supper_Definition.md)
 
 ## Question [Lord’s Supper Definition](../../questions/Lord_s_Supper_Definition.md)
 What significant event does the Lord’s Supper commemorate?
@@ -29,3 +29,7 @@ In conclusion, while the Lord's Supper holds deep meaning for Christians, as a n
 
 ## Grades
  * [80.0](./Lord_s_Supper_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Lord_s_Supper_Definition_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [65.0](./Lord_s_Supper_Definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Lord_s_Supper_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Lord_s_Supper_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

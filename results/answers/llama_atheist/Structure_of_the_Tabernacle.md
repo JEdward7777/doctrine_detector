@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Structure of the Tabernacle](../../questions/Structure_of_the_Tabernacle.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Structure of the Tabernacle](../../questions/Structure_of_the_Tabernacle.md)
 
 ## Question [Structure of the Tabernacle](../../questions/Structure_of_the_Tabernacle.md)
 What were the two main sections of the tabernacle, and what was located in each?
@@ -33,7 +33,11 @@ From an anthropological and cultural perspective, the Tabernacle can be seen as 
 Keep in mind that this analysis is based on historical and cultural research, rather than any theological or religious interpretations.
 
 ## Average Grade
-70.0
+67.0
 
 ## Grades
  * [70.0](./Structure_of_the_Tabernacle_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [50.0](./Structure_of_the_Tabernacle_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Structure_of_the_Tabernacle_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Structure_of_the_Tabernacle_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Structure_of_the_Tabernacle_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

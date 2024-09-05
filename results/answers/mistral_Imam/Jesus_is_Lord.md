@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Jesus is Lord](../../questions/Jesus_is_Lord.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Jesus is Lord](../../questions/Jesus_is_Lord.md)
 
 ## Question [Jesus is Lord](../../questions/Jesus_is_Lord.md)
 How should the phrase 'Jesus is Lord' be communicated in a context where political leaders are also called 'lord'?
@@ -21,7 +21,11 @@ In a context where political leaders are also referred to as 'lord,' it's crucia
 It's always important to communicate religious beliefs with clarity and sensitivity, taking into account cultural contexts and potential misunderstandings.
 
 ## Average Grade
-85.0
+76.0
 
 ## Grades
  * [85.0](./Jesus_is_Lord_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Jesus_is_Lord_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [75.0](./Jesus_is_Lord_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Jesus_is_Lord_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Jesus_is_Lord_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

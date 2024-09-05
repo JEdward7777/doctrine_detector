@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Nature of Miracles](../../questions/Nature_of_Miracles.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Nature of Miracles](../../questions/Nature_of_Miracles.md)
 
 ## Question [Nature of Miracles](../../questions/Nature_of_Miracles.md)
 What do the miracles performed by Jesus reveal about His identity?
@@ -48,7 +48,11 @@ The Quran and Sunnah confirm that Jesus performed miracles as a sign from Allah 
 **These miracles are not merely isolated events but are central to the Islamic understanding of Jesus' identity and mission.** They serve as powerful evidence of his divine nature and his role as the promised Messiah.
 
 ## Average Grade
-90.0
+89.0
 
 ## Grades
  * [90.0](./Nature_of_Miracles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Nature_of_Miracles_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Nature_of_Miracles_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Nature_of_Miracles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Nature_of_Miracles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

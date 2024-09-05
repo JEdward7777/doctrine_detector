@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Use term 'Father' when referring to God](../../questions/Use_term__Father__when_referring_to_God.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Use term 'Father' when referring to God](../../questions/Use_term__Father__when_referring_to_God.md)
 
 ## Question [Use term 'Father' when referring to God](../../questions/Use_term__Father__when_referring_to_God.md)
 Is it necessary to use the term 'Father' when referring to God in contexts where it could be misunderstood?

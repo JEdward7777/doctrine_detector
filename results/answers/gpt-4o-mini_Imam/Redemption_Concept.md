@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Redemption Concept](../../questions/Redemption_Concept.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Redemption Concept](../../questions/Redemption_Concept.md)
 
 ## Question [Redemption Concept](../../questions/Redemption_Concept.md)
 How does the concept of redemption in the Bible compare to the practice of redeeming people or property in ancient Israel?
@@ -27,7 +27,11 @@ While both concepts of redemption involve the ideas of restoration and recovery,
 Both concepts, however, can be tied together through the overarching theme of God's mercy and the restoration of His people, whether in a spiritual or societal context. In Islam as well, redemption and the mercy of Allah play crucial roles in the belief of salvation and forgiveness, reflecting a similar concern for justice and moral rectitude within the community.
 
 ## Average Grade
-90.0
+84.0
 
 ## Grades
  * [90.0](./Redemption_Concept_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Redemption_Concept_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Redemption_Concept_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Redemption_Concept_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Redemption_Concept_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

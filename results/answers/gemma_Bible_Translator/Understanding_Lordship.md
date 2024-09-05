@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Understanding Lordship](../../questions/Understanding_Lordship.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Understanding Lordship](../../questions/Understanding_Lordship.md)
 
 ## Question [Understanding Lordship](../../questions/Understanding_Lordship.md)
 What does the term 'Lord' signify in relation to God and Jesus according to the Bible?

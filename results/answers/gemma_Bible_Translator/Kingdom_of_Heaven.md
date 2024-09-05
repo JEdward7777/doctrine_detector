@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Kingdom of Heaven](../../questions/Kingdom_of_Heaven.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Kingdom of Heaven](../../questions/Kingdom_of_Heaven.md)
 
 ## Question [Kingdom of Heaven](../../questions/Kingdom_of_Heaven.md)
 Why is it important to retain the term 'heaven' in the phrase 'kingdom of heaven' in the book of Matthew?

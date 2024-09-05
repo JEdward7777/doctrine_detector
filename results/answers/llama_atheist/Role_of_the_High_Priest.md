@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Role of the High Priest](../../questions/Role_of_the_High_Priest.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Role of the High Priest](../../questions/Role_of_the_High_Priest.md)
 
 ## Question [Role of the High Priest](../../questions/Role_of_the_High_Priest.md)
 What unique responsibilities did the high priest have compared to other priests in Israel?
@@ -28,7 +28,11 @@ In summary, the high priest's unique responsibilities included overseeing annual
 Please note that this answer is based on a non-theological, historical- cultural perspective, focusing on the social and ceremonial aspects of the high priest's role.
 
 ## Average Grade
-90.0
+81.0
 
 ## Grades
  * [90.0](./Role_of_the_High_Priest_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Role_of_the_High_Priest_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Role_of_the_High_Priest_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Role_of_the_High_Priest_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Role_of_the_High_Priest_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Stoning as Punishment](../../questions/Stoning_as_Punishment.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Stoning as Punishment](../../questions/Stoning_as_Punishment.md)
 
 ## Question [Stoning as Punishment](../../questions/Stoning_as_Punishment.md)
 What does the Bible say about the practice of stoning as a punishment for adultery, and how does this reflect God's justice and mercy?
@@ -38,7 +38,11 @@ It is also important to note that Jesus Christ, in His teachings and actions, su
 In summary, while the practice of stoning as a punishment for adultery may seem harsh to us today, it was intended to maintain social order and uphold God's laws in the cultural context of ancient Israel. At the same time, we see glimpses of God's mercy and compassion throughout these passages, as well as in His broader teachings about love, forgiveness, and redemption through Jesus Christ.
 
 ## Average Grade
-90.0
+88.4
 
 ## Grades
  * [90.0](./Stoning_as_Punishment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Stoning_as_Punishment_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [92.0](./Stoning_as_Punishment_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Stoning_as_Punishment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Stoning_as_Punishment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Jesus as High Priest](../../questions/Jesus_as_High_Priest.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Jesus as High Priest](../../questions/Jesus_as_High_Priest.md)
 
 ## Question [Jesus as High Priest](../../questions/Jesus_as_High_Priest.md)
 How is Jesus referred to in relation to the priesthood, and what does this mean for the sacrifices made by human priests?
@@ -21,7 +21,11 @@ The Islamic view does not uphold that human priests have any role in making sacr
 In summary, Jesus is not referred to in relation to the priesthood or its associated sacrifices, as understood in Judaism or Christianity. Instead, he is considered a Prophet of God who guided humanity to worship and serve Allah (God) sincerely.
 
 ## Average Grade
-20.0
+34.0
 
 ## Grades
  * [20.0](./Jesus_as_High_Priest_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [40.0](./Jesus_as_High_Priest_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [40.0](./Jesus_as_High_Priest_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [10.0](./Jesus_as_High_Priest_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Jesus_as_High_Priest_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

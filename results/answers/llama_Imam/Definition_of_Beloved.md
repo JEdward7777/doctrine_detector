@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Definition of Beloved](../../questions/Definition_of_Beloved.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Definition of Beloved](../../questions/Definition_of_Beloved.md)
 
 ## Question [Definition of Beloved](../../questions/Definition_of_Beloved.md)
 What does the term 'beloved' signify in a biblical context?
@@ -25,7 +25,11 @@ In conclusion, while there are similarities between the Christian concept of "be
 May Allah guide us all to the path of righteousness!
 
 ## Average Grade
-70.0
+71.0
 
 ## Grades
  * [70.0](./Definition_of_Beloved_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Definition_of_Beloved_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Definition_of_Beloved_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Definition_of_Beloved_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Definition_of_Beloved_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [Usage in Scripture](../../questions/Usage_in_Scripture.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [Usage in Scripture](../../questions/Usage_in_Scripture.md)
 
 ## Question [Usage in Scripture](../../questions/Usage_in_Scripture.md)
 In which contexts is the term 'Holy One' used in the Old and New Testaments?
@@ -43,7 +43,11 @@ The term "Holy One" appears in various contexts in both the Old and New Testamen
 The term "Holy One" serves to convey different layers of meaning within the biblical text. Primarily, it denotes God's holiness and separateness from sin while also referring to individuals marked by holiness due to their relationship with God. The context determines whether it refers specifically to God, Jesus, believers, or prophets.
 
 ## Average Grade
-90.0
+85.0
 
 ## Grades
  * [90.0](./Usage_in_Scripture_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Usage_in_Scripture_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Usage_in_Scripture_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Usage_in_Scripture_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Usage_in_Scripture_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

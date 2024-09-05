@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Role of the Messiah](../../questions/Role_of_the_Messiah.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Role of the Messiah](../../questions/Role_of_the_Messiah.md)
 
 ## Question [Role of the Messiah](../../questions/Role_of_the_Messiah.md)
 What roles did the Messiah fulfill according to the Bible?

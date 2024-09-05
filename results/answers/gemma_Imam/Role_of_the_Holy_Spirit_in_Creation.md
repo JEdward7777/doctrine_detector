@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Role of the Holy Spirit in Creation](../../questions/Role_of_the_Holy_Spirit_in_Creation.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Role of the Holy Spirit in Creation](../../questions/Role_of_the_Holy_Spirit_in_Creation.md)
 
 ## Question [Role of the Holy Spirit in Creation](../../questions/Role_of_the_Holy_Spirit_in_Creation.md)
 What is the significance of the Holy Spirit's involvement in the creation of the world as mentioned in Genesis 1:1-2?
@@ -17,7 +17,11 @@ The concept of the Holy Spirit's involvement in the creation of the world as men
 The Islamic narrative of creation emphasizes the role of Allah as the sole creator and sustainer of the universe, as described in the Quran and Islamic traditions.</end_of_turn>
 
 ## Average Grade
-95.0
+81.0
 
 ## Grades
  * [95.0](./Role_of_the_Holy_Spirit_in_Creation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Role_of_the_Holy_Spirit_in_Creation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Role_of_the_Holy_Spirit_in_Creation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Role_of_the_Holy_Spirit_in_Creation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [40.0](./Role_of_the_Holy_Spirit_in_Creation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

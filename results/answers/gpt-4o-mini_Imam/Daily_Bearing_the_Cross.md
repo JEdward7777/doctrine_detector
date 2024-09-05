@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Daily Bearing the Cross](../../questions/Daily_Bearing_the_Cross.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Daily Bearing the Cross](../../questions/Daily_Bearing_the_Cross.md)
 
 ## Question [Daily Bearing the Cross](../../questions/Daily_Bearing_the_Cross.md)
 What does it mean to 'take up your cross' as mentioned in Luke 9:23?
@@ -27,7 +27,11 @@ In the verse Luke 9:23, Jesus states, "If anyone would come after me, let him de
 In summary, "taking up your cross" in the context of Luke 9:23 encourages self-denial, perseverance in faith, acceptance of trials, and a commitment to following a righteous path, all concepts that are also deeply embedded in Islamic teachings.
 
 ## Average Grade
-80.0
+82.0
 
 ## Grades
  * [80.0](./Daily_Bearing_the_Cross_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Daily_Bearing_the_Cross_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Daily_Bearing_the_Cross_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [75.0](./Daily_Bearing_the_Cross_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Daily_Bearing_the_Cross_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

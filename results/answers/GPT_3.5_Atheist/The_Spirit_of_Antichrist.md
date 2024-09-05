@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [The Spirit of Antichrist](../../questions/The_Spirit_of_Antichrist.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [The Spirit of Antichrist](../../questions/The_Spirit_of_Antichrist.md)
 
 ## Question [The Spirit of Antichrist](../../questions/The_Spirit_of_Antichrist.md)
 What does the Bible say about the spirit of antichrist that exists in the world?
@@ -19,7 +19,11 @@ According to 1 John 2:18-22, the spirit of antichrist is already present in the 
 As an atheistic scholar, I would interpret the concept of the spirit of antichrist as a symbolic representation of ideologies that contradict or challenge the beliefs of Christianity. It can be seen as a warning against dogmatic thinking and blind adherence to religious doctrines without critical examination.
 
 ## Average Grade
-60.0
+64.0
 
 ## Grades
  * [60.0](./The_Spirit_of_Antichrist_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [75.0](./The_Spirit_of_Antichrist_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [40.0](./The_Spirit_of_Antichrist_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./The_Spirit_of_Antichrist_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./The_Spirit_of_Antichrist_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

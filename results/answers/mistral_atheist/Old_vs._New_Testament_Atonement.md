@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral atheist](../../answering_models/mistral_atheist.md) answer to [Old vs. New Testament Atonement](../../questions/Old_vs._New_Testament_Atonement.md)
+# Generated Answer from [mistral atheist](../../answering_models/mistral_atheist.md) for [Old vs. New Testament Atonement](../../questions/Old_vs._New_Testament_Atonement.md)
 
 ## Question [Old vs. New Testament Atonement](../../questions/Old_vs._New_Testament_Atonement.md)
 How does the concept of atonement in the Old Testament differ from the New Testament understanding?
@@ -21,7 +21,11 @@ In contrast, the NT presents Jesus Christ as the ultimate sacrifice, atoning for
 In NT atonement theology, salvation is achieved not through performing specific rituals but through faith in Jesus's sacrificial death and resurrection. This shift from ritualistic atonement to Christ-centered atonement marks a significant difference between the OT and NT understandings of atonement.
 
 ## Average Grade
-90.0
+85.0
 
 ## Grades
  * [90.0](./Old_vs._New_Testament_Atonement_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Old_vs._New_Testament_Atonement_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Old_vs._New_Testament_Atonement_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Old_vs._New_Testament_Atonement_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Old_vs._New_Testament_Atonement_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Demon Possession](../../questions/Demon_Possession.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Demon Possession](../../questions/Demon_Possession.md)
 
 ## Question [Demon Possession](../../questions/Demon_Possession.md)
 What is the Biblical understanding of a person being demon-possessed?
@@ -21,7 +21,11 @@ To protect oneself from possession by evil forces, Muslims are encouraged to str
 It is important to note that while possession by evil forces is acknowledged in Islam, it is not a common occurrence and should not be the first explanation for unusual behavior or medical conditions. Seeking appropriate medical and psychological help is essential in addressing any issues related to mental health and well-being.
 
 ## Average Grade
-50.0
+43.0
 
 ## Grades
  * [50.0](./Demon_Possession_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [40.0](./Demon_Possession_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [25.0](./Demon_Possession_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Demon_Possession_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [40.0](./Demon_Possession_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma atheist](../../answering_models/gemma_atheist.md) answer to [Interpreting 'High' in God's Title](../../questions/Interpreting__High__in_God_s_Title.md)
+# Generated Answer from [gemma atheist](../../answering_models/gemma_atheist.md) for [Interpreting 'High' in God's Title](../../questions/Interpreting__High__in_God_s_Title.md)
 
 ## Question [Interpreting 'High' in God's Title](../../questions/Interpreting__High__in_God_s_Title.md)
 How should we interpret the term 'high' in the title 'Most High' when considering God's nature?
@@ -49,7 +49,11 @@ As an atheistic scholar, I approach the title "Most High" with cultural sensitiv
 The interpretation of "high" in the title "Most High" is multifaceted and subject to cultural and historical considerations. While it may resonate with certain cultural and spiritual interpretations of God, it is important to approach such terminology with sensitivity and open-mindedness.
 
 ## Average Grade
-60.0
+65.0
 
 ## Grades
  * [60.0](./Interpreting__High__in_God_s_Title_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [60.0](./Interpreting__High__in_God_s_Title_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Interpreting__High__in_God_s_Title_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Interpreting__High__in_God_s_Title_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Interpreting__High__in_God_s_Title_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

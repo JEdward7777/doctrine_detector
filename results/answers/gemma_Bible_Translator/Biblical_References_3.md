@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Biblical References 3](../../questions/Biblical_References_3.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Biblical References 3](../../questions/Biblical_References_3.md)
 
 ## Question [Biblical References 3](../../questions/Biblical_References_3.md)
 Which Old Testament references contribute to the understanding of the 'Son of Man' as the coming Messiah?

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Understanding the Elect](../../questions/Understanding_the_Elect.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Understanding the Elect](../../questions/Understanding_the_Elect.md)
 
 ## Question [Understanding the Elect](../../questions/Understanding_the_Elect.md)
 What does it mean to be part of the 'elect' or 'chosen ones' according to the Bible?

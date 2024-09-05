@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Benefits of Being 'In Christ'](../../questions/Benefits_of_Being__In_Christ_.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Benefits of Being 'In Christ'](../../questions/Benefits_of_Being__In_Christ_.md)
 
 ## Question [Benefits of Being 'In Christ'](../../questions/Benefits_of_Being__In_Christ_.md)
 What are the benefits of sharing 'in Christ'?
@@ -28,7 +28,11 @@ Sharing "in Christ" is a central concept in Christianity, and it carries numerou
 These benefits are just a few of the many blessings that come from being "in Christ." It's a profound reality that transforms us from the inside out and connects us to God's purposes for our lives.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Benefits_of_Being__In_Christ__grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Benefits_of_Being__In_Christ__grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Benefits_of_Being__In_Christ__grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Benefits_of_Being__In_Christ__grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Benefits_of_Being__In_Christ__grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

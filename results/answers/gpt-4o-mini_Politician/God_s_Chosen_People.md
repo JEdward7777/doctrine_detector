@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) answer to [God's Chosen People](../../questions/God_s_Chosen_People.md)
+# Generated Answer from [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) for [God's Chosen People](../../questions/God_s_Chosen_People.md)
 
 ## Question [God's Chosen People](../../questions/God_s_Chosen_People.md)
 How does the idea of a 'remnant' indicate God's selective grace towards His people?
@@ -21,7 +21,11 @@ Through the lens of this concept, the remnant serves not only as a symbol of hop
 In summary, the idea of a 'remnant' highlights God's selective grace by underscoring His commitment to preserving a faithful community, thereby providing hope for renewal and restoration within the larger context of His people.
 
 ## Average Grade
-88.0
+86.6
 
 ## Grades
  * [88.0](./God_s_Chosen_People_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./God_s_Chosen_People_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./God_s_Chosen_People_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./God_s_Chosen_People_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./God_s_Chosen_People_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

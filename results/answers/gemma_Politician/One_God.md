@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Politician](../../answering_models/gemma_Politician.md) answer to [One God](../../questions/One_God.md)
+# Generated Answer from [gemma Politician](../../answering_models/gemma_Politician.md) for [One God](../../questions/One_God.md)
 
 ## Question [One God](../../questions/One_God.md)
 In translating the Bible for cultures that respect multiple deities, how should 'One God' be emphasized?
@@ -50,7 +50,11 @@ Proper teaching upholds the biblical truth of one God while addressing cultural 
 * "The spiritual path leads to a union with the divine, which is accessible to all."
 
 ## Average Grade
-75.0
+68.0
 
 ## Grades
  * [75.0](./One_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./One_God_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [75.0](./One_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./One_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [40.0](./One_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

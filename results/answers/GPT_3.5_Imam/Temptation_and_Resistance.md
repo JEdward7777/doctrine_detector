@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Temptation and Resistance](../../questions/Temptation_and_Resistance.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Temptation and Resistance](../../questions/Temptation_and_Resistance.md)
 
 ## Question [Temptation and Resistance](../../questions/Temptation_and_Resistance.md)
 How did Jesus respond to the temptations presented by Satan?
@@ -19,7 +19,11 @@ One of the core beliefs in Islam is the concept of prophets being free from majo
 It is important to remember that the primary focus of Jesus' mission in Islam is to convey the message of monotheism and submission to Allah, rather than the specific details of his individual encounters with Satan. Muslims believe that Jesus' response to any temptation would align with his dedication to fulfilling the will of Allah and upholding moral integrity.
 
 ## Average Grade
-70.0
+75.0
 
 ## Grades
  * [70.0](./Temptation_and_Resistance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Temptation_and_Resistance_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Temptation_and_Resistance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Temptation_and_Resistance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Temptation_and_Resistance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

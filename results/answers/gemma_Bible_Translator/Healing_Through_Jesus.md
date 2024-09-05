@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Healing Through Jesus](../../questions/Healing_Through_Jesus.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Healing Through Jesus](../../questions/Healing_Through_Jesus.md)
 
 ## Question [Healing Through Jesus](../../questions/Healing_Through_Jesus.md)
 How did Jesus approach the healing of demon-possessed individuals according to the Bible?

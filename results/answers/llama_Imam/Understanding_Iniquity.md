@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Understanding Iniquity](../../questions/Understanding_Iniquity.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Understanding Iniquity](../../questions/Understanding_Iniquity.md)
 
 ## Question [Understanding Iniquity](../../questions/Understanding_Iniquity.md)
 What is the biblical distinction between iniquity, sin, and transgression?
@@ -25,7 +25,11 @@ In summary, iniquity tends to be a more general concept encompassing fundamental
 As an Imam, I must emphasize that our primary concern as Muslims is understanding and implementing the teachings of the Quran and the Sunnah (the prophetic tradition) of Prophet Muhammad (peace be upon him). While we acknowledge the importance of studying other religious traditions, including Christianity, our focus remains on the Islamic perspective.
 
 ## Average Grade
-70.0
+73.0
 
 ## Grades
  * [70.0](./Understanding_Iniquity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Understanding_Iniquity_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Understanding_Iniquity_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Understanding_Iniquity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_Iniquity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

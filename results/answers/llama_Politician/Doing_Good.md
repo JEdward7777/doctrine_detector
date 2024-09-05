@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Doing Good](../../questions/Doing_Good.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Doing Good](../../questions/Doing_Good.md)
 
 ## Question [Doing Good](../../questions/Doing_Good.md)
 What does the phrase 'do good to' imply within a Christian context?
@@ -25,7 +25,11 @@ Instead, let's focus on promoting universal values like empathy, kindness, and c
 In summary, "doing good to" someone within a Christian context means showing love, care, and generosity towards others, while being mindful of the potential for offense or misunderstanding. It's about embodying Christ-like values and promoting inclusivity through our actions and words.
 
 ## Average Grade
-90.0
+94.0
 
 ## Grades
  * [90.0](./Doing_Good_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Doing_Good_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Doing_Good_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Doing_Good_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Doing_Good_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

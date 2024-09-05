@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Judgment of Others](../../questions/Judgment_of_Others.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Judgment of Others](../../questions/Judgment_of_Others.md)
 
 ## Question [Judgment of Others](../../questions/Judgment_of_Others.md)
 What does Jesus teach us about pointing out the faults of others in relation to our own faults?

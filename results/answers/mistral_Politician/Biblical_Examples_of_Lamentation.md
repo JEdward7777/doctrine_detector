@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Politician](../../answering_models/mistral_Politician.md) answer to [Biblical Examples of Lamentation](../../questions/Biblical_Examples_of_Lamentation.md)
+# Generated Answer from [mistral Politician](../../answering_models/mistral_Politician.md) for [Biblical Examples of Lamentation](../../questions/Biblical_Examples_of_Lamentation.md)
 
 ## Question [Biblical Examples of Lamentation](../../questions/Biblical_Examples_of_Lamentation.md)
 Can you identify Biblical figures who expressed lament, and what can we learn from their examples?
@@ -27,3 +27,7 @@ In each of these examples, we see that lamentation is not a sign of weakness or 
 
 ## Grades
  * [95.0](./Biblical_Examples_of_Lamentation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Biblical_Examples_of_Lamentation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Biblical_Examples_of_Lamentation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Biblical_Examples_of_Lamentation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Biblical_Examples_of_Lamentation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Understanding the Day of Judgment](../../questions/Understanding_the_Day_of_Judgment.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Understanding the Day of Judgment](../../questions/Understanding_the_Day_of_Judgment.md)
 
 ## Question [Understanding the Day of Judgment](../../questions/Understanding_the_Day_of_Judgment.md)
 What is the significance of Jesus Christ being appointed as the judge on the day of judgment?

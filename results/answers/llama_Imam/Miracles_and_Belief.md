@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Miracles and Belief](../../questions/Miracles_and_Belief.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Miracles and Belief](../../questions/Miracles_and_Belief.md)
 
 ## Question [Miracles and Belief](../../questions/Miracles_and_Belief.md)
 How do miracles function as signs that lead to belief in God?
@@ -32,7 +32,11 @@ As Muslims, we believe that faith (iman) is not solely based on personal experie
 Wa as-salamu alaykum (And peace be upon you).
 
 ## Average Grade
-95.0
+89.0
 
 ## Grades
  * [95.0](./Miracles_and_Belief_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Miracles_and_Belief_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Miracles_and_Belief_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Miracles_and_Belief_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Miracles_and_Belief_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

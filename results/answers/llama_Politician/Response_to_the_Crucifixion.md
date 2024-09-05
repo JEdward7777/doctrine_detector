@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Response to the Crucifixion](../../questions/Response_to_the_Crucifixion.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Response to the Crucifixion](../../questions/Response_to_the_Crucifixion.md)
 
 ## Question [Response to the Crucifixion](../../questions/Response_to_the_Crucifixion.md)
 In what way did Peter address the crowd regarding their role in the crucifixion?
@@ -21,7 +21,11 @@ Perhaps we could frame our discussion around the concept of collective responsib
 Let's aim to craft a message that is both honest about the past while also promoting empathy, understanding, and reconciliation. By doing so, we can work towards building bridges between communities and fostering a culture of inclusivity and respect.
 
 ## Average Grade
-60.0
+72.0
 
 ## Grades
  * [60.0](./Response_to_the_Crucifixion_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Response_to_the_Crucifixion_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Response_to_the_Crucifixion_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Response_to_the_Crucifixion_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Response_to_the_Crucifixion_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

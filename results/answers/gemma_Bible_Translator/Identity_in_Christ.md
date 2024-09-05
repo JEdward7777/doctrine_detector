@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Identity in Christ](../../questions/Identity_in_Christ.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Identity in Christ](../../questions/Identity_in_Christ.md)
 
 ## Question [Identity in Christ](../../questions/Identity_in_Christ.md)
 What does it mean when God says, 'I have called you by name'?

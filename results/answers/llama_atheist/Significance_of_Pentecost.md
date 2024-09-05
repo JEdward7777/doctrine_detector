@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Significance of Pentecost](../../questions/Significance_of_Pentecost.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Significance of Pentecost](../../questions/Significance_of_Pentecost.md)
 
 ## Question [Significance of Pentecost](../../questions/Significance_of_Pentecost.md)
 Why is the Day of Pentecost considered especially significant in the New Testament?
@@ -27,7 +27,11 @@ Lastly, Pentecost played a crucial role in shaping early Christian identity. By 
 In conclusion, while the supernatural aspects of Pentecost are undoubtedly significant for Christian theology, I believe its cultural and historical context is equally important. By situating this event within Jewish tradition and the early Christian community's development, we can better understand how Pentecost became a cornerstone of Christian identity and practice in the New Testament.
 
 ## Average Grade
-90.0
+88.4
 
 ## Grades
  * [90.0](./Significance_of_Pentecost_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Significance_of_Pentecost_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Significance_of_Pentecost_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [92.0](./Significance_of_Pentecost_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Significance_of_Pentecost_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) answer to [Beloved in Scripture](../../questions/Beloved_in_Scripture.md)
+# Generated Answer from [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) for [Beloved in Scripture](../../questions/Beloved_in_Scripture.md)
 
 ## Question [Beloved in Scripture](../../questions/Beloved_in_Scripture.md)
 How is the term 'beloved' used in the New Testament letters to Christian churches?
@@ -27,7 +27,11 @@ The term 'beloved' is frequently used in the New Testament letters to express de
 Overall, the term 'beloved' serves as a powerful reminder of the love that Christians are called to embody and express toward one another, underscoring the relational aspect of faith that is central to Christian teaching.
 
 ## Average Grade
-95.0
+94.0
 
 ## Grades
  * [95.0](./Beloved_in_Scripture_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Beloved_in_Scripture_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Beloved_in_Scripture_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Beloved_in_Scripture_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Beloved_in_Scripture_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

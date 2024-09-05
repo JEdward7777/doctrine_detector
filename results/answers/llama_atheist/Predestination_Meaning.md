@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Predestination Meaning](../../questions/Predestination_Meaning.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Predestination Meaning](../../questions/Predestination_Meaning.md)
 
 ## Question [Predestination Meaning](../../questions/Predestination_Meaning.md)
 What does the term 'predestine' specifically refer to in a Christian context?
@@ -25,7 +25,11 @@ It's important to note that different Christian denominations and theologians ha
 As an atheist, I approach this concept with a critical eye, recognizing both the theological and philosophical complexities involved. While I acknowledge the historical significance of predestination within Christian thought, my own perspective is grounded in naturalistic explanations for human behavior and moral responsibility.
 
 ## Average Grade
-60.0
+63.0
 
 ## Grades
  * [60.0](./Predestination_Meaning_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [60.0](./Predestination_Meaning_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [40.0](./Predestination_Meaning_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Predestination_Meaning_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Predestination_Meaning_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

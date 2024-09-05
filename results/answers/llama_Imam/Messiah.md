@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Messiah](../../questions/Messiah.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Messiah](../../questions/Messiah.md)
 
 ## Question [Messiah](../../questions/Messiah.md)
 How can the term 'Messiah' be explained in a context with different religious expectations of a savior?
@@ -27,7 +27,11 @@ In terms of expectations, Islamic eschatology does not anticipate a single indiv
 In conclusion, while there may be some superficial similarities between the Christian concept of the Messiah and the Islamic concept of the Mahdi, they are distinct and serve different purposes within each religious tradition.
 
 ## Average Grade
-60.0
+56.0
 
 ## Grades
  * [60.0](./Messiah_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [60.0](./Messiah_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [30.0](./Messiah_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [50.0](./Messiah_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Messiah_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

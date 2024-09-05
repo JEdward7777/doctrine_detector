@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Role of Parables in Scripture](../../questions/Role_of_Parables_in_Scripture.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Role of Parables in Scripture](../../questions/Role_of_Parables_in_Scripture.md)
 
 ## Question [Role of Parables in Scripture](../../questions/Role_of_Parables_in_Scripture.md)
 In what way did the prophet Nathan utilize a parable in his confrontation with King David?

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Characteristics of the Upright](../../questions/Characteristics_of_the_Upright.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Characteristics of the Upright](../../questions/Characteristics_of_the_Upright.md)
 
 ## Question [Characteristics of the Upright](../../questions/Characteristics_of_the_Upright.md)
 What qualities define an 'upright' person in the biblical context?
@@ -29,7 +29,11 @@ In the Hebrew Bible, various figures are described as upright, including King Da
 It's essential to note that this understanding of uprightness is rooted in a particular cultural and religious context. As an atheist scholar, I approach these concepts with a critical eye, recognizing both their historical significance and potential limitations when applied to modern moral dilemmas. Nonetheless, the idea of being upright as a reflection of divine character remains an intriguing aspect of biblical ethics.
 
 ## Average Grade
-75.0
+77.0
 
 ## Grades
  * [75.0](./Characteristics_of_the_Upright_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Characteristics_of_the_Upright_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Characteristics_of_the_Upright_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Characteristics_of_the_Upright_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Characteristics_of_the_Upright_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

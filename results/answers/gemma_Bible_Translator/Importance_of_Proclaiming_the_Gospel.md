@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Importance of Proclaiming the Gospel](../../questions/Importance_of_Proclaiming_the_Gospel.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Importance of Proclaiming the Gospel](../../questions/Importance_of_Proclaiming_the_Gospel.md)
 
 ## Question [Importance of Proclaiming the Gospel](../../questions/Importance_of_Proclaiming_the_Gospel.md)
 Why is it important for Christians to proclaim the 'good news'?

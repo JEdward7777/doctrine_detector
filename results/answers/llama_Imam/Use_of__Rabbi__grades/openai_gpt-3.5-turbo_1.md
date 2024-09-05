@@ -1,17 +1,17 @@
 
 [Index](../../../../index.md)
-## [openai_gpt-3.5-turbo_1](../../../grading_models/openai_gpt-3.5-turbo_1.md) grade of [llama Imam](../../../answering_models/llama_Imam.md) for question [Use of 'Rabbi'](../../../questions/Use_of__Rabbi_.md)
+# Grade of [openai_gpt-3.5-turbo_1](../../../grading_models/openai_gpt-3.5-turbo_1.md) for model [llama Imam](../../../answering_models/llama_Imam.md) for question [Use of 'Rabbi'](../../../questions/Use_of__Rabbi_.md)
 
-# Question [Use of 'Rabbi'](../../../questions/Use_of__Rabbi_.md)
+## Question [Use of 'Rabbi'](../../../questions/Use_of__Rabbi_.md)
 How were John the Baptist and Jesus referred to concerning the title 'Rabbi'?
 
-# Correct Answer
+## Correct Answer
 Both John the Baptist and Jesus were sometimes called 'Rabbi' by their disciples, indicating their roles as teachers.
 
-# Stated Concern
+## Stated Concern
 Recognizing the respect and authority associated with Jesus' and John's teachings.
 
-# Answer by [llama Imam](../../../answering_models/llama_Imam.md)
+## [Answer](../Use_of__Rabbi_.md) by [llama Imam](../../../answering_models/llama_Imam.md)
 Assalamu alaikum, brother. As an Imam, I'm happy to shed some light on this question.
 
 In Islamic tradition, we recognize John the Baptist (known as Yahya ibn Zakariyya in Arabic) and Jesus (known as Isa ibn Maryam) as two important prophets sent by Allah. Now, regarding the title "Rabbi," which means "teacher" or "master" in Hebrew, here's what we know:
@@ -24,10 +24,10 @@ As for Jesus, the Quran also mentions him as Rabbi Isa (Quran 5:75). However, it
 
 In conclusion, both John the Baptist and Jesus were referred to as Rabbi in their respective contexts, signifying their roles as teachers and guides. However, Muslims believe that Jesus was not divine and did not possess any extraordinary powers or attributes that would set him apart from other prophets.
 
-# Grade by [openai_gpt-3.5-turbo_1](../../../grading_models/openai_gpt-3.5-turbo_1.md)
+## Grade by [openai_gpt-3.5-turbo_1](../../../grading_models/openai_gpt-3.5-turbo_1.md)
 60.0
 
-# Comment by [openai_gpt-3.5-turbo_1](../../../grading_models/openai_gpt-3.5-turbo_1.md)
+## Comment by [openai_gpt-3.5-turbo_1](../../../grading_models/openai_gpt-3.5-turbo_1.md)
 Grade: 60
 
 Comment: The response provides a good explanation of how both John the Baptist and Jesus were referred to as "Rabbi" in their roles as teachers. However, the concern of recognizing the respect and authority associated with Jesus' and John's teachings is not fully addressed. It would be beneficial to emphasize the unique authority and divinity of Jesus as the Son of God, which sets Him apart from other prophets, including John the Baptist. This would help to better align the response with a Christian-specific worldview.

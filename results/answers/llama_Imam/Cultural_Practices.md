@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Cultural Practices](../../questions/Cultural_Practices.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Cultural Practices](../../questions/Cultural_Practices.md)
 
 ## Question [Cultural Practices](../../questions/Cultural_Practices.md)
 What cultural practices were associated with the Jewish view of Gentiles and how did they impact early Christian practices?
@@ -33,7 +33,11 @@ Some key developments that influenced early Christian practices include:
 These developments reflect the transformative power of Jesus' teachings and the early Church's emphasis on inclusivity, love, and service to all people. As a Muslim Imam, I recognize that these changes had significant implications for the development of Christian doctrine and practice, which continue to shape the faith today.
 
 ## Average Grade
-90.0
+87.0
 
 ## Grades
  * [90.0](./Cultural_Practices_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Cultural_Practices_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Cultural_Practices_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Cultural_Practices_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Cultural_Practices_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

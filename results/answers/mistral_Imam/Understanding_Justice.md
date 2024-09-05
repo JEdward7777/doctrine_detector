@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Understanding Justice](../../questions/Understanding_Justice.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Understanding Justice](../../questions/Understanding_Justice.md)
 
 ## Question [Understanding Justice](../../questions/Understanding_Justice.md)
 What does it mean to act justly according to God's laws?
@@ -25,7 +25,11 @@ Understanding the biblical standard of fairness and righteousness in our interac
 5. **Seeking knowledge and striving for continuous improvement:** Islam places great emphasis on learning and self-improvement. Muslims are encouraged to seek knowledge, reflect upon their actions, and strive to better themselves and those around them.
 
 ## Average Grade
-80.0
+76.0
 
 ## Grades
  * [80.0](./Understanding_Justice_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Understanding_Justice_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [75.0](./Understanding_Justice_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Understanding_Justice_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Understanding_Justice_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Differences in Terminology](../../questions/Differences_in_Terminology.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Differences in Terminology](../../questions/Differences_in_Terminology.md)
 
 ## Question [Differences in Terminology](../../questions/Differences_in_Terminology.md)
 What are the key differences between the terms 'exhort', 'encourage', and 'admonish'?
@@ -26,7 +26,11 @@ The term "exhort" means to strongly urge or encourage someone to do something. I
 In summary, while exhortation emphasizes motivation and challenge, encouragement focuses on support and comfort, and admonition highlights correction and warning. Each of these terms plays a valuable role in guiding and nurturing believers in their faith journey.
 
 ## Average Grade
-90.0
+88.0
 
 ## Grades
  * [90.0](./Differences_in_Terminology_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Differences_in_Terminology_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Differences_in_Terminology_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Differences_in_Terminology_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [70.0](./Differences_in_Terminology_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

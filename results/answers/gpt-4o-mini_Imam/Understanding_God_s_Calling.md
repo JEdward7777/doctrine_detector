@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Understanding God's Calling](../../questions/Understanding_God_s_Calling.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Understanding God's Calling](../../questions/Understanding_God_s_Calling.md)
 
 ## Question [Understanding God's Calling](../../questions/Understanding_God_s_Calling.md)
 What does it mean for Christians to know they are 'called' by God?
@@ -27,7 +27,11 @@ In a Christian context, the concept of being "called" by God refers to a persona
 Ultimately, for Christians, recognizing their calling is a profound aspect of their faith journey, encouraging them to live purposefully in alignment with God’s will. While I can provide this context, it's worth noting that the interpretation of "calling" may vary among different Christian denominations and individuals.
 
 ## Average Grade
-95.0
+88.0
 
 ## Grades
  * [95.0](./Understanding_God_s_Calling_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Understanding_God_s_Calling_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Understanding_God_s_Calling_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Understanding_God_s_Calling_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Understanding_God_s_Calling_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

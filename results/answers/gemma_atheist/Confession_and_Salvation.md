@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma atheist](../../answering_models/gemma_atheist.md) answer to [Confession and Salvation](../../questions/Confession_and_Salvation.md)
+# Generated Answer from [gemma atheist](../../answering_models/gemma_atheist.md) for [Confession and Salvation](../../questions/Confession_and_Salvation.md)
 
 ## Question [Confession and Salvation](../../questions/Confession_and_Salvation.md)
 What is the relationship between confessing that Jesus is Lord and being saved according to Paul's writings?
@@ -39,3 +39,7 @@ Clarification on the theological implications of confession and belief in salvat
 
 ## Grades
  * [90.0](./Confession_and_Salvation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Confession_and_Salvation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Confession_and_Salvation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Confession_and_Salvation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Confession_and_Salvation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Healing Through Jesus](../../questions/Healing_Through_Jesus.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Healing Through Jesus](../../questions/Healing_Through_Jesus.md)
 
 ## Question [Healing Through Jesus](../../questions/Healing_Through_Jesus.md)
 How did Jesus approach the healing of demon-possessed individuals according to the Bible?
@@ -21,7 +21,11 @@ Jesus' healing miracles were not only seen as acts of compassion towards the aff
 It is worth noting that these accounts of demon possession and healing should be understood within the cultural and religious context of the time, and interpreted through a critical and historical lens. The understanding of demon possession and exorcism in the ancient world was different from modern scientific and psychological perspectives, and it is important to approach these stories with a nuanced understanding of their cultural significance.
 
 ## Average Grade
-90.0
+88.0
 
 ## Grades
  * [90.0](./Healing_Through_Jesus_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Healing_Through_Jesus_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Healing_Through_Jesus_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Healing_Through_Jesus_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Healing_Through_Jesus_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

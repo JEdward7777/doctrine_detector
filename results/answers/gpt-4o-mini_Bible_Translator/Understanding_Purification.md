@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) answer to [Understanding Purification](../../questions/Understanding_Purification.md)
+# Generated Answer from [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) for [Understanding Purification](../../questions/Understanding_Purification.md)
 
 ## Question [Understanding Purification](../../questions/Understanding_Purification.md)
 What is the significance of purification in the context of Old Testament laws?
@@ -29,7 +29,11 @@ Purification in the context of Old Testament laws is of significant theological 
 In summary, purification in Old Testament laws highlights the seriousness of sin, the holiness of God, and the need for atonement, serving both practical and spiritual functions within the life of the Israelite community.
 
 ## Average Grade
-90.0
+91.0
 
 ## Grades
  * [90.0](./Understanding_Purification_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Understanding_Purification_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Understanding_Purification_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Understanding_Purification_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_Purification_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

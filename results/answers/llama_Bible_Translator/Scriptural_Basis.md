@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Scriptural Basis](../../questions/Scriptural_Basis.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Scriptural Basis](../../questions/Scriptural_Basis.md)
 
 ## Question [Scriptural Basis](../../questions/Scriptural_Basis.md)
 Which Bible verses support the concept of propitiation?
@@ -23,7 +23,11 @@ Propitiation refers to the idea that God's wrath against sin was satisfied or ap
 These verses and others throughout Scripture demonstrate that propitiation is an essential aspect of God's plan for salvation through Jesus Christ.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Scriptural_Basis_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Scriptural_Basis_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Scriptural_Basis_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Scriptural_Basis_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Scriptural_Basis_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

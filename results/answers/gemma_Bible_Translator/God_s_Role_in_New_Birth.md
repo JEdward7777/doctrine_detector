@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [God's Role in New Birth](../../questions/God_s_Role_in_New_Birth.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [God's Role in New Birth](../../questions/God_s_Role_in_New_Birth.md)
 
 ## Question [God's Role in New Birth](../../questions/God_s_Role_in_New_Birth.md)
 What is God's role in the process of a person being born again?

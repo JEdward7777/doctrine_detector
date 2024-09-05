@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Avoid 'Son of God'](../../questions/Avoid__Son_of_God_.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Avoid 'Son of God'](../../questions/Avoid__Son_of_God_.md)
 
 ## Question [Avoid 'Son of God'](../../questions/Avoid__Son_of_God_.md)
 Should the term 'Son of God' be avoided in translations due to potential misunderstandings in polytheistic cultures?

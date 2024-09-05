@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) answer to [Adultery and Unfaithfulness](../../questions/Adultery_and_Unfaithfulness.md)
+# Generated Answer from [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) for [Adultery and Unfaithfulness](../../questions/Adultery_and_Unfaithfulness.md)
 
 ## Question [Adultery and Unfaithfulness](../../questions/Adultery_and_Unfaithfulness.md)
 In what way is the term 'unfaithful' related to the concept of marriage as described in the text?
@@ -17,7 +17,11 @@ The term 'unfaithful' in relation to marriage typically refers to a breach of tr
 It's important to approach this topic with sensitivity, acknowledging that each couple's dynamics are unique and that the reasons behind unfaithfulness can be complex and deeply rooted in individual circumstances. Open communication and understanding are crucial in addressing and resolving such issues within a marriage.
 
 ## Average Grade
-90.0
+82.0
 
 ## Grades
  * [90.0](./Adultery_and_Unfaithfulness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Adultery_and_Unfaithfulness_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Adultery_and_Unfaithfulness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Adultery_and_Unfaithfulness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Adultery_and_Unfaithfulness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

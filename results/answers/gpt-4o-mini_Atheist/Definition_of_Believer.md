@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [Definition of Believer](../../questions/Definition_of_Believer.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [Definition of Believer](../../questions/Definition_of_Believer.md)
 
 ## Question [Definition of Believer](../../questions/Definition_of_Believer.md)
 According to the Bible, who is classified as a believer?
@@ -23,3 +23,7 @@ Throughout the Bible, faith is seen as a central tenet of what it means to be a 
 
 ## Grades
  * [85.0](./Definition_of_Believer_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Definition_of_Believer_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Definition_of_Believer_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Definition_of_Believer_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Definition_of_Believer_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

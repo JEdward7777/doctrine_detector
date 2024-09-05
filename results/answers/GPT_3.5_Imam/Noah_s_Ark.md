@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Noah's Ark](../../questions/Noah_s_Ark.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Noah's Ark](../../questions/Noah_s_Ark.md)
 
 ## Question [Noah's Ark](../../questions/Noah_s_Ark.md)
 What was the purpose of Noah's Ark as described in the Bible?
@@ -19,7 +19,11 @@ Prophet Noah spent many years warning his people about their wrongdoing and call
 Ultimately, the purpose of the Ark was to symbolize the mercy, protection, and deliverance that Allah provides to those who remain steadfast in faith and obedience, even in the face of adversity. It is a reminder of the importance of following the guidance of the Prophets and the consequences of rejecting the message of truth.
 
 ## Average Grade
-90.0
+85.0
 
 ## Grades
  * [90.0](./Noah_s_Ark_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [75.0](./Noah_s_Ark_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Noah_s_Ark_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Noah_s_Ark_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Noah_s_Ark_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

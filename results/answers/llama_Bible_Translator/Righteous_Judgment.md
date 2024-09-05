@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Righteous Judgment](../../questions/Righteous_Judgment.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Righteous Judgment](../../questions/Righteous_Judgment.md)
 
 ## Question [Righteous Judgment](../../questions/Righteous_Judgment.md)
 How can Christians reconcile the concept of God's wrath with His nature as loving and merciful?
@@ -38,7 +38,11 @@ To summarize:
 In the end, Christians can reconcile God's wrath with His loving and merciful nature by understanding that both are essential aspects of His character.
 
 ## Average Grade
-95.0
+94.4
 
 ## Grades
  * [95.0](./Righteous_Judgment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Righteous_Judgment_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Righteous_Judgment_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Righteous_Judgment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [92.0](./Righteous_Judgment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

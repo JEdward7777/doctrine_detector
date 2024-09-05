@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Assurance of Salvation](../../questions/Assurance_of_Salvation.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Assurance of Salvation](../../questions/Assurance_of_Salvation.md)
 
 ## Question [Assurance of Salvation](../../questions/Assurance_of_Salvation.md)
 What assurance is given to those who believe in Jesus?
@@ -21,7 +21,11 @@ Furthermore, 1 John 5:13 says, "I write these things to you who believe in the n
 Overall, the assurance given to those who believe in Jesus is that they are saved, forgiven, and have eternal life with God. This assurance is based on the unchanging promises and faithfulness of God.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Assurance_of_Salvation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Assurance_of_Salvation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Assurance_of_Salvation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Assurance_of_Salvation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Assurance_of_Salvation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Biblical Examples of Worship](../../questions/Biblical_Examples_of_Worship.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Biblical Examples of Worship](../../questions/Biblical_Examples_of_Worship.md)
 
 ## Question [Biblical Examples of Worship](../../questions/Biblical_Examples_of_Worship.md)
 Can you identify an example from the Bible where worship is negatively contrasted with idol worship?
@@ -27,7 +27,11 @@ In this passage, Paul is emphasizing the importance of honoring God with our bod
 This passage serves as a powerful reminder that true worship is not about external rituals or offerings, but about honoring God with our entire being – heart, soul, mind, and strength. In contrast, idol worship (whether literal or figurative) is an affront to this kind of holy living, and can lead to ruin and spiritual decay.
 
 ## Average Grade
-93.0
+90.6
 
 ## Grades
  * [93.0](./Biblical_Examples_of_Worship_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Biblical_Examples_of_Worship_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Biblical_Examples_of_Worship_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Biblical_Examples_of_Worship_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Biblical_Examples_of_Worship_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

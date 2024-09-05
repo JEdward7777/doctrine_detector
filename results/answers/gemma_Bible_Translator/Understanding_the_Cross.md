@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Understanding the Cross](../../questions/Understanding_the_Cross.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Understanding the Cross](../../questions/Understanding_the_Cross.md)
 
 ## Question [Understanding the Cross](../../questions/Understanding_the_Cross.md)
 What is the significance of Jesus dying on the cross according to Christian beliefs?

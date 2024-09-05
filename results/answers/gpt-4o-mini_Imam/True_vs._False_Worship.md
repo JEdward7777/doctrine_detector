@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [True vs. False Worship](../../questions/True_vs._False_Worship.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [True vs. False Worship](../../questions/True_vs._False_Worship.md)
 
 ## Question [True vs. False Worship](../../questions/True_vs._False_Worship.md)
 What is a difference between worshiping God and worshiping false gods?
@@ -27,7 +27,11 @@ The key differences include:
 Ultimately, Islam emphasizes the importance of directing worship solely to Allah, as He alone is deserving and capable of answering prayers, providing guidance, and granting mercy. This focus on monotheism (Tawheed) is central to a Muslim's faith and practice.
 
 ## Average Grade
-90.0
+89.0
 
 ## Grades
  * [90.0](./True_vs._False_Worship_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./True_vs._False_Worship_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./True_vs._False_Worship_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./True_vs._False_Worship_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./True_vs._False_Worship_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

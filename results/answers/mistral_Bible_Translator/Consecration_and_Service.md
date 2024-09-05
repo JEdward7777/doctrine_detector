@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) answer to [Consecration and Service](../../questions/Consecration_and_Service.md)
+# Generated Answer from [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) for [Consecration and Service](../../questions/Consecration_and_Service.md)
 
 ## Question [Consecration and Service](../../questions/Consecration_and_Service.md)
 How does the act of consecration prepare individuals or things for God's service?
@@ -21,7 +21,11 @@ This is not only limited to people but also extends to physical objects like tab
 Through consecration, individuals and things come under God's protection, guidance, and blessing, ensuring that they fulfill their purpose according to the divine plan.
 
 ## Average Grade
-85.0
+88.0
 
 ## Grades
  * [85.0](./Consecration_and_Service_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Consecration_and_Service_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Consecration_and_Service_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Consecration_and_Service_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Consecration_and_Service_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

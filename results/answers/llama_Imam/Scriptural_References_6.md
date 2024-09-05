@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Scriptural References 6](../../questions/Scriptural_References_6.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Scriptural References 6](../../questions/Scriptural_References_6.md)
 
 ## Question [Scriptural References 6](../../questions/Scriptural_References_6.md)
 Which biblical passages provide insight into the characteristics of fools and foolish behavior?
@@ -32,7 +32,11 @@ This passage highlights the limitations of human understanding and the importanc
 These biblical passages offer valuable insights into the characteristics of fools and foolish behavior. However, as Muslims, we must also consider the teachings of our beloved Prophet Muhammad (peace be upon him) and the Quranic wisdom that guides us in our daily lives.
 
 ## Average Grade
-80.0
+81.0
 
 ## Grades
  * [80.0](./Scriptural_References_6_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Scriptural_References_6_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Scriptural_References_6_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Scriptural_References_6_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Scriptural_References_6_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

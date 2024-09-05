@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Understanding Cleanliness](../../questions/Understanding_Cleanliness.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Understanding Cleanliness](../../questions/Understanding_Cleanliness.md)
 
 ## Question [Understanding Cleanliness](../../questions/Understanding_Cleanliness.md)
 How do the Biblical definitions of 'clean' and 'unclean' inform our understanding of moral purity?

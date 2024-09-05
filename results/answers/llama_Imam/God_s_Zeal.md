@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [God's Zeal](../../questions/God_s_Zeal.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [God's Zeal](../../questions/God_s_Zeal.md)
 
 ## Question [God's Zeal](../../questions/God_s_Zeal.md)
 How does the term 'zeal of the Lord' reflect God's actions towards His people?
@@ -27,7 +27,11 @@ In conclusion, the "zeal of the Lord" is a powerful metaphor that illustrates Go
 Was that helpful, my friend? Do you have any further questions or concerns about this topic?
 
 ## Average Grade
-60.0
+70.0
 
 ## Grades
  * [60.0](./God_s_Zeal_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./God_s_Zeal_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./God_s_Zeal_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [40.0](./God_s_Zeal_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./God_s_Zeal_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

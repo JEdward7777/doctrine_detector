@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Kingdom of God](../../questions/Kingdom_of_God.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Kingdom of God](../../questions/Kingdom_of_God.md)
 
 ## Question [Kingdom of God](../../questions/Kingdom_of_God.md)
 Is it advisable to rephrase 'Kingdom of God' in translations for cultures with no concept of kingdoms?

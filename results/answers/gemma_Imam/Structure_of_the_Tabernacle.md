@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Structure of the Tabernacle](../../questions/Structure_of_the_Tabernacle.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Structure of the Tabernacle](../../questions/Structure_of_the_Tabernacle.md)
 
 ## Question [Structure of the Tabernacle](../../questions/Structure_of_the_Tabernacle.md)
 What were the two main sections of the tabernacle, and what was located in each?
@@ -15,7 +15,11 @@ Learning about the significance of the components of the tabernacle in worship.
 The tabernacle is not a concept found within Islamic tradition or teachings, as it is a concept associated with Judaism and Christianity. Therefore, I am unable to provide information regarding its structure or contents from an Islamic perspective.
 
 ## Average Grade
-80.0
+81.0
 
 ## Grades
  * [80.0](./Structure_of_the_Tabernacle_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Structure_of_the_Tabernacle_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Structure_of_the_Tabernacle_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Structure_of_the_Tabernacle_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [50.0](./Structure_of_the_Tabernacle_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

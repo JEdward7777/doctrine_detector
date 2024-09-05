@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Definition of a Miracle](../../questions/Definition_of_a_Miracle.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Definition of a Miracle](../../questions/Definition_of_a_Miracle.md)
 
 ## Question [Definition of a Miracle](../../questions/Definition_of_a_Miracle.md)
 What is a miracle and how does it relate to God's authority?
@@ -19,7 +19,11 @@ Miracles serve as a means to strengthen the faith of believers and to invite non
 In summary, miracles are extraordinary events that demonstrate God's authority and power over the universe, and serve as a means to affirm the truth of prophethood and invite people to believe in the existence and oneness of God.
 
 ## Average Grade
-90.0
+92.0
 
 ## Grades
  * [90.0](./Definition_of_a_Miracle_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Definition_of_a_Miracle_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Definition_of_a_Miracle_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Definition_of_a_Miracle_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Definition_of_a_Miracle_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

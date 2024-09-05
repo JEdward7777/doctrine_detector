@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Definition of Good](../../questions/Definition_of_Good.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Definition of Good](../../questions/Definition_of_Good.md)
 
 ## Question [Definition of Good](../../questions/Definition_of_Good.md)
 How does the Biblical definition of 'good' contrast with the concept of 'evil'?
@@ -32,7 +32,11 @@ While there are similarities between the Biblical and Islamic concepts of good a
 In conclusion, while there are parallels between the Biblical and Islamic concepts of good and evil, Islam provides a more comprehensive understanding of these concepts within the framework of Tauhid and the Prophetic teachings.
 
 ## Average Grade
-85.0
+75.0
 
 ## Grades
  * [85.0](./Definition_of_Good_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Definition_of_Good_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Definition_of_Good_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Definition_of_Good_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Definition_of_Good_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

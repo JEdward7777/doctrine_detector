@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Understanding Faith](../../questions/Understanding_Faith.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Understanding Faith](../../questions/Understanding_Faith.md)
 
 ## Question [Understanding Faith](../../questions/Understanding_Faith.md)
 What does it mean to 'have faith in Jesus' according to the provided content?
@@ -19,7 +19,11 @@ However, Muslim faith in Jesus differs from Christian beliefs about him. Muslims
 So, to have faith in Jesus from an Islamic perspective means recognizing him as a Messenger of Allah, respecting his teachings, acknowledging his virgin birth, and praying for his intercession on the Day of Judgment. It does not include the Christian doctrines of the Trinity or Divine Incarnation.
 
 ## Average Grade
-0.0
+22.0
 
 ## Grades
  * [0.0](./Understanding_Faith_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [20.0](./Understanding_Faith_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [20.0](./Understanding_Faith_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [30.0](./Understanding_Faith_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [40.0](./Understanding_Faith_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

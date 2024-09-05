@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [atonement_lid_definition](../../questions/atonement_lid_definition.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [atonement_lid_definition](../../questions/atonement_lid_definition.md)
 
 ## Question [atonement_lid_definition](../../questions/atonement_lid_definition.md)
 What was the significance of the atonement lid in the context of the ark of the covenant?
@@ -27,7 +27,11 @@ The mercy seat was situated on top of the Ark and was crafted from pure gold, fe
 Overall, the mercy seat embodied themes of divine authority, mercy, and the need for atonement within a sacred tradition, reflecting the complex interplay between human imperfection and divine holiness in the narrative of ancient Israelite faith.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./atonement_lid_definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./atonement_lid_definition_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./atonement_lid_definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./atonement_lid_definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./atonement_lid_definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

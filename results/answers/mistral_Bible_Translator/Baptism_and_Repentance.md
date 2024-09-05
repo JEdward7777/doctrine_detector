@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) answer to [Baptism and Repentance](../../questions/Baptism_and_Repentance.md)
+# Generated Answer from [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) for [Baptism and Repentance](../../questions/Baptism_and_Repentance.md)
 
 ## Question [Baptism and Repentance](../../questions/Baptism_and_Repentance.md)
 How is repentance related to the act of baptism as presented in the New Testament?
@@ -21,7 +21,11 @@ In Acts 2:38, Peter does not say that baptism saves us, but rather that it is fo
 So, in summary, repentance is a change of heart that leads us to turn away from sin and turn toward God. Baptism is the public declaration of this change and our commitment to follow Jesus. Both are important steps for those who wish to become disciples of Christ and receive forgiveness of their sins.
 
 ## Average Grade
-92.0
+93.4
 
 ## Grades
  * [92.0](./Baptism_and_Repentance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Baptism_and_Repentance_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Baptism_and_Repentance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Baptism_and_Repentance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Baptism_and_Repentance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Understanding the Trinity](../../questions/Understanding_the_Trinity.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Understanding the Trinity](../../questions/Understanding_the_Trinity.md)
 
 ## Question [Understanding the Trinity](../../questions/Understanding_the_Trinity.md)
 How can God exist as God the Father, God the Son, and God the Holy Spirit while being one God?
@@ -29,7 +29,11 @@ In light of these differences, I must emphasize that the Trinity doctrine is not
 If you have any further questions or concerns, please feel free to ask.
 
 ## Average Grade
-90.0
+92.0
 
 ## Grades
  * [90.0](./Understanding_the_Trinity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Understanding_the_Trinity_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Understanding_the_Trinity_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Understanding_the_Trinity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Understanding_the_Trinity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

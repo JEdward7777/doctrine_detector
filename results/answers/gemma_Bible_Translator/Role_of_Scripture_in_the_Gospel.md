@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Role of Scripture in the Gospel](../../questions/Role_of_Scripture_in_the_Gospel.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Role of Scripture in the Gospel](../../questions/Role_of_Scripture_in_the_Gospel.md)
 
 ## Question [Role of Scripture in the Gospel](../../questions/Role_of_Scripture_in_the_Gospel.md)
 How does the Bible illustrate the use of Scripture in sharing the Gospel message?

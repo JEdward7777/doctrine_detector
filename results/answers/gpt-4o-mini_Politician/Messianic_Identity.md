@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) answer to [Messianic Identity](../../questions/Messianic_Identity.md)
+# Generated Answer from [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) for [Messianic Identity](../../questions/Messianic_Identity.md)
 
 ## Question [Messianic Identity](../../questions/Messianic_Identity.md)
 What significance does the title 'King of the Jews' hold in relation to Jesus' identity as the Messiah?
@@ -21,7 +21,11 @@ It is also important to acknowledge that the historical context during which the
 In contemporary discussions, the title can present sensitivities, particularly in interfaith dialogues, so it is essential to approach these discussions with care and respect for the diverse beliefs and interpretations that people hold regarding Jesus and his identity.
 
 ## Average Grade
-95.0
+83.0
 
 ## Grades
  * [95.0](./Messianic_Identity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Messianic_Identity_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Messianic_Identity_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Messianic_Identity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Messianic_Identity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

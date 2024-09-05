@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Understanding God's Call](../../questions/Understanding_God_s_Call.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Understanding God's Call](../../questions/Understanding_God_s_Call.md)
 
 ## Question [Understanding God's Call](../../questions/Understanding_God_s_Call.md)
 What does it mean when the Bible states that God has called us by name?
@@ -25,7 +25,11 @@ This verse suggests that Allah knows us and our actions more intimately than we 
 In summary, both biblical and Islamic traditions emphasize that God has an intimate knowledge of each person and their individual stories, as well as the importance of accountability for our actions. The concept of being called by name can be understood as a reminder of our unique connection with the Divine and the consequences of our choices in this life.
 
 ## Average Grade
-92.0
+87.4
 
 ## Grades
  * [92.0](./Understanding_God_s_Call_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Understanding_God_s_Call_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Understanding_God_s_Call_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Understanding_God_s_Call_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Understanding_God_s_Call_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

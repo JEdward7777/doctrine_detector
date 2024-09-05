@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [The Spirit of Antichrist](../../questions/The_Spirit_of_Antichrist.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [The Spirit of Antichrist](../../questions/The_Spirit_of_Antichrist.md)
 
 ## Question [The Spirit of Antichrist](../../questions/The_Spirit_of_Antichrist.md)
 What does the Bible say about the spirit of antichrist that exists in the world?
@@ -19,7 +19,11 @@ In Islamic tradition, the concept of the Dajjal (Antichrist) is mentioned in the
 The Islamic perspective emphasizes the importance of following Islamic teachings and upholding Islamic values as a defense against the Dajjal's influence.
 
 ## Average Grade
-50.0
+46.0
 
 ## Grades
  * [50.0](./The_Spirit_of_Antichrist_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [50.0](./The_Spirit_of_Antichrist_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [30.0](./The_Spirit_of_Antichrist_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./The_Spirit_of_Antichrist_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [40.0](./The_Spirit_of_Antichrist_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

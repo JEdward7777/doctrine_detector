@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Understanding Condemnation](../../questions/Understanding_Condemnation.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Understanding Condemnation](../../questions/Understanding_Condemnation.md)
 
 ## Question [Understanding Condemnation](../../questions/Understanding_Condemnation.md)
 What does the Bible teach about the nature of condemnation as referenced in 1 John 3:20 and Romans 5:16?
@@ -19,7 +19,11 @@ In Romans 5:16, it says, "And the free gift is not like the result of that one m
 In summary, the Bible teaches that condemnation is the result of sin and disobedience to God's laws. However, through faith in Jesus Christ and His sacrifice for us, we can receive justification and freedom from condemnation. God's mercy and grace are greater than our sin, and He offers forgiveness and salvation to all who repent and believe in Him.
 
 ## Average Grade
-95.0
+94.0
 
 ## Grades
  * [95.0](./Understanding_Condemnation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Understanding_Condemnation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Understanding_Condemnation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Understanding_Condemnation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Understanding_Condemnation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

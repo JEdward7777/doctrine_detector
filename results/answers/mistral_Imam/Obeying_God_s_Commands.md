@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Obeying God's Commands](../../questions/Obeying_God_s_Commands.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Obeying God's Commands](../../questions/Obeying_God_s_Commands.md)
 
 ## Question [Obeying God's Commands](../../questions/Obeying_God_s_Commands.md)
 How do the laws given to Moses relate to the concept of a covenant between God and His people?
@@ -25,7 +25,11 @@ The Quran also speaks about the covenant between God and His people in several v
 So, to summarize, the laws given to Moses are an essential part of the covenant between God and His people, as revealed in the Torah. While Muslims believe that these scriptures have been altered over time, they hold that their core message of monotheism and ethical guidance remains valid and relevant today.
 
 ## Average Grade
-85.0
+84.0
 
 ## Grades
  * [85.0](./Obeying_God_s_Commands_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [75.0](./Obeying_God_s_Commands_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Obeying_God_s_Commands_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Obeying_God_s_Commands_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Obeying_God_s_Commands_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

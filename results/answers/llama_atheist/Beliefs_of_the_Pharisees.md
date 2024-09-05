@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Beliefs of the Pharisees](../../questions/Beliefs_of_the_Pharisees.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Beliefs of the Pharisees](../../questions/Beliefs_of_the_Pharisees.md)
 
 ## Question [Beliefs of the Pharisees](../../questions/Beliefs_of_the_Pharisees.md)
 What were the beliefs of the Pharisees regarding life after death and spiritual beings?
@@ -27,7 +27,11 @@ It's essential to note that these beliefs were not uniform among all Pharisees, 
 As an atheist, I find it fascinating to explore the complexities of ancient Jewish beliefs, even if they don't align with my own philosophical views. The study of ancient religious traditions can provide valuable insights into human culture and the development of belief systems over time.
 
 ## Average Grade
-85.0
+84.0
 
 ## Grades
  * [85.0](./Beliefs_of_the_Pharisees_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Beliefs_of_the_Pharisees_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Beliefs_of_the_Pharisees_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Beliefs_of_the_Pharisees_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Beliefs_of_the_Pharisees_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Understanding Heaven's Definition](../../questions/Understanding_Heaven_s_Definition.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Understanding Heaven's Definition](../../questions/Understanding_Heaven_s_Definition.md)
 
 ## Question [Understanding Heaven's Definition](../../questions/Understanding_Heaven_s_Definition.md)
 What is the biblical definition of 'heaven' and how does it differ from 'sky'?
@@ -41,7 +41,11 @@ The sky is a physical phenomenon, while heaven is a spiritual concept. While the
 The Islamic concept of Jannah shares similarities with the biblical concept of heaven, emphasizing eternal bliss, peace, and the presence of God. However, there are differences in the details and beliefs surrounding these concepts.
 
 ## Average Grade
-85.0
+83.4
 
 ## Grades
  * [85.0](./Understanding_Heaven_s_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Understanding_Heaven_s_Definition_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [92.0](./Understanding_Heaven_s_Definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Understanding_Heaven_s_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Understanding_Heaven_s_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

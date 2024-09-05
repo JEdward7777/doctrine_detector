@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Translation Variations](../../questions/Translation_Variations.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Translation Variations](../../questions/Translation_Variations.md)
 
 ## Question [Translation Variations](../../questions/Translation_Variations.md)
 What are some alternative translations for 'covenant faithfulness'?

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Godly Character](../../questions/Godly_Character.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Godly Character](../../questions/Godly_Character.md)
 
 ## Question [Godly Character](../../questions/Godly_Character.md)
 What are the fruits of the Holy Spirit that indicate a person has godly character?

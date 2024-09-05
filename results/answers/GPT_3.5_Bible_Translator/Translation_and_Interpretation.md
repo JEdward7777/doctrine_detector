@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Translation and Interpretation](../../questions/Translation_and_Interpretation.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Translation and Interpretation](../../questions/Translation_and_Interpretation.md)
 
 ## Question [Translation and Interpretation](../../questions/Translation_and_Interpretation.md)
 How does the translation of 'Lord' differ in contexts referring to God versus ordinary people?
@@ -19,7 +19,11 @@ On the other hand, when "Lord" is used to refer to ordinary people in the Bible,
 It is important to note that the term "Lord" is used in different ways throughout the Bible to convey various meanings and nuances, so it is crucial to consider the context in which it is used in order to understand its full significance.
 
 ## Average Grade
-85.0
+87.0
 
 ## Grades
  * [85.0](./Translation_and_Interpretation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Translation_and_Interpretation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Translation_and_Interpretation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Translation_and_Interpretation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Translation_and_Interpretation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Translation Variations](../../questions/Translation_Variations.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Translation Variations](../../questions/Translation_Variations.md)
 
 ## Question [Translation Variations](../../questions/Translation_Variations.md)
 What are some alternative translations for 'covenant faithfulness'?
@@ -23,7 +23,11 @@ Exploring different interpretations of biblical terms to deepen understanding.
 5. Devout Fidelity: This term emphasizes the loyalty, commitment, and adherence to the teachings of Islam that Muslims are expected to display in their daily lives as part of their covenant with Allah. In this sense, 'devout fidelity' could be used interchangeably with 'covenant faithfulness'.
 
 ## Average Grade
-80.0
+75.0
 
 ## Grades
  * [80.0](./Translation_Variations_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Translation_Variations_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Translation_Variations_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Translation_Variations_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [40.0](./Translation_Variations_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

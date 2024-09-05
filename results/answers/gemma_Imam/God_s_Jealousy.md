@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [God's Jealousy](../../questions/God_s_Jealousy.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [God's Jealousy](../../questions/God_s_Jealousy.md)
 
 ## Question [God's Jealousy](../../questions/God_s_Jealousy.md)
 What does it mean when the Bible describes God as 'jealous'?
@@ -32,7 +32,11 @@ The Islamic understanding of God emphasizes his perfect purity, sovereignty, and
 **It is important to note that interpretations of religious texts can vary among different schools of thought and traditions within Islam.**
 
 ## Average Grade
-85.0
+84.0
 
 ## Grades
  * [85.0](./God_s_Jealousy_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./God_s_Jealousy_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./God_s_Jealousy_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./God_s_Jealousy_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./God_s_Jealousy_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

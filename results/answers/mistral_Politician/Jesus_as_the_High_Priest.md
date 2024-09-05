@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Politician](../../answering_models/mistral_Politician.md) answer to [Jesus as the High Priest](../../questions/Jesus_as_the_High_Priest.md)
+# Generated Answer from [mistral Politician](../../answering_models/mistral_Politician.md) for [Jesus as the High Priest](../../questions/Jesus_as_the_High_Priest.md)
 
 ## Question [Jesus as the High Priest](../../questions/Jesus_as_the_High_Priest.md)
 How is Jesus described in relation to the high priesthood according to the New Testament?
@@ -19,7 +19,11 @@ Jesus' priesthood transcends that of the Levitical order, as He is a priest not 
 It's essential to remember that this portrayal of Jesus is deeply revered by billions of people around the world who follow Christianity. It is not intended to offend or disrespect any other beliefs or practices. This understanding of Jesus as a High Priest is rooted in the sacred texts and teachings of the Christian faith.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Jesus_as_the_High_Priest_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Jesus_as_the_High_Priest_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Jesus_as_the_High_Priest_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Jesus_as_the_High_Priest_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Jesus_as_the_High_Priest_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Definition of Repentance](../../questions/Definition_of_Repentance.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Definition of Repentance](../../questions/Definition_of_Repentance.md)
 
 ## Question [Definition of Repentance](../../questions/Definition_of_Repentance.md)
 What does it mean to repent according to the Bible?
@@ -34,7 +34,11 @@ As an atheistic scholar, I approach this topic with a critical eye, recognizing 
 Now, if you'll excuse me, I have some papers to grade...
 
 ## Average Grade
-85.0
+81.0
 
 ## Grades
  * [85.0](./Definition_of_Repentance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [75.0](./Definition_of_Repentance_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Definition_of_Repentance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Definition_of_Repentance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Definition_of_Repentance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

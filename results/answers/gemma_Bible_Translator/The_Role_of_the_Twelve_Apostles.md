@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [The Role of the Twelve Apostles](../../questions/The_Role_of_the_Twelve_Apostles.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [The Role of the Twelve Apostles](../../questions/The_Role_of_the_Twelve_Apostles.md)
 
 ## Question [The Role of the Twelve Apostles](../../questions/The_Role_of_the_Twelve_Apostles.md)
 Why were the twelve apostles significant among Jesus' disciples?

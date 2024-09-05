@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma atheist](../../answering_models/gemma_atheist.md) answer to [Origin of Pentecost](../../questions/Origin_of_Pentecost.md)
+# Generated Answer from [gemma atheist](../../answering_models/gemma_atheist.md) for [Origin of Pentecost](../../questions/Origin_of_Pentecost.md)
 
 ## Question [Origin of Pentecost](../../questions/Origin_of_Pentecost.md)
 What historical and religious significance did the Festival of Weeks (Pentecost) have before the events described in the New Testament?
@@ -44,7 +44,11 @@ Connecting biblical festivals to their fulfillment in Christ.
 The Festival of Weeks held profound historical and religious significance in ancient Israel and continued to hold importance for early Christians. While the New Testament narrative focuses on the Christian celebration of Pentecost, the festival had a rich and diverse history before its Christian appropriation.
 
 ## Average Grade
-90.0
+84.0
 
 ## Grades
  * [90.0](./Origin_of_Pentecost_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Origin_of_Pentecost_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Origin_of_Pentecost_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Origin_of_Pentecost_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Origin_of_Pentecost_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

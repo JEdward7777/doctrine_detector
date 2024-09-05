@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral atheist](../../answering_models/mistral_atheist.md) answer to [Understanding Gentiles in Scripture](../../questions/Understanding_Gentiles_in_Scripture.md)
+# Generated Answer from [mistral atheist](../../answering_models/mistral_atheist.md) for [Understanding Gentiles in Scripture](../../questions/Understanding_Gentiles_in_Scripture.md)
 
 ## Question [Understanding Gentiles in Scripture](../../questions/Understanding_Gentiles_in_Scripture.md)
 How did the Israelites' perception of Gentiles affect their relationships with them in the early church?
@@ -19,7 +19,11 @@ Initially, the Jewish Christians held strong cultural biases against the Gentile
 Throughout the New Testament, we see examples of this changing relationship between Jews and Gentiles, with figures like Paul actively working towards breaking down these cultural barriers by ministering to both groups and emphasizing the universality of the Gospel message in his epistles. This evolution of attitudes towards Gentiles in the Early Church demonstrates a significant shift in religious and cultural perspectives driven by the teachings of Jesus, the Apostles, and the broader missionary efforts.
 
 ## Average Grade
-85.0
+88.0
 
 ## Grades
  * [85.0](./Understanding_Gentiles_in_Scripture_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Understanding_Gentiles_in_Scripture_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Understanding_Gentiles_in_Scripture_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Understanding_Gentiles_in_Scripture_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_Gentiles_in_Scripture_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

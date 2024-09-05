@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Understanding Worldly Values](../../questions/Understanding_Worldly_Values.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Understanding Worldly Values](../../questions/Understanding_Worldly_Values.md)
 
 ## Question [Understanding Worldly Values](../../questions/Understanding_Worldly_Values.md)
 What does the term 'worldly' imply about the behaviors and values of people according to Christian teachings?
@@ -21,7 +21,11 @@ However, it's important to note that this does not mean that Christians should c
 In summary, being "worldly" according to Christian teachings implies an excessive focus on earthly matters at the expense of spiritual ones, but it does not necessarily mean rejection of worldly affairs altogether. Rather, Christians are encouraged to manage their worldly resources in a way that honors God and aligns with His will.
 
 ## Average Grade
-85.0
+81.0
 
 ## Grades
  * [85.0](./Understanding_Worldly_Values_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Understanding_Worldly_Values_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Understanding_Worldly_Values_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Understanding_Worldly_Values_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Understanding_Worldly_Values_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

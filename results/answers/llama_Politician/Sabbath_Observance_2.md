@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Sabbath Observance 2](../../questions/Sabbath_Observance_2.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Sabbath Observance 2](../../questions/Sabbath_Observance_2.md)
 
 ## Question [Sabbath Observance 2](../../questions/Sabbath_Observance_2.md)
 How did God instruct the Israelites to gather manna in relation to the Sabbath?
@@ -23,7 +23,11 @@ I want to emphasize that this story has been interpreted in many ways throughout
 Now, let's move forward with a focus on unity and inclusivity. Can we discuss how this biblical account might be relevant in modern times?
 
 ## Average Grade
-85.0
+86.0
 
 ## Grades
  * [85.0](./Sabbath_Observance_2_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Sabbath_Observance_2_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Sabbath_Observance_2_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Sabbath_Observance_2_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Sabbath_Observance_2_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

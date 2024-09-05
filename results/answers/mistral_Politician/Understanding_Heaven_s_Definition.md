@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Politician](../../answering_models/mistral_Politician.md) answer to [Understanding Heaven's Definition](../../questions/Understanding_Heaven_s_Definition.md)
+# Generated Answer from [mistral Politician](../../answering_models/mistral_Politician.md) for [Understanding Heaven's Definition](../../questions/Understanding_Heaven_s_Definition.md)
 
 ## Question [Understanding Heaven's Definition](../../questions/Understanding_Heaven_s_Definition.md)
 What is the biblical definition of 'heaven' and how does it differ from 'sky'?
@@ -19,7 +19,11 @@ In Christian theology, "heaven" is often associated with the abode of God and th
 On the other hand, "sky" is a term used to describe the atmosphere or space above the earth's surface. It can be seen and interacted with physically. The sky is where we observe celestial bodies like stars, planets, and the moon. While some people may use the term "heaven" metaphorically to refer to the sky, they are fundamentally different concepts in the context of religious beliefs.
 
 ## Average Grade
-90.0
+84.0
 
 ## Grades
  * [90.0](./Understanding_Heaven_s_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Understanding_Heaven_s_Definition_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Understanding_Heaven_s_Definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Understanding_Heaven_s_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Understanding_Heaven_s_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Biblical Usage](../../questions/Biblical_Usage.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Biblical Usage](../../questions/Biblical_Usage.md)
 
 ## Question [Biblical Usage](../../questions/Biblical_Usage.md)
 In what way is the term 'begat' used in the genealogy accounts found in the Bible?
@@ -15,7 +15,11 @@ Understanding the importance of genealogies in establishing Jesus' lineage and f
 The term 'begat' is not used in the genealogy accounts found in the Bible within a Muslim context. The Bible is not considered scripture by Muslims, and Islamic teachings and interpretations take precedence over biblical narratives.
 
 ## Average Grade
-85.0
+63.0
 
 ## Grades
  * [85.0](./Biblical_Usage_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Biblical_Usage_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [75.0](./Biblical_Usage_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [50.0](./Biblical_Usage_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [20.0](./Biblical_Usage_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

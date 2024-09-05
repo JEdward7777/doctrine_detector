@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Scriptural References 2](../../questions/Scriptural_References_2.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Scriptural References 2](../../questions/Scriptural_References_2.md)
 
 ## Question [Scriptural References 2](../../questions/Scriptural_References_2.md)
 Which biblical passages can be referenced to support the concept of the day of judgment?
@@ -37,7 +37,11 @@ The concept of the Day of Judgment, also known as the Day of Wrath or the Great 
 These passages, among others, demonstrate that the Day of Judgment is a critical event in God's plan, where all people will be judged according to their deeds and receive eternal consequences.
 
 ## Average Grade
-80.0
+84.0
 
 ## Grades
  * [80.0](./Scriptural_References_2_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Scriptural_References_2_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Scriptural_References_2_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Scriptural_References_2_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Scriptural_References_2_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

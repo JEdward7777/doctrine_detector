@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Pardon in Christianity](../../questions/Pardon_in_Christianity.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Pardon in Christianity](../../questions/Pardon_in_Christianity.md)
 
 ## Question [Pardon in Christianity](../../questions/Pardon_in_Christianity.md)
 How does the concept of pardon relate to God's forgiveness of sin through Jesus Christ?
@@ -21,7 +21,11 @@ The Islamic concept of pardon emphasizes on self-reformation, seeking guidance, 
 While it is important to respect and acknowledge different religious beliefs, it's essential to understand that these beliefs may vary significantly between religions. The core belief in Islam remains the oneness of God, and we strive to live by His guidance as best we can.
 
 ## Average Grade
-50.0
+59.0
 
 ## Grades
  * [50.0](./Pardon_in_Christianity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [75.0](./Pardon_in_Christianity_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Pardon_in_Christianity_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Pardon_in_Christianity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [40.0](./Pardon_in_Christianity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

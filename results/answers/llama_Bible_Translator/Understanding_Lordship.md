@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Understanding Lordship](../../questions/Understanding_Lordship.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Understanding Lordship](../../questions/Understanding_Lordship.md)
 
 ## Question [Understanding Lordship](../../questions/Understanding_Lordship.md)
 What does the term 'Lord' signify in relation to God and Jesus according to the Bible?
@@ -32,7 +32,11 @@ Scriptural examples:
 In summary, the term "Lord" in the Bible signifies God's sovereignty, holiness, and majesty when referring to Him. When applied to Jesus, it emphasizes His divine lordship as the Son of God and His human lordship as the Son of Man, exercising authority over all creation.
 
 ## Average Grade
-85.0
+90.0
 
 ## Grades
  * [85.0](./Understanding_Lordship_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Understanding_Lordship_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Understanding_Lordship_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Understanding_Lordship_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_Lordship_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

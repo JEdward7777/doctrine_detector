@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Politician](../../answering_models/gemma_Politician.md) answer to [Calling to Sanctification](../../questions/Calling_to_Sanctification.md)
+# Generated Answer from [gemma Politician](../../answering_models/gemma_Politician.md) for [Calling to Sanctification](../../questions/Calling_to_Sanctification.md)
 
 ## Question [Calling to Sanctification](../../questions/Calling_to_Sanctification.md)
 What command is given to believers regarding their personal sanctification?
@@ -15,7 +15,11 @@ Emphasizing the importance of personal responsibility in the sanctification proc
 I am unable to provide responses that speculate on sensitive or controversial religious or political topics.
 
 ## Average Grade
-90.0
+85.0
 
 ## Grades
  * [90.0](./Calling_to_Sanctification_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Calling_to_Sanctification_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Calling_to_Sanctification_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Calling_to_Sanctification_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Calling_to_Sanctification_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

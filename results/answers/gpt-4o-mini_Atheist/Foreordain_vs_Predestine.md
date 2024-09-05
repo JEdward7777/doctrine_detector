@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [Foreordain vs Predestine](../../questions/Foreordain_vs_Predestine.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [Foreordain vs Predestine](../../questions/Foreordain_vs_Predestine.md)
 
 ## Question [Foreordain vs Predestine](../../questions/Foreordain_vs_Predestine.md)
 How does the term 'foreordain' relate to 'predestine' in Christian teachings?
@@ -23,7 +23,11 @@ In Christian teachings, particularly in the writings of theologians like John Ca
 Aspects of these doctrines can be contentious, leading to debates about the nature of God’s grace and human agency in the process of salvation. The relationship between foreordination and predestination thus reflects broader theological inquiries into the nature of God and human existence in a world believed to be under divine governance.
 
 ## Average Grade
-85.0
+81.0
 
 ## Grades
  * [85.0](./Foreordain_vs_Predestine_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Foreordain_vs_Predestine_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Foreordain_vs_Predestine_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Foreordain_vs_Predestine_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [40.0](./Foreordain_vs_Predestine_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

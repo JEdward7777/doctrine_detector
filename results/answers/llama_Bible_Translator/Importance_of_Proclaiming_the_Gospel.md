@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Importance of Proclaiming the Gospel](../../questions/Importance_of_Proclaiming_the_Gospel.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Importance of Proclaiming the Gospel](../../questions/Importance_of_Proclaiming_the_Gospel.md)
 
 ## Question [Importance of Proclaiming the Gospel](../../questions/Importance_of_Proclaiming_the_Gospel.md)
 Why is it important for Christians to proclaim the 'good news'?
@@ -28,7 +28,11 @@ Here are some reasons why proclaiming the Gospel is important for Christians:
 In summary, proclaiming the good news of Jesus Christ is crucial for Christians because it allows us to share God's love, bring people to salvation, witness to others, engage in evangelism, strengthen our own faith, and answer the Great Commission.
 
 ## Average Grade
-85.0
+89.0
 
 ## Grades
  * [85.0](./Importance_of_Proclaiming_the_Gospel_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Importance_of_Proclaiming_the_Gospel_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Importance_of_Proclaiming_the_Gospel_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Importance_of_Proclaiming_the_Gospel_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Importance_of_Proclaiming_the_Gospel_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

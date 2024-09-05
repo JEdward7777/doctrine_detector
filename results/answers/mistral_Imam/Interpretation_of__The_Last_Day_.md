@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Interpretation of 'The Last Day'](../../questions/Interpretation_of__The_Last_Day_.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Interpretation of 'The Last Day'](../../questions/Interpretation_of__The_Last_Day_.md)
 
 ## Question [Interpretation of 'The Last Day'](../../questions/Interpretation_of__The_Last_Day_.md)
 What is meant by 'the last day' as referred to in Christian teaching?
@@ -21,7 +21,11 @@ In contrast, Islam does not share the same eschatological beliefs about a single
 However, it is always beneficial for Muslims and Christians to engage in open and respectful dialogue about our shared values and beliefs, seeking common ground while respecting our differences.
 
 ## Average Grade
-70.0
+72.0
 
 ## Grades
  * [70.0](./Interpretation_of__The_Last_Day__grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Interpretation_of__The_Last_Day__grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Interpretation_of__The_Last_Day__grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Interpretation_of__The_Last_Day__grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [70.0](./Interpretation_of__The_Last_Day__grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

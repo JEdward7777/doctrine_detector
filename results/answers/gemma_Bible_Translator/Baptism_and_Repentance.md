@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Baptism and Repentance](../../questions/Baptism_and_Repentance.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Baptism and Repentance](../../questions/Baptism_and_Repentance.md)
 
 ## Question [Baptism and Repentance](../../questions/Baptism_and_Repentance.md)
 How is repentance related to the act of baptism as presented in the New Testament?

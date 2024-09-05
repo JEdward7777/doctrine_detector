@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Role of Witnesses](../../questions/Role_of_Witnesses.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Role of Witnesses](../../questions/Role_of_Witnesses.md)
 
 ## Question [Role of Witnesses](../../questions/Role_of_Witnesses.md)
 What role do witnesses play in the New Testament regarding the life and resurrection of Jesus?
@@ -19,7 +19,11 @@ The apostle Paul also emphasizes the importance of witnesses in confirming the r
 The testimony of these witnesses serves to provide historical evidence and validation of the central events of Jesus' life, particularly his resurrection, which is a foundational belief of the Christian faith. The reliability and consistency of these accounts support the truth claims of Christianity and lend credibility to the message of salvation through Jesus Christ.
 
 ## Average Grade
-85.0
+87.0
 
 ## Grades
  * [85.0](./Role_of_Witnesses_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Role_of_Witnesses_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Role_of_Witnesses_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Role_of_Witnesses_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Role_of_Witnesses_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Politician](../../answering_models/mistral_Politician.md) answer to [Symbolism of Manna](../../questions/Symbolism_of_Manna.md)
+# Generated Answer from [mistral Politician](../../answering_models/mistral_Politician.md) for [Symbolism of Manna](../../questions/Symbolism_of_Manna.md)
 
 ## Question [Symbolism of Manna](../../questions/Symbolism_of_Manna.md)
 What does the term 'manna' symbolize regarding God's provision?
@@ -19,7 +19,11 @@ The manna was described as a small, round, white, sweet bread-like substance tha
 In modern discussions, it serves as an allegory for divine guidance and sustenance throughout life's journeys, highlighting the belief that God provides for all our needs when we place our trust in Him.
 
 ## Average Grade
-85.0
+89.0
 
 ## Grades
  * [85.0](./Symbolism_of_Manna_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Symbolism_of_Manna_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Symbolism_of_Manna_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Symbolism_of_Manna_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Symbolism_of_Manna_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

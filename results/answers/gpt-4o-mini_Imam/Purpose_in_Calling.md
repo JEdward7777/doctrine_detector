@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Purpose in Calling](../../questions/Purpose_in_Calling.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Purpose in Calling](../../questions/Purpose_in_Calling.md)
 
 ## Question [Purpose in Calling](../../questions/Purpose_in_Calling.md)
 How can one discern their 'calling' or 'purpose' as described in the Bible?
@@ -33,7 +33,11 @@ In Islam, the concept of finding one's purpose or calling in life can be underst
 Ultimately, in Islam, we believe that finding our purpose is about serving Allah, striving for goodness, and making a positive impact in the world. Your calling may evolve as you grow and experience life, so remain open to new opportunities and divine guidance.
 
 ## Average Grade
-90.0
+87.0
 
 ## Grades
  * [90.0](./Purpose_in_Calling_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Purpose_in_Calling_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Purpose_in_Calling_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Purpose_in_Calling_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Purpose_in_Calling_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

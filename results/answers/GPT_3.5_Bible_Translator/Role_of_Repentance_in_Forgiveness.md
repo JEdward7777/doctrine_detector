@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Role of Repentance in Forgiveness](../../questions/Role_of_Repentance_in_Forgiveness.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Role of Repentance in Forgiveness](../../questions/Role_of_Repentance_in_Forgiveness.md)
 
 ## Question [Role of Repentance in Forgiveness](../../questions/Role_of_Repentance_in_Forgiveness.md)
 What is the relationship between repentance and forgiveness in the Bible?
@@ -21,7 +21,11 @@ The relationship between repentance and forgiveness is highlighted throughout th
 Ultimately, true repentance leads to genuine forgiveness, both from God and from others. As Christians, we are called to forgive others just as God has forgiven us (Ephesians 4:32). The connection between repentance and forgiveness underscores the transformative power of God's grace in our lives.
 
 ## Average Grade
-95.0
+92.4
 
 ## Grades
  * [95.0](./Role_of_Repentance_in_Forgiveness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Role_of_Repentance_in_Forgiveness_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [92.0](./Role_of_Repentance_in_Forgiveness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Role_of_Repentance_in_Forgiveness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Role_of_Repentance_in_Forgiveness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

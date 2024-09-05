@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Examples in Scripture](../../questions/Examples_in_Scripture.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Examples in Scripture](../../questions/Examples_in_Scripture.md)
 
 ## Question [Examples in Scripture](../../questions/Examples_in_Scripture.md)
 Can you provide examples from the Bible that illustrate instances of demon possession?
@@ -23,7 +23,11 @@ It's crucial to approach these examples with a deep understanding of the cultura
 As we explore these biblical accounts, let us prioritize sensitivity and respect for all individuals who may be affected by or struggling with spiritual concepts.
 
 ## Average Grade
-85.0
+88.0
 
 ## Grades
  * [85.0](./Examples_in_Scripture_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Examples_in_Scripture_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Examples_in_Scripture_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Examples_in_Scripture_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Examples_in_Scripture_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Ransom Meaning](../../questions/Ransom_Meaning.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Ransom Meaning](../../questions/Ransom_Meaning.md)
 
 ## Question [Ransom Meaning](../../questions/Ransom_Meaning.md)
 What is the significance of Jesus being referred to as a ransom in the context of Christianity?
@@ -19,7 +19,11 @@ The idea of ransom comes from passages in the New Testament, such as Mark 10:45 
 Through Jesus's sacrificial death, Christians believe that we are set free from the power of sin and death, and are offered forgiveness, salvation, and eternal life. This concept of ransom emphasizes the central importance of Jesus's atoning sacrifice on the cross in bringing about redemption and reconciliation between humanity and God.
 
 ## Average Grade
-90.0
+91.0
 
 ## Grades
  * [90.0](./Ransom_Meaning_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Ransom_Meaning_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Ransom_Meaning_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Ransom_Meaning_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Ransom_Meaning_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

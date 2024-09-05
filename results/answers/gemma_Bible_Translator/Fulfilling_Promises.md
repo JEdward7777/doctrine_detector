@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Fulfilling Promises](../../questions/Fulfilling_Promises.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Fulfilling Promises](../../questions/Fulfilling_Promises.md)
 
 ## Question [Fulfilling Promises](../../questions/Fulfilling_Promises.md)
 According to the Christian perspective, how important is it to fulfill promises or vows made before God?

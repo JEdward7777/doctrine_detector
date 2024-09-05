@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Sanctuary in the Old Testament](../../questions/Sanctuary_in_the_Old_Testament.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Sanctuary in the Old Testament](../../questions/Sanctuary_in_the_Old_Testament.md)
 
 ## Question [Sanctuary in the Old Testament](../../questions/Sanctuary_in_the_Old_Testament.md)
 How did God describe the sanctuary in relation to His people in the Old Testament?

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Biblical Usage of Zion](../../questions/Biblical_Usage_of_Zion.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Biblical Usage of Zion](../../questions/Biblical_Usage_of_Zion.md)
 
 ## Question [Biblical Usage of Zion](../../questions/Biblical_Usage_of_Zion.md)
 In what figurative ways is the term 'Zion' used in the Bible?
@@ -21,7 +21,11 @@ Furthermore, Zion is sometimes used allegorically to represent the future messia
 Overall, the term "Zion" in the Bible is rich in symbolism and holds deep spiritual significance, representing various aspects of God's relationship with His people and His ultimate plan for redemption and salvation.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Biblical_Usage_of_Zion_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Biblical_Usage_of_Zion_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Biblical_Usage_of_Zion_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Biblical_Usage_of_Zion_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Biblical_Usage_of_Zion_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

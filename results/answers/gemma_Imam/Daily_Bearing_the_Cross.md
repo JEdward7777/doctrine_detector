@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Daily Bearing the Cross](../../questions/Daily_Bearing_the_Cross.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Daily Bearing the Cross](../../questions/Daily_Bearing_the_Cross.md)
 
 ## Question [Daily Bearing the Cross](../../questions/Daily_Bearing_the_Cross.md)
 What does it mean to 'take up your cross' as mentioned in Luke 9:23?
@@ -35,7 +35,11 @@ This emphasizes the call to discipleship and the personal cost of following Chri
 **Therefore, "taking up your cross" in Islam is not seen as a literal physical act, but rather as an attitude of the heart and spirit.** It is about enduring hardship with patience and faith, knowing that Allah will reward those who struggle in his way.
 
 ## Average Grade
-90.0
+83.0
 
 ## Grades
  * [90.0](./Daily_Bearing_the_Cross_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Daily_Bearing_the_Cross_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Daily_Bearing_the_Cross_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Daily_Bearing_the_Cross_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [70.0](./Daily_Bearing_the_Cross_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

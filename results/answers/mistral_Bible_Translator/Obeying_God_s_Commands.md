@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) answer to [Obeying God's Commands](../../questions/Obeying_God_s_Commands.md)
+# Generated Answer from [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) for [Obeying God's Commands](../../questions/Obeying_God_s_Commands.md)
 
 ## Question [Obeying God's Commands](../../questions/Obeying_God_s_Commands.md)
 How do the laws given to Moses relate to the concept of a covenant between God and His people?
@@ -29,7 +29,11 @@ The Mosaic Covenant has several key elements that relate to the concept of a cov
 In summary, the laws given to Moses relate to the concept of a covenant between God and His people by establishing the terms of that relationship. The Mosaic Covenant was conditional, with blessings for obedience and curses for disobedience. It was renewed throughout Israel's history and ultimately fulfilled in Jesus Christ.
 
 ## Average Grade
-95.0
+94.0
 
 ## Grades
  * [95.0](./Obeying_God_s_Commands_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Obeying_God_s_Commands_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Obeying_God_s_Commands_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Obeying_God_s_Commands_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Obeying_God_s_Commands_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

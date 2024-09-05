@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Promised Land Meaning](../../questions/Promised_Land_Meaning.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Promised Land Meaning](../../questions/Promised_Land_Meaning.md)
 
 ## Question [Promised Land Meaning](../../questions/Promised_Land_Meaning.md)
 What does the term 'Promised Land' signify in the context of God's covenant with Abraham?
@@ -19,7 +19,11 @@ The Promised Land is a central theme throughout the Old Testament, as God reiter
 In the broader theological context, the Promised Land symbolizes the fulfillment of God's covenant promises to His people. It represents not only a physical territory but also a spiritual inheritance and blessing that God bestows on those who are faithful to Him. Christians understand the Promised Land as a foreshadowing of the ultimate fulfillment of God's promises in Jesus Christ, who offers believers a heavenly inheritance and eternal life in His kingdom.
 
 ## Average Grade
-95.0
+86.0
 
 ## Grades
  * [95.0](./Promised_Land_Meaning_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Promised_Land_Meaning_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Promised_Land_Meaning_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Promised_Land_Meaning_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Promised_Land_Meaning_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

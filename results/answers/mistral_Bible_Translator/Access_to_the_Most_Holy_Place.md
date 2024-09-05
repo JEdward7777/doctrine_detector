@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) answer to [Access to the Most Holy Place](../../questions/Access_to_the_Most_Holy_Place.md)
+# Generated Answer from [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) for [Access to the Most Holy Place](../../questions/Access_to_the_Most_Holy_Place.md)
 
 ## Question [Access to the Most Holy Place](../../questions/Access_to_the_Most_Holy_Place.md)
 Who was permitted to enter the 'most holy place' and why was this restriction important?
@@ -21,7 +21,11 @@ The restriction on entering the Most Holy Place served as a reminder of the holi
 This ritual reinforced the idea that sin separates us from a holy God, and that only through Christ's sacrifice (as the ultimate High Priest) can we have access to God. In Christianity, believers are granted direct access to God through faith in Jesus Christ, symbolizing that our relationship with Him is no longer mediated by earthly priests or rituals.
 
 ## Average Grade
-90.0
+91.0
 
 ## Grades
  * [90.0](./Access_to_the_Most_Holy_Place_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Access_to_the_Most_Holy_Place_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Access_to_the_Most_Holy_Place_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Access_to_the_Most_Holy_Place_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Access_to_the_Most_Holy_Place_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

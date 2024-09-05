@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Favoritism in Relationships](../../questions/Favoritism_in_Relationships.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Favoritism in Relationships](../../questions/Favoritism_in_Relationships.md)
 
 ## Question [Favoritism in Relationships](../../questions/Favoritism_in_Relationships.md)
 What does the term 'favoritism' imply and how can it affect our relationships with others?
@@ -25,7 +25,11 @@ In Islam, favoritism (known as 'tadlis' in Arabic) refers to showing preference 
 In Islam, it is essential to treat everyone with fairness, kindness, and respect, regardless of their social status, wealth, or relationships. The Prophet Muhammad (peace be upon him) said: “None of you truly believes until he loves for his brother what he loves for himself.” (Sahih Bukhari) By embodying the values of justice, equality, and compassion in our relationships, we can cultivate strong and harmonious bonds with others, based on mutual respect and empathy.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Favoritism_in_Relationships_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Favoritism_in_Relationships_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Favoritism_in_Relationships_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Favoritism_in_Relationships_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Favoritism_in_Relationships_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

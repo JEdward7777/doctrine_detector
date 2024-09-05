@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Understanding Evil](../../questions/Understanding_Evil.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Understanding Evil](../../questions/Understanding_Evil.md)
 
 ## Question [Understanding Evil](../../questions/Understanding_Evil.md)
 How does the Bible distinguish between 'evil' and 'wickedness' in terms of moral character and behavior?
@@ -21,7 +21,11 @@ On the other hand, "wickedness" is often used to describe a more intentional and
 In summary, while both terms refer to moral wrongdoing, "evil" may encompass a wide range of sinful actions, while "wickedness" often conveys a sense of deliberate and persistent rebellion against God's standards. Ultimately, the Bible teaches that all forms of evil and wickedness are to be avoided, and believers are called to pursue righteousness and holiness in all areas of their lives.
 
 ## Average Grade
-90.0
+89.4
 
 ## Grades
  * [90.0](./Understanding_Evil_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [92.0](./Understanding_Evil_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Understanding_Evil_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Understanding_Evil_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_Evil_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

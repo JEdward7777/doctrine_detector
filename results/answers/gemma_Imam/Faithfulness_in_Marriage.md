@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Faithfulness in Marriage](../../questions/Faithfulness_in_Marriage.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Faithfulness in Marriage](../../questions/Faithfulness_in_Marriage.md)
 
 ## Question [Faithfulness in Marriage](../../questions/Faithfulness_in_Marriage.md)
 What does the Bible teach about faithfulness in marriage regarding adultery?
@@ -40,7 +40,11 @@ The Islamic perspective on faithfulness in marriage is consistent with the Bible
 * Every individual is responsible for their own choices and actions, and faithfulness in marriage is an ongoing responsibility.
 
 ## Average Grade
-95.0
+91.0
 
 ## Grades
  * [95.0](./Faithfulness_in_Marriage_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Faithfulness_in_Marriage_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Faithfulness_in_Marriage_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Faithfulness_in_Marriage_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Faithfulness_in_Marriage_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

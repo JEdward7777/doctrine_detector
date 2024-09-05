@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Condemnation and Punishment](../../questions/Condemnation_and_Punishment.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Condemnation and Punishment](../../questions/Condemnation_and_Punishment.md)
 
 ## Question [Condemnation and Punishment](../../questions/Condemnation_and_Punishment.md)
 In what ways do the teachings in Matthew 12:7 and Psalms 34:22 shape our perspective on punishment as a form of condemnation?

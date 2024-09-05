@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral atheist](../../answering_models/mistral_atheist.md) answer to [Sabbath Timing](../../questions/Sabbath_Timing.md)
+# Generated Answer from [mistral atheist](../../answering_models/mistral_atheist.md) for [Sabbath Timing](../../questions/Sabbath_Timing.md)
 
 ## Question [Sabbath Timing](../../questions/Sabbath_Timing.md)
 What is the timing of the Sabbath according to Jewish tradition?
@@ -21,3 +21,7 @@ It's important to note that the specific timing can vary slightly among differen
 
 ## Grades
  * [90.0](./Sabbath_Timing_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Sabbath_Timing_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Sabbath_Timing_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Sabbath_Timing_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Sabbath_Timing_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

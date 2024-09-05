@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [New Testament References](../../questions/New_Testament_References.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [New Testament References](../../questions/New_Testament_References.md)
 
 ## Question [New Testament References](../../questions/New_Testament_References.md)
 What evidence is there in the New Testament suggesting that John the Baptist may have been a Nazirite?
@@ -21,7 +21,11 @@ Additionally, John the Baptist's ascetic lifestyle, living in the wilderness, we
 While these connections are not definitive proof that John the Baptist was a Nazirite, they do suggest that there may have been Nazirite influences in his life and ministry.
 
 ## Average Grade
-90.0
+86.8
 
 ## Grades
  * [90.0](./New_Testament_References_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./New_Testament_References_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [84.0](./New_Testament_References_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./New_Testament_References_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./New_Testament_References_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

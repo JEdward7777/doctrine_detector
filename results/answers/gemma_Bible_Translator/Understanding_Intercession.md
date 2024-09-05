@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Understanding Intercession](../../questions/Understanding_Intercession.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Understanding Intercession](../../questions/Understanding_Intercession.md)
 
 ## Question [Understanding Intercession](../../questions/Understanding_Intercession.md)
 What does the Bible teach about the role of the Holy Spirit in intercession?

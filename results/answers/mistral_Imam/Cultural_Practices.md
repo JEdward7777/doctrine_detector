@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Cultural Practices](../../questions/Cultural_Practices.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Cultural Practices](../../questions/Cultural_Practices.md)
 
 ## Question [Cultural Practices](../../questions/Cultural_Practices.md)
 What cultural practices were associated with the Jewish view of Gentiles and how did they impact early Christian practices?
@@ -31,7 +31,11 @@ Now, let's see how these practices impacted early Christian practices:
 In summary, the cultural practices associated with the Jewish view of Gentiles significantly influenced early Christian practices, but Christianity gradually evolved its own distinct identity through embracing and adapting some of these practices while also rejecting others.
 
 ## Average Grade
-95.0
+90.0
 
 ## Grades
  * [95.0](./Cultural_Practices_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Cultural_Practices_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Cultural_Practices_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Cultural_Practices_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Cultural_Practices_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

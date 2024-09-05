@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Zion's Historical Significance](../../questions/Zion_s_Historical_Significance.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Zion's Historical Significance](../../questions/Zion_s_Historical_Significance.md)
 
 ## Question [Zion's Historical Significance](../../questions/Zion_s_Historical_Significance.md)
 What was the historical significance of Mount Zion in relation to King David?
@@ -51,7 +51,11 @@ The Quran and Islamic traditions (Sunnah and Hadith) contain numerous references
 Mount Zion played a crucial role in the life and reign of King David, and its significance in Islamic tradition is undeniable. The mountain is a sacred and historically significant site for Muslims, connecting them to their religious and cultural heritage.
 
 ## Average Grade
-30.0
+33.0
 
 ## Grades
  * [30.0](./Zion_s_Historical_Significance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [50.0](./Zion_s_Historical_Significance_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [25.0](./Zion_s_Historical_Significance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [40.0](./Zion_s_Historical_Significance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [20.0](./Zion_s_Historical_Significance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

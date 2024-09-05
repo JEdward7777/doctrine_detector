@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma atheist](../../answering_models/gemma_atheist.md) answer to [Promised Land Meaning](../../questions/Promised_Land_Meaning.md)
+# Generated Answer from [gemma atheist](../../answering_models/gemma_atheist.md) for [Promised Land Meaning](../../questions/Promised_Land_Meaning.md)
 
 ## Question [Promised Land Meaning](../../questions/Promised_Land_Meaning.md)
 What does the term 'Promised Land' signify in the context of God's covenant with Abraham?
@@ -51,7 +51,11 @@ Understanding the biblical significance of God's promises to Abraham and his lin
 The term 'Promised Land' is a complex and multifaceted concept with significant cultural, historical, and theological implications. Understanding its multifaceted nature and cultural retribution is essential for interpreting the covenant between God and Abraham in a nuanced and inclusive way.
 
 ## Average Grade
-90.0
+89.0
 
 ## Grades
  * [90.0](./Promised_Land_Meaning_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Promised_Land_Meaning_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Promised_Land_Meaning_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Promised_Land_Meaning_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Promised_Land_Meaning_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

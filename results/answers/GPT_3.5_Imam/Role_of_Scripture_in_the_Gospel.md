@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Role of Scripture in the Gospel](../../questions/Role_of_Scripture_in_the_Gospel.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Role of Scripture in the Gospel](../../questions/Role_of_Scripture_in_the_Gospel.md)
 
 ## Question [Role of Scripture in the Gospel](../../questions/Role_of_Scripture_in_the_Gospel.md)
 How does the Bible illustrate the use of Scripture in sharing the Gospel message?
@@ -23,7 +23,11 @@ Furthermore, the apostles in the New Testament, such as Paul and Peter, frequent
 Overall, the Bible illustrates the importance of using Scripture as a foundation for sharing the Gospel message and how it can be a powerful tool in conveying the teachings of Jesus and the message of salvation to others.
 
 ## Average Grade
-95.0
+90.0
 
 ## Grades
  * [95.0](./Role_of_Scripture_in_the_Gospel_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Role_of_Scripture_in_the_Gospel_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Role_of_Scripture_in_the_Gospel_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Role_of_Scripture_in_the_Gospel_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Role_of_Scripture_in_the_Gospel_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Covenant and Obedience](../../questions/Covenant_and_Obedience.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Covenant and Obedience](../../questions/Covenant_and_Obedience.md)
 
 ## Question [Covenant and Obedience](../../questions/Covenant_and_Obedience.md)
 What role did obedience to God's laws play in the Israelites' journey toward the Promised Land?
@@ -40,7 +40,11 @@ Recognizing the importance of obedience to God's commandments in achieving His p
 **These practices not only strengthened the Israelites' faith but also facilitated their physical and spiritual growth.**
 
 ## Average Grade
-70.0
+79.0
 
 ## Grades
  * [70.0](./Covenant_and_Obedience_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Covenant_and_Obedience_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Covenant_and_Obedience_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [75.0](./Covenant_and_Obedience_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Covenant_and_Obedience_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

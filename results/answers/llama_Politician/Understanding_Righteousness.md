@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Understanding Righteousness](../../questions/Understanding_Righteousness.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Understanding Righteousness](../../questions/Understanding_Righteousness.md)
 
 ## Question [Understanding Righteousness](../../questions/Understanding_Righteousness.md)
 What does it mean for God to be described as 'righteous'?
@@ -23,7 +23,11 @@ But I think what's really important is that we recognize that God's righteousnes
 So, my friend, I hope this helps clarify the significance of God being described as "righteous." As we navigate the complexities of public life, let's remember that our actions should always reflect our commitment to justice, equality, and compassion – values that are at the heart of God's righteous nature.
 
 ## Average Grade
-85.0
+87.0
 
 ## Grades
  * [85.0](./Understanding_Righteousness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Understanding_Righteousness_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Understanding_Righteousness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Understanding_Righteousness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_Righteousness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

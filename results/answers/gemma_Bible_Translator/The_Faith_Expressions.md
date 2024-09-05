@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [The Faith Expressions](../../questions/The_Faith_Expressions.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [The Faith Expressions](../../questions/The_Faith_Expressions.md)
 
 ## Question [The Faith Expressions](../../questions/The_Faith_Expressions.md)
 What is meant by the phrase 'keep the faith' in the context of belief in Jesus?

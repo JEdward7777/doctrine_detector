@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Personal Application](../../questions/Personal_Application.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Personal Application](../../questions/Personal_Application.md)
 
 ## Question [Personal Application](../../questions/Personal_Application.md)
 What does it mean for a Christian to experience purification from sin?
@@ -21,7 +21,11 @@ Now, I understand that not everyone may subscribe to this belief system, and tha
 In this spirit of inclusivity, I'd like to emphasize that everyone deserves a chance to reflect on their actions, grow from their mistakes, and work towards creating a more just and compassionate world – regardless of religious affiliation or belief system.
 
 ## Average Grade
-45.0
+56.0
 
 ## Grades
  * [45.0](./Personal_Application_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [55.0](./Personal_Application_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Personal_Application_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [50.0](./Personal_Application_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [70.0](./Personal_Application_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

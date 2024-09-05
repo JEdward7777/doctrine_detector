@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Duration of the Last Days](../../questions/Duration_of_the_Last_Days.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Duration of the Last Days](../../questions/Duration_of_the_Last_Days.md)
 
 ## Question [Duration of the Last Days](../../questions/Duration_of_the_Last_Days.md)
 Is the duration of 'the last days' known according to the Bible?
@@ -19,7 +19,11 @@ The Bible speaks about these times, but it does not specify an exact duration fo
 From an Islamic perspective, we believe in the Day of Judgment and the signs preceding it, but the specifics of timelines and events are known only to Allah. It's advised for us to focus on our actions and faith in preparation for the hereafter, rather than trying to pinpoint dates or durations pertaining to the end times.
 
 ## Average Grade
-90.0
+88.0
 
 ## Grades
  * [90.0](./Duration_of_the_Last_Days_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Duration_of_the_Last_Days_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Duration_of_the_Last_Days_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Duration_of_the_Last_Days_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Duration_of_the_Last_Days_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

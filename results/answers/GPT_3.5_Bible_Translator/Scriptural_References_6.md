@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Scriptural References 6](../../questions/Scriptural_References_6.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Scriptural References 6](../../questions/Scriptural_References_6.md)
 
 ## Question [Scriptural References 6](../../questions/Scriptural_References_6.md)
 Which biblical passages provide insight into the characteristics of fools and foolish behavior?
@@ -25,7 +25,11 @@ There are several passages in the Bible that provide insight into the characteri
 These verses highlight the tendencies of fools to rely on their own understanding, speak without thinking, lack humility, and exhibit uncontrolled emotions. Ultimately, the Bible teaches that wisdom comes from God and that those who seek and follow His guidance will avoid foolish behavior.
 
 ## Average Grade
-90.0
+87.0
 
 ## Grades
  * [90.0](./Scriptural_References_6_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Scriptural_References_6_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Scriptural_References_6_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Scriptural_References_6_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Scriptural_References_6_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Understanding Worldly Values](../../questions/Understanding_Worldly_Values.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Understanding Worldly Values](../../questions/Understanding_Worldly_Values.md)
 
 ## Question [Understanding Worldly Values](../../questions/Understanding_Worldly_Values.md)
 What does the term 'worldly' imply about the behaviors and values of people according to Christian teachings?
@@ -21,7 +21,11 @@ Now, I want to emphasize that this doesn't mean all worldly pursuits are inheren
 In fact, many Christian teachings encourage us to be good stewards of the earth and engage with the world in positive ways, while still keeping our eyes on eternal rewards. So, let's focus on being responsible global citizens, shall we?
 
 ## Average Grade
-75.0
+73.0
 
 ## Grades
  * [75.0](./Understanding_Worldly_Values_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Understanding_Worldly_Values_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Understanding_Worldly_Values_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Understanding_Worldly_Values_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Understanding_Worldly_Values_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

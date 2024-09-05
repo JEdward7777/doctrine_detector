@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [Authorship of Psalms](../../questions/Authorship_of_Psalms.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [Authorship of Psalms](../../questions/Authorship_of_Psalms.md)
 
 ## Question [Authorship of Psalms](../../questions/Authorship_of_Psalms.md)
 Who were some of the key figures involved in writing the Psalms?
@@ -29,7 +29,11 @@ The Book of Psalms is a collection of religious poems and songs found in the Heb
 Overall, the Psalms encapsulate a wide range of human emotions and experiences and reflect diverse theological and cultural contexts within ancient Israel. The collaborative nature of their authorship underscores the communal aspect of worship and spirituality in that era.
 
 ## Average Grade
-90.0
+88.0
 
 ## Grades
  * [90.0](./Authorship_of_Psalms_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Authorship_of_Psalms_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Authorship_of_Psalms_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Authorship_of_Psalms_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Authorship_of_Psalms_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Purpose of Holiness](../../questions/Purpose_of_Holiness.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Purpose of Holiness](../../questions/Purpose_of_Holiness.md)
 
 ## Question [Purpose of Holiness](../../questions/Purpose_of_Holiness.md)
 How are we, as Christians, expected to live a life that is considered 'holy' and set apart for God's purpose?
@@ -35,3 +35,7 @@ These principles are essential for Christians as they strive to live a life set 
 
 ## Grades
  * [90.0](./Purpose_of_Holiness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Purpose_of_Holiness_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Purpose_of_Holiness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Purpose_of_Holiness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Purpose_of_Holiness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

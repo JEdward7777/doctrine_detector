@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [Duration of the Last Days](../../questions/Duration_of_the_Last_Days.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [Duration of the Last Days](../../questions/Duration_of_the_Last_Days.md)
 
 ## Question [Duration of the Last Days](../../questions/Duration_of_the_Last_Days.md)
 Is the duration of 'the last days' known according to the Bible?
@@ -19,7 +19,11 @@ The ambiguity surrounding the duration of the last days has led to different int
 Overall, the Bible doesn't specify exactly how long "the last days" will last, leaving the interpretation open to various theological perspectives.
 
 ## Average Grade
-75.0
+81.0
 
 ## Grades
  * [75.0](./Duration_of_the_Last_Days_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Duration_of_the_Last_Days_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Duration_of_the_Last_Days_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Duration_of_the_Last_Days_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Duration_of_the_Last_Days_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

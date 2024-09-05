@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Politician](../../answering_models/mistral_Politician.md) answer to [Understanding Gentiles in Scripture](../../questions/Understanding_Gentiles_in_Scripture.md)
+# Generated Answer from [mistral Politician](../../answering_models/mistral_Politician.md) for [Understanding Gentiles in Scripture](../../questions/Understanding_Gentiles_in_Scripture.md)
 
 ## Question [Understanding Gentiles in Scripture](../../questions/Understanding_Gentiles_in_Scripture.md)
 How did the Israelites' perception of Gentiles affect their relationships with them in the early church?
@@ -23,7 +23,11 @@ Similarly, the Apostle Paul, who was initially a Pharisee and strict adherent to
 In summary, while early Israelites may have had a less inclusive view of Gentiles based on their traditional Jewish teachings, the advent of Christianity and the guidance of key figures like Peter and Paul led to a more accepting and welcoming attitude towards non-Jewish people within the church. However, it is important to note that this process was not without challenges and tensions, as we can see in the Book of Acts and the letters of Paul.
 
 ## Average Grade
-90.0
+89.0
 
 ## Grades
  * [90.0](./Understanding_Gentiles_in_Scripture_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Understanding_Gentiles_in_Scripture_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Understanding_Gentiles_in_Scripture_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Understanding_Gentiles_in_Scripture_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_Gentiles_in_Scripture_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

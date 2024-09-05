@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Atonement and Forgiveness](../../questions/Atonement_and_Forgiveness.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Atonement and Forgiveness](../../questions/Atonement_and_Forgiveness.md)
 
 ## Question [Atonement and Forgiveness](../../questions/Atonement_and_Forgiveness.md)
 In what ways does atonement relate to the concepts of forgiveness and reconciliation in Christianity?

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Biblical References to Heaven](../../questions/Biblical_References_to_Heaven.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Biblical References to Heaven](../../questions/Biblical_References_to_Heaven.md)
 
 ## Question [Biblical References to Heaven](../../questions/Biblical_References_to_Heaven.md)
 Which Bible verses provide insight into the concept of heaven?
@@ -41,7 +41,11 @@ Exploring these references can enhance our understanding of God's kingdom and th
 * **1 Corinthians 2:9:** "Eye has not seen, ear has not heard, nor has it entered the mind of man what God has prepared for those who love him." (This verse emphasizes the unimaginable beauty and glory of heaven.)
 
 ## Average Grade
-0.0
+44.0
 
 ## Grades
  * [0.0](./Biblical_References_to_Heaven_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Biblical_References_to_Heaven_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Biblical_References_to_Heaven_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Biblical_References_to_Heaven_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [20.0](./Biblical_References_to_Heaven_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

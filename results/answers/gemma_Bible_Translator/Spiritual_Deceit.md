@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Spiritual Deceit](../../questions/Spiritual_Deceit.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Spiritual Deceit](../../questions/Spiritual_Deceit.md)
 
 ## Question [Spiritual Deceit](../../questions/Spiritual_Deceit.md)
 What role do demons play in the deception of idolatry according to the content provided?

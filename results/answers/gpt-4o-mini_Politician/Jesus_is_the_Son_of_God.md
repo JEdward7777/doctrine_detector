@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) answer to [Jesus is the Son of God](../../questions/Jesus_is_the_Son_of_God.md)
+# Generated Answer from [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) for [Jesus is the Son of God](../../questions/Jesus_is_the_Son_of_God.md)
 
 ## Question [Jesus is the Son of God](../../questions/Jesus_is_the_Son_of_God.md)
 how do I translate Jesus is the Son of God into a Muslim context
@@ -17,7 +17,11 @@ In a Muslim context, it's important to honor and respect the beliefs of Islam wh
 A respectful translation or adaptation might be: "Jesus is regarded as a revered prophet in Islam." This phrasing captures the esteem in which Jesus is held while aligning with Islamic beliefs. It's essential to approach such discussions with sensitivity and an openness to understanding different perspectives.
 
 ## Average Grade
-60.0
+64.0
 
 ## Grades
  * [60.0](./Jesus_is_the_Son_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [40.0](./Jesus_is_the_Son_of_God_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Jesus_is_the_Son_of_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [75.0](./Jesus_is_the_Son_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Jesus_is_the_Son_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

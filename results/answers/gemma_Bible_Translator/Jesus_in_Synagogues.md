@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Jesus in Synagogues](../../questions/Jesus_in_Synagogues.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Jesus in Synagogues](../../questions/Jesus_in_Synagogues.md)
 
 ## Question [Jesus in Synagogues](../../questions/Jesus_in_Synagogues.md)
 How did Jesus engage with the synagogue during His ministry?

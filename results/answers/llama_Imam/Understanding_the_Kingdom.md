@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Understanding the Kingdom](../../questions/Understanding_the_Kingdom.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Understanding the Kingdom](../../questions/Understanding_the_Kingdom.md)
 
 ## Question [Understanding the Kingdom](../../questions/Understanding_the_Kingdom.md)
 What is the significance of the term 'kingdom of God' as used in the New Testament?
@@ -33,7 +33,11 @@ However, there are significant differences between the two concepts:
 In conclusion, while there may be some superficial similarities between the concepts of "Kingdom of God" and the Islamic concept of Allah's sovereignty, they represent fundamentally different theological frameworks. As Muslims, we are committed to upholding the Oneness of Allah and fulfilling our duties in this life, leading to eternal paradise, as revealed in the Quran.
 
 ## Average Grade
-75.0
+85.0
 
 ## Grades
  * [75.0](./Understanding_the_Kingdom_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Understanding_the_Kingdom_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Understanding_the_Kingdom_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Understanding_the_Kingdom_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_the_Kingdom_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

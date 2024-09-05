@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Historical Context of the Cross](../../questions/Historical_Context_of_the_Cross.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Historical Context of the Cross](../../questions/Historical_Context_of_the_Cross.md)
 
 ## Question [Historical Context of the Cross](../../questions/Historical_Context_of_the_Cross.md)
 How did the Roman practice of crucifixion affect the perception of the cross in early Christianity?
@@ -35,7 +35,11 @@ In summary, the Roman practice of crucifixion greatly influenced the early Chris
 In this way, the cross became an integral part of Christian worship, theology, and mission, symbolizing God's love, mercy, and redemption.
 
 ## Average Grade
-90.0
+92.0
 
 ## Grades
  * [90.0](./Historical_Context_of_the_Cross_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Historical_Context_of_the_Cross_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Historical_Context_of_the_Cross_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Historical_Context_of_the_Cross_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Historical_Context_of_the_Cross_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

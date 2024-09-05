@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [David's Throne](../../questions/David_s_Throne.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [David's Throne](../../questions/David_s_Throne.md)
 
 ## Question [David's Throne](../../questions/David_s_Throne.md)
 What does the promise of David's throne lasting forever signify in Christian theology?

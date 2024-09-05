@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [Access to the Most Holy Place](../../questions/Access_to_the_Most_Holy_Place.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [Access to the Most Holy Place](../../questions/Access_to_the_Most_Holy_Place.md)
 
 ## Question [Access to the Most Holy Place](../../questions/Access_to_the_Most_Holy_Place.md)
 Who was permitted to enter the 'most holy place' and why was this restriction important?
@@ -27,7 +27,11 @@ The restriction on access to the Most Holy Place was significant for several rea
 Overall, the restriction was a critical aspect of the Israelite religious system, reflecting their beliefs about holiness, sin, and the nature of their relationship with the divine.
 
 ## Average Grade
-90.0
+92.0
 
 ## Grades
  * [90.0](./Access_to_the_Most_Holy_Place_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Access_to_the_Most_Holy_Place_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Access_to_the_Most_Holy_Place_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Access_to_the_Most_Holy_Place_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Access_to_the_Most_Holy_Place_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

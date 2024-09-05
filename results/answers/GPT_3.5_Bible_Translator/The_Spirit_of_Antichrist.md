@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [The Spirit of Antichrist](../../questions/The_Spirit_of_Antichrist.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [The Spirit of Antichrist](../../questions/The_Spirit_of_Antichrist.md)
 
 ## Question [The Spirit of Antichrist](../../questions/The_Spirit_of_Antichrist.md)
 What does the Bible say about the spirit of antichrist that exists in the world?
@@ -19,7 +19,11 @@ The spirit of antichrist is characterized by a denial or rejection of Jesus as t
 Ultimately, the spirit of antichrist is in opposition to God and seeks to undermine His work in the world. It is a powerful force that can lead people astray and deceive them with false teachings. However, as Christians, we are called to be vigilant and discerning, holding fast to the truth of God's Word and the reality of Jesus as our Savior and Lord.
 
 ## Average Grade
-90.0
+92.0
 
 ## Grades
  * [90.0](./The_Spirit_of_Antichrist_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./The_Spirit_of_Antichrist_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./The_Spirit_of_Antichrist_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./The_Spirit_of_Antichrist_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./The_Spirit_of_Antichrist_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

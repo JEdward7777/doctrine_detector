@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Sanctuary Definition](../../questions/Sanctuary_Definition.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Sanctuary Definition](../../questions/Sanctuary_Definition.md)
 
 ## Question [Sanctuary Definition](../../questions/Sanctuary_Definition.md)
 What does the term 'sanctuary' refer to in the context of the Bible?

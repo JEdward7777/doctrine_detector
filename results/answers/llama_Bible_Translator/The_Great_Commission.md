@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [The Great Commission](../../questions/The_Great_Commission.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [The Great Commission](../../questions/The_Great_Commission.md)
 
 ## Question [The Great Commission](../../questions/The_Great_Commission.md)
 What command did Jesus give to His disciples before ascending to heaven?
@@ -26,7 +26,11 @@ In this command, Jesus instructed His followers to:
 This Great Commission serves as a guiding principle for Christian evangelism and mission work, empowering believers to spread the Good News of Jesus Christ to all nations until the end of the age.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./The_Great_Commission_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./The_Great_Commission_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./The_Great_Commission_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./The_Great_Commission_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./The_Great_Commission_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

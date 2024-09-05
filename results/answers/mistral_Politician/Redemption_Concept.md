@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Politician](../../answering_models/mistral_Politician.md) answer to [Redemption Concept](../../questions/Redemption_Concept.md)
+# Generated Answer from [mistral Politician](../../answering_models/mistral_Politician.md) for [Redemption Concept](../../questions/Redemption_Concept.md)
 
 ## Question [Redemption Concept](../../questions/Redemption_Concept.md)
 How does the concept of redemption in the Bible compare to the practice of redeeming people or property in ancient Israel?
@@ -23,7 +23,11 @@ Understanding the significance of redemption in Christian faith.
 Both personal redemption and redeeming property in ancient Israel highlight the importance of community support, compassion, and the restorative power of forgiveness within society. These practices can still serve as valuable lessons for us today regarding justice, mercy, and social responsibility.
 
 ## Average Grade
-90.0
+80.0
 
 ## Grades
  * [90.0](./Redemption_Concept_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Redemption_Concept_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Redemption_Concept_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Redemption_Concept_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Redemption_Concept_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

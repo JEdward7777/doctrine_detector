@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Politician](../../answering_models/gemma_Politician.md) answer to [Example of Parables](../../questions/Example_of_Parables.md)
+# Generated Answer from [gemma Politician](../../answering_models/gemma_Politician.md) for [Example of Parables](../../questions/Example_of_Parables.md)
 
 ## Question [Example of Parables](../../questions/Example_of_Parables.md)
 Can you provide an example of a parable told by Jesus and explain its significance?
@@ -38,7 +38,11 @@ While this parable offers valuable lessons, it is important to consider its pote
 The Parable of the Prodigal Son offers a nuanced and compassionate narrative that can resonate with individuals from diverse backgrounds. While navigating the complexities of political correctness, this parable reminds us of the importance of offering forgiveness, promoting inclusivity, and celebrating humility and gratitude.
 
 ## Average Grade
-90.0
+73.0
 
 ## Grades
  * [90.0](./Example_of_Parables_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [75.0](./Example_of_Parables_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Example_of_Parables_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Example_of_Parables_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [40.0](./Example_of_Parables_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

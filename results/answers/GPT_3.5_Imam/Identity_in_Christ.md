@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Identity in Christ](../../questions/Identity_in_Christ.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Identity in Christ](../../questions/Identity_in_Christ.md)
 
 ## Question [Identity in Christ](../../questions/Identity_in_Christ.md)
 What does it mean when God says, 'I have called you by name'?
@@ -19,7 +19,11 @@ This phrase emphasizes the intimacy of the relationship between the individual a
 This concept can bring comfort and reassurance to believers, as it reminds them that they are not alone in their journey through life. It serves as a reminder that God is always present, always watching over them, and always calling them towards what is good and beneficial for their spiritual growth and well-being.
 
 ## Average Grade
-80.0
+86.0
 
 ## Grades
  * [80.0](./Identity_in_Christ_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Identity_in_Christ_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Identity_in_Christ_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Identity_in_Christ_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Identity_in_Christ_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

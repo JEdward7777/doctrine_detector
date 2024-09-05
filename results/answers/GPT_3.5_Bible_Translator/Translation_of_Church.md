@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Translation of Church](../../questions/Translation_of_Church.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Translation of Church](../../questions/Translation_of_Church.md)
 
 ## Question [Translation of Church](../../questions/Translation_of_Church.md)
 What are some suggested translations for the term 'church' that reflect its meaning?
@@ -27,7 +27,11 @@ When seeking translations for the term 'church' in Christian theology, it is imp
 Each of these translations offers a unique perspective on the concept of the church and can help convey the depth and richness of its meaning to readers.
 
 ## Average Grade
-95.0
+91.0
 
 ## Grades
  * [95.0](./Translation_of_Church_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Translation_of_Church_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Translation_of_Church_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Translation_of_Church_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Translation_of_Church_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

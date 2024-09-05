@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Jesus in Synagogues](../../questions/Jesus_in_Synagogues.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Jesus in Synagogues](../../questions/Jesus_in_Synagogues.md)
 
 ## Question [Jesus in Synagogues](../../questions/Jesus_in_Synagogues.md)
 How did Jesus engage with the synagogue during His ministry?
@@ -25,7 +25,11 @@ In the context of the New Testament, Jesus' engagement with the synagogue was a 
 In a Muslim understanding, while we respect and acknowledge the significant role Jesus played in the Scriptures and His connection to the Jewish tradition, it is also essential to remember that Islam teaches that Jesus was a prophet who preached the oneness of God (Tawhid) and called people to righteousness, akin to the broader messages found in the Qur'an.
 
 ## Average Grade
-90.0
+89.0
 
 ## Grades
  * [90.0](./Jesus_in_Synagogues_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Jesus_in_Synagogues_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Jesus_in_Synagogues_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Jesus_in_Synagogues_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Jesus_in_Synagogues_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

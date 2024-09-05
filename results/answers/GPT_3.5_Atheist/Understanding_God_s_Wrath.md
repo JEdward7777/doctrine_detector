@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Understanding God's Wrath](../../questions/Understanding_God_s_Wrath.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Understanding God's Wrath](../../questions/Understanding_God_s_Wrath.md)
 
 ## Question [Understanding God's Wrath](../../questions/Understanding_God_s_Wrath.md)
 What does the Bible teach about the nature of God's wrath and how it differs from human anger?
@@ -19,7 +19,11 @@ One key difference between God's wrath and human anger is that God's wrath is se
 It's important to note that interpretations of God's wrath can vary widely among different religious traditions and theological perspectives, and there is ongoing debate among scholars about the nature and implications of this concept. Ultimately, how one understands God's wrath is shaped by their broader beliefs about divine justice, mercy, and the nature of God Himself.
 
 ## Average Grade
-95.0
+90.0
 
 ## Grades
  * [95.0](./Understanding_God_s_Wrath_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Understanding_God_s_Wrath_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Understanding_God_s_Wrath_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Understanding_God_s_Wrath_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_God_s_Wrath_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

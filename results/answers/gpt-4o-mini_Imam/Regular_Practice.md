@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Regular Practice](../../questions/Regular_Practice.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Regular Practice](../../questions/Regular_Practice.md)
 
 ## Question [Regular Practice](../../questions/Regular_Practice.md)
 Why did the apostle Paul establish the Lord’s Supper as a regular practice for believers?
@@ -31,7 +31,11 @@ While these insights stem from Christian theological understanding, as a Muslim 
 If you have further questions or if there's another aspect you'd like to explore, please feel free to ask!
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Regular_Practice_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Regular_Practice_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Regular_Practice_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Regular_Practice_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Regular_Practice_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

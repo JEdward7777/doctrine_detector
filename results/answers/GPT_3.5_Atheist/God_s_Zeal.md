@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [God's Zeal](../../questions/God_s_Zeal.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [God's Zeal](../../questions/God_s_Zeal.md)
 
 ## Question [God's Zeal](../../questions/God_s_Zeal.md)
 How does the term 'zeal of the Lord' reflect God's actions towards His people?
@@ -17,7 +17,11 @@ In a culturally retributive context, the term "zeal of the Lord" reflects God's 
 Conversely, when the people turn away from God and engage in sinful behavior, the zeal of the Lord manifests as a retributive force that brings about punishment and consequences for their actions. This concept emphasizes the idea that God's judgment is just and that His actions are a direct result of the choices made by His people.
 
 ## Average Grade
-90.0
+88.0
 
 ## Grades
  * [90.0](./God_s_Zeal_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./God_s_Zeal_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./God_s_Zeal_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./God_s_Zeal_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./God_s_Zeal_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

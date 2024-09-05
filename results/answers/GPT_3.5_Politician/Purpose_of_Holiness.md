@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) answer to [Purpose of Holiness](../../questions/Purpose_of_Holiness.md)
+# Generated Answer from [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) for [Purpose of Holiness](../../questions/Purpose_of_Holiness.md)
 
 ## Question [Purpose of Holiness](../../questions/Purpose_of_Holiness.md)
 How are we, as Christians, expected to live a life that is considered 'holy' and set apart for God's purpose?
@@ -19,7 +19,11 @@ In terms of living a life that is considered "holy" and set apart for God's purp
 Ultimately, my focus as a politician is to create a society that upholds the values of respect, inclusivity, and unity, where individuals of all faiths or beliefs can coexist peacefully and contribute to the betterment of our communities.
 
 ## Average Grade
-65.0
+67.0
 
 ## Grades
  * [65.0](./Purpose_of_Holiness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [60.0](./Purpose_of_Holiness_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [75.0](./Purpose_of_Holiness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [65.0](./Purpose_of_Holiness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [70.0](./Purpose_of_Holiness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

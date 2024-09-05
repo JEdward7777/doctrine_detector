@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Cursing in the Biblical Narrative](../../questions/Cursing_in_the_Biblical_Narrative.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Cursing in the Biblical Narrative](../../questions/Cursing_in_the_Biblical_Narrative.md)
 
 ## Question [Cursing in the Biblical Narrative](../../questions/Cursing_in_the_Biblical_Narrative.md)
 What significance does the curse placed on the snake in Genesis 3:14 carry in relation to sin and redemption?

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) answer to [Consequences of Evil](../../questions/Consequences_of_Evil.md)
+# Generated Answer from [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) for [Consequences of Evil](../../questions/Consequences_of_Evil.md)
 
 ## Question [Consequences of Evil](../../questions/Consequences_of_Evil.md)
 What are the consequences of evil as illustrated in the biblical references provided?
@@ -27,7 +27,11 @@ Understanding the impact of evil actions on communities and relationships in lig
 These examples demonstrate that evil has significant consequences, both for individuals and society as a whole. However, they also illustrate God's love and mercy, as He offers salvation and forgiveness to those who repent and put their faith in Him.
 
 ## Average Grade
-95.0
+91.0
 
 ## Grades
  * [95.0](./Consequences_of_Evil_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Consequences_of_Evil_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Consequences_of_Evil_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Consequences_of_Evil_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Consequences_of_Evil_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

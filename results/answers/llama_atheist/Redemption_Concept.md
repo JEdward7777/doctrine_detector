@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Redemption Concept](../../questions/Redemption_Concept.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Redemption Concept](../../questions/Redemption_Concept.md)
 
 ## Question [Redemption Concept](../../questions/Redemption_Concept.md)
 How does the concept of redemption in the Bible compare to the practice of redeeming people or property in ancient Israel?
@@ -31,7 +31,11 @@ While there are similarities between ancient Israelite practices and biblical no
 In conclusion, while there may be superficial similarities between ancient Israelite practices and biblical notions of redemption, the latter carries a profound theological significance that goes beyond mere economic or social transactions. As an atheist scholar, I find it fascinating to explore the historical and cultural contexts that have shaped our understanding of these concepts!
 
 ## Average Grade
-80.0
+76.0
 
 ## Grades
  * [80.0](./Redemption_Concept_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [50.0](./Redemption_Concept_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Redemption_Concept_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Redemption_Concept_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Redemption_Concept_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

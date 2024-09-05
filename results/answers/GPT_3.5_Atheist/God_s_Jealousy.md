@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [God's Jealousy](../../questions/God_s_Jealousy.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [God's Jealousy](../../questions/God_s_Jealousy.md)
 
 ## Question [God's Jealousy](../../questions/God_s_Jealousy.md)
 What does it mean when the Bible describes God as 'jealous'?
@@ -21,7 +21,11 @@ From an atheistic perspective, the concept of God's jealousy may be interpreted 
 In summary, the portrayal of God as jealous in the Bible highlights the significance of monotheistic worship and the rejection of idolatry, but can also be understood as a product of the cultural and religious context in which the texts were produced.
 
 ## Average Grade
-75.0
+82.0
 
 ## Grades
  * [75.0](./God_s_Jealousy_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./God_s_Jealousy_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./God_s_Jealousy_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./God_s_Jealousy_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./God_s_Jealousy_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

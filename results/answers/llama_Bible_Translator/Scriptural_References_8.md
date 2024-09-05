@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Scriptural References 8](../../questions/Scriptural_References_8.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Scriptural References 8](../../questions/Scriptural_References_8.md)
 
 ## Question [Scriptural References 8](../../questions/Scriptural_References_8.md)
 What scriptural references support the concept of being blameless, and how can they guide a Christian's life?
@@ -41,7 +41,11 @@ To guide a Christian's life, these scriptural references can be applied in the f
 By embracing these scriptural truths, Christians can develop a deeper understanding of the concept of being blameless and strive to live a life pleasing to their heavenly Father.
 
 ## Average Grade
-90.0
+88.0
 
 ## Grades
  * [90.0](./Scriptural_References_8_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Scriptural_References_8_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Scriptural_References_8_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Scriptural_References_8_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Scriptural_References_8_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

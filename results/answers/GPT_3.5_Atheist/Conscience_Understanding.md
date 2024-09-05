@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Conscience Understanding](../../questions/Conscience_Understanding.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Conscience Understanding](../../questions/Conscience_Understanding.md)
 
 ## Question [Conscience Understanding](../../questions/Conscience_Understanding.md)
 What is the biblical definition of conscience, and how does it function according to Christian beliefs?
@@ -21,7 +21,11 @@ Christians believe that a well-formed conscience is essential for living a moral
 Overall, in Christian beliefs, conscience serves as a guide for moral decision-making, helping individuals to discern right from wrong and to act in accordance with God's will.
 
 ## Average Grade
-95.0
+87.0
 
 ## Grades
  * [95.0](./Conscience_Understanding_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Conscience_Understanding_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Conscience_Understanding_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Conscience_Understanding_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [70.0](./Conscience_Understanding_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

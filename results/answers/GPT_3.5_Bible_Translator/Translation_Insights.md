@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Translation Insights](../../questions/Translation_Insights.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Translation Insights](../../questions/Translation_Insights.md)
 
 ## Question [Translation Insights](../../questions/Translation_Insights.md)
 What are some suggested translations for the phrase 'image of God' when applied to humans and Jesus, and why might these translations be significant?
@@ -27,7 +27,11 @@ For Jesus:
 In conclusion, the choice of translation for the phrase 'image of God' when applied to humans and Jesus can have significant theological implications, as it shapes our understanding of humanity's relationship with God and Jesus' identity as the Son of God. By carefully selecting translations that accurately convey these concepts, we can deepen our appreciation for the profound truths contained in Scripture.
 
 ## Average Grade
-85.0
+87.0
 
 ## Grades
  * [85.0](./Translation_Insights_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Translation_Insights_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Translation_Insights_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Translation_Insights_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Translation_Insights_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

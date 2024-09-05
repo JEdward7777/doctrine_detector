@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Understanding Transgression](../../questions/Understanding_Transgression.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Understanding Transgression](../../questions/Understanding_Transgression.md)
 
 ## Question [Understanding Transgression](../../questions/Understanding_Transgression.md)
 What does the term 'transgress' imply in a Biblical context?
@@ -25,7 +25,11 @@ In a broader sense, transgression in the Biblical context can be seen as a metap
 By exploring the concept of transgression within its cultural and historical context, we can gain a deeper understanding of the complexities and nuances of Biblical thought, even if it may not align with our own personal beliefs or values.
 
 ## Average Grade
-90.0
+88.0
 
 ## Grades
  * [90.0](./Understanding_Transgression_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Understanding_Transgression_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Understanding_Transgression_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Understanding_Transgression_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_Transgression_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

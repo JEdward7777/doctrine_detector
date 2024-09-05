@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Messiah](../../questions/Messiah.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Messiah](../../questions/Messiah.md)
 
 ## Question [Messiah](../../questions/Messiah.md)
 How can the term 'Messiah' be explained in a context with different religious expectations of a savior?
@@ -27,7 +27,11 @@ When considering these different religious expectations, it's essential to recog
 Ultimately, the term "Messiah" serves as a powerful symbol of hope and redemption across different faiths, reminding us of the universal quest for salvation and the importance of seeking truth, understanding, and reconciliation.
 
 ## Average Grade
-85.0
+81.0
 
 ## Grades
  * [85.0](./Messiah_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Messiah_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [75.0](./Messiah_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Messiah_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Messiah_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

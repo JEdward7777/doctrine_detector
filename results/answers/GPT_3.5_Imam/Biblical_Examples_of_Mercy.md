@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Biblical Examples of Mercy](../../questions/Biblical_Examples_of_Mercy.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Biblical Examples of Mercy](../../questions/Biblical_Examples_of_Mercy.md)
 
 ## Question [Biblical Examples of Mercy](../../questions/Biblical_Examples_of_Mercy.md)
 What are some key examples from the Bible that illustrate the concept of mercy?
@@ -25,7 +25,11 @@ As a Muslim Imam, I can provide examples from the Quran that highlight the conce
 These examples from the Quran emphasize the importance of showing mercy, compassion, forgiveness, and kindness towards others, which are key principles in Islam.
 
 ## Average Grade
-90.0
+79.0
 
 ## Grades
  * [90.0](./Biblical_Examples_of_Mercy_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Biblical_Examples_of_Mercy_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Biblical_Examples_of_Mercy_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Biblical_Examples_of_Mercy_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [40.0](./Biblical_Examples_of_Mercy_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

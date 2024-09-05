@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Ransom Meaning](../../questions/Ransom_Meaning.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Ransom Meaning](../../questions/Ransom_Meaning.md)
 
 ## Question [Ransom Meaning](../../questions/Ransom_Meaning.md)
 What is the significance of Jesus being referred to as a ransom in the context of Christianity?
@@ -19,7 +19,11 @@ The Islamic faith believes that Jesus is a prophet of God, but it does not endor
 **Islamic teachings emphasize that salvation is through faith in Allah and obedience to his laws.**
 
 ## Average Grade
-50.0
+48.0
 
 ## Grades
  * [50.0](./Ransom_Meaning_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [50.0](./Ransom_Meaning_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [30.0](./Ransom_Meaning_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [30.0](./Ransom_Meaning_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Ransom_Meaning_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

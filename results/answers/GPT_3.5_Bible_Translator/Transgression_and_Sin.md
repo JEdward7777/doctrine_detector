@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Transgression and Sin](../../questions/Transgression_and_Sin.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Transgression and Sin](../../questions/Transgression_and_Sin.md)
 
 ## Question [Transgression and Sin](../../questions/Transgression_and_Sin.md)
 How can transgression be related to the concepts of sin and disobedience?
@@ -23,7 +23,11 @@ Disobedience specifically refers to failing to comply with God's commands or ins
 In essence, transgression is a specific type of sin that involves knowingly crossing a boundary, while disobedience is a specific form of sin that involves failing to obey God's commands. Ultimately, all three concepts involve rebellion against God and are contrary to his perfect will for our lives.
 
 ## Average Grade
-95.0
+91.0
 
 ## Grades
  * [95.0](./Transgression_and_Sin_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Transgression_and_Sin_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Transgression_and_Sin_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Transgression_and_Sin_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Transgression_and_Sin_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

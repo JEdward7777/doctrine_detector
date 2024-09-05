@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [General Meaning of Holy Place](../../questions/General_Meaning_of_Holy_Place.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [General Meaning of Holy Place](../../questions/General_Meaning_of_Holy_Place.md)
 
 ## Question [General Meaning of Holy Place](../../questions/General_Meaning_of_Holy_Place.md)
 How can the term 'holy place' be understood in a broader context beyond the tabernacle or temple?
@@ -19,7 +19,11 @@ Furthermore, the New Testament emphasizes that believers are a "holy priesthood"
 In this broader context, a holy place is not limited to a physical location but can be found wherever believers gather to worship, pray, serve, and live out their faith in obedience to God. The emphasis is on the indwelling presence of God in the hearts of believers and the corporate unity of the body of Christ as the temple of the Holy Spirit.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./General_Meaning_of_Holy_Place_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./General_Meaning_of_Holy_Place_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./General_Meaning_of_Holy_Place_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./General_Meaning_of_Holy_Place_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./General_Meaning_of_Holy_Place_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

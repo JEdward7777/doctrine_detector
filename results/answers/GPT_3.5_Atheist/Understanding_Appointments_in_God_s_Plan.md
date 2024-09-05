@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Understanding Appointments in God's Plan](../../questions/Understanding_Appointments_in_God_s_Plan.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Understanding Appointments in God's Plan](../../questions/Understanding_Appointments_in_God_s_Plan.md)
 
 ## Question [Understanding Appointments in God's Plan](../../questions/Understanding_Appointments_in_God_s_Plan.md)
 What does it mean to be 'appointed to eternal life' in a Christian context?
@@ -19,7 +19,11 @@ Those who are "appointed to eternal life" are seen as chosen by God for redempti
 It is worth noting that interpretations of predestination and the idea of being "appointed to eternal life" can vary among different Christian denominations and theologians. Some Christians believe in free will and emphasize the importance of personal faith and choice in accepting salvation, while others emphasize God's role in choosing and calling individuals to salvation.
 
 ## Average Grade
-90.0
+88.0
 
 ## Grades
  * [90.0](./Understanding_Appointments_in_God_s_Plan_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Understanding_Appointments_in_God_s_Plan_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Understanding_Appointments_in_God_s_Plan_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Understanding_Appointments_in_God_s_Plan_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Understanding_Appointments_in_God_s_Plan_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Personal Reflection](../../questions/Personal_Reflection.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Personal Reflection](../../questions/Personal_Reflection.md)
 
 ## Question [Personal Reflection](../../questions/Personal_Reflection.md)
 What does the expression 'woe is me' imply about an individual's awareness of their own suffering or sin?

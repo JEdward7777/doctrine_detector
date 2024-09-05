@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Understanding Amen](../../questions/Understanding_Amen.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Understanding Amen](../../questions/Understanding_Amen.md)
 
 ## Question [Understanding Amen](../../questions/Understanding_Amen.md)
 What does the term 'amen' signify when used at the end of a prayer?

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) answer to [Biblical Fulfillment](../../questions/Biblical_Fulfillment.md)
+# Generated Answer from [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) for [Biblical Fulfillment](../../questions/Biblical_Fulfillment.md)
 
 ## Question [Biblical Fulfillment](../../questions/Biblical_Fulfillment.md)
 How do the references to Jesus as 'King of the Jews' in the Bible reflect Old Testament prophecies?
@@ -19,7 +19,11 @@ It is important to approach this topic with sensitivity and respect for the dive
 In discussions about religious topics, it is essential to create a space for open dialogue and mutual understanding, acknowledging the diversity of perspectives and beliefs that exist within our society. It is important to approach these discussions with empathy, respect, and a willingness to learn from others, regardless of their faith or background.
 
 ## Average Grade
-70.0
+71.0
 
 ## Grades
  * [70.0](./Biblical_Fulfillment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Biblical_Fulfillment_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Biblical_Fulfillment_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Biblical_Fulfillment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Biblical_Fulfillment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

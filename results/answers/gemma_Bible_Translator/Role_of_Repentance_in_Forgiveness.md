@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Role of Repentance in Forgiveness](../../questions/Role_of_Repentance_in_Forgiveness.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Role of Repentance in Forgiveness](../../questions/Role_of_Repentance_in_Forgiveness.md)
 
 ## Question [Role of Repentance in Forgiveness](../../questions/Role_of_Repentance_in_Forgiveness.md)
 What is the relationship between repentance and forgiveness in the Bible?

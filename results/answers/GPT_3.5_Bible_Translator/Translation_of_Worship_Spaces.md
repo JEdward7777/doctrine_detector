@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Translation of Worship Spaces](../../questions/Translation_of_Worship_Spaces.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Translation of Worship Spaces](../../questions/Translation_of_Worship_Spaces.md)
 
 ## Question [Translation of Worship Spaces](../../questions/Translation_of_Worship_Spaces.md)
 How can we best translate the phrase 'house of Yahweh' for understanding today?
@@ -19,7 +19,11 @@ To convey this meaning accurately in modern language, one could consider transla
 It is important to maintain the reverence and significance of the original term in the translation, as the house of Yahweh represented a central aspect of Israelite worship and religious life. By choosing a translation that conveys the idea of a sacred and holy place dedicated to the worship of Yahweh, we can help modern readers understand the deep spiritual and theological significance of the term.
 
 ## Average Grade
-90.0
+89.0
 
 ## Grades
  * [90.0](./Translation_of_Worship_Spaces_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Translation_of_Worship_Spaces_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Translation_of_Worship_Spaces_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Translation_of_Worship_Spaces_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Translation_of_Worship_Spaces_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

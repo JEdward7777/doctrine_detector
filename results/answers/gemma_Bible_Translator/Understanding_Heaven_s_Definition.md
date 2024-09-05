@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Understanding Heaven's Definition](../../questions/Understanding_Heaven_s_Definition.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Understanding Heaven's Definition](../../questions/Understanding_Heaven_s_Definition.md)
 
 ## Question [Understanding Heaven's Definition](../../questions/Understanding_Heaven_s_Definition.md)
 What is the biblical definition of 'heaven' and how does it differ from 'sky'?

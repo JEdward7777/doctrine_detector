@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Victory Over Evil](../../questions/Victory_Over_Evil.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Victory Over Evil](../../questions/Victory_Over_Evil.md)
 
 ## Question [Victory Over Evil](../../questions/Victory_Over_Evil.md)
 What promise does God give regarding the ultimate defeat of Satan?
@@ -29,3 +29,7 @@ As your elected representative, my goal is to promote unity, tolerance, and unde
 
 ## Grades
  * [80.0](./Victory_Over_Evil_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Victory_Over_Evil_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Victory_Over_Evil_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Victory_Over_Evil_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Victory_Over_Evil_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

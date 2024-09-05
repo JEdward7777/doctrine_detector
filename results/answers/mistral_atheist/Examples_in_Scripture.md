@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral atheist](../../answering_models/mistral_atheist.md) answer to [Examples in Scripture](../../questions/Examples_in_Scripture.md)
+# Generated Answer from [mistral atheist](../../answering_models/mistral_atheist.md) for [Examples in Scripture](../../questions/Examples_in_Scripture.md)
 
 ## Question [Examples in Scripture](../../questions/Examples_in_Scripture.md)
 Can you provide examples from the Bible that illustrate instances of demon possession?
@@ -25,7 +25,11 @@ Understanding the prevalence of spiritual issues in the Biblical narrative and t
 These examples illustrate instances where characters in the Bible are described as being possessed by demons or under the influence of evil spirits. Keep in mind that it is up to each individual to interpret these stories according to their own beliefs.
 
 ## Average Grade
-85.0
+87.0
 
 ## Grades
  * [85.0](./Examples_in_Scripture_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Examples_in_Scripture_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Examples_in_Scripture_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Examples_in_Scripture_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Examples_in_Scripture_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

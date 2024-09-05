@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Biblical Exhortation](../../questions/Biblical_Exhortation.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Biblical Exhortation](../../questions/Biblical_Exhortation.md)
 
 ## Question [Biblical Exhortation](../../questions/Biblical_Exhortation.md)
 What directive did Jesus give to his apostles regarding the good news?
@@ -27,7 +27,11 @@ In Islam, we see Jesus as a prophet who conveyed a specific message relevant to 
 I hope this clarifies things! Do you have any further questions?
 
 ## Average Grade
-20.0
+30.0
 
 ## Grades
  * [20.0](./Biblical_Exhortation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [20.0](./Biblical_Exhortation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [20.0](./Biblical_Exhortation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [30.0](./Biblical_Exhortation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Biblical_Exhortation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) answer to [Interpreting Divine Glory](../../questions/Interpreting_Divine_Glory.md)
+# Generated Answer from [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) for [Interpreting Divine Glory](../../questions/Interpreting_Divine_Glory.md)
 
 ## Question [Interpreting Divine Glory](../../questions/Interpreting_Divine_Glory.md)
 How can 'divine glory' be understood in the context of worship?
@@ -29,7 +29,11 @@ In the context of worship, 'divine glory' can be understood as the visible manif
 In summary, understanding divine glory in the context of worship influences how believers approach God—recognizing His greatness, experiencing transformation, celebrating creation, and proclaiming His power to the world. It shapes the heart of worship, making it both a personal and communal experience that honors God's nature.
 
 ## Average Grade
-95.0
+92.4
 
 ## Grades
  * [95.0](./Interpreting_Divine_Glory_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Interpreting_Divine_Glory_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Interpreting_Divine_Glory_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Interpreting_Divine_Glory_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [92.0](./Interpreting_Divine_Glory_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

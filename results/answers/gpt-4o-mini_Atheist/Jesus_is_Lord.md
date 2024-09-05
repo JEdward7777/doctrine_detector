@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [Jesus is Lord](../../questions/Jesus_is_Lord.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [Jesus is Lord](../../questions/Jesus_is_Lord.md)
 
 ## Question [Jesus is Lord](../../questions/Jesus_is_Lord.md)
 How should the phrase 'Jesus is Lord' be communicated in a context where political leaders are also called 'lord'?
@@ -29,7 +29,11 @@ To communicate this phrase effectively and respectfully, one might consider:
 This approach respects the nuance of both religious and political language, fostering meaningful dialogue while maintaining the core significance of the phrase for those who hold it dear.
 
 ## Average Grade
-95.0
+91.0
 
 ## Grades
  * [95.0](./Jesus_is_Lord_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Jesus_is_Lord_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Jesus_is_Lord_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Jesus_is_Lord_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Jesus_is_Lord_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

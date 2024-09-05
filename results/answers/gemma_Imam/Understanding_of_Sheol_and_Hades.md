@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Understanding of Sheol and Hades](../../questions/Understanding_of_Sheol_and_Hades.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Understanding of Sheol and Hades](../../questions/Understanding_of_Sheol_and_Hades.md)
 
 ## Question [Understanding of Sheol and Hades](../../questions/Understanding_of_Sheol_and_Hades.md)
 How do the concepts of Sheol and Hades differ in the context of the Bible, especially in relation to the afterlife of the righteous versus the unrighteous?
@@ -42,7 +42,11 @@ Understanding the distinction between the fates of the righteous and the unright
 While there are similarities between the concepts of Sheol/Hades and the afterlife beliefs in some Christian traditions, there are also significant differences in the Islamic context. Islamic teachings emphasize the temporary nature of death and the universality of the Day of Judgement for all souls.
 
 ## Average Grade
-90.0
+85.0
 
 ## Grades
  * [90.0](./Understanding_of_Sheol_and_Hades_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Understanding_of_Sheol_and_Hades_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Understanding_of_Sheol_and_Hades_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Understanding_of_Sheol_and_Hades_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Understanding_of_Sheol_and_Hades_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

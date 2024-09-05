@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [The Messiah](../../questions/The_Messiah.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [The Messiah](../../questions/The_Messiah.md)
 
 ## Question [The Messiah](../../questions/The_Messiah.md)
 How are the terms 'Jesus' and 'Christ' related?
@@ -27,7 +27,11 @@ In Islamic understanding, the term "Christ" is often used interchangeably with "
 I hope this clarifies the relationship between the terms "Jesus" and "Christ" within an Islamic context. If you have any further questions, please feel free to ask.
 
 ## Average Grade
-20.0
+41.0
 
 ## Grades
  * [20.0](./The_Messiah_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [20.0](./The_Messiah_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [30.0](./The_Messiah_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [50.0](./The_Messiah_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./The_Messiah_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

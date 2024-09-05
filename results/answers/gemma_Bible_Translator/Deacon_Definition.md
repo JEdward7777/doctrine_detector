@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Deacon Definition](../../questions/Deacon_Definition.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Deacon Definition](../../questions/Deacon_Definition.md)
 
 ## Question [Deacon Definition](../../questions/Deacon_Definition.md)
 What is the primary role of a deacon in the local church?

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [God's Chosen People](../../questions/God_s_Chosen_People.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [God's Chosen People](../../questions/God_s_Chosen_People.md)
 
 ## Question [God's Chosen People](../../questions/God_s_Chosen_People.md)
 How does the idea of a 'remnant' indicate God's selective grace towards His people?
@@ -23,3 +23,7 @@ The remnant serves as a model for Muslims to emulate, demonstrating the correct 
 
 ## Grades
  * [85.0](./God_s_Chosen_People_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./God_s_Chosen_People_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./God_s_Chosen_People_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./God_s_Chosen_People_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./God_s_Chosen_People_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

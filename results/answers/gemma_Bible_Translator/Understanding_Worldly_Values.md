@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Understanding Worldly Values](../../questions/Understanding_Worldly_Values.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Understanding Worldly Values](../../questions/Understanding_Worldly_Values.md)
 
 ## Question [Understanding Worldly Values](../../questions/Understanding_Worldly_Values.md)
 What does the term 'worldly' imply about the behaviors and values of people according to Christian teachings?

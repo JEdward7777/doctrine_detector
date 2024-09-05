@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [New Testament References](../../questions/New_Testament_References.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [New Testament References](../../questions/New_Testament_References.md)
 
 ## Question [New Testament References](../../questions/New_Testament_References.md)
 What evidence is there in the New Testament suggesting that John the Baptist may have been a Nazirite?

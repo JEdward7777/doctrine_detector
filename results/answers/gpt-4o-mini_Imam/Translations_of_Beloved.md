@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Translations of Beloved](../../questions/Translations_of_Beloved.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Translations of Beloved](../../questions/Translations_of_Beloved.md)
 
 ## Question [Translations of Beloved](../../questions/Translations_of_Beloved.md)
 What are some translation suggestions for the term 'beloved' based on the context of love?
@@ -35,7 +35,11 @@ In a more spiritual context, particularly in relation to the love of Allah or pr
 When selecting a term, consider the specific context in which you want to express "beloved," whether it's romantic, familial, or spiritual, as each term carries its own connotations and depth of meaning.
 
 ## Average Grade
-70.0
+71.0
 
 ## Grades
  * [70.0](./Translations_of_Beloved_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Translations_of_Beloved_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [45.0](./Translations_of_Beloved_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Translations_of_Beloved_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Translations_of_Beloved_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

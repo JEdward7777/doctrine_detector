@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Definition Clarity](../../questions/Definition_Clarity.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Definition Clarity](../../questions/Definition_Clarity.md)
 
 ## Question [Definition Clarity](../../questions/Definition_Clarity.md)
 How is the term 'adultery' defined in the Christian context according to Scripture?
@@ -17,7 +17,11 @@ In Christian context, adultery is defined as a violation of the marital covenant
 Adultery involves any form of sexual activity or emotional attachment outside of the bounds of marriage, thus betraying the commitment made between spouses and violating the trust and fidelity that are foundational to a healthy marriage. It is considered a serious sin in Christianity because it goes against God's design for marriage and the sanctity of the marital union.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Definition_Clarity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Definition_Clarity_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Definition_Clarity_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Definition_Clarity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Definition_Clarity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

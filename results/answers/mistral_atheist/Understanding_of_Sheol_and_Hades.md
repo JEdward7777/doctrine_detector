@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral atheist](../../answering_models/mistral_atheist.md) answer to [Understanding of Sheol and Hades](../../questions/Understanding_of_Sheol_and_Hades.md)
+# Generated Answer from [mistral atheist](../../answering_models/mistral_atheist.md) for [Understanding of Sheol and Hades](../../questions/Understanding_of_Sheol_and_Hades.md)
 
 ## Question [Understanding of Sheol and Hades](../../questions/Understanding_of_Sheol_and_Hades.md)
 How do the concepts of Sheol and Hades differ in the context of the Bible, especially in relation to the afterlife of the righteous versus the unrighteous?
@@ -21,7 +21,11 @@ On the other hand, Hades (or Haides in Greek) appears six times in the Old Testa
 To summarize, while Sheol is generally portrayed as a common destination for all deceased individuals, regardless of their moral actions during life, Hades presents a more nuanced view that includes separate realms for the righteous and unrighteous. However, it's essential to note that interpretations can vary based on different translations and theological perspectives.
 
 ## Average Grade
-90.0
+88.0
 
 ## Grades
  * [90.0](./Understanding_of_Sheol_and_Hades_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Understanding_of_Sheol_and_Hades_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Understanding_of_Sheol_and_Hades_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Understanding_of_Sheol_and_Hades_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_of_Sheol_and_Hades_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Consequences of Evil](../../questions/Consequences_of_Evil.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Consequences of Evil](../../questions/Consequences_of_Evil.md)
 
 ## Question [Consequences of Evil](../../questions/Consequences_of_Evil.md)
 What are the consequences of evil as illustrated in the biblical references provided?
@@ -29,7 +29,11 @@ Now, my friends, let's examine some consequences of evil...
 In conclusion, my fellow citizens, let us engage in a nuanced exploration of the consequences of evil as depicted in biblical references. As we strive to build a more just and equitable society, it's essential that we prioritize empathy, understanding, and compassion for all individuals, regardless of their backgrounds or beliefs.
 
 ## Average Grade
-85.0
+86.0
 
 ## Grades
  * [85.0](./Consequences_of_Evil_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Consequences_of_Evil_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Consequences_of_Evil_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Consequences_of_Evil_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Consequences_of_Evil_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

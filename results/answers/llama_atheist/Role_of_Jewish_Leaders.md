@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Role of Jewish Leaders](../../questions/Role_of_Jewish_Leaders.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Role of Jewish Leaders](../../questions/Role_of_Jewish_Leaders.md)
 
 ## Question [Role of Jewish Leaders](../../questions/Role_of_Jewish_Leaders.md)
 How did the Jewish religious leaders influence the crucifixion of Jesus?
@@ -27,7 +27,11 @@ It's crucial to recognize that many Jewish leaders did not conspire against Jesu
 In conclusion, while it's impossible to pinpoint a single reason for the crucifixion of Jesus, the Jewish religious leaders' influence was undoubtedly significant. Their concerns about Jesus' claims, authority, and potential threat to their power contributed to his demise. However, it's essential to remember that the crucifixion was a complex event involving human factors like politics, social dynamics, and theological disputes, as well as divine providence or the lack thereof (depending on one's perspective).
 
 ## Average Grade
-85.0
+70.0
 
 ## Grades
  * [85.0](./Role_of_Jewish_Leaders_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Role_of_Jewish_Leaders_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Role_of_Jewish_Leaders_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [50.0](./Role_of_Jewish_Leaders_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Role_of_Jewish_Leaders_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

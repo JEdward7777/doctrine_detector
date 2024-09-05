@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [God's Revelation](../../questions/God_s_Revelation.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [God's Revelation](../../questions/God_s_Revelation.md)
 
 ## Question [God's Revelation](../../questions/God_s_Revelation.md)
 How does God introduce Himself using His name in the Bible?
@@ -21,7 +21,11 @@ Additionally, God is also revealed as "El Shaddai," which means "God Almighty" o
 These are just a few examples of how God introduces Himself using His names in the Bible. Each name reveals a different aspect of His character and invites us to know Him more fully.
 
 ## Average Grade
-95.0
+91.0
 
 ## Grades
  * [95.0](./God_s_Revelation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./God_s_Revelation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./God_s_Revelation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./God_s_Revelation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./God_s_Revelation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

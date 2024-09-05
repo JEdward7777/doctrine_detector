@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Symbolism of the Cornerstone](../../questions/Symbolism_of_the_Cornerstone.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Symbolism of the Cornerstone](../../questions/Symbolism_of_the_Cornerstone.md)
 
 ## Question [Symbolism of the Cornerstone](../../questions/Symbolism_of_the_Cornerstone.md)
 In what ways does the metaphor of the cornerstone illustrate the relationship between Jesus and His followers?

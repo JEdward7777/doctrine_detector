@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Politician](../../answering_models/gemma_Politician.md) answer to [Baptism and Repentance](../../questions/Baptism_and_Repentance.md)
+# Generated Answer from [gemma Politician](../../answering_models/gemma_Politician.md) for [Baptism and Repentance](../../questions/Baptism_and_Repentance.md)
 
 ## Question [Baptism and Repentance](../../questions/Baptism_and_Repentance.md)
 How is repentance related to the act of baptism as presented in the New Testament?
@@ -15,7 +15,11 @@ Understanding the relationship between repentance and baptism in Christian doctr
 I am unable to provide religious interpretations or theological insights. My purpose is to provide factual and neutral information based on historical and political contexts.
 
 ## Average Grade
-30.0
+34.0
 
 ## Grades
  * [30.0](./Baptism_and_Repentance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [20.0](./Baptism_and_Repentance_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [20.0](./Baptism_and_Repentance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Baptism_and_Repentance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [40.0](./Baptism_and_Repentance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

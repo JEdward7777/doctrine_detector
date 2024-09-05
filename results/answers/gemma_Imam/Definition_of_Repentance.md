@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Definition of Repentance](../../questions/Definition_of_Repentance.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Definition of Repentance](../../questions/Definition_of_Repentance.md)
 
 ## Question [Definition of Repentance](../../questions/Definition_of_Repentance.md)
 What does it mean to repent according to the Bible?
@@ -15,7 +15,11 @@ Understanding the biblical definition of repentance is crucial for fostering gen
 I am unable to provide answers based on biblical interpretations, as my knowledge and expertise pertain to Islamic teachings and principles. For questions related to biblical concepts, please consult religious scholars or authorities on Christianity.
 
 ## Average Grade
-40.0
+61.0
 
 ## Grades
  * [40.0](./Definition_of_Repentance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Definition_of_Repentance_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [25.0](./Definition_of_Repentance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Definition_of_Repentance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Definition_of_Repentance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Duration of the Last Days](../../questions/Duration_of_the_Last_Days.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Duration of the Last Days](../../questions/Duration_of_the_Last_Days.md)
 
 ## Question [Duration of the Last Days](../../questions/Duration_of_the_Last_Days.md)
 Is the duration of 'the last days' known according to the Bible?
@@ -30,7 +30,11 @@ As Muslims, we believe in the prophetic tradition of Muhammad (peace be upon him
 I hope this provides some insight into the concept of "the last days" in a Christian context. If you have further questions or concerns, please feel free to ask!
 
 ## Average Grade
-60.0
+67.0
 
 ## Grades
  * [60.0](./Duration_of_the_Last_Days_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Duration_of_the_Last_Days_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Duration_of_the_Last_Days_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Duration_of_the_Last_Days_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Duration_of_the_Last_Days_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

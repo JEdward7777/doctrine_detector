@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [God's Identity Through Naming](../../questions/God_s_Identity_Through_Naming.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [God's Identity Through Naming](../../questions/God_s_Identity_Through_Naming.md)
 
 ## Question [God's Identity Through Naming](../../questions/God_s_Identity_Through_Naming.md)
 How does the concept of being 'called by my name' reflect our relationship with God?
@@ -21,7 +21,11 @@ Furthermore, the concept of being "called by my name" also highlights the import
 Overall, the concept of being "called by my name" serves as a reminder of the personal and loving relationship that exists between believers and their Creator. It inspires us to constantly seek His pleasure, guidance, and mercy, while also trusting in His wisdom and grace.
 
 ## Average Grade
-85.0
+81.0
 
 ## Grades
  * [85.0](./God_s_Identity_Through_Naming_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./God_s_Identity_Through_Naming_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./God_s_Identity_Through_Naming_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./God_s_Identity_Through_Naming_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [65.0](./God_s_Identity_Through_Naming_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

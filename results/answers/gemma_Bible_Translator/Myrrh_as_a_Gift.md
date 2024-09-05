@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Myrrh as a Gift](../../questions/Myrrh_as_a_Gift.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Myrrh as a Gift](../../questions/Myrrh_as_a_Gift.md)
 
 ## Question [Myrrh as a Gift](../../questions/Myrrh_as_a_Gift.md)
 What was the significance of myrrh as one of the gifts given to Jesus at his birth?

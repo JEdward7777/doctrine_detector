@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Israel's Identity](../../questions/Israel_s_Identity.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Israel's Identity](../../questions/Israel_s_Identity.md)
 
 ## Question [Israel's Identity](../../questions/Israel_s_Identity.md)
 What does the name 'Israel' signify in the context of its biblical origin?

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Nazirite Vow Significance](../../questions/Nazirite_Vow_Significance.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Nazirite Vow Significance](../../questions/Nazirite_Vow_Significance.md)
 
 ## Question [Nazirite Vow Significance](../../questions/Nazirite_Vow_Significance.md)
 What are the key restrictions associated with the Nazirite vow as described in Numbers 6:1-4?
@@ -23,7 +23,11 @@ In Numbers 6:1-4, the Nazirite vow is a voluntary vow of dedication to the Lord,
 These restrictions were meant to set the Nazirite apart for a specific period of time and to demonstrate their commitment to seeking the Lord wholeheartedly.
 
 ## Average Grade
-75.0
+80.0
 
 ## Grades
  * [75.0](./Nazirite_Vow_Significance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Nazirite_Vow_Significance_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Nazirite_Vow_Significance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Nazirite_Vow_Significance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Nazirite_Vow_Significance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

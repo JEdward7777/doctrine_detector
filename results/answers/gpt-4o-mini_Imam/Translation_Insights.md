@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Translation Insights](../../questions/Translation_Insights.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Translation Insights](../../questions/Translation_Insights.md)
 
 ## Question [Translation Insights](../../questions/Translation_Insights.md)
 What are some suggested translations for the phrase 'image of God' when applied to humans and Jesus, and why might these translations be significant?
@@ -27,7 +27,11 @@ The phrase "image of God" is a significant theological concept found in the scri
 These translations and concepts are significant because they clarify the Islamic understanding of humanity's relationship with the Divine. They underscore the idea that while humans possess special qualities that reflect God's attributes, they are distinct and do not equate to a literal image, which aligns with Islamic theology's emphasis on the oneness and uniqueness of Allah (Tawhid). This perspective encourages a sense of respect for human dignity and a moral obligation towards creation, rather than a focus on physical resemblance.
 
 ## Average Grade
-85.0
+84.0
 
 ## Grades
  * [85.0](./Translation_Insights_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Translation_Insights_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Translation_Insights_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Translation_Insights_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Translation_Insights_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

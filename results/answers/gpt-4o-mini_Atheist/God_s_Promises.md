@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [God's Promises](../../questions/God_s_Promises.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [God's Promises](../../questions/God_s_Promises.md)
 
 ## Question [God's Promises](../../questions/God_s_Promises.md)
 What significance do God's promises hold in the context of His relationship with His people, as seen in the examples from the Bible?
@@ -27,7 +27,11 @@ In the context of the Bible, God's promises are foundational to understanding th
 In summary, God's promises are significant as they encapsulate divine faithfulness, provide assurance in challenging times, emphasize ethical living, and highlight a future hope. They serve not just as guarantees of blessing but also as a framework for a reciprocal relationship of trust and moral dedication between God and His people.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./God_s_Promises_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./God_s_Promises_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./God_s_Promises_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./God_s_Promises_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./God_s_Promises_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

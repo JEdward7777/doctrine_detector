@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Testing and Temptation](../../questions/Testing_and_Temptation.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Testing and Temptation](../../questions/Testing_and_Temptation.md)
 
 ## Question [Testing and Temptation](../../questions/Testing_and_Temptation.md)
 How does the concept of testing differ from the idea of temptation in a biblical context?
@@ -29,7 +29,11 @@ Now, let's consider the key differences between these two concepts:
 By recognizing these distinctions, we can better appreciate the complexities of human experience and morality, even without invoking supernatural entities or divine interventions. This approach allows us to focus on the inherent struggles and choices that shape our lives, rather than relying on external forces or authorities.
 
 ## Average Grade
-90.0
+87.0
 
 ## Grades
  * [90.0](./Testing_and_Temptation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Testing_and_Temptation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Testing_and_Temptation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Testing_and_Temptation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Testing_and_Temptation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

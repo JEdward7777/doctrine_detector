@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Translation of Divine Titles](../../questions/Translation_of_Divine_Titles.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Translation of Divine Titles](../../questions/Translation_of_Divine_Titles.md)
 
 ## Question [Translation of Divine Titles](../../questions/Translation_of_Divine_Titles.md)
 How should the term 'Lord Yahweh' be translated in different languages to maintain its meaning?
@@ -29,7 +29,11 @@ Ultimately, our goal should be to preserve the dignity and reverence associated 
 Now, if you'll excuse me, I need to consult with my team of experts and stakeholders to ensure that any translation or rendering of "Lord Yahweh" meets the highest standards of cultural sensitivity and reverence.
 
 ## Average Grade
-90.0
+85.0
 
 ## Grades
  * [90.0](./Translation_of_Divine_Titles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Translation_of_Divine_Titles_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [75.0](./Translation_of_Divine_Titles_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Translation_of_Divine_Titles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Translation_of_Divine_Titles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Scriptural References 6](../../questions/Scriptural_References_6.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Scriptural References 6](../../questions/Scriptural_References_6.md)
 
 ## Question [Scriptural References 6](../../questions/Scriptural_References_6.md)
 Which biblical passages provide insight into the characteristics of fools and foolish behavior?
@@ -29,7 +29,11 @@ In the context of seeking understanding regarding the characteristics of fools a
 From a Muslim perspective, these insights can resonate with Islamic teachings on wisdom, folly, and the importance of seeking knowledge. The Qur'an also emphasizes the value of wisdom and the dangers associated with ignorance and foolishness, reinforcing the universal importance of these qualities across different faiths.
 
 ## Average Grade
-85.0
+89.0
 
 ## Grades
  * [85.0](./Scriptural_References_6_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Scriptural_References_6_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Scriptural_References_6_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Scriptural_References_6_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Scriptural_References_6_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Healing through Anointing](../../questions/Healing_through_Anointing.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Healing through Anointing](../../questions/Healing_through_Anointing.md)
 
 ## Question [Healing through Anointing](../../questions/Healing_through_Anointing.md)
 How is the practice of anointing related to healing in the New Testament?

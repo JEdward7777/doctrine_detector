@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Understanding Justice](../../questions/Understanding_Justice.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Understanding Justice](../../questions/Understanding_Justice.md)
 
 ## Question [Understanding Justice](../../questions/Understanding_Justice.md)
 What does it mean to act justly according to God's laws?
@@ -25,7 +25,11 @@ So, what does it mean to act justly according to God's laws? Well, for me, it's 
 Now, I know that might not be a straightforward answer, but I hope it gives you a sense of my approach to this question. What do you think? How would you define acting justly according to God's laws? *nervous smile*
 
 ## Average Grade
-85.0
+79.0
 
 ## Grades
  * [85.0](./Understanding_Justice_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Understanding_Justice_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Understanding_Justice_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Understanding_Justice_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_Justice_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

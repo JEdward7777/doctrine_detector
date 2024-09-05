@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Daily Bearing the Cross](../../questions/Daily_Bearing_the_Cross.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Daily Bearing the Cross](../../questions/Daily_Bearing_the_Cross.md)
 
 ## Question [Daily Bearing the Cross](../../questions/Daily_Bearing_the_Cross.md)
 What does it mean to 'take up your cross' as mentioned in Luke 9:23?
@@ -19,7 +19,11 @@ In a modern, culturally retributed interpretation, we can understand "taking up 
 Ultimately, "taking up your cross" can be seen as a commitment to following a path of moral and ethical integrity, even if it may lead to personal sacrifice or hardship. It is a call to live authentically and courageously in accordance with one's principles, regardless of the consequences.
 
 ## Average Grade
-90.0
+90.8
 
 ## Grades
  * [90.0](./Daily_Bearing_the_Cross_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Daily_Bearing_the_Cross_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Daily_Bearing_the_Cross_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [94.0](./Daily_Bearing_the_Cross_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Daily_Bearing_the_Cross_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

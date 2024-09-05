@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Role of Appointments in Service](../../questions/Role_of_Appointments_in_Service.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Role of Appointments in Service](../../questions/Role_of_Appointments_in_Service.md)
 
 ## Question [Role of Appointments in Service](../../questions/Role_of_Appointments_in_Service.md)
 In what ways are Christians called to fulfill the roles they are appointed to within the Church?
@@ -51,7 +51,11 @@ The Quran emphasizes the importance of cooperation and reciprocity in society. M
 **It is important to note that the specific roles and responsibilities of Christians within the Church may vary depending on their individual gifts, talents, and the needs of their community.**
 
 ## Average Grade
-90.0
+78.0
 
 ## Grades
  * [90.0](./Role_of_Appointments_in_Service_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Role_of_Appointments_in_Service_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Role_of_Appointments_in_Service_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Role_of_Appointments_in_Service_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Role_of_Appointments_in_Service_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) answer to [Translation of Worship Spaces](../../questions/Translation_of_Worship_Spaces.md)
+# Generated Answer from [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) for [Translation of Worship Spaces](../../questions/Translation_of_Worship_Spaces.md)
 
 ## Question [Translation of Worship Spaces](../../questions/Translation_of_Worship_Spaces.md)
 How can we best translate the phrase 'house of Yahweh' for understanding today?
@@ -19,7 +19,11 @@ Given this context, a possible updated and more accurate rendering for today's r
 Ultimately, it's essential to remember that any translation will involve some degree of interpretation, as words and phrases have evolved over time and may not directly translate in a way that fully conveys their original meaning. Therefore, it is crucial to provide context and explanatory notes when translating biblical texts for today's readers.
 
 ## Average Grade
-90.0
+89.0
 
 ## Grades
  * [90.0](./Translation_of_Worship_Spaces_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Translation_of_Worship_Spaces_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Translation_of_Worship_Spaces_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Translation_of_Worship_Spaces_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Translation_of_Worship_Spaces_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

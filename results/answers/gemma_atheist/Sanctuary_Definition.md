@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma atheist](../../answering_models/gemma_atheist.md) answer to [Sanctuary Definition](../../questions/Sanctuary_Definition.md)
+# Generated Answer from [gemma atheist](../../answering_models/gemma_atheist.md) for [Sanctuary Definition](../../questions/Sanctuary_Definition.md)
 
 ## Question [Sanctuary Definition](../../questions/Sanctuary_Definition.md)
 What does the term 'sanctuary' refer to in the context of the Bible?
@@ -37,7 +37,11 @@ Understanding the meaning and significance of the term 'sanctuary' in the Biblic
 - As an atheist scholar, I approach the Bible critically and without supernatural or religious beliefs. The interpretation and understanding of the term "sanctuary" should be informed by historical, cultural, and literary analyses.
 
 ## Average Grade
-75.0
+68.0
 
 ## Grades
  * [75.0](./Sanctuary_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Sanctuary_Definition_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [75.0](./Sanctuary_Definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Sanctuary_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [40.0](./Sanctuary_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

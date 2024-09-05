@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Conscience Understanding](../../questions/Conscience_Understanding.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Conscience Understanding](../../questions/Conscience_Understanding.md)
 
 ## Question [Conscience Understanding](../../questions/Conscience_Understanding.md)
 What is the biblical definition of conscience, and how does it function according to Christian beliefs?
@@ -21,7 +21,11 @@ In the New Testament, the Greek word for conscience is "syneidesis," meaning "se
 In Christian beliefs, conscience functions as a moral compass, guiding individuals on right from wrong based on God's law written in their hearts (Romans 2:14-15). It is an internal voice that helps individuals discern between good and evil, although it can sometimes be influenced by personal biases or cultural conditioning. Christians are called to follow the guidance of their consciences as long as they align with God's Word and commandments (Acts 24:16). However, if one's conscience is misguided, they are encouraged to seek wisdom from the Scriptures and the counsel of other believers.
 
 ## Average Grade
-95.0
+94.0
 
 ## Grades
  * [95.0](./Conscience_Understanding_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Conscience_Understanding_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Conscience_Understanding_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Conscience_Understanding_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Conscience_Understanding_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

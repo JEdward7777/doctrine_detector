@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [Historical Context 2](../../questions/Historical_Context_2.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [Historical Context 2](../../questions/Historical_Context_2.md)
 
 ## Question [Historical Context 2](../../questions/Historical_Context_2.md)
 Why did the Israelites eat unleavened bread during their escape from Egypt?
@@ -19,7 +19,11 @@ As a result, they made unleavened bread, or matzah, which could be prepared quic
 From a cultural perspective, the practice has endured as a means of remembering and reflecting on themes of freedom, resilience, and the importance of community in the face of oppression.
 
 ## Average Grade
-90.0
+88.0
 
 ## Grades
  * [90.0](./Historical_Context_2_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Historical_Context_2_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Historical_Context_2_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Historical_Context_2_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Historical_Context_2_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

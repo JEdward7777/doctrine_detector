@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Holy Spirit](../../questions/Holy_Spirit.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Holy Spirit](../../questions/Holy_Spirit.md)
 
 ## Question [Holy Spirit](../../questions/Holy_Spirit.md)
 How should the concept of the Holy Spirit be introduced in contexts unfamiliar with the Trinity?
@@ -19,7 +19,11 @@ Rather than framing the Holy Spirit within a Trinitarian framework, it can be pr
 By highlighting the universal themes of spiritual connection and personal growth that the Holy Spirit represents, individuals from various cultural backgrounds can find common ground and appreciate the essence of this spiritual concept beyond its traditional Christian context.
 
 ## Average Grade
-50.0
+56.0
 
 ## Grades
  * [50.0](./Holy_Spirit_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [60.0](./Holy_Spirit_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Holy_Spirit_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [40.0](./Holy_Spirit_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [70.0](./Holy_Spirit_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

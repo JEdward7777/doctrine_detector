@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Translation of 'Call'](../../questions/Translation_of__Call_.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Translation of 'Call'](../../questions/Translation_of__Call_.md)
 
 ## Question [Translation of 'Call'](../../questions/Translation_of__Call_.md)
 What are some alternative translations of the phrase 'You must call his name' in a biblical context?

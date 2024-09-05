@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Godly Character](../../questions/Godly_Character.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Godly Character](../../questions/Godly_Character.md)
 
 ## Question [Godly Character](../../questions/Godly_Character.md)
 What are the fruits of the Holy Spirit that indicate a person has godly character?
@@ -31,7 +31,11 @@ In Islam, these attributes can be found in various verses throughout the Qur'an 
 These virtues are not exhaustive but serve as a guide for cultivating godly character according to Islamic teachings. By focusing on these qualities, believers can strive for a closer connection with Allah and develop the fruits of a strong faith.
 
 ## Average Grade
-85.0
+91.0
 
 ## Grades
  * [85.0](./Godly_Character_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Godly_Character_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Godly_Character_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Godly_Character_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Godly_Character_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Significance of Anointing](../../questions/Significance_of_Anointing.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Significance of Anointing](../../questions/Significance_of_Anointing.md)
 
 ## Question [Significance of Anointing](../../questions/Significance_of_Anointing.md)
 What is the significance of anointing in the context of Old Testament priests, kings, and prophets?

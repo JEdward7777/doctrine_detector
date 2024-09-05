@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Translation of Abomination](../../questions/Translation_of_Abomination.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Translation of Abomination](../../questions/Translation_of_Abomination.md)
 
 ## Question [Translation of Abomination](../../questions/Translation_of_Abomination.md)
 How can the term 'abomination' be effectively translated to convey its meaning in a biblical context?
@@ -31,7 +31,11 @@ Here, Jesus is using the concept of "abomination" to describe internal sinful de
 In conclusion, when considering the biblical term "abomination," we must recognize its cultural and historical context as well as its broader moral implications. A culturally sensitive translation might emphasize the concept of ritual uncleanness, moral repugnance, or internal corruption, depending on the specific context in which it is used.
 
 ## Average Grade
-90.0
+84.0
 
 ## Grades
  * [90.0](./Translation_of_Abomination_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Translation_of_Abomination_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Translation_of_Abomination_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Translation_of_Abomination_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Translation_of_Abomination_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

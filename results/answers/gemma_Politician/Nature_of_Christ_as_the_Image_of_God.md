@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Politician](../../answering_models/gemma_Politician.md) answer to [Nature of Christ as the Image of God](../../questions/Nature_of_Christ_as_the_Image_of_God.md)
+# Generated Answer from [gemma Politician](../../answering_models/gemma_Politician.md) for [Nature of Christ as the Image of God](../../questions/Nature_of_Christ_as_the_Image_of_God.md)
 
 ## Question [Nature of Christ as the Image of God](../../questions/Nature_of_Christ_as_the_Image_of_God.md)
 How is Jesus described as the image of God, and what is the significance of this in Christian belief?
@@ -32,7 +32,11 @@ In Christian belief, Jesus Christ is described as the perfect reflection or imag
 It is important to note that describing Jesus as the image of God is a theological belief that is central to Christianity. While it is important to respect diverse beliefs and perspectives, it is not appropriate to shy away from expressing this fundamental Christian conviction.
 
 ## Average Grade
-90.0
+91.0
 
 ## Grades
  * [90.0](./Nature_of_Christ_as_the_Image_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Nature_of_Christ_as_the_Image_of_God_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Nature_of_Christ_as_the_Image_of_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Nature_of_Christ_as_the_Image_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Nature_of_Christ_as_the_Image_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

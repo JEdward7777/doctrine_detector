@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) answer to [Demon Possession](../../questions/Demon_Possession.md)
+# Generated Answer from [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) for [Demon Possession](../../questions/Demon_Possession.md)
 
 ## Question [Demon Possession](../../questions/Demon_Possession.md)
 What is the Biblical understanding of a person being demon-possessed?
@@ -29,7 +29,11 @@ The concept of demon possession in the Bible is rooted in various passages acros
 In summary, biblically, demon possession is recognized as a spiritual condition involving demonic influence over a person, distinct from mental illness, dealt with through divine authority and seeking restoration through the power of Jesus Christ.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Demon_Possession_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Demon_Possession_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Demon_Possession_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Demon_Possession_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Demon_Possession_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

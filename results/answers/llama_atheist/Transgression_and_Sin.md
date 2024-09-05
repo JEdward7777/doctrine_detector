@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Transgression and Sin](../../questions/Transgression_and_Sin.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Transgression and Sin](../../questions/Transgression_and_Sin.md)
 
 ## Question [Transgression and Sin](../../questions/Transgression_and_Sin.md)
 How can transgression be related to the concepts of sin and disobedience?
@@ -29,7 +29,11 @@ Ultimately, transgression in a secular context is not inherently "good" or "bad.
 Now, if you'll excuse me, I need to return to my research on the sociological implications of tattooing in 19th-century Europe...
 
 ## Average Grade
-30.0
+25.0
 
 ## Grades
  * [30.0](./Transgression_and_Sin_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [35.0](./Transgression_and_Sin_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [20.0](./Transgression_and_Sin_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [20.0](./Transgression_and_Sin_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [20.0](./Transgression_and_Sin_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

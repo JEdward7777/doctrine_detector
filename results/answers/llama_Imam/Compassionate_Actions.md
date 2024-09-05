@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Compassionate Actions](../../questions/Compassionate_Actions.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Compassionate Actions](../../questions/Compassionate_Actions.md)
 
 ## Question [Compassionate Actions](../../questions/Compassionate_Actions.md)
 Can you provide examples from the Bible where individuals demonstrated compassion?
@@ -31,7 +31,11 @@ These examples illustrate how individuals in the Bible demonstrated compassion, 
 Remember, as Muslims, we are commanded to show compassion and mercy (rahma) to all creation, regardless of faith or background. Our Prophet Muhammad (peace be upon him) exemplified this by showing kindness to those who were different from him, like the Jewish scholars he encountered during his travels. May Allah guide us on our journey towards being compassionate and merciful servants of humanity.
 
 ## Average Grade
-80.0
+82.0
 
 ## Grades
  * [80.0](./Compassionate_Actions_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Compassionate_Actions_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Compassionate_Actions_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Compassionate_Actions_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Compassionate_Actions_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

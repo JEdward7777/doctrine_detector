@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Biblical Examples of Blessing](../../questions/Biblical_Examples_of_Blessing.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Biblical Examples of Blessing](../../questions/Biblical_Examples_of_Blessing.md)
 
 ## Question [Biblical Examples of Blessing](../../questions/Biblical_Examples_of_Blessing.md)
 Can you provide an example from the Bible where God blesses creation?
@@ -25,7 +25,11 @@ Now, let me see if there's anything else I can add... Ah yes! In Psalm 104:25-26
 So, there you have it! A few examples from the Bible that highlight God's blessings on creation. (smiling cautiously) I hope this helps, and please don't hesitate to reach out if you have any further questions or concerns!
 
 ## Average Grade
-85.0
+73.0
 
 ## Grades
  * [85.0](./Biblical_Examples_of_Blessing_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Biblical_Examples_of_Blessing_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Biblical_Examples_of_Blessing_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [40.0](./Biblical_Examples_of_Blessing_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Biblical_Examples_of_Blessing_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

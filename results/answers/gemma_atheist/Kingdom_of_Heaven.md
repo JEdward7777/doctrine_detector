@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma atheist](../../answering_models/gemma_atheist.md) answer to [Kingdom of Heaven](../../questions/Kingdom_of_Heaven.md)
+# Generated Answer from [gemma atheist](../../answering_models/gemma_atheist.md) for [Kingdom of Heaven](../../questions/Kingdom_of_Heaven.md)
 
 ## Question [Kingdom of Heaven](../../questions/Kingdom_of_Heaven.md)
 Why is it important to retain the term 'heaven' in the phrase 'kingdom of heaven' in the book of Matthew?
@@ -34,7 +34,11 @@ As an atheistic scholar, I acknowledge the cultural and symbolic significance of
 **Therefore, retaining the term 'heaven' in the phrase 'kingdom of heaven' adds depth and cultural sensitivity to the interpretation of the text, while remaining open to non-religious interpretations.**
 
 ## Average Grade
-75.0
+77.0
 
 ## Grades
  * [75.0](./Kingdom_of_Heaven_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Kingdom_of_Heaven_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [75.0](./Kingdom_of_Heaven_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Kingdom_of_Heaven_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Kingdom_of_Heaven_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

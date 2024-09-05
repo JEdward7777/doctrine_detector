@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Predestination Meaning](../../questions/Predestination_Meaning.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Predestination Meaning](../../questions/Predestination_Meaning.md)
 
 ## Question [Predestination Meaning](../../questions/Predestination_Meaning.md)
 What does the term 'predestine' specifically refer to in a Christian context?
@@ -21,7 +21,11 @@ Now, I know some folks might find this concept a bit...unsettling. After all, it
 So, let's just agree that predestination is a complex issue with multiple perspectives within Christianity. And, hey, we can all learn from each other's viewpoints, right?
 
 ## Average Grade
-70.0
+68.0
 
 ## Grades
  * [70.0](./Predestination_Meaning_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [60.0](./Predestination_Meaning_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [65.0](./Predestination_Meaning_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Predestination_Meaning_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Predestination_Meaning_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

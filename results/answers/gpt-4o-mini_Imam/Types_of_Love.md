@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Types of Love](../../questions/Types_of_Love.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Types of Love](../../questions/Types_of_Love.md)
 
 ## Question [Types of Love](../../questions/Types_of_Love.md)
 How do different forms of love, such as brotherly love and romantic love, fit into the biblical definition of love?
@@ -27,7 +27,11 @@ In Islam, love is considered a profound and multifaceted emotion, encompassing v
 Overall, while different forms of love may arise in various contexts, they are all interwoven with the core Islamic values of compassion, respect, and responsibility. Love is not seen as purely an emotion but also as an action reflecting one's commitment to others. In each form—whether it be brotherly, familial, romantic, or divine love—Islam encourages sincerity, kindness, and ethical behavior.
 
 ## Average Grade
-75.0
+79.0
 
 ## Grades
  * [75.0](./Types_of_Love_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Types_of_Love_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Types_of_Love_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Types_of_Love_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Types_of_Love_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

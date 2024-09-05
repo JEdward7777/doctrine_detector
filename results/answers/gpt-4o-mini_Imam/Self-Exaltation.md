@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Self-Exaltation](../../questions/Self-Exaltation.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Self-Exaltation](../../questions/Self-Exaltation.md)
 
 ## Question [Self-Exaltation](../../questions/Self-Exaltation.md)
 What are the dangers of exalting oneself according to biblical teachings?
@@ -29,7 +29,11 @@ In biblical teachings, there are several warnings about the dangers of exalting 
 In both biblical and Islamic teachings, the value of humility, the dangers of pride, and the emphasis on community and compassion remain central themes. As Muslims, we reflect on the importance of humility before Allah, embodying the spirit of servitude and understanding that all honor belongs to Allah alone.
 
 ## Average Grade
-90.0
+93.0
 
 ## Grades
  * [90.0](./Self-Exaltation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Self-Exaltation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Self-Exaltation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Self-Exaltation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Self-Exaltation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

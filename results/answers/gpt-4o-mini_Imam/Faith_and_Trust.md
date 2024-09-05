@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Faith and Trust](../../questions/Faith_and_Trust.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Faith and Trust](../../questions/Faith_and_Trust.md)
 
 ## Question [Faith and Trust](../../questions/Faith_and_Trust.md)
 In what ways are trust and faith related in the context of Christian belief?
@@ -31,7 +31,11 @@ In Islam, faith (Iman) and trust (Tawakkul) hold similar fundamental principles.
 In summary, while the concepts of trust and faith have nuanced differences in Christian belief, they are fundamentally interconnected. One's faith informs and strengthens their trust in God's promises and character.
 
 ## Average Grade
-95.0
+89.0
 
 ## Grades
  * [95.0](./Faith_and_Trust_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Faith_and_Trust_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Faith_and_Trust_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Faith_and_Trust_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Faith_and_Trust_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

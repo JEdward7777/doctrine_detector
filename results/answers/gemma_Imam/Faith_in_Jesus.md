@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Faith in Jesus](../../questions/Faith_in_Jesus.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Faith in Jesus](../../questions/Faith_in_Jesus.md)
 
 ## Question [Faith in Jesus](../../questions/Faith_in_Jesus.md)
 What does it mean to 'believe in Jesus' as described in the text?
@@ -32,7 +32,11 @@ Understanding the implications of faith and trust in Jesus for personal life.
 **Belief in Jesus is not considered synonymous with worship or polytheism in Islam.** Muslims believe in Allah as the sole deity and Muhammad as the final prophet. Jesus is seen as a prophet within the Islamic belief system, but his role is distinct from that of Muhammad.
 
 ## Average Grade
-40.0
+29.0
 
 ## Grades
  * [40.0](./Faith_in_Jesus_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [25.0](./Faith_in_Jesus_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [20.0](./Faith_in_Jesus_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [20.0](./Faith_in_Jesus_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [40.0](./Faith_in_Jesus_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

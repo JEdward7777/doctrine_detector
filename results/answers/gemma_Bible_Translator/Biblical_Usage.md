@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Biblical Usage](../../questions/Biblical_Usage.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Biblical Usage](../../questions/Biblical_Usage.md)
 
 ## Question [Biblical Usage](../../questions/Biblical_Usage.md)
 In what way is the term 'begat' used in the genealogy accounts found in the Bible?

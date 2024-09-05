@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Scriptural References 7](../../questions/Scriptural_References_7.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Scriptural References 7](../../questions/Scriptural_References_7.md)
 
 ## Question [Scriptural References 7](../../questions/Scriptural_References_7.md)
 How do the verses in 1 Peter 5:5-7 and Philippians 2:9-11 illustrate the concept of exaltation in the Christian faith?
@@ -25,7 +25,11 @@ Philippians highlights Jesus' exaltation as Lord by the Father, where he is give
 These passages illustrate the concept of exaltation in the Christian faith through the lens of Jesus Christ. His humility and obedience led to his exaltation, which serves as an example for believers to follow.
 
 ## Average Grade
-60.0
+73.0
 
 ## Grades
  * [60.0](./Scriptural_References_7_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Scriptural_References_7_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [75.0](./Scriptural_References_7_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [75.0](./Scriptural_References_7_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Scriptural_References_7_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

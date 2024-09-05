@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Obeying God's Commands](../../questions/Obeying_God_s_Commands.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Obeying God's Commands](../../questions/Obeying_God_s_Commands.md)
 
 ## Question [Obeying God's Commands](../../questions/Obeying_God_s_Commands.md)
 How do the laws given to Moses relate to the concept of a covenant between God and His people?
@@ -32,7 +32,11 @@ In Islamic tradition, the Mosaic Covenant is considered an important precedent f
 In conclusion, the laws given to Moses are an integral part of the Mosaic Covenant, which represents a sacred promise made by Allah to Bani Israel. This covenant has far-reaching implications for our understanding of the nature of Allah's relationship with humanity and serves as a foundation for later covenants made with other prophets, including the Prophet Muhammad (peace be upon him).
 
 ## Average Grade
-90.0
+87.0
 
 ## Grades
  * [90.0](./Obeying_God_s_Commands_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Obeying_God_s_Commands_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Obeying_God_s_Commands_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Obeying_God_s_Commands_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Obeying_God_s_Commands_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

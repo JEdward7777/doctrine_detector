@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Role of Prophets](../../questions/Role_of_Prophets.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Role of Prophets](../../questions/Role_of_Prophets.md)
 
 ## Question [Role of Prophets](../../questions/Role_of_Prophets.md)
 What is the primary role of a prophet according to the Bible?

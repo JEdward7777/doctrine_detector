@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Contents Of Ark](../../questions/Contents_Of_Ark.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Contents Of Ark](../../questions/Contents_Of_Ark.md)
 
 ## Question [Contents Of Ark](../../questions/Contents_Of_Ark.md)
 What items were contained within the ark of the covenant?
@@ -23,7 +23,11 @@ Learning about the reminders of God's covenant with the Israelites.
 Again, these are not part of our Islamic beliefs or traditions. In Islam, we believe in one God (Allah) and follow the teachings of the Prophet Muhammad (peace be upon him).
 
 ## Average Grade
-90.0
+84.0
 
 ## Grades
  * [90.0](./Contents_Of_Ark_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Contents_Of_Ark_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Contents_Of_Ark_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Contents_Of_Ark_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Contents_Of_Ark_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

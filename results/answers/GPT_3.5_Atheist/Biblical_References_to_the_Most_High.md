@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Biblical References to the Most High](../../questions/Biblical_References_to_the_Most_High.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Biblical References to the Most High](../../questions/Biblical_References_to_the_Most_High.md)
 
 ## Question [Biblical References to the Most High](../../questions/Biblical_References_to_the_Most_High.md)
 Which Bible verses reinforce the idea of God as the 'Most High' and what do they reveal about His character?
@@ -19,7 +19,11 @@ This title emphasizes God's supremacy, sovereignty, and authority over all creat
 Furthermore, the concept of God as the "Most High" highlights His majesty, greatness, and holiness. It emphasizes the reverence and awe that believers should have towards Him. This understanding of God's character inspires humility and submission, acknowledging His divine nature and limitless glory.
 
 ## Average Grade
-95.0
+89.8
 
 ## Grades
  * [95.0](./Biblical_References_to_the_Most_High_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Biblical_References_to_the_Most_High_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Biblical_References_to_the_Most_High_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [89.0](./Biblical_References_to_the_Most_High_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Biblical_References_to_the_Most_High_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

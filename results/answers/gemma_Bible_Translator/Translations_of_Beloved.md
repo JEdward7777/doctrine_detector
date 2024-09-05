@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Translations of Beloved](../../questions/Translations_of_Beloved.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Translations of Beloved](../../questions/Translations_of_Beloved.md)
 
 ## Question [Translations of Beloved](../../questions/Translations_of_Beloved.md)
 What are some translation suggestions for the term 'beloved' based on the context of love?

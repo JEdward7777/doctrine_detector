@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Judging Others](../../questions/Judging_Others.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Judging Others](../../questions/Judging_Others.md)
 
 ## Question [Judging Others](../../questions/Judging_Others.md)
 What instructions does the Bible give regarding how Christians should judge each other?
@@ -19,7 +19,11 @@ In Islam, the Quran encourages believers to strive for righteousness and to enjo
 In Islam, we are taught to treat others with kindness, compassion, and empathy rather than to judge or condemn them. It is essential to remember that only Allah knows the true intentions and circumstances of a person's actions, and thus, it is not our place to pass judgment. Instead, we are encouraged to advise and remind others with gentleness and wisdom, always striving to promote harmony and understanding within the community.
 
 ## Average Grade
-90.0
+85.0
 
 ## Grades
  * [90.0](./Judging_Others_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Judging_Others_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Judging_Others_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Judging_Others_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Judging_Others_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

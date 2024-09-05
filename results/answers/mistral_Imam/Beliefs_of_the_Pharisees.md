@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Beliefs of the Pharisees](../../questions/Beliefs_of_the_Pharisees.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Beliefs of the Pharisees](../../questions/Beliefs_of_the_Pharisees.md)
 
 ## Question [Beliefs of the Pharisees](../../questions/Beliefs_of_the_Pharisees.md)
 What were the beliefs of the Pharisees regarding life after death and spiritual beings?
@@ -21,7 +21,11 @@ Regarding spiritual beings, the Pharisees were known for their belief in angels,
 However, it is crucial to remember that these interpretations are based on Islamic sources' accounts of Judaism during the time of Prophet Muhammad (PBUH). A more comprehensive understanding would require delving into primary sources and scholarly works on Jewish beliefs and history, as well as considering the evolution of beliefs over centuries.
 
 ## Average Grade
-85.0
+77.0
 
 ## Grades
  * [85.0](./Beliefs_of_the_Pharisees_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Beliefs_of_the_Pharisees_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Beliefs_of_the_Pharisees_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Beliefs_of_the_Pharisees_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [70.0](./Beliefs_of_the_Pharisees_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [Translation of Worship Spaces](../../questions/Translation_of_Worship_Spaces.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [Translation of Worship Spaces](../../questions/Translation_of_Worship_Spaces.md)
 
 ## Question [Translation of Worship Spaces](../../questions/Translation_of_Worship_Spaces.md)
 How can we best translate the phrase 'house of Yahweh' for understanding today?
@@ -25,7 +25,11 @@ In contemporary terms, 'house of Yahweh' can be understood as:
 Each of these interpretations can resonate differently depending on one’s background and beliefs, but they help bridge the ancient meaning with modern concepts of spirituality and community.
 
 ## Average Grade
-85.0
+82.0
 
 ## Grades
  * [85.0](./Translation_of_Worship_Spaces_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Translation_of_Worship_Spaces_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Translation_of_Worship_Spaces_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Translation_of_Worship_Spaces_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Translation_of_Worship_Spaces_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Interpreting 'High' in God's Title](../../questions/Interpreting__High__in_God_s_Title.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Interpreting 'High' in God's Title](../../questions/Interpreting__High__in_God_s_Title.md)
 
 ## Question [Interpreting 'High' in God's Title](../../questions/Interpreting__High__in_God_s_Title.md)
 How should we interpret the term 'high' in the title 'Most High' when considering God's nature?

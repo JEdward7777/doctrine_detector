@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Faithfulness to God](../../questions/Faithfulness_to_God.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Faithfulness to God](../../questions/Faithfulness_to_God.md)
 
 ## Question [Faithfulness to God](../../questions/Faithfulness_to_God.md)
 What does it mean to be faithful to God according to the biblical definition?
@@ -23,7 +23,11 @@ In Islam, these values are reinforced and expanded upon through the Five Pillars
 Ultimately, being faithful to God means living a life that reflects His values, seeking to please Him through obedience, prayer, charity, and acts of devotion, and striving to be better people by treating others with kindness, respect, and compassion.
 
 ## Average Grade
-95.0
+90.0
 
 ## Grades
  * [95.0](./Faithfulness_to_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Faithfulness_to_God_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Faithfulness_to_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Faithfulness_to_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Faithfulness_to_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

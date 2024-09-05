@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Origin of the Term](../../questions/Origin_of_the_Term.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Origin of the Term](../../questions/Origin_of_the_Term.md)
 
 ## Question [Origin of the Term](../../questions/Origin_of_the_Term.md)
 Where were Jesus' followers first called 'Christians'?
@@ -17,7 +17,11 @@ Jesus' followers were first called "Christians" in the city of Antioch. This is 
 This designation reflects the followers' belief in Jesus as the Christ (or Messiah), and it marked a significant point in the early development of what would become Christianity as a distinct faith tradition.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Origin_of_the_Term_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Origin_of_the_Term_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Origin_of_the_Term_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Origin_of_the_Term_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Origin_of_the_Term_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

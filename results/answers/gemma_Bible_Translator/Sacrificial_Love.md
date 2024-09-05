@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Sacrificial Love](../../questions/Sacrificial_Love.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Sacrificial Love](../../questions/Sacrificial_Love.md)
 
 ## Question [Sacrificial Love](../../questions/Sacrificial_Love.md)
 What does it mean to love others sacrificially as demonstrated by Jesus?

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Sign of the Messiah](../../questions/Sign_of_the_Messiah.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Sign of the Messiah](../../questions/Sign_of_the_Messiah.md)
 
 ## Question [Sign of the Messiah](../../questions/Sign_of_the_Messiah.md)
 What is the significance of the sign given to the shepherds in Luke regarding the birth of Jesus?
@@ -27,7 +27,11 @@ For Muslims, while the theological interpretations differ, the story of Jesus is
 So, regardless of one's faith perspective, the birth of Jesus as described in the Gospel of Luke bears important lessons of humility, peace, fulfillment, and divine revelation.
 
 ## Average Grade
-85.0
+89.0
 
 ## Grades
  * [85.0](./Sign_of_the_Messiah_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Sign_of_the_Messiah_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Sign_of_the_Messiah_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Sign_of_the_Messiah_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Sign_of_the_Messiah_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

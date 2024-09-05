@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [The New Covenant](../../questions/The_New_Covenant.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [The New Covenant](../../questions/The_New_Covenant.md)
 
 ## Question [The New Covenant](../../questions/The_New_Covenant.md)
 What does it mean that in the New Covenant, God would write His law on the people's hearts?
@@ -21,7 +21,11 @@ To write His law on the hearts implies that the moral and ethical teachings of G
 In Islam, believers are encouraged to seek a direct and personal relationship with Allah, and through sincere worship, prayer, and reflection, the principles of Islam can be internalized. This reflects how a true follower of Islam should allow the teachings of the Quran and the Sunnah (the practices of the Prophet Muhammad) to shape their moral compass and way of life, rather than just adhering to them externally. Thus, there is a parallel in the emphasis on internalizing God's guidance to live a life that reflects His will, regardless of differences in the specifics of belief systems.
 
 ## Average Grade
-70.0
+73.0
 
 ## Grades
  * [70.0](./The_New_Covenant_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [65.0](./The_New_Covenant_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./The_New_Covenant_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./The_New_Covenant_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./The_New_Covenant_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

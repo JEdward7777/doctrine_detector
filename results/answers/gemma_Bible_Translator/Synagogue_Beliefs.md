@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Synagogue Beliefs](../../questions/Synagogue_Beliefs.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Synagogue Beliefs](../../questions/Synagogue_Beliefs.md)
 
 ## Question [Synagogue Beliefs](../../questions/Synagogue_Beliefs.md)
 In what way can the term 'synagogue' be understood beyond just the physical building?

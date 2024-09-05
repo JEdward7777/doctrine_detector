@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [The Role of Cleansing in Christianity](../../questions/The_Role_of_Cleansing_in_Christianity.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [The Role of Cleansing in Christianity](../../questions/The_Role_of_Cleansing_in_Christianity.md)
 
 ## Question [The Role of Cleansing in Christianity](../../questions/The_Role_of_Cleansing_in_Christianity.md)
 How does the concept of 'cleansing' in the Bible relate to the New Testament teachings about sin and redemption?

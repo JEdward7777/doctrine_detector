@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Definition of Confession](../../questions/Definition_of_Confession.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Definition of Confession](../../questions/Definition_of_Confession.md)
 
 ## Question [Definition of Confession](../../questions/Definition_of_Confession.md)
 What does it mean to confess according to the Bible?
@@ -48,7 +48,11 @@ Both Islam and Christianity emphasize the importance of confession and repentanc
 - **Emphasis:** Islam focuses more on repentance as a way to draw closer to God, while Christianity emphasizes forgiveness as a way to reconcile with God.
 
 ## Average Grade
-90.0
+73.0
 
 ## Grades
  * [90.0](./Definition_of_Confession_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Definition_of_Confession_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Definition_of_Confession_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Definition_of_Confession_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [20.0](./Definition_of_Confession_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

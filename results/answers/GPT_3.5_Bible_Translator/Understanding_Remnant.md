@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Understanding Remnant](../../questions/Understanding_Remnant.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Understanding Remnant](../../questions/Understanding_Remnant.md)
 
 ## Question [Understanding Remnant](../../questions/Understanding_Remnant.md)
 In what ways does the concept of 'remnant' in the Bible inspire believers to remain faithful in times of persecution?
@@ -25,7 +25,11 @@ The concept of "remnant" in the Bible refers to a small group of believers who r
 Overall, the concept of the remnant in the Bible serves as a powerful reminder of God's faithfulness, encouragement to persevere, and hope for the future for believers facing persecution or spiritual challenges.
 
 ## Average Grade
-92.0
+89.4
 
 ## Grades
  * [92.0](./Understanding_Remnant_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Understanding_Remnant_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Understanding_Remnant_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Understanding_Remnant_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_Remnant_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

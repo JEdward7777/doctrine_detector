@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Zion's Historical Significance](../../questions/Zion_s_Historical_Significance.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Zion's Historical Significance](../../questions/Zion_s_Historical_Significance.md)
 
 ## Question [Zion's Historical Significance](../../questions/Zion_s_Historical_Significance.md)
 What was the historical significance of Mount Zion in relation to King David?

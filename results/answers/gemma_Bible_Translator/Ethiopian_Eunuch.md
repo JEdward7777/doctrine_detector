@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Ethiopian Eunuch](../../questions/Ethiopian_Eunuch.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Ethiopian Eunuch](../../questions/Ethiopian_Eunuch.md)
 
 ## Question [Ethiopian Eunuch](../../questions/Ethiopian_Eunuch.md)
 What significance does the encounter between the apostle Philip and the Ethiopian eunuch have in the context of the early church?

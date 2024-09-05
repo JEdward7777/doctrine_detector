@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Use of 'Rabbi'](../../questions/Use_of__Rabbi_.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Use of 'Rabbi'](../../questions/Use_of__Rabbi_.md)
 
 ## Question [Use of 'Rabbi'](../../questions/Use_of__Rabbi_.md)
 How were John the Baptist and Jesus referred to concerning the title 'Rabbi'?
@@ -19,7 +19,11 @@ In the New Testament, Jesus was often referred to as "Rabbi," which means "teach
 In Islam, both prophets are acknowledged for their piety and guidance, but the concept of "Rabbi" as understood in Judaism does not carry the same significance. Instead, they are considered as messengers who conveyed God's message to the people. In Islamic thought, the focus is on their prophethood and the messages they delivered, rather than specific titles they might have held in their respective cultures.
 
 ## Average Grade
-80.0
+75.0
 
 ## Grades
  * [80.0](./Use_of__Rabbi__grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Use_of__Rabbi__grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Use_of__Rabbi__grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Use_of__Rabbi__grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [40.0](./Use_of__Rabbi__grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

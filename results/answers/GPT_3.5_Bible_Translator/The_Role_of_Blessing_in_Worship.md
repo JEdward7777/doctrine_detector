@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [The Role of Blessing in Worship](../../questions/The_Role_of_Blessing_in_Worship.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [The Role of Blessing in Worship](../../questions/The_Role_of_Blessing_in_Worship.md)
 
 ## Question [The Role of Blessing in Worship](../../questions/The_Role_of_Blessing_in_Worship.md)
 How is the act of blessing related to praising God?
@@ -23,3 +23,7 @@ In summary, while blessing God involves recognizing His goodness and worthiness,
 
 ## Grades
  * [90.0](./The_Role_of_Blessing_in_Worship_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./The_Role_of_Blessing_in_Worship_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./The_Role_of_Blessing_in_Worship_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./The_Role_of_Blessing_in_Worship_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./The_Role_of_Blessing_in_Worship_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

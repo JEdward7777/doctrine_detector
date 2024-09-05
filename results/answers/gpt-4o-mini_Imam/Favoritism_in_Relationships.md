@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Favoritism in Relationships](../../questions/Favoritism_in_Relationships.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Favoritism in Relationships](../../questions/Favoritism_in_Relationships.md)
 
 ## Question [Favoritism in Relationships](../../questions/Favoritism_in_Relationships.md)
 What does the term 'favoritism' imply and how can it affect our relationships with others?
@@ -21,7 +21,11 @@ When we show favoritism, we may hurt feelings, diminish the worth of others, and
 Thus, it is important to strive for fairness and kindness, treating each person with respect and dignity, regardless of their status or relationship with us. By fostering an environment of justice and equality, we can strengthen our relationships and build a cohesive community, reflective of the principles of Islam.
 
 ## Average Grade
-90.0
+89.4
 
 ## Grades
  * [90.0](./Favoritism_in_Relationships_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Favoritism_in_Relationships_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [92.0](./Favoritism_in_Relationships_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Favoritism_in_Relationships_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Favoritism_in_Relationships_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

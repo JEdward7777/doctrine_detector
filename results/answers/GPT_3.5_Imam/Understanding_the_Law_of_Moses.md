@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Understanding the Law of Moses](../../questions/Understanding_the_Law_of_Moses.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Understanding the Law of Moses](../../questions/Understanding_the_Law_of_Moses.md)
 
 ## Question [Understanding the Law of Moses](../../questions/Understanding_the_Law_of_Moses.md)
 What are some of the specific commandments included in the Law of Moses that God gave for the Israelites to obey?
@@ -28,7 +28,11 @@ Some of the specific commandments included in the Law of Moses that God gave for
 These commandments were given to the Israelites as a moral and ethical code to guide their behavior and interactions with God and each other.
 
 ## Average Grade
-85.0
+83.0
 
 ## Grades
  * [85.0](./Understanding_the_Law_of_Moses_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Understanding_the_Law_of_Moses_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Understanding_the_Law_of_Moses_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Understanding_the_Law_of_Moses_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Understanding_the_Law_of_Moses_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

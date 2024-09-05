@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Biblical Usage of Zion](../../questions/Biblical_Usage_of_Zion.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Biblical Usage of Zion](../../questions/Biblical_Usage_of_Zion.md)
 
 ## Question [Biblical Usage of Zion](../../questions/Biblical_Usage_of_Zion.md)
 In what figurative ways is the term 'Zion' used in the Bible?
@@ -27,7 +27,11 @@ Here are some figurative ways Zion is used in the Bible:
 It's crucial for Muslims and Christians alike to approach the term "Zion" within its biblical context, recognizing both its literal and figurative meanings. As an Imam, I encourage mutual understanding and respect between followers of different faiths.
 
 ## Average Grade
-95.0
+91.0
 
 ## Grades
  * [95.0](./Biblical_Usage_of_Zion_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Biblical_Usage_of_Zion_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Biblical_Usage_of_Zion_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Biblical_Usage_of_Zion_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Biblical_Usage_of_Zion_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

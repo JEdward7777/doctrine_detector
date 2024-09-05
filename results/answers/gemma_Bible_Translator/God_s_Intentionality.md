@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [God's Intentionality](../../questions/God_s_Intentionality.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [God's Intentionality](../../questions/God_s_Intentionality.md)
 
 ## Question [God's Intentionality](../../questions/God_s_Intentionality.md)
 Why is it significant that the term 'call' implies intentionality or purpose when referring to God's calling?

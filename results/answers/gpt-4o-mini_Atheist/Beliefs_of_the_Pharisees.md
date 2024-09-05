@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [Beliefs of the Pharisees](../../questions/Beliefs_of_the_Pharisees.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [Beliefs of the Pharisees](../../questions/Beliefs_of_the_Pharisees.md)
 
 ## Question [Beliefs of the Pharisees](../../questions/Beliefs_of_the_Pharisees.md)
 What were the beliefs of the Pharisees regarding life after death and spiritual beings?
@@ -19,7 +19,11 @@ In terms of spiritual beings, the Pharisees acknowledged the existence of angels
 Overall, the Pharisaic worldview was characterized by a strong belief in an afterlife and a system of moral judgment based on one's actions in this life. Their teachings laid important groundwork for later theological developments in Judaism and Christianity.
 
 ## Average Grade
-90.0
+89.0
 
 ## Grades
  * [90.0](./Beliefs_of_the_Pharisees_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Beliefs_of_the_Pharisees_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Beliefs_of_the_Pharisees_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Beliefs_of_the_Pharisees_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Beliefs_of_the_Pharisees_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Role of Jesus as the Word](../../questions/Role_of_Jesus_as_the_Word.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Role of Jesus as the Word](../../questions/Role_of_Jesus_as_the_Word.md)
 
 ## Question [Role of Jesus as the Word](../../questions/Role_of_Jesus_as_the_Word.md)
 How does the title 'the Word of God' ascribed to Jesus highlight his nature in Christianity?

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Multiple gods](../../questions/Multiple_gods.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Multiple gods](../../questions/Multiple_gods.md)
 
 ## Question [Multiple gods](../../questions/Multiple_gods.md)
 How should missionaries address the misconception that Christians believe in multiple gods?

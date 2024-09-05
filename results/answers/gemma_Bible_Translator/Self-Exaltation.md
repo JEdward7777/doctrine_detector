@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Self-Exaltation](../../questions/Self-Exaltation.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Self-Exaltation](../../questions/Self-Exaltation.md)
 
 ## Question [Self-Exaltation](../../questions/Self-Exaltation.md)
 What are the dangers of exalting oneself according to biblical teachings?

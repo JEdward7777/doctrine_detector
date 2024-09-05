@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Human Righteousness](../../questions/Human_Righteousness.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Human Righteousness](../../questions/Human_Righteousness.md)
 
 ## Question [Human Righteousness](../../questions/Human_Righteousness.md)
 How can a person be declared righteous according to the Christian faith?
@@ -19,7 +19,11 @@ However, from an Islamic perspective, righteousness in Christianity is achieved 
 In Islam, righteousness is a comprehensive concept that encompasses belief in Allah, performing good deeds, obeying His commandments, and treating others with kindness and compassion. It is a continuous effort to improve oneself spiritually and morally. Ultimately, righteousness in Islam is attained through sincere faith, righteous actions, and seeking forgiveness for any shortcomings.
 
 ## Average Grade
-75.0
+67.0
 
 ## Grades
  * [75.0](./Human_Righteousness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Human_Righteousness_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Human_Righteousness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Human_Righteousness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Human_Righteousness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

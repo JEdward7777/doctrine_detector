@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Authority of God](../../questions/Authority_of_God.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Authority of God](../../questions/Authority_of_God.md)
 
 ## Question [Authority of God](../../questions/Authority_of_God.md)
 What does the term 'Yahweh of hosts' signify about God's authority over spiritual beings?
@@ -25,7 +25,11 @@ In Islam, we also recognize Allah's (SWT) power and control over Jinn and angels
 In conclusion, my brother/sister in Islam, the concept of "Yahweh of Hosts" highlights God's authority over spiritual beings, which is also an essential aspect of Islamic theology. We recognize Allah's (SWT) power to command and control all creation, including Jinn and angels, as a manifestation of His absolute sovereignty and mercy towards humanity.
 
 ## Average Grade
-80.0
+83.4
 
 ## Grades
  * [80.0](./Authority_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Authority_of_God_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Authority_of_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Authority_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [92.0](./Authority_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

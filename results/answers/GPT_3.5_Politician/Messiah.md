@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) answer to [Messiah](../../questions/Messiah.md)
+# Generated Answer from [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) for [Messiah](../../questions/Messiah.md)
 
 ## Question [Messiah](../../questions/Messiah.md)
 How can the term 'Messiah' be explained in a context with different religious expectations of a savior?
@@ -23,7 +23,11 @@ In Islam, the concept of a Messiah is also present, with the figure known as "Al
 Overall, when discussing the term "Messiah" in a context with different religious expectations of a savior, it is important to approach the topic with respect and understanding for the diverse beliefs and interpretations held by different faith traditions. It is essential to be inclusive and sensitive to the variations in beliefs and not prioritize one interpretation over another.
 
 ## Average Grade
-85.0
+74.0
 
 ## Grades
  * [85.0](./Messiah_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Messiah_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [65.0](./Messiah_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Messiah_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Messiah_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

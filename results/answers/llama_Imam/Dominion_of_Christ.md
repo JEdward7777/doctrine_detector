@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Dominion of Christ](../../questions/Dominion_of_Christ.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Dominion of Christ](../../questions/Dominion_of_Christ.md)
 
 ## Question [Dominion of Christ](../../questions/Dominion_of_Christ.md)
 How is Jesus Christ's dominion described in the Bible?
@@ -26,7 +26,11 @@ These passages, among others, portray Jesus as having a divine authority that ex
 As Muslims, we believe in Jesus' prophethood and his role as a messenger of God, but we do not accept the Trinitarian concept or the idea that Jesus has divine authority or dominion over all creation. Our understanding of Jesus is based on the Quranic account, which emphasizes his role as a prophet and messenger sent to guide the Children of Israel.
 
 ## Average Grade
-70.0
+52.0
 
 ## Grades
  * [70.0](./Dominion_of_Christ_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [30.0](./Dominion_of_Christ_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [50.0](./Dominion_of_Christ_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [50.0](./Dominion_of_Christ_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Dominion_of_Christ_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

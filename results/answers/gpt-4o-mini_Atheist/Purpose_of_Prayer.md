@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [Purpose of Prayer](../../questions/Purpose_of_Prayer.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [Purpose of Prayer](../../questions/Purpose_of_Prayer.md)
 
 ## Question [Purpose of Prayer](../../questions/Purpose_of_Prayer.md)
 What are some of the key purposes of prayer as outlined in the Bible?
@@ -35,7 +35,11 @@ In the Bible, prayer serves several key purposes that reflect different aspects 
 These purposes illustrate the multifaceted nature of prayer in the biblical context, emphasizing its significance in fostering a relationship with the divine and its role in the lives of believers.
 
 ## Average Grade
-95.0
+91.0
 
 ## Grades
  * [95.0](./Purpose_of_Prayer_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Purpose_of_Prayer_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Purpose_of_Prayer_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Purpose_of_Prayer_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Purpose_of_Prayer_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

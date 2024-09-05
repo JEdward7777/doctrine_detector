@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Purpose of Holiness](../../questions/Purpose_of_Holiness.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Purpose of Holiness](../../questions/Purpose_of_Holiness.md)
 
 ## Question [Purpose of Holiness](../../questions/Purpose_of_Holiness.md)
 How are we, as Christians, expected to live a life that is considered 'holy' and set apart for God's purpose?
@@ -41,7 +41,11 @@ Ultimately, the key to living a life that is pleasing to God is to follow the gu
 May Allah guide us all towards righteousness and may we be good stewards of His blessings on earth.
 
 ## Average Grade
-70.0
+73.0
 
 ## Grades
  * [70.0](./Purpose_of_Holiness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Purpose_of_Holiness_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [75.0](./Purpose_of_Holiness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Purpose_of_Holiness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Purpose_of_Holiness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

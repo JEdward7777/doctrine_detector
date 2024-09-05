@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Holy Spirit](../../questions/Holy_Spirit.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Holy Spirit](../../questions/Holy_Spirit.md)
 
 ## Question [Holy Spirit](../../questions/Holy_Spirit.md)
 How should the concept of the Holy Spirit be introduced in contexts unfamiliar with the Trinity?
@@ -21,7 +21,11 @@ You can also mention that the Holy Spirit is understood in Christianity as the t
 Overall, it is important to highlight the differences in beliefs between Islam and Christianity while emphasizing the importance of monotheism in both faiths. By providing a clear explanation and promoting mutual respect for each other's beliefs, we can foster understanding and dialogue between people of different religions.
 
 ## Average Grade
-70.0
+74.0
 
 ## Grades
  * [70.0](./Holy_Spirit_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [75.0](./Holy_Spirit_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Holy_Spirit_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Holy_Spirit_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Holy_Spirit_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Return from Exile](../../questions/Return_from_Exile.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Return from Exile](../../questions/Return_from_Exile.md)
 
 ## Question [Return from Exile](../../questions/Return_from_Exile.md)
 What does the return of the Jews from Babylon signify in the context of God's promises?

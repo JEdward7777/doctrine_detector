@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Definition of Confession](../../questions/Definition_of_Confession.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Definition of Confession](../../questions/Definition_of_Confession.md)
 
 ## Question [Definition of Confession](../../questions/Definition_of_Confession.md)
 What does it mean to confess according to the Bible?
@@ -29,7 +29,11 @@ Now, as an atheistic scholar, I must note that these biblical passages assume a 
 In conclusion, while the biblical notion of confession is deeply rooted in religious and theological contexts, it can also be seen as a universal concept that speaks to human experiences of guilt, shame, and redemption. Whether one chooses to frame their confessions within a religious framework or not, the act of acknowledging and owning up to one's mistakes is an important aspect of personal growth and moral development.
 
 ## Average Grade
-70.0
+74.0
 
 ## Grades
  * [70.0](./Definition_of_Confession_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Definition_of_Confession_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [75.0](./Definition_of_Confession_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Definition_of_Confession_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Definition_of_Confession_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

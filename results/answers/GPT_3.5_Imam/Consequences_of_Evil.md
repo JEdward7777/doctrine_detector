@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Consequences of Evil](../../questions/Consequences_of_Evil.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Consequences of Evil](../../questions/Consequences_of_Evil.md)
 
 ## Question [Consequences of Evil](../../questions/Consequences_of_Evil.md)
 What are the consequences of evil as illustrated in the biblical references provided?
@@ -23,7 +23,11 @@ As a Muslim Imam, I would like to provide insight from an Islamic perspective on
 In summary, Islam teaches that evil deeds have consequences both in this world and the Hereafter. It is essential for Muslims to avoid engaging in sinful actions, seek forgiveness for their mistakes, and strive to do good deeds to earn Allah's pleasure and mercy.
 
 ## Average Grade
-90.0
+84.0
 
 ## Grades
  * [90.0](./Consequences_of_Evil_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Consequences_of_Evil_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Consequences_of_Evil_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Consequences_of_Evil_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Consequences_of_Evil_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

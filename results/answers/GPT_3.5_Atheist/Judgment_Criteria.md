@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Judgment Criteria](../../questions/Judgment_Criteria.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Judgment Criteria](../../questions/Judgment_Criteria.md)
 
 ## Question [Judgment Criteria](../../questions/Judgment_Criteria.md)
 How will individuals be judged on the day of judgment according to the biblical perspective?
@@ -19,3 +19,7 @@ From an atheistic perspective, the concept of judgment on the day of judgment as
 
 ## Grades
  * [20.0](./Judgment_Criteria_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [20.0](./Judgment_Criteria_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [20.0](./Judgment_Criteria_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [20.0](./Judgment_Criteria_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [20.0](./Judgment_Criteria_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

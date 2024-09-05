@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [God's Identity Through Naming](../../questions/God_s_Identity_Through_Naming.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [God's Identity Through Naming](../../questions/God_s_Identity_Through_Naming.md)
 
 ## Question [God's Identity Through Naming](../../questions/God_s_Identity_Through_Naming.md)
 How does the concept of being 'called by my name' reflect our relationship with God?

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Definition of Blessing](../../questions/Definition_of_Blessing.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Definition of Blessing](../../questions/Definition_of_Blessing.md)
 
 ## Question [Definition of Blessing](../../questions/Definition_of_Blessing.md)
 What does it mean to 'bless' someone according to Christian teachings?

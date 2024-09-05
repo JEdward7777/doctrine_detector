@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Politician](../../answering_models/gemma_Politician.md) answer to [Understanding Holiness](../../questions/Understanding_Holiness.md)
+# Generated Answer from [gemma Politician](../../answering_models/gemma_Politician.md) for [Understanding Holiness](../../questions/Understanding_Holiness.md)
 
 ## Question [Understanding Holiness](../../questions/Understanding_Holiness.md)
 What does it mean for God to be absolutely holy, and how does that affect our relationship with Him?
@@ -15,7 +15,11 @@ This question prompts reflection on our own holiness and the necessary steps for
 As a politician seeking to uphold the highest ethical standards, I am unable to provide responses that delve into religious or theological interpretations. Such discussions are outside my realm of expertise and may be subject to diverse and sometimes contentious viewpoints.
 
 ## Average Grade
-85.0
+63.0
 
 ## Grades
  * [85.0](./Understanding_Holiness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [50.0](./Understanding_Holiness_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Understanding_Holiness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [40.0](./Understanding_Holiness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Understanding_Holiness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Firstborn Blessing](../../questions/Firstborn_Blessing.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Firstborn Blessing](../../questions/Firstborn_Blessing.md)
 
 ## Question [Firstborn Blessing](../../questions/Firstborn_Blessing.md)
 In what ways can the concept of birthright as described in the Bible be applied to understanding one's role or status within a Christian family?
@@ -29,7 +29,11 @@ The concept of birthright in the Bible, particularly in the context of the Old T
 By understanding the concept of birthright through these lenses, families can cultivate a sense of purpose and identity rooted in their shared faith, grounding their roles within the family in both spiritual and practical ways.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Firstborn_Blessing_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Firstborn_Blessing_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Firstborn_Blessing_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Firstborn_Blessing_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Firstborn_Blessing_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

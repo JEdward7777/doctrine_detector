@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Application of Reconciliation](../../questions/Application_of_Reconciliation.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Application of Reconciliation](../../questions/Application_of_Reconciliation.md)
 
 ## Question [Application of Reconciliation](../../questions/Application_of_Reconciliation.md)
 In what ways can Christians apply the principle of reconciliation to their relationships with others?
@@ -56,7 +56,11 @@ Understanding the practical implications of reconciliation in daily life.
 * Pray for guidance and strength to live in peace and harmony.
 
 ## Average Grade
-95.0
+89.0
 
 ## Grades
  * [95.0](./Application_of_Reconciliation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Application_of_Reconciliation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Application_of_Reconciliation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Application_of_Reconciliation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Application_of_Reconciliation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

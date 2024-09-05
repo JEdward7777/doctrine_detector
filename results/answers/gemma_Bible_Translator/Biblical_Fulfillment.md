@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Biblical Fulfillment](../../questions/Biblical_Fulfillment.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Biblical Fulfillment](../../questions/Biblical_Fulfillment.md)
 
 ## Question [Biblical Fulfillment](../../questions/Biblical_Fulfillment.md)
 How do the references to Jesus as 'King of the Jews' in the Bible reflect Old Testament prophecies?

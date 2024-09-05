@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Firstborn Blessing](../../questions/Firstborn_Blessing.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Firstborn Blessing](../../questions/Firstborn_Blessing.md)
 
 ## Question [Firstborn Blessing](../../questions/Firstborn_Blessing.md)
 In what ways can the concept of birthright as described in the Bible be applied to understanding one's role or status within a Christian family?
@@ -30,7 +30,11 @@ To make these applications more accessible to non-Christians, we can reframe the
 By reinterpreting the concept of birthright in these ways, we can foster a deeper understanding of our roles and statuses within Christian families while also acknowledging the diversity and complexity of modern family dynamics.
 
 ## Average Grade
-60.0
+80.0
 
 ## Grades
  * [60.0](./Firstborn_Blessing_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Firstborn_Blessing_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Firstborn_Blessing_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Firstborn_Blessing_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Firstborn_Blessing_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

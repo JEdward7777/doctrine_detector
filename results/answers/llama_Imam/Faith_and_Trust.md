@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Faith and Trust](../../questions/Faith_and_Trust.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Faith and Trust](../../questions/Faith_and_Trust.md)
 
 ## Question [Faith and Trust](../../questions/Faith_and_Trust.md)
 In what ways are trust and faith related in the context of Christian belief?
@@ -27,7 +27,11 @@ In Islamic perspective, we have a similar concept of trust and reliance on Allah
 In conclusion, while there may be some differences in interpretation between Christian and Islamic perspectives, both traditions recognize the importance of trust and faith as interconnected concepts. In Christianity, faith is seen as the foundation upon which trust is built, while in Islam, trust in Allah is considered essential for spiritual growth and well-being.
 
 ## Average Grade
-70.0
+75.0
 
 ## Grades
  * [70.0](./Faith_and_Trust_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [60.0](./Faith_and_Trust_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [75.0](./Faith_and_Trust_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Faith_and_Trust_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Faith_and_Trust_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

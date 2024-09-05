@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) answer to [Translation of Begotten](../../questions/Translation_of_Begotten.md)
+# Generated Answer from [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) for [Translation of Begotten](../../questions/Translation_of_Begotten.md)
 
 ## Question [Translation of Begotten](../../questions/Translation_of_Begotten.md)
 How can the term 'begotten' be understood in relation to spiritual rebirth?
@@ -19,7 +19,11 @@ It is important to recognize that different faith traditions and denominations m
 In discussing spiritual rebirth, one can focus on the universal themes of renewal, transformation, and personal growth that are common to many spiritual traditions. By emphasizing the positive and uplifting aspects of spiritual rebirth, we can create a more inclusive and respectful dialogue that honors the diversity of beliefs and experiences among individuals.
 
 ## Average Grade
-60.0
+70.0
 
 ## Grades
  * [60.0](./Translation_of_Begotten_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [50.0](./Translation_of_Begotten_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Translation_of_Begotten_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Translation_of_Begotten_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Translation_of_Begotten_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

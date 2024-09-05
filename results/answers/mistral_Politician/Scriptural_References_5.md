@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Politician](../../answering_models/mistral_Politician.md) answer to [Scriptural References 5](../../questions/Scriptural_References_5.md)
+# Generated Answer from [mistral Politician](../../answering_models/mistral_Politician.md) for [Scriptural References 5](../../questions/Scriptural_References_5.md)
 
 ## Question [Scriptural References 5](../../questions/Scriptural_References_5.md)
 Which New Testament verses indicate a shift in the understanding of Hades from a neutral place for all the dead to a location associated with the unrighteous?
@@ -23,7 +23,11 @@ Expanding knowledge of scriptural evidence regarding the nature of Hades and its
 4. Revelation 20:13-14: "And the sea gave up the dead who were in it, and Death and Hades delivered up the dead who were in them. And they were judged, each one according to his works." This passage seems to imply that there is a distinction between the righteous and unrighteous in Hades/Death.
 
 ## Average Grade
-95.0
+90.0
 
 ## Grades
  * [95.0](./Scriptural_References_5_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Scriptural_References_5_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Scriptural_References_5_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Scriptural_References_5_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Scriptural_References_5_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

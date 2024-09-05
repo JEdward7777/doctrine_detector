@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Definition of Begetting](../../questions/Definition_of_Begetting.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Definition of Begetting](../../questions/Definition_of_Begetting.md)
 
 ## Question [Definition of Begetting](../../questions/Definition_of_Begetting.md)
 What does the term 'beget' imply in a Biblical context?
@@ -19,7 +19,11 @@ In some theological discussions, particularly within Christianity, "beget" can a
 For Muslims, it's important to approach these terms with understanding of the theological differences, as Islamic teachings affirm the absolute oneness of God (Tawhid) and do not support the notion of God having a son or beingget in the way it is understood in Christian doctrine.
 
 ## Average Grade
-90.0
+83.0
 
 ## Grades
  * [90.0](./Definition_of_Begetting_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Definition_of_Begetting_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Definition_of_Begetting_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Definition_of_Begetting_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Definition_of_Begetting_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) answer to [Consequences of Pride](../../questions/Consequences_of_Pride.md)
+# Generated Answer from [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) for [Consequences of Pride](../../questions/Consequences_of_Pride.md)
 
 ## Question [Consequences of Pride](../../questions/Consequences_of_Pride.md)
 What does the Bible say about the consequences of pride and the importance of humility?
@@ -25,7 +25,11 @@ The Bible addresses the themes of pride and humility in various passages, emphas
 In summary, the Bible clearly teaches that pride can lead to downfall, while humility is a key to receiving grace, fostering community, and following the example set by Jesus. Emphasizing these qualities can contribute to personal growth and a more harmonious existence with others.
 
 ## Average Grade
-95.0
+91.0
 
 ## Grades
  * [95.0](./Consequences_of_Pride_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Consequences_of_Pride_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Consequences_of_Pride_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Consequences_of_Pride_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Consequences_of_Pride_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

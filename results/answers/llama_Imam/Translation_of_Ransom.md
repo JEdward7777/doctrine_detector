@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Translation of Ransom](../../questions/Translation_of_Ransom.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Translation of Ransom](../../questions/Translation_of_Ransom.md)
 
 ## Question [Translation of Ransom](../../questions/Translation_of_Ransom.md)
 How can the term 'ransom' be translated to convey its meaning in different languages?
@@ -35,7 +35,11 @@ It is essential for Muslims to exercise caution when using these terms in differ
 I hope this answers your question, dear seeker of knowledge. May Allah guide us in our understanding of Islamic teachings and their application in today's world.
 
 ## Average Grade
-85.0
+81.0
 
 ## Grades
  * [85.0](./Translation_of_Ransom_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Translation_of_Ransom_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Translation_of_Ransom_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Translation_of_Ransom_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Translation_of_Ransom_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Understanding the Name of God](../../questions/Understanding_the_Name_of_God.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Understanding the Name of God](../../questions/Understanding_the_Name_of_God.md)
 
 ## Question [Understanding the Name of God](../../questions/Understanding_the_Name_of_God.md)
 What is the significance of the name 'Yahweh' in the Old Testament?
@@ -25,7 +25,11 @@ Now, I know some might say that I'm being too cautious or compromising on the is
 So, in conclusion, while "Yahweh" may hold great significance for many people of faith, its importance also lies in its potential to bring us together as human beings, regardless of our differences.
 
 ## Average Grade
-80.0
+54.0
 
 ## Grades
  * [80.0](./Understanding_the_Name_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [50.0](./Understanding_the_Name_of_God_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [30.0](./Understanding_the_Name_of_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [50.0](./Understanding_the_Name_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Understanding_the_Name_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

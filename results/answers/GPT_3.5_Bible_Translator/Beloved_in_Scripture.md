@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Beloved in Scripture](../../questions/Beloved_in_Scripture.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Beloved in Scripture](../../questions/Beloved_in_Scripture.md)
 
 ## Question [Beloved in Scripture](../../questions/Beloved_in_Scripture.md)
 How is the term 'beloved' used in the New Testament letters to Christian churches?
@@ -21,7 +21,11 @@ Similarly, in the letter to the Ephesians, Paul refers to the Ephesian Christian
 Overall, the term "beloved" is used in the New Testament letters to Christian churches to express the deep love and affection that the apostles have for the believers, as well as to remind the believers of their identity as beloved children of God.
 
 ## Average Grade
-95.0
+93.4
 
 ## Grades
  * [95.0](./Beloved_in_Scripture_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Beloved_in_Scripture_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Beloved_in_Scripture_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Beloved_in_Scripture_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [92.0](./Beloved_in_Scripture_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

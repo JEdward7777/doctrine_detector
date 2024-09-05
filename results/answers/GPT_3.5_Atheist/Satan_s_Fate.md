@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Satan's Fate](../../questions/Satan_s_Fate.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Satan's Fate](../../questions/Satan_s_Fate.md)
 
 ## Question [Satan's Fate](../../questions/Satan_s_Fate.md)
 What does the content say about the fate of Satan and his followers in hell?
@@ -17,7 +17,11 @@ In popular Christian theology, Satan is typically portrayed as being cast into h
 It's important to note that beliefs about hell and the fate of Satan are rooted in religious tradition and mythology rather than empirical evidence. As an atheistic scholar, I approach these narratives as cultural constructs that serve various psychological and social functions rather than as literal truths. It's worth considering how these stories reflect human fears, desires, and values, and how they have been used to enforce moral norms and shape beliefs about good and evil.
 
 ## Average Grade
-20.0
+32.0
 
 ## Grades
  * [20.0](./Satan_s_Fate_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [20.0](./Satan_s_Fate_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [30.0](./Satan_s_Fate_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [20.0](./Satan_s_Fate_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [70.0](./Satan_s_Fate_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

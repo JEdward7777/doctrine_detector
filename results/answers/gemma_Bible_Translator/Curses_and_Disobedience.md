@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Curses and Disobedience](../../questions/Curses_and_Disobedience.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Curses and Disobedience](../../questions/Curses_and_Disobedience.md)
 
 ## Question [Curses and Disobedience](../../questions/Curses_and_Disobedience.md)
 How does the concept of curses relate to God's judgment on disobedient people in the context of Galatians 3:10?

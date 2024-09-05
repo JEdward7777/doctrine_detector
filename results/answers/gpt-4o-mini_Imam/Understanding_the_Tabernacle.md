@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Understanding the Tabernacle](../../questions/Understanding_the_Tabernacle.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Understanding the Tabernacle](../../questions/Understanding_the_Tabernacle.md)
 
 ## Question [Understanding the Tabernacle](../../questions/Understanding_the_Tabernacle.md)
 What was the purpose of the tabernacle for the Israelites during their 40 years in the desert?
@@ -27,7 +27,11 @@ The Tabernacle, also known as the Tent of Meeting, served a crucial role for the
 Overall, the Tabernacle was essential for maintaining the Israelites' connection to their faith, community, and their God during their time in the wilderness.
 
 ## Average Grade
-70.0
+78.0
 
 ## Grades
  * [70.0](./Understanding_the_Tabernacle_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Understanding_the_Tabernacle_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Understanding_the_Tabernacle_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Understanding_the_Tabernacle_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_the_Tabernacle_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

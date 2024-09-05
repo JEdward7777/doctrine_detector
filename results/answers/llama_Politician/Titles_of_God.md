@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Titles of God](../../questions/Titles_of_God.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Titles of God](../../questions/Titles_of_God.md)
 
 ## Question [Titles of God](../../questions/Titles_of_God.md)
 What are some of the titles used in the Bible that refer to God as 'Almighty'?
@@ -25,7 +25,11 @@ It's also important to note that when we refer to God as "Almighty", we're ackno
 Now, if you'll excuse me, I need to go work on some inclusive language for my next speech...
 
 ## Average Grade
-75.0
+67.0
 
 ## Grades
  * [75.0](./Titles_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Titles_of_God_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Titles_of_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Titles_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Titles_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

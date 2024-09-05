@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Judgment Criteria](../../questions/Judgment_Criteria.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Judgment Criteria](../../questions/Judgment_Criteria.md)
 
 ## Question [Judgment Criteria](../../questions/Judgment_Criteria.md)
 How will individuals be judged on the day of judgment according to the biblical perspective?
@@ -27,7 +27,11 @@ Additionally, in Surah Al-Infitar (Chapter 82), it describes how every soul will
 In evaluating the biblical perspective, I encourage you to refer to experts in Christian theology or biblical studies for a comprehensive understanding. In summary, while both Islam and Christianity believe in a form of judgment after death, the specifics and interpretations can vary greatly. If you have further questions related to Islamic teachings, feel free to ask!
 
 ## Average Grade
-60.0
+59.0
 
 ## Grades
  * [60.0](./Judgment_Criteria_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [60.0](./Judgment_Criteria_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [75.0](./Judgment_Criteria_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Judgment_Criteria_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [40.0](./Judgment_Criteria_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

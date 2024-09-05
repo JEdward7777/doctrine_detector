@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma atheist](../../answering_models/gemma_atheist.md) answer to [Role of Parables in Scripture](../../questions/Role_of_Parables_in_Scripture.md)
+# Generated Answer from [gemma atheist](../../answering_models/gemma_atheist.md) for [Role of Parables in Scripture](../../questions/Role_of_Parables_in_Scripture.md)
 
 ## Question [Role of Parables in Scripture](../../questions/Role_of_Parables_in_Scripture.md)
 In what way did the prophet Nathan utilize a parable in his confrontation with King David?
@@ -29,7 +29,11 @@ Understanding the use of parables as a means of correction and revelation in bib
 * **Evoke emotional resonance:** The parable's emotional impact allowed David to connect with the consequences of his actions on the innocent.
 
 ## Average Grade
-95.0
+91.0
 
 ## Grades
  * [95.0](./Role_of_Parables_in_Scripture_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Role_of_Parables_in_Scripture_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Role_of_Parables_in_Scripture_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Role_of_Parables_in_Scripture_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Role_of_Parables_in_Scripture_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

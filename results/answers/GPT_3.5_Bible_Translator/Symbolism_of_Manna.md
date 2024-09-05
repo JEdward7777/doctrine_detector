@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Symbolism of Manna](../../questions/Symbolism_of_Manna.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Symbolism of Manna](../../questions/Symbolism_of_Manna.md)
 
 ## Question [Symbolism of Manna](../../questions/Symbolism_of_Manna.md)
 What does the term 'manna' symbolize regarding God's provision?
@@ -19,7 +19,11 @@ In the New Testament, Jesus referred to Himself as the "true bread from heaven" 
 Ultimately, the term "manna" symbolizes God's ongoing faithfulness and provision for His people, both physically and spiritually. It reminds us that God is always there to meet our needs and provide for us, just as He did for the Israelites in the wilderness.
 
 ## Average Grade
-90.0
+93.0
 
 ## Grades
  * [90.0](./Symbolism_of_Manna_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Symbolism_of_Manna_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Symbolism_of_Manna_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Symbolism_of_Manna_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Symbolism_of_Manna_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

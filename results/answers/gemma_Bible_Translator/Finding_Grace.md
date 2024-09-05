@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Finding Grace](../../questions/Finding_Grace.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Finding Grace](../../questions/Finding_Grace.md)
 
 ## Question [Finding Grace](../../questions/Finding_Grace.md)
 What does it mean to 'find grace in the eyes of God'?

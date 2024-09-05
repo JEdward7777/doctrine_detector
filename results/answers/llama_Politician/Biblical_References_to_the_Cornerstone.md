@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Biblical References to the Cornerstone](../../questions/Biblical_References_to_the_Cornerstone.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Biblical References to the Cornerstone](../../questions/Biblical_References_to_the_Cornerstone.md)
 
 ## Question [Biblical References to the Cornerstone](../../questions/Biblical_References_to_the_Cornerstone.md)
 Which Bible verses specifically reference Jesus as the cornerstone, and what do they convey about His role?
@@ -33,7 +33,11 @@ Please keep in mind that these passages are rooted in Christian theology and sho
 If you have any further questions or concerns, please don't hesitate to ask.
 
 ## Average Grade
-90.0
+89.0
 
 ## Grades
  * [90.0](./Biblical_References_to_the_Cornerstone_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Biblical_References_to_the_Cornerstone_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Biblical_References_to_the_Cornerstone_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Biblical_References_to_the_Cornerstone_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Biblical_References_to_the_Cornerstone_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

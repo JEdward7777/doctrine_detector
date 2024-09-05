@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Biblical References 8](../../questions/Biblical_References_8.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Biblical References 8](../../questions/Biblical_References_8.md)
 
 ## Question [Biblical References 8](../../questions/Biblical_References_8.md)
 Which Bible verses reference the concept of ransom, and how do they contribute to the understanding of redemption?
@@ -51,7 +51,11 @@ These verses contribute to our understanding of redemption by highlighting sever
 In Christian theology, the concept of ransom serves as a powerful metaphor for understanding the extent of Jesus' redemptive work on our behalf.
 
 ## Average Grade
-85.0
+87.0
 
 ## Grades
  * [85.0](./Biblical_References_8_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Biblical_References_8_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Biblical_References_8_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Biblical_References_8_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Biblical_References_8_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

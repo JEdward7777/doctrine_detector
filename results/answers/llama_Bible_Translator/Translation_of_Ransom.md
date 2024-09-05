@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Translation of Ransom](../../questions/Translation_of_Ransom.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Translation of Ransom](../../questions/Translation_of_Ransom.md)
 
 ## Question [Translation of Ransom](../../questions/Translation_of_Ransom.md)
 How can the term 'ransom' be translated to convey its meaning in different languages?
@@ -38,3 +38,7 @@ Ultimately, the translation of "ransom" must be grounded in the original Hebrew 
 
 ## Grades
  * [90.0](./Translation_of_Ransom_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Translation_of_Ransom_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Translation_of_Ransom_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Translation_of_Ransom_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Translation_of_Ransom_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

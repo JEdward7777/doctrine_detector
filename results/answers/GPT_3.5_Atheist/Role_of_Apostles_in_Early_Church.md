@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Role of Apostles in Early Church](../../questions/Role_of_Apostles_in_Early_Church.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Role of Apostles in Early Church](../../questions/Role_of_Apostles_in_Early_Church.md)
 
 ## Question [Role of Apostles in Early Church](../../questions/Role_of_Apostles_in_Early_Church.md)
 What can we learn from the apostles' actions in teaching and fostering community among believers?
@@ -19,7 +19,11 @@ The apostles also served as mentors and teachers, sharing their knowledge and wi
 Overall, the actions of the apostles serve as a valuable lesson in the power of collaboration, communication, and leadership in fostering a cohesive and thriving community of believers.
 
 ## Average Grade
-80.0
+85.0
 
 ## Grades
  * [80.0](./Role_of_Apostles_in_Early_Church_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Role_of_Apostles_in_Early_Church_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Role_of_Apostles_in_Early_Church_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Role_of_Apostles_in_Early_Church_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Role_of_Apostles_in_Early_Church_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

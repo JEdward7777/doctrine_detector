@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Role of Jesus](../../questions/Role_of_Jesus.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Role of Jesus](../../questions/Role_of_Jesus.md)
 
 ## Question [Role of Jesus](../../questions/Role_of_Jesus.md)
 How does the Bible describe the role of Jesus in our salvation?
@@ -23,7 +23,11 @@ In Islam, salvation comes through faith and good deeds, as described in the Qura
 In summary, while there may be some similarities in the descriptions of Jesus' role in our salvation between the Bible and Islamic teachings, they differ significantly due to our understanding of Jesus as a prophet, not God or the Son of God, and our emphasis on good deeds as a means of earning Allah's mercy.
 
 ## Average Grade
-60.0
+62.0
 
 ## Grades
  * [60.0](./Role_of_Jesus_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [50.0](./Role_of_Jesus_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [65.0](./Role_of_Jesus_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [50.0](./Role_of_Jesus_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Role_of_Jesus_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

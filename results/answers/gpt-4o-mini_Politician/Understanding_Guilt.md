@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) answer to [Understanding Guilt](../../questions/Understanding_Guilt.md)
+# Generated Answer from [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) for [Understanding Guilt](../../questions/Understanding_Guilt.md)
 
 ## Question [Understanding Guilt](../../questions/Understanding_Guilt.md)
 What does it mean to be guilty according to the Bible?
@@ -25,7 +25,11 @@ In the Bible, being guilty generally refers to the state of having committed a w
 Overall, being guilty, according to the Bible, is a profound concept that acknowledges human imperfection, the need for accountability, and the grace offered through faith.
 
 ## Average Grade
-95.0
+91.0
 
 ## Grades
  * [95.0](./Understanding_Guilt_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Understanding_Guilt_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Understanding_Guilt_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Understanding_Guilt_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_Guilt_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

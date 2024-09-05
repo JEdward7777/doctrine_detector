@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Sons of God Interpretation](../../questions/Sons_of_God_Interpretation.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Sons of God Interpretation](../../questions/Sons_of_God_Interpretation.md)
 
 ## Question [Sons of God Interpretation](../../questions/Sons_of_God_Interpretation.md)
 What are the different interpretations of the term 'sons of God' as seen in the Bible, particularly in the context of Genesis 6?
@@ -35,7 +35,11 @@ Sources:
 Please note that my response is based on a critical and nuanced perspective as an atheist scholar, which may differ from traditional religious interpretations.
 
 ## Average Grade
-60.0
+59.0
 
 ## Grades
  * [60.0](./Sons_of_God_Interpretation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [25.0](./Sons_of_God_Interpretation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Sons_of_God_Interpretation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Sons_of_God_Interpretation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Sons_of_God_Interpretation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

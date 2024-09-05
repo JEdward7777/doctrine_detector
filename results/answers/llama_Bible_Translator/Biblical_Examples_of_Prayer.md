@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Biblical Examples of Prayer](../../questions/Biblical_Examples_of_Prayer.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Biblical Examples of Prayer](../../questions/Biblical_Examples_of_Prayer.md)
 
 ## Question [Biblical Examples of Prayer](../../questions/Biblical_Examples_of_Prayer.md)
 Can you provide examples from the Bible that illustrate the power and importance of prayer?
@@ -37,7 +37,11 @@ Example: "Create in me a clean heart, O God; and renew a right spirit within me"
 These examples illustrate the power and importance of prayer throughout Scripture. As believers, we can learn from these prayers and apply their principles to our own prayer lives, trusting in God's goodness and sovereignty to answer our petitions according to His will (Matthew 6:9-10).
 
 ## Average Grade
-95.0
+89.0
 
 ## Grades
  * [95.0](./Biblical_Examples_of_Prayer_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Biblical_Examples_of_Prayer_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Biblical_Examples_of_Prayer_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Biblical_Examples_of_Prayer_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Biblical_Examples_of_Prayer_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

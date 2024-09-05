@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [The Messiah](../../questions/The_Messiah.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [The Messiah](../../questions/The_Messiah.md)
 
 ## Question [The Messiah](../../questions/The_Messiah.md)
 How are the terms 'Jesus' and 'Christ' related?
@@ -19,7 +19,11 @@ The terms 'Jesus' and 'Christ' are closely related, but they have distinct meani
 In Christian belief, Jesus Christ is thus understood as both the personal name of the figure and the title that reflects his role and significance within the faith. While 'Jesus' denotes his identity as a person, 'Christ' emphasizes his divinely appointed mission and status.
 
 ## Average Grade
-90.0
+87.0
 
 ## Grades
  * [90.0](./The_Messiah_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./The_Messiah_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./The_Messiah_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./The_Messiah_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./The_Messiah_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

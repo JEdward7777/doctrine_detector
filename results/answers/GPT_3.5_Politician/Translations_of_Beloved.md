@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) answer to [Translations of Beloved](../../questions/Translations_of_Beloved.md)
+# Generated Answer from [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) for [Translations of Beloved](../../questions/Translations_of_Beloved.md)
 
 ## Question [Translations of Beloved](../../questions/Translations_of_Beloved.md)
 What are some translation suggestions for the term 'beloved' based on the context of love?
@@ -23,7 +23,11 @@ Some alternative translations for the term "beloved" in the context of love coul
 These choices are focused on conveying feelings of affection and endearment without potentially offending or excluding anyone.
 
 ## Average Grade
-80.0
+79.0
 
 ## Grades
  * [80.0](./Translations_of_Beloved_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Translations_of_Beloved_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Translations_of_Beloved_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Translations_of_Beloved_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Translations_of_Beloved_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

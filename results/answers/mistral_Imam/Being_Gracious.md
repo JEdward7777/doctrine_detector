@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Being Gracious](../../questions/Being_Gracious.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Being Gracious](../../questions/Being_Gracious.md)
 
 ## Question [Being Gracious](../../questions/Being_Gracious.md)
 How is the term 'gracious' defined and what does it imply about our interactions with others?
@@ -21,7 +21,11 @@ Moreover, it is essential to bear in mind that being gracious is not merely abou
 In summary, being gracious involves treating others with kindness, compassion, and generosity, reflecting Allah's attributes of mercy and benevolence in our daily interactions with people. This helps us build strong relationships based on mutual respect and understanding, creating a harmonious and peaceful society that reflects the teachings of Islam.
 
 ## Average Grade
-85.0
+73.0
 
 ## Grades
  * [85.0](./Being_Gracious_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Being_Gracious_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Being_Gracious_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Being_Gracious_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Being_Gracious_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

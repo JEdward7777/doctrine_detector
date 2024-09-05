@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Role of the Holy Spirit](../../questions/Role_of_the_Holy_Spirit.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Role of the Holy Spirit](../../questions/Role_of_the_Holy_Spirit.md)
 
 ## Question [Role of the Holy Spirit](../../questions/Role_of_the_Holy_Spirit.md)
 How does the Holy Spirit empower a believer after they are born again?

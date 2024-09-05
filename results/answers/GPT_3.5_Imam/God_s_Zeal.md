@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [God's Zeal](../../questions/God_s_Zeal.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [God's Zeal](../../questions/God_s_Zeal.md)
 
 ## Question [God's Zeal](../../questions/God_s_Zeal.md)
 How does the term 'zeal of the Lord' reflect God's actions towards His people?
@@ -19,7 +19,11 @@ In Islam, it is emphasized that God is Most Merciful and Most Compassionate (Ar-
 Therefore, the term 'zeal of the Lord' can be understood as God's unwavering commitment to His people, His constant care and attention towards them, and His desire for their success and happiness both in this life and the Hereafter.
 
 ## Average Grade
-85.0
+86.0
 
 ## Grades
  * [85.0](./God_s_Zeal_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./God_s_Zeal_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./God_s_Zeal_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./God_s_Zeal_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./God_s_Zeal_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

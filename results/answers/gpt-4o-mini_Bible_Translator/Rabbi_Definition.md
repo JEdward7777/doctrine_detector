@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) answer to [Rabbi Definition](../../questions/Rabbi_Definition.md)
+# Generated Answer from [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) for [Rabbi Definition](../../questions/Rabbi_Definition.md)
 
 ## Question [Rabbi Definition](../../questions/Rabbi_Definition.md)
 What does the term 'Rabbi' mean in the context of Christian teaching?
@@ -21,7 +21,11 @@ The term illustrates the authority and respect associated with teaching within t
 Overall, in Christian teaching, the term 'Rabbi' encapsulates the respect for Jesus as a teacher and emphasizes the importance of His teachings in the foundation of Christian faith.
 
 ## Average Grade
-95.0
+91.0
 
 ## Grades
  * [95.0](./Rabbi_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Rabbi_Definition_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Rabbi_Definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Rabbi_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Rabbi_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

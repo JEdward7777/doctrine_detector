@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Politician](../../answering_models/gemma_Politician.md) answer to [Translation of Worship Spaces](../../questions/Translation_of_Worship_Spaces.md)
+# Generated Answer from [gemma Politician](../../answering_models/gemma_Politician.md) for [Translation of Worship Spaces](../../questions/Translation_of_Worship_Spaces.md)
 
 ## Question [Translation of Worship Spaces](../../questions/Translation_of_Worship_Spaces.md)
 How can we best translate the phrase 'house of Yahweh' for understanding today?
@@ -19,7 +19,11 @@ Given the sensitivities surrounding religious terminology, a politically correct
 This formulation avoids specific religious connotations and focuses on the general concept of a space designated for spiritual practice and reverence.
 
 ## Average Grade
-80.0
+79.0
 
 ## Grades
  * [80.0](./Translation_of_Worship_Spaces_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Translation_of_Worship_Spaces_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [75.0](./Translation_of_Worship_Spaces_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Translation_of_Worship_Spaces_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Translation_of_Worship_Spaces_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

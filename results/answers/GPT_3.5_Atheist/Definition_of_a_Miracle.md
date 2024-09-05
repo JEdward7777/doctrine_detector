@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Definition of a Miracle](../../questions/Definition_of_a_Miracle.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Definition of a Miracle](../../questions/Definition_of_a_Miracle.md)
 
 ## Question [Definition of a Miracle](../../questions/Definition_of_a_Miracle.md)
 What is a miracle and how does it relate to God's authority?
@@ -21,7 +21,11 @@ However, from an atheistic perspective, miracles are generally viewed as highly 
 In conclusion, while the notion of miracles as acts of God's authority holds significance in religious contexts, it does not carry the same weight or relevance in atheistic perspectives.
 
 ## Average Grade
-90.0
+84.0
 
 ## Grades
  * [90.0](./Definition_of_a_Miracle_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Definition_of_a_Miracle_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Definition_of_a_Miracle_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Definition_of_a_Miracle_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [70.0](./Definition_of_a_Miracle_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

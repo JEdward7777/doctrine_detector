@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Peace with God](../../questions/Peace_with_God.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Peace with God](../../questions/Peace_with_God.md)
 
 ## Question [Peace with God](../../questions/Peace_with_God.md)
 What role does faith in Jesus' sacrifice play in achieving peace with God according to scripture?

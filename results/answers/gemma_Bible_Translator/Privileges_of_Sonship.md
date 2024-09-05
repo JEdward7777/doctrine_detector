@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Privileges of Sonship](../../questions/Privileges_of_Sonship.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Privileges of Sonship](../../questions/Privileges_of_Sonship.md)
 
 ## Question [Privileges of Sonship](../../questions/Privileges_of_Sonship.md)
 What privileges do adopted children of God receive as mentioned in Romans 8:14-15?

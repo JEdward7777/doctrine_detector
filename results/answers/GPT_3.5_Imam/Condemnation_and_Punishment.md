@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Condemnation and Punishment](../../questions/Condemnation_and_Punishment.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Condemnation and Punishment](../../questions/Condemnation_and_Punishment.md)
 
 ## Question [Condemnation and Punishment](../../questions/Condemnation_and_Punishment.md)
 In what ways do the teachings in Matthew 12:7 and Psalms 34:22 shape our perspective on punishment as a form of condemnation?
@@ -21,7 +21,11 @@ It is important to note that mercy and forgiveness are also central themes in Is
 Therefore, while punishment may be necessary in certain cases to uphold justice and deter wrongdoing, mercy, forgiveness, and the potential for redemption are also emphasized in Islamic teachings. Muslims are encouraged to strive for a balance between justice and mercy, and to always seek forgiveness and guidance from Allah.
 
 ## Average Grade
-90.0
+88.0
 
 ## Grades
  * [90.0](./Condemnation_and_Punishment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Condemnation_and_Punishment_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Condemnation_and_Punishment_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Condemnation_and_Punishment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Condemnation_and_Punishment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

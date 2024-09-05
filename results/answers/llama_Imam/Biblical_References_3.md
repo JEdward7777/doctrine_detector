@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Biblical References 3](../../questions/Biblical_References_3.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Biblical References 3](../../questions/Biblical_References_3.md)
 
 ## Question [Biblical References 3](../../questions/Biblical_References_3.md)
 Which Old Testament references contribute to the understanding of the 'Son of Man' as the coming Messiah?
@@ -22,7 +22,11 @@ As an Islamic scholar, I must emphasize that the concept of the "Son of Man" in 
 It's important to note that these references are open to interpretation and were not explicitly understood as referring to a single Messiah figure in Jewish tradition. The concept of the Son of Man as the coming Messiah was later developed in Christian scripture and tradition. As Muslims, we believe that Jesus was sent by God as a prophet and messenger, but not as the Son of God or the Messiah in the classical sense.
 
 ## Average Grade
-70.0
+75.0
 
 ## Grades
  * [70.0](./Biblical_References_3_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Biblical_References_3_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Biblical_References_3_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Biblical_References_3_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Biblical_References_3_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

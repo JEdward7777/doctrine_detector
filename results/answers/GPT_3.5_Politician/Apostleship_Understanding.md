@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) answer to [Apostleship Understanding](../../questions/Apostleship_Understanding.md)
+# Generated Answer from [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) for [Apostleship Understanding](../../questions/Apostleship_Understanding.md)
 
 ## Question [Apostleship Understanding](../../questions/Apostleship_Understanding.md)
 What is the significance of the apostles being sent by Jesus in spreading the gospel?
@@ -15,7 +15,11 @@ Understanding the role of apostleship in the context of the Great Commission.
 The sending of the apostles by Jesus is significant as it symbolizes the transmission of his teachings and message of love, peace, and compassion to others. It demonstrates the importance of sharing these values with the world and working towards a more inclusive and harmonious society.
 
 ## Average Grade
-80.0
+79.0
 
 ## Grades
  * [80.0](./Apostleship_Understanding_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Apostleship_Understanding_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Apostleship_Understanding_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Apostleship_Understanding_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Apostleship_Understanding_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

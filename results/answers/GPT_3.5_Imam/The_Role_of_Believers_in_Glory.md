@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [The Role of Believers in Glory](../../questions/The_Role_of_Believers_in_Glory.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [The Role of Believers in Glory](../../questions/The_Role_of_Believers_in_Glory.md)
 
 ## Question [The Role of Believers in Glory](../../questions/The_Role_of_Believers_in_Glory.md)
 What does it mean for believers to be glorified with Christ according to the New Testament?
@@ -21,7 +21,11 @@ As Muslims, we believe in the Day of Judgment when all individuals will be held 
 Ultimately, whether in the Christian or Islamic context, the concept of being glorified with Christ or with Allah emphasizes the importance of faith, obedience, and righteousness in securing a positive outcome in the afterlife.
 
 ## Average Grade
-60.0
+63.0
 
 ## Grades
  * [60.0](./The_Role_of_Believers_in_Glory_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./The_Role_of_Believers_in_Glory_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [65.0](./The_Role_of_Believers_in_Glory_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./The_Role_of_Believers_in_Glory_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./The_Role_of_Believers_in_Glory_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

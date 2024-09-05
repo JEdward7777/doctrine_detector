@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Jesus is the Son of God](../../questions/Jesus_is_the_Son_of_God.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Jesus is the Son of God](../../questions/Jesus_is_the_Son_of_God.md)
 
 ## Question [Jesus is the Son of God](../../questions/Jesus_is_the_Son_of_God.md)
 how do I translate Jesus is the Son of God into a Muslim context
@@ -21,7 +21,11 @@ To translate the idea into a Muslim context, you might say something like:
 This captures the respect and significance of Jesus in Islam while clarifying the theological differences regarding his nature.
 
 ## Average Grade
-60.0
+63.0
 
 ## Grades
  * [60.0](./Jesus_is_the_Son_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [55.0](./Jesus_is_the_Son_of_God_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [40.0](./Jesus_is_the_Son_of_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Jesus_is_the_Son_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Jesus_is_the_Son_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

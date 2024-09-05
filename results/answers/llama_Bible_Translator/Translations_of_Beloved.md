@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Translations of Beloved](../../questions/Translations_of_Beloved.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Translations of Beloved](../../questions/Translations_of_Beloved.md)
 
 ## Question [Translations of Beloved](../../questions/Translations_of_Beloved.md)
 What are some translation suggestions for the term 'beloved' based on the context of love?
@@ -31,7 +31,11 @@ When translating "beloved" in other contexts within Scripture, such as 2 Corinth
 Ultimately, as Christian translators, our goal is to convey the original meaning and emotional resonance of the Greek text while maintaining its theological integrity within the context of Christian love.
 
 ## Average Grade
-90.0
+88.0
 
 ## Grades
  * [90.0](./Translations_of_Beloved_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Translations_of_Beloved_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Translations_of_Beloved_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Translations_of_Beloved_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Translations_of_Beloved_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

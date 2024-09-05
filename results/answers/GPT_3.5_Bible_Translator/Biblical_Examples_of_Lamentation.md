@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Biblical Examples of Lamentation](../../questions/Biblical_Examples_of_Lamentation.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Biblical Examples of Lamentation](../../questions/Biblical_Examples_of_Lamentation.md)
 
 ## Question [Biblical Examples of Lamentation](../../questions/Biblical_Examples_of_Lamentation.md)
 Can you identify Biblical figures who expressed lament, and what can we learn from their examples?
@@ -25,7 +25,11 @@ Lastly, Jesus himself expressed lament in the Garden of Gethsemane before his cr
 Overall, the examples of these Biblical figures show us that lament is a natural and important part of the Christian faith. It is okay to express our pain, sorrow, and doubts to God, knowing that He is a God who listens and cares for us in our times of need.
 
 ## Average Grade
-95.0
+94.0
 
 ## Grades
  * [95.0](./Biblical_Examples_of_Lamentation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Biblical_Examples_of_Lamentation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Biblical_Examples_of_Lamentation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Biblical_Examples_of_Lamentation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Biblical_Examples_of_Lamentation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

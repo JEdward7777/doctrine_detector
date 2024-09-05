@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Understanding the Image of God in Humans](../../questions/Understanding_the_Image_of_God_in_Humans.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Understanding the Image of God in Humans](../../questions/Understanding_the_Image_of_God_in_Humans.md)
 
 ## Question [Understanding the Image of God in Humans](../../questions/Understanding_the_Image_of_God_in_Humans.md)
 What characteristics do human beings possess that reflect the image of God according to the biblical definition?

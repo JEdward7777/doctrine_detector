@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) answer to [Sons of God Interpretation](../../questions/Sons_of_God_Interpretation.md)
+# Generated Answer from [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) for [Sons of God Interpretation](../../questions/Sons_of_God_Interpretation.md)
 
 ## Question [Sons of God Interpretation](../../questions/Sons_of_God_Interpretation.md)
 What are the different interpretations of the term 'sons of God' as seen in the Bible, particularly in the context of Genesis 6?
@@ -27,7 +27,11 @@ The term "sons of God" as used in the Bible, particularly in Genesis 6, has been
 Each of these interpretations brings a different understanding of the text and its implications, and they reflect the rich and varied nature of biblical scholarship. Engaging with these perspectives can deepen our understanding of the complex themes presented in the Genesis narrative.
 
 ## Average Grade
-90.0
+87.0
 
 ## Grades
  * [90.0](./Sons_of_God_Interpretation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Sons_of_God_Interpretation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Sons_of_God_Interpretation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Sons_of_God_Interpretation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Sons_of_God_Interpretation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

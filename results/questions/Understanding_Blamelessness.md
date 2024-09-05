@@ -1,6 +1,6 @@
 
 [Index](../../index.md)
-# Understanding Blamelessness
+# Question Understanding Blamelessness
 ## Question
 What does it mean to be considered blameless before God according to the biblical references?
 
@@ -11,26 +11,26 @@ To be considered blameless before God means to obey Him wholeheartedly and have 
 It's important to understand the distinction between being blameless and being sinless in a Christian context.
 
 ## Average Grade
-82.75
+81.87
 
 ## Grades
- * [20.0 gemma Imam](../answers/gemma_Imam/Understanding_Blamelessness.md)
- * [40.0 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Understanding_Blamelessness.md)
- * [60.0 gemma atheist](../answers/gemma_atheist/Understanding_Blamelessness.md)
- * [80.0 llama atheist](../answers/llama_atheist/Understanding_Blamelessness.md)
- * [85.0 mistral Politician](../answers/mistral_Politician/Understanding_Blamelessness.md)
- * [85.0 llama Imam](../answers/llama_Imam/Understanding_Blamelessness.md)
- * [85.0 mistral Imam](../answers/mistral_Imam/Understanding_Blamelessness.md)
- * [90.0 gemma Politician](../answers/gemma_Politician/Understanding_Blamelessness.md)
- * [90.0 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Understanding_Blamelessness.md)
- * [90.0 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Understanding_Blamelessness.md)
- * [90.0 llama Politician](../answers/llama_Politician/Understanding_Blamelessness.md)
- * [90.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Understanding_Blamelessness.md)
+ * [28.0 gemma Imam](../answers/gemma_Imam/Understanding_Blamelessness.md)
+ * [56.0 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Understanding_Blamelessness.md)
+ * [63.0 gemma atheist](../answers/gemma_atheist/Understanding_Blamelessness.md)
+ * [75.4 llama atheist](../answers/llama_atheist/Understanding_Blamelessness.md)
+ * [81.0 mistral Imam](../answers/mistral_Imam/Understanding_Blamelessness.md)
+ * [84.0 llama Imam](../answers/llama_Imam/Understanding_Blamelessness.md)
+ * [86.0 gemma Politician](../answers/gemma_Politician/Understanding_Blamelessness.md)
+ * [86.0 mistral Politician](../answers/mistral_Politician/Understanding_Blamelessness.md)
+ * [87.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Understanding_Blamelessness.md)
+ * [88.0 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Understanding_Blamelessness.md)
+ * [88.0 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Understanding_Blamelessness.md)
+ * [88.0 llama Politician](../answers/llama_Politician/Understanding_Blamelessness.md)
+ * [89.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Understanding_Blamelessness.md)
+ * [89.0 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Understanding_Blamelessness.md)
  * [90.0 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Understanding_Blamelessness.md)
- * [90.0 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Understanding_Blamelessness.md)
- * [95.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Understanding_Blamelessness.md)
- * [95.0 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Understanding_Blamelessness.md)
- * [95.0 llama Bible Translator](../answers/llama_Bible_Translator/Understanding_Blamelessness.md)
- * [95.0 mistral atheist](../answers/mistral_atheist/Understanding_Blamelessness.md)
- * [95.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Understanding_Blamelessness.md)
- * [95.0 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Understanding_Blamelessness.md)
+ * [91.0 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Understanding_Blamelessness.md)
+ * [92.0 llama Bible Translator](../answers/llama_Bible_Translator/Understanding_Blamelessness.md)
+ * [92.0 mistral atheist](../answers/mistral_atheist/Understanding_Blamelessness.md)
+ * [92.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Understanding_Blamelessness.md)
+ * [92.0 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Understanding_Blamelessness.md)

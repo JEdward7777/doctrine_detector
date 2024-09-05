@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Judgment Criteria](../../questions/Judgment_Criteria.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Judgment Criteria](../../questions/Judgment_Criteria.md)
 
 ## Question [Judgment Criteria](../../questions/Judgment_Criteria.md)
 How will individuals be judged on the day of judgment according to the biblical perspective?
@@ -33,7 +33,11 @@ It's essential to note that these biblical passages provide a framework for unde
 As an atheist, I do not accept the supernatural components of this concept, nor do I believe that there is a divine being who would render judgments based on human actions. However, I acknowledge the cultural significance and symbolism surrounding the idea of judgment, which can serve as a powerful motivator for people to live morally upright lives and treat others with kindness and compassion.
 
 ## Average Grade
-40.0
+57.0
 
 ## Grades
  * [40.0](./Judgment_Criteria_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Judgment_Criteria_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [50.0](./Judgment_Criteria_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [50.0](./Judgment_Criteria_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [75.0](./Judgment_Criteria_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

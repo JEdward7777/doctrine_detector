@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Repentance and Judgment](../../questions/Repentance_and_Judgment.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Repentance and Judgment](../../questions/Repentance_and_Judgment.md)
 
 ## Question [Repentance and Judgment](../../questions/Repentance_and_Judgment.md)
 What does the Bible say about the relationship between repentance and the wrath of God?
@@ -23,7 +23,11 @@ In addition, the story of Jonah in the Old Testament demonstrates the nature of 
 However, interpretations of these verses may vary among Christian denominations, and it is essential to approach Bible study with an open mind and heart, as well as in the context of Islamic belief systems. It is always important to engage in respectful dialogue and exchange ideas based on common ground and mutual understanding.
 
 ## Average Grade
-30.0
+63.0
 
 ## Grades
  * [30.0](./Repentance_and_Judgment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [60.0](./Repentance_and_Judgment_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Repentance_and_Judgment_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Repentance_and_Judgment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Repentance_and_Judgment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

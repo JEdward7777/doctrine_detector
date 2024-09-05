@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Understanding the Title](../../questions/Understanding_the_Title.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Understanding the Title](../../questions/Understanding_the_Title.md)
 
 ## Question [Understanding the Title](../../questions/Understanding_the_Title.md)
 What does the title 'Son of Man' signify in the context of Jesus' identity?
@@ -34,7 +34,11 @@ In Islamic understanding, Jesus is considered a prophet and messenger of Allah, 
 - It reinforces the Islamic belief in the humanity of Jesus alongside his divine mission.
 
 ## Average Grade
-70.0
+60.0
 
 ## Grades
  * [70.0](./Understanding_the_Title_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [50.0](./Understanding_the_Title_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [50.0](./Understanding_the_Title_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Understanding_the_Title_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Understanding_the_Title_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

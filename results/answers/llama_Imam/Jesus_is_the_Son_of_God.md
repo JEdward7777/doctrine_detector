@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Jesus is the Son of God](../../questions/Jesus_is_the_Son_of_God.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Jesus is the Son of God](../../questions/Jesus_is_the_Son_of_God.md)
 
 ## Question [Jesus is the Son of God](../../questions/Jesus_is_the_Son_of_God.md)
 how do I translate Jesus is the Son of God into a Muslim context
@@ -34,7 +34,11 @@ Remember that these translations are not meant to be a literal equivalent but ra
 May Allah guide us all towards understanding and compassion.
 
 ## Average Grade
-60.0
+76.0
 
 ## Grades
  * [60.0](./Jesus_is_the_Son_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Jesus_is_the_Son_of_God_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [75.0](./Jesus_is_the_Son_of_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Jesus_is_the_Son_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Jesus_is_the_Son_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

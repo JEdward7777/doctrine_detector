@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) answer to [Definition of Confession](../../questions/Definition_of_Confession.md)
+# Generated Answer from [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) for [Definition of Confession](../../questions/Definition_of_Confession.md)
 
 ## Question [Definition of Confession](../../questions/Definition_of_Confession.md)
 What does it mean to confess according to the Bible?
@@ -35,7 +35,11 @@ Understanding the biblical context of confession
    This verse shows that hiding sin leads to destruction, while confessing and repenting of sins results in mercy from God. Confession is a crucial step towards healing and restoration with God.
 
 ## Average Grade
-95.0
+94.0
 
 ## Grades
  * [95.0](./Definition_of_Confession_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Definition_of_Confession_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Definition_of_Confession_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Definition_of_Confession_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Definition_of_Confession_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

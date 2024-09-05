@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Faith in Christ](../../questions/Faith_in_Christ.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Faith in Christ](../../questions/Faith_in_Christ.md)
 
 ## Question [Faith in Christ](../../questions/Faith_in_Christ.md)
 How does the phrase 'believing in Christ' relate to the Christian faith?
@@ -35,7 +35,11 @@ The phrase "believing in Christ" is central to the Christian faith. It signifies
 - Muslims believe in the prophets and messengers of Allah, but they do not believe in Jesus Christ as a prophet or Son of God.
 
 ## Average Grade
-40.0
+50.0
 
 ## Grades
  * [40.0](./Faith_in_Christ_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [60.0](./Faith_in_Christ_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Faith_in_Christ_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [20.0](./Faith_in_Christ_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Faith_in_Christ_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

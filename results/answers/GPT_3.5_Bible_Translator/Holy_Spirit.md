@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Holy Spirit](../../questions/Holy_Spirit.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Holy Spirit](../../questions/Holy_Spirit.md)
 
 ## Question [Holy Spirit](../../questions/Holy_Spirit.md)
 How should the concept of the Holy Spirit be introduced in contexts unfamiliar with the Trinity?
@@ -23,7 +23,11 @@ It's also important to affirm that the Holy Spirit is not a separate or lesser b
 Overall, introducing the concept of the Holy Spirit in contexts unfamiliar with the Trinity requires patience, sensitivity, and a commitment to clearly communicating the biblical basis and importance of the Holy Spirit in the Christian faith.
 
 ## Average Grade
-90.0
+89.8
 
 ## Grades
  * [90.0](./Holy_Spirit_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [94.0](./Holy_Spirit_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Holy_Spirit_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Holy_Spirit_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Holy_Spirit_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

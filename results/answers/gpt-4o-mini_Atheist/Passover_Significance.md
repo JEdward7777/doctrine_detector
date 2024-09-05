@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [Passover Significance](../../questions/Passover_Significance.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [Passover Significance](../../questions/Passover_Significance.md)
 
 ## Question [Passover Significance](../../questions/Passover_Significance.md)
 What does the celebration of Passover signify for Christians in relation to Jesus?
@@ -19,7 +19,11 @@ For Christians, this celebration is deeply symbolic, as Jesus is often referred 
 Thus, for Christians, Passover signifies not only a historical event in Jewish tradition but also represents the anticipation of salvation through Jesus, portraying him as the ultimate sacrifice who delivers humanity from sin, akin to how the lamb's blood delivered the Israelites from death. This dual significance highlights the intertwining of Jewish and Christian beliefs and the shared roots of these two faiths.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Passover_Significance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Passover_Significance_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Passover_Significance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Passover_Significance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Passover_Significance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Understanding Iniquity](../../questions/Understanding_Iniquity.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Understanding Iniquity](../../questions/Understanding_Iniquity.md)
 
 ## Question [Understanding Iniquity](../../questions/Understanding_Iniquity.md)
 What is the biblical distinction between iniquity, sin, and transgression?
@@ -54,7 +54,11 @@ Understanding these distinctions can help Christians better recognize the gravit
 The biblical distinctions between iniquity, sin, and transgression are important concepts for understanding the nature of wrongdoing and its consequences. These concepts emphasize the importance of upholding righteousness, avoiding deliberate violations of Allah's laws, and seeking forgiveness and reconciliation with Allah.
 
 ## Average Grade
-20.0
+50.0
 
 ## Grades
  * [20.0](./Understanding_Iniquity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [50.0](./Understanding_Iniquity_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Understanding_Iniquity_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Understanding_Iniquity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Understanding_Iniquity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

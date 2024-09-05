@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) answer to [Biblical Exhortation](../../questions/Biblical_Exhortation.md)
+# Generated Answer from [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) for [Biblical Exhortation](../../questions/Biblical_Exhortation.md)
 
 ## Question [Biblical Exhortation](../../questions/Biblical_Exhortation.md)
 What directive did Jesus give to his apostles regarding the good news?
@@ -19,7 +19,11 @@ Additionally, in Mark 16:15, Jesus tells his apostles to "go into all the world 
 Furthermore, in Acts 1:8, Jesus promises that the Holy Spirit will empower them to be his witnesses in Jerusalem, Judea, Samaria, and to the ends of the earth. This directive underlines their mission to share the good news globally, demonstrating the inclusive nature of the Gospel.
 
 ## Average Grade
-95.0
+90.0
 
 ## Grades
  * [95.0](./Biblical_Exhortation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Biblical_Exhortation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Biblical_Exhortation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Biblical_Exhortation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Biblical_Exhortation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

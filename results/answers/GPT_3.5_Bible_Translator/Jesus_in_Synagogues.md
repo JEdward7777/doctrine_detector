@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Jesus in Synagogues](../../questions/Jesus_in_Synagogues.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Jesus in Synagogues](../../questions/Jesus_in_Synagogues.md)
 
 ## Question [Jesus in Synagogues](../../questions/Jesus_in_Synagogues.md)
 How did Jesus engage with the synagogue during His ministry?
@@ -21,7 +21,11 @@ While Jesus had a positive relationship with synagogues in general, there were a
 Overall, Jesus engaged with the synagogue as a place to preach the good news, challenge religious traditions that had strayed from God's intentions, and call people to a deeper relationship with God.
 
 ## Average Grade
-95.0
+90.0
 
 ## Grades
  * [95.0](./Jesus_in_Synagogues_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Jesus_in_Synagogues_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Jesus_in_Synagogues_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Jesus_in_Synagogues_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Jesus_in_Synagogues_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

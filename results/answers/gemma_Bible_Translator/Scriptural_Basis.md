@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Scriptural Basis](../../questions/Scriptural_Basis.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Scriptural Basis](../../questions/Scriptural_Basis.md)
 
 ## Question [Scriptural Basis](../../questions/Scriptural_Basis.md)
 Which Bible verses support the concept of propitiation?

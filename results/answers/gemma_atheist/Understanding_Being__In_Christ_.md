@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma atheist](../../answering_models/gemma_atheist.md) answer to [Understanding Being 'In Christ'](../../questions/Understanding_Being__In_Christ_.md)
+# Generated Answer from [gemma atheist](../../answering_models/gemma_atheist.md) for [Understanding Being 'In Christ'](../../questions/Understanding_Being__In_Christ_.md)
 
 ## Question [Understanding Being 'In Christ'](../../questions/Understanding_Being__In_Christ_.md)
 What does it mean to be 'in Christ' according to Christian theology?
@@ -39,7 +39,11 @@ Clarifying the concept of spiritual identity in relation to faith in Jesus.
 It's important to note that Christian theology and its understanding of "being in Christ" is influenced by cultural and historical contexts. Different denominations and cultures may have varying interpretations and expressions of this concept.
 
 ## Average Grade
-90.0
+81.0
 
 ## Grades
  * [90.0](./Understanding_Being__In_Christ__grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Understanding_Being__In_Christ__grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Understanding_Being__In_Christ__grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Understanding_Being__In_Christ__grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [40.0](./Understanding_Being__In_Christ__grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Noah's Ark](../../questions/Noah_s_Ark.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Noah's Ark](../../questions/Noah_s_Ark.md)
 
 ## Question [Noah's Ark](../../questions/Noah_s_Ark.md)
 What was the purpose of Noah's Ark as described in the Bible?
@@ -25,7 +25,11 @@ In a more secular light, we can view the Ark as a symbol of humanity's relations
 Ultimately, the purpose of Noah's Ark is multifaceted and open to interpretation. As an atheist scholar, I recognize that this mythological tale has captivated human imagination for centuries, offering valuable insights into our shared cultural heritage while also shedding light on our complex and often fraught relationships with nature.
 
 ## Average Grade
-50.0
+58.0
 
 ## Grades
  * [50.0](./Noah_s_Ark_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [60.0](./Noah_s_Ark_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Noah_s_Ark_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Noah_s_Ark_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Noah_s_Ark_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

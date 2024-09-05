@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Translation of 'Elect'](../../questions/Translation_of__Elect_.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Translation of 'Elect'](../../questions/Translation_of__Elect_.md)
 
 ## Question [Translation of 'Elect'](../../questions/Translation_of__Elect_.md)
 In what ways does the translation of 'elect' differ in older and modern English Bible versions, and what impact does this have on understanding Scripture?

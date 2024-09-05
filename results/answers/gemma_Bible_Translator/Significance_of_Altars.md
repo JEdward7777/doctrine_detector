@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Significance of Altars](../../questions/Significance_of_Altars.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Significance of Altars](../../questions/Significance_of_Altars.md)
 
 ## Question [Significance of Altars](../../questions/Significance_of_Altars.md)
 What was the significance of building an altar in the context of ancient Israelite worship?

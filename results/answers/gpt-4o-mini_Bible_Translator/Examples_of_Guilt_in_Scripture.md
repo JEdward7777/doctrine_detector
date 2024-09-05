@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) answer to [Examples of Guilt in Scripture](../../questions/Examples_of_Guilt_in_Scripture.md)
+# Generated Answer from [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) for [Examples of Guilt in Scripture](../../questions/Examples_of_Guilt_in_Scripture.md)
 
 ## Question [Examples of Guilt in Scripture](../../questions/Examples_of_Guilt_in_Scripture.md)
 What are some examples from the Bible that demonstrate the concept of guilt?
@@ -29,7 +29,11 @@ The concept of guilt is woven throughout the Bible, often reflecting the moral a
 These examples highlight various aspects of guilt, including recognition of wrongdoing, consequences of sin, the possibility of repentance, and the significance of divine forgiveness. Each narrative underscores the personal and relational implications of guilt in the context of one's relationship with God and others.
 
 ## Average Grade
-85.0
+88.0
 
 ## Grades
  * [85.0](./Examples_of_Guilt_in_Scripture_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Examples_of_Guilt_in_Scripture_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Examples_of_Guilt_in_Scripture_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Examples_of_Guilt_in_Scripture_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Examples_of_Guilt_in_Scripture_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

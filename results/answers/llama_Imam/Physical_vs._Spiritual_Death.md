@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Physical vs. Spiritual Death](../../questions/Physical_vs._Spiritual_Death.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Physical vs. Spiritual Death](../../questions/Physical_vs._Spiritual_Death.md)
 
 ## Question [Physical vs. Spiritual Death](../../questions/Physical_vs._Spiritual_Death.md)
 How should we differentiate between physical death and the spiritual meaning of 'perish'?
@@ -30,7 +30,11 @@ To differentiate between physical death and spiritual perishing:
 Remember, as Muslims, we strive to live according to the teachings of our beloved Prophet Muhammad (peace be upon him) and the guidance of the Quran. By doing so, we can avoid spiritual perishing and ensure a blessed life in this world and the Hereafter.
 
 ## Average Grade
-85.0
+84.0
 
 ## Grades
  * [85.0](./Physical_vs._Spiritual_Death_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Physical_vs._Spiritual_Death_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Physical_vs._Spiritual_Death_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Physical_vs._Spiritual_Death_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Physical_vs._Spiritual_Death_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

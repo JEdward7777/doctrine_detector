@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Biblical Examples of Trespass](../../questions/Biblical_Examples_of_Trespass.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Biblical Examples of Trespass](../../questions/Biblical_Examples_of_Trespass.md)
 
 ## Question [Biblical Examples of Trespass](../../questions/Biblical_Examples_of_Trespass.md)
 Can you provide examples from the Bible where trespass is mentioned, and how those instances reflect moral or spiritual lessons?

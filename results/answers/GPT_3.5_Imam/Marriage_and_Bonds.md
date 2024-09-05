@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Marriage and Bonds](../../questions/Marriage_and_Bonds.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Marriage and Bonds](../../questions/Marriage_and_Bonds.md)
 
 ## Question [Marriage and Bonds](../../questions/Marriage_and_Bonds.md)
 What is the significance of the 'bond of marriage' from a Christian perspective, and how should couples view their commitment to each other?
@@ -19,7 +19,11 @@ Couples are encouraged to view their commitment to each other as a solemn pledge
 Therefore, couples should strive to uphold their commitment to each other by communicating openly, resolving conflicts peacefully, supporting each other in times of need, and constantly working to improve their relationship. By viewing their marriage as a partnership that is guided by Islamic principles, couples can find strength, love, and fulfillment in their relationship.
 
 ## Average Grade
-60.0
+65.0
 
 ## Grades
  * [60.0](./Marriage_and_Bonds_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Marriage_and_Bonds_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [65.0](./Marriage_and_Bonds_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Marriage_and_Bonds_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Marriage_and_Bonds_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

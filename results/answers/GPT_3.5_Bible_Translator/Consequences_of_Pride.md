@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Consequences of Pride](../../questions/Consequences_of_Pride.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Consequences of Pride](../../questions/Consequences_of_Pride.md)
 
 ## Question [Consequences of Pride](../../questions/Consequences_of_Pride.md)
 What does the Bible say about the consequences of pride and the importance of humility?
@@ -23,7 +23,11 @@ Jesus himself emphasized the importance of humility in Matthew 18:4 when he said
 Ultimately, the Bible teaches us that humility is essential for our relationship with God, as well as for our relationships with others. It is through humility that we can truly recognize our need for God's grace and mercy, and it is through humility that we can follow the example of Christ in serving others with love and compassion.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Consequences_of_Pride_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Consequences_of_Pride_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Consequences_of_Pride_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Consequences_of_Pride_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Consequences_of_Pride_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

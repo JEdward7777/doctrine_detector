@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Titles of God](../../questions/Titles_of_God.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Titles of God](../../questions/Titles_of_God.md)
 
 ## Question [Titles of God](../../questions/Titles_of_God.md)
 What are some of the titles used in the Bible that refer to God as 'Almighty'?

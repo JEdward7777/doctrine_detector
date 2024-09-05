@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Repentance and Judgment](../../questions/Repentance_and_Judgment.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Repentance and Judgment](../../questions/Repentance_and_Judgment.md)
 
 ## Question [Repentance and Judgment](../../questions/Repentance_and_Judgment.md)
 What does the Bible say about the relationship between repentance and the wrath of God?
@@ -19,7 +19,11 @@ Similarly, in the New Testament, we see teachings from Jesus and the apostles em
 Overall, the Bible presents repentance as a crucial component in avoiding the wrath of God, with the idea being that turning away from sin and seeking forgiveness can lead to reconciliation with God and the avoidance of divine judgment.
 
 ## Average Grade
-90.0
+92.0
 
 ## Grades
  * [90.0](./Repentance_and_Judgment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Repentance_and_Judgment_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Repentance_and_Judgment_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Repentance_and_Judgment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Repentance_and_Judgment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Sabbath Observance 2](../../questions/Sabbath_Observance_2.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Sabbath Observance 2](../../questions/Sabbath_Observance_2.md)
 
 ## Question [Sabbath Observance 2](../../questions/Sabbath_Observance_2.md)
 How did God instruct the Israelites to gather manna in relation to the Sabbath?
@@ -21,7 +21,11 @@ In Exodus 16:22-30, it is stated that on the sixth day, the people gathered twic
 This practice highlights the importance of both God's provision and the observance of the Sabbath as a day of rest and worship.
 
 ## Average Grade
-95.0
+87.0
 
 ## Grades
  * [95.0](./Sabbath_Observance_2_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Sabbath_Observance_2_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Sabbath_Observance_2_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Sabbath_Observance_2_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Sabbath_Observance_2_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

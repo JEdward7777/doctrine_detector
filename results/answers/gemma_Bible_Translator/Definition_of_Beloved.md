@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Definition of Beloved](../../questions/Definition_of_Beloved.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Definition of Beloved](../../questions/Definition_of_Beloved.md)
 
 ## Question [Definition of Beloved](../../questions/Definition_of_Beloved.md)
 What does the term 'beloved' signify in a biblical context?

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) answer to [Translation of Begotten](../../questions/Translation_of_Begotten.md)
+# Generated Answer from [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) for [Translation of Begotten](../../questions/Translation_of_Begotten.md)
 
 ## Question [Translation of Begotten](../../questions/Translation_of_Begotten.md)
 How can the term 'begotten' be understood in relation to spiritual rebirth?
@@ -21,7 +21,11 @@ When a person accepts Christ, they undergo a spiritual rebirth—often understoo
 Therefore, while "begotten" in relation to Jesus points to His divine sonship, in the context of spiritual rebirth, it reflects the believer's new identity and relationship with God, founded on grace through faith in Jesus Christ. The term captures both the uniqueness of Christ and the transformative experience of those who come to faith in Him.
 
 ## Average Grade
-92.0
+91.4
 
 ## Grades
  * [92.0](./Translation_of_Begotten_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Translation_of_Begotten_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Translation_of_Begotten_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Translation_of_Begotten_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Translation_of_Begotten_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

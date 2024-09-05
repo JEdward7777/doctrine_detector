@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Fulfillment of Prophecy](../../questions/Fulfillment_of_Prophecy.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Fulfillment of Prophecy](../../questions/Fulfillment_of_Prophecy.md)
 
 ## Question [Fulfillment of Prophecy](../../questions/Fulfillment_of_Prophecy.md)
 What significance do fulfilled prophecies hold in the Christian faith?
@@ -31,7 +31,11 @@ However, it's essential to approach these claims with a critical eye, acknowledg
 Ultimately, while fulfilled prophecies are an important aspect of Christian faith, they should not be taken as the sole basis for believing or justifying one's beliefs. A comprehensive and nuanced approach, incorporating multiple lines of evidence and argumentation, is necessary to provide a robust defense of Christian claims.
 
 ## Average Grade
-90.0
+86.0
 
 ## Grades
  * [90.0](./Fulfillment_of_Prophecy_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Fulfillment_of_Prophecy_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Fulfillment_of_Prophecy_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Fulfillment_of_Prophecy_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Fulfillment_of_Prophecy_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

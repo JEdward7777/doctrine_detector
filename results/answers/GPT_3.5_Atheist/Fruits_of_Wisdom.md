@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Fruits of Wisdom](../../questions/Fruits_of_Wisdom.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Fruits of Wisdom](../../questions/Fruits_of_Wisdom.md)
 
 ## Question [Fruits of Wisdom](../../questions/Fruits_of_Wisdom.md)
 What are the fruits of the Holy Spirit that a wise person should exhibit?
@@ -19,7 +19,11 @@ A wise person, regardless of their religious beliefs or lack thereof, should exh
 In a culturally retributed context, embodying these virtues can not only benefit individuals on a personal level but also contribute to the well-being of society as a whole by fostering compassion, cooperation, and social cohesion. Ultimately, practicing these traits can lead to a more fulfilling and meaningful existence, irrespective of any specific religious beliefs.
 
 ## Average Grade
-40.0
+47.0
 
 ## Grades
  * [40.0](./Fruits_of_Wisdom_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [40.0](./Fruits_of_Wisdom_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [55.0](./Fruits_of_Wisdom_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Fruits_of_Wisdom_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [40.0](./Fruits_of_Wisdom_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

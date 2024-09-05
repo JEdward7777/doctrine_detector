@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) answer to [Looking Forward to Adoption](../../questions/Looking_Forward_to_Adoption.md)
+# Generated Answer from [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) for [Looking Forward to Adoption](../../questions/Looking_Forward_to_Adoption.md)
 
 ## Question [Looking Forward to Adoption](../../questions/Looking_Forward_to_Adoption.md)
 What does Romans 8:23 imply about waiting for the adoption of sons and what this means for believers?
@@ -25,7 +25,11 @@ Romans 8:23 states: "And not only the creation, but we ourselves, who have the f
 In summary, Romans 8:23 encapsulates a foundational aspect of the Christian experience: while believers live in a world marked by struggles, they also possess the Holy Spirit as a guarantee of their future inheritance. The promise of adoption and redemption fuels their hope, encouraging them to endure and live in light of the coming fulfillment of God's promises. This passage serves as a powerful reminder that Christians belong to a story much larger than themselves, one that ultimately leads to restoration and glory in Christ.
 
 ## Average Grade
-90.0
+92.0
 
 ## Grades
  * [90.0](./Looking_Forward_to_Adoption_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Looking_Forward_to_Adoption_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Looking_Forward_to_Adoption_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Looking_Forward_to_Adoption_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Looking_Forward_to_Adoption_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

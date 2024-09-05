@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Faithfulness in Marriage](../../questions/Faithfulness_in_Marriage.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Faithfulness in Marriage](../../questions/Faithfulness_in_Marriage.md)
 
 ## Question [Faithfulness in Marriage](../../questions/Faithfulness_in_Marriage.md)
 What does the Bible teach about faithfulness in marriage regarding adultery?
@@ -27,7 +27,11 @@ In the context of the Bible, faithfulness in marriage is a significant theme, an
 As a Muslim Imam, I would draw parallels with the teachings in Islam regarding marriage and fidelity. Both religious traditions emphasize the sanctity of marriage and the serious nature of infidelity, while also providing paths for repentance and forgiveness. If you have further questions or need more detailed information, feel free to ask.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Faithfulness_in_Marriage_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Faithfulness_in_Marriage_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Faithfulness_in_Marriage_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Faithfulness_in_Marriage_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Faithfulness_in_Marriage_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

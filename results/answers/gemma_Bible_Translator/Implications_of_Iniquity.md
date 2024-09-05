@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Implications of Iniquity](../../questions/Implications_of_Iniquity.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Implications of Iniquity](../../questions/Implications_of_Iniquity.md)
 
 ## Question [Implications of Iniquity](../../questions/Implications_of_Iniquity.md)
 How does the understanding of iniquity as 'harmful acts' influence a Christian's behavior toward others?

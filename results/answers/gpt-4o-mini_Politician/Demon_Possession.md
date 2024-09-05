@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) answer to [Demon Possession](../../questions/Demon_Possession.md)
+# Generated Answer from [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) for [Demon Possession](../../questions/Demon_Possession.md)
 
 ## Question [Demon Possession](../../questions/Demon_Possession.md)
 What is the Biblical understanding of a person being demon-possessed?
@@ -25,7 +25,11 @@ Moreover, discussions around this topic are sensitive, as they intersect with co
 Overall, the Biblical understanding of demon possession encourages us to approach the subject with care, recognizing its historical context and being mindful of the diverse beliefs within the faith community.
 
 ## Average Grade
-90.0
+83.0
 
 ## Grades
  * [90.0](./Demon_Possession_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Demon_Possession_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Demon_Possession_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Demon_Possession_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Demon_Possession_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

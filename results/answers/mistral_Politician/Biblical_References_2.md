@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Politician](../../answering_models/mistral_Politician.md) answer to [Biblical References 2](../../questions/Biblical_References_2.md)
+# Generated Answer from [mistral Politician](../../answering_models/mistral_Politician.md) for [Biblical References 2](../../questions/Biblical_References_2.md)
 
 ## Question [Biblical References 2](../../questions/Biblical_References_2.md)
 Which Bible verses illustrate the concept of God's majesty?
@@ -23,7 +23,11 @@ Connecting scripture with the understanding of God's majestic nature.
 By referencing these verses, one can demonstrate an appreciation for God's majesty while being mindful of not offending others by emphasizing specific attributes or actions that may be controversial or divisive in today's society.
 
 ## Average Grade
-85.0
+78.0
 
 ## Grades
  * [85.0](./Biblical_References_2_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Biblical_References_2_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Biblical_References_2_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Biblical_References_2_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [40.0](./Biblical_References_2_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

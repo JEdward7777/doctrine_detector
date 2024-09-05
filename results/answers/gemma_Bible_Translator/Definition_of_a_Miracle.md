@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Definition of a Miracle](../../questions/Definition_of_a_Miracle.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Definition of a Miracle](../../questions/Definition_of_a_Miracle.md)
 
 ## Question [Definition of a Miracle](../../questions/Definition_of_a_Miracle.md)
 What is a miracle and how does it relate to God's authority?

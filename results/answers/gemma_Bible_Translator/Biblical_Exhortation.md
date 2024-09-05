@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Biblical Exhortation](../../questions/Biblical_Exhortation.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Biblical Exhortation](../../questions/Biblical_Exhortation.md)
 
 ## Question [Biblical Exhortation](../../questions/Biblical_Exhortation.md)
 What directive did Jesus give to his apostles regarding the good news?

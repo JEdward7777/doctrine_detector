@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Biblical References 7](../../questions/Biblical_References_7.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Biblical References 7](../../questions/Biblical_References_7.md)
 
 ## Question [Biblical References 7](../../questions/Biblical_References_7.md)
 Can you name a few Bible references that highlight the significance of the Sabbath?
@@ -23,7 +23,11 @@ Certainly! In the Christian Bible, there are several references that highlight t
 These verses emphasize the importance of honoring the Sabbath day as a day of rest and reflection, as well as highlighting the freedom found in Jesus regarding observance of the Sabbath.
 
 ## Average Grade
-90.0
+89.0
 
 ## Grades
  * [90.0](./Biblical_References_7_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Biblical_References_7_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Biblical_References_7_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Biblical_References_7_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Biblical_References_7_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

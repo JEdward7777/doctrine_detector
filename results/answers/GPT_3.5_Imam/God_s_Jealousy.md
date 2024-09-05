@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [God's Jealousy](../../questions/God_s_Jealousy.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [God's Jealousy](../../questions/God_s_Jealousy.md)
 
 ## Question [God's Jealousy](../../questions/God_s_Jealousy.md)
 What does it mean when the Bible describes God as 'jealous'?
@@ -21,7 +21,11 @@ In the context of the Bible, when God is described as "jealous," it is important
 As Muslims, while we may not use the term "jealous" to describe Allah, we do acknowledge and emphasize His right to be worshipped alone without partners, as stated in the Quran: "No one is comparable to Him" (Quran 112:4). Allah's Oneness, His sovereignty, and His exclusive right to be obeyed and worshipped are central tenets of Islamic belief.
 
 ## Average Grade
-80.0
+88.0
 
 ## Grades
  * [80.0](./God_s_Jealousy_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./God_s_Jealousy_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./God_s_Jealousy_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./God_s_Jealousy_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./God_s_Jealousy_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

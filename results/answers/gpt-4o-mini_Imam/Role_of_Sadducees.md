@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Role of Sadducees](../../questions/Role_of_Sadducees.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Role of Sadducees](../../questions/Role_of_Sadducees.md)
 
 ## Question [Role of Sadducees](../../questions/Role_of_Sadducees.md)
 What were the main responsibilities of the Sadducees in the Jewish temple system?
@@ -29,7 +29,11 @@ The Sadducees were a significant group in ancient Jewish society, particularly d
 The Sadducees ultimately had a major role in shaping the religious practices of their time, although their influence waned after the destruction of the Temple in 70 CE when the Jewish religious landscape changed significantly.
 
 ## Average Grade
-95.0
+82.0
 
 ## Grades
  * [95.0](./Role_of_Sadducees_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Role_of_Sadducees_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Role_of_Sadducees_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Role_of_Sadducees_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [40.0](./Role_of_Sadducees_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

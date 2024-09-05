@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Innocent Suffering](../../questions/Innocent_Suffering.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Innocent Suffering](../../questions/Innocent_Suffering.md)
 
 ## Question [Innocent Suffering](../../questions/Innocent_Suffering.md)
 How is the concept of 'innocent blood' addressed in the Bible, and what does it imply about the value of life?
@@ -21,7 +21,11 @@ The value of life in the Bible is emphasized by the belief that all human beings
 Therefore, the concept of 'innocent blood' in the Bible highlights the preciousness and sacredness of human life. It underscores the importance of upholding the value of life, showing compassion and justice towards one another, and working to protect and preserve the sanctity of all human beings.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Innocent_Suffering_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Innocent_Suffering_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Innocent_Suffering_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Innocent_Suffering_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Innocent_Suffering_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

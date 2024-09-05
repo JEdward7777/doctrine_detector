@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Scriptural References](../../questions/Scriptural_References.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Scriptural References](../../questions/Scriptural_References.md)
 
 ## Question [Scriptural References](../../questions/Scriptural_References.md)
 Which book of the Bible contains the reference to God as 'Almighty' in relation to Abraham?

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Examples in Scripture](../../questions/Examples_in_Scripture.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Examples in Scripture](../../questions/Examples_in_Scripture.md)
 
 ## Question [Examples in Scripture](../../questions/Examples_in_Scripture.md)
 Can you provide examples from the Bible that illustrate instances of demon possession?

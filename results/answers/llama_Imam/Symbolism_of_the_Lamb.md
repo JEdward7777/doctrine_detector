@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Symbolism of the Lamb](../../questions/Symbolism_of_the_Lamb.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Symbolism of the Lamb](../../questions/Symbolism_of_the_Lamb.md)
 
 ## Question [Symbolism of the Lamb](../../questions/Symbolism_of_the_Lamb.md)
 What is the significance of using a lamb for sacrifices in the Bible, and how does this relate to the concept of atonement?
@@ -29,7 +29,11 @@ In this regard, the concept of atonement is closely tied to the Islamic concept 
 In conclusion, while there are differences between Islam and Christianity regarding animal sacrifices and atonement, both traditions share a common concern with making amends for wrongdoing and seeking forgiveness from Allah. As Muslims, we recognize the importance of moral and spiritual growth, and we believe that our actions and deeds are what ultimately determine our fate in the afterlife.
 
 ## Average Grade
-50.0
+78.0
 
 ## Grades
  * [50.0](./Symbolism_of_the_Lamb_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Symbolism_of_the_Lamb_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Symbolism_of_the_Lamb_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Symbolism_of_the_Lamb_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Symbolism_of_the_Lamb_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

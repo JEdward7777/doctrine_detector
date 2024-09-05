@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Translation Insights](../../questions/Translation_Insights.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Translation Insights](../../questions/Translation_Insights.md)
 
 ## Question [Translation Insights](../../questions/Translation_Insights.md)
 What are some suggested translations for the phrase 'image of God' when applied to humans and Jesus, and why might these translations be significant?
@@ -23,7 +23,11 @@ When translating this concept into an Islamic perspective, one could use terms l
 Overall, it is important to be mindful of the theological differences between Islam and other faith traditions when interpreting concepts like the "image of God" to ensure clarity and accuracy in conveying the teachings of each respective religion.
 
 ## Average Grade
-80.0
+74.0
 
 ## Grades
  * [80.0](./Translation_Insights_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [50.0](./Translation_Insights_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Translation_Insights_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Translation_Insights_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Translation_Insights_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

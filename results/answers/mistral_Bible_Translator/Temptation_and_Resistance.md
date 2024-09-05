@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) answer to [Temptation and Resistance](../../questions/Temptation_and_Resistance.md)
+# Generated Answer from [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) for [Temptation and Resistance](../../questions/Temptation_and_Resistance.md)
 
 ## Question [Temptation and Resistance](../../questions/Temptation_and_Resistance.md)
 How did Jesus respond to the temptations presented by Satan?
@@ -23,7 +23,11 @@ Understanding Jesus' resistance to temptation provides a model for Christians to
 In each instance, instead of succumbing to temptation or using his divine power for personal gain, Jesus demonstrated His submission to God's will by resisting Satan with scripture. This event in the life of Jesus shows His obedience to God and sets an example for all believers in their struggle against sin and temptation.
 
 ## Average Grade
-95.0
+94.0
 
 ## Grades
  * [95.0](./Temptation_and_Resistance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Temptation_and_Resistance_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Temptation_and_Resistance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Temptation_and_Resistance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Temptation_and_Resistance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

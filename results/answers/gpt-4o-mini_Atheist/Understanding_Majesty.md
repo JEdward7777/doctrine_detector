@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [Understanding Majesty](../../questions/Understanding_Majesty.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [Understanding Majesty](../../questions/Understanding_Majesty.md)
 
 ## Question [Understanding Majesty](../../questions/Understanding_Majesty.md)
 What does the term 'majesty' signify in relation to God's character?
@@ -19,7 +19,11 @@ From a cultural perspective, references to God's majesty can also reflect societ
 Overall, majesty serves as a means to encapsulate the complexities of divine nature while inviting individuals and communities to reflect on their place within a broader existential framework.
 
 ## Average Grade
-85.0
+83.0
 
 ## Grades
  * [85.0](./Understanding_Majesty_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Understanding_Majesty_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Understanding_Majesty_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Understanding_Majesty_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [75.0](./Understanding_Majesty_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Biblical References 4](../../questions/Biblical_References_4.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Biblical References 4](../../questions/Biblical_References_4.md)
 
 ## Question [Biblical References 4](../../questions/Biblical_References_4.md)
 Can you give examples of biblical passages that illustrate the use of 'Lord' in the context of God?
@@ -21,7 +21,11 @@ Another example can be seen in the New Testament, in the Gospel of Luke 1:46-47,
 These examples illustrate how the term "Lord" is commonly used in the Bible to acknowledge God's authority, sovereignty, and divine nature.
 
 ## Average Grade
-85.0
+86.0
 
 ## Grades
  * [85.0](./Biblical_References_4_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Biblical_References_4_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Biblical_References_4_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Biblical_References_4_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Biblical_References_4_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

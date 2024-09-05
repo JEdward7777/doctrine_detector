@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Sign of the Messiah](../../questions/Sign_of_the_Messiah.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Sign of the Messiah](../../questions/Sign_of_the_Messiah.md)
 
 ## Question [Sign of the Messiah](../../questions/Sign_of_the_Messiah.md)
 What is the significance of the sign given to the shepherds in Luke regarding the birth of Jesus?
@@ -24,7 +24,11 @@ The sign given to the shepherds in Luke 2:8-12 is significant for several reason
 In summary, the sign given to the shepherds in Luke 2:8-12 serves as a powerful authentication of Jesus' birth, emphasizing God's attention to the marginalized, the glory of God, and the call to worship and obedience. It also foreshadows the apostolic witness and highlights the connection between heaven and earth in the person of Jesus Christ.
 
 ## Average Grade
-95.0
+94.0
 
 ## Grades
  * [95.0](./Sign_of_the_Messiah_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Sign_of_the_Messiah_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Sign_of_the_Messiah_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Sign_of_the_Messiah_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Sign_of_the_Messiah_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Rebuilding the Temple](../../questions/Rebuilding_the_Temple.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Rebuilding the Temple](../../questions/Rebuilding_the_Temple.md)
 
 ## Question [Rebuilding the Temple](../../questions/Rebuilding_the_Temple.md)
 What events led to the destruction and subsequent rebuilding of the temple in Jerusalem?

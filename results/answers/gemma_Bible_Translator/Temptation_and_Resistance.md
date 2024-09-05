@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Temptation and Resistance](../../questions/Temptation_and_Resistance.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Temptation and Resistance](../../questions/Temptation_and_Resistance.md)
 
 ## Question [Temptation and Resistance](../../questions/Temptation_and_Resistance.md)
 How did Jesus respond to the temptations presented by Satan?

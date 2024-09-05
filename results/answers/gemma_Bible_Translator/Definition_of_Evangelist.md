@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Definition of Evangelist](../../questions/Definition_of_Evangelist.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Definition of Evangelist](../../questions/Definition_of_Evangelist.md)
 
 ## Question [Definition of Evangelist](../../questions/Definition_of_Evangelist.md)
 What is the literal meaning of the term 'evangelist'?

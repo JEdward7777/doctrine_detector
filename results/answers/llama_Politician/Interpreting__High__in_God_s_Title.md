@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Interpreting 'High' in God's Title](../../questions/Interpreting__High__in_God_s_Title.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Interpreting 'High' in God's Title](../../questions/Interpreting__High__in_God_s_Title.md)
 
 ## Question [Interpreting 'High' in God's Title](../../questions/Interpreting__High__in_God_s_Title.md)
 How should we interpret the term 'high' in the title 'Most High' when considering God's nature?
@@ -27,7 +27,11 @@ In this spirit, I suggest we explore the many dimensions of God's nature through
 Thank you for asking such an insightful question!
 
 ## Average Grade
-60.0
+75.0
 
 ## Grades
  * [60.0](./Interpreting__High__in_God_s_Title_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Interpreting__High__in_God_s_Title_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Interpreting__High__in_God_s_Title_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Interpreting__High__in_God_s_Title_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Interpreting__High__in_God_s_Title_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

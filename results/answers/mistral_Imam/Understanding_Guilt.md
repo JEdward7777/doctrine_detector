@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Understanding Guilt](../../questions/Understanding_Guilt.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Understanding Guilt](../../questions/Understanding_Guilt.md)
 
 ## Question [Understanding Guilt](../../questions/Understanding_Guilt.md)
 What does it mean to be guilty according to the Bible?
@@ -21,7 +21,11 @@ In Islam, the concept of sin and guilt is similar but with some differences. Mus
 To clarify any confusion: While both religions acknowledge the existence of guilt, they have different understandings about the source of sin, the means of salvation or redemption, and how individuals can seek forgiveness. It is essential to study each religion thoroughly to gain a comprehensive understanding of their teachings and practices.
 
 ## Average Grade
-90.0
+86.0
 
 ## Grades
  * [90.0](./Understanding_Guilt_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Understanding_Guilt_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Understanding_Guilt_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Understanding_Guilt_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_Guilt_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

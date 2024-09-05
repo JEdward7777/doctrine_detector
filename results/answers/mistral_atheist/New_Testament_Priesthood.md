@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral atheist](../../answering_models/mistral_atheist.md) answer to [New Testament Priesthood](../../questions/New_Testament_Priesthood.md)
+# Generated Answer from [mistral atheist](../../answering_models/mistral_atheist.md) for [New Testament Priesthood](../../questions/New_Testament_Priesthood.md)
 
 ## Question [New Testament Priesthood](../../questions/New_Testament_Priesthood.md)
 What does it mean for every believer in Jesus to be considered a priest in the New Testament?
@@ -19,7 +19,11 @@ Now, every believer has direct access to God through faith in Jesus and can offe
 It's essential to note that this doesn't mean every Christian has the same role or responsibility within the church community. The New Testament also outlines specific roles for leaders and ministers within the body of believers (e.g., Ephesians 4:11-12). Nevertheless, all believers are priests in the sense that they have access to God through Christ and are called to serve Him and others.
 
 ## Average Grade
-95.0
+94.4
 
 ## Grades
  * [95.0](./New_Testament_Priesthood_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./New_Testament_Priesthood_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./New_Testament_Priesthood_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./New_Testament_Priesthood_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [92.0](./New_Testament_Priesthood_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

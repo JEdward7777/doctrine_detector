@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) answer to [Nature of Temptation](../../questions/Nature_of_Temptation.md)
+# Generated Answer from [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) for [Nature of Temptation](../../questions/Nature_of_Temptation.md)
 
 ## Question [Nature of Temptation](../../questions/Nature_of_Temptation.md)
 According to the content, what roles do our sinful nature and external influences play in temptation?
@@ -15,7 +15,11 @@ This question reflects on the understanding of the sources and reasons for tempt
 In discussing temptation, it is important to acknowledge the complexity of human nature and the various factors that can contribute to it. Our sinful nature, which can manifest in different ways for each individual, can play a role in leading us towards temptation. Additionally, external influences such as societal pressures, cultural norms, and personal relationships can also have an impact on the choices we make. It is important to approach discussions on temptation with empathy and understanding, recognizing that each person's experiences and struggles are unique.
 
 ## Average Grade
-75.0
+78.0
 
 ## Grades
  * [75.0](./Nature_of_Temptation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Nature_of_Temptation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Nature_of_Temptation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Nature_of_Temptation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Nature_of_Temptation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

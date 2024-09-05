@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Role of Prophets](../../questions/Role_of_Prophets.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Role of Prophets](../../questions/Role_of_Prophets.md)
 
 ## Question [Role of Prophets](../../questions/Role_of_Prophets.md)
 What is the primary role of a prophet according to the Bible?
@@ -29,7 +29,11 @@ In Islamic thought, prophets are also considered to be "blessed" individuals who
 While there may be some differences in understanding the role of prophets between Islamic and Christian contexts, both traditions agree that prophets play a vital role in guiding humanity towards spiritual growth, moral development, and ultimately, the worship of the One True God.
 
 ## Average Grade
-75.0
+70.0
 
 ## Grades
  * [75.0](./Role_of_Prophets_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Role_of_Prophets_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Role_of_Prophets_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Role_of_Prophets_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [65.0](./Role_of_Prophets_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Politician](../../answering_models/mistral_Politician.md) answer to [Characteristics of the Upright](../../questions/Characteristics_of_the_Upright.md)
+# Generated Answer from [mistral Politician](../../answering_models/mistral_Politician.md) for [Characteristics of the Upright](../../questions/Characteristics_of_the_Upright.md)
 
 ## Question [Characteristics of the Upright](../../questions/Characteristics_of_the_Upright.md)
 What qualities define an 'upright' person in the biblical context?
@@ -37,7 +37,11 @@ Knowing the traits of upright individuals can guide Christians in their behavior
 These qualities help create a life that is pleasing to God and reflect His character in our daily lives.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Characteristics_of_the_Upright_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Characteristics_of_the_Upright_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Characteristics_of_the_Upright_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Characteristics_of_the_Upright_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Characteristics_of_the_Upright_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

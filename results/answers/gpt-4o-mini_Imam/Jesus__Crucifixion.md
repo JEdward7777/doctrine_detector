@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Jesus’ Crucifixion](../../questions/Jesus__Crucifixion.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Jesus’ Crucifixion](../../questions/Jesus__Crucifixion.md)
 
 ## Question [Jesus’ Crucifixion](../../questions/Jesus__Crucifixion.md)
 What does the offer of wine mixed with myrrh indicate about Jesus' experience on the cross?
@@ -21,7 +21,11 @@ In Islamic theology, while Jesus (known as Isa) is highly respected as a prophet
 That said, the consideration of Jesus’ experience can serve as a reminder for Muslims of the deep compassion, mercy, and sacrifice that prophets embody, which can inspire believers to bear their own struggles with patience and faith. In Islam, the emphasis is on the unity and finality of God's message as brought through the Prophet Muhammad, and the significance of Jesus is considered within that broader context.
 
 ## Average Grade
-90.0
+88.0
 
 ## Grades
  * [90.0](./Jesus__Crucifixion_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Jesus__Crucifixion_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Jesus__Crucifixion_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Jesus__Crucifixion_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Jesus__Crucifixion_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

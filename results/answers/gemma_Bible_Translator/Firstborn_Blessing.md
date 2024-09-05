@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Firstborn Blessing](../../questions/Firstborn_Blessing.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Firstborn Blessing](../../questions/Firstborn_Blessing.md)
 
 ## Question [Firstborn Blessing](../../questions/Firstborn_Blessing.md)
 In what ways can the concept of birthright as described in the Bible be applied to understanding one's role or status within a Christian family?

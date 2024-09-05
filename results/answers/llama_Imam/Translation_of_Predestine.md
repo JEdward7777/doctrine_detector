@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Translation of Predestine](../../questions/Translation_of_Predestine.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Translation of Predestine](../../questions/Translation_of_Predestine.md)
 
 ## Question [Translation of Predestine](../../questions/Translation_of_Predestine.md)
 What are some suggested translations for the term 'predestined'?
@@ -28,7 +28,11 @@ In Islamic theology, predestination refers to the idea that Allah knows all that
 May Allah guide us in our understanding of this complex topic, and may we strive to align ourselves with His plan and will. Amin.
 
 ## Average Grade
-80.0
+79.0
 
 ## Grades
  * [80.0](./Translation_of_Predestine_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Translation_of_Predestine_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Translation_of_Predestine_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Translation_of_Predestine_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Translation_of_Predestine_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

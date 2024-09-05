@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [God's Chosen People](../../questions/God_s_Chosen_People.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [God's Chosen People](../../questions/God_s_Chosen_People.md)
 
 ## Question [God's Chosen People](../../questions/God_s_Chosen_People.md)
 How does the idea of a 'remnant' indicate God's selective grace towards His people?
@@ -19,7 +19,11 @@ The notion of a 'remnant' can also be interpreted as a form of divine justice, w
 Overall, the concept of a 'remnant' underscores the idea of God's selective grace towards His people, highlighting the importance of faithfulness and obedience in receiving divine favor. It serves as a reminder that God's blessings are not indiscriminately bestowed, but are reserved for those who demonstrate their loyalty and devotion.
 
 ## Average Grade
-85.0
+87.0
 
 ## Grades
  * [85.0](./God_s_Chosen_People_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./God_s_Chosen_People_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./God_s_Chosen_People_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./God_s_Chosen_People_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./God_s_Chosen_People_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

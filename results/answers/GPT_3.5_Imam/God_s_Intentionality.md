@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [God's Intentionality](../../questions/God_s_Intentionality.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [God's Intentionality](../../questions/God_s_Intentionality.md)
 
 ## Question [God's Intentionality](../../questions/God_s_Intentionality.md)
 Why is it significant that the term 'call' implies intentionality or purpose when referring to God's calling?
@@ -19,7 +19,11 @@ The idea of God's calling being intentional and purposeful highlights the notion
 Furthermore, recognizing the intentional and purposeful nature of God's call emphasizes the importance of obedience, surrender, and submission to His will. It reminds believers that they are accountable for their actions and choices, and that responding to God's call with faith and obedience leads to spiritual enlightenment, fulfillment, and ultimately, success in this world and the Hereafter.
 
 ## Average Grade
-90.0
+92.0
 
 ## Grades
  * [90.0](./God_s_Intentionality_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./God_s_Intentionality_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./God_s_Intentionality_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./God_s_Intentionality_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./God_s_Intentionality_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

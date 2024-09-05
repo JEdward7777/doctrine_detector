@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Authority in Governance](../../questions/Authority_in_Governance.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Authority in Governance](../../questions/Authority_in_Governance.md)
 
 ## Question [Authority in Governance](../../questions/Authority_in_Governance.md)
 What does the Bible say about the authority of governing rulers over their citizens?

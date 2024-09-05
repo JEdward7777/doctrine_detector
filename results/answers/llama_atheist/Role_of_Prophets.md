@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Role of Prophets](../../questions/Role_of_Prophets.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Role of Prophets](../../questions/Role_of_Prophets.md)
 
 ## Question [Role of Prophets](../../questions/Role_of_Prophets.md)
 What is the primary role of a prophet according to the Bible?
@@ -37,7 +37,11 @@ As a secular scholar, I'd argue that the prophetic role can be understood as a c
 How do you see the prophetic role influencing our modern world?
 
 ## Average Grade
-60.0
+56.0
 
 ## Grades
  * [60.0](./Role_of_Prophets_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [60.0](./Role_of_Prophets_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Role_of_Prophets_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [40.0](./Role_of_Prophets_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Role_of_Prophets_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

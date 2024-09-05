@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Terminology in the Bible](../../questions/Terminology_in_the_Bible.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Terminology in the Bible](../../questions/Terminology_in_the_Bible.md)
 
 ## Question [Terminology in the Bible](../../questions/Terminology_in_the_Bible.md)
 What three terms are often used interchangeably to refer to God's chosen people in the Bible?

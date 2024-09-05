@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) answer to [Authority in Governance](../../questions/Authority_in_Governance.md)
+# Generated Answer from [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) for [Authority in Governance](../../questions/Authority_in_Governance.md)
 
 ## Question [Authority in Governance](../../questions/Authority_in_Governance.md)
 What does the Bible say about the authority of governing rulers over their citizens?
@@ -19,7 +19,11 @@ Additionally, 1 Peter 2:13-17 encourages believers to submit to human authoritie
 While these scriptures advocate for respect and obedience to authority, they also underscore the accountability of rulers to uphold justice and righteousness. It's essential to approach this topic with sensitivity, recognizing the diverse perspectives within religious and secular frameworks regarding authority and governance.
 
 ## Average Grade
-85.0
+86.0
 
 ## Grades
  * [85.0](./Authority_in_Governance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Authority_in_Governance_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Authority_in_Governance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Authority_in_Governance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Authority_in_Governance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

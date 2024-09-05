@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [Nature of Judgment Day](../../questions/Nature_of_Judgment_Day.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [Nature of Judgment Day](../../questions/Nature_of_Judgment_Day.md)
 
 ## Question [Nature of Judgment Day](../../questions/Nature_of_Judgment_Day.md)
 What does 'judgment day' mean in a Christian context according to the Bible?
@@ -27,7 +27,11 @@ This concept includes several key elements:
 While interpretations of these events can vary widely among different Christian denominations, the core idea of a final reckoning remains central to many theological perspectives within Christianity.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Nature_of_Judgment_Day_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Nature_of_Judgment_Day_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Nature_of_Judgment_Day_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Nature_of_Judgment_Day_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Nature_of_Judgment_Day_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

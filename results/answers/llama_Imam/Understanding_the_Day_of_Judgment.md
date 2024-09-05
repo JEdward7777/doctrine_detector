@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Understanding the Day of Judgment](../../questions/Understanding_the_Day_of_Judgment.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Understanding the Day of Judgment](../../questions/Understanding_the_Day_of_Judgment.md)
 
 ## Question [Understanding the Day of Judgment](../../questions/Understanding_the_Day_of_Judgment.md)
 What is the significance of Jesus Christ being appointed as the judge on the day of judgment?
@@ -29,7 +29,11 @@ It's important to note that Islam rejects the Christian concept of the Trinity a
 I hope this clears up any misunderstandings about the significance of Jesus Christ in Islamic theology and the nature of the Day of Judgment.
 
 ## Average Grade
-50.0
+36.0
 
 ## Grades
  * [50.0](./Understanding_the_Day_of_Judgment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [20.0](./Understanding_the_Day_of_Judgment_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [20.0](./Understanding_the_Day_of_Judgment_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [20.0](./Understanding_the_Day_of_Judgment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [70.0](./Understanding_the_Day_of_Judgment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

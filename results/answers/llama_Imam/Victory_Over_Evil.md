@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Victory Over Evil](../../questions/Victory_Over_Evil.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Victory Over Evil](../../questions/Victory_Over_Evil.md)
 
 ## Question [Victory Over Evil](../../questions/Victory_Over_Evil.md)
 What promise does God give regarding the ultimate defeat of Satan?
@@ -23,7 +23,11 @@ And further in Surah Al-Furqan, Ayat 55, it is written:
 This promise is a great source of comfort for us Muslims, knowing that ultimately, Satan's schemes and plans will be foiled by Allah (SWT).
 
 ## Average Grade
-60.0
+40.0
 
 ## Grades
  * [60.0](./Victory_Over_Evil_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [10.0](./Victory_Over_Evil_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Victory_Over_Evil_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [50.0](./Victory_Over_Evil_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [20.0](./Victory_Over_Evil_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

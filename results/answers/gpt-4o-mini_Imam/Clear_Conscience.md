@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Clear Conscience](../../questions/Clear_Conscience.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Clear Conscience](../../questions/Clear_Conscience.md)
 
 ## Question [Clear Conscience](../../questions/Clear_Conscience.md)
 What does it mean to have a 'clear conscience' in the context of Christian teachings?
@@ -21,7 +21,11 @@ In essence, a clear conscience in Christian teachings often points to the import
 While I am responding from a Muslim perspective, it is interesting to note that similar concepts exist within Islam regarding accountability, sincerity, and the importance of aligning one's actions with moral and ethical teachings. In Islam, having a pure heart and being mindful (taqwa) of one’s actions plays a significant role in achieving a clear conscience and standing before Allah.
 
 ## Average Grade
-90.0
+88.0
 
 ## Grades
  * [90.0](./Clear_Conscience_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Clear_Conscience_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Clear_Conscience_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Clear_Conscience_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Clear_Conscience_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

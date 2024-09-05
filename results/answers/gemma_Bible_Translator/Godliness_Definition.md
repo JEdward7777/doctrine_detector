@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Godliness Definition](../../questions/Godliness_Definition.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Godliness Definition](../../questions/Godliness_Definition.md)
 
 ## Question [Godliness Definition](../../questions/Godliness_Definition.md)
 How does the Bible define 'godliness' in the context of living one's life?

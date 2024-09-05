@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) answer to [Translation of Saints](../../questions/Translation_of_Saints.md)
+# Generated Answer from [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) for [Translation of Saints](../../questions/Translation_of_Saints.md)
 
 ## Question [Translation of Saints](../../questions/Translation_of_Saints.md)
 What is a recommended way to translate the term 'saints'?
@@ -15,7 +15,11 @@ It's important to use inclusive language that accurately represents all believer
 A recommended way to translate the term 'saints' may be to refer to them as "holy individuals" or "sacred figures." This terminology is more inclusive and respectful towards people of diverse religious backgrounds who may not use the term 'saints' within their faith tradition.
 
 ## Average Grade
-70.0
+81.0
 
 ## Grades
  * [70.0](./Translation_of_Saints_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Translation_of_Saints_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Translation_of_Saints_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Translation_of_Saints_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Translation_of_Saints_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

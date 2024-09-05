@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Fruits of Wisdom](../../questions/Fruits_of_Wisdom.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Fruits of Wisdom](../../questions/Fruits_of_Wisdom.md)
 
 ## Question [Fruits of Wisdom](../../questions/Fruits_of_Wisdom.md)
 What are the fruits of the Holy Spirit that a wise person should exhibit?
@@ -30,7 +30,11 @@ Muslims believe in the importance of embodying characteristics that reflect one'
 These qualities are aligned with the teachings of Islam, as they encourage believers to develop strong moral character and contribute positively to their communities. The Prophet Muhammad (peace be upon him) is often cited as the best example of these traits, and Muslims strive to follow his example in their daily lives.
 
 ## Average Grade
-80.0
+77.0
 
 ## Grades
  * [80.0](./Fruits_of_Wisdom_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Fruits_of_Wisdom_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Fruits_of_Wisdom_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Fruits_of_Wisdom_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Fruits_of_Wisdom_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

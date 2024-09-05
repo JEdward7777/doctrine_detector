@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Ministry Fulfillment](../../questions/Ministry_Fulfillment.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Ministry Fulfillment](../../questions/Ministry_Fulfillment.md)
 
 ## Question [Ministry Fulfillment](../../questions/Ministry_Fulfillment.md)
 What does it mean to fulfill your ministry as a Christian?
@@ -21,7 +21,11 @@ Fulfilling one's ministry can encompass a variety of activities such as preachin
 If you have further questions about Christian beliefs and practices, I recommend speaking with a Christian religious leader or scholar for a more in-depth understanding.
 
 ## Average Grade
-70.0
+69.0
 
 ## Grades
  * [70.0](./Ministry_Fulfillment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Ministry_Fulfillment_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Ministry_Fulfillment_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [75.0](./Ministry_Fulfillment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Ministry_Fulfillment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

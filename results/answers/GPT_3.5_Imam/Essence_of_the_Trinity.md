@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Essence of the Trinity](../../questions/Essence_of_the_Trinity.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Essence of the Trinity](../../questions/Essence_of_the_Trinity.md)
 
 ## Question [Essence of the Trinity](../../questions/Essence_of_the_Trinity.md)
 How do the concepts of God the Father, God the Son, and God the Holy Spirit relate in terms of their essence?
@@ -19,7 +19,11 @@ From an Islamic perspective, we do not believe in the Trinity, as it contradicts
 Therefore, for Muslims, God is not divided into different persons or entities with distinct essences. Allah is uniquely and singularly God, with no partners, sons, or associates.
 
 ## Average Grade
-50.0
+59.0
 
 ## Grades
  * [50.0](./Essence_of_the_Trinity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Essence_of_the_Trinity_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [65.0](./Essence_of_the_Trinity_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [10.0](./Essence_of_the_Trinity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Essence_of_the_Trinity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

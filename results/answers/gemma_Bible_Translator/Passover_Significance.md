@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Passover Significance](../../questions/Passover_Significance.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Passover Significance](../../questions/Passover_Significance.md)
 
 ## Question [Passover Significance](../../questions/Passover_Significance.md)
 What does the celebration of Passover signify for Christians in relation to Jesus?

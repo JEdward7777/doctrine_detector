@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) answer to [Contents Of Ark](../../questions/Contents_Of_Ark.md)
+# Generated Answer from [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) for [Contents Of Ark](../../questions/Contents_Of_Ark.md)
 
 ## Question [Contents Of Ark](../../questions/Contents_Of_Ark.md)
 What items were contained within the ark of the covenant?
@@ -23,7 +23,11 @@ The Ark of the Covenant, a significant and sacred artifact described in the Hebr
 These items highlight the Ark's role as a symbol of God's presence and the covenantal relationship between God and the people of Israel. It is important to approach this topic with sensitivity, recognizing the deep spiritual and historical significance that these items hold for many individuals and communities.
 
 ## Average Grade
-95.0
+92.4
 
 ## Grades
  * [95.0](./Contents_Of_Ark_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Contents_Of_Ark_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Contents_Of_Ark_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [92.0](./Contents_Of_Ark_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Contents_Of_Ark_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

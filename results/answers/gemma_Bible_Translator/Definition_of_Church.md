@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Definition of Church](../../questions/Definition_of_Church.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Definition of Church](../../questions/Definition_of_Church.md)
 
 ## Question [Definition of Church](../../questions/Definition_of_Church.md)
 What does the term 'church' refer to in the New Testament?

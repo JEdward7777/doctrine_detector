@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Application of Reconciliation](../../questions/Application_of_Reconciliation.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Application of Reconciliation](../../questions/Application_of_Reconciliation.md)
 
 ## Question [Application of Reconciliation](../../questions/Application_of_Reconciliation.md)
 In what ways can Christians apply the principle of reconciliation to their relationships with others?

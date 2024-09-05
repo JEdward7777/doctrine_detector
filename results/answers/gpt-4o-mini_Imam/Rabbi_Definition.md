@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Rabbi Definition](../../questions/Rabbi_Definition.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Rabbi Definition](../../questions/Rabbi_Definition.md)
 
 ## Question [Rabbi Definition](../../questions/Rabbi_Definition.md)
 What does the term 'Rabbi' mean in the context of Christian teaching?
@@ -17,7 +17,11 @@ In the context of Christian teaching, the term 'Rabbi' is derived from the Hebre
 In Christianity, acknowledging Jesus as Rabbi emphasizes His role in guiding His followers in matters of faith and ethics, as well as His teachings regarding the Kingdom of God, morality, and the interpretation of scripture. While the term is deeply rooted in Jewish tradition, it also highlights Jesus’ connection to the Jewish faith and the continuity of spiritual teaching that is significant in both Judaism and Christianity.
 
 ## Average Grade
-90.0
+85.0
 
 ## Grades
  * [90.0](./Rabbi_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Rabbi_Definition_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Rabbi_Definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Rabbi_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Rabbi_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

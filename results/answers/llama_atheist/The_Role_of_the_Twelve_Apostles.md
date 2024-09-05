@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [The Role of the Twelve Apostles](../../questions/The_Role_of_the_Twelve_Apostles.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [The Role of the Twelve Apostles](../../questions/The_Role_of_the_Twelve_Apostles.md)
 
 ## Question [The Role of the Twelve Apostles](../../questions/The_Role_of_the_Twelve_Apostles.md)
 Why were the twelve apostles significant among Jesus' disciples?
@@ -25,7 +25,11 @@ The Twelve Apostles of Jesus Christ are significant due to their crucial role in
 In conclusion, the significance of the Twelve Apostles lies in their roles as witnesses, leaders-in-training, regional representatives, symbolic figures, and historical record-keepers. Their contributions enabled Christianity to spread, adapt, and flourish across cultures and time.
 
 ## Average Grade
-60.0
+69.0
 
 ## Grades
  * [60.0](./The_Role_of_the_Twelve_Apostles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./The_Role_of_the_Twelve_Apostles_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./The_Role_of_the_Twelve_Apostles_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./The_Role_of_the_Twelve_Apostles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./The_Role_of_the_Twelve_Apostles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

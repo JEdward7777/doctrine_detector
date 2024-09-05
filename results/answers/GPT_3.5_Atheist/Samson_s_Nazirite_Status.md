@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Samson's Nazirite Status](../../questions/Samson_s_Nazirite_Status.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Samson's Nazirite Status](../../questions/Samson_s_Nazirite_Status.md)
 
 ## Question [Samson's Nazirite Status](../../questions/Samson_s_Nazirite_Status.md)
 How does Samson's story illustrate the implications of the Nazirite vow as outlined in the Bible?
@@ -21,7 +21,11 @@ These transgressions ultimately led to Samson's downfall. He was captured by his
 In this way, Samson's story serves as a sobering reminder of the importance of obeying God's commandments and the serious consequences that can result from breaking sacred vows, such as the Nazirite vow.
 
 ## Average Grade
-90.0
+89.0
 
 ## Grades
  * [90.0](./Samson_s_Nazirite_Status_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Samson_s_Nazirite_Status_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Samson_s_Nazirite_Status_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Samson_s_Nazirite_Status_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Samson_s_Nazirite_Status_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

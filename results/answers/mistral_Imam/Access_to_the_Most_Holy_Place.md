@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Access to the Most Holy Place](../../questions/Access_to_the_Most_Holy_Place.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Access to the Most Holy Place](../../questions/Access_to_the_Most_Holy_Place.md)
 
 ## Question [Access to the Most Holy Place](../../questions/Access_to_the_Most_Holy_Place.md)
 Who was permitted to enter the 'most holy place' and why was this restriction important?
@@ -25,7 +25,11 @@ In terms of access to the Kaaba, all Muslims are encouraged to visit it at least
 4. Remembrance of the Prophet Ibrahim: The story of Prophet Ibrahim's dedication to Allah and his role in building the Kaaba serves as an example for all Muslims to follow, encouraging devotion, submission, and obedience to Allah.
 
 ## Average Grade
-75.0
+78.0
 
 ## Grades
  * [75.0](./Access_to_the_Most_Holy_Place_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Access_to_the_Most_Holy_Place_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Access_to_the_Most_Holy_Place_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Access_to_the_Most_Holy_Place_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Access_to_the_Most_Holy_Place_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

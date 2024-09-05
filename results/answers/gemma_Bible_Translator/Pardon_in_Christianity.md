@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Pardon in Christianity](../../questions/Pardon_in_Christianity.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Pardon in Christianity](../../questions/Pardon_in_Christianity.md)
 
 ## Question [Pardon in Christianity](../../questions/Pardon_in_Christianity.md)
 How does the concept of pardon relate to God's forgiveness of sin through Jesus Christ?

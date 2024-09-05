@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Ways to Honor God](../../questions/Ways_to_Honor_God.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Ways to Honor God](../../questions/Ways_to_Honor_God.md)
 
 ## Question [Ways to Honor God](../../questions/Ways_to_Honor_God.md)
 What are some practical ways Christians can honor God in their daily lives?
@@ -31,7 +31,11 @@ As a Muslim Imam, I would recommend the following practical ways for Christians 
 Ultimately, honoring God in daily life comes down to living with sincerity, humility, and love for Him and His creation.
 
 ## Average Grade
-80.0
+71.0
 
 ## Grades
  * [80.0](./Ways_to_Honor_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Ways_to_Honor_God_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Ways_to_Honor_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Ways_to_Honor_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Ways_to_Honor_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

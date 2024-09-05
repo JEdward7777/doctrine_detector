@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Biblical References to Heaven](../../questions/Biblical_References_to_Heaven.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Biblical References to Heaven](../../questions/Biblical_References_to_Heaven.md)
 
 ## Question [Biblical References to Heaven](../../questions/Biblical_References_to_Heaven.md)
 Which Bible verses provide insight into the concept of heaven?
@@ -21,7 +21,11 @@ In discussing the concept of heaven, it is important to note that different reli
 It is important to recognize that interpretations of these verses can vary among different Christian denominations and scholars. As an atheistic scholar, one can appreciate the cultural significance and impact of these beliefs on individuals and societies, while also recognizing that different religious traditions hold diverse views on the nature of heaven and the afterlife.
 
 ## Average Grade
-70.0
+82.0
 
 ## Grades
  * [70.0](./Biblical_References_to_Heaven_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Biblical_References_to_Heaven_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Biblical_References_to_Heaven_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Biblical_References_to_Heaven_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Biblical_References_to_Heaven_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

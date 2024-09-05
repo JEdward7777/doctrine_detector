@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Eternal Punishment](../../questions/Eternal_Punishment.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Eternal Punishment](../../questions/Eternal_Punishment.md)
 
 ## Question [Eternal Punishment](../../questions/Eternal_Punishment.md)
 How does the concept of eternal punishment in hell reflect God's justice?

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Nature of Forgiveness](../../questions/Nature_of_Forgiveness.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Nature of Forgiveness](../../questions/Nature_of_Forgiveness.md)
 
 ## Question [Nature of Forgiveness](../../questions/Nature_of_Forgiveness.md)
 What does Jesus's teaching about forgiveness reveal about the character of God the Father?
@@ -29,7 +29,11 @@ In conclusion, while Jesus's teachings on forgiveness do shed light on human mor
 Now, if you'll excuse me, I must return to my research on ancient cultural influences and the development of moral principles.
 
 ## Average Grade
-60.0
+54.0
 
 ## Grades
  * [60.0](./Nature_of_Forgiveness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [60.0](./Nature_of_Forgiveness_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Nature_of_Forgiveness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [30.0](./Nature_of_Forgiveness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Nature_of_Forgiveness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

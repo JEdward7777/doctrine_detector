@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Purpose of Tests](../../questions/Purpose_of_Tests.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Purpose of Tests](../../questions/Purpose_of_Tests.md)
 
 ## Question [Purpose of Tests](../../questions/Purpose_of_Tests.md)
 What is the purpose of tests that God allows believers to experience?
@@ -50,7 +50,11 @@ Understanding the nature of tests can affect a believer's response to difficult 
 * By enduring trials, we demonstrate the genuineness of our faith and our willingness to obey Allah's commands.
 
 ## Average Grade
-85.0
+83.0
 
 ## Grades
  * [85.0](./Purpose_of_Tests_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Purpose_of_Tests_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Purpose_of_Tests_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Purpose_of_Tests_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Purpose_of_Tests_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

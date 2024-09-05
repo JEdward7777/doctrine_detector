@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Zion's Historical Significance](../../questions/Zion_s_Historical_Significance.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Zion's Historical Significance](../../questions/Zion_s_Historical_Significance.md)
 
 ## Question [Zion's Historical Significance](../../questions/Zion_s_Historical_Significance.md)
 What was the historical significance of Mount Zion in relation to King David?
@@ -19,7 +19,11 @@ Additionally, Mount Zion is also believed to be the site where the Ark of the Co
 King David is revered in Islam as a prophet and a righteous ruler, known for his wisdom, justice, and piety. His connection to Mount Zion symbolizes the importance of faith, prayer, and obedience to Allah in establishing and maintaining a just and prosperous society.
 
 ## Average Grade
-75.0
+60.0
 
 ## Grades
  * [75.0](./Zion_s_Historical_Significance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [50.0](./Zion_s_Historical_Significance_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Zion_s_Historical_Significance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [65.0](./Zion_s_Historical_Significance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [40.0](./Zion_s_Historical_Significance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

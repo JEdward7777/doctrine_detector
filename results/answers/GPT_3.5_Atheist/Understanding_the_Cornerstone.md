@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Understanding the Cornerstone](../../questions/Understanding_the_Cornerstone.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Understanding the Cornerstone](../../questions/Understanding_the_Cornerstone.md)
 
 ## Question [Understanding the Cornerstone](../../questions/Understanding_the_Cornerstone.md)
 What role does Jesus Christ play as the 'cornerstone' in the context of the Assembly of believers?
@@ -21,7 +21,11 @@ Additionally, the concept of Jesus as the cornerstone emphasizes his importance 
 Overall, the designation of Jesus as the "cornerstone" underscores his significance in Christian theology and highlights his pivotal role in shaping the beliefs and identity of the Christian community.
 
 ## Average Grade
-70.0
+80.0
 
 ## Grades
  * [70.0](./Understanding_the_Cornerstone_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Understanding_the_Cornerstone_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Understanding_the_Cornerstone_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Understanding_the_Cornerstone_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_the_Cornerstone_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

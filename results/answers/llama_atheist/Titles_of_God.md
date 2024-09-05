@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Titles of God](../../questions/Titles_of_God.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Titles of God](../../questions/Titles_of_God.md)
 
 ## Question [Titles of God](../../questions/Titles_of_God.md)
 What are some of the titles used in the Bible that refer to God as 'Almighty'?
@@ -25,7 +25,11 @@ In the Bible, there are several titles used to refer to God as 'Almighty'. Some 
 These titles highlight God's power, authority, and sovereignty over the universe, emphasizing His ability to do whatever He pleases. While I may not believe in a divine being, I acknowledge the cultural significance and historical context surrounding these titles, which have had a profound impact on Western civilization.
 
 ## Average Grade
-85.0
+83.0
 
 ## Grades
  * [85.0](./Titles_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [75.0](./Titles_of_God_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Titles_of_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Titles_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Titles_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

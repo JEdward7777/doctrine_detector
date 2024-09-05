@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Human Jealousy](../../questions/Human_Jealousy.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Human Jealousy](../../questions/Human_Jealousy.md)
 
 ## Question [Human Jealousy](../../questions/Human_Jealousy.md)
 How should we respond to feelings of jealousy in our relationships?

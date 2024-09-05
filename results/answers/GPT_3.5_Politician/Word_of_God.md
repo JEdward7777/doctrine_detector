@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) answer to [Word of God](../../questions/Word_of_God.md)
+# Generated Answer from [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) for [Word of God](../../questions/Word_of_God.md)
 
 ## Question [Word of God](../../questions/Word_of_God.md)
 What does the term 'word of God' encompass according to the Bible?
@@ -15,7 +15,11 @@ Understanding the scope and significance of God's communication to humanity.
 In the Bible, the term "Word of God" generally refers to the teachings, messages, and commands of God as revealed in scripture. It is believed by many Christians to be divinely inspired and authoritative for faith and practice. The Word of God can also refer to Jesus Christ, who is described as the "Word made flesh" in the Gospel of John. Additionally, some interpret the Word of God to encompass the broader concept of divine wisdom and guidance that can be found in the natural world and in daily life.
 
 ## Average Grade
-90.0
+87.0
 
 ## Grades
  * [90.0](./Word_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Word_of_God_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Word_of_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Word_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Word_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

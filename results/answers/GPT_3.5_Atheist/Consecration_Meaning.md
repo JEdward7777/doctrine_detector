@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Consecration Meaning](../../questions/Consecration_Meaning.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Consecration Meaning](../../questions/Consecration_Meaning.md)
 
 ## Question [Consecration Meaning](../../questions/Consecration_Meaning.md)
 What does it mean to consecrate something or someone in a Christian context?
@@ -15,7 +15,11 @@ Understanding the importance of consecration in serving God.
 In a Christian context, to consecrate something or someone means to set them apart and dedicate them to a sacred purpose or use. It is a ritualistic act that signifies purification and sanctification, often involving prayers, blessings, and anointing with holy oil. The concept of consecration is rooted in the belief that by dedicating something to God, it becomes blessed and carries a special significance in the eyes of believers. This act is believed to bring about spiritual protection and divine favor upon the consecrated object or individual.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Consecration_Meaning_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Consecration_Meaning_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Consecration_Meaning_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Consecration_Meaning_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Consecration_Meaning_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

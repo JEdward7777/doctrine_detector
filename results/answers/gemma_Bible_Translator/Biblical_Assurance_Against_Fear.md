@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Biblical Assurance Against Fear](../../questions/Biblical_Assurance_Against_Fear.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Biblical Assurance Against Fear](../../questions/Biblical_Assurance_Against_Fear.md)
 
 ## Question [Biblical Assurance Against Fear](../../questions/Biblical_Assurance_Against_Fear.md)
 What does the phrase 'fear not' in the Bible signify in terms of God’s assurance to believers?

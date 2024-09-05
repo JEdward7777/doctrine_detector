@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Spiritual Deceit](../../questions/Spiritual_Deceit.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Spiritual Deceit](../../questions/Spiritual_Deceit.md)
 
 ## Question [Spiritual Deceit](../../questions/Spiritual_Deceit.md)
 What role do demons play in the deception of idolatry according to the content provided?
@@ -19,7 +19,11 @@ In the study of cultural retribution, the concept of demons as agents of deceit 
 Overall, the idea of demons playing a role in the deception of idolatry reflects a cultural understanding of the power dynamics at play in religious practices and serves to reinforce the importance of faithfulness and devotion to one's beliefs.
 
 ## Average Grade
-90.0
+88.0
 
 ## Grades
  * [90.0](./Spiritual_Deceit_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Spiritual_Deceit_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Spiritual_Deceit_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Spiritual_Deceit_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Spiritual_Deceit_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

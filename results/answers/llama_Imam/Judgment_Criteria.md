@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Judgment Criteria](../../questions/Judgment_Criteria.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Judgment Criteria](../../questions/Judgment_Criteria.md)
 
 ## Question [Judgment Criteria](../../questions/Judgment_Criteria.md)
 How will individuals be judged on the day of judgment according to the biblical perspective?
@@ -29,7 +29,11 @@ In Islamic teachings, the concept of Judgment Day is not limited to individual j
 To reiterate, as a Muslim Imam, my primary concern is the Islamic perspective on Judgment Day, which emphasizes accountability for individual and collective actions before Allah.
 
 ## Average Grade
-50.0
+67.0
 
 ## Grades
  * [50.0](./Judgment_Criteria_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [60.0](./Judgment_Criteria_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Judgment_Criteria_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Judgment_Criteria_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Judgment_Criteria_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

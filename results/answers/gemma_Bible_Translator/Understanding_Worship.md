@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Understanding Worship](../../questions/Understanding_Worship.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Understanding Worship](../../questions/Understanding_Worship.md)
 
 ## Question [Understanding Worship](../../questions/Understanding_Worship.md)
 What does it mean to 'worship'?

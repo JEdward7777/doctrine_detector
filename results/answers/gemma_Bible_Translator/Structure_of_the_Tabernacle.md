@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Structure of the Tabernacle](../../questions/Structure_of_the_Tabernacle.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Structure of the Tabernacle](../../questions/Structure_of_the_Tabernacle.md)
 
 ## Question [Structure of the Tabernacle](../../questions/Structure_of_the_Tabernacle.md)
 What were the two main sections of the tabernacle, and what was located in each?

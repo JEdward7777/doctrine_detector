@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Definition of Church](../../questions/Definition_of_Church.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Definition of Church](../../questions/Definition_of_Church.md)
 
 ## Question [Definition of Church](../../questions/Definition_of_Church.md)
 What does the term 'church' refer to in the New Testament?
@@ -25,7 +25,11 @@ In conclusion, my dear fellow citizens, when discussing the term "church" in the
 Thank you for your thoughtful question!
 
 ## Average Grade
-60.0
+59.0
 
 ## Grades
  * [60.0](./Definition_of_Church_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [40.0](./Definition_of_Church_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Definition_of_Church_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [40.0](./Definition_of_Church_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Definition_of_Church_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Biblical References to Salvation](../../questions/Biblical_References_to_Salvation.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Biblical References to Salvation](../../questions/Biblical_References_to_Salvation.md)
 
 ## Question [Biblical References to Salvation](../../questions/Biblical_References_to_Salvation.md)
 What do the passages from 1 Timothy 4:10 and 2 Peter 2:20 reveal about the nature of Christ as Savior?
@@ -25,7 +25,11 @@ From an Islamic perspective, Jesus (peace be upon him) is revered as one of the 
 If you have further questions or would like to discuss specific aspects, feel free to ask!
 
 ## Average Grade
-85.0
+81.0
 
 ## Grades
  * [85.0](./Biblical_References_to_Salvation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Biblical_References_to_Salvation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Biblical_References_to_Salvation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [75.0](./Biblical_References_to_Salvation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Biblical_References_to_Salvation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

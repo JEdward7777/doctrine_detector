@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Covenants](../../questions/Covenants.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Covenants](../../questions/Covenants.md)
 
 ## Question [Covenants](../../questions/Covenants.md)
 How do the promises made in biblical covenants illustrate God's commitment to His people throughout Scripture?
@@ -21,7 +21,11 @@ These covenants also serve as a reminder that Allah is a God who keeps His promi
 However, it is essential to interpret these biblical stories within their historical context while also understanding the teachings of the Quran and the example set by the Prophet Muhammad (peace be upon him). In Islam, we believe that the Quran serves as a confirmation and clarification of what was revealed in previous scriptures, providing the ultimate guidance for mankind.
 
 ## Average Grade
-85.0
+84.0
 
 ## Grades
  * [85.0](./Covenants_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Covenants_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Covenants_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Covenants_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Covenants_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

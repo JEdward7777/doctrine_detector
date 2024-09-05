@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral atheist](../../answering_models/mistral_atheist.md) answer to [Nature of Miracles](../../questions/Nature_of_Miracles.md)
+# Generated Answer from [mistral atheist](../../answering_models/mistral_atheist.md) for [Nature of Miracles](../../questions/Nature_of_Miracles.md)
 
 ## Question [Nature of Miracles](../../questions/Nature_of_Miracles.md)
 What do the miracles performed by Jesus reveal about His identity?
@@ -29,7 +29,11 @@ If we assume, for the sake of argument, that these miracles are historical, seve
 5. Complex Figure: Regardless of one's belief about the historicity of the miracles, they present Jesus as a complex figure who was seen by his contemporaries as having unique powers or abilities that set him apart from others.
 
 ## Average Grade
-85.0
+75.0
 
 ## Grades
  * [85.0](./Nature_of_Miracles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Nature_of_Miracles_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Nature_of_Miracles_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Nature_of_Miracles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Nature_of_Miracles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

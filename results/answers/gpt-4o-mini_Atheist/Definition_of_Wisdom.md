@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [Definition of Wisdom](../../questions/Definition_of_Wisdom.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [Definition of Wisdom](../../questions/Definition_of_Wisdom.md)
 
 ## Question [Definition of Wisdom](../../questions/Definition_of_Wisdom.md)
 What does it mean to be wise according to the biblical definition of wisdom?
@@ -29,7 +29,11 @@ In the biblical context, wisdom is often portrayed as a multifaceted concept tha
 Overall, biblical wisdom is a combination of understanding, moral integrity, reverence for God, and the practical application of knowledge in daily life. It encourages individuals to seek a deeper relationship with the divine and to live in a manner that is honorable and beneficial to themselves and others.
 
 ## Average Grade
-95.0
+94.0
 
 ## Grades
  * [95.0](./Definition_of_Wisdom_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Definition_of_Wisdom_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Definition_of_Wisdom_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Definition_of_Wisdom_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Definition_of_Wisdom_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Son of God](../../questions/Son_of_God.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Son of God](../../questions/Son_of_God.md)
 
 ## Question [Son of God](../../questions/Son_of_God.md)
 What distinguishes the title 'Son of God' as it refers to Jesus from the term 'sons of God' used for believers?
@@ -27,7 +27,11 @@ In contrast, the Christian concept of Jesus as the "Son of God" implies a more p
 To summarize, while both terms refer to a special relationship with God, the "Son of God" in Christianity is unique to Jesus Christ, whereas "sons of God" in Islam refers to believers who have attained a high spiritual status through their faith and good deeds.
 
 ## Average Grade
-90.0
+86.0
 
 ## Grades
  * [90.0](./Son_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Son_of_God_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Son_of_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Son_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Son_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Understanding Unholiness](../../questions/Understanding_Unholiness.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Understanding Unholiness](../../questions/Understanding_Unholiness.md)
 
 ## Question [Understanding Unholiness](../../questions/Understanding_Unholiness.md)
 What are some characteristics of an 'unholy' life, and how can we identify them in our actions or society?
@@ -49,7 +49,11 @@ In Islam, an 'unholy' life can be understood as one that deviates from the princ
 Living a life aligned with the teachings of Islam is crucial for spiritual growth and societal harmony. By being vigilant about our actions and the influences around us, we can strive to lead a holy life that reflects our faith and contributes positively to our communities. Regular prayer, seeking knowledge, community service, and maintaining good company can help guide us away from an 'unholy' life.
 
 ## Average Grade
-90.0
+88.0
 
 ## Grades
  * [90.0](./Understanding_Unholiness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Understanding_Unholiness_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Understanding_Unholiness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Understanding_Unholiness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_Unholiness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

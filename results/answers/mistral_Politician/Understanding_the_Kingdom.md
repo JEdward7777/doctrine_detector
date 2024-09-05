@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Politician](../../answering_models/mistral_Politician.md) answer to [Understanding the Kingdom](../../questions/Understanding_the_Kingdom.md)
+# Generated Answer from [mistral Politician](../../answering_models/mistral_Politician.md) for [Understanding the Kingdom](../../questions/Understanding_the_Kingdom.md)
 
 ## Question [Understanding the Kingdom](../../questions/Understanding_the_Kingdom.md)
 What is the significance of the term 'kingdom of God' as used in the New Testament?
@@ -19,7 +19,11 @@ The term is not necessarily meant to imply a geographical location or political 
 By understanding the Kingdom of God as an ethical framework for living, we can work together towards building a more compassionate and just world for all people, regardless of their background or beliefs. This approach not only promotes unity and peace but also fosters meaningful dialogue and cooperation that can contribute to positive change in our societies.
 
 ## Average Grade
-95.0
+90.0
 
 ## Grades
  * [95.0](./Understanding_the_Kingdom_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Understanding_the_Kingdom_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Understanding_the_Kingdom_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Understanding_the_Kingdom_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_the_Kingdom_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

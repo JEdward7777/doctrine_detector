@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Understanding Fear in Worship](../../questions/Understanding_Fear_in_Worship.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Understanding Fear in Worship](../../questions/Understanding_Fear_in_Worship.md)
 
 ## Question [Understanding Fear in Worship](../../questions/Understanding_Fear_in_Worship.md)
 How does the concept of 'fear' in the Bible differ from the common understanding of fear in our daily lives?

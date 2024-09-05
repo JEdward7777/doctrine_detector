@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Judgment of Others](../../questions/Judgment_of_Others.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Judgment of Others](../../questions/Judgment_of_Others.md)
 
 ## Question [Judgment of Others](../../questions/Judgment_of_Others.md)
 What does Jesus teach us about pointing out the faults of others in relation to our own faults?
@@ -27,7 +27,11 @@ So, my friends, let's take a cue from Jesus' teachings and focus on self-reflect
 Thank you for your thoughtful question!
 
 ## Average Grade
-90.0
+89.0
 
 ## Grades
  * [90.0](./Judgment_of_Others_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Judgment_of_Others_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Judgment_of_Others_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Judgment_of_Others_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Judgment_of_Others_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

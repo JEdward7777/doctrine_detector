@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Separation from Gentiles](../../questions/Separation_from_Gentiles.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Separation from Gentiles](../../questions/Separation_from_Gentiles.md)
 
 ## Question [Separation from Gentiles](../../questions/Separation_from_Gentiles.md)
 Why were the Pharisees concerned about separating the Jewish people from the Gentiles?
@@ -31,7 +31,11 @@ It's essential to note that while the Pharisees' concerns about separating thems
 I hope this helps clarify the context surrounding the Pharisees' concerns about separating from Gentiles. If you have any further questions or would like to discuss this topic further, please don't hesitate to ask.
 
 ## Average Grade
-70.0
+75.0
 
 ## Grades
  * [70.0](./Separation_from_Gentiles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Separation_from_Gentiles_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Separation_from_Gentiles_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Separation_from_Gentiles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Separation_from_Gentiles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

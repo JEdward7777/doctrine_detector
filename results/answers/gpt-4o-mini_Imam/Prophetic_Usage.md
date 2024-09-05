@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Prophetic Usage](../../questions/Prophetic_Usage.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Prophetic Usage](../../questions/Prophetic_Usage.md)
 
 ## Question [Prophetic Usage](../../questions/Prophetic_Usage.md)
 How is the term 'Daughter of Zion' utilized in Biblical prophecies?
@@ -26,7 +26,11 @@ In the Islamic tradition, while we do not regard the Bible as a final revelation
 Thus, while the term "Daughter of Zion" carries specific meanings in the biblical context, Muslims view these narratives through the lens of Tawhid (the oneness of God) and the shared values of justice, peace, and community. If you have any further questions regarding related themes in Islamic texts, feel free to ask!
 
 ## Average Grade
-80.0
+86.0
 
 ## Grades
  * [80.0](./Prophetic_Usage_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Prophetic_Usage_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Prophetic_Usage_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Prophetic_Usage_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Prophetic_Usage_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Contents Of Ark](../../questions/Contents_Of_Ark.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Contents Of Ark](../../questions/Contents_Of_Ark.md)
 
 ## Question [Contents Of Ark](../../questions/Contents_Of_Ark.md)
 What items were contained within the ark of the covenant?
@@ -25,7 +25,11 @@ It is worth noting that the Ark itself was constructed according to divine instr
 In Islam, we do not worship physical objects or relics, including the Ark. Rather, we believe that the Ark was a sacred trust entrusted to Musa (Moses) and his people, containing divine messages and laws that guided them towards righteousness. May Allah guide us all towards the truth and wisdom.
 
 ## Average Grade
-80.0
+74.0
 
 ## Grades
  * [80.0](./Contents_Of_Ark_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Contents_Of_Ark_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Contents_Of_Ark_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Contents_Of_Ark_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [40.0](./Contents_Of_Ark_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

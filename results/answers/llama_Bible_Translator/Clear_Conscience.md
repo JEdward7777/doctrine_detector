@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Clear Conscience](../../questions/Clear_Conscience.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Clear Conscience](../../questions/Clear_Conscience.md)
 
 ## Question [Clear Conscience](../../questions/Clear_Conscience.md)
 What does it mean to have a 'clear conscience' in the context of Christian teachings?
@@ -29,7 +29,11 @@ In practical terms, having a clear conscience means being able to:
 Having a clear conscience is not about achieving perfection but about living with integrity, acknowledging one's weaknesses, and trusting in God's grace and mercy. As believers, we can strive for a clear conscience by seeking to honor God in every aspect of life, even as we face challenges and imperfections along the way.
 
 ## Average Grade
-90.0
+91.0
 
 ## Grades
  * [90.0](./Clear_Conscience_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Clear_Conscience_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Clear_Conscience_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Clear_Conscience_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Clear_Conscience_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

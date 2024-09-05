@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma atheist](../../answering_models/gemma_atheist.md) answer to [Ephod materials](../../questions/Ephod_materials.md)
+# Generated Answer from [gemma atheist](../../answering_models/gemma_atheist.md) for [Ephod materials](../../questions/Ephod_materials.md)
 
 ## Question [Ephod materials](../../questions/Ephod_materials.md)
 What materials were used in the construction of the high priest's ephod?
@@ -35,7 +35,11 @@ The construction materials of the high priest's ephod are not explicitly describ
 It is important to consider the cultural and historical context of biblical descriptions when interpreting the materials of the ephod. Cultural understandings of materials and their significance can vary significantly between different societies and time periods.
 
 ## Average Grade
-90.0
+87.0
 
 ## Grades
  * [90.0](./Ephod_materials_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Ephod_materials_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Ephod_materials_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Ephod_materials_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Ephod_materials_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

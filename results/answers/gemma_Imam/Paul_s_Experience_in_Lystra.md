@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Paul's Experience in Lystra](../../questions/Paul_s_Experience_in_Lystra.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Paul's Experience in Lystra](../../questions/Paul_s_Experience_in_Lystra.md)
 
 ## Question [Paul's Experience in Lystra](../../questions/Paul_s_Experience_in_Lystra.md)
 What lessons can be learned from the stoning of Paul in Lystra regarding perseverance in faith and ministry?
@@ -59,7 +59,11 @@ Encouraging perseverance and faith in difficult circumstances.
 * **Pray diligently:** Seek God's guidance and support in times of need.
 
 ## Average Grade
-95.0
+90.0
 
 ## Grades
  * [95.0](./Paul_s_Experience_in_Lystra_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Paul_s_Experience_in_Lystra_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Paul_s_Experience_in_Lystra_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Paul_s_Experience_in_Lystra_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Paul_s_Experience_in_Lystra_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

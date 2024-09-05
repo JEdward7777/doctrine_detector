@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Understanding Transgression](../../questions/Understanding_Transgression.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Understanding Transgression](../../questions/Understanding_Transgression.md)
 
 ## Question [Understanding Transgression](../../questions/Understanding_Transgression.md)
 What does the term 'transgress' imply in a Biblical context?

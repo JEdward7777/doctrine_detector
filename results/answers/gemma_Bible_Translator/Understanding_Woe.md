@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Understanding Woe](../../questions/Understanding_Woe.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Understanding Woe](../../questions/Understanding_Woe.md)
 
 ## Question [Understanding Woe](../../questions/Understanding_Woe.md)
 What does the term 'woe' signify in the context of biblical warnings and judgments?

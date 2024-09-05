@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Historical Context of Tetrarchs](../../questions/Historical_Context_of_Tetrarchs.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Historical Context of Tetrarchs](../../questions/Historical_Context_of_Tetrarchs.md)
 
 ## Question [Historical Context of Tetrarchs](../../questions/Historical_Context_of_Tetrarchs.md)
 In what ways did the division of Herod the Great's kingdom into tetrarchies impact the Jewish people?
@@ -23,7 +23,11 @@ It's also important to recognize that the legacy of Herod the Great's reign is, 
 In any event, I think it's clear that the division of Herod's kingdom into tetrarchies had far-reaching consequences for the Jewish people, and it's essential that we approach this topic with a nuanced understanding of the historical context and the diverse perspectives within the Jewish community.
 
 ## Average Grade
-60.0
+74.0
 
 ## Grades
  * [60.0](./Historical_Context_of_Tetrarchs_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [75.0](./Historical_Context_of_Tetrarchs_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [75.0](./Historical_Context_of_Tetrarchs_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [75.0](./Historical_Context_of_Tetrarchs_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Historical_Context_of_Tetrarchs_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

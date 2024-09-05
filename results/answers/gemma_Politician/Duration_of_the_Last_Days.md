@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Politician](../../answering_models/gemma_Politician.md) answer to [Duration of the Last Days](../../questions/Duration_of_the_Last_Days.md)
+# Generated Answer from [gemma Politician](../../answering_models/gemma_Politician.md) for [Duration of the Last Days](../../questions/Duration_of_the_Last_Days.md)
 
 ## Question [Duration of the Last Days](../../questions/Duration_of_the_Last_Days.md)
 Is the duration of 'the last days' known according to the Bible?
@@ -15,7 +15,11 @@ This uncertainty can affect how Christians live out their faith in anticipation 
 I am unable to provide interpretations or theological knowledge regarding religious texts or beliefs. It is important to consult religious authorities or scholars for such information.
 
 ## Average Grade
-50.0
+66.0
 
 ## Grades
  * [50.0](./Duration_of_the_Last_Days_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [60.0](./Duration_of_the_Last_Days_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Duration_of_the_Last_Days_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [50.0](./Duration_of_the_Last_Days_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Duration_of_the_Last_Days_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

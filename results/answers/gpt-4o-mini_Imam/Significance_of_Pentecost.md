@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Significance of Pentecost](../../questions/Significance_of_Pentecost.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Significance of Pentecost](../../questions/Significance_of_Pentecost.md)
 
 ## Question [Significance of Pentecost](../../questions/Significance_of_Pentecost.md)
 Why is the Day of Pentecost considered especially significant in the New Testament?
@@ -27,7 +27,11 @@ The Day of Pentecost is considered especially significant in the New Testament f
 While there are similarities between Christian beliefs and Islamic teachings about prophets and guidance, the significance of Pentecost is a unique aspect of Christian theology. In Islam, the emphasis is placed on the finality of prophethood with Muhammad (peace be upon him), and the revelations received through him. However, it is always valuable to understand and respect the beliefs of others from their perspectives.
 
 ## Average Grade
-90.0
+88.0
 
 ## Grades
  * [90.0](./Significance_of_Pentecost_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Significance_of_Pentecost_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Significance_of_Pentecost_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Significance_of_Pentecost_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Significance_of_Pentecost_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Fruits of Wisdom](../../questions/Fruits_of_Wisdom.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Fruits of Wisdom](../../questions/Fruits_of_Wisdom.md)
 
 ## Question [Fruits of Wisdom](../../questions/Fruits_of_Wisdom.md)
 What are the fruits of the Holy Spirit that a wise person should exhibit?
@@ -32,7 +32,11 @@ Islam emphasizes the cultivation of good moral character traits, and according t
 These traits reflect the character of a wise person in Islam who strives to live according to the teachings of the Quran and Sunnah. The Prophet (peace be upon him) stated, "The best of you are those who have the best manners and character," emphasizing the importance of good character in Islamic teachings.
 
 ## Average Grade
-50.0
+54.0
 
 ## Grades
  * [50.0](./Fruits_of_Wisdom_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Fruits_of_Wisdom_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [40.0](./Fruits_of_Wisdom_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [30.0](./Fruits_of_Wisdom_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Fruits_of_Wisdom_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

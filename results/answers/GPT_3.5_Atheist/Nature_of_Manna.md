@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Nature of Manna](../../questions/Nature_of_Manna.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Nature of Manna](../../questions/Nature_of_Manna.md)
 
 ## Question [Nature of Manna](../../questions/Nature_of_Manna.md)
 What does the Bible describe the appearance and taste of manna as?
@@ -19,7 +19,11 @@ From a culturally retributed perspective, the description of manna in the Bible 
 As an atheistic scholar, I interpret the story of manna as a symbolic narrative that highlights themes of divine sustenance, faith, and dependence on a higher power for survival. It speaks to the belief in supernatural intervention and the power of faith to sustain people in times of hardship.
 
 ## Average Grade
-30.0
+51.0
 
 ## Grades
  * [30.0](./Nature_of_Manna_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [30.0](./Nature_of_Manna_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Nature_of_Manna_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [50.0](./Nature_of_Manna_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Nature_of_Manna_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

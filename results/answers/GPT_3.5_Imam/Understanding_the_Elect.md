@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Understanding the Elect](../../questions/Understanding_the_Elect.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Understanding the Elect](../../questions/Understanding_the_Elect.md)
 
 ## Question [Understanding the Elect](../../questions/Understanding_the_Elect.md)
 What does it mean to be part of the 'elect' or 'chosen ones' according to the Bible?
@@ -21,7 +21,11 @@ In Islamic theology, every individual has the opportunity to attain salvation th
 It is important to recognize and respect the differences in theological beliefs between different religions and understand that each faith tradition has its own unique teachings and doctrines.
 
 ## Average Grade
-80.0
+72.0
 
 ## Grades
  * [80.0](./Understanding_the_Elect_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Understanding_the_Elect_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Understanding_the_Elect_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [50.0](./Understanding_the_Elect_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Understanding_the_Elect_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

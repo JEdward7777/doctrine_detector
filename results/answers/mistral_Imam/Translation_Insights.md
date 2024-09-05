@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Translation Insights](../../questions/Translation_Insights.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Translation Insights](../../questions/Translation_Insights.md)
 
 ## Question [Translation Insights](../../questions/Translation_Insights.md)
 What are some suggested translations for the phrase 'image of God' when applied to humans and Jesus, and why might these translations be significant?
@@ -19,7 +19,11 @@ As for Jesus (peace be upon him), Muslims believe he was a messenger of Allah an
 These translations are significant because they help uphold the Islamic belief in Tawhid (Oneness of Allah), emphasizing that God is one, unique, and without any partners or equals. Additionally, it highlights the importance of recognizing all creation as a manifestation of Allah's attributes and His divine will. This understanding can foster humility, respect for all of Allah's creations, and an increased awareness of our role as stewards of this world.
 
 ## Average Grade
-70.0
+67.0
 
 ## Grades
  * [70.0](./Translation_Insights_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [75.0](./Translation_Insights_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Translation_Insights_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [60.0](./Translation_Insights_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Translation_Insights_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

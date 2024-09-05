@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma atheist](../../answering_models/gemma_atheist.md) answer to [Testing and Temptation](../../questions/Testing_and_Temptation.md)
+# Generated Answer from [gemma atheist](../../answering_models/gemma_atheist.md) for [Testing and Temptation](../../questions/Testing_and_Temptation.md)
 
 ## Question [Testing and Temptation](../../questions/Testing_and_Temptation.md)
 How does the concept of testing differ from the idea of temptation in a biblical context?
@@ -48,7 +48,11 @@ From an atheistic perspective, the concepts of testing and temptation can be rei
 While the biblical concepts of testing and temptation offer valuable insights into human experiences, understanding their cultural and psychological contexts is crucial for a non-religious interpretation.
 
 ## Average Grade
-90.0
+88.0
 
 ## Grades
  * [90.0](./Testing_and_Temptation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Testing_and_Temptation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Testing_and_Temptation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Testing_and_Temptation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Testing_and_Temptation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

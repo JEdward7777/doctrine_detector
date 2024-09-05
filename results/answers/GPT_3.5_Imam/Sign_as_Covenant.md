@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Sign as Covenant](../../questions/Sign_as_Covenant.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Sign as Covenant](../../questions/Sign_as_Covenant.md)
 
 ## Question [Sign as Covenant](../../questions/Sign_as_Covenant.md)
 How does the rainbow serve as a sign of God's covenant with humanity in Genesis?
@@ -19,7 +19,11 @@ In Surah Hud, it is mentioned that after the flood subsided, God made a covenant
 Therefore, just like in the Bible, the rainbow in Islamic belief symbolizes God's mercy, forgiveness, and the promise of protection for humanity. It serves as a reminder of God's covenant with humanity and His faithfulness to His promises.
 
 ## Average Grade
-95.0
+85.0
 
 ## Grades
  * [95.0](./Sign_as_Covenant_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [70.0](./Sign_as_Covenant_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Sign_as_Covenant_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Sign_as_Covenant_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Sign_as_Covenant_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

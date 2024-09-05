@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Seared Conscience](../../questions/Seared_Conscience.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Seared Conscience](../../questions/Seared_Conscience.md)
 
 ## Question [Seared Conscience](../../questions/Seared_Conscience.md)
 What does the Bible mean by a 'seared' conscience, and what implications does it have for a believer?
@@ -19,7 +19,11 @@ Having a seared conscience can have serious implications for a believer. It can 
 As believers, we are called to keep our consciences clear and sensitive to the leading of the Holy Spirit. We should strive to cultivate a heart that is repentant, humble, and obedient to God's word. Regular confession of sin, prayer, and reflection on Scripture can help guard against a seared conscience and maintain a strong relationship with God.
 
 ## Average Grade
-90.0
+91.0
 
 ## Grades
  * [90.0](./Seared_Conscience_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Seared_Conscience_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Seared_Conscience_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Seared_Conscience_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Seared_Conscience_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Passover Significance](../../questions/Passover_Significance.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Passover Significance](../../questions/Passover_Significance.md)
 
 ## Question [Passover Significance](../../questions/Passover_Significance.md)
 What does the celebration of Passover signify for Christians in relation to Jesus?
@@ -21,7 +21,11 @@ Additionally, the timing of Jesus’ crucifixion during Passover highlights the 
 Thus, for Christians, Passover is a foreshadowing of Jesus’ redemptive work and is deeply intertwined with the themes of salvation and liberation in both the Old and New Testaments.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Passover_Significance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Passover_Significance_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Passover_Significance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Passover_Significance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Passover_Significance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

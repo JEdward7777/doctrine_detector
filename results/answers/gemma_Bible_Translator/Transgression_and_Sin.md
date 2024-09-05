@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Transgression and Sin](../../questions/Transgression_and_Sin.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Transgression and Sin](../../questions/Transgression_and_Sin.md)
 
 ## Question [Transgression and Sin](../../questions/Transgression_and_Sin.md)
 How can transgression be related to the concepts of sin and disobedience?

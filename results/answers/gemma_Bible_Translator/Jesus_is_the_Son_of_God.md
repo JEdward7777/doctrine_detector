@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Jesus is the Son of God](../../questions/Jesus_is_the_Son_of_God.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Jesus is the Son of God](../../questions/Jesus_is_the_Son_of_God.md)
 
 ## Question [Jesus is the Son of God](../../questions/Jesus_is_the_Son_of_God.md)
 how do I translate Jesus is the Son of God into a Muslim context

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Consecration Meaning](../../questions/Consecration_Meaning.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Consecration Meaning](../../questions/Consecration_Meaning.md)
 
 ## Question [Consecration Meaning](../../questions/Consecration_Meaning.md)
 What does it mean to consecrate something or someone in a Christian context?

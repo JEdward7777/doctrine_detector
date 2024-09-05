@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Fulfillment of Prophecy](../../questions/Fulfillment_of_Prophecy.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Fulfillment of Prophecy](../../questions/Fulfillment_of_Prophecy.md)
 
 ## Question [Fulfillment of Prophecy](../../questions/Fulfillment_of_Prophecy.md)
 What significance do fulfilled prophecies hold in the Christian faith?
@@ -21,7 +21,11 @@ For Christians, the person of Jesus Christ is central to the fulfillment of many
 Overall, fulfilled prophecies play a crucial role in reinforcing the faith of Christians, demonstrating the reliability of the Scriptures, and pointing to the overarching plan of God for humanity's salvation.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Fulfillment_of_Prophecy_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Fulfillment_of_Prophecy_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Fulfillment_of_Prophecy_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Fulfillment_of_Prophecy_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Fulfillment_of_Prophecy_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

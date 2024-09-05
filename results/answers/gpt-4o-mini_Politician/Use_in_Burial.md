@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) answer to [Use in Burial](../../questions/Use_in_Burial.md)
+# Generated Answer from [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) for [Use in Burial](../../questions/Use_in_Burial.md)
 
 ## Question [Use in Burial](../../questions/Use_in_Burial.md)
 How was myrrh used in the context of burial practices in biblical times?
@@ -21,7 +21,11 @@ For example, in the New Testament, there are accounts of myrrh being utilized in
 Overall, myrrh's association with burial practices serves as a reminder of the customs, beliefs, and traditions that shaped the understanding of life and death in ancient cultures.
 
 ## Average Grade
-95.0
+89.4
 
 ## Grades
  * [95.0](./Use_in_Burial_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Use_in_Burial_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Use_in_Burial_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [92.0](./Use_in_Burial_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Use_in_Burial_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

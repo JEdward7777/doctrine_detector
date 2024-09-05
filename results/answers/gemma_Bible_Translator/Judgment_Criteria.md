@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Judgment Criteria](../../questions/Judgment_Criteria.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Judgment Criteria](../../questions/Judgment_Criteria.md)
 
 ## Question [Judgment Criteria](../../questions/Judgment_Criteria.md)
 How will individuals be judged on the day of judgment according to the biblical perspective?

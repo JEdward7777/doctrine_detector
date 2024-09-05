@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Prayer as Calling Out](../../questions/Prayer_as_Calling_Out.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Prayer as Calling Out](../../questions/Prayer_as_Calling_Out.md)
 
 ## Question [Prayer as Calling Out](../../questions/Prayer_as_Calling_Out.md)
 How can we interpret the phrase 'call out to the Lord' in our prayers?
@@ -25,7 +25,11 @@ Ultimately, the meaning of "call out to the Lord" will depend on one's personal 
 What do you think? How would you like to interpret this phrase in a more secular or atheist framework?
 
 ## Average Grade
-30.0
+28.0
 
 ## Grades
  * [30.0](./Prayer_as_Calling_Out_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [20.0](./Prayer_as_Calling_Out_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [30.0](./Prayer_as_Calling_Out_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [20.0](./Prayer_as_Calling_Out_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [40.0](./Prayer_as_Calling_Out_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

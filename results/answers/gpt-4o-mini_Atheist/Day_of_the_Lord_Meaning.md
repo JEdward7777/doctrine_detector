@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) answer to [Day of the Lord Meaning](../../questions/Day_of_the_Lord_Meaning.md)
+# Generated Answer from [gpt-4o-mini Atheist](../../answering_models/gpt-4o-mini_Atheist.md) for [Day of the Lord Meaning](../../questions/Day_of_the_Lord_Meaning.md)
 
 ## Question [Day of the Lord Meaning](../../questions/Day_of_the_Lord_Meaning.md)
 What does the term 'day of the Lord' signify in the New Testament?
@@ -25,7 +25,11 @@ In the New Testament, the term "Day of the Lord" generally refers to a future ev
 Overall, the "Day of the Lord" in the New Testament serves as a powerful reminder of the awaited culmination of history, where divine justice will prevail, and a new order will be established. It balances themes of judgment and hope, reflecting the complex nature of eschatological beliefs in early Christianity.
 
 ## Average Grade
-90.0
+92.0
 
 ## Grades
  * [90.0](./Day_of_the_Lord_Meaning_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Day_of_the_Lord_Meaning_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Day_of_the_Lord_Meaning_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Day_of_the_Lord_Meaning_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Day_of_the_Lord_Meaning_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma atheist](../../answering_models/gemma_atheist.md) answer to [Origins of the Hebrews](../../questions/Origins_of_the_Hebrews.md)
+# Generated Answer from [gemma atheist](../../answering_models/gemma_atheist.md) for [Origins of the Hebrews](../../questions/Origins_of_the_Hebrews.md)
 
 ## Question [Origins of the Hebrews](../../questions/Origins_of_the_Hebrews.md)
 Who are the Hebrews descended from in the Bible?
@@ -23,7 +23,11 @@ Understanding the heritage of the Hebrew people is important for grasping Biblic
 **Therefore, there is no definitive answer to the question of who the Hebrews descended from in the Bible, from an atheistic or secular perspective.**
 
 ## Average Grade
-20.0
+28.0
 
 ## Grades
  * [20.0](./Origins_of_the_Hebrews_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [20.0](./Origins_of_the_Hebrews_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [40.0](./Origins_of_the_Hebrews_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [20.0](./Origins_of_the_Hebrews_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [40.0](./Origins_of_the_Hebrews_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Definition of Good](../../questions/Definition_of_Good.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Definition of Good](../../questions/Definition_of_Good.md)
 
 ## Question [Definition of Good](../../questions/Definition_of_Good.md)
 How does the Biblical definition of 'good' contrast with the concept of 'evil'?
@@ -19,7 +19,11 @@ In the Islamic perspective, good deeds are those that are done with the intentio
 While the biblical definition of good and evil may have similarities with the Islamic perspective in terms of the general principles of morality, the specific understanding and criteria for determining what is good and what is evil may differ due to the theological and doctrinal differences between Islam and Christianity. It is important for Muslims to refer to the teachings of Islam, particularly the Quran and the Sunnah, for guidance on moral behavior and the distinction between good and evil.
 
 ## Average Grade
-85.0
+81.0
 
 ## Grades
  * [85.0](./Definition_of_Good_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Definition_of_Good_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Definition_of_Good_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Definition_of_Good_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Definition_of_Good_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Nature of Eternity](../../questions/Nature_of_Eternity.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Nature of Eternity](../../questions/Nature_of_Eternity.md)
 
 ## Question [Nature of Eternity](../../questions/Nature_of_Eternity.md)
 How is eternity defined in the context of Christian beliefs?
@@ -33,7 +33,11 @@ The concept of eternity in Christian theology is rooted in biblical passages suc
 While these notions of eternity might seem abstract or even mysterious to those outside the Christian tradition, they provide a rich framework for understanding the nature of God's relationship with humanity and the ultimate destiny of all creation.
 
 ## Average Grade
-90.0
+91.0
 
 ## Grades
  * [90.0](./Nature_of_Eternity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Nature_of_Eternity_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Nature_of_Eternity_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Nature_of_Eternity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Nature_of_Eternity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

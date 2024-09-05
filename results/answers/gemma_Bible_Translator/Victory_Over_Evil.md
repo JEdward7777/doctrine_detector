@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Victory Over Evil](../../questions/Victory_Over_Evil.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Victory Over Evil](../../questions/Victory_Over_Evil.md)
 
 ## Question [Victory Over Evil](../../questions/Victory_Over_Evil.md)
 What promise does God give regarding the ultimate defeat of Satan?

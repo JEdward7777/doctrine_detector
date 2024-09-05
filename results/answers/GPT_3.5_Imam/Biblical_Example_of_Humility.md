@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Biblical Example of Humility](../../questions/Biblical_Example_of_Humility.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Biblical Example of Humility](../../questions/Biblical_Example_of_Humility.md)
 
 ## Question [Biblical Example of Humility](../../questions/Biblical_Example_of_Humility.md)
 Can you provide a biblical example of a character who exemplified humility?
@@ -19,7 +19,11 @@ Another example of humility in Islamic teachings is the Prophet Muhammad (peace 
 These examples highlight the importance of humility in Islam and serve as a guide for Muslims to strive for humility in their own lives.
 
 ## Average Grade
-85.0
+79.0
 
 ## Grades
  * [85.0](./Biblical_Example_of_Humility_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Biblical_Example_of_Humility_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Biblical_Example_of_Humility_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Biblical_Example_of_Humility_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Biblical_Example_of_Humility_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

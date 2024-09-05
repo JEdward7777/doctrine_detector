@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) answer to [Understanding Appointments in God's Plan](../../questions/Understanding_Appointments_in_God_s_Plan.md)
+# Generated Answer from [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) for [Understanding Appointments in God's Plan](../../questions/Understanding_Appointments_in_God_s_Plan.md)
 
 ## Question [Understanding Appointments in God's Plan](../../questions/Understanding_Appointments_in_God_s_Plan.md)
 What does it mean to be 'appointed to eternal life' in a Christian context?
@@ -21,7 +21,11 @@ Different Christian traditions interpret the idea of being appointed to eternal 
 It's important to engage with this topic thoughtfully, recognizing the diverse interpretations and beliefs within Christianity and respecting the varying perspectives held by individuals and denominations.
 
 ## Average Grade
-95.0
+92.0
 
 ## Grades
  * [95.0](./Understanding_Appointments_in_God_s_Plan_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Understanding_Appointments_in_God_s_Plan_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Understanding_Appointments_in_God_s_Plan_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Understanding_Appointments_in_God_s_Plan_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_Appointments_in_God_s_Plan_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

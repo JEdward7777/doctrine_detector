@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Being Gracious](../../questions/Being_Gracious.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Being Gracious](../../questions/Being_Gracious.md)
 
 ## Question [Being Gracious](../../questions/Being_Gracious.md)
 How is the term 'gracious' defined and what does it imply about our interactions with others?

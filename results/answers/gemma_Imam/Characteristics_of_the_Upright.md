@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Characteristics of the Upright](../../questions/Characteristics_of_the_Upright.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Characteristics of the Upright](../../questions/Characteristics_of_the_Upright.md)
 
 ## Question [Characteristics of the Upright](../../questions/Characteristics_of_the_Upright.md)
 What qualities define an 'upright' person in the biblical context?
@@ -59,7 +59,11 @@ In the biblical context, an 'upright' person is someone who embodies certain key
 These qualities are essential for building a life of integrity and fulfilling Islamic values.
 
 ## Average Grade
-85.0
+90.0
 
 ## Grades
  * [85.0](./Characteristics_of_the_Upright_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Characteristics_of_the_Upright_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Characteristics_of_the_Upright_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Characteristics_of_the_Upright_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Characteristics_of_the_Upright_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

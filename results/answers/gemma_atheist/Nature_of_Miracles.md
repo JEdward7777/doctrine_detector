@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma atheist](../../answering_models/gemma_atheist.md) answer to [Nature of Miracles](../../questions/Nature_of_Miracles.md)
+# Generated Answer from [gemma atheist](../../answering_models/gemma_atheist.md) for [Nature of Miracles](../../questions/Nature_of_Miracles.md)
 
 ## Question [Nature of Miracles](../../questions/Nature_of_Miracles.md)
 What do the miracles performed by Jesus reveal about His identity?
@@ -45,3 +45,7 @@ The miracles performed by Jesus do not provide credible evidence to support clai
 
 ## Grades
  * [20.0](./Nature_of_Miracles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [20.0](./Nature_of_Miracles_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [20.0](./Nature_of_Miracles_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [20.0](./Nature_of_Miracles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [20.0](./Nature_of_Miracles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

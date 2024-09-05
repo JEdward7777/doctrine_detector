@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Understanding the Elect](../../questions/Understanding_the_Elect.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Understanding the Elect](../../questions/Understanding_the_Elect.md)
 
 ## Question [Understanding the Elect](../../questions/Understanding_the_Elect.md)
 What does it mean to be part of the 'elect' or 'chosen ones' according to the Bible?
@@ -27,7 +27,11 @@ In Islam, the idea of being 'chosen' can resonate with the belief that certain p
 It is important to respect the diversity of belief and interpretation within the Christian faith while drawing parallels and distinctions from Islamic teachings.
 
 ## Average Grade
-85.0
+87.0
 
 ## Grades
  * [85.0](./Understanding_the_Elect_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Understanding_the_Elect_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Understanding_the_Elect_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Understanding_the_Elect_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_the_Elect_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

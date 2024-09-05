@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Role of Repentance in Forgiveness](../../questions/Role_of_Repentance_in_Forgiveness.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Role of Repentance in Forgiveness](../../questions/Role_of_Repentance_in_Forgiveness.md)
 
 ## Question [Role of Repentance in Forgiveness](../../questions/Role_of_Repentance_in_Forgiveness.md)
 What is the relationship between repentance and forgiveness in the Bible?
@@ -25,7 +25,11 @@ However, I want to acknowledge that there may be instances where individuals or 
 As we navigate this sensitive topic, let us strive for compassion, wisdom, and a deep commitment to honoring the sacredness of human relationships. May our pursuit of truth and reconciliation be guided by love, mercy, and a profound respect for the dignity of every individual.
 
 ## Average Grade
-90.0
+89.0
 
 ## Grades
  * [90.0](./Role_of_Repentance_in_Forgiveness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Role_of_Repentance_in_Forgiveness_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Role_of_Repentance_in_Forgiveness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Role_of_Repentance_in_Forgiveness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Role_of_Repentance_in_Forgiveness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

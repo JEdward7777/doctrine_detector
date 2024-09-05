@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Tempting God](../../questions/Tempting_God.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Tempting God](../../questions/Tempting_God.md)
 
 ## Question [Tempting God](../../questions/Tempting_God.md)
 What does it mean to 'tempt God' and how can this behavior lead to consequences according to Biblical teaching?
@@ -23,7 +23,11 @@ In Islam, similar themes are present. Muslims believe in the concept of tawakkul
 Ultimately, the common thread across these teachings in both the Biblical and Islamic contexts is that faith should be accompanied by trust and obedience, rather than attempts to manipulate or test the divine.
 
 ## Average Grade
-95.0
+91.0
 
 ## Grades
  * [95.0](./Tempting_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Tempting_God_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Tempting_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Tempting_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Tempting_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

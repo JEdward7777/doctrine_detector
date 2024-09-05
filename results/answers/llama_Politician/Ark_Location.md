@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Ark Location](../../questions/Ark_Location.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Ark Location](../../questions/Ark_Location.md)
 
 ## Question [Ark Location](../../questions/Ark_Location.md)
 Where was the ark of the covenant located in the tabernacle?
@@ -23,7 +23,11 @@ In today's pluralistic society, it's essential that we celebrate our differences
 So, to answer your question in a way that honors the diversity of human experience, I'd say that the Ark of the Covenant was located in the Holy of Holies within the Tabernacle – a sacred space that continues to inspire people from all walks of life.
 
 ## Average Grade
-80.0
+82.0
 
 ## Grades
  * [80.0](./Ark_Location_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Ark_Location_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Ark_Location_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Ark_Location_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Ark_Location_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

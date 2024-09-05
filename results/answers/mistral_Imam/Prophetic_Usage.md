@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Imam](../../answering_models/mistral_Imam.md) answer to [Prophetic Usage](../../questions/Prophetic_Usage.md)
+# Generated Answer from [mistral Imam](../../answering_models/mistral_Imam.md) for [Prophetic Usage](../../questions/Prophetic_Usage.md)
 
 ## Question [Prophetic Usage](../../questions/Prophetic_Usage.md)
 How is the term 'Daughter of Zion' utilized in Biblical prophecies?
@@ -19,7 +19,11 @@ In certain Biblical prophecies, such as Isaiah 62:6-7, the phrase appears in con
 It's crucial to approach such interpretations with sensitivity and understanding, as religious texts can sometimes be open to multiple interpretations. I would encourage you to consult with scholars or religious leaders in your community who can provide guidance tailored to your context.
 
 ## Average Grade
-80.0
+86.0
 
 ## Grades
  * [80.0](./Prophetic_Usage_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Prophetic_Usage_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Prophetic_Usage_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Prophetic_Usage_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Prophetic_Usage_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

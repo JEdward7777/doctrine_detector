@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama atheist](../../answering_models/llama_atheist.md) answer to [Biblical References 8](../../questions/Biblical_References_8.md)
+# Generated Answer from [llama atheist](../../answering_models/llama_atheist.md) for [Biblical References 8](../../questions/Biblical_References_8.md)
 
 ## Question [Biblical References 8](../../questions/Biblical_References_8.md)
 Which Bible verses reference the concept of ransom, and how do they contribute to the understanding of redemption?
@@ -33,7 +33,11 @@ These verses contribute to the understanding of redemption in several ways:
 By examining these verses, we can better understand the biblical concept of redemption as a process facilitated by Jesus' sacrifice on our behalf.
 
 ## Average Grade
-80.0
+78.0
 
 ## Grades
  * [80.0](./Biblical_References_8_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [75.0](./Biblical_References_8_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Biblical_References_8_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Biblical_References_8_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Biblical_References_8_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

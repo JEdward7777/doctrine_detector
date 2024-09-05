@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Jesus in Synagogues](../../questions/Jesus_in_Synagogues.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Jesus in Synagogues](../../questions/Jesus_in_Synagogues.md)
 
 ## Question [Jesus in Synagogues](../../questions/Jesus_in_Synagogues.md)
 How did Jesus engage with the synagogue during His ministry?
@@ -21,7 +21,11 @@ Overall, Prophet Jesus' interactions with the synagogue during His ministry were
 It's important to note that while there may be differences in the specific details of Jesus' interactions with the synagogue between Islamic and Christian traditions, both emphasize His role as a spiritual guide and teacher who sought to lead people towards faith and righteousness.
 
 ## Average Grade
-80.0
+78.0
 
 ## Grades
  * [80.0](./Jesus_in_Synagogues_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Jesus_in_Synagogues_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [75.0](./Jesus_in_Synagogues_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Jesus_in_Synagogues_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Jesus_in_Synagogues_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

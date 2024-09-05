@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Understanding the Day of Judgment](../../questions/Understanding_the_Day_of_Judgment.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Understanding the Day of Judgment](../../questions/Understanding_the_Day_of_Judgment.md)
 
 ## Question [Understanding the Day of Judgment](../../questions/Understanding_the_Day_of_Judgment.md)
 What is the significance of Jesus Christ being appointed as the judge on the day of judgment?
@@ -19,7 +19,11 @@ Regarding Jesus being appointed as the judge on the Day of Judgment, it is menti
 The concept of Jesus being a judge on the Day of Judgment emphasizes the importance of justice and fairness in the final reckoning of all individuals. It also highlights the mercy and wisdom of Allah in choosing honorable and righteous individuals to carry out important tasks on that Day. Muslims believe in the ultimate justice of Allah, and Jesus being appointed as a judge adds to the overall understanding of divine mercy and wisdom in the Islamic worldview.
 
 ## Average Grade
-85.0
+80.0
 
 ## Grades
  * [85.0](./Understanding_the_Day_of_Judgment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Understanding_the_Day_of_Judgment_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Understanding_the_Day_of_Judgment_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Understanding_the_Day_of_Judgment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Understanding_the_Day_of_Judgment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Second Coming](../../questions/Second_Coming.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Second Coming](../../questions/Second_Coming.md)
 
 ## Question [Second Coming](../../questions/Second_Coming.md)
 What does Jesus’ statement about the 'Son of Man' coming back on the clouds imply for believers?
@@ -27,7 +27,11 @@ For believers, this statement implies several important truths:
 Overall, the statement about the "Son of Man" coming back on the clouds serves as a reminder to believers of the reality of Christ's return, the certainty of final judgment, and the hope of eternal life in his kingdom. It encourages believers to remain faithful, vigilant, and prepared for the imminent return of their Savior and King.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Second_Coming_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Second_Coming_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Second_Coming_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Second_Coming_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Second_Coming_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

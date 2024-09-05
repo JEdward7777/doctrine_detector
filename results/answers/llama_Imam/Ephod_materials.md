@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Ephod materials](../../questions/Ephod_materials.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Ephod materials](../../questions/Ephod_materials.md)
 
 ## Question [Ephod materials](../../questions/Ephod_materials.md)
 What materials were used in the construction of the high priest's ephod?
@@ -28,7 +28,11 @@ Please note that these materials were not considered Haram (forbidden) in Islami
 I hope this clarifies your query, my brother. If you have any further questions or concerns, please feel free to ask.
 
 ## Average Grade
-90.0
+87.0
 
 ## Grades
  * [90.0](./Ephod_materials_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Ephod_materials_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Ephod_materials_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Ephod_materials_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Ephod_materials_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

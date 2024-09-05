@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Translation of Divine Titles](../../questions/Translation_of_Divine_Titles.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Translation of Divine Titles](../../questions/Translation_of_Divine_Titles.md)
 
 ## Question [Translation of Divine Titles](../../questions/Translation_of_Divine_Titles.md)
 How should the term 'Lord Yahweh' be translated in different languages to maintain its meaning?

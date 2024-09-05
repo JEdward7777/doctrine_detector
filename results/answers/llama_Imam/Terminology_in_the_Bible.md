@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Terminology in the Bible](../../questions/Terminology_in_the_Bible.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Terminology in the Bible](../../questions/Terminology_in_the_Bible.md)
 
 ## Question [Terminology in the Bible](../../questions/Terminology_in_the_Bible.md)
 What three terms are often used interchangeably to refer to God's chosen people in the Bible?
@@ -23,7 +23,11 @@ In the Bible, there are three terms that are often used interchangeably to refer
 It's important to note that these terms are not always used interchangeably in the Bible, but they are often used to refer to the same people or group of people who were chosen by Allah (God) as His special people.
 
 ## Average Grade
-80.0
+78.0
 
 ## Grades
  * [80.0](./Terminology_in_the_Bible_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Terminology_in_the_Bible_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Terminology_in_the_Bible_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Terminology_in_the_Bible_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Terminology_in_the_Bible_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Injustice in Society](../../questions/Injustice_in_Society.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Injustice in Society](../../questions/Injustice_in_Society.md)
 
 ## Question [Injustice in Society](../../questions/Injustice_in_Society.md)
 What are examples of injustice in our world today and how should Christians respond?
@@ -19,7 +19,11 @@ In response to these injustices, Christians can take several actions based on th
 In Islam, we are also taught to stand against injustice and oppression, to help the needy and marginalized, and to strive for a just and peaceful world. By working together, Muslims and Christians can amplify their efforts to create a more just and equitable society for all.
 
 ## Average Grade
-80.0
+81.0
 
 ## Grades
  * [80.0](./Injustice_in_Society_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Injustice_in_Society_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Injustice_in_Society_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Injustice_in_Society_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [70.0](./Injustice_in_Society_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

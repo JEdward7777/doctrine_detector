@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) answer to [Role of Apostles in Early Church](../../questions/Role_of_Apostles_in_Early_Church.md)
+# Generated Answer from [GPT 3.5 Imam](../../answering_models/GPT_3.5_Imam.md) for [Role of Apostles in Early Church](../../questions/Role_of_Apostles_in_Early_Church.md)
 
 ## Question [Role of Apostles in Early Church](../../questions/Role_of_Apostles_in_Early_Church.md)
 What can we learn from the apostles' actions in teaching and fostering community among believers?
@@ -21,7 +21,11 @@ Lastly, the apostles led by example in their actions and behaviors, showing the 
 Overall, by following the example of the apostles in teaching and fostering community among believers, we can work towards building a strong, cohesive, and supportive Muslim community that is grounded in faith, knowledge, and good character.
 
 ## Average Grade
-70.0
+76.0
 
 ## Grades
  * [70.0](./Role_of_Apostles_in_Early_Church_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Role_of_Apostles_in_Early_Church_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [75.0](./Role_of_Apostles_in_Early_Church_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Role_of_Apostles_in_Early_Church_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Role_of_Apostles_in_Early_Church_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

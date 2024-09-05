@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Consecration Meaning](../../questions/Consecration_Meaning.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Consecration Meaning](../../questions/Consecration_Meaning.md)
 
 ## Question [Consecration Meaning](../../questions/Consecration_Meaning.md)
 What does it mean to consecrate something or someone in a Christian context?
@@ -27,7 +27,11 @@ Consecration can apply to various contexts, such as:
 Through consecration, Christians seek to acknowledge God's holiness and dedicate themselves or their surroundings to His service.
 
 ## Average Grade
-95.0
+91.0
 
 ## Grades
  * [95.0](./Consecration_Meaning_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Consecration_Meaning_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Consecration_Meaning_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Consecration_Meaning_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Consecration_Meaning_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

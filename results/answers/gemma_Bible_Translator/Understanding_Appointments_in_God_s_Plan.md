@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Understanding Appointments in God's Plan](../../questions/Understanding_Appointments_in_God_s_Plan.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Understanding Appointments in God's Plan](../../questions/Understanding_Appointments_in_God_s_Plan.md)
 
 ## Question [Understanding Appointments in God's Plan](../../questions/Understanding_Appointments_in_God_s_Plan.md)
 What does it mean to be 'appointed to eternal life' in a Christian context?

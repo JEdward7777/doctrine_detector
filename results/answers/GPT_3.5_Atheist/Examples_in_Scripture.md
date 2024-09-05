@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Examples in Scripture](../../questions/Examples_in_Scripture.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Examples in Scripture](../../questions/Examples_in_Scripture.md)
 
 ## Question [Examples in Scripture](../../questions/Examples_in_Scripture.md)
 Can you provide examples from the Bible that illustrate instances of demon possession?
@@ -19,7 +19,11 @@ Another example is found in the Gospel of Matthew, where a man brings his son to
 These examples illustrate the belief in demon possession as described in the Bible, where demons can take control of individuals and cause them harm.
 
 ## Average Grade
-80.0
+87.0
 
 ## Grades
  * [80.0](./Examples_in_Scripture_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Examples_in_Scripture_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Examples_in_Scripture_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Examples_in_Scripture_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Examples_in_Scripture_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

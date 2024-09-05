@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Judgment of Others](../../questions/Judgment_of_Others.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Judgment of Others](../../questions/Judgment_of_Others.md)
 
 ## Question [Judgment of Others](../../questions/Judgment_of_Others.md)
 What does Jesus teach us about pointing out the faults of others in relation to our own faults?
@@ -17,7 +17,11 @@ Jesus teaches us in the Bible to first address and confront our own faults befor
 This teaching emphasizes the importance of humility and self-reflection before judging or criticizing others. We are called to address our own faults and shortcomings first, before helping others with theirs. Jesus reminds us that we are all sinners in need of grace and redemption, and that compassion and understanding should guide our interactions with others.
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Judgment_of_Others_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Judgment_of_Others_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Judgment_of_Others_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Judgment_of_Others_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Judgment_of_Others_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [David's Throne](../../questions/David_s_Throne.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [David's Throne](../../questions/David_s_Throne.md)
 
 ## Question [David's Throne](../../questions/David_s_Throne.md)
 What does the promise of David's throne lasting forever signify in Christian theology?
@@ -19,7 +19,11 @@ According to the New Testament, Jesus is described as the "Son of David" and is 
 Therefore, the promise of David's throne lasting forever in Christian theology symbolizes the continuity of God's plan of salvation throughout history and the ultimate reign of Jesus Christ as King of kings and Lord of lords.
 
 ## Average Grade
-95.0
+91.0
 
 ## Grades
  * [95.0](./David_s_Throne_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./David_s_Throne_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./David_s_Throne_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./David_s_Throne_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./David_s_Throne_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Holy Spirit Identity](../../questions/Holy_Spirit_Identity.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Holy Spirit Identity](../../questions/Holy_Spirit_Identity.md)
 
 ## Question [Holy Spirit Identity](../../questions/Holy_Spirit_Identity.md)
 How does the identity of the Holy Spirit as God influence the way Christians view his role in their lives?

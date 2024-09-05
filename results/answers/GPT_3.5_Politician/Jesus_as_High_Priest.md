@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) answer to [Jesus as High Priest](../../questions/Jesus_as_High_Priest.md)
+# Generated Answer from [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) for [Jesus as High Priest](../../questions/Jesus_as_High_Priest.md)
 
 ## Question [Jesus as High Priest](../../questions/Jesus_as_High_Priest.md)
 How is Jesus referred to in relation to the priesthood, and what does this mean for the sacrifices made by human priests?
@@ -15,7 +15,11 @@ Understanding the significance of Jesus' role in the priesthood
 Jesus is often referred to as the eternal high priest in Christian theology. This title signifies his role as the intermediary between God and humanity, offering himself as the ultimate sacrifice for the sins of all people. In comparison to human priests, Jesus is seen as the perfect and sinless mediator who offers a sacrifice once and for all, eliminating the need for continuous offerings by human priests. This concept highlights the significance of Jesus' sacrifice in Christian belief and underscores his unique position in religious practice.
 
 ## Average Grade
-95.0
+91.0
 
 ## Grades
  * [95.0](./Jesus_as_High_Priest_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Jesus_as_High_Priest_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Jesus_as_High_Priest_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Jesus_as_High_Priest_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Jesus_as_High_Priest_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

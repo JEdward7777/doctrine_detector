@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) answer to [Paul's Experience in Lystra](../../questions/Paul_s_Experience_in_Lystra.md)
+# Generated Answer from [GPT 3.5 Politician](../../answering_models/GPT_3.5_Politician.md) for [Paul's Experience in Lystra](../../questions/Paul_s_Experience_in_Lystra.md)
 
 ## Question [Paul's Experience in Lystra](../../questions/Paul_s_Experience_in_Lystra.md)
 What lessons can be learned from the stoning of Paul in Lystra regarding perseverance in faith and ministry?
@@ -19,7 +19,11 @@ Furthermore, the stoning of Paul in Lystra serves as a reminder of the importanc
 Overall, the story of Paul's stoning in Lystra encourages us to remain committed to our faith and ministry, even when faced with challenges, while also being mindful of the cultural context in which we operate.
 
 ## Average Grade
-90.0
+88.0
 
 ## Grades
  * [90.0](./Paul_s_Experience_in_Lystra_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Paul_s_Experience_in_Lystra_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Paul_s_Experience_in_Lystra_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Paul_s_Experience_in_Lystra_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Paul_s_Experience_in_Lystra_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

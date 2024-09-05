@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Obeying God's Commands](../../questions/Obeying_God_s_Commands.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Obeying God's Commands](../../questions/Obeying_God_s_Commands.md)
 
 ## Question [Obeying God's Commands](../../questions/Obeying_God_s_Commands.md)
 How do the laws given to Moses relate to the concept of a covenant between God and His people?
@@ -27,7 +27,11 @@ The laws given to Moses served several purposes within the covenant relationship
 In summary, the laws given to Moses were an essential part of the covenant between God and His people, serving to guide, define, and reveal God's expectations for His chosen people while also pointing to the need for a Savior who would ultimately fulfill the requirements of the law.
 
 ## Average Grade
-95.0
+94.0
 
 ## Grades
  * [95.0](./Obeying_God_s_Commands_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Obeying_God_s_Commands_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Obeying_God_s_Commands_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Obeying_God_s_Commands_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Obeying_God_s_Commands_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

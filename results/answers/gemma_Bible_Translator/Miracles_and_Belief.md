@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Miracles and Belief](../../questions/Miracles_and_Belief.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Miracles and Belief](../../questions/Miracles_and_Belief.md)
 
 ## Question [Miracles and Belief](../../questions/Miracles_and_Belief.md)
 How do miracles function as signs that lead to belief in God?

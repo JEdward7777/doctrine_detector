@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Origins of the Hebrews](../../questions/Origins_of_the_Hebrews.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Origins of the Hebrews](../../questions/Origins_of_the_Hebrews.md)
 
 ## Question [Origins of the Hebrews](../../questions/Origins_of_the_Hebrews.md)
 Who are the Hebrews descended from in the Bible?
@@ -23,7 +23,11 @@ Now, I know that some might interpret this question as having connotations relat
 So, let's focus on the shared values of faith, family, and community that unite us all!
 
 ## Average Grade
-90.0
+85.0
 
 ## Grades
  * [90.0](./Origins_of_the_Hebrews_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Origins_of_the_Hebrews_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Origins_of_the_Hebrews_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Origins_of_the_Hebrews_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Origins_of_the_Hebrews_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

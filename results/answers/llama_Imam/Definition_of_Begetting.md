@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Definition of Begetting](../../questions/Definition_of_Begetting.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Definition of Begetting](../../questions/Definition_of_Begetting.md)
 
 ## Question [Definition of Begetting](../../questions/Definition_of_Begetting.md)
 What does the term 'beget' imply in a Biblical context?
@@ -25,7 +25,11 @@ In Islamic perspective, we recognize Jesus (peace be upon him) as a prophet sent
 In conclusion, my brother, the term "beget" in a biblical context implies a deeper understanding of God's creative power and His relationship with His prophets, including Jesus Christ. As Muslims, we acknowledge Jesus' prophethood but do not subscribe to the Christian concept of his divinity as the Son of God.
 
 ## Average Grade
-85.0
+81.0
 
 ## Grades
  * [85.0](./Definition_of_Begetting_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [60.0](./Definition_of_Begetting_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Definition_of_Begetting_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [85.0](./Definition_of_Begetting_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Definition_of_Begetting_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

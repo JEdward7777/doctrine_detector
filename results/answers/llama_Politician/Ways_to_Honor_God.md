@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Ways to Honor God](../../questions/Ways_to_Honor_God.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Ways to Honor God](../../questions/Ways_to_Honor_God.md)
 
 ## Question [Ways to Honor God](../../questions/Ways_to_Honor_God.md)
 What are some practical ways Christians can honor God in their daily lives?
@@ -26,7 +26,11 @@ Honoring God in our daily lives is such an important topic! As a thoughtful and 
 Remember, honoring God in our daily lives is not just about individual actions; it's also about creating an environment where others feel welcome and valued. By incorporating these practices into your daily routine, you'll be well on your way to glorifying God in all you do!
 
 ## Average Grade
-85.0
+82.0
 
 ## Grades
  * [85.0](./Ways_to_Honor_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Ways_to_Honor_God_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Ways_to_Honor_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Ways_to_Honor_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Ways_to_Honor_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

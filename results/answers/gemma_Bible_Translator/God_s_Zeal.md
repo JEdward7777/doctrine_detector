@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [God's Zeal](../../questions/God_s_Zeal.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [God's Zeal](../../questions/God_s_Zeal.md)
 
 ## Question [God's Zeal](../../questions/God_s_Zeal.md)
 How does the term 'zeal of the Lord' reflect God's actions towards His people?

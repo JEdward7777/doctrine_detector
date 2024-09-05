@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Atonement and Forgiveness](../../questions/Atonement_and_Forgiveness.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Atonement and Forgiveness](../../questions/Atonement_and_Forgiveness.md)
 
 ## Question [Atonement and Forgiveness](../../questions/Atonement_and_Forgiveness.md)
 In what ways does atonement relate to the concepts of forgiveness and reconciliation in Christianity?
@@ -21,7 +21,11 @@ Reconciliation is another key aspect of atonement in Christianity. Through Jesus
 Overall, atonement, forgiveness, and reconciliation are interconnected concepts in Christianity, all pointing to the central truth that through Jesus Christ's sacrificial death, believers can receive forgiveness for their sins and be reconciled to God, experiencing the fullness of His love and grace.
 
 ## Average Grade
-95.0
+91.0
 
 ## Grades
  * [95.0](./Atonement_and_Forgiveness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Atonement_and_Forgiveness_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Atonement_and_Forgiveness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Atonement_and_Forgiveness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Atonement_and_Forgiveness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

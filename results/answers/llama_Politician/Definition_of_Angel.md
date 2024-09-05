@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Definition of Angel](../../questions/Definition_of_Angel.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Definition of Angel](../../questions/Definition_of_Angel.md)
 
 ## Question [Definition of Angel](../../questions/Definition_of_Angel.md)
 What is the biblical definition of an angel and its primary role?
@@ -29,7 +29,11 @@ It's essential to note that these roles might not be exhaustive, and different f
 Now, I'd like to emphasize that this answer is grounded in the biblical narrative and acknowledges the diversity of beliefs surrounding angels. I hope this response has been informative, respectful, and inclusive for all those with an interest in this topic!
 
 ## Average Grade
-60.0
+74.0
 
 ## Grades
  * [60.0](./Definition_of_Angel_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Definition_of_Angel_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [65.0](./Definition_of_Angel_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Definition_of_Angel_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Definition_of_Angel_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Biblical References to Heaven](../../questions/Biblical_References_to_Heaven.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Biblical References to Heaven](../../questions/Biblical_References_to_Heaven.md)
 
 ## Question [Biblical References to Heaven](../../questions/Biblical_References_to_Heaven.md)
 Which Bible verses provide insight into the concept of heaven?
@@ -29,7 +29,11 @@ These verses convey various aspects of heaven, including the assurance of eterna
 In Islam, the concept of heaven (Jannah) also holds great significance, described as a place of eternal bliss, comfort, and nearness to Allah. If you are interested in exploring the Islamic perspective on heaven, I would be happy to provide that information.
 
 ## Average Grade
-60.0
+69.0
 
 ## Grades
  * [60.0](./Biblical_References_to_Heaven_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [60.0](./Biblical_References_to_Heaven_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Biblical_References_to_Heaven_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Biblical_References_to_Heaven_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Biblical_References_to_Heaven_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

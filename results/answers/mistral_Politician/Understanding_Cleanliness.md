@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Politician](../../answering_models/mistral_Politician.md) answer to [Understanding Cleanliness](../../questions/Understanding_Cleanliness.md)
+# Generated Answer from [mistral Politician](../../answering_models/mistral_Politician.md) for [Understanding Cleanliness](../../questions/Understanding_Cleanliness.md)
 
 ## Question [Understanding Cleanliness](../../questions/Understanding_Cleanliness.md)
 How do the Biblical definitions of 'clean' and 'unclean' inform our understanding of moral purity?
@@ -23,7 +23,11 @@ Instead, we can draw inspiration from the broader themes of compassion, love, an
 In summary, while the Biblical definitions of 'clean' and 'unclean' can offer insights into ancient beliefs and values, it is essential to interpret them with sensitivity to contemporary contexts and strive for inclusivity and understanding in our discussions of moral purity.
 
 ## Average Grade
-85.0
+87.4
 
 ## Grades
  * [85.0](./Understanding_Cleanliness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Understanding_Cleanliness_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Understanding_Cleanliness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Understanding_Cleanliness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [92.0](./Understanding_Cleanliness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

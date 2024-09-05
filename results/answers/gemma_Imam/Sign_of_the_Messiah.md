@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Imam](../../answering_models/gemma_Imam.md) answer to [Sign of the Messiah](../../questions/Sign_of_the_Messiah.md)
+# Generated Answer from [gemma Imam](../../answering_models/gemma_Imam.md) for [Sign of the Messiah](../../questions/Sign_of_the_Messiah.md)
 
 ## Question [Sign of the Messiah](../../questions/Sign_of_the_Messiah.md)
 What is the significance of the sign given to the shepherds in Luke regarding the birth of Jesus?
@@ -51,7 +51,11 @@ The sign given to the shepherds in Luke's Gospel is a significant event for seve
 The sign given to the shepherds in Luke's Gospel is a significant event that confirms the authenticity of Jesus' birth, announces the good news of his arrival, guides the shepherds, witnesses the fulfillment of prophecy, and inspires the spreading of the word about Jesus.
 
 ## Average Grade
-75.0
+79.0
 
 ## Grades
  * [75.0](./Sign_of_the_Messiah_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Sign_of_the_Messiah_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Sign_of_the_Messiah_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Sign_of_the_Messiah_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Sign_of_the_Messiah_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

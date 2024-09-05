@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [The Nature of Prayer](../../questions/The_Nature_of_Prayer.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [The Nature of Prayer](../../questions/The_Nature_of_Prayer.md)
 
 ## Question [The Nature of Prayer](../../questions/The_Nature_of_Prayer.md)
 What does it mean to pray and how is it different from talking to a false god?

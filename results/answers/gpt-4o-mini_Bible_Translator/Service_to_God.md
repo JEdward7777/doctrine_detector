@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) answer to [Service to God](../../questions/Service_to_God.md)
+# Generated Answer from [gpt-4o-mini Bible Translator](../../answering_models/gpt-4o-mini_Bible_Translator.md) for [Service to God](../../questions/Service_to_God.md)
 
 ## Question [Service to God](../../questions/Service_to_God.md)
 In what ways can Christians serve God in their ministry according to the text?
@@ -37,7 +37,11 @@ Christians can serve God in their ministry through various ways, as reflected in
 In summary, Christians serve God in their ministries through preaching, teaching, prayer, service, community, worship, and using their spiritual gifts, all aimed at glorifying God and advancing His Kingdom.
 
 ## Average Grade
-90.0
+91.0
 
 ## Grades
  * [90.0](./Service_to_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Service_to_God_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Service_to_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Service_to_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [95.0](./Service_to_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

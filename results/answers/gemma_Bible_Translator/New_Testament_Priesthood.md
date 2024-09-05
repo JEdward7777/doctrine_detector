@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [New Testament Priesthood](../../questions/New_Testament_Priesthood.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [New Testament Priesthood](../../questions/New_Testament_Priesthood.md)
 
 ## Question [New Testament Priesthood](../../questions/New_Testament_Priesthood.md)
 What does it mean for every believer in Jesus to be considered a priest in the New Testament?

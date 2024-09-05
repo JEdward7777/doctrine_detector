@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral atheist](../../answering_models/mistral_atheist.md) answer to [God's Revelation](../../questions/God_s_Revelation.md)
+# Generated Answer from [mistral atheist](../../answering_models/mistral_atheist.md) for [God's Revelation](../../questions/God_s_Revelation.md)
 
 ## Question [God's Revelation](../../questions/God_s_Revelation.md)
 How does God introduce Himself using His name in the Bible?
@@ -23,7 +23,11 @@ Recognizing the importance of His revelation in understanding God's character an
 4. El Shaddai (אֵל שַׁדַּי) - This is another significant name for God in the Old Testament, meaning "God Almighty" or "God of the Mountains." It is often associated with God's provision and protection.
 
 ## Average Grade
-90.0
+86.0
 
 ## Grades
  * [90.0](./God_s_Revelation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./God_s_Revelation_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./God_s_Revelation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./God_s_Revelation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [75.0](./God_s_Revelation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

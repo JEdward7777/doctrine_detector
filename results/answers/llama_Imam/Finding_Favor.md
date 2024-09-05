@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Finding Favor](../../questions/Finding_Favor.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Finding Favor](../../questions/Finding_Favor.md)
 
 ## Question [Finding Favor](../../questions/Finding_Favor.md)
 What does it mean to 'find favor' with someone in a biblical context?
@@ -27,7 +27,11 @@ In conclusion, my brother or sister, finding favor with someone in a biblical co
 Wa alaykum as-salam (and upon you be peace).
 
 ## Average Grade
-60.0
+79.4
 
 ## Grades
  * [60.0](./Finding_Favor_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Finding_Favor_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Finding_Favor_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Finding_Favor_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [92.0](./Finding_Favor_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

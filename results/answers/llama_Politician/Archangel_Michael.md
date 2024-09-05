@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Politician](../../answering_models/llama_Politician.md) answer to [Archangel Michael](../../questions/Archangel_Michael.md)
+# Generated Answer from [llama Politician](../../answering_models/llama_Politician.md) for [Archangel Michael](../../questions/Archangel_Michael.md)
 
 ## Question [Archangel Michael](../../questions/Archangel_Michael.md)
 Who is the only angel referred to as an 'archangel' in the Bible?
@@ -19,7 +19,11 @@ According to the Bible, the archangel referred to is... (drumroll please)... Mic
 And let me just say, as a politician, I believe it's essential to recognize the importance of faith and spirituality in people's lives. After all, we are all unique individuals with our own beliefs, values, and traditions! *smiles broadly*
 
 ## Average Grade
-40.0
+56.0
 
 ## Grades
  * [40.0](./Archangel_Michael_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [75.0](./Archangel_Michael_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [20.0](./Archangel_Michael_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [65.0](./Archangel_Michael_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Archangel_Michael_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

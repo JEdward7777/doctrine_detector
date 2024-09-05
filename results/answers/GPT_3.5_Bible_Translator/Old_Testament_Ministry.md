@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Old Testament Ministry](../../questions/Old_Testament_Ministry.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Old Testament Ministry](../../questions/Old_Testament_Ministry.md)
 
 ## Question [Old Testament Ministry](../../questions/Old_Testament_Ministry.md)
 How did the priests in the Old Testament carry out their ministry in the temple?
@@ -21,7 +21,11 @@ The priests followed strict guidelines for their service, including rules for pu
 Ultimately, the priests served as mediators between God and the people, seeking to maintain the relationship between the Israelites and their God through obedience to his commandments and offerings of sacrifice.
 
 ## Average Grade
-90.0
+85.0
 
 ## Grades
  * [90.0](./Old_Testament_Ministry_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Old_Testament_Ministry_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [85.0](./Old_Testament_Ministry_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Old_Testament_Ministry_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [70.0](./Old_Testament_Ministry_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

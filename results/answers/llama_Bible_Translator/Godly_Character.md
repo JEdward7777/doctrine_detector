@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) answer to [Godly Character](../../questions/Godly_Character.md)
+# Generated Answer from [llama Bible Translator](../../answering_models/llama_Bible_Translator.md) for [Godly Character](../../questions/Godly_Character.md)
 
 ## Question [Godly Character](../../questions/Godly_Character.md)
 What are the fruits of the Holy Spirit that indicate a person has godly character?
@@ -29,7 +29,11 @@ These fruits are not just a list of moral behaviors, but rather the natural outf
 In Christian theology, this concept is rooted in the idea that believers are transformed by the renewing of their minds (Romans 12:2), which involves being conformed to the image of Christ (Romans 8:29). The Fruits of the Holy Spirit serve as a practical manifestation of this transformation process.
 
 ## Average Grade
-95.0
+90.0
 
 ## Grades
  * [95.0](./Godly_Character_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Godly_Character_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Godly_Character_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [95.0](./Godly_Character_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [80.0](./Godly_Character_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

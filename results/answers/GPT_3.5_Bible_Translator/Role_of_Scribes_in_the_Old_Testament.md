@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [Role of Scribes in the Old Testament](../../questions/Role_of_Scribes_in_the_Old_Testament.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [Role of Scribes in the Old Testament](../../questions/Role_of_Scribes_in_the_Old_Testament.md)
 
 ## Question [Role of Scribes in the Old Testament](../../questions/Role_of_Scribes_in_the_Old_Testament.md)
 What responsibilities did scribes have in preserving the Old Testament scriptures?
@@ -19,7 +19,11 @@ Scribes were highly trained individuals who had to adhere to strict rules and gu
 The faithfulness and diligence of scribes in preserving the Old Testament scriptures have been instrumental in transmitting God's Word through the centuries. Their work has helped to preserve the sacred texts and make them accessible to countless generations of believers.
 
 ## Average Grade
-90.0
+89.4
 
 ## Grades
  * [90.0](./Role_of_Scribes_in_the_Old_Testament_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [92.0](./Role_of_Scribes_in_the_Old_Testament_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Role_of_Scribes_in_the_Old_Testament_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Role_of_Scribes_in_the_Old_Testament_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Role_of_Scribes_in_the_Old_Testament_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

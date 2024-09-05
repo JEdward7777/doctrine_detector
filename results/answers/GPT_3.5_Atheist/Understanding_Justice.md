@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) answer to [Understanding Justice](../../questions/Understanding_Justice.md)
+# Generated Answer from [GPT 3.5 Atheist](../../answering_models/GPT_3.5_Atheist.md) for [Understanding Justice](../../questions/Understanding_Justice.md)
 
 ## Question [Understanding Justice](../../questions/Understanding_Justice.md)
 What does it mean to act justly according to God's laws?
@@ -17,7 +17,11 @@ As an atheistic scholar, I do not believe in the existence of a deity or divine 
 It is important to understand that concepts of justice can vary greatly across different cultures and belief systems, and what may be considered just according to one religion may not be the same in another. Ultimately, acting justly according to God's laws is about living in accordance with the values and teachings of a specific religion, with the aim of promoting harmony, righteousness, and moral goodness in society.
 
 ## Average Grade
-60.0
+76.0
 
 ## Grades
  * [60.0](./Understanding_Justice_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [80.0](./Understanding_Justice_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [75.0](./Understanding_Justice_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Understanding_Justice_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Understanding_Justice_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Cursing in the Biblical Narrative](../../questions/Cursing_in_the_Biblical_Narrative.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Cursing in the Biblical Narrative](../../questions/Cursing_in_the_Biblical_Narrative.md)
 
 ## Question [Cursing in the Biblical Narrative](../../questions/Cursing_in_the_Biblical_Narrative.md)
 What significance does the curse placed on the snake in Genesis 3:14 carry in relation to sin and redemption?
@@ -27,7 +27,11 @@ In Genesis 3:14, the curse placed upon the serpent after the Fall of Adam and Ev
 In summary, while the curse on the serpent in Genesis is a specific narrative with its own context and theological implications within Christianity, its themes resonate in Islamic thought regarding sin, temptation, the consequences of disobedience, the hope for redemption through repentance, and the ongoing struggle against evil. Both traditions acknowledge the importance of aligning oneself with divine will and the opportunities for forgiveness and mercy that God continuously extends to His creation.
 
 ## Average Grade
-85.0
+82.4
 
 ## Grades
  * [85.0](./Cursing_in_the_Biblical_Narrative_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Cursing_in_the_Biblical_Narrative_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [70.0](./Cursing_in_the_Biblical_Narrative_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Cursing_in_the_Biblical_Narrative_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [92.0](./Cursing_in_the_Biblical_Narrative_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

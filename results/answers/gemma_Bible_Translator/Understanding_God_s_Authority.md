@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Understanding God's Authority](../../questions/Understanding_God_s_Authority.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Understanding God's Authority](../../questions/Understanding_God_s_Authority.md)
 
 ## Question [Understanding God's Authority](../../questions/Understanding_God_s_Authority.md)
 What does the title 'Most High' signify concerning God's authority in our lives?

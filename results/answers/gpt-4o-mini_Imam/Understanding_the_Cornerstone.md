@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) answer to [Understanding the Cornerstone](../../questions/Understanding_the_Cornerstone.md)
+# Generated Answer from [gpt-4o-mini Imam](../../answering_models/gpt-4o-mini_Imam.md) for [Understanding the Cornerstone](../../questions/Understanding_the_Cornerstone.md)
 
 ## Question [Understanding the Cornerstone](../../questions/Understanding_the_Cornerstone.md)
 What role does Jesus Christ play as the 'cornerstone' in the context of the Assembly of believers?
@@ -23,7 +23,11 @@ It is important to appreciate that, according to Islamic belief, Jesus will retu
 In summary, in the context of the Assembly of believers, we view Jesus as a revered prophet, with an essential role in God's plan, while our foundational beliefs rest primarily on the message of the Prophet Muhammad and the teachings of the Quran.
 
 ## Average Grade
-75.0
+53.0
 
 ## Grades
  * [75.0](./Understanding_the_Cornerstone_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [40.0](./Understanding_the_Cornerstone_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [60.0](./Understanding_the_Cornerstone_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [30.0](./Understanding_the_Cornerstone_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Understanding_the_Cornerstone_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

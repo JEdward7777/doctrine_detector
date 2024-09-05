@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Biblical Examples of Lamentation](../../questions/Biblical_Examples_of_Lamentation.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Biblical Examples of Lamentation](../../questions/Biblical_Examples_of_Lamentation.md)
 
 ## Question [Biblical Examples of Lamentation](../../questions/Biblical_Examples_of_Lamentation.md)
 Can you identify Biblical figures who expressed lament, and what can we learn from their examples?

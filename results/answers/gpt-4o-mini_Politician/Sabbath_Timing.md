@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) answer to [Sabbath Timing](../../questions/Sabbath_Timing.md)
+# Generated Answer from [gpt-4o-mini Politician](../../answering_models/gpt-4o-mini_Politician.md) for [Sabbath Timing](../../questions/Sabbath_Timing.md)
 
 ## Question [Sabbath Timing](../../questions/Sabbath_Timing.md)
 What is the timing of the Sabbath according to Jewish tradition?
@@ -15,7 +15,11 @@ Recognizing the specific timeframe for the observance of the Sabbath in accordan
 In Jewish tradition, the Sabbath, or Shabbat, occurs weekly from Friday evening at sunset until Saturday evening when three stars appear in the sky. This time frame is considered a holy day of rest and spiritual rejuvenation, during which various work activities are prohibited. The specific timing may vary based on geographical location and the time of year, as it is determined by the local sunset. Communities often refer to local calendars or synagogue announcements for exact times. It's a time for family gatherings, prayer, and reflection, promoting values of rest and community.
 
 ## Average Grade
-90.0
+82.0
 
 ## Grades
  * [90.0](./Sabbath_Timing_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Sabbath_Timing_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Sabbath_Timing_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [80.0](./Sabbath_Timing_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Sabbath_Timing_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

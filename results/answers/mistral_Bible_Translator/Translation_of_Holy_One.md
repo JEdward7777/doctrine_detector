@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) answer to [Translation of Holy One](../../questions/Translation_of_Holy_One.md)
+# Generated Answer from [mistral Bible Translator](../../answering_models/mistral_Bible_Translator.md) for [Translation of Holy One](../../questions/Translation_of_Holy_One.md)
 
 ## Question [Translation of Holy One](../../questions/Translation_of_Holy_One.md)
 How should the term 'Holy One' be translated in different languages?
@@ -31,7 +31,11 @@ Ensuring accurate representation of the term in translations to maintain the the
 8. Japanese: 聖なる (seinaru), which can be used to describe both God and individuals who are set apart for divine service, although it's more commonly used in a religious context when referring to deities or divine beings. For example, 聖なる神 (Seinaru kami) translates to "Holy God".
 
 ## Average Grade
-95.0
+93.0
 
 ## Grades
  * [95.0](./Translation_of_Holy_One_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./Translation_of_Holy_One_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./Translation_of_Holy_One_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Translation_of_Holy_One_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Translation_of_Holy_One_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

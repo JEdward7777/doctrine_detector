@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Nature of Forgiveness](../../questions/Nature_of_Forgiveness.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Nature of Forgiveness](../../questions/Nature_of_Forgiveness.md)
 
 ## Question [Nature of Forgiveness](../../questions/Nature_of_Forgiveness.md)
 What does Jesus's teaching about forgiveness reveal about the character of God the Father?

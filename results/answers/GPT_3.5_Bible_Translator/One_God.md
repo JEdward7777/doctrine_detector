@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) answer to [One God](../../questions/One_God.md)
+# Generated Answer from [GPT 3.5 Bible Translator](../../answering_models/GPT_3.5_Bible_Translator.md) for [One God](../../questions/One_God.md)
 
 ## Question [One God](../../questions/One_God.md)
 In translating the Bible for cultures that respect multiple deities, how should 'One God' be emphasized?
@@ -21,7 +21,11 @@ Furthermore, it could be beneficial to provide explanations or footnotes that cl
 Overall, the key is to communicate the concept of one God in a way that is clear, respectful of the cultural context, and faithful to the teachings of the Bible.
 
 ## Average Grade
-90.0
+91.0
 
 ## Grades
  * [90.0](./One_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [95.0](./One_God_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [95.0](./One_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./One_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./One_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Messianic Identity](../../questions/Messianic_Identity.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Messianic Identity](../../questions/Messianic_Identity.md)
 
 ## Question [Messianic Identity](../../questions/Messianic_Identity.md)
 What significance does the title 'King of the Jews' hold in relation to Jesus' identity as the Messiah?
@@ -25,7 +25,11 @@ In fact, Muslims believe that Jesus was neither crucified nor killed on the cros
 In conclusion, while the title "King of the Jews" holds significant importance in Christian theology for understanding Jesus' identity as the Messiah, Muslims reject this notion and instead view Jesus as a prophet and messenger of Allah, who was taken up to heaven without suffering any harm.
 
 ## Average Grade
-40.0
+44.0
 
 ## Grades
  * [40.0](./Messianic_Identity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [50.0](./Messianic_Identity_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [50.0](./Messianic_Identity_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [20.0](./Messianic_Identity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [60.0](./Messianic_Identity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

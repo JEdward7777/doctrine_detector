@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) answer to [Function of the Soul](../../questions/Function_of_the_Soul.md)
+# Generated Answer from [gemma Bible Translator](../../answering_models/gemma_Bible_Translator.md) for [Function of the Soul](../../questions/Function_of_the_Soul.md)
 
 ## Question [Function of the Soul](../../questions/Function_of_the_Soul.md)
 How can the figurative uses of the word 'soul' in the Bible give insight into its importance for understanding human identity?

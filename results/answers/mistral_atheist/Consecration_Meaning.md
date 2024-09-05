@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [mistral atheist](../../answering_models/mistral_atheist.md) answer to [Consecration Meaning](../../questions/Consecration_Meaning.md)
+# Generated Answer from [mistral atheist](../../answering_models/mistral_atheist.md) for [Consecration Meaning](../../questions/Consecration_Meaning.md)
 
 ## Question [Consecration Meaning](../../questions/Consecration_Meaning.md)
 What does it mean to consecrate something or someone in a Christian context?
@@ -19,7 +19,11 @@ For example, in Catholicism, a church building can be consecrated by a bishop as
 In addition to physical objects, individuals can also be consecrated in various ways, such as when someone is ordained as a priest or bishop, or when an individual takes religious vows as a monk, nun, or member of a religious order. In this sense, the act of consecration signifies a person's dedication to living a life in service to God and the Church.
 
 ## Average Grade
-95.0
+91.0
 
 ## Grades
  * [95.0](./Consecration_Meaning_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [90.0](./Consecration_Meaning_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [90.0](./Consecration_Meaning_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [90.0](./Consecration_Meaning_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [90.0](./Consecration_Meaning_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)

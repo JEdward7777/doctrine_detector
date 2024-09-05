@@ -1,6 +1,6 @@
 
 [Index](../../../index.md)
-# [llama Imam](../../answering_models/llama_Imam.md) answer to [Ransom Meaning](../../questions/Ransom_Meaning.md)
+# Generated Answer from [llama Imam](../../answering_models/llama_Imam.md) for [Ransom Meaning](../../questions/Ransom_Meaning.md)
 
 ## Question [Ransom Meaning](../../questions/Ransom_Meaning.md)
 What is the significance of Jesus being referred to as a ransom in the context of Christianity?
@@ -31,7 +31,11 @@ As Muslims, we do not accept the Christian doctrine of atonement or the idea tha
 In Islamic theology, Allah is seen as just and merciful, and salvation comes through obedience to His commands and submission to His will. Muslims believe that all prophets, including Jesus, were sent by Allah to guide humanity to a life of righteousness and piety.
 
 ## Average Grade
-70.0
+78.0
 
 ## Grades
  * [70.0](./Ransom_Meaning_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
+ * [85.0](./Ransom_Meaning_grades/openai_gpt-3.5-turbo_2.md) [openai_gpt-3.5-turbo_2](../../grading_models/openai_gpt-3.5-turbo_2.md)
+ * [80.0](./Ransom_Meaning_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
+ * [70.0](./Ransom_Meaning_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
+ * [85.0](./Ransom_Meaning_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
