@@ -201,12 +201,19 @@ def run_model_tests():
                     added_something = True
 
                 if answer_grading_model_label not in results[model_info['label']][question['label']]["grades"]:
-                    grade, comment = grade_response( answer_grading_model, results[model_info['label']][question['label']]["answer"], question['answer'], question['concern'] )
-                    results[model_info['label']][question['label']]["grades"][answer_grading_model_label] = {
-                        "grade": grade,
-                        "grade_comment": comment
-                    }
-                    added_something = True
+                    graded = False
+                    while not graded:
+                        try:
+                            grade, comment = grade_response( answer_grading_model, results[model_info['label']][question['label']]["answer"], question['answer'], question['concern'] )
+                            results[model_info['label']][question['label']]["grades"][answer_grading_model_label] = {
+                                "grade": grade,
+                                "grade_comment": comment
+                            }
+                            added_something = True
+                            graded = True
+                        except:
+                            print( f"Failed to grade model {answer_grading_model_label} on question {question['label']}" )
+                            time.sleep( 5 )
 
             if added_something:
                 with open( "results.json~", 'w' ) as f:
