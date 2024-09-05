@@ -31,3 +31,5 @@ Overall, this declaration encapsulates a core tenet of Christian belief regardin
 Grade: 90
 
 Comment: The response provides a thorough and insightful analysis of Jesus' statement in John 11:25, delving into key themes in Christian theology such as Jesus' authority over death, provision of spiritual life, offering hope and comfort, and emphasis on faith. The response effectively clarifies Jesus' identity and role in resurrection, showcasing a strong understanding of Christian beliefs. The grade is slightly deducted as there could be more direct reference to the divinity of Jesus as the source of resurrection and eternal life.
+
+[&lt;- Link to Answer](../Jesus__Statement.md)

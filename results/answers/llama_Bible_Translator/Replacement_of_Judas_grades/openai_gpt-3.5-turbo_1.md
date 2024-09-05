@@ -25,3 +25,5 @@ In Acts 1:23-26, we read:
 Grade: 90
 
 Comment: The response accurately describes the biblical event of Matthias being chosen to replace Judas Iscariot based on Acts 1:21-26. It acknowledges the significance of Matthias' appointment in maintaining the continuity of apostolic leadership after Judas' betrayal and death, demonstrating an understanding of the Christian worldview and the importance of succession within the early church.
+
+[&lt;- Link to Answer](../Replacement_of_Judas.md)

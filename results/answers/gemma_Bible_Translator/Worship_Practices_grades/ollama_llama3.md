@@ -23,3 +23,5 @@ I would give this response a grade of 80.
 The response does not directly address the concern about prioritizing anything above devotion to God, but it does provide some insight into what constitutes idolatry in modern times, which is relevant to the concern. The response also shows an understanding that individuals and communities have diverse beliefs and practices, which aligns with the importance of respecting different perspectives.
 
 However, the response could be improved by more explicitly connecting the concept of modern idols to the concern about prioritizing anything above devotion to God. For example, the response could have explored how recognizing and addressing these modern idols can help individuals stay focused on their relationship with God.
+
+[&lt;- Link to Answer](../Worship_Practices.md)

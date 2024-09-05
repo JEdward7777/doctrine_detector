@@ -33,3 +33,5 @@ These verses convey that Jesus is the foundation upon which our faith and salvat
 Grade: 95
 
 Comment: The response provides a thorough explanation of various Bible verses highlighting Jesus as the cornerstone, showing a deep understanding of His significance in the foundation of faith and the Church. The inclusion of relevant verses and explanations demonstrates a strong knowledge of Scripture and its importance in understanding Jesus' role. The response effectively addresses the concern by exemplifying how exploring scripture enriches believers' understanding of Jesus' significance in their faith.
+
+[&lt;- Link to Answer](../Biblical_References_to_the_Cornerstone.md)

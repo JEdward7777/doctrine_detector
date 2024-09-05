@@ -21,3 +21,5 @@ After King Solomon's reign, a significant event in Israel's history was the divi
 Grade: 85
 
 Comment: The response accurately identifies the division of Israel into two kingdoms after King Solomon's reign. However, it is lacking in depth regarding the historical and spiritual significance of this event. A Christian worldview would emphasize the consequences of disobedience to God and the fulfillment of prophecies regarding the division of the kingdom as a result of Israel's sin. More elaboration on these aspects would have strengthened the response.
+
+[&lt;- Link to Answer](../Division_of_Israel.md)

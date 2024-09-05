@@ -45,3 +45,5 @@ It's important to note that the concept of ordination or consecration varies acr
 Grade: 80
 
 Comment: The response provides a comprehensive overview of individuals consecrated to God in the Bible, detailing examples from different roles such as priests, prophets, kings, and apostles. The answer effectively addresses the concern by highlighting key figures like the Levitical Priests, Prophet Samuel, King David, and the Apostles. However, it could have been improved by including more specific references to individuals consecrated as mentioned in the Bible and tying them back to the given answer for a more focused response.
+
+[&lt;- Link to Answer](../Consecrated_Individuals.md)

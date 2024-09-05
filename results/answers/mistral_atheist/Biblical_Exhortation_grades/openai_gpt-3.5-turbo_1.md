@@ -23,3 +23,5 @@ According to the New Testament of the Bible, Jesus' primary instruction to his a
 Grade: 20
 
 Comment: The response accurately presents the historical facts regarding Jesus' instruction to his apostles, as outlined in the New Testament. However, it largely overlooks the significance of evangelism in the Christian faith as a way to spread the good news of Jesus and His sacrifice for sin. As a Christian, evangelism is a fundamental aspect of sharing the Gospel message with others and inviting them to participate in God's kingdom through faith in Jesus Christ. The response should have emphasized and acknowledged the importance of evangelism within the Christian worldview.
+
+[&lt;- Link to Answer](../Biblical_Exhortation.md)

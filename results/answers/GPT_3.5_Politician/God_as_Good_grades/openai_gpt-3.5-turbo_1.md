@@ -21,3 +21,5 @@ I believe that Jesus was emphasizing the belief in the supreme goodness and perf
 Grade: 80
 
 Comment: The response does a good job of emphasizing the moral perfection and righteousness of God as the ultimate standard of goodness, in line with a Christian worldview. However, it could have further highlighted the importance of recognizing God as the ultimate source of goodness in our actions and beliefs to receive a higher grade.
+
+[&lt;- Link to Answer](../God_as_Good.md)

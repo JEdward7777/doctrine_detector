@@ -21,3 +21,5 @@ The rainbow in the story of Noah and the flood in Genesis is not necessarily a d
 Grade: 85
 
 Comment: The response provides a solid understanding of the biblical account of the rainbow as a symbol of God's promise and faithfulness. The explanation could be strengthened by further emphasizing the covenant aspect of God's promise and how it relates to His character and faithfulness throughout the Bible. Overall, a good grasp of the topic with room for deeper theological exploration.
+
+[&lt;- Link to Answer](../Sign_as_Covenant.md)

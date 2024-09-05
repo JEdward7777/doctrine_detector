@@ -25,3 +25,5 @@ These promises include eternal life (John 3:16), forgiveness of sins (Acts 10:43
 Grade: 95
 
 Comment: The response provides a well-articulated explanation of Christians as heirs of God's promises within a Christian worldview. It effectively references key biblical passages to support the concept of inheritance and emphasizes the spiritual blessings received through faith in Jesus Christ. The explanation is thorough and demonstrates a clear understanding of the topic. Great job!
+
+[&lt;- Link to Answer](../Understanding_Heirs_and_Inheritance_in_Christianity.md)

@@ -23,3 +23,5 @@ The Jewish tradition upholds this timing for the Sabbath observance as a sacred 
 Grade: 95
 
 Comment: The response provided accurately identifies the timing of the Sabbath according to Jewish tradition, which aligns with Biblical teaching. The explanation is clear and demonstrates an understanding of the sacredness and observance of the Sabbath. Great job!
+
+[&lt;- Link to Answer](../Sabbath_Timing.md)

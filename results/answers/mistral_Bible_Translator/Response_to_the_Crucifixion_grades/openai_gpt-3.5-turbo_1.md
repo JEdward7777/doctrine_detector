@@ -29,3 +29,5 @@ In this way, Peter addresses their role in the crucifixion, acknowledging their 
 Grade: 90
 
 Comment: The response accurately captures the essence of Peter's message in the Book of Acts regarding the collective responsibility for crucifying Jesus and the importance of repentance and faith for salvation. The analysis effectively considers the context of the early church's preaching and the call to respond to the gospel with a specific focus on Peter's approach. Well done!
+
+[&lt;- Link to Answer](../Response_to_the_Crucifixion.md)

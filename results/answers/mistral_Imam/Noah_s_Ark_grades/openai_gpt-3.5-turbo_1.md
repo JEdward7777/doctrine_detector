@@ -27,3 +27,5 @@ I hope this helps clarify the Islamic perspective on the purpose of Noah's vesse
 Grade: 70
 
 Comment: The response provides a thorough explanation of the Islamic perspective on Prophet Noah's vessel, known as the "safina," and how it was intended to protect those who believed in Allah and Prophet Noah's message from the flood. However, the answer does not directly address the concern regarding understanding God's plan for salvation and preservation in the narrative of Noah's Ark from a Christian worldview. Nonetheless, the response is informative and well-written from an Islamic perspective.
+
+[&lt;- Link to Answer](../Noah_s_Ark.md)

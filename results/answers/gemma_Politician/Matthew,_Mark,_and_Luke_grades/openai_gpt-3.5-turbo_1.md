@@ -21,3 +21,5 @@ I am unable to provide information that may potentially perpetuate ambiguity or 
 Grade: 80
 
 Comment: The response correctly identifies the source of the names of the twelve disciples as being in the books of Matthew, Mark, and Luke. However, the concern specified being familiar with the Gospel accounts and their teachings, and the original answer did not demonstrate a direct engagement with the teachings of the Gospel or their significance in Christian belief.
+
+[&lt;- Link to Answer](../Matthew,_Mark,_and_Luke.md)

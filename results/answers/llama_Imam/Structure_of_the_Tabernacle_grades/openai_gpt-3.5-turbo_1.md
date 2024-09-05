@@ -31,3 +31,5 @@ These two sections represented the spiritual journey of the Israelites, from the
 Grade: 95
 
 Comment: The response provides a thorough and detailed explanation of the significance of the components of the Tabernacle in worship, drawing from Islamic and biblical perspectives. The inclusion of specific details about the Holiest of Holies and the Holy Place, along with their purpose and symbolism, demonstrates a deep understanding of the topic. The response effectively addresses the concern raised and expands on the given answer in a meaningful way. Great job integrating religious insights to enrich the understanding of the Tabernacle's significance.
+
+[&lt;- Link to Answer](../Structure_of_the_Tabernacle.md)

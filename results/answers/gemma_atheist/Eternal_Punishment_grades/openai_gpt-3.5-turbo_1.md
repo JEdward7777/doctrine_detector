@@ -51,3 +51,5 @@ The concept of eternal punishment in hell reflects cultural and philosophical as
 Grade: 50
 
 Comment: The response evaluates the concept of eternal punishment in hell from a humanistic perspective and raises logical and philosophical concerns about the nature of divine justice and mercy. However, it fails to adequately address the Christian belief that hell is a consequence of rejecting Jesus' sacrifice and God's justice in response to rebellion. The student should have engaged more directly with the specific Christian worldview on the issue of eternal consequences in relation to divine justice and mercy.
+
+[&lt;- Link to Answer](../Eternal_Punishment.md)

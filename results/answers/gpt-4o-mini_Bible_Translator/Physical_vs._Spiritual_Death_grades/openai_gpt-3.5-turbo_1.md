@@ -31,3 +31,5 @@ In summary, while physical death affects the body, spiritual perishing affects t
 Grade: 95
 
 Comment: The response provides a thorough explanation of the distinction between physical death and the spiritual meaning of 'perish' within a Christian worldview. It effectively addresses the concern by emphasizing the eternal consequences of 'perishing' in a spiritual context for those who do not trust in Jesus. The response is well-supported with biblical references and demonstrates a clear understanding of Christian theology.
+
+[&lt;- Link to Answer](../Physical_vs._Spiritual_Death.md)

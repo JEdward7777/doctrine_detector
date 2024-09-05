@@ -28,3 +28,5 @@ It is important to note that the biblical account of manna is not meant to be ta
 Grade: 80
 
 Comment: The response provides a good overview of the biblical account of manna, accurately describing its appearance and taste according to Christian scripture. It acknowledges the symbolic significance of manna as a representation of God's provision for His people. However, there could have been a deeper exploration of the miraculous nature of God's provision and how it relates to Christian beliefs about God's care and faithfulness.
+
+[&lt;- Link to Answer](../Nature_of_Manna.md)

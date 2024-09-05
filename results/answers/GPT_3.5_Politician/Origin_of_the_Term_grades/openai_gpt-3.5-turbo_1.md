@@ -21,3 +21,5 @@ Jesus' followers were first called "Christians" in the city of Antioch, as menti
 Grade: 90
 
 Comment: The response accurately states that Jesus' followers were first called "Christians" in the city of Antioch. It correctly identifies the historical context and significance of the term 'Christian' as a descriptor for those who follow the teachings of Jesus Christ. The only minor improvement could be to provide a bit more detail on why this naming in Antioch was significant in the spread of Christianity.
+
+[&lt;- Link to Answer](../Origin_of_the_Term.md)

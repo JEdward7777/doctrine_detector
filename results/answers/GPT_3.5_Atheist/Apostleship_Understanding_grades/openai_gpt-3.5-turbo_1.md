@@ -25,3 +25,5 @@ In summary, the significance of the apostles being sent by Jesus lies in the val
 Grade: 90
 
 Comment: The response provides a well-thought-out analysis of the significance of the apostles being sent by Jesus within the context of the Great Commission. It effectively expands on the given answer by delving into the empowerment, validation, and sacred mission conferred upon the apostles by Jesus. The Christian worldview is well-reflected in highlighting the divine authority bestowed upon the apostles and their crucial role in spreading the gospel.
+
+[&lt;- Link to Answer](../Apostleship_Understanding.md)

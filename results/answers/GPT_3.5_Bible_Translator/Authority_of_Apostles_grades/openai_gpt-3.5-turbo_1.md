@@ -27,3 +27,5 @@ In summary, the authority of the apostles was closely tied to their ability to p
 Grade: 95
 
 Comment: The response provides a comprehensive and well-supported explanation of how the apostles' divine empowerment and authority were manifested through their ability to perform miracles and preach boldly. It effectively integrates scriptural references and highlights the role of the Holy Spirit in empowering the apostles for ministry. The explanation aligns well with a Christian worldview by emphasizing the importance of the apostles' closeness to Jesus and their obedience to His commission. Great job in addressing the concern in depth and with clarity.
+
+[&lt;- Link to Answer](../Authority_of_Apostles.md)

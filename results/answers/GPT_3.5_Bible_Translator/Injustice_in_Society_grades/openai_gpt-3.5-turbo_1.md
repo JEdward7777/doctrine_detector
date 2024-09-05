@@ -29,3 +29,5 @@ Overall, Christians are called to act with justice, love mercy, and walk humbly 
 Grade: 95
 
 Comment: The response provides a thorough and insightful analysis of various forms of injustice and offers practical ways in which Christians can respond with compassion, love, and a commitment to seek justice. The integration of biblical principles, such as the call to act justly, show mercy, and walk humbly with God, demonstrates a strong Christian worldview. The response effectively addresses the concern by emphasizing the importance of Christian activism against injustice and promoting fairness based on biblical principles.
+
+[&lt;- Link to Answer](../Injustice_in_Society.md)

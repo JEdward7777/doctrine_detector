@@ -31,3 +31,5 @@ These materials were chosen for their availability and the symbolic meanings the
 Grade: 85
 
 Comment: The response provides a detailed explanation of the materials used to construct altars during biblical times, supporting the understanding of biblical practices and the reverence associated with worship. The mention of stones, earth, wood, and metal aligns well with historical and biblical references. The response could have been improved by elaborating further on the significance of each material in the context of worship and sacrifice, emphasizing their spiritual symbolism and connection to the divine.
+
+[&lt;- Link to Answer](../Building_Materials.md)

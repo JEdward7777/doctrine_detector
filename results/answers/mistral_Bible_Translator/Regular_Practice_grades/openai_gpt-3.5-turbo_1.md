@@ -25,3 +25,5 @@ The Lord's Supper serves to reinforce believers' unity with one another as the b
 Grade: 95
 
 Comment: The response provides a thorough explanation of the establishment and significance of the Lord's Supper in Christian tradition, emphasizing its role in remembering and celebrating Jesus Christ's sacrificial death and resurrection. It accurately reflects the importance of the Lord's Supper in the life of the church and individual believers within a Christian worldview. The only slight improvement could be expanding on the personal and transformative aspects of partaking in the Lord's Supper in addition to remembering and proclaiming its significance.
+
+[&lt;- Link to Answer](../Regular_Practice.md)

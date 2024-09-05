@@ -27,3 +27,5 @@ Ultimately, the priests served as mediators between God and the people, seeking 
 Grade: 90
 
 Comment: The response effectively summarizes the role of priests in the Old Testament, emphasizing their responsibilities as mediators between God and the people through offerings and service in the temple. It reflects a good understanding of how recognizing these practices can inform current ministry approaches and the importance of sacrificial service in connecting people to God.
+
+[&lt;- Link to Answer](../Old_Testament_Ministry.md)

@@ -34,3 +34,5 @@ Recognizing the role of anointing in spiritual and physical healing as part of C
 Grade: 70
 
 Comment: The response provides a good overview of the biblical references to anointing and healing in the context of Christian faith. It correctly points out that anointing is not explicitly mentioned as a means of healing in the New Testament but highlights the importance of prayer, faith, and God's power in the healing process. However, the response could have further emphasized the symbolic and spiritual significance of anointing in seeking God's intervention and healing power in alignment with Christian practice.
+
+[&lt;- Link to Answer](../Healing_through_Anointing.md)

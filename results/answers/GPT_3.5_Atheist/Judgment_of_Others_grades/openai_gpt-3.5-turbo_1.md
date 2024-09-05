@@ -25,3 +25,5 @@ Therefore, before pointing out the faults of others, we should always consider o
 Grade: 95
 
 Comment: The response effectively uses biblical teachings, specifically referencing the Gospel of Matthew, to emphasize the importance of self-reflection and humility before criticizing others. It aligns well with the concern raised about the negative impact of hypocrisy on our witness as Christians. The emphasis on introspection and personal growth in conjunction with Jesus' teachings demonstrates a strong understanding of Christian principles. Great job incorporating scriptural references to support the argument.
+
+[&lt;- Link to Answer](../Judgment_of_Others.md)

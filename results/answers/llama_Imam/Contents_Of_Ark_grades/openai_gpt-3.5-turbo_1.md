@@ -31,3 +31,5 @@ In Islam, we do not worship physical objects or relics, including the Ark. Rathe
 Grade: 80
 
 Comment: The response provides a comprehensive explanation of the Ark of the Covenant in Islamic belief, discussing its significance, contents, and role in the story of Prophet Musa (Moses). The information is relevant and adds to the understanding of the covenant with the Israelites, even though the focus is primarily on Islam. A higher grade could have been achieved by directly addressing God's covenant with the Israelites from a Christian perspective.
+
+[&lt;- Link to Answer](../Contents_Of_Ark.md)

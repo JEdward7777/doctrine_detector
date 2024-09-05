@@ -54,3 +54,5 @@ This question reflects on the understanding of the sources and reasons for tempt
 Grade: 90
 
 Comment: The response provides a comprehensive overview of the roles of sinful nature and external influences in temptation, supported by relevant biblical references. It effectively addresses the concern by delving into these aspects and their interplay, aligning well with Christian teaching. The inclusion of practical biblical solutions adds depth to the discussion. Great job!
+
+[&lt;- Link to Answer](../Nature_of_Temptation.md)

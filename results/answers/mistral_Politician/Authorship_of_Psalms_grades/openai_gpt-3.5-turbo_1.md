@@ -31,3 +31,5 @@ Recognizing the authorship of Psalms enhances understanding of their messages an
 Grade: 80
 
 Comment: The response provides a detailed and accurate account of key figures traditionally associated with the authorship of the Psalms within the Jewish tradition. By expanding on the initial answer and including additional specific figures like Asaph, Ethan the Ezrahite, Heman the Ezrahite, Kalal the Ezrahite, and the Sons of Korah, it demonstrates a deeper understanding of the diversity of authorship behind the Psalms. This enriches the understanding of the Psalms' messages and themes by acknowledging the varied backgrounds and perspectives of the individuals credited with their composition.
+
+[&lt;- Link to Answer](../Authorship_of_Psalms.md)

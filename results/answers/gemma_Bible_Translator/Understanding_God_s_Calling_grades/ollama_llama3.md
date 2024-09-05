@@ -59,3 +59,5 @@ Strengths:
 Weaknesses:
 
 * Could be further developed to provide more practical advice and examples for readers to apply their understanding of personal purpose in their daily lives.
+
+[&lt;- Link to Answer](../Understanding_God_s_Calling.md)

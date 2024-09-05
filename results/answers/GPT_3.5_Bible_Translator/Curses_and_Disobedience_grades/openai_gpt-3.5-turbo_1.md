@@ -27,3 +27,5 @@ Therefore, the concept of curses in the context of God's judgment on disobedient
 Grade: 95
 
 Comment: The response provides a thorough explanation of the seriousness of disobedience to God's commands with a clear connection to the biblical text and Christian worldview. It effectively emphasizes the need for salvation through faith in Jesus Christ and the consequences of relying solely on the law for justification. Great job incorporating relevant scripture and theological insights to address the concern.
+
+[&lt;- Link to Answer](../Curses_and_Disobedience.md)

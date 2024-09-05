@@ -21,3 +21,5 @@ The Ark of the Covenant is not mentioned in the tabernacle in the Bible. It was 
 Grade: 80
 
 Comment: The response correctly identifies that the Ark of the Covenant was located in the most holy place, showing an understanding of the significance of this place as where the presence of God dwelt. However, the response could have provided a bit more depth and explanation on the biblical narrative and the importance of the Ark of the Covenant in relation to God's presence.
+
+[&lt;- Link to Answer](../Ark_Location.md)

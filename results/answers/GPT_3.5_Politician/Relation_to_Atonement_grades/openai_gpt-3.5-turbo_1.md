@@ -21,3 +21,5 @@ Thank you for your question. In a general sense, both "propitiation" and "atonem
 Grade: 80
 
 Comment: The response provides a good general understanding of propitiation and atonement based on the given answer and concern. It correctly highlights the relationship between the two terms and their theological significance. However, the response could have delved deeper into the theological implications of propitiation and atonement from a Christian perspective, emphasizing the specific sacrifice of Jesus Christ as propitiation for sin and the broader concept of atonement as reconciliation with God through faith.
+
+[&lt;- Link to Answer](../Relation_to_Atonement.md)

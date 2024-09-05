@@ -27,3 +27,5 @@ In summary, an evangelist is a Christian who actively shares their faith with ot
 Grade: 80
 
 Comment: The response accurately explains the concept of evangelism and how it relates to spiritual gifts within Christianity. The answer aligns well with the concern provided, emphasizing the idea of a special spiritual gift for evangelism. However, it could have further expanded on the biblical basis for spiritual gifts, such as referencing 1 Corinthians 12:4-11, to provide a more comprehensive Christian worldview perspective.
+
+[&lt;- Link to Answer](../Gift_of_Evangelism.md)

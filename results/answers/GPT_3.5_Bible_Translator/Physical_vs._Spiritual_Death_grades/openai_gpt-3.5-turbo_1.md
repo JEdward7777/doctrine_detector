@@ -25,3 +25,5 @@ Therefore, while physical death is a temporary separation of the body and soul, 
 Grade: 95
 
 Comment: The response demonstrates a clear understanding of the distinction between physical death and spiritual death within a Christian theological framework. It effectively explains the consequences of sin and the significance of trusting in Jesus for eternal life. The only area for improvement would be to provide a bit more detail or elaboration on the theological implications of spiritual death for a higher score.
+
+[&lt;- Link to Answer](../Physical_vs._Spiritual_Death.md)

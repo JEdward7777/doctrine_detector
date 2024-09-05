@@ -21,3 +21,5 @@ The term "Christians" was first used to describe the followers of Jesus in the c
 Grade: 95
 
 Comment: The response accurately identifies that Jesus' followers were first called 'Christians' in the city of Antioch, as supported by the reference to Acts 11:26. The response demonstrates a solid understanding of the historical context and significance of the term 'Christian' within the early Christian community.
+
+[&lt;- Link to Answer](../Origin_of_the_Term.md)

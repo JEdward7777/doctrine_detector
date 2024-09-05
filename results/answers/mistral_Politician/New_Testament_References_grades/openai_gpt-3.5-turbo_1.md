@@ -25,3 +25,5 @@ It's important to note that this interpretation is not universally accepted and 
 Grade: 90
 
 Comment: The response provides a thorough and well-reasoned analysis connecting the Old Testament Nazirite vow with John the Baptist in the New Testament. It effectively addresses the concern of exploring biblical continuity through linking practices from different parts of the Bible. The student demonstrates a strong understanding and application of biblical principles within a Christian worldview.
+
+[&lt;- Link to Answer](../New_Testament_References.md)

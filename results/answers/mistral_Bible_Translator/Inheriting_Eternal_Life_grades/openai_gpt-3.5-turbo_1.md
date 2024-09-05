@@ -25,3 +25,5 @@ This concept is further explained throughout the New Testament books of Matthew,
 Grade: 90
 
 Comment: The response provides a thorough explanation of how faith and belief in Jesus Christ are central to inheriting eternal life, supported by various passages from the New Testament. It expands on the importance of faith, obedience, and living a righteous life as taught by Jesus. The connection between salvation, faith, and grace is well articulated. The mention of consulting with Christian leaders for deeper understanding is also commendable. Overall, the response effectively clarifies the path to salvation and eternal life as taught by Jesus with a solid biblical foundation.
+
+[&lt;- Link to Answer](../Inheriting_Eternal_Life.md)

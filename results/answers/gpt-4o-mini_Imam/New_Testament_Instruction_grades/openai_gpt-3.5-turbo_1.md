@@ -31,3 +31,5 @@ In summary, while the New Testament does not give direct instructions about the 
 Grade: 95
 
 Comment: The response provides a thorough explanation of the relationship between Christians and the Psalms in the New Testament, highlighting their significance in worship, teaching, and reflection. It accurately addresses the concern by discussing how the instruction to sing Psalms is connected to contemporary Christian worship practices. The only slight deduction is that the response could have elaborated further on specific ways contemporary Christians can incorporate Psalms into their worship today.
+
+[&lt;- Link to Answer](../New_Testament_Instruction.md)

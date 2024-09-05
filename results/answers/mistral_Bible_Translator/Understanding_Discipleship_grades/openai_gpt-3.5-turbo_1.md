@@ -33,3 +33,5 @@ Understanding the definition and responsibilities of being a disciple.
 Grade: 95
 
 Comment: The response provides a thorough explanation of what it means to be a disciple of Jesus, incorporating key teachings and examples from the New Testament. It addresses the concern by outlining the responsibilities and characteristics of a disciple in a comprehensive manner, reflecting a deep understanding of the topic from a Christian worldview.
+
+[&lt;- Link to Answer](../Understanding_Discipleship.md)

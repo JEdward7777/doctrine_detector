@@ -34,3 +34,5 @@ Being familiar with the Gospel accounts and their teachings.
 Grade: 95
 
 Comment: The response correctly identifies the specific books in the New Testament where the names of the twelve disciples are listed and provides an accurate and detailed list of their names. It demonstrates a clear understanding of the Gospel accounts and their teachings. However, to achieve a perfect score, it could have further elaborated on the significance or roles of the twelve disciples within the context of Jesus' ministry and the early Christian community.
+
+[&lt;- Link to Answer](../Matthew,_Mark,_and_Luke.md)

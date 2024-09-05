@@ -27,3 +27,5 @@ The Centurion's faith shows us that genuine belief is not confined by ethnicity 
 Grade: 75
 
 Comment: The response provides a good exploration of the inclusivity of the Gospel message in both the Christian and Islamic perspectives, highlighting the universal nature of God's love and salvation. It effectively connects the biblical story of the Centurion with the broader mission of the Church to reach all nations. However, the response could have further emphasized the unique role of Jesus Christ as the ultimate source of salvation in contrast to Islamic beliefs. Additionally, clarity could be improved in articulating the distinctiveness of the Christian worldview in comparison to other faith traditions.
+
+[&lt;- Link to Answer](../Centurion_and_Peter.md)

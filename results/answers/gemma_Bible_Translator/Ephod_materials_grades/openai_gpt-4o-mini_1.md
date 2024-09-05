@@ -21,3 +21,5 @@ The biblical text does not provide detailed information regarding the materials 
 Grade: 80
 
 Comment: The response correctly acknowledges the importance of knowing the specific materials used in the construction of the high priest's ephod for understanding its design and symbolism in worship. The mention of the materials being gold, blue, purple, and red yarn aligns with biblical descriptions. However, deducting some points for not explicitly stating the significance of these materials in relation to the worship context.
+
+[&lt;- Link to Answer](../Ephod_materials.md)

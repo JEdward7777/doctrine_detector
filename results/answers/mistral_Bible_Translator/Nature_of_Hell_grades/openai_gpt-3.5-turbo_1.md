@@ -33,3 +33,5 @@ Understanding the severity and purpose of hell is important for grasping the Chr
 Grade: 90
 
 Comment: The response provides a comprehensive overview of the biblical concept of hell, including key aspects such as separation from God, judgment, punishment, irreversibility, free will, and addressing a minority view on universal reconciliation. The response effectively addresses the concern by emphasizing the severity and purpose of hell in connection to judgment and salvation. The inclusion of relevant biblical references enhances the credibility of the explanation.
+
+[&lt;- Link to Answer](../Nature_of_Hell.md)

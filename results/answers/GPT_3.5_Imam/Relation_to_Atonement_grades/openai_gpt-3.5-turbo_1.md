@@ -25,3 +25,5 @@ In summary, while the term 'propitiation' may be related to the concept of atone
 Grade: 90
 
 Comment: The response provides a clear explanation of the differences between the Christian concept of propitiation and the Islamic understanding of atonement. It effectively clarifies the distinctions while acknowledging the similarities between the two theological terms. The answer is well-reasoned and addresses the concern presented in the grading criteria.
+
+[&lt;- Link to Answer](../Relation_to_Atonement.md)

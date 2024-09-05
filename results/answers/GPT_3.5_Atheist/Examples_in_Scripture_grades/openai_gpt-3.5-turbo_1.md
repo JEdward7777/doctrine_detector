@@ -25,3 +25,5 @@ These examples illustrate the belief in demon possession as described in the Bib
 Grade: 80
 
 Comment: The response provides a good understanding of demon possession instances in the Bible and their connection to Jesus' interactions with those afflicted. It accurately references relevant biblical passages to support the point. However, there could have been further elaboration on how these biblical accounts of demon possession can inform contemporary faith practices and beliefs, hence the slight deduction in the grade.
+
+[&lt;- Link to Answer](../Examples_in_Scripture.md)

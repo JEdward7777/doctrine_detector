@@ -61,3 +61,5 @@ However, there are a few areas where improvement could be made:
 * The response could also benefit from a more explicit connection between the biblical passages discussed and the concern about examining the seriousness of divine judgment as expressed through scripture.
 
 Overall, this is a strong response that effectively addresses the concern and provides relevant biblical evidence to support its claims.
+
+[&lt;- Link to Answer](../Biblical_Usage_of_Woe.md)

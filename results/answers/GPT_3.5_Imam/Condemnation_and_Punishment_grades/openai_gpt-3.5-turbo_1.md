@@ -27,3 +27,5 @@ Therefore, while punishment may be necessary in certain cases to uphold justice 
 Grade: 90
 
 Comment: The response provides a thorough explanation of Islamic teachings on punishment, justice, mercy, and forgiveness, showcasing a clear understanding of the balance between divine justice and mercy. The integration of the provided answer demonstrates a comprehensive perspective from a Muslim Imam, addressing the concern effectively from an Islamic worldview.
+
+[&lt;- Link to Answer](../Condemnation_and_Punishment.md)

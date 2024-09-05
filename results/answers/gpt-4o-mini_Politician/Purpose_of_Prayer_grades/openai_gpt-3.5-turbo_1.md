@@ -39,3 +39,5 @@ These purposes of prayer are essential not only in a religious context but also 
 Grade: 95
 
 Comment: The response does an excellent job of recognizing the multifaceted role of prayer in a believer's life by highlighting various purposes such as communication with God, worship, confession, intercession, guidance, thanksgiving, support, and spiritual growth. The inclusion of these additional purposes enriches the understanding of prayer and its significance within a believer's life from a Christian perspective.
+
+[&lt;- Link to Answer](../Purpose_of_Prayer.md)

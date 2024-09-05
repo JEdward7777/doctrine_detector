@@ -21,3 +21,5 @@ In the Bible, a prophet is seen as a person who is chosen and inspired by God to
 Grade: 90
 
 Comment: The response demonstrates a strong understanding of the biblical role of prophets as messengers of God, particularly highlighting their role in warning people to turn away from sin and obey God. It accurately reflects the key aspects of a prophet's role based on Christian beliefs.
+
+[&lt;- Link to Answer](../Role_of_Prophets.md)

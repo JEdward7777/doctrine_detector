@@ -35,3 +35,5 @@ In conclusion, while there may be differences between Islamic and Christian beli
 Grade: 30
 
 Comment: The response provided focuses on Islamic beliefs regarding Jesus and the assurance of salvation through faith and good deeds as emphasized in the Quran. However, the response fails to address the concern directly, which is about reassuring believers of their salvation through faith in Jesus specifically. The Islamic perspective provided does not align with the Christian belief that salvation is through faith in Jesus alone. Therefore, the grade is lower as it does not address the concern from a Christian worldview.
+
+[&lt;- Link to Answer](../Assurance_of_Salvation.md)

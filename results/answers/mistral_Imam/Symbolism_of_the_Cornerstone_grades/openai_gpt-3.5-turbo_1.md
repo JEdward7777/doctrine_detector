@@ -29,3 +29,5 @@ Understanding this relationship can help believers align their lives with Christ
 Grade: 90
 
 Comment: The response effectively applies the cornerstone metaphor to explain the relationship between Jesus and his followers in Islamic understanding. It highlights the foundational role, crucial importance, unity, cohesion, and guidance for future generations that Jesus embodies for believers. The explanation shows a strong alignment with Christ's teachings and example, emphasizing how this understanding can help believers live according to his principles. Overall, a well-thought-out and insightful response from a Christian-specific worldview.
+
+[&lt;- Link to Answer](../Symbolism_of_the_Cornerstone.md)

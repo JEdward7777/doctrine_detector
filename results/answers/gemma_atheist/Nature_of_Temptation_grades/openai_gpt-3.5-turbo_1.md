@@ -21,3 +21,5 @@ The provided text does not contain any information regarding the concepts of sin
 Grade: 60
 
 Comment: The response correctly identifies the sources and reasons for temptation in Christian teaching, providing a clear understanding of how our sinful nature and external influences can lead us to sin. However, the response falls short in not connecting these concepts to the provided text, which would have strengthened the analysis further.
+
+[&lt;- Link to Answer](../Nature_of_Temptation.md)

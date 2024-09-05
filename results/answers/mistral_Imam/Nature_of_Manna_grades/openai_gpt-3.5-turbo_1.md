@@ -21,3 +21,5 @@ Understanding the miraculous provision of God.
 Grade: 85
 
 Comment: The response demonstrates a solid understanding of the miraculous provision of God through the description of manna as white flakes that tasted sweet like honey. The student also acknowledges the symbolic or metaphorical nature of the description of manna, showing a nuanced understanding of interpreting biblical texts. The response effectively captures the spiritual significance of manna as a symbol of divine provision and guidance in difficult times within a Christian worldview.
+
+[&lt;- Link to Answer](../Nature_of_Manna.md)

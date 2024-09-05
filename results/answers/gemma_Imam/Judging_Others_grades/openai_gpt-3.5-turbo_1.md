@@ -21,3 +21,5 @@ The Bible does not provide instructions regarding how Christians should judge ea
 Grade: 90
 
 Comment: The response provides a solid understanding of the Christian perspective on judging others within the Christian community, referencing an appropriate biblical passage (Luke 6:37). It emphasizes the importance of showing mercy and not passing harsh judgments, aligning well with the concern of approaching relationships in a Christ-like manner. The response could have included a bit more depth by exploring additional relevant biblical verses or principles related to handling judgment within the Christian community.
+
+[&lt;- Link to Answer](../Judging_Others.md)

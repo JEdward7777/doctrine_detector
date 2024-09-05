@@ -21,3 +21,5 @@ Recognizing the authority of Christ in all aspects of life and how this impacts 
 Grade: 85
 
 Comment: The response provided a solid understanding of Jesus Christ's dominion as prophet, priest, and king, aligning well with Christian beliefs. The concern regarding recognizing Christ's authority in all aspects of life and its impact on faith was not directly addressed in the response, hence the slight deduction in points. Overall, a strong explanation from a Christian worldview.
+
+[&lt;- Link to Answer](../Dominion_of_Christ.md)

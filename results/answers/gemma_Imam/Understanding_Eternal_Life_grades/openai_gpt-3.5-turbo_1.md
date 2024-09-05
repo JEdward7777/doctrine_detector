@@ -38,3 +38,5 @@ Islam and Christianity share some similarities in their beliefs about God and th
 Grade: 20
 
 Comment: The response provided does not accurately represent the Christian perspective on attaining eternal life. The concept of inheriting eternal life through obeying God's laws is not consistent with Christian teachings, which emphasize that eternal life is a gift from God received through faith in Jesus Christ, not through our own actions. It is crucial to have a correct understanding of this central aspect of Christian faith for spiritual assurance and growth.
+
+[&lt;- Link to Answer](../Understanding_Eternal_Life.md)

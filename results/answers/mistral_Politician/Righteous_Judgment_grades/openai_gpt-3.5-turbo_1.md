@@ -27,3 +27,5 @@ In summary, it is possible for Christians to reconcile God's wrath with His natu
 Grade: 90
 
 Comment: The response does a good job of addressing the concern by emphasizing how God's attributes coexist without contradiction in Biblical teaching, particularly in how His wrath, love, and mercy are interconnected. The student provides a nuanced understanding of God's wrath as a manifestation of His love and justice, and how it aligns with the offer of salvation and forgiveness through repentance and belief in Him. The response could be slightly strengthened by incorporating more specific Biblical references to support the points made. Overall, a solid explanation from a Christian worldview perspective.
+
+[&lt;- Link to Answer](../Righteous_Judgment.md)

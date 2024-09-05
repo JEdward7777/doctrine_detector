@@ -35,3 +35,5 @@ In both conditional and unconditional covenants, understanding the cultural cont
 Grade: 95
 
 Comment: The response provides a thorough analysis of both conditional and unconditional covenants in the Bible, citing specific examples and explaining the implications of each covenant. The biblical references are accurate and support the discussion effectively. The response demonstrates a clear understanding of the dynamics of God's promises and expectations in covenants, showing how obedience is required in conditional covenants while unconditional covenants rely on God's grace. The only improvement could be providing a bit more depth in the discussion of how these covenants reflect God's character and purposes.
+
+[&lt;- Link to Answer](../Covenant_Conditions.md)

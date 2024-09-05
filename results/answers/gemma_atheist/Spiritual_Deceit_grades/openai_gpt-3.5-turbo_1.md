@@ -21,3 +21,5 @@ The provided text does not contain any information regarding demons or their rol
 Grade: 95
 
 Comment: The response clearly acknowledges the role of demons in deceiving people into idolatry and emphasizes the importance of Christians being vigilant against spiritual deceit. The deduction in points is due to not explicitly connecting the response to the provided text; however, the overall Christian worldview perspective is well addressed.
+
+[&lt;- Link to Answer](../Spiritual_Deceit.md)

@@ -21,3 +21,5 @@ Understanding the miraculous provision of God.
 Grade: 90
 
 Comment: The response effectively acknowledges the miraculous nature of manna as a provision from God during the Israelites' journey through the wilderness. It appropriately addresses the concern by explaining that the description of manna in the Bible is metaphorical and culturally contextualized within the ancient Near Eastern worldview. The student could have further emphasized the significance of recognizing God's faithfulness and provision in this miraculous act.
+
+[&lt;- Link to Answer](../Nature_of_Manna.md)

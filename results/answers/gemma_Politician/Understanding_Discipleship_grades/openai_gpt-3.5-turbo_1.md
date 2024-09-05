@@ -21,3 +21,5 @@ The provided text is not included in the prompt, so I am unable to provide an an
 Grade: 85
 
 Comment: The response provides a clear and concise definition of what it means to be a disciple of Jesus. It addresses the concern by explaining that being a disciple involves belief in Jesus, obedience to His teachings, and following His example. The explanation could be strengthened by including references to specific Bible passages that support this understanding of discipleship.
+
+[&lt;- Link to Answer](../Understanding_Discipleship.md)

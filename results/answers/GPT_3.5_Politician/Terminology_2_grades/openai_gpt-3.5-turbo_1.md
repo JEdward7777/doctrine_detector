@@ -21,3 +21,5 @@ In Christian communities, the Lord's Supper is also commonly referred to as Holy
 Grade: 70
 
 Comment: The response correctly identifies the terms "communion" and "Last Supper" used to refer to the Lord's Supper within Christianity. However, it fails to acknowledge other important terms such as Holy Communion, Eucharist, Mass, and the Sacrament of the Altar commonly used in Christian communities. A more comprehensive understanding of the various terms associated with this sacred practice would enhance the response.
+
+[&lt;- Link to Answer](../Terminology_2.md)

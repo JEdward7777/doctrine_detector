@@ -69,3 +69,5 @@ However, the response does not explicitly address the concern of understanding t
 The example provided at the beginning is not directly addressed in the response, but it does fit with the broader discussion of conditional and unconditional covenants. To take the concern more seriously, the response could have explored the implications of God's promise to never destroy the earth again with a flood for understanding his promises and expectations in other contexts.
 
 Overall, while the response is strong in its presentation of biblical concepts, it could be even stronger by explicitly addressing the concern and exploring the dynamics of God's promises and expectations in covenants.
+
+[&lt;- Link to Answer](../Covenant_Conditions.md)

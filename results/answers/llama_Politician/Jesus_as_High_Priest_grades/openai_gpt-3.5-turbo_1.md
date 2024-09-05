@@ -27,3 +27,5 @@ Let us proceed with humility and reverence, recognizing the sacred nature of thi
 Grade: 90
 
 Comment: The response demonstrates a strong understanding of Jesus' role as our great high priest and the ultimate sacrifice for sin, aligning well with the given answer. The emphasis on recognizing the unique and supreme nature of Christ's priesthood is commendable. The reflection on human priests as mere mortal instruments and mediators in light of Jesus' sacrifice is insightful and respectful. The humble and reverent approach taken in the response is also commendable. Overall, a well-considered and respectful exploration of the significance of Jesus' role in the priesthood.
+
+[&lt;- Link to Answer](../Jesus_as_High_Priest.md)

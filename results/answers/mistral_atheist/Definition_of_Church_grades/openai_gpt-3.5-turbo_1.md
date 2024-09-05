@@ -21,3 +21,5 @@ Understanding of the church's role as more than just a building.
 Grade: 95
 
 Comment: The response provides a thorough explanation of the concept of the church in the New Testament, emphasizing the community of believers in Jesus Christ rather than a physical building. It effectively addresses the concern by highlighting the church's role as a group of people united by faith, not simply a structure. The only minor suggestion for improvement would be to include a reference to the interconnectedness of believers as the body of Christ, as emphasized in 1 Corinthians 12:27.
+
+[&lt;- Link to Answer](../Definition_of_Church.md)

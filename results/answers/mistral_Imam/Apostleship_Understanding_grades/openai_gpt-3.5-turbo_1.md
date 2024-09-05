@@ -29,3 +29,5 @@ In Islam, we respect Jesus (peace be upon him) as a prophet sent by God and ackn
 Grade: 80
 
 Comment: The response provides a comprehensive explanation of the significance of the apostles in Christianity, highlighting their role in spreading the teachings of Jesus and establishing the early church. The connection to the Great Commission, where Jesus commanded his disciples to go and make disciples of all nations, could have been more directly addressed to fully align with the concern. However, the response effectively demonstrates an understanding of the apostles' mission and impact within the Christian faith.
+
+[&lt;- Link to Answer](../Apostleship_Understanding.md)

@@ -29,3 +29,5 @@ In conclusion, the interaction between the Centurion and Jesus showcases an exem
 Grade: 90
 
 Comment: The response effectively addresses the concern regarding the nature of faith and authority in the context of Jesus' ministry by exploring the story of the Centurion. The student offers a detailed analysis of the Centurion's faith, humility, and recognition of divine authority, drawing connections to the importance of faith in divine power. The response demonstrates a clear understanding of the Christian perspective on faith and authority in light of Jesus' ministry. Well done!
+
+[&lt;- Link to Answer](../Centurion_and_Healing.md)

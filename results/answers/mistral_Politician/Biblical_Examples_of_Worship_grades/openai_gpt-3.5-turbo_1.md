@@ -26,3 +26,5 @@ This story illustrates a contrast between worshipping the true God who led them 
 Grade: 90
 
 Comment: The response effectively expands on the example provided in Exodus 20:3 by providing a detailed explanation of the story in Exodus 32. The analysis clearly emphasizes the contrast between true worship of God and idol worship, addressing the concern of avoiding idolatry and remaining faithful to God's commands in worship. The link between the example, concern, and the explanation is well-established, reflecting a strong understanding of the Christian worldview on idolatry. Great job!
+
+[&lt;- Link to Answer](../Biblical_Examples_of_Worship.md)

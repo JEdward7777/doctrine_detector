@@ -35,3 +35,5 @@ In summary, when God is described as righteous, it conveys a comprehensive view 
 Grade: 90
 
 Comment: The response provides a well-articulated explanation of the concept of God's righteousness, delving into various key aspects such as moral perfection, justice, covenantal faithfulness, moral authority, compassion, and transcendence/immanence. The response effectively connects these aspects to the understanding that God's righteousness encompasses absolute goodness, justice, faithfulness, and love while necessitating the condemnation of sin. The response aligns with a Christian worldview in highlighting how understanding God's righteousness is crucial for appreciating His justice and love.
+
+[&lt;- Link to Answer](../Understanding_Righteousness.md)

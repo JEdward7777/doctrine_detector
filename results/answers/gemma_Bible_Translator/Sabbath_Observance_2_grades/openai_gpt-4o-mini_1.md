@@ -21,3 +21,5 @@ The premise of your question is inaccurate. The Bible does not provide any recor
 Grade: 90
 
 Comment: The response accurately describes God's instruction to the Israelites regarding gathering manna before the Sabbath to observe the day of rest. It aligns well with the importance of observing the Sabbath according to God's commands in ensuring provision and rest for the Israelites.
+
+[&lt;- Link to Answer](../Sabbath_Observance_2.md)

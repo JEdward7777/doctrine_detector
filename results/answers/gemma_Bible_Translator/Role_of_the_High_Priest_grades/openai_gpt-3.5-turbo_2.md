@@ -62,3 +62,5 @@ Understanding the significance of the high priest's role in the worship practice
 Grade: 80
 
 Comment: The response accurately highlights a key responsibility of the High Priest in Israel - that only he was allowed to enter the most holy part of the tabernacle or temple to offer a special sacrifice once per year, known as the Day of Atonement. However, the response only focuses on one specific aspect of the High Priest's role and does not address the broader significance of his responsibilities in the worship practices of Israel. In order to receive a higher grade, the answer should have provided a more comprehensive understanding of the High Priest's multifaceted role, as outlined in the detailed response provided.
+
+[&lt;- Link to Answer](../Role_of_the_High_Priest.md)

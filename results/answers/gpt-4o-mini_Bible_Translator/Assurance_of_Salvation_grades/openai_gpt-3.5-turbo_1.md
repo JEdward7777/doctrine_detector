@@ -35,3 +35,5 @@ These assurances form the foundation of the faith for Christians, providing comf
 Grade: 95
 
 Comment: The response provides a comprehensive explanation of key assurances for believers in Jesus according to Christian theology. It effectively addresses the concern by emphasizing the assurances of eternal life, forgiveness of sins, indwelling of the Holy Spirit, security in Christ, peace, assurance, and future hope. The inclusion of relevant Bible verses strengthens the response's foundation in Christian doctrine. Overall, it effectively reassures believers of their salvation through faith in Jesus. Great job!
+
+[&lt;- Link to Answer](../Assurance_of_Salvation.md)

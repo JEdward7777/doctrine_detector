@@ -30,3 +30,5 @@ However, it's important to note that the Sadducees were also known for their ske
 Grade: 85
 
 Comment: The response provides a detailed explanation of the main responsibilities of the Sadducees, touching on their roles within the Temple establishment and their beliefs. The mention of their skepticism about the supernatural and denial of the resurrection aligns with the Christian worldview. The response effectively addresses the concern of exploring the historical context of religious leadership in the time of Jesus. However, to improve the grade, a more explicit connection to the priestly tasks of offering sacrifices could have been made in relation to the Sadducees' responsibilities.
+
+[&lt;- Link to Answer](../Role_of_Sadducees.md)

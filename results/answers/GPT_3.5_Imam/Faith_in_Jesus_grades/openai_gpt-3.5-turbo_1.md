@@ -25,3 +25,5 @@ While Muslims do not believe that Jesus is the literal son of God or part of a T
 Grade: 20
 
 Comment: The response provided relates well to the concern given; however, the answer given is not congruent with Islamic beliefs about Jesus. In Islam, Jesus is not considered the Son of God nor is his sacrifice for sins acknowledged. The response implies a misunderstanding or misrepresentation of Islamic beliefs regarding Jesus.
+
+[&lt;- Link to Answer](../Faith_in_Jesus.md)

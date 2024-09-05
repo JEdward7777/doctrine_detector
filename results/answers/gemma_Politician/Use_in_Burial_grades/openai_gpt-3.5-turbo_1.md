@@ -21,3 +21,5 @@ Myrrh was likely used in biblical burial practices as an aromatic unguent to pre
 Grade: 90
 
 Comment: The response demonstrates a good understanding of the significance of myrrh in burial practices in biblical times. It appropriately addresses the importance of myrrh in the anointing process and the respect shown to the deceased, aligning well with the concern of recognizing customs to enhance comprehension of cultural contexts in scripture. Well done!
+
+[&lt;- Link to Answer](../Use_in_Burial.md)

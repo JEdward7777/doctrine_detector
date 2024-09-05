@@ -27,3 +27,5 @@ In summary, according to the Christian faith, a person can be declared righteous
 Grade: 90
 
 Comment: The response effectively explains the Christian concept of being declared righteous through faith in Jesus Christ and correctly aligns with the concern regarding the basis for human righteousness in relation to faith in Jesus. The answer accurately reflects key teachings from the New Testament and presents a clear understanding of salvation by emphasizing faith in Jesus as the means by which righteousness is obtained. Well done!
+
+[&lt;- Link to Answer](../Human_Righteousness.md)

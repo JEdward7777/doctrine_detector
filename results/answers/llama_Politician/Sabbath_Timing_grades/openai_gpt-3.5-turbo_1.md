@@ -25,3 +25,5 @@ However, I want to emphasize that people of all faiths and backgrounds should fe
 Grade: 90
 
 Comment: The response accurately identifies the specific timeframe for the observance of the Sabbath in accordance with Biblical teaching by stating that it begins on Friday at sundown and lasts until Saturday at sundown. It maintains a respectful and inclusive tone towards other cultures and faiths, which is commendable. However, there could have been a stronger emphasis on the significance of this timeframe within Jewish tradition.
+
+[&lt;- Link to Answer](../Sabbath_Timing.md)

@@ -39,3 +39,5 @@ To connect the theological concept with biblical references for deeper understan
 Grade: 95
 
 Comment: The response provides a comprehensive list of Bible verses supporting the concept of propitiation, effectively connecting the theological concept with numerous biblical references for deeper understanding. The inclusion of Old and New Testament verses, along with additional relevant passages, demonstrates a thorough examination of the topic from a Christian worldview. The response is detailed and well-structured, clearly highlighting the significance of Jesus as the propitiation for our sins. Well done!
+
+[&lt;- Link to Answer](../Scriptural_Basis.md)

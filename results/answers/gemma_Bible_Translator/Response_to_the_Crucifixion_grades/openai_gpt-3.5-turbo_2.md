@@ -21,3 +21,5 @@ The biblical record does not provide any indication that Peter addressed the cro
 Grade: 70
 
 Comment: The response accurately highlights Peter's message to the crowd regarding their role in crucifying Jesus and the importance of repentance and faith. However, it could have been strengthened by referencing specific biblical passages where Peter addressed the crowd in this manner, such as Acts 2:36-38. Additionally, the response could have provided more context on how this message influenced the early church's preaching and the call for individuals to respond to the gospel.
+
+[&lt;- Link to Answer](../Response_to_the_Crucifixion.md)

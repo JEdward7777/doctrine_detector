@@ -29,3 +29,5 @@ In both faiths, we find that the emphasis is on turning to God in times of illne
 Grade: 90
 
 Comment: The response effectively discusses the role of anointing in seeking healing within the Christian context, emphasizing the symbolic and spiritual significance of the practice. It accurately cites relevant Biblical passages and demonstrates an understanding of the faith-based aspects of anointing for healing. The response could have been enhanced by further elaborating on the distinct Christian perspective on anointing for healing compared to other faith traditions and providing additional scriptural support.
+
+[&lt;- Link to Answer](../Healing_through_Anointing.md)

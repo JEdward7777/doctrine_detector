@@ -33,3 +33,5 @@ It is important to note that cultural interpretations and practices surrounding 
 Grade: 60
 
 Comment: The response correctly identifies the practice of anointing in the New Testament for seeking healing as a symbol of requesting God's intervention. However, the response provided for grading raises a concern based on recognizing the role of anointing in spiritual and physical healing as part of Christian practice, which the graded response does not fully address. The response would benefit from discussing the connection between anointing, healing, and Christian beliefs more explicitly from a Christian worldview perspective.
+
+[&lt;- Link to Answer](../Healing_through_Anointing.md)

@@ -21,3 +21,5 @@ In the Bible, the rainbow is described as a sign of God's covenant with humanity
 Grade: 85
 
 Comment: The response effectively conveys the significance of the rainbow as a symbol of God's promise not to destroy the earth with a flood again, emphasizing His mercy and faithfulness. The biblical reference to Genesis 9:12-17 is accurately cited to support the understanding of God's covenant and promises in the Bible. The response could be further enriched by discussing the broader theological implications of covenants in the Christian faith.
+
+[&lt;- Link to Answer](../Sign_as_Covenant.md)

@@ -34,3 +34,5 @@ In the Bible, a covenant is a sacred agreement between God and people, or someti
 Grade: 90
 
 Comment: The response provides a thorough explanation of both conditional and unconditional covenants in the Bible, citing appropriate examples from the Old and New Testaments. It demonstrates an understanding of the dynamics of God's promises and expectations in covenants by highlighting the obedience required in conditional covenants and the unwavering promises in unconditional covenants. The details provided align well with a Christian worldview, showcasing a clear understanding of the theological concepts discussed.
+
+[&lt;- Link to Answer](../Covenant_Conditions.md)

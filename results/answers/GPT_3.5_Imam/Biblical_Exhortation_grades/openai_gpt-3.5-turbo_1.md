@@ -25,3 +25,5 @@ This verse indicates that Jesus foretold the coming of Prophet Muhammad (peace b
 Grade: 20
 
 Comment: The response provided does not align with the Christian belief of evangelism, which is the importance of spreading the good news of Jesus Christ and His sacrifice for sin. The given response focuses on the perspective from the Islamic tradition regarding Prophet Jesus and the foretelling of Prophet Muhammad, which does not address the concern of evangelism in the Christian faith. It is important to accurately convey the Christian perspective on evangelism in responses.
+
+[&lt;- Link to Answer](../Biblical_Exhortation.md)

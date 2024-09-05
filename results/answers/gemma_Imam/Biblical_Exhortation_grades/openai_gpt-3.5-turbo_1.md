@@ -30,3 +30,5 @@ These hadiths emphasize the importance of sharing the good news of Islam with ot
 Grade: 50
 
 Comment: The response accurately conveys Jesus' command to his apostles to spread the good news of salvation through faith in him, which aligns with Christian beliefs. However, the response shifts the focus to teachings from the Quran and Islamic traditions, which diverts from the Christian perspective. While it's important to understand other religions, the answer should have emphasized the Christian view on evangelism more explicitly.
+
+[&lt;- Link to Answer](../Biblical_Exhortation.md)

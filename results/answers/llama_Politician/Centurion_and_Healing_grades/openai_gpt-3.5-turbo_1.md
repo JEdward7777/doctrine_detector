@@ -33,3 +33,5 @@ Now, I know that some folks might interpret this story as promoting a hierarchy 
 Grade: 95
 
 Comment: This response demonstrates a deep understanding of the nature of faith and authority in the context of Jesus' ministry. The respondent effectively analyzes the interaction between the centurion and Jesus, highlighting the importance of faith, humility, and recognizing God's sovereignty. The explanation is thorough, well-supported, and aligns closely with Christian teachings. The only minor improvement would be a slightly clearer connection to how this interaction specifically relates to Jesus' ministry overall, but overall, this is an excellent response.
+
+[&lt;- Link to Answer](../Centurion_and_Healing.md)

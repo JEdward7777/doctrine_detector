@@ -21,3 +21,5 @@ It's important for Christians to understand what actions are against God's will 
 Grade: 100
 
 Comment: The response effectively upholds the Christian worldview by aligning with the concern of understanding what actions are against God's will as outlined in scripture. The respect for the boundaries of other faiths displayed in the initial statement also demonstrates a consideration for religious differences, which is commendable.
+
+[&lt;- Link to Answer](../Understanding_Abomination.md)

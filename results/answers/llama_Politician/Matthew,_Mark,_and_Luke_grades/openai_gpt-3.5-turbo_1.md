@@ -23,3 +23,5 @@ The names of the twelve apostles of Jesus Christ can be found in three different
 Grade: 80
 
 Comment: The response accurately provides the names of the twelve apostles as found in the Gospel of Matthew, aligning with the given answer. However, the concern about being familiar with the Gospel accounts and their teachings could have been addressed more explicitly in the response, such as by briefly mentioning the significance of the twelve apostles in the ministry of Jesus.
+
+[&lt;- Link to Answer](../Matthew,_Mark,_and_Luke.md)

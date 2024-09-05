@@ -21,3 +21,5 @@ In the tabernacle, the ark of the covenant was located in the most holy place, a
 Grade: 95
 
 Comment: The response accurately explains that the ark of the covenant was located in the most holy place within the tabernacle, highlighting the significance of this sacred space and the presence of God among His people. The statement effectively connects the ark's placement to the understanding of God's covenant relationship with the Israelites and His presence in their midst. Overall, this response demonstrates a clear understanding of the significance of the most holy place and the presence of God within the context of the ark of the covenant.
+
+[&lt;- Link to Answer](../Ark_Location.md)

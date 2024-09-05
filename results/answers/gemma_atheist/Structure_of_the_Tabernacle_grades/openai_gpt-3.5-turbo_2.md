@@ -21,3 +21,5 @@ The concept of a tabernacle is rooted in religious beliefs and does not align wi
 Grade: 20
 
 Comment: The response provided only a basic factual statement about the components of the tabernacle without engaging with the significance of these components in worship as requested. The initial response, while acknowledging a lack of alignment with religious beliefs, did not attempt to explore or understand the significance from a Christian worldview perspective, resulting in a low grade.
+
+[&lt;- Link to Answer](../Structure_of_the_Tabernacle.md)

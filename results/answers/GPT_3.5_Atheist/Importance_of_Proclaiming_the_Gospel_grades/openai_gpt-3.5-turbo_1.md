@@ -25,3 +25,5 @@ Overall, the proclamation of the 'good news' serves as a way for Christians to e
 Grade: 90
 
 Comment: The response effectively emphasizes the importance of proclaiming the 'good news' based on the mandate given by Jesus to Christians. It highlights the urgency and significance of sharing the message of salvation. The cultural perspective provided in the response further supports the Christian worldview by illustrating how spreading the 'good news' aligns with Christian beliefs and values. The concern regarding recognizing the mandate of Christians to spread the Gospel message is well-addressed and incorporated into the explanation.
+
+[&lt;- Link to Answer](../Importance_of_Proclaiming_the_Gospel.md)

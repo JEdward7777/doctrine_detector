@@ -21,3 +21,5 @@ The Bible does not provide any descriptive information regarding the appearance 
 Grade: 80
 
 Comment: The response is graded high because it correctly points out the biblical description of manna as white flakes tasting sweet like honey, aligning well with the concern of understanding the miraculous provision of God. However, it could have further expanded on the significance of manna as a provision from God and its symbolic meaning in Christian theology.
+
+[&lt;- Link to Answer](../Nature_of_Manna.md)

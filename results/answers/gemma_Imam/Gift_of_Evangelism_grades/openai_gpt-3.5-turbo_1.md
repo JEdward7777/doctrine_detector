@@ -53,3 +53,5 @@ There are several key things that distinguish evangelists from other Christians:
 Grade: 90
 
 Comment: The response provides a comprehensive explanation of evangelists within the Christian faith, emphasizing their focus on evangelism, passion for souls, emphasis on conversion, apostolic authority, and distinctive beliefs and practices. It effectively addresses the concern by highlighting the spiritual gift of evangelism and its role in the church. The response could have further emphasized the importance of discerning and utilizing spiritual gifts in accordance with biblical teachings for the edification of the church.
+
+[&lt;- Link to Answer](../Gift_of_Evangelism.md)

@@ -39,3 +39,5 @@ These references demonstrate that the Festival of Weeks holds significant theolo
 Grade: 95
 
 Comment: The response provides a thorough explanation of the references to the Festival of Weeks (Pentecost) in both the Old and New Testaments, highlighting key passages and their significance. The detailed breakdown of scriptural references and their theological importance demonstrates a deep understanding of the observance and significance of Pentecost within Christian theology. The only slight deduction is for not explicitly mentioning 2 Chronicles in the references provided, but overall, the response is comprehensive and well-supported.
+
+[&lt;- Link to Answer](../Biblical_References_to_Pentecost.md)

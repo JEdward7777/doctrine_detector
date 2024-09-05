@@ -23,3 +23,5 @@ This shift from the Old Testament priesthood to Christ as our High Priest emphas
 Grade: 95
 
 Comment: This response provides a thorough explanation of the significance of Jesus as our High Priest based on Biblical references and the theological understanding of His role in mediating between God and humanity. The student demonstrates a clear grasp of the concept and effectively communicates how Jesus' sacrifice abolishes the need for animal sacrifices. The only minor improvement could be to include a brief mention of how Jesus' priesthood fulfills and surpasses the Old Testament priesthood to further emphasize the transformative nature of Christ's role.
+
+[&lt;- Link to Answer](../Jesus_as_High_Priest.md)

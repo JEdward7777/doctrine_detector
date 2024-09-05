@@ -27,3 +27,5 @@ Ultimately, not putting God to the test is a matter of humility, reverence, and 
 Grade: 90
 
 Comment: The response provides a strong understanding of the principle of not testing God, drawing from both Christian and Islamic perspectives. It effectively explains the significance of humility, reverence, and trust in God's wisdom. The connection to maintaining a proper relationship with God is well-articulated. The only slight suggestion for improvement would be to include a bit more explicit reference to the given answer and concern, to ensure a more direct alignment. Overall, a well-substantiated and thoughtful response.
+
+[&lt;- Link to Answer](../Testing_God.md)

@@ -37,3 +37,5 @@ These responsibilities highlight the priests' essential role in maintaining the 
 Grade: 95
 
 Comment: The response provides a comprehensive and detailed explanation of the key responsibilities of priests in the Old Testament, showing a deep understanding of their roles in the religious life of the Israelites. The answer effectively addresses the concern by highlighting the various duties priests undertook, emphasizing their significance in offering sacrifices, conducting rituals, maintaining the Tabernacle/Temple, teaching the Law, interceding for the people, overseeing purification rites, and, in some cases, performing judicial functions. This response demonstrates a solid understanding of the biblical role of priests within a Christian worldview. Great job!
+
+[&lt;- Link to Answer](../Role_of_Priests.md)

@@ -21,3 +21,5 @@ The premise of your question is based on a religious belief that is not supporte
 Grade: 85
 
 Comment: The response acknowledges and accurately summarizes the biblical significance of the rainbow as a sign of God's covenant and promise in Genesis. While the initial concern expressed skepticism based on a secular worldview, the response effectively presents the Christian perspective on the topic of God's covenant and promises in the Bible. The grade could be higher if the response had addressed the concern raised with more clarity or integration of a Christian worldview perspective in responding to it.
+
+[&lt;- Link to Answer](../Sign_as_Covenant.md)

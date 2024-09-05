@@ -31,3 +31,5 @@ The purpose of the ark, therefore, was to preserve human life and a remnant of a
 Grade: 90
 
 Comment: The response provides a thorough explanation of the Biblical account of Noah's Ark, correctly identifying the primary purpose as protecting Noah, his family, and pairs of every living creature from the worldwide flood as a result of God's judgment on humanity. The response effectively demonstrates an understanding of God's plan for salvation and preservation in the narrative of Noah's Ark through referencing relevant Bible verses and detailing the events surrounding the ark's construction, the flood, and its aftermath.
+
+[&lt;- Link to Answer](../Noah_s_Ark.md)

@@ -27,3 +27,5 @@ However, the festival gained additional religious significance after the events 
 Grade: 90
 
 Comment: The response effectively connects the Festival of Weeks to its fulfillment in Christ by explaining its significance in Jewish tradition and its later association with the coming of the Holy Spirit upon the disciples in the New Testament. This demonstrates a clear understanding of how biblical festivals can point towards Christ in Christian theology. Great job!
+
+[&lt;- Link to Answer](../Origin_of_Pentecost.md)

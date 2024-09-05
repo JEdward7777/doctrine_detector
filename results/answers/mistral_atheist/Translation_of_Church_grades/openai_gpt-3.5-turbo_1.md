@@ -39,3 +39,5 @@ Accurate representation of the church's inclusive nature in translations.
 Grade: 85
 
 Comment: The response addresses the concern of accurately representing the church's inclusive nature in translations by suggesting terms like 'assembly' or 'congregation' that encompass all believers and not just a select group. The suggested translations provided offer a diverse range of terms that effectively convey the inclusive nature of the church. However, some terms like 'House of God' and 'Temple' are more specific to certain religions and may not fully capture the inclusivity intended in the concern. Overall, a strong effort was made to provide inclusive translations, resulting in a high grade.
+
+[&lt;- Link to Answer](../Translation_of_Church.md)

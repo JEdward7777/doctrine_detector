@@ -29,3 +29,5 @@ Ultimately, all three terms convey the idea of wrongdoing or disobedience toward
 Grade: 90
 
 Comment: The response provides a clear explanation of the distinctions between sin, iniquity, and transgression from a Christian perspective, building upon the initial answer to further clarify the nuances of these terms. The explanation aligns well with the concern provided, emphasizing how understanding these distinctions can lead to a deeper recognition of the gravity of one's actions and the need for repentance.
+
+[&lt;- Link to Answer](../Understanding_Iniquity.md)

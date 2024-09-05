@@ -21,3 +21,5 @@ The primary role of a deacon in the local church is to serve and support the con
 Grade: 90
 
 Comment: The response accurately identifies the role of a deacon in helping fellow believers with practical needs such as food or money, reflecting a good understanding of the practical aspect of servanthood in the church. It could be improved by incorporating the concept of servanthood as modeled by Jesus, emphasizing humility, selflessness, and willingness to serve sacrificially.
+
+[&lt;- Link to Answer](../Deacon_Definition.md)

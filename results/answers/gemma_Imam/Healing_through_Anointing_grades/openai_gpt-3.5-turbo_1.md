@@ -25,3 +25,5 @@ While there is no direct precedent for physical anointing as a healing practice 
 Grade: 50
 
 Comment: The response correctly acknowledges the use of anointing in the Old Testament but fails to convey the concern regarding the explicit practice of physical anointing for healing in the New Testament from a Christian worldview perspective. The explanation lacks depth and does not fully address the concern raised.
+
+[&lt;- Link to Answer](../Healing_through_Anointing.md)

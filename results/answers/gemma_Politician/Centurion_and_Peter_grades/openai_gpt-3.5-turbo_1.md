@@ -21,3 +21,5 @@ The centurion's visit from Peter symbolizes the expansion of the Gospel beyond t
 Grade: 90
 
 Comment: The response provides a solid explanation of the centrality of God's love and salvation for all people, in line with Christian teaching on the inclusivity of the Gospel. It effectively addresses the concern by highlighting the significance of the Gentile centurion's interaction with Peter in demonstrating the expansion of the Gospel message beyond the Jewish community. The only minor improvement could be further elaborating on how this event aligns with the mission of the Church to reach all nations.
+
+[&lt;- Link to Answer](../Centurion_and_Peter.md)

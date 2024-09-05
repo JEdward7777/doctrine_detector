@@ -23,3 +23,5 @@ This connection is significant because during the Last Supper, Jesus and his dis
 Grade: 90
 
 Comment: The response provides a strong connection between the concept of unleavened bread in Christian teachings, particularly in the context of the Last Supper, and the significance of the practice for Christians. The use of biblical references aligns well with the concern of identifying relevant texts that shed light on Christian practices. The explanation is clear and demonstrates a good understanding of the biblical basis for the use of unleavened bread in Christian contexts.
+
+[&lt;- Link to Answer](../Biblical_References_5.md)

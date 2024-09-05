@@ -21,3 +21,5 @@ After Judas Iscariot's betrayal and subsequent death, Matthias was chosen to rep
 Grade: 90
 
 Comment: The response accurately describes how Matthias was chosen to replace Judas Iscariot after his betrayal and death, in line with the concern of recognizing the continuity of apostolic leadership after Jesus' ascension. The student provided a concise and clear answer within a Christian worldview context. The only improvement would be to add a brief mention of the process of Matthias' selection by the other apostles, as described in the Acts of the Apostles.
+
+[&lt;- Link to Answer](../Replacement_of_Judas.md)

@@ -64,3 +64,5 @@ The only areas where the response could improve are:
 * Some of the points made could be further developed or supported with additional biblical evidence. For example, the statement that the Law "reveals our need for a savior" could be expanded upon to show how this is demonstrated throughout Scripture.
 
 Overall, however, this is a strong and well-organized response that effectively communicates the significance of the laws of Moses in the context of God's covenant with His people.
+
+[&lt;- Link to Answer](../Obeying_God_s_Commands.md)

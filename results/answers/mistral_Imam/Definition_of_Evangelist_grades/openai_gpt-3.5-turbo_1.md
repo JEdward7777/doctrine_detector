@@ -21,3 +21,5 @@ Understanding the role of an evangelist in sharing the gospel.
 Grade: 90
 
 Comment: The response provides a clear and accurate explanation of the term "evangelist" in its original Christian context and contrasts it effectively with terms used in Islamic tradition. It demonstrates a good understanding of the role of an evangelist in sharing the gospel within a Christian worldview. The response could be further strengthened by incorporating scripture references or theological insights to deepen the Christian perspective on evangelism.
+
+[&lt;- Link to Answer](../Definition_of_Evangelist.md)

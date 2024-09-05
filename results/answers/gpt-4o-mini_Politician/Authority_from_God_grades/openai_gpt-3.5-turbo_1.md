@@ -35,3 +35,5 @@ Overall, divine authority plays a critical role in shaping the spiritual lives a
 Grade: 90
 
 Comment: The response provides a comprehensive explanation of the significance of divine authority in guiding believers' moral and spiritual lives. It addresses various aspects such as moral framework, purpose, community, hope, and accountability. The understanding of divine authority as coming from God and guiding believers aligns well with the concern of discerning God's will and maintaining obedience in the faith journey. The response could have further emphasized the importance of obedience to divine authority in aligning one's actions with God's will for a higher grade.
+
+[&lt;- Link to Answer](../Authority_from_God.md)

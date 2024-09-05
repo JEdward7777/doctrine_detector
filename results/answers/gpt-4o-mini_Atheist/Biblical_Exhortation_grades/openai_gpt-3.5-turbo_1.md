@@ -21,3 +21,5 @@ Jesus gave his apostles the directive to spread the good news, also known as the
 Grade: 90
 
 Comment: The response effectively highlights the significance of evangelism in the Christian faith by emphasizing the Great Commission given by Jesus to spread the good news and make disciples of all nations. The inclusion of the directive to baptize and teach followers in Matthew 28:19-20 demonstrates an awareness of the holistic approach to sharing the message of love, redemption, and salvation. Great job connecting the importance of evangelism to the foundational teachings of the Christian faith.
+
+[&lt;- Link to Answer](../Biblical_Exhortation.md)

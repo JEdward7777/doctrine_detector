@@ -39,3 +39,5 @@ Different denominations may emphasize different theological aspects and meanings
 Grade: 95
 
 Comment: The response provides a thorough explanation of various terms used within Christianity to refer to the Lord's Supper, demonstrating a solid understanding of the different nuances and theological aspects associated with this sacred practice from a Christian worldview. The inclusion of additional terms beyond 'communion' and 'Last Supper' showcases a well-rounded knowledge of the topic.
+
+[&lt;- Link to Answer](../Terminology_2.md)

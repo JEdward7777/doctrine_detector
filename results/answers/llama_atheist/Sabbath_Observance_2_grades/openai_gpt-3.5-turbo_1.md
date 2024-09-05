@@ -27,3 +27,5 @@ In this way, God's instruction was designed to promote rest and observance of th
 Grade: 95
 
 Comment: The response provides a thorough explanation of how God's instruction regarding the gathering of manna was connected to the importance of observing the Sabbath according to God's commands. It demonstrates a clear understanding of the biblical account and the significance of resting and relying on God's provision. The only minor improvement could be to incorporate a direct reference to the specific biblical passage that details this instruction (Exodus 16:22-30) for added clarity and biblical support.
+
+[&lt;- Link to Answer](../Sabbath_Observance_2.md)

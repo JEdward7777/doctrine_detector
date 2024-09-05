@@ -32,3 +32,5 @@ To identify these characteristics in our actions or society, it is essential to 
 Grade: 85
 
 Comment: The response provides a thorough explanation of what constitutes an "unholy" life in Islam, aligning well with the Christian worldview of rebellion against God and actions that dishonor Him. It addresses the concern by emphasizing the importance of self-examination and awareness of how unholiness can impact personal and communal behavior. The inclusion of specific signs and behaviors that indicate an unholy life, along with practical steps for improvement, demonstrates a strong understanding and application of the given answer.
+
+[&lt;- Link to Answer](../Understanding_Unholiness.md)

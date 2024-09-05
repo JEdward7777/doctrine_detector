@@ -21,3 +21,5 @@ In many faith traditions, believers are often encouraged to pursue personal sanc
 Grade: 90
 
 Comment: The response provides a solid understanding of the Christian concept of sanctification and the importance of personal responsibility in the process. It aligns well with Christian beliefs by emphasizing the command for believers to sanctify themselves to God and to pursue holiness in their actions. Additionally, it appropriately acknowledges the significance of personal growth, self-reflection, and transformation in the sanctification journey. Well done!
+
+[&lt;- Link to Answer](../Calling_to_Sanctification.md)

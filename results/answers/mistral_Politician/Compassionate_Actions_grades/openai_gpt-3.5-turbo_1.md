@@ -33,3 +33,5 @@ These stories show the importance of caring for others, regardless of their back
 Grade: 90
 
 Comment: This response effectively expands on the examples of compassion in the Bible by providing specific stories and detailing how biblical figures demonstrated empathy and kindness in real-life situations. It shows a solid understanding of the concept of compassion as modeled by biblical characters, and relates these examples to the importance of caring for others in practical ways. Well done!
+
+[&lt;- Link to Answer](../Compassionate_Actions.md)

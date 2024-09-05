@@ -23,3 +23,5 @@ However, as an atheistic scholar, I don't hold a belief in the supernatural or d
 Grade: 20
 
 Comment: While the response accurately depicts the historical events surrounding the institution of the Lord's Supper, it falls short in addressing the Christian belief in the supernatural and divine origin of this sacrament. As an atheistic scholar, the grading is low as it dismisses the core Christian belief regarding the Lord's Supper as a symbol of Jesus' sacrificial death for the redemption of humanity, missing the essence of its significance in Christian faith.
+
+[&lt;- Link to Answer](../Lord_s_Supper_Definition.md)

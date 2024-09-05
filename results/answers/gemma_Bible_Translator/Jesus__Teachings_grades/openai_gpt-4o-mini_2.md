@@ -21,3 +21,5 @@ The premise of your question is inaccurate. There is no evidence to suggest that
 Grade: 95
 
 Comment: The response correctly highlights that Jesus often used the term "amen" to emphasize the truth of His teachings, reflecting His authority as the Son of God. Recognizing the authority of Jesus' words and teachings in Scripture is crucial in understanding the significance of His use of "amen."
+
+[&lt;- Link to Answer](../Jesus__Teachings.md)

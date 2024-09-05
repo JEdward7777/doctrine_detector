@@ -29,3 +29,5 @@ In summary, the authority bestowed upon apostles or figures akin to them in Isla
 Grade: 70
 
 Comment: The response provides a well-explained perspective on the divine authority and empowerment granted to prophets and messengers in Islam, focusing on the concept of authority, miracles, and preaching. It effectively draws parallels between the apostles in Christianity and figures in Islamic theology, demonstrating a good understanding of the concern raised. However, it falls short of directly addressing the empowerment and authority specifically bestowed upon the apostles as described in the Christian context, hence the deduction in points.
+
+[&lt;- Link to Answer](../Authority_of_Apostles.md)

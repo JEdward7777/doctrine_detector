@@ -21,3 +21,5 @@ The Bible does not provide any descriptive information regarding the appearance 
 Grade: 70
 
 Comment: The response correctly identifies the appearance and taste of manna as described in the Bible, aligning with the concern of understanding the miraculous provision of God. However, it missed the opportunity to include the specific biblical reference (Exodus 16:31) that provides this information which would have enhanced the biblical perspective.
+
+[&lt;- Link to Answer](../Nature_of_Manna.md)

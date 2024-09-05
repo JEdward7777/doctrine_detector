@@ -21,3 +21,5 @@ Thank you for your question. In the Christian faith, the concept of every believ
 Grade: 95
 
 Comment: The response provides a clear and concise explanation of the concept of the priesthood of all believers in the Christian faith, emphasizing direct access to God for prayer and intercession. It effectively conveys the equal value and significance of each believer's relationship with God, showcasing a strong understanding of this foundational Christian doctrine.
+
+[&lt;- Link to Answer](../New_Testament_Priesthood.md)

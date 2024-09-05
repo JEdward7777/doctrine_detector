@@ -50,3 +50,5 @@ Exploring the implications of spiritual separation from God.
 Grade: 95
 
 Comment: The response provides a comprehensive and well-supported explanation of spiritual 'perishing' in the New Testament, emphasizing separation from God, loss of spiritual life, spiritual death, and the complete loss of spiritual potential. The key concepts related to spiritual death in the New Testament are effectively integrated. The response effectively addresses the concern of exploring the implications of spiritual separation from God within a Christian worldview. Great job in connecting the provided verses and key concepts to the understanding of spiritual separation from God.
+
+[&lt;- Link to Answer](../Understanding_Perish.md)

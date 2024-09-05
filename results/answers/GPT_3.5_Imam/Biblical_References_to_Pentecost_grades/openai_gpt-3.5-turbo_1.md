@@ -23,3 +23,5 @@ As Muslims, we believe in the previous scriptures, including the Torah, as revea
 Grade: 70
 
 Comment: The response acknowledges the scriptural basis for the Festival of Weeks in Judaism, also known as Shavuot, and its significance in commemorating the giving of the Torah on Mount Sinai. However, there is an inaccuracy in referencing the Festival of Weeks as Eid al-Fitr in Islam, which is actually a different Islamic festival marking the end of Ramadan. Encouraging further clarity on the differences between Islamic and Jewish festivals in relation to Pentecost would improve the response.
+
+[&lt;- Link to Answer](../Biblical_References_to_Pentecost.md)

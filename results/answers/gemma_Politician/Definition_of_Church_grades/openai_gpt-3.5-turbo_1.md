@@ -21,3 +21,5 @@ The term "church" in the New Testament refers to the community of believers, rat
 Grade: 95
 
 Comment: The response accurately explains that the term "church" in the New Testament refers to the community of believers rather than just a physical building or institution, which aligns well with a Christian worldview. The mention of believers meeting together in local assemblies further reinforces the understanding of the church as a community of people. This demonstrates a solid grasp of the concept and role of the church beyond just a physical structure. Great job!
+
+[&lt;- Link to Answer](../Definition_of_Church.md)

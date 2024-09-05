@@ -21,3 +21,5 @@ I am unable to provide information that relates to historical or religious inter
 Grade: 60
 
 Comment: The response provides a basic explanation of the Festival of Weeks from a historical perspective, but it fails to address the concern of connecting biblical festivals to their fulfillment in Christ. As a Christian, it is important to recognize the significance of biblical festivals in the context of the fulfillment found in Jesus Christ. The response could have been strengthened by discussing how the Festival of Weeks foreshadows the outpouring of the Holy Spirit on Pentecost and the birth of the Christian Church.
+
+[&lt;- Link to Answer](../Origin_of_Pentecost.md)

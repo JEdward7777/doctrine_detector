@@ -21,3 +21,5 @@ In the context of the Bible, the term "sanctuary" typically refers to a sacred p
 Grade: 90
 
 Comment: This response provides a clear explanation of the term "sanctuary" in the Biblical context, highlighting its association with sacred spaces like the Tabernacle and Temple, and emphasizing themes of holiness, safety, and community. The student effectively communicates a solid understanding of the term's significance in the Bible, demonstrating a good grasp of its importance in worship and divine encounter.
+
+[&lt;- Link to Answer](../Sanctuary_Definition.md)

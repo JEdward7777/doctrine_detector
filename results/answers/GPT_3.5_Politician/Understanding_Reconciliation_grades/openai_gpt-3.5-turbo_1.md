@@ -21,3 +21,5 @@ That is a deeply personal and complex question that touches on matters of faith 
 Grade: 85
 
 Comment: The response demonstrates a solid understanding of the Christian concept of sin and reconciliation through the sacrifice of Jesus Christ. The connection between sin separating humanity from God and the opportunity for reconciliation through Jesus' sacrifice is clearly explained. The response effectively addresses the concern regarding the nature of sin and God's provision for reconciliation within a Christian worldview. However, it could have been strengthened by incorporating specific biblical references to support the explanation further.
+
+[&lt;- Link to Answer](../Understanding_Reconciliation.md)

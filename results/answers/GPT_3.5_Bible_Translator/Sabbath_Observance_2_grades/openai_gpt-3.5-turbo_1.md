@@ -25,3 +25,5 @@ This instruction from God concerning the gathering of manna on the Sabbath was a
 Grade: 90
 
 Comment: The response accurately explains the significance of gathering double manna before the Sabbath to honor God's command of observing the Sabbath as a day of rest. It correctly emphasizes the importance of obeying God's instructions regarding the Sabbath, reflecting a good understanding of the biblical context and the Christian worldview. The connection between God's provision, care for His people, and the observance of the Sabbath is well articulated in the response.
+
+[&lt;- Link to Answer](../Sabbath_Observance_2.md)

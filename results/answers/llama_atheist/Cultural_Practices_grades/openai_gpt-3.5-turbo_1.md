@@ -35,3 +35,5 @@ In conclusion, the Jewish view of Gentiles had significant cultural and theologi
 Grade: 90
 
 Comment: The response effectively addresses the concern by discussing how cultural norms, specifically regarding Jewish views of Gentiles, influenced early Christian practices. It outlines the cultural practices of separation and holiness that impacted the relationship between Jews and Gentiles, leading to significant developments within the early Christian community. The response connects the cultural context to the formation of Christian identity and mission, showcasing a clear understanding of the influence of cultural norms on faith communities.
+
+[&lt;- Link to Answer](../Cultural_Practices.md)

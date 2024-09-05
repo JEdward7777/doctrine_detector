@@ -35,3 +35,5 @@ Thank you, and may God bless us all!
 Grade: 75
 
 Comment: The response does a good job of elaborating on the significance of Jesus as the cornerstone of the church, emphasizing unity, reconciliation, and community. It addresses the concern by highlighting how understanding Christ's role can impact a believer's faith and community involvement. However, it could further emphasize the unique Christian perspective on Jesus as the cornerstone and his salvific role for believers. It's important to explicitly tie the discussion back to the foundational support aspect mentioned in the given answer.
+
+[&lt;- Link to Answer](../Understanding_the_Cornerstone.md)

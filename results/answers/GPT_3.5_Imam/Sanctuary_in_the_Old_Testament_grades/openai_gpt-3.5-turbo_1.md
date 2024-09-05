@@ -29,3 +29,5 @@ Overall, the sanctuary in the Old Testament was a sacred space that connected Go
 Grade: 90
 
 Comment: The response provides a well-supported explanation of the importance of the sanctuary as a dwelling place for God among His people, the Israelites. It accurately reflects the biblical understanding of the sanctuary's role in connecting humanity with the Divine and highlighting the themes of worship, obedience, and atonement. The student effectively addresses the concern by emphasizing God's presence in the sanctuary and its significance as a safe place for His people. Great work!
+
+[&lt;- Link to Answer](../Sanctuary_in_the_Old_Testament.md)

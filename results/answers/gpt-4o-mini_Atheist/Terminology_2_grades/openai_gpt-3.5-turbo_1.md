@@ -39,3 +39,5 @@ These terms reflect theological nuances and emphasize different aspects of the p
 Grade: 95
 
 Comment: This response provides a thorough and informative explanation of the various terms used within Christianity to refer to the Lord's Supper. The student demonstrates a clear understanding of the topic and effectively expands on the terms mentioned in the answer. The incorporation of additional terms and explanations enhances the overall response. Well done!
+
+[&lt;- Link to Answer](../Terminology_2.md)

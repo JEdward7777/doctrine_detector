@@ -27,3 +27,5 @@ Please note that this answer is based on the descriptions found in the Hebrew Bi
 Grade: 90
 
 Comment: The response effectively expands on the description of the high priest's ephod provided in the initial answer, highlighting the significance of the specific materials used and the intricate design in relation to worship. The reference to Exodus 28:6-15 further supports the explanation. The only slight deduction is for not explicitly addressing the Christian worldview perspective on the importance of the ephod's design and symbolism in worship, as that could have strengthened the response further.
+
+[&lt;- Link to Answer](../Ephod_materials.md)

@@ -35,3 +35,5 @@ The earliest references to Christians as a group appear in non-canonical sources
 ## Comment by [openai_gpt-4o-mini_1](../../../grading_models/openai_gpt-4o-mini_1.md)
 Grade: 80
 Comment: The response provides a detailed and accurate explanation of the origins and early references of the term "Christian," showing a good understanding of the historical context and significance. However, the initial statement given in the answer that Jesus' followers were first called 'Christians' in the city of Antioch is incorrect based on the historical references provided. A higher grade could have been achieved by addressing this discrepancy.
+
+[&lt;- Link to Answer](../Origin_of_the_Term.md)

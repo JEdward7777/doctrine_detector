@@ -21,3 +21,5 @@ The selection of the twelve apostles by Jesus reflected his desire to establish 
 Grade: 80
 
 Comment: The response appropriately highlights the selection of the twelve apostles by Jesus for their specific role in spreading his teachings and laying the foundation of the early Church. However, it could have further elaborated on the specific roles and significance of the apostles in the New Testament to provide a deeper understanding of their importance in Christian history.
+
+[&lt;- Link to Answer](../Discipleship_Importance.md)

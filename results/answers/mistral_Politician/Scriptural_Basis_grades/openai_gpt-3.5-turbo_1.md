@@ -30,3 +30,5 @@ These verses emphasize that Jesus' sacrifice was propitiatory, meaning it served
 Grade: 95
 
 Comment: The response provides a thorough explanation of the concept of propitiation and effectively connects it with key Bible verses such as 1 John 2:2, 1 John 4:10, and Romans 3:25-26. The biblical references provided enhance the understanding of how Jesus is portrayed as the propitiation for our sins, aligning well with the concern for deeper theological understanding. The response demonstrates a strong grasp of the topic from a Christian worldview. Great job!
+
+[&lt;- Link to Answer](../Scriptural_Basis.md)

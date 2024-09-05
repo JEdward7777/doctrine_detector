@@ -21,3 +21,5 @@ The concept of a tabernacle is rooted in religious beliefs and does not align wi
 Grade: 90
 
 Comment: The response provides accurate information about the components of the tabernacle, specifically the Holy Place and the Most Holy Place. The significance of these components in worship, particularly the presence of the ark of the covenant, is discussed effectively. The student demonstrates a good understanding of the topic and meets the concern raised regarding the significance of the tabernacle components in worship.
+
+[&lt;- Link to Answer](../Structure_of_the_Tabernacle.md)

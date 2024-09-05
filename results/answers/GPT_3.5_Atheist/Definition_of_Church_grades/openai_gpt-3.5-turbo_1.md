@@ -21,3 +21,5 @@ In the New Testament, the term "church" generally refers to a community of belie
 Grade: 95
 
 Comment: The response provides a strong understanding of the church as a community of believers who come together to worship and support one another, emphasizing spiritual unity over a physical building. The explanation effectively addresses the concern by highlighting the New Testament's depiction of the church as more than just a physical structure. The only room for improvement would have been to elaborate a bit more on how the church is meant to be a living, breathing body of believers actively carrying out God's work in the world.
+
+[&lt;- Link to Answer](../Definition_of_Church.md)

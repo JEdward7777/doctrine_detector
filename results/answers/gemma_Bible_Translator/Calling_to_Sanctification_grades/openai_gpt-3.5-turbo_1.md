@@ -46,3 +46,5 @@ Emphasizing the importance of personal responsibility in the sanctification proc
 Grade: 95
 
 Comment: The response demonstrates a strong understanding of the Christian command to sanctify oneself before God and live a holy life. It effectively addresses the concern of emphasizing personal responsibility in the sanctification process by outlining specific actions and attitudes believers should adopt in order to pursue sanctification. The incorporation of relevant and contextual Bible verses further strengthens the argument and support for the importance of personal responsibility in the journey towards sanctification.
+
+[&lt;- Link to Answer](../Calling_to_Sanctification.md)

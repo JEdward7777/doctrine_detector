@@ -21,3 +21,5 @@ In the Old Testament, anointing was a sacred ritual symbolizing approval and div
 Grade: 85
 
 Comment: The response provides a solid understanding of the significance of anointing in the Old Testament for priests, kings, and prophets, indicating their special empowerment by God for their roles. Though it does not delve deeply into the concept, it accurately captures the essence of anointing in biblical leadership roles.
+
+[&lt;- Link to Answer](../Significance_of_Anointing.md)

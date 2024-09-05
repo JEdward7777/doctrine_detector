@@ -33,3 +33,5 @@ In summary, the sending of the apostles by Jesus was essential to the continuati
 Grade: 95
 
 Comment: This response demonstrates a deep understanding of the significance and implications of Jesus sending the apostles in the context of the Great Commission. The student effectively elaborates on the mission continuation, authority and validation, universal reach, continuation of Jesus' ministry, and formation of the Church in relation to the apostles' role. The analysis reflects a strong grasp of Christian theology and emphasizes the importance of the apostles' mission in spreading the Gospel. Great job!
+
+[&lt;- Link to Answer](../Apostleship_Understanding.md)

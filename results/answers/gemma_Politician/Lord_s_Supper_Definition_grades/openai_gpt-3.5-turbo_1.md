@@ -21,3 +21,5 @@ The Lord's Supper commemorates the symbolic act of Jesus Christ sharing a meal w
 Grade: 70
 
 Comment: The response correctly acknowledges the significance of the Lord's Supper as commemorating the Passover meal Jesus shared with his disciples and symbolizing his sacrifice for sin. However, there is room for improvement in explaining how this act is tied to the forgiveness and love offered by Christ in Christian faith.
+
+[&lt;- Link to Answer](../Lord_s_Supper_Definition.md)

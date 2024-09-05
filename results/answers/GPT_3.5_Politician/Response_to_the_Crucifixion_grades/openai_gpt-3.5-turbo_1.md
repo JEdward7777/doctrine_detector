@@ -21,3 +21,5 @@ Peter addressed the crowd in a compassionate manner, acknowledging the difficult
 Grade: 85
 
 Comment: The response effectively captures Peter's message of convicting the crowd for the crucifixion of Jesus while highlighting the core Christian message of repentance and faith in God's redemptive power. The importance of responding to the gospel call is accurately addressed within a Christian worldview perspective. Well done!
+
+[&lt;- Link to Answer](../Response_to_the_Crucifixion.md)

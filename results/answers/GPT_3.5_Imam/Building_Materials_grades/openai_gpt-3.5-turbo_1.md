@@ -21,3 +21,5 @@ In Islamic tradition, altars are not commonly used during worship or prayer, as 
 Grade: 50
 
 Comment: The response provides some information about altars in Islamic tradition, which is relevant to the given concern about understanding biblical practices. While it lacks direct comparison or contrast to Christian practices and the reverence associated with worship, it does provide a basis for reflection. More explicit connections to Christian beliefs and practices would have significantly strengthened the answer.
+
+[&lt;- Link to Answer](../Building_Materials.md)

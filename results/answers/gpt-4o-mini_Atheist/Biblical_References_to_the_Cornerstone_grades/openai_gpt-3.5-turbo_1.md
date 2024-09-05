@@ -43,3 +43,5 @@ These verses collectively convey that Jesus serves as a vital cornerstone in the
 Grade: 95
 
 Comment: The response provides a comprehensive overview of key biblical passages regarding Jesus as the cornerstone and effectively conveys His essential role in the foundation of faith and the Church. The references to various verses from both the Old and New Testaments showcase a deep understanding of Jesus' significance in Christian faith. Encouraging believers to explore scripture further would undoubtedly deepen their understanding and strengthen their faith even more.
+
+[&lt;- Link to Answer](../Biblical_References_to_the_Cornerstone.md)

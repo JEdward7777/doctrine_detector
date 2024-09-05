@@ -51,3 +51,5 @@ Clarifying the appropriate use of different forms of encouragement according to 
 Grade: 85
 
 Comment: The response provides a clear differentiation between 'exhort', 'encourage', and 'admonish' according to their meanings and connotations. However, to enhance the response from a Christian worldview, it could have included specific Biblical examples or principles that illustrate the appropriate use of these forms of encouragement. Connecting these concepts to scriptural references would strengthen the response in addressing the concern.
+
+[&lt;- Link to Answer](../Differences_in_Terminology.md)

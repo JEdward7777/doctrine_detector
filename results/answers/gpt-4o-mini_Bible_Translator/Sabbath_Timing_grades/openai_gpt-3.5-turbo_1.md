@@ -23,3 +23,5 @@ As a result, the Jewish day is counted from evening to evening, rather than from
 Grade: 95
 
 Comment: The response provides a clear and accurate explanation of the Biblical teaching regarding the timeframe for the observance of the Sabbath based on Jewish tradition and the account in Genesis 1. It effectively addresses the concern raised.
+
+[&lt;- Link to Answer](../Sabbath_Timing.md)

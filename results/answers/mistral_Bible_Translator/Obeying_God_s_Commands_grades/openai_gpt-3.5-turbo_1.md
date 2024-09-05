@@ -35,3 +35,5 @@ In summary, the laws given to Moses relate to the concept of a covenant between 
 Grade: 95
 
 Comment: The response provides a thorough explanation of the significance of obedience to God's commands within the context of the Mosaic Covenant. It clearly articulates the conditional nature of the covenant, the blessings for obedience, the consequences for disobedience, the renewal of the covenant, and the ultimate fulfillment in Jesus Christ. The answer demonstrates a strong understanding of the relationship between God's commands and the covenant with His people in the Old Testament.
+
+[&lt;- Link to Answer](../Obeying_God_s_Commands.md)

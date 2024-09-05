@@ -21,3 +21,5 @@ The term "Christians" is first recorded in the New Testament in the book of Acts
 Grade: 90
 
 Comment: The response accurately states that Jesus' followers were first called "Christians" in the city of Antioch, showing an understanding of the historical context and significance of the term. The only improvement could be further elaboration on the importance of this designation and its implications for the early Christian community.
+
+[&lt;- Link to Answer](../Origin_of_the_Term.md)

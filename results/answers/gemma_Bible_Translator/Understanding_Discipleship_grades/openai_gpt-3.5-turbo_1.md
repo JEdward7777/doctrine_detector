@@ -50,3 +50,5 @@ Based on the provided content, being a disciple of Jesus means:
 Grade: 90
 
 Comment: The response effectively captures the core essence of being a disciple of Jesus based on the provided definition and concern. It emphasizes the importance of belief, obedience, and following Jesus' teachings and example. The additional content provided expands on the responsibilities and implications of being a disciple, aligning well with a Christian worldview.
+
+[&lt;- Link to Answer](../Understanding_Discipleship.md)

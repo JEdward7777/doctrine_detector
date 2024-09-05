@@ -21,3 +21,5 @@ The celebration of Passover is primarily a religious observance for Jews and hol
 Grade: 70
 
 Comment: The response acknowledges the connection between the Old Testament Passover and the New Testament revelation of Jesus as the Passover Lamb. However, it could have further emphasized the theological significance of this connection for Christians in understanding Jesus' role in fulfilling Old Testament prophecies and providing redemption for humanity.
+
+[&lt;- Link to Answer](../Passover_Significance.md)

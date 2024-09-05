@@ -25,3 +25,5 @@ Overall, while Christians are not given specific instructions on how to engage w
 Grade: 90
 
 Comment: The response accurately highlights the importance of the Psalms in Christian worship and spirituality, drawing connections between the Psalms and Christian faith. The concern about applying biblical teachings to contemporary Christian worship is effectively addressed by discussing how the Psalms are relevant for Christians today. The response could be strengthened by further emphasizing the specific instruction in the New Testament to sing psalms as a way of worshiping God.
+
+[&lt;- Link to Answer](../New_Testament_Instruction.md)

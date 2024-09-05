@@ -21,3 +21,5 @@ Thank you for the question. The laws given to Moses, commonly referred to as the
 Grade: 85
 
 Comment: The response demonstrates a clear understanding of the significance of obedience to God's commands within the context of the covenant established at Sinai. The connection between the Ten Commandments as part of the covenant, outlining responsibilities and consequences for obedience or disobedience, is well articulated. The response effectively integrates Christian principles and worldview in discussing the relationship between God and His people.
+
+[&lt;- Link to Answer](../Obeying_God_s_Commands.md)

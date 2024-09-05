@@ -37,3 +37,5 @@ May Allah guide us on our journey through life and into eternity.
 Grade: 90
 
 Comment: The response provides a detailed and insightful explanation of the use of myrrh in biblical times related to burial practices, drawing specifically from the Gospel of Matthew. It effectively addresses the concern by highlighting the importance of understanding cultural customs surrounding burial practices in interpreting scriptural contexts. The response also acknowledges similarities and differences between Jewish-Christian and Islamic traditions in the treatment of the deceased. Overall, the explanation is well-reasoned and demonstrates a strong grasp of the topic.
+
+[&lt;- Link to Answer](../Use_in_Burial.md)

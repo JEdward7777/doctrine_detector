@@ -33,3 +33,5 @@ These terms are not exhaustive, and different Christian traditions may have thei
 Grade: 90
 
 Comment: The response provides a comprehensive overview of the different terms used within Christianity to refer to the Lord's Supper, going beyond just "communion" and "Last Supper" as mentioned in the original answer. While maintaining a neutral stance as an atheist, the scholar effectively addresses the concern by offering additional terms and explanations from various Christian denominations. The response is informative and well-rounded, demonstrating a good understanding of the topic from a scholarly perspective.
+
+[&lt;- Link to Answer](../Terminology_2.md)

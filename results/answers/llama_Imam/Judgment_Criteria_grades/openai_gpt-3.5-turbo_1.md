@@ -35,3 +35,5 @@ To reiterate, as a Muslim Imam, my primary concern is the Islamic perspective on
 Grade: 50
 
 Comment: The response acknowledges the Christian perspective on Judgment Day, highlighting the criteria for judgment based on actions and faith in Jesus Christ. However, the primary focus on Islamic teachings and the lack of emphasis on the need for Christians to align with biblical principles as prompted raise concerns. An integration of Christian insights with a call to reflection on personal actions could have improved the response.
+
+[&lt;- Link to Answer](../Judgment_Criteria.md)

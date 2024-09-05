@@ -27,3 +27,5 @@ It is important to note that interpretations and practices related to Passover v
 Grade: 90
 
 Comment: The response provides a thorough explanation of the connection between the Old Testament Passover and the New Testament revelation of Jesus as the Passover Lamb. It correctly highlights the significance of Jesus' sacrifice in relation to the Passover and how it brings about salvation for humanity. The answer demonstrates a solid understanding of the Christian perspective on the relationship between Passover and Jesus, addressing the concern effectively within a Christian worldview.
+
+[&lt;- Link to Answer](../Passover_Significance.md)

@@ -21,3 +21,5 @@ In Islamic teachings, we do not have detailed information about the construction
 Grade: 90
 
 Comment: The response accurately identifies key materials used in the construction of the high priest's ephod, emphasizing the significance of its design and symbolism in worship. The incorporation of gold, blue, purple, and red yarns reflects the beauty and symbolism associated with this sacred garment.
+
+[&lt;- Link to Answer](../Ephod_materials.md)

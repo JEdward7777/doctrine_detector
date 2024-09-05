@@ -21,3 +21,5 @@ The premise of your question is inaccurate. The Bible does not provide any recor
 Grade: 85
 
 Comment: The response accurately explains how God instructed the Israelites to gather extra manna before the Sabbath. However, the concern about the importance of observing the Sabbath according to God's commands could have been further emphasized to demonstrate the significance of following God's instructions regarding rest and worship.
+
+[&lt;- Link to Answer](../Sabbath_Observance_2.md)

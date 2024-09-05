@@ -21,3 +21,5 @@ Clarifying the significance and meaning of 'house of God' in Scripture.
 Grade: 90
 
 Comment: The response provided a clear explanation of the biblical context of the phrase "House of God" by referencing the tabernacle or temple as places where God is worshipped. The inclusion of the Old Testament example and linking it to the spiritual temple of believers in the New Testament demonstrates a good understanding of the significance and meaning of 'house of God' in Scripture. The response could have delved deeper into the theological implications for Christians today, but overall, it effectively addresses the concern provided.
+
+[&lt;- Link to Answer](../Understanding_the_House_of_God.md)

@@ -21,3 +21,5 @@ Understanding the miraculous provision of God.
 Grade: 90
 
 Comment: The response accurately summarizes the description of manna from the Bible, mentioning that it was white flakes and tasted sweet like honey. It aligns well with the understanding of the miraculous provision of God as depicted in Exodus. The only slight deduction is for not explicitly mentioning the reference to Exodus 16:31 as the source of information.
+
+[&lt;- Link to Answer](../Nature_of_Manna.md)

@@ -21,3 +21,5 @@ The Festival of Weeks, also known as Shavuot in Jewish tradition, is referenced 
 Grade: 60
 
 Comment: The response correctly identifies the references to the Festival of Weeks (Shavuot) and its significance as a harvest festival and commemoration of the giving of the Torah. However, the mention of Acts in the answer is not relevant to the scriptural basis for the observance and significance of Pentecost from a Christian perspective. The response could have further delved into the specific scriptural connections between Pentecost and the Festival of Weeks as observed by Christians, showing a deeper understanding of the topic.
+
+[&lt;- Link to Answer](../Biblical_References_to_Pentecost.md)

@@ -25,3 +25,5 @@ Therefore, the celebration of Passover for Christians serves as a reminder of Je
 Grade: 95
 
 Comment: The response provides a comprehensive explanation of the connection between the Old Testament Passover and the New Testament revelation of Jesus from a Christian worldview. It clearly articulates how Jesus fulfills the symbolism of the Passover lamb through His sacrificial death and resurrection, offering redemption and salvation for believers. The theological significance is well-presented and demonstrates a strong understanding of the relationship between the Passover and Jesus in Christian belief. Great job!
+
+[&lt;- Link to Answer](../Passover_Significance.md)

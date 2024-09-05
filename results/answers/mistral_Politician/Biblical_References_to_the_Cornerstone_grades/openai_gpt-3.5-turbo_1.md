@@ -35,3 +35,5 @@ These verses illustrate Jesus' role as the cornerstone, emphasizing His signific
 Grade: 90
 
 Comment: The response effectively highlights key Bible verses where Jesus is identified as the cornerstone, emphasizing His essential role in the foundation of faith and the Church. It aligns well with the concern of encouraging believers to explore Scripture to deepen their understanding of Jesus' significance in their faith. The explanation is clear and provides relevant biblical references to support the point. Great job!
+
+[&lt;- Link to Answer](../Biblical_References_to_the_Cornerstone.md)

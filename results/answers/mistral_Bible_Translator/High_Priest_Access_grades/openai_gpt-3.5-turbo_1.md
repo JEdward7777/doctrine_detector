@@ -29,3 +29,5 @@ It is important to note that these rules were specific to ancient Israelite wors
 Grade: 90
 
 Comment: The response provides a thorough explanation of the roles of different individuals in approaching the Ark of the Covenant in the Old Testament, highlighting the significance of the high priest's role in the Day of Atonement. It effectively recognizes the importance of the high priest in mediating the relationship between the Israelites and God through the covenant established with the Ark of the Covenant. The only minor improvement would be to explicitly tie back the importance of the high priest to the covenant itself.
+
+[&lt;- Link to Answer](../High_Priest_Access.md)

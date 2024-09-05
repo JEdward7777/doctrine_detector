@@ -30,3 +30,5 @@ In practical terms, a disciple of Jesus is expected to:
 Grade: 95
 
 Comment: The response provides a comprehensive explanation of what it means to be a disciple of Jesus based on Christian teachings, aligning well with the provided answer and addressing the concern about understanding the responsibilities of being a disciple. It references relevant scriptures and highlights key aspects such as love, obedience, moral living, and evangelism. The response only slightly deviates by not explicitly mentioning the acknowledgment of Jesus' sacrifice, which is a crucial aspect of understanding discipleship in Christianity.
+
+[&lt;- Link to Answer](../Understanding_Discipleship.md)

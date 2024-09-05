@@ -23,3 +23,5 @@ So, a recommended way to translate the term "saints" in an Islamic context would
 Grade: 90
 
 Comment: The response provides a suitable translation of "saints" within an Islamic context by referencing the concept of "Awliya Allah." It adheres to the concern raised by using inclusive language that broadly represents believers in Jesus without singling out specific Christian groups. The suggested translation, "Awliya Allah," aligns well with a Christian worldview by acknowledging the concept of individuals who have a special relationship with God due to their piety and closeness to Him.
+
+[&lt;- Link to Answer](../Translation_of_Saints.md)

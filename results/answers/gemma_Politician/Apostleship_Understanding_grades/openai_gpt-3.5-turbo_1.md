@@ -21,3 +21,5 @@ From a politically correct perspective, it's important to acknowledge that the s
 Grade: 90
 
 Comment: The response acknowledges the significance of the apostles in spreading the gospel by emphasizing their role as being sent by Jesus with the authority to preach about God. It clearly connects their mission to the establishment and expansion of the early church, demonstrating a good understanding of the role of apostleship within the context of the Great Commission from a Christian perspective. However, the response could be further enhanced by incorporating specific biblical references or examples to support the statements made.
+
+[&lt;- Link to Answer](../Apostleship_Understanding.md)

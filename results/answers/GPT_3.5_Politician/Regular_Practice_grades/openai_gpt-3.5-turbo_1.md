@@ -21,3 +21,5 @@ The apostle Paul believed that establishing the Lord's Supper as a regular pract
 Grade: 90
 
 Comment: The response accurately captures the essence of the establishment of the Lord's Supper by the apostle Paul as a practice for believers to remember and proclaim the death and resurrection of Jesus Christ. It aligns well with the concern of recognizing the importance of the Lord's Supper in the life of the church and individual believers. The only minor improvement would be to include a mention of the significance of unity, forgiveness, and gratitude within the Christian community, emphasizing the communal aspect of the practice.
+
+[&lt;- Link to Answer](../Regular_Practice.md)

@@ -57,3 +57,5 @@ The response is strongest in its clear and concise explanation of the passages, 
 Where the response falls short is in its lack of explicit connection between the scriptural foundations and the concern about understanding Jesus as Savior. While the response does mention that the passages "confirm the central message of Christianity," it could be more explicit in showing how these specific passages address the concern to understand scriptural foundations for believing in Jesus as Savior.
 
 Overall, a strong effort, but with some opportunities for further development and connection-making!
+
+[&lt;- Link to Answer](../Biblical_References_to_Salvation.md)

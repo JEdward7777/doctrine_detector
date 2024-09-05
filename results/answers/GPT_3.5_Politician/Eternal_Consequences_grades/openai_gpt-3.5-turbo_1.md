@@ -21,3 +21,5 @@ It is important to approach this topic with sensitivity and respect for differen
 Grade: 90
 
 Comment: The response acknowledges the severity of eternal separation from God by mentioning the consequence of facing eternal punishment in hell for those who perish. It aligns well with the concern of understanding the seriousness of this separation from a Christian worldview. The initial response handles the topic with sensitivity and respect for different beliefs, but it could have strengthened the Christian perspective by explicitly delving into the Christian understanding of perishing and the implications of eternal separation from God.
+
+[&lt;- Link to Answer](../Eternal_Consequences.md)

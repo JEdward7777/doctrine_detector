@@ -25,3 +25,5 @@ Overall, the role of the priests in the Old Testament was central to maintaining
 Grade: 85
 
 Comment: The response provides a comprehensive understanding of the role of priests in the Old Testament based on the given answer. It effectively recognizes the importance of sacrificial service in the ministry of priests and acknowledges the significance of understanding these practices for informing current ministry approaches. The connection between the practices of the Old Testament priests and their relevance for modern-day ministry is well-articulated.
+
+[&lt;- Link to Answer](../Old_Testament_Ministry.md)

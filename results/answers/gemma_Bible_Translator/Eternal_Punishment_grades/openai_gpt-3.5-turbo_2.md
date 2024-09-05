@@ -52,3 +52,5 @@ Issues about the nature of divine justice and mercy in relation to eternal conse
 Grade: 90
 
 Comment: The response provided effectively connects the concept of eternal punishment in hell to God's justice in response to rebellion and rejection of His salvation plan. The inclusion of various aspects of justice, such as justice for sin, the innocent, God's character, redemption, and the new creation, demonstrates a comprehensive understanding of divine justice in relation to eternal consequences. The response aligns well with a Christian worldview by emphasizing the importance of justice while also highlighting the potential for redemption through punishment. The only minor suggestion for improvement would be to further emphasize the aspect of God's mercy in conjunction with His justice, to provide a more balanced view of divine attributes.
+
+[&lt;- Link to Answer](../Eternal_Punishment.md)

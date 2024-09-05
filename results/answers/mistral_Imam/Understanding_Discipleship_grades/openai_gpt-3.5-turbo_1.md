@@ -25,3 +25,5 @@ Therefore, being a disciple of Jesus for Muslims is about understanding and emul
 Grade: 70
 
 Comment: The response provided a detailed explanation of how Muslims view being disciples of Jesus within the Islamic perspective, addressing the concern of understanding the responsibilities of being a disciple. The answer respected both the question provided and offered a thorough comparison to the Christian understanding, demonstrating a good level of knowledge and a respectful tone. However, it could have further highlighted the differences in the concept of discipleship between Islam and Christianity to provide a more comprehensive analysis.
+
+[&lt;- Link to Answer](../Understanding_Discipleship.md)

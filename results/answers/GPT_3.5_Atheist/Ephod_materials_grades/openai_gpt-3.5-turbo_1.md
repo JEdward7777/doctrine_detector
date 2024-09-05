@@ -21,3 +21,5 @@ In the biblical account found in the book of Exodus, the high priest's ephod was
 Grade: 90
 
 Comment: The response accurately specifies the materials used in the high priest's ephod and demonstrates an understanding of the importance of these materials in highlighting the design and symbolism of the ephod in worship from a Christian worldview.
+
+[&lt;- Link to Answer](../Ephod_materials.md)

@@ -27,3 +27,5 @@ In summary, Jesus is not referred to in relation to the priesthood or its associ
 Grade: 20
 
 Comment: The response did not adequately address the significance of Jesus' role in the priesthood from a Christian worldview. It focused primarily on Islamic beliefs about Jesus without engaging with the specific concern provided. In a Christian perspective, Jesus is seen as the ultimate high priest who offered himself as a sacrifice for humanity's sins, fulfilling the role of the sacrificial system in the Old Testament. It's important to integrate and reflect on this central Christian belief when discussing Jesus' role in the priesthood.
+
+[&lt;- Link to Answer](../Jesus_as_High_Priest.md)

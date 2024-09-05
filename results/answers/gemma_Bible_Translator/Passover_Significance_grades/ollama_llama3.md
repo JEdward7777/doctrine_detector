@@ -37,3 +37,5 @@ The response effectively connects the Old Testament Passover to the New Testamen
 The only area for improvement is that the response could benefit from more specific references to Scripture, such as Exodus 12 or Hebrews 9:11-28, which would further solidify the connection between the two. Additionally, while the response does a good job of explaining Jesus' sacrifice as the ultimate Passover lamb, it could be strengthened by a more detailed exploration of what this means for believers today.
 
 Overall, however, this is a strong and well-written response that effectively conveys the significance of Jesus' sacrifice in relation to the Old Testament Passover.
+
+[&lt;- Link to Answer](../Passover_Significance.md)

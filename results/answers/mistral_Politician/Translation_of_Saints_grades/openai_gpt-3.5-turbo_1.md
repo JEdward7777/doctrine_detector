@@ -21,3 +21,5 @@ It's important to use inclusive language that accurately represents all believer
 Grade: 70
 
 Comment: The response provides appropriate alternatives that maintain the Christian connotation of "saints" while addressing the concern of inclusivity. However, it could have expanded on the use of language that encompasses all believers more effectively.
+
+[&lt;- Link to Answer](../Translation_of_Saints.md)

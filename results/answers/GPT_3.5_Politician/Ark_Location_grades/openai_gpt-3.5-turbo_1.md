@@ -21,3 +21,5 @@ The ark of the covenant was located in the innermost part of the tabernacle, kno
 Grade: 90
 
 Comment: The answer accurately identifies the location of the ark of the covenant in the most holy place, which is the Holy of Holies in the tabernacle. It demonstrates a solid understanding of the significance of the most holy place as the dwelling spot of God's presence according to Christian beliefs. The small variation in wording does not detract significantly from the overall accuracy of the response.
+
+[&lt;- Link to Answer](../Ark_Location.md)

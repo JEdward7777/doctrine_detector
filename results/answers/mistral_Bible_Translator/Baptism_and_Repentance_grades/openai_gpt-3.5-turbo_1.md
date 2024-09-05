@@ -27,3 +27,5 @@ So, in summary, repentance is a change of heart that leads us to turn away from 
 Grade: 92
 
 Comment: The response demonstrates a clear understanding of the relationship between repentance and baptism in Christian doctrine by accurately highlighting their interconnectedness and significance in the process of salvation. It effectively builds upon the provided answer by elaborating on the spiritual implications of both repentance and baptism, emphasizing the importance of each step in the journey of faith. The biblical references and explanations provided align well with a Christian worldview, leading to a thorough and coherent explanation of the topic. Well done!
+
+[&lt;- Link to Answer](../Baptism_and_Repentance.md)

@@ -23,3 +23,5 @@ This everlasting throne represents the eternal rule and kingship of Jesus Christ
 Grade: 90
 
 Comment: The response provides a clear explanation of how the promise of an everlasting throne for King David is understood in Christian theology as a prophecy about Jesus Christ. It effectively connects the Old Testament passages, Jesus's lineage, and his resurrection and ascension to fulfill this promise. The response emphasizes the significance of this promise for recognizing the fulfillment of God's plan through Jesus, in line with the provided concern. Well done!
+
+[&lt;- Link to Answer](../David_s_Throne.md)

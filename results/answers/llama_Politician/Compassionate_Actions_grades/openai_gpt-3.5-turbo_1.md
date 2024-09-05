@@ -33,3 +33,5 @@ May these stories inspire us to be like Christ – full of love, mercy, and comp
 Grade: 90
 
 Comment: The response beautifully expands on the examples of compassion from the Bible provided in the answer, connecting them to real-life applications and emphasizing the importance of extending compassion to all individuals, regardless of background or status. The biblical stories referenced are well-explained and relevant to the concern raised. Overall, a strong integration of Christian values and worldview in addressing the prompt.
+
+[&lt;- Link to Answer](../Compassionate_Actions.md)

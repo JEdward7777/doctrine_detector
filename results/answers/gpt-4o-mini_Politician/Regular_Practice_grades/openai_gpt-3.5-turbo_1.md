@@ -23,3 +23,5 @@ Additionally, the ritual acts as a means of grace, nourishing the spiritual life
 
 ## Comment by [openai_gpt-3.5-turbo_1](../../../grading_models/openai_gpt-3.5-turbo_1.md)
 I would grade this response as 90. The student has effectively expanded on the importance of the Lord's Supper beyond merely remembering and proclaiming the death and resurrection of Jesus Christ to include fostering community, unity, self-reflection, reconciliation, and spiritual nourishment. The response demonstrates a strong understanding of the significance of the Lord's Supper in the life of the church and individual believers from a Christian perspective. The theological insights provided align well with biblical teachings and show a depth of understanding regarding the purpose and impact of the sacrament.
+
+[&lt;- Link to Answer](../Regular_Practice.md)

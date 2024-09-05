@@ -34,3 +34,5 @@ As an atheist scholar, I'm interested in the cultural significance of these mate
 Grade: 75
 
 Comment: The response provides a detailed examination of the materials used in constructing the high priest's ephod based on historical and cultural perspectives, aligning with the given concern. However, the perspective lacks consideration of any potential divine significance or purpose behind the selection of these materials, which is a limitation from a Christian worldview.
+
+[&lt;- Link to Answer](../Ephod_materials.md)

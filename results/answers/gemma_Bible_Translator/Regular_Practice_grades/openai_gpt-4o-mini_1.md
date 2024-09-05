@@ -23,3 +23,5 @@ The early church primarily practiced the Lord's Supper on the day of Pentecost a
 I would grade this response as 40.
 
 While the student correctly emphasizes the importance of the Lord's Supper in the life of the church and individual believers, their assertion about the establishment of the Lord's Supper by the apostle Paul is not consistent with Christian beliefs. According to Christian doctrine, Jesus Christ established the Lord's Supper during the Last Supper before His crucifixion as a way for believers to remember His sacrifice and proclaim His death and resurrection. The response given in the student's evaluation lacks precision in aligning with this fundamental belief, hence the lower grade.
+
+[&lt;- Link to Answer](../Regular_Practice.md)

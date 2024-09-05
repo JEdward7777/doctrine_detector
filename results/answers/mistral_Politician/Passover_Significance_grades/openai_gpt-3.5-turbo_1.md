@@ -27,3 +27,5 @@ In summary, while Passover is a Jewish holiday, its observance in the Christian 
 Grade: 90
 
 Comment: The response effectively connects the Old Testament Passover tradition to the New Testament revelation of Jesus as the Passover Lamb. It demonstrates a solid understanding of the Christian perspective on the significance of Passover in relation to Jesus. The explanation is clear and respectful of both Jewish and Christian traditions. The only slight room for improvement would be to include a more explicit reference to the forgiveness of sin and redemption through Jesus as the Passover Lamb, but overall, the response is insightful and well-rounded.
+
+[&lt;- Link to Answer](../Passover_Significance.md)

@@ -21,3 +21,5 @@ Baptism is not considered a requirement for repentance or salvation in Islam. Th
 Grade: 80
 
 Comment: The response accurately highlights the Christian perspective that repentance is a prerequisite for baptism based on biblical examples of individuals repenting before being baptized. However, it would have been beneficial to further elaborate on the symbolic significance of baptism in Christianity as a public declaration of one's faith and commitment to following Christ.
+
+[&lt;- Link to Answer](../Baptism_and_Repentance.md)

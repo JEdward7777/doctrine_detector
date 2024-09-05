@@ -21,3 +21,5 @@ Knowing the specific materials highlights the importance of the ephod's design a
 Grade: 90
 
 Comment: The response provided a detailed explanation of the materials and design of the high priest's ephod, aligning well with the concern regarding its importance in worship. The inclusion of scriptural references and specific details enhances the understanding of the symbolism behind the ephod in Jewish tradition. Great job!
+
+[&lt;- Link to Answer](../Ephod_materials.md)

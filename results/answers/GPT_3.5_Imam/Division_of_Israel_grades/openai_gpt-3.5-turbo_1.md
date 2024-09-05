@@ -21,3 +21,5 @@ One major event that occurred in Israel's history after King Solomon's reign is 
 Grade: 90
 
 Comment: The response accurately identifies the division of Israel into two kingdoms after King Solomon's reign. It provides a concise summary of the event without going into specific details. The only minor improvement would be to mention the eventual conquests of both kingdoms by foreign powers as a further consequence of the division.
+
+[&lt;- Link to Answer](../Division_of_Israel.md)

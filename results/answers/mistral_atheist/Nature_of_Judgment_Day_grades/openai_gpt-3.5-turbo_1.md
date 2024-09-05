@@ -21,3 +21,5 @@ Understanding the significance of judgment day and its implications for personal
 Grade: 90
 
 Comment: This response effectively explains the concept of Judgment Day in a Christian context, referencing biblical teachings and emphasizing the importance of faith in Jesus and deeds in life. The explanation aligns well with Christian beliefs and addresses the concern regarding the significance of Judgment Day in relation to personal faith. Great job overall!
+
+[&lt;- Link to Answer](../Nature_of_Judgment_Day.md)

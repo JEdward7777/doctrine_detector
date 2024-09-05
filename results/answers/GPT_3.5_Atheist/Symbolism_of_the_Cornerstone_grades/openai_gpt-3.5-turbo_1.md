@@ -27,3 +27,5 @@ Overall, the metaphor of the cornerstone in Christianity emphasizes the central 
 Grade: 90
 
 Comment: The response does a great job expanding on the given answer by discussing the significance of Jesus as the cornerstone in Christianity and how this metaphor emphasizes his central role in the faith. It effectively addresses the concern by highlighting how understanding the relationship between Jesus and his followers can help believers align their lives with his teachings and example. Overall, the response provides a clear and insightful perspective from a Christian worldview.
+
+[&lt;- Link to Answer](../Symbolism_of_the_Cornerstone.md)

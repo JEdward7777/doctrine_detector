@@ -29,3 +29,5 @@ The Book of Acts (Acts 2:1) records the event known as the Pentecost in Christia
 Grade: 95
 
 Comment: The response provides a thorough explanation of the Festival of Weeks (Pentecost) from both the Hebrew Bible and the New Testament, including specific references and details. It correctly highlights the significance of Pentecost in marking the beginning of the Christian Church. However, the response could have been improved by explicitly mentioning the references provided in the answer and connecting them to the scriptural basis for the observance and significance of Pentecost.
+
+[&lt;- Link to Answer](../Biblical_References_to_Pentecost.md)

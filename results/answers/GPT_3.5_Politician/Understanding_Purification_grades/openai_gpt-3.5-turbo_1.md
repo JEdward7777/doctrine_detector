@@ -21,3 +21,5 @@ In the context of Old Testament laws, purification holds significance as a symbo
 Grade: 85
 
 Comment: The response effectively explains the primary aspects of purification in the Old Testament context, focusing on cleansing from ritual impurity and sin through sacrifices. It also briefly touches on the significance of maintaining holiness. However, it could have further elaborated on how the process of ritual purification reflects God's standards for holiness and how it highlights the nature of sin more explicitly, drawing clear connections between the rituals and these theological concepts.
+
+[&lt;- Link to Answer](../Understanding_Purification.md)

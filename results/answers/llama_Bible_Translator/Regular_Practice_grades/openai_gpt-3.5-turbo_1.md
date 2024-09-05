@@ -33,3 +33,5 @@ In summary, Paul established the Lord's Supper as a regular practice for believe
 Grade: 90
 
 Comment: The response provides a thorough explanation of the significance and importance of the Lord's Supper in the life of believers, incorporating key biblical references and insights from Paul's writings. The connection between the establishment of the Lord's Supper by Paul and its role in remembering and proclaiming the death and resurrection of Jesus Christ is well articulated. The response effectively addresses the concern regarding the importance of the Lord's Supper in the life of the church and individual believers, demonstrating a solid understanding of the Christian perspective on this sacrament.
+
+[&lt;- Link to Answer](../Regular_Practice.md)

@@ -21,3 +21,5 @@ In biblical times, myrrh was often used as an embalming agent or for perfuming t
 Grade: 90
 
 Comment: The response accurately points out the significance of myrrh in preparing dead bodies for burial, showing an understanding of its role in the anointing process and the respect shown to the deceased. The integration of this information with the concern about enhancing comprehension of cultural contexts in scripture demonstrates a thoughtful Christian perspective on the topic. Great job!
+
+[&lt;- Link to Answer](../Use_in_Burial.md)

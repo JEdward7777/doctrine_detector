@@ -35,3 +35,5 @@ While all Christians are encouraged to share their faith to some extent, evangel
 Grade: 85
 
 Comment: The response effectively acknowledges the presence of a spiritual gift for evangelism among some Christians, identifying them as evangelists. The response shows a good understanding of the spiritual gifts related to evangelism and their role in the church. However, there could have been more depth in explaining how evangelists differ from other Christians in their approach to sharing the gospel, considering different aspects such as active engagement, theological emphasis, relational approach, and diverse methods.
+
+[&lt;- Link to Answer](../Gift_of_Evangelism.md)

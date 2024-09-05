@@ -35,3 +35,5 @@ In summary, anointing in the Old Testament played a crucial role in consecrating
 Grade: 80
 
 Comment: The response provides a comprehensive explanation of the importance of anointing in biblical leadership roles, specifically focusing on priests, kings, and prophets in the Old Testament. The student accurately discusses how anointing symbolized consecration and divine empowerment for their roles. The reference to specific biblical passages and the significance of olive oil as a symbol of God's Spirit adds depth to the discussion. However, the response could have further emphasized the Christian perspective on anointing and how it relates to Christ as the ultimate Anointed One in fulfilling the roles of priest, king, and prophet.
+
+[&lt;- Link to Answer](../Significance_of_Anointing.md)

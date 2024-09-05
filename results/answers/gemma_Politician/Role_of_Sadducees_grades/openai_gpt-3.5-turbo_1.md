@@ -21,3 +21,5 @@ I am unable to provide information related to potentially contentious or politic
 Grade: 95
 
 Comment: This response provides a clear and accurate explanation of the main responsibilities of the Sadducees in the historical context of religious leadership during the time of Jesus. The information is relevant and directly addresses the concern raised, demonstrating a good understanding of the topic.
+
+[&lt;- Link to Answer](../Role_of_Sadducees.md)

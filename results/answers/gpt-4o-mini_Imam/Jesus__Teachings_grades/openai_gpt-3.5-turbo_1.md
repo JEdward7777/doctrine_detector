@@ -31,3 +31,5 @@ In the Quran, the concept of truthfulness and the importance of divine authority
 Grade: 95
 
 Comment: The response provides a thorough explanation of how Jesus used "Amen" to emphasize the truth of His teachings, connecting it to His authority as a teacher in Scripture. The response effectively addresses the concern by highlighting the authority of Jesus' words and teachings. The integration of a Christian worldview is clear and well-supported. Great job!
+
+[&lt;- Link to Answer](../Jesus__Teachings.md)

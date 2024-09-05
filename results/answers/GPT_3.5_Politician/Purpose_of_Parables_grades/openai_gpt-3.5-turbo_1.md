@@ -21,3 +21,5 @@ Thank you for that question. Jesus used parables in his teachings to convey spir
 Grade: 90
 
 Comment: The response provides a solid explanation of how Jesus used parables to convey spiritual truths and engage with his audience at different levels of understanding. It correctly highlights the purpose of parables in revealing truths to his disciples while remaining hidden to those who did not believe. The only minor improvement could be a more explicit connection to the implications for faith, but overall, a strong response from a Christian worldview perspective.
+
+[&lt;- Link to Answer](../Purpose_of_Parables.md)

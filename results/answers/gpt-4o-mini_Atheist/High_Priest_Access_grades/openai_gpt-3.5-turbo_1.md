@@ -31,3 +31,5 @@ In summary, access to the Ark of the Covenant was highly regulated, limited prim
 Grade: 95
 
 Comment: The response accurately expands on the role of the High Priest in approaching the Ark of the Covenant, incorporating relevant biblical references and details about the importance of ritual purity and consequences of mishandling the Ark. It effectively recognizes the centrality of the High Priest in the Israelite's relationship with God and the covenant.
+
+[&lt;- Link to Answer](../High_Priest_Access.md)

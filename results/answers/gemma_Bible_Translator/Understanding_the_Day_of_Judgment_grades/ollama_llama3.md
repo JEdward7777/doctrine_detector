@@ -65,3 +65,5 @@ The strengths of this response include:
 * It provides some relevant biblical references to support its claims.
 
 To improve this response, consider adding more detail and examples to each point, as well as providing more directly related biblical references. This would help to further develop the ideas and provide a stronger connection between the response's main points and the concern being addressed.
+
+[&lt;- Link to Answer](../Understanding_the_Day_of_Judgment.md)

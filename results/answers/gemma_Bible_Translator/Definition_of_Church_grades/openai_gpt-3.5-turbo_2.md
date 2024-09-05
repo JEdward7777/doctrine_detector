@@ -48,3 +48,5 @@ Understanding of the church's role as more than just a building.
 Grade: 90
 
 Comment: The response provides a comprehensive understanding of the term 'church' in the New Testament, highlighting its multifaceted meanings beyond just a local assembly of believers. It correctly emphasizes the importance of the church as a spiritual institution, the visible body of Christ globally, and the Kingdom of God being advanced through the Church. The concern regarding the church's role as more than just a building is effectively addressed by explaining the broader spiritual, mystical, and cosmic significance of the church in Christian theology. Great job in providing a solid biblical perspective on the concept of the church.
+
+[&lt;- Link to Answer](../Definition_of_Church.md)

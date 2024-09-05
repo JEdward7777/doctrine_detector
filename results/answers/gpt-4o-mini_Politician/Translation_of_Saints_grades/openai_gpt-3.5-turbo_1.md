@@ -23,3 +23,5 @@ It's also important to be mindful of the cultural connotations associated with t
 Grade: 80
 
 Comment: The response does a good job of providing alternative translations for "saints" in line with the concern of using inclusive language. The suggestions of 'holy ones,' 'holy people,' or 'holy believers in Jesus' are respectful and encompassing of all believers in Jesus without singling out specific Christian groups. The response could have further emphasized the importance of respecting diverse beliefs and practices, but overall it aligns well with the given concern.
+
+[&lt;- Link to Answer](../Translation_of_Saints.md)

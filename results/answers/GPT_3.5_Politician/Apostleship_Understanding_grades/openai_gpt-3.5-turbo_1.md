@@ -21,3 +21,5 @@ The sending of the apostles by Jesus is significant as it symbolizes the transmi
 Grade: 80
 
 Comment: The response effectively highlights the importance of the apostles being sent by Jesus with the authority to preach about God and His kingdom, emphasizing the significance of their role in the establishment and expansion of the early church. However, it could have further emphasized the connection to the Great Commission, specifically how the apostles were instructed to make disciples of all nations in obedience to Christ's command.
+
+[&lt;- Link to Answer](../Apostleship_Understanding.md)

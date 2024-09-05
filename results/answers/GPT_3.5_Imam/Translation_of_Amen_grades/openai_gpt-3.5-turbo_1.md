@@ -29,3 +29,5 @@ These translations are used to emphasize the importance and truthfulness of the 
 Grade: 90
 
 Comment: The response demonstrates a good understanding of the meaning behind Jesus using the term "truly" in the context of biblical translation and interpretation. The provided translations align well with conveying the emphasis, certainty, and solemnity Jesus intended. The response accurately addresses the concern regarding accurate biblical translation and interpretation by offering appropriate translations that capture the essence of the original text. Great job!
+
+[&lt;- Link to Answer](../Translation_of_Amen.md)

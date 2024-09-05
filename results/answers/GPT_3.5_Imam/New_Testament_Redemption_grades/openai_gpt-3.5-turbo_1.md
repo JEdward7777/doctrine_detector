@@ -27,3 +27,5 @@ Overall, while purification was important in both the Old and New Testaments, th
 Grade: 90
 
 Comment: The response accurately recognizes the sufficiency of Christ's sacrifice as the means of eternal purification from sin, which aligns well with the Christian worldview. The explanation provided in the response about the shift in emphasis from external rituals to internal purity and repentance in the New Testament further supports this understanding. Overall, a strong response with a solid Christian perspective.
+
+[&lt;- Link to Answer](../New_Testament_Redemption.md)

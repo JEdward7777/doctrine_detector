@@ -49,3 +49,5 @@ The response effectively explains the concept of God writing His law on believer
 However, I deduct a few points because the response could be more explicit about the transition from the Old Testament law to the principles of the New Covenant. While it touches on this concern in passing, it would benefit from a more deliberate exploration of how the Old Covenant's external and legalistic approach to the law is replaced by the internal and transformative power of the Holy Spirit in the New Covenant.
 
 The response does provide some insight into this transition through its use of Scripture (Romans 3:3 and Jeremiah 31:33), but it could be more explicit about how these passages specifically address the concern. Overall, a strong effort, but with room for improvement!
+
+[&lt;- Link to Answer](../The_New_Covenant.md)

@@ -65,3 +65,5 @@ I would give this response a score of 60.
 The student has correctly identified some key figures involved in writing the Psalms, including King David, Moses, and Asaph. However, they have omitted other important contributors mentioned in the passage, such as Ethan the Ezrahite and Heman. Additionally, they have not demonstrated a clear understanding of the biblical evidence and scholarly debate surrounding the authorship of the Psalms.
 
 While the student has partially addressed the concern by recognizing some authors, their response could be improved by providing more detailed information about the significance of each author's contribution to our understanding of the Psalms' messages and themes.
+
+[&lt;- Link to Answer](../Authorship_of_Psalms.md)

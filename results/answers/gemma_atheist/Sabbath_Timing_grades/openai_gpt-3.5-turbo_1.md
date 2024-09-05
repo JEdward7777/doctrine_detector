@@ -19,3 +19,5 @@ The timing of the Sabbath according to Jewish tradition is from sunset on Friday
 
 ## Comment by [openai_gpt-3.5-turbo_1](../../../grading_models/openai_gpt-3.5-turbo_1.md)
 Based on the provided answer and concern, I would grade the response as 90. The response correctly identifies the timeframe for the observance of the Sabbath in accordance with Biblical teaching, which is from Friday at sundown to Saturday at sundown. The explanation provided demonstrates a good understanding of the concept. However, a slightly higher grade could be awarded if the response had further elaborated on the biblical significance and purpose of observing the Sabbath during this specific timeframe from a Christian perspective.
+
+[&lt;- Link to Answer](../Sabbath_Timing.md)

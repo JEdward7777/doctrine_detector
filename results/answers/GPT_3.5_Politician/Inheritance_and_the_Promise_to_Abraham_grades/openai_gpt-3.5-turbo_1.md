@@ -21,3 +21,5 @@ God promised Abraham and his descendants the land of Canaan as an inheritance, i
 Grade: 90
 
 Comment: The response accurately conveys the essence of God's covenant with Abraham regarding the inheritance of the land of Canaan and emphasizes the eternal nature of this promise. It demonstrates a foundational understanding of the theological significance of God's covenant with Abraham and its enduring implications for believers. The only improvement could be to elaborate further on how this covenant is relevant to the faith and lives of believers today.
+
+[&lt;- Link to Answer](../Inheritance_and_the_Promise_to_Abraham.md)

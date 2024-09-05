@@ -31,3 +31,5 @@ Please note that these materials are not exclusive to biblical times, as many an
 Grade: 60
 
 Comment: The response provided by the Muslim Imam offers valuable information on the materials used to construct altars in biblical times, expanding on the initial answer about packed dirt, stones, wood overlayed with metals, and mentioning additional materials like stone, wood, earth, bronze, and high-quality limestone/marble. However, the response lacks a direct connection to how understanding altar materials can deepen a Christian's understanding of biblical practices and reverence in worship from a Christian worldview perspective. Additionally, while the information presented is informative and relevant, it does not fully address the concern raised regarding the Christian significance of altar materials.
+
+[&lt;- Link to Answer](../Building_Materials.md)

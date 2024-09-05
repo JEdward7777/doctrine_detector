@@ -25,3 +25,5 @@ So, while there may be similarities in terms of spiritual growth through accepta
 Grade: 90
 
 Comment: The response demonstrates a clear understanding of the Christian concept of 'taking up your cross' by emphasizing the idea of embracing trials and sacrifices in following Jesus and living in obedience to God's will. The explanation aligns well with the concern of highlighting the call to discipleship and the personal cost of following Christ. The reference to the central theme of sacrifice, obedience, and discipleship in Christianity further supports the Christian worldview perspective. However, deducting a few points for the slight deviation towards discussing Islam at the end, which is not directly relevant to the given concern.
+
+[&lt;- Link to Answer](../Daily_Bearing_the_Cross.md)

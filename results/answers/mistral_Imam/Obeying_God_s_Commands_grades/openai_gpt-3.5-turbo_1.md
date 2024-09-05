@@ -31,3 +31,5 @@ So, to summarize, the laws given to Moses are an essential part of the covenant 
 Grade: 85
 
 Comment: The response provides a comprehensive overview of the significance of obedience to God's commands within the context of the covenant established at Sinai. It effectively explains how the laws given to Moses were part of the covenant, outlining the obligations of the Israelites in their relationship with God. The response also highlights the importance of blessings for obedience and consequences for disobedience within this framework. The only area for improvement would be to further emphasize the importance of obedience as a fundamental aspect of the covenant relationship with God.
+
+[&lt;- Link to Answer](../Obeying_God_s_Commands.md)

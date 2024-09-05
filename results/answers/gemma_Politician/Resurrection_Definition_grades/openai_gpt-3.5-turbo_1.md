@@ -21,3 +21,5 @@ In a Christian context, the term 'resurrection' refers to the belief that Jesus 
 Grade: 95
 
 Comment: The response accurately defines resurrection as the act of becoming alive again after having died, while also highlighting the significance of God's power in bringing someone back to life, as demonstrated by Jesus' resurrection. The answer aligns well with Christian beliefs and addresses the concern by emphasizing the importance of understanding the fundamental concept of resurrection for comprehending Christian beliefs about life after death.
+
+[&lt;- Link to Answer](../Resurrection_Definition.md)

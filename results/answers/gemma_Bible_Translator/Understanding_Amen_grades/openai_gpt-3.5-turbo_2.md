@@ -32,3 +32,5 @@ The use of "amen" at the end of a prayer is a way to:
 Grade: 90
 
 Comment: The response provides a thorough explanation of the significance of the term "amen" in prayer, aligning with the traditional interpretations in both Hebrew and Greek. It effectively demonstrates an understanding of how "amen" communicates agreement with a prayer and acknowledges God's authority. The explanation is consistent with Christian beliefs about prayer, showing a solid understanding of its significance in Christian practice.
+
+[&lt;- Link to Answer](../Understanding_Amen.md)

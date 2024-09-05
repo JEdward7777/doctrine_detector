@@ -33,3 +33,5 @@ It is important to note that cultural interpretations and practices surrounding 
 Grade: 60
 
 Comment: The response acknowledges the practice of anointing for seeking healing in the New Testament but does not fully address the concern about recognizing the role of anointing in spiritual and physical healing as integral to Christian practice. The additional information provided about anointing in the New Testament is informative, but the response could be strengthened by connecting the practice of anointing more explicitly to the Christian belief in God's intervention and healing power through this act. The response would benefit from emphasizing the significance of anointing in both spiritual and physical healing within a Christian worldview.
+
+[&lt;- Link to Answer](../Healing_through_Anointing.md)

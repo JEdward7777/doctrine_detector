@@ -37,3 +37,5 @@ May Allah guide us all in understanding His wisdom and instructions!
 Grade: 95
 
 Comment: The response provides a comprehensive explanation of the importance of observing the Sabbath according to God's commands as presented in the Quran and the Torah. It references relevant verses, discusses the significance of the Sabbath as a day of rest and worship, and draws lessons for Muslims as well. The detailed insight and scriptural support demonstrate a strong understanding of the concept.
+
+[&lt;- Link to Answer](../Sabbath_Observance_2.md)

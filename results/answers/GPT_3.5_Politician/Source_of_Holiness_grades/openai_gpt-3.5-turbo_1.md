@@ -21,3 +21,5 @@ In the Christian faith, believers are recognized as saints through a process cal
 Grade: 90
 
 Comment: The response effectively reinforces the central role of faith in Jesus in the Christian doctrine by emphasizing that believers become saints through their faith in the saving work of Jesus Christ, who makes them holy. Clarifying this source of holiness aligns well with the Christian worldview, highlighting the importance of faith in Jesus for salvation and sanctification.
+
+[&lt;- Link to Answer](../Source_of_Holiness.md)

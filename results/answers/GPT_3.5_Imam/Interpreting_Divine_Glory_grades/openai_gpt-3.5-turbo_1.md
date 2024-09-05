@@ -25,3 +25,5 @@ It is important for Muslims to understand that our worship should be sincere and
 Grade: 90
 
 Comment: The response provides a comprehensive explanation of how the concept of "divine glory" is understood within Islam, emphasizing the attributes of Allah and the significance of sincere worship. The student effectively connects the idea of recognizing God's majesty and perfection to the practice of worship. While the response is from an Islamic perspective, the core message aligns with the Christian concern of acknowledging God's glory in worship. A minor deduction is made due to the lack of explicit Christian references, but overall, the response demonstrates a strong understanding of the importance of recognizing and appreciating God's glory in worship practices.
+
+[&lt;- Link to Answer](../Interpreting_Divine_Glory.md)

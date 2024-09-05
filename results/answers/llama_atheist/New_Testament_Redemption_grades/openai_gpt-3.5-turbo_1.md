@@ -42,3 +42,5 @@ In conclusion, while the Old Testament emphasizes external rituals for purificat
 Grade: 90
 
 Comment: The response effectively recognizes and emphasizes the sufficiency of Christ's sacrifice as the means of eternal purification from sin in the New Testament. It accurately compares the shift from external rituals and physical cleansing in the Old Testament to internal transformation and spiritual renewal in the New Testament through Jesus Christ. The explanation is detailed, well-supported by relevant biblical references, and aligns well with the Christian worldview's understanding of purification through faith in Jesus and His sacrifice.
+
+[&lt;- Link to Answer](../New_Testament_Redemption.md)

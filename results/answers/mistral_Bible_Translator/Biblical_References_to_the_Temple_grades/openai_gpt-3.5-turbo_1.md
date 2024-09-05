@@ -35,3 +35,5 @@ These scriptures highlight the importance of the temple as a sacred space for wo
 Grade: 95
 
 Comment: This response demonstrates a thorough understanding of key scriptures that discuss the concept of the temple as the "house of Yahweh." It provides a comprehensive list of verses and explanations that align well with a Christian worldview, emphasizing the significance of the temple as a sacred space for worshipping God. The additional scriptures referenced further enrich the discussion and highlight the importance of the temple in relation to God's dwelling place. Well done!
+
+[&lt;- Link to Answer](../Biblical_References_to_the_Temple.md)

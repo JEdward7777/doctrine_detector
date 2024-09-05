@@ -27,3 +27,5 @@ In summary, the promise of an eternal throne for King David is interpreted by Ch
 Grade: 95
 
 Comment: This response demonstrates a strong understanding of the Christian interpretation of the promise of an eternal throne for King David as a prophecy about Jesus Christ. It effectively connects the Old Testament passages with the New Testament references to Jesus as the Son of David and the fulfillment of God's promise. The explanation provided is clear, thorough, and aligns well with the concern of recognizing the fulfillment of God's plan through Jesus.
+
+[&lt;- Link to Answer](../David_s_Throne.md)

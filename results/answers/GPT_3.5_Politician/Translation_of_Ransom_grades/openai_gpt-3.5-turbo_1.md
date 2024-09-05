@@ -21,3 +21,5 @@ In Arabic, the term "ransom" can be translated as "diyā". In Spanish, it would 
 Grade: 95
 
 Comment: The response effectively provides a meaningful understanding of the term "ransom" by emphasizing its theological implications as "pay to release," "buy back," or "penalty paid." The inclusion of various translations in different languages further enriches the response, showcasing how this concept is conveyed across linguistic and cultural contexts. This demonstrates a strong grasp of theological terms and their significance within different frameworks.
+
+[&lt;- Link to Answer](../Translation_of_Ransom.md)

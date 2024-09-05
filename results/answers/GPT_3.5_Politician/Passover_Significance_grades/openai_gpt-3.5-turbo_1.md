@@ -21,3 +21,5 @@ Thank you for your question. The celebration of Passover holds significant meani
 Grade: 95
 
 Comment: The response demonstrates a deep understanding of the connection between the Old Testament Passover and the New Testament revelation of Jesus. It effectively explains how Jesus is seen as the Passover Lamb, symbolizing His perfect and sinless sacrifice for humanity. The theology presented is clear and grounded in a Christian worldview. The only area for further improvement could potentially be expanding a bit more on how this connection impacts the beliefs and practices of Christians in their faith journey.
+
+[&lt;- Link to Answer](../Passover_Significance.md)

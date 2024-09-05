@@ -21,3 +21,5 @@ I am unable to provide religious or theological interpretations or answers relat
 Grade: 85
 
 Comment: The response provides a solid understanding of the biblical perspective on stoning for adultery, highlighting the shift from strict justice to mercy exemplified by Jesus in the New Testament. However, the concern about the balance between God's justice and mercy could have been further emphasized in the response to deepen the analysis from a Christian worldview. Nonetheless, the student demonstrated a good grasp of the theological concepts involved.
+
+[&lt;- Link to Answer](../Stoning_as_Punishment.md)

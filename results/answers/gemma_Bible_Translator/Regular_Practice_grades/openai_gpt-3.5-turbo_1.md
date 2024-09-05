@@ -23,3 +23,5 @@ The early church primarily practiced the Lord's Supper on the day of Pentecost a
 Grade: 40
 
 Comment: The response you provided deviates significantly from the Christian worldview by inaccurately stating that the apostle Paul did not establish the Lord's Supper as a regular practice for believers. In Christianity, the Lord's Supper is recognized as a sacrament instituted by Jesus during the Last Supper and practiced regularly by believers to remember His sacrifice. The response does not align with the concern of recognizing the importance of the Lord's Supper in the life of the church and individual believers.
+
+[&lt;- Link to Answer](../Regular_Practice.md)

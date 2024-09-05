@@ -21,3 +21,5 @@ In various religious traditions, the term "manna" is often seen as a symbol of G
 Grade: 90
 
 Comment: The response effectively captures the Christian perspective that manna symbolizes God's provision for His people, specifically the Israelites in the wilderness. It acknowledges the idea of God's care and sustenance for His followers. However, the concern about recognizing God's ongoing provision could be addressed by emphasizing the continuous nature of God's provision beyond just the historical context of the Israelites in the wilderness. Additional insights on how believers can recognize and appreciate God's provision in their daily lives would further enrich the response.
+
+[&lt;- Link to Answer](../Symbolism_of_Manna.md)

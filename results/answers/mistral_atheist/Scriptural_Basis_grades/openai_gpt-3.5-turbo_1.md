@@ -31,3 +31,5 @@ These verses illustrate the role of propitiation in Christian theology, whereby 
 Grade: 95
 
 Comment: The response provides a thorough explanation of propitiation within Christianity, supported by relevant biblical references. The verses referenced effectively highlight Jesus as the propitiation for sins, contributing to a deeper understanding of the theological concept. The response could have been further enhanced by discussing the Old Testament sacrificial system and its connection to Jesus as the ultimate propitiation.
+
+[&lt;- Link to Answer](../Scriptural_Basis.md)

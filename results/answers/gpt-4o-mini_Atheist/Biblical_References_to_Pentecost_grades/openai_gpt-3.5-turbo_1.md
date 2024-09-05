@@ -39,3 +39,5 @@ These references illustrate the festival's dual significance as both an agricult
 Grade: 70
 
 Comment: The response provides a detailed overview of the Festival of Weeks (Shavuot/Pentecost) with specific references from Exodus, Leviticus, Deuteronomy, Numbers, and Acts of the Apostles, showcasing a good understanding of its scriptural basis. However, the discrepancy in referencing "2 Chronicles" instead of the correct books diminishes the accuracy of the response, hence the grade of 70. It is important to accurately cite biblical references in discussions related to Christian beliefs to ensure the correct interpretation and understanding of the significance of Pentecost.
+
+[&lt;- Link to Answer](../Biblical_References_to_Pentecost.md)

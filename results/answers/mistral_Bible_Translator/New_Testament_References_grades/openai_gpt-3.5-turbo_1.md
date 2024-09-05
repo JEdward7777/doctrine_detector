@@ -29,3 +29,5 @@ Therefore, while there are some suggestive details, the New Testament does not p
 Grade: 85
 
 Comment: The response provides a thoughtful analysis of the connection between John the Baptist and the Nazirite vow by referencing relevant New Testament passages and Old Testament practices. The mention of John's abstention from strong drink as suggested by the angel's announcement to Zechariah is a valid point that supports the idea that John may have been under the Nazirite vow. The response effectively considers biblical continuity between the Old and New Testaments.
+
+[&lt;- Link to Answer](../New_Testament_References.md)

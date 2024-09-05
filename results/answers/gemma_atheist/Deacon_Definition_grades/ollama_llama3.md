@@ -64,3 +64,5 @@ Grade: 40
 Comment: The response touches on the practical aspect of serving fellow believers, but it falls short in fully addressing the biblical role of servanthood in the church. While the idea of helping with physical needs such as food or money is important, it does not capture the full scope of a deacon's responsibilities and spiritual impact. Additionally, the response does not explicitly connect to the concept of servanthood, which is crucial for understanding the biblical role of a deacon.
 
 To improve, the response could have further explored how serving fellow believers is an expression of servanthood, as demonstrated in Jesus' example (Mark 10:42-45). It would also be beneficial to discuss how a deacon's service should be characterized by humility, love, and selflessness, as described in Philippians 2:1-11.
+
+[&lt;- Link to Answer](../Deacon_Definition.md)

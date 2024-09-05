@@ -39,3 +39,5 @@ In summary, confessing sins to one another fosters a sense of community, account
 Grade: 95
 
 Comment: The response provides a thorough and insightful explanation of how confessing sins to one another contributes to spiritual healing, emphasizing the importance of community in spiritual growth. It effectively connects the act of confession to biblical principles and the overall health of the body of Christ. The points raised are well-supported and align well with the Christian worldview.
+
+[&lt;- Link to Answer](../Spiritual_Healing_Through_Confession.md)

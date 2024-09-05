@@ -35,3 +35,5 @@ For a deeper understanding of healing in an Islamic context, the Qur'an and Hadi
 Grade: 90
 
 Comment: The response effectively expands on the concept of anointing in the New Testament, providing relevant biblical passages and explanations of their significance. It addresses the concern by discussing both physical and spiritual healing in connection to the practice of anointing. The response also highlights the difference in approach to healing between Christianity and Islam, showing a clear understanding of the role of anointing in Christian practice from a Christian worldview. The only room for improvement could be further elaboration on the specific theological significance of anointing in Christian belief.
+
+[&lt;- Link to Answer](../Healing_through_Anointing.md)

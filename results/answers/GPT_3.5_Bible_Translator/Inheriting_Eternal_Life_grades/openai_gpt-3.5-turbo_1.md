@@ -21,3 +21,5 @@ In the Bible, Jesus tells a rich young ruler in Mark 10:17-27 that in order to i
 Grade: 85
 
 Comment: The response effectively references the interaction with the expert in Jewish law to illustrate the importance of following the teachings of Jesus in order to inherit eternal life. It aligns with the concern by emphasizing the need to clarify the path to salvation as taught by Jesus. Incorporating specific verses and examples from the Bible would enhance the response further.
+
+[&lt;- Link to Answer](../Inheriting_Eternal_Life.md)

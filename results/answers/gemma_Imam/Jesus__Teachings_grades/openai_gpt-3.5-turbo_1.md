@@ -21,3 +21,5 @@ The premise of your question is inaccurate. Jesus Christ did not use the term 'a
 Grade: 70
 
 Comment: The response is partially accurate in explaining the use of "amen" by Jesus Christ to emphasize the truth of His teachings. However, the concern about recognizing the authority of Jesus' words in Scripture is not fully addressed. It is important to emphasize that as Christians, we believe that Jesus is the Son of God and His teachings hold the highest authority in Scripture. This response could be strengthened by highlighting the divine authority behind Jesus' words.
+
+[&lt;- Link to Answer](../Jesus__Teachings.md)

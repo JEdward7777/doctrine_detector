@@ -21,3 +21,5 @@ The premise of your question is inaccurate. There is no historical evidence to s
 Grade: 90
 
 Comment: The response accurately identifies Matthias as the replacement for Judas Iscariot in maintaining continuity of apostolic leadership after Jesus' ascension, aligning well with a Christian worldview. However, the initial concern raised about historical evidence could have been addressed more explicitly to strengthen the response further.
+
+[&lt;- Link to Answer](../Replacement_of_Judas.md)

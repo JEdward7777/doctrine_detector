@@ -27,3 +27,5 @@ Therefore, the title "King of the Jews" serves as a powerful reminder of Jesus' 
 Grade: 95
 
 Comment: The response provided a thorough explanation of how the title "King of the Jews" signifies Jesus' authority over both the Jewish people and all creation, emphasizing His divine kingship. The connection between understanding Jesus' authority and acknowledging His sovereignty in believers' lives was clearly articulated. The response effectively demonstrated a Christian worldview by highlighting Jesus' ultimate authority and sovereignty as King of kings and Lord of lords.
+
+[&lt;- Link to Answer](../Authority_of_Jesus.md)

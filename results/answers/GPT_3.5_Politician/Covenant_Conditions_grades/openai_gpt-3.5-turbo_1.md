@@ -25,3 +25,5 @@ It is important to approach these covenants with sensitivity and respect for the
 Grade: 90
 
 Comment: The response provides a clear distinction between unconditional and conditional covenants in the Bible, using specific examples to illustrate each type. The answer shows an understanding of God's promises and expectations in covenants by highlighting the importance of obedience in conditional covenants and the enduring nature of unconditional covenants. The response could be enhanced by incorporating more depth or biblical references to further enrich the explanation. Overall, a solid understanding is demonstrated, aligning well with a Christian worldview perspective.
+
+[&lt;- Link to Answer](../Covenant_Conditions.md)

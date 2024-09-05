@@ -29,3 +29,5 @@ Overall, myrrh's use in burial practices underscores its dual role as both a sym
 Grade: 95
 
 Comment: The response effectively connects the significance of myrrh in biblical burial practices to cultural contexts in scripture, showcasing a deep understanding of the subject matter through relevant examples and textual references. The mention of myrrh in relation to Jesus' birth and death adds depth to the analysis. The response demonstrates a strong grasp of the concern provided, highlighting how understanding burial customs can enrich the interpretation of biblical texts. Great job!
+
+[&lt;- Link to Answer](../Use_in_Burial.md)

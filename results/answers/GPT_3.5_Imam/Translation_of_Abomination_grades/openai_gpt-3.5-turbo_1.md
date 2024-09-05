@@ -21,3 +21,5 @@ In a biblical context, the term "abomination" is often used to refer to things t
 Grade: 90
 
 Comment: The response effectively captures the essence of translating the term "abomination" into terms such as "something God hates," "disgusting practice," or "very evil action" in order to convey the severity of actions against God's laws. The focus on accurately representing the seriousness of the term in biblical context aligns well with the concern for understanding biblical texts.
+
+[&lt;- Link to Answer](../Translation_of_Abomination.md)

@@ -21,3 +21,5 @@ Understanding the mission of discipleship in the context of the Great Commission
 Grade: 95
 
 Comment: The response provided a clear and accurate understanding of the discipleship mission within the context of the Great Commission. The reference to making disciples of all nations, baptizing them, and teaching them to obey Jesus' commands aligns well with Jesus' mandate to His disciples.
+
+[&lt;- Link to Answer](../The_Great_Commission.md)

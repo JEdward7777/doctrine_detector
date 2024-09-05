@@ -27,3 +27,5 @@ In conclusion, the annual celebration of Passover serves as a cultural, historic
 Grade: 90
 
 Comment: The response effectively expands on the significance of the Passover celebration for the Israelites, incorporating historical, religious, and communal aspects. It recognizes the importance of remembrance in Christian faith by highlighting how Passover serves as a marker of God's victory and deliverance. The link between the Israelites' remembrance of their liberation and the Christian emphasis on remembering God's acts of salvation is well articulated.
+
+[&lt;- Link to Answer](../Annual_Remembrance.md)

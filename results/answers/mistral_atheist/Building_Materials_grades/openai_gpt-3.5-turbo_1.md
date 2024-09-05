@@ -33,3 +33,5 @@ These examples demonstrate the diversity in materials used for altars during Bib
 Grade: 90
 
 Comment: The response provides a detailed and accurate explanation of the materials used in constructing altars during Biblical times, offering a broader perspective on the variety of materials used beyond just packed dirt or large stones. This knowledge enhances a Christian's understanding of the significance and reverence associated with worship practices in the Bible.
+
+[&lt;- Link to Answer](../Building_Materials.md)

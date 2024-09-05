@@ -29,3 +29,5 @@ These references reflect the significance of the temple as a sacred space in the
 Grade: 80
 
 Comment: The response provides relevant verses that discuss the concept of the temple as the "house of Yahweh" in relation to God. The additional context and references add depth to the discussion and show a good understanding of the topic. However, the response could have further expanded by elaborating on the significance of these verses and how they contribute to the overall understanding of the temple as God's house.
+
+[&lt;- Link to Answer](../Biblical_References_to_the_Temple.md)

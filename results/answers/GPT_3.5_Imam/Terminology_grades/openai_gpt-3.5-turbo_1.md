@@ -31,3 +31,5 @@ These terms are not direct equivalents to a deacon but are used in various capac
 Grade: 80
 
 Comment: The response provided a thorough explanation of the different roles within Islam that serve similar functions to a deacon in Christianity, such as Imam, Sheikh, Scholar (Ulama), and Khatib. The answer effectively addressed the concern of recognizing different service roles within the church by identifying these alternative terms in Islam. The response could have been enhanced by incorporating a brief explanation of the significance or biblical basis of the deacon role in Christianity for a more comprehensive comparison.
+
+[&lt;- Link to Answer](../Terminology.md)

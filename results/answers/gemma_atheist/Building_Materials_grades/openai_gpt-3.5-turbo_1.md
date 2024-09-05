@@ -60,3 +60,5 @@ Knowing the materials and structure of altars can deepen a Christian's understan
 Grade: 90
 
 Comment: The response provides a solid understanding of the materials commonly used to construct altars during biblical times, including the significance of various materials and the influence of cultural considerations. The mention of altars made from packed dirt or large stones aligns well with historical practices. While the response could have elaborated more on the variety of materials and their symbolism, it effectively enhances a Christian's understanding of the reverence and practices associated with altar construction.
+
+[&lt;- Link to Answer](../Building_Materials.md)

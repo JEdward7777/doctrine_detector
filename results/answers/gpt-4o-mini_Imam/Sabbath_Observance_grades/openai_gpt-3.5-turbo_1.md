@@ -27,3 +27,5 @@ In essence, both traditions value the idea of setting aside time for worship, re
 Grade: 75
 
 Comment: The response provides a fair comparison between the concepts of Sabbath observance in Judaism and the Friday congregational prayer in Islam. However, there is room for improvement in addressing the concern from a Christian worldview. The response could have delved deeper into how understanding and observing the Sabbath can impact daily living as a Christian, drawing on biblical teachings and the significance of the Sabbath in the Christian faith.
+
+[&lt;- Link to Answer](../Sabbath_Observance.md)

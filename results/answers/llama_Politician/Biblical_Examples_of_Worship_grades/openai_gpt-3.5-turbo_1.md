@@ -33,3 +33,5 @@ I hope this response has been helpful!
 Grade: 92
 
 Comment: The response provides a thorough explanation of the biblical distinction between true worship and idolatry, emphasizing the importance of remaining faithful to God's commands. The student effectively draws upon biblical examples and passages to support their points and demonstrates a solid understanding of the Christian perspective on worship. The only minor suggestion would be to explicitly link the response back to the original concern earlier in the explanation for greater coherence.
+
+[&lt;- Link to Answer](../Biblical_Examples_of_Worship.md)

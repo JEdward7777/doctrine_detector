@@ -23,3 +23,5 @@ If you are referring to a story from Islamic teachings, please provide more deta
 Grade: 90
 
 Comment: The response effectively addresses the concern by providing a clear explanation of how the prophet Nathan used a parable to correct and reveal King David's sin in the biblical narrative. The response accurately highlights the use of parables in this context, demonstrating a solid understanding of the specific concern from a Christian worldview.
+
+[&lt;- Link to Answer](../Role_of_Parables_in_Scripture.md)

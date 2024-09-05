@@ -61,3 +61,5 @@ The student's answer, "Iniquity refers more specifically to deliberate acts of w
 The concern about understanding these distinctions helping Christians recognize the gravity of their actions and seek repentance is also relevant to this discussion. The student's response acknowledges this importance but could be more explicit in exploring how recognizing the distinction between iniquity, sin, and transgression can lead to greater accountability and a deeper sense of responsibility before God.
 
 Overall, while the response demonstrates a solid understanding of these biblical terms, it could benefit from further development and nuance.
+
+[&lt;- Link to Answer](../Understanding_Iniquity.md)

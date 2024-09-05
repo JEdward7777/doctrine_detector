@@ -27,3 +27,5 @@ Ultimately, it is crucial for individuals of all backgrounds to come together in
 Grade: 70
 
 Comment: The response provided a good overview of how individuals, including Christians, can address injustice from a secular ethical standpoint. It acknowledged the importance of advocating for policies promoting equality and justice, supporting marginalized communities, and challenging unjust systems. However, there was a missed opportunity to delve deeper into the specific biblical principles that guide Christian activism against injustice, such as the teachings of Jesus and the importance of demonstrating mercy and righteousness. More explicit connections to Christian beliefs and scriptures could have enhanced the response.
+
+[&lt;- Link to Answer](../Injustice_in_Society.md)

@@ -31,3 +31,5 @@ The annual observance of Passover serves as a reminder of these events and their
 Grade: 90
 
 Comment: The response provides a thorough explanation of the significance of the Passover in Judaism and accurately highlights the ritualistic and historical importance of the celebration. It effectively links the command to celebrate Passover annually with remembering God's victory over the Egyptians and the deliverance of the Israelites from slavery, aligning with the Christian principle of the importance of remembrance in faith. The response demonstrates a good understanding of the subject matter and effectively incorporates a Christian worldview perspective on remembrance.
+
+[&lt;- Link to Answer](../Annual_Remembrance.md)

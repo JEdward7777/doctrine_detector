@@ -25,3 +25,5 @@ From an atheistic perspective, the notion of 'divine glory' can be seen as a pro
 Grade: 20
 
 Comment: The response provided deviates significantly from the Christian worldview by approaching the concept of 'divine glory' purely from an atheistic perspective. It fails to acknowledge the inherent nature of God's glory as foundational to worship in Christianity, and instead reduces it to a subjective and culturally-based construct. The Christian concern regarding the importance of recognizing God's glory in worship is not reflected or addressed appropriately in the response.
+
+[&lt;- Link to Answer](../Interpreting_Divine_Glory.md)

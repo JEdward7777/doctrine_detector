@@ -27,3 +27,5 @@ Overall, the encounter between Philip and the Ethiopian eunuch serves as a power
 Grade: 90
 
 Comment: The response provides a well-rounded analysis of the encounter between Philip and the Ethiopian eunuch, showcasing an understanding of the inclusiveness of the Christian message and the role of individuals from diverse backgrounds in the early church. The points made align well with a Christian worldview and effectively address the concern raised.
+
+[&lt;- Link to Answer](../Ethiopian_Eunuch.md)

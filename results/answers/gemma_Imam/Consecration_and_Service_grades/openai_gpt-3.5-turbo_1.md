@@ -45,3 +45,5 @@ Understanding the purification process that comes with consecration.
 Grade: 85
 
 Comment: The response provides a thorough explanation of how consecration is understood in the Islamic context, focusing on purification as a key aspect. It effectively addresses the concern by detailing various forms of purification for individuals and things within Islamic practice. The inclusion of examples and the purposes of consecration further enrich the response. Overall, it demonstrates a solid understanding of the purification process that accompanies consecration in Islam.
+
+[&lt;- Link to Answer](../Consecration_and_Service.md)

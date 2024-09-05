@@ -25,3 +25,5 @@ Therefore, in the Islamic perspective, it is a serious matter to make promises o
 Grade: 90
 
 Comment: The response provides a well-supported explanation of the significance of fulfilling promises and vows in Islam, mentioning the importance placed on honesty, integrity, and devotion to Allah. It effectively addresses the concern by highlighting how keeping one's word reflects one's faith and obedience to God. The inclusion of the Quranic verse and reference to Prophet Muhammad's teachings adds depth to the explanation.
+
+[&lt;- Link to Answer](../Fulfilling_Promises.md)

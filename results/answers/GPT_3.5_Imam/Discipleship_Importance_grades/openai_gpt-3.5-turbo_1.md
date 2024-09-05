@@ -25,3 +25,5 @@ While the details of Jesus' companions are not as prominently featured in Islami
 Grade: 60
 
 Comment: The response provides a clear explanation of the Islamic perspective on Jesus' companions known as the Hawariyyun, but it does not directly address the Christian concept of the twelve apostles and their specific role in spreading Jesus' teachings and establishing the early Church. It would have been more accurate and comprehensive to draw a clearer distinction between the Islamic view on Jesus' companions and the Christian view on the twelve apostles based on the provided answer and concern.
+
+[&lt;- Link to Answer](../Discipleship_Importance.md)

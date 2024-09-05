@@ -27,3 +27,5 @@ In summary, those who believe in Jesus within Islam are assured that they will r
 Grade: 30
 
 Comment: While the response provides a clear Christian perspective on salvation through faith in Jesus, the concern is not addressed within an Islamic context. The response discusses Islamic beliefs about Jesus but does not directly reassure believers of their salvation through faith in Jesus from a Christian worldview.
+
+[&lt;- Link to Answer](../Assurance_of_Salvation.md)

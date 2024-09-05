@@ -21,3 +21,5 @@ The temple constructed by King Solomon in Jerusalem, also known as the First Tem
 Grade: 90
 
 Comment: The response effectively addresses the concern by highlighting the primary purpose of the temple as a place of worship and sacrifice for the Israelites in Old Testament times. It concisely captures the essential role of the temple in facilitating their connection with God through prayer and offerings. The answer aligns well with a Christian worldview, emphasizing the significance of the temple in the religious practices of the Israelites.
+
+[&lt;- Link to Answer](../Temple_Significance.md)

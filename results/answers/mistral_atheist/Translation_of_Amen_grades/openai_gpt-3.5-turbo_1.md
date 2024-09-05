@@ -31,3 +31,5 @@ Each of these renditions reflects a slightly different emphasis and tone from th
 Grade: 90
 
 Comment: The response provides a thorough analysis of the significance of the word "amen" in the New Testament and the various ways it can be translated to convey different nuances in meaning. The student accurately addresses the concern of accurate biblical translation and interpretation by discussing the cultural context and nuances of language in conveying the original message of Jesus. The only minor suggestion for improvement would be to directly tie the discussion back to the importance of accurate translation and interpretation in conveying the true meaning of Jesus' words.
+
+[&lt;- Link to Answer](../Translation_of_Amen.md)

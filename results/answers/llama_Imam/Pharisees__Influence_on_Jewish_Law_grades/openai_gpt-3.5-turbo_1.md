@@ -35,3 +35,5 @@ In conclusion, my brother, the Pharisees' rigid adherence to the Laws of Moses h
 Grade: 93
 
 Comment: The response provides a thorough analysis of the Pharisees' strict adherence to the Laws of Moses and how it affected their interactions with Jesus and early Christians. The explanation is well-supported and offers valuable insights from a Christian worldview. The response effectively addresses the concern by demonstrating a clear understanding of the Pharisees' role in challenging Jesus during his ministry.
+
+[&lt;- Link to Answer](../Pharisees__Influence_on_Jewish_Law.md)

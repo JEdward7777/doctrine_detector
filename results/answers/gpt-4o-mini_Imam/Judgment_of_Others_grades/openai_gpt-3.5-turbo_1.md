@@ -29,3 +29,5 @@ Ultimately, both Jesus's teachings and Islamic principles encourage a humble app
 Grade: 90
 
 Comment: The response provides a well-explained comparison between the teachings of Jesus in the Bible and Islamic principles regarding addressing the faults of others. It effectively connects the concern of avoiding hypocrisy and maintaining a strong Christian witness with the importance of self-reflection and humility. The integration of both Christian and Islamic perspectives enhances the overall understanding of the topic.
+
+[&lt;- Link to Answer](../Judgment_of_Others.md)

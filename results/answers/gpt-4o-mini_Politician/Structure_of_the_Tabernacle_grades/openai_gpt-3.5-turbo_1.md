@@ -31,3 +31,5 @@ Collectively, these sections and their contents served as vital components of th
 Grade: 95
 
 Comment: The response provides a detailed and accurate description of the components of the Tabernacle, emphasizing their significance in worship. It effectively expands on the given answer by explaining the specific items housed in both the Holy Place and the Most Holy Place. The response demonstrates a thorough understanding of the topic within a Christian worldview perspective. Great job!
+
+[&lt;- Link to Answer](../Structure_of_the_Tabernacle.md)

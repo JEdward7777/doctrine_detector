@@ -35,3 +35,5 @@ In summary, tests that God allows believers to experience are designed to streng
 Grade: 90
 
 Comment: The response provides a comprehensive explanation of the nature of tests in Islam, highlighting their purposes of testing faith, purifying the soul, granting forgiveness, strengthening character, earning Paradise, and gaining reward from Allah. The answer effectively addresses the concern by emphasizing how one's understanding of tests can lead to spiritual growth, repentance, and drawing closer to God. Additionally, the response is well-supported with relevant Quranic verses and Hadiths, showcasing a deep understanding of the topic from an Islamic perspective.
+
+[&lt;- Link to Answer](../Purpose_of_Tests.md)

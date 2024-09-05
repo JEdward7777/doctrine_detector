@@ -36,3 +36,5 @@ Exploring the theological implications of Jesus fulfilling the role of high prie
 Grade: 90
 
 Comment: The response effectively expands on the theological implications of Jesus fulfilling the role of high priest by providing relevant New Testament passages and highlighting key aspects of Jesus' unique priesthood. It demonstrates a solid understanding of the Christian belief in Jesus as the ultimate High Priest and effectively connects this role to concepts of salvation, redemption, intercession, and mediation. The response could be further strengthened by delving deeper into the Old Testament background of priesthood to provide a more comprehensive analysis.
+
+[&lt;- Link to Answer](../Jesus_as_the_High_Priest.md)

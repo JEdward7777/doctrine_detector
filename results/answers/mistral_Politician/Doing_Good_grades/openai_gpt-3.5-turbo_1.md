@@ -21,3 +21,5 @@ Encouraging Christians to live out their faith by doing good deeds.
 Grade: 95
 
 Comment: The response effectively captures the Christian perspective on "doing good to" others by emphasizing the importance of kindness, helping those in need, and reflecting Christ's love through actions. It aligns well with the concern of encouraging Christians to live out their faith through good deeds, demonstrating a solid understanding of Christian principles and teachings.
+
+[&lt;- Link to Answer](../Doing_Good.md)

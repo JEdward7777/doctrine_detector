@@ -29,3 +29,5 @@ In summary, the Israelites were commanded to celebrate Passover every year as a 
 Grade: 90
 
 Comment: The response provides a thorough explanation of the significance of the Passover celebration for the Israelites in remembering their deliverance from slavery in Egypt. It effectively highlights the importance of remembrance in Christian faith by emphasizing the covenant relationship between God and His people, as well as the transmission of the Exodus story to future generations. Overall, the response aligns well with the concern provided.
+
+[&lt;- Link to Answer](../Annual_Remembrance.md)

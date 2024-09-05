@@ -61,3 +61,5 @@ Divine glory is an essential aspect of worship, as it honors and reveals the tru
 Grade: 95
 
 Comment: The response provides a thorough and insightful understanding of 'Divine Glory' in worship, encompassing various facets such as glorification of God's character, manifestation of His power, reflection in believers, response to His grace, and transformation of the congregation. The incorporation of biblical examples enhances the Christian perspective. The emphasis on recognizing and honoring God's glory as vital in worship aligns well with the concern provided.
+
+[&lt;- Link to Answer](../Interpreting_Divine_Glory.md)

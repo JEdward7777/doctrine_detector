@@ -21,3 +21,5 @@ Understanding the correct Biblical definition of saints helps to distinguish bet
 Grade: 95
 
 Comment: The response demonstrates a clear understanding of the Biblical definition of saints and effectively distinguishes between cultural and scriptural interpretations. The explanation provided is well-supported and aligns with a Christian worldview.
+
+[&lt;- Link to Answer](../Definition_of_Saints.md)

@@ -21,3 +21,5 @@ In ancient cultures, including in the biblical context, myrrh was often associat
 Grade: 90
 
 Comment: The response effectively grasps the symbolism behind the gift of myrrh to Jesus, recognizing its significance in foreshadowing his sacrificial death for humanity's sins. The added insight about myrrh's use in religious ceremonies and as a healer enhances the understanding of Jesus' role as a spiritual leader. This interpretation aligns well with the concern of deepening appreciation for Jesus' purpose and mission. Great job!
+
+[&lt;- Link to Answer](../Myrrh_as_a_Gift.md)

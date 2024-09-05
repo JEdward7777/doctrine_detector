@@ -23,3 +23,5 @@ It is important for missionaries to emphasize that despite the three persons of 
 Grade: 85
 
 Comment: The response effectively addresses the concern by emphasizing the importance of providing clear biblical teaching on the doctrine of the Trinity while maintaining the integrity of Christian doctrine. The explanation provided also wisely uses analogies to aid in understanding without compromising the essence of the Christian belief in one God.
+
+[&lt;- Link to Answer](../Multiple_gods.md)

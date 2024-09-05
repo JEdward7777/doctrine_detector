@@ -21,3 +21,5 @@ Myrrh was a fragrant resin commonly used in ancient cultures for various purpose
 Grade: 80
 
 Comment: The response provides a concise explanation of the significance of myrrh in preparing dead bodies for burial, highlighting its role in the anointing process and showing respect for the deceased. It effectively addresses the concern by connecting the use of myrrh to cultural customs surrounding burial practices and how this can enhance understanding of cultural contexts in scripture. However, additional elaboration or examples could further strengthen the response and provide a more comprehensive explanation.
+
+[&lt;- Link to Answer](../Use_in_Burial.md)

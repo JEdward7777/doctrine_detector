@@ -21,3 +21,5 @@ The biblical text does not provide detailed information regarding the materials 
 Grade: 70
 
 Comment: The response correctly acknowledges the lack of detailed information in the biblical text regarding the materials used in the construction of the high priest's ephod. However, it could have further emphasized the significance of the specific materials mentioned in the provided answer in relation to the design and symbolism of the ephod in worship. Strengthening the connection between the materials and their symbolic elements would have enhanced the theological perspective.
+
+[&lt;- Link to Answer](../Ephod_materials.md)

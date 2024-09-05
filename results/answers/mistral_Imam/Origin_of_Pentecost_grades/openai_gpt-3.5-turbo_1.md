@@ -25,3 +25,5 @@ In Christian tradition, the events described in the New Testament associated wit
 Grade: 90
 
 Comment: The response provides a clear and accurate explanation of the Festival of Weeks (Shavuot) in Jewish tradition and its significance in commemorating the giving of the Law to the Israelites by God through Moses. It successfully connects this historical festival to its fulfillment in Christ by mentioning the events associated with Pentecost in Christian tradition, including the descent of the Holy Spirit upon the disciples of Jesus Christ. The response demonstrates an understanding of the biblical significance of the Festival of Weeks in both Jewish and Christian contexts. Great job overall, but could have further emphasized the spiritual significance of Pentecost in Christianity.
+
+[&lt;- Link to Answer](../Origin_of_Pentecost.md)

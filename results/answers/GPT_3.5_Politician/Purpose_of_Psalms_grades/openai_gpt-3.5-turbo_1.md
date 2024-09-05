@@ -21,3 +21,5 @@ The Psalms held a central role in the worship practices of the nation of Israel,
 Grade: 90
 
 Comment: The response effectively acknowledges that the Psalms were utilized by the nation of Israel to express a spectrum of emotions in their worship of God. It demonstrates a good understanding of the Psalms' role in worship, emphasizing the various emotions and experiences conveyed through these sacred songs. The only improvement could come from providing a bit more detail on how the historical context and purpose of worship are intertwined with the use of Psalms in Israelite worship practices.
+
+[&lt;- Link to Answer](../Purpose_of_Psalms.md)

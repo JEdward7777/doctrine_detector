@@ -27,3 +27,5 @@ Some alternative terms that can be used to describe a deacon include:
 Grade: 90
 
 Comment: The response provided a good list of alternative terms to describe a deacon, showing an understanding of the different roles and titles associated with service within the church. The additional terms mentioned in the original response were also well-represented in the list provided, demonstrating a comprehensive perspective on the different ways to identify service roles within the church.
+
+[&lt;- Link to Answer](../Terminology.md)

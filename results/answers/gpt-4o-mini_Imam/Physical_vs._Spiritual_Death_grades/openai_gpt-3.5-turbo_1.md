@@ -33,3 +33,5 @@ In summary, while physical death is the end of life's journey in this world, spi
 Grade: 90
 
 Comment: The response provides a comprehensive explanation of how physical death and spiritual perishing are understood within Islamic thought, addressing the concern to clarify the distinction between the two concepts. It effectively explores the various dimensions of spiritual perishing from an Islamic perspective. However, deducting a few points as the Christian-specific worldview was not directly incorporated in the response, and the emphasis on trusting in Jesus for eternal consequences was not highlighted.
+
+[&lt;- Link to Answer](../Physical_vs._Spiritual_Death.md)

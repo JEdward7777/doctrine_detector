@@ -66,3 +66,5 @@ Understanding community and teaching as integral aspects of church life as model
 Grade: 90
 
 Comment: The response effectively expands upon the initial answer by detailing specific lessons from the apostles' actions in teaching and fostering community, showcasing an understanding of how community and teaching are integral aspects of church life as modeled by the apostles. The inclusion of relevant biblical references and the application of Christian principles to community building are commendable.
+
+[&lt;- Link to Answer](../Role_of_Apostles_in_Early_Church.md)

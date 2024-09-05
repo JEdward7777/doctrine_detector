@@ -31,3 +31,5 @@ Access to the Most Holy Place was restricted to the High Priest and only on the 
 Grade: 90
 
 Comment: The response provides a detailed and thorough explanation of the Tabernacle, including the components found in both the Holy Place and the Most Holy Place. It accurately describes the significance of each item and their role in worship within the Tabernacle as outlined in the Bible. The response demonstrates a good understanding of the topic and effectively addresses the concern regarding the significance of the components in worship from a Christian worldview. Great job!
+
+[&lt;- Link to Answer](../Structure_of_the_Tabernacle.md)

@@ -32,3 +32,5 @@ Throughout Scripture, prophets were called to be God's mouthpiece, communicating
 Grade: 90
 
 Comment: The response provides a comprehensive explanation of the biblical role of prophets and their messages, referencing specific examples from both the Old and New Testaments. It effectively outlines the primary tasks of prophets and their purpose in communicating God's messages to the people. The integration of relevant biblical verses and a discussion on Jesus and the apostles as prophets enriches the insight into the prophetic ministry. This well-rounded explanation demonstrates a solid understanding of the biblical role of prophets and their messages from a Christian worldview.
+
+[&lt;- Link to Answer](../Role_of_Prophets.md)

@@ -37,3 +37,5 @@ Keep in mind that this process has evolved over time and is subject to various i
 Grade: 70
 
 Comment: The response provides a detailed and accurate overview of the process of becoming a saint in Christianity, touching on important historical and cultural aspects. However, it fails to address the specified concern regarding the central role of faith in Jesus Christ as the source of holiness for believers. As a result, the grade is slightly lower as the central tenet of Christian doctrine is not emphasized in relation to the concept of sainthood.
+
+[&lt;- Link to Answer](../Source_of_Holiness.md)

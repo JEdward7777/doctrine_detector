@@ -45,3 +45,5 @@ Clarifying the path to salvation and eternal life as taught by Jesus.
 Grade: 95
 
 Comment: The response provides a comprehensive and detailed explanation of the path to salvation and eternal life as taught by Jesus, aligning well with Christian beliefs. The steps provided are rooted in biblical references and emphasize the importance of faith in Jesus Christ as the key to receiving eternal life. The response acknowledges the significance of recognizing sinfulness, believing in Jesus, repentance, receiving the Holy Spirit, and remaining faithful. It effectively addresses the concern by presenting a clear and scripturally supported perspective on the teachings of Jesus regarding eternal life.
+
+[&lt;- Link to Answer](../Inheriting_Eternal_Life.md)

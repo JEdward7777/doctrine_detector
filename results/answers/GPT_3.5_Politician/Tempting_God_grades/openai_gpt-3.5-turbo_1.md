@@ -23,3 +23,5 @@ It is important to approach this topic with sensitivity and respect for differen
 Grade: 90
 
 Comment: The response provides a clear and accurate explanation of what it means to "tempt God" from a Christian perspective, emphasizing the seriousness of acting in disobedience to God's commands and the potential consequences. The response aligns well with the given concern regarding the implications of disobeying God in Christian beliefs. The mention of divine punishment accurately reflects the Biblical teachings on the subject. The inclusion of sensitivity towards different religious beliefs shows a respectful approach to the topic. Great job overall.
+
+[&lt;- Link to Answer](../Tempting_God.md)

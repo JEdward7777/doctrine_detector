@@ -29,3 +29,5 @@ While these terms have distinct nuances, they all ultimately point to the realit
 Grade: 90
 
 Comment: The response provides a clear and accurate explanation of the distinctions between iniquity, sin, and transgression within a Christian worldview. It effectively shows how understanding these distinctions can lead to a deeper recognition of the gravity of one's actions and the need for repentance. The explanation is thorough and supported by relevant biblical references.
+
+[&lt;- Link to Answer](../Understanding_Iniquity.md)

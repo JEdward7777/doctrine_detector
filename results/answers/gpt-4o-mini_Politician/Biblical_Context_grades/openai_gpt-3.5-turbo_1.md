@@ -27,3 +27,5 @@ Overall, the New Testament emphasizes that deacons are called to serve, support 
 Grade: 95
 
 Comment: The response provides a thorough and accurate explanation of the responsibilities of deacons in the New Testament, specifically highlighting their role in ensuring fair treatment and care within the church community, as outlined in Acts 6:1-6 and 1 Timothy 3:8-13. The connection between the given answer and the concern is clearly articulated and supported with relevant biblical references. Well done!
+
+[&lt;- Link to Answer](../Biblical_Context.md)

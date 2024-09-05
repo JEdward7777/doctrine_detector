@@ -27,3 +27,5 @@ This practice highlights the importance of both God's provision and the observan
 Grade: 95
 
 Comment: The response provides a detailed explanation of the importance of observing the Sabbath according to God's commands, specifically focusing on the provision of manna as sustenance for the Israelites on that day. The connection between God's instruction regarding the gathering of manna and the observance of the Sabbath is well-explained from a Christian perspective. The response effectively highlights the significance of both God's provision and the Sabbath as a day of rest and worship. Great job!
+
+[&lt;- Link to Answer](../Sabbath_Observance_2.md)

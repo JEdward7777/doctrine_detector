@@ -23,3 +23,5 @@ However, it is important to note that ultimately, only Allah knows the true cond
 Grade: 85
 
 Comment: The response provides a thorough explanation of the Islamic perspective on those who are described as "perishing" and the consequences they face in the Hereafter. It acknowledges the seriousness of eternal separation from God and emphasizes the importance of seeking forgiveness and righteousness. However, from a Christian worldview, it is important to also highlight the need for salvation through Jesus Christ as the means to avoid eternal separation from God.
+
+[&lt;- Link to Answer](../Eternal_Consequences.md)

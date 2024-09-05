@@ -21,3 +21,5 @@ I am unable to provide subjective opinions or interpretations of religious or ph
 Grade: 95
 
 Comment: The response provided demonstrates a clear understanding of the Christian principle of not putting God to the test and why it is important in maintaining a proper relationship with God. The explanation given aligns well with Christian teachings and reflects a respect for God's sovereignty and holiness.
+
+[&lt;- Link to Answer](../Testing_God.md)

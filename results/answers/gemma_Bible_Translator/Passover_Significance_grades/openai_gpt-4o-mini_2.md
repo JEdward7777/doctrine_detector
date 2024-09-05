@@ -33,3 +33,5 @@ The parallels between the Passover celebration and Christ's sacrifice highlight 
 Grade: 95
 
 Comment: This response does an excellent job of connecting the Old Testament Passover with the New Testament revelation of Jesus as the ultimate Passover Lamb. It clearly explains how Jesus' sacrifice fulfills God's redemptive plan and how His blood brings forgiveness and eternal life to believers. The response effectively addresses the concern by highlighting the parallels between the two and emphasizing the central message of Christianity. Well done!
+
+[&lt;- Link to Answer](../Passover_Significance.md)

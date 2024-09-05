@@ -27,3 +27,5 @@ These examples demonstrate that putting God to the test shows disbelief in His o
 Grade: 90
 
 Comment: The response provides a solid explanation supported by biblical examples of why it is considered wrong to put God to the test, emphasizing the importance of trusting in His providence. It effectively addresses the concern by highlighting the significance of maintaining a proper relationship with God through understanding this principle. The integration of biblical passages from both the Old and New Testaments strengthens the argument. Overall, a well-done response from a Christian worldview.
+
+[&lt;- Link to Answer](../Testing_God.md)

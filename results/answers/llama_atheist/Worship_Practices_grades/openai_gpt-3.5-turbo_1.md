@@ -51,3 +51,5 @@ These examples are not exhaustive, but they illustrate how easily other things c
 Grade: 80
 
 Comment: The response provides a thorough exploration of various modern idols that can potentially take precedence over a relationship with God, aligning well with the concern to examine one's life and ensure devotion to God. The examples offered are relevant and thought-provoking, illustrating how easily idolatry can manifest in different aspects of life. The response effectively addresses the concern within a Christian worldview but could have tied each example back more explicitly to the importance of prioritizing a genuine relationship with God above all else.
+
+[&lt;- Link to Answer](../Worship_Practices.md)

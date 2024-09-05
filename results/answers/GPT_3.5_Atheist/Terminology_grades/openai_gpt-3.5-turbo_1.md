@@ -29,3 +29,5 @@ In a culturally retributed context, some alternative terms that can be used to d
 Grade: 85
 
 Comment: The response provided an accurate and relevant answer by expanding on the alternative terms to describe a deacon, reflecting an understanding of service roles within the church. The additional terms provided were appropriate and aligned with the Christian worldview. However, a full score was not given as some terms could potentially be more commonly used or significant in describing the role of a deacon in a Christian context.
+
+[&lt;- Link to Answer](../Terminology.md)

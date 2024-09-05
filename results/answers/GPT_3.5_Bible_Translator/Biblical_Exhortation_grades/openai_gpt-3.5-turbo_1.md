@@ -21,3 +21,5 @@ Jesus gave his apostles a clear directive regarding the good news. In the Gospel
 Grade: 90
 
 Comment: The response accurately highlights the core message of evangelism in the Christian faith, emphasizing the significance of spreading the good news of Jesus and His sacrifice for our sins. It aligns well with the concern regarding the importance of evangelism. The student could have further emphasized the specific directive given by Jesus in the Great Commission to make disciples of all nations, which is a key aspect of evangelism in Christianity.
+
+[&lt;- Link to Answer](../Biblical_Exhortation.md)

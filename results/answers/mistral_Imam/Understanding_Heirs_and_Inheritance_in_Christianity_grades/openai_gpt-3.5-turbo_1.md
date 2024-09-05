@@ -25,3 +25,5 @@ While there may be differences in how the concept of being an heir is understood
 Grade: 90
 
 Comment: The response provides a clear comparison between the concept of being an heir in Islam and Christianity, focusing on the identity of Christians as heirs of God's promises. The student effectively discusses the spiritual inheritance in Christianity through faith in Jesus Christ, contrasting it with the tangible inheritance laws in Islam. The response effectively explores the similarities and differences in how the concept of being an heir is understood in each faith tradition, highlighting the central importance of faith and belief in both Islam and Christianity. The student could further enhance the response by providing additional scriptural references or theological insights to deepen the comparison.
+
+[&lt;- Link to Answer](../Understanding_Heirs_and_Inheritance_in_Christianity.md)

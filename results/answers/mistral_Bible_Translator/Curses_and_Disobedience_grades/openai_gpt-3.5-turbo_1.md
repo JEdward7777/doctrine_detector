@@ -25,3 +25,5 @@ In this context, the curses serve as an acknowledgement that all have fallen sho
 Grade: 90
 
 Comment: The response provides a well-explained understanding of Galatians 3:10 in relation to the concept of curses and the importance of recognizing the seriousness of disobedience to God's commands. The answer effectively discusses the implications of relying on the law for justification and highlights the significance of faith in Jesus Christ for salvation. The Christian worldview is clearly articulated in explaining the consequences of disobedience and the need for redemption through faith.
+
+[&lt;- Link to Answer](../Curses_and_Disobedience.md)

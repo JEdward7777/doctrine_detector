@@ -33,3 +33,5 @@ Recognizing the various ways to identify service roles within the church.
 Grade: 90
 
 Comment: The response provides a comprehensive list of terms that can be used to identify service roles within the church, showcasing a good understanding of the various ways deacons can be referred to. The response accurately captures the essence of the concern by mentioning terms such as "servant leader," "minister," "steward," "officer," "lay leader," "acolyte," and "Diakonos (Greek)." The only suggestion for improvement would be to provide a bit more explanation or context for each term to further demonstrate how they relate to the deacon's service role within the church.
+
+[&lt;- Link to Answer](../Terminology.md)

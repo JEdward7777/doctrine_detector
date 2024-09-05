@@ -31,3 +31,5 @@ These examples reveal that God's judgement is a consequence of disobedience or r
 Grade: 95
 
 Comment: This response effectively builds upon the provided answer by providing additional examples from scripture where the term "woe" is used to convey divine judgment and emphasize the seriousness of sin and disobedience. The examples chosen illustrate the consistent biblical theme of God's judgment upon those who reject His will, reinforcing the gravity of spiritual rebellion. The integration of Old Testament and New Testament passages strengthens the argument and demonstrates a comprehensive understanding of the concept of divine judgment in a Christian worldview. Well done!
+
+[&lt;- Link to Answer](../Biblical_Usage_of_Woe.md)

@@ -21,3 +21,5 @@ In Jewish tradition, the Sabbath, or Shabbat, occurs weekly from Friday evening 
 Grade: 90
 
 Comment: The response accurately states that the Sabbath begins on Friday at sundown and lasts until Saturday at sundown, which aligns with Biblical teaching on the observance of the Sabbath. The explanation could have been expanded to include more details about the significance of the Sabbath and its observance in Jewish and Christian traditions.
+
+[&lt;- Link to Answer](../Sabbath_Timing.md)

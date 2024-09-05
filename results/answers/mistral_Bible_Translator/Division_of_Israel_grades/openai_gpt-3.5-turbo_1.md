@@ -27,3 +27,5 @@ In summary, the major event that occurred in Israel's history after King Solomon
 Grade: 90
 
 Comment: The response provides a detailed explanation of the division of the Israelites into the Northern and Southern Kingdoms after King Solomon's reign. It references both biblical texts and historical evidence to support the explanation. The response effectively addresses both the historical and spiritual significance of this division within the context of Israel's relationship with God and the subsequent events in their history. Well done!
+
+[&lt;- Link to Answer](../Division_of_Israel.md)

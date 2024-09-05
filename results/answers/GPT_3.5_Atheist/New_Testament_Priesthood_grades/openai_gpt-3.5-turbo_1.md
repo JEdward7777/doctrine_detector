@@ -25,3 +25,5 @@ Therefore, in the New Testament, every believer in Jesus is considered a priest 
 Grade: 95
 
 Comment: The response provides a thorough explanation of the concept of the priesthood of all believers in the New Testament, supported by relevant scriptural references. It correctly acknowledges that believers have direct access to God and are called to serve and proclaim His message without needing intermediaries. The explanation is clear and aligns well with the understanding of priesthood within the Christian worldview.
+
+[&lt;- Link to Answer](../New_Testament_Priesthood.md)

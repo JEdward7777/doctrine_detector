@@ -21,3 +21,5 @@ From a retributive cultural perspective, it can be said that Jesus used parables
 Grade: 90
 
 Comment: The response effectively discusses how Jesus used parables to convey moral truths to his followers while keeping them hidden from those who did not believe. The explanation provided aligns well with the Christian worldview and understanding of Jesus' teaching methods as a way to guide and enlighten his disciples. The response could have further emphasized the spiritual depth and transformative power of Jesus' parables in shaping the faith of believers.
+
+[&lt;- Link to Answer](../Purpose_of_Parables.md)

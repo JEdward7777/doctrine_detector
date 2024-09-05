@@ -35,3 +35,5 @@ In summary, while all Christians are called to share their faith, evangelists ha
 Grade: 95
 
 Comment: The response effectively addresses the concern by providing detailed explanations of the spiritual gifts and role of evangelists within the church. The key aspects presented align well with the Christian worldview, citing relevant biblical references to support the differentiation of evangelists from other Christians. The response demonstrates a strong understanding of the topic and effectively explains the significance of evangelists in spreading the Gospel and leading others to faith in Jesus Christ.
+
+[&lt;- Link to Answer](../Gift_of_Evangelism.md)

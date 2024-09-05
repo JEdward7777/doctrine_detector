@@ -29,3 +29,5 @@ In summary, for Christians, the celebration of Passover serves as a reminder of 
 Grade: 95
 
 Comment: This response provides a comprehensive explanation of the connection between the Old Testament Passover and the New Testament revelation of Jesus. It accurately portrays Jesus as the Passover Lamb, emphasizing His sacrificial role for humanity. The student effectively integrates biblical references and theological significance, demonstrating a deep understanding of Christian beliefs. The only slight room for improvement could be to expand a bit more on how the Passover foreshadowed Jesus' sacrifice in the context of the overall plan of salvation in Christian theology.
+
+[&lt;- Link to Answer](../Passover_Significance.md)

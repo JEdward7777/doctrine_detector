@@ -33,3 +33,5 @@ Their influence waned after the destruction of the Second Temple in 70 CE, as th
 Grade: 90
 
 Comment: This response provides a detailed and accurate explanation of the Sadducees' main responsibilities within the ancient Jewish temple system, addressing the concern of exploring the historical context of religious leadership in the time of Jesus effectively. The response goes beyond simply listing the responsibilities and delves into the specific roles and influence of the Sadducees, showcasing a strong understanding of the topic. However, the response could have further highlighted the theological differences and conflicts between the Sadducees and other Jewish sects during that time to provide a more comprehensive analysis.
+
+[&lt;- Link to Answer](../Role_of_Sadducees.md)

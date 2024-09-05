@@ -53,3 +53,5 @@ Understanding the biblical role of priests
 Grade: 85
 
 Comment: The provided response accurately summarizes some of the main responsibilities of priests in the Old Testament, particularly emphasizing the aspects of offering sacrifices, prayers, pronouncing blessings, and teaching God's laws. However, the response could be improved by expanding on the roles of priests as mediators, maintaining purity, and providing leadership within the community, as outlined in the detailed breakdown of responsibilities. Overall, a solid understanding of the biblical role of priests is demonstrated.
+
+[&lt;- Link to Answer](../Role_of_Priests.md)

@@ -21,3 +21,5 @@ The concept of a Sabbath does not exist within Islamic tradition. Islamic law do
 Grade: 95
 
 Comment: The response accurately identifies the timeframe for the observance of the Sabbath according to Biblical teaching. The connection between the answer provided and the concern raised is clear and consistent with a Christian specific worldview.
+
+[&lt;- Link to Answer](../Sabbath_Timing.md)

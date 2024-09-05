@@ -28,3 +28,5 @@ Each of these passages provides a slightly different context but includes the na
 Grade: 85
 
 Comment: The response accurately identifies where the names of the twelve disciples are listed in the Bible, providing specific references. However, the response could have delved deeper into the context and significance of the disciples within the Gospel accounts to fully address the concern of being familiar with the teachings.
+
+[&lt;- Link to Answer](../Matthew,_Mark,_and_Luke.md)

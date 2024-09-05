@@ -21,3 +21,5 @@ In a biblical context, the term "abomination" can be effectively translated to c
 Grade: 90
 
 Comment: The response effectively conveys the meaning of "abomination" in a biblical context, providing accurate translations that align with Christian beliefs. It recognizes the importance of accurate translation in understanding biblical texts and the significance of actions against God's laws. Overall, a strong understanding of the topic is demonstrated in the response.
+
+[&lt;- Link to Answer](../Translation_of_Abomination.md)

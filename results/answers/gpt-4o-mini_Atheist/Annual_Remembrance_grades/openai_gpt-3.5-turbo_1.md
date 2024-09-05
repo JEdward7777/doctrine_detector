@@ -31,3 +31,5 @@ By instituting the annual observance of Passover, the Israelites create a struct
 Grade: 90
 
 Comment: The response provides a comprehensive explanation of why the Israelites were commanded to celebrate Passover annually, emphasizing the importance of remembrance, covenantal significance, teaching and transmission, as well as worship and thanksgiving. The answer effectively connects the observance of Passover to the foundational importance of remembrance within Christian faith, by acknowledging and highlighting key aspects of God's intervention and deliverance in the Exodus story. The response effectively integrates Christian worldview considerations, demonstrating an understanding of the spiritual significance of remembering God's actions in the past for both Israelites and Christians.
+
+[&lt;- Link to Answer](../Annual_Remembrance.md)

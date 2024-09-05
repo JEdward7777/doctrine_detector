@@ -21,3 +21,5 @@ For Christians, the celebration of Passover signifies the deliverance of the Isr
 Grade: 95
 
 Comment: The response beautifully articulates the Christian perspective on the connection between the Old Testament Passover and the New Testament revelation of Jesus as the Passover Lamb. It effectively communicates how Jesus' sacrifice fulfills the symbolism of the Passover lamb, emphasizing the significance of His perfect and sinless sacrifice for humanity. The only slight room for improvement would be to further elaborate on how the Passover meal, or the Last Supper, plays a role in this connection, but overall, this response demonstrates a strong understanding of the Christian worldview in relation to Passover and Jesus' sacrifice.
+
+[&lt;- Link to Answer](../Passover_Significance.md)

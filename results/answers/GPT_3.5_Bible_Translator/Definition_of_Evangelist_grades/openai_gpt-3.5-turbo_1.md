@@ -21,3 +21,5 @@ The term "evangelist" comes from the Greek word "euangelistes," which means "bri
 Grade: 90
 
 Comment: The response accurately conveys the key point that an evangelist is someone who preaches the good news. The additional details provided in the graded response also demonstrate a good understanding of the role of an evangelist in sharing the gospel within Christian theology.
+
+[&lt;- Link to Answer](../Definition_of_Evangelist.md)

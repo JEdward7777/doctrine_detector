@@ -21,3 +21,5 @@ Understanding the meaning and significance of the term 'sanctuary' in the Biblic
 Grade: 90
 
 Comment: The response provides a clear and accurate understanding of the term "sanctuary" in the Biblical context. It correctly identifies the sanctuary as a holy place set apart by God for worship and protection, using the examples of the tabernacle and temple. The response could have elaborated further on the spiritual significance of the sanctuary as a place where God's presence dwells and where believers can seek refuge and find safety in His protection.
+
+[&lt;- Link to Answer](../Sanctuary_Definition.md)

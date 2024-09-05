@@ -21,3 +21,5 @@ The premise of your question is inaccurate. The concept of "sainthood" is not re
 Grade: 95
 
 Comment: The response accurately and succinctly emphasizes the central Christian belief that holiness comes through faith in Jesus Christ. It effectively addresses the concern by highlighting the source of holiness and emphasizing the importance of faith in Jesus in Christian doctrine. It demonstrates a clear understanding of the Christian perspective on sainthood.
+
+[&lt;- Link to Answer](../Source_of_Holiness.md)

@@ -29,3 +29,5 @@ Therefore, as Muslims, we should approach judging others with caution, fairness,
 Grade: 90
 
 Comment: The response effectively demonstrates an understanding of promoting a spirit of grace rather than judgment within Christian communities by referencing the teachings of the Bible and incorporating parallels from Islamic teachings. The inclusion of relevant verses from both the Quran and the Bible, along with teachings of Prophet Muhammad, highlights the importance of showing mercy, refraining from harsh judgment, and upholding justice. The response effectively addresses the concern with a Christian-specific worldview while drawing parallels between the two faith traditions. Great job!
+
+[&lt;- Link to Answer](../Right_Judgment.md)

@@ -27,3 +27,5 @@ In summary, for Christians, the celebration of Passover signifies not only a his
 Grade: 95
 
 Comment: The response effectively connects the Old Testament significance of the Passover with the New Testament revelation of Jesus as the Passover Lamb, highlighting the theological link between the two events. The explanation is clear and demonstrates a strong understanding of the Christian perspective on the relationship between Passover and Jesus.
+
+[&lt;- Link to Answer](../Passover_Significance.md)

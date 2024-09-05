@@ -27,3 +27,5 @@ In summary, the offering of myrrh at Jesus' birth was significant in that it sym
 Grade: 90
 
 Comment: The response provides a thorough explanation of the significance of myrrh as a gift presented to Jesus, linking it to His future suffering and death as the Messiah. It accurately highlights the symbolism of myrrh in representing Jesus' sacrificial role for humanity. The biblical references and connections made between myrrh and Jesus' royalty, priesthood, and humanity are well-explained, contributing to a deeper understanding of Jesus' purpose and mission.
+
+[&lt;- Link to Answer](../Myrrh_as_a_Gift.md)

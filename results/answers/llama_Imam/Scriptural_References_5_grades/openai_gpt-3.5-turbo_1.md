@@ -41,3 +41,5 @@ Wa al-salamu alaykum.
 Grade: 70
 
 Comment: The response provides a thorough analysis of the biblical references concerning Hades from both the Gospels/Acts and the Epistles/Revelation. The inclusion of relevant verses and explanations demonstrates a good understanding of the topic. However, the response could have further explored the implications of the biblical depiction of Hades on Christian eschatology and connected it more directly to the given answer.
+
+[&lt;- Link to Answer](../Scriptural_References_5.md)

@@ -38,3 +38,5 @@ May Allah guide us all to serve His creation with humility and compassion.
 Grade: 70
 
 Comment: The response provides a comprehensive comparison between the Christian concept of deacons and Islamic teachings on service within the Muslim community. It demonstrates an understanding of the role of servanthood in the church by highlighting the practical aspects of serving others. However, it could have benefited from a more direct reference to biblical teachings on servanthood within the context of the role of deacons in Christianity.
+
+[&lt;- Link to Answer](../Deacon_Definition.md)

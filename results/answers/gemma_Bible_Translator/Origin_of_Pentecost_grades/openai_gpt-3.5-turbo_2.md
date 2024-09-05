@@ -50,3 +50,5 @@ The Festival of Weeks held immense historical and religious significance for anc
 Grade: 90
 
 Comment: The response provides a comprehensive exploration of the historical and religious significance of the Festival of Weeks (Pentecost) before the New Testament, connecting it well to its biblical origins and practices. It also effectively ties in the significance of the festival to early Christian beliefs and the fulfillment in Christ. The response demonstrates a good understanding of the festival's importance and its relationship to Christian theology.
+
+[&lt;- Link to Answer](../Origin_of_Pentecost.md)

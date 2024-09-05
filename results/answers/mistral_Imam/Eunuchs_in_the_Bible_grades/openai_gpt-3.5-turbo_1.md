@@ -35,3 +35,5 @@ In summary, while Jesus's words can be interpreted as advocating for celibacy in
 Grade: 90
 
 Comment: The response effectively addresses the concern by discussing the biblical perspective on celibacy based on the given answer and provides a thorough comparison between Islamic and Christian views on celibacy. The response demonstrates a clear understanding of the topic and effectively integrates both perspectives in a respectful manner.
+
+[&lt;- Link to Answer](../Eunuchs_in_the_Bible.md)

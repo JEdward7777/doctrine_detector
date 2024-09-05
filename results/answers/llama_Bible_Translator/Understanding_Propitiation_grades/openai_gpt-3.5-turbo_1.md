@@ -34,3 +34,5 @@ In summary, Jesus' sacrifice on the cross is the ultimate propitiation, satisfyi
 Grade: 95
 
 Comment: The response provides a thorough explanation of how propitiation relates to both God's justice and mercy in the context of Jesus' sacrifice. It emphasizes the crucial aspect of Jesus' sacrifice in satisfying God's justice and appeasing His wrath, while also highlighting how it provides a means for sinners to receive forgiveness and eternal life. The integration of relevant Bible verses and key aspects of Jesus' sacrifice enhances the overall depth of the explanation. The only minor suggestion for improvement would be to expand a bit more on how God's mercy is demonstrated through propitiation, although the response does touch on reconciliation and restored relationship with God.
+
+[&lt;- Link to Answer](../Understanding_Propitiation.md)

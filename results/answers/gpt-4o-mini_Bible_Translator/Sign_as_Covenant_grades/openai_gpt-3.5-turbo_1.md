@@ -25,3 +25,5 @@ The significance of the rainbow as a covenant sign is also tied to the idea that
 Grade: 95
 
 Comment: This response demonstrates a clear understanding of God's covenant and promises in the Bible, particularly focusing on the significance of the rainbow as a reminder of God's mercy, faithfulness, and commitment to humanity. The explanation is thorough and articulately connects the symbolism of the rainbow to the biblical narrative in Genesis. Overall, an excellent response that effectively addresses the concern.
+
+[&lt;- Link to Answer](../Sign_as_Covenant.md)

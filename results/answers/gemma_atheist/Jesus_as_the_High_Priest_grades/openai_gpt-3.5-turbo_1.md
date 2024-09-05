@@ -41,3 +41,5 @@ The New Testament description of Jesus' relationship to the high priesthood is n
 Grade: 90
 
 Comment: The response provides a thorough exploration of the theological implications of Jesus fulfilling the role of high priest, tracing early interpretations through later developments in the New Testament. It effectively discusses the evolving understanding of Jesus' relationship to priesthood and how it shifts from traditional priesthood to the universality of believers as priests through Christ. The conclusion effectively summarizes the nuanced nature of this relationship. Overall, this response demonstrates a strong grasp of the topic and provides a detailed analysis from a Christian worldview.
+
+[&lt;- Link to Answer](../Jesus_as_the_High_Priest.md)

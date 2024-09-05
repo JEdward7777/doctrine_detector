@@ -39,3 +39,5 @@ The Pharisees' concern about separating the Jewish people from the Gentiles stem
 Grade: 90
 
 Comment: The response provides a detailed explanation of the Pharisees' beliefs and concerns regarding separation from Gentiles, aligning well with the given answer and concern. The inclusion of specific beliefs of the Pharisees, the potential implications of mingling with Gentiles, and the measures taken to maintain separation enriches the understanding of the Pharisees' perspective from a Christian worldview. Well done!
+
+[&lt;- Link to Answer](../Separation_from_Gentiles.md)

@@ -21,3 +21,5 @@ To be a disciple of Jesus means to be a committed follower and learner of His te
 Grade: 95
 
 Comment: This response demonstrates a deep understanding of the definition and responsibilities of being a disciple of Jesus. The elaboration on embracing His message, living according to His commands, and striving to embody His character and values reflects a comprehensive grasp of discipleship within a Christian worldview. The addition of engaging in spiritual practices and aligning one's life purpose with the mission of Jesus further enriches the explanation. Overall, it's a well-developed and insightful response that effectively addresses the concern.
+
+[&lt;- Link to Answer](../Understanding_Discipleship.md)

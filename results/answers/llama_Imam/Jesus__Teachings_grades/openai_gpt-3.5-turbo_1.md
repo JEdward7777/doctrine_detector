@@ -37,3 +37,5 @@ May Allah guide us to understand His words and may we be among those who truly k
 Grade: 85
 
 Comment: The response provides a well-thought-out explanation of how Prophet Isa (Jesus) used the term "Amen" to emphasize the truthfulness of his teachings in the Quranic narrative. It eloquently discusses the significance of Jesus' words and teachings in confirming the messages of previous scriptures. The connection between sincerity, honesty, and integrity in conveying divine truths is clearly articulated. The integration of Islamic beliefs and the showcasing of Jesus as a prophet within that context is commendable. However, the explanation could have been further enhanced by directly addressing the concern by explicitly stating the authority of Jesus' words and teachings in the Islamic scriptures.
+
+[&lt;- Link to Answer](../Jesus__Teachings.md)

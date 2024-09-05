@@ -29,3 +29,5 @@ In summary, in Islamic perspective, Jesus' sacrifice has no direct connection to
 Grade: 50
 
 Comment: The response provided a clear explanation from an Islamic perspective, emphasizing that Jesus' sacrifice is not linked to propitiation for human sins as in the Christian doctrine. However, the response did not directly address the concern regarding how propitiation relates to God's justice and mercy. To improve the grade, the answer could have delved into the Islamic understanding of how God's justice and mercy manifest in the concept of propitiation within the Islamic theological framework.
+
+[&lt;- Link to Answer](../Understanding_Propitiation.md)

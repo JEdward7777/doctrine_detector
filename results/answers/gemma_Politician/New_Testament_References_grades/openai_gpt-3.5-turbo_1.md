@@ -21,3 +21,5 @@ The premise of your question is inaccurate. There is no evidence to suggest that
 Grade: 80
 
 Comment: The response correctly addresses the concern of connecting Old Testament practices with New Testament figures to understand biblical continuity by referencing the Nazirite vow in relation to John the Baptist. The initial response's concern about inaccurately linking John the Baptist to Nazi ideology is appropriately addressed with a biblical worldview perspective.
+
+[&lt;- Link to Answer](../New_Testament_References.md)

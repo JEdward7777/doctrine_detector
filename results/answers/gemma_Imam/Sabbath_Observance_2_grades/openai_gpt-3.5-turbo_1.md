@@ -21,3 +21,5 @@ The account of manna gathering on the Sabbath is not found in Islamic scripture,
 Grade: 90
 
 Comment: The response accurately explains the Biblical account of God instructing the Israelites to gather extra manna before the Sabbath. The explanation aligns with the importance of observing the Sabbath according to God's commands in the Bible. The deduction of points is due to the lack of explicit reference to the Christian perspective on the significance of the Sabbath in following God's commands. A more direct connection to Christian beliefs and teachings on the Sabbath could have enhanced the response further.
+
+[&lt;- Link to Answer](../Sabbath_Observance_2.md)

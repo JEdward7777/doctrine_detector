@@ -21,3 +21,5 @@ Thank you for your question. Different translations of the Bible may use differe
 Grade: 90
 
 Comment: The response effectively elaborates on the distinctions between iniquity, sin, and transgression in alignment with the Christian worldview, emphasizing the importance of recognizing the gravity of one's actions and seeking repentance. The inclusion of explanations for each term provides clarity and insight for Christians looking to deepen their understanding of moral accountability in relation to God's commands.
+
+[&lt;- Link to Answer](../Understanding_Iniquity.md)

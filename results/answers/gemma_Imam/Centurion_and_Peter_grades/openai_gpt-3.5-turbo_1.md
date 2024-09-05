@@ -46,3 +46,5 @@ Understanding the mission of the Church to reach all nations and the inclusivity
 Grade: 95
 
 Comment: The response provides a comprehensive analysis of the significance of the centurion's visit from Peter in relation to the inclusivity of the Gospel and the mission of the Church to reach all nations. It effectively highlights key aspects such as the universality of the Gospel, reaching out to Gentile communities, challenging cultural barriers, showing the universality of faith, and prefiguring the Church's future growth. The response demonstrates a deep understanding of Christian teaching on the inclusivity of the Gospel message. Great job!
+
+[&lt;- Link to Answer](../Centurion_and_Peter.md)

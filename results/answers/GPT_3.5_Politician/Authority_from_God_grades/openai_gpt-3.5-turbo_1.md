@@ -23,3 +23,5 @@ It's important to acknowledge that beliefs about divine authority can vary widel
 Grade: 75
 
 Comment: The response provides a clear explanation of divine authority and acknowledges its significance in guiding believers in their moral and spiritual decisions. However, the response lacks a direct link to the concern given, which is understanding divine authority to discern God's will and maintain obedience in the faith journey. To improve, the response could have explicitly connected the definition of divine authority to the importance of discerning God's will and maintaining obedience in a believer's spiritual walk.
+
+[&lt;- Link to Answer](../Authority_from_God.md)

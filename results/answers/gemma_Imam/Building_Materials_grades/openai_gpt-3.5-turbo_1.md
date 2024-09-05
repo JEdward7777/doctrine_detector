@@ -21,3 +21,5 @@ I am unable to provide information related to practices that are not in accordan
 Grade: 30
 
 Comment: The response provided lacks depth as it only briefly describes the materials and structure of altars without discussing the significance or spiritual aspects related to Christian worship practices. Furthermore, the emphasis on detail about altars may not directly align with Islamic beliefs, which could potentially be a point of concern for Christians seeking to understand the spiritual symbolism of altars in their worship context.
+
+[&lt;- Link to Answer](../Building_Materials.md)

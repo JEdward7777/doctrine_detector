@@ -21,3 +21,5 @@ An evangelist is someone who has a specific calling to share the good news of Je
 Grade: 90
 
 Comment: The response accurately identifies evangelists as Christians with a special spiritual gift for sharing the gospel and emphasizes their distinct role within the church. It effectively addresses the concern by highlighting the importance of understanding spiritual gifts related to evangelism and their significance in ministry. Overall, a strong and well-articulated response from a Christian worldview.
+
+[&lt;- Link to Answer](../Gift_of_Evangelism.md)

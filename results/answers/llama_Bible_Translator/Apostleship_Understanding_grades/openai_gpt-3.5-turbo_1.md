@@ -39,3 +39,5 @@ As Bible translators, we recognize that the apostles' commission is not just a h
 Grade: 95
 
 Comment: This response provides a comprehensive examination of the significance of the apostles being sent by Jesus in spreading the gospel in the context of the Great Commission. The analysis is thorough, incorporates relevant biblical references, and offers a clear explanation of the various implications of apostleship in carrying out the mission entrusted by Jesus. The response effectively addresses the concern by delving into the aspects of authority, empowerment, continuity, unity, and accountability in the apostolic commission. It demonstrates a strong understanding of the biblical foundations of apostleship and the role it plays in advancing the kingdom of God. Well done!
+
+[&lt;- Link to Answer](../Apostleship_Understanding.md)

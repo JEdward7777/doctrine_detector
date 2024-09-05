@@ -21,3 +21,5 @@ The Israelites stopped using the tabernacle as their place of worship because Ki
 Grade: 90
 
 Comment: The response effectively explains the transition in worship practices from the tabernacle to the temple by highlighting the significance of King Solomon building the Temple in Jerusalem as a permanent structure for worship. The explanation is concise and accurately addresses the concern raised, providing a clear understanding of the shift in worship locations for the Israelites.
+
+[&lt;- Link to Answer](../Transition_from_Tabernacle_to_Temple.md)

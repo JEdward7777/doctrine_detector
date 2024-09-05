@@ -29,3 +29,5 @@ It is always a good idea to consult knowledgeable scholars and religious leaders
 Grade: 90
 
 Comment: The response effectively addresses the concern by emphasizing the key Christian belief of repentance and faith in Jesus for salvation. It provides relevant information from the Bible supporting the importance of these aspects. However, deducting a few points for briefly mentioning Islam's perspective without clearly differentiating it from the Christian view, which could potentially cause confusion for the reader. Overall, a strong and insightful response from a Christian worldview.
+
+[&lt;- Link to Answer](../Requirements_for_Salvation.md)

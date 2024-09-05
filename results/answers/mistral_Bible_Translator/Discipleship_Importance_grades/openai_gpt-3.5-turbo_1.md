@@ -33,3 +33,5 @@ In summary, the selection of the twelve apostles was strategically important for
 Grade: 95
 
 Comment: The response provides a thorough explanation of the role and significance of the twelve apostles in the New Testament, drawing from biblical references to support each point. It effectively elaborates on why the apostles were chosen by Jesus and the various aspects of their importance in spreading His message and establishing the early Church. The discussion on representation, leadership, faith, obedience, character, and witnesses is comprehensive and aligns well with a Christian worldview, showcasing a strong understanding of the role and significance of the apostles. Great job!
+
+[&lt;- Link to Answer](../Discipleship_Importance.md)

@@ -39,3 +39,5 @@ May this understanding bring us closer to the heart of God!
 Grade: 95
 
 Comment: The response provides a comprehensive and well-supported explanation of the connection between repentance and the wrath of God from a Christian worldview. It effectively addresses the concern by highlighting the importance of repentance in one's relationship with God. The inclusion of relevant Bible verses and explanations further strengthens the theological perspective presented. Great job!
+
+[&lt;- Link to Answer](../Repentance_and_Judgment.md)

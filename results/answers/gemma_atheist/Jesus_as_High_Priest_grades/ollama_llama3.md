@@ -56,3 +56,5 @@ The response does an excellent job of explaining Jesus' role as our "great high 
 However, I would deduct a few points because the response does not delve deeper into the symbolism and cultural significance of Jesus' sacrifice and priesthood, which is hinted at but not fully explored. Additionally, while it mentions that Jesus' sacrifice eliminates the need for human sacrifices, it could have gone further in explaining how this understanding can be applied to contemporary issues.
 
 Overall, I would say that this response provides a solid foundation for understanding Jesus' role in the priesthood and his sacrifice, but could benefit from more depth and application.
+
+[&lt;- Link to Answer](../Jesus_as_High_Priest.md)

@@ -21,3 +21,5 @@ Matthias was chosen to replace Judas Iscariot among the twelve apostles. This ev
 Grade: 80
 
 Comment: The response correctly identifies Matthias as the replacement for Judas Iscariot after his betrayal and death, demonstrating an understanding of the event recorded in Acts 1:15-26. However, the response could have further emphasized the significance of maintaining continuity in apostolic leadership after Jesus' ascension, highlighting the importance of this aspect within the Christian worldview.
+
+[&lt;- Link to Answer](../Replacement_of_Judas.md)

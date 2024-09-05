@@ -25,3 +25,5 @@ Overall, the use of myrrh in burial practices in biblical times was a symbol of 
 Grade: 90
 
 Comment: The response provides a thorough explanation of the significance of myrrh in biblical burial practices, highlighting its role in honoring and preparing the deceased. The connection to specific biblical references further supports the explanation. The response effectively addresses the concern by acknowledging the importance of recognizing cultural customs in understanding scripture.
+
+[&lt;- Link to Answer](../Use_in_Burial.md)

@@ -27,3 +27,5 @@ In essence, God was setting a boundary for His people regarding the observance o
 Grade: 90
 
 Comment: The response provides a clear and accurate explanation of the importance of observing the Sabbath according to God's commands, linking back to the specific passage in Exodus 16:23-26. The student effectively highlights how God set boundaries for His people to trust in Him for provision and honor the Sabbath as a day of rest, aligning well with a Christian worldview.
+
+[&lt;- Link to Answer](../Sabbath_Observance_2.md)

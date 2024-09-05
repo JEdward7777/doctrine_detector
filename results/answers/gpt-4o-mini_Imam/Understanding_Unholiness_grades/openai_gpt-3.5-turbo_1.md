@@ -55,3 +55,5 @@ Living a life aligned with the teachings of Islam is crucial for spiritual growt
 Grade: 90
 
 Comment: The response effectively addresses the concern by providing a comprehensive examination of characteristics of an 'unholy' life from an Islamic perspective and offering practical ways to identify them in personal and societal behaviors. The emphasis on self-reflection, community observations, media consumption, behaviors, mindsets, and guidance from scholars aligns well with the Christian worldview of striving for holiness and honoring God in all aspects of life. The conclusion also reinforces the importance of aligning one's life with religious teachings for spiritual growth and community well-being. Great job overall!
+
+[&lt;- Link to Answer](../Understanding_Unholiness.md)

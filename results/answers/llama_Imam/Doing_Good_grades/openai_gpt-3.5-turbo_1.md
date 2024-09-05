@@ -33,3 +33,5 @@ Jazakallah khair (thank you for asking)!
 Grade: 95
 
 Comment: The response provides a thoughtful and respectful exploration of the Christian perspective on "doing good to" others, emphasizing the importance of reflecting Christ's love through acts of kindness and compassion. The Imam effectively highlights the commonality between Christianity and Islam in promoting values such as charity, kindness, and mercy. The response demonstrates understanding, respect, and a Christian worldview in addressing the concern of encouraging Christians to live out their faith through good deeds. Well done!
+
+[&lt;- Link to Answer](../Doing_Good.md)

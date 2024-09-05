@@ -35,3 +35,5 @@ The Sadducees' main responsibilities within the Jewish temple system included:
 Grade: 80
 
 Comment: The response provides a detailed overview of the Sadducees' main responsibilities within the Jewish temple system in response to the concern regarding the historical context of religious leadership in the time of Jesus. It accurately highlights the roles of the Sadducees in managing the temple complex and performing priestly tasks such as offering sacrifices. However, it could have further elaborated on how the Sadducees' interactions with other religious and political groups, such as the Pharisees and Romans, shaped the religious landscape during Jesus' time.
+
+[&lt;- Link to Answer](../Role_of_Sadducees.md)

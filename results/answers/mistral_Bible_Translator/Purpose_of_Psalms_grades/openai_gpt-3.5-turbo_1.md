@@ -29,3 +29,5 @@ Overall, the Book of Psalms was an essential part of Israel's worship practices,
 Grade: 95
 
 Comment: The response provides a thorough and detailed explanation of how the Psalms were used in the worship practices of ancient Israel, showcasing an excellent understanding of the historical context and purpose of worship through Psalms. It effectively expands on the given answer, illustrating the significance of the Psalms in both corporate and individual worship settings. The incorporation of relevant Biblical examples further strengthens the argument and supports the Christian worldview perspective on the importance of the Psalms in worship. Great job!
+
+[&lt;- Link to Answer](../Purpose_of_Psalms.md)

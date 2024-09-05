@@ -25,3 +25,5 @@ While the term "disciple" may not be commonly used in Islamic terminology in the
 Grade: 80
 
 Comment: The response provides a clear explanation of what it means to be a disciple of Jesus in Islamic context, emphasizing the importance of belief, obedience, following His teachings, and emulating His character. The connection between the definition of being a disciple and the Islamic perspective is well articulated. However, there could have been more specific references to Islamic teachings or scriptures to further support the points made.
+
+[&lt;- Link to Answer](../Understanding_Discipleship.md)

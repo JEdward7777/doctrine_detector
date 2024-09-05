@@ -60,3 +60,5 @@ Weaknesses:
 
 * Could benefit from more specific biblical examples and illustrations
 * Some sentences are too long and convoluted, making them hard to follow
+
+[&lt;- Link to Answer](../Authority_of_Apostles.md)

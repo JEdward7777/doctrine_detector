@@ -21,3 +21,5 @@ Thank you for your question. It is important to recognize and respect that diffe
 Grade: 50
 
 Comment: The response acknowledges the importance of following the teachings of Jesus in regards to salvation and eternal life. However, it falls short in explicitly stating the specific teachings of Jesus that lead to salvation, as requested in the concern. It is important to be clear and direct in communicating Christian beliefs and teachings, especially when addressing questions about salvation and eternal life from a Christian worldview.
+
+[&lt;- Link to Answer](../Inheriting_Eternal_Life.md)

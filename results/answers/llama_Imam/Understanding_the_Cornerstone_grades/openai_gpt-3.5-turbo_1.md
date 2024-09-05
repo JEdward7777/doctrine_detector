@@ -33,3 +33,5 @@ In summary, while we acknowledge Jesus' (peace be upon him) importance in Christ
 Grade: 60
 
 Comment: The response provides a detailed explanation of the Islamic perspective on Jesus and the concept of "cornerstone" in Christianity. However, the response does not directly address the concern about how understanding the significance of Christ's role in the church can impact a believer's faith and community involvement. While the Islamic perspective is important to consider, the lack of discussion on this specific concern affects the overall relevance of the response in relation to the given answer and concern.
+
+[&lt;- Link to Answer](../Understanding_the_Cornerstone.md)

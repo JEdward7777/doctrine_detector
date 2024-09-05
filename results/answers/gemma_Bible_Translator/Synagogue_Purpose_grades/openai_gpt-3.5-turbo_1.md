@@ -21,3 +21,5 @@ Understanding the historical and religious importance of synagogues in Jewish wo
 Grade: 90
 
 Comment: The response accurately recognizes the role of synagogues as places for prayer, scripture reading, and teaching about the scriptures, especially for Jews living far from the temple in Jerusalem. This demonstrates a good understanding of the historical and religious importance of synagogues in Jewish worship. The response could be improved by acknowledging that while the Temple in Jerusalem was central to religious practices, synagogues did play a significant role in the spiritual life of Jews as well.
+
+[&lt;- Link to Answer](../Synagogue_Purpose.md)

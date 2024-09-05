@@ -21,3 +21,5 @@ In the Christian tradition, Jesus is said to have responded to the temptations p
 Grade: 90
 
 Comment: The response accurately describes Jesus' response to temptations and highlights the importance of his obedience to God. It effectively connects Jesus' example to a Christian worldview, emphasizing the relevance of his resistance to temptations as a model for Christians in their spiritual battles against evil. Overall, a strong and coherent analysis from a Christian perspective.
+
+[&lt;- Link to Answer](../Temptation_and_Resistance.md)

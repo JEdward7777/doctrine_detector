@@ -25,3 +25,5 @@ Therefore, just like in the Bible, the rainbow in Islamic belief symbolizes God'
 Grade: 95
 
 Comment: The response provides a thorough explanation of the significance of the rainbow in Islamic belief, showing a clear understanding of how the story of Prophet Noah is recognized in Islamic teachings. It effectively connects the concept of God's covenant and promises between the Bible and the Quran, demonstrating respect for both religious perspectives while highlighting the similarities in their teachings. The response could be slightly improved by directly referencing specific verses or passages from the Bible to further support the comparison with Islamic belief.
+
+[&lt;- Link to Answer](../Sign_as_Covenant.md)

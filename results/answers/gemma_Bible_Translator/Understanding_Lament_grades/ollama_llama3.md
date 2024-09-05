@@ -68,3 +68,5 @@ The response provides a comprehensive discussion of the significance of lamentat
 The only area for improvement is that the response could be more explicitly connected to the concern about how to properly express sorrows and regrets in a faith context. While the response does touch on this theme, it could be more directly addressed and applied to everyday Christian life. Additionally, some of the points made could be further developed with more specific examples or Scripture.
 
 Overall, however, the response provides a thoughtful and biblically-grounded discussion of lamentation's importance in the life of a believer, making it a strong contender for a high grade.
+
+[&lt;- Link to Answer](../Understanding_Lament.md)

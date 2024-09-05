@@ -21,3 +21,5 @@ The biblical record does not provide any information regarding the replacement o
 Grade: 80
 
 Comment: The response provided a correct answer regarding Matthias being chosen to replace Judas Iscariot after his betrayal and death, which aligns with Christian beliefs. However, the response did not directly address the concern of recognizing the continuity of apostolic leadership after Jesus' ascension, which is an important aspect when discussing the replacement of Judas among the twelve apostles.
+
+[&lt;- Link to Answer](../Replacement_of_Judas.md)

@@ -28,3 +28,5 @@ By providing some historical or cultural context, it may also be helpful to expl
 Grade: 85
 
 Comment: The response effectively addresses the concern by emphasizing the distinction between Jesus' divine lordship and earthly titles. It provides a clear explanation of the significance of "Jesus is Lord" in terms of His divine authority. The additional suggested approach of using phrases like "Jesus as Lord" to emphasize the spiritual aspect adds depth to the explanation, enhancing clarity for those unfamiliar with Christian terminology. Overall, the response effectively addresses the concern while providing valuable context and suggestions for further clarification.
+
+[&lt;- Link to Answer](../Jesus_is_Lord.md)

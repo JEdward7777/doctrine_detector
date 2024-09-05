@@ -48,3 +48,5 @@ Therefore, the title "King of the Jews" reveals that Jesus' authority extends fa
 Grade: 95
 
 Comment: The response effectively elaborates on the significance of Jesus' title as "King of the Jews" in showcasing His authority over all creation from a Christian worldview. It correctly emphasizes Jesus' divine kingship and sovereignty, aligning with the concern about believers acknowledging His authority in their lives. The explanation is thorough, supported by relevant Biblical references, and conveys a strong understanding of Jesus' overarching authority. Great job!
+
+[&lt;- Link to Answer](../Authority_of_Jesus.md)

@@ -21,3 +21,5 @@ The Israelites stopped using the tabernacle because it served as a temporary pla
 Grade: 60
 
 Comment: The response accurately addresses the transition in worship practices from the tabernacle to the temple by stating that the Israelites stopped using the tabernacle when the temple was built by Solomon in Jerusalem. However, there is a concern with the inclusion of Islamic belief and terminology in the explanation, which may not align with a Christian specific worldview. It is important to maintain a consistent perspective rooted in Christianity when discussing religious practices and beliefs related to the tabernacle and temple.
+
+[&lt;- Link to Answer](../Transition_from_Tabernacle_to_Temple.md)

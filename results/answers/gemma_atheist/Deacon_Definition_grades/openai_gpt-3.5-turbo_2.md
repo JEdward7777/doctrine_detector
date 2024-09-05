@@ -62,3 +62,5 @@ Understanding the biblical role of servanthood in the church.
 Grade: 60
 
 Comment: The response accurately identifies one aspect of a deacon's role in serving fellow believers with practical needs like food or money, which aligns with the biblical principle of servanthood. However, it lacks depth and fails to address the broader scope of responsibilities outlined in the provided primary roles of a deacon in the local church. To fully address the concern of understanding the biblical role of servanthood in the church, the response should have elaborated on how serving practical needs is part of a deacon's overall ministry of service, support, outreach, pastoral care, administration, communication, and advocacy, as well as the ethical considerations that guide their actions.
+
+[&lt;- Link to Answer](../Deacon_Definition.md)

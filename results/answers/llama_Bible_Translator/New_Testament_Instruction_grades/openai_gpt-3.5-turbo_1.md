@@ -31,3 +31,5 @@ In summary, while there may not be a specific instruction on Psalms in the New T
 Grade: 90
 
 Comment: The response provided a thorough examination of how the teachings of Jesus Christ and the apostles in the New Testament demonstrate the importance and relevance of the Psalms in Christian worship. It effectively addressed the concern by showing how biblical teachings on the Psalms apply to contemporary Christian worship through the examples of Jesus and the apostles quoting, referencing, and applying Psalms in their teachings. The use of specific biblical references and examples strengthened the argument.
+
+[&lt;- Link to Answer](../New_Testament_Instruction.md)

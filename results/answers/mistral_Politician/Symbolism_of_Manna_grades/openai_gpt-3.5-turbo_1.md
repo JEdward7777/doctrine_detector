@@ -25,3 +25,5 @@ In modern discussions, it serves as an allegory for divine guidance and sustenan
 Grade: 85
 
 Comment: The response provides a clear explanation of manna as a symbol of God's provision for the Israelites in the wilderness, emphasizing God's care and sustenance for His people. The connection to recognizing God's ongoing provision in the lives of believers is made effectively, showcasing the relevance of the manna story in modern discussions of divine guidance and sustenance. The response could be strengthened by incorporating more specific references to biblical passages or teachings that reinforce the idea of God's continuous provision for His people.
+
+[&lt;- Link to Answer](../Symbolism_of_Manna.md)

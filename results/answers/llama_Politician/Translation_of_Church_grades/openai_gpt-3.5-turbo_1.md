@@ -31,3 +31,5 @@ By using these alternative phrases, we can create a more inclusive language that
 Grade: 90
 
 Comment: The response provides thoughtful and inclusive alternatives to refer to a religious gathering, demonstrating an understanding of the concern regarding accurately representing the church's inclusive nature in translations. The suggested alternatives convey a spirit of embracing diversity and respecting various faith traditions. The response could have earned a slightly higher grade by incorporating specific references to the universal nature of the church as the body of believers in Christ, but overall, it effectively addresses the concern raised.
+
+[&lt;- Link to Answer](../Translation_of_Church.md)

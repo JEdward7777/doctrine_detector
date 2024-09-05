@@ -29,3 +29,5 @@ In conclusion, "taking up one's cross" is a call to selfless service, personal g
 Grade: 85
 
 Comment: The response provides a thoughtful and inclusive interpretation of the biblical concept of "taking up one's cross" by emphasizing personal responsibility and commitment to a higher purpose. It appropriately relates the concept to selfless service and dedication to following Christ. The concern regarding the call to discipleship and personal cost of following Christ is addressed well in the response, aligning with a Christian worldview. However, there could be a stronger emphasis on the sacrificial aspect of carrying one's cross in the response to further highlight the personal cost of discipleship.
+
+[&lt;- Link to Answer](../Daily_Bearing_the_Cross.md)

@@ -21,3 +21,5 @@ The term "gospel" literally means "good news." In the context of the Bible, the 
 Grade: 95
 
 Comment: The response provides a concise and accurate understanding of the term "gospel" as good news related to God's salvation through Jesus' sacrifice on the cross. It effectively captures the essence of the gospel message in Christianity. The slight deduction in points is due to the original response providing a bit more detail on the Gospels in the New Testament and their role in recounting the life, teachings, death, and resurrection of Jesus Christ.
+
+[&lt;- Link to Answer](../Definition_of_Gospel.md)

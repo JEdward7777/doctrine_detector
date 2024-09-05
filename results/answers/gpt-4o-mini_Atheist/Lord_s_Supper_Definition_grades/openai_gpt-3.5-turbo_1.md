@@ -21,3 +21,5 @@ The Lord's Supper, also known as Communion or the Eucharist, commemorates the La
 Grade: 90
 
 Comment: The response provides a concise and accurate explanation of the meaning and significance of the Lord's Supper in Christian faith, emphasizing the representation of Jesus' sacrifice for sin through his body and blood. The response could have further elaborated on the new covenant aspect and the fellowship/community components, but overall, it demonstrates a solid understanding of the Christian perspective on the Lord's Supper.
+
+[&lt;- Link to Answer](../Lord_s_Supper_Definition.md)

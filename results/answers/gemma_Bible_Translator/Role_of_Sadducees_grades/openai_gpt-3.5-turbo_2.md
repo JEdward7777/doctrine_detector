@@ -46,3 +46,5 @@ The Sadducees were a Jewish sect that rejected certain aspects of traditional Ju
 Grade: 85
 
 Comment: The response accurately highlights the main responsibility of the Sadducees in terms of taking care of the temple complex and performing priestly tasks. However, it lacks depth in exploring the historical context of religious leadership in the time of Jesus as requested in the concern. To improve the grade, a more detailed analysis of how the Sadducees' role fits into the broader religious landscape of the time could have been provided.
+
+[&lt;- Link to Answer](../Role_of_Sadducees.md)

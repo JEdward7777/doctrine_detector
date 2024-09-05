@@ -31,3 +31,5 @@ In Christian theology, the term "evangelist" often refers to those who actively 
 Grade: 90
 
 Comment: The response provides a clear and accurate explanation of the literal meaning, biblical usage, and figurative meaning of the term "evangelist" in relation to sharing the gospel. It aligns well with a Christian worldview, emphasizing the role of evangelists as messengers of the good news of salvation through Jesus Christ.
+
+[&lt;- Link to Answer](../Definition_of_Evangelist.md)

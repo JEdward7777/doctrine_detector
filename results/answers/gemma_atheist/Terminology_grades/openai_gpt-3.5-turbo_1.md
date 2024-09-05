@@ -54,3 +54,5 @@ Recognizing the various ways to identify service roles within the church.
 Grade: 90
 
 Comment: The response provides a good range of alternative terms for "deacon" that encompass different aspects of their role within the church. The terms offered reflect leadership, spirituality, and community involvement, demonstrating a well-rounded understanding of the diversity of service roles within the church. The additional considerations provided show awareness of the importance of context and audience when choosing appropriate terminology. Overall, this is a thoughtful and well-rounded response.
+
+[&lt;- Link to Answer](../Terminology.md)

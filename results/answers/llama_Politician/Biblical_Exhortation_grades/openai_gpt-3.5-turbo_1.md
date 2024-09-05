@@ -36,3 +36,5 @@ Let's have an open and respectful conversation about this!
 Grade: 85
 
 Comment: The response showcases a good understanding of the importance of evangelism in the Christian faith by referencing specific biblical passages where Jesus instructs his apostles to spread the good news about salvation through trusting in Him. The response appropriately integrates the Christian worldview into the discussion on faith and inclusivity in a political setting. However, there could have been a more explicit emphasis on the unique and central role evangelism plays in Christianity, perhaps by highlighting the urgency and significance of sharing the message of salvation with others.
+
+[&lt;- Link to Answer](../Biblical_Exhortation.md)

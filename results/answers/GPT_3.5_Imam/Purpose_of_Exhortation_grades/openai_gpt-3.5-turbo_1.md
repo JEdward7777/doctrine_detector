@@ -27,3 +27,5 @@ Therefore, exhortation serves as a tool for nurturing spiritual growth and foste
 Grade: 40
 
 Comment: While the response provides a thorough explanation of exhortation from an Islamic perspective, the answer does not directly address the concern of understanding the biblical basis for encouraging others in their faith journey. To improve the grade, the response should have included more specific references to biblical teachings or examples to support the concept of exhortation in Christianity.
+
+[&lt;- Link to Answer](../Purpose_of_Exhortation.md)

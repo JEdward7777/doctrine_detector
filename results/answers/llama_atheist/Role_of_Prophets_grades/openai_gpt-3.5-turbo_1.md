@@ -43,3 +43,5 @@ How do you see the prophetic role influencing our modern world?
 Grade: 60
 
 Comment: While the response accurately describes the traditional role of prophets in conveying God's messages and warning people to turn away from sin, the perspective provided deviates significantly from a Christian worldview. The response focused more on historical and cultural analysis, emphasizing social justice and moral responsibility from a secular standpoint rather than highlighting the divine aspect of prophecy. From a Christian perspective, prophets are seen as directly called by God to convey His messages and guide people back to Him, emphasizing repentance and obedience to God's commands. The response could have strengthened its analysis by incorporating more biblical references and emphasizing the divine authority behind prophetic messages.
+
+[&lt;- Link to Answer](../Role_of_Prophets.md)

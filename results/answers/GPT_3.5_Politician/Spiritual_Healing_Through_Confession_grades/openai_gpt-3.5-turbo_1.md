@@ -21,3 +21,5 @@ Confessing sins to one another can be seen as a way to promote accountability, v
 Grade: 85
 
 Comment: The response effectively connects the importance of confessing sins to one another with the broader concept of community in spiritual growth. It highlights how accountability, support, and encouragement within a community of believers can lead to spiritual healing. The only improvement could be to further emphasize the necessity of community for believers in their journey towards spiritual growth and development.
+
+[&lt;- Link to Answer](../Spiritual_Healing_Through_Confession.md)

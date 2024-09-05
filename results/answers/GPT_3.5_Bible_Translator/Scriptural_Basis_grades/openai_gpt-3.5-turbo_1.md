@@ -31,3 +31,5 @@ These verses emphasize the central role of Jesus Christ's sacrificial death on t
 Grade: 95
 
 Comment: The response provides a strong explanation of propitiation, supported by relevant Bible verses that clearly connect the concept with Jesus as the propitiation for our sins. The discussion is clear, concise, and effectively links the theological concept with biblical references, demonstrating a deeper understanding. Overall, this response effectively addresses the concern provided.
+
+[&lt;- Link to Answer](../Scriptural_Basis.md)

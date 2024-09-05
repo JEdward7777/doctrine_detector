@@ -27,3 +27,5 @@ In summary, these passages underscore God's intention to extend salvation to all
 Grade: 95
 
 Comment: The response provides a thorough analysis of the passages mentioned and effectively connects them to the theme of extending salvation to Gentiles based on faith in Jesus rather than adherence to the law. The student demonstrates a good understanding of the scriptural teachings on grace and inclusion, aligning well with a Christian worldview. The response could have included a bit more elaboration on how grace plays a role in the inclusion of Gentiles, but overall, the interpretation is sound and reflects insightful engagement with the biblical texts.
+
+[&lt;- Link to Answer](../Biblical_References_to_Gentiles.md)

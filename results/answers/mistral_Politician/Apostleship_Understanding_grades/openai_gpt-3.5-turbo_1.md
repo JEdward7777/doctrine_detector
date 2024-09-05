@@ -25,3 +25,5 @@ While acknowledging the historical importance of their contributions, it's essen
 Grade: 90
 
 Comment: The response provides a comprehensive and accurate explanation of the significance and role of the apostles in the early Christian movement, particularly in relation to the Great Commission. It effectively highlights the authority and mission given to the apostles by Jesus to spread the message of God's kingdom, in line with the concerns raised about understanding apostleship in the context of the Great Commission. The only minor area of improvement could be to explicitly mention the Great Commission by name for added clarity and alignment with the concern provided. Overall, this is a strong and insightful response from a Christian worldview perspective.
+
+[&lt;- Link to Answer](../Apostleship_Understanding.md)

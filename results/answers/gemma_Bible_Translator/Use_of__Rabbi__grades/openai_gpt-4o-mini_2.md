@@ -21,3 +21,5 @@ Neither John the Baptist nor Jesus are referred to as "Rabbi" in the biblical te
 Grade: 65
 
 Comment: The response correctly identifies that both John the Baptist and Jesus were sometimes referred to as "Rabbi" by their disciples, indicating their roles as teachers. However, the response does not fully address the concern about recognizing the respect and authority associated with Jesus' and John's teachings. It would be beneficial to expand on how their teachings were respected and viewed as authoritative within the Christian context.
+
+[&lt;- Link to Answer](../Use_of__Rabbi_.md)

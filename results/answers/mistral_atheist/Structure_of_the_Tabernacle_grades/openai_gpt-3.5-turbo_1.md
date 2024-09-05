@@ -30,3 +30,5 @@ Each section played a significant role in the religious practices and daily life
 Grade: 80
 
 Comment: The response provides a decent summary of the Tabernacle with a focus on the Holy Place and the Most Holy Place. It briefly mentions the significance of the components in worship, but lacks depth in explaining their full significance and the role they played in the Israelites' relationship with God. A more thorough explanation of the symbolic meaning and importance of each component would enhance the response.
+
+[&lt;- Link to Answer](../Structure_of_the_Tabernacle.md)

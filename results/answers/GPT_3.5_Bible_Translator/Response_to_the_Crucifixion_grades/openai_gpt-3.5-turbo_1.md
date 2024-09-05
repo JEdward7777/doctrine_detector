@@ -21,3 +21,5 @@ In Acts 2:23, Peter addresses the crowd on the day of Pentecost and says, "This 
 Grade: 90
 
 Comment: The response appropriately addresses the concern by highlighting the early church's preaching about the crucifixion and resurrection of Jesus, emphasizing the call to repentance and faith. It effectively connects the Gospel message to the response required from the listeners, aligning with a Christian worldview.
+
+[&lt;- Link to Answer](../Response_to_the_Crucifixion.md)

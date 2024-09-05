@@ -27,3 +27,5 @@ In terms of being politically correct, it is important to remember that these di
 Grade: 85
 
 Comment: The response provides a clear explanation of Jesus' role as the ultimate High Priest who intercedes for believers and offered himself as the final sacrifice for sin. The connection between Jesus' priesthood and the Old Testament tradition of the High Priest is well articulated. The response could be improved by delving deeper into the theological implications of Jesus' priesthood and how it relates to Christian salvation and redemption.
+
+[&lt;- Link to Answer](../Jesus_as_High_Priest.md)

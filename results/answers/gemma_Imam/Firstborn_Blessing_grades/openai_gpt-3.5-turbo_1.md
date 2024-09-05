@@ -25,3 +25,5 @@ Therefore, applying the concept of birthright from the Bible to understanding on
 Grade: 75
 
 Comment: The response provided a clear explanation of how the concept of birthright differs between Christianity and Islam in relation to family roles and spiritual responsibilities. The student effectively addressed the concern by highlighting the Christian perspective on birthright and family leadership. However, there could have been more depth in connecting these concepts to the Christian worldview and providing specific biblical references to support the explanation.
+
+[&lt;- Link to Answer](../Firstborn_Blessing.md)

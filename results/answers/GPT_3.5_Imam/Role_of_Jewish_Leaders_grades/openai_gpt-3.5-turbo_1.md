@@ -23,3 +23,5 @@ It is also important to understand that Muslims are taught to respect all Prophe
 Grade: 10
 
 Comment: The response from an Islamic perspective provides valuable insight into the differences in belief regarding Jesus' crucifixion and emphasizes the importance of respect towards other faiths. However, it does not directly address the historical context of Jesus' death and the dynamics between religious authority and civil power. In a Christian worldview, understanding the role of Jewish religious leaders in pushing for Jesus' crucifixion within the context of the Roman occupation is significant for grasping the broader implications of Jesus' sacrifice.
+
+[&lt;- Link to Answer](../Role_of_Jewish_Leaders.md)

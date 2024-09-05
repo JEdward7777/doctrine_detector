@@ -25,3 +25,5 @@ Ultimately, the term "manna" symbolizes God's ongoing faithfulness and provision
 Grade: 90
 
 Comment: The response provides a thorough explanation of how the term "manna" symbolizes God's provision for His people both in the Old Testament with the Israelites and in the New Testament through Jesus Christ. It effectively connects the concept of manna to the ongoing provision and faithfulness of God in the lives of believers. The only room for improvement would be to include more explicit references to Scripture to strengthen the biblical foundation of the analysis.
+
+[&lt;- Link to Answer](../Symbolism_of_Manna.md)

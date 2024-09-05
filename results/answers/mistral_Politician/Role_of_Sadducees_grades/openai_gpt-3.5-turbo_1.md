@@ -27,3 +27,5 @@ Exploring the historical context of religious leadership in the time of Jesus.
 Grade: 90
 
 Comment: The response provides a thorough explanation of the main responsibilities of the Sadducees during the Second Temple Period, specifically in relation to managing the Jerusalem Temple, its rituals, and sacrificial system. The additional details on the Sadducees' collaboration with Roman authorities and their role in maintaining social order demonstrate a good understanding of the historical context of religious leadership during the time of Jesus. The response could have further emphasized the religious significance and implications of the Sadducees' responsibilities in the context of Judaism and their interactions with other Jewish sects, such as the Pharisees.
+
+[&lt;- Link to Answer](../Role_of_Sadducees.md)

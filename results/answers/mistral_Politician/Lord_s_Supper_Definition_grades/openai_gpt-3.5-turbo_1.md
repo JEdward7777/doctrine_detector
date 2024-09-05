@@ -21,3 +21,5 @@ Understanding the meaning and significance of the Lord’s Supper in Christian f
 Grade: 90
 
 Comment: The response provides a clear and accurate explanation of the significance of the Lord's Supper in Christian faith, specifically connecting it to the Passover meal Jesus shared with his disciples. It effectively conveys the sacrificial aspect of Jesus' body and blood in the context of sin atonement. The only slight deduction in points is due to the response not explicitly mentioning the command to remember Jesus until his return, which further highlights the ongoing importance of the Lord's Supper in the Christian faith.
+
+[&lt;- Link to Answer](../Lord_s_Supper_Definition.md)

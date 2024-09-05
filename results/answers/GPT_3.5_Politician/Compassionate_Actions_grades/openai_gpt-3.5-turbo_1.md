@@ -29,3 +29,5 @@ These examples highlight the importance of showing kindness and empathy towards 
 Grade: 90
 
 Comment: The response provides a solid understanding of biblical examples of compassion, offering appropriate examples and demonstrating how these narratives can be applied to real-life situations. The examples given effectively illustrate the concept of compassion as modeled by biblical figures.
+
+[&lt;- Link to Answer](../Compassionate_Actions.md)

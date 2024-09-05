@@ -32,3 +32,5 @@ Was this helpful, my brother?
 Grade: 60
 
 Comment: The response provides a good effort in identifying service roles within the Islamic tradition that share similarities with the Christian concept of a deacon. While the terms and roles mentioned are relevant and informative, the connection to the concern of recognizing service roles within the church could have been strengthened by directly addressing how these roles reflect the values and practices of service and ministry in a Christian context. Overall, the response offers valuable insight into Islamic perspectives on service roles, but it could have been more directly linked to the specific concern provided.
+
+[&lt;- Link to Answer](../Terminology.md)

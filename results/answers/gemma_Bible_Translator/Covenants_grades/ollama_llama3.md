@@ -69,3 +69,5 @@ The response does an excellent job of emphasizing God's faithfulness and love fo
 However, the response could be strengthened by more explicit connections between the different biblical covenants and their role in revealing God's overarching plan of redemption. Some additional analysis or discussion on this topic would help to further illustrate the continuity of God's promises and the narrative of redemption.
 
 Overall, I believe this response demonstrates a strong understanding of the significance of biblical covenants in the broader narrative of the Bible and deserves a grade of 85.
+
+[&lt;- Link to Answer](../Covenants.md)

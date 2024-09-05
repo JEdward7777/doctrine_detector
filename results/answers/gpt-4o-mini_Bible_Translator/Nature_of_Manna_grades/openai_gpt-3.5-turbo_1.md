@@ -27,3 +27,5 @@ In summary, manna is portrayed as a small, white food with a taste reminiscent o
 Grade: 90
 
 Comment: The response accurately describes the appearance and taste of manna based on biblical references. It demonstrates a good understanding of the miraculous provision of God in providing manna to the Israelites. The response could have been enhanced by delving deeper into the significance of God's provision of manna in sustaining His people during their time in the wilderness.
+
+[&lt;- Link to Answer](../Nature_of_Manna.md)

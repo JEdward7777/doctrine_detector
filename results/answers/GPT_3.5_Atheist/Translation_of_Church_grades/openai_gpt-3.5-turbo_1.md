@@ -21,3 +21,5 @@ When translating the term 'church' into a culturally retributed context, one mig
 Grade: 85
 
 Comment: The response provided offers accurate and appropriate translations that maintain the inclusive nature of the church by emphasizing terms like 'gathering together', 'assembly', and 'congregation'. These translations effectively convey the idea that the church is comprised of all believers, not just a select group. The concern regarding the accurate representation of the church's inclusive nature in translations is adequately addressed in the response.
+
+[&lt;- Link to Answer](../Translation_of_Church.md)

@@ -25,3 +25,5 @@ This event is significant in Christian history because it marks the completion o
 Grade: 90
 
 Comment: The response provides a clear and accurate explanation of the selection of Matthias to replace Judas Iscariot, in line with Christian tradition as recorded in the New Testament. It addresses the concern of recognizing the continuity of apostolic leadership after Jesus' ascension by highlighting the significance of Matthias' selection in maintaining the original twelve apostles. The only aspect that could have been improved is a more explicit connection to the divine guidance in the selection process.
+
+[&lt;- Link to Answer](../Replacement_of_Judas.md)

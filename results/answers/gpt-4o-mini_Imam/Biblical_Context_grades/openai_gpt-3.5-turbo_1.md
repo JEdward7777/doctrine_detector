@@ -31,3 +31,5 @@ In summary, deacons are appointed to serve the church by managing practical matt
 Grade: 90
 
 Comment: The response provides a well-rounded explanation of the role of deacons in the New Testament, incorporating relevant biblical passages and emphasizing the importance of fair treatment and care within the church community. The explanation aligns with Christian teachings on the responsibilities and qualifications of deacons, offering a solid understanding of their role in serving and supporting the church.
+
+[&lt;- Link to Answer](../Biblical_Context.md)

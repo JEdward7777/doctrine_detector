@@ -25,3 +25,5 @@ Lastly, the existence of hell serves as a reminder of the seriousness of sin and
 Grade: 90
 
 Comment: The response provides a comprehensive explanation of how the concept of eternal punishment in hell reflects God's justice according to Christian theology. It addresses the concern by emphasizing the balance between divine justice and mercy in relation to eternal consequences. The understanding of the theological implications is clear and effectively communicated.
+
+[&lt;- Link to Answer](../Eternal_Punishment.md)

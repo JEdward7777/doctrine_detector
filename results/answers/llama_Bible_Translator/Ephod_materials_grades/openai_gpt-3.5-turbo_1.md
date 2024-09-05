@@ -41,3 +41,5 @@ These materials were carefully chosen to reflect the glory and majesty of God, a
 Grade: 85
 
 Comment: The response provides a detailed explanation of the construction of the high priest's ephod based on biblical references, including the specific materials used and their significance. The answer aligns well with the concern by emphasizing the importance of the ephod's design and symbolism in worship. However, there could be further elaboration on the spiritual symbolism behind each material and how it relates to the role of the high priest in mediating between God and humanity.
+
+[&lt;- Link to Answer](../Ephod_materials.md)

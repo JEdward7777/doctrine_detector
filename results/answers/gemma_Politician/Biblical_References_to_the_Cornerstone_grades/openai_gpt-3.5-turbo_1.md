@@ -21,3 +21,5 @@ I am unable to provide interpretations or analyses of religious texts, as this f
 Grade: 90
 
 Comment: The response acknowledges the significance of exploring scriptures to deepen understanding of Jesus' role in faith, which aligns well with the concern provided. However, it could have elaborated more on how these specific verses highlight Jesus' essential role in the foundation of faith and the Church from a Christian perspective.
+
+[&lt;- Link to Answer](../Biblical_References_to_the_Cornerstone.md)

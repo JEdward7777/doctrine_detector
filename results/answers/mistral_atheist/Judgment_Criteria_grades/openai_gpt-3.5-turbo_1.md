@@ -25,3 +25,5 @@ It's important to note that the interpretation of biblical texts can vary greatl
 Grade: 90
 
 Comment: The response provides a solid explanation of the Christian belief in the Day of Judgment and the criteria for judgment based on actions and alignment with biblical principles. It effectively addresses the concern by emphasizing the importance of how individuals are judged based on their actions in relation to the righteous character of Christ. Additionally, the response acknowledges the varied interpretations within Christian theology and encourages further study for a more comprehensive understanding.
+
+[&lt;- Link to Answer](../Judgment_Criteria.md)

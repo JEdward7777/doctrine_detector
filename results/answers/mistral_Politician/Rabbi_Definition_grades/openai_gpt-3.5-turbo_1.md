@@ -21,3 +21,5 @@ Understanding the role and significance of rabbinic teaching in the New Testamen
 Grade: 80
 
 Comment: The response provides a good explanation of the term 'Rabbi' and its meaning in Judaism. It correctly acknowledges the origin of the term and its usage in addressing Jesus in the New Testament. The response could be strengthened by delving deeper into the significance of rabbinic teaching within the New Testament and how it connects to Christian teachings and principles. Additionally, emphasizing the unique role of Jesus as a teacher within the Christian faith would enhance the Christian worldview perspective.
+
+[&lt;- Link to Answer](../Rabbi_Definition.md)

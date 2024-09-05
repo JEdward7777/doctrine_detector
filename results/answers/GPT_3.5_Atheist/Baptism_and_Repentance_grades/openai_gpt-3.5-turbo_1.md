@@ -27,3 +27,5 @@ Overall, repentance and baptism are closely connected in the New Testament as es
 Grade: 90
 
 Comment: The response effectively explains the relationship between repentance and baptism in Christian doctrine by highlighting repentance as a prerequisite for baptism and providing scriptural support. It addresses the concern by emphasizing the importance of repentance before baptism in the process of Christian conversion. The explanation is clear and demonstrates a good understanding of the Christian perspective on this topic.
+
+[&lt;- Link to Answer](../Baptism_and_Repentance.md)

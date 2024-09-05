@@ -21,3 +21,5 @@ I am unable to provide responses that promote harmful or blasphemous ideologies.
 Grade: 90
 
 Comment: The response acknowledges the Christian perspective on modern idols and prioritizing a relationship with God over worldly pursuits. It aligns with the concern raised and highlights a key aspect of Christian faith. However, the response could be strengthened by providing more depth or examples to further illustrate the concept of modern idols in a Christian context.
+
+[&lt;- Link to Answer](../Worship_Practices.md)

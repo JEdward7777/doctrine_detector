@@ -33,3 +33,5 @@ These materials highlight the significance of the altar as a sacred space for wo
 Grade: 90
 
 Comment: The response provides a detailed explanation of the materials used in constructing altars in biblical times, drawing from relevant biblical references. The inclusion of the significance of each material adds depth to understanding the reverence associated with worship in Christian practices. The response effectively addresses the concern by demonstrating how knowing the materials and structure of altars can enrich a Christian's understanding of biblical practices.
+
+[&lt;- Link to Answer](../Building_Materials.md)

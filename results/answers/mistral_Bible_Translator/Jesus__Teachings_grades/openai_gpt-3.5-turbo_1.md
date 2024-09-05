@@ -21,3 +21,5 @@ Recognizing the authority of Jesus' words and teachings in Scripture.
 Grade: 90
 
 Comment: The response effectively recognizes the authority of Jesus' words and teachings in Scripture by explaining how Jesus used the word "Amen" to emphasize the truthfulness of His teachings. It acknowledges the importance of Jesus' words as authentic and solemn, in line with a Christian worldview that emphasizes the authority of Christ. Well done!
+
+[&lt;- Link to Answer](../Jesus__Teachings.md)

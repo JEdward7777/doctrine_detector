@@ -21,3 +21,5 @@ In Islamic tradition, 'manna' is known as 'man', one of the foods mentioned in t
 Grade: 90
 
 Comment: The response effectively expands on the initial answer by emphasizing the belief in God's ongoing provision for believers, connecting the historical significance of manna in Islamic tradition to its relevance in present-day faith. The student demonstrates a strong understanding of the concept and effectively addresses the concern of recognizing God's continuous care for His people.
+
+[&lt;- Link to Answer](../Symbolism_of_Manna.md)

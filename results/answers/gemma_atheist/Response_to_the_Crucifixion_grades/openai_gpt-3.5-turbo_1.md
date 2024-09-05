@@ -21,3 +21,5 @@ The provided text does not contain any information regarding Peter's response to
 Grade: 90
 
 Comment: The response accurately captures the essence of Peter's message to the crowd regarding their role in the crucifixion and the call to respond to the gospel. The student correctly highlights Peter's emphasis on repentance, faith, and the resurrection of Jesus. The only reason the grade is not higher is due to the initial response stating a lack of information in the provided text, when biblical knowledge and context should have been used to infer a response.
+
+[&lt;- Link to Answer](../Response_to_the_Crucifixion.md)

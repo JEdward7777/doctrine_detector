@@ -21,3 +21,5 @@ As a politician striving to be politically correct, I would like to emphasize th
 Grade: 90
 
 Comment: The response effectively addresses the concern by clearly outlining actions considered abominations by God according to scripture. It emphasizes the importance for Christians to understand and abide by God's will as outlined in the Bible. The response promotes a Christian worldview without downplaying the significance of moral principles in light of cultural diversity.
+
+[&lt;- Link to Answer](../Understanding_Abomination.md)

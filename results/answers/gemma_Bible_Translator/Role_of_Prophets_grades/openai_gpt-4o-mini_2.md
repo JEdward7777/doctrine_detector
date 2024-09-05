@@ -49,3 +49,5 @@ Understanding the biblical role of prophets and their messages.
 Grade: 90
 
 Comment: The response provides a comprehensive and accurate overview of the primary role of a prophet according to the Bible. It aligns well with the Christian worldview by emphasizing the communication of God's messages, the call to repentance, and adherence to God's will. The response effectively addresses the concern regarding understanding the biblical role of prophets and their messages by expanding on the key aspects of a prophet's role and characteristics.
+
+[&lt;- Link to Answer](../Role_of_Prophets.md)

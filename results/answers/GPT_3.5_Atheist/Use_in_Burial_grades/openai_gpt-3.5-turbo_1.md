@@ -21,3 +21,5 @@ In biblical times, myrrh was commonly used in burial practices as part of the em
 Grade: 85
 
 Comment: The response accurately acknowledges the significance of myrrh in the burial practices of biblical times, emphasizing its role in anointing the deceased and showing respect. The student effectively incorporates the concern about recognizing customs surrounding burial practices to understand cultural contexts in scripture. This response demonstrates a good understanding of the topic from a Christian worldview perspective.
+
+[&lt;- Link to Answer](../Use_in_Burial.md)

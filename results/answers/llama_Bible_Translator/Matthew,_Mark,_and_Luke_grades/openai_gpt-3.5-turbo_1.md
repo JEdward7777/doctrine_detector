@@ -75,3 +75,5 @@ It's worth noting that Judas Iscariot is omitted from Luke's list, as he had bet
 Grade: 90
 
 Comment: The response provides an accurate and detailed comparison of the lists of the twelve apostles/disciples as presented in Matthew, Mark, and Luke, showing a strong understanding of the Gospel accounts and their teachings. The explanation of Judas Iscariot's omission from Luke's list and replacement by Matthias demonstrates a good grasp of the theological nuances in the texts. Great work overall!
+
+[&lt;- Link to Answer](../Matthew,_Mark,_and_Luke.md)

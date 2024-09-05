@@ -27,3 +27,5 @@ In summary, 'unfaithful' in the context of marriage signifies a serious violatio
 Grade: 90
 
 Comment: The response provides a thorough explanation of the concept of 'unfaithful' within the context of marriage in Islam, emphasizing the importance of loyalty and faithfulness between spouses. It effectively links the idea of unfaithfulness in marriage to spiritual commitments, highlighting the parallels between marital trust and faithfulness to God. The content demonstrates a strong understanding of the concern provided, drawing meaningful connections between loyalty in marriage and spiritual commitments.
+
+[&lt;- Link to Answer](../Adultery_and_Unfaithfulness.md)

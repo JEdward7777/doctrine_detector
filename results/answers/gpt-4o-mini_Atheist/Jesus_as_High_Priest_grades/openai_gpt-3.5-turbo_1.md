@@ -31,3 +31,5 @@ In summary, Jesus' reference as the High Priest signifies a transformation in th
 Grade: 95
 
 Comment: The response provides a comprehensive understanding of the significance of Jesus' role as the High Priest in the context of Christian theology. It effectively articulates key points such as Jesus' unique and eternal priesthood in the order of Melchizedek, the transformative nature of his sacrifice, the implications for human priests, and the role of mediation. The explanation is clear, insightful, and reflects a deep understanding of Jesus' role in the priesthood within Christian belief. Great job!
+
+[&lt;- Link to Answer](../Jesus_as_High_Priest.md)

@@ -21,3 +21,5 @@ In Jewish tradition, the Sabbath, known as Shabbat, begins at sunset on Friday a
 Grade: 80
 
 Comment: The response overall accurately reflects the timeframe for the observance of the Sabbath according to Biblical teaching. The student correctly identifies that the Sabbath begins on Friday at sundown and ends on Saturday at sundown, aligning with the traditional Jewish practice based on the biblical narrative of God resting on the seventh day. However, the response could have elaborated more on the significance of this specific timeframe in the context of the creation narrative and the importance of rest and worship during the Sabbath.
+
+[&lt;- Link to Answer](../Sabbath_Timing.md)

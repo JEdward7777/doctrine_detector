@@ -23,3 +23,5 @@ This passage clearly distinguishes between worshiping the one true God and worsh
 Grade: 85
 
 Comment: The response effectively references the correct passage and provides a clear explanation of the contrast between worshiping the one true God and worshiping idols. The response directly addresses the concern by emphasizing the importance of avoiding idolatry and remaining faithful to God's commands in worship. Overall, a strong understanding of the biblical concept of worship and idolatry is demonstrated in the response.
+
+[&lt;- Link to Answer](../Biblical_Examples_of_Worship.md)

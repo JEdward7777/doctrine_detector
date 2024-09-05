@@ -33,3 +33,5 @@ May Allah (SWT) guide us in our understanding of His sacred scriptures.
 Grade: 70
 
 Comment: The response accurately states the location of the Ark of the Covenant in the most holy place within the Tabernacle. It correctly addresses the significance of the most holy place as a sacred space reserved for the presence of God. The response could have elaborated more on the theological importance of the Ark and the symbolism of the mercy seat in relation to God's presence among His people. Overall, a solid understanding is demonstrated, but further depth and insight could have been provided.
+
+[&lt;- Link to Answer](../Ark_Location.md)

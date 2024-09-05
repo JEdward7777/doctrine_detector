@@ -31,3 +31,5 @@ These verses emphasize the importance of forgiveness among individuals and stres
 Grade: 95
 
 Comment: The response effectively identifies key verses that support the practice of forgiveness among believers, referencing important passages such as Matthew 6:14-15, Ephesians 4:32, and Colossians 3:13. This demonstrates a sound understanding of the Christian worldview on forgiveness based on scripture. Great job!
+
+[&lt;- Link to Answer](../Biblical_Basis_for_Forgiveness.md)

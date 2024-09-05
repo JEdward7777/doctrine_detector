@@ -23,3 +23,5 @@ The symbolism of manna lies in its provision as a reminder of God's faithfulness
 Grade: 95
 
 Comment: The response provides a thorough explanation of the symbolism of manna in the Christian faith, connecting it to God's ongoing provision for believers. It effectively illustrates how manna serves as a reminder of God's faithfulness and care. The tie-in to Jesus as the "Bread of Life" further enhances the understanding of God's continuous sustenance for His people. The response shows a strong grasp of recognizing God's ongoing provision in the lives of believers within a Christian worldview.
+
+[&lt;- Link to Answer](../Symbolism_of_Manna.md)

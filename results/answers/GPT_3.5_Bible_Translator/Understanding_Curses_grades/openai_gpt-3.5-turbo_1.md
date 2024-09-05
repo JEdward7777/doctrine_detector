@@ -27,3 +27,5 @@ Ultimately, cursing others goes against the teachings of Jesus to love our neigh
 Grade: 95
 
 Comment: The response effectively uses additional Biblical passages such as Proverbs 18:21 and Matthew 12:36-37 to further emphasize the importance of aligning our words with God's teachings. It provides a clear explanation of the spiritual consequences of cursing and the responsibility Christians have to use their speech wisely. The integration of these verses enhances the original answer and showcases a strong understanding of the implications of our words in light of Christian teachings.
+
+[&lt;- Link to Answer](../Understanding_Curses.md)

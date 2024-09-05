@@ -40,3 +40,5 @@ Grade: 95
 
 Comment: This response provides a comprehensive explanation of both conditional and unconditional covenants in the Bible, using specific examples to illustrate the differences. The student accurately presents the concept of conditional covenants requiring obedience from the people and ties it back to the covenant at Sinai mentioned in the original answer. The response demonstrates a deep understanding of the dynamics of God's promises and expectations in covenants from a Christian worldview.
 
+
+[&lt;- Link to Answer](../Covenant_Conditions.md)

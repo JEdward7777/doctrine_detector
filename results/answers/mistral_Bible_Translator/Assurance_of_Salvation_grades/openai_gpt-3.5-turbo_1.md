@@ -29,3 +29,5 @@ So, for those who believe in Jesus, they can have the assurance of eternal life 
 Grade: 95
 
 Comment: The response provides a comprehensive and scriptural explanation of how believers can have assurance of salvation through faith in Jesus Christ. It effectively addresses the concern by citing relevant Bible verses and emphasizing that salvation is based on God's promises and grace, not on human works. The integration of multiple passages from the Bible reinforces the argument and demonstrates a strong foundation in the Christian faith. Great job!
+
+[&lt;- Link to Answer](../Assurance_of_Salvation.md)

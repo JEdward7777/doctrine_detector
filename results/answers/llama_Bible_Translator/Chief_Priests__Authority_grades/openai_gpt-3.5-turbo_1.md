@@ -38,3 +38,5 @@ It's worth noting that this distinction is also reflected in Jesus' interactions
 Grade: 95
 
 Comment: This response provides a comprehensive and detailed explanation of the roles and responsibilities of the chief priests and ordinary priests in ancient Israel, specifically focusing on their hierarchical structure and functions within temple affairs. The response effectively addresses the concern regarding the structure of religious leadership in ancient Israel, drawing from both biblical sources and historical context. Additionally, the inclusion of Jesus' interactions with different types of priests adds depth to the analysis. Overall, this is a well-researched and well-articulated response within a Christian worldview.
+
+[&lt;- Link to Answer](../Chief_Priests__Authority.md)

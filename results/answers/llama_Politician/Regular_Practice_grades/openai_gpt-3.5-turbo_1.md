@@ -29,3 +29,5 @@ In conclusion, by establishing the Lord's Supper, Paul was not only honoring Jes
 Grade: 60
 
 Comment: The response starts off on a positive note by acknowledging the significance of the Lord's Supper in creating community and unity among believers. However, it veers off-course by downplaying the specific theological significance of the Lord's Supper as a remembrance of Jesus Christ's death and resurrection. The response focuses more on inclusivity and shared humanity rather than the foundational Christian beliefs tied to the practice. This dilution of the theological essence of the Lord's Supper detracts from its true importance in the life of the church and individual believers from a Christian worldview.
+
+[&lt;- Link to Answer](../Regular_Practice.md)

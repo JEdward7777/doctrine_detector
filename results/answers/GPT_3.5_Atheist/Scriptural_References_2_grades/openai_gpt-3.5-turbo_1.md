@@ -31,3 +31,5 @@ These passages illustrate the belief in a final day of judgment where individual
 Grade: 90
 
 Comment: The response effectively incorporates key passages related to judgment from Luke and Matthew, adding to the scriptural basis for beliefs and deepening the understanding of the concept of judgment in the Bible. The additional passages provided complement the initial answer and contribute to a well-rounded explanation.
+
+[&lt;- Link to Answer](../Scriptural_References_2.md)

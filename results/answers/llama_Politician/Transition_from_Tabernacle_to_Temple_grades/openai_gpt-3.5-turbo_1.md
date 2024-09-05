@@ -33,3 +33,5 @@ So while the Israelites may have stopped using the tabernacle in the classical s
 Grade: 90
 
 Comment: The response provides a thorough explanation of the transition in worship practices from the tabernacle to the temple, highlighting the significance of both structures and their roles in Israelite worship and spirituality. The student demonstrates a strong understanding of the historical context and theological implications of this transition from a Christian worldview.
+
+[&lt;- Link to Answer](../Transition_from_Tabernacle_to_Temple.md)

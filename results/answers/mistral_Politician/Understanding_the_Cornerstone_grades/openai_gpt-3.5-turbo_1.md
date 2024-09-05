@@ -21,3 +21,5 @@ Understanding the significance of Christ's role in the church can impact a belie
 Grade: 70
 
 Comment: The response acknowledges the significance of Jesus Christ as the foundational support for the Assembly, which aligns well with the provided answer. However, the concern specified the impact of understanding Christ's role on faith and community involvement, and the response does not directly address this aspect. The mention of fostering inclusivity is commendable, but a stronger connection to the specified concern would have improved the grade.
+
+[&lt;- Link to Answer](../Understanding_the_Cornerstone.md)

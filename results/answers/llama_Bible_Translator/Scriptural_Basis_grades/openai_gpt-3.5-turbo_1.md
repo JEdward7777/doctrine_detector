@@ -29,3 +29,5 @@ These verses and others throughout Scripture demonstrate that propitiation is an
 Grade: 95
 
 Comment: The response provides a comprehensive explanation of propitiation and its biblical basis, incorporating key verses that highlight Jesus as the propitiation for our sins. The inclusion of additional verses and explanations further enriches the understanding of this theological concept. Overall, a well-supported and insightful response from a Christian worldview perspective.
+
+[&lt;- Link to Answer](../Scriptural_Basis.md)

@@ -21,3 +21,5 @@ The historical accounts of Peter's interactions do not provide any information r
 Grade: 60
 
 Comment: The response correctly identifies the call to repentance and faith in the gospel as emphasized in early church preaching, aligning with Christian beliefs. However, the initial response lacked a direct reference to Peter's specific message to the crowd, which is essential to fully addressing the concern. Improving the connection between the provided answer and the specified concern would result in a higher grade.
+
+[&lt;- Link to Answer](../Response_to_the_Crucifixion.md)

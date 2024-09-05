@@ -29,3 +29,5 @@ Remember that these terms are not direct equivalents of the word "deacon," but t
 Grade: 85
 
 Comment: The response provides a thoughtful and respectful approach in offering alternative terms for describing a deacon in a non-religious context. It recognizes the importance of cultural sensitivity and acknowledges the diverse ways service roles within the church can be identified. The response effectively expands on the given answer by providing additional options and explanations for each term. Overall, it demonstrates a good understanding of the concern raised.
+
+[&lt;- Link to Answer](../Terminology.md)

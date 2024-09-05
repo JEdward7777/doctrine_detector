@@ -25,3 +25,5 @@ So while the term "Christ" is related to Jesus in Christian belief, its connotat
 Grade: 70
 
 Comment: The response provides a good explanation of the difference in beliefs about Jesus between Christianity and Islam, but it could have further emphasized the Christian perspective on Jesus as the Messiah and Son of God. It could have included more scriptural basis and doctrinal teachings to clarify Jesus's identity as the Messiah and its significance in Christianity.
+
+[&lt;- Link to Answer](../The_Messiah.md)

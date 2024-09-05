@@ -48,3 +48,5 @@ The authority of the apostles is essential to both their miraculous powers and t
 Grade: 90
 
 Comment: The response provides a strong explanation of the divine empowerment and authority bestowed upon the apostles for ministry, supported by relevant biblical references. The interconnected nature of apostolic authority in performing miracles and preaching boldly is well articulated, showcasing a clear understanding of the topic from a Christian perspective. The response effectively addresses the concern raised and presents a cohesive argument on the authority of the apostles in their ministry.
+
+[&lt;- Link to Answer](../Authority_of_Apostles.md)

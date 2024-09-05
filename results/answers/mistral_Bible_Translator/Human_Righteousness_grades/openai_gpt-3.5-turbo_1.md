@@ -25,3 +25,5 @@ This concept is often described as justification by faith alone, or sola fide, o
 Grade: 95
 
 Comment: The response provides a detailed explanation of how a person can be declared righteous through faith in Jesus Christ according to Christian theology, rooted in key biblical verses. It addresses the concern by clearly outlining the basis for human righteousness as it relates to faith in Jesus for understanding salvation. The incorporation of the concept of justification by faith alone and the role of good works as evidence of faith adds depth to the explanation. Overall, this response effectively communicates the Christian worldview on righteousness through faith in Jesus.
+
+[&lt;- Link to Answer](../Human_Righteousness.md)

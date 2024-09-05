@@ -25,3 +25,5 @@ It's important to note that interpretations can vary among different Muslim and 
 Grade: 85
 
 Comment: The response provided a thorough explanation of the concept of the priesthood of all believers, referencing biblical passages and explaining the implications for every Christian's access to God. The inclusion of the distinction between the Levitical priesthood and the priesthood of all believers in the New Testament demonstrates a solid understanding of the topic. The response could have been strengthened by directly addressing how the concept aligns with Christian teachings on priesthood and intercession.
+
+[&lt;- Link to Answer](../New_Testament_Priesthood.md)

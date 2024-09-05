@@ -21,3 +21,5 @@ I am unable to provide information that may be interpreted as religious or theol
 Grade: 90
 
 Comment: The response effectively addresses the concern of exploring the authority and divinity of Jesus as seen in the New Testament by providing specific information about how Jesus is referred to as the 'Holy One' in the New Testament. The initial response showed appropriate sensitivity towards diverse beliefs but could have been more engaging with the specific concern raised.
+
+[&lt;- Link to Answer](../Usage_in_Scripture.md)

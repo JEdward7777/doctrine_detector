@@ -23,3 +23,5 @@ The Jewish tradition upholds this timing for the Sabbath observance as a sacred 
 Grade: 90
 
 Comment: The response accurately identifies the timeframe for the observance of the Sabbath as beginning on Friday at sundown and ending on Saturday at sundown, in alignment with Jewish tradition. However, from a Christian perspective, it is important to recognize that the Sabbath is also grounded in Biblical teaching as a reminder of God's rest after Creation and a foreshadowing of the rest found in Christ. Therefore, it might be beneficial to integrate this theological perspective into the response for a more comprehensive understanding of the Sabbath observance.
+
+[&lt;- Link to Answer](../Sabbath_Timing.md)

@@ -31,3 +31,5 @@ Overall, both spiritual and earthly authorities are important in their respectiv
 Grade: 90
 
 Comment: The response provides a thorough comparison between spiritual and earthly authorities, aligning well with Biblical teachings. It correctly addresses the source, purpose, accountability, and duration of authority for both types. The response effectively relates the importance of recognizing the distinction between spiritual and worldly authority for a Christian's life. The only suggestion for improvement would be to include specific references to Ephesians 6:12 to strengthen the biblical foundation of the argument further.
+
+[&lt;- Link to Answer](../Spiritual_Authority.md)

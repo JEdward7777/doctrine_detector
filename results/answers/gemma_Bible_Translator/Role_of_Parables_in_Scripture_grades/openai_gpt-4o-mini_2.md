@@ -37,3 +37,5 @@ The prophet Nathan utilized a parable in his confrontation with King David by:
 Grade: 95
 
 Comment: The response provides a thorough and insightful analysis of how the prophet Nathan utilized a parable to address King David's sinfulness, hardness of heart, communicate God's judgment, and offer a way of reconciliation. It effectively demonstrates an understanding of the use of parables as a means of correction and revelation in biblical narratives from a Christian worldview. Great job!
+
+[&lt;- Link to Answer](../Role_of_Parables_in_Scripture.md)

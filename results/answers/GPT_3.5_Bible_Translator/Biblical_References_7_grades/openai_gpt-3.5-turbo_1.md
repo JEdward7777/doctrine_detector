@@ -29,3 +29,5 @@ These verses emphasize the importance of observing the Sabbath as a day of rest 
 Grade: 90
 
 Comment: The response provided a strong selection of Bible references (Exodus 20:8-11, Mark 2:27-28, Hebrews 4:9-10) that clearly emphasize the significance of the Sabbath in the Christian faith. The verses cited effectively illustrated the command to observe the Sabbath and its purpose as a day of rest and worship, aligning well with Christian teachings. The student demonstrated a good understanding of the scriptural backing for Sabbath observance and its relevance in the Christian faith.
+
+[&lt;- Link to Answer](../Biblical_References_7.md)

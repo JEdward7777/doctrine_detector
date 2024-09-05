@@ -21,3 +21,5 @@ In the New Testament, the primary purpose of exhortation is to encourage and mot
 Grade: 80
 
 Comment: The response provides a solid understanding of the primary purpose of exhortation in the context of encouraging individuals in their faith journey and motivating them towards righteous living. It effectively captures the essence of exhortation as a means of fostering unity, providing comfort, and inspiring acts of love and service within the Christian community. However, there is room for improvement in explicitly connecting this understanding to the biblical basis for encouraging others in their faith journey by incorporating specific references or teachings from the Bible.
+
+[&lt;- Link to Answer](../Purpose_of_Exhortation.md)

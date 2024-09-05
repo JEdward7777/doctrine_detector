@@ -29,3 +29,5 @@ While these passages do not provide a precise answer to when Jesus' followers st
 Grade: 90
 
 Comment: The response provides a detailed explanation of the historical context and significance of the term "Christian," referencing relevant passages from the New Testament. It accurately acknowledges that the term was first used by non-Christian outsiders in the city of Antioch. The focus on the historical context adds depth to the understanding of when and how the term "Christian" originated.
+
+[&lt;- Link to Answer](../Origin_of_the_Term.md)

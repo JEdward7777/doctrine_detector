@@ -27,3 +27,5 @@ At the end of the day, a deacon's role is multifaceted and, dare I say it, divin
 Grade: 40
 
 Comment: This response lacks a clear understanding of the biblical role of servanthood in the church. While the response touches on the practical aspects of a deacon helping with practical needs, it fails to emphasize the biblical foundation of servanthood and misses the opportunity to talk about the spiritual aspect of serving others in the context of faith. The nervous and hesitant tone detracts from the clarity and conviction needed to convey a strong Christian perspective on the role of a deacon.
+
+[&lt;- Link to Answer](../Deacon_Definition.md)

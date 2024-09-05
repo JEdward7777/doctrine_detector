@@ -21,3 +21,5 @@ The Festival of Weeks is also known as Pentecost, which is celebrated 50 days af
 Grade: 80
 
 Comment: The response provides a good overview of the Festival of Weeks (Pentecost) with a clear explanation of its significance as the birth of the Christian church and the empowering of the disciples by the Holy Spirit. However, the response could have included more specific references to the scriptural basis for the observance and significance of Pentecost, such as Acts 2, which is central to understanding its importance in the Christian faith.
+
+[&lt;- Link to Answer](../Biblical_References_to_Pentecost.md)

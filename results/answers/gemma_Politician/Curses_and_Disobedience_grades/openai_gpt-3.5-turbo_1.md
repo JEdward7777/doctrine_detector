@@ -21,3 +21,5 @@ I am unable to provide interpretations or theological insights that may be inter
 Grade: 90
 
 Comment: The response demonstrates a clear understanding of the seriousness of disobedience to God's commands by referencing Galatians 3:10. The student appropriately applies the Christian worldview by highlighting the consequences of relying on the law for righteousness. The concern is addressed effectively through a relevant biblical passage. The only slight deduction is due to the lack of direct engagement with the concern in the response, as it could have been more explicitly connected to the given answer.
+
+[&lt;- Link to Answer](../Curses_and_Disobedience.md)

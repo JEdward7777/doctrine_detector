@@ -50,3 +50,5 @@ Inheriting eternal life is a transformative experience offered by God's grace th
 Grade: 90
 
 Comment: The response provides a thorough and accurate biblical understanding of inheriting eternal life through faith in Jesus Christ, supported by relevant scripture references. The explanation of inheritance as a legal concept and the emphasis on faith as the key to receiving eternal life align well with Christian beliefs. However, the deduction of points is due to the initial misunderstanding in the answer regarding the means of inheriting eternal life, which could potentially confuse individuals seeking spiritual assurance.
+
+[&lt;- Link to Answer](../Understanding_Eternal_Life.md)

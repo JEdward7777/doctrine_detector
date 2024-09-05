@@ -39,3 +39,5 @@ It is essential to approach these matters with wisdom, patience, and humility. I
 Grade: 90
 
 Comment: The response provides a thorough explanation from an Islamic perspective on distinguishing true prophetic voices from false ones, based on the alignment of messages with Islamic principles, consistency in teachings and actions, followers' adherence, miracles, prophecies, character, support from previous scriptures, and people's reactions. The response acknowledges the importance of seeking guidance from scholars when in doubt. The answer aligns well with the specific concern of discerning true prophetic voices from misleading ones, providing a solid foundation for evaluation based on Islamic teachings.
+
+[&lt;- Link to Answer](../True_vs_False_Prophets.md)

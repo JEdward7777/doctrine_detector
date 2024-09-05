@@ -23,3 +23,5 @@ The Bible teaches that God instructed the Israelites to abstain from leavened br
 Grade: 90
 
 Comment: The response effectively explains the significance of the Israelites eating unleavened bread during their escape from Egypt as instructed by God. It accurately connects this practice to the historical event of their deliverance from slavery. The only improvement could be providing a bit more detail on the biblical account or theological significance of this practice.
+
+[&lt;- Link to Answer](../Historical_Context_2.md)

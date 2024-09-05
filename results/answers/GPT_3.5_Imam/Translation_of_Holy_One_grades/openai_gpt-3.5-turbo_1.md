@@ -30,3 +30,5 @@ These translations aim to convey the sacred and pure essence associated with the
 Grade: 90
 
 Comment: The response provides accurate translations of the term "Holy One" in various languages and ensures that the theological implications of holiness are maintained. The focus on accurately representing the term in translations aligns well with the concern raised, supporting a Christian worldview where conveying the sacred and pure essence of God is crucial.
+
+[&lt;- Link to Answer](../Translation_of_Holy_One.md)

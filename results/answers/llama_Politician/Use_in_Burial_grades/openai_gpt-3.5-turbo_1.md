@@ -31,3 +31,5 @@ Now, if you'll excuse me, I need to get back to my committee meeting on "Inclusi
 Grade: 75
 
 Comment: The response provides a good explanation of the significance of myrrh in burial practices, highlighting its importance in anointing the deceased. The writer's intention to be respectful and factual is commendable. However, there is some unnecessary humor and self-awareness that detracts from the seriousness of the topic. While it is important to be culturally sensitive, the response could have delved deeper into the Christian perspective on burial practices and the spiritual significance of myrrh.
+
+[&lt;- Link to Answer](../Use_in_Burial.md)

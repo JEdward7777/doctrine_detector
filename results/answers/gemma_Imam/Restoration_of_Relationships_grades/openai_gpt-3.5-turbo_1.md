@@ -46,3 +46,5 @@ Understanding the significance of reconciliation in the Christian faith.
 Grade: 80
 
 Comment: This response provides a thorough explanation of the concept of restoration and forgiveness in the Islamic faith, demonstrating a clear understanding of its principles and practices. However, the grade is slightly lower due to the fact that it does not directly address the concern of understanding the significance of reconciliation in the Christian faith. To improve the grade, the response could have included a comparison or contrast of how restoration and reconciliation are viewed and practiced in Christianity, showing an understanding of Christian beliefs on this topic.
+
+[&lt;- Link to Answer](../Restoration_of_Relationships.md)

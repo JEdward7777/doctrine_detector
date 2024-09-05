@@ -34,3 +34,5 @@ These scriptures highlight the temple as a physical structure where God's presen
 Grade: 95
 
 Comment: The response provided an excellent selection of relevant Old and New Testament scriptures that clearly highlight the temple as the "house of Yahweh." The scriptures presented effectively support the concept of the temple being God's dwelling place, where worship and prayer occurred. The additional reference to 1 Kings 8:44 and 2 Chronicles 6:4 in the student's response further strengthens the argument and demonstrates a comprehensive understanding of the topic. Great job providing a solid basis for discussing the temple in relation to God's house.
+
+[&lt;- Link to Answer](../Biblical_References_to_the_Temple.md)

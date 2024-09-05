@@ -37,3 +37,5 @@ Through this powerful parable, Nathan convicted King David of his sin and led hi
 Grade: 95
 
 Comment: This response provides a thorough and insightful explanation of the use of parables as a means of correction and revelation in biblical narratives, specifically focusing on the story of Nathan confronting King David in 2 Samuel 12. The student effectively describes how the parable was utilized to expose David's sin, draw parallels to his actions, and ultimately lead him to repentance. The analysis is well-supported with relevant biblical references and demonstrates a strong understanding of the topic from a Christian worldview. Great job!
+
+[&lt;- Link to Answer](../Role_of_Parables_in_Scripture.md)

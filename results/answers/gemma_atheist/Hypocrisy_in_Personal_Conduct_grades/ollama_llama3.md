@@ -73,3 +73,5 @@ To improve this response, I would suggest that the author consider adding more d
 Here is a possible comment that could accompany this grade:
 
 "While your response acknowledges the importance of seeking God's guidance and examining one's heart and motives, it would be strengthened by providing more specific strategies for overcoming potential hypocrisy. Additionally, consider how your faith can be expressed in a way that is culturally sensitive and mindful of the impact it may have on others."
+
+[&lt;- Link to Answer](../Hypocrisy_in_Personal_Conduct.md)

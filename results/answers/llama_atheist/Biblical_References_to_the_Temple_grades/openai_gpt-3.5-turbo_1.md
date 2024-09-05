@@ -31,3 +31,5 @@ These scriptures demonstrate that the concept of the "house of Yahweh" was an im
 Grade: 90
 
 Comment: The response provides an excellent analysis of key scriptures that discuss the concept of the temple as the "house of Yahweh" within the Hebrew Bible. By referencing specific verses like 1 Kings 8:44 and 2 Chronicles 6:4, the candidate accurately identifies the relevant passages that highlight the temple's significance as a place of worship and divine presence. Additionally, the additional scriptures provided in the answer further enrich the understanding of this theological concept within the Old Testament. Well done!
+
+[&lt;- Link to Answer](../Biblical_References_to_the_Temple.md)

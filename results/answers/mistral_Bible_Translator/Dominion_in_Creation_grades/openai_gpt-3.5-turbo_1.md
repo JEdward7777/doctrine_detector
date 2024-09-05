@@ -27,3 +27,5 @@ In summary, the Bible teaches that humans were created to have a role of steward
 Grade: 95
 
 Comment: The response provides a comprehensive and well-supported explanation of how humans were given authority over creation and the responsibility to exercise this authority with care and respect. It effectively addresses the concern by incorporating relevant biblical references and teachings, offering a solid Christian perspective on stewardship of the Earth.
+
+[&lt;- Link to Answer](../Dominion_in_Creation.md)

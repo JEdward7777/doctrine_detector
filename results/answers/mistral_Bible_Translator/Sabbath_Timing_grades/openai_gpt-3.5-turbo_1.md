@@ -21,3 +21,5 @@ Recognizing the specific timeframe for the observance of the Sabbath in accordan
 Grade: 90
 
 Comment: The response accurately states the timeframe for the observance of the Sabbath, in alignment with Biblical teaching. It correctly references Leviticus 23:32 and the creation account in Genesis to support the understanding of when the Sabbath begins and ends in Jewish tradition. This response demonstrates a solid understanding of the Biblical basis for the observance of the Sabbath in Judaism.
+
+[&lt;- Link to Answer](../Sabbath_Timing.md)

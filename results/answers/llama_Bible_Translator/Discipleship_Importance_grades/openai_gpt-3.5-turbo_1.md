@@ -39,3 +39,5 @@ What do you think? Do you have any other questions about the apostles or their r
 Grade: 85
 
 Comment: This response provides a comprehensive and well-supported explanation of the selection of the twelve apostles based on biblical references and insights. It demonstrates a good understanding of the significance of the apostles in establishing the foundation of the early Church. The incorporation of specific biblical passages and characteristics of each apostle adds depth to the explanation. However, there could have been a stronger emphasis on highlighting the spiritual calling and divine purpose behind Jesus' selection of the twelve apostles to further align with a Christian worldview.
+
+[&lt;- Link to Answer](../Discipleship_Importance.md)

@@ -31,3 +31,5 @@ Recognizing the role of the high priest in the Israelite's relationship with God
 Grade: 95
 
 Comment: This response is comprehensive and accurate in stating that only the high priest could approach the ark, specifically once a year on the Day of Atonement. It also addresses the concern by recognizing the significance of the high priest in the Israelites' relationship with God and the covenant. The addition of Moses as another individual permitted to approach the ark in specific circumstances adds depth to the understanding of the topic.
+
+[&lt;- Link to Answer](../High_Priest_Access.md)

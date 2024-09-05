@@ -27,3 +27,5 @@ Recognizing the importance of utilizing spiritual gifts for community growth and
 Grade: 90
 
 Comment: The response provides a comprehensive and accurate explanation of spiritual gifts as described in the Bible, highlighting their purpose in building up the church and serving others in love. It recognizes the importance of utilizing these gifts for community growth and personal obedience to the Holy Spirit. The explanation is presented from a Christian worldview perspective, emphasizing the significance of humility, diligence, and discretion in exercising spiritual gifts for the edification of the church and the glory of God.
+
+[&lt;- Link to Answer](../Spiritual_Gifts.md)

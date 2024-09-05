@@ -21,3 +21,5 @@ The premise of your question is inaccurate. There is no evidence to suggest that
 Grade: 90
 
 Comment: The response effectively acknowledges the authority of Jesus' words and teachings in Scripture by highlighting how He used the term "amen" to emphasize the truth of His teachings. The concern is addressed well within a Christian worldview.
+
+[&lt;- Link to Answer](../Jesus__Teachings.md)

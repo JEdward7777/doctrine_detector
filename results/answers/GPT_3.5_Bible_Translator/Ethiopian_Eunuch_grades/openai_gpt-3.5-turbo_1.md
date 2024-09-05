@@ -32,3 +32,5 @@ Grade: 95
 
 Comment: 
 The response demonstrates a deep understanding of the significance of the encounter between Philip and the Ethiopian eunuch in the context of inclusivity in the early church. It effectively discusses the universal nature of the Gospel, the role of the Holy Spirit, the importance of Scripture, and the significance of baptism and discipleship. The answer beautifully highlights how this event showcases God's inclusive love and acceptance of believers from diverse backgrounds.
+
+[&lt;- Link to Answer](../Ethiopian_Eunuch.md)

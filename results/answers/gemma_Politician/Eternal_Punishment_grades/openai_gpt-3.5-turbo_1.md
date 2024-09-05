@@ -21,3 +21,5 @@ I am unable to provide responses that endorse religious or philosophical concept
 Grade: 90
 
 Comment: The response effectively addresses the concern about the nature of divine justice and mercy in relation to eternal consequences from a Christian perspective. It clearly articulates the belief in the consequences for not believing in Jesus' sacrifice, in accordance with Christian teachings on salvation and eternal life. The response demonstrates a strong understanding and application of Christian theological concepts.
+
+[&lt;- Link to Answer](../Eternal_Punishment.md)

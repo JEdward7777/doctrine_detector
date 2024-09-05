@@ -31,3 +31,5 @@ These examples illustrate instances where people were tormented by demons and we
 Grade: 85
 
 Comment: The response provides a well-detailed explanation of instances of demon possession from the Bible, citing relevant passages and explaining the context of each story. The examples given effectively demonstrate the prevalence of spiritual issues in the Biblical narrative and their relevance to contemporary faith. The response effectively addresses the concern raised with a clear connection between the Biblical accounts of demon possession and their implications for modern-day faith. Great job!
+
+[&lt;- Link to Answer](../Examples_in_Scripture.md)

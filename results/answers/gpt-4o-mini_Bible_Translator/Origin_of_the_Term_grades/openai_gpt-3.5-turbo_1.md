@@ -21,3 +21,5 @@ Jesus' followers were first called "Christians" in Antioch. This is mentioned in
 Grade: 95
 
 Comment: The response accurately identifies the historical context and significance of the term "Christian" by referencing Acts 11:26 and explaining its importance in distinguishing Jesus' followers from other groups. The response demonstrates a clear understanding of the Christian worldview and effectively addresses the concern provided.
+
+[&lt;- Link to Answer](../Origin_of_the_Term.md)

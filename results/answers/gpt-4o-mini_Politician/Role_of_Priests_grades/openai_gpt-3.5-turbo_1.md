@@ -37,3 +37,5 @@ These responsibilities reflected their vital role in maintaining the spiritual l
 Grade: 85
 
 Comment: The response provides a comprehensive overview of the main responsibilities of priests in the Old Testament, covering crucial aspects such as offering sacrifices, conducting rituals, teaching the Law, and interceding for the people. However, the specific mention of "pronouncing blessings" is not directly supported by the given answer or the biblical context. Overall, the response demonstrates a solid understanding of the biblical role of priests, albeit with a minor oversight on the mention of pronouncing blessings.
+
+[&lt;- Link to Answer](../Role_of_Priests.md)

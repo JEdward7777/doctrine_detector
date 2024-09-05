@@ -35,3 +35,5 @@ In summary, according to the New Testament, baptism is a significant rite that e
 Grade: 95
 
 Comment: The response provides a comprehensive explanation of the significance of baptism in the Christian faith, covering key aspects such as identification with Christ, public declaration of faith, cleansing of sin, incorporation into the Church, obedience to Christ's command, and symbol of new life. It effectively addresses the concern by highlighting the multi-faceted importance of baptism according to New Testament teachings. The response demonstrates a strong understanding and articulation of the Christian perspective on baptism.
+
+[&lt;- Link to Answer](../Baptism_Purpose.md)

@@ -23,3 +23,5 @@ The instructions emphasized rest on the Sabbath, reflecting its significance as 
 Grade: 95
 
 Comment: The response effectively explains the importance of observing the Sabbath according to God's commands by emphasizing the specific instruction given to the Israelites regarding gathering manna in preparation for the day of rest. It correctly highlights the significance of rest on the Sabbath and the need for trust in God's provision. The explanation aligns well with a Christian worldview emphasizing obedience to God's commands, particularly in relation to honoring the Sabbath. Great job!
+
+[&lt;- Link to Answer](../Sabbath_Observance_2.md)

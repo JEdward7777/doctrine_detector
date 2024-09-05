@@ -57,3 +57,5 @@ The metaphor of the cornerstone emphasizes the vital role Jesus plays as the fou
 Grade: 95
 
 Comment: The response effectively expands upon the given answer by providing detailed insights into the multifaceted aspects of the relationship between Jesus and His followers through the metaphor of the cornerstone. The explanation aligns well with the concern of understanding this relationship to help believers align their lives with Christ's teachings and example. The theological depth and coherence of the discussion warrant a high grade, with minor room for improvement in further connecting the metaphors to practical implications for believers.
+
+[&lt;- Link to Answer](../Symbolism_of_the_Cornerstone.md)

@@ -25,3 +25,5 @@ While the exact authors of the individual Psalms (or chapters) within the Zabur 
 Grade: 70
 
 Comment: The response provides a good overview of the Islamic perspective on the Psalms (Zabur) and Prophet Dawud (David), which is informative and well-written. However, it does not directly address the concern about recognizing the authorship of the Psalms for enhancing understanding of their messages and themes from a Christian worldview. Incorporating a comparison or contrasting with the Christian belief in King David's authorship of the Psalms would have strengthened the response.
+
+[&lt;- Link to Answer](../Authorship_of_Psalms.md)

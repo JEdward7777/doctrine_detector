@@ -49,3 +49,5 @@ Jesus' statement emphasizes the fundamental difference between God and humanity.
 Grade: 95
 
 Comment: The response provides a comprehensive analysis of Jesus' statement regarding the goodness of God and the inability of humans to be truly good on their own. It effectively explores the theological implications of this statement and supports its claims with relevant scripture references. The answer aligns well with the Christian worldview and addresses the concern about recognizing the source of goodness in actions and beliefs.
+
+[&lt;- Link to Answer](../God_as_Good.md)

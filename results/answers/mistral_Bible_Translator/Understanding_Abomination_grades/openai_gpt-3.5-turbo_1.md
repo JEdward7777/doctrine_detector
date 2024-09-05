@@ -35,3 +35,5 @@ It's important for Christians to understand what actions are against God's will 
 Grade: 95
 
 Comment: The response accurately identifies a number of actions that the Bible considers abominations, aligning well with the Christian worldview. The inclusion of pride, sacrificing humans, and murder further expands on the concept of abominations in a biblical context. The concern for Christians to understand these actions based on scripture is addressed effectively in the response. Great job overall!
+
+[&lt;- Link to Answer](../Understanding_Abomination.md)

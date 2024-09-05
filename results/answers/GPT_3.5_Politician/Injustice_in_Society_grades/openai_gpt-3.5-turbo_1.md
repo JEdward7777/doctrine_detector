@@ -27,3 +27,5 @@ Ultimately, it is essential for all of us, regardless of our religious beliefs, 
 Grade: 85
 
 Comment: The response demonstrates a strong understanding of the need for Christian activism against injustice and promoting fairness based on biblical principles. The individual effectively connects the concept of injustice with the Christian duty to advocate for justice, demonstrate mercy, and act righteously. Additionally, they emphasize the importance of solidarity and actively listening to marginalized voices, which aligns well with Christian teachings of love and compassion. The response could be strengthened by including specific examples of how Christians can actively engage in activism and by referencing specific biblical passages that support the call for justice and fairness.
+
+[&lt;- Link to Answer](../Injustice_in_Society.md)

@@ -25,3 +25,5 @@ The Kingdom of Israel was ruled by Jeroboam's dynasty for 209 years until it was
 Grade: 95
 
 Comment: The response provides a detailed and accurate explanation of the division of the kingdom of Israel into the northern Kingdom of Israel and the southern Kingdom of Judah, demonstrating a good understanding of the historical and spiritual significance of this event from a Christian worldview. The only minor improvement could be to mention the specific leaders involved in the division, such as Jeroboam and Rehoboam, to provide a more comprehensive overview.
+
+[&lt;- Link to Answer](../Division_of_Israel.md)

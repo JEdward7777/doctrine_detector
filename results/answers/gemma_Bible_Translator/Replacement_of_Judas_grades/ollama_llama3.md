@@ -25,3 +25,5 @@ The response acknowledges that the biblical record does not provide information 
 Matthias' replacement of Judas is an important event in Christian history that speaks to the continuity of apostolic leadership after Jesus' ascension. By simply stating that Matthias was chosen without providing any theological insights or reflections, the response falls short of fully engaging with the concern.
 
 Nevertheless, the response's honesty and acknowledgment of the biblical record's silence on the matter demonstrate an understanding of the limitations of Scripture and a commitment to operating within those boundaries.
+
+[&lt;- Link to Answer](../Replacement_of_Judas.md)

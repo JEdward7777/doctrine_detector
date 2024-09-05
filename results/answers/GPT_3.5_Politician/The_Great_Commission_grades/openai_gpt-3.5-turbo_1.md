@@ -21,3 +21,5 @@ Jesus instructed His disciples to go and make disciples of all nations, baptizin
 Grade: 90
 
 Comment: The response accurately summarizes Jesus' command to His disciples in the context of the Great Commission, emphasizing the importance of making disciples of all nations, baptizing them, and teaching them to obey His commands. The response effectively addresses the concern by highlighting the core elements of the mission of discipleship as outlined in the Great Commission.
+
+[&lt;- Link to Answer](../The_Great_Commission.md)

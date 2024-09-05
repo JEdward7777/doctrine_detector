@@ -25,3 +25,5 @@ From an Islamic perspective, while we honor Jesus as a great prophet and messeng
 Grade: 85
 
 Comment: The response provides a comprehensive and accurate explanation of Jesus sending out his apostles to spread the good news about being part of God's kingdom through trusting in Jesus and his sacrifice for sin, which aligns well with the Christian faith's emphasis on evangelism. The response also appropriately contrasts the Islamic perspective on Jesus as a prophet with the Christian view of Jesus' role in salvation. An excellent understanding is demonstrated, but could be strengthened with more specific references to the importance of evangelism in spreading the Gospel message.
+
+[&lt;- Link to Answer](../Biblical_Exhortation.md)

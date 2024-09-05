@@ -21,3 +21,5 @@ The Bible teaches that humanity has been given the responsibility to be stewards
 Grade: 90
 
 Comment: The student's response accurately reflects the Biblical teaching that humans have been given dominion over the earth and its creatures as a responsibility to manage and care for creation. The student could have further emphasized the importance of exercising this authority responsibly by highlighting the need to steward the earth's resources in a sustainable and compassionate manner.
+
+[&lt;- Link to Answer](../Dominion_in_Creation.md)

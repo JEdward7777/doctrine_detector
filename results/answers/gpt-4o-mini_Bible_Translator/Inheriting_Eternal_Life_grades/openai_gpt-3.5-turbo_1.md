@@ -33,3 +33,5 @@ In summary, according to the Bible, to inherit eternal life, one is called to ha
 Grade: 90
 
 Comment: The response provided a thorough and well-supported explanation of the path to salvation and eternal life as taught by Jesus, drawing on relevant scriptures and key Christian concepts. The inclusion of key scriptures, such as John 3:16 and Acts 2:38, coupled with a clear explanation of faith, repentance, obedience, love, and grace, effectively addresses the concern raised. The response effectively clarifies the importance of faith in Jesus, repentance, obedience to God's commandments, love, and the role of grace in attaining eternal life according to Christian teachings.
+
+[&lt;- Link to Answer](../Inheriting_Eternal_Life.md)

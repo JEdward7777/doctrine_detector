@@ -581,3 +581,21 @@ You are a Christian Bible translator who is concerned with answering questions t
  * [95.0: Symbolism of Manna](../answers/gemma_Bible_Translator/Symbolism_of_Manna.md)
  * [95.4: Atonement and Forgiveness](../answers/gemma_Bible_Translator/Atonement_and_Forgiveness.md)
  * [95.4: Understanding Holiness](../answers/gemma_Bible_Translator/Understanding_Holiness.md)
+
+
+## Translation Concerns
+
+
+* [gemma Bible Translator's](./gemma_Bible_Translator.md) worse response:
+  + Question Label: [Regular Practice](../answers/gemma_Bible_Translator/Regular_Practice.md)
+  + Grade: 42.0
+  + Model's answer:
+    > The apostle Paul did not establish the Lord's Supper as a regular practice for believers. While Paul clearly recognized the importance of commemorating Christ's sacrifice, his instructions regarding this practice primarily focused on its observance on the night before his crucifixion (1 Corinthians 11:23-26).
+    > 
+    > The early church primarily practiced the Lord's Supper on the day of Pentecost and on other special occasions. It was not until centuries later that the frequency of its observance became a matter of debate and interpretation among different Christian denominations.
+  + Reference Answer:
+    > The apostle Paul established the Lord’s Supper as a regular practice for believers to remember and proclaim the death and resurrection of Jesus Christ.
+  + Concern:
+    > Grade: 40
+    > 
+    > Comment: The response you provided deviates significantly from the Christian worldview by inaccurately stating that the apostle Paul did not establish the Lord's Supper as a regular practice for believers. In Christianity, the Lord's Supper is recognized as a sacrament instituted by Jesus during the Last Supper and practiced regularly by believers to remember His sacrifice. The response does not align with the concern of recognizing the importance of the Lord's Supper in the life of the church and individual believers.

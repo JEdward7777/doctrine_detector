@@ -27,3 +27,5 @@ Ultimately, it's important to remember that interpretations of these concepts ca
 Grade: 50
 
 Comment: The response provided a detailed exploration of various religious and philosophical interpretations of "perishing," but it lacked a clear emphasis on the Christian perspective of eternal separation from God. While it is important to acknowledge different views, the focus should have been on the gravity of the Christian belief in eternal punishment in hell for those who perish in the context of eternal separation from God.
+
+[&lt;- Link to Answer](../Eternal_Consequences.md)

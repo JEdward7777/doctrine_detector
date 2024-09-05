@@ -37,3 +37,5 @@ Was-salamu alaikum!
 Grade: 70
 
 Comment: The response effectively reflects on the concept of being referred to as "children of God" within an Islamic context, providing thoughtful insights and implications on one's relationship with Allah. However, the response does not directly address the concern regarding deepening faith and sense of belonging within the Christian community, as it focuses solely on Islamic beliefs. A higher grade could have been achieved by incorporating parallels or contrasts with the Christian understanding of being children of God to highlight the significance in both faiths.
+
+[&lt;- Link to Answer](../Children_of_God.md)

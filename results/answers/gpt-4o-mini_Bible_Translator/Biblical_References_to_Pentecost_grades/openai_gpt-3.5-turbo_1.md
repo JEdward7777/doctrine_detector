@@ -36,3 +36,5 @@ These references highlight the agricultural significance of the festival as well
 Grade: 80
 
 Comment: The response provides a comprehensive overview of the references to the Festival of Weeks, also known as Pentecost, in the Bible, with specific verses from Exodus, Leviticus, Deuteronomy, and Acts of the Apostles. The inclusion of these key books and passages demonstrates a strong understanding of the scriptural basis for the observance and significance of Pentecost within the Jewish and Christian contexts. However, the initial answer provided a broader range of books where references to the Festival of Weeks can be found, not specifically incorrect but insufficient detail given in the response.
+
+[&lt;- Link to Answer](../Biblical_References_to_Pentecost.md)

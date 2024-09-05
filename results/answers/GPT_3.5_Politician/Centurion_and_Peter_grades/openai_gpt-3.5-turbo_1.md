@@ -21,3 +21,5 @@ The interaction between the centurion and Peter in the Bible is often seen as a 
 Grade: 90
 
 Comment: The response effectively captures the significance of the interaction between the centurion and Peter in highlighting the inclusivity of the Gospel message and God's love for all people. It acknowledges the importance of reaching out to all nations with the message of salvation, aligning well with Christian teachings on the universal nature of God's love. The only slight room for improvement would be to delve slightly deeper into how this event reflects the broader mission of the Church to spread the Gospel to all corners of the world.
+
+[&lt;- Link to Answer](../Centurion_and_Peter.md)

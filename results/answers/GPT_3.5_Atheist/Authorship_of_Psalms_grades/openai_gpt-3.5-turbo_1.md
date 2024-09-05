@@ -21,3 +21,5 @@ The Psalms are a collection of ancient Hebrew poems and hymns that are tradition
 Grade: 60
 
 Comment: The response accurately identifies key figures involved in writing the Psalms, but it does not include the importance of recognizing the authorship in enhancing understanding of their messages and themes. It would have been stronger if it had elaborated on how knowing the authors helps in understanding the context and depth of the Psalms from a Christian worldview.
+
+[&lt;- Link to Answer](../Authorship_of_Psalms.md)

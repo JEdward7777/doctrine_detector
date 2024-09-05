@@ -21,3 +21,5 @@ Understanding the role of the temple in the context of Old Testament worship.
 Grade: 90
 
 Comment: The response effectively expands on the role of the Temple in the context of Old Testament worship by providing historical and cultural context, mentioning the presence of Yahweh, the various functions of the Temple, and the significance of the Ark of the Covenant. The additional information enriches the understanding of the Temple's importance beyond just being a place for worship and sacrifices.
+
+[&lt;- Link to Answer](../Temple_Significance.md)

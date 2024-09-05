@@ -21,3 +21,5 @@ In the Tabernacle, the Ark of the Covenant was located in the Most Holy Place (a
 Grade: 95
 
 Comment: The response provides a very detailed and accurate explanation of the significance of the Most Holy Place and the presence of God in the Tabernacle. The explanation ties in well with the Christian worldview, emphasizing the sacredness and importance of the Most Holy Place as the dwelling place of God's presence and the role of the High Priest in atonement for the sins of the people. Great job in addressing the concern with depth and clarity.
+
+[&lt;- Link to Answer](../Ark_Location.md)

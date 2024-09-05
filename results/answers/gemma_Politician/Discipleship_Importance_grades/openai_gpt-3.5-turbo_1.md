@@ -21,3 +21,5 @@ The selection of the twelve apostles was likely based on various factors, includ
 Grade: 80
 
 Comment: The response provided a clear and concise explanation of the selection of the twelve apostles by Jesus and their role in spreading his teachings and establishing the early Church. While the initial response provides additional insight into the factors that may have influenced the selection of the apostles, it doesn't directly address the concern of understanding the significant role of the apostles in the New Testament.
+
+[&lt;- Link to Answer](../Discipleship_Importance.md)

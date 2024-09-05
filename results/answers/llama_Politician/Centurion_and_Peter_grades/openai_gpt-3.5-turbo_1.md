@@ -39,3 +39,5 @@ Now, if you'll excuse me, I have a meeting with some community leaders to discus
 Grade: 90
 
 Comment: The response effectively connects the centurion's visit from Peter to the broader theme of reaching all nations with the Gospel message and emphasizing the inclusivity of Christianity. It highlights the universal appeal of God's love and showcases the expansion of the Gospel beyond cultural boundaries. The response demonstrates a clear understanding of the mission of the Church to reach all nations and the inclusive nature of the Gospel, aligning well with Christian teachings. Great job in addressing the concern with a Christian-specific worldview.
+
+[&lt;- Link to Answer](../Centurion_and_Peter.md)

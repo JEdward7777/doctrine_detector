@@ -21,3 +21,5 @@ From a purely logistical standpoint, evangelists are distinguishable by their em
 Grade: 95
 
 Comment: The response accurately highlights the belief in spiritual gifts, specifically the gift of evangelism, and acknowledges that some Christians are uniquely called to share the gospel with others. It aligns well with the concern related to understanding spiritual gifts, emphasizing the importance of recognizing and appreciating these gifts within the church. The student effectively integrates Christian beliefs into their evaluation of the given response.
+
+[&lt;- Link to Answer](../Gift_of_Evangelism.md)

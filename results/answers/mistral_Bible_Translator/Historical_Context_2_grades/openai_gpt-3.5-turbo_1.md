@@ -21,3 +21,5 @@ Recognizing the historical events that shape religious practices.
 Grade: 95
 
 Comment: The response provides a clear explanation of why the Israelites ate unleavened bread based on God's instructions for their quick escape from Egypt. It accurately addresses the concern by demonstrating an understanding of the historical events that shaped this religious practice. Well done!
+
+[&lt;- Link to Answer](../Historical_Context_2.md)

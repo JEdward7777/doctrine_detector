@@ -21,3 +21,5 @@ When the Bible describes God as 'jealous', it is referring to His righteous and 
 Grade: 95
 
 Comment: The response provides a clear and insightful explanation of God's jealousy as a reflection of His desire for His people's faithfulness and devotion, rooted in His character of holiness and love. It demonstrates a solid understanding of God's nature and His call for spiritual fidelity.
+
+[&lt;- Link to Answer](../God_s_Jealousy.md)

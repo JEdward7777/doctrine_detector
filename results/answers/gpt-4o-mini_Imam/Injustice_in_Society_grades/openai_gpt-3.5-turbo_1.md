@@ -40,3 +40,5 @@ While the contexts may differ, the fundamental principle of standing against inj
 Grade: 85
 
 Comment: The response provides a comprehensive and well-articulated overview of various forms of injustice and the corresponding Christian and Muslim perspectives on addressing them. It does a good job of drawing parallels between the two faiths on the importance of advocating for justice and fairness. The suggested actions for Christians to engage in, such as advocacy, charity, education, and interfaith collaboration, align well with promoting biblical principles of justice and mercy. The response could have further emphasized the distinctively Christian approach to addressing injustice based on specific biblical teachings.
+
+[&lt;- Link to Answer](../Injustice_in_Society.md)

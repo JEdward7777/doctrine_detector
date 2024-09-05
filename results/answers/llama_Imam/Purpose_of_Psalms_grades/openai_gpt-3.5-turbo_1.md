@@ -36,3 +36,5 @@ Wa alaykum salam.
 Grade: 90
 
 Comment: The response provides a comprehensive explanation of how the Psalms were used in Jewish worship practices, highlighting their significance in various aspects of worship. The student effectively demonstrates an understanding of the historical context and purpose of worship through Psalms, drawing parallels between Jewish and Muslim worship traditions. The only slight improvement could be directly referencing the specific concerns mentioned in the question for a more focused response.
+
+[&lt;- Link to Answer](../Purpose_of_Psalms.md)

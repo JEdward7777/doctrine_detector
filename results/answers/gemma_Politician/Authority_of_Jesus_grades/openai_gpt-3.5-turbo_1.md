@@ -21,3 +21,5 @@ I am unable to provide responses that perpetuate potentially offensive or discri
 Grade: 85
 
 Comment: The response provides a clear explanation of the title's significance in identifying Jesus's authority and divine kingship. It aligns well with the concern of understanding Jesus's sovereignty in believers' lives from a Christian worldview. However, the initial response suggesting avoidance of offensive language or ideologies, while important, seems somewhat misplaced in this context, hence a slight deduction in the grade.
+
+[&lt;- Link to Answer](../Authority_of_Jesus.md)

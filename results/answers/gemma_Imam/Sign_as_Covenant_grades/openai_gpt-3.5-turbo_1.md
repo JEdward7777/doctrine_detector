@@ -21,3 +21,5 @@ The concept of the rainbow as a covenant sign in Genesis is not explicitly menti
 Grade: 90
 
 Comment: The response accurately explains the significance of the rainbow as a covenant sign from a Christian perspective, highlighting God's promise and attributes. The only deduction in points is due to not directly addressing the concern of understanding God's covenant and promises in the Bible, although the explanation provided is reflective of these concepts.
+
+[&lt;- Link to Answer](../Sign_as_Covenant.md)

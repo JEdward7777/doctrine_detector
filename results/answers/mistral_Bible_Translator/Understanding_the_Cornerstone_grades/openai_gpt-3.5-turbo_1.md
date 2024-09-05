@@ -27,3 +27,5 @@ Thus, Jesus Christ as the cornerstone is the source of unity, strength, and stru
 Grade: 95
 
 Comment: The response effectively expands on the significance of Jesus Christ as the cornerstone in the context of the Church, emphasizing His role not only as a structural support but also as a spiritual foundation. It properly connects this understanding to the impact it can have on a believer's faith and involvement in the community. This response demonstrates a strong grasp of the Christian worldview and effectively addresses the concern provided.
+
+[&lt;- Link to Answer](../Understanding_the_Cornerstone.md)

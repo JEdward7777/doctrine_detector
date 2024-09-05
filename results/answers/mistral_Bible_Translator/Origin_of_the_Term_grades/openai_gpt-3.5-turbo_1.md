@@ -21,3 +21,5 @@ Recognizing historical context and significance of the term 'Christian'.
 Grade: 95
 
 Comment: The response provides a clear and accurate answer to the question regarding the origin of the term "Christian," citing the relevant biblical reference from Acts 11:26. It demonstrates a solid understanding of the historical context and significance of the term within a Christian worldview.
+
+[&lt;- Link to Answer](../Origin_of_the_Term.md)

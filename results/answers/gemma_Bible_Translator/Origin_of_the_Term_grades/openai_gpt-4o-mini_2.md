@@ -36,3 +36,5 @@ The earliest references to Christians as a group appear in non-canonical sources
 Grade: 85
 
 Comment: The response provides accurate historical context surrounding the term "Christian," citing reputable sources such as Tacitus and Josephus. The explanation of the term's origin and evolution is well-supported. However, deducting some points for not directly addressing the claim that Jesus' followers were first called 'Christians' in Antioch, which is a specific concern raised. Additionally, emphasizing the broader historical context and significance of the term 'Christian' within early Christianity could further enhance the response. Overall, a strong and informative answer.
+
+[&lt;- Link to Answer](../Origin_of_the_Term.md)

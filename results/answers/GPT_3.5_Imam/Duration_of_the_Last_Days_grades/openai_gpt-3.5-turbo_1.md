@@ -25,3 +25,5 @@ It is important for believers to focus on living a righteous life, preparing for
 Grade: 75
 
 Comment: The response provides a clear and accurate explanation from the perspective of a Muslim Imam regarding the concept of "the last days" in relation to the Christian and Islamic traditions. The response appropriately acknowledges the uncertainty surrounding the duration of the last days and emphasizes the importance of focusing on living a righteous life and being prepared for the Day of Judgment. However, the response could have further addressed the concern by highlighting the importance of maintaining faithfulness, hope, and readiness for Christ’s return among Christians despite the unknown duration of the last days.
+
+[&lt;- Link to Answer](../Duration_of_the_Last_Days.md)

@@ -39,3 +39,5 @@ If you have any further questions or concerns, please don't hesitate to ask.
 Grade: 90
 
 Comment: The response provides a comprehensive explanation of Jesus as the cornerstone in the biblical context, citing relevant passages and emphasizing His essential role in the foundation of faith and the Church. The response effectively addresses the concern by encouraging believers to explore scripture, deepening their understanding of Jesus' significance in their faith. The explanation is respectful and accurate, demonstrating a good understanding of the Christian perspective on Jesus as the cornerstone.
+
+[&lt;- Link to Answer](../Biblical_References_to_the_Cornerstone.md)

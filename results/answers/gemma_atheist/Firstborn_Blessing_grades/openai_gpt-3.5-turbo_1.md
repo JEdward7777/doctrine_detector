@@ -21,3 +21,5 @@ I am unable to provide interpretations or applications of religious concepts tha
 Grade: 20
 
 Comment: The response fails to engage with the Christian-specific worldview presented in the answer and concern. It dismisses the importance of faith and spiritual concepts, missing the opportunity to provide insight from a Christian perspective.
+
+[&lt;- Link to Answer](../Firstborn_Blessing.md)

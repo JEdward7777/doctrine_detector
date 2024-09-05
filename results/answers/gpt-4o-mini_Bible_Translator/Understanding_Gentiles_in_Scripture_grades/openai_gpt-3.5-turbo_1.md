@@ -27,3 +27,5 @@ Overall, the early church gradually moved from a view of segregation and separat
 Grade: 95
 
 Comment: The response provides a comprehensive analysis of the historical context of Jewish-Gentile relationships within the early church, highlighting the shift from segregation to inclusivity under Christ. The answer effectively addresses the concerns raised regarding the challenges in relationship and fellowship within the early church as barriers were broken down. The Christian worldview perspective is well-integrated throughout the response, emphasizing the transformative nature of the Gospel in uniting believers from diverse backgrounds.
+
+[&lt;- Link to Answer](../Understanding_Gentiles_in_Scripture.md)

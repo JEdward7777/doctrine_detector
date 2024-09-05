@@ -21,3 +21,5 @@ God promised Abraham and his descendants the land of Canaan as an inheritance. I
 Grade: 90
 
 Comment: The response accurately highlights God's promise to Abraham and his descendants regarding the inheritance of the land of Canaan. It acknowledges the eternal nature of this promise and the continuity of God's covenant through Abraham, Isaac, and Jacob. The response demonstrates a solid understanding of God's covenant with Abraham and its significance for believers.
+
+[&lt;- Link to Answer](../Inheritance_and_the_Promise_to_Abraham.md)

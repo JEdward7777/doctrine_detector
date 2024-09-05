@@ -27,3 +27,5 @@ Under ordinary circumstances, the Ark of the Covenant was kept inside the Holy o
 Grade: 95
 
 Comment: The response demonstrates a thorough understanding of the restriction on approaching the Ark of the Covenant, highlighting the specific role of the high priest in the Israelite's relationship with God on the Day of Atonement. The historical and biblical context provided aligns well with the concern regarding the significance of the high priest in maintaining the covenant between God and the Israelites. Great job in providing a comprehensive explanation that reflects the importance of the high priest's unique access to the Ark in the Israelite's religious practices.
+
+[&lt;- Link to Answer](../High_Priest_Access.md)

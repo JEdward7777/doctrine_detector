@@ -31,3 +31,5 @@ In the New Testament:
 Grade: 85
 
 Comment: The response provides a clear and accurate explanation of the term "Holy One" in both the Old and New Testaments. It effectively highlights how the term is used to refer to God in the Old Testament and specifically to Jesus as the "Holy One" in the New Testament, showcasing Jesus' authority and divinity. The references cited support the explanation well. However, more direct analysis and theological insights on Jesus' authority and divinity in the New Testament could have further enhanced the response.
+
+[&lt;- Link to Answer](../Usage_in_Scripture.md)

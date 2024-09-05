@@ -46,3 +46,5 @@ The eternal consequences for those who are described as "perishing" are severe a
 Grade: 95
 
 Comment: This response provides a comprehensive and well-supported explanation from a biblical perspective on the consequences of eternal separation from God for those who perish. It effectively addresses the concern regarding the seriousness of this separation by highlighting biblical references, identifying key consequences, and emphasizing the importance of accepting salvation through Jesus Christ to avoid such eternal punishment. The response demonstrates a strong understanding of the Christian worldview and effectively conveys the gravity of eternal separation from God. Great job!
+
+[&lt;- Link to Answer](../Eternal_Consequences.md)

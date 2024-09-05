@@ -31,3 +31,5 @@ These examples highlight the importance of compassion in the Christian faith and
 Grade: 90
 
 Comment: The response provides a strong understanding of compassion as demonstrated in biblical figures and their actions. The examples given from the Bible are relevant and well-explained, showcasing real-life applications of compassion as modeled by these figures. The mention of the importance of compassion in the Christian faith and its role as a model for believers adds depth to the response. Great job!
+
+[&lt;- Link to Answer](../Compassionate_Actions.md)

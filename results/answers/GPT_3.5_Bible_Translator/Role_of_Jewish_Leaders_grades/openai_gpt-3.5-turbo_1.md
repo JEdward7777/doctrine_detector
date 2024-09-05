@@ -25,3 +25,5 @@ Ultimately, it was Pilate who ordered the crucifixion of Jesus, but the Jewish r
 Grade: 85
 
 Comment: The response effectively addresses the concern by presenting an analysis of the historical context surrounding Jesus' crucifixion, specifically highlighting the dynamics between religious authority and civil power. The student accurately acknowledges the role of the Jewish religious leaders in influencing Pontius Pilate's decision to crucify Jesus, emphasizing the rejection of Jesus as the Messiah. The integration of a Christian worldview is evident in recognizing the significance of Jesus' sacrificial death for humanity's redemption. Minor improvements could include further elaboration on how the collaboration between the Jewish religious leaders and Pilate reflects broader themes of power and authority in biblical narratives.
+
+[&lt;- Link to Answer](../Role_of_Jewish_Leaders.md)

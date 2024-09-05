@@ -32,3 +32,5 @@ As Muslims, we believe in Jesus' prophethood and his role as a messenger of God,
 Grade: 70
 
 Comment: The response provides a good comparison between the Christian understanding of Jesus Christ's dominion and the Muslim perspective on his role as a prophet. The mention of Jesus being prophet, priest, and king aligns with Christian beliefs. However, the concern about recognizing the authority of Christ in all aspects of life and its impact on faith could have been further emphasized and expounded upon to provide a deeper analysis from a Christian worldview.
+
+[&lt;- Link to Answer](../Dominion_of_Christ.md)

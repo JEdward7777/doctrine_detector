@@ -25,3 +25,5 @@ Overall, baptism is a symbol of spiritual rebirth and a visible expression of on
 Grade: 85
 
 Comment: The response effectively explains the Christian perspective on baptism, emphasizing its significance as a symbol of spiritual rebirth and a declaration of faith in Jesus Christ. It acknowledges the cleansing from sin and union with Christ that baptism signifies, demonstrating a good understanding of the importance of baptism in the Christian faith. However, as a Muslim Imam, incorporating a comparison with Islamic beliefs about purification and spiritual transformation could have added depth to the explanation.
+
+[&lt;- Link to Answer](../Baptism_Purpose.md)

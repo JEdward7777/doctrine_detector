@@ -25,3 +25,5 @@ In Islam, righteousness is a comprehensive concept that encompasses belief in Al
 Grade: 75
 
 Comment: The response provides a good explanation of how righteousness is achieved in Christianity through faith in Jesus and acceptance of His sacrifice. The connection between human righteousness and faith in Jesus for salvation is clearly articulated. However, the response lacks depth in addressing the concern about clarifying the basis for human righteousness in relation to faith in Jesus being essential for understanding salvation. More elaboration on why faith in Jesus is specifically necessary for righteousness and salvation in Christianity would strengthen the response.
+
+[&lt;- Link to Answer](../Human_Righteousness.md)

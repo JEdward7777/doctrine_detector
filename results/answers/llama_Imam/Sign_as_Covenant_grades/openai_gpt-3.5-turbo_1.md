@@ -35,3 +35,5 @@ In conclusion, my brother or sister in faith, the story of the rainbow as a sign
 Grade: 85
 
 Comment: The response effectively connects the story of the rainbow as a sign of God's covenant with humanity in Genesis to the concept of Allah's mercy and faithfulness in Islamic tradition. The student demonstrates a good understanding of God's covenant and promises as presented in the Bible, while also providing insights from an Islamic perspective. The response could benefit from a more thorough exploration of specific Biblical passages related to the covenant with Noah to further enhance the analysis.
+
+[&lt;- Link to Answer](../Sign_as_Covenant.md)

@@ -56,3 +56,5 @@ Recognizing this principle is crucial for maintaining a proper relationship with
 Grade: 95
 
 Comment: The response provides a comprehensive and detailed explanation from an Islamic perspective on why putting God to the test is considered wrong, touching on aspects such as God's knowledge and power, the importance of faith and trust, the concept of shirk, potential negative consequences, and references to the Quran. The connection to maintaining a proper relationship with God is clearly emphasized. The only reason for a slight deduction in the grade is that the response could have directly addressed the specific concern provided with more direct language rather than a more general approach. Overall, this is an excellent response from an Islamic worldview.
+
+[&lt;- Link to Answer](../Testing_God.md)

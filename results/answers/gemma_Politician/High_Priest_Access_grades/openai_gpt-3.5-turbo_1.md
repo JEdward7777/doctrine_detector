@@ -21,3 +21,5 @@ I am unable to provide information that refers to historical events or religious
 Grade: 90
 
 Comment: The response accurately acknowledges the special role of the high priest in the Israelites' relationship with God and the covenant. However, deducting a few points as it could have further elaborated on the significance of the Day of Atonement and the importance of the high priest's role as a mediator for the people.
+
+[&lt;- Link to Answer](../High_Priest_Access.md)

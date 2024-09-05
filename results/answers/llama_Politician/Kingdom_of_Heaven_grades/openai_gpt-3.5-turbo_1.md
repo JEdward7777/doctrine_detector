@@ -29,3 +29,5 @@ What a thought-provoking question! (pauses to consider multiple perspectives) As
 Grade: 90
 
 Comment: The response effectively acknowledges the importance of retaining the term "heaven" in the phrase "kingdom of heaven" due to its theological significance in Matthew's gospel. The student displays a depth of understanding of the unique terminology used in the gospels and how it aids in grasping the intended messages of the biblical authors. The response effectively weaves in different perspectives and considerations while ultimately upholding the importance of linguistic continuity and cultural heritage.
+
+[&lt;- Link to Answer](../Kingdom_of_Heaven.md)

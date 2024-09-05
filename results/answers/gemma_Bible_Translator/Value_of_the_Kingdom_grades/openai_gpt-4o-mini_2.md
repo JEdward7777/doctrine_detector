@@ -60,3 +60,5 @@ Appreciating the worth and significance of the kingdom of God in our lives.
 Grade: 90
 
 Comment: The response provides a comprehensive explanation of various parables used by Jesus to describe the value of the Kingdom of God. It effectively addresses the concern of appreciating the worth and significance of the kingdom of God in our lives by highlighting the transformative power and immense value associated with it. The connection between the parables and the given answer is well-established, showcasing a strong understanding of the topic. Great job overall!
+
+[&lt;- Link to Answer](../Value_of_the_Kingdom.md)

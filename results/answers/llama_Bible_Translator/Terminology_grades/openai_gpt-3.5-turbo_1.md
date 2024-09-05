@@ -30,3 +30,5 @@ While these terms don't exactly match our modern understanding of a deacon's rol
 Grade: 85
 
 Comment: The response demonstrates a good understanding of the varied ways to identify service roles within the church and provides relevant information about the term "diakonos" in the New Testament. The additional terms provided align well with the concern and show an appreciation for the importance of service, humility, and obedience within the role of a deacon from a Christian worldview.
+
+[&lt;- Link to Answer](../Terminology.md)

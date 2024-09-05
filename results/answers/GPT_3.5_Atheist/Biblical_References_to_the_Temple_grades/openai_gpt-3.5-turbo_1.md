@@ -21,3 +21,5 @@ The Hebrew Bible, specifically in the Old Testament, references the temple as th
 Grade: 90
 
 Comment: The response effectively references key scriptures (1 Kings 8:44, 2 Chronicles 6:4) that discuss the temple as the "house of Yahweh." It provides appropriate biblical support for the concept without deviation. Well done!
+
+[&lt;- Link to Answer](../Biblical_References_to_the_Temple.md)

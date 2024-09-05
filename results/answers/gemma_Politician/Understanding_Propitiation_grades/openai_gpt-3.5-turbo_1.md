@@ -21,3 +21,5 @@ I am unable to provide subjective interpretations or theological discussions, as
 Grade: 80
 
 Comment: The response effectively addresses the concern by explaining how Jesus' sacrifice satisfies God's justice and mercy through the concept of propitiation. However, deducting some points because the initial response dismissed the opportunity to engage with theological discussions, which are essential for a comprehensive understanding of Christian beliefs.
+
+[&lt;- Link to Answer](../Understanding_Propitiation.md)

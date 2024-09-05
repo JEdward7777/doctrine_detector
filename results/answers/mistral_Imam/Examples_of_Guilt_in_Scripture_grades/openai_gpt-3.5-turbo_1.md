@@ -33,3 +33,5 @@ These examples illustrate feelings of guilt, repentance, and the consequences of
 Grade: 90
 
 Comment: The response effectively provides relevant examples from the Bible that shed light on guilt, repentance, and consequences of actions. The examples given help to showcase the operation of guilt in the context of justice and innocence, pointing to the need for divine judgment, aligning well with a Christian perspective. The student demonstrates a good understanding of how guilt operates within biblical narratives and effectively connects them to the concern provided.
+
+[&lt;- Link to Answer](../Examples_of_Guilt_in_Scripture.md)

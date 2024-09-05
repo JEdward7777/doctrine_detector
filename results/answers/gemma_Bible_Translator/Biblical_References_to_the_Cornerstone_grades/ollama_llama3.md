@@ -63,3 +63,5 @@ The original answer provides relevant biblical verses that highlight Jesus' role
 However, I would deduct 10 points because the original answer does not explicitly state how exploring these verses can deepen one's understanding of Jesus' significance in their faith. While it is implied that this is the case, a more direct connection between the biblical verses and the concern could be made to strengthen the response.
 
 Comment: This response demonstrates a strong foundation in biblical truth and relevance to the given concern. By providing scriptural support and exploring the role of the cornerstone, believers can indeed deepen their understanding of Jesus' significance in their faith. A slight improvement in explicitly connecting the dots between the verses and the concern would elevate this response to an even higher grade.
+
+[&lt;- Link to Answer](../Biblical_References_to_the_Cornerstone.md)

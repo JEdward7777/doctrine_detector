@@ -33,3 +33,5 @@ Overall, priests in the Old Testament played a crucial role in the religious and
 Grade: 85
 
 Comment: The response provides a comprehensive overview of the responsibilities of priests in the Old Testament, touching upon key aspects such as offerings, intercession, teaching, ritual purity, and judgement. The answer effectively demonstrates an understanding of the biblical role of priests by highlighting their key duties and functions in facilitating the relationship between the people and God. The response could have been strengthened by further incorporating scriptural references and theological reflections to deepen the analysis.
+
+[&lt;- Link to Answer](../Role_of_Priests.md)

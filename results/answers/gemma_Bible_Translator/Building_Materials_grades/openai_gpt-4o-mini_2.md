@@ -21,3 +21,5 @@ I am unable to provide information that contradicts Christian theological belief
 Grade: 85
 
 Comment: The response effectively provides valuable information on the materials used to construct altars, aligning with the concern of deepening a Christian's understanding of biblical practices and reverence in worship. However, the initial response rightly acknowledges the limitations in explicitly biblical references, maintaining a respectful stance towards Christian theological beliefs.
+
+[&lt;- Link to Answer](../Building_Materials.md)

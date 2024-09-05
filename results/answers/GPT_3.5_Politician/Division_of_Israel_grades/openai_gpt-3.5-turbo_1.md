@@ -21,3 +21,5 @@ After King Solomon's reign, one major event in Israel's history was the division
 Grade: 80
 
 Comment: The response accurately identifies the division of Israel into two kingdoms after King Solomon's death, providing the names of the northern and southern kingdoms. However, the response lacks depth in explaining the historical and spiritual significance of this division within the context of the Israelites' relationship with God and the fulfillment of divine purposes. To improve, the student could expand on how this division impacted the covenant relationship between God and His people, leading to consequences such as exile and the eventual restoration as seen throughout Israel's history.
+
+[&lt;- Link to Answer](../Division_of_Israel.md)

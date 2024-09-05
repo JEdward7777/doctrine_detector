@@ -79,3 +79,5 @@ It's important for Christians to understand what actions are against God's will 
 Grade: 95
 
 Comment: The response provides a comprehensive list of actions that are abhorrent to God in the Bible, including specific references to relevant scriptures. The inclusion of examples like sacrificing humans, idol worship, and sexual sins aligns well with the concerns outlined in scripture. The response effectively addresses the concern by highlighting the importance for Christians to be aware of actions that go against God's will as outlined in the Bible. Great job on connecting the given answer to the specific concern!
+
+[&lt;- Link to Answer](../Understanding_Abomination.md)

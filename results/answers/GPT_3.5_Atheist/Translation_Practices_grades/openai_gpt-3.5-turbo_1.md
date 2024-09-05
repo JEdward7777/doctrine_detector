@@ -23,3 +23,5 @@ This tradition continued in early translations of the Bible, where 'Yahweh' was 
 Grade: 95
 
 Comment: This response provides a clear and concise explanation of why many Bible translations use 'LORD' instead of 'Yahweh' to respect God's name. It demonstrates an understanding of the historical traditions and reverence for the divine name, aligning well with the concern of clarity in translation of sacred texts and maintaining reverence for God's name from a Christian worldview.
+
+[&lt;- Link to Answer](../Translation_Practices.md)

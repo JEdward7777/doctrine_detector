@@ -51,3 +51,5 @@ Understanding the role of the tabernacle in the Israelites' relationship with Go
 Grade: 90
 
 Comment: The response provides a clear and accurate explanation of the purpose of the Tabernacle in the Israelites' relationship with God, focusing on worship and following God's instructions for its construction. It covers key aspects such as God's presence, worship and prayer, covenant symbolism, community, the need for a mediator, and foreshadowing the future temple. The response demonstrates a solid understanding of the tabernacle's significance in the Israelites' spiritual life and relationship with God.
+
+[&lt;- Link to Answer](../Understanding_the_Tabernacle.md)

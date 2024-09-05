@@ -71,3 +71,5 @@ To ensure a clear understanding of how propitiation relates to God's justice and
 Grade: 95
 
 Comment: The provided response thoroughly explains the significance of Jesus' sacrifice in relation to God's justice and mercy, addressing how propitiation plays a crucial role in reconciling sinners with God. The response effectively highlights various aspects such as reconciliation, propitiation of God's wrath, satisfaction of God's law, substitutionary atonement, forgiveness of sins, grace and mercy, redemption from sin, assurance of eternal life, and the glorification of God. It effectively connects these aspects to demonstrate how Jesus' sacrifice is central to God's justice and mercy in providing a pathway for forgiveness and eternal life.
+
+[&lt;- Link to Answer](../Understanding_Propitiation.md)

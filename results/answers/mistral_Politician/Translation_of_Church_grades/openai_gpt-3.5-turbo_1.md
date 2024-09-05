@@ -39,3 +39,5 @@ Accurate representation of the church's inclusive nature in translations.
 Grade: 75
 
 Comment: The response provides a good range of suggested translations that accurately reflect the inclusive nature of the church and ensure it refers to all believers, not just one small group. The terms suggested align well with the concern regarding accurate representation of the church's inclusive nature in translations; however, some terms could be further refined to better emphasize inclusivity and avoid potential biases.
+
+[&lt;- Link to Answer](../Translation_of_Church.md)

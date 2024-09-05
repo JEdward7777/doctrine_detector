@@ -31,3 +31,5 @@ These passages use 'woe' to express God's displeasure or judgment on certain act
 Grade: 90
 
 Comment: The response effectively addresses the concern by providing relevant examples from scripture where the term 'woe' is used to emphasize severe judgment upon those who sin or lead others astray. It demonstrates a good understanding of the seriousness of divine judgment as expressed through scripture from a Christian worldview. The inclusion of specific Bible verses strengthens the response.
+
+[&lt;- Link to Answer](../Biblical_Usage_of_Woe.md)

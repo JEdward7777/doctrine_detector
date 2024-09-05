@@ -33,3 +33,5 @@ In summary, being considered a priest means that every believer in Jesus is empo
 Grade: 95
 
 Comment: The response provides a thorough explanation of the concept of the priesthood of all believers using relevant biblical references and theological principles. It effectively expands on the idea that every believer in Jesus is considered a priest with the ability to come directly to God in prayer, interceding for themselves and others. The connection to key passages in the New Testament, the role of Jesus as the ultimate High Priest, the call to serve one another, and the use of spiritual gifts for ministry are well articulated and demonstrate a solid understanding of the concept. Overall, a strong and comprehensive response.
+
+[&lt;- Link to Answer](../New_Testament_Priesthood.md)

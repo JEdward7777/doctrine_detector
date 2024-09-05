@@ -25,3 +25,5 @@ Overall, the Bible teaches that cursing others or speaking negatively about them
 Grade: 95
 
 Comment: The response effectively expands on the idea presented in the initial answer by exploring additional Bible verses that emphasize the importance of watching our words and aligning them with God's teachings. The explanation is thorough and aligns well with a Christian worldview, highlighting the spiritual implications of our speech.
+
+[&lt;- Link to Answer](../Understanding_Curses.md)

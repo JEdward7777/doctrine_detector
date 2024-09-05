@@ -27,3 +27,5 @@ The response wrongly states that the apostle Paul did not establish the Lord's S
 It is important to recognize the Lord's Supper as a central and significant practice for Christians, as it serves as a remembrance and proclamation of Christ's sacrifice and resurrection, as instructed by Jesus Himself and reinforced by Paul and the early church.
 
 Therefore, the grade is low due to the inaccurate statements that go against Christian beliefs and practices.
+
+[&lt;- Link to Answer](../Regular_Practice.md)

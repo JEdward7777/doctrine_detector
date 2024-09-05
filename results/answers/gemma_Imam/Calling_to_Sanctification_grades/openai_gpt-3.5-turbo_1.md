@@ -50,3 +50,5 @@ Emphasizing the importance of personal responsibility in the sanctification proc
 Grade: 90
 
 Comment: The response effectively highlights the importance of personal sanctification for believers, drawing upon the Quran and Sunnah teachings. The emphasis on personal responsibility in the sanctification process is evident through the various practices recommended, such as regular dhikr, salah, zakat, and self-reflection. The inclusion of additional tips further enhances the practicality of the guidance provided. Overall, the response aligns well with the Christian worldview of believers being called to sanctify themselves to God and strive for holiness.
+
+[&lt;- Link to Answer](../Calling_to_Sanctification.md)

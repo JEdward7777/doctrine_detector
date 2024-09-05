@@ -27,3 +27,5 @@ Overall, the Bible teaches that inheriting eternal life is based on God's grace,
 Grade: 50
 
 Comment: The response provided correctly emphasizes that eternal life is obtained through faith in Jesus Christ as a gift from God, which aligns with Christian beliefs. However, the initial answer stating that eternal life can be inherited by obeying God's laws is not accurate according to Christian doctrine, as salvation is based on faith alone, not on works. The response adequately addresses the concern by highlighting the significance of understanding how to attain eternal life for spiritual assurance.
+
+[&lt;- Link to Answer](../Understanding_Eternal_Life.md)

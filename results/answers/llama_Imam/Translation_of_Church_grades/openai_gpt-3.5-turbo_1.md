@@ -29,3 +29,5 @@ It's essential to note that these translations are not exact equivalents, as the
 Grade: 90
 
 Comment: The response provides thoughtful and accurate translations from an Islamic perspective that capture the inclusive nature of the church as a gathering of believers. The suggested translations offer a meaningful reflection of the Christian concept of the church while being sensitive to differences in theological and linguistic contexts.
+
+[&lt;- Link to Answer](../Translation_of_Church.md)

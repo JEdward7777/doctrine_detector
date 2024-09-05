@@ -38,3 +38,5 @@ It's important to use inclusive language that accurately represents all believer
 Grade: 90
 
 Comment: The response provides thoughtful and diverse options for translating "saints" while considering the importance of inclusive language for all believers in Jesus. The focus on holiness, righteousness, faith, commitment, and victory over sin aligns well with Christian beliefs. The additional considerations and avoidance points are also relevant from a Christian worldview. Overall, a strong and well-rounded response.
+
+[&lt;- Link to Answer](../Translation_of_Saints.md)

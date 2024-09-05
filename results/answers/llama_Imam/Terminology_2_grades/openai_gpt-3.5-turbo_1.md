@@ -31,3 +31,5 @@ It's essential for us Muslims to understand these differences in terminology whi
 Grade: 90
 
 Comment: The response provides a thorough explanation of the different terms used within Christianity to refer to the Lord's Supper, demonstrating an understanding of the concern raised. The inclusion of additional terms and explanations shows a strong grasp of the topic and a respectful attitude towards discussing other faith traditions. The response could have been improved by directly addressing the given answer and explicitly connecting it to the broader explanation provided.
+
+[&lt;- Link to Answer](../Terminology_2.md)

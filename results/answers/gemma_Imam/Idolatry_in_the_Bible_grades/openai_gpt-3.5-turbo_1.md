@@ -59,3 +59,5 @@ Understanding these consequences can help Christians recognize the seriousness o
 Grade: 95
 
 Comment: This response effectively illustrates biblical examples of the consequences of idolatry among God's people and draws insightful lessons from them. It skillfully connects the consequences of idolatry to the seriousness of straying from God's commandments, highlighting the importance of repentance and obedience in a Christian worldview. Well done!
+
+[&lt;- Link to Answer](../Idolatry_in_the_Bible.md)

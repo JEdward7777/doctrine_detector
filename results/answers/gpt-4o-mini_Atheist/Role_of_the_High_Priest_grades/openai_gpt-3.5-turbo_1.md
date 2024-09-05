@@ -37,3 +37,5 @@ The high priest's combination of these responsibilities highlights a profound le
 Grade: 95
 
 Comment: The response provides a comprehensive and detailed explanation of the significance and responsibilities associated with the high priest in ancient Israel. It effectively demonstrates how the high priest's role went beyond just entering the most holy part of the tabernacle or temple once a year, highlighting the various duties and unique aspects of his position within the priestly system. The response effectively addresses the concern by showcasing a deep understanding of the high priest's role in the worship practices of Israel.
+
+[&lt;- Link to Answer](../Role_of_the_High_Priest.md)

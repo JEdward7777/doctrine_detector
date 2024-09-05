@@ -87,3 +87,5 @@ However, the answer could be more comprehensive by addressing additional aspects
 Additionally, the response could benefit from more specific examples or illustrations to support its claims. Nevertheless, it provides a solid foundation for discerning true prophetic voices and deserves an 80% grade.
 
 Comment: The answer demonstrates a good understanding of biblical principles and provides some helpful tips for discerning true prophecy. However, it could be more comprehensive by addressing additional aspects and providing more specific examples or illustrations to support its claims.
+
+[&lt;- Link to Answer](../True_vs_False_Prophets.md)

@@ -132,7 +132,7 @@ def produce_question_page( question_label, answer_model__answer_grade_comment, q
             fout.write( f" * [{grade} {answer_model_label}]({answer_url_rel})\n" )
 
 
-def produce_answer_model_page( answer_model_label, question__answer_grade_comment, answer_model, answer_model__question__answer_grade_comment ):
+def produce_answer_model_page( answer_model_label, question__answer_grade_comment, answer_model, answer_model__question__answer_grade_comment, question_array ):
     url = get_answering_models_url( answer_model_label )
     os.makedirs( os.path.dirname(url), exist_ok=True )
 
@@ -168,6 +168,39 @@ def produce_answer_model_page( answer_model_label, question__answer_grade_commen
             grade = average_grade( answer_model__question__answer_grade_comment, question_label_search=question_label, answer_model_label_search=answer_model_label )
 
             fout.write( f" * [{grade}: {question_label}]({answer_url_rel})\n" )
+
+
+        #now write out the result for the worse grade for this model:
+        result = ""
+        result += "\n\n"
+        result += "## Translation Concerns\n\n"
+
+        worst_concern = None
+        worst_grade = 100
+        worst_question = None
+        for question in question_array:
+            grade = average_grade( answer_model__question__answer_grade_comment, question_label_search=question['label'], answer_model_label_search=answer_model['label'] )
+            if grade < worst_grade:
+                worst_sub_grade = 100
+                for grade_object in answer_model__question__answer_grade_comment[answer_model['label']][question['label']]["grades"].values():
+                    if grade_object['grade'] < worst_sub_grade:
+                        worst_sub_grade = grade_object['grade']
+                        worst_concern = grade_object['grade_comment']
+                worst_question = question
+                worst_grade = grade
+
+        result += "\n"
+        result += f"* [{answer_model['label']}'s]({get_rel_url(get_answering_models_url(answer_model['label']),url)}) worse response:\n"
+        result += f"  + Question Label: [{worst_question['label']}]({get_rel_url(get_answer_url(worst_question['label'],answer_model['label']),url)})\n"
+        result += f"  + Grade: {worst_grade}\n"
+        result += f"  + Model's answer:\n"
+        result += f"{block_quote(4,answer_model__question__answer_grade_comment[answer_model['label']][worst_question['label']]['answer'])}\n"
+        result += f"  + Reference Answer:\n"
+        result += f"{block_quote(4,worst_question['answer'])}\n"
+        result += f"  + Concern:\n"
+        result += f"{block_quote(4,worst_concern)}\n"
+
+        fout.write(result)
 
 def produce_answer_page( question_label, answer_model_label, answer_grade_comment, question_answer_concern, answer_model, answer_model__question__answer_grade_comment ):
     url = get_answer_url( question_label, answer_model_label )
@@ -251,34 +284,7 @@ def produce_index_page(question_array,model_array,answer_model__question__answer
             
         result += f"|[<span title='{br(question['question'])}'>{question['label']}</span>]({get_rel_url(get_question_url(question['label']),url)})|" + "|".join( question_result_array ) + "|\n"  
 
-    result += "\n\n"
-    result += "## Translation Concerns\n\n"
 
-    for model_info in model_array:
-        worst_concern = None
-        worst_grade = 100
-        worst_question = None
-        for question in question_array:
-            grade = average_grade( answer_model__question__answer_grade_comment, question_label_search=question['label'], answer_model_label_search=model_info['label'] )
-            if grade < worst_grade:
-                worst_sub_grade = 100
-                for grade_object in answer_model__question__answer_grade_comment[model_info['label']][question['label']]["grades"].values():
-                    if grade_object['grade'] < worst_sub_grade:
-                        worst_sub_grade = grade_object['grade']
-                        worst_concern = grade_object['grade_comment']
-                worst_question = question
-                worst_grade = grade
-
-        result += "\n"
-        result += f"* [{model_info['label']}'s]({get_rel_url(get_answering_models_url(model_info['label']),url)}) worse response:\n"
-        result += f"  + Question Label: [{worst_question['label']}]({get_rel_url(get_answer_url(worst_question['label'],model_info['label']),url)})\n"
-        result += f"  + Grade: {worst_grade}\n"
-        result += f"  + Model's answer:\n"
-        result += f"{block_quote(4,answer_model__question__answer_grade_comment[model_info['label']][worst_question['label']]['answer'])}\n"
-        result += f"  + Reference Answer:\n"
-        result += f"{block_quote(4,worst_question['answer'])}\n"
-        result += f"  + Concern:\n"
-        result += f"{block_quote(4,worst_concern)}\n"
 
     with open(url, 'w') as f:
         f.write(result)
@@ -338,7 +344,7 @@ def produce_grading_model_page( *, answer_model__question__answer_grade_comment,
 
                 #question_result_array.append( "<span title='" + br(answer_model__question__answer_grade_comment[answer_model_label][question['label']]['grade_comment'] + '\n\nModel Answer: ' + answer_model__question__answer_grade_comment[model_info['label']][question['label']]['answer']) + "' " + html_color_code + ">" + str(int(grade)) + "</span>" )
                 question_result_array.append( "[<span " + html_color_code + ">" + str(int(grade)) + f"</span>]({get_rel_url(get_grade_url(question_label,answer_model_label, grading_model_label),url)})" )
-            result += f"|[<span title='{br(question['question'])}'>{question['label']}</span>]({get_rel_url(get_question_url(question_label),url)})|" + "|".join( question_result_array ) + "|\n"  
+            result += f"|[<span title='{br(question['question'])}'>{question['label']}</span>]({get_rel_url(get_question_url(question_label),url)})|" + "|".join( question_result_array ) + "|\n"
         
         fout.write( result )
 
@@ -368,6 +374,8 @@ def produce_grade_page( *, answer_model__question__answer_grade_comment, questio
 
 ## Comment by [{grading_model_label}]({get_rel_url(get_grading_models_url(grading_model_label),url)})
 {grade['grade_comment']}
+
+[&lt;- Link to Answer]({get_rel_url(get_answer_url(question_label, answer_model_label),url)})
 """ )
 
 def main():
@@ -421,7 +429,7 @@ def main():
 
     #answer model page.
     for answer_model_label, question__answer_grade_comment in answer_model__question__answer_grade_comment.items():
-        produce_answer_model_page( answer_model_label, question__answer_grade_comment, answer_model__answer_model[answer_model_label], answer_model__question__answer_grade_comment )
+        produce_answer_model_page( answer_model_label, question__answer_grade_comment, answer_model__answer_model[answer_model_label], answer_model__question__answer_grade_comment, question_array=question_array )
 
     #answer page
     for question_label, answer_model__answer_grade_comment in question__answer_model__answer_grade_comment.items():

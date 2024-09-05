@@ -27,3 +27,5 @@ In a broader theological context, these verses work together to describe the dua
 Grade: 95
 
 Comment: The response provides a thorough explanation of the contrast between condemnation and grace in the Christian life, supported by specific biblical passages. The student effectively relates these concepts to the broader theological context and successfully incorporates relevant insights from Islam. The analysis demonstrates a strong understanding of the Christian worldview in addressing the concern raised.
+
+[&lt;- Link to Answer](../Understanding_Condemnation.md)

@@ -35,3 +35,5 @@ These individuals are all mentioned in the Quran, which Muslims believe to be a 
 Grade: 55
 
 Comment: The response provided by the Muslim Imam is informative and respectful in discussing the individuals considered consecrated in Islam. However, from a Christian worldview, there is a divergence in beliefs regarding the significance and nature of consecrated individuals. It is important to recognize the fundamental Christian belief in Jesus Christ as the ultimate consecrated individual who serves as the divine sacrifice for the atonement of sins, a concept not addressed in the response.
+
+[&lt;- Link to Answer](../Consecrated_Individuals.md)

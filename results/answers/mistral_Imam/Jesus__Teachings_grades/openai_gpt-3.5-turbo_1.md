@@ -25,3 +25,5 @@ In the Islamic perspective, Prophet Isa also affirmed His teachings by saying "A
 Grade: 85
 
 Comment: The response accurately discusses the use of "Amen" by Jesus in affirming His teachings and prayers, thus emphasizing the truth of his words. It demonstrates an understanding of recognizing the authority of Jesus' teachings in Scripture from a Christian worldview perspective. However, the response could have further highlighted the divine nature of Jesus as the Son of God and the unique authority He holds as the Word made flesh in Christian belief.
+
+[&lt;- Link to Answer](../Jesus__Teachings.md)

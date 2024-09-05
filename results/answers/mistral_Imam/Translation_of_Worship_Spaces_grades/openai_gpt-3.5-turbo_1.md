@@ -25,3 +25,5 @@ In terms of contemporary applications, we can think about our mosques as the 'Ho
 Grade: 80
 
 Comment: The response provides a respectful and informative perspective on the translation of "House of Yahweh" within Islamic beliefs. The student accurately highlights the historical significance of the Temple in Jerusalem and effectively relates it to contemporary Islamic worship practices. However, the perspective lacks depth in addressing the importance of worship spaces within a Christian worldview, potentially missing an opportunity to emphasize the significance of God's presence in sacred places according to Christian beliefs.
+
+[&lt;- Link to Answer](../Translation_of_Worship_Spaces.md)

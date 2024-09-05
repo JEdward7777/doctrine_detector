@@ -29,3 +29,5 @@ In both traditions, the ultimate goal is to strengthen one's faith, remain stead
 Grade: 80
 
 Comment: The response provides a thoughtful comparison between the Islamic and Biblical perspectives on testing and temptation, drawing on the Quranic and Christian teachings. The student effectively highlights the distinctions in how each faith tradition views these concepts and their significance in spiritual growth. However, the response could have made a clearer connection to the provided answer and emphasized the importance of discernment when navigating through testing and temptation. Overall, a solid understanding of the topic is demonstrated.
+
+[&lt;- Link to Answer](../Testing_and_Temptation.md)

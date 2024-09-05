@@ -30,3 +30,5 @@ Overall, the celebration of Passover was a significant part of the Israelites' r
 Grade: 90
 
 Comment: The response provides a detailed explanation of the significance of the Passover celebration for the Israelites, highlighting the importance of remembrance in the Christian faith. It effectively connects the celebration of Passover to key biblical themes such as God's deliverance, faithfulness, and covenant relationship with His people. The response could be strengthened by further elaborating on how the concept of remembrance in Passover relates to the Christian practice of Communion, which also emphasizes remembrance of Jesus' sacrifice for the forgiveness of sins. Overall, the response demonstrates a solid understanding of the Christian view on the importance of remembrance in faith.
+
+[&lt;- Link to Answer](../Annual_Remembrance.md)

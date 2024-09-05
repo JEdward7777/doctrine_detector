@@ -21,3 +21,5 @@ Loving others sacrificially, as demonstrated by Jesus, means to put the needs an
 Grade: 95
 
 Comment: This response eloquently elaborates on the concept of loving others sacrificially, linking it to Jesus' sacrifice on the cross for humanity's redemption. It effectively demonstrates an understanding of God's love and how it should be reflected in personal relationships through selflessness, humility, and service to others.
+
+[&lt;- Link to Answer](../Sacrificial_Love.md)

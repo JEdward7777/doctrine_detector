@@ -27,3 +27,5 @@ In summary, the concept of eternal punishment can be understood as a reflection 
 Grade: 75
 
 Comment: The response does a good job in addressing the concern about divine justice and mercy in relation to eternal consequences by discussing various theological perspectives on the concept of eternal punishment in hell. It acknowledges the complexity of the issue and presents differing views while maintaining respect for the foundational belief that rejection of Jesus leads to eternal punishment. However, the response could benefit from explicitly affirming the Christian view of eternal punishment as a reflection of God's justice and mercy, and emphasizing the importance of faith in Jesus for salvation.
+
+[&lt;- Link to Answer](../Eternal_Punishment.md)

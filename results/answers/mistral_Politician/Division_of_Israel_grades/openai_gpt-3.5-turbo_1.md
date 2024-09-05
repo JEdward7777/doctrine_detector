@@ -21,3 +21,5 @@ Understanding the historical and spiritual significance of the division of the I
 Grade: 85
 
 Comment: The response provides a detailed explanation of the events following King Solomon's reign, highlighting key figures such as Jeroboam I and Hezekiah, which enriches the understanding of the division of Israel. The student effectively addresses both the historical and spiritual significance of this division, although more emphasis could be placed on the spiritual implications from a Christian worldview perspective.
+
+[&lt;- Link to Answer](../Division_of_Israel.md)

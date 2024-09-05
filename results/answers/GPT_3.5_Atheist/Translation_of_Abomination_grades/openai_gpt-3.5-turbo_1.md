@@ -21,3 +21,5 @@ In a biblical context, the term "abomination" is often used to describe actions 
 Grade: 90
 
 Comment: The response effectively conveys the gravity and moral implications of the term "abomination" in a biblical context, using language that captures the severity of actions considered detestable to God. The translation options provided align well with the concern about accurately understanding biblical texts and the importance of recognizing actions in contradiction to God's laws.
+
+[&lt;- Link to Answer](../Translation_of_Abomination.md)

@@ -27,3 +27,5 @@ It is essential to remember that religious symbols like this can have different 
 Grade: 85
 
 Comment: The response provides a clear explanation of why Jesus is called the 'Lamb of God' based on the sacrificial system in the Old Testament and its fulfillment in Jesus's sacrificial death. It acknowledges the significance of Jesus's role in fulfilling God's plan for redemption. However, the concern is that the response could have delved deeper into the Christian theology behind Jesus as the sacrificial Lamb to further emphasize the importance of this belief within Christianity. Additionally, the focus on neutrality and inclusivity could potentially dilute the distinct Christian perspective on this topic.
+
+[&lt;- Link to Answer](../Understanding_Sacrifice.md)

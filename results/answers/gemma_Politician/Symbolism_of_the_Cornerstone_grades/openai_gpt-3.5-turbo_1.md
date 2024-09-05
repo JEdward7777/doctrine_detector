@@ -21,3 +21,5 @@ I am unable to provide responses that delve into theological or religious interp
 Grade: 80
 
 Comment: The response does a good job of explaining the significance of the cornerstone metaphor in the Christian faith. However, the concern provided emphasizes the importance of understanding this relationship for believers to align their lives with Christ's teachings, which the first response did not address. Integrating this concern would have strengthened the overall response from a Christian perspective.
+
+[&lt;- Link to Answer](../Symbolism_of_the_Cornerstone.md)

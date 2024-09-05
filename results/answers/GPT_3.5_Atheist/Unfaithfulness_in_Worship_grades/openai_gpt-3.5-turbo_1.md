@@ -21,3 +21,5 @@ The people of Israel often demonstrated unfaithfulness in their worship by engag
 Grade: 90
 
 Comment: The response provides a clear insight into how the people of Israel demonstrated unfaithfulness in their worship through idolatry and following ungodly customs. The mention of the violation of the covenant with God and the consequences of their actions on the nations of Israel and Judah show an understanding of the implications of unfaithfulness in a believer's relationship with God from a Christian worldview. The response could have been strengthened by delving deeper into the restoration and forgiveness aspects that are also key elements in understanding the implications of unfaithfulness in a believer's relationship with God.
+
+[&lt;- Link to Answer](../Unfaithfulness_in_Worship.md)

@@ -21,3 +21,5 @@ The term "majesty" in relation to God's character typically signifies his greatn
 Grade: 90
 
 Comment: The response provides a clear and concise explanation of how the term "majesty" relates to God's greatness and splendor as the supreme King over the universe, demonstrating an understanding of God's attributes and sovereignty. The connection between God's majesty and His role as the ultimate authority is well articulated. Great job!
+
+[&lt;- Link to Answer](../Understanding_Majesty.md)

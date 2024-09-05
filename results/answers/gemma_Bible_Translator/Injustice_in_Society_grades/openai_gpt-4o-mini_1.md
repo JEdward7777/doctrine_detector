@@ -74,3 +74,5 @@ Addressing the need for Christian activism against injustice and promoting fairn
 Grade: 90
 
 Comment: The response provides a comprehensive outline of various injustices in the world today, and it effectively outlines how Christians should respond to these issues based on biblical principles. It emphasizes advocacy, compassion, prayer, cultural transformation, and the balance of justice and mercy. The suggestions are aligned well with a Christian worldview, promoting active engagement with addressing injustices while staying true to Christian principles. The only room for improvement would be to include specific biblical references to support the actions recommended for Christians to take against injustice.
+
+[&lt;- Link to Answer](../Injustice_in_Society.md)

@@ -27,3 +27,5 @@ While both testing and temptation can present challenges to individuals' faith a
 Grade: 90
 
 Comment: The response does an excellent job of explaining the Islamic perspective on testing and temptation, drawing parallels and highlighting key differences between the Islamic and biblical contexts. The student effectively addresses the concern by clearly differentiating between testing as a means of spiritual growth and temptation as an invitation to sin. The response also emphasizes the importance of seeking guidance from Islamic sources to navigate through tests and resist temptations, aligning well with the concern for spiritual discernment. Great work overall.
+
+[&lt;- Link to Answer](../Testing_and_Temptation.md)

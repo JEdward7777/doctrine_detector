@@ -21,3 +21,5 @@ The Festival of Weeks, also known as Shavuot in Judaism, is mentioned in the Old
 Grade: 50
 
 Comment: The response provided a correct reference to the Festival of Weeks in 2 Chronicles, Deuteronomy, Numbers, and Acts, showing some knowledge of the scriptural basis for the observance of Pentecost. However, the candidate did not elaborate on the significance of Pentecost from a Christian worldview, which is essential for a comprehensive understanding of the festival. Further explanation and insight into the spiritual implications of Pentecost would have strengthened the response and displayed a deeper engagement with the topic.
+
+[&lt;- Link to Answer](../Biblical_References_to_Pentecost.md)

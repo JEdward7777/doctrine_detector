@@ -29,3 +29,5 @@ Again, I hope this response respects all perspectives while providing an accurat
 Grade: 90
 
 Comment: The response provided a comprehensive explanation of the components of the Tabernacle, including their significance in worship. The additional details about the items of furniture in the Holy Place and the items within the Ark of the Covenant help deepen the understanding of the Tabernacle's importance in worship. The response demonstrates a good understanding of the topic and addresses the concern effectively.
+
+[&lt;- Link to Answer](../Structure_of_the_Tabernacle.md)

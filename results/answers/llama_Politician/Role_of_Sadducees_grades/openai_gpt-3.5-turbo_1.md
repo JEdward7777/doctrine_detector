@@ -31,3 +31,5 @@ So, to sum it up, the Sadducees played a key role in maintaining the temple syst
 Grade: 90
 
 Comment: The response provides a detailed and accurate explanation of the Sadducees' role in maintaining the temple system and performing priestly duties, fitting well within the historical context of religious leadership during the time of Jesus. The additional information on the Sadducees' involvement in overseeing temple rituals and interpreting Jewish law enhances the understanding of their significance within Judaism. However, the response could have explicitly tied the discussion back to the time of Jesus to further strengthen the connection to the specified concern.
+
+[&lt;- Link to Answer](../Role_of_Sadducees.md)

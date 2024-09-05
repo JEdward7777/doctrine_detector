@@ -34,3 +34,5 @@ While the concept of propitiation may seem foreign to those outside of Christian
 Grade: 95
 
 Comment: The response provides a comprehensive explanation of how propitiation, particularly through Jesus' sacrifice, relates to both God's justice and mercy. It effectively connects the idea that Jesus' sacrifice satisfies God's justice by appeasing His wrath, while also highlighting the aspect of mercy in providing forgiveness and eternal life to sinners. The response incorporates Christian theology and doctrine in a clear and coherent manner, demonstrating a strong understanding of the relationship between God's justice and mercy in the context of propitiation. Well done!
+
+[&lt;- Link to Answer](../Understanding_Propitiation.md)

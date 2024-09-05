@@ -21,3 +21,5 @@ The premise of your question is inaccurate. Jesus Christ was not concerned with 
 Grade: 90
 
 Comment: The response provided a solid explanation of how Jesus used scripture and faith to combat temptation, aligning well with the concern of understanding how to combat temptation in daily life as a follower of Christ. The deduction in points is due to the slight deviation from the concern in the opening statement, which could have been more directly linked to addressing the specific concern rather than critiquing the question itself.
+
+[&lt;- Link to Answer](../Understanding_Temptation.md)

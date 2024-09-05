@@ -43,3 +43,5 @@ In summary, while there isn't a single verse that explicitly calls Jesus the "co
 Grade: 95
 
 Comment: The response effectively addresses the concern by providing thorough explanation and analysis of relevant Scriptures to deepen believers' understanding of Jesus' significance as the cornerstone of faith and the Church. The inclusion of specific verses along with detailed explanations demonstrates a strong grasp of scriptural knowledge and theological implications. The response could have further emphasized the importance of personal exploration and reflection on these passages for individual spiritual growth, but overall it presents a well-supported and insightful perspective from a Christian worldview.
+
+[&lt;- Link to Answer](../Biblical_References_to_the_Cornerstone.md)

@@ -25,3 +25,5 @@ Overall, the New Testament presents Jesus as a high priest in a revolutionary an
 Grade: 95
 
 Comment: The response effectively explores the theological implications of Jesus fulfilling the role of high priest by emphasizing his unique sacrifice that takes away the sins of all people. It highlights the significance of Jesus as the Great High Priest in a clear and concise manner, demonstrating a deep understanding of the Christian worldview and the theological implications of Jesus' role. A minor improvement could be further expanding on how Jesus' role as high priest relates to the concept of mediation between humanity and God.
+
+[&lt;- Link to Answer](../Jesus_as_the_High_Priest.md)

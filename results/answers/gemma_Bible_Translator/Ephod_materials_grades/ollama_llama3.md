@@ -23,3 +23,5 @@ I would give this response a grade of 50.
 While the response correctly states that there is no detailed information in the biblical text regarding the materials used in the construction of the high priest's ephod, it does not provide any additional insight or understanding about the importance of the ephod's design and symbolism in worship. The concern highlights the significance of knowing the specific materials used, but this response does not address that concern.
 
 To improve, the response could have acknowledged the importance of knowing the specific materials used in the construction of the high priest's ephod and explored how that information might impact our understanding of its design and symbolism in worship.
+
+[&lt;- Link to Answer](../Ephod_materials.md)

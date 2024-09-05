@@ -21,3 +21,5 @@ The high priest in ancient Israel held a significant and elevated role within th
 Grade: 90
 
 Comment: The response provided a comprehensive explanation of the high priest's role in ancient Israel, detailing their unique responsibilities and privileges, as well as their central role in key ceremonies such as the Day of Atonement. The response effectively addressed the concern by showcasing an understanding of the high priest's significance in the worship practices of Israel from a Christian specific worldview. However, it could have further emphasized the high priest's role as the intermediary between the people and God and their use of sacred objects for divine guidance.
+
+[&lt;- Link to Answer](../Role_of_the_High_Priest.md)

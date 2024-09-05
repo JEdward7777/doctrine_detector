@@ -23,3 +23,5 @@ According to this narrative, during the Israelites' journey through the wilderne
 Grade: 80
 
 Comment: The response effectively explains the biblical account of manna in relation to the Sabbath and highlights the importance of observing the Sabbath based on God's commands. The student's understanding of the significance of gathering double manna before the Sabbath aligns with the concern provided, showcasing a clear understanding of the religious perspective on Sabbath observance. A higher grade could be achieved by incorporating additional scriptural references or theological insights to deepen the analysis.
+
+[&lt;- Link to Answer](../Sabbath_Observance_2.md)

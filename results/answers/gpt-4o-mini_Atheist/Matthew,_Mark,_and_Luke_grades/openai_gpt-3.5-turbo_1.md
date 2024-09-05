@@ -28,3 +28,5 @@ These listings include variations in wording, but the core names remain consiste
 Grade: 90
 
 Comment: The response provides a thorough explanation by mentioning additional relevant passages where the names of the twelve disciples are listed. This demonstrates a good understanding of the Gospel accounts and their teachings related to the disciples. The only improvement could be to explicitly state that Acts 1:13 also lists the names of the apostles, as this would further enhance the response's completeness.
+
+[&lt;- Link to Answer](../Matthew,_Mark,_and_Luke.md)

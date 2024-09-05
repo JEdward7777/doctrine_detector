@@ -45,3 +45,5 @@ The response partially addresses the concern of understanding Jesus' teaching me
 While the response correctly notes that Jesus used parables to teach moral truths and reveal truth to his disciples, it oversimplifies the complexity of Jesus' teachings. The provided answer does not fully capture the multifaceted nature of Jesus' use of parables as described in the response. Specifically, it lacks insight into how parables engaged listeners' imaginations, revealed spiritual realities, challenged assumptions, and illustrated God's love and compassion.
 
 To improve the grade, the response should provide a more nuanced understanding of Jesus' teaching methods and their implications for faith.
+
+[&lt;- Link to Answer](../Purpose_of_Parables.md)

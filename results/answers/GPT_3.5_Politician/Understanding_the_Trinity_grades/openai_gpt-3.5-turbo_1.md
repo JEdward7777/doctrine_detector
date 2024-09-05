@@ -21,3 +21,5 @@ This is a complex theological concept that varies among different religious beli
 Grade: 90
 
 Comment: The response accurately identifies the Trinity as a mystery of the Christian faith and provides a concise explanation of the concept. It acknowledges the complexity of the topic while affirming the foundational Christian belief in the Trinity. The concern is adequately addressed from a Christian worldview perspective.
+
+[&lt;- Link to Answer](../Understanding_the_Trinity.md)

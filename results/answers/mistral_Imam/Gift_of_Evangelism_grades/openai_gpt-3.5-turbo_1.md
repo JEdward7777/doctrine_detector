@@ -23,3 +23,5 @@ In Islam, it is encouraged to share one's faith peacefully and respectfully with
 Grade: 85
 
 Comment: The response demonstrates a good understanding of the spiritual gift of evangelism within the Christian context, as outlined in the provided answer. The discussion on the role of evangelists in sharing the gospel is clear and relevant to the concern raised. However, there could have been a more explicit connection made to Christian teachings or scripture to further support the explanation within a Christian worldview.
+
+[&lt;- Link to Answer](../Gift_of_Evangelism.md)

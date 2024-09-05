@@ -25,3 +25,5 @@ Furthermore, consecration often involves the use of specific rituals and symbols
 Grade: 90
 
 Comment: The response provides a comprehensive explanation of the purification process involved in consecration, emphasizing the removal of impurities and distractions that may hinder one's service to God. It effectively addresses the concern by elaborating on the symbolism and rituals associated with consecration. Overall, it demonstrates a strong understanding of the topic from a Christian worldview.
+
+[&lt;- Link to Answer](../Consecration_and_Service.md)

@@ -21,3 +21,5 @@ In the Bible, the prophet Nathan utilized a parable to confront King David about
 Grade: 95
 
 Comment: This response effectively demonstrates an understanding of the biblical narrative in which the prophet Nathan used a parable to confront King David about his sins. The student effectively explains how the parable was utilized to reveal the king's wrongdoing, leading to acknowledgment and repentance. The response shows insight into the use of parables as a means of correction and revelation in biblical narratives. Great job overall!
+
+[&lt;- Link to Answer](../Role_of_Parables_in_Scripture.md)

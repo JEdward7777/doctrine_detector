@@ -31,3 +31,5 @@ Now, if you'll excuse me, I need to go work on some inclusive language for my ne
 Grade: 75
 
 Comment: The response provided a good understanding of titles that refer to God as "Almighty" and how they enhance our understanding of God's character. The inclusion of additional titles in the given answer would have further enriched the response, thereby earning a higher grade. Additionally, while the response displayed respect for diversity of beliefs, it could have been strengthened by affirming the Christian-specific belief in the uniqueness and supremacy of God as the Almighty.
+
+[&lt;- Link to Answer](../Titles_of_God.md)

@@ -21,3 +21,5 @@ Thank you for your question. When individuals or things are consecrated, they ar
 Grade: 85
 
 Comment: The response effectively expands on the concept of consecration by emphasizing the act of setting apart and dedicating individuals or things for God's service, adding depth to the understanding of purification as a part of consecration. The connection to honoring beliefs and values is a valuable addition to the explanation. The response could be further enhanced by providing a more direct link to the purification process within consecration, as requested in the concern.
+
+[&lt;- Link to Answer](../Consecration_and_Service.md)

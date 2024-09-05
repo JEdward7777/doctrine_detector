@@ -27,3 +27,5 @@ In summary, the centurion's visit from Peter represents the expansion of the Gos
 Grade: 95
 
 Comment: The response effectively connects the significance of the centurion's visit from Peter with the mission of the Church to reach all nations and the inclusivity of the Gospel. It accurately portrays how this event marked a pivotal moment in the expansion of the Gospel beyond the Jewish community, emphasizing God's love and salvation for all people. The language used in the response aligns well with a Christian worldview, emphasizing the universal nature of God's grace and the invitation extended to all to become part of God's kingdom through faith in Jesus Christ.
+
+[&lt;- Link to Answer](../Centurion_and_Peter.md)

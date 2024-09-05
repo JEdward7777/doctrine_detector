@@ -23,3 +23,5 @@ Following King Solomon's death, Israel experienced a period of political and mil
 Grade: 85
 
 Comment: The response provides a good overview of the division of Israel into two kingdoms after King Solomon's death, setting the stage for the Babylonian Captivity. However, it would have been helpful to elaborate on the spiritual implications of this division, such as how it impacted the relationship between God and His people and the fulfillment of prophetic warnings about the consequences of Israel's disobedience.
+
+[&lt;- Link to Answer](../Division_of_Israel.md)

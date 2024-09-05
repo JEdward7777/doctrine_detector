@@ -31,3 +31,5 @@ Ultimately, the relationship between repentance and baptism in the New Testament
 Grade: 70
 
 Comment: The response provides a thorough exploration of the relationship between repentance and baptism from a neutral academic perspective without delving deeply into theological or doctrinal considerations. While it acknowledges the connection between repentance and baptism in the New Testament, it falls short of definitively stating repentance as a prerequisite for baptism, which is a core belief in Christian doctrine. The response could have strengthened its argument by integrating more explicitly Christian perspectives on the issue.
+
+[&lt;- Link to Answer](../Baptism_and_Repentance.md)

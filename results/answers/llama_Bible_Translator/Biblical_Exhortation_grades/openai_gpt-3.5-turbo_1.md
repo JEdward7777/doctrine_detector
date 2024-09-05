@@ -27,3 +27,5 @@ This directive is often referred to as the "Great Commission" and serves as a fo
 Grade: 95
 
 Comment: The response provides a strong understanding and interpretation of the Great Commission as outlined in Matthew 28:18-20. It effectively connects the given answer to the concern of recognizing the importance of evangelism in the Christian faith by highlighting the core message of spreading the good news about salvation through trusting in Jesus. The integration of biblical reference and explanation demonstrates a solid grasp of the Christian worldview on evangelism.
+
+[&lt;- Link to Answer](../Biblical_Exhortation.md)

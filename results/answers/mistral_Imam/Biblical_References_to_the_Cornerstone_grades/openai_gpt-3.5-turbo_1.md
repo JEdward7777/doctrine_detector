@@ -31,3 +31,5 @@ These verses convey Jesus' role as the foundational element upon which the churc
 Grade: 90
 
 Comment: The response provides a thorough explanation of the significance of Jesus as the cornerstone in Christianity based on relevant biblical verses. It effectively connects Jesus' role as the cornerstone to the foundation of faith and the Church. The student demonstrates a solid understanding of the concept and effectively addresses the concern by encouraging believers to explore scripture for a deeper understanding of Jesus' significance in their faith. A well-reasoned and well-supported response within a Christian worldview.
+
+[&lt;- Link to Answer](../Biblical_References_to_the_Cornerstone.md)

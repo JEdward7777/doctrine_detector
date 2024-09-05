@@ -63,3 +63,5 @@ The only areas that could be improved are:
 * Some of the language is slightly ambiguous (e.g., "what He has done for you"), which could potentially lead to misunderstandings. More explicit language might be helpful.
 
 Overall, however, this response does an excellent job of reassuring believers of their salvation and providing a strong biblical foundation for faith.
+
+[&lt;- Link to Answer](../Assurance_of_Salvation.md)

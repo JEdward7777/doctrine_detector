@@ -23,3 +23,5 @@ It is important to acknowledge that perspectives on this topic may vary dependin
 Grade: 90
 
 Comment: This response demonstrates a clear understanding of the divine empowerment and authority bestowed upon the apostles for ministry within a Christian worldview. The student accurately explains that the apostles were empowered by God to boldly preach the gospel, heal people, and cast out demons, attributing their authority to Jesus. The response effectively addresses the concern provided and aligns well with Christian beliefs regarding the role of the apostles in spreading the message of Jesus. The inclusion of the importance of respecting varying perspectives also shows a thoughtful approach to discussing religious faith.
+
+[&lt;- Link to Answer](../Authority_of_Apostles.md)

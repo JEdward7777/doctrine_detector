@@ -25,3 +25,5 @@ In essence, "woe is me" suggests a realization of one's own struggles and a reco
 Grade: 80
 
 Comment: The response provides a thorough analysis of the phrase "woe is me" from an Islamic perspective in encouraging personal reflection on one's spiritual state and awareness of sin. The connection to the concept of *tawbah* (repentance) is well-explained and demonstrates a clear understanding of the concern raised. The integration of Islamic teachings adds depth to the response and effectively illustrates the importance of humility and seeking forgiveness from Allah.
+
+[&lt;- Link to Answer](../Personal_Reflection.md)

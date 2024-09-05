@@ -27,3 +27,5 @@ Overall, the practice of anointing for healing in the New Testament is a reflect
 Grade: 85
 
 Comment: The response provides a well-supported explanation of the practice of anointing for healing in the New Testament, connecting it to seeking God's intervention and healing power. It acknowledges the importance of anointing in spiritual and physical healing within Christian practice. However, it could have further emphasized the significance of faith in God's power in conjunction with anointing for healing.
+
+[&lt;- Link to Answer](../Healing_through_Anointing.md)

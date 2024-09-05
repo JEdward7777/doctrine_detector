@@ -25,3 +25,5 @@ In this passage, God is seen as blessing creation by giving humans a role to pla
 Grade: 60
 
 Comment: The response provides a relevant example from Genesis 1:28 and explains how blessings are illustrated in scripture in the context of the "cultural mandate." However, the initial answer provided in Genesis 1:22 does not directly address the concern about how blessings are illustrated. Further elaboration on the specific aspect of blessings as illustrated in scripture could have strengthened the response.
+
+[&lt;- Link to Answer](../Biblical_Examples_of_Blessing.md)

@@ -27,3 +27,5 @@ It's important to note that these are religious and symbolic interpretations rat
 Grade: 95
 
 Comment: The response effectively explores the theological implications of Jesus fulfilling the role of High Priest by discussing both His sacrificial role and intercessory role in a clear and concise manner. The answer provides appropriate biblical references to support the explanation. It accurately addresses the concern by highlighting the significance of Jesus as the Great High Priest who offered Himself as the ultimate sacrifice for the atonement of sins. Well done!
+
+[&lt;- Link to Answer](../Jesus_as_the_High_Priest.md)

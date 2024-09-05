@@ -21,3 +21,5 @@ The temple constructed by King Solomon in Jerusalem, known as the First Temple o
 Grade: 85
 
 Comment: The response provides a solid understanding of the role of the temple in the context of Old Testament worship, emphasizing its significance as a central place of worship and sacrifice for the Israelites. The connection between the temple, prayer, sacrifices, and the covenant with God is accurately conveyed. However, to enhance the grade, further elaboration could be provided regarding specific rituals and practices that took place in the temple, as well as how the temple symbolized the Israelites' relationship with God.
+
+[&lt;- Link to Answer](../Temple_Significance.md)

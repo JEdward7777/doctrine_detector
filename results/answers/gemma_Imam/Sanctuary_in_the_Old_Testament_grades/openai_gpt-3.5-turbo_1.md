@@ -25,3 +25,5 @@ The Quran also highlights the importance of upholding justice and integrity with
 Grade: 60
 
 Comment: The response provided a good understanding of the concept of sanctuary as a dwelling place for God and a source of safety for His people based on the given answer. However, the response largely focused on the Islamic perspective from the Quran rather than providing insights from a Christian-specific worldview. To improve the grade, it's important to incorporate more Christian teachings and beliefs regarding the sanctuary, such as its significance in the Old Testament, the foreshadowing of Christ as the ultimate sanctuary, and the importance of repentance and forgiveness in finding sanctuary in God.
+
+[&lt;- Link to Answer](../Sanctuary_in_the_Old_Testament.md)

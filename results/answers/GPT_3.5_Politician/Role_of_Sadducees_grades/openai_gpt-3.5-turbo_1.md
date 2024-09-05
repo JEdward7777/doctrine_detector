@@ -21,3 +21,5 @@ The Sadducees played a key role in the religious and political leadership of anc
 Grade: 80
 
 Comment: The response accurately identifies the main responsibilities of the Sadducees in terms of taking care of the temple complex and performing priestly tasks. However, the grade is not higher due to the lack of discussing the broader historical context of religious leadership in the time of Jesus, which could have provided a deeper understanding of the role and influence of the Sadducees within that specific timeframe. The response could have been improved by including more information about how the Sadducees interacted with other religious sects and leaders during the time of Jesus to give a fuller picture of their significance.
+
+[&lt;- Link to Answer](../Role_of_Sadducees.md)

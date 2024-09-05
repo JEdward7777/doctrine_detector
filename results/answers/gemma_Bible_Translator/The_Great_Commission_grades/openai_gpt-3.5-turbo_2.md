@@ -23,3 +23,5 @@ The command Jesus gave to His disciples before ascending to heaven is found in *
 Grade: 95
 
 Comment: The response provides an accurate and concise summary of Jesus' command to His disciples in the Great Commission, emphasizing the importance of making disciples, baptizing them, and teaching obedience to Christ's teachings. The connection between discipleship and the mission of the Great Commission is clearly understood and articulated. Great job!
+
+[&lt;- Link to Answer](../The_Great_Commission.md)

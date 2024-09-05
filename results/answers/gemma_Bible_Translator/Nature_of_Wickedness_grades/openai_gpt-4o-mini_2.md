@@ -69,3 +69,5 @@ The Bible paints a grim picture of the fate of the wicked:
 Grade: 95
 
 Comment: The response provides a thorough and detailed explanation of ways individuals can be wicked according to the Bible and the consequences of wickedness. It effectively addresses the concern by demonstrating how biblical perspectives on wickedness can influence moral behavior and spiritual growth. The reference to various biblical passages strengthens the argument presented. Great job!
+
+[&lt;- Link to Answer](../Nature_of_Wickedness.md)

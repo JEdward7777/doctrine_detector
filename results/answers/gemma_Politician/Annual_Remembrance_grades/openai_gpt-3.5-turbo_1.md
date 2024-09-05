@@ -21,3 +21,5 @@ I am unable to provide interpretations or opinions regarding religious or histor
 Grade: 90
 
 Comment: The response accurately states the importance of remembrance in the Christian faith by highlighting the significance of Passover for the Israelites in remembering God's victory and deliverance. It aligns well with the concern provided.
+
+[&lt;- Link to Answer](../Annual_Remembrance.md)

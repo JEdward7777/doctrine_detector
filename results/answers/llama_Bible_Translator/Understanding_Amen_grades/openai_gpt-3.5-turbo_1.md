@@ -30,3 +30,5 @@ In the New Testament, Jesus taught his disciples to use Amen when praying (Matth
 Grade: 95
 
 Comment: The response provides a thorough explanation of the significance of the term "Amen" in Christian prayer, demonstrating a clear understanding of its importance within Christian practice. The elaboration on confirmation, verification, solemnity, and unity gives a well-rounded perspective on the deeper meaning behind saying "Amen" in prayer. The scriptural reference to Jesus teaching his disciples to use Amen further strengthens the response. Overall, this answer effectively addresses the concern regarding the significance of prayer in Christian practice.
+
+[&lt;- Link to Answer](../Understanding_Amen.md)

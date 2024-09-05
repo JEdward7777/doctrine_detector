@@ -29,3 +29,5 @@ It is interesting to note that each list has slightly different orderings but co
 Grade: 90
 
 Comment: The response accurately lists the names of the twelve disciples from the books of Matthew, Mark, and Luke, demonstrating a good understanding of the Gospel accounts. The additional information about the slight variations in the order of the disciples in the different Gospel accounts shows a thoughtful consideration of the text. Overall, a well-rounded and knowledgeable response.
+
+[&lt;- Link to Answer](../Matthew,_Mark,_and_Luke.md)

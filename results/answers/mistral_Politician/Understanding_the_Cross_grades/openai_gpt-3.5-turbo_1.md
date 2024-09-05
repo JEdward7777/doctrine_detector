@@ -21,3 +21,5 @@ This addresses the core of Christian faith regarding salvation through Jesus' sa
 Grade: 95
 
 Comment: The response provides a comprehensive explanation of the Christian belief in Jesus' sacrifice on the cross for the redemption of humanity's sins. It highlights the core of Christian faith regarding salvation through Jesus' sacrifice effectively and eloquently. Great job!
+
+[&lt;- Link to Answer](../Understanding_the_Cross.md)

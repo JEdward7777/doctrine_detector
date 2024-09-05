@@ -25,3 +25,5 @@ Recognizing the various ways to identify service roles within the church.
 Grade: 80
 
 Comment: The response effectively acknowledges various ways to identify service roles within the church by listing different titles such as church minister, church worker, or church servant. However, it could have further emphasized the significance of each title within the Christian context to demonstrate a deeper understanding of service roles in the church.
+
+[&lt;- Link to Answer](../Terminology.md)

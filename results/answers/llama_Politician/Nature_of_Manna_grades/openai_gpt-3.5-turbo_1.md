@@ -27,3 +27,5 @@ By doing so, we can honor the diversity of beliefs and cultures within our commu
 Grade: 85
 
 Comment: The response does a good job of acknowledging the biblical account of manna and its taste while also emphasizing the symbolic significance and miraculous provision of God. The inclusion of different perspectives and denominations shows respect for diversity within the community. However, it could strengthen the Christian perspective by further elaborating on the significance of manna as a demonstration of God's sustenance and care for His people.
+
+[&lt;- Link to Answer](../Nature_of_Manna.md)

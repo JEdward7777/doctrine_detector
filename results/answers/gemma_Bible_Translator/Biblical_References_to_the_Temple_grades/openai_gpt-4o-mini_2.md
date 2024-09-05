@@ -34,3 +34,5 @@ These scriptures highlight the temple as a physical structure where God's presen
 Grade: 95
 
 Comment: The response provided an excellent selection of relevant scriptures from both the Old and New Testaments that discuss the concept of the temple as the "house of Yahweh." There was a strong biblical foundation and clear connection made between the temple and God's dwelling place in the scriptures provided. This response effectively addressed the concern with a thorough and well-supported explanation.
+
+[&lt;- Link to Answer](../Biblical_References_to_the_Temple.md)

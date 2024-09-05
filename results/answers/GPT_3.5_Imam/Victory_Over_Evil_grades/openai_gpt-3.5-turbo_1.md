@@ -29,3 +29,5 @@ As Muslims, we are encouraged to seek refuge in Allah from the whispers and temp
 Grade: 80
 
 Comment: The response does a good job of explaining the Islamic perspective on Satan's defeat based on Quranic verses and teachings. However, the grade is lower due to the fact that it does not directly address the Christian specific concern provided and does not incorporate a Christian worldview in evaluating the given answer.
+
+[&lt;- Link to Answer](../Victory_Over_Evil.md)

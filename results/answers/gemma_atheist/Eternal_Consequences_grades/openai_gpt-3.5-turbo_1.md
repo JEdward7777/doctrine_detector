@@ -23,3 +23,5 @@ The concept of eternal consequences is a theological construct that is not suppo
 Grade: 20
 
 Comment: The response completely disregards the Christian worldview concerning the concept of eternal separation from God and the consequences of perishing. It dismisses these beliefs as merely theological constructs without acknowledging the seriousness or implications from a Christian perspective. A more thoughtful engagement with the concern from a Christian worldview is needed to provide a comprehensive evaluation.
+
+[&lt;- Link to Answer](../Eternal_Consequences.md)

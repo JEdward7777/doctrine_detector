@@ -21,3 +21,5 @@ In the Bible, prophets are seen as individuals who receive messages from a divin
 Grade: 85
 
 Comment: The response provided accurately identifies the primary role of prophets as delivering God's messages to the people, particularly in warning them to turn away from sin and obey God. This aligns well with a Christian worldview. The response could have further elaborated on the importance of heeding these messages and the consequences of ignoring them, which would have strengthened the connection with understanding the biblical role of prophets and their messages.
+
+[&lt;- Link to Answer](../Role_of_Prophets.md)

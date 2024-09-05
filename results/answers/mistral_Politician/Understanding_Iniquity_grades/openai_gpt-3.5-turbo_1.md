@@ -29,3 +29,5 @@ These terms are related, as they all describe various aspects of moral wrongdoin
 Grade: 90
 
 Comment: The response provides a solid biblical explanation of the terms iniquity, sin, and transgression, highlighting their nuances and distinctions effectively. The focus on recognizing the gravity of one's actions and seeking repentance aligns well with the Christian worldview, emphasizing the importance of personal accountability and spiritual growth. Overall, this response demonstrates a clear understanding of the Christian perspective on moral wrongdoing and its implications for individuals.
+
+[&lt;- Link to Answer](../Understanding_Iniquity.md)

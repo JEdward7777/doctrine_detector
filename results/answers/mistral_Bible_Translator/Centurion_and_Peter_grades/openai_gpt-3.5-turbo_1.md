@@ -25,3 +25,5 @@ Peter's visit to the centurion also shows acceptance and recognition of this fai
 Grade: 95
 
 Comment: The response provides a thorough analysis of the account of the Roman Centurion and his interaction with Peter, demonstrating a solid understanding of the mission of the Church to reach all nations and the inclusivity of the Gospel. The connection made between this biblical account and the broader implications for the spread of Christianity to Gentile communities is well articulated and aligns well with Christian teachings. The response effectively highlights the universal reach of Jesus' teachings and the inclusive nature of the Gospel message. Well done!
+
+[&lt;- Link to Answer](../Centurion_and_Peter.md)

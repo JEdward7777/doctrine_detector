@@ -35,3 +35,5 @@ In summary, the apostles' authority is closely tied to their ability to perform 
 Grade: 95
 
 Comment: This response provides a comprehensive exploration of the divine empowerment and authority bestowed upon the apostles for ministry, offering a thorough examination of how their ability to perform miracles and preach boldly was rooted in God's power and presence. The connection between the apostles' authority and their miraculous works is well articulated, showcasing a deep understanding of the Christian worldview on this topic. The response effectively connects the given answer to the concern raised, resulting in a thorough and insightful analysis.
+
+[&lt;- Link to Answer](../Authority_of_Apostles.md)

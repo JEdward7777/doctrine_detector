@@ -37,3 +37,5 @@ The primary characteristics of a prophet include:
 Grade: 70
 
 Comment: The response provides a comprehensive overview of the roles and characteristics of prophets in both Islam and Christianity, giving valuable insights into their roles as messengers of divine guidance. However, the response does not directly address the concern of understanding the biblical role of prophets and their messages as specified. To improve the grade, more emphasis on the specific biblical perspective and the importance of prophets in conveying God's messages within the context of sin, repentance, and obedience would be beneficial.
+
+[&lt;- Link to Answer](../Role_of_Prophets.md)

@@ -21,3 +21,5 @@ In the context of the Assembly of believers, Jesus Christ is often referred to a
 Grade: 85
 
 Comment: The response effectively acknowledges the significance of Jesus Christ as the cornerstone in the Christian faith and how this impacts the Assembly of believers. It could have delved deeper into how an understanding of Christ's role can shape a believer's faith journey and community engagement, but overall, it provides a solid Christian perspective.
+
+[&lt;- Link to Answer](../Understanding_the_Cornerstone.md)

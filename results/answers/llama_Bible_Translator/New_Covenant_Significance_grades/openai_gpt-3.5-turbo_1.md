@@ -35,3 +35,5 @@ In summary, the new covenant established through Jesus Christ represents a radic
 Grade: 90
 
 Comment: The response provides a comprehensive explanation of the significance of the new covenant, emphasizing the transformative power of Jesus' sacrifice and its fulfillment of God's promises. It effectively highlights the universal access to God, spiritual empowerment, forgiveness of sins, indwelling of God, and the concept of becoming a new creation through the new covenant. The reference to Jesus' sacrifice completely atoning for people's sins forever aligns well with the Christian worldview of redemption and salvation through Christ.
+
+[&lt;- Link to Answer](../New_Covenant_Significance.md)

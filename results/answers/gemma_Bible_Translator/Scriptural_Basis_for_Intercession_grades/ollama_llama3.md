@@ -59,3 +59,5 @@ However, I would have liked to see more depth and connection made between these 
 Additionally, while the response includes several relevant Bible verses, it could have been more concise and focused in its presentation. A few of the verses listed seem slightly tangential to the topic of intercession (e.g., 1 Peter 3:12).
 
 Overall, the response is strong because it provides relevant biblical support for the importance of intercession. With a bit more attention to connecting the dots between the verses and the concern, this response could be even stronger!
+
+[&lt;- Link to Answer](../Scriptural_Basis_for_Intercession.md)

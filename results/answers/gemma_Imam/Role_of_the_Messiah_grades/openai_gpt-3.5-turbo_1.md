@@ -23,3 +23,5 @@ In Islam, Jesus is considered a prophet and messenger of God, but not the Son of
 Grade: 80
 
 Comment: The response provides a clear explanation of the Christian belief regarding the Messiah's roles as a prophet, priest, and king, and in establishing the New Covenant. However, it could have further emphasized the significance of understanding and recognizing Jesus as the Messiah in relation to his mission and authority, in light of the concern provided.
+
+[&lt;- Link to Answer](../Role_of_the_Messiah.md)

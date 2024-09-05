@@ -21,3 +21,5 @@ In a biblical context, a covenant is a solemn agreement or contract between two 
 Grade: 90
 
 Comment: The response provides a clear and concise explanation of covenants in biblical contexts. It accurately describes a covenant as a formal, binding agreement between two parties that must be fulfilled. Additionally, it recognizes the significance of covenants in depicting the relationships between God and humanity in the Bible. The only minor improvement could be to expand a bit more on the consequences of breaking a covenant in biblical terms.
+
+[&lt;- Link to Answer](../Covenant_Definition.md)

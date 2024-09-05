@@ -21,3 +21,5 @@ In Jewish tradition, the Sabbath, also known as Shabbat, begins at sunset on Fri
 Grade: 50
 
 Comment: The response correctly identifies the timeframe for the Sabbath observance, but it conflates Jewish and Islamic traditions when discussing the Sabbath and Jumu'ah. From a Christian worldview, it's important to differentiate between the biblical teaching on the Sabbath and other religious traditions. More focus on the biblical significance and teachings related to the Sabbath would have strengthened the response.
+
+[&lt;- Link to Answer](../Sabbath_Timing.md)

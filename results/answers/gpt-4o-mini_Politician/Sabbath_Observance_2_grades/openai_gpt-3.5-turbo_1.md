@@ -21,3 +21,5 @@ In the biblical narrative, particularly in the Book of Exodus, God provided spec
 Grade: 95
 
 Comment: The response effectively highlights the importance of observing the Sabbath according to God's commands by referencing the specific instruction given to the Israelites in gathering manna. It demonstrates a clear understanding of the biblical narrative and the significance of the Sabbath as a day of rest and reflection. The connection between practical guidance and spiritual observance is well articulated in the response. Great job!
+
+[&lt;- Link to Answer](../Sabbath_Observance_2.md)

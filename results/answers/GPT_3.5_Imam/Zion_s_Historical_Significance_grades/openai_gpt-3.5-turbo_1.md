@@ -25,3 +25,5 @@ King David is revered in Islam as a prophet and a righteous ruler, known for his
 Grade: 75
 
 Comment: The response provided a valuable perspective on the significance of Mount Zion in Islamic tradition, acknowledging Prophet Dawud's connection to the site and the belief in the Ark of the Covenant. However, the answer did not deeply explore the biblical narrative regarding Mount Zion and its connection to King David as requested in the concern. It would have been stronger if it delved more into the biblical account of Mount Zion's origins and its significance within Christianity.
+
+[&lt;- Link to Answer](../Zion_s_Historical_Significance.md)

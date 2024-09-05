@@ -27,3 +27,5 @@ Together, these passages reveal that the Christian faith was not intended to be 
 Grade: 70
 
 Comment: The response provided a good understanding of the biblical passages mentioned and their implications for inclusivity in Christianity. However, it is important to emphasize the centrality of Jesus Christ as the only way to salvation, as stated in John 14:6, within discussions of faith and inclusion. Additionally, the response could have delved deeper into the theological nuances of grace and the role of faith in salvation, addressing how these concepts shape the Christian understanding of inclusivity.
+
+[&lt;- Link to Answer](../Biblical_References_to_Gentiles.md)

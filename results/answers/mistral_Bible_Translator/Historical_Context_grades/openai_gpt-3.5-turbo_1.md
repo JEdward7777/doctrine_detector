@@ -31,3 +31,5 @@ These examples demonstrate the idea of a "remnant" as a small group of individua
 Grade: 90
 
 Comment: The response provides a solid understanding of the concept of a remnant in the context of God's promises as seen in the books of Isaiah and Amos. The reference to Isaiah's description of a remnant returning to Canaan after exile and Amos highlighting God's preservation of a faithful remnant despite judgment demonstrates a good grasp of the historical significance of a remnant in relation to God's promises. The response effectively summarizes and applies this understanding to the Christian worldview, showcasing the persistence of God's covenant with His people.
+
+[&lt;- Link to Answer](../Historical_Context.md)

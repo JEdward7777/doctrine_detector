@@ -29,3 +29,5 @@ These verses highlight the idea of atonement or propitiation through sacrifices,
 Grade: 90
 
 Comment: The response effectively provides relevant biblical references (Leviticus 16, Romans 3:25, Hebrews 9:5) to connect the theological concept of propitiation with Christianity. It demonstrates a good understanding of the Christian perspective on atonement and redemption, although it could have further elaborated on the significance of Jesus as the ultimate propitiation for sins as highlighted in the key verses provided.
+
+[&lt;- Link to Answer](../Scriptural_Basis.md)

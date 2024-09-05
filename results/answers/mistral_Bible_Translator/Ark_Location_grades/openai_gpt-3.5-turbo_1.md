@@ -21,3 +21,5 @@ Understanding the significance of the most holy place and the presence of God.
 Grade: 85
 
 Comment: The response accurately identifies the location of the Ark of the Covenant in the most holy place within the Tabernacle. It demonstrates an understanding of the significance of the most holy place as the place where God's presence dwelt among His people. However, to improve the grade, more depth could be added to explain the theological importance of God's presence in the most holy place and how it relates to Christian beliefs about God's holiness and the need for atonement through the high priest.
+
+[&lt;- Link to Answer](../Ark_Location.md)

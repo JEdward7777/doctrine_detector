@@ -25,3 +25,5 @@ Overall, the metaphor of the cornerstone serves to underscore the significance o
 Grade: 90
 
 Comment: The response provides a thorough explanation of the metaphor of the cornerstone in Christian theology and effectively expands on the relationship between Jesus and His followers. It clearly articulates how believers are brought together by their shared faith in Jesus. The answer also effectively addresses the concern by highlighting the importance of understanding this relationship for aligning one's life with Christ's teachings and example. Overall, a well-structured and insightful response from a Christian worldview perspective.
+
+[&lt;- Link to Answer](../Symbolism_of_the_Cornerstone.md)

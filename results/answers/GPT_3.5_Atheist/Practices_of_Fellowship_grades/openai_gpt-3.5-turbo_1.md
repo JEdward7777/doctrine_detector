@@ -21,3 +21,5 @@ Early Christians expressed their fellowship through various practices such as sh
 Grade: 85
 
 Comment: The response accurately highlights important practices of fellowship among early Christians and emphasizes the spiritual significance of these actions. The mention of praying together and sharing belongings aligns well with the provided answer. The response effectively acknowledges the value of recognizing and practicing these fellowship traditions for contemporary Christians to deepen their relationships with one another.
+
+[&lt;- Link to Answer](../Practices_of_Fellowship.md)

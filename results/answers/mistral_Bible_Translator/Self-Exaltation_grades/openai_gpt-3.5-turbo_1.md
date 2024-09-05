@@ -35,3 +35,5 @@ Recognizing and avoiding the sin of pride.
 Grade: 95
 
 Comment: The response provides a thorough explanation supported by multiple biblical references showing the dangers of exalting oneself and how it can lead to pride, arrogance, and separation from God. It effectively addresses the concern of recognizing and avoiding the sin of pride by highlighting specific consequences outlined in Scripture. Strong use of biblical teachings and relevant passages to support the argument.
+
+[&lt;- Link to Answer](../Self-Exaltation.md)

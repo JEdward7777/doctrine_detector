@@ -21,3 +21,5 @@ The Pharisees' commitment to following the Laws of Moses led to differing interp
 Grade: 85
 
 Comment: The response effectively elaborates on the role of the Pharisees in relation to Jesus and early Christians, highlighting the key point of conflicts arising from differing interpretations of the Law. The inclusion of Jesus emphasizing the spirit of the law adds depth to the analysis. The response aligns well with the Christian worldview by emphasizing the importance of understanding the Pharisees' role in challenging Jesus' ministry.
+
+[&lt;- Link to Answer](../Pharisees__Influence_on_Jewish_Law.md)

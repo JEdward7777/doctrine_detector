@@ -25,3 +25,5 @@ Overall, the Bible shows us that Scripture plays a central role in sharing the G
 Grade: 95
 
 Comment: This response effectively illustrates the integration of Scripture in the communication of the Gospel by providing specific examples from the Bible where followers of Jesus used Scriptures to share the good news about Jesus. The explanation is clear and demonstrates a solid understanding of the importance of Scripture in evangelism. Well done!
+
+[&lt;- Link to Answer](../Role_of_Scripture_in_the_Gospel.md)

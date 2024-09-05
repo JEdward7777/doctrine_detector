@@ -21,3 +21,5 @@ In addressing the crowd regarding their role in the crucifixion, Peter emphasize
 Grade: 90
 
 Comment: The response effectively captures the essence of Peter's message to the crowd regarding their role in the crucifixion of Jesus. It addresses the concern by highlighting the importance of repentance and faith in response to the gospel message. The emphasis on God's role in raising Jesus to life and the call for the crowd to respond with repentance align well with Christian teachings and the early church's preaching.
+
+[&lt;- Link to Answer](../Response_to_the_Crucifixion.md)

@@ -21,3 +21,5 @@ In this statement, Jesus is affirming the absolute goodness and perfection of Go
 Grade: 50
 
 Comment: The student correctly identifies the emphasis on the moral perfection and righteousness of God in the given response. However, they do not address the concern of recognizing the source of goodness in our actions and beliefs from a Christian perspective. In a Christian worldview, the source of goodness is understood to be God himself, as He is the ultimate standard of goodness. This connection should have been explicitly made in the response to fully address the concern. Therefore, the grade is average as the main concept is partially addressed.
+
+[&lt;- Link to Answer](../God_as_Good.md)

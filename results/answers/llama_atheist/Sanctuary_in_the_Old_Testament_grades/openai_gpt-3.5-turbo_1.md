@@ -35,3 +35,5 @@ Now, I must confess that my own lack of faith in a divine being doesn't diminish
 Grade: 60
 
 Comment: The response does a good job exploring the significance of the sanctuary as a place of holiness, covering, purification, guidance, and rest for the Israelites, based on a historical and cultural perspective. However, the response lacks acknowledgement or discussion of the Christian perspective of the sanctuary as a place where God dwells among His people and provides safety. As a Christian, it is important to recognize the sanctuary as not only a symbol of divine presence and guidance but also as a tangible representation of God's protection and refuge for His people.
+
+[&lt;- Link to Answer](../Sanctuary_in_the_Old_Testament.md)

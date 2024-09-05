@@ -27,3 +27,5 @@ In summary, while both the Old and New Testaments emphasize the importance of pu
 Grade: 95
 
 Comment: The response provides a thorough explanation of how purification is understood in both the Old and New Testaments, highlighting the shift from ritualistic practices to faith in Jesus Christ as the means of eternal purification from sin. The student effectively addresses the concern by emphasizing the sufficiency of Christ's sacrifice in providing permanent cleansing from sin. The response is well-supported with relevant Bible verses and demonstrates a strong understanding of purification within a Christian worldview.
+
+[&lt;- Link to Answer](../New_Testament_Redemption.md)

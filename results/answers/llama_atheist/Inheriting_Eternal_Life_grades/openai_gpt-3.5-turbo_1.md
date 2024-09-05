@@ -31,3 +31,5 @@ What would you like to know more about? The historical context surrounding Jesus
 Grade: 80
 
 Comment: The response provides a solid overview of the Christian perspective on inheriting eternal life through faith and a personal relationship with Jesus Christ. It correctly aligns with the teachings of Jesus as recorded in the New Testament. However, it could have delved deeper into specific teachings or examples from Jesus' interactions, such as the story of the expert in Jewish law mentioned in the concern, to provide a more focused and detailed explanation of the path to salvation according to Jesus.
+
+[&lt;- Link to Answer](../Inheriting_Eternal_Life.md)

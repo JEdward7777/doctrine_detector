@@ -21,3 +21,5 @@ In Muslim teachings and terminology, the Lord's Supper in Christian communities 
 Grade: 90
 
 Comment: The response accurately addresses the concern by providing the specific terms 'communion' and 'Last Supper' used within Christianity to refer to the Lord's Supper. It demonstrates a clear understanding of the terminology associated with this sacred practice. Well done!
+
+[&lt;- Link to Answer](../Terminology_2.md)

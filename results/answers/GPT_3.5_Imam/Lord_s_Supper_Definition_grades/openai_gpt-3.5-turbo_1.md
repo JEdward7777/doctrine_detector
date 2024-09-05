@@ -21,3 +21,5 @@ The Lord's Supper, also known as the Eucharist or Holy Communion, is a sacred ac
 Grade: 90
 
 Comment: The response effectively captures the core meaning and significance of the Lord's Supper in Christian faith by correctly highlighting its connection to the Passover meal and its symbolism of Jesus' sacrifice for sin. However, it could have been further enhanced by elaborating on the spiritual aspect of partaking in the Lord's Supper and its ongoing importance in the life of a Christian believer.
+
+[&lt;- Link to Answer](../Lord_s_Supper_Definition.md)

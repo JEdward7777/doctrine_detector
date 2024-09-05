@@ -37,3 +37,5 @@ Remember, as Muslims, we are commanded to show compassion and mercy (rahma) to a
 Grade: 80
 
 Comment: The response provides a good attempt at identifying biblical examples of compassion, empathy, and kindness as modeled by biblical figures. The examples cited are relevant and demonstrate an understanding of the concern raised. However, there was a slight deviation from the given answer as the examples provided were different. The response effectively integrates Christian beliefs and values within the context of the concern. Overall, a solid effort in addressing the concern from a Christian worldview.
+
+[&lt;- Link to Answer](../Compassionate_Actions.md)

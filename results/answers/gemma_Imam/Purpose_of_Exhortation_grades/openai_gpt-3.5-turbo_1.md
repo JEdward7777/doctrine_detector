@@ -52,3 +52,5 @@ Understanding the biblical basis for encouraging others in their faith journey.
 Grade: 65
 
 Comment: The response provided a somewhat relevant perspective on the primary purpose of exhortation, focusing on persuading others to avoid sin and follow God's will. However, the response missed addressing the concern on understanding the biblical basis for encouraging others in their faith journey. The response could have been improved by integrating more specifically biblical references or principles related to encouraging believers in their faith journey within a Christian worldview.
+
+[&lt;- Link to Answer](../Purpose_of_Exhortation.md)

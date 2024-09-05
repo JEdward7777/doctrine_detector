@@ -21,3 +21,5 @@ Understanding the nature of God's righteousness is crucial for appreciating His 
 Grade: 90
 
 Comment: The response effectively connects God's righteousness with His attributes of goodness, justice, faithfulness, and love, and correctly emphasizes the necessity of condemning sin in light of God's righteousness. It aligns well with the concern provided, demonstrating an understanding of how God's righteousness is essential in appreciating His justice and love within a Christian worldview.
+
+[&lt;- Link to Answer](../Understanding_Righteousness.md)

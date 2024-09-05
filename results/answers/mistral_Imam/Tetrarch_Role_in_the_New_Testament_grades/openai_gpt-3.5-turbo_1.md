@@ -27,3 +27,5 @@ Herod Antipas' actions towards John the Baptist and his role in Jesus Christ's t
 Grade: 90
 
 Comment: The response provides a detailed explanation of Herod Antipas' significance in the events surrounding Jesus Christ's ministry, specifically highlighting his role in the beheading of John the Baptist and the trial of Jesus before Pilate. It effectively demonstrates an understanding of the importance of Herod Antipas within the New Testament narratives, considering both the historical and biblical context. The grade is slightly lowered from a perfect score due to some minor lack of elaboration on specific biblical references.
+
+[&lt;- Link to Answer](../Tetrarch_Role_in_the_New_Testament.md)

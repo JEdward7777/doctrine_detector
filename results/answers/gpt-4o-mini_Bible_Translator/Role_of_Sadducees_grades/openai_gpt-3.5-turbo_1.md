@@ -33,3 +33,5 @@ Throughout their history, the Sadducees had a strong influence on the religious 
 Grade: 90
 
 Comment: The response provides a comprehensive overview of the main responsibilities of the Sadducees in taking care of the temple complex and performing priestly tasks such as offering sacrifices, reflecting an understanding of their religious duties. The historical context of religious leadership in the time of Jesus is well-explored through the detailed explanation of the Sadducees' roles and influence within the Jewish Temple system. The response effectively demonstrates how the Sadducees' responsibilities intersected with religious and political dynamics during that period.
+
+[&lt;- Link to Answer](../Role_of_Sadducees.md)

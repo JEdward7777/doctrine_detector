@@ -25,3 +25,5 @@ The response accurately states that Passover is a celebration to remember God's 
 To reach a perfect score of 100, the response could have further emphasized the importance of remembrance in Christian faith. While it does mention "remember" as part of Passover's purpose, it would be even more impactful if the response explicitly highlighted how this concept is echoed in Christian practices such as communion and worship.
 
 Overall, however, the response demonstrates a strong understanding of Passover's significance and its connection to God's deliverance, which aligns well with the concern about recognizing the importance of remembrance in Christian faith.
+
+[&lt;- Link to Answer](../Annual_Remembrance.md)

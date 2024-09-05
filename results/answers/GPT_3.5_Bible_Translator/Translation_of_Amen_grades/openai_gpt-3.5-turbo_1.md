@@ -21,3 +21,5 @@ One potential translation of "truly" as used by Jesus in phrases like "truly I t
 Grade: 80
 
 Comment: The response provided a good analysis of potential translations for the term "truly" as used by Jesus, with examples like "verily," "indeed," or "assuredly." While the given answer did not perfectly align with the response, it still demonstrated an understanding of the importance of accurate biblical translation and interpretation. Some additional explanation or examples could have further strengthened the response.
+
+[&lt;- Link to Answer](../Translation_of_Amen.md)

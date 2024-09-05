@@ -21,3 +21,5 @@ The Israelites transitioned away from using the tabernacle as a place of worship
 Grade: 90
 
 Comment: The response accurately addresses the concern by explaining that the Israelites transitioned from using the tabernacle to the temple in Jerusalem built by Solomon. It demonstrates a good understanding of this transition within the context of Israelite worship practices. The response could have added a bit more detail or explanation for a higher grade.
+
+[&lt;- Link to Answer](../Transition_from_Tabernacle_to_Temple.md)

@@ -31,3 +31,5 @@ In conclusion, the concept of eternal punishment in hell reflects God's justice 
 Grade: 90
 
 Comment: The response provides a comprehensive and well-supported explanation of the concept of eternal punishment in hell within a Christian worldview, addressing the concern about the nature of divine justice and mercy. The student effectively explores key Biblical principles, such as the consequence of sin, the importance of accountability, and the value of redemption through Jesus Christ. The response demonstrates a strong understanding of Christian theology and effectively connects the concept of eternal punishment in hell to foundational Christian beliefs.
+
+[&lt;- Link to Answer](../Eternal_Punishment.md)

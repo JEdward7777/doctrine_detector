@@ -21,3 +21,5 @@ The term "manna" traditionally symbolizes God's provision of sustenance and care
 Grade: 90
 
 Comment: The response provides a clear and accurate explanation of how manna symbolizes God's provision for the Israelites in the wilderness. It highlights God's care and sustenance for His people during their time of need. However, to fully address the concern of recognizing God's ongoing provision in the lives of believers, the response could have expanded on how the concept of manna can also apply to Christians today, emphasizing the continuous provision and faithfulness of God in the present day.
+
+[&lt;- Link to Answer](../Symbolism_of_Manna.md)

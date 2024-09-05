@@ -35,3 +35,5 @@ Ultimately, it is essential to turn to Allah for guidance and to pray for clarit
 Grade: 90
 
 Comment: The response provides a comprehensive and well-articulated explanation based on Islamic principles for discerning true prophets from false ones. It covers key points related to the criteria for identifying a true prophet and contrasts them with the characteristics of false prophets. The emphasis on seeking guidance from reliable sources and praying for discernment reflects a sound approach to discerning true prophetic voices. The response effectively addresses the concern by highlighting the importance of aligning messages with God's Word, examining the nature of teachings, and considering the fruits of their ministry.
+
+[&lt;- Link to Answer](../True_vs_False_Prophets.md)

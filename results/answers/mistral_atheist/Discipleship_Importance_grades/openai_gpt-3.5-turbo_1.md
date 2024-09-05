@@ -31,3 +31,5 @@ In a culturally-rooted context, it is worth noting that Jesus lived in a society
 Grade: 90
 
 Comment: The response provides a comprehensive understanding of the selection process and roles of the Twelve Apostles based on biblical accounts. It effectively addresses the concern by highlighting the unique call of the apostles to spread Jesus' teachings and establish the early Church. The response is well-supported with references to relevant biblical passages and portrays a clear understanding of the apostles' significance in the New Testament.
+
+[&lt;- Link to Answer](../Discipleship_Importance.md)

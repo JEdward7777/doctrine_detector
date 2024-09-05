@@ -33,3 +33,5 @@ These verses show the importance and power of intercessory prayer in the Christi
 Grade: 90
 
 Comment: The response provides a thorough explanation of several Bible verses that relate to intercessory prayer, demonstrating a strong understanding of the topic. The verses referenced effectively illustrate the importance and power of intercession in the Christian faith. The response could be improved by directly addressing the specific concern to explore Scripture for guidance on prayer and intercession. Overall, it is a well-written and informative explanation from a Christian worldview perspective.
+
+[&lt;- Link to Answer](../Scriptural_Basis_for_Intercession.md)

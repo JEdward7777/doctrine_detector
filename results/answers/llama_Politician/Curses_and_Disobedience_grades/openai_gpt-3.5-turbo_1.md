@@ -33,3 +33,5 @@ Thank you for allowing me to share my thoughts on this matter. I hope they've be
 Grade: 70
 
 Comment: The response provides a thoughtful exploration of the concept of curses in Galatians 3:10 from a biblical perspective, emphasizing the consequences of disobedience to God's commands. The candidate effectively contextualizes the passage within its biblical framework and demonstrates an understanding of the gravity of rejecting God's authority. However, the response could have further emphasized the importance of repentance and seeking forgiveness from God in addressing the seriousness of disobedience. Additionally, while advocating for empathy and understanding towards those experiencing negative consequences, the candidate could have highlighted the role of Christ's redemption in breaking curses and offering hope to all people.
+
+[&lt;- Link to Answer](../Curses_and_Disobedience.md)

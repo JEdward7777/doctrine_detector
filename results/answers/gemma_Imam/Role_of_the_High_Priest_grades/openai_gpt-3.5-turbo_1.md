@@ -21,3 +21,5 @@ In Islamic tradition, the concept of high priests or sacerdlies does not exist. 
 Grade: 80
 
 Comment: The response accurately explains the significance of the high priest's role in the worship practices of Israel by highlighting their exclusive access to the most holy part of the tabernacle or temple for offering sacrifices. However, the response is lacking in incorporating a Christian specific worldview or relating the significance of the high priest's role to Christian beliefs and practices. Additional insight linking the role of the high priest to Jesus as the ultimate High Priest in Christianity would enhance the response.
+
+[&lt;- Link to Answer](../Role_of_the_High_Priest.md)

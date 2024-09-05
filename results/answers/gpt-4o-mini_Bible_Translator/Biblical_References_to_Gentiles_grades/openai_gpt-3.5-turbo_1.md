@@ -25,3 +25,5 @@ In summary, both passages affirm the inclusive nature of the Christian faith, es
 Grade: 90
 
 Comment: The response effectively connects Acts 9:13-16 and Galatians 2:16 to the apostolic mission to Gentiles, emphasizing the importance of faith in Jesus for justification. It addresses the concern by exploring scriptural teachings on grace and inclusion within the Christian faith. The analysis is thorough and demonstrates a strong understanding of the universal nature of the Gospel message.
+
+[&lt;- Link to Answer](../Biblical_References_to_Gentiles.md)

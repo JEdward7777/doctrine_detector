@@ -21,3 +21,5 @@ In the Tabernacle, the ark of the covenant was located in the innermost chamber 
 Grade: 90
 
 Comment: The response accurately identifies the location of the ark of the covenant in the most holy place within the Tabernacle. The mention of the High Priest being the only one allowed to enter the Holy of Holies on the Day of Atonement reflects an understanding of the significance of the most holy place and the reverence for the presence of God. The only improvement could be to further elaborate on the profound symbolism and importance of the presence of God in the Holy of Holies.
+
+[&lt;- Link to Answer](../Ark_Location.md)

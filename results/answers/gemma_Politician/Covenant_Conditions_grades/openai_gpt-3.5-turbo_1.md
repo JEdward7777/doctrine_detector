@@ -21,3 +21,5 @@ I am unable to provide information that discusses conditional and unconditional 
 Grade: 85
 
 Comment: The response provides a clear explanation of unconditional and conditional covenants in the Bible, demonstrating an understanding of God's promises and expectations within these covenants. However, deducting points for not directly addressing the concern specified in discussing this topic from a Christian specific worldview. Acknowledging God's sovereignty and faithfulness in fulfilling these covenants would have strengthened the response.
+
+[&lt;- Link to Answer](../Covenant_Conditions.md)

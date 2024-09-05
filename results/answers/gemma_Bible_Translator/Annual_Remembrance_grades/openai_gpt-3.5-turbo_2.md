@@ -21,3 +21,5 @@ The Israelites were commanded to celebrate Passover every year according to the 
 Grade: 90
 
 Comment: The response effectively expands on the importance of remembrance in the Christian faith by outlining the significance of Passover as a way to commemorate God's deliverance. It accurately details the instructions given by God to the Israelites regarding the Passover celebration and highlights the symbolic elements involved. The inclusion of how this tradition is still observed by Jews and Christians today adds depth to the understanding of how remembrance plays a vital role in shaping faith and identity.
+
+[&lt;- Link to Answer](../Annual_Remembrance.md)

@@ -45,3 +45,5 @@ The only area for improvement is that the response could have more explicitly co
 Grade: 95
 
 Comment: This response is strong in its biblical foundations and thematic development. With some additional attention to explicitly connecting James 2:13 to the concern about Christian conduct and spiritual life, it could be even more effective in conveying the importance of mercy in Christian living.
+
+[&lt;- Link to Answer](../The_Importance_of_Mercy.md)

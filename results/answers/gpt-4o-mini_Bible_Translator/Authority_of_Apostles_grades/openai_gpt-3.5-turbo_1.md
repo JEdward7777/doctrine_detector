@@ -31,3 +31,5 @@ In summary, the authority of the apostles is not merely a matter of title but is
 Grade: 95
 
 Comment: The response beautifully delves into the divine empowerment and authority bestowed upon the apostles for ministry, citing key biblical references and providing insightful explanations. It effectively highlights how the authority of the apostles is rooted in their commissioning by Jesus and empowerment by the Holy Spirit, demonstrating a deep understanding of this aspect of Christian theology. The response is well-rounded, cohesive, and provides a thorough exploration of the topic. Great job!
+
+[&lt;- Link to Answer](../Authority_of_Apostles.md)

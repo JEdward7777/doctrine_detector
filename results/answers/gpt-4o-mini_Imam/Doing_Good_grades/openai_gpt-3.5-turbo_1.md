@@ -27,3 +27,5 @@ Overall, "do good to" captures the essence of living out one’s faith through t
 Grade: 95
 
 Comment: This response effectively expands on the concept of "do good to" in a Christian context, providing a thorough explanation of its implications, connections to Christian principles, and references to Biblical support. The response clearly articulates how this concept encourages Christians to live out their faith through tangible acts of kindness and service, aligning with the concern provided. Overall, it demonstrates a strong understanding of the Christian perspective on doing good deeds.
+
+[&lt;- Link to Answer](../Doing_Good.md)

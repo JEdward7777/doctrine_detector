@@ -31,3 +31,5 @@ These roles are central to the Christian belief in Jesus Christ as the fulfillme
 Grade: 85
 
 Comment: The response accurately mentions the roles of the Messiah as a prophet, priest, and king, as well as highlighting the initiation of the New Covenant. However, there could be more detail provided to further elucidate how these roles help believers comprehend Jesus's mission and authority, linking it specifically to the foundational beliefs of Christianity.
+
+[&lt;- Link to Answer](../Role_of_the_Messiah.md)

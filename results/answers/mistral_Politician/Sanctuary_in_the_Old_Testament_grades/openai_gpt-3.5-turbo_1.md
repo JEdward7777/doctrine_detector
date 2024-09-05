@@ -30,3 +30,5 @@ In summary, the Old Testament portrays the sanctuary as a holy place for the Isr
 Grade: 90
 
 Comment: The response provides a detailed explanation of the significance of the sanctuary in the Old Testament as a place where God dwelt among His people and offered them protection. It references relevant Bible verses and gives examples of how different elements of the sanctuary symbolized God's presence and provision. The response effectively addresses the concern by emphasizing the relationship between God, the sanctuary, and His people. Overall, it demonstrates a strong understanding of the concept within a Christian worldview.
+
+[&lt;- Link to Answer](../Sanctuary_in_the_Old_Testament.md)

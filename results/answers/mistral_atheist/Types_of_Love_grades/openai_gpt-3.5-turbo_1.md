@@ -27,3 +27,5 @@ In this context, all forms of love can be seen as expressions of the command to 
 Grade: 90
 
 Comment: The response effectively differentiates between different forms of love in the Bible, highlighting the importance of aligning all forms of love with the principles of God's love. The answer acknowledges the emphasis on care and commitment in romantic love as well, which reflects a solid understanding of how different types of love should align with a Christian worldview.
+
+[&lt;- Link to Answer](../Types_of_Love.md)

@@ -33,3 +33,5 @@ May Allah guide us all in our respective callings and missions. Wa al-salamu ala
 Grade: 80
 
 Comment: The response provides a solid understanding of the Christian concept of evangelists, acknowledging their special role in spreading the message of Jesus Christ. The connection between spiritual gifts and evangelism is touched upon effectively. The response could have been strengthened by diving deeper into the biblical basis for spiritual gifts related to evangelism and emphasizing the importance of evangelists in the church for fulfilling the Great Commission. Additionally, further elaboration on how evangelists function within the church context would have enhanced the response. Nevertheless, the inclusion of the Muslim-Christian dialogue perspective added a unique dimension to the explanation.
+
+[&lt;- Link to Answer](../Gift_of_Evangelism.md)

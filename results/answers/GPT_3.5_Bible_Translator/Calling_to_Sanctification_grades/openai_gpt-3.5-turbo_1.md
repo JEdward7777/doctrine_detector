@@ -21,3 +21,5 @@ One key command regarding personal sanctification given to believers in the Bibl
 Grade: 90
 
 Comment: The response correctly highlights the biblical command for believers to sanctify themselves and live holy lives. The given concern regarding personal responsibility in the sanctification process is addressed well with a scriptural reference from 1 Thessalonians emphasizing the need for self-control and moral purity. Overall, this response aligns with a Christian worldview emphasizing the importance of personal responsibility in sanctification.
+
+[&lt;- Link to Answer](../Calling_to_Sanctification.md)

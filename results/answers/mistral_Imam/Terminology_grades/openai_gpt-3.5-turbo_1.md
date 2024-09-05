@@ -33,3 +33,5 @@ These roles may be held by different individuals within an Islamic community, de
 Grade: 75
 
 Comment: The response provides a thorough explanation of the various service roles within Islam, demonstrating a good understanding of the topic. However, the response does not directly address the concern of recognizing the different ways to identify service roles within the Christian church. A stronger connection could have been made between the roles discussed in Islam and the varied terms used to identify service roles within the Christian context.
+
+[&lt;- Link to Answer](../Terminology.md)

@@ -26,3 +26,5 @@ The names of the twelve disciples, also known as the apostles, are listed in the
 Grade: 90
 
 Comment: The response accurately identifies the books where the names of the twelve disciples are listed, which demonstrates a good understanding of the Gospel accounts. However, to improve the grade further, the response could have emphasized the importance of knowing and understanding the teachings of the disciples as recorded in the Gospels, to truly grasp the significance of their role in spreading the message of Jesus.
+
+[&lt;- Link to Answer](../Matthew,_Mark,_and_Luke.md)

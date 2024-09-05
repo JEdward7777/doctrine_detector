@@ -21,3 +21,5 @@ Baptism plays a significant role in the life of a Christian according to New Tes
 Grade: 20
 
 Comment: The response does not adequately address the concern of understanding the importance of baptism in the Christian faith. It simply states a general statement about baptism without providing any explanation or elaboration on its significance. Additionally, the refusal to provide interpretations or theological opinions limits the depth of the response in addressing the concern from a Christian worldview.
+
+[&lt;- Link to Answer](../Baptism_Purpose.md)

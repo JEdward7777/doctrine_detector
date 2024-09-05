@@ -23,3 +23,5 @@ The first known instances of the term "Christian" in historical records come fro
 Grade: 60
 
 Comment: The response accurately recognizes that Jesus' followers were first called 'Christians' in the city of Antioch. However, it lacks depth in exploring the historical context and significance of the term 'Christian' beyond this specific event. A stronger response would have provided more historical context and delved into the cultural and religious implications of being called a "Christian" in the early Christian community.
+
+[&lt;- Link to Answer](../Origin_of_the_Term.md)

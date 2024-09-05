@@ -41,3 +41,5 @@ In summary, while both the Old and New Testaments address atonement, the former 
 Grade: 92
 
 Comment: This response effectively addresses the concern by outlining the transition from temporary blood sacrifices in the Old Testament to Christ's single, permanent sacrifice in the New Testament. The explanation is clear, concise, and demonstrates a deep understanding of atonement in biblical history from a Christian perspective. Great job!
+
+[&lt;- Link to Answer](../Old_vs._New_Testament_Atonement.md)

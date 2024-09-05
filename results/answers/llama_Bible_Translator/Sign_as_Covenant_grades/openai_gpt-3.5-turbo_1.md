@@ -33,3 +33,5 @@ In summary, the rainbow in Genesis 9 serves as a visual sign of God's covenant w
 Grade: 95
 
 Comment: The response provides a comprehensive explanation of the significance of the rainbow as a sign of God's covenant in Genesis 9. It covers various aspects such as visual reminder, promise of safety, covenantal marker, typology of Jesus Christ, and God's faithfulness. The response effectively connects the symbol of the rainbow to God's mercy, faithfulness, and promises in a biblical context, demonstrating a strong understanding of God's covenant and promises in the Bible. The only room for improvement would be to include more specific biblical references to support the points made.
+
+[&lt;- Link to Answer](../Sign_as_Covenant.md)

@@ -29,3 +29,5 @@ In summary, while the Old Testament emphasizes ritual and law-based purification
 Grade: 95
 
 Comment: The response provides a thorough explanation of the evolution of the concept of purification from the Old Testament to the New Testament, highlighting the shift from external rituals to deeper spiritual meaning through Jesus Christ's sacrifice. The emphasis on the sufficiency of Christ's sacrifice for eternal purification from sin is clearly acknowledged and integrated well within the discussion. The response effectively addresses the concern by demonstrating an understanding of the centrality of Christ's sacrifice in the process of purification. Great job!
+
+[&lt;- Link to Answer](../New_Testament_Redemption.md)

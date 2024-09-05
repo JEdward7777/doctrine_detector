@@ -79,3 +79,5 @@ The only areas where the response could improve are:
 * The response does not explicitly state that Jesus' sacrifice is a substitutionary atonement, which is an important aspect of Christian theology.
 
 Overall, however, the response provides a clear and concise explanation of Jesus' sacrifice in relation to God's justice and mercy, making it a strong effort.
+
+[&lt;- Link to Answer](../Understanding_Propitiation.md)

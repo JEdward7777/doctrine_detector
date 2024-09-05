@@ -21,3 +21,5 @@ The Lord's Supper commemorates the Last Supper, a significant event in Christian
 Grade: 80
 
 Comment: The response accurately describes the significance of the Lord's Supper as commemorating the Passover meal shared by Jesus and his disciples, symbolizing his body and blood as a sacrifice for sin, which aligns well with Christian beliefs. However, a more explicit connection to the centrality of the Last Supper in Christian tradition and the ongoing practice of the Lord's Supper in the Christian faith could strengthen the response further.
+
+[&lt;- Link to Answer](../Lord_s_Supper_Definition.md)

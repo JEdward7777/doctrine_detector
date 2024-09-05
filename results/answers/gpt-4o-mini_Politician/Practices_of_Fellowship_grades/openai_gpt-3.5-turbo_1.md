@@ -37,3 +37,5 @@ These practices created a strong sense of identity and belonging among early Chr
 Grade: 90
 
 Comment: The response provides a comprehensive overview of how early Christians expressed their fellowship, encompassing a wide array of practices that reflect their shared values and beliefs. The provided answer captures key elements of this fellowship, such as listening to the teaching of God's Word, praying together, sharing belongings, and eating meals together, which align well with the detailed practices outlined. This alignment showcases a strong understanding of how historical practices can inform contemporary Christian fellowship, earning a high grade.
+
+[&lt;- Link to Answer](../Practices_of_Fellowship.md)

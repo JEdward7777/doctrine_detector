@@ -32,3 +32,5 @@ In summary, while all three words can be used to motivate or guide others, 'exho
 Grade: 90
 
 Comment: The response provides a clear and accurate explanation of the meanings of 'exhort,' 'encourage,' and 'admonish' according to a Christian worldview. The explanation aligns well with the concern of clarifying these concepts based on scriptural principles. It effectively distinguishes between motivating someone to do what is right, providing comfort and support, and warning or correcting wrong behavior. The only suggestion for improvement would be to incorporate specific biblical references or examples to strengthen the explanation further.
+
+[&lt;- Link to Answer](../Differences_in_Terminology.md)

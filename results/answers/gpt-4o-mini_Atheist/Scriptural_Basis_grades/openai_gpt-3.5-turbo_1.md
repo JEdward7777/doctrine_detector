@@ -33,3 +33,5 @@ These verses illustrate the theological interpretation of Jesus' sacrifice as an
 Grade: 95
 
 Comment: The response provides a thorough explanation of the concept of propitiation in Christian theology, supported by relevant Bible verses. It effectively connects the theological concept with biblical references, demonstrating a solid understanding of the topic from a Christian worldview. Great job!
+
+[&lt;- Link to Answer](../Scriptural_Basis.md)

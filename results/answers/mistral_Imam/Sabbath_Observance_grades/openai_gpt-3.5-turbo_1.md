@@ -27,3 +27,5 @@ In summary, while both Islamic and Jewish/Christian traditions recognize a weekl
 Grade: 70
 
 Comment: The response provides a detailed explanation of the Islamic perspective on observing a weekly day of rest, particularly on Jumu'ah (Friday). However, while it accurately contrasts the Islamic observance with the Christian and Jewish traditions of keeping the Sabbath, it does not address the Christian concern directly. To improve the grade, the response could have incorporated more explicit references to how the concept of keeping the Sabbath holy in Christianity impacts daily living and the importance of dedicating a day to rest and worshiping God.
+
+[&lt;- Link to Answer](../Sabbath_Observance.md)

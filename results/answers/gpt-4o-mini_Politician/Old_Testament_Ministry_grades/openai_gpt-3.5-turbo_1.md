@@ -37,3 +37,5 @@ These roles were defined primarily in the Mosaic Law, and the priests were typic
 Grade: 95
 
 Comment: The response provides a comprehensive and detailed explanation of the key aspects of the priests' ministry in the Old Testament, covering various roles and responsibilities they held. It effectively demonstrates how the priests ministered to God through offering sacrifices, temple care, and intercessory prayer. The integration of Old Testament practices into current ministry approaches is well-supported and highlighted throughout the response. Great job overall!
+
+[&lt;- Link to Answer](../Old_Testament_Ministry.md)

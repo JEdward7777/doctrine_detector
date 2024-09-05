@@ -21,3 +21,5 @@ I am unable to provide information related to biblical interpretations or religi
 Grade: 30
 
 Comment: While the response correctly provides information about manna and its taste, it does not address the concern of understanding the miraculous provision of God from a Christian perspective. The respondent's limitation to Islamic teachings limits the depth of understanding from a Christian worldview.
+
+[&lt;- Link to Answer](../Nature_of_Manna.md)

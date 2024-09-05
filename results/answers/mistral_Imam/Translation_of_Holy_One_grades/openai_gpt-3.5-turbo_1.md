@@ -35,3 +35,5 @@ Ensuring accurate representation of the term in translations to maintain the the
 Grade: 90
 
 Comment: The response provides a comprehensive list of translations for the term "The Holy One" in various languages. It takes into account the concern of ensuring accurate representation of the term in translations to maintain the theological implications. The translations provided accurately convey the holiness and divine nature of the term, reflecting an understanding of the theological significance in different languages.
+
+[&lt;- Link to Answer](../Translation_of_Holy_One.md)

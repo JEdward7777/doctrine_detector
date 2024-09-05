@@ -31,3 +31,5 @@ Understanding this relationship can help believers align their lives with Christ
 Grade: 95
 
 Comment: The response effectively expands on the given answer by delving into various aspects of the cornerstone metaphor in Christianity and illustrating how it relates to believers' lives. It provides a comprehensive analysis that aligns well with the concern of helping believers align their lives with Christ's teachings and example. The connection between the metaphor and practical application for believers is clearly articulated and supported by reference to relevant Bible passages.
+
+[&lt;- Link to Answer](../Symbolism_of_the_Cornerstone.md)

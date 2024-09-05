@@ -31,3 +31,5 @@ So, to answer your question, God describes the sanctuary as a sacred space where
 Grade: 85
 
 Comment: The response effectively captures the essence of the provided answer in explaining how God viewed the sanctuary as a place of His dwelling among His people and a place of protection and safety for them. The use of biblical references from Exodus and Leviticus helped to support the explanation. However, the response could have delved deeper into the spiritual significance of the sanctuary in Christian theology, connecting it more explicitly to Christ as the ultimate sanctuary and mediator between God and humanity. Overall, the response demonstrates a solid understanding of the concern from a Christian worldview.
+
+[&lt;- Link to Answer](../Sanctuary_in_the_Old_Testament.md)

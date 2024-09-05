@@ -31,3 +31,5 @@ While all evangelists are Christians, not all Christians may identify as evangel
 Grade: 90
 
 Comment: The response provides a thorough understanding of the spiritual gift of evangelism, explaining how some Christians are specially equipped to share the gospel effectively. It also discusses the role and characteristics of evangelists within the church. The response is well-reasoned, detailed, and aligns with a Christian worldview, demonstrating a good grasp of the topic at hand.
+
+[&lt;- Link to Answer](../Gift_of_Evangelism.md)

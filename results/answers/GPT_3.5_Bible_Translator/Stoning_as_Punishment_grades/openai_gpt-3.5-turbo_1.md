@@ -29,3 +29,5 @@ Ultimately, the practice of stoning for adultery in the Old Testament reflects G
 Grade: 90
 
 Comment: The response effectively addresses the concern by showcasing an understanding of the balance between God's justice and mercy in His commandments. It acknowledges the Old Testament practice of stoning for adultery as a reflection of God's justice and holiness, while also highlighting Jesus's demonstration of mercy and forgiveness in the New Testament. The response effectively integrates scriptural references and presents a coherent Christian worldview perspective on the topic.
+
+[&lt;- Link to Answer](../Stoning_as_Punishment.md)

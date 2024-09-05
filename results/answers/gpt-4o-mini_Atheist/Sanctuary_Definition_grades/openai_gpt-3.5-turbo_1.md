@@ -29,3 +29,5 @@ In summary, the term 'sanctuary' in biblical context encompasses both the physic
 Grade: 95
 
 Comment: The response provides a thorough explanation of the term 'sanctuary' in the Biblical context, covering both the Tabernacle and the Temple while also addressing the themes of protection and sacredness. The answer aligns well with a Christian worldview, highlighting the religious and spiritual significance of these sanctuaries in facilitating worship and encountering God.
+
+[&lt;- Link to Answer](../Sanctuary_Definition.md)

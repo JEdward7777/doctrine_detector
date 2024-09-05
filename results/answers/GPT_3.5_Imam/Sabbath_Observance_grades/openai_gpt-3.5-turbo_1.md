@@ -25,3 +25,5 @@ It is important for Muslims to uphold the teachings of Islam in their daily live
 Grade: 75
 
 Comment: The response provides a clear explanation of the differences between the Christian concept of keeping the Sabbath holy and the practices of Muslims regarding worship days. The student effectively addresses the concern by highlighting the importance of observing religious teachings in daily life. However, a more thorough connection between the Christian view of the Sabbath and its implications for daily living could further strengthen the response from a Christian-specific worldview.
+
+[&lt;- Link to Answer](../Sabbath_Observance.md)

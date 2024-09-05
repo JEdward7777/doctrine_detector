@@ -23,3 +23,5 @@ It is important to understand that concepts of justice can vary greatly across d
 Grade: 60
 
 Comment: The atheistic scholar's response lacks a Christian-specific worldview as it does not acknowledge the biblical standard of fairness and righteousness in interactions with others. While the response does touch on ethical principles and moral guidelines, it does not reference the foundational teachings of Christianity. The acknowledgment of God's laws in guiding what is just is missing, hence the lower grade.
+
+[&lt;- Link to Answer](../Understanding_Justice.md)

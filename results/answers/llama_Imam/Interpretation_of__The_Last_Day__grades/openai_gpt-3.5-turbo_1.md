@@ -38,3 +38,5 @@ May Allah guide us all towards righteousness and salvation.
 Grade: 90
 
 Comment: The response provides a comprehensive explanation of the Islamic perspective on the concept of "the Last Day" and how it relates to judgment. It effectively addresses the concern by highlighting the importance of understanding judgment in shaping one's relationship with God and the urgency of faith in preparing for the hereafter. The response demonstrates a deep understanding of the topic and offers valuable insights from a Muslim Imam's viewpoint. Well done!
+
+[&lt;- Link to Answer](../Interpretation_of__The_Last_Day_.md)

@@ -27,3 +27,5 @@ The ephod was an important garment worn by the high priest and symbolized their 
 Grade: 90
 
 Comment: The response provides a thorough and accurate explanation of the materials used in constructing the high priest's ephod, aligning well with the significance and symbolism of each material. The focus on the importance of the ephod's design and symbolism in worship is effectively addressed, demonstrating a clear understanding of the concern within a Christian worldview. Great job!
+
+[&lt;- Link to Answer](../Ephod_materials.md)

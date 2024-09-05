@@ -33,3 +33,5 @@ As Muslims, we strive to live in accordance with the principles of tawhid, justi
 Grade: 60
 
 Comment: The response provides a comprehensive overview of the Covenant of Torah within Islamic beliefs, emphasizing the relationship between Allah and the Children of Israel. However, the specific concern of recognizing the Israelites as God's chosen people is not directly addressed. The focus is more on the content and significance of the covenant rather than explicitly acknowledging the unique relationship between God and the Israelites as His chosen people. Overall, while the response is informative, it lacks explicit emphasis on God's promises and relationship with His chosen people as highlighted in the concern.
+
+[&lt;- Link to Answer](../Covenant_with_Israel.md)

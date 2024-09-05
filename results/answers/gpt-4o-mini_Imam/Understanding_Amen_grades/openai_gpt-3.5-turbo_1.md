@@ -23,3 +23,5 @@ The word itself is derived from a Hebrew root meaning "to be firm" or "to be tru
 Grade: 50
 
 Comment: The response provides a detailed explanation of the significance of saying "amen" in a Muslim context, but it does not address the concern regarding understanding the significance of prayer in Christian practice. To improve the grade, the response should include a comparison or contrast with how "amen" is used in Christian prayer to demonstrate an understanding of Christian beliefs and practices related to prayer.
+
+[&lt;- Link to Answer](../Understanding_Amen.md)

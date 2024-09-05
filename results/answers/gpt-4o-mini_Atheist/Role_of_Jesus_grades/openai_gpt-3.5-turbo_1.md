@@ -33,3 +33,5 @@ These roles collectively outline a view of Jesus as essential for salvation, hig
 Grade: 95
 
 Comment: The response demonstrates a thorough understanding of Jesus' central role in salvation, encompassing various aspects such as Savior, Mediator, Redeemer, and the Way to God. The explanation provided is grounded in specific Bible verses and Christian doctrine. The response effectively addresses the concern by clarifying Jesus' roles in salvation, thus enhancing comprehension of the Christian faith and redemption. Well done!
+
+[&lt;- Link to Answer](../Role_of_Jesus.md)

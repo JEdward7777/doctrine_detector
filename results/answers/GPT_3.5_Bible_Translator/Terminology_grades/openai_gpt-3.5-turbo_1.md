@@ -21,3 +21,5 @@ In Christian theology, some alternative terms that can be used to describe a dea
 Grade: 80
 
 Comment: The response accurately expands on the alternative terms used to describe a deacon within the Christian context, including "church minister," "church worker," and "church servant," aligning well with the concern of recognizing different service roles within the church. However, the response could have been enhanced by incorporating additional terms commonly associated with the role of a deacon in Christian theology.
+
+[&lt;- Link to Answer](../Terminology.md)

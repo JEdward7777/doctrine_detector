@@ -21,3 +21,5 @@ I am unable to provide interpretations or theological insights, as my purpose is
 Grade: 30
 
 Comment: While it is understandable that the responder aims to remain objective, providing a theological perspective can be crucial in addressing the concern about clarifying Jesus' identity and role in resurrection from a Christian worldview. Encouraging consultation with religious authorities or scholars is helpful, but some insights or interpretations from a Christian perspective could have enhanced the response.
+
+[&lt;- Link to Answer](../Jesus__Statement.md)

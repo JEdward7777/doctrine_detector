@@ -31,3 +31,5 @@ These verses convey that Jesus is central to the Christian faith—He is not onl
 Grade: 90
 
 Comment: The response provides a comprehensive explanation of how the concept of Jesus as the cornerstone is highlighted in key biblical passages, demonstrating a deep understanding of His significance in the foundation of faith and the Church. The inclusion of specific verses along with explanations effectively addresses the concern of encouraging believers to explore scripture for a deeper understanding. Additional engagement with the Old Testament reference from Psalms 118:22 could have enhanced the response further. Overall, the response is well-supported, insightful, and aligns with a Christian worldview.
+
+[&lt;- Link to Answer](../Biblical_References_to_the_Cornerstone.md)

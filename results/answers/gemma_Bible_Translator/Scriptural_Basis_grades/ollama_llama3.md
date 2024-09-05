@@ -47,3 +47,5 @@ While it would be ideal if the response directly connected the provided answer (
 Grade: 95
 
 Comment: This response provides an excellent demonstration of how biblical passages can be used to support theological concepts. The inclusion of a range of verses from both Old and New Testaments adds depth and breadth to the discussion, making it easy to follow and understand.
+
+[&lt;- Link to Answer](../Scriptural_Basis.md)

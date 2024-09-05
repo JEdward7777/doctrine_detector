@@ -23,3 +23,5 @@ The cornerstone of the Islamic faith is the belief in Allah (God) and Muhammad (
 Grade: 20
 
 Comment: The response completely disregards the Christian worldview by stating that Jesus Christ does not play any role in the Assembly of believers according to Islamic beliefs. This view does not align with Christian teachings on the centrality of Jesus Christ as the cornerstone of the Church. Failure to recognize Christ's significance in the body of believers can lead to a misunderstanding of the foundation of faith and community in a Christian context.
+
+[&lt;- Link to Answer](../Understanding_the_Cornerstone.md)

@@ -31,3 +31,5 @@ These stories, among many others, demonstrate the importance of compassion in bo
 Grade: 90
 
 Comment: The response demonstrates a strong understanding of biblical examples of compassion, providing detailed and relevant examples from the Bible. The connection between the examples and real-life applications of compassion, as modeled by biblical figures, is well articulated, showcasing how these stories can inspire and guide individuals in showing compassion in their own lives. The response effectively integrates Christian teachings and worldview to address the concern presented. Great job overall!
+
+[&lt;- Link to Answer](../Compassionate_Actions.md)

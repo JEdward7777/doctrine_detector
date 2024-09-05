@@ -21,3 +21,5 @@ Before ascending to heaven, Jesus gave His disciples the Great Commission, which
 Grade: 90
 
 Comment: The response accurately summarizes the core message of the Great Commission given by Jesus to His disciples. It emphasizes the importance of making disciples, baptizing them, and teaching them to follow Christ's commands. The mention of discipleship as a core component of the Great Commission demonstrates a good understanding of the mission of discipleship within the broader context of spreading the Gospel message to all nations.
+
+[&lt;- Link to Answer](../The_Great_Commission.md)

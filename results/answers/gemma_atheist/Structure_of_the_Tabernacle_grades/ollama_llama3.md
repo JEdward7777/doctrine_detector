@@ -23,3 +23,5 @@ I'd give this response a grade of 30.
 The response provides no information about the significance of the components of the tabernacle in worship, which is the main concern. The response only mentions that there are two sections: the Holy Place and the Most Holy Place, but does not explain their role in worship or provide any insight into their importance for the Israelites. Additionally, the response does not demonstrate an understanding of the tabernacle's significance as a physical representation of God's presence among his people.
 
 The comment on this grade is: "While you provided some basic information about the structure of the tabernacle, your response falls short in addressing the concern of learning about the significance of its components in worship. To improve, try to provide more insight into how the different parts of the tabernacle contributed to the Israelites' understanding of God and their worship practices."
+
+[&lt;- Link to Answer](../Structure_of_the_Tabernacle.md)

@@ -23,3 +23,5 @@ In more modern contexts, "sanctuary" may be used metaphorically to refer to a sa
 Grade: 70
 
 Comment: The response provides a good understanding of the term "sanctuary" in a Biblical context by correctly identifying it as a holy place set apart by God for worship and protection. However, the additional contextual information about modern usage somewhat detracts from the focus on the Biblical meaning. It would have been more beneficial to elaborate further on the Biblical significance of sanctuary in light of the given concern.
+
+[&lt;- Link to Answer](../Sanctuary_Definition.md)

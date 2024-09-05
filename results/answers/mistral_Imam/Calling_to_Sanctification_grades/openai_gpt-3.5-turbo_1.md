@@ -27,3 +27,5 @@ This hadith emphasizes that personal sanctification is not just about external a
 Grade: 85
 
 Comment: The response provides a well-explained perspective from a Muslim Imam on the importance of personal sanctification in Islam, drawing from relevant Hadiths of Prophet Muhammad (peace be upon him). The emphasis on regular worship, good deeds, sincerity, and intentions aligns well with the concern of personal responsibility in the sanctification process. The response effectively conveys the concept of Taqwa and its significance in shaping a believer's character and actions. However, from a Christian perspective, the response could have included more direct references to biblical teachings on sanctification and holiness to better align with the Christian worldview.
+
+[&lt;- Link to Answer](../Calling_to_Sanctification.md)

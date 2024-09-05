@@ -21,3 +21,5 @@ The Bible presents various stories and teachings that discuss the consequences o
 Grade: 85
 
 Comment: The response provides a solid understanding of the consequences of idolatry as depicted in the Bible, highlighting the importance of staying faithful to God's commandments. However, the original response could be improved by explicitly connecting the consequences of idolatry to the need for Christians to heed God's commandments and avoid straying from them. Making this connection would further emphasize the seriousness of idolatry from a Christian worldview.
+
+[&lt;- Link to Answer](../Idolatry_in_the_Bible.md)

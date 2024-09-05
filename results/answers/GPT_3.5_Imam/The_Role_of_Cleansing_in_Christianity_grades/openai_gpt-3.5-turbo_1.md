@@ -25,3 +25,5 @@ So, in both Islam and Christianity, the concept of cleansing is closely tied to 
 Grade: 70
 
 Comment: The response provides a solid explanation of the concept of cleansing in Christianity and relates it well to the sacrifice of Jesus Christ. However, it does not address the concern regarding the significance of Christ's redemptive work in relation to Old Testament practices. To improve the grade, the response should incorporate a discussion on how understanding the Old Testament practices can enhance the understanding of Christ's redemptive work in Christianity.
+
+[&lt;- Link to Answer](../The_Role_of_Cleansing_in_Christianity.md)

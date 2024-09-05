@@ -23,3 +23,5 @@ I would grade this response as a 90. The answer accurately addresses the signifi
 Grade: 90
 
 Comment: The response effectively highlights the significance of the Ark of the Covenant in demonstrating God's covenant with His people and the importance of His laws, reflecting a deep understanding of these themes within a Christian worldview.
+
+[&lt;- Link to Answer](../Ark_of_the_Covenant.md)

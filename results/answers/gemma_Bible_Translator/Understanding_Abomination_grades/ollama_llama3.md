@@ -85,3 +85,5 @@ However, there is room for improvement. While the response does mention some spe
 Additionally, while the response does acknowledge that lying and pride are considered abominations, it could have further explored how these sins relate to the larger themes of God's will and our lives as Christians.
 
 Overall, the response demonstrates a good understanding of biblical teachings on what is abhorrent to God, but there is opportunity for further development and nuance.
+
+[&lt;- Link to Answer](../Understanding_Abomination.md)

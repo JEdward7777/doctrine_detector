@@ -25,3 +25,5 @@ In modern terms, we can see the significance of anointing in the Old Testament a
 Grade: 90
 
 Comment: The response provides a well-rounded explanation of the significance of anointing in the Old Testament for priests, kings, and prophets, clearly highlighting the importance of divine empowerment and calling for these leadership roles. The answer demonstrates an understanding of the biblical principles underlying anointing in biblical leadership roles and relates it effectively to modern-day implications. The only area for improvement would be to include a brief mention of the spiritual symbolism of anointing in connection to the Christian belief in being consecrated for God's service.
+
+[&lt;- Link to Answer](../Significance_of_Anointing.md)

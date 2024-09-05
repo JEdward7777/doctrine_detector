@@ -21,3 +21,5 @@ The premise of your question is inaccurate. The scriptures do not specifically r
 Grade: 90
 
 Comment: The response accurately identifies key scriptures that discuss the temple as the "house of Yahweh" in relation to God. The initial concern is effectively addressed within a Christian worldview perspective.
+
+[&lt;- Link to Answer](../Biblical_References_to_the_Temple.md)

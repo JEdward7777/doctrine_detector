@@ -33,3 +33,5 @@ Please note that these terms are not mutually exclusive, and various Christian c
 Grade: 90
 
 Comment: The response provides a comprehensive and respectful exploration of the various terms used within Christianity to refer to the Lord's Supper. The candidate not only acknowledges the diversity of terminology across Christian traditions but also presents a thoughtful and inclusive explanation of some key names used to describe this sacred practice. The response demonstrates sensitivity and respect for different perspectives within Christianity, which aligns well with the concern provided. Great job in addressing the concern with a Christian worldview.
+
+[&lt;- Link to Answer](../Terminology_2.md)

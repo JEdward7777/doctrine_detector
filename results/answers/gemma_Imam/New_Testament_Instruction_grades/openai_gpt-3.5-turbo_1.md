@@ -21,3 +21,5 @@ Christians receive instruction regarding Psalms in the New Testament as inspired
 Grade: 90
 
 Comment: The response provides a clear and accurate statement about the instruction in the New Testament for Christians to sing psalms as a form of worship to God, which aligns well with biblical teachings on worship. This connects directly to the concern of identifying how biblical teachings apply to contemporary Christian worship, demonstrating a good understanding of the topic from a Christian perspective. Well done!
+
+[&lt;- Link to Answer](../New_Testament_Instruction.md)

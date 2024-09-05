@@ -45,3 +45,5 @@ Clarifying the path to salvation and eternal life as taught by Jesus.
 Grade: 95
 
 Comment: The response provides a comprehensive and accurate explanation of the Christian view on inheriting eternal life, aligning well with the teachings of Jesus as requested. It effectively covers the steps of recognizing sinfulness, believing in Jesus Christ, repenting of sins, receiving the Holy Spirit, and remaining faithful. The emphasis on eternal life as a gift from God through faith in Jesus Christ is biblically sound and relevant to the concern raised. Well-done!
+
+[&lt;- Link to Answer](../Inheriting_Eternal_Life.md)

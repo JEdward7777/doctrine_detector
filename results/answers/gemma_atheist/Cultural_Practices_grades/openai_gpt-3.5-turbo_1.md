@@ -70,3 +70,5 @@ This question examines how cultural norms influence faith communities and their 
 Grade: 85
 
 Comment: The response effectively highlights the cultural practices of the Jewish view of Gentiles and their influence on early Christian practices. It demonstrates a clear understanding of the impact of cultural norms on faith communities and provides insightful analysis. The only area for improvement would be to provide more specific examples or biblical references to further support the discussion.
+
+[&lt;- Link to Answer](../Cultural_Practices.md)

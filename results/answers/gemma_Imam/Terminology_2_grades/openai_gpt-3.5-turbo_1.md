@@ -28,3 +28,5 @@ Understanding the various terms used within Christianity to refer to this sacred
 Grade: 80
 
 Comment: The response correctly identifies some terms used to refer to the Lord's Supper within Christianity, specifically 'communion' and 'Last Supper.' However, it misses out on important additional terms and nuances that are commonly used within Christian communities to refer to this sacred practice. The response could have been improved by incorporating a more comprehensive understanding of the various terms used, as outlined in the provided reference.
+
+[&lt;- Link to Answer](../Terminology_2.md)

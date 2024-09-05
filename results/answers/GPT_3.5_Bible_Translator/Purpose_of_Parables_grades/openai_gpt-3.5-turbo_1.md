@@ -21,3 +21,5 @@ The primary purpose of Jesus using parables in his teachings was to convey spiri
 Grade: 90
 
 Comment: The response provides a comprehensive explanation of the purpose and significance of Jesus using parables in his teachings, demonstrating a clear understanding of the teaching methods of Jesus and their implications for faith from a Christian perspective. It effectively addresses the concern by highlighting the dual nature of parables in revealing truth to those who truly seek understanding while concealing it from those who are closed off to God's message. Overall, the response is well-supported and aligns with a Christian worldview.
+
+[&lt;- Link to Answer](../Purpose_of_Parables.md)

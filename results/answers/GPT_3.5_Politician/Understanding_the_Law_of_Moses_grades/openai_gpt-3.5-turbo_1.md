@@ -21,3 +21,5 @@ The commandments given in the Law of Moses are based on the values and principle
 Grade: 85
 
 Comment: The response demonstrates a good understanding of the content by recognizing that the Law of Moses includes the Ten Commandments and various other laws for the Israelites. However, it falls slightly short in addressing the concern about the relevance of these laws today. A stronger connection could have been made between the ancient laws and their implications for Christian beliefs and practices in the present day.
+
+[&lt;- Link to Answer](../Understanding_the_Law_of_Moses.md)

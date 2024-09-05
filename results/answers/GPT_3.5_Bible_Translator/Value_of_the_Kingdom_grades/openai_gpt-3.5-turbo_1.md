@@ -29,3 +29,5 @@ These parables serve to illustrate the immeasurable worth and importance of the 
 Grade: 95
 
 Comment: The response effectively elaborates on the parables used by Jesus to convey the value of the kingdom of God, emphasizing the profound worth and significance of prioritizing God's kingdom in our lives. The inclusion of specific parables and their respective teachings align well with the concern of appreciating the worth and significance of the kingdom of God. Great job!
+
+[&lt;- Link to Answer](../Value_of_the_Kingdom.md)

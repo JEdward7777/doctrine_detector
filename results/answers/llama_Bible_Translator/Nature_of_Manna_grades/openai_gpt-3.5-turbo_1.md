@@ -31,3 +31,5 @@ So, based on these passages, we can infer that manna was a sweet-tasting, flaky 
 Grade: 90
 
 Comment: The response accurately describes manna as white flakes that tasted sweet like honey, which aligns with the Biblical description of manna in Exodus and Numbers. This understanding shows insight into the miraculous provision of God as recorded in the Scriptures. However, for a higher grade, further elaboration connecting the description of manna to the miraculous nature of God's provision and its significance in the context of the Israelites' journey in the wilderness could have been provided.
+
+[&lt;- Link to Answer](../Nature_of_Manna.md)

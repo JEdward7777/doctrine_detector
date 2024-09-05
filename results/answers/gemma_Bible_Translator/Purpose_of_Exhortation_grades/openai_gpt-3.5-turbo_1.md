@@ -36,3 +36,5 @@ These passages demonstrate that exhortation is an integral part of Christian min
 Grade: 90
 
 Comment: The response accurately explains the primary purpose of exhortation in the New Testament from a Christian perspective, emphasizing the importance of encouraging believers to live faithfully in light of their relationship with Christ. The explanation of biblical exhortation elements and the inclusion of relevant Bible passages are thorough and demonstrate a solid understanding of the biblical basis for encouraging others in their faith journey. The response effectively addresses the concern provided.
+
+[&lt;- Link to Answer](../Purpose_of_Exhortation.md)

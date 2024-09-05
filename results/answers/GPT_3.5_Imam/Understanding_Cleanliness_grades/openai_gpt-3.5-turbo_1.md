@@ -29,3 +29,5 @@ Therefore, as Muslims, we are encouraged to strive for both physical and moral p
 Grade: 90
 
 Comment: The response effectively draws parallels between Islamic teachings on moral purity and the biblical concepts of "clean" and "unclean" in relation to spiritual cleanliness. It acknowledges the importance of moral purity in both faith traditions and emphasizes the need for believers to strive for personal and communal cleanliness in their lives. The response demonstrates a strong understanding of the significance of cleanliness in a spiritual context and effectively applies a Christian worldview to evaluate the Islamic perspective presented.
+
+[&lt;- Link to Answer](../Understanding_Cleanliness.md)

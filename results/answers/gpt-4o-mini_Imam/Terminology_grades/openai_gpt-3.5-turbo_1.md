@@ -30,3 +30,5 @@ These terms are specific to Islamic practices and structures rather than being d
 Grade: 70
 
 Comment: The response effectively presents alternative terms for service roles within an Islamic context, highlighting their function and significance within the Islamic community. However, it falls short of directly addressing the concern of recognizing service roles within the Christian church as it does not explicitly address the concept of deacons within Christianity. The response could have demonstrated a deeper understanding of the specific concern by drawing parallels to Christian service roles or explaining how Islamic roles differ from the Christian deacon role.
+
+[&lt;- Link to Answer](../Terminology.md)

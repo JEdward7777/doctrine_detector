@@ -29,3 +29,5 @@ In summary, while all three terms involve guiding others, 'exhort' emphasizes ur
 Grade: 85
 
 Comment: The response has done a good job of explaining the nuances between 'exhort,' 'encourage,' and 'admonish' in a community or spiritual context. The response effectively addresses the concern by highlighting how each term aligns with scriptural principles of guidance and support. The explanation is clear and demonstrates an understanding of the Christian worldview in guiding and correcting others in love and truth.
+
+[&lt;- Link to Answer](../Differences_in_Terminology.md)

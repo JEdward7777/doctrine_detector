@@ -29,3 +29,5 @@ It's important to respect the diverse beliefs and practices of different culture
 Grade: 80
 
 Comment: The response provides appropriate translations that uphold the inclusivity and universality of the Church as a gathering of all believers. However, while the translations are inclusive, there is room for improvement in explicitly connecting them to the concept of the Church being a diverse and unified body of believers, which is a key aspect of the church's inclusive nature from a Christian perspective.
+
+[&lt;- Link to Answer](../Translation_of_Church.md)

@@ -25,3 +25,5 @@ Jesus' role as a high priest also means that he now intercedes on behalf of beli
 Grade: 95
 
 Comment: This response provides a thorough and accurate explanation of the significance of Jesus' role as a high priest in the order of Melchizedek, emphasizing the superiority of his sacrifice compared to the sacrifices made by human priests in the Old Testament. The connection between Jesus' role as a high priest and his intercession for believers is well-explained, reflecting a sound understanding of Jesus' priesthood within Christian theology.
+
+[&lt;- Link to Answer](../Jesus_as_High_Priest.md)

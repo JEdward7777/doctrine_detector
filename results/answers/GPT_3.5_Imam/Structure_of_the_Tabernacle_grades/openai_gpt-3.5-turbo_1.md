@@ -25,3 +25,5 @@ In Islamic teaching, we do not have a concept of the tabernacle described in the
 Grade: 95
 
 Comment: The response provides a detailed and accurate description of the components of the tabernacle in the Old Testament, highlighting their significance in worship. The explanation is thorough and reflective of a good understanding of the topic from a Christian worldview.
+
+[&lt;- Link to Answer](../Structure_of_the_Tabernacle.md)

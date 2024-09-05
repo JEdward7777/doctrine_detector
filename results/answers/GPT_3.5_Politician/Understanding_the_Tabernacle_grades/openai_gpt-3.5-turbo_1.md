@@ -21,3 +21,5 @@ The tabernacle served as a central place of worship and connection to the divine
 Grade: 95
 
 Comment: The response effectively captures the essence of the tabernacle as a place of worship and connection to God for the Israelites, emphasizing the importance of following God's detailed instructions for its construction. The mention of the tabernacle as a special dwelling place for God is a key aspect of the Israelites' relationship with Him, demonstrating a solid understanding of the role of the tabernacle in their faith and devotion.
+
+[&lt;- Link to Answer](../Understanding_the_Tabernacle.md)

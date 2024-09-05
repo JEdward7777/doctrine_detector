@@ -21,3 +21,5 @@ The term "Son of Man" is a title that Jesus used to refer to himself in the New 
 Grade: 90
 
 Comment: The response effectively captures the dual nature of Jesus as fully human and fully divine, explaining the significance of His self-identification as the 'Son of Man' in relation to His role as the Messiah and His connection to humanity. The answer aligns well with the concern provided, emphasizing the importance of understanding this title in shaping our faith. Well done!
+
+[&lt;- Link to Answer](../Understanding_the_Title.md)

@@ -25,3 +25,5 @@ Furthermore, the Passover celebrates the deliverance and redemption of God's cho
 Grade: 95
 
 Comment: The response provides a thorough explanation of the connection between the Old Testament Passover and the New Testament revelation of Jesus, showcasing a strong understanding of how Jesus fulfills the symbolism of the Passover Lamb. The integration of relevant Bible verses and the theological significance of Jesus as the sacrificial Lamb is well articulated. The response effectively ties in the themes of deliverance, redemption, and salvation through Christ, demonstrating a solid Christian worldview perspective.
+
+[&lt;- Link to Answer](../Passover_Significance.md)

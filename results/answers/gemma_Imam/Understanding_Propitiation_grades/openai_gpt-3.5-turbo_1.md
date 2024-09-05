@@ -23,3 +23,5 @@ In Islamic theology, belief in Jesus as a prophet is accepted, but the concept o
 Grade: 90
 
 Comment: The response effectively highlights the significance of Jesus' sacrifice in satisfying God's justice and appeasing His wrath, offering sinners forgiveness and eternal life. It addresses the concern by emphasizing the crucial connection between propitiation, God's justice, and mercy. The explanation is clear and aligns well with a Christian worldview in illustrating the theological implications of Jesus' sacrifice in contrast to Islamic beliefs. Well done!
+
+[&lt;- Link to Answer](../Understanding_Propitiation.md)

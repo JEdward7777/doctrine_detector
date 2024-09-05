@@ -25,3 +25,5 @@ This story serves as a reminder of the importance of honoring and observing the 
 Grade: 95
 
 Comment: The response effectively explains the story of God instructing the Israelites on gathering manna in relation to the Sabbath according to the biblical account. It highlights the importance of observing the Sabbath as a day of rest and worship, aligning with God's commands. The connection between God's instructions and the significance of honoring the Sabbath is clearly addressed. Great job overall!
+
+[&lt;- Link to Answer](../Sabbath_Observance_2.md)

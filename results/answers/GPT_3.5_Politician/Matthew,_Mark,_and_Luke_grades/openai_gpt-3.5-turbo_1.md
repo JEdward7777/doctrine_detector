@@ -21,3 +21,5 @@ The names of the twelve disciples are listed in the Gospels of Matthew, Mark, Lu
 Grade: 80
 
 Comment: The response accurately identifies where the names of the twelve disciples can be found in the Bible, but it does not directly address the concern of being familiar with the Gospel accounts and their teachings. A stronger connection between the knowledge of the disciples and the teachings they received from Jesus in the Gospels could improve the response.
+
+[&lt;- Link to Answer](../Matthew,_Mark,_and_Luke.md)

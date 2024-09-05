@@ -25,3 +25,5 @@ It is significant in a Christian context because Christians are called to live o
 Grade: 95
 
 Comment: The response demonstrates a deep understanding of the Christian perspective on the seriousness of giving false testimony and how it relates to upholding truthfulness in words and actions. The connection to biblical teachings and the importance of integrity in the political sphere are well articulated, showcasing a strong application of Christian principles to the concern provided. Well done!
+
+[&lt;- Link to Answer](../False_Witness.md)

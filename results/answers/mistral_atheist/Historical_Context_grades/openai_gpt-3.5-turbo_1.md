@@ -29,3 +29,5 @@ In each of these examples, the idea of the 'remnant' offers hope for God's chose
 Grade: 90
 
 Comment: The response demonstrates a strong understanding of the historical significance of the remnant in relation to God's promises as seen in Isaiah and Amos. It accurately highlights the themes of exile, preservation, and restoration of a chosen remnant in God's covenant with His people. The explanation provided aligns well with the Christian worldview by emphasizing God's faithfulness and mercy towards His people, even in times of judgment and exile. Great job!
+
+[&lt;- Link to Answer](../Historical_Context.md)

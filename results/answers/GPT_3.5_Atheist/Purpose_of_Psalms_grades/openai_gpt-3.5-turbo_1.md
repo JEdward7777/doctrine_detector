@@ -27,3 +27,5 @@ Overall, the Psalms were a central component of Israelite worship practices, pro
 Grade: 90
 
 Comment: The response effectively expands on the given answer by delving into the historical context and purpose of worship through the Psalms. It emphasizes the significance of the Psalms in connecting with God emotionally, spiritually, and in passing down teachings to future generations. The response demonstrates a good understanding of the importance of the Psalms in Israelite worship practices.
+
+[&lt;- Link to Answer](../Purpose_of_Psalms.md)

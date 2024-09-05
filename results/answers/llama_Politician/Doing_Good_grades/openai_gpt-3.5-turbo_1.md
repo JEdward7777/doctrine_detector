@@ -31,3 +31,5 @@ In summary, "doing good to" someone within a Christian context means showing lov
 Grade: 90
 
 Comment: The response provides a thoughtful and well-articulated perspective on the concept of "doing good to" others within a Christian context. The candidate effectively integrates Christian teachings on love and service, emphasizing the importance of embodying Christ's love through acts of kindness and compassion. The response also addresses the concern of encouraging Christians to live out their faith through good deeds by promoting inclusivity and sensitivity in their approach. Overall, the answer aligns well with Christian values and principles.
+
+[&lt;- Link to Answer](../Doing_Good.md)

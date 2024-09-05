@@ -27,3 +27,5 @@ It's important to note that the New Testament exhortations are not intended to o
 Grade: 95
 
 Comment: The response provides a detailed and insightful explanation on the purpose of exhortation in the New Testament, emphasizing the importance of guiding and encouraging believers to live out their faith in accordance with God's will. It effectively addresses the concern by showcasing a strong understanding of the biblical basis for encouraging others in their faith journey from a Christian worldview.
+
+[&lt;- Link to Answer](../Purpose_of_Exhortation.md)

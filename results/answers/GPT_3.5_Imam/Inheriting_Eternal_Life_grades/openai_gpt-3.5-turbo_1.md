@@ -25,3 +25,5 @@ Ultimately, the Quran teaches that faith and good deeds are necessary for attain
 Grade: 50
 
 Comment: The response provided a thorough explanation of Islamic teachings on attaining eternal life, which may be insightful from a Muslim perspective. However, in the context of clarifying the path to salvation and eternal life as taught by Jesus specifically, the answer did not align with the Christian worldview. It would have been more appropriate to focus on Jesus' teachings and how they relate to inheriting eternal life according to Christian beliefs.
+
+[&lt;- Link to Answer](../Inheriting_Eternal_Life.md)

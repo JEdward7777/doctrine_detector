@@ -60,3 +60,5 @@ Identifying scripture that supports the practice of forgiveness among believers.
 Grade: 95
 
 Comment: The response provides an excellent selection of biblical verses that clearly support the practice of forgiveness among believers, addressing the concern effectively with a solid foundation in scripture. The verses are well-chosen and explained in a Christian context, demonstrating a strong understanding of the importance of forgiveness as taught in the Bible. Well done!
+
+[&lt;- Link to Answer](../Biblical_Basis_for_Forgiveness.md)

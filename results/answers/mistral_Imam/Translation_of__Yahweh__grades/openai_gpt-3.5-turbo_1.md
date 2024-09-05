@@ -25,3 +25,5 @@ This tradition continues in many Christian translations to emphasize the majesty
 Grade: 95
 
 Comment: The response provides a comprehensive explanation of why "LORD" is used instead of "Yahweh" in Christian translations, acknowledging the significance of preserving the sacredness of God's name while also making it accessible to congregations. The answer demonstrates an understanding of the balance between respecting the original names of God and honoring cultural practices within the Christian tradition.
+
+[&lt;- Link to Answer](../Translation_of__Yahweh_.md)

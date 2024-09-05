@@ -21,3 +21,5 @@ The Israelites ate unleavened bread during their escape from Egypt as a signific
 Grade: 90
 
 Comment: The response demonstrates a good understanding of the historical events that shaped the religious practice of eating unleavened bread by elaborating on the significance of the Israelites' Exodus and the instructions provided by God. It effectively connects the practice to the broader context of the Israelites' journey to freedom and the enduring impact on their culture and traditions.
+
+[&lt;- Link to Answer](../Historical_Context_2.md)

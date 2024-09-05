@@ -21,3 +21,5 @@ In Christianity, the term "resurrection" refers to the belief that Jesus Christ 
 Grade: 90
 
 Comment: The response provides a clear and accurate definition of the term "resurrection" from a Christian perspective, specifically highlighting the belief in Jesus Christ's resurrection. The answer effectively addresses the concern by emphasizing the importance of understanding resurrection in Christianity for beliefs about life after death. Overall, it demonstrates a good understanding of Christian theology regarding this crucial concept.
+
+[&lt;- Link to Answer](../Resurrection_Definition.md)

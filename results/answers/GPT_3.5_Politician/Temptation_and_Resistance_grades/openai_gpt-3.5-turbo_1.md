@@ -21,3 +21,5 @@ Jesus maintained his faith and stayed true to his beliefs, resisting the temptat
 Grade: 90
 
 Comment: The response effectively highlights Jesus' resistance to temptation as a demonstration of obedience and commitment to God, which is a foundational aspect of Christian faith. It appropriately acknowledges Jesus as a model for Christians to emulate in their own spiritual battles against evil, demonstrating a strong understanding of the significance of this aspect of Jesus' character.
+
+[&lt;- Link to Answer](../Temptation_and_Resistance.md)

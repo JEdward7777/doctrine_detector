@@ -27,3 +27,5 @@ So, in essence, the Israelites stopped using the Tabernacle due to settlement an
 Grade: 90
 
 Comment: The response provides a clear and accurate explanation of the transition in worship practices from the Tabernacle to the Temple based on the events of building the Temple in Jerusalem by Solomon and its subsequent significance as a permanent place of worship. The additional context about the Babylonian captivity and the subsequent rebuilding of the Second Temple further enriches the explanation within the Christian worldview. Well done!
+
+[&lt;- Link to Answer](../Transition_from_Tabernacle_to_Temple.md)

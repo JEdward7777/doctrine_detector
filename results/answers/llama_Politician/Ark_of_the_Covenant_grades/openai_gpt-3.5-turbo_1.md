@@ -31,3 +31,5 @@ In conclusion, the Ark of the Covenant is an important part of Jewish, Christian
 Grade: 65
 
 Comment: The response does a decent job of discussing the significance of the Ark of the Covenant as a sacred container for the tablets of the Ten Commandments and its representation of God's covenant with Israel. However, the response detracts from the Christian specific worldview by emphasizing a pluralistic society and inclusivity over the unique significance of God's laws and His relationship with His chosen people. The response could be improved by focusing more on the Christian perspective and the importance of upholding God's laws and covenant.
+
+[&lt;- Link to Answer](../Ark_of_the_Covenant.md)

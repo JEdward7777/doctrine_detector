@@ -27,3 +27,5 @@ In summary, from an Islamic perspective, there is no significance to apostles be
 Grade: 40
 
 Comment: The response provided a thorough perspective from an Islamic theological viewpoint, but it did not address the concern raised, which was specifically about the role of apostleship in the context of the Great Commission. From a Christian worldview, the Great Commission refers to Jesus' command to his apostles to go and make disciples of all nations. The response did not engage with this aspect of apostleship as understood within Christianity.
+
+[&lt;- Link to Answer](../Apostleship_Understanding.md)

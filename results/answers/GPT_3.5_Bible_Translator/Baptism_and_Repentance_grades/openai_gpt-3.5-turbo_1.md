@@ -27,3 +27,5 @@ So, repentance prepares the heart for baptism by acknowledging the need for forg
 Grade: 95
 
 Comment: The response provides a comprehensive explanation of the relationship between repentance and baptism in Christian doctrine, highlighting their significance and connection in the process of salvation according to the New Testament. It effectively expands on the initial answer by elaborating on the biblical basis and spiritual importance of both repentance and baptism. The integration of relevant scripture verses and theological concepts demonstrates a strong understanding of the topic from a Christian worldview. Good job overall.
+
+[&lt;- Link to Answer](../Baptism_and_Repentance.md)

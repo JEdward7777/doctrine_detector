@@ -21,3 +21,5 @@ The Lord's Supper, also known as Communion or the Eucharist, commemorates the La
 Grade: 90
 
 Comment: The response effectively recognizes the connection between the Lord's Supper and the Passover meal that Jesus shared with his disciples, highlighting the symbolism of Jesus' body and blood as a sacrifice for sin. It accurately conveys a key aspect of the significance of the Lord's Supper in Christian faith, showing an understanding of the theological implications of this sacrament. The response could be further enriched by expanding on how the new covenant and the concept of remembrance play into the meaning of the Lord's Supper in Christian tradition.
+
+[&lt;- Link to Answer](../Lord_s_Supper_Definition.md)

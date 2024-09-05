@@ -21,3 +21,5 @@ There is no biblical evidence to support the concept of an "atonement lid" in th
 Grade: 70
 
 Comment: The response acknowledges the significance of the atonement lid (mercy seat) in representing God's mercy and the role of the high priest in mediating for the people. However, the original response accurately points out the lack of biblical evidence for the concept of an "atonement lid," showing a discerning approach to understanding biblical symbolism. While the provided response gives a generally correct perspective, there is room for improvement in addressing the concern from a more thorough biblical perspective within a Christian worldview.
+
+[&lt;- Link to Answer](../atonement_lid_definition.md)

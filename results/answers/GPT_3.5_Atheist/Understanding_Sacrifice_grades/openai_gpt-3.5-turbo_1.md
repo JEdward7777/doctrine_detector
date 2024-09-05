@@ -27,3 +27,5 @@ Overall, the metaphor of Jesus as the "Lamb of God" highlights the continuity be
 Grade: 90
 
 Comment: The response effectively explains the metaphor of Jesus as the "Lamb of God" in relation to the sacrificial practices in the Old Testament, emphasizing Jesus as the perfect and unblemished sacrifice who paid for people's sins. It clearly highlights the significance of Jesus' sacrificial role in fulfilling God's plan for redemption within a Christian worldview. The response demonstrates a strong understanding of the Christian perspective on the atoning sacrifice of Jesus.
+
+[&lt;- Link to Answer](../Understanding_Sacrifice.md)

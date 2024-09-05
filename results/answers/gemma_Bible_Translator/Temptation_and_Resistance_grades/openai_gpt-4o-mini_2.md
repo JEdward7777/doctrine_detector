@@ -48,3 +48,5 @@ The biblical account of Jesus' temptations suggests he responded in several ways
 Grade: 95
 
 Comment: This response provides a comprehensive analysis of Jesus' responses to temptations based on the biblical account. The student effectively elaborates on key aspects such as drawing on divine authority, spiritual preparation, firmness, dependence on God, humility, and obedience. The connection to how understanding Jesus' resistance serves as a model for Christians in their spiritual battles against evil is well-developed. The response displays a strong understanding of the Christian worldview and effectively applies it to the given concern. Great job!
+
+[&lt;- Link to Answer](../Temptation_and_Resistance.md)

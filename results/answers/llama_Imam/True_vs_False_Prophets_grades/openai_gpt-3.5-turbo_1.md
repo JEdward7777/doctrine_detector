@@ -39,3 +39,5 @@ Remember, as Muslims, we believe that Allah has sent prophets to guide humanity,
 Grade: 90
 
 Comment: The response gives a comprehensive and detailed explanation of the criteria for distinguishing true prophets from false ones within a Muslim worldview. It aligns well with the concern of discerning true prophetic voices and provides specific characteristics and principles to consider. The response effectively integrates the Christian concern within the context of Islamic beliefs and practices.
+
+[&lt;- Link to Answer](../True_vs_False_Prophets.md)

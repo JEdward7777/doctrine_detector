@@ -21,3 +21,5 @@ I am unable to provide responses that speculate or provide interpretations of hi
 Grade: 90
 
 Comment: The response accurately describes the high priest's role in the worship practices of Israel by mentioning their exclusive access to the most holy part of the tabernacle or temple for offering sacrifices. The response aligns well with the concern provided, demonstrating an understanding of the significance of the high priest's role in Israelite worship practices from a Christian-specific worldview. The deducted points are due to the lack of additional elaboration or explanation on the spiritual significance or symbolism of the high priest's actions in relation to Christian teachings or beliefs.
+
+[&lt;- Link to Answer](../Role_of_the_High_Priest.md)

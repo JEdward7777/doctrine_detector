@@ -31,3 +31,5 @@ These materials reflect the significance of the altar as a place of worship and 
 Grade: 90
 
 Comment: The response provides a well-structured and comprehensive explanation of the materials used in constructing biblical altars, drawing from specific biblical references. It effectively deepens the understanding of biblical practices and the reverence associated with worship from a Christian perspective. The inclusion of both common materials like stones and earth, as well as the mention of special altars made from wood overlaid with metals, enhances the richness of the response. The details provided align well with Christian teachings on the significance of altars as places of worship and sacrifice, making it a thorough and informative explanation.
+
+[&lt;- Link to Answer](../Building_Materials.md)

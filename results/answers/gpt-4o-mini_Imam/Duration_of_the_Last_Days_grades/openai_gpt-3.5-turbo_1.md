@@ -25,3 +25,5 @@ From an Islamic perspective, we believe in the Day of Judgment and the signs pre
 Grade: 90
 
 Comment: The response provides a clear and accurate explanation of the uncertainty surrounding the duration of 'the last days' in Christian belief. It appropriately addresses the concern by emphasizing the importance of focusing on actions and faith in anticipation of Christ's return, despite the lack of specific timelines. The mention of Matthew 24:36 adds a biblical reference to support the explanation. The response could be further enhanced by connecting the Christian perspective to the importance of living faithfully and obediently in the present, rather than solely speculating about the future.
+
+[&lt;- Link to Answer](../Duration_of_the_Last_Days.md)

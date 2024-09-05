@@ -27,3 +27,5 @@ Overall, myrrh's association with burial practices serves as a reminder of the c
 Grade: 95
 
 Comment: This response effectively expands on the significance of myrrh in biblical times, specifically in the context of burial practices, and demonstrates a clear understanding of the connection between myrrh and honoring the deceased in cultural and religious contexts. The additional details provided enhance comprehension of the customs surrounding burial practices, illustrating how they contribute to the understanding of scripture within its cultural setting.
+
+[&lt;- Link to Answer](../Use_in_Burial.md)

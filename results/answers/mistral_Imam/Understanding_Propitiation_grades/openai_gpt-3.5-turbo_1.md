@@ -27,3 +27,5 @@ It's always important to remember that interpretations can vary among different 
 Grade: 30
 
 Comment: The response accurately presents Islamic beliefs regarding Jesus but fails to address the concern of how the concept of propitiation relates to God's justice and mercy from a Christian perspective. It does not engage with the specific Christian worldview presented in the answer provided. Further exploration of how the Christian understanding of Jesus' sacrifice addresses the concern would have improved the grade.
+
+[&lt;- Link to Answer](../Understanding_Propitiation.md)

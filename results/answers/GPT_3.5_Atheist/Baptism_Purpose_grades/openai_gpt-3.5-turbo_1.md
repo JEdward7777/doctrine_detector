@@ -23,3 +23,5 @@ It is important to note that different Christian denominations may have varying 
 Grade: 90
 
 Comment: The response provides a thorough explanation of the significance of baptism in the Christian faith, emphasizing its symbolism in cleansing from sin and initiation into the community of believers. It also touches on the aspect of obedience to Jesus' command and identification with his death and resurrection. The response effectively addresses the concern by highlighting the importance of baptism and its theological implications within a Christian worldview.
+
+[&lt;- Link to Answer](../Baptism_Purpose.md)

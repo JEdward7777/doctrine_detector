@@ -25,3 +25,5 @@ Therefore, believers are encouraged to constantly strive towards self-improvemen
 Grade: 90
 
 Comment: The response provides a thorough explanation of the concept of personal sanctification in Islam, highlighting the emphasis on cleansing the heart and soul from impurities and the importance of self-improvement and seeking forgiveness. The relevance of personal responsibility in the sanctification process is effectively addressed and connected to the Islamic perspective presented. The response effectively integrates the Christian worldview by emphasizing the command for believers in Jesus to sanctify themselves to God and be holy. Overall, a strong and well-articulated response.
+
+[&lt;- Link to Answer](../Calling_to_Sanctification.md)

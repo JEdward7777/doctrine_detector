@@ -31,3 +31,5 @@ In summary, repentance precedes or accompanies baptism, as it leads people to ha
 Grade: 95
 
 Comment: The response provides a comprehensive explanation of the relationship between repentance and baptism in Christian doctrine, drawing from specific biblical examples and theological concepts. The additional information given enhances the understanding beyond the initial answer provided, demonstrating a deep knowledge of the topic from a Christian worldview. Well done!
+
+[&lt;- Link to Answer](../Baptism_and_Repentance.md)

@@ -27,3 +27,5 @@ This shift in the concept of purification from the Old Testament to the New Test
 Grade: 90
 
 Comment: The response provides a solid explanation of the shift in purification from the Old Testament to the New Testament, emphasizing the significance of Christ's sacrifice for eternal purification from sin. The student effectively incorporates biblical references to support their argument and presents a clear understanding of the central role of Jesus in the process of purification. However, it would have been beneficial for the student to elaborate further on the concept of repentance as an essential element in receiving the benefits of Christ's sacrifice for purification. Overall, a well-written and insightful response.
+
+[&lt;- Link to Answer](../New_Testament_Redemption.md)

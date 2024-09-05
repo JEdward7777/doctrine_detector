@@ -21,3 +21,5 @@ Understanding the role of the temple in the context of Old Testament worship.
 Grade: 90
 
 Comment: This response effectively expands on the role of the temple in the context of Old Testament worship by providing specific details about its purpose, significance, and symbolism based on biblical references. It demonstrates a good understanding of how the temple served as a central sanctuary for the Israelites to maintain their covenantal relationship with God. The only minor suggestion would be to include more direct references to specific rituals and practices that took place within the temple to further enhance the explanation.
+
+[&lt;- Link to Answer](../Temple_Significance.md)

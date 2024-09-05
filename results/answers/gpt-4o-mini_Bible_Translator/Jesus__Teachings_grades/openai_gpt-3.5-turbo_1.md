@@ -27,3 +27,5 @@ Overall, through the use of "amen," Jesus communicated not just affirmation but 
 Grade: 95
 
 Comment: The response effectively expands on the initial answer by providing specific examples and contexts in which Jesus used the term "amen" to underscore the truth and authority of His teachings in the New Testament. It demonstrates a strong understanding of recognizing the authority of Jesus' words and teachings in Scripture through the use of "amen."
+
+[&lt;- Link to Answer](../Jesus__Teachings.md)

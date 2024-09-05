@@ -27,3 +27,5 @@ In summary, physical death refers to the end of life in the body, while perishin
 Grade: 95
 
 Comment: The response effectively addresses the concern by providing a detailed explanation of the distinction between physical death and spiritual 'perishing' in a Christian context. It emphasizes the eternal consequences for those who do not trust in Jesus, aligning well with Christian teachings on salvation. The response is clear, well-supported with biblical references, and accurately highlights the importance of translating these concepts faithfully.
+
+[&lt;- Link to Answer](../Physical_vs._Spiritual_Death.md)

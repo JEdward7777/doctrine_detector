@@ -31,3 +31,5 @@ In summary, different forms of love contribute to a richer understanding of the 
 Grade: 90
 
 Comment: This response provides a thorough explanation of the different forms of love found in the Bible, specifically focusing on agape, philia, and eros love. The student effectively differentiates between these types of love and ties them back to biblical principles, emphasizing the importance of aligning all forms of love with God's love. The discussion is well-supported with biblical references and demonstrates a solid understanding of how different types of love can coexist within a biblical worldview. Overall, a well-developed and well-rounded response.
+
+[&lt;- Link to Answer](../Types_of_Love.md)

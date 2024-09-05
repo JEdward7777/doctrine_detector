@@ -31,3 +31,5 @@ Some key responsibilities of prophets in the Bible include:
 Grade: 90
 
 Comment: The response provides a comprehensive overview of the biblical role of prophets and their messages, elaborating on key responsibilities that align with a Christian worldview. The explanation is clear and well-supported by relevant biblical principles. The understanding demonstrated in the response shows a solid grasp of the topic, earning a high grade.
+
+[&lt;- Link to Answer](../Role_of_Prophets.md)

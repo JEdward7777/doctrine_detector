@@ -27,3 +27,5 @@ The idea of the remnant thus showcases God's selective grace towards His people.
 Grade: 90
 
 Comment: The response provides a thorough explanation of the concept of the remnant in the Bible within the contexts of the Old and New Testaments. It effectively addresses the concern by emphasizing God's sovereignty in choosing certain individuals or groups to receive His grace, showcasing the significance of being chosen by God. The response demonstrates a solid understanding of the Christian worldview in relation to the concept of the remnant. Great job!
+
+[&lt;- Link to Answer](../God_s_Chosen_People.md)

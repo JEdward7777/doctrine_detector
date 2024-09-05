@@ -33,3 +33,5 @@ In summary, the eternal consequences for those who are perishing according to Ch
 Grade: 95
 
 Comment: The response provides a detailed explanation of the consequences of perishing from a Christian theological standpoint, referencing relevant biblical passages and expounding on the seriousness of eternal separation from God. It effectively addresses the concern by delving into the implications of being separated from God and the grave outcomes for those who reject Him. The explanation is thorough, clear, and aligns well with a Christian worldview.
+
+[&lt;- Link to Answer](../Eternal_Consequences.md)

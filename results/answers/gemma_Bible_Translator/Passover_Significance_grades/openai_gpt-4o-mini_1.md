@@ -33,3 +33,5 @@ The parallels between the Passover celebration and Christ's sacrifice highlight 
 Grade: 95
 
 Comment: This response excellently articulates the connection between the Old Testament Passover and the New Testament revelation of Jesus. It effectively explains how Jesus fulfills the symbolism of the Passover lamb through His sacrifice and offers a clear Christian perspective on the significance of celebrating Passover. The biblical parallels are well-drawn and the response effectively highlights the central message of Christianity in relation to Passover. Great job!
+
+[&lt;- Link to Answer](../Passover_Significance.md)

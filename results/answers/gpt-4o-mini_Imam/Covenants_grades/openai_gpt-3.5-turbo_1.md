@@ -35,3 +35,5 @@ In summary, while we approach the topic of biblical covenants from an Islamic pe
 Grade: 75
 
 Comment: The response effectively draws parallels between the Islamic perspective on God's unwavering commitment and the biblical covenants, highlighting similarities in divine promises, unconditional love and mercy, the role of prophets, community responsibility, and hope for restoration. However, the focus could have been more directly on the concern provided, specifically highlighting the overarching narrative of redemption in the Bible through the continuity of God's promises as seen in the covenants with Abraham, Isaac, and Jacob.
+
+[&lt;- Link to Answer](../Covenants.md)

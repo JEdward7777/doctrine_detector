@@ -21,3 +21,5 @@ The Quran does not contain any specific records of Jesus giving commands to his 
 Grade: 95
 
 Comment: The response accurately captures the essence of the Great Commission given by Jesus to His disciples. It aligns well with the concern of understanding the mission of discipleship in spreading the teachings of Jesus to all nations. The only room for improvement would have been to explicitly mention Jesus' command in the Bible (Matthew 28:19-20) for reference and citation.
+
+[&lt;- Link to Answer](../The_Great_Commission.md)

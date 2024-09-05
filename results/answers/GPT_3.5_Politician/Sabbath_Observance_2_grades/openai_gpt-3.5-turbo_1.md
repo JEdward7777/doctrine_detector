@@ -21,3 +21,5 @@ In the biblical account, God instructed the Israelites to gather a double portio
 Grade: 95
 
 Comment: The response accurately conveys the biblical account of God instructing the Israelites to gather double the amount of manna before the Sabbath to sustain them on their day of rest. It demonstrates an understanding of the importance of observing the Sabbath according to God's commands by highlighting the specific instruction regarding gathering food for that day. The only minor improvement could be to elaborate on the significance of resting and honoring the Sabbath as a commandment from God. Overall, a strong response from a Christian worldview perspective.
+
+[&lt;- Link to Answer](../Sabbath_Observance_2.md)

@@ -29,3 +29,5 @@ In summary, the sending of the apostles by Jesus was significant in the cultural
 Grade: 90
 
 Comment: The response provides a thorough analysis of the role of the apostles in the early Christian movement from a cultural and historical perspective, acknowledging their significant role in spreading the message of Jesus and establishing Christian communities. It effectively connects the concept of apostleship with the mission of the Great Commission, demonstrating an understanding of their authority and mission. The evaluation would have been enhanced by incorporating more explicit references to the Great Commission and its role in guiding the apostles' mission. Nevertheless, the response effectively addresses the concern within a Christian worldview.
+
+[&lt;- Link to Answer](../Apostleship_Understanding.md)

@@ -28,3 +28,5 @@ These passages provide the most comprehensive lists of the twelve disciples in t
 Grade: 80
 
 Comment: The response accurately identifies where the names of the twelve disciples are listed in the New Testament, referencing relevant passages in Matthew, Mark, Luke, and Acts. The mention of the Holy Spirit descending in Acts 1:13 is a good addition to contextualize the disciples' presence. However, the response could benefit from a stronger connection to the concern regarding familiarity with the Gospel accounts and their teachings. It would be helpful to include a brief explanation of the significance or roles of the twelve disciples in the Gospel narratives to demonstrate a deeper understanding of their importance.
+
+[&lt;- Link to Answer](../Matthew,_Mark,_and_Luke.md)

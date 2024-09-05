@@ -35,3 +35,5 @@ This emphasizes the call to discipleship and the personal cost of following Chri
 Grade: 80
 
 Comment: The response provides a solid interpretation of the concept of "taking up your cross" in the context of following Jesus and living a life of obedience to God's will. It effectively highlights the personal cost of discipleship and the importance of embracing trials and sacrifices in the Christian faith. The concerns raised in the politically correct perspective are addressed well, but there could be a stronger emphasis on the spiritual significance of taking up one's cross.
+
+[&lt;- Link to Answer](../Daily_Bearing_the_Cross.md)

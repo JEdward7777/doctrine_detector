@@ -35,3 +35,5 @@ As we seek to follow Jesus' example in our own lives, let us remember His words:
 Grade: 95
 
 Comment: This response does an excellent job of recognizing the authority of Jesus' words and teachings in Scripture by providing detailed explanations and examples of how Jesus used the term "Amen" to emphasize the truthfulness of His teachings. The inclusion of specific passages from the Bible and explanations of how "Amen" was used to affirm, confirm, and emphasize different teachings demonstrates a strong understanding of Jesus' authority. The response effectively shows how Jesus' use of "Amen" underscores the significance and authenticity of His teachings, aligning well with Christian beliefs about the authority of Jesus' words. Great job!
+
+[&lt;- Link to Answer](../Jesus__Teachings.md)

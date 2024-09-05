@@ -27,3 +27,5 @@ In summary, iniquity in Islam is seen as a serious offense that should be avoide
 Grade: 60
 
 Comment: The response provided a good explanation of how iniquity is viewed in Islam and emphasized the importance of seeking forgiveness and leading a righteous life. However, it did not directly address the concern raised from a Christian perspective regarding the importance of genuine holiness over mere external compliance to religious standards found in Matthew 23:27-28. To improve the grade, the response could have included a comparison with the Christian understanding of iniquity and the importance of inner righteousness as highlighted in the Bible verse provided.
+
+[&lt;- Link to Answer](../Scriptural_References_3.md)

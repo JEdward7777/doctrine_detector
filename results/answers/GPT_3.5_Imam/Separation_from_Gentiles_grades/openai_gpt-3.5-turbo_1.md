@@ -27,3 +27,5 @@ However, it is important to note that not all Jews held the same views as the Ph
 Grade: 70
 
 Comment: The response accurately explains the Pharisees' concern about keeping the Jewish people separated from Gentiles to maintain religious purity and adherence to Jewish laws and traditions. However, it does not delve deeply into the Pharisees' motivations or the potential flaws in their belief system from a Christian worldview perspective. A higher grade could be achieved by emphasizing the Pharisees' legalistic tendencies and the importance of love and inclusivity in Christianity.
+
+[&lt;- Link to Answer](../Separation_from_Gentiles.md)

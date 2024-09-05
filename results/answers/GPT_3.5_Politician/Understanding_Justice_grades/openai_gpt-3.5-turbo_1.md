@@ -21,3 +21,5 @@ Thank you for your question. Acting justly according to God's laws can mean diff
 Grade: 90
 
 Comment: The response effectively articulates a solid definition of acting justly according to God's laws, emphasizing fairness, honesty, and integrity. It aligns well with the concern of understanding the biblical standard of fairness and righteousness in our interactions with others. The only minor suggestion for improvement would be to include specific references to relevant scriptures that support the definition provided.
+
+[&lt;- Link to Answer](../Understanding_Justice.md)

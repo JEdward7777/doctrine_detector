@@ -27,3 +27,5 @@ Overall, Jesus used the term "amen" to underscore the importance and truth of hi
 Grade: 95
 
 Comment: The response provides a thorough explanation of how Jesus used the term "amen" to emphasize the truth and significance of his teachings, emphasizing the authority of Jesus' words in Scripture. The student effectively highlights the importance of recognizing Jesus' divine origin and authority in his teachings. Great job connecting the use of "amen" to the broader context of Jesus' teachings in Scripture.
+
+[&lt;- Link to Answer](../Jesus__Teachings.md)

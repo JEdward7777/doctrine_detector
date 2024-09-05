@@ -21,3 +21,5 @@ In a Christian context, the phrase "do good to" implies following the teachings 
 Grade: 95
 
 Comment: The response effectively ties the concept of "do good to" in a Christian context to actively benefiting others, being kind, and helping those in need, all rooted in reflecting Christ's love. It aligns well with the concern of encouraging Christians to live out their faith through good deeds, demonstrating a strong understanding of the Christian perspective on this matter.
+
+[&lt;- Link to Answer](../Doing_Good.md)

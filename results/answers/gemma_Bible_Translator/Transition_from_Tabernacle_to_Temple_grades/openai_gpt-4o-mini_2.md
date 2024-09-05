@@ -47,3 +47,5 @@ The Israelites stopped using the tabernacle due to several factors:
 Grade: 95
 
 Comment: The response provides a comprehensive explanation of why the Israelites transitioned from using the tabernacle to the temple, incorporating points about the fulfillment of purpose, construction of the temple, the temporary nature of the tabernacle, and God's promises. It effectively demonstrates an understanding of the transition in worship practices from the tabernacle to the temple from a Christian worldview perspective. Great job!
+
+[&lt;- Link to Answer](../Transition_from_Tabernacle_to_Temple.md)

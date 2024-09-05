@@ -34,3 +34,5 @@ Remember, eternal life is not something we can earn or work for; it's a free gif
 Grade: 25
 
 Comment: The response provided lacks important details and teachings about the path to salvation and eternal life as taught by Jesus. It does not adequately address the specific concerns given, offering a vague and incomplete explanation compared to the detailed and scripturally supported response provided by the Christian Bible translator. Further elaboration and alignment with biblical teachings are needed to receive a higher grade.
+
+[&lt;- Link to Answer](../Inheriting_Eternal_Life.md)

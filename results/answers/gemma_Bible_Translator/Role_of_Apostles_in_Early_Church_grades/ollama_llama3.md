@@ -72,3 +72,5 @@ I'm grading this response!
 While the response is not exhaustive in its coverage of the apostles' actions, it provides a clear and concise overview of the main principles that guided their ministry. The writer's focus on the importance of these principles in building a strong Christian community is also well-articulated.
 
 To improve this response further, consider adding more specific examples or anecdotes from the apostles' lives to illustrate each principle. This would help to make the connection between the apostles' actions and modern church life even clearer. Nonetheless, this response demonstrates a strong foundation in understanding community and teaching as integral aspects of church life as modeled by the apostles.
+
+[&lt;- Link to Answer](../Role_of_Apostles_in_Early_Church.md)

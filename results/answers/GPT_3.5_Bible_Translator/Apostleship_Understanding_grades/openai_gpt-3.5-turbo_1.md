@@ -27,3 +27,5 @@ In summary, the sending of the apostles by Jesus highlights the importance of pr
 Grade: 95
 
 Comment: This response provides a comprehensive and thorough explanation of the significance of the sending of the apostles by Jesus within the context of the Great Commission. It effectively articulates the authority, empowerment, and crucial role of the apostles in spreading the gospel and establishing the early Christian church. The answer reflects a strong understanding of apostleship and its importance in fulfilling God's plan of salvation through Jesus Christ.
+
+[&lt;- Link to Answer](../Apostleship_Understanding.md)

@@ -27,3 +27,5 @@ In essence, the promise of an eternal throne for King David in Christian theolog
 Grade: 95
 
 Comment: This response effectively articulates the Christian theological significance of the promise of an eternal dynasty for King David, linking it to Jesus Christ as the ultimate fulfillment. The student demonstrates a clear understanding of the symbolic and messianic aspects of the promise, showing how it represents God's covenant with His people and the continuity of His plan through Jesus. The connection drawn between David's lineage and Jesus as the eternal King is well-supported and aligns with Christian beliefs. Overall, this response effectively addresses the concern raised regarding the importance of understanding this promise in relation to God's plan fulfilled in Jesus. Well done!
+
+[&lt;- Link to Answer](../David_s_Throne.md)

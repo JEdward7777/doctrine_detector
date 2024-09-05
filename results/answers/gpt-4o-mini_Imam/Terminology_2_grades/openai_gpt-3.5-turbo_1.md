@@ -37,3 +37,5 @@ These terms reflect the diverse theological perspectives within Christianity reg
 Grade: 90
 
 Comment: The response provides a comprehensive overview of the different terms used to refer to the Lord's Supper within Christianity, demonstrating a strong understanding of the various theological perspectives and traditions surrounding this sacred practice. The additional detail and depth provided in the response significantly enhance the understanding of the topic.
+
+[&lt;- Link to Answer](../Terminology_2.md)

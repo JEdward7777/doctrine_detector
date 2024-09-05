@@ -23,3 +23,5 @@ This passage clearly emphasizes the importance of worshiping the one true God an
 Grade: 90
 
 Comment: The response effectively elaborates on the example from the Book of Exodus by providing additional context and details from the passage. It clearly articulates the contrast between worshiping the one true God and worshiping idols, emphasizing the importance of remaining faithful to God's commands and avoiding idolatry in worship. The incorporation of relevant Scripture verses and the explanation of their significance align well with the concern provided.
+
+[&lt;- Link to Answer](../Biblical_Examples_of_Worship.md)

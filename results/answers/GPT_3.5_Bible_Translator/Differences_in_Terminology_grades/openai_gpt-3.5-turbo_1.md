@@ -32,3 +32,5 @@ In summary, while exhortation emphasizes motivation and challenge, encouragement
 Grade: 90
 
 Comment: The response provides a detailed explanation of the terms "exhort," "encourage," and "admonish" in the context of Christian theology, illustrating how each term is used in the New Testament to guide and advise believers. The explanation aligns well with the given answer and effectively addresses the concern by clarifying the appropriate use of different forms of encouragement according to scripture. The only area for improvement could have been providing more specific scriptural examples to further support the explanations given.
+
+[&lt;- Link to Answer](../Differences_in_Terminology.md)

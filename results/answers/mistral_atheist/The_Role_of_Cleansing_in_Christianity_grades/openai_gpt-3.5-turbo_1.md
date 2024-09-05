@@ -27,3 +27,5 @@ In this context, the metaphorical 'cleansing' from sin is achieved not through r
 Grade: 95 
 
 Comment: The response provides a thorough and insightful explanation of the concept of 'cleansing' in both the Old and New Testaments, highlighting the transition from ritualistic practices to the transformative power of Jesus' sacrifice. It effectively addresses the concern by showcasing how the understanding of Old Testament practices enhances the significance of Christ's redemptive work in the New Testament. Overall, a well-supported and well-rounded response from a Christian worldview perspective. Great job!
+
+[&lt;- Link to Answer](../The_Role_of_Cleansing_in_Christianity.md)

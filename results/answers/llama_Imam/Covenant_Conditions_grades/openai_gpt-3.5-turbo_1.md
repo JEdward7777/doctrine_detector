@@ -40,3 +40,5 @@ I hope this clarifies the concept of conditional and unconditional covenants in 
 Grade: 80
 
 Comment: The response provides an insightful comparison between the concept of covenant in Islam and Christianity, showcasing an understanding of unconditional and conditional covenants in both faiths. The connection between God's promises, human obedience, and the dynamics of covenants is effectively discussed. However, there is a slight deviation from the provided model answer in focusing heavily on Islamic perspectives, which could have been balanced with additional Biblical examples to provide a more comprehensive analysis from a Christian worldview.
+
+[&lt;- Link to Answer](../Covenant_Conditions.md)

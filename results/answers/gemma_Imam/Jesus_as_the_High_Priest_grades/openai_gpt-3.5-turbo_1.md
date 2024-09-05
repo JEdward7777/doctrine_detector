@@ -29,3 +29,5 @@ However, there are parallels drawn between Jesus and the high priesthood in cert
 Grade: 90
 
 Comment: The response provides a solid explanation of Jesus' role as the Great High Priest and emphasizes His unique sacrifice for the forgiveness of sin. It successfully explores the theological implications of Jesus fulfilling the role of high priest by highlighting key biblical passages and characteristics of His priesthood. Overall, this response aligns well with a Christian worldview and effectively addresses the specified concern.
+
+[&lt;- Link to Answer](../Jesus_as_the_High_Priest.md)

@@ -31,3 +31,5 @@ In summary, while physical death is a biological process that all living beings 
 Grade: 90
 
 Comment: The response provides a thorough explanation of the distinction between physical death and spiritual perishing in Islamic teachings. It addresses the concern by clearly outlining how spiritual perishing is related to one's beliefs and actions, in contrast to physical death which is a universal biological process. The response could be enhanced by incorporating more explicitly Christian-specific language and citing relevant biblical references to support the viewpoint presented in the requested answer.
+
+[&lt;- Link to Answer](../Physical_vs._Spiritual_Death.md)

@@ -27,3 +27,5 @@ Overall, Herod Antipas is depicted in the New Testament as a ruler who was influ
 Grade: 90
 
 Comment: The response provides a concise and accurate summary of the key role Herod Antipas played in the events surrounding Jesus, particularly the beheading of John the Baptist and the trial of Jesus before Pilate. The understanding that interpreting these narratives requires knowledge of the historical and biblical context is clear. However, a bit more detail about Herod Antipas' character and motives based on biblical accounts could enhance the response further.
+
+[&lt;- Link to Answer](../Tetrarch_Role_in_the_New_Testament.md)

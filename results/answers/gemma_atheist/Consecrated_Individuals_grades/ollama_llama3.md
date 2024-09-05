@@ -54,3 +54,5 @@ While the response does acknowledge the significance of consecrated individuals 
 The response does attempt to provide some scholarly considerations for interpreting these narratives, but these are not fully developed or integrated into the discussion.
 
 To earn a higher grade, the response could have more thoroughly addressed the concern by providing additional examples and explanations from biblical history, and demonstrated a better understanding of what it means for someone to be consecrated to God.
+
+[&lt;- Link to Answer](../Consecrated_Individuals.md)

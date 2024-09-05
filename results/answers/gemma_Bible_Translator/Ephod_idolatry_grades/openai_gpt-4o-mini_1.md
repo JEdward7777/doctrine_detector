@@ -51,3 +51,5 @@ Gideon's idolatry serves as a cautionary tale about the dangers of compromise an
 Grade: 90
 
 Comment: The response effectively expands on the lesson learned by highlighting the dangers of compromise, the power of idolatry, the distraction from true worship, the importance of purity of worship, and the need for spiritual purity. The application section provides practical advice for Christians to heed the lesson from Gideon's idolatry. It effectively addresses the concern by emphasizing the importance of focusing on God rather than material representations of faith. This response demonstrates a strong understanding of the Christian worldview and provides thorough insights for application in one's faith journey.
+
+[&lt;- Link to Answer](../Ephod_idolatry.md)

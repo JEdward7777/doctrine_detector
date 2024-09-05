@@ -23,3 +23,5 @@ In regards to exhortation specifically, the New Testament teaches us that it is 
 Grade: 80
 
 Comment: The response effectively incorporates the concern of ensuring that encouragement is delivered in a loving and supportive manner by emphasizing the importance of prioritizing sensitivity and compassion in interactions. It also references the biblical teaching to encourage one another daily, showcasing a good understanding of exhortation in a Christian context. However, a more direct connection to the provided response about exhorting in love could have been made to strengthen the overall coherence of the response.
+
+[&lt;- Link to Answer](../Nature_of_Exhortation.md)

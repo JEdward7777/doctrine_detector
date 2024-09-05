@@ -21,3 +21,5 @@ Emphasizing the importance of personal responsibility in the sanctification proc
 Grade: 90
 
 Comment: The response effectively incorporates relevant Bible verses that highlight the importance of personal sanctification for believers, aligning well with the given answer. It acknowledges the role of believers in actively participating in the sanctification process through personal responsibility, demonstrating a strong Christian worldview perspective.
+
+[&lt;- Link to Answer](../Calling_to_Sanctification.md)

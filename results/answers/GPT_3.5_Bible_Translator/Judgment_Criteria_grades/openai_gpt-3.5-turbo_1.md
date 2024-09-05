@@ -27,3 +27,5 @@ Overall, individuals will be judged based on their deeds, their faith in Jesus C
 Grade: 90
 
 Comment: The response effectively integrates Biblical passages such as Matthew 25:31-46 and Romans 2:6-8 to support the idea that individuals will be judged based on their deeds and faith in line with the righteous character of Christ. The inclusion of John 3:16 further emphasizes the importance of faith in Jesus for salvation. The response appropriately addresses the concern by highlighting the need for alignment with biblical principles in terms of actions and faith.
+
+[&lt;- Link to Answer](../Judgment_Criteria.md)

@@ -24,3 +24,5 @@ Evaluating the impact of adultery on marriage and spirituality.
 Grade: 95
 
 Comment: The response provides a thorough explanation of the Christian perspective on adultery, citing relevant biblical verses from both the Old and New Testaments. The student effectively evaluates the impact of adultery on marriage and spirituality through the mentioned biblical references. The explanation is well-supported and clearly reflects a Christian worldview on the topic. Great job!
+
+[&lt;- Link to Answer](../Understanding_Adultery.md)

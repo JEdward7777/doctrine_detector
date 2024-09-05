@@ -25,3 +25,5 @@ While we acknowledge this in the context of our discussions with Christians, in 
 Grade: 70
 
 Comment: The response accurately connects the command of Jesus to His disciples to make disciples of all nations, baptize them, and teach obedience to His commands with the Great Commission mentioned in Matthew 28:19-20. The grade is lower due to a lack of depth in exploring the significance of discipleship in the Christian faith and how it relates to the mission of spreading the gospel. Expanding on the importance of disciple-making and its role in fulfilling the Great Commission from a Christian perspective would have enhanced the response.
+
+[&lt;- Link to Answer](../The_Great_Commission.md)

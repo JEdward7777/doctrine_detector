@@ -29,3 +29,5 @@ The event is significant because:
 Grade: 90
 
 Comment: The response provides a comprehensive and accurate explanation of the meaning and significance of the Lord's Supper in Christian faith, highlighting key aspects such as Christ's redemption, remembrance of His sacrifice, and symbol of unity among believers. The integration of relevant biblical references and theological concepts enhances the depth of understanding.
+
+[&lt;- Link to Answer](../Lord_s_Supper_Definition.md)

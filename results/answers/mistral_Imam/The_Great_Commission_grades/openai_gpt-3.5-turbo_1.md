@@ -27,3 +27,5 @@ This is a message of peace, love, and guidance for humankind, encouraging us to 
 Grade: 90
 
 Comment: The response effectively connects the given answer about Jesus commanding His disciples to make disciples of all nations, baptize them, and teach them His commands with the context of the Great Commission. It acknowledges the importance of spreading Jesus' teachings and serving others in line with the Christian worldview. The connection between discipleship and the Great Commission is well-explained and supported.
+
+[&lt;- Link to Answer](../The_Great_Commission.md)

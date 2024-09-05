@@ -27,3 +27,5 @@ Overall, covenants in Islam are based on the principles of faith, submission, an
 Grade: 70
 
 Comment: The response provides a good explanation of unconditional and conditional covenants within the context of Islam, drawing parallels to similar concepts in Christianity. The student effectively demonstrates an understanding of the dynamics of God's promises and expectations in covenants. However, a deeper exploration of how these concepts specifically reflect Christian beliefs and the significance of covenant relationships in the Christian faith could have enhanced the response.
+
+[&lt;- Link to Answer](../Covenant_Conditions.md)

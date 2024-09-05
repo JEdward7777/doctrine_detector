@@ -31,3 +31,5 @@ In summary, only the High Priest was allowed to approach the Ark of the Covenant
 Grade: 95
 
 Comment: The response provides a thorough and accurate explanation of the role of the high priest in approaching the Ark of the Covenant, specifically on the Day of Atonement. It effectively recognizes the significance of the high priest as the intermediary between the Israelites and God in the context of the covenant. The answer is well-supported by relevant biblical references and demonstrates a good understanding of the Christian worldview regarding the sacredness and limitations of approaching the Ark.
+
+[&lt;- Link to Answer](../High_Priest_Access.md)

@@ -21,3 +21,5 @@ The concept of the Ark of the Covenant is not found within Islamic tradition or 
 Grade: 90
 
 Comment: The response accurately states the location of the Ark of the Covenant in the most holy place from a biblical perspective. The student's understanding of the significance of the most holy place and the presence of God is demonstrated effectively. The deduction in points is due to the lack of further elaboration on the spiritual importance and reverence associated with the presence of God in the most holy place according to Christian beliefs.
+
+[&lt;- Link to Answer](../Ark_Location.md)

@@ -21,3 +21,5 @@ After Judas Iscariot betrayed Jesus and subsequently died, the remaining eleven 
 Grade: 80
 
 Comment: The response provides a correct understanding of Matthias being chosen to replace Judas Iscariot. However, the concern about recognizing the continuity of apostolic leadership after Jesus' ascension is not fully addressed in the response. More emphasis on how Matthias' appointment ensured the continuity of apostolic leadership would have enhanced the answer.
+
+[&lt;- Link to Answer](../Replacement_of_Judas.md)

@@ -25,3 +25,5 @@ Therefore, the concept of curses in the context of God's judgment on disobedient
 Grade: 85
 
 Comment: The response effectively integrates the given answer from Galatians 3:10 into the discussion about curses as a consequence of disobedience. The student demonstrates an understanding of the seriousness of disobedience to God's commands and connects it well to the Christian perspective provided. The response effectively highlights the need for repentance and seeking forgiveness to avoid being under a curse due to disobedience. Overall, a strong response that aligns with a Christian worldview perspective on the consequences of disobedience.
+
+[&lt;- Link to Answer](../Curses_and_Disobedience.md)

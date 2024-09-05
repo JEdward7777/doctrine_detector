@@ -33,3 +33,5 @@ Now, if you'll excuse me, I have an important meeting with a diverse group of co
 Grade: 70
 
 Comment: The response acknowledges the tension between the Pharisees and Jesus/early Christians, highlighting the Pharisees' strict adherence to the Law of Moses and Jesus' emphasis on the spirit of the law. However, the response lacks depth in exploring how the Pharisees' role impacted Jesus' ministry and does not fully engage with the concern provided. The tone of inclusivity and diplomacy is appreciated, but a clearer connection between the Pharisees' role and the challenges Jesus faced could have enriched the response further.
+
+[&lt;- Link to Answer](../Pharisees__Influence_on_Jewish_Law.md)

@@ -27,3 +27,5 @@ This faith is nurtured through continuous practice (Ibadah), study of the Quran,
 Grade: 90
 
 Comment: The response effectively builds upon the provided answer by elaborating on the story of Abraham and the importance of faith in trusting God's promises. It provides a deeper theological reflection within an Islamic context, emphasizing the significance of unwavering faith in God's promises. The explanation aligns well with the concern about understanding the relationship between faith and God's promises, encouraging believers to trust in His word in their personal lives. The integration of Islamic teachings enhances the understanding of faith and trust in God. Great job!
+
+[&lt;- Link to Answer](../Faith_and_Promise.md)

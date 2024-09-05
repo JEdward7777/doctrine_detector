@@ -86,3 +86,5 @@ Areas for improvement:
 
 * Could provide more depth on specific biblical principles for interpreting prophecies
 * May benefit from additional examples or illustrations to further support the points made
+
+[&lt;- Link to Answer](../Fulfillment_of_Prophecy.md)

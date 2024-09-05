@@ -21,3 +21,5 @@ Importance of observing the Sabbath according to God's commands.
 Grade: 95
 
 Comment: The response accurately summarizes the importance of observing the Sabbath according to God's commands by highlighting the specific instruction given to the Israelites regarding gathering manna. The reference to Exodus 16:23-26 further solidifies the connection to God's commandment. The only minor improvement would be to elaborate more on the spiritual significance and broader context of Sabbath observance in the Christian faith.
+
+[&lt;- Link to Answer](../Sabbath_Observance_2.md)

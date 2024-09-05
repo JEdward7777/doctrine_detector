@@ -25,3 +25,5 @@ The significance of Jesus' sacrifice in the context of propitiation is that it a
 Grade: 95
 
 Comment: The response provides a thorough explanation of the significance of Jesus' sacrifice in the context of propitiation, emphasizing how it relates to both God's justice and mercy. The connection between satisfying God's justice, appeasing His wrath, and providing forgiveness and eternal life is clearly articulated. The response effectively communicates the Christian view of Jesus' sacrifice in relation to propitiation and addresses the concern provided. Great job!
+
+[&lt;- Link to Answer](../Understanding_Propitiation.md)

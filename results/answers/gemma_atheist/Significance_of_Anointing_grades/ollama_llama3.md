@@ -69,3 +69,5 @@ Recommendations for improvement:
 1. Include more specific references to biblical texts to support the points made.
 2. Explore the connections between Old Testament anointing practices and modern-day Christian leadership and service.
 3. Provide more detail on how the concepts discussed relate to spiritual empowerment and the indwelling of the Holy Spirit in contemporary Christian leaders.
+
+[&lt;- Link to Answer](../Significance_of_Anointing.md)

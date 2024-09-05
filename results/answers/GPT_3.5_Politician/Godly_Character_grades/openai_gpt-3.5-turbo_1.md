@@ -21,3 +21,5 @@ The fruits of the Holy Spirit, as outlined in the Christian tradition, are love,
 Grade: 90
 
 Comment: The response provides a good summary of the fruits of the Holy Spirit but missed mentioning goodness, faithfulness, and gentleness. The understanding of cultivating godly characteristics is clear, but including all the fruits would have strengthened the response from a Christian worldview perspective.
+
+[&lt;- Link to Answer](../Godly_Character.md)

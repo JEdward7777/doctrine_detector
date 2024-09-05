@@ -21,3 +21,5 @@ In the Islamic belief, Jesus (Isa) is considered a Prophet, not the Son of God a
 Grade: 0
 
 Comment: The response provided is inaccurate and does not address the concern of understanding the mission of discipleship in the context of the Great Commission. The given response focuses on Islamic beliefs about Jesus and does not engage with the Christian perspective of discipleship and the Great Commission.
+
+[&lt;- Link to Answer](../The_Great_Commission.md)

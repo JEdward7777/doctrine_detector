@@ -29,3 +29,5 @@ By recognizing the unique contributions each apostle made to their community and
 Grade: 85
 
 Comment: This response provides a thoughtful and respectful explanation of the role and significance of the apostles in the New Testament. The student effectively acknowledges the unique qualities and contributions of the Twelve Apostles while emphasizing the importance of inclusivity and diversity within the Christian community. The response aligns well with a Christian worldview, addressing the concern in a comprehensive and insightful manner.
+
+[&lt;- Link to Answer](../Discipleship_Importance.md)

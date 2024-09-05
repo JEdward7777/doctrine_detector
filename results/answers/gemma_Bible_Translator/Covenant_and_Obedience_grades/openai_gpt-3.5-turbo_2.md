@@ -61,3 +61,5 @@ Obedience to God's laws was an integral part of the Israelites' journey toward t
 Grade: 95
 
 Comment: This response effectively expands upon the importance of obedience to God's laws in the Israelites' journey to the Promised Land, providing detailed explanations and examples. The integration of biblical principles and examples demonstrates a strong understanding of the Christian worldview and the significance of obedience to God's commandments in achieving His promises. Great job!
+
+[&lt;- Link to Answer](../Covenant_and_Obedience.md)

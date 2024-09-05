@@ -31,3 +31,5 @@ Recognizing the various ways to identify service roles within the church.
 Grade: 95
 
 Comment: The response demonstrates a strong understanding of different ways to identify service roles within the church by providing alternative terms that convey similar meanings without using specific titles. The suggestions align well with the concern provided, showing thoughtfulness and consideration for various perspectives within a Christian worldview. Great job in highlighting the diversity of roles within the church!
+
+[&lt;- Link to Answer](../Terminology.md)

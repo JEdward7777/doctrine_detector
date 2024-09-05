@@ -35,3 +35,5 @@ Overall, the high priest held a position of great honor and responsibility in th
 Grade: 90
 
 Comment: The response provides a comprehensive understanding of the significance of the high priest's role in the worship practices of Israel. It elaborates on various aspects of the high priest's duties and privileges, demonstrating a strong grasp of the subject matter within the context of Old Testament worship. The response effectively contextualizes the role of the high priest in mediating between God and the people and highlights the unique status and responsibilities associated with the position. Overall, the response showcases a deep understanding of the high priest's role in the religious life of Israel.
+
+[&lt;- Link to Answer](../Role_of_the_High_Priest.md)

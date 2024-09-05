@@ -29,3 +29,5 @@ Through these responses, Jesus demonstrated reliance on scripture and a commitme
 Grade: 95
 
 Comment: The response provides a detailed and accurate analysis of Jesus' responses to temptations as recounted in the Gospels, highlighting the significance of spiritual principles over earthly desires. It effectively addresses the concern by emphasizing Jesus as a model for Christians to follow in resisting temptation and staying committed to God. The only improvement could be further elaboration on how Christians can practically apply these lessons in their own spiritual battles. Overall, an excellent response from a Christian worldview.
+
+[&lt;- Link to Answer](../Temptation_and_Resistance.md)

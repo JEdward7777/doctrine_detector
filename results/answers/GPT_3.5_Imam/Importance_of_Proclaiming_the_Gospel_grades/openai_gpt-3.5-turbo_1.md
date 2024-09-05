@@ -33,3 +33,5 @@ It's important to note that while proclaiming the 'good news' is a central aspec
 Grade: 95
 
 Comment: The response effectively recognizes the mandate of Christians to spread the Gospel message as instructed by Jesus before his ascension. It accurately highlights the urgency and importance of sharing the message of salvation. The explanation aligns well with Christian beliefs and the central aspect of proclaiming the 'good news' in Christianity.
+
+[&lt;- Link to Answer](../Importance_of_Proclaiming_the_Gospel.md)

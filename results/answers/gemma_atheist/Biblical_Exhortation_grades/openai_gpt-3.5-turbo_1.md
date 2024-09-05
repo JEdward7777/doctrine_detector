@@ -21,3 +21,5 @@ The premise of your question is inaccurate as Jesus Christ is a central figure i
 Grade: 90
 
 Comment: The response effectively highlights the importance of evangelism in the Christian faith by mentioning how Jesus sent his apostles to spread the good news of salvation through trust in his sacrifice. It ties in with the concern provided and exemplifies a key aspect of Christian belief. The deduction is due to the lack of further elaboration or scriptural support in the response.
+
+[&lt;- Link to Answer](../Biblical_Exhortation.md)

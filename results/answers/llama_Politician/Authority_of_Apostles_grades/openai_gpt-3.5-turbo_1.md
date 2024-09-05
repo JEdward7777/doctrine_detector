@@ -35,3 +35,5 @@ Now, if you'll excuse me, I have some... diplomatic outreach to attend to.
 Grade: 75
 
 Comment: The response provides a detailed exploration of the divine empowerment and authority bestowed upon the apostles for ministry, effectively connecting their miraculous abilities and bold preaching to their appointment by Jesus. The emphasis on their personal connection with Jesus and the manifestation of divine commission through miracles and preaching is well-explained within a Christian worldview. The response effectively addresses the concern raised, but the inclusion of extraneous content such as references to being a politician and diplomatic outreach detracts from the focus on the Christian perspective, resulting in a slightly lower grade.
+
+[&lt;- Link to Answer](../Authority_of_Apostles.md)

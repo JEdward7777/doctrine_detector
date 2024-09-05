@@ -27,3 +27,5 @@ This shift from human priests making sacrifices to Jesus as the eternal High Pri
 Grade: 95
 
 Comment: The response provides a thorough explanation of Jesus' role as the Great High Priest in Christian theology, highlighting the significance of his ultimate sacrifice for the atonement of sins. It effectively conveys the theological understanding of Jesus as the mediator between God and humanity in the New Covenant, demonstrating a clear grasp of the concept. The response could have been enhanced by including specific Scriptural references to support the points made, but overall, it effectively addresses the concern regarding the significance of Jesus' role in the priesthood from a Christian worldview perspective.
+
+[&lt;- Link to Answer](../Jesus_as_High_Priest.md)

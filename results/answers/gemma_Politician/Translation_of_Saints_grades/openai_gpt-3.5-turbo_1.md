@@ -23,3 +23,5 @@ Given the sensitivities surrounding the term "saints," a politically correct tra
 Grade: 80
 
 Comment: The suggested translation "holy ones," "holy people," or "holy believers in Jesus" is in line with Christian beliefs and accurately conveys the concept of saints. It maintains the spiritual significance of the term without excluding any specific Christian groups. However, the initial response provided a more politically correct translation to avoid potential offense, which may be considered more sensitive in certain contexts. Consideration for potential sensitivities is important from a Christian perspective to promote unity and understanding among believers.
+
+[&lt;- Link to Answer](../Translation_of_Saints.md)

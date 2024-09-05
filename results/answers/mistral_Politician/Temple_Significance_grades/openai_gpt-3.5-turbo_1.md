@@ -21,3 +21,5 @@ Understanding the role of the temple in the context of Old Testament worship.
 Grade: 90
 
 Comment: The response effectively expands on the primary purpose of the Temple, providing additional context about its significance in both Jewish tradition and Christian faith. It demonstrates an understanding of the temple's role in Old Testament worship while maintaining respect for religious beliefs and traditions.
+
+[&lt;- Link to Answer](../Temple_Significance.md)

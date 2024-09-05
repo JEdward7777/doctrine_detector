@@ -21,3 +21,5 @@ Repentance in the context of the Bible generally refers to a change of heart and
 Grade: 90
 
 Comment: The response accurately defines repentance as turning away from sin and turning back to God, aligning well with the biblical understanding of repentance as a change of heart and mind. Acknowledging the importance of understanding this definition for genuine spiritual growth shows insight into the significance of repentance in the Christian faith. Great job!
+
+[&lt;- Link to Answer](../Definition_of_Repentance.md)

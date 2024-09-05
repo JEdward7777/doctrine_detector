@@ -21,3 +21,5 @@ After King Solomon's reign, the kingdom of Israel divided into two separate king
 Grade: 80
 
 Comment: The response provides a basic understanding of the division of Israel into the northern kingdom of Israel and the southern kingdom of Judah after King Solomon's reign. It mentions the historical fact of the division but lacks depth in explaining the significance, both historically and spiritually, of this division within the context of the Israelite kingdom and God's plan for His people. More elaboration on the spiritual implications and the reasons behind this division would enhance the response.
+
+[&lt;- Link to Answer](../Division_of_Israel.md)

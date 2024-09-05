@@ -25,3 +25,5 @@ These qualities are often highlighted in Islamic teachings and are seen as key i
 Grade: 85
 
 Comment: The response effectively addresses the concern of understanding the characteristics of a godly individual and how to cultivate them from an Islamic perspective. It provides a clear explanation of virtues in Islam that reflect godly qualities and emphasizes the importance of embodying these virtues to develop good character and please Allah. The connection between the Christian concept of the fruits of the Holy Spirit and Islamic virtues is well articulated.
+
+[&lt;- Link to Answer](../Godly_Character.md)

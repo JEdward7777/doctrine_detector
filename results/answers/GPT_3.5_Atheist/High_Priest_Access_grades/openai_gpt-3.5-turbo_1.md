@@ -23,3 +23,5 @@ The ark of the covenant was considered to be the earthly dwelling place of God, 
 Grade: 90
 
 Comment: The response demonstrates a good understanding of the role of the high priest in the Israelite's relationship with God and the covenant. It accurately highlights the exclusive access granted to the high priest to approach the ark of the covenant once a year on the Day of Atonement, emphasizing the significance of this role in the religious practices of ancient Israel. The answer effectively ties in the biblical tradition and the Book of Exodus to support the explanation.
+
+[&lt;- Link to Answer](../High_Priest_Access.md)

@@ -56,3 +56,5 @@ However, I would deduct points for a few reasons:
 * Some of the sections feel a bit disconnected from one another, and the transition between the different topics (Biblical Examples, Theological Significance, etc.) could be smoother.
 
 Overall, though, I believe the response provides a strong foundation for exploring the relationship between faith, signs, and God's revelation, and with some further development and refinement, it has the potential to receive an even higher grade.
+
+[&lt;- Link to Answer](../Signs_and_Miracles.md)

@@ -31,3 +31,5 @@ In summary, the Bible teaches that eternal life is inherited through faith in Je
 Grade: 90
 
 Comment: The response provides a comprehensive explanation of how eternal life can be inherited in line with Christian beliefs, incorporating key biblical passages and themes. The inclusion of the importance of grace, faith, obedience to God's commands, and living a life of faith aligns well with the concern about the significance of understanding how to attain eternal life for spiritual assurance. The response effectively emphasizes the relationship aspect of inheriting eternal life, which is central to the Christian worldview.
+
+[&lt;- Link to Answer](../Understanding_Eternal_Life.md)

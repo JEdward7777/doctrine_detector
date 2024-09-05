@@ -27,3 +27,5 @@ Ultimately, both Islam and Christianity emphasize the importance of sanctificati
 Grade: 80
 
 Comment: The response provides a good understanding of the basic concept of sanctification as the process of being made holy and set apart. The student correctly relates sanctification to purification and seeking closeness to Allah in the Islamic context. However, the response could be improved by delving deeper into the biblical understanding of sanctification, specifically elaborating on how it involves not just purification but also consecration for God's purposes and living in accordance with His will. A more thorough exploration of the biblical concept would have strengthened the response.
+
+[&lt;- Link to Answer](../Definition_of_Sanctification.md)

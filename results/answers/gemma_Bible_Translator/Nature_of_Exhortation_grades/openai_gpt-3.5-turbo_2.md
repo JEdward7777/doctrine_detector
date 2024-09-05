@@ -71,3 +71,5 @@ Ensuring that encouragement is delivered in a loving and supportive manner.
 Grade: 90
 
 Comment: The response provides a comprehensive and well-structured approach to exhortation in line with the teachings of the New Testament. The emphasis on delivering encouragement in a loving and supportive manner aligns with Christian principles. The response effectively addresses the concern raised by emphasizing authenticity, humility, encouragement, and accountability. The only suggestion for improvement would be to explicitly tie each point back to the core principle of exhorting in love, to further strengthen the connection to the given answer.
+
+[&lt;- Link to Answer](../Nature_of_Exhortation.md)

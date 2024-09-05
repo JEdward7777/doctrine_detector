@@ -25,3 +25,5 @@ This verse emphasizes that mosques, like the Kaaba in Mecca and the Prophet's Mo
 Grade: 70
 
 Comment: The response provides a clear explanation of Islamic beliefs regarding places of worship and the oneness of Allah. However, it does not directly address the concern about identifying key scriptures discussing the temple as the 'house of Yahweh' from a Christian perspective. While it offers valuable insight into Islamic teachings, it misses the mark in addressing the specified concern.
+
+[&lt;- Link to Answer](../Biblical_References_to_the_Temple.md)

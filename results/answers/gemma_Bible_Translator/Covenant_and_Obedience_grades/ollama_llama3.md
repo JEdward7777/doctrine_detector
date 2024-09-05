@@ -67,3 +67,5 @@ The response also highlights the consequences of disobedience, emphasizing that 
 One area for improvement would be to provide more specific biblical references to support the claims made about obedience being essential for the Israelites' journey and the consequences of disobedience. This would add further depth and authority to the response.
 
 Overall, this is an excellent response that effectively addresses the concern and provides a clear understanding of the importance of obedience in achieving God's promises.
+
+[&lt;- Link to Answer](../Covenant_and_Obedience.md)

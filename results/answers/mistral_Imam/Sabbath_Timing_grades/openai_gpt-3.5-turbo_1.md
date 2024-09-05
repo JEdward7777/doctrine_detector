@@ -21,3 +21,5 @@ Recognizing the specific timeframe for the observance of the Sabbath in accordan
 Grade: 95
 
 Comment: The response accurately confirms that the Sabbath begins on Friday at sundown and ends on Saturday at sundown, in line with Biblical teaching. The scholar demonstrates respect for Jewish traditions by acknowledging their interpretation based on the creation story in Genesis, and appropriately suggests consulting a Rabbi for further details. Overall, this response exhibits a good understanding and appreciation of the Jewish Sabbath observance from a Christian perspective.
+
+[&lt;- Link to Answer](../Sabbath_Timing.md)

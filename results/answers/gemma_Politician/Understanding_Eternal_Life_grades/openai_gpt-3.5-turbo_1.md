@@ -21,3 +21,5 @@ The Bible teaches that inheriting eternal life is a gift from God, available to 
 Grade: 40
 
 Comment: The response is incorrect according to Christian teachings because it suggests that eternal life can be inherited through obeying God's laws, which goes against the central Christian belief that eternal life is a gift from God through faith in Jesus Christ. The concern is valid in emphasizing the importance of understanding how to attain eternal life for spiritual assurance.
+
+[&lt;- Link to Answer](../Understanding_Eternal_Life.md)

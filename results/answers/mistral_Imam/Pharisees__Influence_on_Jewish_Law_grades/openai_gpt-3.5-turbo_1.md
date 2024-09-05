@@ -29,3 +29,5 @@ However, it's important to note that this is a simplification of a complex histo
 Grade: 90
 
 Comment: The response provides a clear and accurate overview of the relationship between the Pharisees, Jesus, and early Christians, highlighting the conflicts arising from differing interpretations of Jewish laws. It effectively connects the Pharisees' strict adherence to the Laws of Moses with the challenges Jesus faced in his ministry. The only slight improvement could be emphasizing the spiritual significance of Jesus' teachings even more in comparison to the Pharisees' legalistic approach.
+
+[&lt;- Link to Answer](../Pharisees__Influence_on_Jewish_Law.md)

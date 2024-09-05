@@ -30,3 +30,5 @@ In conclusion, the concept of eternal punishment in hell serves as a reminder of
 Grade: 90
 
 Comment: The response provides a thorough explanation from an Islamic perspective regarding the concept of eternal punishment in hell and how it relates to Allah's justice and mercy. The student effectively addresses the concern raised about the nature of divine justice and mercy in relation to eternal consequences. The response demonstrates a strong understanding of Islamic beliefs and presents a comprehensive analysis within that framework.
+
+[&lt;- Link to Answer](../Eternal_Punishment.md)

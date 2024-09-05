@@ -21,3 +21,5 @@ The high priest's ephod was traditionally made from fine linen, gold, and other 
 Grade: 90
 
 Comment: The response accurately provides additional details about the materials used in the high priest's ephod, emphasizing its significance in worship and symbolism. This demonstrates an understanding of the importance of the ephod's design in religious practices, aligning well with a Christian worldview.
+
+[&lt;- Link to Answer](../Ephod_materials.md)

@@ -33,3 +33,5 @@ Overall, manna symbolizes God's unwavering care, provision, and compassion for H
 Grade: 90
 
 Comment: The response provides a deep and insightful analysis of the symbol of manna in Islam, linking it to key concepts such as divine mercy, sustenance for the needy, trust in Allah, and gratitude. The student effectively recognizes God's ongoing provision in the lives of believers through the story of manna in the Islamic context. The connection between the specific answer provided and the concern of recognizing God's ongoing provision is well articulated, earning a high grade.
+
+[&lt;- Link to Answer](../Symbolism_of_Manna.md)

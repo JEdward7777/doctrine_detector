@@ -61,3 +61,5 @@ These practices highlight the importance of fellowship in the early Church. Earl
 Grade: 90
 
 Comment: The response provides a comprehensive and detailed overview of how early Christians expressed fellowship, including specific practices and Biblical references. The additional practices and explanations enhance the understanding of fellowship within the early Church. The response effectively addresses the concern by highlighting how recognizing these practices can help contemporary Christians foster deeper connections with each other. Great job connecting the historical practices to their relevance for modern believers.
+
+[&lt;- Link to Answer](../Practices_of_Fellowship.md)

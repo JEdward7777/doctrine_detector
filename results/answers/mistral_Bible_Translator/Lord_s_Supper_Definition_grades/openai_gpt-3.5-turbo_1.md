@@ -21,3 +21,5 @@ Understanding the meaning and significance of the Lord’s Supper in Christian f
 Grade: 95
 
 Comment: The response provides a clear and accurate explanation of the meaning and significance of the Lord's Supper in Christian faith. It correctly highlights the connection to Jesus' sacrificial death and resurrection and references 1 Corinthians 11:23-26. The mention of the Passover meal strengthens the response by connecting it to the Jewish tradition that Jesus celebrated with His disciples. Overall, it demonstrates a solid understanding of the topic from a Christian worldview.
+
+[&lt;- Link to Answer](../Lord_s_Supper_Definition.md)

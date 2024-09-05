@@ -48,3 +48,5 @@ The principle of mercy plays a significant role in God's judgment of us. Islam e
 Grade: 60
 
 Comment: The response provides an insightful exploration of the Islamic perspective on mercy in relation to God's judgment. The student effectively explains how mercy is a fundamental attribute of Allah and how it influences Islamic theology and practice. However, the response falls short in directly addressing the concern raised regarding the importance of mercy in Christian conduct and its implications for one's spiritual life. To improve the grade, the student should have made a clearer connection between the Islamic perspective presented and the Christian concern provided.
+
+[&lt;- Link to Answer](../The_Importance_of_Mercy.md)

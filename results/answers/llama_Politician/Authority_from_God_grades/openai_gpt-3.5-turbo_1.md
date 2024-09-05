@@ -33,3 +33,5 @@ In conclusion, divine authority can be a powerful force in shaping the lives of 
 Grade: 70
 
 Comment: The response provides a generally positive overview of the concept of divine authority, acknowledging its importance in guiding believers in their moral and spiritual decisions. However, the response lacks a clear focus on the concern provided, which is understanding divine authority to discern God's will and maintain obedience in the faith journey. The response could have been improved by directly addressing how understanding divine authority aids believers in discerning God's will and staying obedient in their faith journey from a Christian perspective.
+
+[&lt;- Link to Answer](../Authority_from_God.md)

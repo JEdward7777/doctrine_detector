@@ -25,3 +25,5 @@ According to church tradition, the earliest Christian communities were organized
 Grade: 90
 
 Comment: The response provides a detailed explanation of the practice of house churches in early Christian history, reflecting the importance of local fellowship among believers as encouraged by the concern. The additional information from the New Testament and early Church writings adds depth to the understanding of fostering community within the church. Great job incorporating Christian history and tradition to address the concern effectively.
+
+[&lt;- Link to Answer](../Local_Church_Meetings.md)

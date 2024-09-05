@@ -28,3 +28,5 @@ These listings provide the names of the twelve disciples chosen by Jesus to be H
 Grade: 90
 
 Comment: The response accurately identifies where the names of the twelve disciples are listed in the New Testament, referencing the books of Matthew, Mark, Luke, and Acts. However, it could have been enhanced by providing additional context surrounding the significance of these disciples in the overall ministry of Jesus and how their selection reflects His divine purpose. The understanding of the Gospel accounts and their teachings is demonstrated by correctly referencing the relevant passages.
+
+[&lt;- Link to Answer](../Matthew,_Mark,_and_Luke.md)

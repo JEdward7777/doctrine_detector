@@ -21,3 +21,5 @@ In Islamic teachings, Jesus, known as 'Isa' in Arabic, is considered a revered p
 Grade: 90
 
 Comment: The response effectively builds on the given answer by further explaining the significance of Jesus being referred to as 'Christ' in Christianity. It clarifies Jesus's identity as the Messiah and its implications within Christian belief, showing a good understanding of the topic from a Christian worldview.
+
+[&lt;- Link to Answer](../The_Messiah.md)

@@ -27,3 +27,5 @@ Overall, the concept of a 'remnant' in Islamic teachings emphasizes the importan
 Grade: 85
 
 Comment: The response provides a thorough explanation of the concept of a 'remnant' in Islamic teachings, particularly through the stories of Prophet Nuh and Prophet Musa. It effectively showcases the importance of maintaining faith and righteousness despite adversity. However, the response could have been improved by directly addressing the historical significance of a remnant in relation to God's promises as highlighted in the given answer.
+
+[&lt;- Link to Answer](../Historical_Context.md)

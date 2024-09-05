@@ -21,3 +21,5 @@ Jesus is often referred to as the eternal high priest in Christian theology. Thi
 Grade: 95
 
 Comment: The response provides a solid explanation of Jesus' role as the great high priest and emphasizes his unique and perfect sacrifice that eliminates the need for continuous offerings by human priests. It effectively addresses the concern by highlighting the significance of Jesus' role in the priesthood within Christian theology. A slight improvement could be made by incorporating a direct reference to Scripture, such as Hebrews 4:14-16, to strengthen the biblical support for the explanation.
+
+[&lt;- Link to Answer](../Jesus_as_High_Priest.md)

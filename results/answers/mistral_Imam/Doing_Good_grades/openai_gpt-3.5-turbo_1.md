@@ -25,3 +25,5 @@ In the Quran, the concept of doing good is also emphasized, but it's important t
 Grade: 85
 
 Comment: The response provides a thorough explanation of the Christian perspective on doing good to others, connecting it to core Christian beliefs and teachings. The reference to biblical passages and the emphasis on reflecting Christ's love are commendable. The response effectively addresses the concern of encouraging Christians to live out their faith through good deeds. However, there could have been more explicit connections made to the concern to enhance the overall relevance to the given prompt.
+
+[&lt;- Link to Answer](../Doing_Good.md)

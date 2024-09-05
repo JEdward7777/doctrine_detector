@@ -25,3 +25,5 @@ This story serves as a reminder for us as Muslims to trust in Allah's provision 
 Grade: 85
 
 Comment: The response provides a solid explanation of the importance of observing the Sabbath according to God's commands with reference to the story of the Israelites gathering manna before the Sabbath. It effectively highlights the lesson of obedience and trust in God's provision. The only improvement could be to further emphasize the significance of honoring the Sabbath as a day of rest and worship, as it is a central commandment in God's instructions to His people.
+
+[&lt;- Link to Answer](../Sabbath_Observance_2.md)

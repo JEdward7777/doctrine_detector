@@ -51,3 +51,5 @@ Recognizing the mandate of Christians to spread the Gospel message.
 Grade: 95
 
 Comment: The response provides a comprehensive and well-supported explanation of why Christians are compelled to proclaim the "good news" based on Christian teachings and beliefs. It aligns with the concern of recognizing the mandate of Christians to spread the Gospel message, drawing on biblical references and highlighting the central importance of this mission. The response effectively incorporates key Christian principles and demonstrates a thorough understanding of the Christian worldview.
+
+[&lt;- Link to Answer](../Importance_of_Proclaiming_the_Gospel.md)

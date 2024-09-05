@@ -21,3 +21,5 @@ The promise of David's throne lasting forever is not a concept recognized within
 Grade: 90
 
 Comment: The response accurately explains the Christian interpretation of the promise of David's throne lasting forever, highlighting the significance of Jesus as the fulfillment of God's plan. However, the initial response provided lacks recognition of the Christian perspective and the importance of understanding this promise within the context of Christian theology.
+
+[&lt;- Link to Answer](../David_s_Throne.md)

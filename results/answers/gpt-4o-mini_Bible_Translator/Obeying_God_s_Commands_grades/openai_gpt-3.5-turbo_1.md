@@ -33,3 +33,5 @@ In summary, the laws given to Moses are central to the covenant relationship bet
 Grade: 95
 
 Comment: The response demonstrates a deep understanding of the significance of obedience to God's commands within the context of the covenant established at Sinai. It explores various aspects of the covenant relationship, the purpose of the laws given to Moses, the importance of obedience for maintaining the covenant, and the foreshadowing of Christ in relation to the Mosaic Covenant. The integration of Christian theology further enhances the explanation of the obedience required within the covenant. Overall, the response effectively addresses the concern raised and provides a comprehensive understanding of the topic from a Christian worldview.
+
+[&lt;- Link to Answer](../Obeying_God_s_Commands.md)

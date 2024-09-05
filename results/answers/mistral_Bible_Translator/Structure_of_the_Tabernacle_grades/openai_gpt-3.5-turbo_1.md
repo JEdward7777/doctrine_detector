@@ -30,3 +30,5 @@ Learning about the significance of the components of the tabernacle in worship.
 Grade: 90
 
 Comment: The response provides a detailed and accurate description of the Tabernacle in the Old Testament, discussing both the Holy Place and the Most Holy Place with their respective items. It shows a deep understanding of the components and their significance in worship, emphasizing the importance of each element in reflecting God's presence and covenant relationship with His people. It aligns well with a Christian worldview by highlighting the symbolic meanings behind the items in the Tabernacle. Great job in addressing the concern about the significance of the components in worship.
+
+[&lt;- Link to Answer](../Structure_of_the_Tabernacle.md)

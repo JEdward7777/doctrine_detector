@@ -62,3 +62,5 @@ However, I deduct some points because the response does not engage deeply enough
 Additionally, the response could benefit from more explicit connections between the concept of spiritual gifts and the values of humanism and social justice mentioned in the concern. While the author touches on the importance of using these gifts for serving others, a more explicit exploration of how this concept can be used to promote social responsibility would strengthen the response.
 
 Overall, I would encourage the author to consider more critically the implications of the phrase "spiritual gifts" and to explore more explicitly the connections between this concept and values of humanism and social justice.
+
+[&lt;- Link to Answer](../Spiritual_Gifts.md)

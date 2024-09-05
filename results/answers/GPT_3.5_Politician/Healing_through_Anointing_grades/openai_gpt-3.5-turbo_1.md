@@ -21,3 +21,5 @@ In the New Testament, anointing is often associated with healing through the bel
 Grade: 90
 
 Comment: The response accurately acknowledges the association of anointing with healing in the New Testament and correctly identifies it as a practice seeking God's intervention for physical healing. The reference to anointing symbolizing the request for God's healing power aligns well with Christian beliefs and practices. The only aspect for improvement would be to further emphasize the importance of faith in divine intervention when discussing anointing for healing in a Christian context.
+
+[&lt;- Link to Answer](../Healing_through_Anointing.md)

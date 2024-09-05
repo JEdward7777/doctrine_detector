@@ -21,3 +21,5 @@ The ephod worn by the high priest in the Old Testament held great significance a
 Grade: 90
 
 Comment: The response provided a clear and accurate explanation of the significance of the high priest's ephod in mediating between God and the people, specifically mentioning the Urim and Thummim for discerning God's will. The connection between the ephod and the Old Testament priesthood and worship practices was well articulated. Overall, this response demonstrates a solid understanding and application of the significance of the ephod in the context of the Old Testament priesthood.
+
+[&lt;- Link to Answer](../Ephod_significance.md)

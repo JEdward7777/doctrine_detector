@@ -27,3 +27,5 @@ In essence, while the title "King of the Jews" was used in a political context d
 Grade: 90
 
 Comment: The response provides a thorough explanation of the title "King of the Jews" in the New Testament, capturing both its earthly and heavenly implications. It effectively connects the title to Jesus' authority over all creation, emphasizing His divine kingship. The response addresses the concern by highlighting the importance of understanding Jesus' authority for believers to acknowledge His sovereignty in their lives. Overall, the explanation is well-supported and aligns with a Christian perspective on Jesus' kingship.
+
+[&lt;- Link to Answer](../Authority_of_Jesus.md)

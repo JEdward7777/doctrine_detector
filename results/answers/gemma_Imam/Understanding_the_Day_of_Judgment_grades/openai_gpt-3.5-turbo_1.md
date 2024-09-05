@@ -23,3 +23,5 @@ In Islam, judgment on the Day of Judgement is handled by Allah alone, and not by
 Grade: 30
 
 Comment: The original response correctly identifies that in Islam, Allah alone handles judgment on the Day of Judgement, which aligns with Islamic beliefs. The concern highlighted the importance of faith in Jesus and His role as judge, which the original response did not address. Therefore, the response is only partially relevant to the concern provided.
+
+[&lt;- Link to Answer](../Understanding_the_Day_of_Judgment.md)

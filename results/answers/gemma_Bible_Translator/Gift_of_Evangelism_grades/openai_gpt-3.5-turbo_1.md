@@ -51,3 +51,5 @@ Understanding the spiritual gifts related to evangelism and their role in the ch
 Grade: 85
 
 Comment: The response effectively describes the distinguishing characteristics of evangelists compared to other Christians, highlighting their focus on evangelism, emphasis on salvation, passion for souls, obedience to the Great Commission, and public witness. However, the connection to the spiritual gift of evangelism could have been emphasized more clearly and explicitly. It would have been beneficial to elaborate on how this spiritual gift plays a role in equipping evangelists for their specific ministry within the Church and how it relates to their primary focus and actions.
+
+[&lt;- Link to Answer](../Gift_of_Evangelism.md)

@@ -29,3 +29,5 @@ In summary, the high priest's ephod played a critical role in ancient Israelite 
 Grade: 90
 
 Comment: The response provides a clear and concise explanation of the significance of the high priest's ephod in mediating between God and the people, as well as the use of the Urim and Thummim for discerning God's will. It effectively addresses the concern by highlighting how understanding the role of the ephod enhances comprehension of Old Testament priesthood and worship practices. The response could be improved by incorporating more specific references to relevant Old Testament scriptures to strengthen the Christian worldview perspective.
+
+[&lt;- Link to Answer](../Ephod_significance.md)

@@ -33,3 +33,5 @@ It's important to note that Jesus' words acknowledge that not everyone is called
 Grade: 90
 
 Comment: The response provides a thorough explanation of the biblical perspective on celibacy as seen in Matthew 19:12, addressing the different reasons for living a life without marriage in a clear and coherent manner. It effectively connects the concept of celibacy with serving God and highlights the importance of intentionality in choosing this path. The discussion on the relationship between marriage and celibacy is well-developed and concludes with a solid theological understanding that acknowledges both as valid vocations in the Christian life. Overall, it demonstrates a good grasp of the biblical teaching on celibacy and presents it within a Christian worldview effectively.
+
+[&lt;- Link to Answer](../Eunuchs_in_the_Bible.md)

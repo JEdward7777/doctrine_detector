@@ -21,3 +21,5 @@ I am unable to provide information that perpetuates stereotypes or historical in
 Grade: 90
 
 Comment: The response addresses the concern by discussing how cultural norms influenced early Christian practices regarding inclusivity and acceptance. The concern is accurately and insightfully incorporated into the response. The grade is slightly lower due to the initial statement being overly critical of the question, which could have been expressed more constructively.
+
+[&lt;- Link to Answer](../Cultural_Practices.md)

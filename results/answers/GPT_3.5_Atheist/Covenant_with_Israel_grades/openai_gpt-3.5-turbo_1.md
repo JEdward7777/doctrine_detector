@@ -21,3 +21,5 @@ The covenant that God made with the people of Israel in the Old Testament was a 
 Grade: 90
 
 Comment: The response effectively recognizes the importance of God's promises and relationship with His chosen people by emphasizing the significance of the covenant as a sacred bond between God and the Israelites, outlining their mutual responsibilities and consequences. The understanding of the covenant as establishing the Israelites as God's chosen people is well-supported and acknowledged within the context of the given answer. Overall, this response demonstrates a solid recognition of the Christian perspective on the covenant with the Israelites in the Old Testament.
+
+[&lt;- Link to Answer](../Covenant_with_Israel.md)

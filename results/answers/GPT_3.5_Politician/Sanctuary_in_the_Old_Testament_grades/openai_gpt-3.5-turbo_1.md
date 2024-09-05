@@ -21,3 +21,5 @@ In the Old Testament, God described the sanctuary as a place where His presence 
 Grade: 90
 
 Comment: The response effectively acknowledges the biblical view of the sanctuary as a place where God dwells among His people and provides safety. It accurately highlights the sanctity and protection offered by the sanctuary in the Old Testament, aligning well with the Christian worldview. Great job!
+
+[&lt;- Link to Answer](../Sanctuary_in_the_Old_Testament.md)

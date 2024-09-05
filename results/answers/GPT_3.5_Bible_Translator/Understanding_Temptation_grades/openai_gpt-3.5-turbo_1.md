@@ -29,3 +29,5 @@ Overall, Jesus' strategies for resisting temptation involved a combination of re
 Grade: 95
 
 Comment: The response provides a comprehensive and detailed explanation of how Jesus combated temptation using scripture, unwavering faith in God, and additional strategies such as staying focused on God's will and the power of prayer. It effectively addresses the concern of combating temptation in daily life as a follower of Christ by emphasizing the importance of relying on God's Word, obedience to God's will, and prayer. The only minor improvement would be to explicitly connect the strategies mentioned in the response to the concern raised in the question.
+
+[&lt;- Link to Answer](../Understanding_Temptation.md)

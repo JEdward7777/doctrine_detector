@@ -29,3 +29,5 @@ These verses emphasize the role of Jesus Christ as a means of reconciliation and
 Grade: 90
 
 Comment: The response effectively addresses the concern by providing a clear explanation of the concept of propitiation and supporting it with relevant Bible verses. The integration of key verses like 1 John 2:2, 1 John 4:10, and Romans 3:25-26 demonstrates a strong understanding of the theological concept within a biblical context from a Christian worldview. The response could have included a bit more elaboration on the significance of these verses in relation to propitiation, but overall it is well-written and insightful.
+
+[&lt;- Link to Answer](../Scriptural_Basis.md)

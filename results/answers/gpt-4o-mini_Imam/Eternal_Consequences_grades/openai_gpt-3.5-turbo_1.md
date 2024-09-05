@@ -35,3 +35,5 @@ It is essential to remember that Allah is described as "Most Merciful" and "Most
 Grade: 90
 
 Comment: The response provides a comprehensive explanation of the concept of "perishing" in Islamic theology, emphasizing the serious consequences for individuals who reject faith and disobey God. It effectively addresses the concern of eternal separation from God by detailing the various aspects of punishment and consequences faced by those who are described as perishing. The inclusion of scriptural references and theological insights enriches the explanation. The response accurately captures the gravity of eternal separation from God based on Islamic teachings.
+
+[&lt;- Link to Answer](../Eternal_Consequences.md)

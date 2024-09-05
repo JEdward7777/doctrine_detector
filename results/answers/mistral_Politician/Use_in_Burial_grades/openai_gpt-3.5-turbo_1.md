@@ -21,3 +21,5 @@ Recognizing the customs surrounding burial practices can enhance comprehension o
 Grade: 90
 
 Comment: The response provides a comprehensive explanation of the significance of myrrh in biblical burial practices, referencing specific instances from the Old and New Testaments. The student effectively addresses the concern by highlighting how understanding these customs can enrich one's interpretation of cultural contexts in scripture. Well done!
+
+[&lt;- Link to Answer](../Use_in_Burial.md)

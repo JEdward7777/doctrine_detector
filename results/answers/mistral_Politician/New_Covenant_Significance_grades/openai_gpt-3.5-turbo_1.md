@@ -27,3 +27,5 @@ It's essential to remember that religious beliefs can be deeply personal and mea
 Grade: 85
 
 Comment: The response effectively discusses the significance of the new covenant in relation to Jesus' sacrifice for the atonement of sins, contrasting it with the old covenant sacrifices. The student's understanding of the transformative power of Jesus' sacrifice and its connection to God's promises is clear. However, the response could have delved deeper into the theological implications and impact of Jesus' sacrifice on the new covenant, showcasing a stronger connection to Christian doctrine.
+
+[&lt;- Link to Answer](../New_Covenant_Significance.md)

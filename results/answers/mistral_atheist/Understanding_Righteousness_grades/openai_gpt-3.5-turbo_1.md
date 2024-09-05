@@ -25,3 +25,5 @@ However, it's important to note that interpretations may vary across different r
 Grade: 90
 
 Comment: The response does a good job of expanding on the concept of God's righteousness by discussing how it encompasses moral perfection, justice, integrity, and consistency in His actions. It also touches on the importance of understanding God's righteousness for appreciating His justice and love, which aligns well with the provided concern. The only suggestion for improvement would be to directly relate the discussion back to the initial answer provided in order to maintain focus and coherence.
+
+[&lt;- Link to Answer](../Understanding_Righteousness.md)

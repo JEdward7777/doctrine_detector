@@ -33,3 +33,5 @@ Awareness of the spiritual ramifications of living in disobedience to God.
 Grade: 95
 
 Comment: The response provides a comprehensive list of biblical passages that demonstrate the consequences of living in disobedience to God, emphasizing God's judgment and wrath on ungodly individuals who reject Him. It effectively addresses the concern by highlighting the spiritual ramifications of choosing a life contrary to God's ways. The use of specific Bible verses reinforces the Christian worldview perspective on this issue. Great job in illustrating the severity and significance of living in disobedience to God within the Christian faith.
+
+[&lt;- Link to Answer](../Ungodliness_Consequences.md)

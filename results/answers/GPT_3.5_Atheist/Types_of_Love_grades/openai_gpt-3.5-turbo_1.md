@@ -27,3 +27,5 @@ Overall, the biblical definition of love encompasses all forms of loving relatio
 Grade: 95
 
 Comment: This response excellently expands on the types of love found in the Bible, demonstrating a clear understanding of brotherly love and romantic love while ensuring that both align with a biblical worldview. The explanation provided is thorough and insightful, emphasizing the importance of love, care, and commitment in all relationships.
+
+[&lt;- Link to Answer](../Types_of_Love.md)

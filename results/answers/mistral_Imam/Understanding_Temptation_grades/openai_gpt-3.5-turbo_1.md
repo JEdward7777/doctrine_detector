@@ -35,3 +35,5 @@ Here are some strategies that can be gleaned from Prophet Jesus' response to Sat
 Grade: 80
 
 Comment: The response provides a detailed explanation of how Prophet Jesus (Isa) resisted temptations, highlighting key aspects such as faith, patience, reliance on God, and understanding the true source of power. While the response predominantly focuses on the Islamic perspective of Prophet Jesus, the strategies presented align with Christian principles of resisting temptation through faith in God. The understanding and application of these strategies can be valuable for combating temptation in daily life as a follower of Christ.
+
+[&lt;- Link to Answer](../Understanding_Temptation.md)

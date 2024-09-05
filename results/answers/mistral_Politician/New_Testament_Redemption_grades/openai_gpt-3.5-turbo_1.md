@@ -27,3 +27,5 @@ Ultimately, the concept of purification in the New Testament shifts from externa
 Grade: 95
 
 Comment: The response does an excellent job of recognizing the sufficiency of Christ's sacrifice as the means of eternal purification from sin in the New Testament context. It effectively contrasts the Old Testament rituals with the New Testament emphasis on inner transformation through faith in Christ. The integration of the given concern is clear and well-supported by the response. Well done!
+
+[&lt;- Link to Answer](../New_Testament_Redemption.md)

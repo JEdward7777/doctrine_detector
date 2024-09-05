@@ -25,3 +25,5 @@ Overall, myrrh played a significant role in the burial practices of biblical tim
 Grade: 95
 
 Comment: The student has provided a well-reasoned and detailed response, showing a clear understanding of the significance of myrrh in biblical burial practices. The mention of specific biblical references adds depth to the explanation. The response effectively addresses the concern by highlighting how understanding customs surrounding burial practices can enhance comprehension of cultural contexts in scripture. Overall, an excellent and insightful answer.
+
+[&lt;- Link to Answer](../Use_in_Burial.md)

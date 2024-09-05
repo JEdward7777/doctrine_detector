@@ -21,3 +21,5 @@ Understanding the biblical role of servanthood in the church.
 Grade: 95
 
 Comment: The response demonstrates a solid understanding of the biblical role of deacons in serving practical needs within the local church, aligning well with Christian theology and scriptural references. The concept of servanthood is clearly articulated and tied back to the foundational teachings of the New Testament. The connection between the role of a deacon and serving fellow believers aligns cohesively with the Christian worldview. Great job overall!
+
+[&lt;- Link to Answer](../Deacon_Definition.md)

@@ -75,3 +75,5 @@ Weaknesses:
 * Limited scope of comparison between biblical and ancient Israeli redemption
 * No detailed analysis or supporting evidence from Scripture
 * Opportunity to further develop the analogy for greater impact
+
+[&lt;- Link to Answer](../Redemption_Concept.md)

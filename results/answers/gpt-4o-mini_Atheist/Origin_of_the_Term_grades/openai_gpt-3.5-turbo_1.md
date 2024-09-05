@@ -21,3 +21,5 @@ According to the New Testament, the followers of Jesus were first called 'Christ
 Grade: 95
 
 Comment: The response accurately identifies the historical event where Jesus' followers were first called 'Christians' in Antioch, as mentioned in Acts 11:26. The explanation provided demonstrates an understanding of the significance of the term 'Christian' within its historical context, showing awareness of how the label distinguished followers of Jesus and contributed to the spread of Christianity. Overall, a strong and well-informed answer.
+
+[&lt;- Link to Answer](../Origin_of_the_Term.md)

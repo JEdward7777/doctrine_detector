@@ -35,3 +35,5 @@ Recognizing God's ongoing provision in the lives of believers.
 Grade: 95
 
 Comment: The student has provided a comprehensive response expanding on the significance of manna beyond just God's provision for the Israelites in the wilderness, highlighting how it relates to God's ongoing provision for believers today. The connection between physical sustenance in the wilderness and spiritual sustenance through God's Word and grace is well articulated, showing a deep understanding of how manna symbolizes God's care and sustenance for His people.
+
+[&lt;- Link to Answer](../Symbolism_of_Manna.md)

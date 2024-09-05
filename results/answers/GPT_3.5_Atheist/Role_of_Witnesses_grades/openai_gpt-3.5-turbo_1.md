@@ -27,3 +27,5 @@ Overall, witnesses in the New Testament serve as key sources of information and 
 Grade: 90
 
 Comment: The response provides a thorough explanation of the role of witnesses in the New Testament, emphasizing their importance in establishing the credibility of the accounts of Jesus' life and resurrection. It aligns well with the concern by highlighting the importance of Christians witnessing their faith and sharing personal experiences. The only suggestion for improvement would be to explicitly connect the role of witnesses in the New Testament to the broader call for Christians to witness their faith today.
+
+[&lt;- Link to Answer](../Role_of_Witnesses.md)

@@ -21,3 +21,5 @@ Baptism is not a practice recognized or endorsed by Islam or Islamic teachings. 
 Grade: 90
 
 Comment: The response accurately captures the Christian belief that baptism signifies cleansing from sin and unity with Christ. While the initial response acknowledges a lack of knowledge on the topic due to it not being a practice in Islam, the provided answer aligns well with the significance of baptism in the Christian faith, addressing the concern effectively from a Christian worldview.
+
+[&lt;- Link to Answer](../Baptism_Purpose.md)

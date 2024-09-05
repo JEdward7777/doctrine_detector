@@ -21,3 +21,5 @@ Recognizing the specific timeframe for the observance of the Sabbath in accordan
 Grade: 95
 
 Comment: The response accurately identifies the timeframe for the observance of the Sabbath according to Jewish tradition and references the Biblical commandment in Exodus 20:8-11. The mention of sunset as the marker for the Sabbath's start and end aligns well with the Christian understanding of the Sabbath based on Jewish tradition.
+
+[&lt;- Link to Answer](../Sabbath_Timing.md)

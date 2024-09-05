@@ -21,3 +21,5 @@ This knowledge is essential for studying the Scriptures and understanding their 
 Grade: 90
 
 Comment: The response acknowledges the majority of the Old Testament being written in Hebrew, aligning with the given answer. However, it could have elaborated more on the significance of this knowledge in understanding the Scriptures and their original context to fully address the concern.
+
+[&lt;- Link to Answer](../Language_of_the_Old_Testament.md)

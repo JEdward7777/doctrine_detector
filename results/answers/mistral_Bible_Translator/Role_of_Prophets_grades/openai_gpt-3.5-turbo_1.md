@@ -21,3 +21,5 @@ Understanding the biblical role of prophets and their messages.
 Grade: 95
 
 Comment: The response effectively highlights the core role of prophets in conveying God's messages to the people, emphasizing the importance of warning against sin and urging obedience to God. It also acknowledges the dual nature of prophetic messages in both judgment and hope. The biblical references provided further support the understanding of the prophetic role and message. Great job!
+
+[&lt;- Link to Answer](../Role_of_Prophets.md)

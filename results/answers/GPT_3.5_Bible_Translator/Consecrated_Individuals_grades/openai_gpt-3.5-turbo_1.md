@@ -31,3 +31,5 @@ These individuals were set apart for special roles and purposes by God, and thei
 Grade: 90
 
 Comment: The response provides a strong understanding of consecrated individuals in biblical history by giving specific examples such as Samuel, John the Baptist, Aaron and his sons, and Mary. The examples are well-explained and demonstrate a good grasp of the significance of consecrated individuals in the Bible.
+
+[&lt;- Link to Answer](../Consecrated_Individuals.md)

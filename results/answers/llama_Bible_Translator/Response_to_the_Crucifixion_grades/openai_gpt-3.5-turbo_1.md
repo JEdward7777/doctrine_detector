@@ -27,3 +27,5 @@ However, it's important to note that Peter's focus here is not on assigning blam
 Grade: 90
 
 Comment: The response effectively captures the essence of Peter's message from Acts 2:22-23, emphasizing the collective responsibility of the crowd in Jesus' crucifixion and the importance of repentance and faith in response to the gospel. The Christian worldview is upheld by highlighting the role of God in raising Jesus to life and the need for a personal response to the message preached by the early church.
+
+[&lt;- Link to Answer](../Response_to_the_Crucifixion.md)

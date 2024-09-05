@@ -27,3 +27,5 @@ In summary, the chief priests held a higher authority over the ordinary priests,
 Grade: 95
 
 Comment: The response provides a detailed and accurate explanation of the hierarchical relationship between the chief priests and the ordinary priests in ancient Israelite worship, specifically during the time of the Second Temple. It effectively addresses the concern of examining the structure of religious leadership in ancient Israel by elaborating on the roles and responsibilities of the chief priests and ordinary priests within the religious context. The response demonstrates a clear understanding of the topic and effectively expands on the initial answer provided.
+
+[&lt;- Link to Answer](../Chief_Priests__Authority.md)

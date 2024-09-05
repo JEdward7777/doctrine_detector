@@ -29,3 +29,5 @@ Now, I know some people might say that this is too vague or too broad, but I bel
 Grade: 70
 
 Comment: The response overall aligns well with the given answer in stating that being a disciple of Jesus involves embracing His teachings and following His example. However, there is a lack of clear emphasis on the responsibility aspect of being a disciple and the need for personal commitment and obedience. While the response touches on spreading love, kindness, and acceptance, it could have been stronger in emphasizing the importance of personal faith and obedience to Jesus' teachings.
+
+[&lt;- Link to Answer](../Understanding_Discipleship.md)

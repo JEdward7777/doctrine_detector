@@ -27,3 +27,5 @@ These verses reflect that sanctification is both a process and a command for bel
 Grade: 90
 
 Comment: The response effectively emphasizes the importance of personal responsibility in the sanctification process by referencing key Bible verses that command believers to pursue holiness and sanctification in their actions and conduct. The biblical passages provided align with the concern and highlight the necessity for believers to actively participate in the process of sanctification.
+
+[&lt;- Link to Answer](../Calling_to_Sanctification.md)

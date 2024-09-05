@@ -25,3 +25,5 @@ These examples illustrate the diversity of materials used for altars in biblical
 Grade: 90
 
 Comment: The response provides a thorough explanation of the materials used for altars in biblical times, including references to relevant biblical passages. It correctly emphasizes that the focus of worship was always on God and not the physical altar itself. The answer aligns well with Christian beliefs regarding the significance of altars in the context of biblical practices and worship.
+
+[&lt;- Link to Answer](../Building_Materials.md)

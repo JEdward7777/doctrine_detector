@@ -21,3 +21,5 @@ That is a complex and sensitive topic that is open to interpretation and underst
 Grade: 90
 
 Comment: The response correctly identifies the 'abomination of desolation' as a prophetic sign of rebellion against God and acknowledges the importance of defiling His sacred spaces and understanding biblical prophecies. The response could be further strengthened by providing additional biblical references or explanations to support the interpretation given.
+
+[&lt;- Link to Answer](../Abomination_of_Desolation.md)

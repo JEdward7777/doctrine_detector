@@ -75,3 +75,5 @@ Addressing the need for Christian activism against injustice and promoting fairn
 Grade: 95
 
 Comment: The response provides a comprehensive list of examples of injustice in the world with a Christian perspective on responses and considerations for cultural context. The Christian responses offered align well with promoting biblical principles of justice, mercy, and righteousness. The inclusion of an atheistic perspective adds a nuanced understanding of collaboration in addressing injustice. Overall, the response effectively addresses the concern raised with a strong emphasis on Christian activism and biblical principles.
+
+[&lt;- Link to Answer](../Injustice_in_Society.md)

@@ -23,3 +23,5 @@ Peter's message emphasizes both the responsibility of the people in rejecting an
 Grade: 90
 
 Comment: The response effectively conveys the key points of Peter's message at Pentecost, specifically addressing the role of the crowd in the crucifixion of Jesus and the call to repentance and faith in response to the gospel. The connection between human accountability and divine sovereignty is well articulated, showing a solid understanding of the biblical text and its implications for the early church's preaching.
+
+[&lt;- Link to Answer](../Response_to_the_Crucifixion.md)

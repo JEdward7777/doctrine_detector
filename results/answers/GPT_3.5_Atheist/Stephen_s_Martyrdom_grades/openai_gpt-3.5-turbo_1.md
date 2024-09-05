@@ -25,3 +25,5 @@ Despite the hardships and dangers they encountered, early believers like Stephen
 Grade: 90
 
 Comment: The response effectively discusses the significance of Stephen's stoning in the early Christian church, addressing the cost of discipleship and the importance of faithfulness in the face of persecution. It highlights the commitment and courage displayed by early Christians like Stephen. The only suggestion would be to further emphasize the spiritual significance of Stephen's martyrdom within the context of Christian faith and the example it sets for believers in standing firm for their convictions.
+
+[&lt;- Link to Answer](../Stephen_s_Martyrdom.md)

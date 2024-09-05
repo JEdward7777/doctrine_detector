@@ -21,3 +21,5 @@ In biblical times, altars were commonly constructed using various materials such
 Grade: 90
 
 Comment: The response provides a comprehensive overview of the materials used to construct altars in biblical times, citing relevant scripture references. It accurately mentions altars made of uncut stones, wood, bronze, and gold, aligning well with the biblical accounts. The answer could have been improved by delving deeper into the significance of the materials used in relation to worship and reverence, demonstrating a stronger connection to Christian practices and beliefs.
+
+[&lt;- Link to Answer](../Building_Materials.md)

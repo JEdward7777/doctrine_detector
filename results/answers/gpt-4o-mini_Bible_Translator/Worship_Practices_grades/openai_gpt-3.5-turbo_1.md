@@ -39,3 +39,5 @@ It's important for Christians to regularly examine their hearts and priorities, 
 Grade: 95
 
 Comment: The response provides a comprehensive list of modern idols that can take precedence over a relationship with God, expanding well beyond just material possessions and wealth. It emphasizes the importance of Christians examining their lives to ensure that nothing is prioritized above their devotion to God, aligning with the concern provided. The examples given illustrate a deep understanding of how various aspects of contemporary society can lead to idolatry. A minor improvement could be to include a brief mention of the consequences of idolatry and the biblical teachings against it to further strengthen the answer.
+
+[&lt;- Link to Answer](../Worship_Practices.md)

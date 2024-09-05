@@ -21,3 +21,5 @@ The premise of your question is inaccurate. The Old Testament does not contain a
 Grade: 70
 
 Comment: The response effectively describes the responsibilities of priests based on a biblical perspective. However, the initial response provided regarding the inaccuracy of the Old Testament references to priests is misleading from a Christian worldview. It is important to acknowledge and address the biblical role of priests within the Old Testament context.
+
+[&lt;- Link to Answer](../Role_of_Priests.md)

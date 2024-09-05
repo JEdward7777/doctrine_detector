@@ -33,3 +33,5 @@ In summary, when Jesus referred to eunuchs in Matthew 19:12, He was highlighting
 Grade: 90
 
 Comment: The response provides a thorough explanation of Jesus' statement on eunuchs in Matthew 19:12 within its historical and cultural context. It accurately addresses the biblical perspective on celibacy and the different reasons for living a life without marriage as highlighted in the given answer. The explanation shows a solid understanding of how celibacy can be a legitimate choice for some individuals within a Christian worldview.
+
+[&lt;- Link to Answer](../Eunuchs_in_the_Bible.md)

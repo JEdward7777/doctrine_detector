@@ -35,3 +35,5 @@ May Allah guide us towards righteousness and wisdom.
 Grade: 90
 
 Comment: The response provides a thorough analysis of Jesus' teachings on humility and self-reflection when addressing the faults of others, highlighting the importance of focusing on one's own shortcomings before criticizing others. The incorporation of relevant verses from both the Bible and the Quran enhances the understanding of this concept. The response effectively addresses the concern about reflecting hypocrisy and diminishing our Christian witness by emphasizing the need for introspection and repentance before correcting others. This insightful analysis aligns well with a Christian worldview, promoting humility and self-improvement in interactions with others.
+
+[&lt;- Link to Answer](../Judgment_of_Others.md)

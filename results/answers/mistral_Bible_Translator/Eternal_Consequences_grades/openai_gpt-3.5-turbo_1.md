@@ -27,3 +27,5 @@ Ultimately, the eternal consequences for those who "perish" are a matter of inte
 Grade: 90
 
 Comment: The response provides a strong explanation of the concept of "perishing" in Christian theology, emphasizing the eternal consequences of not accepting Jesus Christ as Savior. It effectively addresses the concern about understanding the seriousness of eternal separation from God by highlighting the belief in eternal punishment in hell for those who perish. The mention of discussing such topics with a spiritual advisor or pastor for a more nuanced understanding adds depth to the response. Overall, the answer aligns well with a Christian worldview and effectively conveys the gravity of the concept of eternal separation from God.
+
+[&lt;- Link to Answer](../Eternal_Consequences.md)

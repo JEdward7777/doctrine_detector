@@ -66,3 +66,5 @@ While the student does mention some correct information about the priests' roles
 The student's response lacks depth and detail, and doesn't engage with the concern in a meaningful way. For example, they don't mention the importance of cleansing rituals, teaching and interpretation, or maintaining the temple, which are all crucial aspects of the priests' ministry. Additionally, their response doesn't demonstrate an understanding of how these Old Testament practices can inform current ministry approaches.
 
 To improve this response, the student could provide more detail and depth about the priests' roles and responsibilities in the Old Testament, and show how these practices can be applied to contemporary Christian ministry.
+
+[&lt;- Link to Answer](../Old_Testament_Ministry.md)

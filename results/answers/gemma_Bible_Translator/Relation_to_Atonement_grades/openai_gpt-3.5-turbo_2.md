@@ -43,3 +43,5 @@ To clarify the differences and similarities between these two important theologi
 Grade: 95
 
 Comment: The response provides a thorough and well-explained comparison between propitiation and atonement, addressing the concern effectively by clarifying the distinctions and similarities between these two theological terms within a Christian worldview. The clear presentation and comprehensive explanation demonstrate a strong understanding of the concepts. Well done!
+
+[&lt;- Link to Answer](../Relation_to_Atonement.md)

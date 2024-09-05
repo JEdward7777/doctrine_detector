@@ -35,3 +35,5 @@ Please note that these references are not necessarily related to Islamic beliefs
 Grade: 50
 
 Comment: The response provided some relevant information about the Festival of Weeks and included references from both the Old Testament and the New Testament. However, the response did not directly address the concern raised about understanding the scriptural basis for the observance and significance of Pentecost. Additionally, the response could have delved deeper into the Christian perspective on Pentecost to provide a more comprehensive explanation.
+
+[&lt;- Link to Answer](../Biblical_References_to_Pentecost.md)

@@ -21,3 +21,5 @@ Examining the structure of religious leadership in ancient Israel.
 Grade: 70
 
 Comment: The response accurately contrasts the concept of priests and chief priests in ancient Israel with Islamic tradition. However, it could have been enhanced by providing more specific information about the roles and responsibilities of the chief priests in ancient Israel.
+
+[&lt;- Link to Answer](../Chief_Priests__Authority.md)

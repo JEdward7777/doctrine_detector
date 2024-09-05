@@ -31,3 +31,5 @@ Overall, compassion in the Bible is seen as a way of embodying the love and grac
 Grade: 95
 
 Comment: The response provides a thorough explanation of compassion as defined in the Bible and how it guides our actions towards others. It effectively conveys the Christian perspective on compassion, emphasizing the importance of both feeling concern for those who are suffering and taking action to help them, in alignment with biblical teachings. Well done!
+
+[&lt;- Link to Answer](../Compassion_Definition.md)

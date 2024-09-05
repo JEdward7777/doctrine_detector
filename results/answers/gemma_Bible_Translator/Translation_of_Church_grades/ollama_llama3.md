@@ -70,3 +70,5 @@ The provided answer suggests translations that include "gathering together", "as
 However, I deduct 20 points because the answer does not explicitly address the importance of including diverse expressions of Christianity, such as Pentecostal or Charismatic traditions, which are also part of the broader Christian community. While the suggested translations are broad enough to encompass different denominational and theological backgrounds, a more explicit acknowledgment of diversity would strengthen the response.
 
 Overall, the answer provides a solid foundation for an inclusive representation of the church's nature in translations, but could benefit from further nuance and emphasis on the diversity of Christian expressions.
+
+[&lt;- Link to Answer](../Translation_of_Church.md)

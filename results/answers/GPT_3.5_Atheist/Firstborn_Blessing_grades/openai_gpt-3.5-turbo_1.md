@@ -27,3 +27,5 @@ Ultimately, within a Christian family, the concept of birthright can be applied 
 Grade: 90
 
 Comment: The response demonstrates a strong understanding of the spiritual implications of the concept of birthright within a Christian family. The student effectively connects the idea of birthright to the responsibility of leading the family in faith, aligning well with the Christian worldview. The response provides thoughtful reflections on family roles and spiritual responsibilities as encouraged by the concern, making it a well-developed and insightful explanation.
+
+[&lt;- Link to Answer](../Firstborn_Blessing.md)

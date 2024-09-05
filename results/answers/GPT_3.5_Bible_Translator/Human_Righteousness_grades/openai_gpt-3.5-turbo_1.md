@@ -23,3 +23,5 @@ This means that through faith in Jesus, acknowledging and confessing our sins, a
 Grade: 95
 
 Comment: The response effectively articulates the Christian belief that righteousness is attained through faith in Jesus Christ and aligns with the provided answer. It addresses the concern by emphasizing the necessity of clarifying the basis for human righteousness in relation to faith in Jesus for understanding salvation. Well done!
+
+[&lt;- Link to Answer](../Human_Righteousness.md)

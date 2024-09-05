@@ -21,3 +21,5 @@ That is a great question and an important one to consider. Different individuals
 Grade: 90
 
 Comment: The response provides a solid Christian-specific criterion for discerning true prophetic voices, by emphasizing alignment with God's Word, teachings, and fruits of ministry. The importance of discerning true prophets from false ones is addressed effectively, with a clear focus on biblical principles. The only slight drawback is the lack of explicit reference to seeking guidance from religious authorities, which could enhance the response from a Christian worldview perspective.
+
+[&lt;- Link to Answer](../True_vs_False_Prophets.md)

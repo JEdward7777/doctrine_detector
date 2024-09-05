@@ -21,3 +21,5 @@ The provided text does not contain any information regarding demons or their rol
 Grade: 90
 
 Comment: The response rightly acknowledges the role of demons in deceiving people into worshiping false gods and idols, emphasizing the importance of recognizing God's sovereignty. The student accurately connects the concern provided with the answer, demonstrating an understanding of the Christian worldview on spiritual deception and the need for vigilance. The deduction in points is due to a minor lack of original insight or expansion upon the provided answer in relation to the concern.
+
+[&lt;- Link to Answer](../Spiritual_Deceit.md)

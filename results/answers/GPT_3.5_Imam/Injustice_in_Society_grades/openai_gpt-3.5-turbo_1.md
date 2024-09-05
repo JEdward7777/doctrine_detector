@@ -25,3 +25,5 @@ In Islam, we are also taught to stand against injustice and oppression, to help 
 Grade: 80
 
 Comment: The response addresses the concern by emphasizing the importance of Christians advocating for justice, demonstrating mercy, and acting righteously in all areas of life based on biblical principles. It effectively emphasizes the Christian call to combat injustice and promote fairness. The response also recognizes the shared values between Islam and Christianity in standing against injustice and working towards a more just and peaceful world. However, it could have provided more specific examples of how Christians can engage in activism and promote fairness using biblical teachings. Overall, the response demonstrates a good understanding of the Christian perspective on addressing injustices.
+
+[&lt;- Link to Answer](../Injustice_in_Society.md)

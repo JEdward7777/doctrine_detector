@@ -27,3 +27,5 @@ In summary, while 'propitiation' specifically focuses on the act of appeasing a 
 Grade: 85
 
 Comment: The response provides a clear explanation of the differences and similarities between propitiation and atonement, highlighting the emphasis on appeasing God's wrath in propitiation. The response effectively addresses the concern by offering a concise and accurate comparison of these theological terms within a Christian worldview.
+
+[&lt;- Link to Answer](../Relation_to_Atonement.md)

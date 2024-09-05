@@ -38,3 +38,5 @@ If you have further questions or need more details, feel free to ask!
 Grade: 90
 
 Comment: The response effectively reinforces the central Christian doctrine that believers become saints through faith in Jesus Christ. It accurately emphasizes that holiness comes not from one's own deeds but from the saving work of Jesus. The explanation provided aligns well with the Christian understanding of sainthood and faith in Jesus as the source of holiness.
+
+[&lt;- Link to Answer](../Source_of_Holiness.md)

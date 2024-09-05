@@ -27,3 +27,5 @@ In identifying these behaviors in ourselves and in society, we can reflect on th
 Grade: 85
 
 Comment: The response provides a thoughtful and respectful discussion on behaviors considered contrary to commonly held moral standards, promoting sensitivity and understanding of diverse perspectives. The emphasis on focusing on the impact of actions rather than using potentially divisive religious terminology is commendable. The response effectively addresses the concern by encouraging self-examination and awareness of how behaviors can influence personal and communal behaviors in relation to holiness. However, the response could have incorporated more specific Christian principles or Scriptures to support the discussion of unholy behaviors in a Christian worldview.
+
+[&lt;- Link to Answer](../Understanding_Unholiness.md)

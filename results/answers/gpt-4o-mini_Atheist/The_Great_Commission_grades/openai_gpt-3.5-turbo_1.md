@@ -21,3 +21,5 @@ Before ascending to heaven, Jesus gave His disciples the Great Commission, which
 Grade: 90
 
 Comment: The response accurately summarizes the mission of discipleship outlined in the Great Commission given by Jesus. It correctly highlights the commands to make disciples of all nations, baptize them, and teach them to obey Jesus's teachings. The answer demonstrates a clear understanding of the importance of spreading the message of Christianity to all people.
+
+[&lt;- Link to Answer](../The_Great_Commission.md)

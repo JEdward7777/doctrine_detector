@@ -55,3 +55,5 @@ The covenant that God made with the people of Israel was based on two fundamenta
 Grade: 85
 
 Comment: The response provides a detailed explanation of the Covenant of Allah with the People of Israel, emphasizing obedience, purity, land inheritance, conditions, and purpose of the covenant. It also acknowledges the significance of the covenant for Muslims. The answer aligns well with the concern regarding recognizing the importance of God's promises and relationship with His chosen people from a Christian worldview. The only aspect that could be further emphasized is the unique and special status of the Israelites as God's chosen people within the covenant.
+
+[&lt;- Link to Answer](../Covenant_with_Israel.md)

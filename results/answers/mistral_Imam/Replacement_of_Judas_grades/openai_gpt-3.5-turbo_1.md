@@ -21,3 +21,5 @@ Recognizing the continuity of apostolic leadership after Jesus' ascension.
 Grade: 90
 
 Comment: The response provides a clear and accurate explanation of Matthias being chosen to replace Judas Iscariot. It effectively addresses the concern by recognizing the continuity of apostolic leadership after Jesus' ascension. The connection between Jesus' selection of Matthias and the leadership structure within Christianity is well-presented.
+
+[&lt;- Link to Answer](../Replacement_of_Judas.md)

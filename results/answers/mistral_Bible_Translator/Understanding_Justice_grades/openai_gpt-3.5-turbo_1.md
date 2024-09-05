@@ -21,3 +21,5 @@ Understanding the biblical standard of fairness and righteousness in our interac
 Grade: 95
 
 Comment: The response provides a strong understanding of the biblical standard of fairness and righteousness in interactions with others by emphasizing the importance of treating others with fairness, kindness, and respect according to God's laws. The inclusion of relevant biblical verses further solidifies the explanation, demonstrating a clear connection to Christian principles.
+
+[&lt;- Link to Answer](../Understanding_Justice.md)

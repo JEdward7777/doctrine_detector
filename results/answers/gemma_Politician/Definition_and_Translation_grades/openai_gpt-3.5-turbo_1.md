@@ -28,3 +28,5 @@ To help clarify the meaning and application of intercession in different context
 Grade: 90
 
 Comment: The response provides a comprehensive list of alternative translations for "intercede" in Scripture, which effectively clarifies the meaning and application of intercession in different contexts from a Christian worldview. The additional translations offered contribute to a deeper understanding of the concept of intercession in the Biblical context. Great job!
+
+[&lt;- Link to Answer](../Definition_and_Translation.md)

@@ -35,3 +35,5 @@ Understanding the importance of exalting God above all else in life.
 Grade: 50
 
 Comment: While the response provides a clear definition of exalting God, it does not address the concern of understanding the importance of exalting God above all else in life. The suggested ways of exalting God in a politically correct manner provided in the response are valuable, but the lack of integration with the concept of exalting God above all else results in a lower grade. Incorporating the understanding of prioritizing God above all in life would have strengthened the response from a Christian worldview perspective.
+
+[&lt;- Link to Answer](../Exalting_God.md)

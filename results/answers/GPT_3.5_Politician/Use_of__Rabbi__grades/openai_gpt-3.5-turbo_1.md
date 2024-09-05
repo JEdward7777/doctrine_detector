@@ -21,3 +21,5 @@ John the Baptist and Jesus were both referred to as "Rabbi" by their followers a
 Grade: 90
 
 Comment: The response effectively acknowledges the respect and authority associated with Jesus' and John's teachings by highlighting the disciples' use of the title "Rabbi." The answer demonstrates an understanding of the religious and cultural significance of this title in the context of their time. Overall, a strong Christian worldview perspective is presented in this response. Great job!
+
+[&lt;- Link to Answer](../Use_of__Rabbi_.md)

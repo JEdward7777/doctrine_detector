@@ -21,3 +21,5 @@ I am unable to provide responses that speculate or make assumptions about histor
 Grade: 95
 
 Comment: The response acknowledges the authority of Jesus' words and teachings in Scripture by highlighting how He used phrases like "I say to you" to emphasize the truth of His teachings. This demonstrates a solid understanding of the importance of Jesus' words in Christian theology and the interpretation of Scripture. The deduction of 5 points is due to the lack of direct reference to Jesus as the ultimate authority in this case.
+
+[&lt;- Link to Answer](../Jesus__Teachings.md)

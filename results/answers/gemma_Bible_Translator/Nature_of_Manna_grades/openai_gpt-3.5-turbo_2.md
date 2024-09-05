@@ -21,3 +21,5 @@ The Bible does not provide any descriptive information regarding the appearance 
 Grade: 90
 
 Comment: The response correctly acknowledges that the Bible does provide descriptive information regarding the appearance and taste of manna, which is described as white flakes and sweet like honey. The concern about understanding the miraculous provision of God is addressed by providing the accurate information from a biblical perspective. A slight deduction is made for not explicitly stating the source of this information as coming from the Bible. Overall, a solid response aligning with a Christian worldview.
+
+[&lt;- Link to Answer](../Nature_of_Manna.md)

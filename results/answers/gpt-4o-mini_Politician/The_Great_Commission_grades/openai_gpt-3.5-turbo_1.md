@@ -21,3 +21,5 @@ Before ascending to heaven, Jesus instructed His disciples to go forth and make 
 Grade: 90
 
 Comment: The response provides a concise and accurate summary of the Great Commission, emphasizing the importance of making disciples of all nations and teaching them to obey Jesus' commands. It effectively addresses the concern by highlighting the mission of discipleship within the context of the Great Commission. The only improvement would be to expand a bit more on the significance of love, compassion, and guidance as central aspects of discipleship in relation to the Great Commission.
+
+[&lt;- Link to Answer](../The_Great_Commission.md)

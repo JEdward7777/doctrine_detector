@@ -37,3 +37,5 @@ These passages reflect the significance of the temple in the Hebrew Bible as a d
 Grade: 95
 
 Comment: This response provides an excellent overview of key scriptures in the Old Testament that specifically reference the temple as the "house of Yahweh." The inclusion of relevant verses and explanations demonstrates a solid understanding of the concept within the Christian worldview. The response effectively addresses the concern by identifying key scriptures and providing meaningful insights.
+
+[&lt;- Link to Answer](../Biblical_References_to_the_Temple.md)

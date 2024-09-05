@@ -27,3 +27,5 @@ The ephod served as an essential part of the High Priest's attire in ancient Jew
 Grade: 90
 
 Comment: The response provides detailed information about the materials used in the construction of the High Priest's ephod, aligning well with the concern about the importance of the ephod's design and symbolism in worship. The references to the specific materials and their significance in relation to the biblical account demonstrate a strong understanding of the topic from a Christian worldview.
+
+[&lt;- Link to Answer](../Ephod_materials.md)

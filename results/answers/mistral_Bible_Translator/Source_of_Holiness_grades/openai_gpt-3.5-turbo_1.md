@@ -25,3 +25,5 @@ Eastern Orthodox Christianity has a similar but slightly different process for r
 Grade: 90
 
 Comment: The response accurately explains the concept of saints in Christianity, highlighting the distinction between believers as saints through faith in Jesus Christ and individuals formally recognized by the Church as saints. The connection to the central role of faith in Jesus for holiness is clear and well-supported by Christian teachings. The only improvement would be to explicitly tie the response back to the concern given to further reinforce the importance of faith in Jesus in the Christian doctrine.
+
+[&lt;- Link to Answer](../Source_of_Holiness.md)

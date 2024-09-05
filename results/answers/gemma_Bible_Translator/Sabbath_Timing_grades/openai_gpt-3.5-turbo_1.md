@@ -23,3 +23,5 @@ The Jewish tradition upholds this timing for the Sabbath observance as a sacred 
 Grade: 85
 
 Comment: The response accurately identifies the timing of the Sabbath according to Jewish tradition, which aligns with Biblical teaching. It correctly states that the Sabbath begins on Friday at sundown and lasts until Saturday at sundown. The mention of the importance of the Sabbath as a sacred day of rest and worship also reflects an understanding of the Biblical significance of this observance.
+
+[&lt;- Link to Answer](../Sabbath_Timing.md)

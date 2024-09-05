@@ -29,3 +29,5 @@ By resisting Satan's temptations in this manner, Jesus demonstrated a commitment
 Grade: 95
 
 Comment: The response provides a comprehensive explanation of how Jesus resisted Satan's temptations in Matthew 4:1-11 through showcasing steadfast faith, reliance on scripture, and commitment to God's will. It effectively relates this biblical account to the concern raised about using Jesus' actions as a model for Christians in their spiritual battles against evil. The response demonstrates a strong Christian worldview and understanding of the significance of following Jesus' example in resisting temptation. Great job!
+
+[&lt;- Link to Answer](../Temptation_and_Resistance.md)

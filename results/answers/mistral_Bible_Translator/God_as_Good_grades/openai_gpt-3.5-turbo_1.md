@@ -27,3 +27,5 @@ In summary, Jesus' statement that only God is good emphasizes God's moral perfec
 Grade: 95
 
 Comment: The response excellently addresses the concern by emphasizing the source of goodness as God's moral perfection and righteousness. It effectively uses biblical references to support the argument and demonstrates a clear understanding of how the statement relates to the Christian worldview.
+
+[&lt;- Link to Answer](../God_as_Good.md)

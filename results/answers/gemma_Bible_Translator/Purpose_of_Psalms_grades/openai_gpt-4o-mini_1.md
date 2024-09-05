@@ -57,3 +57,5 @@ Understanding the historical context and purpose of worship through Psalms.
 Grade: 90
 
 Comment: The response provides a thorough examination of the historical context and purpose of worship through Psalms, expanding on the different ways in which the Psalms were utilized by the nation of Israel in their worship of God. The explanation is detailed and demonstrates a deep understanding of how the Psalms played a pivotal role in Israel's spiritual practices. The response effectively connects the Psalms to various aspects of Israelite worship, highlighting their significance and relevance in both communal and individual settings.
+
+[&lt;- Link to Answer](../Purpose_of_Psalms.md)

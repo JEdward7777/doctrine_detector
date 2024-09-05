@@ -39,3 +39,5 @@ In summary, the significance of Jesus’ sacrifice as propitiation lies in its r
 Grade: 95
 
 Comment: This response provides a comprehensive and insightful explanation of the significance of Jesus' sacrifice as propitiation in relation to God's justice and mercy. It effectively addresses the concern by delving into the Old Testament sacrificial system, Jesus' fulfillment of it, and the implications of His sacrifice for believers. The response effectively demonstrates how propitiation reconciles the justice and mercy of God, providing a clear understanding for the reader.
+
+[&lt;- Link to Answer](../Understanding_Propitiation.md)

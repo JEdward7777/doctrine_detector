@@ -27,3 +27,5 @@ As Paul wrote in 1 Corinthians 11:26-27, "For as often as you eat this bread and
 Grade: 90
 
 Comment: The response provides a detailed explanation of the significance of the Lord's Supper in Christian faith, accurately describing how it commemorates Jesus' sacrifice and the Last Supper with his disciples. It effectively links the Lord's Supper to Christian theology and Scripture references, showcasing an understanding of its meaning in the context of Christian belief. The response could be strengthened by further exploring the theological implications of the symbolism of Christ's body and blood in the sacrament. Overall, a strong and knowledgeable response with a solid Christian worldview perspective.
+
+[&lt;- Link to Answer](../Lord_s_Supper_Definition.md)

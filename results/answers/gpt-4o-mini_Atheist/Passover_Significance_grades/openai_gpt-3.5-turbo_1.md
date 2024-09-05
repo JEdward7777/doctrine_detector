@@ -25,3 +25,5 @@ Thus, for Christians, Passover signifies not only a historical event in Jewish t
 Grade: 95
 
 Comment: This response effectively explains the connection between the Old Testament Passover and the New Testament revelation of Jesus by highlighting Jesus as the Passover Lamb and His sacrificial role for humanity. It emphasizes the significance of Jesus' crucifixion coinciding with Passover and the symbolic interpretation of the Last Supper as a Passover meal. The response demonstrates a clear understanding of how Passover holds meaning for Christians in relation to Jesus Christ.
+
+[&lt;- Link to Answer](../Passover_Significance.md)

@@ -29,3 +29,5 @@ I hope this helps you in your search for politically correct and inclusive langu
 Grade: 85
 
 Comment: The response provided a good overview of the Festival of Weeks, connecting its significance in both Judaism and Christianity. However, there was a slight discrepancy in the reference to scriptural basis between the provided answer and the response. While the response referenced Leviticus and Numbers, the given answer mentioned different books. Overall, the response demonstrated a decent understanding of the scriptural basis for the observance and significance of Pentecost from a Christian worldview, earning a good grade.
+
+[&lt;- Link to Answer](../Biblical_References_to_Pentecost.md)

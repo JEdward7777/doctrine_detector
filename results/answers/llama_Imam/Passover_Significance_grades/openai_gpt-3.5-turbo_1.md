@@ -30,3 +30,5 @@ In summary, for Christians, the celebration of Passover is significant because i
 Grade: 95
 
 Comment: This response provides a comprehensive explanation of the significance of Passover for Christians in relation to Jesus, demonstrating a clear understanding of the connection between the Old Testament Passover and the New Testament revelation of Jesus. The points presented are well-supported by Christian theology and scripture, showcasing a deep knowledge of the subject matter. The clarity of explanation and the references to specific biblical passages contribute to the strength of the response. Great job overall!
+
+[&lt;- Link to Answer](../Passover_Significance.md)

@@ -21,3 +21,5 @@ Understanding God's plan for salvation and preservation in the narrative of Noah
 Grade: 90
 
 Comment: The response accurately captures the Christian perspective on the purpose of Noah's Ark in protecting Noah, his family, and pairs of every living creature from the worldwide flood as a result of God's judgment on humanity. It demonstrates an understanding of God's plan for salvation and preservation in the narrative of Noah's Ark. The only slight improvement would be to reference the specific biblical passages where this information is found to strengthen the response further.
+
+[&lt;- Link to Answer](../Noah_s_Ark.md)

@@ -21,3 +21,5 @@ In the Christian faith, the concept of righteousness is deeply tied to one's rel
 Grade: 90
 
 Comment: The response provides a clear and accurate explanation of how a person can be declared righteous through faith in Jesus Christ, with their sins cleansed and Jesus' righteousness attributed to them. It effectively addresses the concern by emphasizing the foundational role of faith in Jesus for understanding salvation within a Christian worldview.
+
+[&lt;- Link to Answer](../Human_Righteousness.md)

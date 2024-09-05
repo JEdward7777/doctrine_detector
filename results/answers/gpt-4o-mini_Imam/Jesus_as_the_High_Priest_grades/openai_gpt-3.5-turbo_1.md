@@ -31,3 +31,5 @@ In summary, in the New Testament, Jesus is depicted as a high priest who fulfill
 Grade: 95
 
 Comment: The response effectively explores the theological implications of Jesus fulfilling the role of high priest by referencing key passages from the book of Hebrews and providing detailed explanations. It demonstrates a solid understanding of the Christian view of Jesus' unique priesthood and how it surpasses the traditional Levitical priesthood. The only minor improvement could be further elaboration on how Jesus' role as the Great High Priest specifically relates to His sacrifice for the sins of all people.
+
+[&lt;- Link to Answer](../Jesus_as_the_High_Priest.md)

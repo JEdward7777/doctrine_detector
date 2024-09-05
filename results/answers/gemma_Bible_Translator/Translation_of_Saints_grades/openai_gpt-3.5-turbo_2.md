@@ -38,3 +38,5 @@ It's important to use inclusive language that accurately represents all believer
 Grade: 90
 
 Comment: The response offers appropriate translations for "saints" that emphasize holiness and faith in Jesus, in line with Christian theology. The suggested translations are inclusive and accurately represent all believers in Jesus without emphasizing specific Christian groups. The additional considerations provided also demonstrate a good understanding of the importance of context, clarity, and theological integrity in translation. The only potential improvement could be to include a reference to the term "holy believers in Jesus" to further enhance inclusivity.
+
+[&lt;- Link to Answer](../Translation_of_Saints.md)

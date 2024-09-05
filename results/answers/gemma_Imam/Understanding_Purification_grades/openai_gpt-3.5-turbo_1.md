@@ -21,3 +21,5 @@ The concept of purification does not feature prominently within the Old Testamen
 Grade: 85
 
 Comment: The response effectively explains the concept of purification in the Old Testament, focusing on cleansing from ritual impurity and sin through animal sacrifices. It addresses the concern by linking the process of ritual purification to God's standards for holiness and the concept of sin. However, it could have further emphasized the importance of understanding how these practices point towards the need for ultimate purity and atonement in Christianity, through Jesus Christ.
+
+[&lt;- Link to Answer](../Understanding_Purification.md)

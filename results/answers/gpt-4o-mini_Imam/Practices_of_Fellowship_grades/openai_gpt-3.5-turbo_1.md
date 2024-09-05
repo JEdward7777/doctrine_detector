@@ -39,3 +39,5 @@ These aspects of fellowship not only helped to establish a strong sense of commu
 Grade: 90
 
 Comment: The response provides a comprehensive overview of how early Christians expressed fellowship, highlighting various key aspects such as sharing meals, prayer, studying scripture, acts of charity, mutual support, sacraments, and home gatherings. These practices are rooted in biblical principles and teachings, reflecting a deep sense of community and unity among believers. The response effectively addresses the concern by illustrating how recognizing and incorporating these practices can help contemporary Christians foster deeper connections with each other, emphasizing the importance of these foundational elements in building and nurturing Christian fellowship. Great job in connecting the historical practices of early Christians to their relevance for modern-day believers.
+
+[&lt;- Link to Answer](../Practices_of_Fellowship.md)

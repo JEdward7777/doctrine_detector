@@ -78,3 +78,5 @@ It's vital to comprehend how God's attributes coexist without contradiction in B
 Grade: 95
 
 Comment: The response provides a solid understanding of how God's attributes coexist without contradiction in Biblical teaching. It effectively discusses God's wrath, love, and mercy in relation to His justice, holiness, and offer of salvation. The response aligns well with a Christian worldview and offers clear and concise explanations.
+
+[&lt;- Link to Answer](../Righteous_Judgment.md)

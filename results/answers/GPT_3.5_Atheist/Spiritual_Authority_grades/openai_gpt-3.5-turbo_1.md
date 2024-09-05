@@ -27,3 +27,5 @@ Overall, the distinction between spiritual authorities and earthly authorities i
 Grade: 90
 
 Comment: The response provides a strong understanding of the distinction between spiritual and earthly authorities in a Biblical context, highlighting the source of authority and the roles each type plays in society. The student effectively addresses the concern raised by demonstrating a clear understanding of how spiritual authorities differ from earthly authorities and their implications in a Christian's life, drawing upon Biblical teachings.
+
+[&lt;- Link to Answer](../Spiritual_Authority.md)

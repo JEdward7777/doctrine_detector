@@ -21,3 +21,5 @@ In a Christian context, consecration refers to the act of dedicating someone or 
 Grade: 90
 
 Comment: The response effectively explains the concept of consecration in a Christian context by highlighting its importance in dedicating someone or something to serve God, making them holy and set apart. It accurately conveys the significance of consecration in the context of serving God, emphasizing the sacred act of setting apart individuals, objects, or places for a special purpose or role in fulfilling God's will.
+
+[&lt;- Link to Answer](../Consecration_Meaning.md)

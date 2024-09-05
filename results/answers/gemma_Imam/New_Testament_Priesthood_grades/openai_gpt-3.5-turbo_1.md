@@ -21,3 +21,5 @@ This premise is inaccurate. The New Testament does not consider every believer i
 Grade: 85
 
 Comment: The response accurately reflects the Christian concept of the priesthood of all believers, emphasizing the direct access each believer has to God for prayer and intercession. The original concern about understanding this concept is well-addressed, but could have been strengthened with additional scriptural references or theological explanation.
+
+[&lt;- Link to Answer](../New_Testament_Priesthood.md)

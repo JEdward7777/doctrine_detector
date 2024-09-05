@@ -39,3 +39,5 @@ The response also shows an attempt to balance the responsibility for Jesus' cruc
 However, the response could be improved by more explicitly addressing the dynamic between religious authority and civil power in the Roman Empire, as requested. While there are some passing references to this topic, it could be explored more thoroughly and explicitly linked to the crucifixion of Jesus.
 
 Overall, while this response is well-organized and demonstrates a good understanding of the historical context, it could benefit from further development on the specific concern of reflecting on the dynamics between religious authority and civil power.
+
+[&lt;- Link to Answer](../Role_of_Jewish_Leaders.md)

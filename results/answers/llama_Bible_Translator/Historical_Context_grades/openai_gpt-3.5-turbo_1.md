@@ -31,3 +31,5 @@ These biblical events demonstrate that throughout Israel's history, God has pres
 Grade: 90
 
 Comment: The response provides a thorough explanation of the concept of the remnant in the prophetic books of Isaiah and Amos, supported with relevant biblical events. It effectively addresses the concern by connecting the remnant to God's promises and highlights the persistence of God's covenant with His people. The response demonstrates a strong understanding of the historical significance of a remnant in relation to God's promises from a Christian worldview. Great job!
+
+[&lt;- Link to Answer](../Historical_Context.md)

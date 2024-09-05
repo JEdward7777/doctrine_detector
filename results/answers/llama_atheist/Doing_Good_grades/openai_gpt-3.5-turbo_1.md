@@ -35,3 +35,5 @@ From a secular perspective, the idea of "doing good to" can be seen as an import
 Grade: 75
 
 Comment: The response provides a thoughtful exploration of the concept of "doing good to" from a Christian perspective, highlighting key teachings from the Bible and explaining how it relates to Christian ethics and historical practices. While the response does approach the question from a neutral standpoint initially, it effectively emphasizes the importance of doing good deeds in living out one's faith as a Christian. The focus on charitable works, mercy, and acts of service align well with the concern of encouraging Christians to practice their faith through good deeds. Overall, the response demonstrates a strong understanding of the Christian worldview on this topic.
+
+[&lt;- Link to Answer](../Doing_Good.md)

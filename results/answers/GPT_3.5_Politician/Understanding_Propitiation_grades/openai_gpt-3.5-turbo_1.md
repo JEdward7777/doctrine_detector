@@ -21,3 +21,5 @@ In discussing religious matters, it is important to respect and acknowledge the 
 Grade: 90
 
 Comment: The response effectively explains the significance of Jesus' sacrifice in relation to God's justice and mercy. It articulates how propitiation satisfies God's justice and demonstrates His mercy by providing forgiveness and eternal life for sinners. It aligns well with a Christian worldview emphasizing the redemptive work of Christ. The only room for improvement would be to further elaborate on how propitiation specifically bridges the gap between God's justice and mercy, perhaps by delving into the theological understanding of propitiation in Christianity.
+
+[&lt;- Link to Answer](../Understanding_Propitiation.md)

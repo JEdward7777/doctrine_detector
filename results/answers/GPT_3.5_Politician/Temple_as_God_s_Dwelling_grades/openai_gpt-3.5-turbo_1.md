@@ -21,3 +21,5 @@ In the Old Testament, the temple is seen as the physical manifestation of God's 
 Grade: 90
 
 Comment: The response effectively addresses the concern by highlighting the theological implications of God dwelling among His people. It correctly captures the shift from the physical temple in the Old Testament to believers as the temple of the Holy Spirit in the New Testament. The discussion is concise and provides a clear explanation from a Christian worldview.
+
+[&lt;- Link to Answer](../Temple_as_God_s_Dwelling.md)

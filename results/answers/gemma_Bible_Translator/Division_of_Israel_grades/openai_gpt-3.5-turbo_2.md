@@ -23,3 +23,5 @@ Following King Solomon's reign, Israel experienced the Babylonian Captivity (586
 Grade: 70
 
 Comment: The response adequately explains the historical context of the division of Israel into two kingdoms after King Solomon's reign. However, it lacks depth in discussing the spiritual significance of this division from a Christian worldview. Connecting the division to themes such as obedience to God, consequences of sin, and the eventual Babylonian Captivity would have strengthened the answer.
+
+[&lt;- Link to Answer](../Division_of_Israel.md)

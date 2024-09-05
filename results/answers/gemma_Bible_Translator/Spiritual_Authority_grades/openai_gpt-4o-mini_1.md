@@ -49,3 +49,5 @@ Recognizing the distinction between spiritual and worldly authority and their im
 Grade: 90
 
 Comment: The response provides a comprehensive explanation of the biblical teachings on spiritual and earthly authorities, outlining their sources of authority, spheres of influence, and the hierarchical relationship between them. The response effectively addresses the concern by clearly differentiating between spiritual and earthly authorities and their implications in a Christian's life. The only suggestion for improvement would be to directly reference Ephesians 6:12 where it speaks about spiritual authorities in order to strengthen the biblical support for the explanation.
+
+[&lt;- Link to Answer](../Spiritual_Authority.md)

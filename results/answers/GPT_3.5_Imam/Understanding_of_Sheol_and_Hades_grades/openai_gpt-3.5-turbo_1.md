@@ -25,3 +25,5 @@ It is important for Muslims to strive to live a righteous life, following the te
 Grade: 90
 
 Comment: The response provides a clear explanation of Islamic beliefs regarding the afterlife, focusing on the destinies of the righteous and the unrighteous. It effectively contrasts the Christian concept of Sheol/Hades with the Islamic views on Paradise (Jannah) and Hellfire (Jahannam). The distinction between the fates of the righteous and the unrighteous is well-addressed from an Islamic perspective. The response demonstrates a good understanding of the concern raised.
+
+[&lt;- Link to Answer](../Understanding_of_Sheol_and_Hades.md)

@@ -33,3 +33,5 @@ In summary, "God has called us by name" speaks to His intimate knowledge of us, 
 Grade: 95
 
 Comment: The response demonstrates a clear understanding of the theological concept of God calling individuals by name in a personal and intimate relationship. The answer provided expands upon the meaning behind this phrase by addressing the divine purpose, assurance, redemption, and the call to respond to God. The response aligns well with the concern of understanding the personal relationship and intention God has towards individuals within a Christian worldview. Great job in elaborating on the significance of being called by name and its implications in the believer's relationship with God.
+
+[&lt;- Link to Answer](../Understanding_God_s_Call.md)

@@ -31,3 +31,5 @@ When discussing roles within religious communities, it's always best to be sensi
 Grade: 90
 
 Comment: The response provides thoughtful, creative, and sensitive alternatives for the term "deacon" that align well with the concern of identifying service roles within the church. The suggestions offered demonstrate an understanding of the importance of language and terminology in fostering inclusivity and respect within religious communities. The response also acknowledges the need to consider the specific beliefs and practices of different groups, which reflects a commendable level of cultural and religious sensitivity.
+
+[&lt;- Link to Answer](../Terminology.md)

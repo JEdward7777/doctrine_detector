@@ -27,3 +27,5 @@ These stories highlight Herod Antipas' role as a local ruler in Judea and Galile
 Grade: 90
 
 Comment: The response effectively summarizes the key events involving Herod Antipas in the New Testament, focusing on his role in the beheading of John the Baptist and the trial of Jesus before Pilate. By highlighting these significant events, the response demonstrates an understanding of Herod Antipas's importance in the biblical narratives. However, there could have been more expansion on the significance of understanding the historical and biblical context of Herod Antipas for a deeper interpretation of the New Testament narratives.
+
+[&lt;- Link to Answer](../Tetrarch_Role_in_the_New_Testament.md)

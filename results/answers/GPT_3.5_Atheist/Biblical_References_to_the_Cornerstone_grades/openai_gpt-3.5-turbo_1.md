@@ -25,3 +25,5 @@ Overall, the verses highlighting Jesus as the cornerstone emphasize His foundati
 Grade: 90
 
 Comment: The response effectively elaborates on the concept of Jesus as the cornerstone by referencing specific verses and providing insightful explanations. It not only mentions additional verses but also explains the significance of Jesus as the cornerstone in the Christian faith, emphasizing unity, stability, and trust. Encouraging believers to explore scripture deepens their understanding of Jesus' significance, and this response successfully does so by delving into relevant biblical references.
+
+[&lt;- Link to Answer](../Biblical_References_to_the_Cornerstone.md)

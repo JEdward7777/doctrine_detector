@@ -25,3 +25,5 @@ These stories highlight the importance of repentance in the Christian faith and 
 Grade: 85
 
 Comment: The response provides a solid understanding of biblical examples of repentance and their practical application. The reference to the stories of the prodigal son and King David demonstrates a clear understanding of how repentance is portrayed in the Bible and its significance for believers. The response effectively connects these examples to the importance of seeking forgiveness and redemption through sincere repentance in the Christian faith.
+
+[&lt;- Link to Answer](../Biblical_Examples_of_Repentance.md)

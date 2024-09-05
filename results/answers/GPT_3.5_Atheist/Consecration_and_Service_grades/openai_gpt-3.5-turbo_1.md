@@ -27,3 +27,5 @@ Overall, the act of consecration can be seen as a way to infuse meaning and purp
 Grade: 80
 
 Comment: The response does a good job of explaining the general concept of consecration and its significance in religious and cultural contexts. It also touches upon the idea of setting apart and dedicating something for sacred purposes. To improve the grade, the response could have delved deeper into the purification aspect of consecration and how it relates to making individuals or things acceptable for service to God within a Christian worldview. Further elaboration on the spiritual cleansing and sanctification that occurs in the process of consecration could enhance the response from a Christian perspective.
+
+[&lt;- Link to Answer](../Consecration_and_Service.md)

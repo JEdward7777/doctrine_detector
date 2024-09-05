@@ -21,3 +21,5 @@ Jesus directed his apostles to spread the good news of the Gospel, emphasizing t
 Grade: 90
 
 Comment: The response effectively highlights the essential aspect of evangelism in the Christian faith by emphasizing the importance of spreading the good news of Jesus and his sacrifice for sin. It aligns well with the concern of recognizing evangelism's significance in Christianity, albeit in a more concise manner compared to the original response.
+
+[&lt;- Link to Answer](../Biblical_Exhortation.md)

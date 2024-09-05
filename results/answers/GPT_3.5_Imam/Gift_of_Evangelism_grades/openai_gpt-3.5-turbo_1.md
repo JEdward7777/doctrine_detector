@@ -25,3 +25,5 @@ It is important to note that not all Christians identify as evangelists, and the
 Grade: 85
 
 Comment: The response effectively addresses the concern by providing a clear explanation of the spiritual gift of evangelism and how it distinguishes some Christians as evangelists. It aligns well with the Christian worldview by emphasizing the unique role of evangelists in spreading the Gospel message. Additionally, the response demonstrates an understanding of the spiritual gifts related to evangelism within the context of the church.
+
+[&lt;- Link to Answer](../Gift_of_Evangelism.md)

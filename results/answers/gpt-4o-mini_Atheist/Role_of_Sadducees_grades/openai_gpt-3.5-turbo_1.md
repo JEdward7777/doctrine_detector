@@ -35,3 +35,5 @@ Overall, the Sadducees were integral to the functioning of the Second Temple, ba
 Grade: 95
 
 Comment: This response provides a comprehensive and detailed explanation of the roles and responsibilities of the Sadducees within the historical context of religious leadership during the time of Jesus. It effectively expands on the basic answer provided, giving a thorough understanding of the significance of the Sadducees in Jewish religious and political life. The only room for improvement would be to further emphasize the religious and political tensions that existed between the Sadducees and other Jewish groups during that period, such as the Pharisees.
+
+[&lt;- Link to Answer](../Role_of_Sadducees.md)

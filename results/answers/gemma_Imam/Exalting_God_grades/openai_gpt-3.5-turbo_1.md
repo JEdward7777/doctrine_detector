@@ -55,3 +55,5 @@ Understanding the importance of exalting God above all else in life.
 Grade: 90
 
 Comment: The response provided a comprehensive and practical guide on exalting God in daily life within the Islamic faith. It covers various aspects such as remembrance of God, kindness, purity, gratitude, mindfulness, seeking knowledge, acts of obedience, and adorning spaces with Islamic symbols. These practices reflect a deep understanding of the importance of exalting God above all else in life within an Islamic context. The response effectively addresses the concern and offers valuable insights for enhancing one's relationship with Allah in daily living.
+
+[&lt;- Link to Answer](../Exalting_God.md)

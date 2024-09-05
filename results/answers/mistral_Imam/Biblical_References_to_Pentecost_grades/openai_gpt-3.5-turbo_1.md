@@ -23,3 +23,5 @@ The Festival of Weeks is mentioned in Exodus 34:22, Leviticus 23:15-21, Numbers 
 Grade: 50
 
 Comment: The response correctly references the Festival of Weeks in Acts which is relevant to the Christian observance of Pentecost, but it does not provide an accurate scriptural basis for the observance and significance of Pentecost in Christianity. It would have been beneficial to explain how the event of Pentecost in Acts 2 fulfills and extends the Old Testament Festival of Weeks, highlighting the role of the Holy Spirit in empowering the disciples and launching the spread of the Christian faith. Additional scriptural references and theological insights would have enhanced the response.
+
+[&lt;- Link to Answer](../Biblical_References_to_Pentecost.md)

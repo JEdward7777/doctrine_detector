@@ -27,3 +27,5 @@ As a Christian Bible translator, I am called to accurately convey the teachings 
 Grade: 95
 
 Comment: The response effectively captures the Christian view on the consequences of perishing and the seriousness of eternal separation from God. It acknowledges the existence of both Heaven and Hell, and explains the implications for those who reject salvation through Jesus Christ. The connection between perishing and eternal punishment in hell is well articulated in light of the concern provided.
+
+[&lt;- Link to Answer](../Eternal_Consequences.md)

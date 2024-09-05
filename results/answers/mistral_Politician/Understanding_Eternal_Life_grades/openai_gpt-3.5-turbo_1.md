@@ -30,3 +30,5 @@ To provide some more context:
 Grade: 95
 
 Comment: The response provides a comprehensive and accurate overview of how various Christian denominations interpret inheriting eternal life through faith in Jesus Christ. It references key Bible verses and emphasizes the importance of faith and obedience in Christian teachings. The response effectively addresses the concern by highlighting the significance of understanding how to attain eternal life for spiritual assurance. Overall, it aligns well with a Christian worldview and offers valuable insights into the topic.
+
+[&lt;- Link to Answer](../Understanding_Eternal_Life.md)

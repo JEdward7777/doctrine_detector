@@ -25,3 +25,5 @@ Instead, we can view the apostles as spiritual leaders who inspired and guided e
 Grade: 70
 
 Comment: The response correctly acknowledges the divine empowerment and authority given to the apostles for ministry, but it falls short in fully embracing the supernatural aspect of their abilities. While the focus on their historical significance and societal impact is valuable, overlooking the supernatural elements diminishes the foundational belief in the Christian worldview regarding the apostles' miraculous works as evidence of God's power at work through them. A more explicit integration of the supernatural aspect would have strengthened the response from a Christian perspective.
+
+[&lt;- Link to Answer](../Authority_of_Apostles.md)

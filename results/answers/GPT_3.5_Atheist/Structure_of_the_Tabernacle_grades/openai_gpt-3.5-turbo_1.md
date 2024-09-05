@@ -21,3 +21,5 @@ The tabernacle, as described in the Hebrew Bible, consisted of two main sections
 Grade: 90
 
 Comment: The response effectively elaborates on the components of the tabernacle, providing a clear description of the Holy Place and the Most Holy Place. The importance of the items within the tabernacle is briefly mentioned, showing an understanding of their significance in worship. A Christian worldview would likely appreciate further exploration of how these components foreshadow or relate to Christian beliefs or practices, but overall, this response addresses the concern adequately.
+
+[&lt;- Link to Answer](../Structure_of_the_Tabernacle.md)

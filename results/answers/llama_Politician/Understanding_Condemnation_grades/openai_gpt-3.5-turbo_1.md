@@ -33,3 +33,5 @@ Thank you for your thoughtful question!
 Grade: 90
 
 Comment: The response provides a thorough explanation of the biblical teachings on condemnation and ties it back to the importance of grace through faith in Christ. The candidate demonstrates a solid understanding of the contrast between condemnation and grace in the Christian life, addressing the concern effectively with scriptural references and thoughtful reflection. The response could perhaps have delved even deeper into the implications of this contrast for personal salvation and living out the Christian faith, but overall it is well-articulated and demonstrates a good grasp of the topic.
+
+[&lt;- Link to Answer](../Understanding_Condemnation.md)

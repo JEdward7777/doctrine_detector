@@ -21,3 +21,5 @@ In the Christian faith, believers become saints through a process of spiritual g
 Grade: 90
 
 Comment: The response effectively articulates that believers become saints through their faith in Jesus Christ's saving work, highlighting the central role of faith in Christian doctrine. The clarification on the source of holiness enhances the Christian worldview perspective presented in the response.
+
+[&lt;- Link to Answer](../Source_of_Holiness.md)

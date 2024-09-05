@@ -33,3 +33,5 @@ In summary, "do good to" signifies not just a passive sentiment but an active, i
 Grade: 95
 
 Comment: The response provides a thorough and well-supported explanation of the concept of "do good to" in a Christian context, incorporating relevant biblical references and highlighting the importance of actively living out one's faith through good deeds. The connection between Christian beliefs and the practical implications for behavior is effectively articulated, emphasizing the significance of demonstrating love and kindness in tangible ways. This response effectively addresses the concern by encouraging Christians to put their faith into action through acts of goodness and service. Well done!
+
+[&lt;- Link to Answer](../Doing_Good.md)

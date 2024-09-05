@@ -39,3 +39,5 @@ The rejection of human priesthood and sacrifices in Islam means that these pract
 Grade: 40
 
 Comment: The response correctly emphasizes Jesus as the ultimate high priest and sacrifice in Christianity. However, it lacks depth in addressing the concern regarding Jesus' role in the priesthood. Further explanation and exploration of how Jesus' unique priesthood fulfills and surpasses the traditional human priesthood and sacrifices would greatly enhance the answer.
+
+[&lt;- Link to Answer](../Jesus_as_High_Priest.md)

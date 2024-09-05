@@ -31,3 +31,5 @@ It is important for Muslims to strive to avoid ungodly behavior and to repent an
 Grade: 85
 
 Comment: The response provides a comprehensive explanation of the consequences for ungodly behavior in Islam, highlighting the spiritual ramifications of disobedience to Allah. It emphasizes the importance of repentance and seeking forgiveness in the face of judgment and wrath from God. The inclusion of specific examples and the call to refer to Islamic scripture for guidance enhances the depth of the response. The student effectively addresses the concern by demonstrating an understanding of the spiritual repercussions of living in disobedience to God within an Islamic framework.
+
+[&lt;- Link to Answer](../Ungodliness_Consequences.md)

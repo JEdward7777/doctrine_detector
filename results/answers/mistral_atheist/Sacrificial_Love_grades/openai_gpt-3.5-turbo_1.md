@@ -32,3 +32,5 @@ In practice, loving others sacrificially might mean:
 Grade: 80
 
 Comment: The response provides a good explanation of loving others sacrificially based on the example of Jesus' sacrifice, emphasizing selflessness and putting others' needs ahead of one's own. It effectively ties this concept to the essence of God's love and how it should reflect in personal relationships. The response could have delved deeper into how sacrificial love reflects the selfless and unconditional nature of God's love, which could have enhanced the Christian perspective. Overall, a solid understanding and application of Christian principles in the context of loving others sacrificially.
+
+[&lt;- Link to Answer](../Sacrificial_Love.md)

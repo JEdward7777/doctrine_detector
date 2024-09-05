@@ -25,3 +25,5 @@ Ultimately, the belief about testing God varies among different cultures and rel
 Grade: 90
 
 Comment: The response provides a solid understanding of the principle that testing God is wrong as it implies trying to manipulate Him for personal gain, which goes against the acknowledgment of God's sovereignty and holiness. The elaboration on this point is insightful and aligns well with the concern of maintaining a proper relationship with God. The explanation is clear and grounded in a Christian worldview, emphasizing the importance of trust and respect in one's relationship with God. The only improvement could be to include a bit more direct reference to scripture or specific Christian teachings on the subject, but overall, this response demonstrates a good grasp of the Christian perspective on testing God.
+
+[&lt;- Link to Answer](../Testing_God.md)

@@ -31,3 +31,5 @@ In summary, putting God to the test is discouraged in Islam due to reasons relat
 Grade: 95
 
 Comment: The response provides a comprehensive explanation rooted in Islamic teachings regarding why it is discouraged to put Allah to the test. It includes references to the Quran, Sunnah, and the consequences of such actions. The explanation aligns well with the importance of maintaining a proper relationship with God from an Islamic perspective. Overall, the response effectively addresses the concern while providing a strong theological reasoning.
+
+[&lt;- Link to Answer](../Testing_God.md)

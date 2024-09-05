@@ -36,3 +36,5 @@ These passages demonstrate that exhortation is an integral part of Christian min
 Grade: 95
 
 Comment: The response provides a thorough and insightful explanation of the biblical basis for exhortation in the New Testament, highlighting key components such as urgent appeals, encouragement of perseverance, practical guidance, and moral admonition. The scriptural references provided effectively support the understanding of exhortation as a means to encourage believers in their faith journey. The response demonstrates a clear grasp of the Christian worldview and effectively addresses the concern raised.
+
+[&lt;- Link to Answer](../Purpose_of_Exhortation.md)

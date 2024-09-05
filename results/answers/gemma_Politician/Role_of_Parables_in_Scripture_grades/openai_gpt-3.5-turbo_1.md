@@ -21,3 +21,5 @@ The prophet Nathan did not utilize a parable in his confrontation with King Davi
 Grade: 85
 
 Comment: The response is mostly accurate in recognizing the use of parables as a means of correction and revelation in biblical narratives. The mentioned concern is addressed appropriately, but the original response's claim that the prophet Nathan did not utilize a parable in his confrontation with King David is incorrect.
+
+[&lt;- Link to Answer](../Role_of_Parables_in_Scripture.md)

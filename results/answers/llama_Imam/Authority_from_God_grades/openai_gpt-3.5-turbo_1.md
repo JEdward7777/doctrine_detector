@@ -35,3 +35,5 @@ In conclusion, divine authority is the foundation of Islamic faith and practice.
 Grade: 90
 
 Comment: This response provides a comprehensive and insightful explanation of divine authority in Islam, highlighting its significance in guiding believers' moral and spiritual decisions. The student effectively addresses the concern by emphasizing how understanding divine authority helps believers discern God's will and maintain obedience in their faith journey. The response is well-written, incorporating key aspects of divine authority and its implications for a Muslim's life. However, to achieve a perfect score, the student could have further connected the concept of divine authority to specific Islamic teachings or practices to deepen the analysis.
+
+[&lt;- Link to Answer](../Authority_from_God.md)

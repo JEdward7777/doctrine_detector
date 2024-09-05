@@ -23,3 +23,5 @@ Keeping the Sabbath holy involves refraining from secular work and activities, f
 Grade: 95
 
 Comment: The response provides a comprehensive explanation of the significance of keeping the Sabbath holy in the Christian faith, drawing from both the Old and New Testaments. It effectively addresses the concern by emphasizing the importance of dedicating the Sabbath to rest, worship, and cultivating a deeper relationship with God. The only minor improvement could be a more explicit connection to how observing the Sabbath influences daily living as a Christian, but overall, the response demonstrates a strong understanding of the topic.
+
+[&lt;- Link to Answer](../Sabbath_Observance.md)

@@ -31,3 +31,5 @@ Thank you for engaging with me on this topic!
 Grade: 92
 
 Comment: The response effectively acknowledges the biblical interpretation of manna as a symbol of God's provision for the Israelites. The candidate also demonstrates sensitivity and respect for diverse beliefs, which is commendable. The only minor feedback would be to perhaps include a more direct reference to God's ongoing provision in the conclusion to tie back to the concern raised. Overall, a strong response with a solid Christian perspective.
+
+[&lt;- Link to Answer](../Symbolism_of_Manna.md)

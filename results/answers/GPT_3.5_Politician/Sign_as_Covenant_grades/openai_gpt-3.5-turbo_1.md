@@ -21,3 +21,5 @@ The rainbow is viewed by some as a symbol of God's promise to never again destro
 Grade: 90
 
 Comment: The response accurately reflects the biblical significance of the rainbow as a symbol of God's promise and mercy in relation to the story of Noah and the Great Flood. The statement effectively conveys an understanding of God's covenant and promises in the Bible, aligning well with a Christian worldview.
+
+[&lt;- Link to Answer](../Sign_as_Covenant.md)

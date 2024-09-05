@@ -38,3 +38,5 @@ In summary, the primary role of a deacon is to serve the congregation by meeting
 Grade: 95
 
 Comment: The response provides a thorough and accurate explanation of the biblical role of a deacon in serving the congregation by meeting practical needs and supporting the church community. It effectively relates the duties and responsibilities of a deacon as outlined in the Bible, particularly emphasizing the importance of serving with compassion and supporting the pastor and elders in ministry. The response demonstrates a solid understanding of the biblical role of servanthood in the church based on relevant scriptures from the New Testament. Great job!
+
+[&lt;- Link to Answer](../Deacon_Definition.md)

@@ -47,3 +47,5 @@ I would give this response a grade of 95.
 This response thoroughly addresses the concern of clarifying the path to salvation and eternal life as taught by Jesus. It provides a clear and concise outline of the steps necessary to inherit eternal life, referencing various biblical passages that support these points. The emphasis on faith in Jesus Christ as the means of receiving eternal life is also consistent with Jesus' teachings.
 
 The only area for improvement would be to explicitly connect the response's explanation of the path to salvation back to the passage about the expert in Jewish law seeking guidance from Jesus (Matthew 19:16-22). While the question does mention "eternal life," the response could strengthen its connection to Jesus' teachings by explicitly referencing his words and actions as presented in the Bible.
+
+[&lt;- Link to Answer](../Inheriting_Eternal_Life.md)

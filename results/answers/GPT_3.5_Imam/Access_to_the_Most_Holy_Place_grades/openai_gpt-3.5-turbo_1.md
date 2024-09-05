@@ -23,3 +23,5 @@ The restriction on who can enter the Kaaba is important to maintain the sanctity
 Grade: 80
 
 Comment: The response provided a thorough explanation of the holiest site in Islam, the Kaaba, and how access is restricted to maintain its sanctity. The mention of preserving sanctity and reverence aligns with the concern of recognizing the holiness of God and necessary protocols for approaching Him. However, the response could have further emphasized the unique Christian perspective on the holiness of God and the role of the high priest in approaching Him in the most holy place.
+
+[&lt;- Link to Answer](../Access_to_the_Most_Holy_Place.md)

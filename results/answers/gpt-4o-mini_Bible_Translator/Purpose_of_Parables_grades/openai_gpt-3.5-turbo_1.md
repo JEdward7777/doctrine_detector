@@ -31,3 +31,5 @@ Overall, Jesus’ use of parables was a powerful teaching tool that invited list
 Grade: 90
 
 Comment: The response provides a thorough explanation of the purpose and significance of Jesus using parables in his teachings, incorporating relevant biblical references to support the points made. It effectively addresses the concern by highlighting how Jesus' teaching methods, specifically through parables, have implications for faith by revealing spiritual truths to those with receptive hearts. The response demonstrates a strong understanding of the Christian perspective on this topic, with clear explanations and connections to the teachings of Jesus.
+
+[&lt;- Link to Answer](../Purpose_of_Parables.md)

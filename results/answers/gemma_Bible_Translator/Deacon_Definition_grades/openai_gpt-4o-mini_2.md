@@ -41,3 +41,5 @@ Understanding the biblical role of servanthood in the church.
 Grade: 95
 
 Comment: The response provides a comprehensive understanding of the biblical role of a deacon in the church, emphasizing both practical and spiritual responsibilities. It shows a clear grasp of the biblical basis for the deaconate role and how deacons are called to serve with humility and good character. The response also effectively illustrates the practical and spiritual responsibilities of a deacon in serving the congregation and embodying the love of Christ. The only suggested improvement would be to explicitly address the spiritual aspects of a deacon's role in witnessing for Christ and supporting the pastor.
+
+[&lt;- Link to Answer](../Deacon_Definition.md)

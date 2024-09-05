@@ -35,3 +35,5 @@ The Sadducees ultimately had a major role in shaping the religious practices of 
 Grade: 95
 
 Comment: The response effectively expands on the main responsibilities of the Sadducees by providing detailed insight into their various roles in temple management, the sacrificial system, interpretation of the law, judicial authority, political influence, and the high priesthood. It demonstrates a strong understanding of the historical context of religious leadership during the time of Jesus and illustrates how the Sadducees significantly influenced religious practices in ancient Jewish society. The only slight drawback is the lack of a direct mention of the time of Jesus in the response, but overall, the answer is thorough and well-informed.
+
+[&lt;- Link to Answer](../Role_of_Sadducees.md)

@@ -35,3 +35,5 @@ Overall, the sending of the apostles plays a crucial role in illustrating the mi
 Grade: 95
 
 Comment: The response provides a detailed and comprehensive understanding of the significance of the apostles being sent by Jesus in the context of the Great Commission. It articulately delves into various aspects such as the foundational role of the apostles in the early Church, their witness to the resurrection, the universal mission, empowerment through the Holy Spirit, model of discipleship, and cultural engagement. The explanation is rich in theological insights and aligns well with a Christian worldview, emphasizing the essential role of apostleship in spreading the gospel message and establishing the Church. Great job in addressing the concern with depth and clarity.
+
+[&lt;- Link to Answer](../Apostleship_Understanding.md)

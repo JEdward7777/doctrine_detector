@@ -27,3 +27,5 @@ Overall, the interaction between the centurion and Jesus underscores the importa
 Grade: 95
 
 Comment: This response effectively engages with the concern of understanding the nature of faith and authority in the context of Jesus' ministry by discussing the centurion's faith in Jesus' authority to heal. The student provides a well-rounded explanation that highlights the significance of faith in recognizing Jesus' power and authority. The response effectively connects the centurion's faith to the broader theme of faith and authority in Christian teachings. Overall, this response demonstrates a strong understanding of the Christian perspective on faith and authority in relation to Jesus' ministry.
+
+[&lt;- Link to Answer](../Centurion_and_Healing.md)

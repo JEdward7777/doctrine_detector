@@ -27,3 +27,5 @@ Overall, the New Testament presents the Psalms as a valuable resource for spirit
 Grade: 90
 
 Comment: The student effectively expands on the initial answer by providing relevant examples from the New Testament to support the importance of using Psalms in worship. The response demonstrates an understanding of how biblical teachings on singing Psalms apply to contemporary Christian worship practices, emphasizing the significance of Psalms in spiritual growth and communal worship. Overall, this response effectively integrates biblical insights with practical application for modern Christian worship.
+
+[&lt;- Link to Answer](../New_Testament_Instruction.md)

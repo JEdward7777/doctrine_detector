@@ -36,3 +36,5 @@ It is essential for Muslims to understand and respect the beliefs and practices 
 Grade: 70
 
 Comment: The response does a good job of explaining the differences between the Islamic concept of "awliya' Allah" and the Christian concept of sainthood. It clearly articulates the Islamic perspective on achieving spiritual excellence. However, it could have more directly addressed the concern by emphasizing the central role of faith in Jesus as the source of holiness for Christians. It could have also elaborated more on the importance of faith in Jesus as the defining factor in Christian doctrine of sainthood.
+
+[&lt;- Link to Answer](../Source_of_Holiness.md)

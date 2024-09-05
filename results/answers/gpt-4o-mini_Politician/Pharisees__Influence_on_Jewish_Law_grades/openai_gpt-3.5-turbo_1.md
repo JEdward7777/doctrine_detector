@@ -29,3 +29,5 @@ In summary, the Pharisees' strict adherence to the Law of Moses created both the
 Grade: 90
 
 Comment: The response provides a detailed and insightful analysis of how the Pharisees' strict adherence to the Law of Moses influenced their relationship with Jesus and early Christians. It effectively addresses the concern by explaining how these conflicts arose and their significance in understanding Jesus' ministry. The explanation is coherent, well-supported, and demonstrates a good understanding of the historical and theological context. Overall, an excellent response from a Christian worldview perspective.
+
+[&lt;- Link to Answer](../Pharisees__Influence_on_Jewish_Law.md)

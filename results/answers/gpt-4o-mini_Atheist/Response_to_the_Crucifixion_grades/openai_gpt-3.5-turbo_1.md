@@ -23,3 +23,5 @@ Peter's address serves multiple purposes: it acknowledges the crowd's guilt whil
 Grade: 90
 
 Comment: The response provides a thorough analysis of Peter's address in Acts 2, highlighting the acknowledgment of guilt, emphasis on repentance and faith, and the overarching message of God's plan for salvation. It effectively evaluates the early church's preaching by discussing the call to respond to the gospel in a Christian worldview context. Well done!
+
+[&lt;- Link to Answer](../Response_to_the_Crucifixion.md)

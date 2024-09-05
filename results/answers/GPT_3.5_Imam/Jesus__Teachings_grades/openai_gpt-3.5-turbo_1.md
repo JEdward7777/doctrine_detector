@@ -27,3 +27,5 @@ Ultimately, the main focus in Islam is on the core teachings and principles that
 Grade: 75
 
 Comment: The response provides a good explanation of the use of "amen" to emphasize the truth of Jesus' teachings and how it was coupled with authoritative language in Scripture. However, it lacks a direct reference to the authority of Jesus' words and teachings in Scripture, which is a key concern in recognizing the significance of His teachings from a Christian worldview. The response could be strengthened by explicitly connecting the authority of Jesus' words to Scripture in order to fully address the concern from a Christian perspective.
+
+[&lt;- Link to Answer](../Jesus__Teachings.md)

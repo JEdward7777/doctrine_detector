@@ -35,3 +35,5 @@ In summary, the concept of divine authority plays a crucial role in the Islamic 
 Grade: 80
 
 Comment: The response provides a thorough explanation of the concept of divine authority in the Islamic context, highlighting its significance in guiding believers' lives, fostering a connection with God, promoting justice, offering moral and ethical guidance, and leading to eternal reward. The answer effectively addresses the concern by emphasizing how understanding divine authority helps believers discern God's will and maintain obedience in their faith journey. The explanation is detailed and demonstrates a strong understanding of the topic from an Islamic perspective. However, from a Christian worldview, the response would be graded lower as the specific focus should be on Jesus Christ as the ultimate source of divine authority, which is missing in the given answer.
+
+[&lt;- Link to Answer](../Authority_from_God.md)

@@ -35,3 +35,5 @@ In summary, the command regarding personal sanctification in Islam is to cultiva
 Grade: 90
 
 Comment: The response provides a thorough and insightful explanation of how personal sanctification is pursued in Islam through the concept of Taqwa. It effectively emphasizes personal responsibility by highlighting the need to purify intentions, control desires, guard tongues, purify wealth, and be mindful of actions. This aligns well with the concern regarding the importance of personal responsibility in the sanctification process. The only suggestion for improvement would be to explicitly tie these principles back to the overarching command for believers in Islam to sanctify themselves to Allah, as stated in the given answer.
+
+[&lt;- Link to Answer](../Calling_to_Sanctification.md)

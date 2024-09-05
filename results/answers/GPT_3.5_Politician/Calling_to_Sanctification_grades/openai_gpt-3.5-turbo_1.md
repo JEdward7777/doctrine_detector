@@ -21,3 +21,5 @@ In considering matters of personal sanctification, it is important to respect th
 Grade: 90
 
 Comment: The response appropriately emphasizes the biblical command for believers to sanctify themselves and be holy, aligning with Christian teachings. The concern regarding personal responsibility in the sanctification process is addressed effectively. The response could have further elaborated on the role of the Holy Spirit in empowering believers for sanctification, but overall, it provides a solid Christian perspective on the importance of personal sanctification.
+
+[&lt;- Link to Answer](../Calling_to_Sanctification.md)

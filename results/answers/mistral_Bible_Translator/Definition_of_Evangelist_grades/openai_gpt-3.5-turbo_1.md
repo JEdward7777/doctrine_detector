@@ -21,3 +21,5 @@ Understanding the role of an evangelist in sharing the gospel.
 Grade: 95
 
 Comment: This response provides a comprehensive explanation of the term "Evangelist" from both a linguistic and Christian perspective, connecting the literal meaning to the role of sharing the Good News about Jesus Christ. The response demonstrates a clear understanding of the role of an evangelist in actively spreading the Christian faith.
+
+[&lt;- Link to Answer](../Definition_of_Evangelist.md)

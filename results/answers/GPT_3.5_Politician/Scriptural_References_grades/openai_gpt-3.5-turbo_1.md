@@ -21,3 +21,5 @@ In the Old Testament, the Book of Genesis contains references to God being known
 Grade: 95
 
 Comment: The response accurately identifies the specific reference to God as 'Almighty' in Genesis 17:1. Understanding biblical references is crucial for believers to deepen their connection to Scripture and God's promises, as it allows for a more profound understanding of God's character and actions in the Bible. Great job!
+
+[&lt;- Link to Answer](../Scriptural_References.md)

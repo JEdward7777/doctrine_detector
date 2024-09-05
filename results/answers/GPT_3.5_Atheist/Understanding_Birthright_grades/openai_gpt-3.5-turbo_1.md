@@ -25,3 +25,5 @@ Overall, Esau's decision to sell his birthright to Jacob resulted in a reversal 
 Grade: 90
 
 Comment: The response effectively highlights the spiritual significance of Esau's decision to sell his birthright to Jacob within a Christian context. It emphasizes the consequences of prioritizing immediate gratification over long-term blessings and the impact of choices on spiritual outcomes. The analysis is strong and aligns well with a Christian worldview, earning a high grade.
+
+[&lt;- Link to Answer](../Understanding_Birthright.md)

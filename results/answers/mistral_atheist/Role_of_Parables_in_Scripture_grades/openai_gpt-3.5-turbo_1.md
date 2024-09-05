@@ -31,3 +31,5 @@ This approach allowed Nathan to confront King David about his sin without being 
 Grade: 95
 
 Comment: The response effectively demonstrates an understanding of the use of parables as a means of correction and revelation in biblical narratives, particularly in the case of the Prophet Nathan confronting King David. The explanation provided is thorough and accurately captures the essence of the biblical account. The response effectively highlights the wisdom, tact, and moral courage displayed by Nathan in using a parable to address King David's sin. The only minor point for improvement would be to explicitly tie the explanation back to Christian theology or principles to further emphasize the significance of this narrative within a Christian worldview.
+
+[&lt;- Link to Answer](../Role_of_Parables_in_Scripture.md)

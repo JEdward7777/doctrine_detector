@@ -21,3 +21,5 @@ Recognizing the respect and authority associated with Jesus' and John's teaching
 Grade: 90
 
 Comment: The response effectively addresses the concern by explaining the Islamic perspective on referring to Jesus and John as "Rabbi" and clarifying the difference between the titles used in Judaism and Islam. The explanation is clear and consistent with a Christian-specific worldview, showing an understanding of the respect and authority associated with Jesus' and John's teachings.
+
+[&lt;- Link to Answer](../Use_of__Rabbi_.md)

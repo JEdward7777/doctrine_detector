@@ -21,3 +21,5 @@ The prophet Nathan used a parable to convey a message to King David about a rich
 Grade: 80
 
 Comment: The response effectively captures the main point that Nathan used the parable to reveal King David's sin and lead him to repentance. However, it could have included a bit more detail or explanation on the significance and effectiveness of using parables in biblical narratives for correction and revelation within a Christian worldview.
+
+[&lt;- Link to Answer](../Role_of_Parables_in_Scripture.md)

@@ -31,3 +31,5 @@ I hope this helps clarify things! *nods*
 Grade: 90
 
 Comment: The response provides a thorough explanation of the concept of the priesthood of all believers by drawing parallels between the Old Testament priesthood and the priesthood of all believers in the New Testament. It effectively communicates how every believer has direct access to God through Jesus and has a role to play in serving and honoring God. The use of scriptural references adds depth to the explanation. Overall, a well-rounded and insightful response.
+
+[&lt;- Link to Answer](../New_Testament_Priesthood.md)

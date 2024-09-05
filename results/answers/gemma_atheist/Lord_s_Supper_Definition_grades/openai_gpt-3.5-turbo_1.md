@@ -23,3 +23,5 @@ While the event holds deep spiritual significance for believers, it does not com
 Grade: 85
 
 Comment: The response effectively communicates the significant meaning of the Lord's Supper in the Christian faith by highlighting how it symbolizes Jesus' sacrifice for sin during the Passover meal. However, it could have further emphasized the importance of the new covenant established through Christ's sacrifice and the ongoing spiritual significance for believers today.
+
+[&lt;- Link to Answer](../Lord_s_Supper_Definition.md)

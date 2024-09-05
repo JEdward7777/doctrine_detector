@@ -63,3 +63,5 @@ The response provides a thorough exploration of the biblical foundation for rede
 While the response could be strengthened by a more explicit connection to the concern about exploring the biblical foundation for redemption, it does effectively demonstrate the scriptural basis for this theology. The additional theological considerations added at the end are also helpful in providing further depth and nuance to the discussion of redemption.
 
 Overall, I would give this response an 85 because it provides a solid understanding of the biblical foundation for redemption, but could benefit from a more explicit connection to the concern about exploring that foundation.
+
+[&lt;- Link to Answer](../Biblical_References_8.md)

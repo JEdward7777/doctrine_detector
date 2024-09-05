@@ -29,3 +29,5 @@ In these verses, the command to worship God alone is directly contrasted with th
 Grade: 95
 
 Comment: The response effectively elaborates on the specific example from Exodus 20:3-5, providing more context and explanation on the significance of worship being contrasted with idol worship. It addresses the concern by emphasizing the importance of avoiding idolatry and remaining faithful to God's commands in worship from a Christian worldview perspective.
+
+[&lt;- Link to Answer](../Biblical_Examples_of_Worship.md)

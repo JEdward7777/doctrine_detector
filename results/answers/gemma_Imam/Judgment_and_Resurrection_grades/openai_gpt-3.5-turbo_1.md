@@ -21,3 +21,5 @@ The concepts of "day of Yahweh" or "day of the Lord" are primarily associated wi
 Grade: 75
 
 Comment: The response accurately explains the significance of the 'day of Yahweh' or 'day of the Lord', focusing on judgment, resurrection, and the establishment of the Lord's rule, which aligns with Christian eschatology. However, the initial student response was not addressed directly in explaining the events that will take place during this significant time. It would have been helpful to clearly connect the concepts mentioned in the initial response with the events described in the given answer.
+
+[&lt;- Link to Answer](../Judgment_and_Resurrection.md)

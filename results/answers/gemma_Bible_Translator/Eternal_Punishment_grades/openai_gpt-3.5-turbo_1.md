@@ -52,3 +52,5 @@ Issues about the nature of divine justice and mercy in relation to eternal conse
 Grade: 80
 
 Comment: The response addresses the concern about the nature of divine justice and mercy in the context of eternal consequences by explaining how eternal punishment in hell reflects God's justice in response to rebellion and rejection of His salvation plan. However, the response could further discuss the aspect of God's mercy alongside justice in the concept of eternal punishment to provide a more balanced perspective from a Christian worldview.
+
+[&lt;- Link to Answer](../Eternal_Punishment.md)

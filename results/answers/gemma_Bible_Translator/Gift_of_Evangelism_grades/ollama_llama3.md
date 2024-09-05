@@ -53,3 +53,5 @@ I'd give this response a grade of 60.
 While the response does acknowledge that some Christians are given a special spiritual gift for evangelism, it falls short in fully exploring the distinct characteristics and responsibilities of evangelists. The provided criteria (1-5) provide a more comprehensive understanding of what sets evangelists apart from other Christians. However, the initial statement only scratches the surface by mentioning a "special spiritual gift."
 
 To improve, the response could have delved deeper into the specific qualities, goals, and behaviors that define evangelists, as well as their unique role in the church.
+
+[&lt;- Link to Answer](../Gift_of_Evangelism.md)

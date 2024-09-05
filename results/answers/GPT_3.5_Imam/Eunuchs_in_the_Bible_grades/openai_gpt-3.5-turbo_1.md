@@ -25,3 +25,5 @@ In Islamic teachings, celibacy is not encouraged as it is seen as going against 
 Grade: 85
 
 Comment: The response provides a good explanation of Jesus' teaching on celibacy and the different reasons for living a celibate life as mentioned in Matthew 19:12. The student accurately describes how celibacy is linked to serving God wholeheartedly and detaching from worldly desires. However, the student could further enhance their response by delving deeper into the biblical perspective on celibacy, possibly by referencing other relevant biblical passages or theological teachings. Overall, a solid understanding of the topic is demonstrated.
+
+[&lt;- Link to Answer](../Eunuchs_in_the_Bible.md)

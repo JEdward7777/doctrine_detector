@@ -21,3 +21,5 @@ A recommended way to translate the term 'saints' may be to refer to them as "hol
 Grade: 70
 
 Comment: The response suggests appropriate translations for 'saints' by using inclusive language that focuses on believers in Jesus without explicitly referring to specific Christian groups. However, the recommendation to refer to them as "holy individuals" or "sacred figures" may lack a direct connection to Christian theology. It is essential to ensure that the translations maintain a strong Christian-specific worldview while being inclusive.
+
+[&lt;- Link to Answer](../Translation_of_Saints.md)

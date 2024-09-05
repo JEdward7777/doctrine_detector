@@ -27,3 +27,5 @@ These terms represent the Christian house of worship in their respective languag
 Grade: 85
 
 Comment: The response provides a thoughtful exploration of possible translations for the concept of "church" in various languages within Islamic contexts, considering the inclusive nature of the church as a gathering of all believers. The suggested translations reflect an understanding of the church as a community of faith rather than just a physical building. However, there could have been a stronger emphasis on the theological significance of the church as the Body of Christ in the Christian faith, highlighting its unity and diversity in Christ.
+
+[&lt;- Link to Answer](../Translation_of_Church.md)

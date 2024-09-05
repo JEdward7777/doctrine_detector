@@ -21,3 +21,5 @@ In the Islamic tradition, there is no concept of the twelve apostles as mentione
 Grade: 80
 
 Comment: The response accurately explains the Christian belief in Matthias being chosen to replace Judas Iscariot. However, the concern about recognizing the continuity of apostolic leadership after Jesus' ascension is not directly addressed in the response, hence points deducted.
+
+[&lt;- Link to Answer](../Replacement_of_Judas.md)

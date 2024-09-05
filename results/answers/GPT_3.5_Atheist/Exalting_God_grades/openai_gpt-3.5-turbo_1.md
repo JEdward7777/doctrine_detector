@@ -27,3 +27,5 @@ Ultimately, the concept of exalting God in daily life is deeply personal and can
 Grade: 20
 
 Comment: The response from the atheistic scholar fails to address the importance of exalting God above all else in life from a Christian perspective. While the response does provide some information on exalting God in daily life, it does not acknowledge the foundational belief that God should be the highest priority and focus of one's life. The perspective offered is incompatible with the Christian worldview that places God at the center of all things.
+
+[&lt;- Link to Answer](../Exalting_God.md)

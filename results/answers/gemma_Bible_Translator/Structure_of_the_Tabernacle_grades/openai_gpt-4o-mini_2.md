@@ -34,3 +34,5 @@ Learning about the significance of the components of the tabernacle in worship.
 Grade: 70
 
 Comment: The response provides a basic understanding of the two main sections of the tabernacle, but it misses important details such as the items in the Holy Place and their significance. It would have been beneficial to elaborate on the significance of the components in relation to worship, especially in a Christian worldview context where these elements foreshadow Christ's work and presence.
+
+[&lt;- Link to Answer](../Structure_of_the_Tabernacle.md)

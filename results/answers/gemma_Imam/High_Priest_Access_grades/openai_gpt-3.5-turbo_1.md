@@ -32,3 +32,5 @@ Hudhayfah was a companion of the Prophet Muhammad who was entrusted with guardin
 Grade: 10/100
 
 Comment: The response provided contains inaccurate information regarding the individuals permitted to approach the Ark of the Covenant in the Islamic tradition. The specific concern of recognizing the role of the high priest in the Israelite's relationship with God and the covenant is not addressed at all. The Islamic tradition described in the response does not align with the Christian understanding of the Ark of the Covenant from the Old Testament. More accurate and scripturally supported information would be needed for a higher grade.
+
+[&lt;- Link to Answer](../High_Priest_Access.md)

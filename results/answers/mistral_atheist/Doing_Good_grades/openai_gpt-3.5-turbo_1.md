@@ -21,3 +21,5 @@ Encouraging Christians to live out their faith by doing good deeds.
 Grade: 90
 
 Comment: The response effectively brings in the Christian context by emphasizing that "do good to" entails reflecting Christ's love and actively benefiting others. It aligns well with the concern of encouraging Christians to live out their faith through good deeds. The response could have been slightly improved by including more explicit references to Biblical teachings or specific examples, but overall it provides a solid Christian perspective on the topic.
+
+[&lt;- Link to Answer](../Doing_Good.md)

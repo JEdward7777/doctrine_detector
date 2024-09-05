@@ -37,3 +37,5 @@ May Allah guide us all to His pleasure and happiness.
 Grade: 90
 
 Comment: This response provides a comprehensive and insightful perspective on how Muslims can discern Allah's plan for their lives, addressing the concern of believers feeling lost or confused about their purpose or calling. The practical steps outlined are grounded in Islamic beliefs and teachings, emphasizing the importance of prayer, seeking knowledge, self-reflection, intuition, seeking guidance from scholars, and trusting in Allah's wisdom. The response effectively integrates a Christian specific worldview concern into an Islamic context, illustrating a deep understanding of spiritual discernment across different faith traditions.
+
+[&lt;- Link to Answer](../God_s_Purpose.md)

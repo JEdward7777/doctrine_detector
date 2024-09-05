@@ -21,3 +21,5 @@ The term 'evangelist' literally means 'bringer of good news' or 'one who proclai
 Grade: 90
 
 Comment: The response accurately explains the literal meaning of 'evangelist' as 'someone who preaches the good news,' which aligns with how the term is understood within Christian theology. The response could have further emphasized the importance of evangelists in spreading the gospel message and impacting lives with the transformative power of faith in Christ.
+
+[&lt;- Link to Answer](../Definition_of_Evangelist.md)

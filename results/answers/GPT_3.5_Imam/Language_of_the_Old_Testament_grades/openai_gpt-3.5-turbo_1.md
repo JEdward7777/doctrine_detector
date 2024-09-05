@@ -21,3 +21,5 @@ The vast majority of the Old Testament was written in ancient Hebrew. There are 
 Grade: 80
 
 Comment: The response accurately states that the vast majority of the Old Testament was written in Hebrew, which is correct and important for studying the Scriptures. However, the response could have been improved by mentioning that there are small portions of the Old Testament written in Aramaic, particularly in the books of Daniel and Ezra, to provide a more complete answer within the Christian worldview.
+
+[&lt;- Link to Answer](../Language_of_the_Old_Testament.md)

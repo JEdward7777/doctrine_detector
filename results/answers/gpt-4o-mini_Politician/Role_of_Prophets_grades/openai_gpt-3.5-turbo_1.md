@@ -21,3 +21,5 @@ In the Bible, the primary role of a prophet is often viewed as being a messenger
 Grade: 90
 
 Comment: The response provides a solid understanding of the primary role of prophets as messengers of God communicating His messages to the people, specifically warning them about sin and emphasizing obedience to God. The response effectively addresses the concern by accurately capturing the essence of the biblical role of prophets and their messages. The response could have been further enhanced by providing specific biblical examples or references to support the explanation.
+
+[&lt;- Link to Answer](../Role_of_Prophets.md)

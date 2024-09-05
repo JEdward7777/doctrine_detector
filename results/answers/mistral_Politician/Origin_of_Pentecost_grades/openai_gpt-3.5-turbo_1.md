@@ -29,3 +29,5 @@ In Christian tradition, the festival of Pentecost is most famous for being the d
 Grade: 90
 
 Comment: The response provides a thorough explanation of the Festival of Weeks/Pentecost in its historical and religious contexts for both Judaism and Christianity. It effectively connects the biblical festival to its fulfillment in Christ by highlighting the significance of Pentecost as the day the Holy Spirit descended upon the disciples, marking the start of the Christian Church. The response acknowledges the historical and religious importance of the Festival of Weeks for ancient Israelites while also emphasizing its Christian significance.
+
+[&lt;- Link to Answer](../Origin_of_Pentecost.md)

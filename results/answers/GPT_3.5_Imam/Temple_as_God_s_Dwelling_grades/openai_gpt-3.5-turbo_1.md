@@ -25,3 +25,5 @@ Overall, the temple as God's dwelling is a central concept in both the Old and N
 Grade: 85
 
 Comment: The response effectively expands on the concept of God dwelling among His people by providing specific biblical references from both the Old and New Testaments. It accurately highlights the shift in understanding from a physical temple to believers being temples of the Holy Spirit. The response could have been strengthened by delving deeper into the theological implications of God's presence among His people, perhaps by discussing the significance of believers being temples of the Holy Spirit in terms of sanctification and living holy lives.
+
+[&lt;- Link to Answer](../Temple_as_God_s_Dwelling.md)

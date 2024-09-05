@@ -21,3 +21,5 @@ The scriptures that specifically reference the temple as the 'house of Yahweh' a
 Grade: 90
 
 Comment: The response effectively identifies key scriptures that discuss the concept of the temple as the 'house of Yahweh' in the Bible. However, the initial response fails to consider how this concept may be viewed differently within a Muslim context, which could have provided a more insightful comparison from a Christian worldview.
+
+[&lt;- Link to Answer](../Biblical_References_to_the_Temple.md)

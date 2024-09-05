@@ -27,3 +27,5 @@ In conclusion, while every believer in Jesus may have a spiritual priesthood wit
 Grade: 90
 
 Comment: The response provides a well-explained and insightful understanding of the concept of the priesthood of all believers from a Christian worldview. It accurately references relevant biblical passages and clarifies the distinction between the Old Testament priesthood and the priesthood of believers in the New Testament. The response effectively addresses the concern raised and demonstrates a solid understanding of the topic.
+
+[&lt;- Link to Answer](../New_Testament_Priesthood.md)

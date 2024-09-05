@@ -29,3 +29,5 @@ In conclusion, the expression "woe is me" implies a lack of awareness about one'
 Grade: 95
 
 Comment: The response does an excellent job of incorporating Islamic theological beliefs and teachings regarding personal reflection, accountability for one's actions, and seeking forgiveness from Allah. It effectively addresses the concern about encouraging personal reflection on one's spiritual state and awareness of sin within an Islamic framework. The explanation is clear, well-supported with relevant teachings and verses from the Quran, and emphasizes the importance of taking ownership of one's actions in Islam. Great job!
+
+[&lt;- Link to Answer](../Personal_Reflection.md)

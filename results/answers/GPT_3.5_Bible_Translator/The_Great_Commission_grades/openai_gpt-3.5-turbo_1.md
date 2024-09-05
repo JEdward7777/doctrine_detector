@@ -21,3 +21,5 @@ Before ascending to heaven, Jesus commanded His disciples to go and make discipl
 Grade: 90
 
 Comment: The response accurately summarizes the command given by Jesus to His disciples in the Great Commission, emphasizing the importance of making disciples, baptizing them, and teaching obedience to Jesus' commands. It effectively demonstrates an understanding of the mission of discipleship within the context of the Great Commission.
+
+[&lt;- Link to Answer](../The_Great_Commission.md)

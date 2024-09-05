@@ -65,3 +65,5 @@ The concept of purification evolves from Old Testament ritual practices to New T
 Grade: 95
 
 Comment: The response effectively discusses the concept of purification in both the Old and New Testaments, highlighting the shift from ritualistic practices to moral purity centered on Christ's sacrifice. It recognizes the sufficiency of Christ's sacrifice for eternal purification from sin, aligning well with the Christian worldview. The only slight deduction is due to the response not explicitly mentioning the concept of repentance, which is often integral to receiving the benefits of Christ's sacrifice in Christian belief.
+
+[&lt;- Link to Answer](../New_Testament_Redemption.md)

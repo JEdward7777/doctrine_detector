@@ -21,3 +21,5 @@ The Bible describes manna as appearing like coriander seed, white in color, and 
 Grade: 85
 
 Comment: The response accurately conveys the main points about manna according to the Bible, noting that it was white and tasted sweet like honey. However, it could have been improved by mentioning the specific shape (flakes) and the comparison to coriander seed as described in Exodus 16:31. Overall, a solid understanding of God's miraculous provision through manna is demonstrated.
+
+[&lt;- Link to Answer](../Nature_of_Manna.md)

@@ -21,3 +21,5 @@ I appreciate your question about different beliefs and interpretations regarding
 Grade: 85
 
 Comment: The response acknowledges the importance of individuals being judged based on their actions in relation to the righteous character of Christ, aligning well with the concern of considering actions in alignment with biblical principles. However, it does not explicitly mention the need for repentance or acceptance of Christ as Savior which are key elements in Christian belief regarding judgment.
+
+[&lt;- Link to Answer](../Judgment_Criteria.md)

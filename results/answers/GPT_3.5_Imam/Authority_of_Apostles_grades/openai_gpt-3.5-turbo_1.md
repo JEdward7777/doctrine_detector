@@ -29,3 +29,5 @@ Overall, the authority of the prophets to perform miracles and preach boldly was
 Grade: 80
 
 Comment: The response provided a thorough explanation of the concept of Prophethood in Islam, highlighting how prophets were chosen by Allah, granted the ability to perform miracles, and given the authority to deliver His message. However, the response did not directly address the concern of exploring the divine empowerment and authority bestowed upon the apostles for ministry as outlined in the given answer. It focused solely on the Islamic perspective of Prophethood without drawing parallels or addressing the specific concern raised.
+
+[&lt;- Link to Answer](../Authority_of_Apostles.md)

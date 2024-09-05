@@ -31,3 +31,5 @@ In summary, the Israelites were commanded to celebrate Passover every year as a 
 Grade: 95
 
 Comment: The response provides a thorough explanation of the reasons why the Israelites were commanded to celebrate Passover every year based on Biblical references, highlighting the significance of remembrance in the Christian faith. It eloquently connects the celebration of Passover to the broader themes of God's deliverance, covenant, redemption through faith, and the joy of celebration. The response effectively integrates the Christian worldview into the explanation, emphasizing the spiritual implications of Passover beyond the historical event.
+
+[&lt;- Link to Answer](../Annual_Remembrance.md)

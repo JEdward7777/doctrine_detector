@@ -33,3 +33,5 @@ In essence, Jesus’ reference to eunuchs speaks to the notion that there are di
 Grade: 90
 
 Comment: The response provides a thorough explanation of Jesus' discussion on eunuchs in relation to celibacy, referencing the biblical context from Matthew 19:12. It effectively contrasts the Christian perspective on celibacy with the viewpoint in Islam, emphasizing the voluntary nature of celibacy for spiritual devotion. The explanation is well-supported and demonstrates a good understanding of the biblical perspective on celibacy and the motivations for choosing a celibate life.
+
+[&lt;- Link to Answer](../Eunuchs_in_the_Bible.md)

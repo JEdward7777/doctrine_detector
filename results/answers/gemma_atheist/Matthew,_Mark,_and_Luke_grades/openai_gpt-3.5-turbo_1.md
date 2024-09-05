@@ -21,3 +21,5 @@ The premise of your question is inaccurate. The Bible does not contain a list of
 Grade: 90
 
 Comment: The response correctly identifies where the names of the twelve disciples are listed in the Bible (Matthew, Mark, and Luke), aligning with a Christian worldview. However, deducting some points for not explicitly addressing the concern of being familiar with the Gospel accounts and their teachings.
+
+[&lt;- Link to Answer](../Matthew,_Mark,_and_Luke.md)

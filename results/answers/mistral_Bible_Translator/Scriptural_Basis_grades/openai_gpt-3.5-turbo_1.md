@@ -31,3 +31,5 @@ These verses demonstrate that Jesus' sacrifice on the cross was an act of propit
 Grade: 90
 
 Comment: The response provides a clear and concise explanation of the concept of propitiation in Christian theology, supported by relevant Bible verses. The verses cited effectively connect the theological concept with biblical references, enhancing the understanding of propitiation in the Christian faith. Great job!
+
+[&lt;- Link to Answer](../Scriptural_Basis.md)

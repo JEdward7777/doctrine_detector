@@ -25,3 +25,5 @@ Ultimately, being part of the 'people of God' in the Old Testament carried both 
 Grade: 90
 
 Comment: The response provides a clear and accurate explanation of being one of the 'people of God' in the Old Testament as referring to the nation of Israel chosen by God for a covenant relationship. It effectively addresses the concern by outlining how God made a covenant with the Israelites, including the promises and expectations involved. The interconnectedness of obedience, worship, and being set apart as a holy people is well articulated. Overall, this response demonstrates a solid understanding of the covenant relationship God established with Israel.
+
+[&lt;- Link to Answer](../Definition_of_the_People_of_God.md)

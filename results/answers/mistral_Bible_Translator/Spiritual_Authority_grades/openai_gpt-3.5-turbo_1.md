@@ -33,3 +33,5 @@ In summary, earthly authorities are concerned with the temporal realm and mainta
 Grade: 90
 
 Comment: The response effectively addresses the concern by providing a clear distinction between spiritual and earthly authorities based on Biblical teachings. It demonstrates a solid understanding of how these authorities exert power and influence over individuals in a Christian's life. The response aligns well with Christian worldview principles and offers a comprehensive explanation supported by relevant biblical references. Well done!
+
+[&lt;- Link to Answer](../Spiritual_Authority.md)

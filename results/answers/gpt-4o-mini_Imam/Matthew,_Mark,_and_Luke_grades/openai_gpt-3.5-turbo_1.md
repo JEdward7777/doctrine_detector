@@ -28,3 +28,5 @@ Each of these passages provides slightly different details but ultimately lists 
 Grade: 90
 
 Comment: The response accurately identifies the books in which the names of the twelve disciples are listed in the Bible and provides additional relevant passages. The knowledge of the Gospel accounts and their teachings is demonstrated by referencing specific passages where the disciples are mentioned. However, there could have been a deeper engagement with the content by discussing the significance of the disciples and their roles in relation to Jesus's ministry.
+
+[&lt;- Link to Answer](../Matthew,_Mark,_and_Luke.md)

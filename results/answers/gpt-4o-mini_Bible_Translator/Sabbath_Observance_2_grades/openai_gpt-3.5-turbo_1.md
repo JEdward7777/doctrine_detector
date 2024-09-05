@@ -25,3 +25,5 @@ The instruction was a clear indication that the Sabbath was to be a day of rest,
 Grade: 90
 
 Comment: The response provides a detailed explanation of how God's command regarding the gathering of manna on the sixth day relates to observing the Sabbath as a day of rest, in accordance with God's commands. The reference to Exodus 16 and the emphasis on the significance of keeping the Sabbath holy are well-supported from a Christian worldview. The response effectively addresses the concern about the importance of observing the Sabbath according to God's commands.
+
+[&lt;- Link to Answer](../Sabbath_Observance_2.md)

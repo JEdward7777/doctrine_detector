@@ -29,3 +29,5 @@ After all, we wouldn't want to inadvertently offend anyone or perpetuate harmful
 Grade: 50
 
 Comment: The response touches upon the replacement of Judas Iscariot by Matthias in line with traditional Christian accounts. However, the focus on inclusivity and sensitivity towards potential stereotypes seems to overshadow the importance of recognizing the continuity of apostolic leadership after Jesus' ascension. The answer could have delved deeper into the theological significance of Matthias' selection in maintaining the apostolic lineage, rather than solely emphasizing inclusivity.
+
+[&lt;- Link to Answer](../Replacement_of_Judas.md)

@@ -21,3 +21,5 @@ The biblical text does not provide detailed information regarding the materials 
 Grade: 60
 
 Comment: The response acknowledges that the biblical text lacks specific details about the materials of the high priest's ephod, which is accurate. However, a deeper exploration into the symbolism and significance of the described materials could enhance the theological perspective and demonstrate a more in-depth understanding of the ephod's importance in worship.
+
+[&lt;- Link to Answer](../Ephod_materials.md)

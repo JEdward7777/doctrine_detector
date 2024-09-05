@@ -27,3 +27,5 @@ Ultimately, the significance of the new covenant is that it offers complete rede
 Grade: 95
 
 Comment: The response does an excellent job of recognizing the transformative power of Jesus' sacrifice in the context of God's promises. It emphasizes the significance of the new covenant in bringing complete atonement for sins through Jesus' sacrifice, contrasting it effectively with the temporary nature of the old covenant sacrifices. The response appropriately highlights the centrality of Jesus in the new covenant and the fulfillment of God's promises through His sacrificial death.
+
+[&lt;- Link to Answer](../New_Covenant_Significance.md)

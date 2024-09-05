@@ -29,3 +29,5 @@ So, my fellow citizens, let us strive to make exhortation a hallmark of our fait
 Grade: 90
 
 Comment: The response provides a comprehensive and thoughtful exploration of the biblical concept of exhortation, highlighting its importance in encouraging and motivating individuals in their faith journey. It effectively emphasizes the positive and uplifting aspects of exhortation, focusing on building each other up rather than condemning. The integration of Christian values and principles, such as love, compassion, and unity, is well-articulated. The response demonstrates a strong understanding of the biblical basis for encouraging others in their faith journey and effectively expands upon the given answer.
+
+[&lt;- Link to Answer](../Purpose_of_Exhortation.md)

@@ -33,3 +33,5 @@ In summary, Paul's establishment of the Lord's Supper as a regular practice for 
 Grade: 95
 
 Comment: The response provides a comprehensive and insightful explanation of the significance of the Lord's Supper in the life of the church and individual believers, drawing from relevant biblical passages and theological implications. The student effectively addresses the concern by thoroughly discussing the various theological and communal purposes of the Lord's Supper as established by the apostle Paul. The response demonstrates a deep understanding of the importance of this sacrament in Christian faith and practice. Great job!
+
+[&lt;- Link to Answer](../Regular_Practice.md)

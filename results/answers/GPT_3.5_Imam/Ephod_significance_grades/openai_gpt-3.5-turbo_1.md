@@ -27,3 +27,5 @@ Overall, the high priest's ephod was a sacred and symbolic garment that symboliz
 Grade: 90
 
 Comment: The response provides a detailed and accurate explanation of the significance of the high priest's ephod in Old Testament worship, focusing on its role in mediating between God and the people and the use of the Urim and Thummim for discerning God's will. The connection between the ephod and the priest's intercessory role is well articulated, demonstrating a strong understanding of the importance of the ephod in the context of Old Testament priesthood and worship practices.
+
+[&lt;- Link to Answer](../Ephod_significance.md)

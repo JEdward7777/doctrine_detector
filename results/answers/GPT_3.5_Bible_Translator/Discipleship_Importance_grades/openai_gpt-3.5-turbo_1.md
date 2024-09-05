@@ -31,3 +31,5 @@ Overall, the selection of the twelve apostles reflects Jesus' intention to estab
 Grade: 90
 
 Comment: The response provides a thorough explanation of the reasons why the twelve apostles were chosen by Jesus, highlighting their role in spreading his teachings and establishing the foundation of the early Church. The answer demonstrates a solid understanding of the significance of the apostles in the New Testament, drawing on their witness to Jesus' teachings, their symbolic representation of the new Israel, and their empowerment by the Holy Spirit. The only suggestion for improvement would be to explicitly mention the apostles' role in carrying on Jesus' mission and spreading the Gospel, as this is a key aspect of their significance in the New Testament.
+
+[&lt;- Link to Answer](../Discipleship_Importance.md)

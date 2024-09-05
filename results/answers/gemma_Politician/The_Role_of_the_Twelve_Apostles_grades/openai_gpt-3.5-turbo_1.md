@@ -21,3 +21,5 @@ The twelve apostles were significant among Jesus' disciples because they were ch
 Grade: 90
 
 Comment: The response effectively recognizes the significance of the twelve apostles in Christian belief and ministry by highlighting how they were chosen by Jesus to be His closest followers and continue His teachings after His ascension. It acknowledges their central role in spreading the Christian faith and shaping early Christianity. The answer is concise and clear, addressing the concern adequately.
+
+[&lt;- Link to Answer](../The_Role_of_the_Twelve_Apostles.md)

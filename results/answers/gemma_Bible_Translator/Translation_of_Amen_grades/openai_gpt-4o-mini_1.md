@@ -50,3 +50,5 @@ Understanding the importance of accurate biblical translation and interpretation
 Grade: 90
 
 Comment: This response provides a thorough analysis of potential translations for 'truly' in Jesus' phrases, discussing the nuances and implications of each option in relation to Jesus' teachings and character. The considerations at the end also demonstrate an awareness of the complexities involved in accurate biblical translation and interpretation. The response effectively addresses the concern raised by highlighting the importance of choosing translations that align with the overall tone, style, and significance of Jesus' words. Well done!
+
+[&lt;- Link to Answer](../Translation_of_Amen.md)

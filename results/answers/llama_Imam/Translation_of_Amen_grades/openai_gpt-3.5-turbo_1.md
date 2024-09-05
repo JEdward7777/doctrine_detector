@@ -36,3 +36,5 @@ May Allah guide us towards understanding His messages through the Prophets, incl
 Grade: 75
 
 Comment: The response demonstrates a good understanding of the importance of accurate biblical translation and interpretation, especially concerning the phrase "amēn ho nyn" (ἀμήν ὁ νῦν) spoken by Jesus. The explanation of possible translations and their implications shows a thoughtful consideration of the nuances involved in conveying the original meaning of Jesus' words. However, from a Christian worldview, it is essential to emphasize the unique divinity of Jesus and the authority of his words as more than just a prophet, which could have been further highlighted in the response.
+
+[&lt;- Link to Answer](../Translation_of_Amen.md)

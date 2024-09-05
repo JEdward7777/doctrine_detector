@@ -25,3 +25,5 @@ This day is a central belief in Islam and is mentioned in various Islamic texts,
 Grade: 60
 
 Comment: The response does not fully address the concern of clarifying the events that will take place during the Day of Judgment in Christian eschatology. While the response provides a comparison between Islamic and Christian beliefs regarding judgment and accountability, it does not specifically detail the events associated with the Christian concept of the "day of Yahweh" or the "day of the Lord" as requested. It lacks specificity in explaining the judgment of sinners, resurrection, and the establishment of the Lord's rule that are key components of Christian eschatology.
+
+[&lt;- Link to Answer](../Judgment_and_Resurrection.md)

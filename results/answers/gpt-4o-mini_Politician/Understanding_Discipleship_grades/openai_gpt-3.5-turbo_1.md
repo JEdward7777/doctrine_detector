@@ -21,3 +21,5 @@ Being a disciple of Jesus entails following his teachings and example, which inc
 Grade: 80
 
 Comment: The response provides a good understanding of being a disciple of Jesus as believing in Him, obeying His teachings, and following His example. However, there could be more depth in explaining the specific responsibilities and implications of discipleship, such as the call to love, serve, and share the message of Jesus with others. It touches on the definition and responsibilities adequately but could benefit from more elaboration on the practical outworking of discipleship in daily life.
+
+[&lt;- Link to Answer](../Understanding_Discipleship.md)

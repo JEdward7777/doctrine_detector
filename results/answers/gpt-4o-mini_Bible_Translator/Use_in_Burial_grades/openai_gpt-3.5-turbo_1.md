@@ -27,3 +27,5 @@ Overall, myrrh's role in burial practices during biblical times highlights its i
 Grade: 95
 
 Comment: The response provides a thorough explanation of myrrh's significance in biblical burial practices, drawing connections to its use in anointing Jesus' body and its mention in the Old Testament. The integration of specific biblical references enhances the understanding of myrrh's cultural and religious importance in the context of honoring the dead. This detailed analysis demonstrates a strong comprehension of how customs surrounding burial practices can deepen one's grasp of scriptural contexts.
+
+[&lt;- Link to Answer](../Use_in_Burial.md)

@@ -35,3 +35,5 @@ Recognizing God's ongoing provision in the lives of believers.
 Grade: 95
 
 Comment: The response provides a comprehensive and insightful analysis of the significance of manna as a symbol of God's provision for the Israelites, encompassing both physical and spiritual aspects. It effectively addresses the concern of recognizing God's ongoing provision in the lives of believers by emphasizing the parallels between the Israelites' dependence on manna and believers' dependence on God's grace. The response is well-supported with relevant examples and demonstrates a solid understanding of God's sustaining grace throughout history.
+
+[&lt;- Link to Answer](../Symbolism_of_Manna.md)

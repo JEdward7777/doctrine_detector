@@ -21,3 +21,5 @@ According to Christian beliefs, the significance of Jesus dying on the cross is 
 Grade: 90
 
 Comment: The response effectively captures the core belief of Christianity regarding Jesus' sacrifice on the cross for the redemption of humanity's sins and the promise of eternal life through belief in Him. It aligns well with Christian teachings on salvation through Jesus' sacrifice.
+
+[&lt;- Link to Answer](../Understanding_the_Cross.md)

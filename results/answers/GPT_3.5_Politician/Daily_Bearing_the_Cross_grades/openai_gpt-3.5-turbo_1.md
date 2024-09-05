@@ -21,3 +21,5 @@ Thank you for the question. "Taking up your cross" in Luke 9:23 is a metaphor co
 Grade: 90
 
 Comment: The response provides a solid understanding of the concept of "taking up your cross" within a Christian worldview, emphasizing the trials, sacrifices, and commitments that come with following Jesus. It effectively addresses the concern by highlighting the call to discipleship and the personal cost of following Christ. The explanation is clear and aligns well with Christian teachings.
+
+[&lt;- Link to Answer](../Daily_Bearing_the_Cross.md)

@@ -23,3 +23,5 @@ I would give this response a grade of 30.
 This response is incorrect in stating that both John the Baptist and Jesus were referred to as "Rabbi" by their disciples, when in fact neither of them are referred to with this title in the biblical texts. The concern about recognizing respect and authority associated with Jesus' and John's teachings is not addressed in this response.
 
 The low grade is due to the lack of accuracy and failure to address the specified concern.
+
+[&lt;- Link to Answer](../Use_of__Rabbi_.md)

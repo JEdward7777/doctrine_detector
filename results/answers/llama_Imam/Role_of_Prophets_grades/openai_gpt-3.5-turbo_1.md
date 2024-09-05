@@ -35,3 +35,5 @@ While there may be some differences in understanding the role of prophets betwee
 Grade: 75
 
 Comment: The response provides a good overview of the Islamic perspective on the role of prophets, emphasizing their responsibility to convey Allah's messages to humanity and guide people towards worshipping the One True God. However, the concern was to focus on understanding the biblical role of prophets and their messages, which was not fully addressed in the response. While the Islamic perspective was presented well, a Christian-specific analysis of prophets' role and messages from the Bible was lacking.
+
+[&lt;- Link to Answer](../Role_of_Prophets.md)

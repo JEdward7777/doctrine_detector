@@ -21,3 +21,5 @@ The premise of your question is based on a belief in the existence of Jesus Chri
 Grade: 20
 
 Comment: The response completely disregards the Christian-specific concern presented in the question. As an atheistic scholar, the answer provided goes against the worldview from which the concern originated, thus resulting in a low grade. The answer should have addressed the question from the perspective of understanding how to combat temptation as a follower of Christ, which is central to the Christian worldview being discussed.
+
+[&lt;- Link to Answer](../Understanding_Temptation.md)

@@ -29,3 +29,5 @@ In summary, physical death is a biological process that leads to the end of life
 Grade: 90
 
 Comment: The response effectively clarifies the distinction between physical death and spiritual death (perishing) from a cultural and philosophical perspective, acknowledging the varying interpretations based on beliefs and background. The explanation aligns well with the concern of emphasizing the eternal consequences for those who do not trust in Jesus in a spiritual context. The only suggestion for improvement would be to explicitly highlight the Christian perspective on perishing and its implications based on trust in Jesus for a more overt alignment with the given answer.
+
+[&lt;- Link to Answer](../Physical_vs._Spiritual_Death.md)

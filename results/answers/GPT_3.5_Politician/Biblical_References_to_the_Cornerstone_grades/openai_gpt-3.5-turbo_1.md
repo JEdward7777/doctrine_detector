@@ -21,3 +21,5 @@ In Christianity, Jesus is often referred to as the cornerstone based on the vers
 Grade: 90
 
 Comment: The response demonstrates a clear understanding of Jesus as the cornerstone in Christianity, referencing relevant verses and emphasizing his essential role in the foundation of faith and the Church. The incorporation of scriptural references such as Acts 4:11, Ephesians 2:20, Matthew 21:42, and Psalms 118:22 supports the explanation effectively. The mention of the importance of exploring scripture to deepen understanding aligns well with a Christian worldview, promoting the significance of studying God's Word for spiritual growth.
+
+[&lt;- Link to Answer](../Biblical_References_to_the_Cornerstone.md)

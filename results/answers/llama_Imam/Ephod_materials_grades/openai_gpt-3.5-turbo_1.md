@@ -34,3 +34,5 @@ I hope this clarifies your query, my brother. If you have any further questions 
 Grade: 90
 
 Comment: The response provides a thorough analysis of the materials used in the construction of the Ephod, emphasizing their significance in the design and symbolism of this important religious garment. The explanation is well-informed and addresses the concern effectively from a Christian worldview.
+
+[&lt;- Link to Answer](../Ephod_materials.md)

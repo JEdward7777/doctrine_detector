@@ -55,3 +55,5 @@ Understanding the various terms used within Christianity to refer to this sacred
 Grade: 85
 
 Comment: The response correctly identifies two common terms used to refer to the Lord's Supper in Christian communities. However, there is a limited understanding of the variety of terms used, as demonstrated in the detailed list provided. Encouraging the student to explore and grasp the depth of terminology associated with this sacred practice would enhance their understanding from a Christian worldview perspective.
+
+[&lt;- Link to Answer](../Terminology_2.md)

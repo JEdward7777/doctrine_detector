@@ -21,3 +21,5 @@ The reference to God as 'Almighty' in relation to Abraham is found in the **Book
 Grade: 90
 
 Comment: The response correctly identifies the specific reference to God as 'Almighty' in Genesis 17:1, demonstrating a good understanding of the biblical text. The connection between knowing biblical references and deepening one's connection to Scripture and God's promises is appropriately acknowledged. Well done!
+
+[&lt;- Link to Answer](../Scriptural_References.md)

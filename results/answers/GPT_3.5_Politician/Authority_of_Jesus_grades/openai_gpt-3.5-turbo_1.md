@@ -21,3 +21,5 @@ While I respect the religious beliefs and interpretations of individuals, it is 
 Grade: 90
 
 Comment: The response acknowledges the theological significance of referring to Jesus as the "King of the Jews" and correctly emphasizes His authority as King over all creation. It aligns well with the concern about understanding Jesus' authority and sovereignty in believers' lives from a Christian perspective. The only suggestion for improvement would be to further elaborate on the importance of recognizing Jesus' divine kingship in relation to one's personal faith and relationship with Him.
+
+[&lt;- Link to Answer](../Authority_of_Jesus.md)

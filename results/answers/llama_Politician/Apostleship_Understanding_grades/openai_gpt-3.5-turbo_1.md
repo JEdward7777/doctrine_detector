@@ -31,3 +31,5 @@ In conclusion, the apostles being sent by Jesus is an inspiring example of how f
 Grade: 60
 
 Comment: While the response acknowledges the importance of the apostles being sent by Jesus to spread the gospel, it falls short in fully addressing the concern of understanding the role of apostleship in the context of the Great Commission. The focus on cultural sensitivity and modern values somewhat dilutes the theological significance of the apostles' mission. The response lacks depth in explaining the authority and purpose behind the apostles' mission as outlined in the Great Commission. More emphasis on the biblical foundation and theological implications of apostleship would have strengthened the response from a Christian worldview perspective.
+
+[&lt;- Link to Answer](../Apostleship_Understanding.md)

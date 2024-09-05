@@ -23,3 +23,5 @@ In the New Testament, exhortation often serves to encourage believers in their f
 Grade: 90
 
 Comment: The response provided a thorough explanation of exhortation in the Christian context based on the biblical text. It correctly highlighted the emphasis on encouraging believers in their faith, promoting virtuous living, and warning against sinful behavior, aligning with the broader Christian ethos of love for God and neighbor. The explanation effectively addressed the concern by citing a relevant biblical example (2 Timothy 4:2) to support the importance of exhortation in guiding others on their faith journey.
+
+[&lt;- Link to Answer](../Purpose_of_Exhortation.md)

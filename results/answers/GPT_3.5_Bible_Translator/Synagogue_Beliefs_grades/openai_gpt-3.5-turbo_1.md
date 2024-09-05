@@ -21,3 +21,5 @@ In addition to referring to a physical building where Jewish people gather for w
 Grade: 95
 
 Comment: The response demonstrates a solid understanding of the communal aspect and significance of gathering in worship as indicated by the term 'synagogue' from a Christian perspective. It not only acknowledges the physical aspect of a synagogue but also expands on the broader Christian theological concept of gathering together for worship, fellowship, and learning, drawing parallels with Jesus teaching in synagogues and the concept of the "body of Christ." The response effectively connects the term 'synagogue' to the broader context of Christian community and worship.
+
+[&lt;- Link to Answer](../Synagogue_Beliefs.md)

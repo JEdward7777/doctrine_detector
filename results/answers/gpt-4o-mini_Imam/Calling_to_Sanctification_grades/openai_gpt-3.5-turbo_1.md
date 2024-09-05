@@ -31,3 +31,5 @@ In summary, personal sanctification in Islam involves a holistic approach that i
 Grade: 80
 
 Comment: The response effectively emphasizes the importance of personal responsibility in the sanctification process within Islam, highlighting the principles of spiritual and ritual purity, tazkiyah, avoiding sin and seeking forgiveness, and following the Sunnah. However, from a Christian worldview perspective, while the principles outlined in the response align with the concept of sanctification, the ultimate focus on personal sanctification in Islam differs from the Christian belief that true sanctification comes through faith in Jesus Christ. This distinction should be acknowledged for a more comprehensive evaluation.
+
+[&lt;- Link to Answer](../Calling_to_Sanctification.md)

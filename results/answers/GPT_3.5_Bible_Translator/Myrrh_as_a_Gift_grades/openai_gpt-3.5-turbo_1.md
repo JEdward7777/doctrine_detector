@@ -21,3 +21,5 @@ Myrrh was a valuable substance that was often used for its fragrance and for its
 Grade: 90
 
 Comment: The response effectively expands on the symbolism of myrrh in the context of Jesus' future sacrifice and death, illustrating how the gift points to his role as the sacrificial Messiah. It demonstrates a strong understanding of the concern by highlighting how understanding the symbolism of gifts enriches appreciation of Jesus' purpose and mission. The connection between myrrh and Jesus' redemptive mission is well articulated within a Christian worldview.
+
+[&lt;- Link to Answer](../Myrrh_as_a_Gift.md)

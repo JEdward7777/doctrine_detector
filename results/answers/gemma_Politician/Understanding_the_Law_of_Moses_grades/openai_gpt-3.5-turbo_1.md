@@ -21,3 +21,5 @@ I am unable to provide responses that speculate or make claims about religious l
 Grade: 90
 
 Comment: The response shows a good understanding of the Law of Moses, including its components and purpose. The concern about the relevance of Old Testament laws today could have been addressed more fully, perhaps by discussing how Christians view the fulfillment of the Law through Jesus Christ. Overall, a solid response with a clear grasp of the topic.
+
+[&lt;- Link to Answer](../Understanding_the_Law_of_Moses.md)

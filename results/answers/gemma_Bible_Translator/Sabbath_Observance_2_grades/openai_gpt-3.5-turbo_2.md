@@ -21,3 +21,5 @@ The premise of your question is inaccurate. The Bible does not provide any recor
 Grade: 80
 
 Comment: The response accurately explains how God instructed the Israelites to gather twice the amount of manna before the Sabbath to ensure they could observe the day of rest. However, the response could have further emphasized the importance of observing the Sabbath according to God's commands and how this act reflects obedience and trust in God's provision.
+
+[&lt;- Link to Answer](../Sabbath_Observance_2.md)

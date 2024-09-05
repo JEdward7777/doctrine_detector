@@ -31,3 +31,5 @@ It is important to consider the context and audience when using these translatio
 Grade: 85
 
 Comment: The response provides accurate and appropriate translations for the term "church" in a Muslim context, reflecting its significance as a place of worship for Christians. The translations offered capture the essence of the inclusive nature of the church as a gathering of believers. However, there could have been more emphasis on the importance of inclusivity in the context of the church's definition as the body of Christ.
+
+[&lt;- Link to Answer](../Translation_of_Church.md)

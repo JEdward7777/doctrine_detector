@@ -27,3 +27,5 @@ In summary, the Pharisees' strict adherence to the Laws of Moses created a gap b
 Grade: 90
 
 Comment: This response effectively recognizes the significance of the Pharisees' strict adherence to the Laws of Moses in creating conflict with Jesus and early Christians. It acknowledges the tension that arose from differing interpretations of the law and emphasizes the importance of understanding the Pharisees' role in the challenges Jesus faced in his ministry. The response provides a well-rounded perspective on the religious dynamics at play during that time. The only potential improvement could be further elaboration on specific examples of conflicts between Jesus and the Pharisees to strengthen the argument.
+
+[&lt;- Link to Answer](../Pharisees__Influence_on_Jewish_Law.md)

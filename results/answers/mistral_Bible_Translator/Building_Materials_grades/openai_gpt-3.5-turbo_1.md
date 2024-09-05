@@ -33,3 +33,5 @@ It is essential to note that these examples reflect various practices and tradit
 Grade: 90
 
 Comment: The response provides a comprehensive overview of the materials used in constructing altars during Biblical times based on Old Testament references. The additional information and examples enhance the understanding of how altars were constructed and their significance in worship practices. The mention of Christian theology emphasizing the sacrifices of Jesus Christ is also relevant and aligns well with a Christian worldview.
+
+[&lt;- Link to Answer](../Building_Materials.md)

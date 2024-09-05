@@ -34,3 +34,5 @@ These terms may resonate differently across cultures and denominations, and the 
 Grade: 90
 
 Comment: The response provides a thorough list of alternative terms for service roles within the church, demonstrating an understanding of the various ways to identify these roles. The suggestions are relevant, diverse, and inclusive, showcasing a solid grasp of the topic.
+
+[&lt;- Link to Answer](../Terminology.md)

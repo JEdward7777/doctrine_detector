@@ -31,3 +31,5 @@ In summary, these verses convey that Jesus is the cornerstone of the faith—cen
 Grade: 95
 
 Comment: The response provides a comprehensive overview of key verses that highlight Jesus as the cornerstone in the Christian faith, effectively addressing the concern by encouraging believers to explore Scripture for a deeper understanding of Jesus' significance. The inclusion of relevant verses, explanations, and the emphasis on the importance of Jesus as the cornerstone demonstrate a strong grasp of the topic from a Christian worldview. Great job!
+
+[&lt;- Link to Answer](../Biblical_References_to_the_Cornerstone.md)

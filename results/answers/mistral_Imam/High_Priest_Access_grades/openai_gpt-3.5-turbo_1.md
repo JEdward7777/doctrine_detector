@@ -21,3 +21,5 @@ Recognizing the role of the high priest in the Israelite's relationship with God
 Grade: 90
 
 Comment: The response provides a clear and accurate summary of the role of the high priest in relation to the Ark of the Covenant within the Jewish tradition. It acknowledges the significance of the high priest's annual access to the Ark on the Day of Atonement in facilitating the Israelites' relationship with God and maintaining the covenant. The explanation is well-informed and demonstrates an understanding of the context within the Hebrew Bible.
+
+[&lt;- Link to Answer](../High_Priest_Access.md)

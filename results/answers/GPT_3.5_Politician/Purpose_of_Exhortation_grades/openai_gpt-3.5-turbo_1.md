@@ -21,3 +21,5 @@ In the New Testament, exhortation serves as a means to encourage and motivate in
 Grade: 85
 
 Comment: The response provides a clear and accurate understanding of the biblical basis for exhortation in encouraging others in their faith journey by emphasizing the importance of persuading individuals to avoid sin and follow God's will. This aligns well with Christian teachings on the role of exhortation in promoting righteousness and personal growth in faith.
+
+[&lt;- Link to Answer](../Purpose_of_Exhortation.md)

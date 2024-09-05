@@ -21,3 +21,5 @@ The term "beloved" is used in the New Testament letters to Christian churches as
 Grade: 95
 
 Comment: The response effectively acknowledges the significance of love and unity among Christians as reflected in biblical teachings by highlighting how the term "beloved" is used to express affection and unity within the Christian community. It accurately captures the essence of the concern and provides a solid explanation of the use of the term in the New Testament letters. Great job!
+
+[&lt;- Link to Answer](../Beloved_in_Scripture.md)

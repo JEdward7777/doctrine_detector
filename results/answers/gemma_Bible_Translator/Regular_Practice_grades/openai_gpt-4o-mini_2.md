@@ -23,3 +23,5 @@ The early church primarily practiced the Lord's Supper on the day of Pentecost a
 Grade: 50
 
 Comment: The student's response correctly highlights the importance of the Lord's Supper in the life of the church and individual believers but inaccurately suggests that the apostle Paul did not establish the Lord's Supper as a regular practice for believers. From a Christian worldview, it is important to recognize that Paul did indeed establish the practice of the Lord's Supper for believers to commemorate Christ's sacrifice regularly. The response shows a misunderstanding of the biblical account and historical practices regarding the Lord's Supper.
+
+[&lt;- Link to Answer](../Regular_Practice.md)

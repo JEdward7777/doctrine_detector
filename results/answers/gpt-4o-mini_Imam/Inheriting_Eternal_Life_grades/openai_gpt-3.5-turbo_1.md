@@ -25,3 +25,5 @@ In the context of Islamic theology, we believe that the concept of eternal life 
 Grade: 60
 
 Comment: The response provides relevant information about the biblical passages addressing eternal life and the importance of faith in Jesus, which aligns well with the teachings of Christianity. However, it does not directly address the specific concern of clarifying the path to salvation and eternal life as taught by Jesus in the given answer. Therefore, there is room for improvement in directly connecting the provided information to the answer's statement about following the teachings of Jesus for inheriting eternal life.
+
+[&lt;- Link to Answer](../Inheriting_Eternal_Life.md)

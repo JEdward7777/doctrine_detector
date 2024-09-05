@@ -31,3 +31,5 @@ It's important for Christians to examine their lives and ensure that they are no
 Grade: 90
 
 Comment: The response provides a comprehensive analysis of modern examples of idolatry and aligns well with the given answer and concern from a Christian perspective. It effectively highlights various contemporary aspects that can potentially become idols in one's life and emphasizes the importance of prioritizing a relationship with God above all else. The response demonstrates a clear understanding of the Christian worldview and offers relevant and insightful examples. Well done!
+
+[&lt;- Link to Answer](../Worship_Practices.md)

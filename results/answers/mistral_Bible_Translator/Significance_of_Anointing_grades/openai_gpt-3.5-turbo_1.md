@@ -29,3 +29,5 @@ In each of these roles, anointing served as a physical reminder of the individua
 Grade: 95
 
 Comment: The response provides a detailed explanation of the significance of anointing in the lives of priests, kings, and prophets, emphasizing their divine appointment and empowerment by God. The response effectively addresses the concern regarding the importance of anointing in biblical leadership roles by highlighting how anointing sets individuals apart for special service to God. Well done in incorporating biblical references to support the explanation.
+
+[&lt;- Link to Answer](../Significance_of_Anointing.md)

@@ -23,3 +23,5 @@ In the Christian context, Jesus Christ is also referred to as the "Holy One of G
 Grade: 90
 
 Comment: The response provides a solid understanding of the term "Holy One" in relation to God's holiness, particularly focusing on His unique role in Scripture as the "Holy One of Israel" in the Old Testament and Jesus in the New Testament. The explanation demonstrates a good grasp of the concept of God's holiness and its significance in Christian theology. However, a slight deduction in points is made for not explicitly addressing the concern raised about the uniqueness of God's role in Scripture.
+
+[&lt;- Link to Answer](../Definition_of_Holy_One.md)

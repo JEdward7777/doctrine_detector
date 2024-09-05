@@ -21,3 +21,5 @@ The New Testament describes the responsibilities of deacons as being servants wh
 Grade: 85
 
 Comment: The response provides a correct understanding of the role of deacons in ensuring fair treatment and care within the church community as it specifically mentions the distribution of resources to widows, which is an important aspect of their responsibilities. The response could be strengthened by also mentioning the broader scope of the deacons' role in serving the needs of the community as a whole, not just widows.
+
+[&lt;- Link to Answer](../Biblical_Context.md)

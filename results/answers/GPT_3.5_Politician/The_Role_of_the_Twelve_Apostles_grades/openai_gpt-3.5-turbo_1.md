@@ -21,3 +21,5 @@ The twelve apostles held a special place among Jesus' disciples because they wer
 Grade: 90
 
 Comment: The response effectively acknowledges the significance of the twelve apostles as chosen by Jesus to be His closest followers and continue His teachings. It highlights their crucial role in early Christian ministry. The only minor improvement would be to elaborate further on how their individual contributions shaped Christian belief and ministry.
+
+[&lt;- Link to Answer](../The_Role_of_the_Twelve_Apostles.md)

@@ -41,3 +41,5 @@ This emphasizes the call to discipleship and the personal cost of following Chri
 Grade: 90
 
 Comment: The response provided a thorough and thoughtful comparison between the concept of "taking up your cross" in Christianity and its resonance with Islamic teachings on enduring hardships in faith. The student effectively addressed the concern by highlighting the similarities in the call to discipleship and personal cost of following Christ in both religions. The response demonstrated a strong understanding of the topic and effectively applied a Christian worldview in evaluating the Islamic perspective.
+
+[&lt;- Link to Answer](../Daily_Bearing_the_Cross.md)

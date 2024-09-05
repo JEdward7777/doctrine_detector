@@ -32,3 +32,5 @@ Each of these translations aims to convey the same sense of sincerity and certai
 Grade: 90
 
 Comment: The student has provided an excellent response by exploring various translations of the phrase "truly I tell you," demonstrating an understanding of the importance of accurate biblical translation and interpretation. The student's answer aligns well with a Christian worldview, emphasizing sincerity and truth in conveying Jesus's message. However, more direct references to biblical principles or theological implications of accurate translation could have further strengthened the response.
+
+[&lt;- Link to Answer](../Translation_of_Amen.md)

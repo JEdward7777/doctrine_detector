@@ -25,3 +25,5 @@ As Muslims, we are encouraged to reflect on these warnings and judgments, take h
 Grade: 60
 
 Comment: The response provides a good explanation from an Islamic perspective on the concept of "woe" in relation to sin and punishment. However, the concern was to evaluate the answer from a Christian worldview, so the grade is lower as the response did not address biblical warnings specifically. A higher grade could have been achieved by relating the concept of "woe" to biblical teachings on sin, judgment, and repentance in Christianity.
+
+[&lt;- Link to Answer](../Understanding_Woe.md)

@@ -38,3 +38,5 @@ Comment: The response addresses some aspects of the concern, specifically highli
 The response also fails to address the specific criticism that there is no direct biblical evidence to support the idea that the rainbow is a sign of God's covenant with humanity in Genesis. While it mentions some biblical passages, these are not directly related to the covenant or promise in Genesis. The response could have done more to engage with this concern and provide a more thorough understanding of God's covenant and promises.
 
 Overall, while the response makes some good points, it falls short of providing a comprehensive answer to the concern.
+
+[&lt;- Link to Answer](../Sign_as_Covenant.md)

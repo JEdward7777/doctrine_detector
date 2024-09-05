@@ -35,3 +35,5 @@ Recognizing the divine nature of Jesus and the implications of His crucifixion.
 Grade: 85
 
 Comment: The response effectively recognizes the centrality of the centurion's declaration in affirming Jesus as the Son of God and the significance of His sacrifice. The student acknowledges the deep theological implications of this event and offers a balanced perspective by presenting different interpretations while ensuring the focus remains on the core Christian belief. The response could have further emphasized the unique role of Jesus' crucifixion in Christian salvation, but overall, it demonstrates a sound understanding of the Christian worldview in evaluating the centurion's reaction.
+
+[&lt;- Link to Answer](../Centurion_at_the_Crucifixion.md)

@@ -34,3 +34,5 @@ May we seek to follow both John's example of pointing to Jesus (John 1:26-27) an
 Grade: 95
 
 Comment: The response provides a thorough explanation about the respect and authority associated with Jesus' and John's teachings, supported by biblical references. The student effectively connects the titles of "Rabbi" with the roles of teacher for both John the Baptist and Jesus, demonstrating an understanding of their significance within the Christian worldview. The response also encourages readers to follow the examples set by John and Jesus in pointing towards Christ and living for God's glory.
+
+[&lt;- Link to Answer](../Use_of__Rabbi_.md)

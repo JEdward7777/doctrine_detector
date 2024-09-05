@@ -27,3 +27,5 @@ Overall, these passages deepen our understanding of the significance of birthrig
 Grade: 90
 
 Comment: The response effectively connects the passages to the value of birthright in God's plan, emphasizes holiness, and discusses the consequences of disregarding one's spiritual inheritance in a contemporary Christian context. It demonstrates a strong understanding of the scriptural teachings on birthright and effectively applies them to Christian life today.
+
+[&lt;- Link to Answer](../Scriptural_References_4.md)

@@ -27,3 +27,5 @@ So, from an Islamic perspective, the rainbow serves as a sign of Allah's covenan
 Grade: 40
 
 Comment: While the response provides a detailed explanation from an Islamic perspective about the significance of the rainbow as a symbol of God's promise and mercy, the concern specifically asks for an understanding of God's covenant and promises in the Bible. The response does not address this concern directly, so the grade is lower. It is important to focus on addressing the specific concern when providing a response.
+
+[&lt;- Link to Answer](../Sign_as_Covenant.md)

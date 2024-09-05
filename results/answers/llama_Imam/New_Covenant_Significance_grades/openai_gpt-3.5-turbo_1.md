@@ -31,3 +31,5 @@ Ultimately, Islam views itself as a continuation of the same divine guidance giv
 Grade: 20
 
 Comment: While the response provides a comprehensive explanation of Islamic beliefs regarding prophets, including Jesus, it does not address the specific concerns raised regarding the transformative power of Jesus' sacrifice within the context of God's promises. From a Christian perspective, the response does not acknowledge the centrality of Jesus' sacrifice in providing atonement for sin and establishing the new covenant between God and humanity.
+
+[&lt;- Link to Answer](../New_Covenant_Significance.md)

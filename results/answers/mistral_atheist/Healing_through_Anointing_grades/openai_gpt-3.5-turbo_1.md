@@ -29,3 +29,5 @@ In summary, the practice of anointing in the New Testament is related to healing
 Grade: 95
 
 Comment: The response provides a comprehensive explanation of the significance of anointing in relation to healing in the New Testament, incorporating scriptural references and demonstrating an understanding of the spiritual and physical healing aspects of Christian practice. The explanation is well-supported and aligns effectively with a Christian worldview.
+
+[&lt;- Link to Answer](../Healing_through_Anointing.md)

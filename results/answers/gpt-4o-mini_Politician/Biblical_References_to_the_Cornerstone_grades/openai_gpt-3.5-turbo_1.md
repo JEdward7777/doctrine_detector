@@ -38,3 +38,5 @@ These verses collectively convey the message that Jesus serves as the essential 
 Grade: 95
 
 Comment: The response provides an excellent analysis of the concept of Jesus as the cornerstone based on various Bible verses, clearly illustrating His foundational role in faith and the Church. The selection and explanation of the verses effectively highlight Jesus' significance in the believer's faith. The mention of exploring scripture to deepen understanding aligns well with a Christian worldview that emphasizes the importance of studying God's Word to grow in knowledge and faith. Overall, this response is thorough, insightful, and demonstrates a strong understanding of the topic.
+
+[&lt;- Link to Answer](../Biblical_References_to_the_Cornerstone.md)

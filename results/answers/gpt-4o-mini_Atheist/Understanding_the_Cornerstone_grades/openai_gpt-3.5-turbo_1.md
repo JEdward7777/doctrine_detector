@@ -33,3 +33,5 @@ In a culturally relevant context, the role of Jesus as the 'cornerstone' can be 
 Grade: 95
 
 Comment: The response provides a comprehensive and well-explained understanding of Jesus Christ as the 'cornerstone' in the context of the church. It effectively addresses the concern by highlighting the impact of recognizing Christ's significance on a believer's faith and community involvement. The connection between Christ as the foundational support for the Assembly and the implications for faith and community engagement is clearly articulated. Great job!
+
+[&lt;- Link to Answer](../Understanding_the_Cornerstone.md)

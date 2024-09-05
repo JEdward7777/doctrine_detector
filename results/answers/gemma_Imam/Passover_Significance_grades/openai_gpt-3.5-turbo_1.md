@@ -25,3 +25,5 @@ The parallels between the Passover story and the Christian faith are striking. J
 Grade: 90
 
 Comment: The response effectively demonstrates an understanding of the connection between the Old Testament Passover and the New Testament revelation of Jesus. It accurately highlights Jesus as the Passover Lamb, symbolizing His perfect and sinless sacrifice for humanity. The additional information provided on how Christians see Jesus' crucifixion during the Passover festival as fulfilling prophecies and parallels between the Passover story and Christian faith enriches the response. Overall, a comprehensive and coherent explanation from a Christian worldview.
+
+[&lt;- Link to Answer](../Passover_Significance.md)

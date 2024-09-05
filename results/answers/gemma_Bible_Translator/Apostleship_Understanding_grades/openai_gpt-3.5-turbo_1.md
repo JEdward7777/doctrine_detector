@@ -61,3 +61,5 @@ Understanding the role of apostleship in the context of the Great Commission.
 Grade: 95
 
 Comment: The response provides a comprehensive and detailed explanation of the significance of the apostles being sent by Jesus in spreading the gospel, addressing various aspects such as authorship, mandate, witnessing power, establishing the Church, preservation of the faith, continuity of the gospel, global expansion, and divine appointment. It effectively connects the role of apostleship to the Great Commission by highlighting the authority and crucial mission entrusted to the apostles by Jesus. Overall, this response demonstrates a strong understanding of the Christian worldview and effectively addresses the concern raised.
+
+[&lt;- Link to Answer](../Apostleship_Understanding.md)

@@ -82,3 +82,5 @@ One area where the response could be strengthened is in its failure to explicitl
 Additionally, while the response highlights the importance of advocacy and service, it may benefit from a greater emphasis on the role of prayer and spiritual formation in addressing injustice. Prayer and spiritual formation are essential components of a Christian response to injustice, and their omission from the response detracts slightly from its overall impact.
 
 Overall, however, this response is strong and provides a helpful framework for understanding and addressing the many forms of injustice that exist in our world today.
+
+[&lt;- Link to Answer](../Injustice_in_Society.md)

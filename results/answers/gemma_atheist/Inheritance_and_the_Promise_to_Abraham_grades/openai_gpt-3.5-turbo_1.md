@@ -21,3 +21,5 @@ The premise of your question is based on a belief in a supernatural deity and is
 Grade: 20
 
 Comment: The response provided by the atheist scholar completely disregards the Christian perspective in evaluating the answer given. While it's valid for the scholar to approach the question from their atheistic worldview, the complete dismissal of discussing the concept of God's covenant with Abraham from a Christian worldview hinders the ability to adequately engage with the specific concern given.
+
+[&lt;- Link to Answer](../Inheritance_and_the_Promise_to_Abraham.md)

@@ -56,3 +56,5 @@ The response is also strong in its recognition of Jesus' promise being fulfilled
 One area for improvement could be to provide more depth and detail on the symbolic significance of the 50th day after Jesus' resurrection. While the writer touches on this point, it is not fully developed, and a stronger connection to the ascension of Christ into heaven could have been made.
 
 Overall, however, this response demonstrates a good understanding of the role of the Holy Spirit in the life of believers and provides several key points that highlight the significance of the Day of Pentecost.
+
+[&lt;- Link to Answer](../Significance_of_Pentecost.md)

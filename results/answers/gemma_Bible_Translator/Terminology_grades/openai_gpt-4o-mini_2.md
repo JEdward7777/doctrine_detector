@@ -41,3 +41,5 @@ Recognizing the various ways to identify service roles within the church.
 Grade: 90
 
 Comment: The response not only provides alternative terms for "deacon" but also includes biblical references, contemporary terms, and additional options which show a deep understanding of the diverse ways to identify service roles within the church. The suggestions are thoughtful and align well with a Christian worldview that values serving, leadership, stewardship, and community engagement. This comprehensive approach merits a high grade.
+
+[&lt;- Link to Answer](../Terminology.md)

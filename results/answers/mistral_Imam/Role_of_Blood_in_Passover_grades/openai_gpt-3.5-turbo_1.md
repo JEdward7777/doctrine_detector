@@ -29,3 +29,5 @@ In conclusion, while the blood in the Passover event is a significant symbol of 
 Grade: 60
 
 Comment: The response provides a decent explanation of the significance of the blood in the Passover event within the context of God's protection and deliverance. However, the concern about understanding the importance of sacrifice and atonement in the Christian faith was not fully addressed. The response could have tied in the concept of atonement through the shedding of blood in the Old Testament sacrificial system as a foreshadowing of Jesus Christ's ultimate sacrifice for the forgiveness of sins in Christianity. More emphasis on the Christian perspective on sacrifice and atonement would have improved the response.
+
+[&lt;- Link to Answer](../Role_of_Blood_in_Passover.md)

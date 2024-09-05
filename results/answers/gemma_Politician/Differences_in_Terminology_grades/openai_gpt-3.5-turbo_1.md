@@ -55,3 +55,5 @@ Clarifying the appropriate use of different forms of encouragement according to 
 Grade: 85
 
 Comment: The response accurately defines 'exhort,' 'encourage,' and 'admonish' in general terms, but the addition of Christian scripture or principles would enhance the response from a Christian worldview perspective. Specifically, referencing biblical passages that illustrate the concept of encouragement and admonishment in the context of guiding others toward righteousness would provide a more thorough Christian analysis.
+
+[&lt;- Link to Answer](../Differences_in_Terminology.md)

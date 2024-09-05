@@ -21,3 +21,5 @@ The premise of your question is inaccurate. There is no evidence to support the 
 Grade: 80
 
 Comment: The response addresses the concern by affirming the importance of the Lord's Supper in the life of the church and individual believers. However, it could be strengthened by providing additional biblical references or insights to support this claim from a Christian worldview perspective.
+
+[&lt;- Link to Answer](../Regular_Practice.md)

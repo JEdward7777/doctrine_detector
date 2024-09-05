@@ -27,3 +27,5 @@ In summary, manna symbolizes God's unwavering care and provision, encouraging be
 Grade: 90
 
 Comment: The response provides a well-articulated and insightful perspective on the significance of manna within an Islamic context, emphasizing God's provision and care for His people. It effectively highlights the importance of recognizing and acknowledging God's ongoing provision in the lives of believers, aligning well with the concern provided. The response beautifully conveys the message of reliance on God and gratitude for His blessings, in a manner consistent with a Christian worldview focusing on God's faithfulness and care for His people. Well done!
+
+[&lt;- Link to Answer](../Symbolism_of_Manna.md)

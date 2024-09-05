@@ -27,3 +27,5 @@ These are just a few examples of passages that refer to the temple as the "house
 Grade: 90
 
 Comment: The response provides additional key scriptures that discuss the concept of the temple as the "house of Yahweh," aligning well with the concern. However, the response could have been further improved by elaborating on the significance and meaning behind these verses within the context of God's dwelling place and relationship with His people.
+
+[&lt;- Link to Answer](../Biblical_References_to_the_Temple.md)

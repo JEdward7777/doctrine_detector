@@ -21,3 +21,5 @@ In the construction of the high priest's ephod, according to the Bible in the bo
 Grade: 90
 
 Comment: The response accurately describes the materials used in the construction of the high priest's ephod in accordance with the Biblical account. The focus on the significance of the materials emphasizes the importance of the ephod's design and symbolism in the worship practices of the Israelites, showcasing attention to detail and understanding of its religious context.
+
+[&lt;- Link to Answer](../Ephod_materials.md)

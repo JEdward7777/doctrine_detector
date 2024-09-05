@@ -21,3 +21,5 @@ Recognizing the source of goodness in our actions and beliefs.
 Grade: 85
 
 Comment: The response effectively connects the given answer to the concern by highlighting the Christian perspective on the source of goodness being rooted in the moral perfection and righteousness of God. It demonstrates a good understanding of how this biblical principle informs ethical conduct from a Christian worldview.
+
+[&lt;- Link to Answer](../God_as_Good.md)

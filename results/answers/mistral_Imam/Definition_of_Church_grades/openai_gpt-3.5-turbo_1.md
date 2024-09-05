@@ -21,3 +21,5 @@ Understanding of the church's role as more than just a building.
 Grade: 90
 
 Comment: The response provides a clear and accurate explanation of the concept of "church" in the New Testament, emphasizing that it refers to a spiritual community of believers in Jesus Christ and not just a physical building. The understanding of the church's role as a spiritual family for worship, fellowship, teaching, and service is well articulated. However, to improve the grade further, the response could have elaborated more on the distinction between the church as a community of believers and the physical structures where they gather for worship.
+
+[&lt;- Link to Answer](../Definition_of_Church.md)

@@ -35,3 +35,5 @@ In conclusion, using "LORD" instead of writing out YHWH is a nod to both Jewish 
 Grade: 90
 
 Comment: The response provides a comprehensive and detailed explanation of why many Bible translations use "LORD" in place of the sacred name YHWH out of respect for God's name. It effectively addresses the concern of maintaining reverence for God's name in sacred texts and highlights the historical and theological reasons behind this translation practice. The explanation is clear and demonstrates a deep understanding of the topic from a Christian worldview.
+
+[&lt;- Link to Answer](../Translation_Practices.md)

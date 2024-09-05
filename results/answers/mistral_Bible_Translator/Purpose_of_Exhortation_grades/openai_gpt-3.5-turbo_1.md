@@ -21,3 +21,5 @@ Understanding the biblical basis for encouraging others in their faith journey.
 Grade: 90
 
 Comment: The response provides a comprehensive view of the primary purpose of exhortation in the New Testament, emphasizing the aspects of encouragement, instruction, and challenging believers in their faith. It effectively addresses the concern by explaining the biblical basis for encouraging others in their faith journey through references to scriptures and highlighting the importance of living a life worthy of the Gospel, demonstrating love for God and others, applying biblical principles, fostering holiness, promoting unity, and obedience to God's commands. Overall, a strong and well-supported response.
+
+[&lt;- Link to Answer](../Purpose_of_Exhortation.md)

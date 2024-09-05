@@ -21,3 +21,5 @@ The term "Christian" to describe Jesus' followers first emerged in the **second 
 Grade: 80
 
 Comment: The response correctly identifies Antioch as the location where Jesus' followers were first called Christians, showing an understanding of the historical context. However, there could have been more emphasis on the significance of this term emerging in the second century AD within non-Jewish writings to provide a more comprehensive understanding.
+
+[&lt;- Link to Answer](../Origin_of_the_Term.md)

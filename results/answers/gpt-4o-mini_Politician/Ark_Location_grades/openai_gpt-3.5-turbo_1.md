@@ -21,3 +21,5 @@ The Ark of the Covenant was located in the innermost chamber of the Tabernacle, 
 Grade: 90
 
 Comment: The response accurately identifies the location of the Ark of the Covenant in the Most Holy Place, demonstrating knowledge of its significance as the space where the presence of God dwelt among the Israelites. The mention of the Ark representing the presence of God reflects an understanding of the theological and spiritual importance attached to this sacred artifact. The only slight improvement could be to provide a bit more detail on the significance of God's presence within the context of the Ark and the Most Holy Place.
+
+[&lt;- Link to Answer](../Ark_Location.md)

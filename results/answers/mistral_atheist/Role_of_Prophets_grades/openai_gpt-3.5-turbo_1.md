@@ -21,3 +21,5 @@ Understanding the biblical role of prophets and their messages.
 Grade: 90
 
 Comment: The response provides a clear and accurate understanding of the biblical role of prophets in communicating God's messages to the people, emphasizing the importance of warning people to turn away from sin and obey God. The reference to interceding on behalf of the people and engaging in acts of healing, miracles, and leadership during critical times could have been elaborated on more to further demonstrate the holistic role of prophets in the Bible.
+
+[&lt;- Link to Answer](../Role_of_Prophets.md)

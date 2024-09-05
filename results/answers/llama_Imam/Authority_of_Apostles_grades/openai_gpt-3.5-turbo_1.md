@@ -31,3 +31,5 @@ May Allah (swt) guide us all to follow in their footsteps and may our faith be s
 Grade: 90
 
 Comment: The response effectively explores the divine empowerment and authority bestowed upon the apostles for ministry from a Christian perspective, drawing parallels between the authority given to the apostles by Jesus and the authority granted to prophets in Islam by Allah. It acknowledges the role of miracles in confirming the apostles' message and emphasizes the divine origin of their authority. The only slight deduction is for not focusing solely on the Christian perspective, as the response also incorporates Islamic beliefs, albeit to make a comparative analysis.
+
+[&lt;- Link to Answer](../Authority_of_Apostles.md)

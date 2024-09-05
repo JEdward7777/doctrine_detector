@@ -29,3 +29,5 @@ These examples illustrate the different types of covenants in the Bible, showing
 Grade: 90
 
 Comment: This response effectively discusses the dynamics of unconditional and conditional covenants in the Bible, providing clear examples to support the explanation. The student demonstrates a good understanding of how God's promises and expectations differ in these types of covenants from a Christian worldview. The response could be improved by elaborating on how these different types of covenants reflect God's character and relationship with humanity.
+
+[&lt;- Link to Answer](../Covenant_Conditions.md)

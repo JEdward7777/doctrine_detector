@@ -21,3 +21,5 @@ As an atheistic scholar, I approach this question from a historical and cultural
 Grade: 90
 
 Comment: The response effectively addresses the concern by accurately summarizing the mission of discipleship within the context of the Great Commission as commanded by Jesus. The connection between the given answer and the concern is clear, showcasing a solid understanding of the Christian perspective on discipleship.
+
+[&lt;- Link to Answer](../The_Great_Commission.md)

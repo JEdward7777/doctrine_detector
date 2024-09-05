@@ -25,3 +25,5 @@ In this way, God taught the Israelites respect for the Sabbath day and the impor
 Grade: 95
 
 Comment: The response accurately explains the importance of observing the Sabbath according to God's commands by referencing the specific instruction for gathering manna in preparation for the Sabbath. It effectively aligns with a Christian worldview by highlighting the significance of rest and obedience to God's directives. The inclusion of relevant biblical and Quranic references further enhances the thoroughness of the explanation. Great job in addressing the concern within a Christian perspective!
+
+[&lt;- Link to Answer](../Sabbath_Observance_2.md)

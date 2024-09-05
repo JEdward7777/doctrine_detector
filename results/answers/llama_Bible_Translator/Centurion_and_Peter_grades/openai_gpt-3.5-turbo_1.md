@@ -38,3 +38,5 @@ In summary, the centurion's visit from Peter illustrates the expansion of the Go
 Grade: 95
 
 Comment: The response provides a comprehensive and insightful analysis of the centurion's visit from Peter in Acts 10, highlighting key aspects that support the understanding of the mission of the Church to reach all nations and the inclusivity of the Gospel. It effectively expands on the significance of this event in opening up the Gospel message to the Gentiles and emphasizing God's love and salvation for all people. The essay demonstrates a deep understanding of the Christian worldview on evangelism and the inclusive nature of God's plan of salvation. Well done!
+
+[&lt;- Link to Answer](../Centurion_and_Peter.md)

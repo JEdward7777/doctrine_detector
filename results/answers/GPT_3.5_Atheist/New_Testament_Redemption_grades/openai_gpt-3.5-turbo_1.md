@@ -25,3 +25,5 @@ Therefore, while purification in the Old Testament was largely ritualistic and o
 Grade: 95
 
 Comment: The response does an excellent job at recognizing the sufficiency of Christ's sacrifice as the means of eternal purification from sin, aligning well with Christian beliefs. It effectively contrasts the Old Testament ritualistic approach to purification with the spiritual transformation brought about by Jesus in the New Testament. The only slight improvement could be further emphasizing the importance of faith in Jesus as central to this purification process.
+
+[&lt;- Link to Answer](../New_Testament_Redemption.md)

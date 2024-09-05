@@ -27,3 +27,5 @@ Overall, the phrase signifies an ethical and moral obligation to contribute posi
 Grade: 95
 
 Comment: This response provides a well-explained and detailed explanation of the concept of "do good to" within a Christian context, drawing on specific biblical references and teachings. It effectively conveys the Christian worldview of showing kindness, compassion, and generosity towards all, reflecting Christ's love. The response addresses the concern by clearly emphasizing the importance of Christians living out their faith through good deeds.
+
+[&lt;- Link to Answer](../Doing_Good.md)

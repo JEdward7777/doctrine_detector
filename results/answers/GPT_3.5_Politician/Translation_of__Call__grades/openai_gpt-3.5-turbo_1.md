@@ -26,3 +26,5 @@ In a biblical context, some alternative translations of the phrase "You must cal
 Grade: 90
 
 Comment: The response provides thoughtful alternative translations that align well with the concern of understanding the nuances of biblical language. The suggested translations capture the essence of the original phrase while emphasizing the act of naming in a biblical context. The response demonstrates a good grasp of how language impacts interpretation within a Christian worldview.
+
+[&lt;- Link to Answer](../Translation_of__Call_.md)

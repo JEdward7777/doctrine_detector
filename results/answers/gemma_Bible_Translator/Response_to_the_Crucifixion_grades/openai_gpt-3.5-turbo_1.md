@@ -21,3 +21,5 @@ The biblical record does not provide any indication that Peter addressed the cro
 Grade: 80
 
 Comment: The response accurately addresses the concern by providing information on Peter's preaching and the call to respond to the gospel. However, it does not explicitly address the specific event of Peter addressing the crowd regarding their role in the crucifixion of Jesus Christ, which was the primary focus of the question.
+
+[&lt;- Link to Answer](../Response_to_the_Crucifixion.md)

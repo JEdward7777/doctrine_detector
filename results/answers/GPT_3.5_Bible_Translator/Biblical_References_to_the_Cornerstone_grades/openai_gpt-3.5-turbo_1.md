@@ -32,3 +32,5 @@ These verses collectively convey that Jesus is the foundational stone of the Chr
 Grade: 95
 
 Comment: The response provides a thorough explanation of the significance of Jesus as the cornerstone in the Christian faith, drawing from specific Bible verses. It effectively addresses the concern by encouraging believers to explore scripture to deepen their understanding of Jesus' importance. The references to Acts 4:11, Ephesians 2:20, Matthew 21:42, and Psalms 118:22 offer a strong foundation for the discussion on Jesus as the cornerstone. Overall, this response demonstrates a solid understanding of the topic from a Christian worldview.
+
+[&lt;- Link to Answer](../Biblical_References_to_the_Cornerstone.md)

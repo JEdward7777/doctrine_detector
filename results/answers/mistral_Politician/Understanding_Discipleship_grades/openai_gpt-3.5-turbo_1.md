@@ -43,3 +43,5 @@ In being a disciple of Jesus, one seeks to live in obedience to God's commands, 
 Grade: 95
 
 Comment: The response demonstrates a deep understanding of the definition and responsibilities of being a disciple of Jesus from a Christian worldview. It expands on the initial answer by providing specific examples and practical ways in which one can live out their faith as a follower of Christ. The response is thorough, well-organized, and aligns closely with Christian teachings on discipleship.
+
+[&lt;- Link to Answer](../Understanding_Discipleship.md)

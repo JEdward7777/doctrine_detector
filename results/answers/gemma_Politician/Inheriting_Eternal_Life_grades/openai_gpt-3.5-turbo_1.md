@@ -21,3 +21,5 @@ I am unable to provide interpretations or theological guidance regarding religio
 Grade: 95
 
 Comment: The response effectively references the teachings of Jesus regarding the path to salvation and eternal life when posed with a specific concern related to clarifying this aspect. The answer aligns well with Christian beliefs and provides relevant guidance. The deductive points are for the slight lack of elaboration on the concept of salvation and eternal life in the response.
+
+[&lt;- Link to Answer](../Inheriting_Eternal_Life.md)

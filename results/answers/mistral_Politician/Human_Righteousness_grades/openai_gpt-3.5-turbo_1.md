@@ -21,3 +21,5 @@ Clarifying the basis for human righteousness as it relates to faith in Jesus is 
 Grade: 90
 
 Comment: The response effectively clarifies the basis for human righteousness in the Christian faith by emphasizing the importance of faith in Jesus for salvation. It aligns with the concern provided and presents a clear explanation within a Christian worldview.
+
+[&lt;- Link to Answer](../Human_Righteousness.md)

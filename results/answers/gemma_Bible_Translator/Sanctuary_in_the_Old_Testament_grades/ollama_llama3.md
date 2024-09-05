@@ -66,3 +66,5 @@ While the student does acknowledge that God referred to the sanctuary as a place
 The concern is about recognizing the importance of the sanctuary as a dwelling place for God, which the student does address. However, they could have gone further to discuss its significance as a source of safety and protection, as well as its connection to God's presence among His people.
 
 To receive a higher grade, the response would need to demonstrate a more comprehensive understanding of the sanctuary and its significance in the Old Testament, including its role in worship, reconciliation, representation of God's character, and community and covenant.
+
+[&lt;- Link to Answer](../Sanctuary_in_the_Old_Testament.md)

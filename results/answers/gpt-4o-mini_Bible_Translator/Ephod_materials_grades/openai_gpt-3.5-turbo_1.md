@@ -27,3 +27,5 @@ The ephod was a significant part of the high priest's garments, symbolizing his 
 Grade: 85
 
 Comment: The response provides a detailed description of the materials used in the high priest's ephod, aligning well with the concern that knowing these specifics emphasizes the design and symbolism of the ephod in worship. The inclusion of gold, blue, purple, and scarlet yarn, along with fine linen, demonstrates an understanding of the ephod's symbolic significance and its role in the priestly duties. However, it could have been improved by referencing the biblical passage for further validation.
+
+[&lt;- Link to Answer](../Ephod_materials.md)

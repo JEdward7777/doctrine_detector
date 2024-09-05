@@ -25,3 +25,5 @@ In these accounts, Jesus is said to have celebrated the Passover meal with his d
 Grade: 95
 
 Comment: The response overall did an excellent job of identifying relevant biblical texts, specifically connecting the concept of unleavened bread to Christian practices through the Passover and New Testament narratives. The reference to 1 Corinthians 5:6-8 further supported the discussion on unleavened bread in the context of removing sin and maintaining purity within the Christian faith. The response demonstrates a strong understanding of Christian beliefs and practices.
+
+[&lt;- Link to Answer](../Biblical_References_5.md)

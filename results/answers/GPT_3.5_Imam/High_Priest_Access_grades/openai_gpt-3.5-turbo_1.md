@@ -27,3 +27,5 @@ As Muslims, we are taught to respect and revere all the Prophets and the sacred 
 Grade: 90
 
 Comment: The response provides a comprehensive overview of the Islamic perspective on the Ark of the Covenant and its reverence, while acknowledging the specific role of the high priest in the Israelite's relationship with God and the covenant. The answer demonstrates a respectful understanding of the Christian beliefs regarding the Ark and the high priest's role.
+
+[&lt;- Link to Answer](../High_Priest_Access.md)

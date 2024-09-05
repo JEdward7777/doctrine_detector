@@ -51,3 +51,5 @@ Recognizing this principle is crucial for maintaining a proper relationship with
 Grade: 95
 
 Comment: The response provided a thorough explanation supported by biblical references on why putting God to the test is considered wrong from a Christian perspective. It effectively addressed the concern by emphasizing the importance of maintaining a proper relationship with God. The response demonstrated a solid understanding of the Christian worldview and effectively conveyed the key principles involved. Great job!
+
+[&lt;- Link to Answer](../Testing_God.md)

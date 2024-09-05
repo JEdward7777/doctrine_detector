@@ -37,3 +37,5 @@ Thank you for asking about this wonderful aspect of the New Covenant! *beams*
 Grade: 80
 
 Comment: The response effectively explains the concept of God writing His law on our hearts, emphasizing the transformative relationship with God and the internalization of His laws. The discussion beautifully captures the essence of the New Covenant and how it differs from the Old Testament law. The response could have been improved by providing more specific examples or references to biblical passages to deepen the explanation. Nevertheless, the overall understanding and articulation of the transition from the Old Testament law to the principles of the New Covenant are evident.
+
+[&lt;- Link to Answer](../The_New_Covenant.md)

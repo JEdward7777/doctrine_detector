@@ -35,3 +35,5 @@ In the New Testament (Acts 2:1), we find the account of the first celebration of
 Grade: 60
 
 Comment: The response provided accurate information about the Festival of Weeks (Pentecost) as referenced in Leviticus, Exodus, and Numbers, as well as the New Testament account in Acts. However, the answer given by the student regarding additional references to Pentecost in 2 Chronicles, Deuteronomy, and Acts is incorrect. This misrepresentation shows a lack of understanding of the specific biblical texts related to the observance and significance of Pentecost, resulting in a lower grade.
+
+[&lt;- Link to Answer](../Biblical_References_to_Pentecost.md)

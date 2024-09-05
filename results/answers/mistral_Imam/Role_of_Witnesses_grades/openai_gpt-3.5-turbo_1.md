@@ -31,3 +31,5 @@ In Islamic belief, the Quran acknowledges Jesus as a prophet and mentions some o
 Grade: 90
 
 Comment: The response effectively highlights the importance of witnesses in the New Testament, specifically in the context of Jesus' life, death, and resurrection. It demonstrates a clear understanding of the role of eyewitnesses in confirming religious truths. The connection to the concern about Christians being called to witness their faith and share personal experiences is well made, reflecting a Christian worldview that values the role of personal testimony in spreading the Gospel message.
+
+[&lt;- Link to Answer](../Role_of_Witnesses.md)

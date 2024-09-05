@@ -23,3 +23,5 @@ The comparison between Jesus and the sacrificial lambs in the Old Testament high
 Grade: 90
 
 Comment: The response provides a solid explanation of why Jesus is referred to as the "Lamb of God" and how his sacrifice is connected to the sacrificial system in the Old Testament. The answer aligns well with the concern of understanding Jesus' sacrificial role in fulfilling God's plan for redemption from a Christian perspective. However, it could have elaborated more on the unique theological significance of Jesus as the ultimate sacrifice in comparison to the sacrificial lambs of the Old Testament, hence the minor deduction in points.
+
+[&lt;- Link to Answer](../Understanding_Sacrifice.md)

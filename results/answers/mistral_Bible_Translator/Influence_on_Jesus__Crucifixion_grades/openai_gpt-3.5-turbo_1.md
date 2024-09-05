@@ -29,3 +29,5 @@ In summary, both the Sadducees and Pharisees played key roles in setting events 
 Grade: 95
 
 Comment: The response provides a detailed analysis of the roles played by the Sadducees and Pharisees in the crucifixion of Jesus, showcasing a deep understanding of the historical and religious context. It effectively relates the conflict between Jesus and the religious leaders to contemporary faith by highlighting themes of self-interest, hypocrisy, and the importance of aligning with God's will. The Christian worldview is well-supported throughout the response, earning a high grade.
+
+[&lt;- Link to Answer](../Influence_on_Jesus__Crucifixion.md)

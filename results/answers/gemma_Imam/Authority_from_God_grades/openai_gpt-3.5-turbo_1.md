@@ -50,3 +50,5 @@ Understanding divine authority helps believers discern God's will and maintain o
 Grade: 90
 
 Comment: The response effectively addresses the concern by highlighting how understanding divine authority assists believers in discerning God's will and maintaining obedience in their faith journey. The points presented are thorough and demonstrate a strong understanding of the significance of divine authority in Islam from a Christian worldview.
+
+[&lt;- Link to Answer](../Authority_from_God.md)

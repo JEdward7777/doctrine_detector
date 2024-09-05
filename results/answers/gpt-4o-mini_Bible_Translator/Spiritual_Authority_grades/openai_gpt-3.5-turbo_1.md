@@ -39,3 +39,5 @@ In summary, while both spiritual and earthly authorities play important roles in
 Grade: 95
 
 Comment: The response demonstrates a deep understanding of the distinction between spiritual and earthly authorities as presented in the biblical context. The analysis is thorough and detailed, highlighting the source, purpose, nature of governance, and the aspect of obedience and accountability for both types of authorities. The response effectively addresses the concern raised regarding the implications of these authorities in a Christian's life, providing relevant scriptural references to support the discussion. This demonstrates a strong grasp of the Christian worldview on the topic. Great job!
+
+[&lt;- Link to Answer](../Spiritual_Authority.md)

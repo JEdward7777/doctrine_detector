@@ -35,3 +35,5 @@ In summary, being a priest in the New Testament means that every believer in Jes
 Grade: 95
 
 Comment: The response provides a thorough and insightful explanation of the concept of the priesthood of all believers in light of New Testament teachings. It effectively expands on the idea beyond just intercession, highlighting key aspects such as direct access to God, worship as sacrifice, participation in Christ's ministry, and unity among believers. The biblical references and application to daily Christian living enhance the depth of understanding and application of this important concept. Well done!
+
+[&lt;- Link to Answer](../New_Testament_Priesthood.md)

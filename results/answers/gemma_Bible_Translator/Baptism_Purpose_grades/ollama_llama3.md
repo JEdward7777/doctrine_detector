@@ -60,3 +60,5 @@ Comment: The response provides a good overview of the significance of baptism in
 The response is strongest when discussing the symbolic nature of baptism (identification with Christ, forgiveness of sins, regeneration) and its role in public profession of faith. The mention of baptism as an ordinance established by Jesus Christ also adds credibility to the discussion.
 
 To increase the grade, it would be helpful to provide more depth and analysis on the biblical passages used to support each point, as well as a clearer explanation of how these various aspects of baptism work together to demonstrate its importance in the Christian faith.
+
+[&lt;- Link to Answer](../Baptism_Purpose.md)

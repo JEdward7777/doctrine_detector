@@ -21,3 +21,5 @@ I am unable to provide interpretations of religious texts or theological concept
 Grade: 95
 
 Comment: The student provided a strong and accurate response regarding the concept of God's wrath and the importance of repentance in Christianity. The only slight deduction is due to the initial disclaimer about interpreting religious texts, which, while approachable, could have been expressed more confidently within a Christian worldview. Nonetheless, the answer demonstrates a clear understanding of the Christian perspective on repentance and God's judgment.
+
+[&lt;- Link to Answer](../Repentance_and_Judgment.md)

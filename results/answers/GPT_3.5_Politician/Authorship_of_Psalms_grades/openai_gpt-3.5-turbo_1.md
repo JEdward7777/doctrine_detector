@@ -21,3 +21,5 @@ The Psalms are a collection of sacred texts found in the Bible, traditionally at
 Grade: 70
 
 Comment: The response correctly identifies key figures involved in writing the Psalms, which is important for understanding the authorship of the texts. However, the answer could be improved by further elaborating on how recognizing the authorship of Psalms enhances understanding of their messages and themes from a Christian perspective. It would have been beneficial to emphasize how the personal experiences and relationships of these authors with God influenced the content and themes of the Psalms, providing deeper insight into their spiritual significance.
+
+[&lt;- Link to Answer](../Authorship_of_Psalms.md)

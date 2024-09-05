@@ -56,3 +56,5 @@ The concept of "remnant" in Isaiah and Amos reveals God's faithfulness to his co
 Grade: 85
 
 Comment: This response effectively expands on the concept of "remnant" by providing multiple Biblical events that illustrate the idea, as well as relevant passages and interpretation. The response demonstrates a clear understanding of how the remnant theme plays a significant role in showcasing God's faithfulness to his promises throughout history. The only room for improvement would be to further connect the Biblical events and passages mentioned with the concept of God's covenant with his people.
+
+[&lt;- Link to Answer](../Historical_Context.md)

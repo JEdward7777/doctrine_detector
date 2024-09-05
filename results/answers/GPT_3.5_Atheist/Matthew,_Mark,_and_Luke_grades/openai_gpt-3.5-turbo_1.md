@@ -21,3 +21,5 @@ The names of the twelve disciples can be found in the New Testament, specificall
 Grade: 85
 
 Comment: The response accurately identifies where the names of the twelve disciples can be found in the New Testament but falls short in not mentioning the book of Acts where the disciples are also listed. The concern about being familiar with the Gospel accounts and their teachings is addressed well overall.
+
+[&lt;- Link to Answer](../Matthew,_Mark,_and_Luke.md)

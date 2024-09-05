@@ -29,3 +29,5 @@ In this sense, Christians may view Passover as an anticipation or foreshadowing 
 Grade: 90
 
 Comment: The response effectively explains the connection between the Old Testament Passover and the New Testament revelation of Jesus as the Passover Lamb, emphasizing the significance of Jesus' sacrifice for humanity. It demonstrates a clear understanding of the Christian perspective on the relationship between these two events, highlighting key biblical references and themes. The only minor deduction is for not explicitly acknowledging the speaker's atheistic perspective, which could have provided a more nuanced approach to the discussion.
+
+[&lt;- Link to Answer](../Passover_Significance.md)

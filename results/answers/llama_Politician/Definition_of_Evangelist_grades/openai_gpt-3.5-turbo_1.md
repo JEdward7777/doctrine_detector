@@ -25,3 +25,5 @@ Now, I know that some folks might associate the term "evangelist" with more cont
 Grade: 90
 
 Comment: This response offers a detailed explanation of the role of an evangelist in sharing the gospel, touching on the historical context, roots in early Christianity, and the core message of hope and redemption. The student effectively connects the literal meaning of "evangelist" to the broader concept of spreading the good news. Overall, a strong understanding and articulation of the evangelist's role in sharing the gospel from a Christian perspective.
+
+[&lt;- Link to Answer](../Definition_of_Evangelist.md)

@@ -33,3 +33,5 @@ These terms all point to the same sacred meal, which is a reminder of Christ's s
 Grade: 95
 
 Comment: The response provides a thorough explanation of the various terms used within Christianity to refer to the Lord's Supper, offering detailed examples and insights into their significance across different denominations. The connection to Biblical references and the theological implications of each term are well-articulated from a Christian perspective.
+
+[&lt;- Link to Answer](../Terminology_2.md)

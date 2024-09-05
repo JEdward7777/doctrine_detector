@@ -27,3 +27,5 @@ From an Islamic perspective, while Muslims do not believe in the crucifixion and
 Grade: 85
 
 Comment: The response effectively ties in the importance of witnesses in the New Testament to the call for Christians to witness their faith and share personal experiences of God's work. The explanation of the role of witnesses in confirming the life and resurrection of Jesus is clear and aligns well with the concern provided. The connection between the biblical accounts of witnesses and the modern-day application for Christians is well articulated. The discussion on the Islamic perspective, while informative, slightly detracts from the Christian-specific focus of the response.
+
+[&lt;- Link to Answer](../Role_of_Witnesses.md)

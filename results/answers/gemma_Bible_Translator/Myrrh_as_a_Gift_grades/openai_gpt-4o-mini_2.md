@@ -21,3 +21,5 @@ The significance of myrrh as one of the gifts given to Jesus at his birth is not
 Grade: 20
 
 Comment: The student's response lacks depth and fails to engage with the significance of myrrh in relation to Jesus' future suffering and death. A Christian worldview would emphasize the symbolism of gifts given to Jesus to underscore his purpose and mission, which the student missed completely in their response. This lack of theological insight and appreciation for the significance of myrrh in foreshadowing Jesus' sacrificial death warrants a low grade.
+
+[&lt;- Link to Answer](../Myrrh_as_a_Gift.md)

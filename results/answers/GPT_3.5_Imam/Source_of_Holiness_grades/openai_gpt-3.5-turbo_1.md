@@ -21,3 +21,5 @@ In the Islamic faith, we do not have a concept of believers becoming saints as i
 Grade: 90
 
 Comment: The response correctly emphasizes the role of faith in Jesus Christ as the source of holiness in Christianity, aligning well with the concern provided. The answer effectively highlights a key aspect of Christian doctrine.
+
+[&lt;- Link to Answer](../Source_of_Holiness.md)

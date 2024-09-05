@@ -23,3 +23,5 @@ Overall, the teachings suggest that a combination of faith in God, love for othe
 Grade: 85
 
 Comment: The response provides a solid understanding of the importance of following the teachings of Jesus in order to inherit eternal life, drawing from the interaction with the expert in Jewish law. It accurately addresses the concern by focusing on the specific teachings of Jesus regarding salvation. However, it could have been strengthened by incorporating more biblical references and elaborating on the connection between faith, actions, and salvation as taught by Jesus in the Bible.
+
+[&lt;- Link to Answer](../Inheriting_Eternal_Life.md)

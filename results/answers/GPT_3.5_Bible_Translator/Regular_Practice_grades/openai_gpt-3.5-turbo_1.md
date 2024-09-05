@@ -25,3 +25,5 @@ Overall, the Lord's Supper is a sacred practice that serves as a reminder of the
 Grade: 90
 
 Comment: The response demonstrates a deep understanding of the importance of the Lord's Supper in the life of the church and individual believers, highlighting the key aspects of remembrance, proclamation, spiritual communion, fellowship, and unity. The connection to the teachings of Jesus and the apostle Paul is well-articulated, reflecting a strong Christian worldview perspective. A very strong response overall.
+
+[&lt;- Link to Answer](../Regular_Practice.md)

@@ -25,3 +25,5 @@ This directive encourages believers to share the good news of salvation through 
 Grade: 90
 
 Comment: The response provides a solid explanation of the importance of evangelism in the Christian faith based on the Great Commission given by Jesus to his apostles. It accurately reflects the Christian worldview by emphasizing the need to spread the good news of salvation through Jesus Christ to all nations. The response effectively addresses the concern raised regarding the significance of evangelism.
+
+[&lt;- Link to Answer](../Biblical_Exhortation.md)

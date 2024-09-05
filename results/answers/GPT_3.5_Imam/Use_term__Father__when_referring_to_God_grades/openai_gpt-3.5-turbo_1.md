@@ -23,3 +23,5 @@ It is important to use language that accurately conveys the monotheistic nature 
 Grade: 20
 
 Comment: The response provided does not align with a Christian specific worldview as it is discussing Islamic theology and beliefs. It is important to consider the specified concern within the context of Christian theology in order to properly assess the response.
+
+[&lt;- Link to Answer](../Use_term__Father__when_referring_to_God.md)

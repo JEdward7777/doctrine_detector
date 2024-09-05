@@ -26,3 +26,5 @@ Here, Jesus commands his apostles to go out and make disciples (teach people to 
 Grade: 90
 
 Comment: The response provides a strong explanation of Jesus' directive to the apostles to spread the good news and make disciples, aligning well with the Great Commission. It demonstrates an understanding of evangelism as a key aspect of the Christian faith. The only slight improvement could be adding a bit more emphasis on the call to baptize and teach obedience in addition to spreading the good news.
+
+[&lt;- Link to Answer](../Biblical_Exhortation.md)

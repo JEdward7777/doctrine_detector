@@ -27,3 +27,5 @@ Overall, the division of Herod the Great's kingdom into tetrarchies had a negati
 Grade: 80
 
 Comment: The response provides a comprehensive analysis of the impacts of the division of Herod the Great's kingdom into tetrarchies on the Jewish people, addressing political, social, and religious aspects. It effectively expands on the given answer by discussing the consequences of the division in detail. The student demonstrates a good understanding of the historical context and its significance for understanding the socio-political dynamics faced by Jesus and the early church. However, there could have been a deeper exploration of how these dynamics specifically influenced Jesus and the early church in the response.
+
+[&lt;- Link to Answer](../Historical_Context_of_Tetrarchs.md)

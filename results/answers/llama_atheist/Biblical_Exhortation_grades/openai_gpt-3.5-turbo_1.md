@@ -29,3 +29,5 @@ It's worth noting that this directive is often seen as a turning point in Jesus'
 Grade: 90
 
 Comment: The response provides a thorough explanation of the Great Commission and its significance in spreading the teachings of Jesus. It acknowledges the importance of evangelism in the Christian faith and accurately discusses the directive given by Jesus to his apostles. The perspective, although from an atheist viewpoint, demonstrates a clear understanding and respect for the Christian beliefs on evangelism.
+
+[&lt;- Link to Answer](../Biblical_Exhortation.md)

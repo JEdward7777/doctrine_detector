@@ -27,3 +27,5 @@ In summary, keeping promises or vows made before God is a crucial aspect of the 
 Grade: 95
 
 Comment: The response provides a thorough explanation from a Christian perspective on the significance of keeping promises or vows made before God and the impact of failing to do so on one's faith. It effectively ties these concepts to biblical teachings and the importance of integrity, obedience, and trust in God. The explanation is clear, well-supported, and reflects a deep understanding of Christian values and beliefs. Great job!
+
+[&lt;- Link to Answer](../Fulfilling_Promises.md)

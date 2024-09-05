@@ -33,3 +33,5 @@ In summary, the laws given to Moses are integral to the concept of the covenant 
 Grade: 95
 
 Comment: This response provides a comprehensive explanation of how the laws given to Moses are integral to the covenant between God and His people. The student effectively discusses the moral guidance, religious identity, protection, and community-building aspects of the laws within the context of the covenant. The emphasis on obedience to God's commands in maintaining the relationship and the consequences of disobedience is well-addressed. Overall, this response demonstrates a solid understanding of the significance of obedience to God's commands in the context of the covenant from a Christian worldview.
+
+[&lt;- Link to Answer](../Obeying_God_s_Commands.md)

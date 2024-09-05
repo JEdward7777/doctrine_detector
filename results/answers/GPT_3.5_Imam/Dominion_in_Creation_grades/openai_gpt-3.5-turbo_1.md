@@ -27,3 +27,5 @@ Ultimately, both the Bible and the Quran teach that humans have a responsibility
 Grade: 85
 
 Comment: The response effectively addresses the concern by incorporating Christian beliefs on humanity's dominion over creation as stated in the Bible. It also acknowledges the concept of stewardship from an Islamic perspective, emphasizing the shared responsibility to care for the earth and its resources. The inclusion of relevant quotes from both religious texts adds depth to the response and demonstrates a well-rounded understanding of the topic.
+
+[&lt;- Link to Answer](../Dominion_in_Creation.md)

@@ -25,3 +25,5 @@ This relationship can be seen as a system of leadership where the chief priest s
 Grade: 90
 
 Comment: The response provides a comprehensive explanation of the relationship between chief priests and ordinary priests in ancient Israel, focusing on hierarchical authority and responsibilities. The discussion is clear and directly addresses the concern of examining the structure of religious leadership in ancient Israel from a Christian worldview perspective. The response also highlights the importance of understanding and respecting the beliefs and customs of individuals involved in historical religious practices. Overall, this is a well-written and insightful analysis.
+
+[&lt;- Link to Answer](../Chief_Priests__Authority.md)

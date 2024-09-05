@@ -27,3 +27,5 @@ The combination of performing miracles and preaching boldly served to establish 
 Grade: 85
 
 Comment: The response effectively expands on the concept of divine empowerment and authority bestowed upon the apostles by referencing relevant Quranic verses and explaining the role of miracles in confirming their message. However, the response could have further emphasized the unique authority given to the apostles by Jesus specifically within Christian theology to fully address the concern from a Christian worldview.
+
+[&lt;- Link to Answer](../Authority_of_Apostles.md)

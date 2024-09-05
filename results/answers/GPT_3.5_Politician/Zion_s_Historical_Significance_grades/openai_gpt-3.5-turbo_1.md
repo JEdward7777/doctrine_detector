@@ -21,3 +21,5 @@ Mount Zion is historically significant for its association with King David, who 
 Grade: 90
 
 Comment: The response accurately highlights the biblical significance of Mount Zion as a stronghold captured by King David from the Jebusites and its association with Jerusalem and the City of David. It demonstrates a good understanding of the importance of Mount Zion in the biblical narrative and its connection to key figures in Scripture.
+
+[&lt;- Link to Answer](../Zion_s_Historical_Significance.md)

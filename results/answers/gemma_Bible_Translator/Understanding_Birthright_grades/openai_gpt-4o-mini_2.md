@@ -40,3 +40,5 @@ This question seeks to highlight the significance of choices and their spiritual
 Grade: 95
 
 Comment: The response provides a comprehensive analysis of the implications of Esau's decision to sell his birthright to Jacob, highlighting the spiritual consequences within a Christian worldview. The response effectively addresses the concerns raised by emphasizing the loss and gain of inheritance, honor, and spiritual significance for Esau and Jacob. The connection to God's sovereignty and the importance of spiritual inheritance are well articulated, demonstrating a thorough understanding of the biblical account and its implications. Overall, an excellent response providing a strong Christian perspective on the significance of choices and their spiritual consequences.
+
+[&lt;- Link to Answer](../Understanding_Birthright.md)

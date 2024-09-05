@@ -21,3 +21,5 @@ In the context of Islam, which believes in the same prophets mentioned in the Bi
 Grade: 70
 
 Comment: The response acknowledges the role of a prophet in conveying God's messages and warning people to turn away from sin. However, it does not fully address the concern of understanding the biblical role of prophets and their messages, as it focuses more on a general understanding of prophethood across various religions rather than specifically addressing the biblical perspective. Additional emphasis on the specific characteristics and functions of biblical prophets would strengthen the response.
+
+[&lt;- Link to Answer](../Role_of_Prophets.md)

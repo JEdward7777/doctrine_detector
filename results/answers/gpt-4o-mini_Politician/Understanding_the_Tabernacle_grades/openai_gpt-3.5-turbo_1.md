@@ -21,3 +21,5 @@ The tabernacle served as a central place of worship and a tangible manifestation
 Grade: 90
 
 Comment: The response provides a detailed explanation of the role and significance of the tabernacle in the Israelites' relationship with God, highlighting its function as a central place of worship, a symbol of God's presence, and a physical representation of the covenant between God and His people. The student effectively demonstrates an understanding of how the tabernacle facilitated the Israelites' connection with God during their time in the desert.
+
+[&lt;- Link to Answer](../Understanding_the_Tabernacle.md)

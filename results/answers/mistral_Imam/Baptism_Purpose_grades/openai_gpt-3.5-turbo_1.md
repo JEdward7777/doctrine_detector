@@ -27,3 +27,5 @@ It's essential to note that practices can vary among different Christian denomin
 Grade: 90
 
 Comment: The response provides a thorough explanation of the importance of baptism in the Christian faith, detailing its significance, biblical roots, and symbolism. It effectively addresses the concern by elaborating on the cleansing from sin and union with Christ that baptism symbolizes within the Christian tradition. The incorporation of relevant biblical references enhances the response's credibility.
+
+[&lt;- Link to Answer](../Baptism_Purpose.md)

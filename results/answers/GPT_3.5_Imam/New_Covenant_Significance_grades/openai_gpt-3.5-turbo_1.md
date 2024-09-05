@@ -25,3 +25,5 @@ While we respect the beliefs of our Christian brothers and sisters, as Muslims, 
 Grade: 60
 
 Comment: The response provides a clear explanation of the differences between Christian and Muslim beliefs regarding the new covenant and the concept of Tawheed in Islam. While the student acknowledges the significance of Jesus' sacrifice in Christianity, they do not fully engage with the transformative power of this sacrifice in the context of God's promises, as highlighted in the concern. A deeper exploration of how Jesus' sacrifice fulfills God's promises and brings about redemption would have strengthened the response from a Christian worldview perspective.
+
+[&lt;- Link to Answer](../New_Covenant_Significance.md)

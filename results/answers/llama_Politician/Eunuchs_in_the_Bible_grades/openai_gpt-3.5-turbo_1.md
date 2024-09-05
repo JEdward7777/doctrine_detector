@@ -31,3 +31,5 @@ In conclusion, Jesus' words in Matthew 19:12 offer valuable insights into the im
 Grade: 85
 
 Comment: The response provides a thorough and insightful interpretation of Matthew 19:12 within its cultural and biblical context. The candidate effectively explores the concept of celibacy and its relationship to living a life dedicated to God. The emphasis on approaching biblical passages with humility and respecting diverse experiences is commendable. However, there could be a clearer connection between the initial answer and the ultimate discussion on celibacy. Overall, the response demonstrates a thoughtful engagement with the biblical perspective on celibacy.
+
+[&lt;- Link to Answer](../Eunuchs_in_the_Bible.md)

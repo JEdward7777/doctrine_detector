@@ -21,3 +21,5 @@ The biblical record does not provide any information regarding the replacement o
 Grade: 90
 
 Comment: The response acknowledges the replacement of Judas Iscariot by Matthias, demonstrating an understanding of the continuity of apostolic leadership after Jesus' ascension, which aligns with a Christian worldview. However, it could have provided more detail or explanation to enhance the theological perspective.
+
+[&lt;- Link to Answer](../Replacement_of_Judas.md)

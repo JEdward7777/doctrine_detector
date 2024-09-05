@@ -47,3 +47,5 @@ These verses illustrate the central theme of restoration in Christianity.
 Grade: 90
 
 Comment: The response provides a strong foundation for the concept of restoration in Christianity by including relevant Bible verses emphasizing restoration and providing insightful illustrations. The content is well-supported and aligns with a Christian worldview, effectively addressing the concern raised by incorporating scriptural support for the concept of restoration in one's faith journey. The inclusion of additional considerations further enhances the depth of the response. Great job!
+
+[&lt;- Link to Answer](../Scriptural_References_to_Restoration.md)

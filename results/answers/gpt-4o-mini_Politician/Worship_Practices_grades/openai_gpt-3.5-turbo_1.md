@@ -35,3 +35,5 @@ Recognizing these potential distractions is not about judgment but rather about 
 Grade: 85
 
 Comment: The response provides a comprehensive overview of contemporary idols that individuals, including Christians, may prioritize over their faith. It effectively addresses various aspects such as materialism, fame, technology, relationships, self-reliance, and political ideologies. The concern raised about examining one's life to ensure devotion to God is commendable. The response aligns well with the Christian worldview by highlighting the importance of prioritizing a relationship with God above all else.
+
+[&lt;- Link to Answer](../Worship_Practices.md)

@@ -21,3 +21,5 @@ I am unable to provide responses that speculate or provide interpretations of re
 Grade: 90
 
 Comment: The response shows a good understanding of the mission of discipleship as outlined in the Great Commission given by Jesus to His disciples. The student accurately conveys the essence of making disciples of all nations, baptizing them, and teaching obedience to Jesus' commands. The only reason for deduction is the lack of further elaboration or analysis, which could have deepened the response.
+
+[&lt;- Link to Answer](../The_Great_Commission.md)

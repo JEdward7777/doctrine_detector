@@ -21,3 +21,5 @@ The term "evangelist" refers to a person who seeks to share their faith or belie
 Grade: 90
 
 Comment: The response accurately conveys the literal meaning of 'evangelist' as 'someone who preaches the good news.' It aligns well with the Christian worldview's understanding of the role of an evangelist in sharing the gospel. The explanation is clear and succinct, showing a strong understanding of the concept. Great job!
+
+[&lt;- Link to Answer](../Definition_of_Evangelist.md)

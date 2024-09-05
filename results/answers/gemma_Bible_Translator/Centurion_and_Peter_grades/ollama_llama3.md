@@ -52,3 +52,5 @@ However, the student could have delved deeper into the specific points made by t
 Overall, the student has provided a good overview of the significance of the centurion's visit, but could have gone further to demonstrate their understanding of the mission of the Church and the inclusivity of the Gospel.
 
 Comment: The student has demonstrated a strong understanding of the foundational nature of God's love and salvation for all people. To take this response to the next level, consider expanding on the specific points made by the centurion's visit and how they relate to the mission of the Church and the inclusivity of the Gospel.
+
+[&lt;- Link to Answer](../Centurion_and_Peter.md)

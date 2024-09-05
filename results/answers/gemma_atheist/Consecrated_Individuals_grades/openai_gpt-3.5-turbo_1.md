@@ -50,3 +50,5 @@ Here are some individuals mentioned in the Bible who were consecrated to God:
 Grade: 50
 
 Comment: The response provided a comprehensive list of individuals consecrated to God in the Bible, demonstrating a strong understanding of the significance of consecrated individuals in biblical history. However, the response did not specifically mention the people of Israel or oldest male child as consecrated individuals, which was indicated in the answer provided. The inclusion of these specific examples would have enhanced the accuracy and completeness of the response.
+
+[&lt;- Link to Answer](../Consecrated_Individuals.md)

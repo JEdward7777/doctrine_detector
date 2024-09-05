@@ -21,3 +21,5 @@ The Israelites stopped using the tabernacle because it was no longer relevant to
 Grade: 80
 
 Comment: The response accurately identifies the key reason for the Israelites' transition from the tabernacle to the temple in Jerusalem. However, a stronger connection to the concern of understanding the transition in worship practices could have been made by elaborating on the significance of this shift in religious practices within the context of Israelite history and theology.
+
+[&lt;- Link to Answer](../Transition_from_Tabernacle_to_Temple.md)

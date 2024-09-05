@@ -56,3 +56,5 @@ The phrase "spiritual gifts" is laden with cultural and historical baggage. Whil
 Grade: 60
 
 Comment: While the response does acknowledge the importance of spiritual gifts as special abilities given by the Holy Spirit for the purpose of building up the church, it falls short in addressing the concern of utilizing these gifts for community growth and personal obedience to the Holy Spirit. It focuses more on cautioning against literal interpretations, potential harm, and cultural contexts. The response could have provided more guidance on how to effectively use spiritual gifts in accordance with biblical principles and the guidance of the Holy Spirit for community growth.
+
+[&lt;- Link to Answer](../Spiritual_Gifts.md)

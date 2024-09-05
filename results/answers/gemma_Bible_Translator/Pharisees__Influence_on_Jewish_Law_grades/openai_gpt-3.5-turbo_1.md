@@ -52,3 +52,5 @@ Understanding the role of the Pharisees provides insight into the challenges Jes
 Grade: 85
 
 Comment: The response effectively expands on the given answer, providing detailed explanations on the impact of the Pharisees' strict adherence to the Laws of Moses on their relationship with Jesus and early Christians. It highlights the conflicts, misunderstandings, distancing from the faith, division within Judaism, influence on early Christians, and the role as a catalyst for Jesus' ministry. The response demonstrates a comprehensive understanding from a Christian worldview, connecting the Pharisees' legalistic approach to the challenges Jesus faced in his ministry. Well done overall.
+
+[&lt;- Link to Answer](../Pharisees__Influence_on_Jewish_Law.md)

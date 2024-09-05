@@ -21,3 +21,5 @@ The tabernacle served as a portable sanctuary for the Israelites during their ti
 Grade: 85
 
 Comment: The response provides a good understanding of the tabernacle as a special dwelling place for worshiping God according to His instructions. The response could have further emphasized the significance of the tabernacle in facilitating the Israelites' relationship with God, such as how it served as a meeting place between God and His people, symbolizing His presence among them, and providing a means for atonement and communion with God.
+
+[&lt;- Link to Answer](../Understanding_the_Tabernacle.md)

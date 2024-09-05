@@ -37,3 +37,5 @@ In both cases, Jesus' sacrifice is seen as the means by which atonement and prop
 Grade: 95
 
 Comment: This response provides a thorough explanation of the differences and similarities between atonement and propitiation from a Christian theological perspective. The analogy used effectively illustrates the nuanced distinctions between the two concepts, and the biblical references further support the explanation. The response shows a deep understanding of the topic and effectively addresses the concern provided. Great job!
+
+[&lt;- Link to Answer](../Relation_to_Atonement.md)

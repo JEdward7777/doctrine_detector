@@ -33,3 +33,5 @@ So, in this biblical context, the rainbow serves as a reminder of God's promise 
 Grade: 90
 
 Comment: The response provides a thorough explanation of God's covenant with humanity as detailed in the book of Genesis, specifically focusing on the significance of the rainbow as a symbol of God's promise. The connection between the rainbow and God's mercy and faithfulness is effectively articulated in the context of understanding biblical covenants and promises. The explanation demonstrates a solid understanding of the theological implications of the rainbow as a sign of God's enduring commitment to His creation.
+
+[&lt;- Link to Answer](../Sign_as_Covenant.md)

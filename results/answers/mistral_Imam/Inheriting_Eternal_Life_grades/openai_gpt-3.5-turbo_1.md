@@ -21,3 +21,5 @@ Clarifying the path to salvation and eternal life as taught by Jesus.
 Grade: 80
 
 Comment: The response provides a clear reference to Jesus' teachings in the interaction with the expert in Jewish law, emphasizing the importance of following His teachings to inherit eternal life. However, the initial response also includes relevant information from the Bible and acknowledges the importance of consulting with religious leaders for a comprehensive understanding within one's specific tradition. The connection to Jesus' teachings could have been emphasized more strongly, but overall, the response effectively addresses the concern from a Christian worldview.
+
+[&lt;- Link to Answer](../Inheriting_Eternal_Life.md)

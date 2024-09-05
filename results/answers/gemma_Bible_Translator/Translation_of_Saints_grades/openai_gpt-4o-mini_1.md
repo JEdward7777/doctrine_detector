@@ -38,3 +38,5 @@ It's important to use inclusive language that accurately represents all believer
 Grade: 90
 
 Comment: The response provides good alternative translations for "saints" that use inclusive language and accurately represent all believers in Jesus without singling out specific Christian groups. The recommendations also align well with Christian beliefs about the saints and emphasize their holiness, faith, discipleship, and victory in Christ. The additional considerations offer valuable guidance for ensuring the translation is contextually appropriate, clear, and in line with Christian theology. The response effectively addresses the concern raised and provides a comprehensive and thoughtful approach to translating the term "saints."
+
+[&lt;- Link to Answer](../Translation_of_Saints.md)

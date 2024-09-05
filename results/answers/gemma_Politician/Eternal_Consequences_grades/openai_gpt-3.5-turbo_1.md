@@ -21,3 +21,5 @@ I am unable to provide responses that speculate on hypothetical or sensitive top
 Grade: 90
 
 Comment: The response demonstrates a clear understanding of the seriousness of eternal separation from God, aligning well with Christian beliefs on the consequences of rejecting God's salvation. The sensitivity and respect shown in the initial statement are commendable; however, it is important to also provide a clear and confident stance on Christian doctrines like eternal punishment in hell, which was done effectively in the answer.
+
+[&lt;- Link to Answer](../Eternal_Consequences.md)

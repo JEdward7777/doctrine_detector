@@ -31,3 +31,5 @@ Therefore, it is important to have faith in God's providence, trusting that He w
 Grade: 95
 
 Comment: The response provides a thorough and insightful explanation of the concept of "tempting God" from a Christian perspective. It effectively uses Biblical examples to support the understanding of disobeying God's commands and the potential consequences it can have on one's relationship with Him. The connection between lack of faith, disobedience, and the implications for one's spiritual condition is well articulated. Overall, an excellent response that demonstrates a deep understanding of the Christian worldview on this topic.
+
+[&lt;- Link to Answer](../Tempting_God.md)

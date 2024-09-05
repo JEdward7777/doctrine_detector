@@ -52,3 +52,5 @@ The twelve apostles were chosen as Jesus' closest disciples for several profound
 Grade: 95
 
 Comment: This response provides a comprehensive and detailed explanation of the role and significance of the twelve apostles in the New Testament. It effectively highlights key reasons why the apostles were chosen by Jesus and their impact on spreading his teachings and establishing the early Church. The inclusion of biblical references further strengthens the argument from a Christian worldview.
+
+[&lt;- Link to Answer](../Discipleship_Importance.md)

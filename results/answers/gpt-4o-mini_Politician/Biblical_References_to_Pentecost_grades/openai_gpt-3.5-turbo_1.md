@@ -31,3 +31,5 @@ These passages reflect the festival's agricultural significance as well as its b
 Grade: 90
 
 Comment: The response provides an insightful overview of the Festival of Weeks, referencing key passages from the books of Exodus, Leviticus, Deuteronomy, and Acts. It accurately explains the scriptural basis for the observance of Pentecost and highlights the significance of the festival in both Jewish and Christian traditions. The only discrepancy is the mention of 2 Chronicles and Numbers in the initial answer, which were not included in the response. Nonetheless, the response effectively addresses the concern raised.
+
+[&lt;- Link to Answer](../Biblical_References_to_Pentecost.md)

@@ -25,3 +25,5 @@ The story of the centurion also underscores the central tenets of Christianity, 
 Grade: 90
 
 Comment: The response demonstrates a strong understanding of the significance of the centurion's visit from Peter in relation to the expansion of the Gospel to the Gentiles. The integration of Christian teachings on inclusivity and God's love for all people is well articulated and aligns with a Christian worldview concerning the mission of the Church. The only minor improvement would be to further emphasize the role of Jesus as the bridge for this inclusivity between different cultural groups, but overall, the response effectively addresses the concern.
+
+[&lt;- Link to Answer](../Centurion_and_Peter.md)

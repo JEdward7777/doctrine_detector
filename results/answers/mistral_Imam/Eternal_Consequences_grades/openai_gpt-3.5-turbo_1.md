@@ -31,3 +31,5 @@ Lastly, it is essential for Muslims to focus on their own faith and actions rath
 Grade: 95
 
 Comment: The response eloquently explains the Islamic belief regarding the concept of perishing and eternal consequences for individuals who reject Allah's message. It effectively addresses the concern of understanding the seriousness of eternal separation from God by providing insight into the punishment in Hell for those who perish. The explanation is thorough, respectful of Islamic beliefs, and stays consistent with a Christian worldview emphasizing the importance of accepting God's message to avoid eternal separation.
+
+[&lt;- Link to Answer](../Eternal_Consequences.md)

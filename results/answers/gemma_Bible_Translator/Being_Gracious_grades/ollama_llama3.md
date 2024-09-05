@@ -72,3 +72,5 @@ However, there are a few areas where the response could be improved:
 2. Some of the implications for interactions (e.g., "Maintaining Perspective") seem more tangential to the main topic than others.
 
 Overall, this is a strong response that provides a good biblical foundation for understanding and practicing graciousness in our relationships with others. With some further development of the connection between graciousness and Christian obligation, it could be even stronger!
+
+[&lt;- Link to Answer](../Being_Gracious.md)

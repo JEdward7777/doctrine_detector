@@ -21,3 +21,5 @@ Being a disciple of Jesus historically implies following his teachings as record
 Grade: 80
 
 Comment: The response acknowledges the importance of believing in Jesus, obeying His teachings, and following His example in order to be a disciple, which aligns well with a Christian worldview. However, the response does not fully address the concern raised regarding understanding the definition and responsibilities of being a disciple. A higher grade could be achieved by providing more specific details on what these responsibilities entail and how they are derived from Jesus' teachings and example.
+
+[&lt;- Link to Answer](../Understanding_Discipleship.md)

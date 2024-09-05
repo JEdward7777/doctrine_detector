@@ -23,3 +23,5 @@ While this event is primarily a Christian belief, in the context of Islam, we re
 Grade: 70
 
 Comment: The response correctly explains the significance of the Lord's Supper in Christian faith by referencing its association with the Passover meal, the sacrifice of Jesus' body and blood for sin. However, it loses some points for not delving deeper into the theological implications of the Lord's Supper within the Christian belief system, such as the establishment of the New Covenant between God and humanity through Jesus Christ. The comparison with Islam's perspective on Jesus is relevant but could be further expanded upon to provide a more comprehensive understanding of the differences in beliefs.
+
+[&lt;- Link to Answer](../Lord_s_Supper_Definition.md)

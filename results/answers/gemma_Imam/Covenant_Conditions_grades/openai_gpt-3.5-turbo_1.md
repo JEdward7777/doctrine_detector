@@ -40,3 +40,5 @@ The concept of covenants is central to both Islamic and biblical theology. Musli
 Grade: 80
 
 Comment: The response provides a good understanding of the difference between unconditional and conditional covenants, supported by biblical references. The explanation aligns well with a Christian worldview by highlighting God's promises and expectations in covenants. However, it would have been beneficial to include more specific examples of conditional covenants from the Bible to further illustrate this concept.
+
+[&lt;- Link to Answer](../Covenant_Conditions.md)

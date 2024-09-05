@@ -43,3 +43,5 @@ In summary, those who are described as "perishing" in the Quran will suffer an e
 Grade: 95
 
 Comment: The response provides a detailed and thorough explanation based on the Christian worldview regarding the seriousness of eternal separation from God as depicted in the Quran. The analysis effectively addresses the concern by emphasizing the eternal punishment in hell for those who reject God, highlighting the gravity of being separated from God's mercy and intercession. The response effectively delves into the consequences of rejecting God's guidance and the eternal torment awaiting those who are described as "perishing" in the Quran. Overall, the response demonstrates a strong understanding of the concept of eternal separation from God from a Christian perspective.
+
+[&lt;- Link to Answer](../Eternal_Consequences.md)

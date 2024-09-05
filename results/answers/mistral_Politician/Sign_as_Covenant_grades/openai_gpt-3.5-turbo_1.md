@@ -27,3 +27,5 @@ Ultimately, the beauty and diversity of the rainbow remind us of the importance 
 Grade: 85
 
 Comment: The response provides a clear and accurate explanation of the symbolism of the rainbow in the context of God's covenant and promise as stated in the Bible. The candidate effectively connects the symbolism of the rainbow to God's mercy and faithfulness, grounded in Christian beliefs. However, there is a slight deduction for not emphasizing the importance of understanding and upholding God's covenant and promises in the Bible more strongly throughout the response. Overall, the response demonstrates a solid understanding of the Christian worldview regarding the symbolism of the rainbow.
+
+[&lt;- Link to Answer](../Sign_as_Covenant.md)

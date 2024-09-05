@@ -21,3 +21,5 @@ The atonement lid does not exist in historical or archaeological records, so it 
 Grade: 90
 
 Comment: The response provides a clear and accurate explanation of the significance of the atonement lid as the mercy seat in representing God's mercy and atonement in the Old Testament. The student effectively conveys the importance of this symbolic representation in the context of redemption and the high priest's role. They demonstrate a good understanding of the Christian worldview regarding atonement and God's mercy. The deducted points are due to a lack of incorporating a specific mention of historical or archaeological evidences, which could have enhanced the response from an academic perspective. Overall, a well-done answer from a Christian worldview.
+
+[&lt;- Link to Answer](../atonement_lid_definition.md)

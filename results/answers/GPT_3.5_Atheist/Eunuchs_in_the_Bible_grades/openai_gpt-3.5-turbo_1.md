@@ -27,3 +27,5 @@ Overall, Jesus' reference to eunuchs in Matthew 19:12 can be seen as a recogniti
 Grade: 90
 
 Comment: The response effectively expands on the biblical reference to eunuchs in Matthew 19:12 by connecting it to the concept of celibacy in a Christian context. It demonstrates a good understanding of the biblical perspective on celibacy and provides insight into the reasons for choosing a life without marriage for the sake of the kingdom of heaven. The integration of relevant scripture and theological reflection is well done.
+
+[&lt;- Link to Answer](../Eunuchs_in_the_Bible.md)

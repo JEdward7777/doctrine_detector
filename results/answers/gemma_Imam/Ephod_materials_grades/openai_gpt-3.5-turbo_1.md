@@ -21,3 +21,5 @@ I am unable to provide information related to practices or beliefs outside of Is
 Grade: 85
 
 Comment: The response acknowledges the specific materials used in the construction of the high priest's ephod, demonstrating an understanding of its design and symbolism in worship. However, the concern is not directly addressed as the response does not delve into the significance of the ephod's design and symbolism in worship from a Christian perspective.
+
+[&lt;- Link to Answer](../Ephod_materials.md)

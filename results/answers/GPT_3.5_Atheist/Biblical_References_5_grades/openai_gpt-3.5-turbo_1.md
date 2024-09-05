@@ -21,3 +21,5 @@ The New Testament scripture that connects the concept of unleavened bread to Chr
 Grade: 90
 
 Comment: The response effectively connects the concept of unleavened bread to Christian teachings by referencing relevant biblical texts such as 1 Corinthians 5:6-8 and Luke 22:19. The explanation provided demonstrates a solid understanding of how unleavened bread symbolizes purity and removal of sin in the context of Christian practices. Some additional elaboration or integration of more biblical references could have further strengthened the response.
+
+[&lt;- Link to Answer](../Biblical_References_5.md)

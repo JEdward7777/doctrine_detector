@@ -23,3 +23,5 @@ The Jewish tradition upholds this timing for the Sabbath observance as a sacred 
 Grade: 95
 
 Comment: The response provides a clear and accurate understanding of the timing of the Sabbath according to Jewish tradition, which aligns with biblical teaching. The mention of Friday sunset to Saturday sunset accurately reflects the biblical instruction to observe the Sabbath from evening to evening. The explanation is concise and demonstrates a solid grasp of the topic. Great job!
+
+[&lt;- Link to Answer](../Sabbath_Timing.md)

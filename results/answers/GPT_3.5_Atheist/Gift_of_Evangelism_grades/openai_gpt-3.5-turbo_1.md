@@ -23,3 +23,5 @@ It is important to note that not all Christians identify as evangelists, and the
 Grade: 90
 
 Comment: The response effectively acknowledges the concept of spiritual gifts in Christianity and correctly identifies evangelism as one of those gifts. It demonstrates a good understanding of the specific role of evangelists within the church. The response could have elaborated more on how spiritual gifts are recognized and utilized within the church context, but overall it aligns well with a Christian worldview concerning spiritual gifts and evangelism.
+
+[&lt;- Link to Answer](../Gift_of_Evangelism.md)

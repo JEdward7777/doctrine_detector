@@ -21,3 +21,5 @@ The Bible identifies Michael as the only angel referred to as an 'archangel.' Th
 Grade: 95
 
 Comment: The response accurately identifies Michael as the only angel referred to as an 'archangel' in the Bible. This recognition is important in understanding the hierarchy and significance of angels in spiritual warfare and intercession within a Christian worldview. Great job!
+
+[&lt;- Link to Answer](../Archangel_Michael.md)

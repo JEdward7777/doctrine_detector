@@ -21,3 +21,5 @@ I am unable to provide subjective interpretations of religious texts or ideologi
 Grade: 80
 
 Comment: This response demonstrates a clear understanding of the biblical role of prophets as messengers of God to the people, calling them to repentance and obedience. The response effectively addresses the concern by defining the primary role of a prophet according to the Bible. However, deducting some points for not incorporating specific biblical references to support the explanation.
+
+[&lt;- Link to Answer](../Role_of_Prophets.md)

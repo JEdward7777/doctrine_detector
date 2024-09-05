@@ -36,3 +36,5 @@ The earliest references to Christians as a group appear in non-canonical sources
 Grade: 85
 
 Comment: The response provides a detailed overview of the historical context and significance of the term "Christian," including references from both non-canonical sources and within the New Testament. It correctly points out that the term "Christian" likely originated from the Greek word "christianos" and sheds light on how early Christians were referred to. However, the given answer that Jesus' followers were first called 'Christians' in the city of Antioch is not accurate within the historical context presented. The response effectively addresses the concern by offering a comprehensive understanding of the term 'Christian,' but the incorrect specific detail in the given answer warrants a slightly lower grade.
+
+[&lt;- Link to Answer](../Origin_of_the_Term.md)

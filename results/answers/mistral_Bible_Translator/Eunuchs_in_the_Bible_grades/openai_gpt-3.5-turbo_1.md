@@ -27,3 +27,5 @@ In the Catholic Church, celibacy is required for priests as it is believed to al
 Grade: 90
 
 Comment: The response provides a thorough explanation and interpretation of the biblical perspective on celibacy, referencing relevant scripture verses and providing insight into the reasons for choosing a celibate life. The connection to Jesus' teaching in Matthew 19:12 is well-explained, showing an understanding of the concept within a Christian worldview. The response could be further strengthened by delving into additional scripture references and theological perspectives on celibacy within Christianity.
+
+[&lt;- Link to Answer](../Eunuchs_in_the_Bible.md)

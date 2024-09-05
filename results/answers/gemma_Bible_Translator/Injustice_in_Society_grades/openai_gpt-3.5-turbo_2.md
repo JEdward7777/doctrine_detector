@@ -74,3 +74,5 @@ Addressing the need for Christian activism against injustice and promoting fairn
 Grade: 95
 
 Comment: The response provides a comprehensive and detailed exploration of various forms of injustice in the world today and offers specific suggestions on how Christians should respond based on biblical principles. It effectively addresses the concern by emphasizing the importance of Christian activism against injustice and promoting fairness. The only minor area of improvement could be to incorporate more direct biblical references to support the suggestions provided. Overall, this is a well-rounded and thoughtful response.
+
+[&lt;- Link to Answer](../Injustice_in_Society.md)

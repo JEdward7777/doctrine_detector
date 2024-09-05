@@ -25,3 +25,5 @@ Overall, while the concept of evil spirits or demons may vary between Christian 
 Grade: 85
 
 Comment: The response provides a clear explanation of the term "unclean spirit" in Christian teachings and effectively compares it to the concept of jinn in Islamic teachings. The response addresses the concern by clarifying the nature and characteristics of demons as evil spirits that oppose God's will. It also highlights the importance of seeking protection and guidance from the divine in both Christian and Islamic beliefs. Overall, the response demonstrates a good understanding and comparison of these spiritual concepts.
+
+[&lt;- Link to Answer](../Understanding_Demons.md)

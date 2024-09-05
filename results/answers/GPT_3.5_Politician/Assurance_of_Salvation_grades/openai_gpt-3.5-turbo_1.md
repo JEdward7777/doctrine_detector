@@ -21,3 +21,5 @@ It is important to respect and acknowledge the beliefs and assurances of individ
 Grade: 95
 
 Comment: The response effectively addresses the concern by emphasizing the importance of faith in Jesus for salvation, in line with Christian beliefs. It provides a clear and unequivocal statement on the assurance of salvation through faith in Jesus, which aligns well with the Christian worldview. The response could be strengthened by including some scriptural references to further support the notion of salvation through faith in Jesus.
+
+[&lt;- Link to Answer](../Assurance_of_Salvation.md)

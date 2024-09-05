@@ -31,3 +31,5 @@ So, my friends, let us remember that even as we navigate the complexities of fai
 Grade: 85
 
 Comment: The response beautifully discusses the importance of purification in the Old Testament and correctly explains its connection to spiritual and physical cleanliness. The candidate effectively emphasizes the significance of maintaining purity as a reflection of one's relationship with God. However, the response could have delved deeper into how the process of ritual purification reflects God's standards for holiness and the nature of sin. Overall, a strong understanding of the topic demonstrated with room for a bit more theological depth.
+
+[&lt;- Link to Answer](../Understanding_Purification.md)

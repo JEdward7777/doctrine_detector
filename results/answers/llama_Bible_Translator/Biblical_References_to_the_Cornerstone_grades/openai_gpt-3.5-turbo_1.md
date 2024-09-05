@@ -34,3 +34,5 @@ In summary, the Bible references Jesus as the Cornerstone through quotes of Psal
 Grade: 85
 
 Comment: The response provides a solid explanation of the concept of Jesus as the Cornerstone, drawing upon both Old Testament and New Testament references. It effectively highlights Jesus' role in the foundation of the church and His significance in salvation and unity. The integration of scripture and explanation is clear and insightful. However, the response could be enhanced by further elaboration on how exploring scripture deepens believers' understanding of Jesus' significance in their faith, in line with the given concern.
+
+[&lt;- Link to Answer](../Biblical_References_to_the_Cornerstone.md)

@@ -25,3 +25,5 @@ It is important to maintain the reverence and significance of the original term 
 Grade: 90
 
 Comment: The response provides a thoughtful and well-supported explanation of the importance of accurately translating the phrase "house of Yahweh" to convey the meaning and significance of worship spaces. The translations suggested align well with the concern of emphasizing the presence of Yahweh in that location. The inclusion of historical context and theological significance enhances the depth of understanding.
+
+[&lt;- Link to Answer](../Translation_of_Worship_Spaces.md)

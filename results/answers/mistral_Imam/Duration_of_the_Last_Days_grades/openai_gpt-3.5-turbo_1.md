@@ -27,3 +27,5 @@ In essence, Muslims are reminded to be prepared spiritually for the Day of Judgm
 Grade: 75
 
 Comment: The response provides a thorough explanation of the concept of 'the last days' from a Muslim perspective, emphasizing the uncertainty of the duration and the signs leading to the Day of Judgment. However, it does not directly address the concern from a Christian worldview on how uncertainty can affect how Christians live out their faith in anticipation of Christ's return. A stronger connection or contrast to Christian belief and practices related to the anticipation of Christ's return could have strengthened the response.
+
+[&lt;- Link to Answer](../Duration_of_the_Last_Days.md)

@@ -29,3 +29,5 @@ Overall, the concept of remnant in the Bible serves to highlight the importance 
 Grade: 90
 
 Comment: The response provides a strong explanation of the concept of the remnant in the Bible, specifically relating to Isaiah and Amos. It effectively connects the idea of the remnant to historical events and God's promises, showcasing an understanding of the significance of the remnant in relation to God's covenant. The inclusion of biblical examples and the emphasis on persistence in God's covenant align well with a Christian worldview. Great job overall!
+
+[&lt;- Link to Answer](../Historical_Context.md)

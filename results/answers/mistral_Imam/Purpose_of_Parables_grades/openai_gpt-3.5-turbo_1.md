@@ -27,3 +27,5 @@ Therefore, the primary purpose of Jesus using parables in his teachings was to m
 Grade: 70
 
 Comment: The response provides a well-explained perspective on Jesus's use of parables in Islamic tradition, highlighting the attempt to convey profound spiritual truths in a simple and relatable manner. However, the answer given does not directly align with the specific Christian understanding of Jesus using parables to reveal truth to his disciples while hiding it from unbelievers. It effectively addresses the concern of understanding Jesus's teaching methods and their implications for faith within an Islamic context, but it deviates from the Christian worldview. The response would benefit from further integration of Christian beliefs and doctrines regarding the purpose and significance of Jesus's use of parables.
+
+[&lt;- Link to Answer](../Purpose_of_Parables.md)

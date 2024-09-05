@@ -21,3 +21,5 @@ Understanding Jesus' resistance to temptation provides a model for Christians to
 Grade: 90
 
 Comment: The response effectively highlights Jesus' resistance to temptation as a model for Christians to follow in their spiritual battles against evil. It accurately reflects Christian beliefs and teachings on this matter. The only reason for a slightly lower grade is the lack of direct engagement with the Islamic perspective mentioned in the initial response. Acknowledging and addressing different religious viewpoints can enrich the discussion further.
+
+[&lt;- Link to Answer](../Temptation_and_Resistance.md)

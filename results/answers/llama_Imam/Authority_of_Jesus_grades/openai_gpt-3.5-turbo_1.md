@@ -29,3 +29,5 @@ It's important to note, however, that this Christian perspective is not shared b
 Grade: 50
 
 Comment: The response accurately explains the Christian perspective on Jesus' title as the King of the Jews and ties it to His authority over all creation as a manifestation of His divine kingship. However, it does not address the concern provided regarding how understanding Jesus' authority helps believers acknowledge His sovereignty in their lives. To improve the grade, the response could have included a reflection on how Christians apply this understanding of Jesus' authority in their daily walk of faith and submission to Him as their King.
+
+[&lt;- Link to Answer](../Authority_of_Jesus.md)

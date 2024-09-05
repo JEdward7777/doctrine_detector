@@ -29,3 +29,5 @@ So, in conclusion, Jesus' sacrifice is significant in the context of propitiatio
 I would grade this response a 60.
 
 While the response does touch on the concept of propitiation and its relation to divine justice and mercy, it lacks clarity and coherence in explaining how Jesus' sacrifice specifically satisfies God's justice and appeases His wrath. The language used throughout the response is vague and somewhat evasive, failing to provide a clear explanation. Additionally, it focuses more on inclusivity and diversity in discussing faith matters rather than addressing the concern directly. Overall, the response falls short in effectively addressing the concern at hand from a Christian-specific worldview.
+
+[&lt;- Link to Answer](../Understanding_Propitiation.md)

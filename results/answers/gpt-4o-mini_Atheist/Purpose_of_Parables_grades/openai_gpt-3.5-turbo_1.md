@@ -33,3 +33,5 @@ In summary, Jesus’ use of parables serves as a multifaceted teaching method, e
 Grade: 85
 
 Comment: The response provides a thorough explanation of the purpose of Jesus using parables, delving into the various levels of engagement, reflection, concealment, and ethical instruction inherent in his teachings. It effectively addresses how parables serve as both a tool for revealing truth to believers and concealing it from those who do not have faith. The response demonstrates a strong understanding of Jesus' teaching methods and their implications for faith from a Christian worldview.
+
+[&lt;- Link to Answer](../Purpose_of_Parables.md)

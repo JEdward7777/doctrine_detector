@@ -27,3 +27,5 @@ If you have questions regarding Islam or any specific topic within the Islamic c
 Grade: 85
 
 Comment: The response provides a good understanding of the concept of exhortation from a Christian perspective. It correctly highlights the purpose of exhortation as persuading others to avoid sin and follow God's will, which aligns with Christian teachings. The explanation also touches on the importance of community support and correction within the context of exhortation, reflecting a sound grasp of the biblical basis for encouraging others in their faith journey. The only suggestion for improvement would be to provide some specific examples of exhortation in the New Testament to further support the response.
+
+[&lt;- Link to Answer](../Purpose_of_Exhortation.md)

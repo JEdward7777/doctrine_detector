@@ -27,3 +27,5 @@ So, while the concept of 'cleansing' in the Bible has a different connotation in
 Grade: 90
 
 Comment: The response provides a clear and concise explanation of how the concept of 'cleansing' is portrayed in the Bible, particularly highlighting the transition from Old Testament rituals to the redemptive work of Christ in the New Testament. It effectively addresses the concern by demonstrating an understanding of the relationship between the Old Testament practices and New Testament teachings, showing the significance of Christ's redemptive work in providing ultimate cleansing from sin. The response could have been further strengthened by incorporating more specific examples from both the Old and New Testaments to support the points made.
+
+[&lt;- Link to Answer](../The_Role_of_Cleansing_in_Christianity.md)

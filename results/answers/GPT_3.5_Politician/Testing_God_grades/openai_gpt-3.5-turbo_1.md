@@ -21,3 +21,5 @@ It is important to be respectful and mindful when discussing beliefs held by oth
 Grade: 90
 
 Comment: The response acknowledges the Christian principle that it is wrong to put God to the test by seeking miracles for personal gain, demonstrating an understanding of God's sovereignty and holiness. The connection to maintaining a proper relationship with God is also highlighted. The only critique is that the response could have included a direct reference or allusion to relevant biblical passages (such as Matthew 4:7 or Deuteronomy 6:16) to further support the argument from a Christian perspective.
+
+[&lt;- Link to Answer](../Testing_God.md)

@@ -21,3 +21,5 @@ The biblical record does not provide any information regarding the replacement o
 Grade: 40
 
 Comment: The response correctly identifies that Matthias was chosen to replace Judas Iscariot, addressing the concern of recognizing the continuity of apostolic leadership after Jesus' ascension. However, the initial response citing the lack of information in the biblical record reflects a lack of understanding or consideration of relevant scripture (Acts 1:15-26). Further explanation or exploration of Matthias' selection and the biblical basis for it would have improved the response.
+
+[&lt;- Link to Answer](../Replacement_of_Judas.md)

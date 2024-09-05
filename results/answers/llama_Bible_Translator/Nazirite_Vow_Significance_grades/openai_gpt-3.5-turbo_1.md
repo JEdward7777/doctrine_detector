@@ -27,3 +27,5 @@ These restrictions are intended to separate the Nazirite from worldly temptation
 Grade: 90
 
 Comment: The response accurately identifies two out of the three key restrictions of the Nazirite vow - abstaining from food or drink made from grapes and not cutting one's hair. It does not mention the restriction on not going near a dead body, which is an important aspect of the vow. The response demonstrates a good understanding of the restrictions of the Nazirite vow but could benefit from including all key elements for a more comprehensive explanation.
+
+[&lt;- Link to Answer](../Nazirite_Vow_Significance.md)

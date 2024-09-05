@@ -34,3 +34,5 @@ Recognizing the role of anointing in spiritual and physical healing as part of C
 Grade: 70
 
 Comment: The response provided a good overview of the biblical references to anointing and healing in the New Testament. However, the initial answer inaccurately stated that sick people were explicitly anointed with oil in the New Testament for seeking healing. The revised explanation correctly points out that anointing for healing is not explicitly mentioned in the New Testament. The response effectively addresses the concern by highlighting the importance of prayer, faith, and the power of God in the healing process within the Christian faith.
+
+[&lt;- Link to Answer](../Healing_through_Anointing.md)

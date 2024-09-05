@@ -31,3 +31,5 @@ Recognizing the role of the high priest in the Israelite's relationship with God
 Grade: 95
 
 Comment: The response accurately identifies the role of the high priest as the only individual permitted to approach the Ark of the Covenant, specifically on the Day of Atonement. It acknowledges the significance of the High Priest in the Israelites' relationship with God and the covenant by highlighting the importance of the annual sacrifice and prayers conducted by the High Priest in this context. The response demonstrates a clear understanding of the Christian perspective on the exclusivity of access to the Ark and recognizes the significance of the High Priest in mediating the relationship between the people and God.
+
+[&lt;- Link to Answer](../High_Priest_Access.md)

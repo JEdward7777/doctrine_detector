@@ -29,3 +29,5 @@ Thus, the act of anointing in the Old Testament served to confirm and bless indi
 Grade: 90
 
 Comment: The response provides a thorough explanation of the significance of anointing in the Old Testament for priests, kings, and prophets, aligning well with the provided answer and addressing the concern about understanding the importance of anointing in biblical leadership roles. The use of specific biblical references enhances the clarity and depth of the explanation. Great job!
+
+[&lt;- Link to Answer](../Significance_of_Anointing.md)

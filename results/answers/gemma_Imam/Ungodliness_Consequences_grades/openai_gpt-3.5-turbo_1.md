@@ -65,3 +65,5 @@ Awareness of the spiritual ramifications of living in disobedience to God.
 Grade: 95
 
 Comment: The response provided a thorough and detailed explanation of the spiritual ramifications of living in disobedience to God according to Islamic teachings. It effectively addresses the concern by highlighting various aspects of God's judgment and the consequences faced by ungodly individuals. The response is well-supported with specific points from Islamic teachings and emphasizes the importance of repentance and faith in God's mercy. It aligns with a Christian worldview in terms of emphasizing God's justice, mercy, and the consequences of disobedience. Great job in addressing the concern from a Christian perspective!
+
+[&lt;- Link to Answer](../Ungodliness_Consequences.md)

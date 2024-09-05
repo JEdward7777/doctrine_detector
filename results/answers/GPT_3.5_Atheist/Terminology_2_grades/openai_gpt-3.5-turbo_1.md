@@ -33,3 +33,5 @@ Overall, these terms reflect the diversity of beliefs and practices surrounding 
 Grade: 90
 
 Comment: The response provides a comprehensive and insightful explanation of the various terms used within Christian communities to refer to the Lord's Supper, demonstrating a clear understanding of the diversity of beliefs and practices surrounding this sacred practice. The information is accurate and presented in a clear and organized manner, aligning well with the concern provided.
+
+[&lt;- Link to Answer](../Terminology_2.md)

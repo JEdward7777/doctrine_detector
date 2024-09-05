@@ -23,3 +23,5 @@ For example, in the book of Isaiah, the prophet pronounces "woe" upon those who 
 Grade: 95
 
 Comment: The response provides a clear explanation of the term "woe" in the context of biblical warnings and judgments, highlighting how it signifies distress and impending judgment for sin. The student effectively demonstrates an understanding of the implications of biblical warnings related to sin and judgment by providing relevant examples from the Book of Isaiah and Jesus' teachings. The response aligns well with a Christian worldview concerning the consequences of disobedience to God's commands. Great job overall!
+
+[&lt;- Link to Answer](../Understanding_Woe.md)

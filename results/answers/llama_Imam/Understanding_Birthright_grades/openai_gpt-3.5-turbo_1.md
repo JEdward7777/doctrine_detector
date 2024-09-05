@@ -41,3 +41,5 @@ Wa alaykum salam.
 Grade: 95
 
 Comment: The response provides a thorough analysis of the story of Esau and Jacob within a Christian context, emphasizing the spiritual consequences of their choices. The explanation effectively connects the significance of the birthright to broader Christian themes of prioritizing spiritual growth over worldly desires. The response also reflects an understanding of the Biblical implications of the story and how it relates to Christian teachings on decision-making and consequences.
+
+[&lt;- Link to Answer](../Understanding_Birthright.md)

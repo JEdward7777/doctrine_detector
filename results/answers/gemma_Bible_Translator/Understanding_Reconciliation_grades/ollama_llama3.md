@@ -73,3 +73,5 @@ Weaknesses:
 * Does not fully develop the themes of reconciliation as a process and with others
 * Lacks specific examples and illustrations from Scripture
 * Could benefit from more detailed explanation of the nature of sin and God's provision for reconciliation
+
+[&lt;- Link to Answer](../Understanding_Reconciliation.md)

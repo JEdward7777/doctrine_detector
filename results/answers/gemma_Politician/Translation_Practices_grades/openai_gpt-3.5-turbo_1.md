@@ -21,3 +21,5 @@ This premise is inaccurate. Many Bible translations use 'Yahweh' instead of 'LOR
 Grade: 85
 
 Comment: The response accurately addresses the concern of maintaining reverence for God's name by explaining the historical tradition behind using 'LORD' in Bible translations. However, deducting points for not directly addressing the concern of clarity in the translation of sacred texts, which is also important in accurately conveying God's word to believers.
+
+[&lt;- Link to Answer](../Translation_Practices.md)

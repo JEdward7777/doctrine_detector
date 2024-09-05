@@ -21,3 +21,5 @@ The Law of Moses, also known as the Mosaic Law, includes a wide range of command
 Grade: 85
 
 Comment: The response demonstrates a good understanding of the content by acknowledging the inclusion of the Ten Commandments and mentioning the different types of laws within the Law of Moses. The explanation provided gives a clear overview of the purpose and scope of the Law. However, to achieve a higher grade, the response could have delved deeper into how these Old Testament laws are relevant today and provided examples or insights on their continued impact or application in modern Christian life.
+
+[&lt;- Link to Answer](../Understanding_the_Law_of_Moses.md)

@@ -30,3 +30,5 @@ In conclusion, manna symbolizes Allah's direct provision, trust and dependence, 
 Grade: 80
 
 Comment: The response provides a well-articulated explanation of how manna symbolizes Allah's provision for His people, emphasizing trust, dependence, abundance, and Divine Providence. It effectively addresses the concern of recognizing God's ongoing provision in the lives of believers from an Islamic perspective. The integration of Quranic references enhances the depth of the explanation. However, the response lacks a direct Christian perspective on the concept of manna and could benefit from incorporating specific biblical references and teachings on God's provision for believers.
+
+[&lt;- Link to Answer](../Symbolism_of_Manna.md)

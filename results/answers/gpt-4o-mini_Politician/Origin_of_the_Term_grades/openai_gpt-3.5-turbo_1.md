@@ -21,3 +21,5 @@ Jesus' followers were first called "Christians" in Antioch, as mentioned in the 
 Grade: 90
 
 Comment: The response provides a clear and accurate explanation of when Jesus' followers were first called "Christians" in Antioch as stated in the Book of Acts. It correctly highlights the historical context and significance of the term 'Christian'. The only improvement could be to elaborate a bit more on the importance of this name change in defining the identity and spread of early Christianity.
+
+[&lt;- Link to Answer](../Origin_of_the_Term.md)

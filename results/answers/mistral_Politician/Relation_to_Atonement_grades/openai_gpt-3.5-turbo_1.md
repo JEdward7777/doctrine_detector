@@ -27,3 +27,5 @@ In summary, while both terms deal with reconciliation and forgiveness, 'atonemen
 Grade: 90
 
 Comment: This response provides a clear and detailed explanation of the differences and similarities between the theological terms of propitiation and atonement, showcasing a deep understanding of the subject matter. The explanation is comprehensive and effectively addresses the concern raised, with insightful insights that align well with a Christian worldview. Well done!
+
+[&lt;- Link to Answer](../Relation_to_Atonement.md)

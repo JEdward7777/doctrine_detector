@@ -21,3 +21,5 @@ After King Solomon's reign, a significant event in Israel's history was the divi
 Grade: 85
 
 Comment: The response provides a concise and accurate summary of the division of Israel into the northern kingdom of Israel and the southern kingdom of Judah after King Solomon's death. It recognizes the key historical event and the political tensions that led to the division. The response could be improved by including more details on the spiritual significance of the division and how it impacted Israel's relationship with God and its religious practices. A deeper analysis from a Christian worldview on how this division impacted the spiritual journey and obedience of the Israelites would have enhanced the response.
+
+[&lt;- Link to Answer](../Division_of_Israel.md)

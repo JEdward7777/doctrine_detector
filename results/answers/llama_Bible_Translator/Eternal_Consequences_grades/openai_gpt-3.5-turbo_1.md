@@ -29,3 +29,5 @@ It's essential to emphasize that this perishing is not because of who we are by 
 Grade: 95
 
 Comment: The response provided a comprehensive and accurate explanation of the concept of perishing as it relates to eternal separation from God. The references to specific Bible verses and the explanation of the consequences of rejecting God's offer of salvation were well-supported and aligned with a Christian worldview. The emphasis on the seriousness of eternal separation from God was clear and effectively addressed the concern raised.
+
+[&lt;- Link to Answer](../Eternal_Consequences.md)

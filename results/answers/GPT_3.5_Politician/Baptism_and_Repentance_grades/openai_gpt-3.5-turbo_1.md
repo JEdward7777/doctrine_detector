@@ -25,3 +25,5 @@ Overall, repentance and baptism work together to deepen one's spiritual connecti
 Grade: 90
 
 Comment: The response provides a solid explanation of the interconnection between repentance and baptism in Christian doctrine, showing a clear understanding of how repentance prepares the heart for baptism. The explanation effectively conveys the significance of these concepts in the Christian tradition, emphasizing the importance of repentance as a genuine change of heart and commitment to Christian values prior to baptism. Overall, the response demonstrates a strong grasp of the relationship between repentance and baptism in Christian teachings.
+
+[&lt;- Link to Answer](../Baptism_and_Repentance.md)

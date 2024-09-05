@@ -21,3 +21,5 @@ In the Bible, manna is described as a type of bread-like food that God provided 
 Grade: 80
 
 Comment: The response accurately describes manna as a type of bread-like food provided by God for the Israelites in the wilderness, mentioning its appearance, taste, and significance as a miraculous provision. However, the response could have delved deeper into the spiritual and symbolic meaning of manna as a provision from God to show a more thorough understanding of God's provision in biblical context.
+
+[&lt;- Link to Answer](../Nature_of_Manna.md)

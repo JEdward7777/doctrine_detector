@@ -30,3 +30,5 @@ Accurate representation of the church's inclusive nature in translations.
 Grade: 95
 
 Comment: The response effectively demonstrates a deep understanding of the inclusive nature of the church as it pertains to translations of various terms related to it. The list provided covers a wide range of terms from different languages, showcasing the universal aspect of the church. It aligns well with a Christian worldview by emphasizing the gathering of all believers and not just a select few. Overall, the response meets the concern of accurate representation of the church's inclusive nature in translations very well.
+
+[&lt;- Link to Answer](../Translation_of_Church.md)

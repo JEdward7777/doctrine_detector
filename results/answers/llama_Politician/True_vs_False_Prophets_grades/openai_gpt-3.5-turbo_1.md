@@ -39,3 +39,5 @@ Thank you for this thought-provoking question! (smiling)
 Grade: 60
 
 Comment: The response touched on important considerations such as alignment with Scripture and the fruits of their ministry in discerning true prophetic voices. However, it failed to emphasize the critical factor of evaluating moral character and the guidance of trusted authorities in determining true prophets. While the response promoted respect for diverse beliefs and religious tolerance, it lacked a clear stance on the exclusivity of Christian truth. It is important to remember that, from a Christian perspective, Jesus Christ is the ultimate standard by which all prophets should be evaluated.
+
+[&lt;- Link to Answer](../True_vs_False_Prophets.md)

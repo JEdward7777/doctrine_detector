@@ -25,3 +25,5 @@ Overall, the Bible illustrates that idolatry not only breaks the first commandme
 Grade: 90
 
 Comment: The response effectively emphasizes the seriousness of idolatry as portrayed in the Bible, highlighting the consequences of straying from worshiping the one true God. It accurately discusses the patterns of idolatry and the resulting punishments depicted in the Old Testament, demonstrating an understanding of the importance of staying faithful to God's commandments. The response effectively addresses the concern by illustrating how recognizing these consequences can help Christians understand the gravity of straying from God's commandments. Great job connecting the content to the Christian worldview.
+
+[&lt;- Link to Answer](../Idolatry_in_the_Bible.md)

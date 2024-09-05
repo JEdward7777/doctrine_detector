@@ -21,3 +21,5 @@ In the spirit of inclusivity and respect for all beliefs, it is important to ack
 Grade: 80
 
 Comment: The response accurately highlights the important role of the high priest in the Israelites' relationship with God and the covenant by mentioning that only the high priest could approach the ark, particularly on the Day of Atonement. However, the initial response suggests consulting various religious traditions for interpretations on the ark of the covenant, which could potentially dilute the significance of the specific biblical account. It would have been more consistent with a Christian worldview to emphasize the unique and sacred role of the high priest as ordained by God in the Old Testament.
+
+[&lt;- Link to Answer](../High_Priest_Access.md)

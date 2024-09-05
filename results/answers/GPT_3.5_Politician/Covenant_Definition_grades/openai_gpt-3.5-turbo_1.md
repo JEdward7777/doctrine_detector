@@ -21,3 +21,5 @@ A covenant, as described in the Bible, is a sacred agreement or promise between 
 Grade: 90
 
 Comment: The response provides a solid understanding of covenants in biblical contexts by emphasizing the formal, binding nature of agreements between parties. It also correctly mentions key biblical covenants and their significance. The response could have been strengthened by delving deeper into the spiritual significance of covenants as a reflection of God's faithfulness and love towards His people.
+
+[&lt;- Link to Answer](../Covenant_Definition.md)

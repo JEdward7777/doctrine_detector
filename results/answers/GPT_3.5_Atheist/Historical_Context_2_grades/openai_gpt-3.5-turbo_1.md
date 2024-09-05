@@ -21,3 +21,5 @@ The Israelites ate unleavened bread during their escape from Egypt as a way to c
 Grade: 85
 
 Comment: The response accurately explains the biblical reason for the Israelites eating unleavened bread as part of their deliverance from slavery based on God's instruction. It demonstrates an understanding of the religious significance of this practice. However, it could have further elaborated on how this historical event shapes the religious practice of eating unleavened bread during Passover.
+
+[&lt;- Link to Answer](../Historical_Context_2.md)

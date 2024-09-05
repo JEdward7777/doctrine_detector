@@ -50,3 +50,5 @@ Comment: The response provides some good biblical support for the importance of 
 However, the response could have emphasized more strongly the importance of personal responsibility throughout all five points, rather than just mentioning it briefly in the first point. Additionally, while the quotes provided are relevant, they could have been applied more explicitly to the concept of personal responsibility in sanctification.
 
 To improve the grade, the response could have further developed the theme of personal responsibility by providing more explicit examples and biblical support throughout all five points, rather than just mentioning it briefly.
+
+[&lt;- Link to Answer](../Calling_to_Sanctification.md)

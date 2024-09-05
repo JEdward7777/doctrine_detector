@@ -35,3 +35,5 @@ In summary, according to the New Testament, Jesus is described as having a super
 Grade: 95
 
 Comment: The response provides a detailed and thorough exploration of the theological implications of Jesus fulfilling the role of high priest in the New Testament. It effectively analyzes key passages from Hebrews and highlights how Jesus' priesthood surpasses that of the Old Testament high priests in various aspects. The connection between Jesus as the Great High Priest offering himself as the ultimate sacrifice is well-supported and enriched with scriptural references. Overall, this response demonstrates a strong comprehension of the topic from a Christian worldview perspective.
+
+[&lt;- Link to Answer](../Jesus_as_the_High_Priest.md)

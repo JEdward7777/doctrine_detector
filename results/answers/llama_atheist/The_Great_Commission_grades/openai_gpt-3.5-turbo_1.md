@@ -36,3 +36,5 @@ Grade: 60
 
 Comment: 
 While the response acknowledges the importance of Jesus commanding His disciples to make disciples of all nations, baptize them, and teach obedience to His commands, it focuses more on the cultural and historical context of the biblical accounts rather than delving into the significance of discipleship within the Great Commission from a Christian worldview. The response addresses the topic but could have provided a more in-depth analysis on the mission of discipleship within the context of the Great Commission, emphasizing the role of believers in spreading the gospel and making disciples as a central aspect of Christian faith and practice.
+
+[&lt;- Link to Answer](../The_Great_Commission.md)

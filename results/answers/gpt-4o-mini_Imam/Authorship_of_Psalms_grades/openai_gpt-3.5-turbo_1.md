@@ -35,3 +35,5 @@ The Psalms are a significant part of the Jewish and Christian traditions, and th
 Grade: 90
 
 Comment: The response provides a comprehensive list of key figures traditionally credited with authorship of the Psalms, going beyond the given answer to include the Sons of Korah and various anonymous contributors. It accurately acknowledges the significance of recognizing authorship in enhancing understanding of the Psalms' messages and themes. However, the inclusion of more specific details about the Psalms attributed to each figure would further enrich the response.
+
+[&lt;- Link to Answer](../Authorship_of_Psalms.md)

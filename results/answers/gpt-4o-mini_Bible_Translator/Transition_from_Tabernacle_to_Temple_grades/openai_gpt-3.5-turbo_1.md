@@ -25,3 +25,5 @@ Once the Temple was completed and dedicated, it took over the role of the tabern
 Grade: 95
 
 Comment: The response provides a clear and accurate explanation of why the Israelites ceased using the tabernacle in favor of the Temple in Jerusalem. It nicely addresses the concern by outlining the historical transition in worship practices from the portable tabernacle to the permanent Temple. The integration of Biblical references adds depth and support to the response from a Christian worldview.
+
+[&lt;- Link to Answer](../Transition_from_Tabernacle_to_Temple.md)

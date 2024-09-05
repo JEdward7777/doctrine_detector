@@ -27,3 +27,5 @@ It is important to remember that while the descriptions of punishment are severe
 Grade: 90
 
 Comment: The response effectively addresses the concern by providing detailed examples from Islamic teachings on the Day of Judgment and the consequences for disbelief. It highlights the severity of God's punishment for wrongdoers while also emphasizing the importance of repentance and seeking forgiveness to avoid such consequences. The explanation is thorough and aligns well with the concern presented. Great job!
+
+[&lt;- Link to Answer](../God_s_Wrath.md)

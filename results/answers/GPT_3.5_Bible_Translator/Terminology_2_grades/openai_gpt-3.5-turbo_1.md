@@ -29,3 +29,5 @@ Each term reflects different theological perspectives and traditions within Chri
 Grade: 80
 
 Comment: The response accurately identifies two terms used to refer to the Lord's Supper within Christianity, 'communion' and 'Last Supper'. However, it falls short of addressing the concern fully as it does not elaborate on the range of terms and their theological significance as described in the provided answer. More depth in understanding the various terms would have significantly improved the response.
+
+[&lt;- Link to Answer](../Terminology_2.md)

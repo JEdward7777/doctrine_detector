@@ -23,3 +23,5 @@ In this sense, testing God implies attempting to challenge or manipulate Him for
 Grade: 95
 
 Comment: The response effectively incorporates the Christian view that testing God is wrong as it involves trying to manipulate Him and goes against acknowledging His sovereignty. The explanation provided aligns well with the concern regarding maintaining a proper relationship with God, emphasizing the importance of respecting and not challenging His authority. Overall, a strong understanding of the Christian worldview is demonstrated in the response.
+
+[&lt;- Link to Answer](../Testing_God.md)

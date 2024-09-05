@@ -25,3 +25,5 @@ In essence, the authority that allowed the apostles to perform miracles and prea
 Grade: 95
 
 Comment: This response effectively delves into the concept of divine empowerment and authority bestowed upon the apostles for ministry from a Christian worldview. It provides a comprehensive explanation rooted in scripture, highlighting the unique relationship between the apostles and Jesus, their commissioning, and the role of the Holy Spirit in guiding and empowering them. The response connects these elements to their ability to perform miracles, preach boldly, and authenticate their message. Overall, a strong and well-articulated reflection on the divine empowerment and authority of the apostles within the Christian faith.
+
+[&lt;- Link to Answer](../Authority_of_Apostles.md)

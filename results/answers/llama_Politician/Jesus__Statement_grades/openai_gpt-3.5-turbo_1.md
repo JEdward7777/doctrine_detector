@@ -29,3 +29,5 @@ Now, I know some folks might interpret this passage in a more literal or theolog
 Grade: 40
 
 Comment: While the response attempts to provide a respectful and inclusive interpretation of Jesus' statement, it falls short in addressing the concern regarding clarifying Jesus' identity and role in resurrection from a faith and theological perspective. The focus on unity and empathy, while important values, does not fully align with the Christian view of Jesus as the source of resurrection and the one who brings new life. The response could benefit from a deeper engagement with the specific concern raised.
+
+[&lt;- Link to Answer](../Jesus__Statement.md)

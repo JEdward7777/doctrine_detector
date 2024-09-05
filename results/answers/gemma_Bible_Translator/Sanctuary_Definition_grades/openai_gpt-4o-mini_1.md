@@ -43,3 +43,5 @@ Understanding the meaning and significance of the term 'sanctuary' in the Biblic
 Grade: 95
 
 Comment: This response provides a thorough explanation of the term "sanctuary" in the Bible, covering both physical and spiritual dimensions. It includes relevant Biblical references and demonstrates a clear understanding of the term's significance within a Christian worldview. The response effectively addresses the concern raised and provides a comprehensive overview. Great job!
+
+[&lt;- Link to Answer](../Sanctuary_Definition.md)

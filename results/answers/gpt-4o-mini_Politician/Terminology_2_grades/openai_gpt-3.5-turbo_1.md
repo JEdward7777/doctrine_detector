@@ -37,3 +37,5 @@ These terms reflect diverse theological interpretations and cultural traditions 
 Grade: 90
 
 Comment: The response provides an excellent explanation of the various terms used within Christianity to refer to the Lord's Supper, going beyond the initial answer of "communion" and "Last Supper." The comprehensive list of terms, along with explanations of their significance, demonstrates a strong understanding of the different theological perspectives and traditions surrounding this sacred practice. Overall, a thorough and insightful response.
+
+[&lt;- Link to Answer](../Terminology_2.md)

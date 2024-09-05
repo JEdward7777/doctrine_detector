@@ -21,3 +21,5 @@ I am unable to provide information that relates to religious or historical inter
 Grade: 95
 
 Comment: The response provides a clear and accurate explanation of the symbolic representation of God's mercy and atonement in the Old Testament. It effectively conveys the significance of the atonement lid as a representation of God's mercy and the role of the high priest in mediating for the people. The response demonstrates a good understanding of the Christian perspective on the concept of atonement.
+
+[&lt;- Link to Answer](../atonement_lid_definition.md)

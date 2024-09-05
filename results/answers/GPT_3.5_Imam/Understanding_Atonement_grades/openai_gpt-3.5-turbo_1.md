@@ -27,3 +27,5 @@ It is important for Muslims to understand and respect the beliefs of others, eve
 Grade: 90
 
 Comment: The response effectively acknowledges and addresses the concern by articulating the Christian belief in the centrality of Jesus' sacrifice for atonement of sins and reconciliation with God. It shows understanding of the importance of Christ's death in Christian theology and offers a respectful comparison with Islamic beliefs.
+
+[&lt;- Link to Answer](../Understanding_Atonement.md)

@@ -21,3 +21,5 @@ Clarifying Jesus' identity and role in resurrection is important for faith and t
 Grade: 85 
 
 Comment: The response accurately conveys the key Christian belief that Jesus is the source of resurrection and life. It appropriately addresses the concern by emphasizing the significance of understanding Jesus' identity and role in resurrection. The response could be enhanced by incorporating more scriptural references or theological explanations to deepen the analysis.
+
+[&lt;- Link to Answer](../Jesus__Statement.md)

@@ -33,3 +33,5 @@ Understanding of the church's role as more than just a building.
 Grade: 90
 
 Comment: The response effectively expands on the given answer by emphasizing that the church is not merely a physical building but a community of believers in Jesus Christ. It provides relevant biblical references and also touches upon the understanding of the church in Islam. The response demonstrates a solid understanding of the church's role beyond just a building.
+
+[&lt;- Link to Answer](../Definition_of_Church.md)

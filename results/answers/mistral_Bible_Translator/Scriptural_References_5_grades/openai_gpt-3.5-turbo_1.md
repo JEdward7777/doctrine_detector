@@ -31,3 +31,5 @@ These verses, among others, indicate a shift in the understanding of Hades from 
 Grade: 90
 
 Comment: The response provides a thorough analysis supported by multiple New Testament verses that showcase the shift in understanding of Hades. It addresses the concern by expanding on scriptural evidence and highlighting the implications for Christian eschatology. The inclusion of various verses and explanations strengthens the argument and demonstrates a solid understanding of the topic from a Christian worldview.
+
+[&lt;- Link to Answer](../Scriptural_References_5.md)

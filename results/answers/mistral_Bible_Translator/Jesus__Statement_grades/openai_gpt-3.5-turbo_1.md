@@ -23,3 +23,5 @@ Jesus was making a profound statement about His role as the source of eternal li
 Grade: 90
 
 Comment: The response provides a thorough explanation of Jesus' statement in John 11:25-26, highlighting the deeper meaning behind Jesus being the source of eternal life and the resurrection. It effectively clarifies Jesus' identity and role in resurrection, emphasizing the significance of faith and theological understanding. It aligns well with a Christian worldview by affirming Jesus as the divine source of life and resurrection.
+
+[&lt;- Link to Answer](../Jesus__Statement.md)

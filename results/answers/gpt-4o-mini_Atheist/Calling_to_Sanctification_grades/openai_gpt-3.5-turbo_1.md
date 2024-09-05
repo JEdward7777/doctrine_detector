@@ -23,3 +23,5 @@ Additionally, practices such as prayer, studying scripture, engaging in communit
 Grade: 85
 
 Comment: The response provides a solid explanation of the concept of personal sanctification in Christianity and connects it well with the given answer about believers being commanded to sanctify themselves to God. The inclusion of key biblical passages and practices related to sanctification is commendable. However, the response could have further emphasized the aspect of personal responsibility in the sanctification process to align more closely with the specified concern.
+
+[&lt;- Link to Answer](../Calling_to_Sanctification.md)

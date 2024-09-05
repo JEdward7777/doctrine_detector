@@ -29,3 +29,5 @@ The ephod was worn by the high priest during religious ceremonies and was an imp
 Grade: 90
 
 Comment: The response provided a detailed description of the materials used in the construction of the high priest's ephod, emphasizing the significance of the design and symbolism in worship. The additional information provided enhances the understanding of the ephod's importance in religious ceremonies. Well done!
+
+[&lt;- Link to Answer](../Ephod_materials.md)

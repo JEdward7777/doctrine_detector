@@ -27,3 +27,5 @@ In summary, Esau's rash decision to sell his birthright had long-lasting effects
 Grade: 95
 
 Comment: The response provides a comprehensive analysis of the implications of Esau's decision to sell his birthright to Jacob within a Christian worldview, addressing both Esau's and Jacob's perspectives and emphasizing the spiritual consequences of their actions. The answer effectively integrates the Biblical account with the concern for understanding the significance of choices and their spiritual implications. However, a slight deduction is made for not explicitly connecting the response back to the specific given answer, even though the concepts discussed align closely. Overall, this is a well-developed and insightful reflection on the narrative of Esau and Jacob.
+
+[&lt;- Link to Answer](../Understanding_Birthright.md)

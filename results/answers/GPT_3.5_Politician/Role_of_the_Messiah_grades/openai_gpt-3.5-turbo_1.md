@@ -21,3 +21,5 @@ In discussing the concept of the Messiah as portrayed in the Bible, it is import
 Grade: 90
 
 Comment: The response provides a clear and concise explanation of the role of the Messiah as described in the Bible. It accurately highlights the Messiah's roles as a prophet, priest, and king, as well as his establishment of the New Covenant with his people. By offering this insight, believers can better understand Jesus's mission and authority as the fulfillment of these prophetic roles. Great job!
+
+[&lt;- Link to Answer](../Role_of_the_Messiah.md)

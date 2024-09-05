@@ -21,3 +21,5 @@ Propitiation is a concept commonly found in Christian theology, primarily in the
 Grade: 85
 
 Comment: The response effectively connects the theological concept of propitiation with biblical references to support understanding. The inclusion of key verses such as 1 John 2:2, 1 John 4:10, and Romans 3:25-26 helps to strengthen the explanation of Jesus as the propitiation for sins. However, it could have been enhanced by providing a bit more elaboration on how these verses specifically relate to the concept of propitiation within Christian theology.
+
+[&lt;- Link to Answer](../Scriptural_Basis.md)

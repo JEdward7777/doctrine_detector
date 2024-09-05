@@ -21,3 +21,5 @@ The names of the twelve disciples are not explicitly listed in the books of the 
 Grade: 90
 
 Comment: The response correctly identifies that the names of the twelve disciples are listed in the books of Matthew, Mark, and Luke, demonstrating a good understanding of the Gospel accounts and their teachings. However, the response could have highlighted the significance of knowing these teachings within a Christian worldview for a higher grade.
+
+[&lt;- Link to Answer](../Matthew,_Mark,_and_Luke.md)

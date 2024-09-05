@@ -29,3 +29,5 @@ Overall, the Bible teaches us to speak blessings upon others, show love and kind
 Grade: 95
 
 Comment: The response provides a thorough explanation of the negative consequences of cursing others as highlighted in the Bible, emphasizing the importance of aligning our words with God's teachings. It effectively integrates relevant scripture passages and conveys a clear understanding of the implications of our words. The only minor improvement could have been to provide a more explicit connection to Jesus' teachings on the seriousness of anger and cursing, but overall, the response demonstrates a solid grasp of the concern presented.
+
+[&lt;- Link to Answer](../Understanding_Curses.md)

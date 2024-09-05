@@ -31,3 +31,5 @@ So, while I don't subscribe to the idea of divine laws, I believe that acting ju
 Grade: 50
 
 Comment: The response provided a well-thought-out secular perspective on acting justly, emphasizing concepts like fairness, equality, and human dignity. However, it diverged significantly from the Christian worldview by omitting any reference to God's laws and the biblical standard of fairness and righteousness. While the secular viewpoint has its merits, it fell short in addressing the concern from a Christian-specific perspective. Additional discussion on the biblical understanding of justice and how it informs our interactions with others would have enhanced the response.
+
+[&lt;- Link to Answer](../Understanding_Justice.md)

@@ -45,3 +45,5 @@ Clarifying the relationship between written scripture and God's spoken word.
 Grade: 80
 
 Comment: The response provides a solid explanation of the concepts of scripture and the word of God within a biblical context, effectively clarifying their relationship. However, there is room for improvement in explicitly addressing the concern by directly explaining how the written scripture and God's spoken word interrelate within Christian theology.
+
+[&lt;- Link to Answer](../Nature_of_Scripture.md)

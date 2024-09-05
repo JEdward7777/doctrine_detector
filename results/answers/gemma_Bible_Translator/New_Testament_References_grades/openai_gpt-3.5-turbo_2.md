@@ -21,3 +21,5 @@ There is no evidence in the New Testament suggesting that John the Baptist was a
 Grade: 85
 
 Comment: The response provides a valid argument connecting the Old Testament practice of the Nazirite vow with the New Testament figure of John the Baptist. It demonstrates an effort to understand biblical continuity, which is important in interpreting the Scriptures from a Christian worldview. However, it could be further strengthened by citing additional biblical evidence or scholarly sources to support the connection between John the Baptist and the Nazirite vow.
+
+[&lt;- Link to Answer](../New_Testament_References.md)

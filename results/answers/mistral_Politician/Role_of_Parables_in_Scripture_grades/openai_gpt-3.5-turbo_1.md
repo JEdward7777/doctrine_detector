@@ -25,3 +25,5 @@ By using a parable, Nathan was able to convey his message without explicitly poi
 Grade: 95
 
 Comment: This response effectively demonstrates an understanding of the use of parables for correction and revelation in biblical narratives. The student accurately highlights how Prophet Nathan used a parable to reveal King David's sin with subtlety and impact. The explanation provided shows a strong grasp of the effectiveness of storytelling and indirect communication in conveying a moral message. Overall, a well-articulated and thoughtful analysis from a Christian perspective.
+
+[&lt;- Link to Answer](../Role_of_Parables_in_Scripture.md)

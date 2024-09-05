@@ -31,3 +31,5 @@ In conclusion, Jesus' relationship to the high priesthood in the New Testament i
 Grade: 90
 
 Comment: The response provides a thorough examination of the theological implications of Jesus fulfilling the role of High Priest in the New Testament, demonstrating a deep understanding of the subject matter. The analysis of various biblical passages and their significance in highlighting Jesus' unique status as the ultimate High Priest is well-presented. The response effectively addresses the concern by delving into key themes such as divine authority, sacrifice, and redemption, and articulates the central role of Jesus as the Great High Priest who offers himself as the ultimate sacrifice for human sin. The only suggestion for improvement would be to perhaps incorporate a bit more direct references to specific verses or doctrinal teachings that support the theological claims made in the response.
+
+[&lt;- Link to Answer](../Jesus_as_the_High_Priest.md)

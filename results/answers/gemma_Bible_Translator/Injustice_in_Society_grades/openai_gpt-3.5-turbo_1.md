@@ -74,3 +74,5 @@ Addressing the need for Christian activism against injustice and promoting fairn
 Grade: 95
 
 Comment: The response provides a comprehensive list of examples of injustice in our world today and offers a clear roadmap for how Christians should respond to these issues, aligning well with biblical principles. The suggestions for advocacy, compassion, prayer, cultural transformation, and the emphasis on justice and mercy reflect a strong Christian worldview. The inclusion of additional considerations, such as humility, collaboration, and maintaining Christian principles, further enhances the depth of the response. Overall, this is a well-articulated and thorough reflection on Christian activism against injustice.
+
+[&lt;- Link to Answer](../Injustice_in_Society.md)

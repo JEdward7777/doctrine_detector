@@ -52,3 +52,5 @@ The reference to John 3:16 and Ephesians 2:8-9 adds credibility to the response,
 One area where the response could improve is in elaborating on the biblical passages provided. While the references are helpful, a more detailed explanation of how these passages support the conclusions drawn would strengthen the argument.
 
 Overall, this response effectively conveys the seriousness of eternal separation from God and the need for individuals to accept God's love and salvation through Jesus Christ.
+
+[&lt;- Link to Answer](../Eternal_Consequences.md)

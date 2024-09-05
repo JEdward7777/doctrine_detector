@@ -21,3 +21,5 @@ The Bible describes Jesus as the central figure in the Christian faith, who is b
 Grade: 90
 
 Comment: The provided response effectively captures the essential role of Jesus in Christian salvation by emphasizing Him as the central figure who offers forgiveness and deliverance to believers. However, further elaboration on how understanding Jesus' role is crucial for grasping the Christian faith and the nature of redemption could enhance the response.
+
+[&lt;- Link to Answer](../Role_of_Jesus.md)

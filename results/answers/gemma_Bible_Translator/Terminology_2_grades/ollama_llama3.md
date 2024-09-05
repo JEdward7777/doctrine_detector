@@ -49,3 +49,5 @@ I would give this response a grade of 40.
 While the student does mention two terms commonly used to refer to the Lord's Supper, "communion" and "Last Supper", they fail to provide a comprehensive overview of the various terms used across different Christian denominations and traditions. The concern is specifically about understanding the different terms used within Christianity, but this response only scratches the surface.
 
 A more thorough response would have explored the biblical and historical terms, as well as the contemporary and denominational variations listed in the original response. Additionally, the student could have provided a brief explanation of how each term relates to the Lord's Supper and its significance in Christian worship.
+
+[&lt;- Link to Answer](../Terminology_2.md)

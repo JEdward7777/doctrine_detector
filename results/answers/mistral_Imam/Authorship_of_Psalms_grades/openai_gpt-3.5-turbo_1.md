@@ -23,3 +23,5 @@ In Islam, we believe in a set of revelations that were received by prophets thro
 Grade: 60
 
 Comment: The response correctly acknowledges the key figures involved in writing the Psalms, which aligns with Christian beliefs. However, the student's focus on the Islamic perspective in the majority of the response does not directly address the concern about recognizing the authorship of Psalms to enhance understanding. More emphasis on how knowing the authors of the Psalms can deepen one's comprehension of their messages and themes from a Christian viewpoint would have strengthened the answer.
+
+[&lt;- Link to Answer](../Authorship_of_Psalms.md)

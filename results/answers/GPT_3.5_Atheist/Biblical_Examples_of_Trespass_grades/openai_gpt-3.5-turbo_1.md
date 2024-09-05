@@ -25,3 +25,5 @@ Overall, instances of trespass in the Bible serve as powerful reminders of the c
 Grade: 90
 
 Comment: The response effectively utilizes the examples provided in 1 Samuel 25:28 and Romans 5:20-21 to illustrate mercy, grace, and God's forgiveness in the context of trespasses. The biblical examples are well-explained and connected to the concern of understanding implications of actions and God's forgiveness. The response demonstrates a clear understanding of the Christian worldview on the topic of trespass and forgiveness. Great job!
+
+[&lt;- Link to Answer](../Biblical_Examples_of_Trespass.md)

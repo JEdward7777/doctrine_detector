@@ -21,3 +21,5 @@ Recognizing historical context and significance of the term 'Christian'.
 Grade: 85
 
 Comment: The response does a good job of providing historical context and acknowledging the development of the term "Christian" outside of the Christian community. It accurately addresses the concern about recognizing the historical significance of the term. However, the response could have connected the historical context to the original statement more explicitly for a stronger link between the two points.
+
+[&lt;- Link to Answer](../Origin_of_the_Term.md)

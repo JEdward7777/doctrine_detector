@@ -32,3 +32,5 @@ These alternative translations capture the idea of intense and passionate dedica
 Grade: 90
 
 Comment: The response provides a thorough list of alternative translations for the phrase "to be zealous" that align with the biblical meaning, reflecting a strong understanding of the intensity of commitment expected in the Christian faith. The additional translations offered in the response enhance the understanding of the concept and demonstrate a deep engagement with the concern provided. Great job!
+
+[&lt;- Link to Answer](../Translation_Suggestions.md)

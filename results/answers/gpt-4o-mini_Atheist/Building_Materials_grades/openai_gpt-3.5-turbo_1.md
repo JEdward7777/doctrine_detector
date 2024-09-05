@@ -31,3 +31,5 @@ These materials reflected the cultural practices and religious significance of t
 Grade: 90
 
 Comment: The response provides a detailed explanation of the common materials used in constructing altars in biblical times, highlighting the significance of each material in relation to the cultural and religious practices of the period. It effectively addresses the concern by enhancing understanding of biblical practices and the reverence associated with worship through the exploration of altar materials. The only suggestion for improvement would be to explicitly tie the altar materials to how they can deepen a Christian's understanding of worship practices in the context of biblical teachings.
+
+[&lt;- Link to Answer](../Building_Materials.md)

@@ -21,3 +21,5 @@ In discussing the significance of baptism in the Christian faith, it is importan
 Grade: 90
 
 Comment: The response provides a concise and clear statement on the significance of baptism in the Christian faith, emphasizing its role in cleansing from sin and unity with Christ. It aligns well with Christian teachings on baptism. However, it could have further elaborated on the various symbolic meanings of baptism within different Christian traditions to provide a more comprehensive understanding of its importance.
+
+[&lt;- Link to Answer](../Baptism_Purpose.md)

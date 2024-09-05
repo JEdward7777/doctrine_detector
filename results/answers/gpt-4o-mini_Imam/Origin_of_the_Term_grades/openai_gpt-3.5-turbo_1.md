@@ -23,3 +23,5 @@ This designation reflects the followers' belief in Jesus as the Christ (or Messi
 Grade: 95
 
 Comment: This response provides a clear and accurate explanation of when and where Jesus' followers were first called "Christians" in Antioch, as supported by Acts 11:26. The response also acknowledges the significance of this designation in the early development of Christianity. The only slight improvement could be a bit more elaboration on the historical and cultural context surrounding the term 'Christian,' but overall, it is a strong and well-informed answer.
+
+[&lt;- Link to Answer](../Origin_of_the_Term.md)

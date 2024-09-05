@@ -29,3 +29,5 @@ In this sense, the significance of Jesus' sacrifice in the context of propitiati
 Grade: 95
 
 Comment: The response provides a thorough explanation of propitiation in Christian theology, linking it to God's justice and mercy through Jesus' sacrifice on the cross. It emphasizes the biblical basis for understanding how propitiation satisfies God's justice while demonstrating His mercy and grace, thus clearly addressing the concern raised. However, to enhance the response further, a direct reference to the sacrificial system in the Old Testament and its fulfillment in Jesus Christ could have been included.
+
+[&lt;- Link to Answer](../Understanding_Propitiation.md)

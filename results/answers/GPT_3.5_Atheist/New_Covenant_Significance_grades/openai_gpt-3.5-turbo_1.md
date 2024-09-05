@@ -27,3 +27,5 @@ Overall, the establishment of the new covenant through Jesus can be seen as a tr
 Grade: 90
 
 Comment: The response effectively recognizes the transformative power of Jesus' sacrifice in the context of God's promises, highlighting the significance of the new covenant as based on Jesus' atoning sacrifice. The historical and cultural context provided enhances the understanding of the new covenant's impact and relevance. The response could have further emphasized the central role of Jesus as the fulfillment of God's promises and the mediation of the new covenant in a more explicitly Christian-specific worldview.
+
+[&lt;- Link to Answer](../New_Covenant_Significance.md)

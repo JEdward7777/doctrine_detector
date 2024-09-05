@@ -25,3 +25,5 @@ It's essential to recognize the symbolic value of this event without overlooking
 Grade: 90
 
 Comment: The response effectively highlights the significance of the blood of the lamb on the doorposts in the Passover event and its connection to God's protection and deliverance. It acknowledges the importance of this sacrificial act and its role in preserving the Israelites from harm. The response could have further emphasized the parallel between the Passover event in the Old Testament and the concept of atonement through the sacrificial lamb in the Christian faith, drawing a clearer connection between the two. Overall, a well-written and respectful acknowledgment of the Passover story within a Christian worldview.
+
+[&lt;- Link to Answer](../Role_of_Blood_in_Passover.md)

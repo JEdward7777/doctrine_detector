@@ -21,3 +21,5 @@ The covenant that God made with the people of Israel is known as the Covenant of
 Grade: 90
 
 Comment: The response provides a clear explanation of the Covenant of the Torah, emphasizing the special relationship between God and the Israelites as His chosen people. It acknowledges the importance of God's promises and the significance of the covenant in shaping the identity and faith of the Israelites in line with a Christian worldview. This response demonstrates a solid understanding of how God's promises and chosen people play a central role in biblical history.
+
+[&lt;- Link to Answer](../Covenant_with_Israel.md)

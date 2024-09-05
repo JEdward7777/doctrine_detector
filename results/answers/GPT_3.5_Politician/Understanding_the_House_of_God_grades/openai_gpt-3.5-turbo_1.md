@@ -21,3 +21,5 @@ The term "house of God" in a biblical context generally refers to a sacred place
 Grade: 85
 
 Comment: The response provides a clear and accurate understanding of the term "house of God" in a biblical context, relating it to places of worship like the tabernacle or temple. It could have been strengthened by emphasizing the spiritual aspect of the term as well, in relation to the presence of God among believers beyond physical structures.
+
+[&lt;- Link to Answer](../Understanding_the_House_of_God.md)

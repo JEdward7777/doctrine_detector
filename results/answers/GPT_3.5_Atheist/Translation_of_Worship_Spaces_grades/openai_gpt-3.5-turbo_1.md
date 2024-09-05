@@ -21,3 +21,5 @@ The phrase "house of Yahweh" can be translated in a culturally sensitive way for
 Grade: 80
 
 Comment: The response provides a valid interpretation of the phrase "house of Yahweh" by translating it as "Yahweh’s temple" or "place where Yahweh is worshiped," emphasizing the significance of worship spaces. The response could have further emphasized the spiritual and symbolic importance of the phrase in reflecting Yahweh's presence in the worship space from a Christian worldview perspective.
+
+[&lt;- Link to Answer](../Translation_of_Worship_Spaces.md)

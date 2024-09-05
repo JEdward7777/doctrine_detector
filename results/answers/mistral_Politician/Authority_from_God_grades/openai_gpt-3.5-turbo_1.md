@@ -27,3 +27,5 @@ In an effort to maintain political correctness and avoid offending anyone, it is
 Grade: 75
 
 Comment: The response provides a general explanation of divine authority from a religious perspective, touching on its importance for believers in guiding their moral and spiritual decisions. However, it does not explicitly address the concern of how understanding divine authority helps believers discern God's will and maintain obedience in their faith journey. It could have been improved by connecting the concept of divine authority more directly to the idea of discerning God's will and obedience in the context of the believer's faith journey. Nonetheless, the response overall demonstrates a good understanding of the topic.
+
+[&lt;- Link to Answer](../Authority_from_God.md)

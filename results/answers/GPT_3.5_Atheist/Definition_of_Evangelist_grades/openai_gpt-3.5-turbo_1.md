@@ -21,3 +21,5 @@ The term 'evangelist' originates from the Greek word 'euangelistes', which means
 Grade: 90
 
 Comment: The response accurately conveys the core meaning of 'evangelist' as 'someone who preaches the good news,' aligning well with the Christian understanding of spreading the Gospel. It demonstrates a clear understanding of the role of an evangelist in sharing the gospel from a Christian perspective.
+
+[&lt;- Link to Answer](../Definition_of_Evangelist.md)

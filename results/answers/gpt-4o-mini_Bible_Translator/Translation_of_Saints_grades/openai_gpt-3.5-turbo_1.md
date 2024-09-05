@@ -31,3 +31,5 @@ Ultimately, the best approach is to use a term that clearly communicates the int
 Grade: 95
 
 Comment: The response provides a thorough explanation of different translation approaches for the term "saints" in the Christian context, taking into consideration theological, cultural, and scriptural aspects. It offers alternative translations that are inclusive and accurately represent all believers in Jesus without singling out specific Christian groups. The response demonstrates respect for the diverse audience and suggests the use of terms like 'holy ones,' 'holy people,' or 'holy believers in Jesus,' which align with the concern of using inclusive language.
+
+[&lt;- Link to Answer](../Translation_of_Saints.md)

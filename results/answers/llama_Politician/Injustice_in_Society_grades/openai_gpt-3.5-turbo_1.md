@@ -39,3 +39,5 @@ Thank you for your thoughtful question!
 Grade: 90
 
 Comment: The response provides a comprehensive and thoughtful approach to addressing injustices from a Christian perspective. The candidate effectively connects biblical principles to practical actions, emphasizing the importance of education, advocacy, and support for marginalized communities. The emphasis on being salt and light, loving our neighbors, and stewarding God's creation resonates well within a Christian worldview. The response could have elaborated more on the role of Christian activism in systemic change and specifically cited relevant biblical teachings on justice to further strengthen the argument. Overall, a strong and well-rounded response.
+
+[&lt;- Link to Answer](../Injustice_in_Society.md)

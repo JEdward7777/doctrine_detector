@@ -32,3 +32,5 @@ This Great Commission serves as a guiding principle for Christian evangelism and
 Grade: 95
 
 Comment: The response provides a thorough and accurate explanation of the mission of discipleship within the context of the Great Commission given by Jesus. It highlights the key components of making disciples, baptism, and teaching obedience to Christ's commands. The answer is aligned with a Christian worldview and demonstrates a solid understanding of the importance of fulfilling the Great Commission in spreading the Gospel. Great job!
+
+[&lt;- Link to Answer](../The_Great_Commission.md)

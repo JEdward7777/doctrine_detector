@@ -21,3 +21,5 @@ In the Bible, a prophet's primary role is to communicate messages from God to Hi
 Grade: 90
 
 Comment: The response effectively explains the primary role of a prophet as communicating God's messages to the people, particularly in terms of warning against sin and urging obedience. It accurately reflects the biblical understanding of prophets and their messages by emphasizing the call to repentance and faithfulness. The inclusion of various forms of revelation and the prophetic role in foretelling future events further enriches the explanation. However, to achieve a perfect score, more depth could have been provided on how prophets also served to guide, comfort, and point people back to God's redemptive plan.
+
+[&lt;- Link to Answer](../Role_of_Prophets.md)

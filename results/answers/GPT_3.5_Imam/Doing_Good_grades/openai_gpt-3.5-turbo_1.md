@@ -25,3 +25,5 @@ Therefore, while the phrase "do good to" may have specific connotations within a
 Grade: 70
 
 Comment: The response acknowledges the Christian perspective on "do good to" and demonstrates an understanding of how it relates to living out one's faith by actively benefiting others. However, the response could have further emphasized the uniqueness of Christian beliefs and practices in doing good deeds, while still acknowledging the shared values of kindness, compassion, and benevolence across different faith traditions.
+
+[&lt;- Link to Answer](../Doing_Good.md)

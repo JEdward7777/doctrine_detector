@@ -29,3 +29,5 @@ It's important to remember that interpretations can vary widely and that Jesus' 
 Grade: 90
 
 Comment: The response provides a thorough explanation of the concept of celibacy in relation to the passage from Matthew 19:12, drawing on different interpretations and historical contexts. The respondent effectively links celibacy to Jesus' teachings on self-denial and devotion to the kingdom of God. The only improvement could be to include more direct references to biblical teachings on celibacy and the significance of marriage within a Christian worldview.
+
+[&lt;- Link to Answer](../Eunuchs_in_the_Bible.md)

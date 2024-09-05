@@ -33,3 +33,5 @@ Was-salamu alaikum (peace be upon you).
 Grade: 85
 
 Comment: The response provides a thorough and insightful exploration of the significance of translating "Shaddai" as a title rather than a name in highlighting God's attributes, specifically His omnipotence and strength. It also draws parallels between the Christian understanding of God's character and the Islamic belief in Allah's 99 names. The response effectively addresses the concern by showcasing how the translation choice can impact one's perception of God's relational aspect in the Christian faith. Well done!
+
+[&lt;- Link to Answer](../Significance_of_Names.md)

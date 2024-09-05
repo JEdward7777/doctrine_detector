@@ -32,3 +32,5 @@ It is important to note that the influence and power of the Sadducees declined a
 Grade: 95
 
 Comment: The response provides a detailed and accurate explanation of the main responsibilities of the Sadducees in the context of religious leadership during the time of Jesus. It demonstrates a solid understanding of the historical role of the Sadducees within the Jewish temple system and their significance in both religious and political spheres. The only minor improvement could have been to explicitly mention the rejection of oral traditions and interpretations of the Pharisees as part of the Sadducees' beliefs. Overall, an excellent response.
+
+[&lt;- Link to Answer](../Role_of_Sadducees.md)

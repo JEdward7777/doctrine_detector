@@ -51,3 +51,5 @@ Understanding the spiritual gifts related to evangelism and their role in the ch
 Grade: 90
 
 Comment: This response provides a thorough and accurate explanation of the characteristics and priorities of evangelists within the Christian faith. It aligns well with the concern of understanding spiritual gifts related to evangelism and effectively highlights the unique role of evangelists in the church. The response could be strengthened by directly connecting the concept of spiritual gifts to the characteristics of evangelists mentioned in the response. Overall, a commendable and insightful explanation from a Christian worldview perspective.
+
+[&lt;- Link to Answer](../Gift_of_Evangelism.md)

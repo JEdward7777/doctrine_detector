@@ -29,3 +29,5 @@ In summary, while the role of Jesus Christ as one of the judges on the Day of Ju
 Grade: 70
 
 Comment: The response demonstrates a good understanding of the role of Jesus Christ in Islamic beliefs related to the Final Judgment Day, as well as the belief in Allah as the ultimate judge. The student effectively explains the Islamic perspective on the role of Jesus on the Day of Judgment and how it differs from the Christian belief presented in the answer. However, the response could have delved deeper into the implications of faith in Jesus as judge and how it relates to salvation and eternal destiny from a Christian worldview.
+
+[&lt;- Link to Answer](../Understanding_the_Day_of_Judgment.md)

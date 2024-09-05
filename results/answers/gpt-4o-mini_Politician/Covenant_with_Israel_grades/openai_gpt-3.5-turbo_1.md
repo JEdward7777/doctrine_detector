@@ -27,3 +27,5 @@ It is important to approach this topic with sensitivity and an understanding of 
 Grade: 90
 
 Comment: The response provides a comprehensive explanation of the Mosaic Covenant and its significance in outlining the responsibilities and privileges of the Israelites as God's chosen people. The answer sufficiently addresses the concern by acknowledging the importance of God's promises and relationship with His chosen people within the context of the covenant. The only suggestion for improvement would be to perhaps include a direct reference to the covenant in the explanation provided to further strengthen the connection between the covenant and God's promises to His people.
+
+[&lt;- Link to Answer](../Covenant_with_Israel.md)

@@ -46,3 +46,5 @@ The Psalms served as a multifaceted collection of devotional texts that played a
 Grade: 85
 
 Comment: The response provides a thorough explanation of how the Psalms were used in the worship practices of Israel, touching on various aspects such as expression of faith and lament, hymnody and praise, intercessory prayer, communal worship, and reflection and guidance. The answer expands on the initial statement by highlighting the multifaceted nature of the Psalms and their significance in the spiritual life of the Israelites. The only area for improvement would be to provide more specific examples or references to demonstrate a deeper understanding of the historical context and purpose of worship through the Psalms.
+
+[&lt;- Link to Answer](../Purpose_of_Psalms.md)

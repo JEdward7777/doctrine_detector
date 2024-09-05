@@ -35,3 +35,5 @@ These responsibilities reflect the Jewish belief in a sacred hierarchy and the n
 Grade: 90
 
 Comment: The response provides a clear and accurate understanding of the significance of the high priest's role in the worship practices of Israel by highlighting the unique privilege of entering the most holy part of the tabernacle or temple to offer a special sacrifice once per year. The key aspect of mediation between the people and God is captured effectively in the response. However, the mention of this responsibility in the context of the Jewish traditions and broader responsibilities of the high priest, as outlined in the Hebrew Bible, would have further enriched the understanding from a Christian worldview.
+
+[&lt;- Link to Answer](../Role_of_the_High_Priest.md)

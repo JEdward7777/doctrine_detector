@@ -25,3 +25,5 @@ The practice of using myrrh in burial is also reflected in religious texts from 
 Grade: 85
 
 Comment: The response provides a thorough explanation of the significance of myrrh in burial practices, demonstrating an understanding of the cultural context. It acknowledges the importance of myrrh in anointing the deceased and shows awareness of the cultural and religious beliefs surrounding burial practices in biblical times. The response effectively addresses the concern of how understanding burial customs enhances comprehension of cultural contexts in scripture.
+
+[&lt;- Link to Answer](../Use_in_Burial.md)

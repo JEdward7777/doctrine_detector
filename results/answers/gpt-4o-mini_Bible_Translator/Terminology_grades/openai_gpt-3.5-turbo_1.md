@@ -31,3 +31,5 @@ Keep in mind that the specific title and understanding of a deacon can vary amon
 Grade: 85
 
 Comment: The response provides a comprehensive list of alternative terms that can be used to describe or refer to a deacon within Christian contexts, addressing the concern of recognizing the various ways to identify service roles within the church. The additional terms included in the list demonstrate a strong understanding of different aspects of the deacon's role and contribute to a well-rounded perspective on the topic.
+
+[&lt;- Link to Answer](../Terminology.md)

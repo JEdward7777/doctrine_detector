@@ -35,3 +35,5 @@ In summary, only those who had undergone ritual purification, wore proper attire
 Grade: 90
 
 Comment: The response demonstrates a solid understanding that only the high priest could approach the ark, specifically on the Day of Atonement, highlighting the pivotal role of the high priest in mediating the relationship between the Israelites and God through the covenant. The additional information provided about ritual purification, proper attire, and the importance of fear and reverence aligns well with the concern of recognizing the high priest's significance in the Israelite's relationship with God.
+
+[&lt;- Link to Answer](../High_Priest_Access.md)

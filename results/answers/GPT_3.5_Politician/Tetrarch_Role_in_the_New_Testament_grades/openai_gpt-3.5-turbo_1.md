@@ -21,3 +21,5 @@ Herod Antipas, also known as 'Herod the tetrarch', is mentioned in the New Testa
 Grade: 90
 
 Comment: The response accurately highlights the key role of Herod Antipas in the events of the New Testament, specifically his involvement in the beheading of John the Baptist and the trial of Jesus before Pilate. The mention of these significant events shows an understanding of the importance of Herod Antipas in biblical narratives. It aligns well with the concern regarding the importance of understanding the historical and biblical context of Herod Antipas for interpreting the New Testament.
+
+[&lt;- Link to Answer](../Tetrarch_Role_in_the_New_Testament.md)

@@ -25,3 +25,5 @@ Overall, in Christian theology, righteousness is not something that can be earne
 Grade: 80
 
 Comment: The provided response accurately addresses the concern by emphasizing the concept of human righteousness being based on faith in Jesus, as well as the exchange of sins for Jesus' righteousness through salvation. The connection between faith in Jesus and the process of justification is clearly explained, aligning well with Christian beliefs. The response effectively highlights the essential aspect of trusting in Jesus for righteousness and salvation.
+
+[&lt;- Link to Answer](../Human_Righteousness.md)

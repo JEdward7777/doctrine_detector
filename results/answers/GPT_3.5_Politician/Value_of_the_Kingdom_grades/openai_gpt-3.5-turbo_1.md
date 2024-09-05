@@ -21,3 +21,5 @@ Jesus used several parables to describe the value of the kingdom of God includin
 Grade: 90
 
 Comment: The response effectively highlights the key parables used by Jesus to illustrate the value and transformative power of the kingdom of God. It successfully addresses the concern by emphasizing the worth and significance of the kingdom of God in our lives. Great job in connecting the parables to the overarching theme of appreciating the kingdom of God.
+
+[&lt;- Link to Answer](../Value_of_the_Kingdom.md)

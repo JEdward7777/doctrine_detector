@@ -31,3 +31,5 @@ These verses provide an understanding of the reward awaiting those who believe i
 Grade: 20
 
 Comment: While the response provides relevant information about the concept of Jannah in Islam and references key verses from the Quran, it does not address the concern provided. The response does not explore the references given from a Christian perspective to enhance understanding of God's kingdom and heaven. A higher grade could be given if the response had engaged with the specified concern and integrated the Christian viewpoint in the discussion.
+
+[&lt;- Link to Answer](../Biblical_References_to_Heaven.md)

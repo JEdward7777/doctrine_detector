@@ -31,3 +31,5 @@ In each of these situations, our response as Christians is rooted in love, justi
 Grade: 95
 
 Comment: The response effectively expands on the concept of injustice, providing specific examples and emphasizing the Christian call to address each issue with love and compassion. The writer's insights align well with biblical principles, showcasing a holistic understanding of Christian activism against injustice. The only minor area for improvement could be to provide more direct references to specific Bible verses throughout the response to further reinforce the basis of Christian responses to injustice. Overall, a strong and insightful response.
+
+[&lt;- Link to Answer](../Injustice_in_Society.md)

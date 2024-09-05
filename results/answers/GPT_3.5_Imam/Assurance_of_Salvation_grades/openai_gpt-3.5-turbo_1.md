@@ -29,3 +29,5 @@ It is essential for believers, including those who believe in Jesus, to strive f
 Grade: 60
 
 Comment: While the response provides a comprehensive explanation of Islamic beliefs regarding Jesus and salvation, it does not directly address the concern of reassuring believers of their salvation through faith in Jesus from a Christian perspective. It emphasizes faith in Allah and righteous deeds rather than the unique Christian belief in salvation through faith in Jesus Christ. The response could be improved by incorporating the Christian view of salvation through Jesus as the central focus.
+
+[&lt;- Link to Answer](../Assurance_of_Salvation.md)

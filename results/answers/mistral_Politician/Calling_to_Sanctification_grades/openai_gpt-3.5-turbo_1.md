@@ -21,3 +21,5 @@ Emphasizing the importance of personal responsibility in the sanctification proc
 Grade: 95
 
 Comment: The response accurately reflects the Christian belief that believers are commanded to sanctify themselves to God and be holy. It aligns well with the concern of emphasizing personal responsibility in the sanctification process. The inclusion of the specific biblical verse from 1 Thessalonians further supports the argument. Well done!
+
+[&lt;- Link to Answer](../Calling_to_Sanctification.md)

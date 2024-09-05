@@ -21,3 +21,5 @@ Describing God as "righteous" typically means that God is viewed as being morall
 Grade: 90
 
 Comment: The response provides a clear and accurate definition of God's righteousness, highlighting key attributes such as goodness, justice, faithfulness, and love, while emphasizing the condemnation of sin. It acknowledges the importance of understanding God's righteousness for appreciating His justice and love, demonstrating a solid grasp of how these aspects are intertwined in Christian theology.
+
+[&lt;- Link to Answer](../Understanding_Righteousness.md)

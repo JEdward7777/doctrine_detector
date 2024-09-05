@@ -27,3 +27,5 @@ In the Quran, the Islamic holy book, Muslims believe that the sanctuary (Kaaba) 
 Grade: 80
 
 Comment: The response provided a detailed explanation of the sanctuary in the Old Testament, highlighting its significance as a place of God's presence among His people and a symbol of their covenant relationship with Him. However, there could have been more emphasis on the aspect of the sanctuary being a source of safety and protection for the Israelites in line with the concern provided. A stronger connection between the description of the sanctuary and its role as a safe haven could have further strengthened the answer.
+
+[&lt;- Link to Answer](../Sanctuary_in_the_Old_Testament.md)

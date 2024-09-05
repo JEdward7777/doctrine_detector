@@ -29,3 +29,5 @@ Overall, while the New Testament does not provide a comprehensive instruction on
 Grade: 85
 
 Comment: The response provides a well-thought-out explanation of how biblical teachings regarding singing psalms apply to contemporary Christian worship. The student effectively references specific instructions and allusions from the New Testament to support their argument. The only area for improvement would be to provide more specific examples or suggestions on how contemporary Christians can incorporate the singing of psalms into their worship practices.
+
+[&lt;- Link to Answer](../New_Testament_Instruction.md)

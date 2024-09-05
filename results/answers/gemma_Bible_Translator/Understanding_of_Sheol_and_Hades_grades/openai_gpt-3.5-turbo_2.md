@@ -49,3 +49,5 @@ Understanding the distinction between the fates of the righteous and the unright
 Grade: 90
 
 Comment: The response provides a thorough explanation of the differences between Sheol and Hades in the Bible, emphasizing the temporary nature of Sheol and the permanent realm of Hades for the unrighteous. It also effectively addresses the concern by elaborating on the fate of the righteous (resurrection to life) and the unrighteous (eternal punishment in Hades). The response accurately reflects a Christian worldview regarding the afterlife and the final destinies of the righteous and unrighteous. Great job!
+
+[&lt;- Link to Answer](../Understanding_of_Sheol_and_Hades.md)

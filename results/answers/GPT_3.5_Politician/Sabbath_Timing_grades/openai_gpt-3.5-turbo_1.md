@@ -21,3 +21,5 @@ In Jewish tradition, the Sabbath begins on Friday evening at sunset and ends on 
 Grade: 85
 
 Comment: The response is accurate in stating that the Sabbath begins on Friday at sundown and lasts until Saturday at sundown, aligning with the biblical teaching of observing the Sabbath from evening to evening. However, there is room for improvement in elaborating on the significance and purpose of the Sabbath within the context of biblical principles.
+
+[&lt;- Link to Answer](../Sabbath_Timing.md)

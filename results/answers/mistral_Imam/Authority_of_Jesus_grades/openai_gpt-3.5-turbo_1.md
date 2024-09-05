@@ -27,3 +27,5 @@ I hope this helps clarify the difference between the interpretations in both rel
 Grade: 50
 
 Comment: The response provided a solid explanation of the title "King of the Jews" in both Christian and Islamic contexts. However, it did not directly address the specified concern regarding believers acknowledging Jesus' sovereignty in their lives. The response focused more on the academic and comparative aspects of the title rather than emphasizing the importance of understanding Jesus' authority for believers. For a higher grade, the response should have tied the explanation back more explicitly to the concern provided.
+
+[&lt;- Link to Answer](../Authority_of_Jesus.md)

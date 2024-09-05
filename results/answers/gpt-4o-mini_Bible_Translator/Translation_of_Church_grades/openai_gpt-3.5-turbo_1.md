@@ -39,3 +39,5 @@ Each of these translations highlights different aspects of what it means to be t
 Grade: 95
 
 Comment: The response provides an excellent exploration of various translations and terms that accurately represent the inclusive nature of the church in Christian theology. The suggested translations effectively capture the communal aspect of the church and convey its significance beyond just a physical gathering. The response demonstrates a deep understanding of the topic and offers a rich perspective from a Christian worldview.
+
+[&lt;- Link to Answer](../Translation_of_Church.md)

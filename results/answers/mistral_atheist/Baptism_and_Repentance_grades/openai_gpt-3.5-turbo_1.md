@@ -29,3 +29,5 @@ In summary, repentance is a turning away from sin and turning toward God, while 
 Grade: 90
 
 Comment: The response provides a comprehensive explanation of the relationship between repentance and baptism in Christian doctrine, highlighting their significance in the New Testament and early Christianity. The answer effectively addresses the concern by presenting a detailed account of how repentance is intertwined with baptism as a foundational aspect of Christian faith. The reference to Acts 2:38 further supports the argument made. Overall, it is a well-thought-out and well-supported response from a Christian worldview.
+
+[&lt;- Link to Answer](../Baptism_and_Repentance.md)

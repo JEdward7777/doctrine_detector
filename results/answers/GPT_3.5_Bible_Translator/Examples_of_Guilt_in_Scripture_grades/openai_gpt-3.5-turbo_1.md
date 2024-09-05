@@ -31,3 +31,5 @@ These examples illustrate how guilt can result from disobedience, betrayal, or f
 Grade: 90
 
 Comment: The response effectively uses biblical examples to illustrate the concept of guilt in the context of justice and innocence, in line with the concern provided. The examples chosen are relevant and demonstrate how guilt operates in relation to divine judgment. The response shows a clear understanding of the Christian worldview regarding guilt and justice. Great job!
+
+[&lt;- Link to Answer](../Examples_of_Guilt_in_Scripture.md)

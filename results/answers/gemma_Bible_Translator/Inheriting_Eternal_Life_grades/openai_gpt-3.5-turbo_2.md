@@ -45,3 +45,5 @@ Clarifying the path to salvation and eternal life as taught by Jesus.
 Grade: 95
 
 Comment: The response provides a comprehensive and accurate explanation of the steps to inherit eternal life based on Christian beliefs, in alignment with the teachings of Jesus. It effectively incorporates relevant Bible verses and presents a clear and detailed pathway to salvation through faith in Jesus Christ. The emphasis on the gift of eternal life through God's grace and the importance of faith and repentance is well articulated. The response successfully addresses the concern by offering a detailed and scripturally supported explanation of the path to salvation as taught by Jesus.
+
+[&lt;- Link to Answer](../Inheriting_Eternal_Life.md)

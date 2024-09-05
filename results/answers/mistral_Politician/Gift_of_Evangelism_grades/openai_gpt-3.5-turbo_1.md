@@ -21,3 +21,5 @@ Understanding the spiritual gifts related to evangelism and their role in the ch
 Grade: 90
 
 Comment: The response effectively explains that some Christians are specifically gifted as evangelists to share the gospel with others. It aligns well with the concern about understanding the spiritual gifts related to evangelism and their role in the church. The explanation is clear and concise, demonstrating a solid understanding of Christian beliefs regarding evangelism.
+
+[&lt;- Link to Answer](../Gift_of_Evangelism.md)

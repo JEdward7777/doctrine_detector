@@ -29,3 +29,5 @@ In summary, according to the Bible, eternal life is a gift given by God to those
 Grade: 20
 
 Comment: The response provided accurately outlines the Christian belief that eternal life is a gift from God received through faith in Jesus Christ, supported by relevant Bible verses. However, the answer being graded states that eternal life can be inherited by obeying God's laws, which does not align with Christian doctrine. In Christianity, eternal life is a gift of grace through faith in Jesus, not something earned through works or obedience to laws. Therefore, this response does not provide a correct understanding of how to attain eternal life according to Christian beliefs.
+
+[&lt;- Link to Answer](../Understanding_Eternal_Life.md)

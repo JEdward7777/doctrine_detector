@@ -27,3 +27,5 @@ The burial practice involving myrrh served both practical and spiritual purposes
 Grade: 90
 
 Comment: The response provides a detailed explanation of how myrrh was used in biblical times, particularly in burial practices, highlighting its significance in anointing and respect for the deceased. The integration of biblical references from both the Old and New Testaments adds depth to the response. The explanation aligns well with the concern raised regarding the importance of understanding cultural customs in Scripture. The only improvement could be to further emphasize the spiritual symbolism of myrrh in addition to its practical applications.
+
+[&lt;- Link to Answer](../Use_in_Burial.md)

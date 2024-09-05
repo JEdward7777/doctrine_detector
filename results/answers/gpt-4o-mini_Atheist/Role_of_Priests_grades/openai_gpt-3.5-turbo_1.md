@@ -35,3 +35,5 @@ These roles were primarily fulfilled by the descendants of Aaron, the brother of
 Grade: 80
 
 Comment: The response provides a fairly comprehensive overview of the main responsibilities of priests in the Old Testament, including offering sacrifices, performing rituals, teaching the law, and acting as intermediaries between God and the people. However, it lacks some specific details mentioned in the provided answer such as the mention of divination practices, consulting the Urim and Thummim, and maintaining the sanctuary. For a higher grade, these additional aspects could have been included to provide a more thorough understanding of the biblical role of priests.
+
+[&lt;- Link to Answer](../Role_of_Priests.md)

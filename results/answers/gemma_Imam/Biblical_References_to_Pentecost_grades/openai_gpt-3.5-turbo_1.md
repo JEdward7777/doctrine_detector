@@ -30,3 +30,5 @@ While the Festival of Weeks is primarily celebrated by Christians, it holds sign
 Grade: 50
 
 Comment: The provided response correctly lists references to the Festival of Weeks in different books of the Bible. However, the response deviates from the concern of understanding the scriptural basis for the observance and significance of Pentecost. The mention of Islamic tradition and its views on the festival is not relevant to the given concern, thus lowering the grade. The response should have focused solely on the Christian scriptural basis for Pentecost.
+
+[&lt;- Link to Answer](../Biblical_References_to_Pentecost.md)

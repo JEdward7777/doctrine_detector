@@ -29,3 +29,5 @@ In summary, the nature and experience of hell in the Bible can be complex and va
 Grade: 90
 
 Comment: The response provides a comprehensive overview of the concept of hell in the Bible, considering different interpretations and perspectives. The student effectively addresses the concern by recognizing the severity and purpose of hell in the Christian view of judgment and salvation. The only slight deduction is for not explicitly emphasizing the eternal nature of punishment in hell as highlighted in the provided answer. Overall, the response demonstrates a solid understanding of the Christian perspective on hell.
+
+[&lt;- Link to Answer](../Nature_of_Hell.md)

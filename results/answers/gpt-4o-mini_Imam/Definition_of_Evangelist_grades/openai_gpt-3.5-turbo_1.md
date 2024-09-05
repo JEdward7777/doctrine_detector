@@ -21,3 +21,5 @@ The term "evangelist" comes from the Greek word "euangelistes," which means "bri
 Grade: 90
 
 Comment: The response provides a clear explanation of the meaning of the term "evangelist" in a Christian context and acknowledges the concept of sharing God's message in Islamic terminology. It effectively demonstrates an understanding of the role of an evangelist in sharing the gospel, drawing parallels between Christian and Islamic beliefs. Well done!
+
+[&lt;- Link to Answer](../Definition_of_Evangelist.md)

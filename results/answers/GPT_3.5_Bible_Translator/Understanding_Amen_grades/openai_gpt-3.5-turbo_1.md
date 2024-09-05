@@ -21,3 +21,5 @@ The term "amen" is an expression of agreement, affirmation, or certainty. In the
 Grade: 90
 
 Comment: The response provides a clear and accurate explanation of the significance of saying "amen" in prayer within the context of Christian practice. It effectively connects the act of saying "amen" to the alignment of one's heart and mind with the prayer spoken, as well as to acknowledging God's sovereignty. The explanation demonstrates a comprehensive understanding of the significance of prayer in Christian practice, earning a high grade.
+
+[&lt;- Link to Answer](../Understanding_Amen.md)

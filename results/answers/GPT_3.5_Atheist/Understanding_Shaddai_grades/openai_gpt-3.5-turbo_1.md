@@ -21,3 +21,5 @@ The term "Shaddai" is often translated as "Almighty" in English and is one of th
 Grade: 90
 
 Comment: The response demonstrates a good understanding of the term "Shaddai" as a name for God in the Old Testament, emphasizing His power, strength, and sovereignty. The explanation provided aligns well with the Christian view of God as revealed in Scripture. However, it could be improved by further exploring how the term "Shaddai" reflects God's nature and attributes beyond just His power and provision, such as His faithfulness, holiness, and grace. Overall, a solid response that shows a strong grasp of the topic.
+
+[&lt;- Link to Answer](../Understanding_Shaddai.md)

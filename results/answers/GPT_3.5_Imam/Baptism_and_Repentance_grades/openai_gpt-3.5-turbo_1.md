@@ -25,3 +25,5 @@ While the act of baptism is not a concept in Islam, the idea of repentance and s
 Grade: 75
 
 Comment: The response provides a good comparison between the concept of repentance in Islam and baptism in Christianity. It accurately describes the significance of repentance in Islam and baptism in Christianity, highlighting the differences between the two concepts. However, the response could have further expounded on the specific relationship between repentance and baptism within Christian doctrine, addressing how repentance is indeed a prerequisite for baptism in the Christian faith.
+
+[&lt;- Link to Answer](../Baptism_and_Repentance.md)

@@ -27,3 +27,5 @@ Together, these passages reveal that the early Christian movement recognized the
 Grade: 95
 
 Comment: The response effectively incorporates the provided answer and addresses the concern by exploring scriptural teachings on grace and inclusion through Acts 9:13-16 and Galatians 2:16. It accurately highlights the apostolic mission to Gentiles and the importance of faith in Jesus for salvation, showcasing a Christian worldview that emphasizes inclusivity and the role of grace in salvation. Great job connecting the passages to the broader theological implications within early Christianity.
+
+[&lt;- Link to Answer](../Biblical_References_to_Gentiles.md)

@@ -33,3 +33,5 @@ In summary, the Pharisees’ strict adherence to the Laws of Moses impacted thei
 Grade: 95
 
 Comment: This response provides a comprehensive analysis of the Pharisees' role in the conflicts with Jesus and early Christians, showing a deep understanding of the theological differences and the impact on the early church. The response effectively addresses the concern by highlighting the challenges Jesus faced in his ministry due to the Pharisees' strict adherence to the letter of the law. The biblical references and theological insights support a Christian worldview perspective in evaluating the Pharisees' interactions with Jesus. Great job!
+
+[&lt;- Link to Answer](../Pharisees__Influence_on_Jewish_Law.md)

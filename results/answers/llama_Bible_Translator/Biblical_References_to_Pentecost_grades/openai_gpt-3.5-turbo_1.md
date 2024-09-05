@@ -30,3 +30,5 @@ In these passages, Pentecost is seen as a fulfillment of Jesus' promise to send 
 Grade: 70
 
 Comment: The response provided a good overview of the significance of the Festival of Weeks/Pentecost in the biblical narrative, referencing relevant passages from Acts, Luke, John, and Leviticus. It correctly highlighted the importance of Pentecost as a fulfillment of Jesus' promise to send the Holy Spirit. However, the response would have been stronger with a more accurate and specific reference to the scriptural basis for Pentecost. It missed out on key references from 2 Chronicles, Deuteronomy, and Numbers, which are crucial in understanding the historical and scriptural significance of Pentecost.
+
+[&lt;- Link to Answer](../Biblical_References_to_Pentecost.md)

@@ -50,3 +50,5 @@ By recognizing these characteristics and engaging in self-reflection and introsp
 Grade: 70
 
 Comment: The response provides a detailed explanation of what constitutes an "unholy" life from an Islamic perspective, emphasizing behaviors contrary to the teachings of Allah and Prophet Muhammad (peace be upon him). It addresses the concern by encouraging self-examination and awareness of how unholiness can impact personal and communal behavior. However, the response lacks specific references to the Christian worldview and does not draw parallels or contrasts between Islamic and Christian beliefs on holiness. A stronger connection to the Christian perspective on holiness would have further enhanced the response.
+
+[&lt;- Link to Answer](../Understanding_Unholiness.md)

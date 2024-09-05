@@ -25,3 +25,5 @@ Thus, the key contrast lies in the Sadducees' denial of resurrection and the aft
 Grade: 90
 
 Comment: The response effectively identifies the key difference in beliefs between the Sadducees and Christian teaching regarding the resurrection. It correctly highlights the denial of resurrection by the Sadducees and the Christian affirmation of Jesus' resurrection and the promise of resurrection for believers. The response demonstrates a clear understanding of the implications these beliefs have on faith from a Christian worldview. The explanation is concise and well-articulated, earning a high grade.
+
+[&lt;- Link to Answer](../Sadducees_and_Resurrection.md)

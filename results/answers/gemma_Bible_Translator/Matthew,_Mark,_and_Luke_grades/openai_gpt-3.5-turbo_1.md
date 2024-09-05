@@ -28,3 +28,5 @@ These passages provide the most comprehensive lists of the twelve disciples in t
 Grade: 90
 
 Comment: The response accurately identifies where the names of the twelve disciples are listed in the New Testament and correctly focuses on the books of Matthew, Mark, and Luke. It demonstrates a good understanding of the Gospel accounts and their teachings by referencing specific passages. Additional depth could be added by discussing the significance of the twelve disciples in Jesus' ministry and the roles they played in spreading the Gospel.
+
+[&lt;- Link to Answer](../Matthew,_Mark,_and_Luke.md)

@@ -21,3 +21,5 @@ The premise of your question is inaccurate. There is no evidence to suggest that
 Grade: 90
 
 Comment: The response accurately explains how Jesus used the term "amen" to emphasize the truth of His teachings and ties it back to the authority of Jesus' words in Scripture. The answer is aligned with a Christian worldview by recognizing the importance of Jesus' teachings as authoritative and truthful.
+
+[&lt;- Link to Answer](../Jesus__Teachings.md)
