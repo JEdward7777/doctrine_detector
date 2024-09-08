@@ -181,8 +181,8 @@ def run_model_tests():
 
     answer_grading_model_infos = read_json( 'model_jobs.json' )['grading_models']
     grading_models = {}
-    for answer_grading_model_label, answer_grading_model_info in answer_grading_model_infos.items():
-        grading_models[answer_grading_model_label] = load_model( answer_grading_model_info, connections )
+    for grading_model_label, answer_grading_model_info in answer_grading_model_infos.items():
+        grading_models[grading_model_label] = load_model( answer_grading_model_info, connections )
     
     #results[model][question]
     results = defaultdict(lambda: defaultdict(lambda: {}))
@@ -214,26 +214,27 @@ def run_model_tests():
 
 
             print( f"grading..." )
-            for answer_grading_model_label, answer_grading_model in grading_models.items():
-                if "grades" not in results[model_info['label']][question['label']]:
-                    results[model_info['label']][question['label']]["grades"] = {}
-                    added_something = True
+            for grading_model_label, answer_grading_model in grading_models.items():
 
-                if answer_grading_model_label not in results[model_info['label']][question['label']]["grades"]:
-                    graded = False
-                    while not graded:
-                        try:
-                            prompt_template = answer_grading_model_infos[answer_grading_model_label]["prompt_template"] if "prompt_template" in answer_grading_model_infos[answer_grading_model_label] else None
-                            grade, comment = grade_response( model=answer_grading_model, student_answer=results[model_info['label']][question['label']]["answer"], question=question['question'], teacher_answer=question['answer'], concern=question['concern'], prompt_template=prompt_template )
-                            results[model_info['label']][question['label']]["grades"][answer_grading_model_label] = {
-                                "grade": grade,
-                                "grade_comment": comment
-                            }
-                            added_something = True
-                            graded = True
-                        except:
-                            print( f"Failed to grade model {answer_grading_model_label} on question {question['label']}" )
-                            time.sleep( 5 )
+                grade_filename = get_grade_json( question['label'], model_info['label'], grading_model_label )
+
+                if not os.path.exists( grade_filename ):
+                    with open( grade_filename, 'w' ) as f:
+                        graded = False
+                        while not graded:
+                            try:
+                                prompt_template = answer_grading_model_infos[grading_model_label]["prompt_template"] if "prompt_template" in answer_grading_model_infos[grading_model_label] else None
+                                grade, comment = grade_response( model=answer_grading_model, student_answer=results[model_info['label']][question['label']]["answer"], question=question['question'], teacher_answer=question['answer'], concern=question['concern'], prompt_template=prompt_template )
+                                grade_result = {
+                                    "grade": grade,
+                                    "grade_comment": comment
+                                }
+                                graded = True
+                            except:
+                                print( f"Failed to grade model {grading_model_label} on question {question['label']}" )
+                                time.sleep( 5 )
+
+                        f.write( json.dumps( grade_result, indent=2 ) )
 
             if added_something:
                 with open( "results.json~", 'w' ) as f:
