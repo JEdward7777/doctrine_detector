@@ -92,7 +92,7 @@ def load_model(model_info,connections):
 
     return model
 
-def grade_response( model, response, answer, concern ):
+def grade_response( *, model, question, concern, teacher_answer, student_answer, prompt_template ):
     """
     Grades the response based on the answer and the concern.
 
@@ -116,14 +116,14 @@ def grade_response( model, response, answer, concern ):
         A comment on the grade
     """
 
-    prompt = f"""
+    default_prompt = """
 Please grade the following response:
 ```
-{response}
+{student_answer}
 ```
 based on the following answer:
 ```
-{answer}
+{teacher_answer}
 ```
 and the following concern:
 ```
@@ -133,6 +133,14 @@ and the following concern:
 The grade should be an integer between 0 and 100 where 0 is the lowest grade and 100 is the highest grade.
 Include a comment on the grade.
 """.strip()
+    
+
+
+    prompt = prompt_template if prompt_template is not None else default_prompt
+
+    prompt = prompt.format( student_answer=student_answer, teacher_answer=teacher_answer, concern=concern, question=question )
+
+    if "{" in prompt: raise Exception( "Unprocessed key in prompt" )
     
     found_grade = False
 
@@ -204,7 +212,8 @@ def run_model_tests():
                     graded = False
                     while not graded:
                         try:
-                            grade, comment = grade_response( answer_grading_model, results[model_info['label']][question['label']]["answer"], question['answer'], question['concern'] )
+                            prompt_template = answer_grading_model_infos[answer_grading_model_label]["prompt_template"] if "prompt_template" in answer_grading_model_infos[answer_grading_model_label] else None
+                            grade, comment = grade_response( model=answer_grading_model, student_answer=results[model_info['label']][question['label']]["answer"], question=question['question'], teacher_answer=question['answer'], concern=question['concern'], prompt_template=prompt_template )
                             results[model_info['label']][question['label']]["grades"][answer_grading_model_label] = {
                                 "grade": grade,
                                 "grade_comment": comment

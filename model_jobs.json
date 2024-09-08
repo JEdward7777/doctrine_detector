@@ -4,30 +4,37 @@
           "service": "openai", 
           "model": "gpt-3.5-turbo", 
           "key": "openai",     
-          "system": "You are grading LLM responses based on a given answer and a specified concern using a Christian specific worldview." 
+          "system": "You are grading LLM responses based on a given answer and a specified concern using a Christian specific worldview."
         },
         "openai_gpt-3.5-turbo_2":{
           "service": "openai", 
           "model": "gpt-3.5-turbo", 
           "key": "openai",     
-          "system": "You are grading LLM responses based on a given answer and a specified concern using a Christian specific worldview." 
+          "system": "You are grading LLM responses based on a given answer and a specified concern using a Christian specific worldview."
         },
         "openai_gpt-4o-mini_1":{
           "service": "openai", 
           "model": "gpt-3.5-turbo", 
           "key": "openai",     
-          "system": "You are grading LLM responses based on a given answer and a specified concern using a Christian specific worldview." 
+          "system": "You are grading LLM responses based on a given answer and a specified concern using a Christian specific worldview."
         },
         "openai_gpt-4o-mini_2":{
           "service": "openai", 
           "model": "gpt-3.5-turbo", 
           "key": "openai",     
-          "system": "You are grading LLM responses based on a given answer and a specified concern using a Christian specific worldview." 
+          "system": "You are grading LLM responses based on a given answer and a specified concern using a Christian specific worldview."
         },
         "ollama_llama3":{
           "service": "ollama", 
           "model": "llama3:latest",
-          "system": "You are grading LLM responses based on a given answer and a specified concern using a Christian specific worldview." 
+          "system": "You are grading LLM responses based on a given answer and a specified concern using a Christian specific worldview."
+        },
+        "gpt-4o-mini_student_teacher":{
+          "service": "openai", 
+          "model": "gpt-3.5-turbo", 
+          "key": "openai",     
+          "system": "You are grading LLM responses based on a given answer and a specified concern using a Christian specific worldview.",
+          "prompt_template": "Refer to this question\n```\n{question}\n```\nReference this concern\n```\n{concern}\n```\nPlease grade the following student's answer:\n```\n{student_answer}\n```\nThis is the reference answer from the teacher\n```\n{teacher_answer}\n```\n\nThe student's grade should be an integer between 0 and 100 where 0 is the lowest grade and 100 is the highest grade.\nInclude a comment on the grade."
         }
     },
     "question_generating_model":{
