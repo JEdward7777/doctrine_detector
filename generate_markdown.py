@@ -3,7 +3,7 @@ import json
 from collections import defaultdict
 import os
 
-from do_detection import remove_chars_bad_for_filename
+from do_detection import get_grade_json, remove_chars_bad_for_filename
 
 
 def get_question_url( question_label ):
