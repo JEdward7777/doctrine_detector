@@ -6,6 +6,17 @@ from openai import OpenAI
 import ollama
 import re
 import time
+
+
+def remove_chars_bad_for_filename(in_string):
+    bad_chars = ['<', '>', ':', '"', '|', '?', '*', ' ', '`', '’', "'"]
+    for char in bad_chars:
+        in_string = in_string.replace(char, '_')
+    return in_string
+
+def get_grade_json( question_label, answer_model_label, grading_model_label ):
+    return remove_chars_bad_for_filename(f"./results/answers/{answer_model_label}/{question_label}_grades/{grading_model_label}.json")
+
 def read_json( filename):
     """
     Reads a json file from disk and returns the loaded data as a python

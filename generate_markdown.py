@@ -3,11 +3,8 @@ import json
 from collections import defaultdict
 import os
 
-def remove_chars_bad_for_filename(in_string):
-    bad_chars = ['<', '>', ':', '"', '|', '?', '*', ' ', '`', '’', "'"]
-    for char in bad_chars:
-        in_string = in_string.replace(char, '_')
-    return in_string
+from do_detection import remove_chars_bad_for_filename
+
 
 def get_question_url( question_label ):
     return remove_chars_bad_for_filename(f"./results/questions/{question_label}.md" )
