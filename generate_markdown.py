@@ -235,6 +235,10 @@ def produce_answer_page( question_label, answer_model_label, answer_grade_commen
         for grading_model_label, grade in answer_grade_comment["grades"].items():
             fout.write( f" * [{grade['grade']}]({get_rel_url( get_grade_url( question_label, answer_model_label, grading_model_label ), url )}) [{grading_model_label}]({get_rel_url( get_grading_models_url( grading_model_label ), url )})\n" )
 
+    
+
+        fout.write( f"\n[&lt;- Link to Question]({get_rel_url(get_question_url( question_label ),url)})\n" )
+
 def br( text ):
     #replace \n with <br>
     return text.replace( '\n', '&#10;' ).replace( '|', "&#124;").replace( '"', "&quot;").replace( "'", "&#39;")
@@ -279,8 +283,8 @@ def produce_index_page(question_array,model_array,answer_model__question__answer
             #question_result_array.append( "<span title='" + br(answer_model__question__answer_grade_comment[answer_model_label][question['label']]['grade_comment'] + '\n\nModel Answer: ' + answer_model__question__answer_grade_comment[model_info['label']][question['label']]['answer']) + "' " + html_color_code + ">" + str(int(grade)) + "</span>" )
             question_result_array.append( "[<span " + html_color_code + ">" + str(int(grade)) + f"</span>]({get_rel_url(get_answer_url(question['label'],answer_model_label),url)})" )
             
-        result += f"|[<span title='{br(question['question'])}'>{question['label']}</span>]({get_rel_url(get_question_url(question['label']),url)})|" + "|".join( question_result_array ) + "|\n"  
-
+        #result += f"|[<span title='{br(question['question'])}'>{question['label']}</span>]({get_rel_url(get_question_url(question['label']),url)})|" + "|".join( question_result_array ) + "|\n"
+        result += f"|[{question['label']}]({get_rel_url(get_question_url(question['label']),url)})|" + "|".join( question_result_array ) + "|\n"  
 
 
     with open(url, 'w') as f:
@@ -341,7 +345,9 @@ def produce_grading_model_page( *, answer_model__question__answer_grade_comment,
 
                 #question_result_array.append( "<span title='" + br(answer_model__question__answer_grade_comment[answer_model_label][question['label']]['grade_comment'] + '\n\nModel Answer: ' + answer_model__question__answer_grade_comment[model_info['label']][question['label']]['answer']) + "' " + html_color_code + ">" + str(int(grade)) + "</span>" )
                 question_result_array.append( "[<span " + html_color_code + ">" + str(int(grade)) + f"</span>]({get_rel_url(get_grade_url(question_label,answer_model_label, grading_model_label),url)})" )
-            result += f"|[<span title='{br(question['question'])}'>{question['label']}</span>]({get_rel_url(get_question_url(question_label),url)})|" + "|".join( question_result_array ) + "|\n"
+            #result += f"|[<span title='{br(question['question'])}'>{question['label']}</span>]({get_rel_url(get_question_url(question_label),url)})|" + "|".join( question_result_array ) + "|\n"
+            result += f"|[{question['label']}]({get_rel_url(get_question_url(question_label),url)})|" + "|".join( question_result_array ) + "|\n"
+            
         
         fout.write( result )
 

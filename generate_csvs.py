@@ -1,10 +1,10 @@
 import json
+from do_detection import read_json
 import generate_markdown
 
 #any csv which would be nice to be graphed in a spreadsheet can be generated in here.
 def main():
-    with open( "results.json", "rt" ) as fin:
-        answer_model__question__answer_grade_comment = json.load(fin)
+    answer_model__question__answer_grade_comment = generate_markdown.load_results_with_grades(read_json( 'model_jobs.json')['grading_models'])
 
 
     #I want to see how similar each grade of the different grader models are to each other so I am going to generate a csv which
