@@ -19,7 +19,7 @@ In the Jewish tradition, the name of God, represented by the Tetragrammaton YHWH
 So, the use of 'LORD' in place of 'Yahweh' in many Bible translations is a way to honor the sacred name of God and follow the tradition of using respectful substitutes when referring to the divine in a written or spoken form.
 
 ## Average Grade
-87.0
+85.0
 
 ## Grades
  * [90.0](./Translation_Practices_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ So, the use of 'LORD' in place of 'Yahweh' in many Bible translations is a way t
  * [80.0](./Translation_Practices_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Translation_Practices_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Translation_Practices_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Translation_Practices_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

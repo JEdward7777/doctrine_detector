@@ -19,7 +19,7 @@ In Surah Al-Baqarah, verse 51, Allah says: "And We caused them to follow in the 
 The commemoration of this event is celebrated annually in Judaism as Passover (Pesach). In Islam, there are similar observances during the Night Journey and Ascension of Prophet Muhammad (peace be upon him), specifically during Laylatul-Qadr (Night of Power) in the month of Ramadan.
 
 ## Average Grade
-77.0
+72.5
 
 ## Grades
  * [70.0](./Historical_Context_2_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ The commemoration of this event is celebrated annually in Judaism as Passover (P
  * [90.0](./Historical_Context_2_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Historical_Context_2_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Historical_Context_2_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Historical_Context_2_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

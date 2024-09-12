@@ -23,7 +23,7 @@ Anointing holds significant importance in the context of Old Testament priests, 
 Overall, anointing in the context of Old Testament priests, kings, and prophets signifies being chosen, consecrated, and empowered by God for a specific divine purpose. It serves as a visible sign of divine approval and commissioning for the important roles these individuals played in the life of God's people.
 
 ## Average Grade
-93.4
+92.83333333333333
 
 ## Grades
  * [90.0](./Significance_of_Anointing_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ Overall, anointing in the context of Old Testament priests, kings, and prophets 
  * [95.0](./Significance_of_Anointing_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Significance_of_Anointing_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Significance_of_Anointing_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Significance_of_Anointing_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

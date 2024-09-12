@@ -29,7 +29,7 @@ The biblical definition of faithfulness to God emphasizes two key aspects:
 Therefore, being faithful to God according to the biblical definition is not simply performing religious rituals, but rather living a life that embodies the core tenets of Islam: upholding Islamic laws, demonstrating unwavering devotion to God's principles, and actively contributing to the betterment of society.
 
 ## Average Grade
-29.0
+27.5
 
 ## Grades
  * [20.0](./Faithfulness_to_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ Therefore, being faithful to God according to the biblical definition is not sim
  * [20.0](./Faithfulness_to_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [25.0](./Faithfulness_to_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Faithfulness_to_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./Faithfulness_to_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

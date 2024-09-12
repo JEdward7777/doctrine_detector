@@ -21,7 +21,7 @@ Additionally, in Proverbs 12:22 it is written, "The LORD detests lying lips, but
 Giving false testimony not only breaks the law of God but also damages relationships, erodes trust, and undermines justice. As followers of Christ, Christians aim to uphold truth, integrity, and honesty in their words and actions.
 
 ## Average Grade
-92.0
+91.66666666666667
 
 ## Grades
  * [95.0](./False_Witness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Giving false testimony not only breaks the law of God but also damages relations
  * [90.0](./False_Witness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./False_Witness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./False_Witness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./False_Witness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

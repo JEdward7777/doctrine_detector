@@ -35,7 +35,7 @@ Feelings of jealousy are a natural human emotion, but how we respond to these fe
 In Islam, it is important to strive for good character and to purify our hearts. By actively working on jealousy, you not only uplift your own emotional state but also contribute to healthier and more loving relationships. Remember, the Prophet (peace be upon him) advised the ummah to be kind and supportive towards one another.
 
 ## Average Grade
-92.4
+90.33333333333333
 
 ## Grades
  * [95.0](./Human_Jealousy_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -43,3 +43,4 @@ In Islam, it is important to strive for good character and to purify our hearts.
  * [90.0](./Human_Jealousy_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Human_Jealousy_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Human_Jealousy_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Human_Jealousy_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -21,7 +21,7 @@ From an Islamic perspective, the Quran explicitly condemns adultery (Surah An-Ni
 Regarding God's justice and mercy, both are essential attributes of God in all Abrahamic traditions. However, interpretations of how these attributes should be applied in specific circumstances can vary widely. In the Islamic tradition, the emphasis on mercy and compassion is significant, as reflected in the Hadith Qudsi, where Prophet Muhammad (peace be upon him) quotes God saying: "I am as My servant thinks I am." This highlights the importance of striving to understand and embody God's attributes in our actions and interactions.
 
 ## Average Grade
-88.0
+86.66666666666667
 
 ## Grades
  * [85.0](./Stoning_as_Punishment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Regarding God's justice and mercy, both are essential attributes of God in all A
  * [90.0](./Stoning_as_Punishment_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Stoning_as_Punishment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Stoning_as_Punishment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Stoning_as_Punishment_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

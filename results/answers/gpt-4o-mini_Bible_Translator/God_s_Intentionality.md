@@ -29,7 +29,7 @@ The term 'call' in the context of God's calling is significant because it unders
 In summary, the significance of 'call' in the context of God's calling lies in its implications of intentionality, relationship, identity, empowerment, transformation, and community. It emphasizes that God has a unique purpose for each person, highlighting the profound and personal nature of divine engagement in human affairs.
 
 ## Average Grade
-94.4
+93.66666666666667
 
 ## Grades
  * [95.0](./God_s_Intentionality_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ In summary, the significance of 'call' in the context of God's calling lies in i
  * [95.0](./God_s_Intentionality_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./God_s_Intentionality_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./God_s_Intentionality_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./God_s_Intentionality_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

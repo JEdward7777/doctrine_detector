@@ -27,7 +27,7 @@ The concept of the 'remnant' is an important theme in the prophetic books of Isa
 The concept of the remnant serves as a powerful reminder that God always preserves a faithful group, providing hope and continuity of worship and obedience amid challenges and trials.
 
 ## Average Grade
-91.0
+90.0
 
 ## Grades
  * [90.0](./Historical_Context_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ The concept of the remnant serves as a powerful reminder that God always preserv
  * [90.0](./Historical_Context_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Historical_Context_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Historical_Context_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Historical_Context_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

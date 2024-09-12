@@ -19,7 +19,7 @@ Trespass, on the other hand, is often used to describe an infringement or encroa
 In summary, while trespass and sin are not exactly the same concept, they share a common thread in that both involve actions or thoughts contrary to God's will. Sin has a spiritual dimension, as it separates humanity from God, whereas trespass can have both spiritual and practical consequences, such as damaging relationships with others.
 
 ## Average Grade
-90.0
+86.66666666666667
 
 ## Grades
  * [90.0](./Understanding_Trespass_in_a_Christian_Context_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ In summary, while trespass and sin are not exactly the same concept, they share 
  * [95.0](./Understanding_Trespass_in_a_Christian_Context_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_Trespass_in_a_Christian_Context_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Trespass_in_a_Christian_Context_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Understanding_Trespass_in_a_Christian_Context_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

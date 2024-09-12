@@ -23,7 +23,7 @@ Understanding the prevalence of spiritual issues in the Biblical narrative and t
 Again, it's essential to remember that interpretations of religious texts can vary greatly among individuals and communities. These examples are offered as instances of demon possession as they have been traditionally understood by some Christians, but their interpretation may differ for others.
 
 ## Average Grade
-88.0
+85.0
 
 ## Grades
  * [90.0](./Examples_in_Scripture_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ Again, it's essential to remember that interpretations of religious texts can va
  * [90.0](./Examples_in_Scripture_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Examples_in_Scripture_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Examples_in_Scripture_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Examples_in_Scripture_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

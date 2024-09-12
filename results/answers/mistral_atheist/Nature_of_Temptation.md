@@ -21,7 +21,7 @@ External influences, such as peer pressure, media, societal norms, and cultural 
 However, it's essential to note that the balance between internal and external factors can vary greatly among individuals, and no single explanation can fully capture the complexity of human behavior. Understanding both our innate predispositions and the role of external influences helps us develop more effective strategies for promoting ethical behavior and resisting temptation in a diverse and dynamic society.
 
 ## Average Grade
-34.0
+33.333333333333336
 
 ## Grades
  * [30.0](./Nature_of_Temptation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ However, it's essential to note that the balance between internal and external f
  * [30.0](./Nature_of_Temptation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [20.0](./Nature_of_Temptation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Nature_of_Temptation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [30.0](./Nature_of_Temptation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

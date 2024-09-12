@@ -25,7 +25,7 @@ In this context, the term "call" also carries connotations of urgency and import
 In summary, the term "call" in Islamic theology implies intentionality or purpose on the part of Allah, emphasizing His deliberate and calculated action to guide humanity towards righteousness and salvation. This connotation underscores the importance of human agency, moral responsibility, and the urgency of responding to Allah's call in a way that aligns with His will and purposes.
 
 ## Average Grade
-91.0
+90.0
 
 ## Grades
  * [90.0](./God_s_Intentionality_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ In summary, the term "call" in Islamic theology implies intentionality or purpos
  * [90.0](./God_s_Intentionality_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./God_s_Intentionality_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./God_s_Intentionality_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./God_s_Intentionality_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

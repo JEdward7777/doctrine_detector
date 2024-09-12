@@ -23,7 +23,7 @@ Secondly, while human sons share the nature of their earthly fathers (Luke 3:23)
 In summary, the distinction between the Son of God and human sons lies in their unique relationship with the Father (eternal begetting vs. human procreation), their ontological status (Jesus is fully divine, humans are not), and their nature (Jesus possesses two natures – divine and human; humans only have a human nature).
 
 ## Average Grade
-94.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Eternal_Nature_of_the_Son_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ In summary, the distinction between the Son of God and human sons lies in their 
  * [95.0](./Eternal_Nature_of_the_Son_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Eternal_Nature_of_the_Son_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Eternal_Nature_of_the_Son_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Eternal_Nature_of_the_Son_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

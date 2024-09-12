@@ -15,7 +15,7 @@ Recognizing the specific timeframe for the observance of the Sabbath in accordan
  In Judaism, the Sabbath (Shabbat) is observed from Friday evening to Saturday evening. According to Leviticus 23:32, it starts at sunset on the sixth day, which is Friday, and ends at sunset on the seventh day, which is Saturday. This timing is based on God's creation of the world in six days and resting on the seventh (Genesis 2:2-3). Jewish traditions emphasize the importance of spending this day in rest, reflection, and worship to honor God and commemorate the Exodus from Egypt.
 
 ## Average Grade
-93.0
+93.33333333333333
 
 ## Grades
  * [90.0](./Sabbath_Timing_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ Recognizing the specific timeframe for the observance of the Sabbath in accordan
  * [95.0](./Sabbath_Timing_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Sabbath_Timing_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Sabbath_Timing_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [95.0](./Sabbath_Timing_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

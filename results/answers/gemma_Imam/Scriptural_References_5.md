@@ -40,7 +40,7 @@ This verse suggests that those who live a righteous life will have a clear consc
 This verse emphasizes the importance of living a life that pleases God, indicating that those who fail to do so will face consequences in Hades.
 
 ## Average Grade
-86.0
+75.0
 
 ## Grades
  * [90.0](./Scriptural_References_5_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -48,3 +48,4 @@ This verse emphasizes the importance of living a life that pleases God, indicati
  * [85.0](./Scriptural_References_5_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Scriptural_References_5_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Scriptural_References_5_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./Scriptural_References_5_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

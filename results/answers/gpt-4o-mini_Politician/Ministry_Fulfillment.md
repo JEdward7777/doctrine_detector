@@ -19,7 +19,7 @@ For many, fulfilling one’s ministry might include engaging in community servic
 Moreover, it’s important to approach one’s ministry with an openness to dialogue, welcoming diversity, and creating inclusive environments where everyone feels valued and heard. Ultimately, fulfilling one’s ministry can be seen as a journey of growth, learning, and active participation in the broader mission of love and understanding inherent in the Christian faith.
 
 ## Average Grade
-80.0
+78.33333333333333
 
 ## Grades
  * [85.0](./Ministry_Fulfillment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Moreover, it’s important to approach one’s ministry with an openness to dial
  * [75.0](./Ministry_Fulfillment_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [75.0](./Ministry_Fulfillment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Ministry_Fulfillment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Ministry_Fulfillment_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

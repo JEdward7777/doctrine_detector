@@ -33,7 +33,7 @@ Responding to feelings of jealousy in relationships can be challenging, but it i
 By addressing jealousy with introspection, communication, and a heart aligned with God's love, you can nurture healthier relationships and grow spiritually.
 
 ## Average Grade
-95.0
+93.33333333333333
 
 ## Grades
  * [95.0](./Human_Jealousy_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -41,3 +41,4 @@ By addressing jealousy with introspection, communication, and a heart aligned wi
  * [95.0](./Human_Jealousy_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Human_Jealousy_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Human_Jealousy_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Human_Jealousy_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

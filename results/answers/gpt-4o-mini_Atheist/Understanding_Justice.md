@@ -25,7 +25,7 @@ From a broader cultural perspective, this notion of justice can be interpreted i
 Overall, the concept of acting justly can encompass a range of actions that align with both divine principles (for those who believe in them) and secular ethical standards.
 
 ## Average Grade
-88.0
+83.33333333333333
 
 ## Grades
  * [90.0](./Understanding_Justice_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ Overall, the concept of acting justly can encompass a range of actions that alig
  * [90.0](./Understanding_Justice_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Understanding_Justice_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Justice_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Understanding_Justice_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

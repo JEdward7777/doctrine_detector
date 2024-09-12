@@ -29,7 +29,7 @@ Angels serve God in several distinct roles and functions, according to various b
 These examples illustrate the varied roles that angels play in the biblical narrative, emphasizing their function in carrying out God's will and serving His purposes in the world.
 
 ## Average Grade
-88.0
+87.5
 
 ## Grades
  * [90.0](./Role_of_Angels_in_Human_Affairs_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ These examples illustrate the varied roles that angels play in the biblical narr
  * [90.0](./Role_of_Angels_in_Human_Affairs_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Role_of_Angels_in_Human_Affairs_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Role_of_Angels_in_Human_Affairs_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Role_of_Angels_in_Human_Affairs_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

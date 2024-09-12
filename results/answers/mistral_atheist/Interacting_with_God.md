@@ -29,7 +29,7 @@ From a more secular or anthropocentric viewpoint, our responses to life events, 
 In this sense, the idea that one's responses to God or the divine can impact their life might be extended to the concept that our attitudes, beliefs, and actions shape the course of our lives in various ways. Whether we call it "God's will" or simply the natural consequences of our choices, is ultimately a matter of personal belief.
 
 ## Average Grade
-53.0
+50.833333333333336
 
 ## Grades
  * [55.0](./Interacting_with_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ In this sense, the idea that one's responses to God or the divine can impact the
  * [60.0](./Interacting_with_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [40.0](./Interacting_with_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Interacting_with_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Interacting_with_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -26,7 +26,7 @@ Forgiving someone, according to Christian doctrine, involves several key compone
 Forgiveness is considered not just an act toward others but also a path to personal healing and spiritual growth. It emphasizes the importance of love, mercy, and reconciliation within the community, reflecting the core teachings of Jesus, such as in the parable of the prodigal son. Ultimately, forgiveness is about moving forward in a positive and constructive way, benefiting both the forgiver and the forgiven.
 
 ## Average Grade
-92.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Understanding_Forgiveness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,3 +34,4 @@ Forgiveness is considered not just an act toward others but also a path to perso
  * [95.0](./Understanding_Forgiveness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_Forgiveness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Forgiveness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Understanding_Forgiveness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

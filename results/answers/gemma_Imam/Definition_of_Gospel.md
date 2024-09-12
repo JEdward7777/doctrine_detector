@@ -30,7 +30,7 @@ In the Bible, the gospel is understood as the proclamation that Jesus Christ is 
 The concept of the gospel is not explicitly recognized or accepted in Islam. Islamic teachings focus on the revelation of Allah through the Quran and the teachings of Prophet Muhammad. However, some Muslims may use the term "gospel" to refer to the Christian belief in Jesus Christ as the Son of God and Savior.
 
 ## Average Grade
-89.0
+87.5
 
 ## Grades
  * [90.0](./Definition_of_Gospel_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,3 +38,4 @@ The concept of the gospel is not explicitly recognized or accepted in Islam. Isl
  * [95.0](./Definition_of_Gospel_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Definition_of_Gospel_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Definition_of_Gospel_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Definition_of_Gospel_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

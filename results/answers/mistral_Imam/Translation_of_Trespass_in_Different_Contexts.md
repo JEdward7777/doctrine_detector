@@ -21,7 +21,7 @@ The translation of 'trespass' as 'sin' or 'breaking the rule' can help bridge un
 It is crucial for interfaith dialogue to acknowledge and respect these differences while also identifying common values and shared goals in promoting ethical behavior within communities. This approach allows for a more inclusive and enriching exchange of ideas, fostering understanding, cooperation, and mutual growth.
 
 ## Average Grade
-84.0
+80.0
 
 ## Grades
  * [85.0](./Translation_of_Trespass_in_Different_Contexts_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ It is crucial for interfaith dialogue to acknowledge and respect these differenc
  * [85.0](./Translation_of_Trespass_in_Different_Contexts_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Translation_of_Trespass_in_Different_Contexts_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Translation_of_Trespass_in_Different_Contexts_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Translation_of_Trespass_in_Different_Contexts_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

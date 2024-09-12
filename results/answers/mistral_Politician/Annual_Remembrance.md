@@ -19,7 +19,7 @@ The celebration of Passover every year serves as a reminder of this historical e
 By celebrating Passover annually, the Israelites preserve and pass down their unique cultural heritage and maintain a connection to their religious traditions. It is important to remember that this holiday holds deep significance for millions of people around the world who identify as Jewish. As a politically correct individual, it's essential to respect and appreciate diverse cultures, religions, and traditions, especially those with such profound historical importance.
 
 ## Average Grade
-62.0
+60.0
 
 ## Grades
  * [50.0](./Annual_Remembrance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ By celebrating Passover annually, the Israelites preserve and pass down their un
  * [60.0](./Annual_Remembrance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [50.0](./Annual_Remembrance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Annual_Remembrance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Annual_Remembrance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -27,7 +27,7 @@ The word 'soul' in the Bible carries a rich tapestry of meanings that go beyond 
 In summary, the figurative uses of 'soul' in the Bible highlight its multifaceted role in shaping our understanding of human identity. It emphasizes the interconnectedness of our spiritual, emotional, social, and eternal dimensions, and underscores the value of nurturing our inner life, relationships, and divine connection. This holistic perspective invites Christians to live intentionally and purposefully, grounded in their identity as beings created in the image of God.
 
 ## Average Grade
-93.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Function_of_the_Soul_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In summary, the figurative uses of 'soul' in the Bible highlight its multifacete
  * [90.0](./Function_of_the_Soul_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Function_of_the_Soul_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Function_of_the_Soul_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Function_of_the_Soul_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

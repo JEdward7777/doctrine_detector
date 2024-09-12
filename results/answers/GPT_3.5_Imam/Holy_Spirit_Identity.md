@@ -19,7 +19,7 @@ For Christians, the Holy Spirit is believed to be the presence of God within bel
 Overall, the identity of the Holy Spirit as God influences the way Christians view His role in their lives by emphasizing His divine nature, presence, and guidance in their spiritual journey. It inspires believers to seek a close relationship with God, rely on His strength and guidance, and live out their faith in a way that honors Him.
 
 ## Average Grade
-84.0
+81.66666666666667
 
 ## Grades
  * [85.0](./Holy_Spirit_Identity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Overall, the identity of the Holy Spirit as God influences the way Christians vi
  * [85.0](./Holy_Spirit_Identity_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Holy_Spirit_Identity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Holy_Spirit_Identity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Holy_Spirit_Identity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

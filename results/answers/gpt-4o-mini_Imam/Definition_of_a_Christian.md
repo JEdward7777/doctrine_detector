@@ -29,7 +29,7 @@ From an Islamic perspective, while we respect the spiritual and moral teachings 
 In essence, a Christian is defined within their religious framework as a believer in Jesus Christ, his resurrection, and a follower of his teachings, while we as Muslims view their beliefs through our own theological lens.
 
 ## Average Grade
-85.0
+75.83333333333333
 
 ## Grades
  * [85.0](./Definition_of_a_Christian_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ In essence, a Christian is defined within their religious framework as a believe
  * [85.0](./Definition_of_a_Christian_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Definition_of_a_Christian_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Definition_of_a_Christian_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [30.0](./Definition_of_a_Christian_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

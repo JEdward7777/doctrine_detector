@@ -28,7 +28,7 @@ That being said, some of the most well-known parables attributed to Jesus includ
 While we may not have exact knowledge of Jesus' parables or teachings about the kingdom of God, these stories from Islamic and Christian traditions share common themes and moral lessons that can guide us on our spiritual journeys.
 
 ## Average Grade
-75.0
+72.5
 
 ## Grades
  * [80.0](./Value_of_the_Kingdom_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,3 +36,4 @@ While we may not have exact knowledge of Jesus' parables or teachings about the 
  * [70.0](./Value_of_the_Kingdom_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Value_of_the_Kingdom_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Value_of_the_Kingdom_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Value_of_the_Kingdom_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

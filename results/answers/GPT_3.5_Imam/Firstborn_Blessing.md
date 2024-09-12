@@ -21,7 +21,7 @@ In a Muslim family, it is important to recognize and respect the roles and posit
 Therefore, in a Muslim family, while lineage and heritage are acknowledged, the ultimate measure of one's role and status is determined by their piety, good deeds, and character in accordance with Islamic teachings.
 
 ## Average Grade
-89.0
+82.5
 
 ## Grades
  * [95.0](./Firstborn_Blessing_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Therefore, in a Muslim family, while lineage and heritage are acknowledged, the 
  * [90.0](./Firstborn_Blessing_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Firstborn_Blessing_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Firstborn_Blessing_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Firstborn_Blessing_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -24,7 +24,7 @@ Relevant hadiths (sayings or traditions of the Prophet Muhammad) related to this
 These hadiths emphasize the importance of sharing the good news of Islam with others and inviting people to faith without coercion or hostility.
 
 ## Average Grade
-44.0
+40.0
 
 ## Grades
  * [50.0](./Biblical_Exhortation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,3 +32,4 @@ These hadiths emphasize the importance of sharing the good news of Islam with ot
  * [50.0](./Biblical_Exhortation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [20.0](./Biblical_Exhortation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Biblical_Exhortation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./Biblical_Exhortation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

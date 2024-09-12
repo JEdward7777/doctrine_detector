@@ -27,7 +27,7 @@ Certainly! The Bible includes several accounts that are often interpreted as ins
 These examples illustrate various aspects of what the biblical texts present as demon possession, including the struggles faced by those afflicted and the authority attributed to Jesus in overcoming such spiritual afflictions. Each story also serves a broader theological purpose in the narratives of the New Testament.
 
 ## Average Grade
-92.0
+90.83333333333333
 
 ## Grades
  * [90.0](./Examples_in_Scripture_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ These examples illustrate various aspects of what the biblical texts present as 
  * [85.0](./Examples_in_Scripture_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Examples_in_Scripture_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Examples_in_Scripture_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Examples_in_Scripture_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -25,7 +25,7 @@ In Christian theology, "Judgment Day" refers to the future event when God will j
 In summary, Judgment Day represents a time of ultimate accountability and divine justice where God's righteousness will be fully realized, revealing His mercy towards the faithful and His justice towards those who reject Him.
 
 ## Average Grade
-93.0
+93.33333333333333
 
 ## Grades
  * [95.0](./Nature_of_Judgment_Day_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ In summary, Judgment Day represents a time of ultimate accountability and divine
  * [95.0](./Nature_of_Judgment_Day_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Nature_of_Judgment_Day_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Nature_of_Judgment_Day_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [95.0](./Nature_of_Judgment_Day_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

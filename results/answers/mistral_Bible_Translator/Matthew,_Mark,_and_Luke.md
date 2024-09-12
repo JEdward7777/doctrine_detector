@@ -28,7 +28,7 @@ Being familiar with the Gospel accounts and their teachings.
 12. Judas Iscariot, who later betrayed Jesus. After Judas's betrayal and subsequent death, Matthias was chosen to replace him (Acts 1:26).
 
 ## Average Grade
-87.0
+87.5
 
 ## Grades
  * [95.0](./Matthew,_Mark,_and_Luke_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,3 +36,4 @@ Being familiar with the Gospel accounts and their teachings.
  * [90.0](./Matthew,_Mark,_and_Luke_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Matthew,_Mark,_and_Luke_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Matthew,_Mark,_and_Luke_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Matthew,_Mark,_and_Luke_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

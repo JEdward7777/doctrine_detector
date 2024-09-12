@@ -23,7 +23,7 @@ This understanding may also foster a sense of accountability among Christians, p
 Overall, viewing iniquity as harmful acts can inspire Christians to embody values of love, compassion, and righteousness in their interactions with others, ultimately leading to a more harmonious and peaceful society.
 
 ## Average Grade
-86.0
+81.66666666666667
 
 ## Grades
  * [85.0](./Implications_of_Iniquity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ Overall, viewing iniquity as harmful acts can inspire Christians to embody value
  * [85.0](./Implications_of_Iniquity_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Implications_of_Iniquity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Implications_of_Iniquity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Implications_of_Iniquity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

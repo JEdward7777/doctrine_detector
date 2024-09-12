@@ -21,7 +21,7 @@ Moreover, according to some religious interpretations, eunuchs are acknowledged 
 In summary, the roles of eunuchs in historical contexts can be seen as reflections of a diverse societal structure where all individuals, regardless of their circumstances, have meaningful contributions to make. This outlook aligns with the understanding of a compassionate and inclusive divine plan that values every person’s unique role within the community.
 
 ## Average Grade
-90.4
+88.66666666666667
 
 ## Grades
  * [90.0](./Role_of_Eunuchs_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In summary, the roles of eunuchs in historical contexts can be seen as reflectio
  * [92.0](./Role_of_Eunuchs_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Role_of_Eunuchs_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Role_of_Eunuchs_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Role_of_Eunuchs_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

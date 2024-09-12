@@ -19,7 +19,7 @@ The act of "anointing" involves the use of oil, symbolizing consecration, prepar
 It's important to note that interpretations and practices surrounding the anointing with oil can vary greatly among Christian denominations. Some may view this as a physical manifestation of the spiritual gift of healing, while others see it more symbolically as a demonstration of support, prayer, or community solidarity. Ultimately, the experience and understanding of receiving the Holy Spirit through anointing is deeply personal and subjective.
 
 ## Average Grade
-90.0
+89.16666666666667
 
 ## Grades
  * [90.0](./Anointing_and_the_Holy_Spirit_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ It's important to note that interpretations and practices surrounding the anoint
  * [90.0](./Anointing_and_the_Holy_Spirit_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Anointing_and_the_Holy_Spirit_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Anointing_and_the_Holy_Spirit_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Anointing_and_the_Holy_Spirit_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

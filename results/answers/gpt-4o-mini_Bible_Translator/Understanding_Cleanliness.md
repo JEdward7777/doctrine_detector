@@ -27,7 +27,7 @@ The biblical definitions of 'clean' and 'unclean' are deeply rooted in both the 
 In conclusion, the biblical definitions of clean and unclean inform our understanding of moral purity by illustrating a holistic view that encompasses physical, social, and spiritual dimensions. They direct believers toward a life that is not only ritually pure but also ethically sound, emphasizing a heart aligned with God's will.
 
 ## Average Grade
-95.0
+94.16666666666667
 
 ## Grades
  * [95.0](./Understanding_Cleanliness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In conclusion, the biblical definitions of clean and unclean inform our understa
  * [95.0](./Understanding_Cleanliness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_Cleanliness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Understanding_Cleanliness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Understanding_Cleanliness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

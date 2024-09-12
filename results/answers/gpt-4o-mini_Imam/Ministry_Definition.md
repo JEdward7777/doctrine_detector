@@ -21,7 +21,7 @@ In Islam, the concept of helping others is emphasized deeply. The Quran and Hadi
 Thus, whether in a Biblical or Islamic context, ministering reflects a commitment to loving and serving humanity, promoting social justice, and fostering community ties.
 
 ## Average Grade
-72.0
+66.66666666666667
 
 ## Grades
  * [60.0](./Ministry_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Thus, whether in a Biblical or Islamic context, ministering reflects a commitmen
  * [80.0](./Ministry_Definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Ministry_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Ministry_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Ministry_Definition_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

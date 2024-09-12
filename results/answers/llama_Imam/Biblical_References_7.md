@@ -24,7 +24,7 @@ From a biblical perspective, some key references highlighting the importance of 
 In Islam, we don't observe the Sabbath or any other specific days as sacred. Instead, we focus on following Allah's commands and adhering to the five daily prayers, Friday congregational prayer, and observing Ramadan for spiritual growth and purification.
 
 ## Average Grade
-70.0
+63.333333333333336
 
 ## Grades
  * [90.0](./Biblical_References_7_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,3 +32,4 @@ In Islam, we don't observe the Sabbath or any other specific days as sacred. Ins
  * [80.0](./Biblical_References_7_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Biblical_References_7_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Biblical_References_7_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [30.0](./Biblical_References_7_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

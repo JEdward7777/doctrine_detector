@@ -23,7 +23,7 @@ To maintain a close relationship with Him, we are called to live a life that ref
 Ultimately, our relationship with God is built on the foundation of His holiness, which demonstrates His justice, righteousness, and love for us. It serves as a reminder that He alone is worthy of worship and praise, and we are called to strive towards holiness in all aspects of our lives.
 
 ## Average Grade
-95.0
+93.33333333333333
 
 ## Grades
  * [95.0](./Understanding_Holiness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ Ultimately, our relationship with God is built on the foundation of His holiness
  * [95.0](./Understanding_Holiness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_Holiness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Understanding_Holiness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Understanding_Holiness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

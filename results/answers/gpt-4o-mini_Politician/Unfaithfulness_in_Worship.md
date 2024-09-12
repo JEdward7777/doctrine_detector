@@ -27,7 +27,7 @@ The people of Israel demonstrated unfaithfulness in their worship in several his
 In summary, the unfaithfulness of the people of Israel in their worship was marked by a combination of turning away from the exclusive worship of Yahweh, integrating foreign practices, neglecting their ethical obligations, and resisting prophetic guidance. Each of these elements highlights the complexities of faith and the challenges faced by communities in maintaining spiritual fidelity.
 
 ## Average Grade
-88.0
+85.0
 
 ## Grades
  * [85.0](./Unfaithfulness_in_Worship_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In summary, the unfaithfulness of the people of Israel in their worship was mark
  * [95.0](./Unfaithfulness_in_Worship_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Unfaithfulness_in_Worship_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [75.0](./Unfaithfulness_in_Worship_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Unfaithfulness_in_Worship_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

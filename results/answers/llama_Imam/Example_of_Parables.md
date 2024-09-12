@@ -29,7 +29,7 @@ In another hadith, Prophet Muhammad (peace be upon him) said, "None of you will 
 In conclusion, my brother, the parable of the Good Samaritan is a powerful reminder of the importance of showing mercy, kindness, and compassion to all people. It challenges societal norms and emphasizes that true faith is not just about following rules, but also about treating others with love and respect.
 
 ## Average Grade
-94.0
+90.0
 
 ## Grades
  * [95.0](./Example_of_Parables_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ In conclusion, my brother, the parable of the Good Samaritan is a powerful remin
  * [95.0](./Example_of_Parables_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Example_of_Parables_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Example_of_Parables_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Example_of_Parables_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -41,7 +41,7 @@ In Islamic tradition, we do not accept the divinity or sonship of Jesus (peace b
 In conclusion, the significance of the Twelve Apostles lies in their role as representatives of Jesus' message, witnesses to his life and ministry, leaders in the early Christian community, and symbolic representation of the reunification of the 12 tribes of Israel.
 
 ## Average Grade
-89.0
+84.16666666666667
 
 ## Grades
  * [90.0](./The_Role_of_the_Twelve_Apostles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -49,3 +49,4 @@ In conclusion, the significance of the Twelve Apostles lies in their role as rep
  * [90.0](./The_Role_of_the_Twelve_Apostles_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./The_Role_of_the_Twelve_Apostles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./The_Role_of_the_Twelve_Apostles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./The_Role_of_the_Twelve_Apostles_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

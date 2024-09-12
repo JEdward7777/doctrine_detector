@@ -27,7 +27,7 @@ The Bible teaches that the Holy Spirit plays a crucial role in intercession, par
 In summary, the Holy Spirit assists believers in their weaknesses, intercedes according to God's will, guides them in prayer, and helps them understand spiritual truths. This interplay of Spirit-led prayer enriches the believer's intercessory efforts, allowing for more aligned and effective communication with God.
 
 ## Average Grade
-94.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Understanding_Intercession_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In summary, the Holy Spirit assists believers in their weaknesses, intercedes ac
  * [95.0](./Understanding_Intercession_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_Intercession_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Understanding_Intercession_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Understanding_Intercession_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

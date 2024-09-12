@@ -28,7 +28,7 @@ It is essential to note that this concept is unique to Christianity and has evol
 In conclusion, while I may not fully agree with the Christian understanding of Judgment Day, I recognize its significance within the Christian tradition. As people of faith, we must strive for mutual respect and understanding, recognizing that our differences are a reflection of our diverse interpretations of divine revelation.
 
 ## Average Grade
-84.0
+81.66666666666667
 
 ## Grades
  * [85.0](./Nature_of_Judgment_Day_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,3 +36,4 @@ In conclusion, while I may not fully agree with the Christian understanding of J
  * [85.0](./Nature_of_Judgment_Day_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Nature_of_Judgment_Day_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Nature_of_Judgment_Day_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Nature_of_Judgment_Day_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

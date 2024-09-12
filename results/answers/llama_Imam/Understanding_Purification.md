@@ -34,7 +34,7 @@ In light of these Old Testament laws, we can see that purification was a crucial
 May Allah guide us in our pursuit of spiritual purity and closeness to Him. Ameen!
 
 ## Average Grade
-87.0
+79.16666666666667
 
 ## Grades
  * [95.0](./Understanding_Purification_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -42,3 +42,4 @@ May Allah guide us in our pursuit of spiritual purity and closeness to Him. Amee
  * [90.0](./Understanding_Purification_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [75.0](./Understanding_Purification_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Purification_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Understanding_Purification_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

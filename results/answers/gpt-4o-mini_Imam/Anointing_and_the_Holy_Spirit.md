@@ -23,7 +23,7 @@ For Muslims, spiritual empowerment or divine signs are often understood through 
 So, while the specifics regarding receiving the Holy Spirit and anointing may differ across religious traditions, the core idea of being divinely chosen or empowered exists in both Islam and Christianity, albeit interpreted through their respective theological frameworks.
 
 ## Average Grade
-83.0
+74.16666666666667
 
 ## Grades
  * [90.0](./Anointing_and_the_Holy_Spirit_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ So, while the specifics regarding receiving the Holy Spirit and anointing may di
  * [85.0](./Anointing_and_the_Holy_Spirit_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Anointing_and_the_Holy_Spirit_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Anointing_and_the_Holy_Spirit_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [30.0](./Anointing_and_the_Holy_Spirit_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

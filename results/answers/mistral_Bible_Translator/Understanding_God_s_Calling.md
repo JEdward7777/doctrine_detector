@@ -21,7 +21,7 @@ Being called by God is a significant moment in a Christian's life and can involv
 A call from God is often characterized by a deep sense of peace, purpose, and fulfillment as one responds obediently to the divine invitation. It may require discernment, prayer, guidance from spiritual mentors, and sometimes personal sacrifice. Ultimately, answering a call from God requires faith in His goodness, provision, and sovereignty over one's life.
 
 ## Average Grade
-93.0
+90.83333333333333
 
 ## Grades
  * [95.0](./Understanding_God_s_Calling_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ A call from God is often characterized by a deep sense of peace, purpose, and fu
  * [95.0](./Understanding_God_s_Calling_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_God_s_Calling_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_God_s_Calling_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Understanding_God_s_Calling_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

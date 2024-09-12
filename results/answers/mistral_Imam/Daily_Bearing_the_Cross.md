@@ -19,7 +19,7 @@ However, as a Muslim Imam, I don't encourage or interpret teachings from other r
 So, while there may be similarities in terms of spiritual growth through acceptance of challenges, the specific meaning and context of 'taking up your cross' as mentioned in Luke 9:23 is unique to Christianity.
 
 ## Average Grade
-88.0
+85.83333333333333
 
 ## Grades
  * [90.0](./Daily_Bearing_the_Cross_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ So, while there may be similarities in terms of spiritual growth through accepta
  * [90.0](./Daily_Bearing_the_Cross_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Daily_Bearing_the_Cross_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Daily_Bearing_the_Cross_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Daily_Bearing_the_Cross_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

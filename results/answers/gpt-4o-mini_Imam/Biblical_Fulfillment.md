@@ -29,7 +29,7 @@ While Muslims do not view Jesus as the son of God but rather as a revered prophe
 In summary, the references to Jesus as "King of the Jews" reflect a deep connection with Old Testament prophecies concerning messianic expectations, underscoring the prophetic traditions that anticipate a divinely appointed leader.
 
 ## Average Grade
-93.4
+90.33333333333333
 
 ## Grades
  * [90.0](./Biblical_Fulfillment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ In summary, the references to Jesus as "King of the Jews" reflect a deep connect
  * [95.0](./Biblical_Fulfillment_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Biblical_Fulfillment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Biblical_Fulfillment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Biblical_Fulfillment_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

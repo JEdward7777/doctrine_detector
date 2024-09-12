@@ -15,7 +15,7 @@ Recognizing historical context and significance of the term 'Christian'.
 The term "Christians" was first used to describe the followers of Jesus in the city of Antioch in the first century AD. This is mentioned in the New Testament in the book of Acts, chapter 11, verse 26: "And when he had found him, he brought him to Antioch. So it was that for a whole year they assembled with the church and taught a great many people. And the disciples were first called Christians in Antioch."
 
 ## Average Grade
-94.0
+94.16666666666667
 
 ## Grades
  * [95.0](./Origin_of_the_Term_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ The term "Christians" was first used to describe the followers of Jesus in the c
  * [95.0](./Origin_of_the_Term_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Origin_of_the_Term_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Origin_of_the_Term_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [95.0](./Origin_of_the_Term_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

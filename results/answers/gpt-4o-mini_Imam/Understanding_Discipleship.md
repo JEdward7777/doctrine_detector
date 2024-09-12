@@ -25,7 +25,7 @@ From an Islamic perspective, while we respect Jesus (known as Isa in Arabic) as 
 If you have more specific content or context regarding what it means to be a disciple of Jesus from a particular source, please provide that, and I can tailor the response accordingly.
 
 ## Average Grade
-89.0
+86.66666666666667
 
 ## Grades
  * [85.0](./Understanding_Discipleship_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ If you have more specific content or context regarding what it means to be a dis
  * [95.0](./Understanding_Discipleship_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_Discipleship_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Discipleship_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Understanding_Discipleship_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

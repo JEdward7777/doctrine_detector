@@ -21,7 +21,7 @@ Later on in Exodus (29:45-46), it says, "I will dwell among the children of Isra
 Additionally, in the Book of Ezekiel (43:10-11), a prophetic vision about the future Temple includes, "And the glory of the LORD came into the temple through the gate facing toward the east... Thus says the Lord GOD: This gate shall be shut; it shall not be opened, and no man shall enter by it, for the LORD God of Israel has entered by it; therefore it is shut."
 
 ## Average Grade
-89.0
+88.33333333333333
 
 ## Grades
  * [90.0](./Biblical_References_to_the_Temple_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Additionally, in the Book of Ezekiel (43:10-11), a prophetic vision about the fu
  * [95.0](./Biblical_References_to_the_Temple_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Biblical_References_to_the_Temple_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Biblical_References_to_the_Temple_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Biblical_References_to_the_Temple_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

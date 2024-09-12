@@ -27,7 +27,7 @@ Rather, this statement can be seen as an allusion to the Islamic concept of the 
 In conclusion, while Jesus' statement about the Son of Man coming on the clouds has some parallels with Islamic eschatological expectations, we must be cautious not to equate it with Christian dogma that contradicts Quranic teachings. As Muslims, our primary concern should be understanding and obeying Allah's revelation in the Quran, rather than speculating about Jesus' claims or attributing divine qualities to him.
 
 ## Average Grade
-65.0
+60.833333333333336
 
 ## Grades
  * [60.0](./Second_Coming_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In conclusion, while Jesus' statement about the Son of Man coming on the clouds 
  * [60.0](./Second_Coming_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [60.0](./Second_Coming_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Second_Coming_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Second_Coming_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

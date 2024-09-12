@@ -26,7 +26,7 @@ The term "elect" in the Bible primarily refers to those chosen by God for salvat
 Ultimately, the translation of "elect" plays a significant role in understanding Scripture, as the choice of words can highlight different aspects of God's relationship with humanity, His grace, and the nature of salvation. For Muslims engaging with the Bible, this understanding may also intersect with their beliefs about divine will and guidance, emphasizing the importance of studying the original texts and their translations in various contexts.
 
 ## Average Grade
-90.8
+89.83333333333333
 
 ## Grades
  * [90.0](./Translation_of__Elect__grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,3 +34,4 @@ Ultimately, the translation of "elect" plays a significant role in understanding
  * [90.0](./Translation_of__Elect__grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [94.0](./Translation_of__Elect__grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Translation_of__Elect__grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Translation_of__Elect__grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

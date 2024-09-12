@@ -21,7 +21,7 @@ The covenant is further elaborated upon in the books of Exodus, Leviticus, and D
 It's important to note that interpretations of this covenant vary widely among scholars, religious groups, and individuals. Some view it as a historical agreement between God and the Israelites, while others see it as a metaphorical or symbolic representation of a spiritual relationship. As an atheistic scholar, I would not personally subscribe to the existence of a divine entity making such a covenant with humans. However, understanding the cultural and historical significance of this concept is crucial for analyzing religious texts and the societies they emerged from.
 
 ## Average Grade
-58.0
+53.333333333333336
 
 ## Grades
  * [70.0](./Covenant_with_Israel_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ It's important to note that interpretations of this covenant vary widely among s
  * [70.0](./Covenant_with_Israel_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [50.0](./Covenant_with_Israel_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Covenant_with_Israel_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [30.0](./Covenant_with_Israel_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

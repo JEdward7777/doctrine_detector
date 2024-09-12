@@ -21,7 +21,7 @@ When we look at the biblical uses of the word 'soul,' it often refers to the inn
 Both Islamic and biblical teachings emphasize the importance of taking care of the soul, as it is unique and eternal compared to the transient nature of the human body. Both religions encourage acts of righteousness, compassion, and worship, as they nourish and strengthen the soul. The concept of the soul helps us understand human identity in a holistic sense, acknowledging our physical existence while emphasizing the importance of our spiritual growth and development.
 
 ## Average Grade
-86.0
+78.33333333333333
 
 ## Grades
  * [80.0](./Function_of_the_Soul_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Both Islamic and biblical teachings emphasize the importance of taking care of t
  * [90.0](./Function_of_the_Soul_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Function_of_the_Soul_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Function_of_the_Soul_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Function_of_the_Soul_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

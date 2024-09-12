@@ -19,7 +19,7 @@ Regarding life after death, the Pharisees believed in the concept of resurrectio
 Regarding spiritual beings, the Pharisees had a strong belief in angels (mal'akhim) and other celestial entities (yezirah), who were seen as divine messengers or intermediaries between God and humanity. They also believed in the existence of malevolent spirits (shedim) that could bring harm to individuals, but their rituals and prayers were designed to protect against such influences. The Pharisees practiced various exorcism rites and purification ceremonies as part of their daily religious observance.
 
 ## Average Grade
-90.0
+86.66666666666667
 
 ## Grades
  * [90.0](./Beliefs_of_the_Pharisees_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Regarding spiritual beings, the Pharisees had a strong belief in angels (mal'akh
  * [90.0](./Beliefs_of_the_Pharisees_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Beliefs_of_the_Pharisees_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Beliefs_of_the_Pharisees_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Beliefs_of_the_Pharisees_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

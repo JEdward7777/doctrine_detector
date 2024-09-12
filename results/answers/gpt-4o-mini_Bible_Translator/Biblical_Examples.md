@@ -34,7 +34,7 @@ From these examples, we learn important lessons about living a life pleasing to 
 These figures encourage believers to strive for a blameless character, relying on God’s grace and strength as they navigate their life journeys.
 
 ## Average Grade
-94.4
+92.0
 
 ## Grades
  * [95.0](./Biblical_Examples_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -42,3 +42,4 @@ These figures encourage believers to strive for a blameless character, relying o
  * [95.0](./Biblical_Examples_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Biblical_Examples_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Biblical_Examples_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Biblical_Examples_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

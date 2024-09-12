@@ -19,7 +19,7 @@ From the Islamic perspective, both Jews and Christians are considered People of 
 In summary, from a biblical perspective, the Hebrews are descendants of Jacob/Israel, who was a son of Isaac, while from an Islamic point of view, they share a common ancestor in Prophet Abraham through Ishmael or Isaac, depending on their specific lineage.
 
 ## Average Grade
-85.0
+82.5
 
 ## Grades
  * [80.0](./Origins_of_the_Hebrews_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ In summary, from a biblical perspective, the Hebrews are descendants of Jacob/Is
  * [80.0](./Origins_of_the_Hebrews_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Origins_of_the_Hebrews_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Origins_of_the_Hebrews_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Origins_of_the_Hebrews_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -41,7 +41,7 @@ The Holy Spirit plays a vital role in the lives of Christians, empowering them i
 In summary, the Holy Spirit empowers Christians by indwelling them, guiding them, equipping them for service, producing godly character, comforting them in struggles, and providing boldness in witnessing for the faith. These aspects enrich the believer's life and enable them to fulfill their calling in the kingdom of God.
 
 ## Average Grade
-95.0
+92.5
 
 ## Grades
  * [95.0](./Empowerment_by_the_Holy_Spirit_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -49,3 +49,4 @@ In summary, the Holy Spirit empowers Christians by indwelling them, guiding them
  * [95.0](./Empowerment_by_the_Holy_Spirit_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Empowerment_by_the_Holy_Spirit_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Empowerment_by_the_Holy_Spirit_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Empowerment_by_the_Holy_Spirit_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

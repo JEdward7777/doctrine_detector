@@ -19,7 +19,7 @@ In Islamic teaching, we do not have a concept of the tabernacle described in the
 2. The Most Holy Place (Holy of Holies): This section was separated by a veil and contained the Ark of the Covenant. The Ark was a wooden chest covered in gold that held the stone tablets of the Ten Commandments, Aaron's rod, and some manna. This was considered the holiest place in the tabernacle, representing the presence of God among His people. Only the High Priest was allowed to enter this section, and that too, only once a year on the Day of Atonement.
 
 ## Average Grade
-76.0
+66.66666666666667
 
 ## Grades
  * [95.0](./Structure_of_the_Tabernacle_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ In Islamic teaching, we do not have a concept of the tabernacle described in the
  * [80.0](./Structure_of_the_Tabernacle_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Structure_of_the_Tabernacle_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Structure_of_the_Tabernacle_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./Structure_of_the_Tabernacle_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -25,7 +25,7 @@ The interaction between the centurion and Jesus, particularly found in passages 
 In summary, the interaction reveals that faith involves a deep recognition of authority, humility, and a willingness to believe in Jesus' power to heal and transform, regardless of one's background or status. This challenges believers to examine the depth of their faith and the nature of their relationship with God's authority.
 
 ## Average Grade
-94.4
+90.33333333333333
 
 ## Grades
  * [95.0](./Centurion_and_Healing_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ In summary, the interaction reveals that faith involves a deep recognition of au
  * [95.0](./Centurion_and_Healing_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Centurion_and_Healing_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Centurion_and_Healing_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Centurion_and_Healing_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

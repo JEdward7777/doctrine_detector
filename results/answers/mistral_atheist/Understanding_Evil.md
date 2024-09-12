@@ -21,7 +21,7 @@ Ensuring clarity on the moral implications of behaviors and character in the con
 In summary, both terms convey a sense of moral wrongdoing, but "wickedness" implies a persistent, ongoing pattern of evil behavior, whereas "evil" may encompass a broader range of immoral actions and qualities. The Bible uses these terms to emphasize the importance of righteousness and obedience to God's law as central to a faithful and virtuous life.
 
 ## Average Grade
-91.0
+90.83333333333333
 
 ## Grades
  * [95.0](./Understanding_Evil_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In summary, both terms convey a sense of moral wrongdoing, but "wickedness" impl
  * [90.0](./Understanding_Evil_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_Evil_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Evil_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Understanding_Evil_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

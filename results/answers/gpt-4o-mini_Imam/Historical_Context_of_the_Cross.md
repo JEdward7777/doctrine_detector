@@ -23,7 +23,7 @@ Over time, the cross evolved from a sign of disgrace to a symbol of triumph and 
 In summary, while the cross initially resonated with fear and shame due to its association with Roman punishment, early Christians redefined its significance to embody themes of hope, salvation, and divine love, fundamentally altering its perception within the faith.
 
 ## Average Grade
-93.8
+93.16666666666667
 
 ## Grades
  * [95.0](./Historical_Context_of_the_Cross_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ In summary, while the cross initially resonated with fear and shame due to its a
  * [95.0](./Historical_Context_of_the_Cross_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [92.0](./Historical_Context_of_the_Cross_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Historical_Context_of_the_Cross_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Historical_Context_of_the_Cross_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -27,7 +27,7 @@ The term 'beloved' can be translated in various ways depending on the cultural a
 When translating 'beloved,' it’s essential to consider the context—whether it’s romantic, familial, or platonic—as different terms may carry varying levels of emotional intensity and cultural significance.
 
 ## Average Grade
-79.0
+79.16666666666667
 
 ## Grades
  * [85.0](./Translations_of_Beloved_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ When translating 'beloved,' it’s essential to consider the context—whether i
  * [70.0](./Translations_of_Beloved_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [75.0](./Translations_of_Beloved_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Translations_of_Beloved_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Translations_of_Beloved_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

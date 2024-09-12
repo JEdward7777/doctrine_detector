@@ -17,7 +17,7 @@ Recognizing the intentional nature of God's interaction with humanity.
 However, it is essential to recognize that the interpretation of this concept may vary among different religious and cultural groups. To avoid offending or excluding anyone, we should strive for inclusivity in our language and acknowledge the diverse perspectives on God's calling within our society. This openness and understanding foster a more harmonious, accepting, and inclusive environment where people feel valued and respected regardless of their beliefs.
 
 ## Average Grade
-76.0
+71.66666666666667
 
 ## Grades
  * [60.0](./God_s_Intentionality_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -25,3 +25,4 @@ However, it is essential to recognize that the interpretation of this concept ma
  * [85.0](./God_s_Intentionality_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [75.0](./God_s_Intentionality_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./God_s_Intentionality_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./God_s_Intentionality_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

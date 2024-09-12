@@ -19,7 +19,7 @@ However, there are hints that suggest John the Baptist may have followed some as
 It's important to note that this interpretation is not universally accepted and scholars have varying opinions on the subject. Furthermore, the New Testament does not provide definitive evidence one way or another regarding John the Baptist being a Nazirite according to Jewish law.
 
 ## Average Grade
-85.0
+84.16666666666667
 
 ## Grades
  * [90.0](./New_Testament_References_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ It's important to note that this interpretation is not universally accepted and 
  * [85.0](./New_Testament_References_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./New_Testament_References_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./New_Testament_References_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./New_Testament_References_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

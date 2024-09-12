@@ -11,26 +11,26 @@ In the Bible, 'fear' often reflects an attitude of worship, respect, and awe tow
 Understanding the biblical definition of fear can deepen one's relationship with God and enhance worship practices.
 
 ## Average Grade
-91.18348623853211
+90.325
 
 ## Grades
  * [80.0 llama atheist](../answers/llama_atheist/Understanding_Fear_in_Worship.md)
  * [82.5 gemma atheist](../answers/gemma_atheist/Understanding_Fear_in_Worship.md)
- * [88.0 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Understanding_Fear_in_Worship.md)
- * [90.0 mistral Politician](../answers/mistral_Politician/Understanding_Fear_in_Worship.md)
+ * [85.0 mistral Politician](../answers/mistral_Politician/Understanding_Fear_in_Worship.md)
+ * [85.83333333333333 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Understanding_Fear_in_Worship.md)
+ * [88.33333333333333 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Understanding_Fear_in_Worship.md)
+ * [89.16666666666667 llama Imam](../answers/llama_Imam/Understanding_Fear_in_Worship.md)
+ * [90.0 mistral Imam](../answers/mistral_Imam/Understanding_Fear_in_Worship.md)
  * [90.83333333333333 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Understanding_Fear_in_Worship.md)
- * [91.0 llama Imam](../answers/llama_Imam/Understanding_Fear_in_Worship.md)
- * [91.0 mistral Imam](../answers/mistral_Imam/Understanding_Fear_in_Worship.md)
  * [91.16666666666667 llama Politician](../answers/llama_Politician/Understanding_Fear_in_Worship.md)
+ * [91.16666666666667 gemma Imam](../answers/gemma_Imam/Understanding_Fear_in_Worship.md)
  * [91.66666666666667 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Understanding_Fear_in_Worship.md)
- * [92.0 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Understanding_Fear_in_Worship.md)
  * [92.5 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Understanding_Fear_in_Worship.md)
  * [92.5 llama Bible Translator](../answers/llama_Bible_Translator/Understanding_Fear_in_Worship.md)
- * [93.0 mistral atheist](../answers/mistral_atheist/Understanding_Fear_in_Worship.md)
+ * [92.5 mistral atheist](../answers/mistral_atheist/Understanding_Fear_in_Worship.md)
  * [93.33333333333333 gemma Politician](../answers/gemma_Politician/Understanding_Fear_in_Worship.md)
- * [93.4 gemma Imam](../answers/gemma_Imam/Understanding_Fear_in_Worship.md)
- * [94.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Understanding_Fear_in_Worship.md)
- * [94.0 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Understanding_Fear_in_Worship.md)
+ * [93.33333333333333 mistral Bible Translator](../answers/mistral_Bible_Translator/Understanding_Fear_in_Worship.md)
+ * [93.33333333333333 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Understanding_Fear_in_Worship.md)
+ * [94.16666666666667 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Understanding_Fear_in_Worship.md)
+ * [94.16666666666667 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Understanding_Fear_in_Worship.md)
  * [95.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Understanding_Fear_in_Worship.md)
- * [95.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Understanding_Fear_in_Worship.md)
- * [95.0 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Understanding_Fear_in_Worship.md)

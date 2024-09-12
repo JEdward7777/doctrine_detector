@@ -29,7 +29,7 @@ The phrase "Yahweh of hosts" signifies several key theological truths:
 Overall, the title "Yahweh of hosts" encapsulates God's all-encompassing authority over spiritual beings, affirming His role as protector, judge, and sovereign ruler of both heaven and earth.
 
 ## Average Grade
-93.0
+93.33333333333333
 
 ## Grades
  * [95.0](./Authority_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ Overall, the title "Yahweh of hosts" encapsulates God's all-encompassing authori
  * [95.0](./Authority_of_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Authority_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Authority_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [95.0](./Authority_of_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

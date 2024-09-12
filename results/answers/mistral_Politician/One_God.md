@@ -31,7 +31,7 @@ Proper teaching upholds the biblical truth of one God while addressing cultural 
 Ultimately, the goal should be to create a translation of the Bible that not only maintains the original monotheistic message but also speaks to the hearts and minds of people from diverse cultural backgrounds. By being sensitive to local beliefs and customs, we can help bridge cultural divides and promote greater understanding, respect, and unity among different communities.
 
 ## Average Grade
-78.0
+76.66666666666667
 
 ## Grades
  * [70.0](./One_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,3 +39,4 @@ Ultimately, the goal should be to create a translation of the Bible that not onl
  * [85.0](./One_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./One_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./One_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./One_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

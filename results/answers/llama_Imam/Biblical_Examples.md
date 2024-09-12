@@ -32,7 +32,7 @@ In Islam, we learn that every human being is created with a natural inclination 
 May Allah guide us all on the path of righteousness, amin.
 
 ## Average Grade
-62.0
+56.666666666666664
 
 ## Grades
  * [50.0](./Biblical_Examples_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -40,3 +40,4 @@ May Allah guide us all on the path of righteousness, amin.
  * [60.0](./Biblical_Examples_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [65.0](./Biblical_Examples_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_Examples_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [30.0](./Biblical_Examples_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

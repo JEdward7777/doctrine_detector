@@ -17,7 +17,7 @@ In Islamic belief, those who are described as "perishing" are individuals who ha
 However, it is important to note that ultimately, only Allah knows the true condition of a person's heart and their fate in the Hereafter. As Muslims, we are taught to strive for righteousness, repent for our sins, and seek Allah's forgiveness sincerely. We also believe in Allah's mercy and forgiveness, and that ultimately, it is Allah who will judge each individual with justice and mercy.
 
 ## Average Grade
-85.0
+79.16666666666667
 
 ## Grades
  * [85.0](./Eternal_Consequences_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -25,3 +25,4 @@ However, it is important to note that ultimately, only Allah knows the true cond
  * [85.0](./Eternal_Consequences_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Eternal_Consequences_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Eternal_Consequences_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Eternal_Consequences_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

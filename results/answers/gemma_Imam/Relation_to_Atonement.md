@@ -46,7 +46,7 @@ To clarify the differences and similarities between these two important theologi
 **Therefore, in Islamic terms, 'propitiation' is a part of 'atonement,' which is the comprehensive process of seeking forgiveness and reconciliation with Allah.**
 
 ## Average Grade
-85.0
+74.16666666666667
 
 ## Grades
  * [80.0](./Relation_to_Atonement_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -54,3 +54,4 @@ To clarify the differences and similarities between these two important theologi
  * [90.0](./Relation_to_Atonement_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Relation_to_Atonement_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Relation_to_Atonement_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./Relation_to_Atonement_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

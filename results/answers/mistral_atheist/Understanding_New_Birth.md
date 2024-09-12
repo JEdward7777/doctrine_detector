@@ -21,7 +21,7 @@ The idea of being born again emphasizes an inner change, a turning away from sin
 It's essential to note that the interpretation of biblical passages may vary depending on cultural, historical, and theological contexts. This explanation represents a general understanding of being born again in Christian theology.
 
 ## Average Grade
-92.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Understanding_New_Birth_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ It's essential to note that the interpretation of biblical passages may vary dep
  * [90.0](./Understanding_New_Birth_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_New_Birth_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_New_Birth_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Understanding_New_Birth_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

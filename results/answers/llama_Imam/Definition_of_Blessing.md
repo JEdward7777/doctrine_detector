@@ -27,7 +27,7 @@ It's essential to note that this Christian understanding of blessing may differ 
 If you have any further questions or would like to discuss how this concept relates to Islamic teachings, please feel free to ask!
 
 ## Average Grade
-89.0
+85.83333333333333
 
 ## Grades
  * [90.0](./Definition_of_Blessing_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ If you have any further questions or would like to discuss how this concept rela
  * [90.0](./Definition_of_Blessing_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Definition_of_Blessing_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Definition_of_Blessing_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Definition_of_Blessing_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

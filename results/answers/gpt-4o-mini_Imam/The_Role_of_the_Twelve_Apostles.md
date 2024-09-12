@@ -31,7 +31,7 @@ In Islam, while the apostles themselves are not emphasized in the same way they 
 In summary, the twelve apostles were significant due to their roles as direct followers, witnesses, and spreaders of Jesus' teachings, serving as a foundation for early Christianity and representing key aspects of faith and leadership.
 
 ## Average Grade
-92.0
+88.33333333333333
 
 ## Grades
  * [95.0](./The_Role_of_the_Twelve_Apostles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,3 +39,4 @@ In summary, the twelve apostles were significant due to their roles as direct fo
  * [95.0](./The_Role_of_the_Twelve_Apostles_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./The_Role_of_the_Twelve_Apostles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./The_Role_of_the_Twelve_Apostles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./The_Role_of_the_Twelve_Apostles_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

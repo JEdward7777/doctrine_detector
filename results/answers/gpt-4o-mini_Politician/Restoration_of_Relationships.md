@@ -19,7 +19,7 @@ This restoration often involves acknowledging one's mistakes and seeking a trans
 In a broader context, this idea highlights themes of reconciliation, hope, and community. It encourages individuals to embrace forgiveness—not only from God but also amongst one another—as a pathway to personal and collective well-being. Ultimately, the message is one of inclusivity, suggesting that all individuals have the capacity for growth and should be met with understanding and support as they navigate their journeys.
 
 ## Average Grade
-82.0
+78.33333333333333
 
 ## Grades
  * [90.0](./Restoration_of_Relationships_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ In a broader context, this idea highlights themes of reconciliation, hope, and c
  * [80.0](./Restoration_of_Relationships_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [75.0](./Restoration_of_Relationships_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Restoration_of_Relationships_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Restoration_of_Relationships_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

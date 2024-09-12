@@ -27,7 +27,7 @@ As Muslims, we believe that Allah is the One God, who is beyond human comprehens
 I hope this clarifies the issue from a Muslim perspective. If you have any further questions or concerns, please feel free to ask.
 
 ## Average Grade
-84.0
+76.66666666666667
 
 ## Grades
  * [80.0](./Translation_of__Yahweh__grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ I hope this clarifies the issue from a Muslim perspective. If you have any furth
  * [90.0](./Translation_of__Yahweh__grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Translation_of__Yahweh__grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Translation_of__Yahweh__grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Translation_of__Yahweh__grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

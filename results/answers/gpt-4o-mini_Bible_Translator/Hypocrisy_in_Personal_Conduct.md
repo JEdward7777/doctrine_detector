@@ -33,7 +33,7 @@ Ensuring that our actions align with our beliefs is a vital aspect of living out
 By consciously addressing these areas, you can work towards a life that genuinely reflects your beliefs, thereby reducing the risk of hypocrisy.
 
 ## Average Grade
-94.4
+93.66666666666667
 
 ## Grades
  * [95.0](./Hypocrisy_in_Personal_Conduct_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -41,3 +41,4 @@ By consciously addressing these areas, you can work towards a life that genuinel
  * [95.0](./Hypocrisy_in_Personal_Conduct_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Hypocrisy_in_Personal_Conduct_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Hypocrisy_in_Personal_Conduct_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Hypocrisy_in_Personal_Conduct_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

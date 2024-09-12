@@ -30,7 +30,7 @@ In summary, trustworthiness in Islam is demonstrated through honest communicatio
 Please note that while there may be some overlap between Islamic and Christian principles, the specific laws, commandments, and teachings of each religion are distinct. As an Imam, my primary responsibility is to provide guidance based on Islamic scripture and tradition.
 
 ## Average Grade
-84.0
+81.66666666666667
 
 ## Grades
  * [80.0](./Trustworthiness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,3 +38,4 @@ Please note that while there may be some overlap between Islamic and Christian p
  * [85.0](./Trustworthiness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Trustworthiness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Trustworthiness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Trustworthiness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

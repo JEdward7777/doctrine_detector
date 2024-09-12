@@ -21,7 +21,7 @@ The terms "Jesus" and "Christ" are closely related but have distinct meanings.
 When we refer to "Jesus Christ," we are acknowledging both His historical identity as Jesus of Nazareth and His role as the anointed Messiah. Christians believe that Jesus fulfilled the Old Testament prophecies about the Messiah through His life, death, and resurrection, establishing Him not just as a prophet or teacher, but as the divine Savior. Thus, "Jesus" emphasizes who He is in a personal and historical sense, while "Christ" emphasizes His messianic role and divine mission.
 
 ## Average Grade
-87.0
+87.5
 
 ## Grades
  * [90.0](./The_Messiah_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ When we refer to "Jesus Christ," we are acknowledging both His historical identi
  * [95.0](./The_Messiah_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./The_Messiah_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [75.0](./The_Messiah_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./The_Messiah_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

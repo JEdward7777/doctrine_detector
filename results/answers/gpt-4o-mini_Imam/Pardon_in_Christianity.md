@@ -21,7 +21,7 @@ The Quran emphasizes that Allah's mercy encompasses all things (Quran 7:156) and
 Thus, while both religions hold the concept of forgiveness in high esteem, the means by which forgiveness is obtained differs significantly. In Islam, the forgiveness of sins is accomplished through sincere repentance to Allah alone, without the need for any intermediary figure. This underscores the importance of individual accountability and the direct relationship between believers and their Creator.
 
 ## Average Grade
-79.0
+73.33333333333333
 
 ## Grades
  * [85.0](./Pardon_in_Christianity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Thus, while both religions hold the concept of forgiveness in high esteem, the m
  * [75.0](./Pardon_in_Christianity_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Pardon_in_Christianity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Pardon_in_Christianity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [45.0](./Pardon_in_Christianity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

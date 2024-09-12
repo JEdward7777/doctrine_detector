@@ -11,26 +11,26 @@ Verses such as Psalm 83:18 and Daniel 4:17 reveal God's eternal nature and autho
 Christians may need guidance in exploring Scripture to fully appreciate the significance of God's sovereignty as portrayed in the Bible.
 
 ## Average Grade
-83.8256880733945
+82.43333333333334
 
 ## Grades
- * [46.0 gemma Imam](../answers/gemma_Imam/Biblical_References_to_the_Most_High.md)
+ * [46.666666666666664 gemma Imam](../answers/gemma_Imam/Biblical_References_to_the_Most_High.md)
  * [68.33333333333333 gemma Politician](../answers/gemma_Politician/Biblical_References_to_the_Most_High.md)
- * [77.0 mistral Imam](../answers/mistral_Imam/Biblical_References_to_the_Most_High.md)
+ * [70.83333333333333 llama Imam](../answers/llama_Imam/Biblical_References_to_the_Most_High.md)
+ * [72.5 mistral Imam](../answers/mistral_Imam/Biblical_References_to_the_Most_High.md)
  * [77.5 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Biblical_References_to_the_Most_High.md)
- * [81.0 llama Imam](../answers/llama_Imam/Biblical_References_to_the_Most_High.md)
  * [81.66666666666667 llama atheist](../answers/llama_atheist/Biblical_References_to_the_Most_High.md)
  * [83.33333333333333 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Biblical_References_to_the_Most_High.md)
  * [83.33333333333333 llama Politician](../answers/llama_Politician/Biblical_References_to_the_Most_High.md)
  * [84.16666666666667 gemma Bible Translator](../answers/gemma_Bible_Translator/Biblical_References_to_the_Most_High.md)
- * [86.4 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Biblical_References_to_the_Most_High.md)
+ * [84.5 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Biblical_References_to_the_Most_High.md)
  * [86.83333333333333 gemma atheist](../answers/gemma_atheist/Biblical_References_to_the_Most_High.md)
  * [88.16666666666667 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Biblical_References_to_the_Most_High.md)
+ * [88.33333333333333 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Biblical_References_to_the_Most_High.md)
+ * [89.16666666666667 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Biblical_References_to_the_Most_High.md)
+ * [90.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Biblical_References_to_the_Most_High.md)
+ * [90.0 mistral Politician](../answers/mistral_Politician/Biblical_References_to_the_Most_High.md)
  * [90.83333333333333 llama Bible Translator](../answers/llama_Bible_Translator/Biblical_References_to_the_Most_High.md)
- * [91.0 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Biblical_References_to_the_Most_High.md)
- * [91.0 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Biblical_References_to_the_Most_High.md)
- * [92.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Biblical_References_to_the_Most_High.md)
- * [92.0 mistral atheist](../answers/mistral_atheist/Biblical_References_to_the_Most_High.md)
- * [92.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Biblical_References_to_the_Most_High.md)
- * [92.0 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Biblical_References_to_the_Most_High.md)
- * [94.0 mistral Politician](../answers/mistral_Politician/Biblical_References_to_the_Most_High.md)
+ * [90.83333333333333 mistral atheist](../answers/mistral_atheist/Biblical_References_to_the_Most_High.md)
+ * [90.83333333333333 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Biblical_References_to_the_Most_High.md)
+ * [90.83333333333333 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Biblical_References_to_the_Most_High.md)

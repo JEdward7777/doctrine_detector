@@ -17,7 +17,7 @@ Being aware of eschatological figures helps Christians prepare for the challenge
 In Christian tradition, as you mentioned, the ultimate antichrist is often identified as a figure who will deceive humanity before the Second Coming of Christ. However, this concept doesn't align exactly with the Islamic belief about the Dajjal. It's essential to respect and understand different religious beliefs while maintaining our own faith.
 
 ## Average Grade
-82.0
+75.0
 
 ## Grades
  * [85.0](./Ultimate_Antichrist_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -25,3 +25,4 @@ In Christian tradition, as you mentioned, the ultimate antichrist is often ident
  * [80.0](./Ultimate_Antichrist_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Ultimate_Antichrist_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Ultimate_Antichrist_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Ultimate_Antichrist_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

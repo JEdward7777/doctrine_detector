@@ -15,7 +15,7 @@ Understanding the significance of begetting in relation to God's creation and fa
 In a Biblical context, the term 'beget' generally implies the act of generating or producing offspring. It is often used in genealogies to denote fatherhood and lineage, as seen in many passages throughout both the Old and New Testaments. The term emphasizes the biological and familial connections among individuals, reflecting the importance of heritage and ancestry in Biblical narratives. Additionally, in a broader spiritual context, it can also refer to the idea of producing or bringing forth in a more metaphorical sense, such as the begetting of faith or spiritual teachings.
 
 ## Average Grade
-90.0
+88.33333333333333
 
 ## Grades
  * [90.0](./Definition_of_Begetting_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ In a Biblical context, the term 'beget' generally implies the act of generating 
  * [90.0](./Definition_of_Begetting_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Definition_of_Begetting_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Definition_of_Begetting_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Definition_of_Begetting_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

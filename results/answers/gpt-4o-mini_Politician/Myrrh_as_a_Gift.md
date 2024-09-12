@@ -23,7 +23,7 @@ The gift of myrrh, presented to Jesus by the Magi, carries significant symbolic 
 Overall, the inclusion of myrrh among the gifts, alongside gold and frankincense, offers a profound insight into the multifaceted nature of Jesus' identity: as king, divine being, and suffering servant. This depth of meaning enriches the narrative of his birth and the significance of his life and teachings.
 
 ## Average Grade
-90.0
+88.33333333333333
 
 ## Grades
  * [90.0](./Myrrh_as_a_Gift_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ Overall, the inclusion of myrrh among the gifts, alongside gold and frankincense
  * [90.0](./Myrrh_as_a_Gift_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Myrrh_as_a_Gift_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Myrrh_as_a_Gift_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Myrrh_as_a_Gift_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

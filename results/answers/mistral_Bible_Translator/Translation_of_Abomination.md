@@ -26,7 +26,7 @@ When translating this term into modern languages, it is essential to preserve it
 In each case, it is important to ensure that the chosen translation accurately reflects the original meaning of the term while also being accessible and understandable to modern readers.
 
 ## Average Grade
-90.0
+88.33333333333333
 
 ## Grades
  * [95.0](./Translation_of_Abomination_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,3 +34,4 @@ In each case, it is important to ensure that the chosen translation accurately r
  * [90.0](./Translation_of_Abomination_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Translation_of_Abomination_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Translation_of_Abomination_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Translation_of_Abomination_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

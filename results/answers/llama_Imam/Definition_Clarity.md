@@ -23,7 +23,7 @@ The Christian understanding of adultery is often tied to the concept of marriage
 In summary, in the Christian context, adultery refers to any sexual activity outside of a valid marriage between two consenting adults, or any form of non-consensual sexual contact. It is considered a grave sin that goes against God's will and is punishable by law (Old Testament) and eternal damnation (New Testament).
 
 ## Average Grade
-88.0
+85.0
 
 ## Grades
  * [95.0](./Definition_Clarity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ In summary, in the Christian context, adultery refers to any sexual activity out
  * [90.0](./Definition_Clarity_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Definition_Clarity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Definition_Clarity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Definition_Clarity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

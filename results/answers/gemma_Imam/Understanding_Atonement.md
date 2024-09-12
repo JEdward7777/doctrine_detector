@@ -30,7 +30,7 @@ In Islam, salvation and redemption are believed to be through faith in Allah and
 **Therefore, the concept of Christ's death as the permanent atonement for sin is not recognized in Islamic theology.**
 
 ## Average Grade
-49.0
+49.166666666666664
 
 ## Grades
  * [20.0](./Understanding_Atonement_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,3 +38,4 @@ In Islam, salvation and redemption are believed to be through faith in Allah and
  * [50.0](./Understanding_Atonement_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Understanding_Atonement_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Understanding_Atonement_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Understanding_Atonement_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -19,7 +19,7 @@ Myrrh, a resin originating from certain tree species, has been valued for thousa
 In addition, it is important to note that the specific gifts given by the Magi reflect their cultural backgrounds, with myrrh representing the East (where myrrh was native). By recognizing and acknowledging the significance of myrrh in this context, we can appreciate the rich tapestry of cultural traditions that continue to enrich our collective human experience.
 
 ## Average Grade
-85.0
+82.5
 
 ## Grades
  * [90.0](./Myrrh_as_a_Gift_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ In addition, it is important to note that the specific gifts given by the Magi r
  * [85.0](./Myrrh_as_a_Gift_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Myrrh_as_a_Gift_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Myrrh_as_a_Gift_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Myrrh_as_a_Gift_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

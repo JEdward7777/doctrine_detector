@@ -33,7 +33,7 @@ The implications of spiritual gifts in a Christian context can be summarized as 
 For Muslims, the concept of gifts and abilities can be interpreted through the lens of talents and skills that Allah has bestowed upon individuals. The Qur'an and Hadith emphasize the importance of using one's abilities for the benefit of the community and pleasing Allah. The idea of using one's talents in service is central to both faiths, highlighting a common ground in the pursuit of altruism and community support.
 
 ## Average Grade
-88.0
+88.33333333333333
 
 ## Grades
  * [85.0](./Spiritual_Gifts_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -41,3 +41,4 @@ For Muslims, the concept of gifts and abilities can be interpreted through the l
  * [90.0](./Spiritual_Gifts_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Spiritual_Gifts_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Spiritual_Gifts_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Spiritual_Gifts_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

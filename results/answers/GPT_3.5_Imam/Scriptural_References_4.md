@@ -21,7 +21,7 @@ Hebrews 12:14-17 references the story of Esau, who despised his birthright, as a
 Overall, these references deepen our understanding of the significance of birthright in Biblical teachings by highlighting themes such as responsibility, obedience, righteousness, and the consequences of our choices. The birthright serves as a symbol of God's covenant blessings and requires faithful stewardship and adherence to His commands.
 
 ## Average Grade
-91.0
+90.83333333333333
 
 ## Grades
  * [90.0](./Scriptural_References_4_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Overall, these references deepen our understanding of the significance of birthr
  * [95.0](./Scriptural_References_4_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Scriptural_References_4_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Scriptural_References_4_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Scriptural_References_4_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

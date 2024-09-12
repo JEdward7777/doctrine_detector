@@ -23,7 +23,7 @@ From this verse, we can learn that Jesus was a prophet who spread love, compassi
 In conclusion, both Islamic and Christian teachings encourage us to love others sacrificially, but they may express this concept differently within their respective frameworks. As Muslims, we should strive to embody the loving attributes of God Almighty, which include mercy, compassion, and kindness towards all of humanity.
 
 ## Average Grade
-81.0
+74.16666666666667
 
 ## Grades
  * [70.0](./Sacrificial_Love_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ In conclusion, both Islamic and Christian teachings encourage us to love others 
  * [75.0](./Sacrificial_Love_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Sacrificial_Love_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Sacrificial_Love_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Sacrificial_Love_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -29,7 +29,7 @@ In the context of the Bible, testimony holds great significance, particularly in
 In summary, testimony in the Bible serves as an affirmation of faith, a means of establishing truth, a reflection of God’s character, an encouragement to others, a call to obedience, and an aspect of ultimate judgment. Together, these elements emphasize the importance of living out and sharing God’s commandments within the community of faith.
 
 ## Average Grade
-92.4
+91.16666666666667
 
 ## Grades
  * [90.0](./Testimony_Meaning_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ In summary, testimony in the Bible serves as an affirmation of faith, a means of
  * [90.0](./Testimony_Meaning_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Testimony_Meaning_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Testimony_Meaning_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Testimony_Meaning_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

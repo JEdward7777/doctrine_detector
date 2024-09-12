@@ -25,7 +25,7 @@ It's essential to note that Islam views the Children of Israel as having receive
 In this context, the term "Daughter of Zion" serves as a reminder of the historical connection between Islam and Judaism/Christianity, highlighting the shared spiritual values and the Abrahamic covenant that underlies these three major faith traditions.
 
 ## Average Grade
-73.0
+64.16666666666667
 
 ## Grades
  * [75.0](./Understanding_Zion_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ In this context, the term "Daughter of Zion" serves as a reminder of the histori
  * [80.0](./Understanding_Zion_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Understanding_Zion_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Understanding_Zion_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./Understanding_Zion_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

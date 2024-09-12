@@ -27,7 +27,7 @@ Understanding the biblical concept of wisdom is crucial for making decisions tha
 These qualities reflect the biblical understanding of wisdom, which can provide guidance for individuals seeking to live a life grounded in wisdom according to this tradition. It is important to note that different religious traditions may have slightly varying interpretations and understandings of wisdom.
 
 ## Average Grade
-91.0
+90.83333333333333
 
 ## Grades
  * [90.0](./Definition_of_Wisdom_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ These qualities reflect the biblical understanding of wisdom, which can provide 
  * [95.0](./Definition_of_Wisdom_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Definition_of_Wisdom_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Definition_of_Wisdom_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Definition_of_Wisdom_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -21,7 +21,7 @@ Praising God, on the other hand, emphasizes the act of recognizing and celebrati
 Together, blessing and praising cultivate a spirit of gratitude and humility. Individuals who actively engage in these practices often find a deeper connection to their faith community and a greater appreciation for the blessings they receive. Ultimately, both acts serve to foster a sense of unity and awareness of the divine presence in everyday life, encouraging individuals to live with intention and compassion.
 
 ## Average Grade
-85.0
+82.5
 
 ## Grades
  * [85.0](./The_Role_of_Blessing_in_Worship_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Together, blessing and praising cultivate a spirit of gratitude and humility. In
  * [90.0](./The_Role_of_Blessing_in_Worship_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./The_Role_of_Blessing_in_Worship_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./The_Role_of_Blessing_in_Worship_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./The_Role_of_Blessing_in_Worship_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

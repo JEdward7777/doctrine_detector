@@ -27,7 +27,7 @@ Studying these passages can help Christians remain vigilant against foolishness 
 These examples are meant to provide guidance on how to navigate relationships, seek knowledge, and exercise wisdom when interacting with others. In Islam, similar principles can be found in the Quran and Hadiths.
 
 ## Average Grade
-89.0
+77.5
 
 ## Grades
  * [95.0](./Scriptural_References_6_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ These examples are meant to provide guidance on how to navigate relationships, s
  * [90.0](./Scriptural_References_6_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Scriptural_References_6_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Scriptural_References_6_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./Scriptural_References_6_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

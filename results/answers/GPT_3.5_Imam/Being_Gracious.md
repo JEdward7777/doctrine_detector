@@ -19,7 +19,7 @@ In our interactions with others, being gracious means treating them with respect
 As Muslims, we are encouraged to be gracious in our interactions with others, following the example of the Prophet Muhammad (peace be upon him) who exemplified the highest degree of grace and kindness in his interactions with people. By embodying the qualities of being gracious, we can foster harmonious relationships, promote unity within our communities, and earn the blessings and favor of Allah.
 
 ## Average Grade
-84.0
+81.66666666666667
 
 ## Grades
  * [90.0](./Being_Gracious_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ As Muslims, we are encouraged to be gracious in our interactions with others, fo
  * [85.0](./Being_Gracious_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Being_Gracious_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Being_Gracious_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Being_Gracious_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

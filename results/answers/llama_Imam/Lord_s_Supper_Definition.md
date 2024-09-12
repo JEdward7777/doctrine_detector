@@ -23,7 +23,7 @@ In Islam, we do not have a specific event or ritual that is equivalent to the Lo
 May Allah guide us on our spiritual journeys.
 
 ## Average Grade
-59.0
+62.5
 
 ## Grades
  * [60.0](./Lord_s_Supper_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ May Allah guide us on our spiritual journeys.
  * [60.0](./Lord_s_Supper_Definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [20.0](./Lord_s_Supper_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Lord_s_Supper_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Lord_s_Supper_Definition_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

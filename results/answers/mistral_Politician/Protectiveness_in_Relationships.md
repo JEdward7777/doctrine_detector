@@ -21,7 +21,7 @@ In a Christian context, the protective desire is also closely tied to the concep
 Ultimately, a strong protective desire in a Christian relationship looks like an unwavering commitment to loving and supporting one another through both good times and bad, while always striving for growth, understanding, and mutual respect.
 
 ## Average Grade
-91.0
+90.0
 
 ## Grades
  * [95.0](./Protectiveness_in_Relationships_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Ultimately, a strong protective desire in a Christian relationship looks like an
  * [90.0](./Protectiveness_in_Relationships_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Protectiveness_in_Relationships_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Protectiveness_in_Relationships_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Protectiveness_in_Relationships_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

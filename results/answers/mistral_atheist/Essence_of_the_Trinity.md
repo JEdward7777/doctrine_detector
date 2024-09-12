@@ -27,7 +27,7 @@ The relationships between these three persons are complex and have been subjects
 In summary, in Christian theology, God is understood as one being (essence or substance) existing in three persons: God the Father, God the Son, and God the Holy Spirit. These persons are distinct yet united, eternal, and coeternal. Understanding their essence, however, requires delving into the rich history of Christian theology and engaging with theological debates that have evolved over centuries.
 
 ## Average Grade
-91.0
+90.83333333333333
 
 ## Grades
  * [90.0](./Essence_of_the_Trinity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In summary, in Christian theology, God is understood as one being (essence or su
  * [95.0](./Essence_of_the_Trinity_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Essence_of_the_Trinity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Essence_of_the_Trinity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Essence_of_the_Trinity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

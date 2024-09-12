@@ -21,7 +21,7 @@ From an Islamic perspective, Muslims believe that this verse highlights the conc
 It's essential to recognize that Christianity and Islam share fundamental beliefs in the oneness of God (Tawhid) and the importance of good works, faith, and submission to God's will. However, interpretations of specific passages may differ between various Christian denominations and Muslim sects. This interpretation should be considered as one possible understanding within a broader context of interfaith dialogue.
 
 ## Average Grade
-69.0
+64.16666666666667
 
 ## Grades
  * [75.0](./The_Role_of_Believers_in_Glory_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ It's essential to recognize that Christianity and Islam share fundamental belief
  * [50.0](./The_Role_of_Believers_in_Glory_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [60.0](./The_Role_of_Believers_in_Glory_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./The_Role_of_Believers_in_Glory_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./The_Role_of_Believers_in_Glory_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

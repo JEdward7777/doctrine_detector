@@ -30,7 +30,7 @@ This restriction was important for several reasons:
 In summary, only a select few were permitted to enter the Holy of Holies due to their exceptional spiritual status, as it was a sacred place that required reverence, preparation, and respect for divine laws.
 
 ## Average Grade
-84.0
+71.66666666666667
 
 ## Grades
  * [85.0](./Access_to_the_Most_Holy_Place_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,3 +38,4 @@ In summary, only a select few were permitted to enter the Holy of Holies due to 
  * [70.0](./Access_to_the_Most_Holy_Place_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Access_to_the_Most_Holy_Place_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Access_to_the_Most_Holy_Place_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [10.0](./Access_to_the_Most_Holy_Place_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

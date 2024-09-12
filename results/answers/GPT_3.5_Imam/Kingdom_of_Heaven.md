@@ -21,7 +21,7 @@ Furthermore, the term "heaven" in the expression "kingdom of heaven" highlights 
 Overall, retaining the term "heaven" in the phrase "kingdom of heaven" in the book of Matthew serves to emphasize the spiritual, transcendent, and eschatological dimensions of God's sovereign rule and His ultimate plan for redemption and restoration.
 
 ## Average Grade
-93.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Kingdom_of_Heaven_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Overall, retaining the term "heaven" in the phrase "kingdom of heaven" in the bo
  * [95.0](./Kingdom_of_Heaven_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Kingdom_of_Heaven_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Kingdom_of_Heaven_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Kingdom_of_Heaven_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

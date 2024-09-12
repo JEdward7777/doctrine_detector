@@ -29,7 +29,7 @@ Understanding the dynamics of God's promises and expectations in covenants.
 In both conditional and unconditional covenants, understanding the cultural context and historical background is crucial for a nuanced interpretation. These covenants have shaped the religious, social, and political landscape of Western civilization throughout history.
 
 ## Average Grade
-88.0
+88.33333333333333
 
 ## Grades
  * [95.0](./Covenant_Conditions_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ In both conditional and unconditional covenants, understanding the cultural cont
  * [95.0](./Covenant_Conditions_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Covenant_Conditions_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Covenant_Conditions_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Covenant_Conditions_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

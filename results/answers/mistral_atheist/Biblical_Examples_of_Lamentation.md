@@ -25,7 +25,7 @@ Understanding how to biblically lament can support personal growth and a deeper 
 By examining these examples of biblical figures who expressed lament, we can learn the importance of acknowledging our emotions, maintaining faith in God during challenging times, seeking strength in God's steadfast love, and remembering that He is sovereign over every situation.
 
 ## Average Grade
-95.0
+94.16666666666667
 
 ## Grades
  * [95.0](./Biblical_Examples_of_Lamentation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ By examining these examples of biblical figures who expressed lament, we can lea
  * [95.0](./Biblical_Examples_of_Lamentation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Biblical_Examples_of_Lamentation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Biblical_Examples_of_Lamentation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Biblical_Examples_of_Lamentation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

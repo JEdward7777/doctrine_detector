@@ -21,7 +21,7 @@ Psalms 34:22 reinforces this notion with the assurance that "The Lord redeems th
 Collectively, these passages advocate for a justice system grounded in mercy and understanding rather than punitive measures. They encourage us to foster environments where individuals can learn and grow from their mistakes rather than feeling permanently condemned. By adopting these teachings, we can promote a more compassionate and humane approach to justice that recognizes the inherent dignity of all individuals.
 
 ## Average Grade
-91.0
+90.0
 
 ## Grades
  * [90.0](./Condemnation_and_Punishment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Collectively, these passages advocate for a justice system grounded in mercy and
  * [90.0](./Condemnation_and_Punishment_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Condemnation_and_Punishment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Condemnation_and_Punishment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Condemnation_and_Punishment_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

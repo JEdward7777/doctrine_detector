@@ -27,7 +27,7 @@ The Trinity can be understood through several key principles:
 The Trinity can be difficult to grasp for those who expect a logical, linear explanation, but it is central to Christian beliefs about the nature of God. The mystery of the Trinity encourages faith and humility, recognizing that our understanding is limited compared to the infinite complexity of God.
 
 ## Average Grade
-94.0
+94.16666666666667
 
 ## Grades
  * [95.0](./Understanding_the_Trinity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ The Trinity can be difficult to grasp for those who expect a logical, linear exp
  * [90.0](./Understanding_the_Trinity_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_the_Trinity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Understanding_the_Trinity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [95.0](./Understanding_the_Trinity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

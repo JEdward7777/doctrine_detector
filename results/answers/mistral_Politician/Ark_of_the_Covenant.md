@@ -21,7 +21,7 @@ The Ark played a significant role in the history, worship, and identity of the a
 The story of the Ark's creation, transportation, and eventual disappearance is integral to understanding certain aspects of Jewish history and religious practices. However, interpretations and beliefs regarding the Ark may vary widely within different religious communities, making it a sensitive topic in some contexts.
 
 ## Average Grade
-73.0
+72.5
 
 ## Grades
  * [70.0](./Ark_of_the_Covenant_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ The story of the Ark's creation, transportation, and eventual disappearance is i
  * [70.0](./Ark_of_the_Covenant_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Ark_of_the_Covenant_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Ark_of_the_Covenant_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Ark_of_the_Covenant_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

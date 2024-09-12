@@ -21,7 +21,7 @@ It is important for Muslims to reflect on their actions, seek forgiveness for th
 In summary, iniquity in Islam is seen as a serious offense that should be avoided through seeking forgiveness, repentance, and striving to lead a life in accordance with the teachings of Islam.
 
 ## Average Grade
-68.0
+60.0
 
 ## Grades
  * [60.0](./Scriptural_References_3_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In summary, iniquity in Islam is seen as a serious offense that should be avoide
  * [70.0](./Scriptural_References_3_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Scriptural_References_3_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Scriptural_References_3_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./Scriptural_References_3_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

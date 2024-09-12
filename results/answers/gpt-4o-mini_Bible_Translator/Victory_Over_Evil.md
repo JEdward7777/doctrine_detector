@@ -19,7 +19,7 @@ Additionally, the promise of Satan's defeat can be seen as far back as Genesis 3
 These scriptures collectively affirm the Christian promise that Satan's reign will come to an end, and God will ultimately establish His kingdom in which righteousness prevails. This assurance gives hope to believers regarding the ultimate triumph of good over evil.
 
 ## Average Grade
-94.0
+93.33333333333333
 
 ## Grades
  * [95.0](./Victory_Over_Evil_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ These scriptures collectively affirm the Christian promise that Satan's reign wi
  * [95.0](./Victory_Over_Evil_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Victory_Over_Evil_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Victory_Over_Evil_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Victory_Over_Evil_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

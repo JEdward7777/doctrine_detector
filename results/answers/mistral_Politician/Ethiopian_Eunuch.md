@@ -21,7 +21,7 @@ This encounter highlights the early church's openness and willingness to share t
 As a politician, I would encourage using this story as an inspiration for promoting unity, diversity, and inclusiveness in our modern communities, emphasizing the importance of fostering open dialogue, understanding, and acceptance among people from various backgrounds.
 
 ## Average Grade
-92.0
+88.33333333333333
 
 ## Grades
  * [95.0](./Ethiopian_Eunuch_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ As a politician, I would encourage using this story as an inspiration for promot
  * [90.0](./Ethiopian_Eunuch_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Ethiopian_Eunuch_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Ethiopian_Eunuch_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Ethiopian_Eunuch_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

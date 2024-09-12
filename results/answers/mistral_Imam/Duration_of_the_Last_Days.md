@@ -21,7 +21,7 @@ However, many scholars interpret certain events mentioned in Hadith (the traditi
 In essence, Muslims are reminded to be prepared spiritually for the Day of Judgment at all times rather than focusing on attempts to predict specific timelines or events. As the Prophet Muhammad (peace be upon him) said, "The Hour will not be established until the son of Mary descends among you as a just judge." (Sahih Muslim 2967).
 
 ## Average Grade
-72.0
+63.333333333333336
 
 ## Grades
  * [75.0](./Duration_of_the_Last_Days_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In essence, Muslims are reminded to be prepared spiritually for the Day of Judgm
  * [70.0](./Duration_of_the_Last_Days_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [60.0](./Duration_of_the_Last_Days_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Duration_of_the_Last_Days_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./Duration_of_the_Last_Days_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

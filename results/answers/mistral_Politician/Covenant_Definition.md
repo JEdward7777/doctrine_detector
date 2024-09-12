@@ -20,7 +20,7 @@ Understanding the nature of covenants in biblical contexts.
 As a politician, it is essential to be aware of the cultural and religious backgrounds of various constituents, including those with biblical interpretations. Understanding terms like covenant can help facilitate better communication and foster mutual understanding among diverse groups.
 
 ## Average Grade
-89.0
+88.33333333333333
 
 ## Grades
  * [90.0](./Covenant_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,3 +28,4 @@ As a politician, it is essential to be aware of the cultural and religious backg
  * [95.0](./Covenant_Definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Covenant_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Covenant_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Covenant_Definition_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

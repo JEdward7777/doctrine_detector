@@ -28,7 +28,7 @@ In Islamic tradition, the concept of khilafah (caliphate) is central to understa
 While there are certainly parallels between the biblical and Islamic perspectives on governance, it's essential to recognize that each faith has its unique teachings and traditions. As Muslims, we must strive to understand and respect the divine mandates outlined in the Quran and Sunnah, as well as engage in constructive dialogue with people of other faiths.
 
 ## Average Grade
-85.0
+82.5
 
 ## Grades
  * [85.0](./Authority_in_Governance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,3 +36,4 @@ While there are certainly parallels between the biblical and Islamic perspective
  * [85.0](./Authority_in_Governance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Authority_in_Governance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Authority_in_Governance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Authority_in_Governance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

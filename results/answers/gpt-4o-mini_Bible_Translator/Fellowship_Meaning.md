@@ -19,7 +19,7 @@ The Greek word often translated as "fellowship" in the New Testament is "koinoni
 Fellowship is seen as an essential aspect of the Christian life, reflecting the unity of believers as members of the Body of Christ. It encourages growth in faith, accountability, and the fulfillment of Jesus' command to love one another. Passages such as Acts 2:42-47, 1 Corinthians 1:9, and Hebrews 10:24-25 illustrate the importance of fellowship in the life of the Christian community.
 
 ## Average Grade
-93.0
+92.5
 
 ## Grades
  * [95.0](./Fellowship_Meaning_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Fellowship is seen as an essential aspect of the Christian life, reflecting the 
  * [95.0](./Fellowship_Meaning_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Fellowship_Meaning_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Fellowship_Meaning_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Fellowship_Meaning_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

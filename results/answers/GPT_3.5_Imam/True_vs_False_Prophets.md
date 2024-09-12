@@ -29,7 +29,7 @@ In Islam, there are certain criteria that can help us distinguish between a true
 Ultimately, it is essential to turn to Allah for guidance and to pray for clarity and discernment in recognizing the truth. May Allah protect us from false prophets and guide us on the straight path.
 
 ## Average Grade
-88.0
+85.0
 
 ## Grades
  * [90.0](./True_vs_False_Prophets_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ Ultimately, it is essential to turn to Allah for guidance and to pray for clarit
  * [85.0](./True_vs_False_Prophets_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./True_vs_False_Prophets_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./True_vs_False_Prophets_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./True_vs_False_Prophets_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

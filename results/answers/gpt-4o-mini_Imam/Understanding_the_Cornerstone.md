@@ -23,7 +23,7 @@ It is important to appreciate that, according to Islamic belief, Jesus will retu
 In summary, in the context of the Assembly of believers, we view Jesus as a revered prophet, with an essential role in God's plan, while our foundational beliefs rest primarily on the message of the Prophet Muhammad and the teachings of the Quran.
 
 ## Average Grade
-53.0
+52.5
 
 ## Grades
  * [75.0](./Understanding_the_Cornerstone_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ In summary, in the context of the Assembly of believers, we view Jesus as a reve
  * [60.0](./Understanding_the_Cornerstone_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [30.0](./Understanding_the_Cornerstone_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Understanding_the_Cornerstone_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Understanding_the_Cornerstone_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

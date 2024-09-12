@@ -15,7 +15,7 @@ Understanding the Christian obligation to be forgiving and kind.
 The term "gracious" is defined as being courteous, kind, and showing goodwill towards others. It implies a sense of warmth and understanding in our interactions, emphasizing the importance of empathy, respect, and compassion. When we are gracious, we create an environment that encourages open communication and fosters positive relationships, allowing individuals to feel valued and acknowledged. This term highlights the significance of treating others with dignity and recognizing their worth, which is essential for building inclusive and harmonious communities. Ultimately, graciousness promotes a culture of acceptance and support, enabling us to navigate our differences with grace and respect.
 
 ## Average Grade
-84.0
+83.33333333333333
 
 ## Grades
  * [85.0](./Being_Gracious_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ The term "gracious" is defined as being courteous, kind, and showing goodwill to
  * [90.0](./Being_Gracious_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Being_Gracious_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Being_Gracious_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Being_Gracious_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

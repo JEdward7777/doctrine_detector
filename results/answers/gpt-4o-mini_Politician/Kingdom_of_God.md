@@ -15,7 +15,7 @@ Rephrasing could lose the depth and biblical context of the term 'Kingdom of God
 Yes, it can be advisable to consider contextualizing the phrase "Kingdom of God" when translating for cultures that may not have a concept of kingdoms. It's important to respect the cultural nuances and linguistic traditions of the target audience. Exploring alternative phrases that convey the essence of the idea—such as "reign of God," "divine realm," or "God’s sovereignty"—might resonate better and ensure that the intended message is communicated effectively without losing its spiritual significance. Engaging with local leaders and scholars can also provide valuable insights into how best to approach this translation while maintaining respect for both the source material and the cultural context.
 
 ## Average Grade
-78.0
+75.0
 
 ## Grades
  * [70.0](./Kingdom_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ Yes, it can be advisable to consider contextualizing the phrase "Kingdom of God"
  * [85.0](./Kingdom_of_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Kingdom_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Kingdom_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Kingdom_of_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

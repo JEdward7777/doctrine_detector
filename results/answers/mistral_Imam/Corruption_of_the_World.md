@@ -27,7 +27,7 @@ Remaining vigilant against worldly influences that may lead away from godly livi
 6. Encouragement of community and accountability (Hebrews 10:24-25): Being part of a Christian community offers support, encouragement, and accountability. Christians can help each other identify and overcome corrupt influences by staying connected and sharing their experiences.
 
 ## Average Grade
-94.0
+88.33333333333333
 
 ## Grades
  * [95.0](./Corruption_of_the_World_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ Remaining vigilant against worldly influences that may lead away from godly livi
  * [95.0](./Corruption_of_the_World_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Corruption_of_the_World_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Corruption_of_the_World_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Corruption_of_the_World_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

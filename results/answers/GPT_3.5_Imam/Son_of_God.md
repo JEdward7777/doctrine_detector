@@ -21,7 +21,7 @@ On the other hand, the term "sons of God" when used for believers in Islamic bel
 It is important to note that the Islamic perspective emphasizes the oneness of God (Tawhid) and rejects the concept of a literal biological offspring or progeny of God. Muslims believe that God does not beget nor is He begotten, and there is nothing comparable to Him.
 
 ## Average Grade
-87.0
+79.16666666666667
 
 ## Grades
  * [85.0](./Son_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ It is important to note that the Islamic perspective emphasizes the oneness of G
  * [90.0](./Son_of_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Son_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Son_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Son_of_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

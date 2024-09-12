@@ -39,7 +39,7 @@ The actions of the Sadducees and Pharisees in the crucifixion of Jesus reveal se
 In summary, the actions of the Sadducees and Pharisees leading to the crucifixion of Jesus illustrate a protective stance over their power, a hypocrisy in their religious observances, and a profound fear of change that ultimately contributed to their rejection of Jesus and His transformative message.
 
 ## Average Grade
-85.0
+85.83333333333333
 
 ## Grades
  * [85.0](./Influence_on_Jesus__Crucifixion_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -47,3 +47,4 @@ In summary, the actions of the Sadducees and Pharisees leading to the crucifixio
  * [85.0](./Influence_on_Jesus__Crucifixion_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Influence_on_Jesus__Crucifixion_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Influence_on_Jesus__Crucifixion_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Influence_on_Jesus__Crucifixion_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

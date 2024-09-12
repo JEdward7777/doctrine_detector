@@ -27,7 +27,7 @@ The distinction between praying to the one true God and talking to a false god l
 In summary, while both prayer and talking to a false god may involve verbal communication, their foundations, intentions, and outcomes are fundamentally different according to Christian theology. Prayer is seen as a sacred act grounded in the truth of God's nature and character, while conversations with false gods reflect misguided beliefs that lack true substance and dependability.
 
 ## Average Grade
-95.0
+94.16666666666667
 
 ## Grades
  * [95.0](./The_Nature_of_Prayer_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In summary, while both prayer and talking to a false god may involve verbal comm
  * [95.0](./The_Nature_of_Prayer_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./The_Nature_of_Prayer_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./The_Nature_of_Prayer_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./The_Nature_of_Prayer_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

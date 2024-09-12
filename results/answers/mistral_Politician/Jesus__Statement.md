@@ -15,7 +15,7 @@ Clarifying Jesus' identity and role in resurrection is important for faith and t
  As a non-biased and inclusive platform, it's essential to provide an accurate yet sensitive interpretation of religious texts. In the quote "I am the Resurrection and the Life," found in John 11:25, Jesus is making a profound statement about his role in spiritual life and salvation. This phrase suggests that Jesus represents the source of eternal life, and through faith in him, believers may experience spiritual resurrection or transformation. It's essential to remember that individual beliefs and interpretations can vary widely among different religious groups, so it is crucial to approach such topics with sensitivity and understanding.
 
 ## Average Grade
-84.0
+78.33333333333333
 
 ## Grades
  * [85.0](./Jesus__Statement_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ Clarifying Jesus' identity and role in resurrection is important for faith and t
  * [90.0](./Jesus__Statement_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Jesus__Statement_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Jesus__Statement_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Jesus__Statement_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -31,7 +31,7 @@ In Islam, the Quran confirms this concept of resurrection and provides further d
 These verses emphasize the idea that God has the power to raise the dead and bring about a new creation, which is a concept shared with many believers in the Bible.
 
 ## Average Grade
-78.0
+75.0
 
 ## Grades
  * [80.0](./Biblical_References_6_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,3 +39,4 @@ These verses emphasize the idea that God has the power to raise the dead and bri
  * [70.0](./Biblical_References_6_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [75.0](./Biblical_References_6_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_References_6_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Biblical_References_6_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

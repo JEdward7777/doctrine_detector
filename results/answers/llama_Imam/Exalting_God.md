@@ -35,7 +35,7 @@ In practical terms, exalting God can manifest in various ways:
 Remember, my dear brother or sister, exalting God is not just about words; it's about living a life that reflects His glory. May Allah guide us to prioritize His remembrance and glorification in every moment of our lives. Ameen!
 
 ## Average Grade
-90.0
+87.5
 
 ## Grades
  * [95.0](./Exalting_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -43,3 +43,4 @@ Remember, my dear brother or sister, exalting God is not just about words; it's 
  * [90.0](./Exalting_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Exalting_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Exalting_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Exalting_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

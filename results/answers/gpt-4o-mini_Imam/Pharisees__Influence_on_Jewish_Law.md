@@ -27,7 +27,7 @@ The Pharisees were a Jewish sect during the time of Jesus that emphasized strict
 In summary, the Pharisees' strict adherence to the Laws of Moses created a framework of conflict and misunderstanding with Jesus and the early Christians. This dynamic shaped the theological discussions and controversies within the early Church, leading to the development of Christian identity distinct from Judaism.
 
 ## Average Grade
-89.0
+88.33333333333333
 
 ## Grades
  * [90.0](./Pharisees__Influence_on_Jewish_Law_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In summary, the Pharisees' strict adherence to the Laws of Moses created a frame
  * [90.0](./Pharisees__Influence_on_Jewish_Law_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Pharisees__Influence_on_Jewish_Law_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Pharisees__Influence_on_Jewish_Law_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Pharisees__Influence_on_Jewish_Law_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -21,7 +21,7 @@ In addition, the New Testament also uses the term "Holy One" to describe individ
 It is important to note that while Muslims believe in the same Abrahamic God as the Judeo-Christian tradition, our understanding of God's nature may differ due to the unique aspects of Islamic theology and practice. Nevertheless, recognizing shared roots and terminologies such as "Holy One" can facilitate a deeper understanding between our traditions and promote interfaith dialogue and cooperation.
 
 ## Average Grade
-83.0
+82.5
 
 ## Grades
  * [90.0](./Usage_in_Scripture_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ It is important to note that while Muslims believe in the same Abrahamic God as 
  * [90.0](./Usage_in_Scripture_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Usage_in_Scripture_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Usage_in_Scripture_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Usage_in_Scripture_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

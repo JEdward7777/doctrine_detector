@@ -19,7 +19,7 @@ Given this context, a possible updated and more accurate rendering for today's r
 Ultimately, it's essential to remember that any translation will involve some degree of interpretation, as words and phrases have evolved over time and may not directly translate in a way that fully conveys their original meaning. Therefore, it is crucial to provide context and explanatory notes when translating biblical texts for today's readers.
 
 ## Average Grade
-89.0
+88.33333333333333
 
 ## Grades
  * [90.0](./Translation_of_Worship_Spaces_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Ultimately, it's essential to remember that any translation will involve some de
  * [90.0](./Translation_of_Worship_Spaces_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Translation_of_Worship_Spaces_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Translation_of_Worship_Spaces_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Translation_of_Worship_Spaces_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

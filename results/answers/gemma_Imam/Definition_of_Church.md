@@ -27,7 +27,7 @@ Understanding of the church's role as more than just a building.
 * Muslims respect the Church as a religious institution and believe in the prophets and messengers of God, including Jesus Christ.
 
 ## Average Grade
-84.0
+81.66666666666667
 
 ## Grades
  * [90.0](./Definition_of_Church_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ Understanding of the church's role as more than just a building.
  * [90.0](./Definition_of_Church_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Definition_of_Church_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Definition_of_Church_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Definition_of_Church_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

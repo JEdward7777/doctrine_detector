@@ -23,7 +23,7 @@ It's important to note that forgiveness does not necessarily mean reconciling or
 As a politician who seeks to be politically correct, it would be beneficial to remember that promoting understanding, empathy, and forgiveness can help foster a more harmonious society where everyone feels valued and respected. Encouraging dialogue, empathy, and compassion in our interactions with others can create a positive impact on the community as well as contribute to a more peaceful world.
 
 ## Average Grade
-92.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Understanding_Forgiveness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ As a politician who seeks to be politically correct, it would be beneficial to r
  * [90.0](./Understanding_Forgiveness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_Forgiveness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Forgiveness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Understanding_Forgiveness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

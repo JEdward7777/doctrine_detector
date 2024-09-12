@@ -46,7 +46,7 @@ Recognizing the significance of Jesus' actions in synagogues as part of His mini
 **The relationship between Jesus and the synagogue was complex and multifaceted. While there were periods of cooperation and mutual understanding, there were also tensions and disagreements.**
 
 ## Average Grade
-87.0
+85.83333333333333
 
 ## Grades
  * [90.0](./Jesus_in_Synagogues_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -54,3 +54,4 @@ Recognizing the significance of Jesus' actions in synagogues as part of His mini
  * [95.0](./Jesus_in_Synagogues_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Jesus_in_Synagogues_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Jesus_in_Synagogues_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Jesus_in_Synagogues_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

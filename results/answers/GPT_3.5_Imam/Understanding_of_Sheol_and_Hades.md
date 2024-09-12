@@ -19,7 +19,7 @@ In Islamic belief, the righteous are promised paradise (Jannah) where they will 
 It is important for Muslims to strive to live a righteous life, following the teachings of Islam, to attain paradise in the afterlife. The concept of accountability, judgment, and the ultimate reward or punishment in the afterlife is a central tenet of Islamic belief.
 
 ## Average Grade
-83.0
+77.5
 
 ## Grades
  * [90.0](./Understanding_of_Sheol_and_Hades_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ It is important for Muslims to strive to live a righteous life, following the te
  * [85.0](./Understanding_of_Sheol_and_Hades_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Understanding_of_Sheol_and_Hades_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_of_Sheol_and_Hades_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Understanding_of_Sheol_and_Hades_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -21,7 +21,7 @@ The concept of majesty serves as a reminder of Allah's omnipotence and omniscien
 In summary, the term 'majesty' in relation to God's character signifies His power, transcendence, and absolute sovereignty over creation, inspiring reverence, awe, and humility among believers.
 
 ## Average Grade
-84.0
+78.33333333333333
 
 ## Grades
  * [90.0](./Understanding_Majesty_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In summary, the term 'majesty' in relation to God's character signifies His powe
  * [90.0](./Understanding_Majesty_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_Majesty_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Understanding_Majesty_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Understanding_Majesty_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

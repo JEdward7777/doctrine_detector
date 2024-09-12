@@ -21,7 +21,7 @@ Regarding believers being considered as children of God, Islam teaches that all 
 Overall, the verse you mentioned from Romans 8:23 may imply the anticipation and hope of believers for a closer relationship with God and the fulfillment of His promises. In Islam, believers are encouraged to have faith, patience, and perseverance in their worship and obedience to Allah, with the hope of attaining His pleasure and ultimately entering paradise in the hereafter.
 
 ## Average Grade
-72.0
+66.66666666666667
 
 ## Grades
  * [65.0](./Looking_Forward_to_Adoption_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Overall, the verse you mentioned from Romans 8:23 may imply the anticipation and
  * [60.0](./Looking_Forward_to_Adoption_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Looking_Forward_to_Adoption_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Looking_Forward_to_Adoption_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Looking_Forward_to_Adoption_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

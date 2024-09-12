@@ -19,7 +19,7 @@ In essence, a well-formed conscience is developed through a combination of divin
 While the conscience can provide guidance, it is important to note that it can also be influenced by personal biases, cultural norms, and incorrect interpretations of biblical teachings. Therefore, Christians are called to examine their consciences continually, being open to correction from God's Word, spiritual leaders, and other trusted believers in order to maintain a pure and discerning conscience that brings glory to God.
 
 ## Average Grade
-92.0
+90.83333333333333
 
 ## Grades
  * [90.0](./Conscience_Understanding_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ While the conscience can provide guidance, it is important to note that it can a
  * [95.0](./Conscience_Understanding_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Conscience_Understanding_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Conscience_Understanding_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Conscience_Understanding_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

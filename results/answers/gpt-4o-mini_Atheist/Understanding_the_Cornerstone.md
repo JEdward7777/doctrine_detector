@@ -27,7 +27,7 @@ In the context of the Assembly of believers, often referred to as the Church, Je
 In a culturally relevant context, the role of Jesus as the 'cornerstone' can be examined through the lens of community cohesion, moral guidance, and personal transformation. His life and message continue to inspire followers to engage in acts of service, activism, and social justice, embodying the principles of love and compassion in diverse societal contexts.
 
 ## Average Grade
-92.6
+90.5
 
 ## Grades
  * [95.0](./Understanding_the_Cornerstone_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In a culturally relevant context, the role of Jesus as the 'cornerstone' can be 
  * [96.0](./Understanding_the_Cornerstone_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_the_Cornerstone_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Understanding_the_Cornerstone_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Understanding_the_Cornerstone_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

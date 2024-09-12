@@ -21,7 +21,7 @@ In the Old Testament, Jeremiah 17:7-8 explains that blessed is the man who trust
 Thus, hope in the biblical sense is a firm assurance and confident expectation grounded in faith that God's promises, love, and grace are real, active, and trustworthy, bringing life, joy, and fruitfulness to those who place their hope in Him.
 
 ## Average Grade
-95.0
+92.5
 
 ## Grades
  * [95.0](./Biblical_Hope_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Thus, hope in the biblical sense is a firm assurance and confident expectation g
  * [95.0](./Biblical_Hope_Definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Biblical_Hope_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Biblical_Hope_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Biblical_Hope_Definition_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

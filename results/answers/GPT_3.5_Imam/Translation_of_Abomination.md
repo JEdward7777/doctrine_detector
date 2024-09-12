@@ -15,7 +15,7 @@ Accurate translation is crucial for understanding biblical texts and the severit
 In a biblical context, the term "abomination" is often used to refer to things that are considered morally or spiritually repugnant or detestable according to God's teachings. To effectively convey this meaning in translation, the term could be rendered as "something that is deeply offensive to God," "a vile act," or "a sin of utmost abhorrence." It is important to choose words that capture the seriousness and gravity associated with the concept of abomination in the Bible.
 
 ## Average Grade
-89.0
+88.33333333333333
 
 ## Grades
  * [90.0](./Translation_of_Abomination_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ In a biblical context, the term "abomination" is often used to refer to things t
  * [90.0](./Translation_of_Abomination_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Translation_of_Abomination_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Translation_of_Abomination_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Translation_of_Abomination_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

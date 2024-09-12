@@ -25,7 +25,7 @@ In Christianity, the concept of purification from sin often centers around the b
 In summary, for a Christian, experiencing purification from sin includes recognizing one's sinfulness, repenting, trusting in Jesus for forgiveness, receiving God's grace, and undergoing a continual process of spiritual growth and transformation. This process is deeply rooted in their relationship with God and their commitment to living according to biblical teachings.
 
 ## Average Grade
-91.0
+89.16666666666667
 
 ## Grades
  * [95.0](./Personal_Application_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ In summary, for a Christian, experiencing purification from sin includes recogni
  * [90.0](./Personal_Application_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Personal_Application_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Personal_Application_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Personal_Application_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

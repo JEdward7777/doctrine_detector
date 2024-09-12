@@ -19,7 +19,7 @@ From a scholarly perspective, the use of such a title can be analyzed within the
 Furthermore, in many contemporary discussions, this title can be interpreted symbolically to explore themes of authority in a secular sense. It raises questions about how individuals understand power dynamics—both in personal lives and within societal structures—challenging them to consider who or what they consider to be the "highest" authority, whether it be spiritual, moral, or institutional. Thus, the title signifies not just a theological claim but invites a deeper cultural and personal reflection on authority, responsibility, and ethical living.
 
 ## Average Grade
-89.0
+87.5
 
 ## Grades
  * [90.0](./Understanding_God_s_Authority_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Furthermore, in many contemporary discussions, this title can be interpreted sym
  * [90.0](./Understanding_God_s_Authority_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_God_s_Authority_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_God_s_Authority_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Understanding_God_s_Authority_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

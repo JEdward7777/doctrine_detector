@@ -31,7 +31,7 @@ The concept of 'fear' in the Bible encompasses a broader and deeper meaning than
 In summary, the biblical concept of fear is multifaceted, offering a foundation of reverence for God and a call to trust in Him, which contrasts with the often purely negative connotation of fear in daily life.
 
 ## Average Grade
-95.0
+94.16666666666667
 
 ## Grades
  * [95.0](./Understanding_Fear_in_Worship_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,3 +39,4 @@ In summary, the biblical concept of fear is multifaceted, offering a foundation 
  * [95.0](./Understanding_Fear_in_Worship_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_Fear_in_Worship_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Understanding_Fear_in_Worship_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Understanding_Fear_in_Worship_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

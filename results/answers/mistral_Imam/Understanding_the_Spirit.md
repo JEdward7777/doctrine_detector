@@ -21,7 +21,7 @@ On the other hand, an evil spirit or demon is not an inherent aspect of human be
 It's essential to note that these interpretations can vary across different Christian denominations and scholarly perspectives. In Islam, there is a similar concept of Jinn - supernatural beings mentioned in the Quran, who are not inherently evil but can be influenced by the forces of good or evil. However, Muslims believe that only God has the power to truly test or tempt individuals.
 
 ## Average Grade
-87.0
+85.83333333333333
 
 ## Grades
  * [85.0](./Understanding_the_Spirit_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ It's essential to note that these interpretations can vary across different Chri
  * [90.0](./Understanding_the_Spirit_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Understanding_the_Spirit_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_the_Spirit_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Understanding_the_Spirit_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

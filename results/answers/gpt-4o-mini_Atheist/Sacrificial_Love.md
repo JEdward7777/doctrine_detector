@@ -27,7 +27,7 @@ Loving others sacrificially, as exemplified by Jesus, involves selflessness, emp
 In a broader cultural context, love that requires sacrifice reflects values of communal responsibility, solidarity, and ethical engagement with others. It challenges individuals to look beyond themselves and consider the impact of their actions on the wider community. Ultimately, while the form and expression of sacrificial love may vary across cultures, the underlying principle of prioritizing the needs of others remains a universal call to human connection and empathy.
 
 ## Average Grade
-89.0
+85.83333333333333
 
 ## Grades
  * [85.0](./Sacrificial_Love_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In a broader cultural context, love that requires sacrifice reflects values of c
  * [90.0](./Sacrificial_Love_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Sacrificial_Love_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Sacrificial_Love_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Sacrificial_Love_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

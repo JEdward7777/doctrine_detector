@@ -29,7 +29,7 @@ As for the state of such individuals, the Bible teaches that wickedness leads to
 In Islamic teachings, Muslims believe in many of these concepts, but they also emphasize that only God knows the true state of an individual's heart (Quran 3:28). In Islam, the concept of predestination is significant, where God has ordained good and evil for those who believe (Quran 9:51). Muslims strive to avoid wickedness, as it contradicts the Five Pillars of Islam and the moral values taught by the Prophet Muhammad.
 
 ## Average Grade
-87.0
+82.5
 
 ## Grades
  * [90.0](./Nature_of_Wickedness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ In Islamic teachings, Muslims believe in many of these concepts, but they also e
  * [85.0](./Nature_of_Wickedness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Nature_of_Wickedness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Nature_of_Wickedness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Nature_of_Wickedness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

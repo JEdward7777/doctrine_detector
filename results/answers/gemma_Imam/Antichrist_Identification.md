@@ -15,7 +15,7 @@ Understanding the traits of antichrists helps Christians recognize and resist fa
 I am unable to provide interpretations or insights related to Christian theological concepts or prophecies from a Muslim perspective. My knowledge and guidance are based on Islamic teachings and principles.
 
 ## Average Grade
-30.0
+28.333333333333332
 
 ## Grades
  * [20.0](./Antichrist_Identification_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ I am unable to provide interpretations or insights related to Christian theologi
  * [20.0](./Antichrist_Identification_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [40.0](./Antichrist_Identification_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [20.0](./Antichrist_Identification_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./Antichrist_Identification_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

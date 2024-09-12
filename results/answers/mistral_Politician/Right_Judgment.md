@@ -21,7 +21,7 @@ In essence, this verse calls upon us to resist labeling or condemning others bas
 As a politician, I aim to promote policies that align with this teaching, ensuring that all citizens have equal opportunities and are treated fairly without discrimination or prejudice. Together, let us strive for understanding, empathy, and the pursuit of justice that reflects the spirit of Luke 6:37.
 
 ## Average Grade
-91.0
+86.66666666666667
 
 ## Grades
  * [90.0](./Right_Judgment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ As a politician, I aim to promote policies that align with this teaching, ensuri
  * [85.0](./Right_Judgment_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Right_Judgment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Right_Judgment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [65.0](./Right_Judgment_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

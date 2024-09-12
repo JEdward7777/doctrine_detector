@@ -38,7 +38,7 @@ In Islam, the concept of justification for sins is quite different from the Chri
 In Islam, justification for sins revolves around the concepts of sincere repentance, Allah's infinite mercy, and personal accountability. This highlights the importance of maintaining a strong relationship with Allah, seeking forgiveness, and striving to improve oneself continuously. Muslims are encouraged to remain hopeful in Allah's mercy while being mindful of the need for self-improvement and accountability for their actions.
 
 ## Average Grade
-42.0
+38.333333333333336
 
 ## Grades
  * [50.0](./God_s_Justification_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -46,3 +46,4 @@ In Islam, justification for sins revolves around the concepts of sincere repenta
  * [50.0](./God_s_Justification_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [30.0](./God_s_Justification_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./God_s_Justification_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./God_s_Justification_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

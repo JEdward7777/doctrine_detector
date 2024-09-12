@@ -19,7 +19,7 @@ Within the biblical context, names often carry significant meaning. They can ref
 The importance of naming in the Bible can also be seen through other figures, such as Jesus being named ‘Jesus’ (meaning “the Lord saves”), which signifies his mission of salvation. Therefore, the naming of John is not just a trivial detail; it points to his identity and the purpose God has for him, emphasizing the theology of God's grace and the prophetic significance of his life and ministry.
 
 ## Average Grade
-92.0
+89.16666666666667
 
 ## Grades
  * [95.0](./Understanding_Biblical_Naming_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ The importance of naming in the Bible can also be seen through other figures, su
  * [95.0](./Understanding_Biblical_Naming_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_Biblical_Naming_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Understanding_Biblical_Naming_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Understanding_Biblical_Naming_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

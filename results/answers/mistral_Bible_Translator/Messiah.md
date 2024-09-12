@@ -21,7 +21,7 @@ It's important to note that the Messianic expectations in Judaism and Christiani
 In addressing questions from individuals with different religious expectations of a savior, it's crucial to respect each person's beliefs while emphasizing the shared roots of the concept of a "Messiah" in Jewish and Christian tradition, as well as the unique aspects that define each faith community's understanding of this figure.
 
 ## Average Grade
-90.0
+88.33333333333333
 
 ## Grades
  * [90.0](./Messiah_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In addressing questions from individuals with different religious expectations o
  * [90.0](./Messiah_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Messiah_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Messiah_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Messiah_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

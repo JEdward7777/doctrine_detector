@@ -21,7 +21,7 @@ Throughout the Old Testament, 'Shaddai' emphasizes God’s ultimate power over c
 Additionally, the term is used in various forms across different contexts, essentially reminding the faithful of God's might and willingness to intervene on behalf of those who trust in Him. Overall, the usage of 'Shaddai' in the Old Testament encapsulates a rich depiction of God's character as powerful, nurturing, and faithful.
 
 ## Average Grade
-84.0
+84.16666666666667
 
 ## Grades
  * [90.0](./Understanding_Shaddai_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Additionally, the term is used in various forms across different contexts, essen
  * [90.0](./Understanding_Shaddai_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_Shaddai_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Understanding_Shaddai_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Understanding_Shaddai_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

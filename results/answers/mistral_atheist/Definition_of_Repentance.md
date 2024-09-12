@@ -21,7 +21,7 @@ Repentance is emphasized throughout the Bible, particularly in the Old Testament
 In summary, to repent according to the Bible means to acknowledge one's sinful behavior, express remorse or sorrow for it, and make a commitment to turn away from those actions and live a life in accordance with God's will.
 
 ## Average Grade
-91.0
+90.83333333333333
 
 ## Grades
  * [95.0](./Definition_of_Repentance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In summary, to repent according to the Bible means to acknowledge one's sinful b
  * [90.0](./Definition_of_Repentance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Definition_of_Repentance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Definition_of_Repentance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Definition_of_Repentance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

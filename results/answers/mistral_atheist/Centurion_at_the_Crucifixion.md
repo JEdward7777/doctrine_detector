@@ -19,7 +19,7 @@ This statement is considered crucial in Christian theology because it marks the 
 Additionally, the Centurion's reaction is seen as foreshadowing the widespread acceptance of Christianity by the Gentiles (non-Jews) in the centuries following Jesus' death. This event serves as a testament to the universality and power of Jesus' message, which ultimately led to the formation and spread of the Christian religion across the globe.
 
 ## Average Grade
-91.4
+91.16666666666667
 
 ## Grades
  * [95.0](./Centurion_at_the_Crucifixion_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Additionally, the Centurion's reaction is seen as foreshadowing the widespread a
  * [92.0](./Centurion_at_the_Crucifixion_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Centurion_at_the_Crucifixion_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Centurion_at_the_Crucifixion_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Centurion_at_the_Crucifixion_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

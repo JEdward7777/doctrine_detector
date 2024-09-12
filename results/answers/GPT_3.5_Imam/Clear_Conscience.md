@@ -19,7 +19,7 @@ It involves being honest, sincere, and upright in one's dealings with others, fu
 Ultimately, in Islam, having a clear conscience is not just about feeling good about oneself, but it is also about being accountable to Allah on the Day of Judgment and striving to attain His pleasure and mercy. It is a state of being that reflects a strong faith, integrity, and humility before Allah.
 
 ## Average Grade
-89.0
+75.83333333333333
 
 ## Grades
  * [95.0](./Clear_Conscience_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Ultimately, in Islam, having a clear conscience is not just about feeling good a
  * [90.0](./Clear_Conscience_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Clear_Conscience_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Clear_Conscience_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [10.0](./Clear_Conscience_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -19,7 +19,7 @@ For many, this identity can enhance feelings of connection and community among b
 Additionally, the notion of being "children of God" can offer comfort and reassurance, especially during challenging times, as it emphasizes God's protective and supportive qualities. It's important to acknowledge that interpretations and implications may vary across different cultures and denominations, so fostering open dialogue about these beliefs can further enrich understanding and mutual respect among diverse perspectives.
 
 ## Average Grade
-91.0
+90.0
 
 ## Grades
  * [90.0](./Children_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Additionally, the notion of being "children of God" can offer comfort and reassu
  * [95.0](./Children_of_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Children_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Children_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Children_of_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

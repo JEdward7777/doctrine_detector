@@ -23,7 +23,7 @@ In terms of societal restoration, Christians strive to work towards the renewal 
 In summary, in a Christian context, restoration can indeed be interpreted as renewal. Both concepts encompass the idea of returning something to its original or intended state, with renewal emphasizing rejuvenation and transformation. By focusing on personal and societal restoration, Christians aim to experience spiritual growth and promote peace, justice, and harmony in their communities.
 
 ## Average Grade
-88.0
+83.33333333333333
 
 ## Grades
  * [85.0](./Concept_of_Renewal_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ In summary, in a Christian context, restoration can indeed be interpreted as ren
  * [90.0](./Concept_of_Renewal_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Concept_of_Renewal_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Concept_of_Renewal_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Concept_of_Renewal_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

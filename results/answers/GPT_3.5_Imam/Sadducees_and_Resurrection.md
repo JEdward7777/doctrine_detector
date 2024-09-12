@@ -19,7 +19,7 @@ In contrast, Christian teaching, as understood by mainstream Christian denominat
 Overall, the Sadducees’ disbelief in the resurrection contrasts with the central Christian belief in the resurrection, which is seen as a fundamental aspect of Christian eschatology and the hope for eternal life in union with God.
 
 ## Average Grade
-81.0
+80.83333333333333
 
 ## Grades
  * [90.0](./Sadducees_and_Resurrection_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Overall, the Sadducees’ disbelief in the resurrection contrasts with the centr
  * [80.0](./Sadducees_and_Resurrection_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Sadducees_and_Resurrection_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Sadducees_and_Resurrection_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Sadducees_and_Resurrection_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

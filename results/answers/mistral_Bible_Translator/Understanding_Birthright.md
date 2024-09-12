@@ -21,7 +21,7 @@ This question seeks to highlight the significance of choices and their spiritual
 In summary, Esau's rash decision to sell his birthright had long-lasting effects on both his personal life and his relationship with Jacob, while Jacob's actions added layers of complexity to their already strained brotherhood. Their story serves as a cautionary tale about the importance of understanding the value of one's spiritual inheritance and the consequences of deceit.
 
 ## Average Grade
-90.0
+89.16666666666667
 
 ## Grades
  * [95.0](./Understanding_Birthright_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In summary, Esau's rash decision to sell his birthright had long-lasting effects
  * [95.0](./Understanding_Birthright_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_Birthright_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Understanding_Birthright_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Understanding_Birthright_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -23,7 +23,7 @@ Lastly, favoritism contributes to social fragmentation by fostering divisions wi
 To maintain healthy relationships with others, it is essential to recognize and guard against the influence of favoritism in our interactions. By promoting impartiality, inclusivity, and mutual respect, we create an environment that allows everyone to contribute their unique talents and grow together, fostering a stronger, more cohesive community for all its members.
 
 ## Average Grade
-93.0
+90.83333333333333
 
 ## Grades
  * [95.0](./Favoritism_in_Relationships_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ To maintain healthy relationships with others, it is essential to recognize and 
  * [95.0](./Favoritism_in_Relationships_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Favoritism_in_Relationships_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Favoritism_in_Relationships_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Favoritism_in_Relationships_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

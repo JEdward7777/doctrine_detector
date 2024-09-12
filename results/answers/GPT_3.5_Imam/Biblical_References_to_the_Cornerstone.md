@@ -19,7 +19,7 @@ This metaphor of Jesus as the cornerstone conveys his foundational and central r
 This imagery emphasizes the importance of Jesus in the belief system of Christians, highlighting his unique and central role in providing salvation and unity for believers. The cornerstone is a symbol of strength, stability, and unity, and through this metaphor, Christians believe that Jesus holds all things together and provides the solid foundation for their faith.
 
 ## Average Grade
-91.0
+90.0
 
 ## Grades
  * [95.0](./Biblical_References_to_the_Cornerstone_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ This imagery emphasizes the importance of Jesus in the belief system of Christia
  * [90.0](./Biblical_References_to_the_Cornerstone_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Biblical_References_to_the_Cornerstone_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Biblical_References_to_the_Cornerstone_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Biblical_References_to_the_Cornerstone_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

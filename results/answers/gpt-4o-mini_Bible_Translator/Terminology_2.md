@@ -33,7 +33,7 @@ The Lord's Supper is referred to by various terms in different Christian communi
 Different denominations may emphasize different theological aspects and meanings associated with the Lord's Supper, but all these terms reflect a central aspect of Christian worship and remembrance of Jesus Christ's sacrifice.
 
 ## Average Grade
-87.0
+84.16666666666667
 
 ## Grades
  * [95.0](./Terminology_2_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -41,3 +41,4 @@ Different denominations may emphasize different theological aspects and meanings
  * [95.0](./Terminology_2_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Terminology_2_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Terminology_2_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Terminology_2_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

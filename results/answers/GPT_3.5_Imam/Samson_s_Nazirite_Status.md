@@ -25,7 +25,7 @@ Samson's story illustrates the implications of the Nazirite vow in a few key way
 In summary, Samson's story serves as a cautionary tale about the importance of honoring one's commitments to God, the consequences of disobedience, and the ultimate sovereignty of God in fulfilling His plans despite human failings.
 
 ## Average Grade
-88.0
+85.0
 
 ## Grades
  * [90.0](./Samson_s_Nazirite_Status_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ In summary, Samson's story serves as a cautionary tale about the importance of h
  * [85.0](./Samson_s_Nazirite_Status_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Samson_s_Nazirite_Status_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Samson_s_Nazirite_Status_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Samson_s_Nazirite_Status_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -19,7 +19,7 @@ In Christianity, sin is seen as a separation from God and a disruption of the re
 As Muslims, we also understand the concept of sin as disobedience to Allah's commands and teachings. In Islam, committing sins leads to spiritual harm and distance from Allah. Therefore, it is important for Muslims to seek forgiveness through sincere repentance and strive to avoid committing sins that can harm themselves and others.
 
 ## Average Grade
-79.0
+77.5
 
 ## Grades
  * [60.0](./Understanding_Trespass_in_a_Christian_Context_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ As Muslims, we also understand the concept of sin as disobedience to Allah's com
  * [85.0](./Understanding_Trespass_in_a_Christian_Context_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Understanding_Trespass_in_a_Christian_Context_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Understanding_Trespass_in_a_Christian_Context_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Understanding_Trespass_in_a_Christian_Context_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -23,7 +23,7 @@ Additionally, Jesus Christ is the fulfillment of God's promises to send a Savior
 Therefore, understanding the role of judges in the Old Testament helps us appreciate Jesus Christ as the ultimate Savior who perfectly embodies the qualities that God's chosen leaders were meant to represent. In Him, we find deliverance from sin and eternal life, a promise made to the people of Israel through the judges but perfectly fulfilled in Jesus Christ.
 
 ## Average Grade
-92.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Understanding_the_Role_of_a_Savior_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ Therefore, understanding the role of judges in the Old Testament helps us apprec
  * [95.0](./Understanding_the_Role_of_a_Savior_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_the_Role_of_a_Savior_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_the_Role_of_a_Savior_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Understanding_the_Role_of_a_Savior_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

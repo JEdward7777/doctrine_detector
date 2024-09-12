@@ -25,7 +25,7 @@ The story of the stoning of Paul in Lystra, as recorded in the Bible in Acts 14:
 Overall, the stoning of Paul in Lystra teaches us valuable lessons about perseverance, trust in Allah, seeking support from the Muslim community, and turning hardships into opportunities for growth in our faith and ministry as Muslims.
 
 ## Average Grade
-28.0
+30.0
 
 ## Grades
  * [25.0](./Paul_s_Experience_in_Lystra_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ Overall, the stoning of Paul in Lystra teaches us valuable lessons about perseve
  * [30.0](./Paul_s_Experience_in_Lystra_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [20.0](./Paul_s_Experience_in_Lystra_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Paul_s_Experience_in_Lystra_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Paul_s_Experience_in_Lystra_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

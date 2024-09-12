@@ -15,7 +15,7 @@ Recognizing the importance of evangelism in the Christian faith.
 Jesus directed his apostles to spread the good news of the Gospel, emphasizing the importance of sharing messages of love, compassion, and hope. He instructed them to go forth and make disciples of all nations, teaching and baptizing them. This directive is often summarized in the Great Commission, found in the Gospel of Matthew 28:19-20. This mission calls for a spirit of inclusivity and outreach, encouraging his followers to share the teachings of love and salvation with all people, regardless of their background or beliefs.
 
 ## Average Grade
-88.0
+87.5
 
 ## Grades
  * [90.0](./Biblical_Exhortation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ Jesus directed his apostles to spread the good news of the Gospel, emphasizing t
  * [90.0](./Biblical_Exhortation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Biblical_Exhortation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_Exhortation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Biblical_Exhortation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

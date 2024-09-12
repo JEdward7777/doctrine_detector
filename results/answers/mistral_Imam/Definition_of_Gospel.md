@@ -21,7 +21,7 @@ It's important to note that while Muslims believe in many prophets mentioned in 
 In Islamic tradition, it is believed that Jesus did not die on the cross, nor was he crucified, as some passages in the New Testament suggest. Instead, Muslims believe that God raised Jesus to heaven without undergoing a physical death. This belief is based on several verses from the Quran (e.g., Al-Anbiyaa' 21:97-98 and Al-Nisa' 4:157-159).
 
 ## Average Grade
-89.0
+87.5
 
 ## Grades
  * [90.0](./Definition_of_Gospel_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In Islamic tradition, it is believed that Jesus did not die on the cross, nor wa
  * [90.0](./Definition_of_Gospel_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Definition_of_Gospel_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Definition_of_Gospel_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Definition_of_Gospel_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

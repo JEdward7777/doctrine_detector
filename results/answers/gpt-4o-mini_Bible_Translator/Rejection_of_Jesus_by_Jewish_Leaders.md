@@ -35,7 +35,7 @@ The implications of the rejection of Jesus by the Jewish religious leaders for C
 Ultimately, the rejection of Jesus by the Jewish religious leaders is a complex historical and theological moment that plays a critical role in the identity and beliefs of Christianity.
 
 ## Average Grade
-87.0
+86.66666666666667
 
 ## Grades
  * [85.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -43,3 +43,4 @@ Ultimately, the rejection of Jesus by the Jewish religious leaders is a complex 
  * [85.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

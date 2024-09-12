@@ -25,7 +25,7 @@ Unleavened bread holds significant symbolism in various religious and cultural c
 In summary, unleavened bread symbolizes the removal of sin and the pursuit of a holy life in both Judaism and Christianity. It serves as a reminder for individuals to live authentically and in a way that honors their spiritual commitments.
 
 ## Average Grade
-93.0
+93.33333333333333
 
 ## Grades
  * [95.0](./Significance_of_Unleavened_Bread_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ In summary, unleavened bread symbolizes the removal of sin and the pursuit of a 
  * [95.0](./Significance_of_Unleavened_Bread_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Significance_of_Unleavened_Bread_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Significance_of_Unleavened_Bread_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [95.0](./Significance_of_Unleavened_Bread_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

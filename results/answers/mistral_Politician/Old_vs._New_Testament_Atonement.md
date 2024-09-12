@@ -21,7 +21,7 @@ In contrast, the NT introduces Jesus Christ as the ultimate atonement. The Greek
 It is essential to note that these explanations are based on the broader biblical narrative and may vary depending on specific denominations, interpretations, and theologies. It is always important to approach such discussions with respect for diversity and inclusivity.
 
 ## Average Grade
-88.0
+85.0
 
 ## Grades
  * [90.0](./Old_vs._New_Testament_Atonement_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ It is essential to note that these explanations are based on the broader biblica
  * [90.0](./Old_vs._New_Testament_Atonement_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Old_vs._New_Testament_Atonement_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Old_vs._New_Testament_Atonement_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Old_vs._New_Testament_Atonement_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

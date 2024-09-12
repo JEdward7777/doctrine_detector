@@ -19,7 +19,7 @@ According to Christian teaching, human beings sinned, creating a barrier between
 It's important to note that interpretations may vary among different Christian denominations and individuals. The significance of Christ's death as a permanent atonement is a deeply personal and spiritual matter for many Christians, and it plays a crucial role in their understanding of salvation and the relationship between humanity and God.
 
 ## Average Grade
-90.0
+86.66666666666667
 
 ## Grades
  * [90.0](./Understanding_Atonement_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ It's important to note that interpretations may vary among different Christian d
  * [90.0](./Understanding_Atonement_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_Atonement_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Atonement_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Understanding_Atonement_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

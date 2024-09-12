@@ -37,7 +37,7 @@ The Islamic perspective on humanity's role in the world aligns with the biblical
 Both Islam and Christianity teach that humanity is entrusted with the care and management of the earth. This shared belief highlights the importance of environmental stewardship and the need for sustainable practices.
 
 ## Average Grade
-87.0
+79.16666666666667
 
 ## Grades
  * [90.0](./Dominion_in_Creation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -45,3 +45,4 @@ Both Islam and Christianity teach that humanity is entrusted with the care and m
  * [90.0](./Dominion_in_Creation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Dominion_in_Creation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Dominion_in_Creation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Dominion_in_Creation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

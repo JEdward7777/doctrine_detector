@@ -33,7 +33,7 @@ In Islam, the phrase "Everything has a appointed time" underscores that everythi
 In summary, understanding the concept of 'appointed time' can enhance our faith in God's plans by fostering trust, patience, gratitude, humility, hope, peace, purposeful living, and mindfulness. Embracing this understanding allows us to navigate life's challenges with greater resilience, inner strength, and a deeper connection to Allah.
 
 ## Average Grade
-92.4
+90.33333333333333
 
 ## Grades
  * [90.0](./God_s_Timing_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -41,3 +41,4 @@ In summary, understanding the concept of 'appointed time' can enhance our faith 
  * [95.0](./God_s_Timing_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./God_s_Timing_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./God_s_Timing_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./God_s_Timing_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -29,7 +29,7 @@ Remaining vigilant against worldly influences that may lead away from godly livi
 7. Biblical Worldview: Embracing a biblical worldview helps Christians evaluate the culture, media, and society around them by filtering everything through the lens of Scripture. This can help identify corrupt influences and guide decisions that align with God's will (Colossians 2:8).
 
 ## Average Grade
-93.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Corruption_of_the_World_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ Remaining vigilant against worldly influences that may lead away from godly livi
  * [95.0](./Corruption_of_the_World_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Corruption_of_the_World_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Corruption_of_the_World_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Corruption_of_the_World_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

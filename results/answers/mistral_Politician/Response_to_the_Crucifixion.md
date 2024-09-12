@@ -21,7 +21,7 @@ However, let us not dwell on blame or condemnation. Instead, let us take this mo
 We must strive to learn from history and apply those lessons to our lives today. In doing so, let us come together in unity, standing side by side as a community that is committed to understanding, compassion, and peace."
 
 ## Average Grade
-52.0
+50.0
 
 ## Grades
  * [70.0](./Response_to_the_Crucifixion_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ We must strive to learn from history and apply those lessons to our lives today.
  * [40.0](./Response_to_the_Crucifixion_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [30.0](./Response_to_the_Crucifixion_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Response_to_the_Crucifixion_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Response_to_the_Crucifixion_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

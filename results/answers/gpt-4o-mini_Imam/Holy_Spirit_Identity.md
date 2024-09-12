@@ -29,7 +29,7 @@ The identity of the Holy Spirit as God significantly shapes how Christians perce
 In contrast, within Islamic belief, the concept of the Holy Spirit (often identified with angel Jibreel/Gabriel) is significantly different. In Islam, the Holy Spirit is viewed as a creature of God, serving as a messenger and agent of revelation rather than as a divine persona. Hence, the role and identity of the Holy Spirit in Christianity is integral to their faith and practices, influencing their understanding of God’s interaction with humanity and the experience of faith.
 
 ## Average Grade
-93.4
+92.83333333333333
 
 ## Grades
  * [90.0](./Holy_Spirit_Identity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ In contrast, within Islamic belief, the concept of the Holy Spirit (often identi
  * [95.0](./Holy_Spirit_Identity_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Holy_Spirit_Identity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Holy_Spirit_Identity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Holy_Spirit_Identity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

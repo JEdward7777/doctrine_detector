@@ -23,7 +23,7 @@ Connecting scripture with the understanding of God's majestic nature.
 By referencing these verses, one can demonstrate an appreciation for God's majesty while being mindful of not offending others by emphasizing specific attributes or actions that may be controversial or divisive in today's society.
 
 ## Average Grade
-78.0
+76.66666666666667
 
 ## Grades
  * [85.0](./Biblical_References_2_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ By referencing these verses, one can demonstrate an appreciation for God's majes
  * [90.0](./Biblical_References_2_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Biblical_References_2_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Biblical_References_2_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Biblical_References_2_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

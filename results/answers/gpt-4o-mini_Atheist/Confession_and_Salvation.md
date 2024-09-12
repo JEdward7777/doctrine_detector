@@ -29,7 +29,7 @@ From this passage, several key points can be drawn regarding the implications of
 In summary, according to Paul's writings, confessing that Jesus is Lord is intrinsically linked to the process of salvation. It encapsulates both a deep-seated belief in the resurrection and the act of openly embracing Jesus' lordship, which collectively affirm one's faith and relationship with God.
 
 ## Average Grade
-91.0
+89.16666666666667
 
 ## Grades
  * [95.0](./Confession_and_Salvation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ In summary, according to Paul's writings, confessing that Jesus is Lord is intri
  * [95.0](./Confession_and_Salvation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Confession_and_Salvation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Confession_and_Salvation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Confession_and_Salvation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

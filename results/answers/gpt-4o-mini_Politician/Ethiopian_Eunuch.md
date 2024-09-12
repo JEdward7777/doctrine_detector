@@ -27,7 +27,7 @@ The encounter between the apostle Philip and the Ethiopian eunuch, as described 
 In summary, the encounter between Philip and the Ethiopian eunuch is a pivotal moment that reflects the early church's commitment to inclusivity, the role of divine guidance, the importance of Scripture, the practice of baptism, and the expansion of Christianity beyond its early Jewish context.
 
 ## Average Grade
-93.0
+92.5
 
 ## Grades
  * [95.0](./Ethiopian_Eunuch_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In summary, the encounter between Philip and the Ethiopian eunuch is a pivotal m
  * [95.0](./Ethiopian_Eunuch_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Ethiopian_Eunuch_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Ethiopian_Eunuch_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Ethiopian_Eunuch_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

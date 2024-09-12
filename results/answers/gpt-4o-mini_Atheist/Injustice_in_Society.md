@@ -43,7 +43,7 @@ There are numerous examples of injustice in today's world, reflecting a range of
 In summary, the Christian response to injustice can take many forms, rooted in the values of compassion, equality, and the pursuit of justice. The principle of loving one's neighbor, which is central to Christian belief, can guide actions towards creating a fairer and more just world.
 
 ## Average Grade
-92.0
+90.0
 
 ## Grades
  * [95.0](./Injustice_in_Society_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -51,3 +51,4 @@ In summary, the Christian response to injustice can take many forms, rooted in t
  * [95.0](./Injustice_in_Society_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Injustice_in_Society_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Injustice_in_Society_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Injustice_in_Society_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

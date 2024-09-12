@@ -19,7 +19,7 @@ On Fridays, the Israelites were instructed to gather and prepare enough manna fo
 This story serves as a reminder for us as Muslims to trust in Allah's provision and to observe the Sabbath, or in our case, Friday prayers and the recommended acts of worship on Fridays. It also teaches us the importance of following God's commands and not being greedy or hoarding resources beyond our needs.
 
 ## Average Grade
-84.0
+73.33333333333333
 
 ## Grades
  * [85.0](./Sabbath_Observance_2_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ This story serves as a reminder for us as Muslims to trust in Allah's provision 
  * [75.0](./Sabbath_Observance_2_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Sabbath_Observance_2_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Sabbath_Observance_2_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./Sabbath_Observance_2_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

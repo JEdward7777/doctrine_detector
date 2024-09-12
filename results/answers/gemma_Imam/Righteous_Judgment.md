@@ -55,7 +55,7 @@ It's vital to comprehend how God's attributes coexist without contradiction in B
 Christians can reconcile the concept of God's wrath with His nature as loving and merciful by understanding that God's wrath is a just expression of his love, directed at sin, while his mercy is an abundant and forgiving gift available to all.
 
 ## Average Grade
-93.0
+92.5
 
 ## Grades
  * [95.0](./Righteous_Judgment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -63,3 +63,4 @@ Christians can reconcile the concept of God's wrath with His nature as loving an
  * [95.0](./Righteous_Judgment_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Righteous_Judgment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Righteous_Judgment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Righteous_Judgment_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

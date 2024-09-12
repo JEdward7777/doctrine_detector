@@ -27,7 +27,7 @@ In the Quran, the Day of Judgment is vividly described as a time when everyone w
 In conclusion, while the terminology may differ, the Islamic understanding of God's punishment on the Day of Judgment emphasizes accountability, retribution for deeds, and the severity of divine justice that will be manifest when all humans are resurrected and judged by Allah.
 
 ## Average Grade
-88.0
+83.33333333333333
 
 ## Grades
  * [90.0](./God_s_Wrath_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In conclusion, while the terminology may differ, the Islamic understanding of Go
  * [85.0](./God_s_Wrath_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./God_s_Wrath_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./God_s_Wrath_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./God_s_Wrath_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

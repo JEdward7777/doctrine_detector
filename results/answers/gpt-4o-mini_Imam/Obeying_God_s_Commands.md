@@ -27,7 +27,7 @@ In Islamic theology, the laws given to Moses (known as Musa in Arabic) are close
 In summary, the laws given to Moses are integral to the concept of a covenant in Islam, illustrating a divine relationship based on guidance, obligation, testing, and accountability to uphold a righteous path as ordained by God.
 
 ## Average Grade
-90.0
+83.33333333333333
 
 ## Grades
  * [90.0](./Obeying_God_s_Commands_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In summary, the laws given to Moses are integral to the concept of a covenant in
  * [95.0](./Obeying_God_s_Commands_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Obeying_God_s_Commands_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Obeying_God_s_Commands_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Obeying_God_s_Commands_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

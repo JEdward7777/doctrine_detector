@@ -28,7 +28,7 @@ In Islamic theology, we believe that Allah is Just and Merciful. We reject any n
 As Muslims, we believe that every individual will be accountable for their actions and that God's mercy and forgiveness are available to those who repent and seek His guidance. We strive to live a righteous life according to the teachings of Prophet Muhammad (peace be upon him) and the Quran, which guides us towards righteousness and salvation.
 
 ## Average Grade
-68.0
+65.0
 
 ## Grades
  * [65.0](./God_s_Wrath_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,3 +36,4 @@ As Muslims, we believe that every individual will be accountable for their actio
  * [60.0](./God_s_Wrath_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [60.0](./God_s_Wrath_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./God_s_Wrath_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./God_s_Wrath_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

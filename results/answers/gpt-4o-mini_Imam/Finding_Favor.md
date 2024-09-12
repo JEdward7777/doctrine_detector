@@ -19,7 +19,7 @@ For example, in the story of Noah, it is mentioned that "Noah found favor in the
 In essence, finding favor can denote being in a position of blessing or advantage because of one's character, actions, or relationship with God or others. It underscores themes of divine grace, mercy, and the importance of living in accordance with spiritual principles.
 
 ## Average Grade
-87.0
+86.66666666666667
 
 ## Grades
  * [90.0](./Finding_Favor_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ In essence, finding favor can denote being in a position of blessing or advantag
  * [90.0](./Finding_Favor_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Finding_Favor_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Finding_Favor_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Finding_Favor_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

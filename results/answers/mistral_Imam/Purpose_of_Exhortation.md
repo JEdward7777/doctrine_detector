@@ -17,7 +17,7 @@ Understanding the biblical basis for encouraging others in their faith journey.
 In the New Testament, exhortation often serves to encourage believers in their faith, promote virtuous living, and warn against sinful behavior. This is primarily seen through the letters of Paul and other apostles in the New Testament. For example, 2 Timothy 4:2 says, "Preach the word; be prepared in season and out of season; correct, rebuke and encourage—with great patience and careful instruction." Here, the purpose of exhortation is to correct (rebuke), warn against error (preach the word), and encourage believers in their faith. This aligns with the broader Christian ethos of love for God and neighbor.
 
 ## Average Grade
-88.0
+87.5
 
 ## Grades
  * [90.0](./Purpose_of_Exhortation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -25,3 +25,4 @@ In the New Testament, exhortation often serves to encourage believers in their f
  * [90.0](./Purpose_of_Exhortation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Purpose_of_Exhortation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Purpose_of_Exhortation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Purpose_of_Exhortation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

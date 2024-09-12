@@ -19,7 +19,7 @@ In Hebrew, 'Shaddai' translates directly to "Almighty," or more colloquially, "G
 It's essential to remember that religious terminology and interpretations may vary depending on cultural, historical, and personal contexts. In my responses, I strive to present information with the highest level of accuracy while being mindful and respectful of diverse perspectives.
 
 ## Average Grade
-88.0
+87.5
 
 ## Grades
  * [90.0](./Understanding_Shaddai_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ It's essential to remember that religious terminology and interpretations may va
  * [85.0](./Understanding_Shaddai_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_Shaddai_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Shaddai_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Understanding_Shaddai_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

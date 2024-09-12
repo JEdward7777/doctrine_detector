@@ -19,7 +19,7 @@ Additionally, 1 Peter 2:13-17 encourages believers to submit to human authoritie
 While these scriptures advocate for respect and obedience to authority, they also underscore the accountability of rulers to uphold justice and righteousness. It's essential to approach this topic with sensitivity, recognizing the diverse perspectives within religious and secular frameworks regarding authority and governance.
 
 ## Average Grade
-86.0
+83.33333333333333
 
 ## Grades
  * [85.0](./Authority_in_Governance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ While these scriptures advocate for respect and obedience to authority, they als
  * [90.0](./Authority_in_Governance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Authority_in_Governance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Authority_in_Governance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Authority_in_Governance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

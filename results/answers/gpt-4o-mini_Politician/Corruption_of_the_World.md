@@ -33,7 +33,7 @@ Christians seeking to identify corrupt influences in the world can consider seve
 Through these approaches, Christians can thoughtfully and respectfully identify and respond to corrupt influences while maintaining a commitment to love, understanding, and positive engagement with the world around them.
 
 ## Average Grade
-91.6
+88.83333333333333
 
 ## Grades
  * [90.0](./Corruption_of_the_World_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -41,3 +41,4 @@ Through these approaches, Christians can thoughtfully and respectfully identify 
  * [95.0](./Corruption_of_the_World_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [93.0](./Corruption_of_the_World_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Corruption_of_the_World_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Corruption_of_the_World_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

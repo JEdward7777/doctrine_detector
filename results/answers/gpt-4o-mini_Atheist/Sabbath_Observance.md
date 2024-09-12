@@ -29,7 +29,7 @@ In practice, this can include various activities such as:
 Overall, keeping the Sabbath holy emphasizes a balance between work and rest, spiritual engagement, and community connectivity, reflecting deeply ingrained cultural values that continue to inform community practices today.
 
 ## Average Grade
-89.0
+85.83333333333333
 
 ## Grades
  * [95.0](./Sabbath_Observance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ Overall, keeping the Sabbath holy emphasizes a balance between work and rest, sp
  * [90.0](./Sabbath_Observance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Sabbath_Observance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Sabbath_Observance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Sabbath_Observance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

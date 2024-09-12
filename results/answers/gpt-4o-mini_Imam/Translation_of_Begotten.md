@@ -23,7 +23,7 @@ The idea of renewal or rebirth in this sense can be seen as a metaphorical reawa
 Therefore, rather than a literal interpretation associated with the term "begotten," Muslims understand spiritual rebirth as a guiding journey back to faith, righteousness, and a closer relationship with Allah, marked by good deeds, repentance, and striving for personal growth and obedience to divine commandments.
 
 ## Average Grade
-54.0
+48.333333333333336
 
 ## Grades
  * [60.0](./Translation_of_Begotten_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ Therefore, rather than a literal interpretation associated with the term "begott
  * [70.0](./Translation_of_Begotten_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [30.0](./Translation_of_Begotten_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Translation_of_Begotten_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./Translation_of_Begotten_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -31,7 +31,7 @@ Therefore, being 'faithless' implies an intentional and conscious decision to re
 **Note:** It is important to be cautious when using the term 'faithless' as it can be offensive and harmful. The Quran emphasizes the importance of respecting all people, regardless of their belief or disbelief.
 
 ## Average Grade
-91.0
+89.16666666666667
 
 ## Grades
  * [95.0](./Understanding_Faithlessness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,3 +39,4 @@ Therefore, being 'faithless' implies an intentional and conscious decision to re
  * [90.0](./Understanding_Faithlessness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_Faithlessness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Faithlessness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Understanding_Faithlessness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

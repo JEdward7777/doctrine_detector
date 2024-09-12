@@ -25,7 +25,7 @@ In contemporary terms, 'house of Yahweh' can be understood as:
 Each of these interpretations can resonate differently depending on one’s background and beliefs, but they help bridge the ancient meaning with modern concepts of spirituality and community.
 
 ## Average Grade
-82.0
+82.5
 
 ## Grades
  * [85.0](./Translation_of_Worship_Spaces_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ Each of these interpretations can resonate differently depending on one’s back
  * [80.0](./Translation_of_Worship_Spaces_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Translation_of_Worship_Spaces_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Translation_of_Worship_Spaces_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Translation_of_Worship_Spaces_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

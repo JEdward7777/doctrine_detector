@@ -33,7 +33,7 @@ This question encourages self-examination and awareness of how unholiness can in
 Identifying these characteristics in our actions and society requires self-reflection, openness to God's guidance, and discernment. Reading and studying the Bible, praying regularly, seeking wisdom from Christian leaders, and living a life of love and service can help Christians avoid an unholy life and strive for holiness instead.
 
 ## Average Grade
-92.4
+91.16666666666667
 
 ## Grades
  * [90.0](./Understanding_Unholiness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -41,3 +41,4 @@ Identifying these characteristics in our actions and society requires self-refle
  * [92.0](./Understanding_Unholiness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_Unholiness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Understanding_Unholiness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Understanding_Unholiness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

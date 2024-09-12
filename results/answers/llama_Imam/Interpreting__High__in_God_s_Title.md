@@ -33,7 +33,7 @@ When contemplating the nature of Allah (God), it is essential to recognize that 
 May this reflection inspire you to contemplate the glory and wonder of God, and may your faith be strengthened by acknowledging His transcendence and supremacy.
 
 ## Average Grade
-91.0
+87.5
 
 ## Grades
  * [90.0](./Interpreting__High__in_God_s_Title_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -41,3 +41,4 @@ May this reflection inspire you to contemplate the glory and wonder of God, and 
  * [95.0](./Interpreting__High__in_God_s_Title_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Interpreting__High__in_God_s_Title_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Interpreting__High__in_God_s_Title_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Interpreting__High__in_God_s_Title_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

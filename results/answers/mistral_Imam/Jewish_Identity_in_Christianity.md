@@ -27,7 +27,7 @@ The significance of Jesus being Jewish for Christians lies in several aspects:
 4. **Inclusive Nature of Christianity**: The Christian belief in Jesus as the Messiah opens up the possibility for anyone, regardless of their ethnic or national background, to accept this faith and receive salvation. This inclusive nature is a significant aspect of Christianity that stems from Jesus being Jewish.
 
 ## Average Grade
-93.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Jewish_Identity_in_Christianity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ The significance of Jesus being Jewish for Christians lies in several aspects:
  * [95.0](./Jewish_Identity_in_Christianity_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Jewish_Identity_in_Christianity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Jewish_Identity_in_Christianity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Jewish_Identity_in_Christianity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

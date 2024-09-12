@@ -15,7 +15,7 @@ Recognizing Michael's unique position can influence one's understanding of spiri
 In the Bible, the only angel referred to as an 'archangel' is Archangel Michael. He is mentioned in the Book of Daniel and the Book of Revelation as a powerful angel who serves as a protector and leader in spiritual battles. In Islamic tradition, Archangel Michael is known as Mikail and is also considered a significant and powerful angel.
 
 ## Average Grade
-87.0
+87.5
 
 ## Grades
  * [90.0](./Archangel_Michael_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ In the Bible, the only angel referred to as an 'archangel' is Archangel Michael.
  * [85.0](./Archangel_Michael_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Archangel_Michael_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Archangel_Michael_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Archangel_Michael_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

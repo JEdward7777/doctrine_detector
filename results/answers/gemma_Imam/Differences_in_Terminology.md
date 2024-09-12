@@ -40,7 +40,7 @@ Clarifying the appropriate use of different forms of encouragement according to 
 * **Context:** Exhortations are typically religious or ethical in nature, encouragements are often more general, and admonitions are usually disciplinary.
 
 ## Average Grade
-82.0
+84.16666666666667
 
 ## Grades
  * [90.0](./Differences_in_Terminology_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -48,3 +48,4 @@ Clarifying the appropriate use of different forms of encouragement according to 
  * [90.0](./Differences_in_Terminology_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Differences_in_Terminology_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Differences_in_Terminology_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [95.0](./Differences_in_Terminology_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

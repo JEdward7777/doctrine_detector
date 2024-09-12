@@ -23,7 +23,7 @@ As an Imam, I must clarify that in Islamic tradition, we do not have a direct eq
 It's essential to note that these translations are not exact equivalents, as the concept of a church is deeply rooted in Christian theology and practice. However, they can provide useful analogies or starting points for understanding the concept of a sacred space for communal worship and devotion.
 
 ## Average Grade
-85.0
+79.16666666666667
 
 ## Grades
  * [90.0](./Translation_of_Church_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ It's essential to note that these translations are not exact equivalents, as the
  * [85.0](./Translation_of_Church_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Translation_of_Church_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Translation_of_Church_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Translation_of_Church_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

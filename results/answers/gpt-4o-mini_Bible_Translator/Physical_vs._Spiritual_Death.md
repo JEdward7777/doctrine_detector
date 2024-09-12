@@ -25,7 +25,7 @@ In Christian theology, the distinction between physical death and the spiritual 
 In summary, while physical death affects the body, spiritual perishing affects the soul and relationship with God. Understanding this differentiation helps Christians navigate the teachings of Scripture concerning life, death, and the hope of eternal life through faith in Christ.
 
 ## Average Grade
-93.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Physical_vs._Spiritual_Death_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ In summary, while physical death affects the body, spiritual perishing affects t
  * [90.0](./Physical_vs._Spiritual_Death_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Physical_vs._Spiritual_Death_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Physical_vs._Spiritual_Death_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Physical_vs._Spiritual_Death_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

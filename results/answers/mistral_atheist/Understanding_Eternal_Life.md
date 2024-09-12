@@ -25,7 +25,7 @@ Eternity is a crucial aspect of Christian faith, and understanding how to attain
 5. Afterlife: In Christian teachings, the afterlife consists of two main destinations: Heaven for those who inherit eternal life, and Hell for those who do not. The specifics of these places vary among denominations, but they are generally portrayed as eternal dwellings where individuals experience either bliss or torment based on their actions in life.
 
 ## Average Grade
-67.0
+67.5
 
 ## Grades
  * [70.0](./Understanding_Eternal_Life_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ Eternity is a crucial aspect of Christian faith, and understanding how to attain
  * [75.0](./Understanding_Eternal_Life_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [60.0](./Understanding_Eternal_Life_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Understanding_Eternal_Life_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Understanding_Eternal_Life_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

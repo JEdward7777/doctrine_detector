@@ -23,7 +23,7 @@ It's important to note that while God does choose whom He will save (Ephesians 1
 Being part of the elect does not mean that one is guaranteed a trouble-free life or that they will never struggle with sin. Rather, it means that God has chosen them for eternal salvation and a personal relationship with Himself through faith in Jesus Christ (John 10:27-30). This is a precious gift of grace that should fill believers with hope, joy, and gratitude.
 
 ## Average Grade
-91.0
+90.0
 
 ## Grades
  * [95.0](./Understanding_the_Elect_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ Being part of the elect does not mean that one is guaranteed a trouble-free life
  * [90.0](./Understanding_the_Elect_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_the_Elect_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_the_Elect_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Understanding_the_Elect_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

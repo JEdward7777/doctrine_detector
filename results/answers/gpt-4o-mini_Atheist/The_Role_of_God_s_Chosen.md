@@ -23,7 +23,7 @@ The implication of God's selection process, as illustrated through these figures
 In a cultural context, these chosen figures reflect the hopes and aspirations of their respective societies, symbolizing a longing for moral guidance and divine favor. Thus, while they are seen as individuals chosen by God, their stories also resonate with collective identity and destiny, highlighting the intricate relationship between the divine and the human experience.
 
 ## Average Grade
-92.0
+89.16666666666667
 
 ## Grades
  * [95.0](./The_Role_of_God_s_Chosen_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ In a cultural context, these chosen figures reflect the hopes and aspirations of
  * [90.0](./The_Role_of_God_s_Chosen_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./The_Role_of_God_s_Chosen_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./The_Role_of_God_s_Chosen_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./The_Role_of_God_s_Chosen_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

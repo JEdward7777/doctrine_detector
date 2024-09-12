@@ -23,7 +23,7 @@ In the Bible, the terms iniquity, sin, and transgression have distinct meanings,
 In summary, while all three terms refer to wrongdoing, they emphasize different aspects: sin is the overarching term for any moral failure, transgression highlights the act of breaking law, and iniquity tends to stress the moral depravity or the resulting consequences of sin. Understanding these distinctions can enrich one's grasp of biblical teachings on morality and human behavior in relation to God.
 
 ## Average Grade
-89.0
+89.16666666666667
 
 ## Grades
  * [90.0](./Understanding_Iniquity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ In summary, while all three terms refer to wrongdoing, they emphasize different 
  * [90.0](./Understanding_Iniquity_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_Iniquity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Iniquity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Understanding_Iniquity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -29,7 +29,7 @@ How to navigate life as a believer in a world characterized by ungodly values.
 By examining these passages, we can see that "the world" is often used as a contrast for God's Kingdom and the spiritual identity of believers. Believers are called to live according to God's will and seek spiritual growth, while avoiding being conformed to the world's standards. However, they should not abandon their place in the world but rather use it as an opportunity to share the Gospel with others.
 
 ## Average Grade
-89.6
+88.0
 
 ## Grades
  * [95.0](./Scriptural_Reference_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ By examining these passages, we can see that "the world" is often used as a cont
  * [90.0](./Scriptural_Reference_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [88.0](./Scriptural_Reference_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Scriptural_Reference_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Scriptural_Reference_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

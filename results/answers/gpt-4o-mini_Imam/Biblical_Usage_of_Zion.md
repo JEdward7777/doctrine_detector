@@ -27,7 +27,7 @@ In the Bible, the term 'Zion' is used in various figurative ways that transcend 
 These figurative usages illustrate the multifaceted nature of 'Zion' as not just a physical place but a profound symbol for divine promise, presence, community, and hope in the Biblical narrative.
 
 ## Average Grade
-93.0
+92.5
 
 ## Grades
  * [95.0](./Biblical_Usage_of_Zion_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ These figurative usages illustrate the multifaceted nature of 'Zion' as not just
  * [95.0](./Biblical_Usage_of_Zion_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Biblical_Usage_of_Zion_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_Usage_of_Zion_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Biblical_Usage_of_Zion_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

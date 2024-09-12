@@ -21,7 +21,7 @@ In examining the concept of condemnation as referenced in 1 John 3:20 and Romans
 In summary, the Bible teaches that condemnation can arise from both internal feelings of guilt and the consequences of sin. However, it offers the hope of redemption through Jesus Christ, highlighting God's mercy and the assurance that, despite feelings of condemnation, believers can find forgiveness and justification before God. Therefore, while condemnation can be a reality due to sin, the overriding message of the New Testament is one of grace, mercy, and hope through faith in Christ.
 
 ## Average Grade
-92.0
+90.0
 
 ## Grades
  * [95.0](./Understanding_Condemnation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In summary, the Bible teaches that condemnation can arise from both internal fee
  * [95.0](./Understanding_Condemnation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_Condemnation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Condemnation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Understanding_Condemnation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

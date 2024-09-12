@@ -19,7 +19,7 @@ The Ten Commandments, given to Moses on Mount Sinai (Exodus 20:1-17), represent 
 Testimony in the Bible is not only about personal experiences but also about proclaiming truth, sharing God's message, and demonstrating obedience to His commandments. It serves as a means to establish the righteousness of God and encourage people to follow His path.
 
 ## Average Grade
-85.0
+83.33333333333333
 
 ## Grades
  * [90.0](./Testimony_Meaning_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Testimony in the Bible is not only about personal experiences but also about pro
  * [90.0](./Testimony_Meaning_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Testimony_Meaning_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Testimony_Meaning_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Testimony_Meaning_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

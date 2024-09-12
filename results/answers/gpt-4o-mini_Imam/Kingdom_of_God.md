@@ -19,7 +19,7 @@ In such cases, it can be advisable to rephrase or adapt the terminology to ensur
 Ultimately, the goal should be to maintain the theological integrity of the message while making it accessible and comprehensible to those who may have different cultural frameworks. It is always beneficial to engage with local scholars and community leaders to find the most suitable translation that resonates with the intended audience while remaining true to the original teachings.
 
 ## Average Grade
-67.0
+64.16666666666667
 
 ## Grades
  * [85.0](./Kingdom_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Ultimately, the goal should be to maintain the theological integrity of the mess
  * [30.0](./Kingdom_of_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Kingdom_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Kingdom_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Kingdom_of_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

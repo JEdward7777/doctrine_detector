@@ -23,7 +23,7 @@ In Islam, all forms of love should be guided by the principles of faith, righteo
 Ultimately, love in all its forms is seen as a gift from Allah that should be cherished and expressed in a way that strengthens bonds of kinship, friendship, and marital relationships.
 
 ## Average Grade
-80.0
+77.5
 
 ## Grades
  * [80.0](./Types_of_Love_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ Ultimately, love in all its forms is seen as a gift from Allah that should be ch
  * [85.0](./Types_of_Love_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Types_of_Love_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Types_of_Love_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [65.0](./Types_of_Love_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

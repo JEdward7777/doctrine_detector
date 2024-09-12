@@ -27,7 +27,7 @@ The interaction between the centurion and Jesus, as found in the Gospel of Matth
 In summary, the interaction between the centurion and Jesus highlights important aspects of faith, authority, humility, and God's inclusive mercy, which resonate within both Christian and Islamic teachings. Each tradition may interpret these interactions through their theological lenses, but the underlying principles of faith and respect for divine authority remain central to both.
 
 ## Average Grade
-85.0
+79.16666666666667
 
 ## Grades
  * [85.0](./Centurion_and_Healing_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In summary, the interaction between the centurion and Jesus highlights important
  * [80.0](./Centurion_and_Healing_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Centurion_and_Healing_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Centurion_and_Healing_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Centurion_and_Healing_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

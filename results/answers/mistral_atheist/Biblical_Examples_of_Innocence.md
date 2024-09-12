@@ -23,7 +23,7 @@ These examples serve to elucidate key moments in the New Testament that affirm t
 These examples from Scripture illustrate Jesus' innocence in the face of false accusations and violent persecution, reinforcing the Christian belief in Jesus as an innocent sacrifice for humanity's sins.
 
 ## Average Grade
-90.0
+89.16666666666667
 
 ## Grades
  * [90.0](./Biblical_Examples_of_Innocence_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ These examples from Scripture illustrate Jesus' innocence in the face of false a
  * [90.0](./Biblical_Examples_of_Innocence_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Biblical_Examples_of_Innocence_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_Examples_of_Innocence_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Biblical_Examples_of_Innocence_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

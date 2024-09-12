@@ -19,7 +19,7 @@ In this context, receiving the Holy Spirit signifies the empowerment and guidanc
 It is important to recognize that interpretations of the anointing and the Holy Spirit can vary widely among different denominations and traditions. Each community may emphasize different aspects of this experience based on their theological beliefs and cultural backgrounds. Overall, it is generally viewed as a profound and sacred moment in a person's spiritual life.
 
 ## Average Grade
-89.2
+86.83333333333333
 
 ## Grades
  * [90.0](./Anointing_and_the_Holy_Spirit_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ It is important to recognize that interpretations of the anointing and the Holy 
  * [86.0](./Anointing_and_the_Holy_Spirit_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Anointing_and_the_Holy_Spirit_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Anointing_and_the_Holy_Spirit_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Anointing_and_the_Holy_Spirit_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

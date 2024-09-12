@@ -31,7 +31,7 @@ Understanding the concept of 'appointed time' (maqam al-maktub) can significantl
 In conclusion, recognizing that Allah has appointed times for all events enhances our faith, teaches us patience, encourages gratitude, and helps us to trust in His divine wisdom. It reminds us that our plans may differ from His will, but ultimately, His plan is for our betterment and growth.
 
 ## Average Grade
-93.0
+90.83333333333333
 
 ## Grades
  * [95.0](./God_s_Timing_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,3 +39,4 @@ In conclusion, recognizing that Allah has appointed times for all events enhance
  * [95.0](./God_s_Timing_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./God_s_Timing_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./God_s_Timing_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./God_s_Timing_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

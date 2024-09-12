@@ -15,7 +15,7 @@ Exploring the implications of spiritual separation from God.
  In the New Testament, the phrase "to perish" or its derivatives often refers to spiritual destruction, separation from God, and eternal death, which is contrasted with salvation and eternal life. It signifies a state where an individual misses out on the redeeming grace of Jesus Christ, resulting in everlasting punishment. However, it's crucial to remember that interpretation should always be guided by love, understanding, and sensitivity towards others who may have different perspectives or backgrounds.
 
 ## Average Grade
-87.0
+86.66666666666667
 
 ## Grades
  * [90.0](./Understanding_Perish_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ Exploring the implications of spiritual separation from God.
  * [85.0](./Understanding_Perish_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_Perish_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Understanding_Perish_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Understanding_Perish_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

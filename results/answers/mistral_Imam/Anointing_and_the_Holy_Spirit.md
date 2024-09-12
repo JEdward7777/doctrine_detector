@@ -21,7 +21,7 @@ The practice of anointing in Islam, when it occurs, is primarily associated with
 It's important to remember that each faith has its unique traditions and beliefs, and they should be respected as such. In Islamic theology, the source of guidance and wisdom is solely God, revealed through the Quran and the teachings of Prophet Muhammad (peace be upon him).
 
 ## Average Grade
-62.0
+60.0
 
 ## Grades
  * [50.0](./Anointing_and_the_Holy_Spirit_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ It's important to remember that each faith has its unique traditions and beliefs
  * [60.0](./Anointing_and_the_Holy_Spirit_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [60.0](./Anointing_and_the_Holy_Spirit_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Anointing_and_the_Holy_Spirit_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Anointing_and_the_Holy_Spirit_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

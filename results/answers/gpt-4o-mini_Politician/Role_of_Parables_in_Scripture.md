@@ -17,7 +17,7 @@ The prophet Nathan used a parable as a powerful tool to confront King David abou
 This parable served multiple purposes. It engaged David's empathy and sense of justice, prompting him to react with outrage towards the rich man's actions. Nathan then revealed that the story was a metaphor for David's own behavior, cleverly leading David to recognize his wrongdoing. By using a parable, Nathan effectively communicated a difficult truth in a way that was indirect yet impactful, ultimately leading to David's repentance. This method highlights the importance of wise and compassionate communication when addressing sensitive issues.
 
 ## Average Grade
-92.0
+90.83333333333333
 
 ## Grades
  * [95.0](./Role_of_Parables_in_Scripture_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -25,3 +25,4 @@ This parable served multiple purposes. It engaged David's empathy and sense of j
  * [95.0](./Role_of_Parables_in_Scripture_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Role_of_Parables_in_Scripture_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Role_of_Parables_in_Scripture_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Role_of_Parables_in_Scripture_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

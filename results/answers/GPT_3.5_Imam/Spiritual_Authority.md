@@ -21,7 +21,7 @@ On the other hand, earthly authorities, such as rulers, governments, and politic
 In summary, spiritual authorities in Islam guide individuals in religious matters based on knowledge and understanding of Islamic teachings, while earthly authorities govern societies and uphold justice and order based on legal and governance structures. Both types of authorities play important roles in the life of a Muslim, but their scopes and sources of authority are distinct.
 
 ## Average Grade
-42.0
+40.0
 
 ## Grades
  * [50.0](./Spiritual_Authority_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In summary, spiritual authorities in Islam guide individuals in religious matter
  * [20.0](./Spiritual_Authority_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [75.0](./Spiritual_Authority_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [20.0](./Spiritual_Authority_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [30.0](./Spiritual_Authority_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

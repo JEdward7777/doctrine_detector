@@ -29,7 +29,7 @@ The concept of birthright in the Bible, particularly in the context of the Hebre
 Overall, applying the biblical concept of birthright within a Christian family allows for a deeper exploration of roles, responsibilities, and identity, emphasizing faith, community, and the transformative power of grace in familial relationships.
 
 ## Average Grade
-91.0
+90.0
 
 ## Grades
  * [85.0](./Firstborn_Blessing_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ Overall, applying the biblical concept of birthright within a Christian family a
  * [95.0](./Firstborn_Blessing_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Firstborn_Blessing_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Firstborn_Blessing_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Firstborn_Blessing_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

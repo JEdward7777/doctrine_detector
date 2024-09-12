@@ -27,7 +27,7 @@ Testimony in the context of the Bible holds great significance, particularly whe
 In summary, testimony regarding the commandments of God in the Bible is significant as it promotes faith affirmation, fosters community, provides moral guidance, and serves as a historical record that ultimately enhances the understanding and application of these commandments in contemporary life.
 
 ## Average Grade
-87.0
+84.16666666666667
 
 ## Grades
  * [85.0](./Testimony_Meaning_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In summary, testimony regarding the commandments of God in the Bible is signific
  * [85.0](./Testimony_Meaning_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Testimony_Meaning_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Testimony_Meaning_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Testimony_Meaning_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

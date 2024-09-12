@@ -29,7 +29,7 @@ The Nazirite vow, as described in the Book of Numbers (6:1-21), is a commitment 
 In conclusion, while the intricacies of Nazirite vows may not have direct parallels in Islamic practice, the underlying principles of commitment to God, strength found in faith, consequences for disobedience, and the importance of repentance resonate deeply with Islamic teachings. Samson's story can serve as a rich narrative to reflect upon the significance of being devoted and mindful of one’s promises to God.
 
 ## Average Grade
-90.0
+86.66666666666667
 
 ## Grades
  * [90.0](./Samson_s_Nazirite_Status_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ In conclusion, while the intricacies of Nazirite vows may not have direct parall
  * [90.0](./Samson_s_Nazirite_Status_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Samson_s_Nazirite_Status_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Samson_s_Nazirite_Status_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Samson_s_Nazirite_Status_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

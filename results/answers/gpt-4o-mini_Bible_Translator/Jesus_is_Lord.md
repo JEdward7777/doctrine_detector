@@ -27,7 +27,7 @@ When communicating the phrase "Jesus is Lord" in a context where political leade
 By approaching the phrase "Jesus is Lord" with these considerations, you can communicate its profound significance while acknowledging the cultural context in which it is being used.
 
 ## Average Grade
-92.8
+91.5
 
 ## Grades
  * [95.0](./Jesus_is_Lord_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ By approaching the phrase "Jesus is Lord" with these considerations, you can com
  * [90.0](./Jesus_is_Lord_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [92.0](./Jesus_is_Lord_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Jesus_is_Lord_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Jesus_is_Lord_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

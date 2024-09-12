@@ -25,7 +25,7 @@ Romans 8:23 states, "And not only the creation, but we ourselves, who have the f
 For believers, Romans 8:23 serves as a reminder of the hope and future glory that awaits them, encouraging them to remain steadfast amidst life's challenges. It reassures them of their identity as children of God and the promise of a fully redeemed existence, urging them to live with a sense of purpose and anticipation for what is to come.
 
 ## Average Grade
-94.0
+92.5
 
 ## Grades
  * [95.0](./Looking_Forward_to_Adoption_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ For believers, Romans 8:23 serves as a reminder of the hope and future glory tha
  * [95.0](./Looking_Forward_to_Adoption_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Looking_Forward_to_Adoption_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Looking_Forward_to_Adoption_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Looking_Forward_to_Adoption_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

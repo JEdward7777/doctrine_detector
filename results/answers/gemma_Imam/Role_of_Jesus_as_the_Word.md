@@ -47,7 +47,7 @@ In Christianity, Jesus is believed to be the Word of God made flesh. This title 
 * Islamic beliefs emphasize the uniqueness of Allah as the Creator and Sustainer of the universe, and do not recognize Jesus as having divine essence.
 
 ## Average Grade
-85.0
+82.5
 
 ## Grades
  * [90.0](./Role_of_Jesus_as_the_Word_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -55,3 +55,4 @@ In Christianity, Jesus is believed to be the Word of God made flesh. This title 
  * [85.0](./Role_of_Jesus_as_the_Word_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Role_of_Jesus_as_the_Word_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Role_of_Jesus_as_the_Word_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Role_of_Jesus_as_the_Word_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

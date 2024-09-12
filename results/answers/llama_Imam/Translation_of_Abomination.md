@@ -33,7 +33,7 @@ However, it is essential to acknowledge that Islam and Christianity have distinc
 May Allah guide us in our pursuit of knowledge and understanding, and may we always prioritize humility and respect in our interactions with people of other faiths.
 
 ## Average Grade
-87.0
+77.5
 
 ## Grades
  * [85.0](./Translation_of_Abomination_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -41,3 +41,4 @@ May Allah guide us in our pursuit of knowledge and understanding, and may we alw
  * [90.0](./Translation_of_Abomination_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Translation_of_Abomination_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Translation_of_Abomination_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [30.0](./Translation_of_Abomination_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

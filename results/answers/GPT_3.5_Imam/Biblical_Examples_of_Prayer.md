@@ -23,7 +23,7 @@ Additionally, there are numerous stories in the Quran that illustrate the power 
 Overall, prayer in Islam is not just a routine ritual, but a powerful means of connecting with Allah, seeking guidance, and finding peace and tranquility in times of need. It is a way to strengthen one's faith, seek forgiveness, and express gratitude to the Creator.
 
 ## Average Grade
-64.0
+61.666666666666664
 
 ## Grades
  * [70.0](./Biblical_Examples_of_Prayer_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ Overall, prayer in Islam is not just a routine ritual, but a powerful means of c
  * [70.0](./Biblical_Examples_of_Prayer_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Biblical_Examples_of_Prayer_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Biblical_Examples_of_Prayer_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Biblical_Examples_of_Prayer_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

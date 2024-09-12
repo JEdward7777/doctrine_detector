@@ -31,7 +31,7 @@ The concept of humans being created in the "image of God" (often referred to as 
 While these characteristics can be interpreted differently across various philosophical and theological frameworks, they represent common themes associated with the idea of humans created in the image of God within a biblical context. Each characteristic can also be examined through a secular lens, recognizing the depth of human experience and consciousness without necessarily attributing those qualities to a divine source.
 
 ## Average Grade
-89.0
+87.5
 
 ## Grades
  * [95.0](./Understanding_the_Image_of_God_in_Humans_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,3 +39,4 @@ While these characteristics can be interpreted differently across various philos
  * [85.0](./Understanding_the_Image_of_God_in_Humans_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_the_Image_of_God_in_Humans_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_the_Image_of_God_in_Humans_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Understanding_the_Image_of_God_in_Humans_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

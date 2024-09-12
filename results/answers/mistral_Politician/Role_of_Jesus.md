@@ -21,7 +21,7 @@ His resurrection, three days after His death, is seen as proof of Jesus's divine
 To avoid potential misunderstandings or offenses, it may be helpful to stress that the interpretation of scripture can vary widely among individuals and religious groups, and it's essential to promote respectful dialogue and understanding in discussing these topics.
 
 ## Average Grade
-94.0
+90.0
 
 ## Grades
  * [95.0](./Role_of_Jesus_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ To avoid potential misunderstandings or offenses, it may be helpful to stress th
  * [90.0](./Role_of_Jesus_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Role_of_Jesus_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Role_of_Jesus_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Role_of_Jesus_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -19,7 +19,7 @@ In the New Testament, specifically in Matthew 1:21, an angel instructs Joseph to
 Thus, the name "Jesus" signifies not only His identity but also His divine purpose as the Savior and Redeemer, emphasizing God’s initiative to restore and redeem His creation.
 
 ## Average Grade
-93.0
+93.33333333333333
 
 ## Grades
  * [95.0](./Identity_of_Jesus_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Thus, the name "Jesus" signifies not only His identity but also His divine purpo
  * [95.0](./Identity_of_Jesus_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Identity_of_Jesus_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Identity_of_Jesus_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [95.0](./Identity_of_Jesus_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

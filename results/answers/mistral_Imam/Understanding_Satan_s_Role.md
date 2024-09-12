@@ -19,7 +19,7 @@ In the New Testament, Satan is presented more negatively, as an evil force that 
 However, it's important to note that there are many nuanced interpretations and understandings of Satan within Christianity, just as there are different perspectives on various religious figures and concepts across faith traditions. As a Muslim Imam, I would encourage anyone seeking a deeper understanding of this figure to study the relevant scriptures and seek out learned scholars for guidance.
 
 ## Average Grade
-86.0
+85.83333333333333
 
 ## Grades
  * [85.0](./Understanding_Satan_s_Role_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ However, it's important to note that there are many nuanced interpretations and 
  * [80.0](./Understanding_Satan_s_Role_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_Satan_s_Role_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Satan_s_Role_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Understanding_Satan_s_Role_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

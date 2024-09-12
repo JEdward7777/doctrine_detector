@@ -21,7 +21,7 @@ In **1 Timothy 3:8-13**, the qualifications and responsibilities of deacons are 
 Overall, the New Testament presents deacons as servants of the church who assist in practical matters, allowing the apostles and elders to focus on teaching and leading the spiritual life of the community. Their role is integral to the functioning and growth of the church.
 
 ## Average Grade
-91.0
+87.5
 
 ## Grades
  * [90.0](./Biblical_Context_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Overall, the New Testament presents deacons as servants of the church who assist
  * [95.0](./Biblical_Context_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Biblical_Context_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Biblical_Context_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Biblical_Context_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

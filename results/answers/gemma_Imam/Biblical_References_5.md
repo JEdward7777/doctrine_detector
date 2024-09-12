@@ -24,7 +24,7 @@ The Qur'an, in several verses, clearly parallels the Islamic practice of using u
 **These verses clearly establish the connection between the Islamic practice of using unleavened bread and the Christian teachings found in the Qur'an.**
 
 ## Average Grade
-18.0
+16.666666666666668
 
 ## Grades
  * [20.0](./Biblical_References_5_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,3 +32,4 @@ The Qur'an, in several verses, clearly parallels the Islamic practice of using u
  * [20.0](./Biblical_References_5_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [20.0](./Biblical_References_5_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [20.0](./Biblical_References_5_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [10.0](./Biblical_References_5_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -19,7 +19,7 @@ In contrast, mainstream Christian teaching, particularly as articulated in the N
 Thus, the primary contrast lies in the Sadducees' materialistic view of existence, focusing on life in the present and denying any afterlife, whereas Christian doctrine embraces the transformative hope of resurrection and eternal life beyond earthly existence.
 
 ## Average Grade
-88.0
+87.5
 
 ## Grades
  * [95.0](./Sadducees_and_Resurrection_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Thus, the primary contrast lies in the Sadducees' materialistic view of existenc
  * [95.0](./Sadducees_and_Resurrection_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Sadducees_and_Resurrection_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Sadducees_and_Resurrection_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Sadducees_and_Resurrection_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

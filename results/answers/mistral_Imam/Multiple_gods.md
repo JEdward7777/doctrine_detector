@@ -21,7 +21,7 @@ It is important for missionaries and interfaith dialogue participants to clarify
 Engaging in open, respectful, and informed dialogue can help dispel misunderstandings and foster mutual understanding and respect among followers of different religions. It is also essential to approach these conversations with humility, recognizing that each individual may have unique interpretations and beliefs within their faith tradition.
 
 ## Average Grade
-78.0
+70.0
 
 ## Grades
  * [80.0](./Multiple_gods_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Engaging in open, respectful, and informed dialogue can help dispel misunderstan
  * [80.0](./Multiple_gods_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Multiple_gods_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Multiple_gods_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [30.0](./Multiple_gods_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -21,7 +21,7 @@ It was believed that only the appointed priests and prophets of the Israelites w
 As Muslims, we are taught to respect and revere all the Prophets and the sacred relics associated with them, including the Ark of the Covenant. It is important for believers to approach such symbols with humility, reverence, and the intention of seeking guidance and blessings from Allah.
 
 ## Average Grade
-80.0
+71.66666666666667
 
 ## Grades
  * [90.0](./High_Priest_Access_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ As Muslims, we are taught to respect and revere all the Prophets and the sacred 
  * [90.0](./High_Priest_Access_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./High_Priest_Access_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./High_Priest_Access_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [30.0](./High_Priest_Access_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

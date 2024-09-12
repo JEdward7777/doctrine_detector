@@ -19,7 +19,7 @@ This event is particularly associated with the promises made by God through vari
 This return was understood by many Jews as a fulfillment of divine promise and a demonstration of God's faithfulness to His covenant with the Israelites. However, it's important to note that the interpretation of these events is subjective and varies across different religious and scholarly perspectives. From an atheistic standpoint, this event can be seen as a significant moment in Jewish history, but its significance is attributed not to divine intervention but rather to political, social, and cultural factors.
 
 ## Average Grade
-86.0
+85.0
 
 ## Grades
  * [80.0](./Return_from_Exile_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ This return was understood by many Jews as a fulfillment of divine promise and a
  * [95.0](./Return_from_Exile_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Return_from_Exile_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Return_from_Exile_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Return_from_Exile_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

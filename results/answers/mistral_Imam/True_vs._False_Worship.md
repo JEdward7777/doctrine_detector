@@ -19,7 +19,7 @@ Worshiping false gods, on the other hand, is considered a grave sin in Islam, kn
 In summary, the difference lies in the intention and focus of one's acts of worship. True worship of God is characterized by sincerity, submission, and devotion to Allah alone, while worshiping false gods involves attributing partners or equals to Him, which contradicts the Islamic belief in Tawhid (the Oneness of God).
 
 ## Average Grade
-92.0
+88.33333333333333
 
 ## Grades
  * [95.0](./True_vs._False_Worship_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ In summary, the difference lies in the intention and focus of one's acts of wors
  * [90.0](./True_vs._False_Worship_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./True_vs._False_Worship_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./True_vs._False_Worship_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./True_vs._False_Worship_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

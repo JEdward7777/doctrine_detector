@@ -21,7 +21,7 @@ Jesus also emphasized the role of repentance and seeking forgiveness as a means 
 Overall, while purification was important in both the Old and New Testaments, the emphasis in the New Testament is more on internal purity, repentance, and seeking forgiveness through faith in God's mercy and grace.
 
 ## Average Grade
-91.0
+87.5
 
 ## Grades
  * [90.0](./New_Testament_Redemption_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Overall, while purification was important in both the Old and New Testaments, th
  * [90.0](./New_Testament_Redemption_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./New_Testament_Redemption_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./New_Testament_Redemption_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./New_Testament_Redemption_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -17,7 +17,7 @@ In a Christian context, the phrase "circumcision of the heart" symbolizes a spir
 The phrase emphasizes the importance of spiritual purity, love, and a commitment to following God's will. It invites believers to reflect on their attitudes, intentions, and the sincerity of their faith, suggesting that true devotion comes from an inner change rather than merely adhering to external practices. This metaphor encourages personal growth, humility, and a deeper connection to the values of compassion and grace within Christianity.
 
 ## Average Grade
-90.0
+86.66666666666667
 
 ## Grades
  * [90.0](./Spiritual_Significance_of_Circumcision_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -25,3 +25,4 @@ The phrase emphasizes the importance of spiritual purity, love, and a commitment
  * [95.0](./Spiritual_Significance_of_Circumcision_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Spiritual_Significance_of_Circumcision_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Spiritual_Significance_of_Circumcision_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Spiritual_Significance_of_Circumcision_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

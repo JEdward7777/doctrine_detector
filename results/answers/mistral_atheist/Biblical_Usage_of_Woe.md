@@ -25,7 +25,7 @@ Examining the seriousness of divine judgment as expressed through scripture.
 These examples reveal a consistent theme of God's judgment on those who disobey Him and harm others, particularly the vulnerable and oppressed. The use of "woe" underscores the gravity and severity of God's condemnation and serves as a warning to all people throughout history.
 
 ## Average Grade
-92.0
+90.83333333333333
 
 ## Grades
  * [95.0](./Biblical_Usage_of_Woe_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ These examples reveal a consistent theme of God's judgment on those who disobey 
  * [95.0](./Biblical_Usage_of_Woe_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Biblical_Usage_of_Woe_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_Usage_of_Woe_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Biblical_Usage_of_Woe_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

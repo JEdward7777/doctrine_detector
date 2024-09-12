@@ -27,7 +27,7 @@ The term 'holy place' in the context of the tabernacle or temple is significant 
 In summary, the 'holy place' is significant as a multi-dimensional symbol of divine presence, a space for ritual interaction between humanity and the divine, a community focal point for worship, and a foundational aspect of theological discourse that persists in various religious traditions today.
 
 ## Average Grade
-89.0
+87.5
 
 ## Grades
  * [95.0](./Definition_of_Holy_Place_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In summary, the 'holy place' is significant as a multi-dimensional symbol of div
  * [90.0](./Definition_of_Holy_Place_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Definition_of_Holy_Place_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Definition_of_Holy_Place_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Definition_of_Holy_Place_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -19,7 +19,7 @@ In contrast, Christian teaching strongly affirms the resurrection of the dead, c
 Thus, the core contrast lies in the Sadducees' denial of any resurrection after death and their limited theological scope compared to Christianity's broader eschatological views, including both the resurrection of Christ and the hope of resurrection for believers. This divergence reflects fundamental differences in beliefs about life after death and the nature of God's revelation and promises.
 
 ## Average Grade
-90.0
+89.16666666666667
 
 ## Grades
  * [90.0](./Sadducees_and_Resurrection_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Thus, the core contrast lies in the Sadducees' denial of any resurrection after 
  * [95.0](./Sadducees_and_Resurrection_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Sadducees_and_Resurrection_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Sadducees_and_Resurrection_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Sadducees_and_Resurrection_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

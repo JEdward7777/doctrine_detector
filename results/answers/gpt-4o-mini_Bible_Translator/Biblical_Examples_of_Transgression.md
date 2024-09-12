@@ -31,7 +31,7 @@ Transgression in the Bible often refers to the act of violating God's commandmen
 These references collectively provide a theological understanding of transgression in the context of sin, law, and redemption in the Christian narrative.
 
 ## Average Grade
-84.0
+83.33333333333333
 
 ## Grades
  * [85.0](./Biblical_Examples_of_Transgression_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,3 +39,4 @@ These references collectively provide a theological understanding of transgressi
  * [80.0](./Biblical_Examples_of_Transgression_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Biblical_Examples_of_Transgression_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_Examples_of_Transgression_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Biblical_Examples_of_Transgression_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

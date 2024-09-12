@@ -29,7 +29,7 @@ In the Bible, Jesus approached the healing of demon-possessed individuals with a
 Overall, Jesus’ approach to healing the demon-possessed reflects His identity as the Son of God, His compassion for human suffering, and His mission to liberate those in bondage to sin and evil.
 
 ## Average Grade
-93.0
+90.83333333333333
 
 ## Grades
  * [95.0](./Healing_Through_Jesus_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ Overall, Jesus’ approach to healing the demon-possessed reflects His identity 
  * [95.0](./Healing_Through_Jesus_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Healing_Through_Jesus_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Healing_Through_Jesus_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Healing_Through_Jesus_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

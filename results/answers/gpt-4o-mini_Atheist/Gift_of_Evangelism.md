@@ -29,7 +29,7 @@ An evangelist can be distinguished from other Christians primarily by their emph
 While all Christians are encouraged to share their faith to some extent, evangelists typically embody a particularly active and dedicated approach to evangelism and outreach.
 
 ## Average Grade
-88.0
+85.0
 
 ## Grades
  * [85.0](./Gift_of_Evangelism_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ While all Christians are encouraged to share their faith to some extent, evangel
  * [90.0](./Gift_of_Evangelism_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Gift_of_Evangelism_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Gift_of_Evangelism_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Gift_of_Evangelism_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

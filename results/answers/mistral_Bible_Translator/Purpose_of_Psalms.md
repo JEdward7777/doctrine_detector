@@ -23,7 +23,7 @@ Throughout the Old Testament, we see various examples of Israelite leaders using
 Overall, the Book of Psalms was an essential part of Israel's worship practices, providing guidance and inspiration for both corporate and individual worship experiences. It continues to be a valuable resource for Christians today, as we seek to grow in our relationship with God through prayer, praise, and meditation on His Word.
 
 ## Average Grade
-92.0
+90.83333333333333
 
 ## Grades
  * [95.0](./Purpose_of_Psalms_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ Overall, the Book of Psalms was an essential part of Israel's worship practices,
  * [95.0](./Purpose_of_Psalms_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Purpose_of_Psalms_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Purpose_of_Psalms_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Purpose_of_Psalms_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

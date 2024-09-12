@@ -21,7 +21,7 @@ Their teachings emphasized meticulous adherence to dietary laws, Sabbath observa
 In summary, the Pharisees were concerned about separating the Jewish people from the Gentiles because they believed that maintaining distinct cultural and religious identities would help preserve their unique relationship with God and ensure the survival of their community amidst the challenges posed by Hellenistic culture during the Greco-Roman era.
 
 ## Average Grade
-87.0
+87.5
 
 ## Grades
  * [90.0](./Separation_from_Gentiles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In summary, the Pharisees were concerned about separating the Jewish people from
  * [85.0](./Separation_from_Gentiles_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Separation_from_Gentiles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Separation_from_Gentiles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Separation_from_Gentiles_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

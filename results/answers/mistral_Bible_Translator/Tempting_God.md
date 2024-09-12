@@ -25,7 +25,7 @@ In addition, it can lead to spiritual consequences such as estrangement from God
 Therefore, it is important to have faith in God's providence, trusting that He will guide us and protect us when we follow His commands. It is also important to remember that while God is loving and merciful, He is also just and holy, and our actions have consequences, both here on earth and in eternity.
 
 ## Average Grade
-94.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Tempting_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ Therefore, it is important to have faith in God's providence, trusting that He w
  * [95.0](./Tempting_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Tempting_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Tempting_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Tempting_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

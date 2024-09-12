@@ -27,7 +27,7 @@ The term "Son of God" in relation to Jesus is a complex and multifaceted concept
 In summary, the term "Son of God" in relation to Jesus signifies His divine nature, messianic identity, intimate relationship with the Father, and His central role in the salvation of humanity, rooted in the theological traditions of early Christianity and experienced through the early Christian community.
 
 ## Average Grade
-93.0
+90.83333333333333
 
 ## Grades
  * [95.0](./Son_of_God_Understanding_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In summary, the term "Son of God" in relation to Jesus signifies His divine natu
  * [95.0](./Son_of_God_Understanding_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Son_of_God_Understanding_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Son_of_God_Understanding_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Son_of_God_Understanding_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -27,7 +27,7 @@ In Christian theology, particularly within Protestant traditions, a person is de
 In summary, within the Christian faith, a person is declared righteous through faith in Jesus Christ, God’s grace, the atonement provided by Christ, the imputed righteousness from Christ, and the transformative work of the Holy Spirit in their lives.
 
 ## Average Grade
-92.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Human_Righteousness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In summary, within the Christian faith, a person is declared righteous through f
  * [95.0](./Human_Righteousness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Human_Righteousness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Human_Righteousness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Human_Righteousness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

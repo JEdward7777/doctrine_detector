@@ -21,7 +21,7 @@ Ensuring accurate biblical representation in translations for greater understand
 By using these alternative translations, you can maintain respect for diverse religious perspectives while accurately representing the original meanings of Hades and Sheol in a politically correct manner.
 
 ## Average Grade
-63.0
+64.16666666666667
 
 ## Grades
  * [60.0](./Translation_of_Hades_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ By using these alternative translations, you can maintain respect for diverse re
  * [60.0](./Translation_of_Hades_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [40.0](./Translation_of_Hades_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Translation_of_Hades_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Translation_of_Hades_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

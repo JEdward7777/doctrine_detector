@@ -35,7 +35,7 @@ Christians are called to fulfill their roles within the Church in several key wa
 In summary, Christians are called to serve selflessly, use their gifts for Godâ€™s glory, support one another, lead with integrity, engage in worship, promote unity, evangelize, and live holy lives. Together, these elements contribute to a healthy and vibrant Church that reflects the love and teachings of Jesus Christ.
 
 ## Average Grade
-95.0
+92.5
 
 ## Grades
  * [95.0](./Role_of_Appointments_in_Service_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -43,3 +43,4 @@ In summary, Christians are called to serve selflessly, use their gifts for Godâ€
  * [95.0](./Role_of_Appointments_in_Service_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Role_of_Appointments_in_Service_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Role_of_Appointments_in_Service_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Role_of_Appointments_in_Service_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

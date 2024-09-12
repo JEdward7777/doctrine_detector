@@ -23,7 +23,7 @@ The three terms that are often used interchangeably to refer to God's chosen peo
 These terms highlight different aspects of God's covenantal relationship with His people throughout the scriptures.
 
 ## Average Grade
-88.0
+88.33333333333333
 
 ## Grades
  * [95.0](./Terminology_in_the_Bible_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ These terms highlight different aspects of God's covenantal relationship with Hi
  * [95.0](./Terminology_in_the_Bible_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Terminology_in_the_Bible_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Terminology_in_the_Bible_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Terminology_in_the_Bible_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

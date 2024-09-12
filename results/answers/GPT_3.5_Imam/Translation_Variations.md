@@ -21,7 +21,7 @@ In the context of Islamic teachings, some alternative translations for 'covenant
 These terms emphasize the importance of being trustworthy, loyal, and truthful in honoring commitments and agreements, which are core values in Islam.
 
 ## Average Grade
-71.0
+69.16666666666667
 
 ## Grades
  * [80.0](./Translation_Variations_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ These terms emphasize the importance of being trustworthy, loyal, and truthful i
  * [85.0](./Translation_Variations_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [60.0](./Translation_Variations_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Translation_Variations_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Translation_Variations_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

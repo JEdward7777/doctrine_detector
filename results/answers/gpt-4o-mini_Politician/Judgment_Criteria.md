@@ -29,7 +29,7 @@ From a biblical perspective, the day of judgment is often understood as a time w
 These points represent general themes and should be understood within the context of specific faith traditions, as interpretations can vary widely among believers. It's essential to approach discussions about faith with sensitivity and an appreciation for the diverse beliefs that individuals hold.
 
 ## Average Grade
-90.0
+89.16666666666667
 
 ## Grades
  * [90.0](./Judgment_Criteria_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ These points represent general themes and should be understood within the contex
  * [85.0](./Judgment_Criteria_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Judgment_Criteria_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Judgment_Criteria_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Judgment_Criteria_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

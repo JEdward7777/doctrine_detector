@@ -30,7 +30,7 @@ Understanding the personal relationship and intention God has towards individual
 **In Islamic understanding, this concept resonates with the belief in Allah's knowledge and love for His creation.** Allah's knowledge of individuals is vast and profound, and His calling is an expression of His love and desire to have a close and intimate relationship with His followers.
 
 ## Average Grade
-85.0
+77.5
 
 ## Grades
  * [85.0](./Understanding_God_s_Call_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,3 +38,4 @@ Understanding the personal relationship and intention God has towards individual
  * [80.0](./Understanding_God_s_Call_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Understanding_God_s_Call_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_God_s_Call_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Understanding_God_s_Call_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

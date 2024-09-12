@@ -27,7 +27,7 @@ The blood in the Passover event, as described in the book of Exodus (Exodus 12:1
 In summary, the significance of the blood in the Passover event transcends its original setting, emerging as a pivotal theme in biblical theology that points toward the fulfillment of God’s redemptive plan through Christ.
 
 ## Average Grade
-92.0
+90.83333333333333
 
 ## Grades
  * [90.0](./Role_of_Blood_in_Passover_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In summary, the significance of the blood in the Passover event transcends its o
  * [95.0](./Role_of_Blood_in_Passover_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Role_of_Blood_in_Passover_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Role_of_Blood_in_Passover_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Role_of_Blood_in_Passover_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

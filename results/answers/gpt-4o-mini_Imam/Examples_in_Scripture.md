@@ -27,7 +27,7 @@ While my focus is on Islamic teachings, I can acknowledge that the topic of demo
 These examples demonstrate beliefs about demonic possession and the authority of Jesus to cast out demons in Christian scripture. In Islam, while the concept of jinn (which can have bad or evil influences) is present, the focus tends to be more on seeking refuge through prayer, recitation of the Qur'an, and focusing on one's faith rather than on exorcisms as depicted in some Biblical accounts.
 
 ## Average Grade
-90.0
+87.5
 
 ## Grades
  * [90.0](./Examples_in_Scripture_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ These examples demonstrate beliefs about demonic possession and the authority of
  * [95.0](./Examples_in_Scripture_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Examples_in_Scripture_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Examples_in_Scripture_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Examples_in_Scripture_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -19,7 +19,7 @@ In the New Testament, there is no direct equivalent to Noah's Ark. In the apocry
 When discussing these various uses in a politically correct manner, it's essential to acknowledge the diverse interpretations and understandings of religious texts among different communities. It's always best to use respectful language that encourages open dialogue and avoids causing offense or confusion.
 
 ## Average Grade
-80.0
+76.66666666666667
 
 ## Grades
  * [85.0](./Translation_of_Ark_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ When discussing these various uses in a politically correct manner, it's essenti
  * [90.0](./Translation_of_Ark_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Translation_of_Ark_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Translation_of_Ark_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Translation_of_Ark_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

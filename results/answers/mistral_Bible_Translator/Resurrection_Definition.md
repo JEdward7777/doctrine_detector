@@ -17,7 +17,7 @@ Understanding the fundamental concept of resurrection is crucial for comprehensi
 In Christian theology, the Resurrection signifies that Jesus was indeed God Incarnate (God in human form) as he could not die permanently but had to be resurrected, demonstrating his power over death itself. The Resurrection is celebrated by Christians worldwide on Easter Sunday. It's important to note that the specifics of this event may vary slightly among different Christian denominations, yet the core belief remains consistent: Jesus Christ was crucified, died, and rose again three days later.
 
 ## Average Grade
-92.0
+90.0
 
 ## Grades
  * [95.0](./Resurrection_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -25,3 +25,4 @@ In Christian theology, the Resurrection signifies that Jesus was indeed God Inca
  * [95.0](./Resurrection_Definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Resurrection_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Resurrection_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Resurrection_Definition_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

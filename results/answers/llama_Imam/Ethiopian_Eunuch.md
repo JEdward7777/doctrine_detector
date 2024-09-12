@@ -25,7 +25,7 @@ This encounter is significant for several reasons:
 In our context, this story serves as a reminder of the importance of scriptural study, the empowerment of the Holy Spirit, and the inclusivity of Islamic teachings. It encourages us to approach others with compassion, understanding, and a willingness to share the message of God's love, regardless of their background or circumstances.
 
 ## Average Grade
-88.0
+85.0
 
 ## Grades
  * [85.0](./Ethiopian_Eunuch_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ In our context, this story serves as a reminder of the importance of scriptural 
  * [85.0](./Ethiopian_Eunuch_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Ethiopian_Eunuch_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Ethiopian_Eunuch_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Ethiopian_Eunuch_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

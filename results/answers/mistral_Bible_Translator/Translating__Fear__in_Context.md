@@ -33,7 +33,7 @@ Misinterpretation of 'fear' may lead to a distorted view of God, affecting one's
 Understanding the different ways in which 'fear' can be translated when referring to God is important because it helps Christians develop a well-rounded view of their relationship with God. A healthy fear or reverence for God should inspire Christians to live holy lives, obey His commandments, and serve Him faithfully. At the same time, this fear should not overtake love and trust in God, as a proper understanding of God's character and nature is essential for maintaining a strong, meaningful relationship with Him.
 
 ## Average Grade
-94.0
+92.5
 
 ## Grades
  * [95.0](./Translating__Fear__in_Context_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -41,3 +41,4 @@ Understanding the different ways in which 'fear' can be translated when referrin
  * [95.0](./Translating__Fear__in_Context_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Translating__Fear__in_Context_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Translating__Fear__in_Context_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Translating__Fear__in_Context_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

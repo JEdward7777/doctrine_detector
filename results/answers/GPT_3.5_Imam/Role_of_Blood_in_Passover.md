@@ -19,7 +19,7 @@ The shedding of blood also alludes to the sacrificial system present in the Isra
 Overall, the blood in the Passover event symbolizes protection, salvation, atonement, and the importance of obedience to God's commands. It also points towards the ultimate sacrifice of Jesus Christ, who is considered the ultimate Passover Lamb in Christian belief, offering redemption and deliverance from sin.
 
 ## Average Grade
-90.0
+89.16666666666667
 
 ## Grades
  * [95.0](./Role_of_Blood_in_Passover_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Overall, the blood in the Passover event symbolizes protection, salvation, atone
  * [95.0](./Role_of_Blood_in_Passover_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Role_of_Blood_in_Passover_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Role_of_Blood_in_Passover_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Role_of_Blood_in_Passover_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

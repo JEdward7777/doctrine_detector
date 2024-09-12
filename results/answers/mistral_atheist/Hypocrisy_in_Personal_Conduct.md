@@ -29,7 +29,7 @@ Hypocrisy can lead to a loss of integrity and may cause others to question our f
 7. Cultivate empathy: Put yourself in other people's shoes to understand their perspectives and experiences. This helps foster an environment of understanding, respect, and tolerance for others while encouraging positive social change.
 
 ## Average Grade
-85.0
+84.16666666666667
 
 ## Grades
  * [90.0](./Hypocrisy_in_Personal_Conduct_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ Hypocrisy can lead to a loss of integrity and may cause others to question our f
  * [85.0](./Hypocrisy_in_Personal_Conduct_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Hypocrisy_in_Personal_Conduct_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Hypocrisy_in_Personal_Conduct_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Hypocrisy_in_Personal_Conduct_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

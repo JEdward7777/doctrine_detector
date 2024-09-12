@@ -25,7 +25,7 @@ In Ephesians 1:5, the Apostle Paul writes, "He predestined us for adoption to so
 In summary, while the specifics of adoption as outlined in Ephesians 1:5 resonate within a Christian framework, reflecting grace, intimacy, community, and moral responsibility, similar principles can be appreciated within the broader Islamic context of divine mercy, human connection, and responsible living.
 
 ## Average Grade
-77.0
+75.83333333333333
 
 ## Grades
  * [80.0](./Understanding_Adoption_in_Christ_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ In summary, while the specifics of adoption as outlined in Ephesians 1:5 resonat
  * [80.0](./Understanding_Adoption_in_Christ_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Understanding_Adoption_in_Christ_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Adoption_in_Christ_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Understanding_Adoption_in_Christ_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

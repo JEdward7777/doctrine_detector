@@ -21,7 +21,7 @@ It is important to understand, though, that while zeal can be a positive and dri
 In a broader spiritual context, such as within Islam, zeal can be seen as akin to the concept of 'ijazah' or fervent devotion to one’s faith, where it is also balanced with knowledge, compassion, and righteousness.
 
 ## Average Grade
-90.0
+88.33333333333333
 
 ## Grades
  * [90.0](./Zeal_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In a broader spiritual context, such as within Islam, zeal can be seen as akin t
  * [95.0](./Zeal_Definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Zeal_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Zeal_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Zeal_Definition_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

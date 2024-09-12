@@ -19,7 +19,7 @@ The concept of innocent blood serves as a reminder that taking an innocent life 
 When addressing this topic today, it's essential to recognize that while innocent blood is a biblical concept, interpretations can vary. In general, using the Bible as a guide, we should strive to promote policies and actions that value all human life, protect the vulnerable, and uphold justice for everyone.
 
 ## Average Grade
-88.0
+87.5
 
 ## Grades
  * [90.0](./Innocent_Suffering_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ When addressing this topic today, it's essential to recognize that while innocen
  * [90.0](./Innocent_Suffering_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Innocent_Suffering_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Innocent_Suffering_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Innocent_Suffering_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

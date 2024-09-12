@@ -40,7 +40,7 @@ Understanding Jesus' messianic role is central to the Christian faith.
 - Jesus' kingship is seen as an essential part of God's redemptive work in the world.
 
 ## Average Grade
-81.0
+81.66666666666667
 
 ## Grades
  * [90.0](./Messianic_Identity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -48,3 +48,4 @@ Understanding Jesus' messianic role is central to the Christian faith.
  * [95.0](./Messianic_Identity_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Messianic_Identity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Messianic_Identity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Messianic_Identity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

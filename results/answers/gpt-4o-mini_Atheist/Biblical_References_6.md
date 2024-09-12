@@ -27,7 +27,7 @@ The concept of resurrection is significant in the Bible, particularly in the New
 These verses collectively reflect the theological significance of resurrection as a promise of new life, transformation, and eternal existence beyond physical death. They are central to the Christian faith and have shaped various beliefs and practices regarding life after death.
 
 ## Average Grade
-89.0
+89.16666666666667
 
 ## Grades
  * [85.0](./Biblical_References_6_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ These verses collectively reflect the theological significance of resurrection a
  * [95.0](./Biblical_References_6_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Biblical_References_6_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Biblical_References_6_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Biblical_References_6_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

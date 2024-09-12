@@ -36,7 +36,7 @@ In the context of Christian belief, trust and faith are closely related concepts
 In summary, while faith and trust in the Christian context are distinct, they are interdependent; faith lays the groundwork for trust, while trust can enhance and affirm faith. This relationship underscores the complexity of belief and the lived experience of believers.
 
 ## Average Grade
-93.0
+90.83333333333333
 
 ## Grades
  * [95.0](./Faith_and_Trust_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -44,3 +44,4 @@ In summary, while faith and trust in the Christian context are distinct, they ar
  * [95.0](./Faith_and_Trust_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Faith_and_Trust_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Faith_and_Trust_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Faith_and_Trust_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -25,7 +25,7 @@ Recognizing the link between obedience to God and wisdom can enhance one's spiri
 By seeking a close relationship with God through prayer, meditation on His word, and obedience, Christians believe that they can grow in wisdom as they listen to His guidance. This wisdom enables them to discern right from wrong, make wise decisions, and live a life pleasing to God. It's important to note that wisdom, according to Christian theology, goes hand-in-hand with humility and obedience.
 
 ## Average Grade
-95.0
+94.16666666666667
 
 ## Grades
  * [95.0](./Obedience_and_Wisdom_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ By seeking a close relationship with God through prayer, meditation on His word,
  * [95.0](./Obedience_and_Wisdom_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Obedience_and_Wisdom_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Obedience_and_Wisdom_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Obedience_and_Wisdom_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

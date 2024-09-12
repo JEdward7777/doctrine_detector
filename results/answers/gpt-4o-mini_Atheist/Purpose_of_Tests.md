@@ -29,7 +29,7 @@ In a cultural context, tests can serve several purposes:
 Ultimately, while believers might attribute a divine purpose to these tests, a non-theistic perspective might view them as psychological and sociocultural phenomena that contribute to personal growth and community dynamics. Such interpretations emphasize human experiences and the meaning derived from them rather than an external divine will.
 
 ## Average Grade
-73.0
+65.83333333333333
 
 ## Grades
  * [85.0](./Purpose_of_Tests_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ Ultimately, while believers might attribute a divine purpose to these tests, a n
  * [75.0](./Purpose_of_Tests_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Purpose_of_Tests_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Purpose_of_Tests_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [30.0](./Purpose_of_Tests_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

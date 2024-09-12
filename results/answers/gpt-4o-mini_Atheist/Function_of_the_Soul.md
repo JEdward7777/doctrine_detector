@@ -29,7 +29,7 @@ The figurative uses of the word 'soul' in the Bible provide a rich tapestry for 
 By examining these figurative uses, we gain insights into human identity that underscore its complexity, the interplay between individual and community, the significance of moral choices, and the intrinsic search for deeper meaning. Recognizing these dimensions enriches our understanding of what it means to be human, bridging individual experiences with a broader cultural and spiritual context.
 
 ## Average Grade
-88.0
+85.0
 
 ## Grades
  * [90.0](./Function_of_the_Soul_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ By examining these figurative uses, we gain insights into human identity that un
  * [90.0](./Function_of_the_Soul_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Function_of_the_Soul_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Function_of_the_Soul_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Function_of_the_Soul_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -21,7 +21,7 @@ Romantic love is not explicitly defined in the Bible, but it can be inferred fro
 In this context, all forms of love can be seen as expressions of the command to love one another as oneself (Mark 12:31). This means treating others with kindness, empathy, and respect, regardless of whether it is familial, platonic, or romantic in nature. It's important to note that interpretations may vary among different Christian denominations and individuals, and the Bible itself does not provide a clear-cut definition for each specific type of love.
 
 ## Average Grade
-89.0
+88.33333333333333
 
 ## Grades
  * [90.0](./Types_of_Love_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In this context, all forms of love can be seen as expressions of the command to 
  * [90.0](./Types_of_Love_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Types_of_Love_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Types_of_Love_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Types_of_Love_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

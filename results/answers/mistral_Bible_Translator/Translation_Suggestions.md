@@ -25,7 +25,7 @@ Understanding different translations can aid in grasping the intensity of commit
 6. To be devoted or committed: This emphasizes the single-mindedness and wholeheartedness involved in being zealous, as seen in Romans 10:2 where Paul asks if Israel has not known that God's righteousness is attainable through faith, why some of them still pursue it "with an open mind" (ESV).
 
 ## Average Grade
-91.4
+89.5
 
 ## Grades
  * [92.0](./Translation_Suggestions_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ Understanding different translations can aid in grasping the intensity of commit
  * [90.0](./Translation_Suggestions_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Translation_Suggestions_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Translation_Suggestions_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Translation_Suggestions_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

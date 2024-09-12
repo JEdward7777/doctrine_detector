@@ -39,7 +39,7 @@ Both Islamic and Christian perspectives recognize the importance of fulfilling p
 From both Islamic and Christian perspectives, fulfilling promises or vows made before God is considered important as a reflection of trustworthiness, integrity, and faith.
 
 ## Average Grade
-90.0
+86.66666666666667
 
 ## Grades
  * [90.0](./Fulfilling_Promises_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -47,3 +47,4 @@ From both Islamic and Christian perspectives, fulfilling promises or vows made b
  * [90.0](./Fulfilling_Promises_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Fulfilling_Promises_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Fulfilling_Promises_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Fulfilling_Promises_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

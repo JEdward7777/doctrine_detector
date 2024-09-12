@@ -23,7 +23,7 @@ Within an Islamic framework, one might understand some aspects of propitiation t
 Thus, while ‘atonement’ in Islam primarily focuses on sincere repentance and returning to Allah, ‘propitiation’ is less emphasized as a distinct concept since Muslims believe Allah’s mercy is always accessible to those who seek it with a sincere heart. In summary, both concepts involve a desire for reconciliation with God, but they stem from different theological understandings of God’s nature and the human relationship with the Divine in Islam.
 
 ## Average Grade
-79.0
+74.16666666666667
 
 ## Grades
  * [75.0](./Relation_to_Atonement_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ Thus, while ‘atonement’ in Islam primarily focuses on sincere repentance and
  * [90.0](./Relation_to_Atonement_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Relation_to_Atonement_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Relation_to_Atonement_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Relation_to_Atonement_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -21,7 +21,7 @@ Furthermore, many believers stress that underlying these depictions is a message
 As always, engaging in respectful and open discussions about these themes can foster understanding and appreciation for diverse beliefs and interpretations.
 
 ## Average Grade
-83.0
+80.83333333333333
 
 ## Grades
  * [90.0](./God_s_Wrath_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ As always, engaging in respectful and open discussions about these themes can fo
  * [80.0](./God_s_Wrath_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./God_s_Wrath_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./God_s_Wrath_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./God_s_Wrath_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

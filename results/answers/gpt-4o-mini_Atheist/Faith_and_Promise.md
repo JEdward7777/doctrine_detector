@@ -29,7 +29,7 @@ From a cultural and literary perspective, Abram's faith can be analyzed through 
 In conclusion, the role of faith in Abram's belief exemplifies how trust in divine promises can shape individual and collective narratives. It highlights the intersection of personal conviction with broader cultural themes of hope, legacy, and the quest for understanding in a complex world.
 
 ## Average Grade
-87.4
+84.5
 
 ## Grades
  * [90.0](./Faith_and_Promise_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ In conclusion, the role of faith in Abram's belief exemplifies how trust in divi
  * [85.0](./Faith_and_Promise_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Faith_and_Promise_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Faith_and_Promise_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Faith_and_Promise_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

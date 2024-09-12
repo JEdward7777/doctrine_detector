@@ -23,7 +23,7 @@ From this passage, it can be understood that iniquity is associated with hypocri
 In both religions, there's a strong emphasis on sincerity and integrity in actions, words, and intentions. Iniquity, in this context, can be understood as a departure from righteousness, honesty, and integrity in one's actions or character. It is important to strive for piety and righteousness in all aspects of our lives, both visible and hidden.
 
 ## Average Grade
-88.0
+85.0
 
 ## Grades
  * [80.0](./Scriptural_References_3_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ In both religions, there's a strong emphasis on sincerity and integrity in actio
  * [95.0](./Scriptural_References_3_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Scriptural_References_3_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Scriptural_References_3_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Scriptural_References_3_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

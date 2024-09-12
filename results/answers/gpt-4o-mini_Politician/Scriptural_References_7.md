@@ -21,7 +21,7 @@ The passages in 1 Peter 5:5-7 and Philippians 2:9-11 offer insightful perspectiv
 Together, these passages illustrate that in the Christian tradition, the path to exaltation is paved with humility, obedience, and a willingness to serve. This teaching encourages believers to adopt a mindset rooted in love, respect, and self-sacrifice, reflecting the character of Christ while understanding that true exaltation is ultimately granted by God.
 
 ## Average Grade
-95.0
+92.5
 
 ## Grades
  * [95.0](./Scriptural_References_7_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Together, these passages illustrate that in the Christian tradition, the path to
  * [95.0](./Scriptural_References_7_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Scriptural_References_7_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Scriptural_References_7_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Scriptural_References_7_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

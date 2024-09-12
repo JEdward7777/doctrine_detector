@@ -29,7 +29,7 @@ Being "in Christ" is a foundational concept in Christian theology that emphasize
 In summary, to be "in Christ" conveys the profound truth of a believer's identity, transformation, and connection to Jesus, characterized by grace, community, and the promise of eternal life. It encapsulates the core of what it means to live the Christian faith.
 
 ## Average Grade
-92.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Understanding_Being__In_Christ__grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ In summary, to be "in Christ" conveys the profound truth of a believer's identit
  * [95.0](./Understanding_Being__In_Christ__grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_Being__In_Christ__grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Being__In_Christ__grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Understanding_Being__In_Christ__grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

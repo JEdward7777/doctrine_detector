@@ -23,7 +23,7 @@ Additionally, believing in Jesus involves acknowledging Him as Lord (Romans 10:9
 Ultimately, believing in Jesus goes beyond intellectual assent; it is a personal, active relationship with Him that shapes one's beliefs, actions, and identity.
 
 ## Average Grade
-92.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Faith_in_Jesus_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ Ultimately, believing in Jesus goes beyond intellectual assent; it is a personal
  * [95.0](./Faith_in_Jesus_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Faith_in_Jesus_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Faith_in_Jesus_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Faith_in_Jesus_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

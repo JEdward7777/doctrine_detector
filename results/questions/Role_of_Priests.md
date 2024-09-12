@@ -11,26 +11,26 @@ The main responsibilities of priests included offering sacrifices to God on beha
 Understanding the biblical role of priests
 
 ## Average Grade
-80.5045871559633
+80.0
 
 ## Grades
  * [26.666666666666668 gemma Politician](../answers/gemma_Politician/Role_of_Priests.md)
- * [70.0 mistral Politician](../answers/mistral_Politician/Role_of_Priests.md)
+ * [71.66666666666667 mistral Politician](../answers/mistral_Politician/Role_of_Priests.md)
+ * [72.5 gemma Imam](../answers/gemma_Imam/Role_of_Priests.md)
  * [77.5 gemma Bible Translator](../answers/gemma_Bible_Translator/Role_of_Priests.md)
- * [78.0 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Role_of_Priests.md)
  * [78.33333333333333 llama atheist](../answers/llama_atheist/Role_of_Priests.md)
- * [79.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Role_of_Priests.md)
- * [83.0 gemma Imam](../answers/gemma_Imam/Role_of_Priests.md)
- * [84.0 mistral atheist](../answers/mistral_atheist/Role_of_Priests.md)
+ * [79.16666666666667 mistral Bible Translator](../answers/mistral_Bible_Translator/Role_of_Priests.md)
+ * [79.16666666666667 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Role_of_Priests.md)
+ * [80.83333333333333 llama Imam](../answers/llama_Imam/Role_of_Priests.md)
+ * [83.33333333333333 mistral atheist](../answers/mistral_atheist/Role_of_Priests.md)
  * [84.16666666666667 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Role_of_Priests.md)
+ * [84.16666666666667 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Role_of_Priests.md)
  * [85.0 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Role_of_Priests.md)
  * [85.0 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Role_of_Priests.md)
- * [85.0 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Role_of_Priests.md)
- * [85.0 llama Imam](../answers/llama_Imam/Role_of_Priests.md)
  * [85.83333333333333 gemma atheist](../answers/gemma_atheist/Role_of_Priests.md)
  * [85.83333333333333 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Role_of_Priests.md)
- * [86.0 mistral Imam](../answers/mistral_Imam/Role_of_Priests.md)
+ * [85.83333333333333 mistral Imam](../answers/mistral_Imam/Role_of_Priests.md)
  * [86.66666666666667 llama Politician](../answers/llama_Politician/Role_of_Priests.md)
- * [88.0 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Role_of_Priests.md)
+ * [87.5 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Role_of_Priests.md)
  * [90.0 llama Bible Translator](../answers/llama_Bible_Translator/Role_of_Priests.md)
- * [92.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Role_of_Priests.md)
+ * [90.83333333333333 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Role_of_Priests.md)

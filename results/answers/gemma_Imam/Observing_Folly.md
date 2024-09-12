@@ -49,7 +49,7 @@ The Bible contains numerous passages that caution against folly. Some actions th
 These are just a few examples of actions that the Bible categorizes as folly. The Bible teaches that wisdom and discernment are essential for living a life that pleases God.
 
 ## Average Grade
-93.0
+89.16666666666667
 
 ## Grades
  * [90.0](./Observing_Folly_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -57,3 +57,4 @@ These are just a few examples of actions that the Bible categorizes as folly. Th
  * [90.0](./Observing_Folly_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Observing_Folly_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Observing_Folly_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Observing_Folly_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

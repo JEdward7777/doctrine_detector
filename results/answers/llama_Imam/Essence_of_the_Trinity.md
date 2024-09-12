@@ -23,7 +23,7 @@ In Islam, we emphasize the Oneness of Allah (Tawhid) and reject any notion of mu
 It's important to note that while Christians and Muslims share many common values and beliefs, our theological understandings differ significantly. As a Muslim Imam, my role is to guide and educate within the Islamic tradition, rather than engaging in interfaith dialogue or apologetics for Christian doctrine.
 
 ## Average Grade
-83.0
+72.5
 
 ## Grades
  * [50.0](./Essence_of_the_Trinity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ It's important to note that while Christians and Muslims share many common value
  * [90.0](./Essence_of_the_Trinity_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Essence_of_the_Trinity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Essence_of_the_Trinity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./Essence_of_the_Trinity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

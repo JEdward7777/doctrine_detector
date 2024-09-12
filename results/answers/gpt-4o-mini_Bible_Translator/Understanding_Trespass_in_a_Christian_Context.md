@@ -27,7 +27,7 @@ In a Christian worldview, the concept of trespass is often closely related to th
 In summary, while "trespass" can be seen as a specific form or aspect of sin, both share a common theme of failing to live according to God's intended moral order. Understanding both concepts is essential for grasping the theological framework for sin, repentance, and redemption within Christianity.
 
 ## Average Grade
-91.0
+89.16666666666667
 
 ## Grades
  * [95.0](./Understanding_Trespass_in_a_Christian_Context_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In summary, while "trespass" can be seen as a specific form or aspect of sin, bo
  * [95.0](./Understanding_Trespass_in_a_Christian_Context_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_Trespass_in_a_Christian_Context_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Trespass_in_a_Christian_Context_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Understanding_Trespass_in_a_Christian_Context_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

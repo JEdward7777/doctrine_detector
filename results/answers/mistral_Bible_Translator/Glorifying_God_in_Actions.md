@@ -29,7 +29,7 @@ To emphasize the importance of living a life that honors God's greatness.
 8. Being an example of Christ: Believers can glorify God by emulating the life and teachings of Jesus Christ, striving to reflect His character in their thoughts, words, and actions. (1 Peter 2:21)
 
 ## Average Grade
-88.0
+86.66666666666667
 
 ## Grades
  * [85.0](./Glorifying_God_in_Actions_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ To emphasize the importance of living a life that honors God's greatness.
  * [90.0](./Glorifying_God_in_Actions_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Glorifying_God_in_Actions_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Glorifying_God_in_Actions_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Glorifying_God_in_Actions_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

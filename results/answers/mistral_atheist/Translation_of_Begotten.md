@@ -21,7 +21,7 @@ In the context of spiritual rebirth, 'begotten' could be seen metaphorically to 
 In summary, 'begotten' in relation to spiritual rebirth might symbolize a transformation that occurs within an individual on a spiritual level, marking their renewal and regeneration as a believer. However, it's essential to remember that interpretations may vary significantly among different religious traditions and communities.
 
 ## Average Grade
-83.4
+81.16666666666667
 
 ## Grades
  * [85.0](./Translation_of_Begotten_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In summary, 'begotten' in relation to spiritual rebirth might symbolize a transf
  * [80.0](./Translation_of_Begotten_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [92.0](./Translation_of_Begotten_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Translation_of_Begotten_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Translation_of_Begotten_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

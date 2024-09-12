@@ -21,7 +21,7 @@ Furthermore, in the New Testament, Jesus affirms the importance of honesty and i
 In summary, from a Christian viewpoint, fulfilling promises or vows made before God is deeply significant, reflecting one's faith, integrity, and commitment to living a righteous life.
 
 ## Average Grade
-91.0
+90.0
 
 ## Grades
  * [90.0](./Fulfilling_Promises_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In summary, from a Christian viewpoint, fulfilling promises or vows made before 
  * [95.0](./Fulfilling_Promises_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Fulfilling_Promises_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Fulfilling_Promises_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Fulfilling_Promises_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

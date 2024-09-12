@@ -25,7 +25,7 @@ Recognizing the nature of God's judgment and the consequences for disbelief.
 It is essential to note that interpretations can vary among Christian denominations and scholars, and understanding the Day of Yahweh requires careful study of the relevant passages in their historical and literary contexts. Additionally, it's important to remember that the primary message of Christianity is God's love for humanity and the promise of salvation through faith in Jesus Christ.
 
 ## Average Grade
-85.0
+84.16666666666667
 
 ## Grades
  * [75.0](./God_s_Wrath_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ It is essential to note that interpretations can vary among Christian denominati
  * [85.0](./God_s_Wrath_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./God_s_Wrath_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./God_s_Wrath_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./God_s_Wrath_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

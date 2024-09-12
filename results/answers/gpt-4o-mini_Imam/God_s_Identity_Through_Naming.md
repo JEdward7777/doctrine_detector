@@ -27,7 +27,7 @@ The concept of being "called by my name" has profound significance in Islamic th
 In summary, the idea of being "called by my name" enriches our understanding of the relationship between God and humanity—emphasizing personal connection, identity, divine guidance, accountability, and community. It serves as a reminder of Allah's profound love, mercy, and awareness of each individual, encouraging us to nurture our relationship with Him through worship, obedience, and sincere supplication.
 
 ## Average Grade
-82.0
+78.33333333333333
 
 ## Grades
  * [85.0](./God_s_Identity_Through_Naming_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In summary, the idea of being "called by my name" enriches our understanding of 
  * [85.0](./God_s_Identity_Through_Naming_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./God_s_Identity_Through_Naming_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./God_s_Identity_Through_Naming_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./God_s_Identity_Through_Naming_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

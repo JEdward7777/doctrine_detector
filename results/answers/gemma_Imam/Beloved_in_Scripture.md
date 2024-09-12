@@ -25,7 +25,7 @@ This verse clearly shows that God's love for his people is unconditional and tha
 **The term 'beloved' is a reminder that God's love for his people is like a mother's love for her child.** It is a love that is unwavering, unconditional, and always present.
 
 ## Average Grade
-87.0
+85.83333333333333
 
 ## Grades
  * [85.0](./Beloved_in_Scripture_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ This verse clearly shows that God's love for his people is unconditional and tha
  * [85.0](./Beloved_in_Scripture_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Beloved_in_Scripture_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Beloved_in_Scripture_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Beloved_in_Scripture_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

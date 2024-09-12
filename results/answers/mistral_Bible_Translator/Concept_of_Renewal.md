@@ -27,7 +27,7 @@ Exploring the transformative power of faith and God's ongoing work in a believer
 So, in summary, 'restoration' as 'renewal' in a Christian context refers to God's work of restoring His creation to its original purpose and perfection. This includes individual renewal through salvation, restoration of relationships, and the ultimate restoration of all things at Christ's return.
 
 ## Average Grade
-93.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Concept_of_Renewal_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ So, in summary, 'restoration' as 'renewal' in a Christian context refers to God'
  * [95.0](./Concept_of_Renewal_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Concept_of_Renewal_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Concept_of_Renewal_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Concept_of_Renewal_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

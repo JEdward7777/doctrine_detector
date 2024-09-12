@@ -31,7 +31,7 @@ In Islamic theology, we have our own concept of Qiyamah (the Resurrection), wher
 I hope this helps clarify the meaning of "Day of the Lord" in the New Testament from an Islamic perspective. May Allah guide us towards the truth.
 
 ## Average Grade
-79.0
+70.83333333333333
 
 ## Grades
  * [85.0](./Day_of_the_Lord_Meaning_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,3 +39,4 @@ I hope this helps clarify the meaning of "Day of the Lord" in the New Testament 
  * [70.0](./Day_of_the_Lord_Meaning_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Day_of_the_Lord_Meaning_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Day_of_the_Lord_Meaning_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [30.0](./Day_of_the_Lord_Meaning_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -21,7 +21,7 @@ The term Al-Masih al-Dajjal, on the other hand, refers to a false messianic figu
 In summary, while both the Islamic and Christian traditions have figures that can be broadly classified as a "Messiah," they are very different in their beliefs about who these figures are, what they will do, and how they will appear. It is important to approach discussions of these figures with an open mind and a deep understanding of the unique beliefs and practices of each tradition.
 
 ## Average Grade
-88.0
+85.0
 
 ## Grades
  * [85.0](./Messiah_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In summary, while both the Islamic and Christian traditions have figures that ca
  * [90.0](./Messiah_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Messiah_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Messiah_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Messiah_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

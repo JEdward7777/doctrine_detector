@@ -33,7 +33,7 @@ The priests in the Old Testament played a pivotal role in the worship and religi
 Through these practices, the priests facilitated the community’s relationship with God, ensuring that worship was done according to divine instruction and that the people's sins were atoned for through the sacrificial system. The priestly role was crucial in maintaining the spiritual health of Israel and the sanctity of worship.
 
 ## Average Grade
-85.0
+85.83333333333333
 
 ## Grades
  * [90.0](./Old_Testament_Ministry_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -41,3 +41,4 @@ Through these practices, the priests facilitated the community’s relationship 
  * [90.0](./Old_Testament_Ministry_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Old_Testament_Ministry_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Old_Testament_Ministry_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Old_Testament_Ministry_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

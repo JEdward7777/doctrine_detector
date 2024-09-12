@@ -23,7 +23,7 @@ And further in Surah Al-Furqan, Ayat 55, it is written:
 This promise is a great source of comfort for us Muslims, knowing that ultimately, Satan's schemes and plans will be foiled by Allah (SWT).
 
 ## Average Grade
-40.0
+36.666666666666664
 
 ## Grades
  * [60.0](./Victory_Over_Evil_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ This promise is a great source of comfort for us Muslims, knowing that ultimatel
  * [60.0](./Victory_Over_Evil_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [50.0](./Victory_Over_Evil_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [20.0](./Victory_Over_Evil_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./Victory_Over_Evil_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

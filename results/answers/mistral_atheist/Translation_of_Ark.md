@@ -21,7 +21,7 @@ In the Quran, there is no direct equivalent to the Noah's Ark story as it appear
 In all three religious texts, the ark represents safety, survival, and the preservation of life in the face of catastrophe. However, it is important to note that each tradition has its unique interpretations and understandings of the ark's specific features, role, and symbolism.
 
 ## Average Grade
-78.0
+78.33333333333333
 
 ## Grades
  * [85.0](./Translation_of_Ark_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In all three religious texts, the ark represents safety, survival, and the prese
  * [85.0](./Translation_of_Ark_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Translation_of_Ark_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Translation_of_Ark_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Translation_of_Ark_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

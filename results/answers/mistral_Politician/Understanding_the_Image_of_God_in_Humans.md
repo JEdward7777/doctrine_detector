@@ -27,7 +27,7 @@ This question aims to deepen understanding of what it means to be created in the
 These interpretations can vary widely among different religious groups and individuals, and it's important to approach such discussions with respect and sensitivity to diverse beliefs.
 
 ## Average Grade
-80.0
+78.33333333333333
 
 ## Grades
  * [85.0](./Understanding_the_Image_of_God_in_Humans_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ These interpretations can vary widely among different religious groups and indiv
  * [85.0](./Understanding_the_Image_of_God_in_Humans_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_the_Image_of_God_in_Humans_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Understanding_the_Image_of_God_in_Humans_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Understanding_the_Image_of_God_in_Humans_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

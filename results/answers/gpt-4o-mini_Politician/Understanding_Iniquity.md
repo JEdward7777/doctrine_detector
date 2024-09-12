@@ -23,7 +23,7 @@ In the biblical context, "iniquity," "sin," and "transgression" often have overl
 In summary, while all three terms refer to offenses against divine law, "sin" is the overarching concept, "transgression" indicates a willful act against specific commands, and "iniquity" suggests a deeper moral failing or the ongoing nature of evil. Understanding these distinctions can enrich one's comprehension of biblical texts and their implications for ethical living.
 
 ## Average Grade
-89.0
+88.33333333333333
 
 ## Grades
  * [90.0](./Understanding_Iniquity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ In summary, while all three terms refer to offenses against divine law, "sin" is
  * [90.0](./Understanding_Iniquity_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_Iniquity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Iniquity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Understanding_Iniquity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -21,7 +21,7 @@ In the Hebrew calendar, it fell on the 50th day, which is why it was also called
 However, the festival gained additional religious significance after the events described in the New Testament when it became associated with the coming of the Holy Spirit upon the disciples (Acts 2:1-4). This event is now widely celebrated by Christians as Pentecost Sunday or Whitsunday.
 
 ## Average Grade
-88.0
+87.5
 
 ## Grades
  * [90.0](./Origin_of_Pentecost_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ However, the festival gained additional religious significance after the events 
  * [90.0](./Origin_of_Pentecost_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Origin_of_Pentecost_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Origin_of_Pentecost_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Origin_of_Pentecost_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

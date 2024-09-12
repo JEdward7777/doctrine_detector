@@ -33,7 +33,7 @@ The Quran and Sunnah clearly teach that those who die disbelieving or disobedien
 **The Islamic belief in the afterlife emphasizes the importance of faith, good deeds, and repentance in achieving eternal salvation.**
 
 ## Average Grade
-93.0
+92.5
 
 ## Grades
  * [95.0](./Eternal_Consequences_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -41,3 +41,4 @@ The Quran and Sunnah clearly teach that those who die disbelieving or disobedien
  * [95.0](./Eternal_Consequences_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Eternal_Consequences_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Eternal_Consequences_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Eternal_Consequences_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

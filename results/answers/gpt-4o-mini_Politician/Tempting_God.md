@@ -27,7 +27,7 @@ According to Biblical teaching, this behavior can lead to consequences such as:
 In essence, the Biblical perspective encourages believers to cultivate a relationship with God based on faith, love, and respect, rather than attempting to impose tests upon Him. It's a call to trust in Divine wisdom, even in uncertain circumstances. This teaching serves as a reminder of the importance of faith in the unseen and an invitation to deepen one's spiritual journey.
 
 ## Average Grade
-91.0
+88.33333333333333
 
 ## Grades
  * [95.0](./Tempting_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In essence, the Biblical perspective encourages believers to cultivate a relatio
  * [90.0](./Tempting_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Tempting_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Tempting_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Tempting_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

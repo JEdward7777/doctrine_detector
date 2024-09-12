@@ -21,7 +21,7 @@ The resurrection of Jesus from death, as recorded in the New Testament, signifie
 It is essential to remember that interpretations can vary greatly among different Christian denominations and individuals. The above explanation represents a broad overview based on the beliefs commonly held by mainstream Christian churches.
 
 ## Average Grade
-92.0
+91.66666666666667
 
 ## Grades
  * [90.0](./Identity_of_Jesus_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ It is essential to remember that interpretations can vary greatly among differen
  * [95.0](./Identity_of_Jesus_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Identity_of_Jesus_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Identity_of_Jesus_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Identity_of_Jesus_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -39,7 +39,7 @@ Clarifying the relationship between written scripture and God's spoken word.
 **In Islamic tradition, the Bible is known as the "Musannef" or "Injil," and is believed to contain the words of God revealed to Jesus Christ.**
 
 ## Average Grade
-81.0
+79.16666666666667
 
 ## Grades
  * [80.0](./Nature_of_Scripture_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -47,3 +47,4 @@ Clarifying the relationship between written scripture and God's spoken word.
  * [85.0](./Nature_of_Scripture_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Nature_of_Scripture_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Nature_of_Scripture_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Nature_of_Scripture_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

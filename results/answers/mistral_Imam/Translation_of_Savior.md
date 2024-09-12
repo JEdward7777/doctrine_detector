@@ -23,7 +23,7 @@ Moreover, the concept of 'Savior' in Islam is not limited to a single historical
 In summary, understanding God as the Savior within an Islamic context highlights His role as the ultimate protector, the source of mercy, compassion, and wisdom, and encourages a humble and grateful approach to life.
 
 ## Average Grade
-90.0
+88.33333333333333
 
 ## Grades
  * [90.0](./Translation_of_Savior_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ In summary, understanding God as the Savior within an Islamic context highlights
  * [90.0](./Translation_of_Savior_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Translation_of_Savior_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Translation_of_Savior_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Translation_of_Savior_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

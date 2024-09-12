@@ -35,7 +35,7 @@ The term 'Shaddai' appears numerous times throughout the Old Testament, primaril
 The concept of 'shaddai' holds significant importance in Islamic theology and ethics. Muslims are encouraged to cultivate faithfulness, trustworthiness, and reliance on God. These qualities are seen as essential for a life of virtue and spiritual growth.
 
 ## Average Grade
-69.0
+65.83333333333333
 
 ## Grades
  * [70.0](./Understanding_Shaddai_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -43,3 +43,4 @@ The concept of 'shaddai' holds significant importance in Islamic theology and et
  * [70.0](./Understanding_Shaddai_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Understanding_Shaddai_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Understanding_Shaddai_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Understanding_Shaddai_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

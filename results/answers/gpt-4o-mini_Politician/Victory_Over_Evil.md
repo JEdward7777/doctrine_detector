@@ -19,7 +19,7 @@ Additionally, in Genesis 3:15, it speaks of enmity between the serpent (often in
 These verses provide hope and assurance to believers of a future where good prevails over evil, and they emphasize the themes of redemption and divine justice inherent in many religious teachings.
 
 ## Average Grade
-89.0
+87.5
 
 ## Grades
  * [90.0](./Victory_Over_Evil_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ These verses provide hope and assurance to believers of a future where good prev
  * [90.0](./Victory_Over_Evil_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Victory_Over_Evil_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Victory_Over_Evil_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Victory_Over_Evil_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

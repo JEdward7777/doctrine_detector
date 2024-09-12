@@ -35,7 +35,7 @@ In this verse, Allah describes how He created humanity to be in a state of ease,
 Dear brother, these are just a few examples of the consequences that God pronounces on those who reject His guidance and disobey His commands. May Allah guide us all to righteousness and protection from the fires of Hell.
 
 ## Average Grade
-88.0
+76.66666666666667
 
 ## Grades
  * [90.0](./Ungodliness_Consequences_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -43,3 +43,4 @@ Dear brother, these are just a few examples of the consequences that God pronoun
  * [90.0](./Ungodliness_Consequences_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Ungodliness_Consequences_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Ungodliness_Consequences_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./Ungodliness_Consequences_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

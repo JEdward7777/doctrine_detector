@@ -25,7 +25,7 @@ However, I must emphasize that this concept of predestination is specific to Chr
 I hope this answers your question, and please feel free to ask more if you have any. May Allah guide us all towards the truth and salvation.
 
 ## Average Grade
-81.0
+74.16666666666667
 
 ## Grades
  * [90.0](./Predestination_Meaning_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ I hope this answers your question, and please feel free to ask more if you have 
  * [70.0](./Predestination_Meaning_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Predestination_Meaning_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Predestination_Meaning_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Predestination_Meaning_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -17,7 +17,7 @@ In the Islamic tradition, the belief in God is monotheistic, meaning we believe 
 The Islamic belief in God emphasizes his oneness and uniqueness, and rejects any association of partners or intermediaries with him. Muslims believe that Allah is the sole creator and sustainer of the universe, and that he is worthy of all praise and veneration.
 
 ## Average Grade
-36.0
+33.333333333333336
 
 ## Grades
  * [40.0](./Essence_of_the_Trinity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -25,3 +25,4 @@ The Islamic belief in God emphasizes his oneness and uniqueness, and rejects any
  * [50.0](./Essence_of_the_Trinity_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [50.0](./Essence_of_the_Trinity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [20.0](./Essence_of_the_Trinity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./Essence_of_the_Trinity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

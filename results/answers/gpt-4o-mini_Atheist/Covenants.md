@@ -32,7 +32,7 @@ The biblical covenants serve as significant threads that weave together the narr
 In leaning into the narrative of the covenants, one can see how they collectively illustrate God's ongoing commitment throughout biblical history, offering insight into His character and the nature of the relationship He seeks with humanity.
 
 ## Average Grade
-93.0
+92.5
 
 ## Grades
  * [90.0](./Covenants_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -40,3 +40,4 @@ In leaning into the narrative of the covenants, one can see how they collectivel
  * [95.0](./Covenants_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Covenants_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Covenants_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Covenants_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

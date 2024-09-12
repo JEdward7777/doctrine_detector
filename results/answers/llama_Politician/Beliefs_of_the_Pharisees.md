@@ -25,7 +25,7 @@ However, it's essential to recognize that our understanding of Pharisaic beliefs
 In conclusion, my fellow citizens, let us approach these complex topics with humility and a commitment to mutual respect. By acknowledging the uncertainty surrounding Pharisaic beliefs while still exploring their significance for our understanding of Jewish tradition, we can foster a deeper appreciation for the diversity of human experience and promote greater understanding among all people.
 
 ## Average Grade
-86.0
+83.33333333333333
 
 ## Grades
  * [90.0](./Beliefs_of_the_Pharisees_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ In conclusion, my fellow citizens, let us approach these complex topics with hum
  * [85.0](./Beliefs_of_the_Pharisees_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Beliefs_of_the_Pharisees_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Beliefs_of_the_Pharisees_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Beliefs_of_the_Pharisees_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

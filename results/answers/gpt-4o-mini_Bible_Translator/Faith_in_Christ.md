@@ -27,7 +27,7 @@ The phrase "believing in Christ" is central to the Christian faith and encompass
 In summary, "believing in Christ" is a multifaceted concept that relates to trust, personal relationship, salvation, transformation, and community, making it a foundational aspect of Christian faith and practice.
 
 ## Average Grade
-91.0
+90.0
 
 ## Grades
  * [95.0](./Faith_in_Christ_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In summary, "believing in Christ" is a multifaceted concept that relates to trus
  * [95.0](./Faith_in_Christ_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Faith_in_Christ_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Faith_in_Christ_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Faith_in_Christ_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

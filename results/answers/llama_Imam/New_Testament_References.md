@@ -23,7 +23,7 @@ In the New Testament, there are several passages that suggest John the Baptist m
 It is essential to note that these passages do not explicitly state that John was a Nazirite, but they provide hints and parallels that can be interpreted in this direction.
 
 ## Average Grade
-84.0
+76.66666666666667
 
 ## Grades
  * [85.0](./New_Testament_References_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ It is essential to note that these passages do not explicitly state that John wa
  * [80.0](./New_Testament_References_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./New_Testament_References_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./New_Testament_References_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./New_Testament_References_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

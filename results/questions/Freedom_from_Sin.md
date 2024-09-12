@@ -11,26 +11,26 @@ Being 'bound' by sin can limit a believer's ability to fulfill God’s purposes 
 To encourage believers to address sin in their lives for a deeper, more fulfilling relationship with God.
 
 ## Average Grade
-89.4862385321101
+88.7
 
 ## Grades
  * [73.33333333333333 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Freedom_from_Sin.md)
  * [80.33333333333333 llama atheist](../answers/llama_atheist/Freedom_from_Sin.md)
- * [87.0 llama Imam](../answers/llama_Imam/Freedom_from_Sin.md)
+ * [84.16666666666667 llama Imam](../answers/llama_Imam/Freedom_from_Sin.md)
+ * [85.0 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Freedom_from_Sin.md)
+ * [85.83333333333333 mistral Imam](../answers/mistral_Imam/Freedom_from_Sin.md)
  * [87.5 llama Politician](../answers/llama_Politician/Freedom_from_Sin.md)
  * [87.83333333333333 gemma atheist](../answers/gemma_atheist/Freedom_from_Sin.md)
  * [88.33333333333333 gemma Politician](../answers/gemma_Politician/Freedom_from_Sin.md)
  * [88.33333333333333 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Freedom_from_Sin.md)
- * [89.0 mistral Imam](../answers/mistral_Imam/Freedom_from_Sin.md)
- * [90.0 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Freedom_from_Sin.md)
- * [91.0 mistral atheist](../answers/mistral_atheist/Freedom_from_Sin.md)
- * [91.0 mistral Politician](../answers/mistral_Politician/Freedom_from_Sin.md)
- * [91.0 gemma Imam](../answers/gemma_Imam/Freedom_from_Sin.md)
+ * [88.33333333333333 mistral Politician](../answers/mistral_Politician/Freedom_from_Sin.md)
+ * [90.0 mistral atheist](../answers/mistral_atheist/Freedom_from_Sin.md)
+ * [90.0 gemma Imam](../answers/gemma_Imam/Freedom_from_Sin.md)
  * [91.66666666666667 gemma Bible Translator](../answers/gemma_Bible_Translator/Freedom_from_Sin.md)
+ * [92.5 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Freedom_from_Sin.md)
+ * [92.5 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Freedom_from_Sin.md)
  * [93.33333333333333 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Freedom_from_Sin.md)
  * [93.33333333333333 llama Bible Translator](../answers/llama_Bible_Translator/Freedom_from_Sin.md)
- * [94.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Freedom_from_Sin.md)
- * [94.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Freedom_from_Sin.md)
- * [94.0 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Freedom_from_Sin.md)
- * [94.0 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Freedom_from_Sin.md)
- * [95.0 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Freedom_from_Sin.md)
+ * [93.33333333333333 mistral Bible Translator](../answers/mistral_Bible_Translator/Freedom_from_Sin.md)
+ * [94.16666666666667 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Freedom_from_Sin.md)
+ * [94.16666666666667 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Freedom_from_Sin.md)

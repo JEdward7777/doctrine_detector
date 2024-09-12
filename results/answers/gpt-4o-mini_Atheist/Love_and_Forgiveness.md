@@ -29,7 +29,7 @@ In the biblical context, forgiveness is often considered a critical aspect of lo
 In summary, in the biblical framework, forgiveness is critical to love because it is woven into the fabric of interpersonal relationships, community cohesion, and the demonstration of divine principles, ultimately promoting a more harmonious existence.
 
 ## Average Grade
-92.0
+90.83333333333333
 
 ## Grades
  * [95.0](./Love_and_Forgiveness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ In summary, in the biblical framework, forgiveness is critical to love because i
  * [95.0](./Love_and_Forgiveness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Love_and_Forgiveness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Love_and_Forgiveness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Love_and_Forgiveness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

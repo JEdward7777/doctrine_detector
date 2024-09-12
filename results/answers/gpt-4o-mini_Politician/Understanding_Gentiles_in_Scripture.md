@@ -23,7 +23,7 @@ While this inclusivity was not universally accepted and led to significant debat
 In summary, while the traditional views of Gentiles initially contributed to separation and tension, the transformative message of the early church aimed to bridge these divides, promoting unity and mutual respect among all believers. This evolution reflects a continuous journey toward greater inclusivity and understanding in the faith community.
 
 ## Average Grade
-88.0
+87.5
 
 ## Grades
  * [90.0](./Understanding_Gentiles_in_Scripture_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ In summary, while the traditional views of Gentiles initially contributed to sep
  * [90.0](./Understanding_Gentiles_in_Scripture_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_Gentiles_in_Scripture_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Gentiles_in_Scripture_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Understanding_Gentiles_in_Scripture_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

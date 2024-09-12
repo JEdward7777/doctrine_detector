@@ -11,26 +11,26 @@ The Jewish religious leaders rejected Jesus due to jealousy and fear of losing t
 This scenario poses questions about authority, faith, and the recognition of the Messiah.
 
 ## Average Grade
-82.40366972477064
+81.35
 
 ## Grades
  * [69.16666666666667 llama Politician](../answers/llama_Politician/Rejection_of_Jesus_by_Jewish_Leaders.md)
+ * [74.16666666666667 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Rejection_of_Jesus_by_Jewish_Leaders.md)
+ * [75.0 mistral Imam](../answers/mistral_Imam/Rejection_of_Jesus_by_Jewish_Leaders.md)
  * [75.83333333333333 gemma atheist](../answers/gemma_atheist/Rejection_of_Jesus_by_Jewish_Leaders.md)
- * [77.0 gemma Imam](../answers/gemma_Imam/Rejection_of_Jesus_by_Jewish_Leaders.md)
- * [79.0 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Rejection_of_Jesus_by_Jewish_Leaders.md)
+ * [76.66666666666667 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Rejection_of_Jesus_by_Jewish_Leaders.md)
+ * [77.5 gemma Imam](../answers/gemma_Imam/Rejection_of_Jesus_by_Jewish_Leaders.md)
+ * [78.33333333333333 llama Imam](../answers/llama_Imam/Rejection_of_Jesus_by_Jewish_Leaders.md)
  * [80.0 gemma Politician](../answers/gemma_Politician/Rejection_of_Jesus_by_Jewish_Leaders.md)
  * [80.0 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Rejection_of_Jesus_by_Jewish_Leaders.md)
- * [80.0 mistral Imam](../answers/mistral_Imam/Rejection_of_Jesus_by_Jewish_Leaders.md)
  * [80.83333333333333 gemma Bible Translator](../answers/gemma_Bible_Translator/Rejection_of_Jesus_by_Jewish_Leaders.md)
- * [82.0 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Rejection_of_Jesus_by_Jewish_Leaders.md)
- * [82.0 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Rejection_of_Jesus_by_Jewish_Leaders.md)
- * [82.0 llama Imam](../answers/llama_Imam/Rejection_of_Jesus_by_Jewish_Leaders.md)
- * [83.0 mistral Politician](../answers/mistral_Politician/Rejection_of_Jesus_by_Jewish_Leaders.md)
+ * [83.33333333333333 mistral Politician](../answers/mistral_Politician/Rejection_of_Jesus_by_Jewish_Leaders.md)
+ * [83.33333333333333 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Rejection_of_Jesus_by_Jewish_Leaders.md)
  * [84.16666666666667 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Rejection_of_Jesus_by_Jewish_Leaders.md)
+ * [84.16666666666667 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Rejection_of_Jesus_by_Jewish_Leaders.md)
  * [85.0 llama atheist](../answers/llama_atheist/Rejection_of_Jesus_by_Jewish_Leaders.md)
- * [85.0 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Rejection_of_Jesus_by_Jewish_Leaders.md)
- * [86.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Rejection_of_Jesus_by_Jewish_Leaders.md)
- * [87.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Rejection_of_Jesus_by_Jewish_Leaders.md)
- * [89.0 mistral atheist](../answers/mistral_atheist/Rejection_of_Jesus_by_Jewish_Leaders.md)
+ * [85.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Rejection_of_Jesus_by_Jewish_Leaders.md)
+ * [85.83333333333333 mistral atheist](../answers/mistral_atheist/Rejection_of_Jesus_by_Jewish_Leaders.md)
+ * [86.66666666666667 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Rejection_of_Jesus_by_Jewish_Leaders.md)
  * [90.0 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Rejection_of_Jesus_by_Jewish_Leaders.md)
  * [92.0 llama Bible Translator](../answers/llama_Bible_Translator/Rejection_of_Jesus_by_Jewish_Leaders.md)

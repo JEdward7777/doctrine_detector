@@ -21,7 +21,7 @@ Additionally, the title "King of the Jews" is also connected to the promise made
 Therefore, when Jesus is referred to as the "King of the Jews" in the New Testament, it is a fulfillment of these Old Testament prophecies that foretold the coming of a ruler from the line of David who would establish an eternal kingdom. This title highlights Jesus' role as the promised Messiah who would bring salvation and redemption to the people of Israel and to all humanity.
 
 ## Average Grade
-93.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Biblical_Fulfillment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Therefore, when Jesus is referred to as the "King of the Jews" in the New Testam
  * [95.0](./Biblical_Fulfillment_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Biblical_Fulfillment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Biblical_Fulfillment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Biblical_Fulfillment_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

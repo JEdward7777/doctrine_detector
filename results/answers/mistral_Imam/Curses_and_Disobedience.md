@@ -23,7 +23,7 @@ In Islam, the concept of divine judgment is rooted in the idea that every good d
 In summary, while the verse you mentioned suggests a connection between disobedience and curses, it is important to interpret this within its original context and to harmonize it with Islamic teachings. In Islam, disobedience can lead to consequences in this life and the hereafter, but the concept of curses as a form of divine retribution is not central to our understanding of God's judgment on disobedient people.
 
 ## Average Grade
-76.0
+70.0
 
 ## Grades
  * [60.0](./Curses_and_Disobedience_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ In summary, while the verse you mentioned suggests a connection between disobedi
  * [75.0](./Curses_and_Disobedience_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Curses_and_Disobedience_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Curses_and_Disobedience_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Curses_and_Disobedience_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

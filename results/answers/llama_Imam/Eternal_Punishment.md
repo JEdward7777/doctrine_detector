@@ -24,7 +24,7 @@ However, it's essential to note that Islamic teachings emphasize that Allah's me
 In conclusion, the concept of eternal punishment in hell serves as a reminder of Allah's justice, emphasizing accountability, consequences, equality before the law, and the preservation of human free will. It also highlights the importance of seeking forgiveness and turning back to Allah, demonstrating His mercy and willingness to forgive those who seek His guidance.
 
 ## Average Grade
-87.0
+82.5
 
 ## Grades
  * [90.0](./Eternal_Punishment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,3 +32,4 @@ In conclusion, the concept of eternal punishment in hell serves as a reminder of
  * [90.0](./Eternal_Punishment_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Eternal_Punishment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Eternal_Punishment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Eternal_Punishment_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

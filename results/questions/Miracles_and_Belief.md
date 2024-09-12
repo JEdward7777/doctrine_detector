@@ -11,26 +11,26 @@ Miracles serve as indicators of God's power, prompting belief in Him and validat
 Understanding the role of miracles in leading others to faith can enhance evangelism and personal faith.
 
 ## Average Grade
-80.68807339449542
+79.91666666666667
 
 ## Grades
  * [26.666666666666668 gemma atheist](../answers/gemma_atheist/Miracles_and_Belief.md)
- * [68.0 mistral Politician](../answers/mistral_Politician/Miracles_and_Belief.md)
+ * [66.66666666666667 mistral Politician](../answers/mistral_Politician/Miracles_and_Belief.md)
  * [70.83333333333333 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Miracles_and_Belief.md)
  * [71.66666666666667 gemma Politician](../answers/gemma_Politician/Miracles_and_Belief.md)
+ * [75.0 mistral atheist](../answers/mistral_atheist/Miracles_and_Belief.md)
  * [76.66666666666667 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Miracles_and_Belief.md)
  * [76.66666666666667 llama atheist](../answers/llama_atheist/Miracles_and_Belief.md)
  * [76.66666666666667 llama Politician](../answers/llama_Politician/Miracles_and_Belief.md)
- * [78.0 mistral atheist](../answers/mistral_atheist/Miracles_and_Belief.md)
- * [87.0 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Miracles_and_Belief.md)
- * [87.0 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Miracles_and_Belief.md)
- * [88.0 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Miracles_and_Belief.md)
- * [89.0 llama Imam](../answers/llama_Imam/Miracles_and_Belief.md)
+ * [83.33333333333333 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Miracles_and_Belief.md)
+ * [84.16666666666667 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Miracles_and_Belief.md)
+ * [85.83333333333333 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Miracles_and_Belief.md)
+ * [85.83333333333333 llama Imam](../answers/llama_Imam/Miracles_and_Belief.md)
+ * [88.33333333333333 gemma Imam](../answers/gemma_Imam/Miracles_and_Belief.md)
+ * [88.33333333333333 mistral Imam](../answers/mistral_Imam/Miracles_and_Belief.md)
+ * [88.33333333333333 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Miracles_and_Belief.md)
  * [89.16666666666667 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Miracles_and_Belief.md)
  * [90.83333333333333 gemma Bible Translator](../answers/gemma_Bible_Translator/Miracles_and_Belief.md)
  * [90.83333333333333 llama Bible Translator](../answers/llama_Bible_Translator/Miracles_and_Belief.md)
- * [91.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Miracles_and_Belief.md)
- * [91.0 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Miracles_and_Belief.md)
- * [92.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Miracles_and_Belief.md)
- * [92.0 gemma Imam](../answers/gemma_Imam/Miracles_and_Belief.md)
- * [92.0 mistral Imam](../answers/mistral_Imam/Miracles_and_Belief.md)
+ * [90.83333333333333 mistral Bible Translator](../answers/mistral_Bible_Translator/Miracles_and_Belief.md)
+ * [91.66666666666667 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Miracles_and_Belief.md)

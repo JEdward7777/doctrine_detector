@@ -25,7 +25,7 @@ The concept of parental authority over children is grounded in several passages 
 These scriptures collectively advocate for a loving and responsible parental authority where the welfare of children is prioritized, and where the relationship is characterized by respect and care. By fostering an environment of trust and support, parents can fulfill their role in guiding their children effectively.
 
 ## Average Grade
-93.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Authority_of_Parents_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ These scriptures collectively advocate for a loving and responsible parental aut
  * [95.0](./Authority_of_Parents_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Authority_of_Parents_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Authority_of_Parents_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Authority_of_Parents_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

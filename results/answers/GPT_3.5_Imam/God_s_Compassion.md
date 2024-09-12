@@ -21,7 +21,7 @@ Islamic teachings often stress God's mercy and compassion towards His creation. 
 Therefore, in Islam, God's nature is seen as fundamentally compassionate, merciful, and forgiving, always ready to accept sincere repentance from His servants.
 
 ## Average Grade
-89.0
+82.5
 
 ## Grades
  * [90.0](./God_s_Compassion_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Therefore, in Islam, God's nature is seen as fundamentally compassionate, mercif
  * [90.0](./God_s_Compassion_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./God_s_Compassion_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./God_s_Compassion_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./God_s_Compassion_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

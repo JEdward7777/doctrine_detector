@@ -21,7 +21,7 @@ It is crucial to remember that faithfulness is not about following religious rit
 As a politician, it's essential to respect all beliefs and values, but it's also important to uphold biblical principles that promote peace, unity, and justice for all people. By doing so, one can strive to be faithful to God according to the biblical definition while serving the needs of their constituents.
 
 ## Average Grade
-93.0
+90.83333333333333
 
 ## Grades
  * [95.0](./Faithfulness_to_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ As a politician, it's essential to respect all beliefs and values, but it's also
  * [95.0](./Faithfulness_to_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Faithfulness_to_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Faithfulness_to_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Faithfulness_to_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

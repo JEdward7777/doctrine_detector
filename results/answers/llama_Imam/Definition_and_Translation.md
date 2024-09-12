@@ -27,7 +27,7 @@ It is essential to understand that these translations are not interchangeable wi
 I hope this clarifies the concept of intercession in the context of Scripture. If you have any further questions or concerns, please feel free to ask.
 
 ## Average Grade
-85.4
+77.83333333333333
 
 ## Grades
  * [85.0](./Definition_and_Translation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ I hope this clarifies the concept of intercession in the context of Scripture. I
  * [82.0](./Definition_and_Translation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Definition_and_Translation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Definition_and_Translation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Definition_and_Translation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

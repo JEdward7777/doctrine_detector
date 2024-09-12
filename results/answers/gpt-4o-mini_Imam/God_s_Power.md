@@ -25,7 +25,7 @@ The term "Almighty" in the context of God refers to His ultimate power and autho
 In the Quran, God is frequently referred to as "Al-Aziz" (The Mighty) and "Al-Qadir," which serves to remind believers of His omnipotence and the significance of turning to Him in times of need. Understanding God as Almighty helps foster a deep sense of reliance and trust in Him for all aspects of life.
 
 ## Average Grade
-91.0
+87.5
 
 ## Grades
  * [95.0](./God_s_Power_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ In the Quran, God is frequently referred to as "Al-Aziz" (The Mighty) and "Al-Qa
  * [90.0](./God_s_Power_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./God_s_Power_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./God_s_Power_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./God_s_Power_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

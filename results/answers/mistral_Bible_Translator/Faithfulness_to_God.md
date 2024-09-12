@@ -19,7 +19,7 @@ Faithfulness to God also implies keeping His commandments (Deuteronomy 5:1) and 
 Lastly, faithfulness to God is demonstrated through prayer, worship, and the sharing of one's faith with others, as seen in the Great Commission (Matthew 28:19-20). In summary, faithfulness to God means wholeheartedly loving Him, obeying His commands, living a life that reflects His character, and sharing one's faith with others.
 
 ## Average Grade
-92.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Faithfulness_to_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Lastly, faithfulness to God is demonstrated through prayer, worship, and the sha
  * [95.0](./Faithfulness_to_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Faithfulness_to_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Faithfulness_to_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Faithfulness_to_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -31,7 +31,7 @@ Missionaries can address the misconception that Christians believe in multiple g
 By addressing the misconception with clarity, respect, and an openness to dialogue, missionaries can foster greater understanding and build bridges in their interactions with others.
 
 ## Average Grade
-87.0
+85.0
 
 ## Grades
  * [85.0](./Multiple_gods_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,3 +39,4 @@ By addressing the misconception with clarity, respect, and an openness to dialog
  * [85.0](./Multiple_gods_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Multiple_gods_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Multiple_gods_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Multiple_gods_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

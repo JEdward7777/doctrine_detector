@@ -23,7 +23,7 @@ Today, the Dome of the Rock and Al-Aqsa Mosque are located on the Temple Mount (
 It is essential to note that interpretations of historical events and figures may vary between different Islamic denominations and schools of thought.
 
 ## Average Grade
-59.0
+52.5
 
 ## Grades
  * [75.0](./Zion_s_Historical_Significance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ It is essential to note that interpretations of historical events and figures ma
  * [50.0](./Zion_s_Historical_Significance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [50.0](./Zion_s_Historical_Significance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Zion_s_Historical_Significance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./Zion_s_Historical_Significance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

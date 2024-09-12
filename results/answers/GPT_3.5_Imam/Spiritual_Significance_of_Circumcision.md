@@ -19,7 +19,7 @@ The concept is based on passages in the Bible, such as in Romans 2:29 where it s
 In essence, the 'circumcision of the heart' in a Christian context symbolizes the need for believers to cleanse their inner selves, cultivate a relationship with God, and embody the teachings of Jesus Christ in their thoughts, words, and actions. It is about striving to be genuinely faithful and sincere in one's beliefs, rather than merely going through the motions of religious observance.
 
 ## Average Grade
-91.0
+90.0
 
 ## Grades
  * [90.0](./Spiritual_Significance_of_Circumcision_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ In essence, the 'circumcision of the heart' in a Christian context symbolizes th
  * [95.0](./Spiritual_Significance_of_Circumcision_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Spiritual_Significance_of_Circumcision_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Spiritual_Significance_of_Circumcision_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Spiritual_Significance_of_Circumcision_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

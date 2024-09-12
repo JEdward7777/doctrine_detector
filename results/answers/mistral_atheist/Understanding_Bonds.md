@@ -23,7 +23,7 @@ In the New Testament, Jesus speaks of a new kind of bond in Matthew 18:19-20, sa
 In summary, the Biblical concept of 'bonds' represents our spiritual obligations and relationship with God as commitments and covenants that connect us to God, other people, and even the natural world. These bonds are essential for understanding our role in the divine plan and our spiritual growth. As an atheistic scholar, I find it fascinating how such metaphors can shape societal values, ethics, and religious beliefs, regardless of one's personal belief system.
 
 ## Average Grade
-88.0
+87.5
 
 ## Grades
  * [85.0](./Understanding_Bonds_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ In summary, the Biblical concept of 'bonds' represents our spiritual obligations
  * [90.0](./Understanding_Bonds_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Understanding_Bonds_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Understanding_Bonds_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Understanding_Bonds_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -36,7 +36,7 @@ The distinction between 'evil' and 'wickedness' in a biblical context can be nua
 In summary, while the biblical text often uses 'evil' and 'wickedness' to address wrong actions, 'wickedness' carries a connotation of deliberate, persistent moral depravity, reflecting a deeper corruption of character. In contrast, 'evil' may be understood in broader terms that include harmful actions stemming from various circumstances and motivations.
 
 ## Average Grade
-91.0
+91.66666666666667
 
 ## Grades
  * [90.0](./Understanding_Evil_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -44,3 +44,4 @@ In summary, while the biblical text often uses 'evil' and 'wickedness' to addres
  * [90.0](./Understanding_Evil_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_Evil_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Evil_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [95.0](./Understanding_Evil_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

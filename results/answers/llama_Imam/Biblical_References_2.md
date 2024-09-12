@@ -50,7 +50,7 @@ In these passages, we see descriptions of God's majesty as Creator, Ruler, and J
 Remember, my brother, that while there may be similarities in our scriptures, it is essential to approach each other with respect, understanding, and a willingness to learn from one another.
 
 ## Average Grade
-84.0
+76.66666666666667
 
 ## Grades
  * [85.0](./Biblical_References_2_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -58,3 +58,4 @@ Remember, my brother, that while there may be similarities in our scriptures, it
  * [85.0](./Biblical_References_2_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Biblical_References_2_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_References_2_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Biblical_References_2_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

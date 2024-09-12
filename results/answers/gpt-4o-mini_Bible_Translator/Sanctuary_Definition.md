@@ -25,7 +25,7 @@ In the context of the Bible, the term "sanctuary" generally refers to a sacred o
 Overall, in biblical usage, a sanctuary is both a physical space dedicated to divine worship and a symbol of divine protection and presence among God's people.
 
 ## Average Grade
-91.0
+90.83333333333333
 
 ## Grades
  * [90.0](./Sanctuary_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ Overall, in biblical usage, a sanctuary is both a physical space dedicated to di
  * [95.0](./Sanctuary_Definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Sanctuary_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Sanctuary_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Sanctuary_Definition_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

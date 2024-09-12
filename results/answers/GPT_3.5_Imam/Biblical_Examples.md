@@ -19,7 +19,7 @@ From the life of Prophet Noah, we can learn the importance of calling people to 
 Overall, these blameless prophets serve as examples for us to emulate in our own lives by striving to uphold the values of faith, patience, perseverance, and righteousness in the face of life's challenges.
 
 ## Average Grade
-79.0
+72.5
 
 ## Grades
  * [80.0](./Biblical_Examples_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Overall, these blameless prophets serve as examples for us to emulate in our own
  * [85.0](./Biblical_Examples_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Biblical_Examples_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_Examples_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Biblical_Examples_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

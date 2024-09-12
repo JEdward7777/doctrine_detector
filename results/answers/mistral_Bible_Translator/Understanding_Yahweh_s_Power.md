@@ -27,7 +27,7 @@ Lastly, it suggests God's holiness and otherness. The Hebrew word for "I am" emp
 In summary, "I am Yahweh" reveals that God is eternal, sovereign, faithful, merciful, gracious, holy, and distinct from all creation. These characteristics are essential in understanding how He relates to His people through commands, covenants, and promises.
 
 ## Average Grade
-93.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Understanding_Yahweh_s_Power_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In summary, "I am Yahweh" reveals that God is eternal, sovereign, faithful, merc
  * [95.0](./Understanding_Yahweh_s_Power_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_Yahweh_s_Power_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Yahweh_s_Power_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Understanding_Yahweh_s_Power_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

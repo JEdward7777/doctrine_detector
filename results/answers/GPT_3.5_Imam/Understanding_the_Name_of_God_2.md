@@ -19,7 +19,7 @@ The name "Yahweh" is considered by Jews to be the most sacred and personal name 
 In Islamic tradition, Muslims believe in the same one God as the Jews and Christians, known as Allah in Arabic. While the name "Yahweh" is not specifically mentioned in the Quran, Muslims believe in the divine attributes associated with the God of the Old Testament, such as His mercy, justice, and omnipotence. Muslims also believe in the continuity of divine revelation through prophets, including those mentioned in the Old Testament.
 
 ## Average Grade
-89.4
+87.0
 
 ## Grades
  * [92.0](./Understanding_the_Name_of_God_2_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ In Islamic tradition, Muslims believe in the same one God as the Jews and Christ
  * [90.0](./Understanding_the_Name_of_God_2_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_the_Name_of_God_2_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Understanding_the_Name_of_God_2_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Understanding_the_Name_of_God_2_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

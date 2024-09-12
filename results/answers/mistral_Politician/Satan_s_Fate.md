@@ -19,7 +19,7 @@ When discussing the afterlife and the fate of individuals who follow these belie
 Ultimately, I encourage people from different faiths and backgrounds to engage in open dialogue and respectful discourse about their beliefs. By fostering understanding and empathy, we can create a more harmonious and inclusive society that embraces the rich tapestry of human thought and experience.
 
 ## Average Grade
-51.0
+50.833333333333336
 
 ## Grades
  * [50.0](./Satan_s_Fate_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Ultimately, I encourage people from different faiths and backgrounds to engage i
  * [40.0](./Satan_s_Fate_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [75.0](./Satan_s_Fate_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Satan_s_Fate_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Satan_s_Fate_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

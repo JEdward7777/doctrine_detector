@@ -25,7 +25,7 @@ Addressing the need for Christian activism against injustice and promoting fairn
 In each of these situations, our response as Christians is rooted in love, justice, and compassion. We are called to be salt and light in the world (Matthew 5:13-16), making a difference wherever we are and working towards a more just and peaceful world.
 
 ## Average Grade
-93.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Injustice_in_Society_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ In each of these situations, our response as Christians is rooted in love, justi
  * [95.0](./Injustice_in_Society_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Injustice_in_Society_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Injustice_in_Society_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Injustice_in_Society_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

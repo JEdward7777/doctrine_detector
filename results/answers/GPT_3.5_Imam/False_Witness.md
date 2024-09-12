@@ -23,7 +23,7 @@ Moreover, honesty and integrity in speech are emphasized throughout the Bible as
 Overall, giving false testimony is seen as a serious sin in Christianity because it violates the principles of truth, justice, and love that are foundational to the Christian faith. Christians are called to be people of honesty, integrity, and reliability in their words and deeds, reflecting the character of Christ in all aspects of their lives.
 
 ## Average Grade
-94.0
+92.5
 
 ## Grades
  * [95.0](./False_Witness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ Overall, giving false testimony is seen as a serious sin in Christianity because
  * [95.0](./False_Witness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./False_Witness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./False_Witness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./False_Witness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

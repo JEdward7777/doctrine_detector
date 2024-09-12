@@ -21,7 +21,7 @@ On the other hand, "the Word of God" can have various meanings in different cont
 So, in a broader sense, the Scripture is considered to be the written form of the Word of God, as it contains the inspired messages from God that have been passed down through history and are essential for Christian faith and practice.
 
 ## Average Grade
-86.0
+86.66666666666667
 
 ## Grades
  * [90.0](./Nature_of_Scripture_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ So, in a broader sense, the Scripture is considered to be the written form of th
  * [90.0](./Nature_of_Scripture_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Nature_of_Scripture_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Nature_of_Scripture_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Nature_of_Scripture_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

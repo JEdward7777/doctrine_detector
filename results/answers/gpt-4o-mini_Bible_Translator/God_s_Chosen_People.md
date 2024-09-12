@@ -27,7 +27,7 @@ The concept of a 'remnant' in Scripture reflects God’s selective grace towards
 In summary, the idea of a 'remnant' is a powerful illustration of God's selective grace. It shows that, throughout history, God preserves a faithful group of His people, demonstrating His commitment to His promises and His sovereignty over the course of human events. The remnant serves as a testament to His grace, mercy, and the hope of redemption, both for individuals and for His broader plan for humanity.
 
 ## Average Grade
-94.4
+92.83333333333333
 
 ## Grades
  * [95.0](./God_s_Chosen_People_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In summary, the idea of a 'remnant' is a powerful illustration of God's selectiv
  * [95.0](./God_s_Chosen_People_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./God_s_Chosen_People_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./God_s_Chosen_People_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./God_s_Chosen_People_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

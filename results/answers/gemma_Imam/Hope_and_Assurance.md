@@ -15,7 +15,7 @@ Recognizing the implications of hopelessness in a Christian worldview.
 The premise of your question is inaccurate. The concept of having no hope is not consistent with Islamic beliefs or teachings. In Islamic tradition, hope is considered a fundamental virtue and an essential element of faith.
 
 ## Average Grade
-78.0
+68.33333333333333
 
 ## Grades
  * [85.0](./Hope_and_Assurance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ The premise of your question is inaccurate. The concept of having no hope is not
  * [90.0](./Hope_and_Assurance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Hope_and_Assurance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Hope_and_Assurance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./Hope_and_Assurance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

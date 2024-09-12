@@ -26,7 +26,7 @@ This parable offers valuable lessons about the importance of hearing and underst
 The significance of this parable in both Christianity and Islam lies in the message it conveys: One must have a ready and receptive heart to truly understand and follow the teachings of their faith. In both traditions, the emphasis is on cultivating understanding, compassion, and obedience to God, just as a good farmer takes care of his crops to ensure growth and productivity.
 
 ## Average Grade
-86.0
+83.33333333333333
 
 ## Grades
  * [85.0](./Example_of_Parables_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,3 +34,4 @@ The significance of this parable in both Christianity and Islam lies in the mess
  * [85.0](./Example_of_Parables_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Example_of_Parables_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Example_of_Parables_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Example_of_Parables_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

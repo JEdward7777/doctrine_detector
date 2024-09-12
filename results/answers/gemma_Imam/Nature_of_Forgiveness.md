@@ -47,7 +47,7 @@ This question explores the moral and relational attributes of God as revealed th
 **In summary, Jesus's teachings about forgiveness reveal that God the Father is a merciful, compassionate, just, and loving Father who offers forgiveness as a free gift to those who repent and believe.**
 
 ## Average Grade
-93.0
+92.5
 
 ## Grades
  * [95.0](./Nature_of_Forgiveness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -55,3 +55,4 @@ This question explores the moral and relational attributes of God as revealed th
  * [95.0](./Nature_of_Forgiveness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Nature_of_Forgiveness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Nature_of_Forgiveness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Nature_of_Forgiveness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

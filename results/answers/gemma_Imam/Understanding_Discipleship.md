@@ -15,7 +15,7 @@ Understanding the definition and responsibilities of being a disciple.
 The provided text does not contain any content regarding the meaning of being a disciple of Jesus from a Muslim perspective, so I am unable to provide an answer from the provided context.
 
 ## Average Grade
-60.0
+55.0
 
 ## Grades
  * [70.0](./Understanding_Discipleship_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ The provided text does not contain any content regarding the meaning of being a 
  * [60.0](./Understanding_Discipleship_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Understanding_Discipleship_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [50.0](./Understanding_Discipleship_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [30.0](./Understanding_Discipleship_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

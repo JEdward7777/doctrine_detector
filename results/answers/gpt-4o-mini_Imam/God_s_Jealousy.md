@@ -21,7 +21,7 @@ From an Islamic perspective, the attribute of being "jealous" can be understood 
 Thus, the attribute of jealousy in the context of the Bible portrays God’s deep commitment to His people and His desire for a sincere, undivided relationship with them. This theme is similarly echoed in Islam, where the concept of God's oneness invites believers to place their worship and devotion solely towards Allah.
 
 ## Average Grade
-87.0
+84.16666666666667
 
 ## Grades
  * [85.0](./God_s_Jealousy_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Thus, the attribute of jealousy in the context of the Bible portrays God’s dee
  * [90.0](./God_s_Jealousy_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./God_s_Jealousy_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./God_s_Jealousy_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./God_s_Jealousy_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

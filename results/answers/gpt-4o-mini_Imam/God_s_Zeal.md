@@ -25,7 +25,7 @@ The term "zeal of the Lord," particularly in a biblical context, reflects God's 
 In summary, the "zeal of the Lord" encapsulates God's proactive and passionate engagement with His people, demonstrating His commitment to their welfare, spiritual growth, and ultimate redemption. It is a beautiful reflection of His love, mercy, and the deep relational dynamics that characterize the divine-human relationship.
 
 ## Average Grade
-85.0
+84.16666666666667
 
 ## Grades
  * [85.0](./God_s_Zeal_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ In summary, the "zeal of the Lord" encapsulates God's proactive and passionate e
  * [85.0](./God_s_Zeal_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./God_s_Zeal_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./God_s_Zeal_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./God_s_Zeal_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

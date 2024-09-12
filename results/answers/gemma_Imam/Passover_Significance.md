@@ -19,7 +19,7 @@ Passover is a Jewish holiday commemorating the liberation of the Israelites from
 The parallels between the Passover story and the Christian faith are striking. Just as the Israelites were oppressed and longed for freedom, Christians believe they are oppressed by sin and need a savior to set them free. Jesus is seen as the ultimate sacrifice who paid the price for sin, offering salvation to all who believe in him.
 
 ## Average Grade
-88.0
+85.0
 
 ## Grades
  * [90.0](./Passover_Significance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ The parallels between the Passover story and the Christian faith are striking. J
  * [90.0](./Passover_Significance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Passover_Significance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Passover_Significance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Passover_Significance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

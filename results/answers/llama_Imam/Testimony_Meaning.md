@@ -27,7 +27,7 @@ In Islamic theology, while we do not have an exact equivalent to the biblical co
 In conclusion, while the concept of "testimony" in Christianity may not have direct parallels in Islamic theology, we can appreciate the significance it holds in Christian thought. The importance of bearing witness to one's faith and commitment to living according to God's commandments is a universal theme that transcends religious boundaries.
 
 ## Average Grade
-79.0
+78.33333333333333
 
 ## Grades
  * [85.0](./Testimony_Meaning_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In conclusion, while the concept of "testimony" in Christianity may not have dir
  * [85.0](./Testimony_Meaning_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Testimony_Meaning_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Testimony_Meaning_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Testimony_Meaning_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

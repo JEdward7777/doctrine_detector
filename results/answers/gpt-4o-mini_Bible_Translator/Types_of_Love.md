@@ -27,7 +27,7 @@ The biblical definition of love transcends these forms by grounding them in the 
 Ultimately, these types of love are interconnected and should be expressed in harmony with one another. For Christians, the expression of love—whether brotherly, romantic, or familial—must be aligned with the principles of the Gospel, emphasizing sacrifice, humility, and service to others.
 
 ## Average Grade
-91.0
+90.83333333333333
 
 ## Grades
  * [90.0](./Types_of_Love_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ Ultimately, these types of love are interconnected and should be expressed in ha
  * [95.0](./Types_of_Love_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Types_of_Love_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Types_of_Love_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Types_of_Love_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

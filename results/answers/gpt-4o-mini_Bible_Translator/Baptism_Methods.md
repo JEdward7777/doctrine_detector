@@ -31,7 +31,7 @@ Baptism is a significant rite in Christian faith, and the Bible mentions several
 The theological understanding of baptism continues to be a source of rich discussion within Christianity, often reflecting broader views on salvation, grace, and community identity. Each tradition brings unique insights into the meaning and significance of this foundational Christian practice.
 
 ## Average Grade
-94.4
+93.66666666666667
 
 ## Grades
  * [95.0](./Baptism_Methods_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,3 +39,4 @@ The theological understanding of baptism continues to be a source of rich discus
  * [95.0](./Baptism_Methods_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Baptism_Methods_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Baptism_Methods_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Baptism_Methods_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

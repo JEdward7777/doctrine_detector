@@ -29,7 +29,7 @@ Reconciliation goes a step further by restoring the broken relationship between 
 In summary, atonement, forgiveness, and reconciliation are essential components of Christianity, each playing a unique yet complementary role in understanding the redemptive work of Jesus Christ. Atonement provides the means for forgiveness, while forgiveness makes possible reconciliation, ultimately restoring the broken relationship between God and humanity.
 
 ## Average Grade
-91.0
+90.83333333333333
 
 ## Grades
  * [95.0](./Atonement_and_Forgiveness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ In summary, atonement, forgiveness, and reconciliation are essential components 
  * [95.0](./Atonement_and_Forgiveness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Atonement_and_Forgiveness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Atonement_and_Forgiveness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Atonement_and_Forgiveness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

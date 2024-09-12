@@ -19,7 +19,7 @@ Additionally, faith in Jesus is often accompanied by obedience to His teachings 
 This concept is further explained throughout the New Testament books of Matthew, Mark, Luke, John, Romans, Galatians, Ephesians, Philippians, Colossians, and Thessalonians. It's always a good idea to consult with a pastor or trusted Christian leader for a deeper understanding.
 
 ## Average Grade
-92.0
+90.83333333333333
 
 ## Grades
  * [90.0](./Inheriting_Eternal_Life_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ This concept is further explained throughout the New Testament books of Matthew,
  * [95.0](./Inheriting_Eternal_Life_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Inheriting_Eternal_Life_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Inheriting_Eternal_Life_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Inheriting_Eternal_Life_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

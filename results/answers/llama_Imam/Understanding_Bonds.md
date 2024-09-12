@@ -35,7 +35,7 @@ May Allah guide us on this path, and may we establish strong bonds with Him that
 Wa al-salamu alaykum.
 
 ## Average Grade
-69.0
+65.83333333333333
 
 ## Grades
  * [65.0](./Understanding_Bonds_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -43,3 +43,4 @@ Wa al-salamu alaykum.
  * [65.0](./Understanding_Bonds_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [60.0](./Understanding_Bonds_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Bonds_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Understanding_Bonds_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -19,7 +19,7 @@ The Bible uses the term "trespass" to denote sins committed against one another 
 In essence, the concept of trespass serves as an illustration of sin within the Christian worldview. By not obeying God's commandments or neglecting our responsibility to love and care for others, we are committing a spiritual form of "trespass" and offending against God and each other. This understanding underlines the importance of repentance, forgiveness, and restoring right relationships with both God and our fellow human beings.
 
 ## Average Grade
-90.0
+89.16666666666667
 
 ## Grades
  * [90.0](./Understanding_Trespass_in_a_Christian_Context_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ In essence, the concept of trespass serves as an illustration of sin within the 
  * [90.0](./Understanding_Trespass_in_a_Christian_Context_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_Trespass_in_a_Christian_Context_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Understanding_Trespass_in_a_Christian_Context_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Understanding_Trespass_in_a_Christian_Context_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

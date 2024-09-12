@@ -27,7 +27,7 @@ Understanding the practical implications of reconciliation in daily life.
 In summary, Christians can apply the principle of reconciliation by practicing forgiveness, loving their neighbors, turning the other cheek, pursuing mediation and restoration, and extending grace to others. These principles are rooted in biblical teachings and can help foster stronger, more harmonious relationships between individuals from diverse backgrounds.
 
 ## Average Grade
-90.0
+89.16666666666667
 
 ## Grades
  * [95.0](./Application_of_Reconciliation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In summary, Christians can apply the principle of reconciliation by practicing f
  * [90.0](./Application_of_Reconciliation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Application_of_Reconciliation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Application_of_Reconciliation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Application_of_Reconciliation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

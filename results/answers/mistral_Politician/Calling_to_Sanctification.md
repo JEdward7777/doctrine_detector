@@ -15,7 +15,7 @@ Emphasizing the importance of personal responsibility in the sanctification proc
  As a neutral and objective entity, I don't hold personal beliefs or political positions. However, I can share information based on various religious texts and teachings. In the context of Christianity, one command given to believers regarding their personal sanctification is found in 1 Thessalonians 4:3 (NIV), which states, "For God did not call us to impurity but to holiness." This verse emphasizes the importance of pursuing a life of righteousness and moral excellence. It's essential to remember that interpretations may vary among different Christian denominations and individuals.
 
 ## Average Grade
-89.0
+85.83333333333333
 
 ## Grades
  * [95.0](./Calling_to_Sanctification_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ Emphasizing the importance of personal responsibility in the sanctification proc
  * [90.0](./Calling_to_Sanctification_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Calling_to_Sanctification_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Calling_to_Sanctification_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Calling_to_Sanctification_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

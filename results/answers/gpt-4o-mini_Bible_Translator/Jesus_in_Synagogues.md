@@ -29,7 +29,7 @@ During His ministry, Jesus engaged with the synagogue in several significant way
 Through these activities, Jesus reinforced His identity as a teacher and the Messiah, while simultaneously fulfilling His mission to reach out to the lost and challenge the status quo within religious life. His ministry in the synagogues laid the groundwork for the spread of the Gospel beyond the Jewish community.
 
 ## Average Grade
-92.0
+90.83333333333333
 
 ## Grades
  * [85.0](./Jesus_in_Synagogues_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ Through these activities, Jesus reinforced His identity as a teacher and the Mes
  * [90.0](./Jesus_in_Synagogues_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Jesus_in_Synagogues_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Jesus_in_Synagogues_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Jesus_in_Synagogues_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

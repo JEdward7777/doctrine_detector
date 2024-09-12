@@ -27,7 +27,7 @@ In the Bible, the dominion of Jesus Christ is described in various ways, reflect
 In summary, the dominion of Jesus Christ, as described in the Bible, encompasses spiritual authority, kingship, shepherd-like care for his followers, and the ultimate role of judge in the final judgment. These themes showcase a multifaceted understanding of his dominion, both in the present and the future.
 
 ## Average Grade
-92.4
+91.16666666666667
 
 ## Grades
  * [92.0](./Dominion_of_Christ_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In summary, the dominion of Jesus Christ, as described in the Bible, encompasses
  * [95.0](./Dominion_of_Christ_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Dominion_of_Christ_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Dominion_of_Christ_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Dominion_of_Christ_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

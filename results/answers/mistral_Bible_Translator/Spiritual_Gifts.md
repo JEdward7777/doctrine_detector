@@ -21,7 +21,7 @@ Recognizing the importance of utilizing spiritual gifts for community growth and
    In summary, spiritual gifts highlight the unity of believers in Christ, each with unique roles to play within the body, for the greater good and worship of God. They serve as tangible evidence of the indwelling presence and guidance of the Holy Spirit in the lives of believers.
 
 ## Average Grade
-92.0
+91.66666666666667
 
 ## Grades
  * [90.0](./Spiritual_Gifts_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Recognizing the importance of utilizing spiritual gifts for community growth and
  * [95.0](./Spiritual_Gifts_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Spiritual_Gifts_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Spiritual_Gifts_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Spiritual_Gifts_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

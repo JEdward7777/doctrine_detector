@@ -21,7 +21,7 @@ Psalm 34:22 also provides insights into our understanding of punishment and cond
 In summary, these teachings in Matthew 12:7 and Psalm 34:22 shape our perspective on punishment as a form of condemnation by encouraging us to see it as an opportunity for redemption and growth, emphasizing mercy, compassion, and grace over retribution or strict adherence to rules. This view encourages a more inclusive and empathetic approach when dealing with those who have transgressed or made mistakes.
 
 ## Average Grade
-91.0
+89.16666666666667
 
 ## Grades
  * [90.0](./Condemnation_and_Punishment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In summary, these teachings in Matthew 12:7 and Psalm 34:22 shape our perspectiv
  * [95.0](./Condemnation_and_Punishment_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Condemnation_and_Punishment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Condemnation_and_Punishment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Condemnation_and_Punishment_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

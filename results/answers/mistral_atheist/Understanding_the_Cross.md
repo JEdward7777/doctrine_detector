@@ -21,7 +21,7 @@ The resurrection of Jesus three days after His death is seen as proof of His div
 In summary, the significance of Jesus dying on the cross according to Christian beliefs lies in the atonement for sins, the demonstration of divine love, and the promise of salvation and eternal life for those who follow Jesus.
 
 ## Average Grade
-94.4
+93.66666666666667
 
 ## Grades
  * [95.0](./Understanding_the_Cross_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In summary, the significance of Jesus dying on the cross according to Christian 
  * [95.0](./Understanding_the_Cross_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_the_Cross_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Understanding_the_Cross_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Understanding_the_Cross_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

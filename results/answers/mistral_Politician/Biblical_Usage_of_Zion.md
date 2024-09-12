@@ -21,7 +21,7 @@ In the New Testament, the term Zion is also used metaphorically, but in a broade
 In all instances, it is essential to remember that interpretations of the Bible can vary widely among different religious and cultural groups. As a politician, I prioritize inclusivity and understanding in conversations about religious matters while respecting the diversity of beliefs within our society.
 
 ## Average Grade
-89.0
+87.5
 
 ## Grades
  * [90.0](./Biblical_Usage_of_Zion_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In all instances, it is essential to remember that interpretations of the Bible 
  * [90.0](./Biblical_Usage_of_Zion_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Biblical_Usage_of_Zion_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_Usage_of_Zion_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Biblical_Usage_of_Zion_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -32,7 +32,7 @@ Eternity is a crucial aspect of Christian faith, and understanding how to attain
 Islam and Christianity share some similarities in their beliefs about God and the afterlife, but there are also significant differences. Islamic teachings emphasize submission to Allah's will and following Islamic laws as a path to salvation. While faith in Jesus Christ is not explicitly accepted in Islam, the concept of believing in God and following his teachings is fundamental to both religions.
 
 ## Average Grade
-20.0
+21.666666666666668
 
 ## Grades
  * [20.0](./Understanding_Eternal_Life_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -40,3 +40,4 @@ Islam and Christianity share some similarities in their beliefs about God and th
  * [20.0](./Understanding_Eternal_Life_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [20.0](./Understanding_Eternal_Life_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [20.0](./Understanding_Eternal_Life_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [30.0](./Understanding_Eternal_Life_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

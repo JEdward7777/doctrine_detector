@@ -25,7 +25,7 @@ During biblical times, altars were commonly constructed using a variety of mater
 These materials were chosen for their availability and the symbolic meanings they carried within the context of worship and sacrifice in ancient cultures. Each material was imbued with spiritual significance and represented a connection to the divine.
 
 ## Average Grade
-82.0
+82.5
 
 ## Grades
  * [85.0](./Building_Materials_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ These materials were chosen for their availability and the symbolic meanings the
  * [85.0](./Building_Materials_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Building_Materials_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Building_Materials_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Building_Materials_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

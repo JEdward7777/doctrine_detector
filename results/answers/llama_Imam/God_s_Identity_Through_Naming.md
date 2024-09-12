@@ -31,7 +31,7 @@ This concept has far-reaching implications for our relationship with God:
 In conclusion, being "called by your name" underscores the profound intimacy and personal connection between an individual believer and Allah. It is a powerful reminder of God's unconditional love, personalized guidance, and responsiveness to our prayers and supplications.
 
 ## Average Grade
-84.0
+80.0
 
 ## Grades
  * [85.0](./God_s_Identity_Through_Naming_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,3 +39,4 @@ In conclusion, being "called by your name" underscores the profound intimacy and
  * [90.0](./God_s_Identity_Through_Naming_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./God_s_Identity_Through_Naming_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./God_s_Identity_Through_Naming_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./God_s_Identity_Through_Naming_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

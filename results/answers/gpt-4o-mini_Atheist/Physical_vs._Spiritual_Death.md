@@ -29,7 +29,7 @@ Differentiating between physical death and the spiritual concept of 'perish' inv
 In sum, recognizing the complexity of both physical death and the notion of perishing allows for a nuanced understanding that respects varying cultural and philosophical interpretations. This differentiation acknowledges the tangible realities of life while exploring the more abstract and subjective experiences of meaning and existence.
 
 ## Average Grade
-81.0
+78.33333333333333
 
 ## Grades
  * [85.0](./Physical_vs._Spiritual_Death_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ In sum, recognizing the complexity of both physical death and the notion of peri
  * [90.0](./Physical_vs._Spiritual_Death_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Physical_vs._Spiritual_Death_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Physical_vs._Spiritual_Death_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [65.0](./Physical_vs._Spiritual_Death_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

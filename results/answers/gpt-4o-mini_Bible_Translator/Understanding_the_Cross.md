@@ -29,7 +29,7 @@ The significance of Jesus dying on the cross is central to Christian beliefs and
 Overall, the significance of Jesus' death on the cross lies in its multifaceted implications for salvation, divine love, fulfillment of prophecy, and the transformative relationship offered to believers.
 
 ## Average Grade
-93.0
+92.5
 
 ## Grades
  * [95.0](./Understanding_the_Cross_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ Overall, the significance of Jesus' death on the cross lies in its multifaceted 
  * [95.0](./Understanding_the_Cross_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_the_Cross_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_the_Cross_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Understanding_the_Cross_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

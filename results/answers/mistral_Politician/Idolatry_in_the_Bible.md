@@ -25,7 +25,7 @@ The Bible presents several stories that depict the negative consequences of idol
 These stories remind us that relationships – whether with our fellow human beings or with a higher power – require trust, commitment, and honesty. Idolatry can strain these bonds and lead to negative consequences, reinforcing the importance of respecting the beliefs and traditions of others while fostering open dialogue about our shared values and common ground.
 
 ## Average Grade
-89.0
+85.83333333333333
 
 ## Grades
  * [90.0](./Idolatry_in_the_Bible_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ These stories remind us that relationships – whether with our fellow human bei
  * [90.0](./Idolatry_in_the_Bible_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Idolatry_in_the_Bible_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Idolatry_in_the_Bible_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Idolatry_in_the_Bible_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

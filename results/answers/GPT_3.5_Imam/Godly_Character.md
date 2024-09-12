@@ -19,7 +19,7 @@ Some of these virtues in Islam include sincerity (Ikhlas), honesty, humility, pa
 These qualities are often highlighted in Islamic teachings and are seen as key indicators of a person's godly character and their closeness to Allah. It is important for Muslims to continually strive to embody these virtues in their thoughts, words, and actions in order to develop good character and please Allah.
 
 ## Average Grade
-90.0
+83.33333333333333
 
 ## Grades
  * [85.0](./Godly_Character_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ These qualities are often highlighted in Islamic teachings and are seen as key i
  * [95.0](./Godly_Character_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Godly_Character_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Godly_Character_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Godly_Character_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

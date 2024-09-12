@@ -35,7 +35,7 @@ Encouraging individuals to embody the merciful nature of God in their interactio
 10. Living Out God's Word: Ultimately, demonstrating mercy in our daily lives is an expression of our obedience to God's commands. By striving to live out God's Word in our actions and attitudes, we can show the world what it means to be a follower of Christ.
 
 ## Average Grade
-94.0
+90.83333333333333
 
 ## Grades
  * [95.0](./Understanding_Mercy_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -43,3 +43,4 @@ Encouraging individuals to embody the merciful nature of God in their interactio
  * [95.0](./Understanding_Mercy_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_Mercy_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Understanding_Mercy_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Understanding_Mercy_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

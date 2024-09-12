@@ -25,7 +25,7 @@ In contrast, while Islam shares some values with Judaism and Christianity regard
 In Islamic jurisprudence, the practice of redeeming people or property is still relevant in certain contexts, particularly regarding captives of war (as prescribed by the Quran in Surah Al-Anfal: verses 65 to 73). However, the modern understanding and application of these practices are subject to ongoing interpretation and debate among Islamic scholars.
 
 ## Average Grade
-62.0
+63.333333333333336
 
 ## Grades
  * [85.0](./Redemption_Concept_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ In Islamic jurisprudence, the practice of redeeming people or property is still 
  * [60.0](./Redemption_Concept_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Redemption_Concept_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Redemption_Concept_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Redemption_Concept_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

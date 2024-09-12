@@ -19,7 +19,7 @@ In the context you provided, blessing someone often entails expressing hope for 
 In essence, when we bless someone, it is an indirect manifestation of our praise for the divine being, as we invoke His/Her/Its power and benevolence to bring about positive outcomes in their lives. By promoting harmony, understanding, and compassion, we can help ensure that our expressions of faith resonate with others while reinforcing the importance of respect and tolerance within society.
 
 ## Average Grade
-79.0
+75.83333333333333
 
 ## Grades
  * [75.0](./The_Role_of_Blessing_in_Worship_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ In essence, when we bless someone, it is an indirect manifestation of our praise
  * [80.0](./The_Role_of_Blessing_in_Worship_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./The_Role_of_Blessing_in_Worship_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./The_Role_of_Blessing_in_Worship_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./The_Role_of_Blessing_in_Worship_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

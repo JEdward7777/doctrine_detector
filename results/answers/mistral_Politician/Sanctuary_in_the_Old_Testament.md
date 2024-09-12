@@ -24,7 +24,7 @@ To provide some examples:
 In summary, the Old Testament portrays the sanctuary as a holy place for the Israelites to connect with God and experience His presence. It was a tangible reminder of their covenant relationship with Him. In modern terms, we can compare the sanctuary to a church or religious institution that serves as a sacred space for worship and spiritual growth.
 
 ## Average Grade
-84.0
+81.66666666666667
 
 ## Grades
  * [90.0](./Sanctuary_in_the_Old_Testament_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,3 +32,4 @@ In summary, the Old Testament portrays the sanctuary as a holy place for the Isr
  * [90.0](./Sanctuary_in_the_Old_Testament_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Sanctuary_in_the_Old_Testament_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Sanctuary_in_the_Old_Testament_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Sanctuary_in_the_Old_Testament_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

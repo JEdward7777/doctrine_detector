@@ -19,7 +19,7 @@ In Christianity, the title "Rabbi" was used for Jesus during His lifetime (Matth
 In modern times, "Rabbi" is a title used for ordained clergy in some Messianic Jewish congregations or churches that have Jewish roots. These Rabbis are usually spiritual leaders who provide teaching, guidance, and pastoral care within their communities.
 
 ## Average Grade
-88.0
+87.5
 
 ## Grades
  * [85.0](./Rabbi_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ In modern times, "Rabbi" is a title used for ordained clergy in some Messianic J
  * [85.0](./Rabbi_Definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Rabbi_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Rabbi_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Rabbi_Definition_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

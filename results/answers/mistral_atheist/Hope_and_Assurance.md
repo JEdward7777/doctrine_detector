@@ -21,7 +21,7 @@ One significant passage related to this topic can be found in Romans 5:1-5, wher
 In conclusion, while the Bible acknowledges feelings of hopelessness, it encourages its followers to find hope in their faith in God, His love, and the promises of salvation offered through Jesus Christ.
 
 ## Average Grade
-93.0
+90.83333333333333
 
 ## Grades
  * [95.0](./Hope_and_Assurance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In conclusion, while the Bible acknowledges feelings of hopelessness, it encoura
  * [95.0](./Hope_and_Assurance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Hope_and_Assurance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Hope_and_Assurance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Hope_and_Assurance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

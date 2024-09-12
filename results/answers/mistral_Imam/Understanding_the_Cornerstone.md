@@ -23,7 +23,7 @@ It is essential to remember that while both traditions share a common Abrahamic 
 Ultimately, the 'Assembly of believers' refers to the global community of Muslims who strive to follow the teachings of the Qur'an and the Sunnah (the sayings and actions) of Prophet Muhammad (peace and blessings be upon him). By emulating Jesus Christ's virtues and other prophets, we aim to live a life that brings us closer to Allah.
 
 ## Average Grade
-54.0
+51.666666666666664
 
 ## Grades
  * [60.0](./Understanding_the_Cornerstone_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ Ultimately, the 'Assembly of believers' refers to the global community of Muslim
  * [50.0](./Understanding_the_Cornerstone_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [40.0](./Understanding_the_Cornerstone_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Understanding_the_Cornerstone_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Understanding_the_Cornerstone_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

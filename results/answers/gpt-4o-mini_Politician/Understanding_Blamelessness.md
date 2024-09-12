@@ -25,7 +25,7 @@ In the context of biblical references, being considered "blameless" before God t
 Thus, to be considered blameless before God means striving for righteousness, embracing grace, nurturing a sincere heart, and fostering harmonious relationships. This interpretive framework promotes a holistic understanding of living a life in alignment with divine expectations while acknowledging human imperfection.
 
 ## Average Grade
-90.0
+87.5
 
 ## Grades
  * [90.0](./Understanding_Blamelessness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ Thus, to be considered blameless before God means striving for righteousness, em
  * [95.0](./Understanding_Blamelessness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_Blamelessness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Understanding_Blamelessness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Understanding_Blamelessness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

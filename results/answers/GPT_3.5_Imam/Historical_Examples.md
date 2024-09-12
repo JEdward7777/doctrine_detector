@@ -21,7 +21,7 @@ The significance of building altars in these examples is to show reverence and s
 In Islam, while we do not have a tradition of building altars in the same way as in the Bible, we have the concept of offering prayers and acts of worship as a way to fulfill our religious duties and connect with Allah. Muslims offer prayers five times a day facing the Kaaba in Mecca, which serves as a symbolic focal point for our worship. The key significance is to maintain a strong connection with Allah through our acts of worship and devotion in our daily lives.
 
 ## Average Grade
-87.0
+85.0
 
 ## Grades
  * [85.0](./Historical_Examples_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In Islam, while we do not have a tradition of building altars in the same way as
  * [90.0](./Historical_Examples_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Historical_Examples_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Historical_Examples_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Historical_Examples_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

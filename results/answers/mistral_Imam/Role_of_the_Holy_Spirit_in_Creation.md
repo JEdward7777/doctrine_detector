@@ -21,7 +21,7 @@ However, the Quran uses the term "Ruh" (usually translated as spirit or soul) to
 In summary, according to Islamic teachings, there is no Holy Spirit or divine helper involved in the creation of the world as mentioned in Genesis 1:1-2, but rather Allah, who is One and Self-Sufficient, brought everything into existence through His will and power alone.
 
 ## Average Grade
-24.0
+25.0
 
 ## Grades
  * [20.0](./Role_of_the_Holy_Spirit_in_Creation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In summary, according to Islamic teachings, there is no Holy Spirit or divine he
  * [10.0](./Role_of_the_Holy_Spirit_in_Creation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [50.0](./Role_of_the_Holy_Spirit_in_Creation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [20.0](./Role_of_the_Holy_Spirit_in_Creation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [30.0](./Role_of_the_Holy_Spirit_in_Creation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -21,7 +21,7 @@ In contrast, the New Testament (Christian Bible) presents a different perspectiv
 Ultimately, the concept of purification in the New Testament shifts from external rituals to internal transformation through faith in Christ, emphasizing love, humility, and compassion as essential qualities for spiritual purity. This change is a significant departure from the Old Testament's focus on physical cleansing and ritualistic practices.
 
 ## Average Grade
-92.0
+90.0
 
 ## Grades
  * [95.0](./New_Testament_Redemption_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Ultimately, the concept of purification in the New Testament shifts from externa
  * [95.0](./New_Testament_Redemption_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./New_Testament_Redemption_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./New_Testament_Redemption_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./New_Testament_Redemption_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

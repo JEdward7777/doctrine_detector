@@ -23,7 +23,7 @@ In Old Testament texts, the 'Day of Yahweh' often depicts a cataclysmic event wh
 In New Testament texts, the 'Day of the Lord' often refers to Jesus Christ as the fulfillment of Yahweh, with his life, death, and resurrection representing aspects of this eschatological event (2 Peter 3:3-10, Revelation 16:14-17). The second coming of Jesus Christ is also considered a part of the 'Day of the Lord.'
 
 ## Average Grade
-85.0
+84.16666666666667
 
 ## Grades
  * [85.0](./Judgment_and_Resurrection_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ In New Testament texts, the 'Day of the Lord' often refers to Jesus Christ as th
  * [85.0](./Judgment_and_Resurrection_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Judgment_and_Resurrection_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Judgment_and_Resurrection_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Judgment_and_Resurrection_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -21,7 +21,7 @@ When a person accepts Christ, they undergo a spiritual rebirth—often understoo
 Therefore, while "begotten" in relation to Jesus points to His divine sonship, in the context of spiritual rebirth, it reflects the believer's new identity and relationship with God, founded on grace through faith in Jesus Christ. The term captures both the uniqueness of Christ and the transformative experience of those who come to faith in Him.
 
 ## Average Grade
-91.4
+87.83333333333333
 
 ## Grades
  * [92.0](./Translation_of_Begotten_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Therefore, while "begotten" in relation to Jesus points to His divine sonship, i
  * [90.0](./Translation_of_Begotten_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Translation_of_Begotten_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Translation_of_Begotten_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Translation_of_Begotten_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

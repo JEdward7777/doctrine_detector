@@ -29,7 +29,7 @@ The temple constructed by King Solomon in Jerusalem, often referred to as Solomo
 In summary, Solomon's Temple was a multifaceted institution that played a crucial role in the religious, social, and political life of ancient Israel. Its impact has continued to resonate through history, influencing Jewish thought and identity up to the present day.
 
 ## Average Grade
-93.0
+92.5
 
 ## Grades
  * [95.0](./Temple_Significance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ In summary, Solomon's Temple was a multifaceted institution that played a crucia
  * [95.0](./Temple_Significance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Temple_Significance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Temple_Significance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Temple_Significance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

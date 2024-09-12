@@ -39,7 +39,7 @@ Understanding the significance and implications of the 'day of the Lord' for bel
 **The concept of the 'day of the Lord' in the New Testament resonates with the Islamic understanding of Judgement Day and the Day of Reckoning. Both traditions share similarities in their beliefs about the ultimate destiny of humanity and the transformative power of God's intervention in the end times.**
 
 ## Average Grade
-54.0
+50.0
 
 ## Grades
  * [50.0](./Day_of_the_Lord_Meaning_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -47,3 +47,4 @@ Understanding the significance and implications of the 'day of the Lord' for bel
  * [60.0](./Day_of_the_Lord_Meaning_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [60.0](./Day_of_the_Lord_Meaning_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Day_of_the_Lord_Meaning_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [30.0](./Day_of_the_Lord_Meaning_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

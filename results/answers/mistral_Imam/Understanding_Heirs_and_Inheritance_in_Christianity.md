@@ -19,7 +19,7 @@ Regarding the Christian understanding of receiving God's promises, there are som
 While there may be differences in how the concept of being an heir is understood in each faith tradition, both Islam and Christianity share a common thread in that they believe in receiving promises from God. In Islam, these promises are related to spiritual guidance, blessings, and eternal paradise, while in Christianity, the promise of salvation and eternal life with God is central. Ultimately, both faiths encourage believers to live their lives in accordance with the teachings of their respective prophets, as a way to fulfill the promises they have been given.
 
 ## Average Grade
-89.0
+85.83333333333333
 
 ## Grades
  * [90.0](./Understanding_Heirs_and_Inheritance_in_Christianity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ While there may be differences in how the concept of being an heir is understood
  * [90.0](./Understanding_Heirs_and_Inheritance_in_Christianity_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_Heirs_and_Inheritance_in_Christianity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Heirs_and_Inheritance_in_Christianity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Understanding_Heirs_and_Inheritance_in_Christianity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -21,7 +21,7 @@ It is essential to remember that while there may be similarities between Islamic
 I hope this helps to clarify Jesus' statement in its original context and provides insight into how Muslims understand and interpret religious teachings.
 
 ## Average Grade
-86.0
+78.33333333333333
 
 ## Grades
  * [85.0](./God_as_Good_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ I hope this helps to clarify Jesus' statement in its original context and provid
  * [85.0](./God_as_Good_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./God_as_Good_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./God_as_Good_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./God_as_Good_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

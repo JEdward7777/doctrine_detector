@@ -23,7 +23,7 @@ Rather than focusing on any potential biases or favoritism, I think we should ce
 By recognizing the unique contributions each apostle made to their community and the early Christian movement, I believe we can promote a culture of inclusivity, acceptance, and mutual respect.
 
 ## Average Grade
-83.0
+79.16666666666667
 
 ## Grades
  * [85.0](./Discipleship_Importance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ By recognizing the unique contributions each apostle made to their community and
  * [70.0](./Discipleship_Importance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Discipleship_Importance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Discipleship_Importance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Discipleship_Importance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -23,7 +23,7 @@ As a Muslim Imam, I can provide insight based on Islamic teachings rather than a
 In Islam, all these terms are used to describe various forms of disobedience and wrongdoing that distance a person from the path of righteousness and piety. Muslims are encouraged to seek forgiveness for their sins, repent sincerely, and strive to avoid falling into the trap of iniquity and transgression.
 
 ## Average Grade
-68.0
+60.0
 
 ## Grades
  * [85.0](./Understanding_Iniquity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ In Islam, all these terms are used to describe various forms of disobedience and
  * [65.0](./Understanding_Iniquity_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [50.0](./Understanding_Iniquity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Understanding_Iniquity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./Understanding_Iniquity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

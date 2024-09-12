@@ -21,7 +21,7 @@ In Jeremiah 29:11 (NIV), we find a promise from God that "For I know the plans I
 In summary, 'hope' in a Biblical context signifies a confident expectation grounded in faith in God's promises and His will for our lives.
 
 ## Average Grade
-93.0
+92.5
 
 ## Grades
  * [95.0](./Biblical_Hope_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In summary, 'hope' in a Biblical context signifies a confident expectation groun
  * [90.0](./Biblical_Hope_Definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Biblical_Hope_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Biblical_Hope_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Biblical_Hope_Definition_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

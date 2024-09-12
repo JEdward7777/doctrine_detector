@@ -23,7 +23,7 @@ In the broader context of Jesus' time, the Romans were the rulers of Judea, and 
 So, while the title "King of the Jews" held significant political implications for Jesus during his lifetime, its significance in relation to his identity as the Messiah is more spiritual and theological - a deliverer who brings salvation and establishes God's kingdom spiritually rather than politically.
 
 ## Average Grade
-80.0
+78.33333333333333
 
 ## Grades
  * [85.0](./Messianic_Identity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ So, while the title "King of the Jews" held significant political implications f
  * [80.0](./Messianic_Identity_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Messianic_Identity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Messianic_Identity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Messianic_Identity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

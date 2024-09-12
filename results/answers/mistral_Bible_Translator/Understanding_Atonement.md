@@ -21,7 +21,7 @@ Christ's death is also seen as a propitiation, meaning that it turned away God's
 In summary, the permanent atonement through Christ's death signifies that the debt owed to God due to sin has been paid in full by Jesus, providing eternal salvation for all who believe.
 
 ## Average Grade
-94.0
+93.33333333333333
 
 ## Grades
  * [95.0](./Understanding_Atonement_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In summary, the permanent atonement through Christ's death signifies that the de
  * [95.0](./Understanding_Atonement_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_Atonement_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Understanding_Atonement_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Understanding_Atonement_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

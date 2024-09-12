@@ -25,7 +25,7 @@ To convey this concept in a way that respects both theological perspectives, you
 By framing it this way, you acknowledge the Christian belief while remaining faithful to Islamic theology, fostering mutual respect and understanding.
 
 ## Average Grade
-74.0
+75.0
 
 ## Grades
  * [75.0](./Jesus_is_the_Son_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ By framing it this way, you acknowledge the Christian belief while remaining fai
  * [70.0](./Jesus_is_the_Son_of_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Jesus_is_the_Son_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Jesus_is_the_Son_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Jesus_is_the_Son_of_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

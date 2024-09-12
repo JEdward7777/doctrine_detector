@@ -31,7 +31,7 @@ It's essential to note that while the Pharisees' concerns about separating thems
 I hope this helps clarify the context surrounding the Pharisees' concerns about separating from Gentiles. If you have any further questions or would like to discuss this topic further, please don't hesitate to ask.
 
 ## Average Grade
-75.0
+70.83333333333333
 
 ## Grades
  * [70.0](./Separation_from_Gentiles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,3 +39,4 @@ I hope this helps clarify the context surrounding the Pharisees' concerns about 
  * [80.0](./Separation_from_Gentiles_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [60.0](./Separation_from_Gentiles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Separation_from_Gentiles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Separation_from_Gentiles_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

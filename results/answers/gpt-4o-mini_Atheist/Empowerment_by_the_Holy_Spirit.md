@@ -31,7 +31,7 @@ The concept of the Holy Spirit empowering Christians is articulated in various p
 These passages collectively illustrate that the empowerment of the Holy Spirit is fundamental to the Christian experience, influencing both personal growth and communal aspects of faith. Each of these roles highlights the various ways Christians are supported and strengthened in their spiritual journeys.
 
 ## Average Grade
-94.4
+93.66666666666667
 
 ## Grades
  * [95.0](./Empowerment_by_the_Holy_Spirit_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,3 +39,4 @@ These passages collectively illustrate that the empowerment of the Holy Spirit i
  * [95.0](./Empowerment_by_the_Holy_Spirit_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Empowerment_by_the_Holy_Spirit_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Empowerment_by_the_Holy_Spirit_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Empowerment_by_the_Holy_Spirit_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

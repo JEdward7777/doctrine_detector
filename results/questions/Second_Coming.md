@@ -11,26 +11,26 @@ It implies that believers can expect Jesus' return as the Messiah, affirming hop
 To grasp the implications of Jesus’ second coming as the 'Son of Man' for Christian hope and eschatology.
 
 ## Average Grade
-78.71559633027523
+77.70833333333333
 
 ## Grades
  * [51.666666666666664 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Second_Coming.md)
- * [59.0 gemma Imam](../answers/gemma_Imam/Second_Coming.md)
- * [62.0 mistral Imam](../answers/mistral_Imam/Second_Coming.md)
+ * [60.0 mistral Imam](../answers/mistral_Imam/Second_Coming.md)
+ * [60.833333333333336 gemma Imam](../answers/gemma_Imam/Second_Coming.md)
+ * [60.833333333333336 llama Imam](../answers/llama_Imam/Second_Coming.md)
  * [64.16666666666667 gemma Politician](../answers/gemma_Politician/Second_Coming.md)
- * [65.0 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Second_Coming.md)
- * [65.0 llama Imam](../answers/llama_Imam/Second_Coming.md)
+ * [64.16666666666667 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Second_Coming.md)
  * [67.5 llama Politician](../answers/llama_Politician/Second_Coming.md)
  * [78.33333333333333 gemma atheist](../answers/gemma_atheist/Second_Coming.md)
  * [80.0 llama atheist](../answers/llama_atheist/Second_Coming.md)
+ * [81.66666666666667 mistral atheist](../answers/mistral_atheist/Second_Coming.md)
+ * [82.5 mistral Politician](../answers/mistral_Politician/Second_Coming.md)
  * [85.83333333333333 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Second_Coming.md)
- * [86.0 mistral atheist](../answers/mistral_atheist/Second_Coming.md)
  * [86.66666666666667 gemma Bible Translator](../answers/gemma_Bible_Translator/Second_Coming.md)
- * [88.0 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Second_Coming.md)
- * [89.0 mistral Politician](../answers/mistral_Politician/Second_Coming.md)
- * [91.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Second_Coming.md)
- * [91.0 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Second_Coming.md)
- * [91.0 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Second_Coming.md)
+ * [87.5 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Second_Coming.md)
+ * [88.33333333333333 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Second_Coming.md)
+ * [89.16666666666667 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Second_Coming.md)
+ * [90.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Second_Coming.md)
  * [91.66666666666667 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Second_Coming.md)
  * [91.66666666666667 llama Bible Translator](../answers/llama_Bible_Translator/Second_Coming.md)
- * [92.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Second_Coming.md)
+ * [91.66666666666667 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Second_Coming.md)

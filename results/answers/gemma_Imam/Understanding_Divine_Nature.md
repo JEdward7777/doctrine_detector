@@ -42,7 +42,7 @@ Understanding God's nature is essential for developing a personal relationship w
 * The understanding of God's divine nature is an ongoing journey of spiritual exploration and reflection.
 
 ## Average Grade
-92.0
+90.0
 
 ## Grades
  * [95.0](./Understanding_Divine_Nature_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -50,3 +50,4 @@ Understanding God's nature is essential for developing a personal relationship w
  * [95.0](./Understanding_Divine_Nature_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_Divine_Nature_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Divine_Nature_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Understanding_Divine_Nature_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

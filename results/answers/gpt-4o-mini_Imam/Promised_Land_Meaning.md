@@ -21,7 +21,7 @@ The Promised Land is often identified with the land of Canaan, which later becam
 Overall, in the Islamic perspective, the covenant with Abraham signifies God's promise and favor, emphasizing themes of faith, obedience, and a special relationship between God and His chosen people. The land itself, while important, symbolizes the fulfillment of God's promises and the establishment of a community devoted to Him.
 
 ## Average Grade
-81.0
+79.16666666666667
 
 ## Grades
  * [80.0](./Promised_Land_Meaning_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Overall, in the Islamic perspective, the covenant with Abraham signifies God's p
  * [80.0](./Promised_Land_Meaning_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Promised_Land_Meaning_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Promised_Land_Meaning_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Promised_Land_Meaning_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -19,7 +19,7 @@ It's essential to acknowledge that the cultural context in which this text was w
 However, it's important to approach such texts critically, recognizing that they are products of human authors who lived in specific times and places, reflecting their cultural beliefs, values, and assumptions. As scholars, we must remain aware of these historical and cultural factors when interpreting and analyzing religious texts like the Bible.
 
 ## Average Grade
-86.0
+83.33333333333333
 
 ## Grades
  * [85.0](./Biblical_Usage_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ However, it's important to approach such texts critically, recognizing that they
  * [85.0](./Biblical_Usage_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Biblical_Usage_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_Usage_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Biblical_Usage_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

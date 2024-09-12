@@ -21,7 +21,7 @@ On the other hand, 'perishing' or 'destruction' refers to a person's spiritual s
 In essence, physical death is a tangible event, whereas spiritual 'perishing' is a state of heart and faith that has both temporal and eternal consequences. It is crucial to strive for righteousness in this world and prepare oneself spiritually for the Hereafter by adhering to Islamic teachings and seeking Allah's guidance throughout life.
 
 ## Average Grade
-80.0
+75.0
 
 ## Grades
  * [85.0](./Physical_vs._Spiritual_Death_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In essence, physical death is a tangible event, whereas spiritual 'perishing' is
  * [80.0](./Physical_vs._Spiritual_Death_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Physical_vs._Spiritual_Death_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Physical_vs._Spiritual_Death_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Physical_vs._Spiritual_Death_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

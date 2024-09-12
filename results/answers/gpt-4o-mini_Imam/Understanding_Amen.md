@@ -17,7 +17,7 @@ The term "amen," often used at the end of prayers, signifies affirmation and agr
 The word itself is derived from a Hebrew root meaning "to be firm" or "to be trustworthy," which reflects the belief that the prayers and supplications are sincere and that the worshippers are confident in Allah’s power to respond. In addition, it embodies a sense of unity and community among those who are praying together, as they collectively seek Allah's mercy, guidance, and assistance.
 
 ## Average Grade
-63.0
+62.5
 
 ## Grades
  * [50.0](./Understanding_Amen_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -25,3 +25,4 @@ The word itself is derived from a Hebrew root meaning "to be firm" or "to be tru
  * [40.0](./Understanding_Amen_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Understanding_Amen_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Amen_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Understanding_Amen_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

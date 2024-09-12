@@ -33,7 +33,7 @@ While my perspective comes from a Muslim context, I can share some common values
 In essence, the values of compassion, understanding, and forgiveness are integral to the practice of reconciliation within not just Christianity but also in Islam and many other belief systems. By embodying these principles, individuals can contribute to a more harmonious and understanding world.
 
 ## Average Grade
-88.0
+80.0
 
 ## Grades
  * [85.0](./Application_of_Reconciliation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -41,3 +41,4 @@ In essence, the values of compassion, understanding, and forgiveness are integra
  * [90.0](./Application_of_Reconciliation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Application_of_Reconciliation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Application_of_Reconciliation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Application_of_Reconciliation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

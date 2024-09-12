@@ -21,7 +21,7 @@ For example, in the Gospel accounts, Jesus performs many miracles, including tur
 Miracles in Christian theology are not simply magical tricks or displays of power, but rather they reveal God's relationship with His creation, His care for humanity, and His willingness to intervene in the affairs of people when necessary. They also serve as a reminder that our God is not confined by the limits of human understanding and ability, but is all-powerful and sovereign over all things.
 
 ## Average Grade
-91.8
+91.5
 
 ## Grades
  * [90.0](./Definition_of_a_Miracle_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Miracles in Christian theology are not simply magical tricks or displays of powe
  * [94.0](./Definition_of_a_Miracle_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Definition_of_a_Miracle_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Definition_of_a_Miracle_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Definition_of_a_Miracle_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -23,7 +23,7 @@ However, it is important to note that interpretations of Jesus' teachings about 
 Ultimately, the meaning of Jesus' statement about the 'Son of Man' coming on the clouds is open to interpretation and debate, but its significance for believers can be seen in the way it has shaped their understanding of salvation, eschatology, and the nature of God's relationship with humanity.
 
 ## Average Grade
-86.0
+81.66666666666667
 
 ## Grades
  * [90.0](./Second_Coming_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ Ultimately, the meaning of Jesus' statement about the 'Son of Man' coming on the
  * [85.0](./Second_Coming_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Second_Coming_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Second_Coming_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Second_Coming_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -26,7 +26,7 @@ Some signs that may indicate living an unholy life include:
 To identify these characteristics in our actions or society, it is essential to regularly self-reflect, seek knowledge and guidance from Islamic sources, consult with knowledgeable individuals such as scholars or elders, and strive to improve ourselves through sincere repentance and seeking forgiveness from Allah. Additionally, being mindful of how our actions impact those around us and society as a whole can help us avoid falling into the trap of living an unholy life.
 
 ## Average Grade
-85.4
+82.83333333333333
 
 ## Grades
  * [85.0](./Understanding_Unholiness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,3 +34,4 @@ To identify these characteristics in our actions or society, it is essential to 
  * [87.0](./Understanding_Unholiness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Understanding_Unholiness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Unholiness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Understanding_Unholiness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

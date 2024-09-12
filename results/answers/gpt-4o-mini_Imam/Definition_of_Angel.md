@@ -21,7 +21,7 @@ For instance, the angel Gabriel (Jibril in Arabic) is known as the messenger who
 Thus, while the biblical definition of angels may emphasize their role as messengers and servants of God as well, in Islam, angels hold a broader significance as essential beings in the execution of Allah's will across creation.
 
 ## Average Grade
-76.0
+71.66666666666667
 
 ## Grades
  * [70.0](./Definition_of_Angel_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Thus, while the biblical definition of angels may emphasize their role as messen
  * [85.0](./Definition_of_Angel_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Definition_of_Angel_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Definition_of_Angel_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Definition_of_Angel_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

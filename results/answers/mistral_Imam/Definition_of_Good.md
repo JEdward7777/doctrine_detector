@@ -23,7 +23,7 @@ However, a critical difference between Islamic and Biblical definitions lies in 
 In summary, while the concepts of good and evil share similarities across both Islam and Christianity, the specific interpretations and underlying beliefs about free will, divine knowledge, and the nature of moral agency create nuanced differences in their understanding and application.
 
 ## Average Grade
-79.0
+77.5
 
 ## Grades
  * [85.0](./Definition_of_Good_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ In summary, while the concepts of good and evil share similarities across both I
  * [80.0](./Definition_of_Good_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [75.0](./Definition_of_Good_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Definition_of_Good_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Definition_of_Good_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

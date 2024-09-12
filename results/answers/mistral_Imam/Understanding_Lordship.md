@@ -19,7 +19,7 @@ Regarding Jesus, Christians believe that he is the Son of God who came to earth 
 Muslims do not share this belief in the Trinity or the divinity of Jesus (peace be upon him). In Islam, God is One (Tawhid), without any partners or equals, and Jesus is considered a prophet and messenger of Allah. He is not divine but a human being chosen by Allah to perform miracles and convey His message. This distinction in beliefs about the nature of Jesus and his relationship with God highlights the differences between Christianity and Islam.
 
 ## Average Grade
-84.0
+83.33333333333333
 
 ## Grades
  * [90.0](./Understanding_Lordship_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Muslims do not share this belief in the Trinity or the divinity of Jesus (peace 
  * [90.0](./Understanding_Lordship_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_Lordship_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Understanding_Lordship_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Understanding_Lordship_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

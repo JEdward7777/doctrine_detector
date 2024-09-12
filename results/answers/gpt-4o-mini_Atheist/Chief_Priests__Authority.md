@@ -25,7 +25,7 @@ In ancient Israelite society, particularly during the time of the Temple in Jeru
 Overall, while ordinary priests performed essential functions in the religious life of Israel, the chief priests held the ultimate authority and were key figures in the administration of religious practices and Temple governance.
 
 ## Average Grade
-93.0
+92.5
 
 ## Grades
  * [95.0](./Chief_Priests__Authority_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ Overall, while ordinary priests performed essential functions in the religious l
  * [95.0](./Chief_Priests__Authority_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Chief_Priests__Authority_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Chief_Priests__Authority_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Chief_Priests__Authority_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

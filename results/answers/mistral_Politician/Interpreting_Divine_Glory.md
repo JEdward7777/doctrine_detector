@@ -17,7 +17,7 @@ Recognizing God's glory is crucial in worship practices and influences how Chris
 However, it's crucial to recognize that interpretations of "divine glory" can vary significantly across different religious and cultural traditions. Therefore, I encourage respectful dialogue and understanding between individuals and communities as we seek to appreciate the rich diversity of beliefs and practices that exist in our world today.
 
 ## Average Grade
-70.0
+66.66666666666667
 
 ## Grades
  * [70.0](./Interpreting_Divine_Glory_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -25,3 +25,4 @@ However, it's crucial to recognize that interpretations of "divine glory" can va
  * [80.0](./Interpreting_Divine_Glory_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [60.0](./Interpreting_Divine_Glory_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Interpreting_Divine_Glory_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Interpreting_Divine_Glory_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

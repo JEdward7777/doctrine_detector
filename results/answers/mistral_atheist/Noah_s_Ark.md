@@ -19,7 +19,7 @@ In a culturally respectful way, it is important to recognize that the story of N
 From a scholarly perspective, the story can be interpreted as an ancient myth or allegory that reflects the concerns and values of the societies who passed down this tale through generations. It serves as a means to explain natural phenomena, such as floods, and to provide moral guidance for communities.
 
 ## Average Grade
-83.0
+80.83333333333333
 
 ## Grades
  * [85.0](./Noah_s_Ark_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ From a scholarly perspective, the story can be interpreted as an ancient myth or
  * [90.0](./Noah_s_Ark_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [75.0](./Noah_s_Ark_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Noah_s_Ark_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Noah_s_Ark_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

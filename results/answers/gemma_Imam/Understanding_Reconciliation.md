@@ -43,7 +43,7 @@ While the concept of reconciliation through Jesus Christ may not be directly app
 The biblical concept of reconciliation through Jesus Christ addresses the issue of sin from a Christian perspective, emphasizing faith in Jesus Christ as the sole path to salvation. While it shares similarities with Islamic concepts, it differs in its understanding of sin, redemption, and forgiveness.
 
 ## Average Grade
-82.0
+80.0
 
 ## Grades
  * [85.0](./Understanding_Reconciliation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -51,3 +51,4 @@ The biblical concept of reconciliation through Jesus Christ addresses the issue 
  * [85.0](./Understanding_Reconciliation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Understanding_Reconciliation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Understanding_Reconciliation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Understanding_Reconciliation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

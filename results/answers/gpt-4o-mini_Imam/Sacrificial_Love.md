@@ -29,7 +29,7 @@ To love others sacrificially means to prioritize the well-being of others, somet
 In summary, while the notion of sacrificial love as demonstrated by Jesus may not directly translate in Islamic texts, the underlying principles of selflessness, compassion, and service to others are deeply rooted in our faith. Islam encourages us to adopt these values in our interactions with others, thereby fostering an environment of love and support within our communities.
 
 ## Average Grade
-82.0
+78.33333333333333
 
 ## Grades
  * [85.0](./Sacrificial_Love_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ In summary, while the notion of sacrificial love as demonstrated by Jesus may no
  * [75.0](./Sacrificial_Love_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Sacrificial_Love_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Sacrificial_Love_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Sacrificial_Love_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

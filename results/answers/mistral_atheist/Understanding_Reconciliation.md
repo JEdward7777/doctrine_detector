@@ -21,7 +21,7 @@ Jesus Christ, according to Christian belief, was sent by God to earth as a savio
 This process of reconciliation through faith in Jesus Christ is not about earning salvation through good works or following rules but acknowledging and accepting God's grace and mercy (Ephesians 2:8-9). In Christian theology, sin is a separation from God, and through Christ, this separation can be resolved.
 
 ## Average Grade
-91.0
+90.83333333333333
 
 ## Grades
  * [90.0](./Understanding_Reconciliation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ This process of reconciliation through faith in Jesus Christ is not about earnin
  * [95.0](./Understanding_Reconciliation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_Reconciliation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Reconciliation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Understanding_Reconciliation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

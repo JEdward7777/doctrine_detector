@@ -21,7 +21,7 @@ Ensuring that translations adequately convey the original text's spiritual and c
 While acknowledging that language can sometimes be problematic, it's essential to balance sensitivity with historical accuracy in translations of religious texts. By retaining terms like "Zion" and "daughter," we respect the rich history and cultural significance these words hold for millions of people worldwide. Ultimately, our goal should be to create accessible and meaningful translations that resonate with modern readers while preserving the original text's essence and intent.
 
 ## Average Grade
-94.0
+93.33333333333333
 
 ## Grades
  * [95.0](./Translation_Considerations_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ While acknowledging that language can sometimes be problematic, it's essential t
  * [95.0](./Translation_Considerations_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Translation_Considerations_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Translation_Considerations_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Translation_Considerations_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

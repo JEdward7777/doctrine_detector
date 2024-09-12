@@ -29,7 +29,7 @@ Key aspects of this concept include:
 Overall, being 'in Christ' is a central tenet of Christian faith that encapsulates themes of identity, belonging, and divine grace. It speaks to the personal and communal dimensions of faith and spirituality within the Christian tradition.
 
 ## Average Grade
-92.0
+90.0
 
 ## Grades
  * [90.0](./Understanding_Being__In_Christ__grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ Overall, being 'in Christ' is a central tenet of Christian faith that encapsulat
  * [95.0](./Understanding_Being__In_Christ__grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_Being__In_Christ__grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Being__In_Christ__grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Understanding_Being__In_Christ__grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

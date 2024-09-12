@@ -29,7 +29,7 @@ The appointment of Jesus Christ as the judge on the Day of Judgment holds profou
 In conclusion, the significance of Jesus Christ as the judge on the Day of Judgment encompasses notions of authority, justice, mercy, prophecy, ethical living, and hope for restoration, deeply influencing the beliefs and practices of many within the Christian faith.
 
 ## Average Grade
-90.0
+88.33333333333333
 
 ## Grades
  * [90.0](./Understanding_the_Day_of_Judgment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ In conclusion, the significance of Jesus Christ as the judge on the Day of Judgm
  * [90.0](./Understanding_the_Day_of_Judgment_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_the_Day_of_Judgment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_the_Day_of_Judgment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Understanding_the_Day_of_Judgment_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

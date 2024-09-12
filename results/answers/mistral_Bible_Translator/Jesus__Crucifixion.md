@@ -19,7 +19,7 @@ The offering of this mixture to Jesus suggests that even in His suffering, Jesus
 In a broader theological context, the offer of wine mixed with myrrh serves as an emblem of Jesus' sacrificial love and obedience on the cross. By willingly accepting this excruciating death, Jesus demonstrated His unfathomable love for humanity and His ultimate purpose to redeem mankind from sin (Romans 5:8). The offering of wine mixed with myrrh highlights both the physical anguish endured by Jesus during His crucifixion and the divine purpose behind it.
 
 ## Average Grade
-77.0
+75.83333333333333
 
 ## Grades
  * [85.0](./Jesus__Crucifixion_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ In a broader theological context, the offer of wine mixed with myrrh serves as a
  * [70.0](./Jesus__Crucifixion_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Jesus__Crucifixion_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Jesus__Crucifixion_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Jesus__Crucifixion_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

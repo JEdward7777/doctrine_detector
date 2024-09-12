@@ -15,7 +15,7 @@ Understanding the depth of God's love for Jesus and how that relates to believer
  In a biblical context, the term "beloved" often denotes a special affection or deep love, usually between God and His people, or among individuals within the community of believers. It is used to express a close, cherished relationship and often implies a sense of favor, grace, and protection. For instance, in Matthew 3:17, when God the Father speaks from heaven at Jesus' baptism, He refers to Jesus as "My beloved Son," emphasizing their unique and intimate bond. Similarly, in 1 John 4:19, the apostle John says that we love because He first loved us, implying that our love for God is a response to His initial love for us.
 
 ## Average Grade
-86.0
+86.66666666666667
 
 ## Grades
  * [90.0](./Definition_of_Beloved_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ Understanding the depth of God's love for Jesus and how that relates to believer
  * [90.0](./Definition_of_Beloved_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Definition_of_Beloved_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Definition_of_Beloved_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Definition_of_Beloved_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

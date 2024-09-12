@@ -19,7 +19,7 @@ Ensuring clarity on the moral implications of behaviors and character in the con
 It is essential to remember that the Bible's perspective on morality is rooted in its cultural and historical context. As we engage with these texts today, it is crucial to respect their original meaning while also reflecting on how their teachings apply to our diverse and complex modern society. By fostering open dialogue and understanding, we can strive to create a world that promotes justice, compassion, and harmony among all people.
 
 ## Average Grade
-86.0
+81.66666666666667
 
 ## Grades
  * [90.0](./Understanding_Evil_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ It is essential to remember that the Bible's perspective on morality is rooted i
  * [85.0](./Understanding_Evil_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_Evil_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Evil_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Understanding_Evil_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

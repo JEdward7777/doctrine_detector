@@ -29,7 +29,7 @@ In the Bible, God's pronouncement of consequences on ungodly people is expressed
 Overall, the theme throughout the Bible is that ungodliness leads to separation from God, judgment, and ultimately destruction, while urging repentance and the pursuit of righteousness through faith in Jesus Christ for redemption and eternal life.
 
 ## Average Grade
-93.4
+89.5
 
 ## Grades
  * [90.0](./Ungodliness_Consequences_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ Overall, the theme throughout the Bible is that ungodliness leads to separation 
  * [95.0](./Ungodliness_Consequences_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Ungodliness_Consequences_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Ungodliness_Consequences_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Ungodliness_Consequences_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

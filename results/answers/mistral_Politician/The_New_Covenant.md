@@ -19,7 +19,7 @@ It signifies that God desires a relationship with us where we genuinely love and
 This concept is central to many Christian teachings about the role of the Holy Spirit in guiding and empowering believers to live a life pleasing to God. It does not imply that people will never sin or offend, but rather that they will have the capacity to recognize right from wrong and seek to follow God's law with greater sincerity and consistency than would be possible through external regulations alone.
 
 ## Average Grade
-93.0
+92.5
 
 ## Grades
  * [95.0](./The_New_Covenant_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ This concept is central to many Christian teachings about the role of the Holy S
  * [95.0](./The_New_Covenant_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./The_New_Covenant_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./The_New_Covenant_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./The_New_Covenant_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

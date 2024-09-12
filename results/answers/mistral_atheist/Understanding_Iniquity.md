@@ -23,7 +23,7 @@ Understanding these distinctions can help Christians better recognize the gravit
 These terms are not mutually exclusive and can overlap in usage, but they each offer unique perspectives on human wrongdoing as understood within Biblical literature. Keep in mind that interpretations may vary based on religious tradition and theological approach.
 
 ## Average Grade
-88.0
+85.0
 
 ## Grades
  * [95.0](./Understanding_Iniquity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ These terms are not mutually exclusive and can overlap in usage, but they each o
  * [85.0](./Understanding_Iniquity_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_Iniquity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Iniquity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Understanding_Iniquity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

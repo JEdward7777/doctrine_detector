@@ -23,7 +23,7 @@ Moreover, some question whether the concept of hell is consistent with a loving 
 Ultimately, the interpretation of divine justice is subjective and depends on one's religious beliefs and moral framework. It is essential to approach such discussions with empathy, respect for diverse viewpoints, and a willingness to engage in open-minded dialogue.
 
 ## Average Grade
-76.0
+71.66666666666667
 
 ## Grades
  * [60.0](./Eternal_Punishment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ Ultimately, the interpretation of divine justice is subjective and depends on on
  * [70.0](./Eternal_Punishment_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Eternal_Punishment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Eternal_Punishment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Eternal_Punishment_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -31,7 +31,7 @@ Some actions associated with being compassionate in Islam include:
 Overall, compassion in Islam is a multifaceted concept that encompasses both feelings of empathy and mercy, as well as positive actions towards others. Muslims are encouraged to embody compassion in their daily lives and interactions, following the example set by the Prophet Muhammad, peace be upon him.
 
 ## Average Grade
-54.0
+53.333333333333336
 
 ## Grades
  * [40.0](./Compassion_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,3 +39,4 @@ Overall, compassion in Islam is a multifaceted concept that encompasses both fee
  * [40.0](./Compassion_Definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [60.0](./Compassion_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Compassion_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Compassion_Definition_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

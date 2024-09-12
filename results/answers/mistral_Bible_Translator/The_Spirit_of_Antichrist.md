@@ -19,7 +19,7 @@ Recognizing the spirit of antichrist is crucial for Christians to stay vigilant 
 This passage suggests that the "spirit of antichrist" refers to any belief or action that denies Jesus Christ as having come in the flesh (i.e., his divine and human nature). It also implies that such a spirit, while not necessarily a specific individual or group, is already present in the world. The purpose of testing spirits is to discern between truth and falsehood, distinguishing between those aligned with God's teachings and those contrary to them.
 
 ## Average Grade
-90.0
+89.16666666666667
 
 ## Grades
  * [90.0](./The_Spirit_of_Antichrist_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ This passage suggests that the "spirit of antichrist" refers to any belief or ac
  * [95.0](./The_Spirit_of_Antichrist_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./The_Spirit_of_Antichrist_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./The_Spirit_of_Antichrist_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./The_Spirit_of_Antichrist_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

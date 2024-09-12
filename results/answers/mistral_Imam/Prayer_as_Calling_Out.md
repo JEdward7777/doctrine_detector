@@ -23,7 +23,7 @@ In this verse, Allah encourages us to call out to Him whenever we need help or g
 So in summary, when we say 'call out to the Lord' in our prayers, we are seeking Allah's blessings and love for the Prophet Muhammad ﷺ, as well as asking for His mercy, guidance, or other blessings that we need in our lives.
 
 ## Average Grade
-76.0
+75.83333333333333
 
 ## Grades
  * [80.0](./Prayer_as_Calling_Out_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ So in summary, when we say 'call out to the Lord' in our prayers, we are seeking
  * [90.0](./Prayer_as_Calling_Out_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [65.0](./Prayer_as_Calling_Out_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Prayer_as_Calling_Out_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Prayer_as_Calling_Out_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

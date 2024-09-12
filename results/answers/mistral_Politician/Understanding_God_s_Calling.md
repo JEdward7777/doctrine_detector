@@ -17,7 +17,7 @@ Understanding personal purpose in the context of faith.
 It's important to recognize and respect the diversity of beliefs within Christianity and across all religions. While some may feel called to serve as ministers or missionaries, others may discern a unique calling in areas such as education, healthcare, social justice, or even secular pursuits. Ultimately, this belief is an essential part of their religious identity and spiritual journey, encouraging them to live a life of purpose and service in accordance with their faith.
 
 ## Average Grade
-79.0
+74.16666666666667
 
 ## Grades
  * [70.0](./Understanding_God_s_Calling_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -25,3 +25,4 @@ It's important to recognize and respect the diversity of beliefs within Christia
  * [85.0](./Understanding_God_s_Calling_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Understanding_God_s_Calling_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_God_s_Calling_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Understanding_God_s_Calling_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

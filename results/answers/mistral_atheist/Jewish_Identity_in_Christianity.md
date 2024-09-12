@@ -25,7 +25,7 @@ Understanding the Jewish roots of Christianity is crucial for a comprehensive vi
 5. Ecumenical Dialogue: Recognizing Jesus as a Jew has significant ecumenical implications, fostering dialogue and cooperation between Christianity and Judaism. This recognition emphasizes shared roots and promotes mutual understanding, respect, and collaboration between these two faiths.
 
 ## Average Grade
-93.0
+92.5
 
 ## Grades
  * [95.0](./Jewish_Identity_in_Christianity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ Understanding the Jewish roots of Christianity is crucial for a comprehensive vi
  * [95.0](./Jewish_Identity_in_Christianity_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Jewish_Identity_in_Christianity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Jewish_Identity_in_Christianity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Jewish_Identity_in_Christianity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

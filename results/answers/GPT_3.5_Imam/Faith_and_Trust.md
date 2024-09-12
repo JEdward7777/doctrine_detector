@@ -19,7 +19,7 @@ Christian teachings emphasize the importance of placing trust in God and having 
 Ultimately, trust and faith in Christianity go hand in hand, with each reinforcing and strengthening the other. Trusting in God's promises, providence, and guidance requires a deep and unwavering faith that He is always present, loving, and just. And faith, in turn, is sustained by the trust that God is trustworthy and faithful to His word.
 
 ## Average Grade
-92.0
+90.0
 
 ## Grades
  * [90.0](./Faith_and_Trust_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Ultimately, trust and faith in Christianity go hand in hand, with each reinforci
  * [95.0](./Faith_and_Trust_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Faith_and_Trust_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Faith_and_Trust_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Faith_and_Trust_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

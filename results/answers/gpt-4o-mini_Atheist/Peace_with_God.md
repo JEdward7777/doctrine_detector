@@ -27,7 +27,7 @@ In Christian theology, faith in Jesus' sacrifice is central to the concept of ac
 In summary, scripturally, faith in Jesus' sacrifice is viewed as a vital element for achieving peace with God, encompassing atonement for sin, justification, and the establishment of a new covenant relationship. This is a foundational belief for many Christians and significantly shapes their understanding of spirituality and salvation.
 
 ## Average Grade
-91.0
+90.83333333333333
 
 ## Grades
  * [90.0](./Peace_with_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In summary, scripturally, faith in Jesus' sacrifice is viewed as a vital element
  * [95.0](./Peace_with_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Peace_with_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Peace_with_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Peace_with_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -23,7 +23,7 @@ In addition, the high priest's ephod served as a physical reminder of the covena
 Overall, the high priest's ephod was an essential component of Jewish worship, symbolizing the connection between God and His people, as well as providing a means to seek divine wisdom and guidance.
 
 ## Average Grade
-90.0
+89.16666666666667
 
 ## Grades
  * [85.0](./Ephod_significance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ Overall, the high priest's ephod was an essential component of Jewish worship, s
  * [95.0](./Ephod_significance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Ephod_significance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Ephod_significance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Ephod_significance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -33,7 +33,7 @@ To find freedom from these bonds, Christians can explore the following:
 Please note that this response is based on general Christian teachings and may not be representative of all Christian denominations or interpretations. As an Imam, I am not qualified to provide authoritative guidance on Christian doctrine or practice.
 
 ## Average Grade
-87.0
+84.16666666666667
 
 ## Grades
  * [85.0](./Freedom_from_Sin_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -41,3 +41,4 @@ Please note that this response is based on general Christian teachings and may n
  * [90.0](./Freedom_from_Sin_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Freedom_from_Sin_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Freedom_from_Sin_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Freedom_from_Sin_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

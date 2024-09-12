@@ -25,7 +25,7 @@ Beyond these three major faiths, various spiritual and new religious movements m
 Understanding the term "Messiah" involves recognizing the distinct beliefs and cultural nuances of each faith tradition. It's crucial to approach this topic with sensitivity and respect, acknowledging the rich diversity of perspectives on salvation and leadership across different religious communities. This promotes dialogue and mutual understanding while honoring individual beliefs.
 
 ## Average Grade
-76.0
+75.0
 
 ## Grades
  * [80.0](./Messiah_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ Understanding the term "Messiah" involves recognizing the distinct beliefs and c
  * [60.0](./Messiah_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [75.0](./Messiah_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Messiah_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Messiah_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

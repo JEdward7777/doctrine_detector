@@ -25,7 +25,7 @@ In Islam, similar to the teachings found in the Bible, exalting oneself is highl
 In conclusion, exalting oneself is considered detrimental in Islam as it goes against the teachings of humility, compassion, and seeking forgiveness. Muslims are encouraged to remain humble before Allah and to treat others with kindness and respect, regardless of their social status or background.
 
 ## Average Grade
-94.0
+86.66666666666667
 
 ## Grades
  * [95.0](./Self-Exaltation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ In conclusion, exalting oneself is considered detrimental in Islam as it goes ag
  * [95.0](./Self-Exaltation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Self-Exaltation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Self-Exaltation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Self-Exaltation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

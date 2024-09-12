@@ -41,7 +41,7 @@ While both traditions share the belief in redemption through sacrifice, there ar
 The concept of ransom in Bible verses contributes to the understanding of redemption as a process of liberation from sin and death through the payment of a ransom. This concept is significant in both Islamic and Christian traditions, highlighting the costly nature of redemption and the love of God for humanity.
 
 ## Average Grade
-66.0
+66.66666666666667
 
 ## Grades
  * [75.0](./Biblical_References_8_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -49,3 +49,4 @@ The concept of ransom in Bible verses contributes to the understanding of redemp
  * [70.0](./Biblical_References_8_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [30.0](./Biblical_References_8_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_References_8_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Biblical_References_8_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

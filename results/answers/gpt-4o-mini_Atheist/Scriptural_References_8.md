@@ -32,7 +32,7 @@ The concept of being blameless is addressed in several scriptural references thr
 In summary, the concept of being blameless as presented in these passages emphasizes integrity, the importance of character, continual growth, and reliance on divine grace. For Christians, these scriptures provide a framework for the pursuit of a virtuous life, encouraging reflection on one’s actions and attitudes while understanding that support from God is essential in this endeavor.
 
 ## Average Grade
-87.0
+87.5
 
 ## Grades
  * [85.0](./Scriptural_References_8_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -40,3 +40,4 @@ In summary, the concept of being blameless as presented in these passages emphas
  * [90.0](./Scriptural_References_8_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Scriptural_References_8_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Scriptural_References_8_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Scriptural_References_8_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

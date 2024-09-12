@@ -24,7 +24,7 @@ Learning about the significance of the components of the tabernacle in worship.
    - The Mercy Seat (Kapporeth), which was the lid of the Ark. It was covered with pure gold and was sprinkled with the blood of the sacrifices on the Day of Atonement, symbolizing forgiveness and atonement for the sins of the people.
 
 ## Average Grade
-84.0
+85.83333333333333
 
 ## Grades
  * [90.0](./Structure_of_the_Tabernacle_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,3 +32,4 @@ Learning about the significance of the components of the tabernacle in worship.
  * [90.0](./Structure_of_the_Tabernacle_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Structure_of_the_Tabernacle_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Structure_of_the_Tabernacle_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [95.0](./Structure_of_the_Tabernacle_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

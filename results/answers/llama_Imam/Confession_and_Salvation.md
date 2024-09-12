@@ -31,7 +31,7 @@ However, from a Muslim perspective, we believe that salvation is achieved throug
 In conclusion, while I understand the importance Paul places on confessing Jesus as Lord in Christian theology, I must respectfully disagree with his views from an Islamic perspective.
 
 ## Average Grade
-68.0
+60.0
 
 ## Grades
  * [75.0](./Confession_and_Salvation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,3 +39,4 @@ In conclusion, while I understand the importance Paul places on confessing Jesus
  * [70.0](./Confession_and_Salvation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [50.0](./Confession_and_Salvation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Confession_and_Salvation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./Confession_and_Salvation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

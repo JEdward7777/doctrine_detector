@@ -19,7 +19,7 @@ The centurion was a representative of the Roman Empire, which encompassed many d
 Peter's visit to the centurion also shows acceptance and recognition of this faith among non-Jews, foreshadowing the later evangelization efforts that would lead to the growth of Christianity in Gentile communities (Acts 10). This event underlines the inclusive nature of the Gospel message, emphasizing that salvation is not limited to any one ethnicity or cultural group but available to all who believe.
 
 ## Average Grade
-93.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Centurion_and_Peter_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Peter's visit to the centurion also shows acceptance and recognition of this fai
  * [95.0](./Centurion_and_Peter_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Centurion_and_Peter_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Centurion_and_Peter_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Centurion_and_Peter_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -21,7 +21,7 @@ The roles of eunuchs also reflect the broader biblical theme that value in God's
 Thus, eunuchs in ancient times demonstrate how God’s plan encompasses a range of experiences and identities. Their presence in royal courts also serves as a reminder that God can work through anyone, turning societal limitations into unique opportunities for service and ministry. This inclusivity aligns with Christian teachings about the dignity and purpose of every person, stressing that all are invited to partake in God’s kingdom.
 
 ## Average Grade
-94.0
+92.5
 
 ## Grades
  * [95.0](./Role_of_Eunuchs_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Thus, eunuchs in ancient times demonstrate how God’s plan encompasses a range 
  * [95.0](./Role_of_Eunuchs_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Role_of_Eunuchs_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Role_of_Eunuchs_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Role_of_Eunuchs_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

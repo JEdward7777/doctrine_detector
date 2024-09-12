@@ -21,7 +21,7 @@ Identifying scriptural backing for the Sabbath observance and its relevance in C
 These verses emphasize the importance of observing the Sabbath as a day of rest, sanctification, and honoring God. They also suggest that those who do not observe the Sabbath may face consequences. However, it is important to note that interpretations of the Sabbath can vary among different religious groups, and it is always best to approach such topics with respect for diverse perspectives.
 
 ## Average Grade
-91.0
+91.66666666666667
 
 ## Grades
  * [90.0](./Biblical_References_7_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ These verses emphasize the importance of observing the Sabbath as a day of rest,
  * [95.0](./Biblical_References_7_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Biblical_References_7_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Biblical_References_7_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [95.0](./Biblical_References_7_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

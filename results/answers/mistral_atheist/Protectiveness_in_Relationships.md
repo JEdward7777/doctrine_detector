@@ -29,7 +29,7 @@ Here are some aspects that embody a 'strong protective desire' in Christian teac
 6. Mutual Growth: A strong protective desire seeks to help each other grow in character, as iron sharpens iron (Proverbs 27:17). This involves encouraging one another towards virtues like kindness, patience, and self-control while also offering constructive feedback when needed.
 
 ## Average Grade
-91.0
+90.0
 
 ## Grades
  * [90.0](./Protectiveness_in_Relationships_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ Here are some aspects that embody a 'strong protective desire' in Christian teac
  * [95.0](./Protectiveness_in_Relationships_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Protectiveness_in_Relationships_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Protectiveness_in_Relationships_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Protectiveness_in_Relationships_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

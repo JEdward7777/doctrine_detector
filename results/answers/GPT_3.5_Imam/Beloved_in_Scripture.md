@@ -19,7 +19,7 @@ The term "beloved" emphasizes the love that God has for His people and encourage
 Overall, the term "beloved" in the New Testament letters serves to reinforce the bonds of love and fellowship among Christians and to remind them of their identity as cherished and valued members of God's family.
 
 ## Average Grade
-91.0
+91.66666666666667
 
 ## Grades
  * [90.0](./Beloved_in_Scripture_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Overall, the term "beloved" in the New Testament letters serves to reinforce the
  * [95.0](./Beloved_in_Scripture_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Beloved_in_Scripture_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Beloved_in_Scripture_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [95.0](./Beloved_in_Scripture_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

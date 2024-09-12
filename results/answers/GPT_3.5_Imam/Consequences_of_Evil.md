@@ -23,7 +23,7 @@ As a Muslim Imam, I would like to provide insight from an Islamic perspective on
 In summary, Islam teaches that evil deeds have consequences both in this world and the Hereafter. It is essential for Muslims to avoid engaging in sinful actions, seek forgiveness for their mistakes, and strive to do good deeds to earn Allah's pleasure and mercy.
 
 ## Average Grade
-84.0
+81.66666666666667
 
 ## Grades
  * [90.0](./Consequences_of_Evil_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ In summary, Islam teaches that evil deeds have consequences both in this world a
  * [85.0](./Consequences_of_Evil_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Consequences_of_Evil_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Consequences_of_Evil_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Consequences_of_Evil_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

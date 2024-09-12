@@ -29,7 +29,7 @@ The crucifixion of Jesus is a complex event influenced by various social, politi
 In summary, the Jewish religious leaders influenced the crucifixion of Jesus through their religious authority, their perception of blasphemy, their fear of Roman repercussions, their collaboration with Roman authorities, their role in the trial, and their ability to sway public opinion against him. This multifaceted involvement reflects a complex interplay of religious and political factors in a tumultuous historical context.
 
 ## Average Grade
-90.0
+89.16666666666667
 
 ## Grades
  * [90.0](./Role_of_Jewish_Leaders_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ In summary, the Jewish religious leaders influenced the crucifixion of Jesus thr
  * [90.0](./Role_of_Jewish_Leaders_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Role_of_Jewish_Leaders_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Role_of_Jewish_Leaders_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Role_of_Jewish_Leaders_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

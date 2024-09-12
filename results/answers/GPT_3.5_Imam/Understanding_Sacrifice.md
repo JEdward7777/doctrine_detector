@@ -19,7 +19,7 @@ Muslims believe in the concept of sacrifice as well, but our perspective is diff
 While Muslims acknowledge the significance of Jesus in our faith and revere him as a prophet, we do not hold the belief that he was the ultimate sacrificial offering for the atonement of sins. Instead, we believe in seeking forgiveness directly from Allah through sincere repentance, good deeds, and following the teachings of the Prophets, including Jesus.
 
 ## Average Grade
-66.0
+63.333333333333336
 
 ## Grades
  * [50.0](./Understanding_Sacrifice_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ While Muslims acknowledge the significance of Jesus in our faith and revere him 
  * [90.0](./Understanding_Sacrifice_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [50.0](./Understanding_Sacrifice_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Understanding_Sacrifice_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Understanding_Sacrifice_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

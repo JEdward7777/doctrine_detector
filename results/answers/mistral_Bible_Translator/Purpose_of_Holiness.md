@@ -35,7 +35,7 @@ This question addresses the practical application of holiness in a believer's li
 10. Wait for and anticipate Christ's return (Titus 2:13, Revelation 22:20). As we live in obedience to God, we should always be ready for the day when Jesus will come again to take us home.
 
 ## Average Grade
-94.0
+92.5
 
 ## Grades
  * [95.0](./Purpose_of_Holiness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -43,3 +43,4 @@ This question addresses the practical application of holiness in a believer's li
  * [95.0](./Purpose_of_Holiness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Purpose_of_Holiness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Purpose_of_Holiness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Purpose_of_Holiness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -21,7 +21,7 @@ In the New Testament, sin is understood not as a ritual impurity but as a separa
 So, while the concept of 'cleansing' in the Bible has a different connotation in the Old and New Testaments, both are united in their focus on restoring relationship with God. In the Old Testament, this was achieved through ritual observance; in the New Testament, it is achieved through faith in Jesus Christ. This is in line with Islamic teachings about repentance (Tawba) and seeking forgiveness from Allah (SWT), emphasizing the spiritual transformation and reconnection with God as the goal.
 
 ## Average Grade
-88.0
+85.83333333333333
 
 ## Grades
  * [90.0](./The_Role_of_Cleansing_in_Christianity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ So, while the concept of 'cleansing' in the Bible has a different connotation in
  * [90.0](./The_Role_of_Cleansing_in_Christianity_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./The_Role_of_Cleansing_in_Christianity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./The_Role_of_Cleansing_in_Christianity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./The_Role_of_Cleansing_in_Christianity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -47,7 +47,7 @@ Understanding the nature of God's authority and the implications of His commands
 **In Islamic teachings, Allah's commands and promises are considered to be unchangeable and reliable. The declaration "I am Yahweh" reinforces the importance of upholding these teachings and trusting in Allah's faithfulness.**
 
 ## Average Grade
-75.0
+73.33333333333333
 
 ## Grades
  * [75.0](./Understanding_Yahweh_s_Power_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -55,3 +55,4 @@ Understanding the nature of God's authority and the implications of His commands
  * [80.0](./Understanding_Yahweh_s_Power_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [60.0](./Understanding_Yahweh_s_Power_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Yahweh_s_Power_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [65.0](./Understanding_Yahweh_s_Power_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

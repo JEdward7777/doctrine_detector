@@ -21,7 +21,7 @@ Additionally, the Psalms served as historical records, memorializing significant
 In conclusion, the Psalms played an integral role in the worship practices of ancient Israel by offering a diverse range of expressions for their relationship with God and serving as a resource for communal and individual spiritual growth. This significance has endured throughout history, making the Book of Psalms a powerful and timeless treasure for people of many faiths and cultures.
 
 ## Average Grade
-86.0
+80.0
 
 ## Grades
  * [85.0](./Purpose_of_Psalms_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In conclusion, the Psalms played an integral role in the worship practices of an
  * [90.0](./Purpose_of_Psalms_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Purpose_of_Psalms_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Purpose_of_Psalms_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Purpose_of_Psalms_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

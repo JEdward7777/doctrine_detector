@@ -29,7 +29,7 @@ To achieve this Taqwa, Allah commands us to:
 In summary, the command regarding personal sanctification in Islam is to cultivate Taqwa by purifying our intentions, controlling our desires, guarding our tongues, purifying our wealth, and being mindful of our actions.
 
 ## Average Grade
-88.0
+78.33333333333333
 
 ## Grades
  * [90.0](./Calling_to_Sanctification_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ In summary, the command regarding personal sanctification in Islam is to cultiva
  * [90.0](./Calling_to_Sanctification_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Calling_to_Sanctification_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Calling_to_Sanctification_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [30.0](./Calling_to_Sanctification_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

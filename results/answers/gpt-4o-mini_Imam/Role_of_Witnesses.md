@@ -27,7 +27,7 @@ In the New Testament, witnesses play a critical role in affirming the life, mini
 Overall, witnesses in the New Testament serve as key figures who affirm and disseminate the central tenets of Christian faith regarding Jesus Christ, particularly concerning His resurrection, thereby grounding the beliefs of the early Church and continuing to impact Christian theology today.
 
 ## Average Grade
-91.0
+90.83333333333333
 
 ## Grades
  * [95.0](./Role_of_Witnesses_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ Overall, witnesses in the New Testament serve as key figures who affirm and diss
  * [90.0](./Role_of_Witnesses_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Role_of_Witnesses_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Role_of_Witnesses_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Role_of_Witnesses_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

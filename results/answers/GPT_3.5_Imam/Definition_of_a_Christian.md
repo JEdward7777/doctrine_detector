@@ -17,7 +17,7 @@ In Islam, we do not use the term "Christian" to define our beliefs or identity. 
 As Muslims, we respect the beliefs of Christians and encourage mutual understanding and dialogue while maintaining the distinctiveness of our own faith.
 
 ## Average Grade
-72.0
+63.333333333333336
 
 ## Grades
  * [60.0](./Definition_of_a_Christian_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -25,3 +25,4 @@ As Muslims, we respect the beliefs of Christians and encourage mutual understand
  * [70.0](./Definition_of_a_Christian_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Definition_of_a_Christian_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Definition_of_a_Christian_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./Definition_of_a_Christian_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

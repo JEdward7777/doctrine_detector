@@ -29,7 +29,7 @@ In conclusion, the Israelites' perception of Gentiles had a significant impact o
 May Allah guide us all towards unity and harmony, as we strive to build bridges between cultures and communities. Ameen (Prayer).
 
 ## Average Grade
-85.0
+79.16666666666667
 
 ## Grades
  * [85.0](./Understanding_Gentiles_in_Scripture_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ May Allah guide us all towards unity and harmony, as we strive to build bridges 
  * [90.0](./Understanding_Gentiles_in_Scripture_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Understanding_Gentiles_in_Scripture_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Gentiles_in_Scripture_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Understanding_Gentiles_in_Scripture_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

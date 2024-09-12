@@ -29,7 +29,7 @@ From this text, several important points can be drawn:
 In summary, while the Bible teaches that humanity has a role in exercising dominion over the earth, it also emphasizes the themes of stewardship, responsibility, and ethical treatment of creation, which align with broader values of care and sustainability.
 
 ## Average Grade
-93.0
+92.5
 
 ## Grades
  * [95.0](./Dominion_in_Creation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ In summary, while the Bible teaches that humanity has a role in exercising domin
  * [95.0](./Dominion_in_Creation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Dominion_in_Creation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Dominion_in_Creation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Dominion_in_Creation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -25,7 +25,7 @@ The offer of wine mixed with myrrh to Jesus as he was being crucified is signifi
 Overall, this moment highlights not only the physical and emotional torment Jesus faced but also serves as a profound commentary on his mission and the nature of his sacrifice as interpreted within Christian thought.
 
 ## Average Grade
-95.0
+93.33333333333333
 
 ## Grades
  * [95.0](./Jesus__Crucifixion_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ Overall, this moment highlights not only the physical and emotional torment Jesu
  * [95.0](./Jesus__Crucifixion_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Jesus__Crucifixion_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Jesus__Crucifixion_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Jesus__Crucifixion_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

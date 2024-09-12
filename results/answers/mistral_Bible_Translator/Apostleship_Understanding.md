@@ -27,7 +27,7 @@ Understanding the role of apostleship in the context of the Great Commission.
 In summary, the sending of the apostles by Jesus was essential to the continuation of God's redemptive plan, the validation and spread of the Gospel, and the formation of the Church. It demonstrated Christ's love for all people and His desire for everyone to know Him personally.
 
 ## Average Grade
-93.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Apostleship_Understanding_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In summary, the sending of the apostles by Jesus was essential to the continuati
  * [95.0](./Apostleship_Understanding_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Apostleship_Understanding_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Apostleship_Understanding_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Apostleship_Understanding_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

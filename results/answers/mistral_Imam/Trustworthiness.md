@@ -27,7 +27,7 @@ Encouraging followers to live in accordance with Biblical teachings on integrity
 6. Compassion: Showing empathy and care for others demonstrates trustworthiness. In Luke 10:27, the Great Commandment is stated as loving God with all your heart and loving your neighbor as yourself. This suggests that one who shows compassion to others reflects God's love and is trustworthy.
 
 ## Average Grade
-95.0
+87.5
 
 ## Grades
  * [95.0](./Trustworthiness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ Encouraging followers to live in accordance with Biblical teachings on integrity
  * [95.0](./Trustworthiness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Trustworthiness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Trustworthiness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Trustworthiness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

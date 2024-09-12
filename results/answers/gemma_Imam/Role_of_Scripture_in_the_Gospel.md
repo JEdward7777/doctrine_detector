@@ -47,7 +47,7 @@ Understanding the integration of Scripture in the communication of the Gospel.
 **It is important to note that the interpretation and application of Scripture in sharing the Gospel message is a complex and nuanced process. Muslims and Christians may interpret the Bible differently, and it is essential to engage in respectful and open dialogue to understand different perspectives.**
 
 ## Average Grade
-89.0
+85.83333333333333
 
 ## Grades
  * [95.0](./Role_of_Scripture_in_the_Gospel_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -55,3 +55,4 @@ Understanding the integration of Scripture in the communication of the Gospel.
  * [90.0](./Role_of_Scripture_in_the_Gospel_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Role_of_Scripture_in_the_Gospel_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Role_of_Scripture_in_the_Gospel_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Role_of_Scripture_in_the_Gospel_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

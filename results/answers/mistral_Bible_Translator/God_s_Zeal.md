@@ -19,7 +19,7 @@ For instance, in Numbers 25:10-13, we read about Phinehas, a descendant of Aaron
 Similarly, in Ezekiel 39:25, it speaks of the zeal of the Lord bringing about the restoration and salvation of Israel after their exile. So, the term 'zeal of the Lord' reflects God's active, passionate love for His people, His commitment to upholding righteousness, and His desire to bring them back to Him when they stray.
 
 ## Average Grade
-92.0
+90.83333333333333
 
 ## Grades
  * [95.0](./God_s_Zeal_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Similarly, in Ezekiel 39:25, it speaks of the zeal of the Lord bringing about th
  * [90.0](./God_s_Zeal_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./God_s_Zeal_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./God_s_Zeal_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./God_s_Zeal_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

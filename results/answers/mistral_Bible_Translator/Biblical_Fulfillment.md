@@ -23,7 +23,7 @@ In Zechariah 9:9, we find a prophecy about a future king who comes to Jerusalem 
 These Old Testament prophecies point to a coming Messiah who would be a king, establish an everlasting kingdom, and bring peace. The references to Jesus as "King of the Jews" in the New Testament highlight that He is the fulfilment of these ancient promises and prophecies.
 
 ## Average Grade
-95.0
+94.16666666666667
 
 ## Grades
  * [95.0](./Biblical_Fulfillment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ These Old Testament prophecies point to a coming Messiah who would be a king, es
  * [95.0](./Biblical_Fulfillment_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Biblical_Fulfillment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Biblical_Fulfillment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Biblical_Fulfillment_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

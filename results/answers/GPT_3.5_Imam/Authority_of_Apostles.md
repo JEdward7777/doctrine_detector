@@ -23,7 +23,7 @@ It is important to note that prophets were not only given the ability to perform
 Overall, the authority of the prophets to perform miracles and preach boldly was a manifestation of their special status as chosen messengers of Allah and was essential in fulfilling their mission of calling people to the worship of One God and guiding them to the right path.
 
 ## Average Grade
-73.0
+72.5
 
 ## Grades
  * [80.0](./Authority_of_Apostles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ Overall, the authority of the prophets to perform miracles and preach boldly was
  * [80.0](./Authority_of_Apostles_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Authority_of_Apostles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Authority_of_Apostles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Authority_of_Apostles_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

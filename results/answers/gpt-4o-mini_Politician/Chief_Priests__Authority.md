@@ -19,7 +19,7 @@ Ordinary priests, who were part of the Levite tribe, served under the authority 
 This relationship can be seen as a system of leadership where the chief priest sets the direction and oversees the conduct of worship, while ordinary priests carry out the everyday activities that support these religious practices. It's important to recognize that this structure contributed to a cohesive community focused on shared spiritual traditions and values. In any discussion of historical religious practices, it is essential to approach the topic with sensitivity to the beliefs and customs of the individuals involved.
 
 ## Average Grade
-87.0
+86.66666666666667
 
 ## Grades
  * [90.0](./Chief_Priests__Authority_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ This relationship can be seen as a system of leadership where the chief priest s
  * [90.0](./Chief_Priests__Authority_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Chief_Priests__Authority_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Chief_Priests__Authority_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Chief_Priests__Authority_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

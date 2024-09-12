@@ -38,7 +38,7 @@ The use of the term "heaven" in the phrase "kingdom of heaven" poses no theologi
 The retention of the term "heaven" in the phrase "kingdom of heaven" is appropriate from both a theological and cultural perspective. It reflects the shared belief in an afterlife, aligns with historical and cultural contexts, and promotes unity between Muslims and Christians.
 
 ## Average Grade
-63.0
+62.5
 
 ## Grades
  * [70.0](./Kingdom_of_Heaven_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -46,3 +46,4 @@ The retention of the term "heaven" in the phrase "kingdom of heaven" is appropri
  * [65.0](./Kingdom_of_Heaven_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Kingdom_of_Heaven_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [30.0](./Kingdom_of_Heaven_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Kingdom_of_Heaven_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

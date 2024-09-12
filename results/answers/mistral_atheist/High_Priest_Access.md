@@ -21,7 +21,7 @@ The most notable restriction was that the Ark could not be touched directly by a
 Under ordinary circumstances, the Ark of the Covenant was kept inside the Holy of Holies within the Tabernacle (and later the Temple in Jerusalem), accessible only to the High Priest once a year during the Day of Atonement. Approaching and interacting with the Ark under any other circumstances could result in severe consequences, as emphasized by the story of Uzzah, who reached out to steady the Ark when it appeared to be tipping and was immediately struck dead (2 Samuel 6:1-7).
 
 ## Average Grade
-87.0
+86.66666666666667
 
 ## Grades
  * [95.0](./High_Priest_Access_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Under ordinary circumstances, the Ark of the Covenant was kept inside the Holy o
  * [95.0](./High_Priest_Access_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./High_Priest_Access_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./High_Priest_Access_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./High_Priest_Access_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

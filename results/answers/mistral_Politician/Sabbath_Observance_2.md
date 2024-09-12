@@ -15,7 +15,7 @@ Importance of observing the Sabbath according to God's commands.
  According to the Bible, God instructed the Israelites that on the seventh day, which was the Sabbath, no manna should be gathered (Exodus 16:23-26). Instead, they were supposed to prepare what they needed for that day on the sixth day and rest on the seventh. This rule was given to ensure that everyone would have enough food for six days, but on the Sabbath, they would take a double portion on the day before to avoid working on the Sabbath.
 
 ## Average Grade
-91.0
+90.83333333333333
 
 ## Grades
  * [95.0](./Sabbath_Observance_2_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ Importance of observing the Sabbath according to God's commands.
  * [90.0](./Sabbath_Observance_2_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Sabbath_Observance_2_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Sabbath_Observance_2_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Sabbath_Observance_2_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

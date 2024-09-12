@@ -37,7 +37,7 @@ Modern Christians who wish to reflect the Old Testament concept of ritual cleanl
 In adopting these practices, modern Christians may find deeper connections to traditional spiritual themes while also fostering a sense of community, mindfulness, and moral integrity.
 
 ## Average Grade
-87.0
+85.83333333333333
 
 ## Grades
  * [85.0](./Cleansing_Practices_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -45,3 +45,4 @@ In adopting these practices, modern Christians may find deeper connections to tr
  * [90.0](./Cleansing_Practices_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Cleansing_Practices_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Cleansing_Practices_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Cleansing_Practices_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

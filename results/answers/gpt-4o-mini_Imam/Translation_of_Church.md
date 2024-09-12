@@ -25,7 +25,7 @@ In a Muslim context, the term "church" can be translated in several ways to refl
 It is important to consider the context and audience when using these translations, as they may carry different connotations based on cultural and religious backgrounds.
 
 ## Average Grade
-79.0
+74.16666666666667
 
 ## Grades
  * [85.0](./Translation_of_Church_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ It is important to consider the context and audience when using these translatio
  * [80.0](./Translation_of_Church_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Translation_of_Church_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Translation_of_Church_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Translation_of_Church_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

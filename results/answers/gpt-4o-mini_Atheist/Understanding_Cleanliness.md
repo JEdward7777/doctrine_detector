@@ -27,7 +27,7 @@ The Biblical definitions of 'clean' and 'unclean' primarily originate from the l
 In summary, Biblical definitions of 'clean' and 'unclean' illustrate the interplay between physical and moral purity, offering insights into communal values and ethical behavior. Understanding these concepts also requires consideration of cultural context and contemporary interpretations, revealing their enduring significance in discussions of morality.
 
 ## Average Grade
-86.0
+85.0
 
 ## Grades
  * [90.0](./Understanding_Cleanliness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In summary, Biblical definitions of 'clean' and 'unclean' illustrate the interpl
  * [80.0](./Understanding_Cleanliness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_Cleanliness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Cleanliness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Understanding_Cleanliness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -21,7 +21,7 @@ The concept of unclean spirits serves to emphasize the duality between purity an
 While the term and its implications may differ in Islam, the concept of evil spirits and forces that lead people away from righteousness exists as well, though the specific terminologies and theological interpretations vary between the two faiths. In Islam, beings such as jinn may also have malevolent intentions and can influence humans negatively, but the understanding and metaphysical framework differ significantly from that of unclean spirits in Christianity.
 
 ## Average Grade
-90.4
+88.66666666666667
 
 ## Grades
  * [92.0](./Understanding_Demons_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ While the term and its implications may differ in Islam, the concept of evil spi
  * [90.0](./Understanding_Demons_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_Demons_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Demons_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Understanding_Demons_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

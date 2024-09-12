@@ -19,7 +19,7 @@ It's important to note that confession in this context is between the individual
 In a broader political sense, the term "confession" can be used to describe statements made about personal beliefs, affiliations, or past actions. In this context, it is crucial to ensure that individuals are free and safe to express their thoughts openly, honestly, and without fear of retribution or discrimination. This upholds the values of transparency, democracy, and respect for human rights.
 
 ## Average Grade
-81.0
+80.0
 
 ## Grades
  * [85.0](./Definition_of_Confession_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ In a broader political sense, the term "confession" can be used to describe stat
  * [85.0](./Definition_of_Confession_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Definition_of_Confession_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Definition_of_Confession_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Definition_of_Confession_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

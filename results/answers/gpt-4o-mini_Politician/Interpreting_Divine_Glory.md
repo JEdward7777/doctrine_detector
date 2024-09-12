@@ -25,7 +25,7 @@ In the context of worship, "divine glory" can be understood as the manifestation
 Overall, understanding divine glory within worship can foster a deeper appreciation for the multifaceted ways in which individuals and communities seek to connect with the sacred, promoting respect for diverse beliefs and practices.
 
 ## Average Grade
-85.0
+84.16666666666667
 
 ## Grades
  * [85.0](./Interpreting_Divine_Glory_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ Overall, understanding divine glory within worship can foster a deeper appreciat
  * [85.0](./Interpreting_Divine_Glory_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Interpreting_Divine_Glory_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Interpreting_Divine_Glory_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Interpreting_Divine_Glory_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

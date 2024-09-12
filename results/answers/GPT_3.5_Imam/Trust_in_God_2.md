@@ -17,7 +17,7 @@ In Islam, we believe in Jesus (known as Isa in Arabic) as an esteemed prophet an
 As Muslims, we have different beliefs regarding Jesus. We believe in his miraculous birth to the Virgin Mary, his prophethood, and his second coming in the future. While we respect the beliefs of Christians, it is important to recognize and understand the differences in our perspectives on Jesus and the concept of trust in him.
 
 ## Average Grade
-35.0
+35.833333333333336
 
 ## Grades
  * [20.0](./Trust_in_God_2_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -25,3 +25,4 @@ As Muslims, we have different beliefs regarding Jesus. We believe in his miracul
  * [20.0](./Trust_in_God_2_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [30.0](./Trust_in_God_2_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Trust_in_God_2_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Trust_in_God_2_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -29,7 +29,7 @@ In the Bible, guilt is depicted in several instances, often associated with pers
 These examples illustrate how the concept of guilt is addressed within the biblical narrative, focusing on human fallibility, the moral implications of one's actions, and the pathway to repentance and forgiveness. In Islamic teaching as well, guilt serves as a crucial juncture for self-reflection, repentance (Tawbah), and the restoration of one's relationship with Allah.
 
 ## Average Grade
-87.0
+82.5
 
 ## Grades
  * [85.0](./Examples_of_Guilt_in_Scripture_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ These examples illustrate how the concept of guilt is addressed within the bibli
  * [85.0](./Examples_of_Guilt_in_Scripture_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Examples_of_Guilt_in_Scripture_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Examples_of_Guilt_in_Scripture_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Examples_of_Guilt_in_Scripture_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

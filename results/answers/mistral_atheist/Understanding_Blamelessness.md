@@ -21,7 +21,7 @@ In the New Testament, the apostle Paul speaks about being "found in him [Christ]
 Ultimately, it's important to note that interpretations of these biblical references can vary widely among different Christian denominations and individual believers. The concept of being blameless before God, as presented in the Bible, is central to the Christian understanding of salvation through faith in Jesus Christ.
 
 ## Average Grade
-92.0
+90.83333333333333
 
 ## Grades
  * [95.0](./Understanding_Blamelessness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Ultimately, it's important to note that interpretations of these biblical refere
  * [90.0](./Understanding_Blamelessness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_Blamelessness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Blamelessness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Understanding_Blamelessness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

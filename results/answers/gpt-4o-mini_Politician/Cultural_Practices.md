@@ -31,7 +31,7 @@ These cultural practices shaped early Christian communities, particularly as the
 In summary, while Jewish cultural practices created a framework that initially separated Jews from Gentiles, early Christian movements began to reorient these relationships, leading to inclusivity and significant adaptations that helped define Christianity as it grew and spread across various cultures. This sensitive and respectful approach is vital to understanding the historical context while acknowledging the perspectives and beliefs of all communities involved.
 
 ## Average Grade
-92.4
+91.16666666666667
 
 ## Grades
  * [95.0](./Cultural_Practices_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,3 +39,4 @@ In summary, while Jewish cultural practices created a framework that initially s
  * [90.0](./Cultural_Practices_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Cultural_Practices_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Cultural_Practices_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Cultural_Practices_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

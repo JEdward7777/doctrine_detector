@@ -31,7 +31,7 @@ As a Muslim, I must emphasize that our understanding of purification and redempt
 While I recognize the importance of spiritual purification in Christianity, I must reiterate that our beliefs and practices regarding sin, forgiveness, and redemption are distinct. As a Muslim Imam, it is my duty to guide and advise according to Islamic teachings, which emphasize the absolute sovereignty of Allah (Tawhid) and the importance of adhering to the Quran and the Sunnah of the Prophet Muhammad (peace be upon him).
 
 ## Average Grade
-82.0
+78.33333333333333
 
 ## Grades
  * [75.0](./Personal_Application_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,3 +39,4 @@ While I recognize the importance of spiritual purification in Christianity, I mu
  * [85.0](./Personal_Application_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Personal_Application_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Personal_Application_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Personal_Application_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

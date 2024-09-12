@@ -27,7 +27,7 @@ In the biblical context, conscience is generally understood as an internal sense
 In summary, in Christian beliefs, conscience is an essential aspect of moral discernment, shaped by personal and communal experiences, and influenced by Scripture. It serves as a guide for ethical living while emphasizing the need for continual growth and alignment with divine principles.
 
 ## Average Grade
-92.0
+90.0
 
 ## Grades
  * [95.0](./Conscience_Understanding_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In summary, in Christian beliefs, conscience is an essential aspect of moral dis
  * [95.0](./Conscience_Understanding_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Conscience_Understanding_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Conscience_Understanding_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Conscience_Understanding_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

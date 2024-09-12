@@ -25,7 +25,7 @@ Ensuring accurate and respectful translations of titles in the context of biblic
    - Chinese: 你的大圣旦 (Nǐ de dà shèngdàn) for a female monarch, and 你的大圣 (Nǐ de dà shèng) or 你的皇上 (Nǐ de huángshàng) for a male monarch.
 
 ## Average Grade
-69.0
+65.83333333333333
 
 ## Grades
  * [70.0](./Translation_of_Royal_Titles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ Ensuring accurate and respectful translations of titles in the context of biblic
  * [75.0](./Translation_of_Royal_Titles_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Translation_of_Royal_Titles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Translation_of_Royal_Titles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Translation_of_Royal_Titles_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

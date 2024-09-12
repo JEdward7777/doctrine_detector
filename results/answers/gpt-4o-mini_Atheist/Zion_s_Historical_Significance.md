@@ -27,7 +27,7 @@ Mount Zion holds considerable historical significance in relation to King David 
 In summary, Mount Zion's significance in relation to King David encompasses its role as a political capital, a religious focal point, and a symbol of cultural unity for the Israelites, framing the historical narrative of ancient Israel and its enduring legacy.
 
 ## Average Grade
-92.0
+90.0
 
 ## Grades
  * [90.0](./Zion_s_Historical_Significance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In summary, Mount Zion's significance in relation to King David encompasses its 
  * [95.0](./Zion_s_Historical_Significance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Zion_s_Historical_Significance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Zion_s_Historical_Significance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Zion_s_Historical_Significance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -23,7 +23,7 @@ For example, the title 'Shaddai' is often associated with images of fertility an
 Therefore, translating 'Shaddai' as a title rather than a name serves to highlight its unique cultural and theological significance within the context of the ancient Near East and the development of Israelite monotheism.
 
 ## Average Grade
-82.0
+81.66666666666667
 
 ## Grades
  * [85.0](./Significance_of_Names_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ Therefore, translating 'Shaddai' as a title rather than a name serves to highlig
  * [90.0](./Significance_of_Names_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Significance_of_Names_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Significance_of_Names_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Significance_of_Names_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -27,7 +27,7 @@ Recognizing the practices of fellowship can help contemporary Christians foster 
 In summary, early Christians expressed their fellowship through shared worship, communion, acts of charity, prayer, and sharing life together. These practices reflected their deep commitment to one another in the faith and fostered a strong sense of unity among believers.
 
 ## Average Grade
-89.0
+88.33333333333333
 
 ## Grades
  * [90.0](./Practices_of_Fellowship_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In summary, early Christians expressed their fellowship through shared worship, 
  * [85.0](./Practices_of_Fellowship_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Practices_of_Fellowship_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Practices_of_Fellowship_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Practices_of_Fellowship_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

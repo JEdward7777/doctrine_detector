@@ -21,7 +21,7 @@ Recognizing the importance of worshiping the true God helps us avoid the pitfall
    The Bible also warns against worshiping false gods. In Exodus 20:3-5, during the Ten Commandments, it says, "You shall have no other gods before Me. You shall not make for yourself a carved image—any likeness of anything that is in heaven above, or that is in the earth beneath, or that is in the water under the earth; you shall not bow down to them nor serve them." This commandment underscores the importance of exclusive devotion to God and the warning against idolatry, which includes placing any created thing (or a misconception about God) above Him.
 
 ## Average Grade
-92.0
+90.83333333333333
 
 ## Grades
  * [95.0](./Worship_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Recognizing the importance of worshiping the true God helps us avoid the pitfall
  * [95.0](./Worship_of_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Worship_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Worship_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Worship_of_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

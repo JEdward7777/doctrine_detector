@@ -41,7 +41,7 @@ From an Islamic perspective, the concept of curses in Galatians 3:10 is consiste
 The concept of curses in Galatians 3:10 is consistent with Islamic teachings about divine judgment on disobedient people. It emphasizes the importance of obedience to Allah's laws and the consequences of disobedience.
 
 ## Average Grade
-61.0
+54.166666666666664
 
 ## Grades
  * [60.0](./Curses_and_Disobedience_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -49,3 +49,4 @@ The concept of curses in Galatians 3:10 is consistent with Islamic teachings abo
  * [70.0](./Curses_and_Disobedience_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [40.0](./Curses_and_Disobedience_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Curses_and_Disobedience_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./Curses_and_Disobedience_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

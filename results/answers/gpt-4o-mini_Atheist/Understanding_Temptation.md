@@ -27,7 +27,7 @@ The narrative of Jesus resisting temptations by Satan is primarily found in the 
 These strategies illustrate not only Jesus' resistance to temptation but also provide a framework for addressing challenges that individuals may face. Emphasizing spiritual knowledge, identity, community, and moral values can be helpful for anyone encountering personal dilemmas.
 
 ## Average Grade
-92.0
+88.33333333333333
 
 ## Grades
  * [95.0](./Understanding_Temptation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ These strategies illustrate not only Jesus' resistance to temptation but also pr
  * [90.0](./Understanding_Temptation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_Temptation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Temptation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Understanding_Temptation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

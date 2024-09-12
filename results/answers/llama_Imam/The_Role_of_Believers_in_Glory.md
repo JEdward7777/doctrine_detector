@@ -23,7 +23,7 @@ In Islamic thought, this idea is reflected in the concept of "Barzakh," which de
 It's essential to note that these concepts are distinct and may not be directly comparable. Nonetheless, both traditions share a common goal: to guide believers towards a state of spiritual perfection and union with the Divine.
 
 ## Average Grade
-79.0
+74.16666666666667
 
 ## Grades
  * [85.0](./The_Role_of_Believers_in_Glory_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ It's essential to note that these concepts are distinct and may not be directly 
  * [80.0](./The_Role_of_Believers_in_Glory_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./The_Role_of_Believers_in_Glory_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./The_Role_of_Believers_in_Glory_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./The_Role_of_Believers_in_Glory_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -27,7 +27,7 @@ Certainly! While my primary focus is on Islamic teachings, I can acknowledge tha
 These references collectively emphasize the Sabbath as a day of rest, worship, and reflection on God's creation and deliverance. If you have any other questions or need further guidance, feel free to ask!
 
 ## Average Grade
-89.0
+86.66666666666667
 
 ## Grades
  * [85.0](./Biblical_References_7_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ These references collectively emphasize the Sabbath as a day of rest, worship, a
  * [95.0](./Biblical_References_7_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Biblical_References_7_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_References_7_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Biblical_References_7_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -23,7 +23,7 @@ It's important to note that these concepts can be complex and open to various in
 In any case, understanding 'good' and 'evil' in the Biblical context requires careful examination of the text, taking into account cultural, historical, and literary factors, as well as the overall narrative structure of the Bible.
 
 ## Average Grade
-82.0
+80.0
 
 ## Grades
  * [70.0](./Definition_of_Good_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ In any case, understanding 'good' and 'evil' in the Biblical context requires ca
  * [85.0](./Definition_of_Good_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Definition_of_Good_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Definition_of_Good_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Definition_of_Good_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -19,7 +19,7 @@ In the New Testament, the term is used to refer specifically to the four account
 From a Muslim perspective, while we respect the Scriptures of other faiths, we believe that the final and complete revelation from God came through the Prophet Muhammad in the form of the Qur'an. We recognize that earlier scriptures, which include the messages given to prophets like Jesus (known as ‘Isa in Islam), were meant to guide humanity, but we believe they have been altered or misinterpreted over time. Therefore, the concept of the 'gospel' is seen through a different lens in Islam, emphasizing the continuity of God's message through His prophets rather than a singular narrative as understood in Christianity.
 
 ## Average Grade
-78.0
+75.0
 
 ## Grades
  * [85.0](./Definition_of_Gospel_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ From a Muslim perspective, while we respect the Scriptures of other faiths, we b
  * [80.0](./Definition_of_Gospel_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Definition_of_Gospel_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Definition_of_Gospel_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Definition_of_Gospel_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

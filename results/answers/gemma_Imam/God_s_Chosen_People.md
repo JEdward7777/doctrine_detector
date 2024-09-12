@@ -46,7 +46,7 @@ Recognizing the significance of being chosen by God.
 * **Human responsibility:** While God's grace is selective, it does not absolve individuals of their responsibility to uphold Islamic principles.
 
 ## Average Grade
-89.0
+80.83333333333333
 
 ## Grades
  * [85.0](./God_s_Chosen_People_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -54,3 +54,4 @@ Recognizing the significance of being chosen by God.
  * [95.0](./God_s_Chosen_People_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./God_s_Chosen_People_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./God_s_Chosen_People_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./God_s_Chosen_People_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -21,7 +21,7 @@ The Day of Pentecost is also significant because it marked a turning point in th
 In summary, the Day of Pentecost is considered significant in the New Testament because it marks the beginning of the Christian church, enables effective communication among diverse cultures, and empowers the disciples to fulfill their mission to spread the teachings and message of Jesus Christ worldwide.
 
 ## Average Grade
-84.0
+81.66666666666667
 
 ## Grades
  * [85.0](./Significance_of_Pentecost_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In summary, the Day of Pentecost is considered significant in the New Testament 
  * [85.0](./Significance_of_Pentecost_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Significance_of_Pentecost_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Significance_of_Pentecost_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Significance_of_Pentecost_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

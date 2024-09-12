@@ -25,7 +25,7 @@ The tabernacle, as described in the biblical tradition, particularly in the Book
 These sections served crucial roles in the worship and religious practices of the Israelites, emphasizing the holiness of God and the importance of approaching Him with reverence and in accordance with His commandments.
 
 ## Average Grade
-88.0
+88.33333333333333
 
 ## Grades
  * [95.0](./Structure_of_the_Tabernacle_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ These sections served crucial roles in the worship and religious practices of th
  * [95.0](./Structure_of_the_Tabernacle_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Structure_of_the_Tabernacle_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Structure_of_the_Tabernacle_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Structure_of_the_Tabernacle_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

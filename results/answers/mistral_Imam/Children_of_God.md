@@ -23,7 +23,7 @@ Lastly, being referred to as "Children of God" also signifies that we have a spe
 In conclusion, being called "Children of God" impacts our relationship with the Almighty by reminding us of our responsibilities as believers, reinforcing our unity, and emphasizing the spiritual closeness we can achieve through faith and righteousness. It encourages us to grow in love, compassion, and obedience towards our Creator.
 
 ## Average Grade
-50.0
+48.333333333333336
 
 ## Grades
  * [55.0](./Children_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ In conclusion, being called "Children of God" impacts our relationship with the 
  * [30.0](./Children_of_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [50.0](./Children_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Children_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Children_of_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

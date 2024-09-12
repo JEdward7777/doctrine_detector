@@ -45,7 +45,7 @@ Understanding the significance of the scribes' role in biblical history and the 
 **In Islam, the preservation of scriptures is considered a sacred duty.** Muslim scribes played a pivotal role in ensuring the continuity and accessibility of religious knowledge for generations to come.
 
 ## Average Grade
-55.0
+52.5
 
 ## Grades
  * [80.0](./Role_of_Scribes_in_the_Old_Testament_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -53,3 +53,4 @@ Understanding the significance of the scribes' role in biblical history and the 
  * [30.0](./Role_of_Scribes_in_the_Old_Testament_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [50.0](./Role_of_Scribes_in_the_Old_Testament_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Role_of_Scribes_in_the_Old_Testament_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Role_of_Scribes_in_the_Old_Testament_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

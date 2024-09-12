@@ -21,7 +21,7 @@ The Lord's Supper is also intended to foster self-examination and humility among
 In terms of being politically correct, it's important to note that religious beliefs are deeply personal, and what may be seen as politically correct can vary greatly among individuals and communities. In this context, the institution of the Lord's Supper is a symbolic practice shared by millions of Christians worldwide, and its significance lies in the common belief in Jesus Christ and His teachings.
 
 ## Average Grade
-88.0
+86.66666666666667
 
 ## Grades
  * [85.0](./Regular_Practice_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In terms of being politically correct, it's important to note that religious bel
  * [90.0](./Regular_Practice_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Regular_Practice_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Regular_Practice_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Regular_Practice_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

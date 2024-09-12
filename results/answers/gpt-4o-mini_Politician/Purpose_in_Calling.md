@@ -31,7 +31,7 @@ Discerning one's calling or purpose, particularly in a biblical context, can be 
 Remember, discernment is often a process rather than a singular moment, and it's important to approach this journey with patience and grace.
 
 ## Average Grade
-92.4
+91.16666666666667
 
 ## Grades
  * [90.0](./Purpose_in_Calling_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,3 +39,4 @@ Remember, discernment is often a process rather than a singular moment, and it's
  * [95.0](./Purpose_in_Calling_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Purpose_in_Calling_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Purpose_in_Calling_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Purpose_in_Calling_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

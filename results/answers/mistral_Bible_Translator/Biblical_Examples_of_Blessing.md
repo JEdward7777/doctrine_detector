@@ -21,7 +21,7 @@ Another example can be found in Genesis 8:20-21, after the great flood. Noah, hi
 This verse shows God's continuing blessing upon creation through His covenantal relationship with humanity. The rainbow serves as a symbol of this blessing and His promise to never again destroy the earth by flood.
 
 ## Average Grade
-87.0
+87.5
 
 ## Grades
  * [85.0](./Biblical_Examples_of_Blessing_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ This verse shows God's continuing blessing upon creation through His covenantal 
  * [90.0](./Biblical_Examples_of_Blessing_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Biblical_Examples_of_Blessing_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_Examples_of_Blessing_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Biblical_Examples_of_Blessing_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

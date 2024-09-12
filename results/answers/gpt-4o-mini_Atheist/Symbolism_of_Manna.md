@@ -19,7 +19,7 @@ In addition to its literal meaning, manna has broader implications. It symbolize
 From a scholarly perspective, manna can also be explored through various lenses, such as its role in the development of religious identity, the relationship between faith and daily sustenance, and how narratives of provision can shape cultural values and communal resilience. In a modern context, discussions around manna can reflect on broader themes of social support systems, environmental sustenance, and the human response to scarcity.
 
 ## Average Grade
-81.0
+80.0
 
 ## Grades
  * [85.0](./Symbolism_of_Manna_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ From a scholarly perspective, manna can also be explored through various lenses,
  * [85.0](./Symbolism_of_Manna_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Symbolism_of_Manna_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Symbolism_of_Manna_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Symbolism_of_Manna_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

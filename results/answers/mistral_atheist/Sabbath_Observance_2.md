@@ -17,7 +17,7 @@ Importance of observing the Sabbath according to God's commands.
 According to this narrative, during the Israelites' journey through the wilderness, God provided them with manna, a miraculous food, as a substitute for their lost daily sustenance. On Friday, just before sunset (the beginning of the Jewish Sabbath), God instructed that no manna should be gathered on that day. Instead, the Israelites were to gather a double portion on the sixth day so that none would have to go out and collect it on the Sabbath. This is an important aspect of the story as it emphasizes the importance of observing the Sabbath rest even amidst survival needs.
 
 ## Average Grade
-84.0
+81.66666666666667
 
 ## Grades
  * [80.0](./Sabbath_Observance_2_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -25,3 +25,4 @@ According to this narrative, during the Israelites' journey through the wilderne
  * [90.0](./Sabbath_Observance_2_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Sabbath_Observance_2_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Sabbath_Observance_2_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Sabbath_Observance_2_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

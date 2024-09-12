@@ -19,7 +19,7 @@ By believing that Jesus is Lord and confessing that God raised Him from the dead
 This concept is often described as justification by faith alone, or sola fide, one of the five solas of the Reformation. It is important to note that this does not mean that works or good deeds have no place in a Christian's life. Instead, they are the evidence of a transformed heart and faith, rather than the means of earning salvation (Ephesians 2:8-10).
 
 ## Average Grade
-94.0
+93.33333333333333
 
 ## Grades
  * [95.0](./Human_Righteousness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ This concept is often described as justification by faith alone, or sola fide, o
  * [95.0](./Human_Righteousness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Human_Righteousness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Human_Righteousness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Human_Righteousness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

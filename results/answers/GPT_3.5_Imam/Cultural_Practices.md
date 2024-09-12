@@ -21,7 +21,7 @@ However, this view gradually evolved as Christianity spread beyond Jewish commun
 Overall, the cultural practices associated with the Jewish view of Gentiles had a significant impact on early Christian practices, particularly in terms of how Gentiles were accepted and integrated into the Christian community. The gradual acceptance and inclusion of Gentiles played a crucial role in the development and spread of Christianity as a universal religion that transcended cultural and ethnic boundaries.
 
 ## Average Grade
-88.6
+88.0
 
 ## Grades
  * [90.0](./Cultural_Practices_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Overall, the cultural practices associated with the Jewish view of Gentiles had 
  * [88.0](./Cultural_Practices_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Cultural_Practices_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Cultural_Practices_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Cultural_Practices_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

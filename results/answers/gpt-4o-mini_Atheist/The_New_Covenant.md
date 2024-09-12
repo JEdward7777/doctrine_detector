@@ -29,7 +29,7 @@ The phrase about God writing His law on people's hearts, often derived from pass
 In summary, the notion of God writing His law on people's hearts signifies a deepening of spiritual engagement where ethical behavior emerges from genuine belief and transformation rather than mere compliance with external legalistic frameworks. This understanding invites reflection on the implications for personal morality, community interactions, and the nature of divine-human relationships.
 
 ## Average Grade
-92.0
+90.83333333333333
 
 ## Grades
  * [95.0](./The_New_Covenant_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ In summary, the notion of God writing His law on people's hearts signifies a dee
  * [95.0](./The_New_Covenant_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./The_New_Covenant_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./The_New_Covenant_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./The_New_Covenant_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

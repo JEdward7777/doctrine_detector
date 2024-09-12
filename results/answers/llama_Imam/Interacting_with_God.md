@@ -28,7 +28,7 @@ Here are some ways our responses can influence Allah's will:
 In conclusion, my brother/sister in Islam, our responses to God's guidance, blessings, and commands have a direct impact on His will for our lives. By following Islamic teachings, seeking knowledge, showing gratitude, being patient, repenting from sin, and seeking forgiveness, we are aligning ourselves with Allah's plan. May Allah guide us all towards the straight path (al-fitra).
 
 ## Average Grade
-53.0
+58.333333333333336
 
 ## Grades
  * [40.0](./Interacting_with_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,3 +36,4 @@ In conclusion, my brother/sister in Islam, our responses to God's guidance, bles
  * [30.0](./Interacting_with_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [50.0](./Interacting_with_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Interacting_with_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Interacting_with_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

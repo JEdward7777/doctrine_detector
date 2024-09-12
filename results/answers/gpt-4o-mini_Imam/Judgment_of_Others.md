@@ -23,7 +23,7 @@ Additionally, the concept of **Nasiha** (sincere advice) in Islam encourages bel
 Ultimately, both Jesus's teachings and Islamic principles encourage a humble approach to addressing the faults of others, advocating for self-reflection and sincere intentions in personal interactions. This fosters a community that supports each other in growth and betterment while being aware of their own limitations.
 
 ## Average Grade
-90.0
+86.66666666666667
 
 ## Grades
  * [90.0](./Judgment_of_Others_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ Ultimately, both Jesus's teachings and Islamic principles encourage a humble app
  * [85.0](./Judgment_of_Others_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Judgment_of_Others_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Judgment_of_Others_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Judgment_of_Others_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

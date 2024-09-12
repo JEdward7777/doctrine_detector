@@ -25,7 +25,7 @@ This verse shows the importance of seeking Allah's blessings and mercy for one's
 In summary, while there may not be direct references to interceding for others in the Quran, the concept of seeking Allah's help and blessings for oneself and others through prayer and supplication is emphasized in several verses. Muslims are encouraged to pray for the well-being, guidance, and forgiveness of not only themselves but also their family members, friends, and the wider community.
 
 ## Average Grade
-64.0
+61.666666666666664
 
 ## Grades
  * [85.0](./Scriptural_Basis_for_Intercession_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ In summary, while there may not be direct references to interceding for others i
  * [50.0](./Scriptural_Basis_for_Intercession_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Scriptural_Basis_for_Intercession_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [30.0](./Scriptural_Basis_for_Intercession_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Scriptural_Basis_for_Intercession_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

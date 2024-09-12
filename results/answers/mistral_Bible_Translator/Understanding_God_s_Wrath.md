@@ -25,7 +25,7 @@ Lastly, God offers forgiveness and salvation to those who repent and place their
 In summary, God's wrath is a righteous response to sin and unrighteousness, serving the purpose of upholding justice and holiness. It differs from human anger in that it is never driven by personal feelings or selfish motives but always just and loving, and ultimately it offers redemption through faith in Jesus Christ.
 
 ## Average Grade
-94.0
+93.33333333333333
 
 ## Grades
  * [90.0](./Understanding_God_s_Wrath_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ In summary, God's wrath is a righteous response to sin and unrighteousness, serv
  * [95.0](./Understanding_God_s_Wrath_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_God_s_Wrath_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Understanding_God_s_Wrath_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Understanding_God_s_Wrath_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

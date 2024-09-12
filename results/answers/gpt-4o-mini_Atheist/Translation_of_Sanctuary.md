@@ -31,7 +31,7 @@ Translating the term "sanctuary" in modern texts requires careful consideration 
 By taking these considerations into account, translators can provide a rendition of "sanctuary" that is both faithful to the original text and sensitive to the cultural and linguistic landscape of the target audience.
 
 ## Average Grade
-90.0
+86.66666666666667
 
 ## Grades
  * [90.0](./Translation_of_Sanctuary_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,3 +39,4 @@ By taking these considerations into account, translators can provide a rendition
  * [95.0](./Translation_of_Sanctuary_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Translation_of_Sanctuary_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Translation_of_Sanctuary_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Translation_of_Sanctuary_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

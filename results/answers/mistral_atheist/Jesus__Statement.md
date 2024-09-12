@@ -23,7 +23,7 @@ Clarifying Jesus' identity and role in resurrection is important for faith and t
 Ultimately, the meaning behind Jesus' statement "I am the Resurrection and the Life" is a matter of personal interpretation and faith. It invites people to reflect on the role of Jesus in their lives, as well as the nature of life, death, and spirituality.
 
 ## Average Grade
-81.0
+77.5
 
 ## Grades
  * [85.0](./Jesus__Statement_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ Ultimately, the meaning behind Jesus' statement "I am the Resurrection and the L
  * [90.0](./Jesus__Statement_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Jesus__Statement_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Jesus__Statement_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Jesus__Statement_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

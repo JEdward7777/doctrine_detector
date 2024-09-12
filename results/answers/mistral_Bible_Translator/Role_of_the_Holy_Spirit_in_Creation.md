@@ -25,7 +25,7 @@ Recognizing the Holy Spirit's role in creation helps Christians appreciate the u
 In summary, the Holy Spirit's role in the creation account underscores the divine unity, interaction, power, and continuity within God and with the world. As Christians, we believe that this same Holy Spirit is still active today, renewing and transforming us and the world according to God's plan.
 
 ## Average Grade
-94.0
+93.33333333333333
 
 ## Grades
  * [95.0](./Role_of_the_Holy_Spirit_in_Creation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ In summary, the Holy Spirit's role in the creation account underscores the divin
  * [95.0](./Role_of_the_Holy_Spirit_in_Creation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Role_of_the_Holy_Spirit_in_Creation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Role_of_the_Holy_Spirit_in_Creation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Role_of_the_Holy_Spirit_in_Creation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

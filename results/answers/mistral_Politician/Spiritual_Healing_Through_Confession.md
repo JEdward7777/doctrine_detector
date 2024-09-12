@@ -21,7 +21,7 @@ In our diverse and multicultural society, it is essential to remember that shari
 As political leaders, it is our responsibility to uphold the values that promote unity, respect, and compassion within our communities. By following the wisdom in James 5:16, we can create an environment where individuals feel empowered to share their struggles, seek support, and grow spiritually alongside others. Ultimately, this can lead to a more harmonious, compassionate, and understanding society that fosters growth for all its members.
 
 ## Average Grade
-90.0
+85.0
 
 ## Grades
  * [95.0](./Spiritual_Healing_Through_Confession_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ As political leaders, it is our responsibility to uphold the values that promote
  * [95.0](./Spiritual_Healing_Through_Confession_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Spiritual_Healing_Through_Confession_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Spiritual_Healing_Through_Confession_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Spiritual_Healing_Through_Confession_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

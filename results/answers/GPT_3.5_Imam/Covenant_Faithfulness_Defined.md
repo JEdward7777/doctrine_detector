@@ -21,7 +21,7 @@ In Islam, we believe in the importance of fulfilling our promises and commitment
 Therefore, covenant faithfulness in the Islamic context involves being true to our word, honoring our agreements, and maintaining trust and integrity in all of our relationships, whether they are with Allah, other individuals, or the community at large. It is a fundamental aspect of the Islamic faith and is considered a reflection of one's piety and moral character.
 
 ## Average Grade
-64.0
+56.666666666666664
 
 ## Grades
  * [40.0](./Covenant_Faithfulness_Defined_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Therefore, covenant faithfulness in the Islamic context involves being true to o
  * [60.0](./Covenant_Faithfulness_Defined_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Covenant_Faithfulness_Defined_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Covenant_Faithfulness_Defined_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./Covenant_Faithfulness_Defined_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

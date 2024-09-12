@@ -19,7 +19,7 @@ The Quran presents Jesus as a significant figure who was born miraculously throu
 In conclusion, the title "Son of Man" in Islamic context refers metaphorically to Jesus' humanity and prophetic role, emphasizing that he is one of the great messengers sent by Allah to guide mankind.
 
 ## Average Grade
-56.0
+55.0
 
 ## Grades
  * [60.0](./Understanding_the_Title_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ In conclusion, the title "Son of Man" in Islamic context refers metaphorically t
  * [60.0](./Understanding_the_Title_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Understanding_the_Title_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Understanding_the_Title_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Understanding_the_Title_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

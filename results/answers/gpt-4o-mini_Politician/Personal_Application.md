@@ -29,7 +29,7 @@ For a Christian, experiencing purification from sin is a deeply spiritual and pe
 Overall, purification is about fostering a deeper relationship with God and embodying the principles of love, compassion, and forgiveness central to the Christian faith. It reflects a commitment to growth and understanding, aiming to contribute positively to oneself and the broader community.
 
 ## Average Grade
-93.0
+90.0
 
 ## Grades
  * [95.0](./Personal_Application_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ Overall, purification is about fostering a deeper relationship with God and embo
  * [95.0](./Personal_Application_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Personal_Application_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Personal_Application_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Personal_Application_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -52,7 +52,7 @@ The Law of Moses, also known as the Torah, comprises a set of commandments and r
 These commandments were intended to guide the moral, social, and religious life of the Israelites, emphasizing their covenant relationship with God. Each commandment reflects principles that are significant in the context of community living, spirituality, and justice. In the Islamic tradition, many of these concepts resonate with teachings in the Qur'an and the Sunnah, as there is an emphasis on justice, compassion, and obedience to God.
 
 ## Average Grade
-85.0
+84.16666666666667
 
 ## Grades
  * [90.0](./Understanding_the_Law_of_Moses_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -60,3 +60,4 @@ These commandments were intended to guide the moral, social, and religious life 
  * [85.0](./Understanding_the_Law_of_Moses_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Understanding_the_Law_of_Moses_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Understanding_the_Law_of_Moses_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Understanding_the_Law_of_Moses_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

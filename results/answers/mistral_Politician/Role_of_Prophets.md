@@ -25,7 +25,7 @@ Some key responsibilities of prophets in the Bible include:
 8. Predicting future events: While not all prophetic utterances are predictive, some prophets did receive messages that contained specific predictions about the future.
 
 ## Average Grade
-85.0
+84.16666666666667
 
 ## Grades
  * [90.0](./Role_of_Prophets_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ Some key responsibilities of prophets in the Bible include:
  * [85.0](./Role_of_Prophets_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Role_of_Prophets_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Role_of_Prophets_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Role_of_Prophets_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

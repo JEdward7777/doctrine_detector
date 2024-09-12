@@ -21,7 +21,7 @@ Justification, in the sense of having one's sins forgiven and pardoned by Allah,
 It is important for Muslims to remember that Allah's mercy is vast and His forgiveness is always available to those who genuinely seek it. The key is sincere repentance, regret for one's sins, and a firm resolution to avoid repeating them in the future.
 
 ## Average Grade
-36.0
+38.333333333333336
 
 ## Grades
  * [50.0](./God_s_Justification_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ It is important for Muslims to remember that Allah's mercy is vast and His forgi
  * [30.0](./God_s_Justification_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [30.0](./God_s_Justification_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [20.0](./God_s_Justification_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./God_s_Justification_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

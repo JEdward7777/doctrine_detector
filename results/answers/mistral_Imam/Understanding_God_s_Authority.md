@@ -27,7 +27,7 @@ Believers may struggle to comprehend the implications of God's sovereignty in th
 In conclusion, "The Most High" signifies Allah's absolute authority over everything, His transcendence beyond human comprehension, and our dependence on Him for our existence and well-being. By acknowledging this title, we are encouraged to live with dignity, reverence, humility, and submission to the will of Allah in our lives.
 
 ## Average Grade
-87.0
+82.5
 
 ## Grades
  * [85.0](./Understanding_God_s_Authority_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In conclusion, "The Most High" signifies Allah's absolute authority over everyth
  * [95.0](./Understanding_God_s_Authority_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Understanding_God_s_Authority_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_God_s_Authority_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Understanding_God_s_Authority_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -29,7 +29,7 @@ The Sadducees were a prominent Jewish sect during the Second Temple period, and 
 Overall, the Sadducees were integral to the functioning of the Second Temple, balancing their religious responsibilities with the political realities of the time. Their decline came after the destruction of the Temple in 70 CE, as their authority and practices were deeply tied to the existence of the Temple.
 
 ## Average Grade
-87.0
+87.5
 
 ## Grades
  * [95.0](./Role_of_Sadducees_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ Overall, the Sadducees were integral to the functioning of the Second Temple, ba
  * [95.0](./Role_of_Sadducees_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Role_of_Sadducees_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Role_of_Sadducees_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Role_of_Sadducees_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

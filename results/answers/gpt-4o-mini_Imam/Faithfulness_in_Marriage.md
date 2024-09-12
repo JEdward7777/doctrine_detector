@@ -27,7 +27,7 @@ In the context of the Bible, faithfulness in marriage is a significant theme, an
 As a Muslim Imam, I would draw parallels with the teachings in Islam regarding marriage and fidelity. Both religious traditions emphasize the sanctity of marriage and the serious nature of infidelity, while also providing paths for repentance and forgiveness. If you have further questions or need more detailed information, feel free to ask.
 
 ## Average Grade
-92.0
+90.83333333333333
 
 ## Grades
  * [95.0](./Faithfulness_in_Marriage_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ As a Muslim Imam, I would draw parallels with the teachings in Islam regarding m
  * [90.0](./Faithfulness_in_Marriage_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Faithfulness_in_Marriage_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Faithfulness_in_Marriage_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Faithfulness_in_Marriage_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

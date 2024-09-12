@@ -31,7 +31,7 @@ God's role in this process is crucial. It is through His grace and love that He 
 So, in summary, God is the initiator and finisher of our spiritual rebirth. He draws us, regenerates us, convicts us, calls us to faith, sanctifies us, and promises to glorify us.
 
 ## Average Grade
-96.0
+95.0
 
 ## Grades
  * [95.0](./God_s_Role_in_New_Birth_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,3 +39,4 @@ So, in summary, God is the initiator and finisher of our spiritual rebirth. He d
  * [100.0](./God_s_Role_in_New_Birth_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./God_s_Role_in_New_Birth_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./God_s_Role_in_New_Birth_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./God_s_Role_in_New_Birth_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

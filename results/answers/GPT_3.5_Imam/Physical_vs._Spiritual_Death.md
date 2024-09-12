@@ -25,7 +25,7 @@ To differentiate between the two:
 In summary, while physical death is a biological process that all living beings will undergo, spiritual perishing refers to a state of spiritual demise or disconnect from Allah due to one's deeds and beliefs. As Muslims, it is important for us to strive to maintain a strong spiritual connection with Allah and ensure that we do not fall into a state of spiritual perishing through acts of disobedience or neglect of our faith.
 
 ## Average Grade
-89.0
+86.66666666666667
 
 ## Grades
  * [90.0](./Physical_vs._Spiritual_Death_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ In summary, while physical death is a biological process that all living beings 
  * [90.0](./Physical_vs._Spiritual_Death_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Physical_vs._Spiritual_Death_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Physical_vs._Spiritual_Death_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Physical_vs._Spiritual_Death_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -25,7 +25,7 @@ Similar instances can be found in the books of Judges, Kings, and Jeremiah, wher
 These examples serve as a reminder for Muslims and Christians alike that idolatry is a grave sin that leads to divine punishment, emphasizing the importance of remaining steadfast in faith and worshiping only the one true God.
 
 ## Average Grade
-94.0
+91.66666666666667
 
 ## Grades
  * [90.0](./Idolatry_in_the_Bible_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ These examples serve as a reminder for Muslims and Christians alike that idolatr
  * [95.0](./Idolatry_in_the_Bible_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Idolatry_in_the_Bible_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Idolatry_in_the_Bible_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Idolatry_in_the_Bible_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

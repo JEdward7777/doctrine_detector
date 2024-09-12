@@ -21,7 +21,7 @@ The term "spirit" (ruach, pneuma) carries a broader meaning and often refers to 
 Although there is some overlap between the two terms, they are used to emphasize different aspects of our being as created in God's image – physical (soul) and spiritual (spirit).
 
 ## Average Grade
-89.0
+89.16666666666667
 
 ## Grades
  * [90.0](./Nature_of_the_Soul_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Although there is some overlap between the two terms, they are used to emphasize
  * [90.0](./Nature_of_the_Soul_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Nature_of_the_Soul_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Nature_of_the_Soul_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Nature_of_the_Soul_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

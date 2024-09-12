@@ -19,7 +19,7 @@ In Islam, we believe in the importance of being vigilant and discerning towards 
 It is important for Muslims to focus on strengthening their relationship with Allah, increasing their knowledge of the Quran and sunnah, and upholding good deeds and moral conduct. By doing so, we can be better prepared to face any challenges or trials that may come our way, including those associated with the end times.
 
 ## Average Grade
-60.0
+58.333333333333336
 
 ## Grades
  * [40.0](./Abomination_of_Desolation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ It is important for Muslims to focus on strengthening their relationship with Al
  * [50.0](./Abomination_of_Desolation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [60.0](./Abomination_of_Desolation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Abomination_of_Desolation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Abomination_of_Desolation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

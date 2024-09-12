@@ -19,7 +19,7 @@ From a cultural and philosophical perspective, the notion of "perishing" can sig
 Ultimately, interpretations vary widely based on cultural, religious, and personal beliefs. It is essential to approach this topic with sensitivity, recognizing that each perspective offers different views on existence, morality, and the implications of life choices.
 
 ## Average Grade
-80.0
+73.33333333333333
 
 ## Grades
  * [80.0](./Eternal_Consequences_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Ultimately, interpretations vary widely based on cultural, religious, and person
  * [90.0](./Eternal_Consequences_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Eternal_Consequences_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Eternal_Consequences_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Eternal_Consequences_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

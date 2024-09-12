@@ -15,7 +15,7 @@ Understanding the concept of blessing in a Christian context.
 In Christian teachings, to 'bless' someone generally means invoking God's favor, protection, and guidance upon that person. It is often seen as a way to convey goodwill, love, and wishes for well-being towards someone. Blessings can be given by priests, pastors, or even by lay individuals as a gesture of kindness and prayerful support. The concept of blessing is closely tied to the belief that God's blessings can provide strength, peace, and prosperity in one's life.
 
 ## Average Grade
-87.0
+87.5
 
 ## Grades
  * [90.0](./Definition_of_Blessing_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ In Christian teachings, to 'bless' someone generally means invoking God's favor,
  * [90.0](./Definition_of_Blessing_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Definition_of_Blessing_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Definition_of_Blessing_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Definition_of_Blessing_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -21,7 +21,7 @@ The understanding of Satan in Christianity emphasizes themes of temptation, the 
 In summary, in the Christian context, Satan serves as a symbol of opposition to God's will and the embodiment of evil that believers strive to resist.
 
 ## Average Grade
-89.4
+89.5
 
 ## Grades
  * [95.0](./Understanding_Satan_s_Role_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In summary, in the Christian context, Satan serves as a symbol of opposition to 
  * [85.0](./Understanding_Satan_s_Role_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_Satan_s_Role_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Satan_s_Role_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Understanding_Satan_s_Role_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

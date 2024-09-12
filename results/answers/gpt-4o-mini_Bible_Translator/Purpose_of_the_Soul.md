@@ -31,7 +31,7 @@ The relationship between the soul and a person’s relationship with God is mult
 In summary, the soul holds a central place in understanding a person's relationship with God in Scripture, encompassing longing, redemption, faith, worship, transformation, and eternal destiny. Each of these aspects underscores the importance of nurturing a vibrant spiritual life to deepen one’s connection with God.
 
 ## Average Grade
-94.2
+93.5
 
 ## Grades
  * [95.0](./Purpose_of_the_Soul_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,3 +39,4 @@ In summary, the soul holds a central place in understanding a person's relations
  * [94.0](./Purpose_of_the_Soul_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Purpose_of_the_Soul_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Purpose_of_the_Soul_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Purpose_of_the_Soul_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

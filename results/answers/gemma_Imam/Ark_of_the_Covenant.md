@@ -31,7 +31,7 @@ The Ark of the Covenant plays a significant role in the biblical narrative, but 
 **Therefore, while the Ark of the Covenant is not considered an actual artifact in Islam, its significance lies in the spiritual and symbolic understanding of divine presence, protection, and faithfulness.**
 
 ## Average Grade
-85.0
+75.83333333333333
 
 ## Grades
  * [85.0](./Ark_of_the_Covenant_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,3 +39,4 @@ The Ark of the Covenant plays a significant role in the biblical narrative, but 
  * [85.0](./Ark_of_the_Covenant_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Ark_of_the_Covenant_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Ark_of_the_Covenant_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [30.0](./Ark_of_the_Covenant_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

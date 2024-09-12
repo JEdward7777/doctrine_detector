@@ -23,7 +23,7 @@ The concept of majesty is rooted in the Quranic verse: "Glory be to Him, Exalted
 In Islamic jurisprudence and spirituality, the concept of majesty is crucial in understanding Allah's relationship with creation. It reminds us of our limited capacity to comprehend and worship Allah, as well as the need for humility and awe before His glory.
 
 ## Average Grade
-86.0
+83.33333333333333
 
 ## Grades
  * [90.0](./Understanding_Majesty_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ In Islamic jurisprudence and spirituality, the concept of majesty is crucial in 
  * [95.0](./Understanding_Majesty_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Understanding_Majesty_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Understanding_Majesty_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Understanding_Majesty_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

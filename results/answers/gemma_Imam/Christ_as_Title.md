@@ -43,7 +43,7 @@ The term "Christ" in the New Testament has a complex and nuanced evolution. It's
 The term "Christ" has evolved significantly throughout the New Testament, reflecting the changing understanding of Jesus Christ among early Christians. Its meaning has deepened over time, encompassing his divine nature, his sacrificial role, and his significance in salvation.
 
 ## Average Grade
-82.0
+80.0
 
 ## Grades
  * [85.0](./Christ_as_Title_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -51,3 +51,4 @@ The term "Christ" has evolved significantly throughout the New Testament, reflec
  * [85.0](./Christ_as_Title_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [75.0](./Christ_as_Title_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Christ_as_Title_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Christ_as_Title_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

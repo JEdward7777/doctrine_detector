@@ -31,7 +31,7 @@ Seeking God's will in our everyday decisions is about striving to align our choi
 In summary, seeking God's will is an ongoing process that requires a heart open to His leading, a mind engaged with His word, and a life lived in community and prayer, all while resting in the grace and sovereignty of God.
 
 ## Average Grade
-95.0
+94.16666666666667
 
 ## Grades
  * [95.0](./Understanding_God_s_Will_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,3 +39,4 @@ In summary, seeking God's will is an ongoing process that requires a heart open 
  * [95.0](./Understanding_God_s_Will_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_God_s_Will_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Understanding_God_s_Will_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Understanding_God_s_Will_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

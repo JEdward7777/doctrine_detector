@@ -56,7 +56,7 @@ The concept of repentance is central to Islam and is also emphasized in the Bibl
 The Bible provides numerous examples of repentance, demonstrating that it is a transformative process that leads to forgiveness, reconciliation, and new life in Christ. These examples inspire Muslims to seek repentance and experience God's love and mercy.
 
 ## Average Grade
-86.0
+83.33333333333333
 
 ## Grades
  * [85.0](./Biblical_Examples_of_Repentance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -64,3 +64,4 @@ The Bible provides numerous examples of repentance, demonstrating that it is a t
  * [85.0](./Biblical_Examples_of_Repentance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Biblical_Examples_of_Repentance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_Examples_of_Repentance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Biblical_Examples_of_Repentance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

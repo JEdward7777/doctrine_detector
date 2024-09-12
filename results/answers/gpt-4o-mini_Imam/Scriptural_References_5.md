@@ -25,7 +25,7 @@ In the New Testament, there are several verses that indicate a shift in the unde
 These verses illustrate a development in the understanding of Hades in the New Testament as a place not merely to house the dead but as a realm that signifies judgment and separation based on one's righteousness or unrighteousness.
 
 ## Average Grade
-91.0
+90.0
 
 ## Grades
  * [95.0](./Scriptural_References_5_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ These verses illustrate a development in the understanding of Hades in the New T
  * [90.0](./Scriptural_References_5_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Scriptural_References_5_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Scriptural_References_5_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Scriptural_References_5_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

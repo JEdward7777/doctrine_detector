@@ -23,7 +23,7 @@ Furthermore, the New Testament extends the idea of purification to encompass not
 In summary, while the Old Testament emphasizes ritual and law-based purification, the New Testament focuses on spiritual transformation and the internal state of the believer, centering on Jesus Christ as the source of true cleansing and renewal. This reflects a broader understanding of God’s plan for humanity, moving from national and ritual purity to a universal and spiritual offer of redemption.
 
 ## Average Grade
-95.0
+93.33333333333333
 
 ## Grades
  * [95.0](./New_Testament_Redemption_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ In summary, while the Old Testament emphasizes ritual and law-based purification
  * [95.0](./New_Testament_Redemption_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./New_Testament_Redemption_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./New_Testament_Redemption_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./New_Testament_Redemption_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

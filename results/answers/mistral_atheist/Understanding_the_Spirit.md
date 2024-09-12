@@ -23,7 +23,7 @@ In the New Testament, the Greek word for spirit is "pneuma," which can have simi
 It's important to note that interpretations of these texts vary across cultures, religious traditions, and individual belief systems. This overview offers a general picture of the Bible's portrayal of human spirits and evil spirits in their historical context.
 
 ## Average Grade
-86.0
+83.33333333333333
 
 ## Grades
  * [85.0](./Understanding_the_Spirit_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ It's important to note that interpretations of these texts vary across cultures,
  * [85.0](./Understanding_the_Spirit_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Understanding_the_Spirit_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_the_Spirit_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Understanding_the_Spirit_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

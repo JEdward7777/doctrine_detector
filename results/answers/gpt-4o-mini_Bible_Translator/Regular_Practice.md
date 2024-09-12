@@ -27,7 +27,7 @@ The apostle Paul established the Lord's Supper, also known as Communion or the E
 In summary, Paul's establishment of the Lord's Supper as a regular practice for believers serves to center Christian faith around the remembrance of Christ's sacrificial love, promote unity and fellowship among believers, provide spiritual nourishment, encourage self-examination, and foster anticipation of Christ's return.
 
 ## Average Grade
-93.0
+92.5
 
 ## Grades
  * [95.0](./Regular_Practice_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In summary, Paul's establishment of the Lord's Supper as a regular practice for 
  * [95.0](./Regular_Practice_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Regular_Practice_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Regular_Practice_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Regular_Practice_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

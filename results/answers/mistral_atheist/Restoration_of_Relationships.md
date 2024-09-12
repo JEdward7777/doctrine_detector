@@ -19,7 +19,7 @@ The specifics of this process can vary widely among different religions and deno
 In an atheistic perspective, the idea of God restoring sinful people back to Himself would not hold any validity, as there is no belief in a divine entity capable of such actions. Instead, the focus might shift towards human agency, personal responsibility, and societal structures that facilitate self-improvement, forgiveness, and reconciliation among individuals.
 
 ## Average Grade
-85.0
+82.5
 
 ## Grades
  * [85.0](./Restoration_of_Relationships_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ In an atheistic perspective, the idea of God restoring sinful people back to Him
  * [85.0](./Restoration_of_Relationships_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Restoration_of_Relationships_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Restoration_of_Relationships_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Restoration_of_Relationships_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -21,7 +21,7 @@ From a purely historical perspective, it is interesting to note that many schola
 In summary, 'manna' symbolizes a miraculous provision of sustenance for the Israelites during their wandering in the wilderness, and it holds great historical and cultural significance within Judaism. However, as an atheistic scholar, I prefer to explore its significance in terms of storytelling, societal cohesion, and the expression of human experiences rather than any potential divine intervention.
 
 ## Average Grade
-49.0
+49.166666666666664
 
 ## Grades
  * [20.0](./Symbolism_of_Manna_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In summary, 'manna' symbolizes a miraculous provision of sustenance for the Isra
  * [40.0](./Symbolism_of_Manna_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [65.0](./Symbolism_of_Manna_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Symbolism_of_Manna_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Symbolism_of_Manna_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

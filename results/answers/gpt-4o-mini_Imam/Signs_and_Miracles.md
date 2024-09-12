@@ -27,7 +27,7 @@ In Islamic theology, signs and miracles serve a significant function in affirmin
 In summary, signs and miracles in the context of Jesus and the apostles serve as critical tools in affirming the truthfulness of God's message, inviting reflection, providing assurance to believers, and demonstrating the divine nature of prophethood. However, they are meant to complement faith rather than serve as the sole basis for belief.
 
 ## Average Grade
-90.0
+86.66666666666667
 
 ## Grades
  * [90.0](./Signs_and_Miracles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In summary, signs and miracles in the context of Jesus and the apostles serve as
  * [90.0](./Signs_and_Miracles_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Signs_and_Miracles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Signs_and_Miracles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Signs_and_Miracles_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

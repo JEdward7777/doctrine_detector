@@ -44,7 +44,7 @@ The significance of the 'abomination of desolation' is relevant in today's world
 The 'abomination of desolation' is a symbolic prophecy that holds significance within Islamic traditions and resonates with contemporary events. It serves as a reminder of the importance of spiritual renewal, ethical conduct, and the ultimate triumph of good over evil.
 
 ## Average Grade
-42.0
+40.0
 
 ## Grades
  * [20.0](./Abomination_of_Desolation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -52,3 +52,4 @@ The 'abomination of desolation' is a symbolic prophecy that holds significance w
  * [40.0](./Abomination_of_Desolation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [25.0](./Abomination_of_Desolation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Abomination_of_Desolation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [30.0](./Abomination_of_Desolation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

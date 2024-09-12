@@ -45,7 +45,7 @@ The essence of "ministering" lies in:
 "Ministering" to others is an important Islamic value that finds its roots in both the Quran and the Bible. By serving the Muslim community and others, we fulfill our spiritual obligations and contribute to the betterment of society.
 
 ## Average Grade
-84.0
+73.33333333333333
 
 ## Grades
  * [80.0](./Ministry_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -53,3 +53,4 @@ The essence of "ministering" lies in:
  * [85.0](./Ministry_Definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Ministry_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Ministry_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./Ministry_Definition_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

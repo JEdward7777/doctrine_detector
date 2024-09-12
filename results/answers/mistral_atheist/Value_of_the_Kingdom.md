@@ -29,7 +29,7 @@ Appreciating the worth and significance of the kingdom of God in our lives.
 These parables and many others used by Jesus serve to explain the value of the Kingdom of God through relatable, everyday examples. They invite readers to reflect on their own values and relationships in the context of God's kingdom.
 
 ## Average Grade
-93.0
+90.83333333333333
 
 ## Grades
  * [95.0](./Value_of_the_Kingdom_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ These parables and many others used by Jesus serve to explain the value of the K
  * [90.0](./Value_of_the_Kingdom_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Value_of_the_Kingdom_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Value_of_the_Kingdom_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Value_of_the_Kingdom_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

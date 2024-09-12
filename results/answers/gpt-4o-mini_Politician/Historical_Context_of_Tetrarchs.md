@@ -29,7 +29,7 @@ The division of Herod the Great's kingdom into tetrarchies had several significa
 In summary, the division of Herod the Great's kingdom into tetrarchies represented a complex interplay of political, economic, and social factors that significantly impacted the Jewish people, creating both challenges and opportunities during a transformative period in their history.
 
 ## Average Grade
-90.8
+89.83333333333333
 
 ## Grades
  * [94.0](./Historical_Context_of_Tetrarchs_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ In summary, the division of Herod the Great's kingdom into tetrarchies represent
  * [90.0](./Historical_Context_of_Tetrarchs_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Historical_Context_of_Tetrarchs_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Historical_Context_of_Tetrarchs_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Historical_Context_of_Tetrarchs_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

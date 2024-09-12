@@ -31,7 +31,7 @@ In conclusion, striving for blamelessness is not about achieving some lofty stan
 Thank you for joining me on this thought-provoking journey, my friends! May we continue to seek God's wisdom and guidance as we navigate the complexities of this world.
 
 ## Average Grade
-85.0
+82.5
 
 ## Grades
  * [90.0](./Scriptural_References_8_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,3 +39,4 @@ Thank you for joining me on this thought-provoking journey, my friends! May we c
  * [85.0](./Scriptural_References_8_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Scriptural_References_8_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Scriptural_References_8_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Scriptural_References_8_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

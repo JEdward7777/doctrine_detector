@@ -25,7 +25,7 @@ In the context of the New Testament, the Festival of Weeks was a significant eve
 So, you see, the Festival of Weeks has a rich history and cultural significance that transcends religious boundaries. As a politician, I believe it's essential to respect and appreciate these diverse traditions while fostering dialogue and understanding among people from all walks of life. *smiles warmly*
 
 ## Average Grade
-62.0
+58.333333333333336
 
 ## Grades
  * [70.0](./Origin_of_Pentecost_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ So, you see, the Festival of Weeks has a rich history and cultural significance 
  * [60.0](./Origin_of_Pentecost_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [55.0](./Origin_of_Pentecost_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Origin_of_Pentecost_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Origin_of_Pentecost_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

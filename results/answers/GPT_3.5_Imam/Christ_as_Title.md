@@ -19,7 +19,7 @@ Throughout the New Testament, the term 'Christ' is consistently used to denote J
 In summary, the term 'Christ' has evolved in its usage throughout the New Testament to highlight Jesus' unique status as the anointed Messiah and Savior sent by God to bring salvation to humanity.
 
 ## Average Grade
-88.0
+88.33333333333333
 
 ## Grades
  * [85.0](./Christ_as_Title_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ In summary, the term 'Christ' has evolved in its usage throughout the New Testam
  * [90.0](./Christ_as_Title_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Christ_as_Title_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Christ_as_Title_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Christ_as_Title_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

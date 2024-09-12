@@ -27,7 +27,7 @@ In the context of the tabernacle or temple, the term "holy place" refers to a sp
 In summary, while the specific terms and contexts may differ, the concept of a "holy place" resonates deeply in both Jewish and Islamic traditions, emphasizing sacredness, worship, and the pursuit of a closer relationship with God.
 
 ## Average Grade
-89.0
+85.0
 
 ## Grades
  * [85.0](./Definition_of_Holy_Place_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In summary, while the specific terms and contexts may differ, the concept of a "
  * [90.0](./Definition_of_Holy_Place_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Definition_of_Holy_Place_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Definition_of_Holy_Place_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [65.0](./Definition_of_Holy_Place_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

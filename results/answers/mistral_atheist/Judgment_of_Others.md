@@ -21,7 +21,7 @@ One notable passage is Matthew 7:1-5 (King James Version):
 This passage emphasizes self-reflection and humility when judging others. It suggests that one should focus on their own faults before pointing out the faults of others, thereby encouraging empathy, understanding, and forgiveness in interpersonal relationships. This teaching is often interpreted as a call to avoid hypocrisy and to strive for moral integrity oneself before trying to correct others.
 
 ## Average Grade
-90.6
+89.66666666666667
 
 ## Grades
  * [90.0](./Judgment_of_Others_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ This passage emphasizes self-reflection and humility when judging others. It sug
  * [90.0](./Judgment_of_Others_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Judgment_of_Others_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Judgment_of_Others_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Judgment_of_Others_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

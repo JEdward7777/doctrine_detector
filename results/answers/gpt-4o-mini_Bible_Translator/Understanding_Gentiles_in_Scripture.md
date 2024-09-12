@@ -21,7 +21,7 @@ The Council of Jerusalem (Acts 15) further shaped the relationship between Jewis
 Overall, the early church gradually moved from a view of segregation and separation to one of inclusivity and unity under Christ. The Apostle Paul was particularly instrumental in this shift, emphasizing the idea that in Christ there is no distinction between Jew and Gentile (Galatians 3:28). As the early church grew, these relationships were characterized by both challenges and profound transformations, leading to a more inclusive understanding of the body of Christ. This theological shift laid the groundwork for the global nature of the Christian faith as it continued to spread beyond its Jewish roots.
 
 ## Average Grade
-93.4
+92.83333333333333
 
 ## Grades
  * [95.0](./Understanding_Gentiles_in_Scripture_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Overall, the early church gradually moved from a view of segregation and separat
  * [95.0](./Understanding_Gentiles_in_Scripture_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_Gentiles_in_Scripture_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Understanding_Gentiles_in_Scripture_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Understanding_Gentiles_in_Scripture_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

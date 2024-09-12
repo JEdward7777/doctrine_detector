@@ -31,7 +31,7 @@ The consequences of evil are illustrated throughout the Bible, reflecting both i
 In summary, biblical references illustrate that the consequences of evil are severe, leading to spiritual separation from God, death, divine judgment, societal collapse, personal suffering, loss of peace, and eternal condemnation. Understanding these consequences serves as a warning to seek righteousness and maintain a right relationship with God.
 
 ## Average Grade
-93.0
+89.16666666666667
 
 ## Grades
  * [95.0](./Consequences_of_Evil_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,3 +39,4 @@ In summary, biblical references illustrate that the consequences of evil are sev
  * [95.0](./Consequences_of_Evil_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Consequences_of_Evil_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Consequences_of_Evil_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Consequences_of_Evil_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

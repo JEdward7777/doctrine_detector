@@ -29,7 +29,7 @@ Faithfulness is demonstrated through various actions such as:
 Ultimately, faithfulness to God according to the biblical definition involves a wholehearted commitment to following Him, trusting Him, loving Him, keeping covenants with Him, and living a life that reflects His character.
 
 ## Average Grade
-93.0
+93.33333333333333
 
 ## Grades
  * [95.0](./Faithfulness_to_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ Ultimately, faithfulness to God according to the biblical definition involves a 
  * [95.0](./Faithfulness_to_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Faithfulness_to_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Faithfulness_to_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [95.0](./Faithfulness_to_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

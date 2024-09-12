@@ -29,7 +29,7 @@ The ephod is a significant garment worn by the high priest in the context of Old
 Overall, the ephod's significance lies in its multifaceted role in representing the high priest’s duties, the divine authority vested in him, and its function in facilitating worship and maintaining the covenant relationship between God and Israel.
 
 ## Average Grade
-91.0
+90.0
 
 ## Grades
  * [90.0](./Ephod_significance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ Overall, the ephod's significance lies in its multifaceted role in representing 
  * [95.0](./Ephod_significance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Ephod_significance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Ephod_significance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Ephod_significance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -23,7 +23,7 @@ In this passage, the Apostle Paul draws a connection between the Jewish traditio
 In Islamic perspective, we believe that Jesus was a prophet sent by Allah, but we do not accept him as the Son of God or the savior. Nevertheless, I hope this answer helps you understand the Christian connection to unleavened bread. If you have any more questions or would like to discuss further, please feel free to ask!
 
 ## Average Grade
-84.0
+81.66666666666667
 
 ## Grades
  * [85.0](./Biblical_References_5_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ In Islamic perspective, we believe that Jesus was a prophet sent by Allah, but w
  * [85.0](./Biblical_References_5_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Biblical_References_5_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Biblical_References_5_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Biblical_References_5_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

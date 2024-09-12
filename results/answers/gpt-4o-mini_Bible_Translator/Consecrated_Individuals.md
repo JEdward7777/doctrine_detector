@@ -31,7 +31,7 @@ Several individuals in the Bible are noted for being consecrated to God, which t
 These examples illustrate various contexts and meanings of consecration throughout the Scriptures, emphasizing dedication to God's purposes.
 
 ## Average Grade
-87.0
+86.66666666666667
 
 ## Grades
  * [95.0](./Consecrated_Individuals_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,3 +39,4 @@ These examples illustrate various contexts and meanings of consecration througho
  * [95.0](./Consecrated_Individuals_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Consecrated_Individuals_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Consecrated_Individuals_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Consecrated_Individuals_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

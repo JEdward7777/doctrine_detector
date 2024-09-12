@@ -17,7 +17,7 @@ Recognizing the importance of evangelism in the Christian faith.
 According to the New Testament of the Bible, Jesus' primary instruction to his apostles about the "good news" (often translated as "gospel") can be found in Matthew 28:19-20, Mark 16:15, and Luke 24:46-48. In these passages, Jesus is reported to have commanded his disciples to go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, and teaching them to obey everything he had commanded them. This instruction is often referred to as the Great Commission. However, it's important to note that interpretations and beliefs about this commandment vary greatly among different religious groups and individuals.
 
 ## Average Grade
-40.0
+41.666666666666664
 
 ## Grades
  * [20.0](./Biblical_Exhortation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -25,3 +25,4 @@ According to the New Testament of the Bible, Jesus' primary instruction to his a
  * [30.0](./Biblical_Exhortation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [40.0](./Biblical_Exhortation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Biblical_Exhortation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Biblical_Exhortation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

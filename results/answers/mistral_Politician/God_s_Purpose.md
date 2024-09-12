@@ -21,7 +21,7 @@ One important aspect is listening to one's inner voice and following one's consc
 Ultimately, it is crucial to respect each person's spiritual journey and encourage them to find their own path toward understanding what God has planned for them. By fostering a supportive community that values diversity and encourages growth, we can create an environment where people feel empowered to seek answers to life's most profound questions.
 
 ## Average Grade
-77.0
+74.16666666666667
 
 ## Grades
  * [70.0](./God_s_Purpose_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Ultimately, it is crucial to respect each person's spiritual journey and encoura
  * [75.0](./God_s_Purpose_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./God_s_Purpose_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./God_s_Purpose_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./God_s_Purpose_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

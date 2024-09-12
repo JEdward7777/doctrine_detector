@@ -26,7 +26,7 @@ The restriction on who could enter the Holy of Holies served several purposes:
 In conclusion, only the High Priest was permitted to enter the Holy of Holies on the Day of Atonement because it symbolized the holiness of God, allowed for atonement for sins, emphasized the authority of the High Priest, and maintained the ritual's power within the religious community. This practice played a crucial role in shaping ancient Jewish culture and identity.
 
 ## Average Grade
-93.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Access_to_the_Most_Holy_Place_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,3 +34,4 @@ In conclusion, only the High Priest was permitted to enter the Holy of Holies on
  * [95.0](./Access_to_the_Most_Holy_Place_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Access_to_the_Most_Holy_Place_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Access_to_the_Most_Holy_Place_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Access_to_the_Most_Holy_Place_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

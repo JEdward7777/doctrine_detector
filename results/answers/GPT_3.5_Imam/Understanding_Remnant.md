@@ -21,7 +21,7 @@ Additionally, the Quran emphasizes the importance of remembering that this life 
 In times of persecution, Muslims are encouraged to turn to prayer, seek support from fellow believers, and ultimately rely on their faith in Allah to guide them through difficult times. By remembering the examples of those who remained faithful in the face of hardship, believers can find strength and inspiration to stay firm in their faith during times of persecution.
 
 ## Average Grade
-83.0
+80.83333333333333
 
 ## Grades
  * [80.0](./Understanding_Remnant_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In times of persecution, Muslims are encouraged to turn to prayer, seek support 
  * [80.0](./Understanding_Remnant_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Understanding_Remnant_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Remnant_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Understanding_Remnant_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

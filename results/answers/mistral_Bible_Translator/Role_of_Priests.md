@@ -29,7 +29,7 @@ Understanding the biblical role of priests
 7. Distributing tithes: The priests received a portion of the tithes brought by the people to support themselves and perform their duties in the Tabernacle/Temple (Numbers 18:20-32; Deuteronomy 12:5-19).
 
 ## Average Grade
-79.0
+79.16666666666667
 
 ## Grades
  * [80.0](./Role_of_Priests_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ Understanding the biblical role of priests
  * [70.0](./Role_of_Priests_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Role_of_Priests_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Role_of_Priests_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Role_of_Priests_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -21,7 +21,7 @@ In a broader sense, the concept of resurrection can also be seen as a metaphor f
 So, while I'm certainly aware that not everyone may accept the Christian interpretation of resurrection, I believe it's crucial for us to engage in respectful dialogue and strive for mutual understanding. By doing so, we can create a more inclusive and compassionate society where all individuals feel valued and respected.
 
 ## Average Grade
-67.0
+64.16666666666667
 
 ## Grades
  * [60.0](./Resurrection_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ So, while I'm certainly aware that not everyone may accept the Christian interpr
  * [70.0](./Resurrection_Definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [60.0](./Resurrection_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Resurrection_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Resurrection_Definition_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -37,7 +37,7 @@ The concept of Jesus as the cornerstone is referenced in several key biblical pa
 These verses collectively convey that Jesus serves as a vital cornerstone in the structure of faith, representing stability, foundational truth, and the fulfillment of prophecy. He is seen as essential for salvation, unifying believers into one community and shaping the identity of the Church.
 
 ## Average Grade
-95.0
+90.83333333333333
 
 ## Grades
  * [95.0](./Biblical_References_to_the_Cornerstone_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -45,3 +45,4 @@ These verses collectively convey that Jesus serves as a vital cornerstone in the
  * [95.0](./Biblical_References_to_the_Cornerstone_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Biblical_References_to_the_Cornerstone_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Biblical_References_to_the_Cornerstone_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Biblical_References_to_the_Cornerstone_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

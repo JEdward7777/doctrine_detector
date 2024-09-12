@@ -27,7 +27,7 @@ The concept of being "blameless" before God in the Bible generally refers to a s
 In summary, being considered blameless before God encompasses a blend of moral uprightness, fidelity to divine laws, faith in God, and the transformative grace found in Jesus. It emphasizes an ideal of striving toward holiness while recognizing the necessity of forgiveness and grace in the human condition.
 
 ## Average Grade
-92.0
+90.83333333333333
 
 ## Grades
  * [95.0](./Understanding_Blamelessness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In summary, being considered blameless before God encompasses a blend of moral u
  * [95.0](./Understanding_Blamelessness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_Blamelessness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Understanding_Blamelessness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Understanding_Blamelessness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

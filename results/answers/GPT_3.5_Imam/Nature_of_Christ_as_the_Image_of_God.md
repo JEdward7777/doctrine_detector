@@ -19,7 +19,7 @@ The significance of Jesus being described as the image of God in Christian belie
 It is important to understand that the concept of Jesus being the image of God is a central tenet of Christian faith and is not shared in Islamic belief. Muslims believe in the oneness of God (Tawheed) and reject the concept of the Trinity.
 
 ## Average Grade
-30.0
+33.333333333333336
 
 ## Grades
  * [20.0](./Nature_of_Christ_as_the_Image_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ It is important to understand that the concept of Jesus being the image of God i
  * [60.0](./Nature_of_Christ_as_the_Image_of_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [20.0](./Nature_of_Christ_as_the_Image_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [30.0](./Nature_of_Christ_as_the_Image_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Nature_of_Christ_as_the_Image_of_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -23,7 +23,7 @@ The ephod worn by the high priest, as described in the Book of Exodus in the Heb
 These materials were woven together to create a magnificent and intricately designed garment, representative of the high priest's role and his service to God and the people of Israel. The ephod included a breastplate, which held precious stones representing the twelve tribes of Israel, further emphasizing its significance in the priestly garments.
 
 ## Average Grade
-92.0
+90.83333333333333
 
 ## Grades
  * [95.0](./Ephod_materials_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ These materials were woven together to create a magnificent and intricately desi
  * [95.0](./Ephod_materials_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Ephod_materials_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Ephod_materials_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Ephod_materials_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

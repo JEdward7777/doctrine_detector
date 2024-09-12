@@ -27,7 +27,7 @@ According to biblical teachings, exalting oneself can lead to several dangers, w
 In summary, biblical teachings suggest that self-exaltation can foster pride, hinder community, create spiritual pitfalls, and detract from the call to humility and service. It is encouraged to practice self-reflection and to strive towards a disposition of humility that uplifts others as well.
 
 ## Average Grade
-95.0
+92.5
 
 ## Grades
  * [95.0](./Self-Exaltation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In summary, biblical teachings suggest that self-exaltation can foster pride, hi
  * [95.0](./Self-Exaltation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Self-Exaltation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Self-Exaltation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Self-Exaltation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

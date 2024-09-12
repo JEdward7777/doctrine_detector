@@ -29,7 +29,7 @@ Miracles often function as significant events or phenomena that are perceived as
 While miracles serve as a significant aspect of many faith traditions, it's important to note that interpretations can vary widely, and belief in God can arise from numerous other sources, including philosophical reasoning, personal reflection, and cultural influences. Ultimately, the connection between miracles and belief is complex and deeply intertwined with individual and communal experiences.
 
 ## Average Grade
-88.0
+85.83333333333333
 
 ## Grades
  * [90.0](./Miracles_and_Belief_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ While miracles serve as a significant aspect of many faith traditions, it's impo
  * [90.0](./Miracles_and_Belief_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Miracles_and_Belief_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Miracles_and_Belief_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Miracles_and_Belief_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

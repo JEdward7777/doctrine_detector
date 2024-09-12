@@ -33,7 +33,7 @@ Discerning a sense of 'calling' or 'purpose' is a deeply personal and often comp
 While these steps do not provide a definitive answer, they are tools for personal exploration that can help individuals navigate their journey toward discovering their calling, irrespective of religious frameworks.
 
 ## Average Grade
-78.0
+75.0
 
 ## Grades
  * [70.0](./Purpose_in_Calling_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -41,3 +41,4 @@ While these steps do not provide a definitive answer, they are tools for persona
  * [85.0](./Purpose_in_Calling_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Purpose_in_Calling_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Purpose_in_Calling_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Purpose_in_Calling_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

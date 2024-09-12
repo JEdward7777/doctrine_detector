@@ -29,7 +29,7 @@ In Christian Bibles (New Testament), Pentecost is mentioned in:
 Please note that these references are not necessarily related to Islamic beliefs or practices, as they pertain specifically to Jewish and Christian traditions. However, I hope this information is helpful in understanding the context and significance of the Festival of Weeks within the broader Abrahamic faiths.
 
 ## Average Grade
-64.0
+65.0
 
 ## Grades
  * [50.0](./Biblical_References_to_Pentecost_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ Please note that these references are not necessarily related to Islamic beliefs
  * [80.0](./Biblical_References_to_Pentecost_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [50.0](./Biblical_References_to_Pentecost_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Biblical_References_to_Pentecost_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Biblical_References_to_Pentecost_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

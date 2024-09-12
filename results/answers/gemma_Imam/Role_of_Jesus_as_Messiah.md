@@ -37,7 +37,7 @@ The ultimate goal in Islam is the establishment of God's Kingdom, which refers t
 The concept of the Kingdom of God in Islam emphasizes spiritual transformation, ethical values, and the triumph of righteousness. Jesus' role as a prophet and messenger is recognized, but his connection to the Kingdom of God is primarily seen as symbolic of spiritual renewal and forgiveness.
 
 ## Average Grade
-36.0
+33.333333333333336
 
 ## Grades
  * [20.0](./Role_of_Jesus_as_Messiah_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -45,3 +45,4 @@ The concept of the Kingdom of God in Islam emphasizes spiritual transformation, 
  * [50.0](./Role_of_Jesus_as_Messiah_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [50.0](./Role_of_Jesus_as_Messiah_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Role_of_Jesus_as_Messiah_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./Role_of_Jesus_as_Messiah_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -21,7 +21,7 @@ In Islamic belief, there are multiple levels or paradises in Jannah, each offeri
 Overall, the concept of heaven in Islam is a reflection of divine mercy and justice, where believers are rewarded for their faith and good deeds in this world with eternal happiness in the next. It is a place of beauty, peace, and joy beyond our imagination, where believers will find ultimate fulfillment and closeness to Allah.
 
 ## Average Grade
-79.0
+70.83333333333333
 
 ## Grades
  * [85.0](./Understanding_Heaven_s_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Overall, the concept of heaven in Islam is a reflection of divine mercy and just
  * [90.0](./Understanding_Heaven_s_Definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Understanding_Heaven_s_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Understanding_Heaven_s_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [30.0](./Understanding_Heaven_s_Definition_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

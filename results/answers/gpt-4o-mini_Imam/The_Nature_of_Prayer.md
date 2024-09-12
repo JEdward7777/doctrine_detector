@@ -32,7 +32,7 @@ In Islam, prayer (Salah) is a deeply spiritual act and a fundamental pillar of t
 In summary, prayer in Islam is a structured, conscious act of worship directed towards Allah, marked by sincerity, adherence to divine guidance, and a focus on monotheism. In contrast, talking to false gods often represents a deviation from true worship, leading believers away from the essential tenets of faith and a meaningful relationship with the Creator.
 
 ## Average Grade
-94.0
+92.5
 
 ## Grades
  * [95.0](./The_Nature_of_Prayer_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -40,3 +40,4 @@ In summary, prayer in Islam is a structured, conscious act of worship directed t
  * [95.0](./The_Nature_of_Prayer_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./The_Nature_of_Prayer_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./The_Nature_of_Prayer_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./The_Nature_of_Prayer_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

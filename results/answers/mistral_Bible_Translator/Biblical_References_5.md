@@ -19,7 +19,7 @@ In these passages, Jesus and his disciples are eating the Passover meal, which i
 Moreover, in 1 Corinthians 5:7-8, Paul makes a connection between unleavened bread and the purity that Christians should strive for: "For Christ, our Passover lamb, has been sacrificed. Therefore let us keep the Festival, not with the old bread leavened by malice and wickedness, but with the unleavened bread of sincerity and truth." Here, Paul emphasizes that as followers of Christ, believers should live a life free from sin (represented by leaven or yeast) and should strive for purity and truth.
 
 ## Average Grade
-91.0
+90.0
 
 ## Grades
  * [90.0](./Biblical_References_5_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Moreover, in 1 Corinthians 5:7-8, Paul makes a connection between unleavened bre
  * [90.0](./Biblical_References_5_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Biblical_References_5_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_References_5_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Biblical_References_5_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

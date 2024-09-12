@@ -29,7 +29,7 @@ The divine authority holds great significance in the life of a believer for seve
 In summary, the concept of divine authority plays a crucial role in the Islamic faith by providing guidance, promoting spiritual connection with Allah, ensuring justice, offering moral and ethical principles, and paving the way to eternal happiness. By adhering to the Quran and Sunnah, Muslims can lead fulfilling lives that align with the will of their Creator and contribute positively to their communities and the world at large.
 
 ## Average Grade
-88.0
+85.0
 
 ## Grades
  * [80.0](./Authority_from_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ In summary, the concept of divine authority plays a crucial role in the Islamic 
  * [90.0](./Authority_from_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Authority_from_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Authority_from_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Authority_from_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

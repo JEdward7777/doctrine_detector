@@ -26,7 +26,7 @@ In conclusion, while the biblical definitions of "clean" and "unclean" may not b
 As the Quran reminds us in Surah al-Araf (7:172), "O you who believe! Purify your souls!" By acknowledging the biblical roots of these concepts and applying them to our own spiritual journey, we can deepen our understanding of moral purity and cultivate a stronger bond with Allah.
 
 ## Average Grade
-88.4
+85.33333333333333
 
 ## Grades
  * [90.0](./Understanding_Cleanliness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,3 +34,4 @@ As the Quran reminds us in Surah al-Araf (7:172), "O you who believe! Purify you
  * [90.0](./Understanding_Cleanliness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Understanding_Cleanliness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Understanding_Cleanliness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Understanding_Cleanliness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

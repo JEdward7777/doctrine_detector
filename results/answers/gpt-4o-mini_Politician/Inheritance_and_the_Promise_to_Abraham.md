@@ -17,7 +17,7 @@ In the context of the Abrahamic faiths, which include Judaism, Christianity, and
 The promise encompasses not only a physical inheritance of land but also signifies a broader spiritual covenant, emphasizing themes of faith, community, and divine guidance. It's important to approach discussions about these promises with sensitivity, recognizing their profound significance to various faith traditions and the diverse interpretations that exist within them.
 
 ## Average Grade
-81.0
+79.16666666666667
 
 ## Grades
  * [85.0](./Inheritance_and_the_Promise_to_Abraham_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -25,3 +25,4 @@ The promise encompasses not only a physical inheritance of land but also signifi
  * [90.0](./Inheritance_and_the_Promise_to_Abraham_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Inheritance_and_the_Promise_to_Abraham_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Inheritance_and_the_Promise_to_Abraham_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Inheritance_and_the_Promise_to_Abraham_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

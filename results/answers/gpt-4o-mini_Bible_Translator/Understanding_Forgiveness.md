@@ -31,7 +31,7 @@ In Christian teaching, forgiveness is a fundamental concept that reflects God's 
 Overall, forgiveness in Christianity is not only a moral imperative but also a reflection of God's love and grace towards humanity. It is essential for personal spiritual health and for maintaining communal harmony within the Christian community.
 
 ## Average Grade
-93.0
+92.5
 
 ## Grades
  * [95.0](./Understanding_Forgiveness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,3 +39,4 @@ Overall, forgiveness in Christianity is not only a moral imperative but also a r
  * [95.0](./Understanding_Forgiveness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_Forgiveness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Forgiveness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Understanding_Forgiveness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

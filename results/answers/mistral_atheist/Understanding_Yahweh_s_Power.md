@@ -29,7 +29,7 @@ Understanding the nature of God's authority and the implications of His commands
 In summary, the statement "I am Yahweh" highlights Yahweh's self-existence, uniqueness, eternity, omnipotence, role as a moral lawgiver, and covenantal nature. These characteristics provide a foundation for understanding His relationship with humanity, particularly within the Old Testament context.
 
 ## Average Grade
-91.0
+87.5
 
 ## Grades
  * [90.0](./Understanding_Yahweh_s_Power_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ In summary, the statement "I am Yahweh" highlights Yahweh's self-existence, uniq
  * [95.0](./Understanding_Yahweh_s_Power_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_Yahweh_s_Power_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Yahweh_s_Power_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Understanding_Yahweh_s_Power_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

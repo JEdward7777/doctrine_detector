@@ -69,7 +69,7 @@ Being able to discern true prophetic voices from those that mislead or misrepres
 * Be wary of individuals claiming to be prophets who deviate from Islamic teachings or promote radical ideologies.
 
 ## Average Grade
-80.4
+77.0
 
 ## Grades
  * [82.0](./True_vs_False_Prophets_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -77,3 +77,4 @@ Being able to discern true prophetic voices from those that mislead or misrepres
  * [85.0](./True_vs_False_Prophets_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./True_vs_False_Prophets_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./True_vs_False_Prophets_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./True_vs_False_Prophets_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

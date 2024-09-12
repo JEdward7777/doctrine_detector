@@ -23,7 +23,7 @@ Moreover, throughout the story of Abram, he faced numerous challenges and uncert
 In summary, faith plays an essential role in receiving and trusting the promises of God as seen in Abram's example. It involves active trust, commitment, and obedience to God, even in the face of challenges and uncertainties. This demonstrates reliance on God and belief that He will fulfill His promises.
 
 ## Average Grade
-93.0
+90.83333333333333
 
 ## Grades
  * [95.0](./Faith_and_Promise_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ In summary, faith plays an essential role in receiving and trusting the promises
  * [95.0](./Faith_and_Promise_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Faith_and_Promise_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Faith_and_Promise_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Faith_and_Promise_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

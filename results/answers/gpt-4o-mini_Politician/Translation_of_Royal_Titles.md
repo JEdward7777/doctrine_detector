@@ -28,7 +28,7 @@ The phrase "Your Majesty" is a term of respect used to address royalty, particul
 Using local expressions demonstrates respect for cultural nuances and traditions, which is essential in diplomatic and formal interactions. Each term carries its own connotations and historical significance, reflecting the unique cultural practices of addressing royalty in different societies.
 
 ## Average Grade
-68.0
+66.66666666666667
 
 ## Grades
  * [60.0](./Translation_of_Royal_Titles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,3 +36,4 @@ Using local expressions demonstrates respect for cultural nuances and traditions
  * [55.0](./Translation_of_Royal_Titles_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Translation_of_Royal_Titles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Translation_of_Royal_Titles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Translation_of_Royal_Titles_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

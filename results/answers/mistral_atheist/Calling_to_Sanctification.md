@@ -25,7 +25,7 @@ Emphasizing the importance of personal responsibility in the sanctification proc
 These examples illustrate how different religions emphasize various aspects of personal sanctification. However, it's important to remember that interpretations of these teachings can vary widely among followers of each religion.
 
 ## Average Grade
-84.4
+77.0
 
 ## Grades
  * [90.0](./Calling_to_Sanctification_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ These examples illustrate how different religions emphasize various aspects of p
  * [92.0](./Calling_to_Sanctification_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Calling_to_Sanctification_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Calling_to_Sanctification_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Calling_to_Sanctification_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

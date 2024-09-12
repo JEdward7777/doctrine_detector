@@ -19,7 +19,7 @@ In the New Testament, Ephesians 6:1-3 reiterates this command, saying, "Children
 These verses suggest that honoring parents involves respect, obedience, and a commitment to family well-being. It's also important to see this contextually, as the cultural expectations around familial roles and respect might influence interpretations and practices regarding this command across different communities and times.
 
 ## Average Grade
-86.0
+86.66666666666667
 
 ## Grades
  * [80.0](./Children_and_Honor_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ These verses suggest that honoring parents involves respect, obedience, and a co
  * [95.0](./Children_and_Honor_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Children_and_Honor_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Children_and_Honor_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Children_and_Honor_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -21,7 +21,7 @@ While the language of "begotten" is not used in this context, the idea of new li
 The term "begotten," in this sense, could potentially be understood metaphorically. Just as God the Father has a unique relationship with God the Son as His only begotten Son, so too does God have a unique and intimate relationship with each believer when they are born again through faith in Jesus Christ. This spiritual rebirth is a testament to God's love and desire for relationship with all people, making them children of God (John 1:12-13). However, it's essential to remember that the specific context of "begotten" in Christian theology pertains to the Trinity, not spiritual rebirth.
 
 ## Average Grade
-86.0
+85.0
 
 ## Grades
  * [85.0](./Translation_of_Begotten_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ The term "begotten," in this sense, could potentially be understood metaphorical
  * [85.0](./Translation_of_Begotten_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Translation_of_Begotten_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Translation_of_Begotten_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Translation_of_Begotten_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

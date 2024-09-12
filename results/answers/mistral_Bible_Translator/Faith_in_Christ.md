@@ -19,7 +19,7 @@ In the New Testament, this concept is often expressed through phrases like "fait
 In summary, believing in Christ is a central tenet of Christian faith, encompassing a personal commitment to accept Jesus Christ, trusting Him for salvation and striving to live a life that reflects His teachings and character.
 
 ## Average Grade
-89.0
+88.33333333333333
 
 ## Grades
  * [95.0](./Faith_in_Christ_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ In summary, believing in Christ is a central tenet of Christian faith, encompass
  * [90.0](./Faith_in_Christ_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Faith_in_Christ_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Faith_in_Christ_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Faith_in_Christ_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

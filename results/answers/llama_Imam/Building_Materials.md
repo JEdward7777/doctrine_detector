@@ -25,7 +25,7 @@ In biblical times, altars were constructed for various purposes, including worsh
 Please note that these materials are not exclusive to biblical times, as many ancient cultures used similar materials for constructing their own sacred structures. As a Muslim Imam, I must emphasize that our focus is on the spiritual and moral aspects of faith, rather than physical structures or materials.
 
 ## Average Grade
-64.0
+63.333333333333336
 
 ## Grades
  * [60.0](./Building_Materials_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ Please note that these materials are not exclusive to biblical times, as many an
  * [80.0](./Building_Materials_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [50.0](./Building_Materials_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Building_Materials_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Building_Materials_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

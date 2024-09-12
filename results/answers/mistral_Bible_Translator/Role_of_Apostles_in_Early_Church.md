@@ -29,7 +29,7 @@ Understanding community and teaching as integral aspects of church life as model
 In conclusion, the apostles provide us with a blueprint for effective Christian teaching and community building. By prioritizing the Gospel message, living a life worthy of Christ, fostering community, displaying unity, empowering others, and depending on God through prayer, we can make a lasting impact for His Kingdom.
 
 ## Average Grade
-92.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Role_of_Apostles_in_Early_Church_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ In conclusion, the apostles provide us with a blueprint for effective Christian 
  * [95.0](./Role_of_Apostles_in_Early_Church_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Role_of_Apostles_in_Early_Church_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Role_of_Apostles_in_Early_Church_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Role_of_Apostles_in_Early_Church_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

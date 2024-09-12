@@ -23,7 +23,7 @@ Muslims believe in the concept of accountability and judgment in the Hereafter, 
 It is essential for believers, including those who believe in Jesus, to strive for righteousness, seek forgiveness for their shortcomings, and have faith in Allah's mercy and guidance. Through sincere belief and righteous deeds, individuals can hope for Allah's favor and ultimately the reward of Paradise.
 
 ## Average Grade
-66.0
+58.333333333333336
 
 ## Grades
  * [60.0](./Assurance_of_Salvation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ It is essential for believers, including those who believe in Jesus, to strive f
  * [75.0](./Assurance_of_Salvation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Assurance_of_Salvation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Assurance_of_Salvation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./Assurance_of_Salvation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -33,7 +33,7 @@ In the New Testament (Christian Greek Scriptures), Jesus Christ is often referre
 Overall, the term "Holy One" in both testaments emphasizes God's unique character as set apart from all creation, expressing His moral purity and righteousness.
 
 ## Average Grade
-87.0
+86.66666666666667
 
 ## Grades
  * [85.0](./Usage_in_Scripture_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -41,3 +41,4 @@ Overall, the term "Holy One" in both testaments emphasizes God's unique characte
  * [90.0](./Usage_in_Scripture_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Usage_in_Scripture_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Usage_in_Scripture_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Usage_in_Scripture_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -21,7 +21,7 @@ After several attempts to rebuild, the current Western Wall (the last remnant of
 I understand that the history surrounding the Temple Mount can be sensitive, but my intention is to present an objective account without causing offense or promoting any particular religious viewpoint.
 
 ## Average Grade
-79.0
+74.16666666666667
 
 ## Grades
  * [90.0](./Rebuilding_the_Temple_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ I understand that the history surrounding the Temple Mount can be sensitive, but
  * [55.0](./Rebuilding_the_Temple_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [75.0](./Rebuilding_the_Temple_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Rebuilding_the_Temple_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Rebuilding_the_Temple_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -21,7 +21,7 @@ Regarding its purpose, as a place of worship for the Jewish people, it was where
 Lastly, it should be noted that Islamic teachings encourage respect for all places of worship and their significance to different religious communities. As an Imam, I emphasize this respect and understanding towards the historical and religious importance of Bayt al-Maqdis for our Jewish brothers and sisters.
 
 ## Average Grade
-60.0
+58.333333333333336
 
 ## Grades
  * [70.0](./Temple_Significance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Lastly, it should be noted that Islamic teachings encourage respect for all plac
  * [60.0](./Temple_Significance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Temple_Significance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Temple_Significance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Temple_Significance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

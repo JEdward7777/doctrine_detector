@@ -21,7 +21,7 @@ However, it is essential to recognize that not everyone in our society identifie
 In summary, Jesus' death on the cross holds profound significance within Christianity, representing a transformative event that challenges evil and brings hope to believers. It is crucial to respect and honor the various religious beliefs and perspectives that exist in our society while recognizing the importance of this event for Christians.
 
 ## Average Grade
-85.0
+75.83333333333333
 
 ## Grades
  * [90.0](./Victory_over_Satan_s_Dominion_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In summary, Jesus' death on the cross holds profound significance within Christi
  * [85.0](./Victory_over_Satan_s_Dominion_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Victory_over_Satan_s_Dominion_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Victory_over_Satan_s_Dominion_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [30.0](./Victory_over_Satan_s_Dominion_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

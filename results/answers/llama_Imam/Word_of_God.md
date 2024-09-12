@@ -25,7 +25,7 @@ However, it's essential to note that this concept is distinct from the Islamic u
 As a Muslim Imam, I would like to emphasize that while we respect the Christian concept of the "Word of God," our understanding of revelation and scripture is rooted in the Quran and the Sunnah (tradition) of the Prophet Muhammad.
 
 ## Average Grade
-81.0
+77.5
 
 ## Grades
  * [85.0](./Word_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ As a Muslim Imam, I would like to emphasize that while we respect the Christian 
  * [75.0](./Word_of_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Word_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Word_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Word_of_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

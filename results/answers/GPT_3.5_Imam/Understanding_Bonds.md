@@ -21,7 +21,7 @@ Additionally, in Islam, our relationship with God is based on faith, devotion, a
 In conclusion, while the specific concept of 'bonds' may not be identical in Islam as it is in the Bible, the general idea of fulfilling our spiritual obligations and maintaining strong relationships with both God and others is central to Islamic teachings.
 
 ## Average Grade
-84.0
+81.66666666666667
 
 ## Grades
  * [85.0](./Understanding_Bonds_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In conclusion, while the specific concept of 'bonds' may not be identical in Isl
  * [80.0](./Understanding_Bonds_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Understanding_Bonds_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Bonds_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Understanding_Bonds_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

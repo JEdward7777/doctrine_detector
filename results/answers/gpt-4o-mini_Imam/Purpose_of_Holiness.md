@@ -35,7 +35,7 @@ From the Islamic perspective, living a 'holy' life—one that is set apart for G
 While these principles are rooted in Islamic teachings, they share similarities with Christian principles and can provide a framework for anyone seeking a life dedicated to God’s purpose. If you have specific aspects of Christian teachings in mind, I encourage mutual understanding and respectful discussion to explore these spiritual themes further.
 
 ## Average Grade
-89.0
+77.5
 
 ## Grades
  * [90.0](./Purpose_of_Holiness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -43,3 +43,4 @@ While these principles are rooted in Islamic teachings, they share similarities 
  * [90.0](./Purpose_of_Holiness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Purpose_of_Holiness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Purpose_of_Holiness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./Purpose_of_Holiness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

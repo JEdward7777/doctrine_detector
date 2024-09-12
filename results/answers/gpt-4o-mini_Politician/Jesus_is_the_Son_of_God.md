@@ -17,7 +17,7 @@ In a Muslim context, it's important to honor and respect the beliefs of Islam wh
 A respectful translation or adaptation might be: "Jesus is regarded as a revered prophet in Islam." This phrasing captures the esteem in which Jesus is held while aligning with Islamic beliefs. It's essential to approach such discussions with sensitivity and an openness to understanding different perspectives.
 
 ## Average Grade
-64.0
+63.333333333333336
 
 ## Grades
  * [60.0](./Jesus_is_the_Son_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -25,3 +25,4 @@ A respectful translation or adaptation might be: "Jesus is regarded as a revered
  * [60.0](./Jesus_is_the_Son_of_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [75.0](./Jesus_is_the_Son_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Jesus_is_the_Son_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Jesus_is_the_Son_of_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -33,7 +33,7 @@ Actions associated with being compassionate in the biblical context include:
 In summary, the biblical definition of compassion encompasses a heartfelt response to suffering that motivates actions aimed at helping, forgiving, and serving others, reflecting the compassionate nature of God and the teachings of Jesus.
 
 ## Average Grade
-93.0
+92.5
 
 ## Grades
  * [95.0](./Compassion_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -41,3 +41,4 @@ In summary, the biblical definition of compassion encompasses a heartfelt respon
  * [95.0](./Compassion_Definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Compassion_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Compassion_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Compassion_Definition_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

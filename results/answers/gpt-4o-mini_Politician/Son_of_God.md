@@ -25,7 +25,7 @@ The distinction between the title "Son of God" as it refers to Jesus and the ter
 In essence, while both terms express a relationship with God, "Son of God" refers to Jesus' unique status and divinity, while "sons of God" denotes the collective identity of believers as children of the Heavenly Father through faith. Understanding these distinctions helps foster a deeper comprehension of Christian theology and the significance of Jesus in the faith.
 
 ## Average Grade
-92.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Son_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ In essence, while both terms express a relationship with God, "Son of God" refer
  * [95.0](./Son_of_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Son_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Son_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Son_of_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

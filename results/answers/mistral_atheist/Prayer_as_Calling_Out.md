@@ -19,7 +19,7 @@ When engaging with this phrase within the context of prayer, it can be reinterpr
 Additionally, it's essential to emphasize empathy, understanding, and open-mindedness when interacting with others who do believe in a deity. Respectful dialogue and shared experiences can lead to valuable connections and mutual growth among individuals with diverse perspectives on this topic.
 
 ## Average Grade
-39.0
+39.166666666666664
 
 ## Grades
  * [30.0](./Prayer_as_Calling_Out_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Additionally, it's essential to emphasize empathy, understanding, and open-minde
  * [25.0](./Prayer_as_Calling_Out_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [40.0](./Prayer_as_Calling_Out_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Prayer_as_Calling_Out_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Prayer_as_Calling_Out_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

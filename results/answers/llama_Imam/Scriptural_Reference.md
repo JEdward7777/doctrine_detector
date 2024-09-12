@@ -26,7 +26,7 @@ Keep in mind that these passages might have different interpretations within Chr
 In Islam, we believe that the "world" (al-'ālam) is a place where believers are called to live according to God's laws and guidance (Sharia). Our focus is on building a righteous community in this life, not just seeking individual salvation. We have many passages from the Quran that discuss the concept of the world and our role within it. If you're interested, I'd be happy to explore those with you!
 
 ## Average Grade
-69.0
+62.5
 
 ## Grades
  * [75.0](./Scriptural_Reference_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,3 +34,4 @@ In Islam, we believe that the "world" (al-'ālam) is a place where believers are
  * [80.0](./Scriptural_Reference_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Scriptural_Reference_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Scriptural_Reference_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [30.0](./Scriptural_Reference_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

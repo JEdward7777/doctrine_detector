@@ -27,7 +27,7 @@ In the context of the Bible, testimony holds significant importance, particularl
 In summary, testimony in the Bible serves a multifaceted role: it establishes legal and communal authority regarding God's commandments, reflects personal experiences of faith, facilitates education and remembrance, and promotes mutual accountability within a community of believers. This layered significance underscores the enduring impact of testimony on both personal belief and collective adherence to the moral and ethical guidelines set forth by God.
 
 ## Average Grade
-92.0
+90.83333333333333
 
 ## Grades
  * [95.0](./Testimony_Meaning_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In summary, testimony in the Bible serves a multifaceted role: it establishes le
  * [95.0](./Testimony_Meaning_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Testimony_Meaning_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Testimony_Meaning_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Testimony_Meaning_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

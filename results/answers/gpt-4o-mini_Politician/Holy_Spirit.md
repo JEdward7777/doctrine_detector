@@ -31,7 +31,7 @@ Introducing the concept of the Holy Spirit in contexts unfamiliar with the Trini
 By employing these strategies, the conversation about the Holy Spirit can be accessible and engaging, encouraging a respectful exchange of ideas and fostering understanding among diverse audiences.
 
 ## Average Grade
-70.0
+68.33333333333333
 
 ## Grades
  * [85.0](./Holy_Spirit_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,3 +39,4 @@ By employing these strategies, the conversation about the Holy Spirit can be acc
  * [60.0](./Holy_Spirit_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [60.0](./Holy_Spirit_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Holy_Spirit_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Holy_Spirit_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -33,7 +33,7 @@ Addresses the responsibility of believers in their appointed tasks and service w
 10. Be Faithful Stewards: Believers are called to be faithful stewards of the resources God has entrusted to them, including their time, talents, and treasures (Matthew 25:14-30). This includes giving financially to support the ministry of the church and meeting the needs of others.
 
 ## Average Grade
-92.0
+90.0
 
 ## Grades
  * [90.0](./Role_of_Appointments_in_Service_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -41,3 +41,4 @@ Addresses the responsibility of believers in their appointed tasks and service w
  * [95.0](./Role_of_Appointments_in_Service_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Role_of_Appointments_in_Service_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Role_of_Appointments_in_Service_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Role_of_Appointments_in_Service_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

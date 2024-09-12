@@ -17,7 +17,7 @@ To ensure a clear understanding of how propitiation relates to God's justice and
 In Islamic theology, belief in Jesus as a prophet is accepted, but the concept of propitiation through sacrifice is not a fundamental tenet of Islam. The Islamic belief in salvation is centered around submission to Allah's will, upholding Islamic laws, and performing good deeds.
 
 ## Average Grade
-84.0
+71.66666666666667
 
 ## Grades
  * [90.0](./Understanding_Propitiation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -25,3 +25,4 @@ In Islamic theology, belief in Jesus as a prophet is accepted, but the concept o
  * [90.0](./Understanding_Propitiation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_Propitiation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Understanding_Propitiation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [10.0](./Understanding_Propitiation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

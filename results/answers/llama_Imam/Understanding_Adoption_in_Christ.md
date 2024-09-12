@@ -26,7 +26,7 @@ As a Muslim Imam, I must respectfully point out that this concept is unique to C
 In conclusion, while this doctrine may not be directly relevant to Islamic theology, it is an important aspect of Christian eschatology. As a Muslim Imam, I acknowledge the diversity of religious beliefs and encourage respectful dialogue between faiths.
 
 ## Average Grade
-89.0
+84.16666666666667
 
 ## Grades
  * [85.0](./Understanding_Adoption_in_Christ_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,3 +34,4 @@ In conclusion, while this doctrine may not be directly relevant to Islamic theol
  * [95.0](./Understanding_Adoption_in_Christ_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_Adoption_in_Christ_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Adoption_in_Christ_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Understanding_Adoption_in_Christ_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

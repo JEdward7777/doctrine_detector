@@ -23,7 +23,7 @@ Regarding the character of both groups, it is evident that the Sadducees priorit
 In summary, both the Sadducees and Pharisees played key roles in setting events into motion that led to the crucifixion of Jesus, but it is essential to remember that ultimate responsibility lies with the Roman authorities who carried out the execution. Their actions reveal a lack of understanding and openness to God's will, as well as a focus on self-interest over upholding God's law and loving their neighbors.
 
 ## Average Grade
-89.0
+88.33333333333333
 
 ## Grades
  * [95.0](./Influence_on_Jesus__Crucifixion_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ In summary, both the Sadducees and Pharisees played key roles in setting events 
  * [90.0](./Influence_on_Jesus__Crucifixion_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Influence_on_Jesus__Crucifixion_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Influence_on_Jesus__Crucifixion_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Influence_on_Jesus__Crucifixion_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

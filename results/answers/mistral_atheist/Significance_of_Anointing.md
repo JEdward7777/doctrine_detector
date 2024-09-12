@@ -23,7 +23,7 @@ Understanding the importance of anointing in biblical leadership roles.
 In all these cases, anointing was a powerful symbol of God's presence and blessing upon individuals chosen for special roles within ancient Israelite society. The oil used in this ritual served not only to signify sanctification but also to highlight the close connection between human agency and divine approval.
 
 ## Average Grade
-92.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Significance_of_Anointing_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ In all these cases, anointing was a powerful symbol of God's presence and blessi
  * [95.0](./Significance_of_Anointing_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Significance_of_Anointing_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Significance_of_Anointing_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Significance_of_Anointing_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

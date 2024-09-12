@@ -27,7 +27,7 @@ Here are some alternative translations that reflect this biblical meaning:
 Remember, brother/sister, that these alternative translations are meant to capture the original biblical meaning of "to be zealous," which is often misunderstood or misinterpreted in modern times. May Allah guide us to understand and apply the teachings of the Bible in a way that reflects our deep devotion and commitment to Him.
 
 ## Average Grade
-70.0
+66.66666666666667
 
 ## Grades
  * [65.0](./Translation_Suggestions_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ Remember, brother/sister, that these alternative translations are meant to captu
  * [70.0](./Translation_Suggestions_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [60.0](./Translation_Suggestions_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Translation_Suggestions_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Translation_Suggestions_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

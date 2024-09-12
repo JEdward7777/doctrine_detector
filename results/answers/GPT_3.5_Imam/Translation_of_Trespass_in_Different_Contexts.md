@@ -21,7 +21,7 @@ On the other hand, translating "trespass" as "breaking the rule" may focus more 
 Overall, whether we use the term "sin" or "breaking the rule," it is essential to address inter-personal violations with compassion, empathy, and a commitment to reconciliation and forgiveness. As Muslims, we are encouraged to seek forgiveness from Allah and from those whom we have wronged, strive to make amends, and work towards restoring harmonious relationships within the community.
 
 ## Average Grade
-83.4
+81.16666666666667
 
 ## Grades
  * [80.0](./Translation_of_Trespass_in_Different_Contexts_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Overall, whether we use the term "sin" or "breaking the rule," it is essential t
  * [90.0](./Translation_of_Trespass_in_Different_Contexts_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Translation_of_Trespass_in_Different_Contexts_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Translation_of_Trespass_in_Different_Contexts_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Translation_of_Trespass_in_Different_Contexts_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

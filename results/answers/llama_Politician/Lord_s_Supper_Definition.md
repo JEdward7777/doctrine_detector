@@ -27,7 +27,7 @@ While this event may have been understood differently in various contexts throug
 Now, I believe it's essential to recognize that different Christian traditions may have varying interpretations regarding the significance of this sacred ritual. However, at its core, the Lord's Supper represents an opportunity for us to come together in unity, gratitude, and worship, acknowledging Jesus' extraordinary act of selfless love.
 
 ## Average Grade
-72.0
+68.33333333333333
 
 ## Grades
  * [75.0](./Lord_s_Supper_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ Now, I believe it's essential to recognize that different Christian traditions m
  * [70.0](./Lord_s_Supper_Definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Lord_s_Supper_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Lord_s_Supper_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Lord_s_Supper_Definition_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

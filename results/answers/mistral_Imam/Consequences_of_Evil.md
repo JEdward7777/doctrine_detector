@@ -21,7 +21,7 @@ In the Biblical context, the Book of Proverbs (19:3) states, "When a man's folly
 These references serve to remind believers of the importance of good deeds and righteousness, as well as the potential consequences of evil-doing. It is essential to remember that these texts encourage reflection, self-improvement, and seeking God's guidance in all matters.
 
 ## Average Grade
-89.0
+82.5
 
 ## Grades
  * [90.0](./Consequences_of_Evil_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ These references serve to remind believers of the importance of good deeds and r
  * [90.0](./Consequences_of_Evil_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Consequences_of_Evil_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Consequences_of_Evil_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Consequences_of_Evil_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -19,7 +19,7 @@ Throughout various texts, particularly in biblical scripture, the zeal of the Lo
 This zeal can inspire hope and encouragement among people, as it conveys the message that they are cherished and valued. It also serves as a reminder of the call to respond in kind, fostering a relationship built on mutual respect, love, and dedication. Ultimately, the "zeal of the Lord" symbolizes a powerful force seeking to bring about justice, peace, and harmony in the world.
 
 ## Average Grade
-90.0
+89.16666666666667
 
 ## Grades
  * [90.0](./God_s_Zeal_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ This zeal can inspire hope and encouragement among people, as it conveys the mes
  * [90.0](./God_s_Zeal_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./God_s_Zeal_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./God_s_Zeal_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./God_s_Zeal_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

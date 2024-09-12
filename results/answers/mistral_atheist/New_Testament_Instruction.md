@@ -25,7 +25,7 @@ In the New Testament, there are several instances where Psalms are directly refe
 In Christian tradition, Psalms are often used in worship services for singing, meditation, and reflection. They are also a source of guidance and inspiration, offering spiritual lessons that Christians believe remain relevant today. Interpretation of the Psalms can vary among different Christian denominations and individual believers, but they are generally regarded as having prophetic, poetic, and moral value within the context of Christian Scripture.
 
 ## Average Grade
-87.0
+86.66666666666667
 
 ## Grades
  * [85.0](./New_Testament_Instruction_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ In Christian tradition, Psalms are often used in worship services for singing, m
  * [90.0](./New_Testament_Instruction_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./New_Testament_Instruction_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./New_Testament_Instruction_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./New_Testament_Instruction_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

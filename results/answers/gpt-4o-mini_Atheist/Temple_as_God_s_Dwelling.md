@@ -35,7 +35,7 @@ In the apocalyptic vision of Revelation, the ultimate fulfillment of God's prese
 Thus, while the Old Testament emphasizes a physical temple as the dwelling of God, the New Testament shifts this understanding to both the person of Jesus and the community of believers, culminating in an eschatological vision where God's presence is fully realized among His people. This evolution represents a deepening understanding of divinity that moves from a localized, physical presence to a more expansive, relational, and spiritual one.
 
 ## Average Grade
-93.0
+92.5
 
 ## Grades
  * [95.0](./Temple_as_God_s_Dwelling_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -43,3 +43,4 @@ Thus, while the Old Testament emphasizes a physical temple as the dwelling of Go
  * [90.0](./Temple_as_God_s_Dwelling_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Temple_as_God_s_Dwelling_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Temple_as_God_s_Dwelling_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Temple_as_God_s_Dwelling_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

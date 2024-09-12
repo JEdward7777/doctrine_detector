@@ -27,7 +27,7 @@ In the context of Islamic teachings, the history of the Children of Israel, part
 In a broader sense, these themes serve not only as historical lessons but also moral and spiritual reminders for Muslims today to remain steadfast in their faith, to uphold the worship of Allah alone, and to be grateful for His guidance and blessings. Faithfulness in worship is a central tenet of Islam, and Muslims are encouraged to stay loyal to their practices and avoid the pitfalls encountered by previous nations.
 
 ## Average Grade
-88.0
+81.66666666666667
 
 ## Grades
  * [90.0](./Unfaithfulness_in_Worship_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In a broader sense, these themes serve not only as historical lessons but also m
  * [90.0](./Unfaithfulness_in_Worship_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Unfaithfulness_in_Worship_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Unfaithfulness_in_Worship_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Unfaithfulness_in_Worship_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

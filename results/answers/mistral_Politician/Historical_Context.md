@@ -25,7 +25,7 @@ This verse from Amos speaks to a time when God's people will be restored after j
 These examples illustrate the concept of "remnant" as a small group of faithful individuals who survive destruction and ultimately bring about restoration and renewal. They serve as a reminder that no matter how challenging the circumstances, God's work will continue through His chosen people.
 
 ## Average Grade
-89.0
+85.83333333333333
 
 ## Grades
  * [90.0](./Historical_Context_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ These examples illustrate the concept of "remnant" as a small group of faithful 
  * [90.0](./Historical_Context_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Historical_Context_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Historical_Context_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Historical_Context_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

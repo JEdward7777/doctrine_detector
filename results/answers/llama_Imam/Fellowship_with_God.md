@@ -33,7 +33,7 @@ While Islam does not recognize the concept of "fellowship with God" as a distinc
 In conclusion, while fellowship with God is a unique concept in Christianity, Muslims can appreciate the value placed on deepening relationships with their Creator. However, we must be mindful of the differences between Islamic and Christian teachings and avoid confusing or conflating these concepts.
 
 ## Average Grade
-85.0
+82.5
 
 ## Grades
  * [80.0](./Fellowship_with_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -41,3 +41,4 @@ In conclusion, while fellowship with God is a unique concept in Christianity, Mu
  * [85.0](./Fellowship_with_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Fellowship_with_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Fellowship_with_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Fellowship_with_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

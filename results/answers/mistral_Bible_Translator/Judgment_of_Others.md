@@ -19,7 +19,7 @@ In Matthew 7:3-5, Jesus says: "Why do you look at the speck of sawdust in your b
 This passage encourages humility and self-reflection as a foundation for offering guidance or correction to others. By focusing on our own flaws and shortcomings, we are better equipped to offer help and support to those around us in a spirit of love and compassion, rather than judgment and condemnation.
 
 ## Average Grade
-92.0
+91.66666666666667
 
 ## Grades
  * [90.0](./Judgment_of_Others_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ This passage encourages humility and self-reflection as a foundation for offerin
  * [95.0](./Judgment_of_Others_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Judgment_of_Others_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Judgment_of_Others_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Judgment_of_Others_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

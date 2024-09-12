@@ -17,7 +17,7 @@ In the biblical narrative found in the book of Exodus, God instructed the Israel
 The instructions emphasized rest on the Sabbath, reflecting its significance as a day of worship and cessation from labor. Consequently, the Israelites were to trust in God's provision and prepare in advance by gathering extra manna on Friday, which would remain fresh for their use on the Sabbath. This practice not only highlighted the importance of the Sabbath but also reinforced the community's reliance on divine sustenance.
 
 ## Average Grade
-91.0
+90.83333333333333
 
 ## Grades
  * [95.0](./Sabbath_Observance_2_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -25,3 +25,4 @@ The instructions emphasized rest on the Sabbath, reflecting its significance as 
  * [90.0](./Sabbath_Observance_2_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Sabbath_Observance_2_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Sabbath_Observance_2_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Sabbath_Observance_2_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

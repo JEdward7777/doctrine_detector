@@ -27,7 +27,7 @@ Awareness of the spiritual ramifications of living in disobedience to God.
 6. Revelation 20:11-15 - In the book of Revelation, there is a description of the final judgment where ungodly people are thrown into the lake of fire and brimstone to be tormented day and night for ever and ever.
 
 ## Average Grade
-93.0
+87.5
 
 ## Grades
  * [95.0](./Ungodliness_Consequences_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ Awareness of the spiritual ramifications of living in disobedience to God.
  * [90.0](./Ungodliness_Consequences_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Ungodliness_Consequences_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Ungodliness_Consequences_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Ungodliness_Consequences_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -23,7 +23,7 @@ Evaluating biblical examples helps believers understand the implications of thei
 These examples from the Bible demonstrate the importance of honesty, forgiveness, and showing compassion towards others as fundamental moral and spiritual lessons. Trespassing against God or one's fellow human beings can lead to dire consequences, while adhering to these principles can bring about blessings and a closer relationship with God.
 
 ## Average Grade
-90.0
+89.16666666666667
 
 ## Grades
  * [90.0](./Biblical_Examples_of_Trespass_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ These examples from the Bible demonstrate the importance of honesty, forgiveness
  * [85.0](./Biblical_Examples_of_Trespass_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Biblical_Examples_of_Trespass_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Biblical_Examples_of_Trespass_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Biblical_Examples_of_Trespass_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

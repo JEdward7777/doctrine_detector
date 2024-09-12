@@ -21,7 +21,7 @@ Another instance can be seen in the story of the Golden Calf in Exodus 32. When 
 These examples illustrate a strong biblical dichotomy between authentic worship of God and the act of idol worship, highlighting the emphasis placed on fidelity to God in the Judeo-Christian tradition.
 
 ## Average Grade
-91.0
+90.0
 
 ## Grades
  * [95.0](./Biblical_Examples_of_Worship_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ These examples illustrate a strong biblical dichotomy between authentic worship 
  * [95.0](./Biblical_Examples_of_Worship_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Biblical_Examples_of_Worship_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_Examples_of_Worship_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Biblical_Examples_of_Worship_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

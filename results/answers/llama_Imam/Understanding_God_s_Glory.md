@@ -27,7 +27,7 @@ In Islamic terms, we would say that God's glory is transcendent and beyond human
 In conclusion, God's glory in the Bible is a manifestation of His character and nature, whereas worldly sources of glory are based on human achievements or status. The Bible encourages us to seek our worth and identity in God's eyes rather than in external validation or recognition.
 
 ## Average Grade
-91.0
+86.66666666666667
 
 ## Grades
  * [90.0](./Understanding_God_s_Glory_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In conclusion, God's glory in the Bible is a manifestation of His character and 
  * [95.0](./Understanding_God_s_Glory_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_God_s_Glory_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Understanding_God_s_Glory_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [65.0](./Understanding_God_s_Glory_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

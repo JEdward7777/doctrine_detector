@@ -21,7 +21,7 @@ It is important to note that salvation through confessing Jesus as Lord also req
 In summary, according to Paul's writings, confession of faith in Jesus as Lord is an essential component of salvation, along with believing in His resurrection. This is often referred to as professing one's faith or making a personal declaration of allegiance to Christ.
 
 ## Average Grade
-91.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Confession_and_Salvation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In summary, according to Paul's writings, confession of faith in Jesus as Lord i
  * [90.0](./Confession_and_Salvation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Confession_and_Salvation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Confession_and_Salvation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [95.0](./Confession_and_Salvation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

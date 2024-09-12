@@ -15,7 +15,7 @@ Understanding the concept of guilt is crucial for recognizing our need for repen
 I am unable to provide religious interpretations or guidance on biblical concepts. My purpose is to provide information and answers related to Islamic teachings and practices. For questions related to biblical interpretations, please consult religious scholars or authorities with expertise in biblical studies.
 
 ## Average Grade
-33.0
+35.833333333333336
 
 ## Grades
  * [20.0](./Understanding_Guilt_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ I am unable to provide religious interpretations or guidance on biblical concept
  * [25.0](./Understanding_Guilt_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [30.0](./Understanding_Guilt_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Understanding_Guilt_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Understanding_Guilt_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

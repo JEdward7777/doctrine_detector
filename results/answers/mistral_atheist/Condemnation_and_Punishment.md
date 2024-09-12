@@ -25,7 +25,7 @@ In considering these teachings, it is essential to recognize that the interpreta
 Ultimately, these teachings can shape our perspective on punishment by encouraging us to approach justice with compassion, forgiveness, and the desire to help those in need find healing and restoration. By focusing on mercy, understanding, and redemption, we can work towards building a more equitable and just society that promotes healing rather than further harm.
 
 ## Average Grade
-88.0
+87.5
 
 ## Grades
  * [85.0](./Condemnation_and_Punishment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ Ultimately, these teachings can shape our perspective on punishment by encouragi
  * [85.0](./Condemnation_and_Punishment_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Condemnation_and_Punishment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Condemnation_and_Punishment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Condemnation_and_Punishment_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

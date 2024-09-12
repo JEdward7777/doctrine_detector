@@ -21,7 +21,7 @@ However, it's important to note that not everyone subscribes to religious or spi
 In summary, listening to God, in its spiritual connotation, can serve as a means of self-reflection and introspection, leading to personal growth and wisdom. However, wisdom can also be gained through other methods and experiences, depending on one's individual beliefs and circumstances.
 
 ## Average Grade
-76.0
+74.16666666666667
 
 ## Grades
  * [65.0](./Obedience_and_Wisdom_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In summary, listening to God, in its spiritual connotation, can serve as a means
  * [75.0](./Obedience_and_Wisdom_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Obedience_and_Wisdom_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Obedience_and_Wisdom_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [65.0](./Obedience_and_Wisdom_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

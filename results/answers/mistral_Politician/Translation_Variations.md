@@ -24,7 +24,7 @@ Exploring different interpretations of biblical terms to deepen understanding.
 10. Commitment Fidelity: This phrase focuses on the fidelity and commitment required to maintain a covenant, without using religious connotations.
 
 ## Average Grade
-75.0
+74.16666666666667
 
 ## Grades
  * [80.0](./Translation_Variations_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,3 +32,4 @@ Exploring different interpretations of biblical terms to deepen understanding.
  * [85.0](./Translation_Variations_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Translation_Variations_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Translation_Variations_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Translation_Variations_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

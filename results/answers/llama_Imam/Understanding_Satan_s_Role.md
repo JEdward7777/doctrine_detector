@@ -25,7 +25,7 @@ In Christian tradition, Satan is often depicted as a fallen angel who seeks to t
 In conclusion, while there may be differences in the names and depictions of Satan/Iblis between Islamic and Christian traditions, both faiths recognize the existence of a powerful force that opposes God's will and seeks to lead humans away from the path of righteousness.
 
 ## Average Grade
-79.0
+79.16666666666667
 
 ## Grades
  * [80.0](./Understanding_Satan_s_Role_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ In conclusion, while there may be differences in the names and depictions of Sat
  * [85.0](./Understanding_Satan_s_Role_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_Satan_s_Role_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Understanding_Satan_s_Role_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Understanding_Satan_s_Role_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

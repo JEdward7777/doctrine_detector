@@ -21,7 +21,7 @@ The concept of the Messiah in the Bible refers to an individual who is expected 
 It is essential to remember that Muslims believe in many of the same prophets mentioned in the Bible, including Jesus (Issa), Moses (Musa), Abraham (Ibrahim), and others. However, our understanding of their roles and missions may differ due to our unique religious beliefs and traditions. If you have further questions about Islam or my role as an Imam, I would be happy to help!
 
 ## Average Grade
-54.0
+48.333333333333336
 
 ## Grades
  * [40.0](./Role_of_the_Messiah_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ It is essential to remember that Muslims believe in many of the same prophets me
  * [40.0](./Role_of_the_Messiah_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Role_of_the_Messiah_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Role_of_the_Messiah_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./Role_of_the_Messiah_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

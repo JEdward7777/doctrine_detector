@@ -19,7 +19,7 @@ In Islamic teachings, Prophet Muhammad (peace be upon him) will have the privile
 It is important for Muslims to seek guidance and forgiveness directly from Allah through prayer and supplication, as He is the ultimate source of help and intercession. We believe that it is essential to maintain a direct and personal connection with Allah in seeking His mercy, forgiveness, and blessings.
 
 ## Average Grade
-60.0
+53.333333333333336
 
 ## Grades
  * [70.0](./Understanding_Intercession_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ It is important for Muslims to seek guidance and forgiveness directly from Allah
  * [60.0](./Understanding_Intercession_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [40.0](./Understanding_Intercession_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Understanding_Intercession_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./Understanding_Intercession_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

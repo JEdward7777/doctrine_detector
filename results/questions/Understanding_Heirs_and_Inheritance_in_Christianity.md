@@ -11,26 +11,26 @@ In Christianity, believers are viewed as heirs through faith, receiving God's pr
 Exploring the identity of Christians as heirs of God's promises.
 
 ## Average Grade
-87.57798165137615
+86.55
 
 ## Grades
  * [69.16666666666667 gemma atheist](../answers/gemma_atheist/Understanding_Heirs_and_Inheritance_in_Christianity.md)
  * [77.5 gemma Politician](../answers/gemma_Politician/Understanding_Heirs_and_Inheritance_in_Christianity.md)
+ * [77.5 llama Imam](../answers/llama_Imam/Understanding_Heirs_and_Inheritance_in_Christianity.md)
+ * [80.83333333333333 gemma Imam](../answers/gemma_Imam/Understanding_Heirs_and_Inheritance_in_Christianity.md)
+ * [80.83333333333333 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Understanding_Heirs_and_Inheritance_in_Christianity.md)
  * [82.16666666666667 gemma Bible Translator](../answers/gemma_Bible_Translator/Understanding_Heirs_and_Inheritance_in_Christianity.md)
- * [83.0 llama Imam](../answers/llama_Imam/Understanding_Heirs_and_Inheritance_in_Christianity.md)
+ * [82.5 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Understanding_Heirs_and_Inheritance_in_Christianity.md)
  * [83.33333333333333 llama atheist](../answers/llama_atheist/Understanding_Heirs_and_Inheritance_in_Christianity.md)
- * [84.0 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Understanding_Heirs_and_Inheritance_in_Christianity.md)
- * [85.0 gemma Imam](../answers/gemma_Imam/Understanding_Heirs_and_Inheritance_in_Christianity.md)
+ * [85.83333333333333 mistral Imam](../answers/mistral_Imam/Understanding_Heirs_and_Inheritance_in_Christianity.md)
  * [87.5 llama Politician](../answers/llama_Politician/Understanding_Heirs_and_Inheritance_in_Christianity.md)
- * [89.0 mistral Imam](../answers/mistral_Imam/Understanding_Heirs_and_Inheritance_in_Christianity.md)
- * [89.0 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Understanding_Heirs_and_Inheritance_in_Christianity.md)
  * [90.83333333333333 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Understanding_Heirs_and_Inheritance_in_Christianity.md)
- * [92.0 mistral atheist](../answers/mistral_atheist/Understanding_Heirs_and_Inheritance_in_Christianity.md)
- * [92.0 mistral Politician](../answers/mistral_Politician/Understanding_Heirs_and_Inheritance_in_Christianity.md)
+ * [91.66666666666667 mistral atheist](../answers/mistral_atheist/Understanding_Heirs_and_Inheritance_in_Christianity.md)
+ * [91.66666666666667 mistral Politician](../answers/mistral_Politician/Understanding_Heirs_and_Inheritance_in_Christianity.md)
+ * [91.66666666666667 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Understanding_Heirs_and_Inheritance_in_Christianity.md)
  * [92.16666666666667 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Understanding_Heirs_and_Inheritance_in_Christianity.md)
  * [92.5 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Understanding_Heirs_and_Inheritance_in_Christianity.md)
  * [92.5 llama Bible Translator](../answers/llama_Bible_Translator/Understanding_Heirs_and_Inheritance_in_Christianity.md)
- * [93.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Understanding_Heirs_and_Inheritance_in_Christianity.md)
- * [93.0 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Understanding_Heirs_and_Inheritance_in_Christianity.md)
- * [93.0 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Understanding_Heirs_and_Inheritance_in_Christianity.md)
+ * [92.5 mistral Bible Translator](../answers/mistral_Bible_Translator/Understanding_Heirs_and_Inheritance_in_Christianity.md)
+ * [93.33333333333333 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Understanding_Heirs_and_Inheritance_in_Christianity.md)
  * [95.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Understanding_Heirs_and_Inheritance_in_Christianity.md)

@@ -29,7 +29,7 @@ As Muslims, we strive to emulate the Prophet Muhammad's (peace be upon him) exam
 In conclusion, while the specific terminology and contexts may differ between Christianity and Islam, both faiths emphasize the importance of showing compassion and kindness towards others. Sacrificial love is a universal value that transcends religious boundaries, and we can all learn from each other's examples in this regard.
 
 ## Average Grade
-86.0
+81.66666666666667
 
 ## Grades
  * [85.0](./Sacrificial_Love_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ In conclusion, while the specific terminology and contexts may differ between Ch
  * [90.0](./Sacrificial_Love_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Sacrificial_Love_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Sacrificial_Love_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Sacrificial_Love_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

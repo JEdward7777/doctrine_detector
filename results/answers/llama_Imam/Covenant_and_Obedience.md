@@ -29,7 +29,7 @@ In conclusion, obedience to God's laws was essential for the Israelites' journey
 May Allah guide us all to follow His commandments and remain steadfast on the path of righteousness, as we strive to reach our own "Promised Land" – Paradise – in the Hereafter.
 
 ## Average Grade
-88.4
+82.0
 
 ## Grades
  * [85.0](./Covenant_and_Obedience_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ May Allah guide us all to follow His commandments and remain steadfast on the pa
  * [90.0](./Covenant_and_Obedience_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Covenant_and_Obedience_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Covenant_and_Obedience_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Covenant_and_Obedience_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

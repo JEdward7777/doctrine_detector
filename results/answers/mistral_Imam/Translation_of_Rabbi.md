@@ -25,7 +25,7 @@ When translating "Rabbi" into various languages, it is essential to maintain the
 Ultimately, it is essential to work closely with experts who are familiar with both Judaism and the target language when translating "Rabbi" into other languages, ensuring a faithful and accurate representation of its original meaning while also taking into account cultural sensitivities and linguistic nuances.
 
 ## Average Grade
-84.0
+80.0
 
 ## Grades
  * [90.0](./Translation_of_Rabbi_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ Ultimately, it is essential to work closely with experts who are familiar with b
  * [80.0](./Translation_of_Rabbi_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Translation_of_Rabbi_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Translation_of_Rabbi_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Translation_of_Rabbi_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

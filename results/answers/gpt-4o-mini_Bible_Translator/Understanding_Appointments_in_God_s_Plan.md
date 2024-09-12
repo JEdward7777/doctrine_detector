@@ -19,7 +19,7 @@ This idea of being appointed can be seen as part of a broader theological framew
 In essence, being appointed to eternal life implies a divine initiative where God works in a person's life, leading them to faith and a transformed relationship with Him. It emphasizes that salvation is not solely based on human effort or decision but is rooted in God’s purpose and grace. This understanding encourages believers to recognize the importance of faith, grace, and God's sovereignty in the process of salvation.
 
 ## Average Grade
-93.0
+92.5
 
 ## Grades
  * [95.0](./Understanding_Appointments_in_God_s_Plan_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ In essence, being appointed to eternal life implies a divine initiative where Go
  * [95.0](./Understanding_Appointments_in_God_s_Plan_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_Appointments_in_God_s_Plan_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Appointments_in_God_s_Plan_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Understanding_Appointments_in_God_s_Plan_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

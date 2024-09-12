@@ -31,7 +31,7 @@ In the Bible, God introduces Himself using various names that reveal different a
 These names and titles collectively offer a multifaceted understanding of God's identity, highlighting His divine attributes such as mercy, power, and relational qualities. While the Bible presents an understanding of God as per Christian theology, it is essential to remember that in Islam, God (Allah) is recognized as the same singular, all-powerful Creator, who is also referred to by 99 names (Asma'ul Husna) that encompass similar attributes like mercy, strength, and wisdom.
 
 ## Average Grade
-91.0
+90.0
 
 ## Grades
  * [90.0](./God_s_Revelation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,3 +39,4 @@ These names and titles collectively offer a multifaceted understanding of God's 
  * [95.0](./God_s_Revelation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./God_s_Revelation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./God_s_Revelation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./God_s_Revelation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

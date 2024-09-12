@@ -29,7 +29,7 @@ Understanding the various roles of angels can impact how Christians perceive div
 7. Assisting in the Creation of the Universe: Angels played a role in creating the heavens and earth during the initial stages of creation, as mentioned in Quran 38:71-72 and Bible's Job 38:4-7.
 
 ## Average Grade
-75.0
+75.83333333333333
 
 ## Grades
  * [90.0](./Role_of_Angels_in_Human_Affairs_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ Understanding the various roles of angels can impact how Christians perceive div
  * [85.0](./Role_of_Angels_in_Human_Affairs_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [60.0](./Role_of_Angels_in_Human_Affairs_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Role_of_Angels_in_Human_Affairs_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Role_of_Angels_in_Human_Affairs_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

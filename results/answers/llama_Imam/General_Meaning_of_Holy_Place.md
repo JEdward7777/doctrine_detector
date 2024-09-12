@@ -37,3 +37,4 @@ May Allah guide us in our pursuit of spirituality and lead us to the path of rig
  * [90.0](./General_Meaning_of_Holy_Place_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./General_Meaning_of_Holy_Place_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./General_Meaning_of_Holy_Place_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./General_Meaning_of_Holy_Place_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

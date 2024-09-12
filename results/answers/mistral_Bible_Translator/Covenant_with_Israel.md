@@ -19,7 +19,7 @@ The Mosaic Covenant can be understood in terms of God's promises and the Israeli
 This covenant had a conditional nature, as it was based on the Israelites' obedience to God's commands. However, it should be noted that the New Testament reveals that the Mosaic Covenant was a shadow of the New Covenant established through Jesus Christ (Hebrews 8:6-13). The New Covenant is not based on human effort or obedience to laws but on God's grace through faith in Christ.
 
 ## Average Grade
-86.0
+86.66666666666667
 
 ## Grades
  * [90.0](./Covenant_with_Israel_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ This covenant had a conditional nature, as it was based on the Israelites' obedi
  * [90.0](./Covenant_with_Israel_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Covenant_with_Israel_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Covenant_with_Israel_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Covenant_with_Israel_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

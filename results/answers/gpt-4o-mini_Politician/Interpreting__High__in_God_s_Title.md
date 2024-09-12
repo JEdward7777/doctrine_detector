@@ -19,7 +19,7 @@ When interpreting this term, it is essential to approach it with sensitivity to 
 Additionally, acknowledging the diverse interpretations across different faiths and cultures can foster a more inclusive understanding. Each tradition may have its unique way of expressing reverence for the divine, and recognizing this can enhance interfaith dialogue and cooperation. Ultimately, "Most High" serves as a reminder of the profound mystery and majesty of God, encouraging humility in our pursuit of understanding His nature.
 
 ## Average Grade
-84.0
+83.33333333333333
 
 ## Grades
  * [85.0](./Interpreting__High__in_God_s_Title_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Additionally, acknowledging the diverse interpretations across different faiths 
  * [75.0](./Interpreting__High__in_God_s_Title_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Interpreting__High__in_God_s_Title_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Interpreting__High__in_God_s_Title_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Interpreting__High__in_God_s_Title_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

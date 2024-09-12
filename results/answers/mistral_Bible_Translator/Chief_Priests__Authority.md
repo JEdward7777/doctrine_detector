@@ -21,7 +21,7 @@ During Jesus's time, the chief priests (specifically the Sadducees) and ordinary
 In Christian contexts, the priesthood is often seen as a spiritual representation of Jesus Christ's role as our High Priest (Hebrews 4:14-16). Ordinary believers are also considered priests, with access to God through Jesus, and each individual plays an essential part in serving and worshipping Him.
 
 ## Average Grade
-91.0
+90.0
 
 ## Grades
  * [95.0](./Chief_Priests__Authority_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In Christian contexts, the priesthood is often seen as a spiritual representatio
  * [90.0](./Chief_Priests__Authority_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Chief_Priests__Authority_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Chief_Priests__Authority_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Chief_Priests__Authority_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

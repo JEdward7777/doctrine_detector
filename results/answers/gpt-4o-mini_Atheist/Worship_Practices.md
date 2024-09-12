@@ -31,7 +31,7 @@ In contemporary society, the concept of idolatry can extend beyond traditional r
 It’s important to recognize that these 'idols' can vary greatly among individuals and communities, often reflecting broader cultural trends. Understanding these modern idols can prompt reflection on personal values and priorities in the context of spiritual beliefs.
 
 ## Average Grade
-91.0
+90.0
 
 ## Grades
  * [95.0](./Worship_Practices_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,3 +39,4 @@ It’s important to recognize that these 'idols' can vary greatly among individu
  * [95.0](./Worship_Practices_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Worship_Practices_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Worship_Practices_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Worship_Practices_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

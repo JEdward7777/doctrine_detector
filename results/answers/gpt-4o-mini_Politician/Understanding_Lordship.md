@@ -19,7 +19,7 @@ When it comes to Jesus, the term 'Lord' is similarly profound. It signifies reco
 Overall, using 'Lord' in theological discussions underscores themes of respect, faith, and commitment within Christianity and highlights the importance of both God's and Jesus' roles in the faith.
 
 ## Average Grade
-90.0
+88.33333333333333
 
 ## Grades
  * [95.0](./Understanding_Lordship_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Overall, using 'Lord' in theological discussions underscores themes of respect, 
  * [85.0](./Understanding_Lordship_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_Lordship_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Lordship_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Understanding_Lordship_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

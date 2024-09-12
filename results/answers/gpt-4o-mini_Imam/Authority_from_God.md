@@ -31,7 +31,7 @@ The significance of divine authority in the life of a believer can be understood
 In essence, recognizing and submitting to divine authority is foundational to a Muslim's faith and practice. It shapes their worldview, informs their actions, and guides them towards a life that is in harmony with Islamic principles.
 
 ## Average Grade
-89.0
+85.83333333333333
 
 ## Grades
  * [85.0](./Authority_from_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,3 +39,4 @@ In essence, recognizing and submitting to divine authority is foundational to a 
  * [95.0](./Authority_from_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Authority_from_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Authority_from_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Authority_from_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

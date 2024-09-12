@@ -23,7 +23,7 @@ Lastly, the soul symbolizes the intellectual capacity of humans. The Bible prese
 In conclusion, the figurative uses of the word "soul" in the Bible underscore human identity as a complex interplay between the physical, emotional, and spiritual dimensions. It highlights that humans are unique creations designed to reflect God's image, feel emotions, reason intelligently, and engage in a relationship with their Creator. By understanding this holistic view of the soul, Christians can gain a deeper appreciation for the richness and complexity of human identity as created by God.
 
 ## Average Grade
-88.0
+87.5
 
 ## Grades
  * [90.0](./Function_of_the_Soul_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ In conclusion, the figurative uses of the word "soul" in the Bible underscore hu
  * [90.0](./Function_of_the_Soul_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Function_of_the_Soul_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Function_of_the_Soul_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Function_of_the_Soul_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

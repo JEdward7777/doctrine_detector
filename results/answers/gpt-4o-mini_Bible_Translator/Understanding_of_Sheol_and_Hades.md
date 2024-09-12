@@ -21,7 +21,7 @@ The concepts of Sheol and Hades in the Bible have distinct meanings, especially 
 In summary, while Sheol encompasses a broader concept of the afterlife in the Hebrew Scriptures primarily as a place for the dead without specific distinctions, Hades in the New Testament is presented with a clearer division—often associated with judgment and the experiences of the righteous and unrighteous after death. Ultimately, both terms signify a state of being that precedes the final resurrection and the judgment that will determine eternal outcomes. The distinction becomes even clearer when considering eschatological teachings about the final destinations of heaven and hell, which follow from these intermediate states.
 
 ## Average Grade
-91.0
+90.0
 
 ## Grades
  * [95.0](./Understanding_of_Sheol_and_Hades_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In summary, while Sheol encompasses a broader concept of the afterlife in the He
  * [90.0](./Understanding_of_Sheol_and_Hades_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_of_Sheol_and_Hades_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_of_Sheol_and_Hades_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Understanding_of_Sheol_and_Hades_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

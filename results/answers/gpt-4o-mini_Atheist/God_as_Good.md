@@ -27,7 +27,7 @@ From a scholarly perspective, this statement can be unpacked in several ways:
 In sum, Jesus’ declaration about goodness invites an exploration of the relationship between humanity, morality, and the divine, and it continues to be a point of reflection in theological discussions today.
 
 ## Average Grade
-88.0
+88.33333333333333
 
 ## Grades
  * [90.0](./God_as_Good_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In sum, Jesus’ declaration about goodness invites an exploration of the relati
  * [85.0](./God_as_Good_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./God_as_Good_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./God_as_Good_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./God_as_Good_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

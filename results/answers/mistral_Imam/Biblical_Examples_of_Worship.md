@@ -21,7 +21,7 @@ God asserts His uniqueness and omniscient nature, challenging the idols to prove
 This passage emphasizes the importance of true worship that recognizes God's unique position as the Creator and Sustainer of the universe, in contrast to the vain attempts at false worship through idolatry. This message resonates strongly within the Islamic context as well, where Shirk (associating partners with Allah) is strictly forbidden.
 
 ## Average Grade
-91.0
+89.16666666666667
 
 ## Grades
  * [95.0](./Biblical_Examples_of_Worship_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ This passage emphasizes the importance of true worship that recognizes God's uni
  * [90.0](./Biblical_Examples_of_Worship_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Biblical_Examples_of_Worship_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_Examples_of_Worship_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Biblical_Examples_of_Worship_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

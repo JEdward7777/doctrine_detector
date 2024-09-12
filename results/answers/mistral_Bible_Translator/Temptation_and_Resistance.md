@@ -23,7 +23,7 @@ Understanding Jesus' resistance to temptation provides a model for Christians to
 In each instance, instead of succumbing to temptation or using his divine power for personal gain, Jesus demonstrated His submission to God's will by resisting Satan with scripture. This event in the life of Jesus shows His obedience to God and sets an example for all believers in their struggle against sin and temptation.
 
 ## Average Grade
-94.0
+93.33333333333333
 
 ## Grades
  * [95.0](./Temptation_and_Resistance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ In each instance, instead of succumbing to temptation or using his divine power 
  * [95.0](./Temptation_and_Resistance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Temptation_and_Resistance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Temptation_and_Resistance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Temptation_and_Resistance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

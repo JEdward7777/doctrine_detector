@@ -27,7 +27,7 @@ The act of blessing and praising God are closely related in Christian theology, 
 In conclusion, blessing and praising God enrich the believer's understanding and experience of God’s presence, allowing for an expression of thankfulness, worship, and acknowledgment of His divine grace.
 
 ## Average Grade
-92.0
+90.0
 
 ## Grades
  * [90.0](./The_Role_of_Blessing_in_Worship_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In conclusion, blessing and praising God enrich the believer's understanding and
  * [95.0](./The_Role_of_Blessing_in_Worship_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./The_Role_of_Blessing_in_Worship_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./The_Role_of_Blessing_in_Worship_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./The_Role_of_Blessing_in_Worship_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

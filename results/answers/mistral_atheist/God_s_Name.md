@@ -23,7 +23,7 @@ In Christian theology, Yahweh is often associated with the God of Israel, who is
 Overall, the name Yahweh holds a deep spiritual meaning for many individuals who follow Judaism or Christianity. It represents God's self-revelation to Moses and serves as a powerful symbol of His existence, power, and relationship with humanity.
 
 ## Average Grade
-90.0
+85.0
 
 ## Grades
  * [95.0](./God_s_Name_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ Overall, the name Yahweh holds a deep spiritual meaning for many individuals who
  * [90.0](./God_s_Name_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./God_s_Name_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./God_s_Name_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./God_s_Name_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

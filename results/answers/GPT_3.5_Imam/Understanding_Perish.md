@@ -19,7 +19,7 @@ For example, in the Gospel of John, Jesus speaks about those who believe in Him 
 As Muslims, we believe in the importance of faith in God and the consequences of our actions in the Hereafter. It is essential for us to acknowledge the teachings of the Quran and the Prophet Muhammad (peace be upon him) to understand the concept of perishing in a spiritual sense and to strive to rectify our actions and beliefs to avoid such a fate.
 
 ## Average Grade
-86.0
+83.33333333333333
 
 ## Grades
  * [90.0](./Understanding_Perish_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ As Muslims, we believe in the importance of faith in God and the consequences of
  * [80.0](./Understanding_Perish_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Understanding_Perish_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Perish_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Understanding_Perish_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -23,7 +23,7 @@ Exploring the biblical foundation for the theology of redemption.
 These verses contribute to the understanding of redemption by suggesting that humanity was in bondage due to sin and required a ransom (or payment) to be freed from that bondage. By offering his life as a ransom, Jesus is seen as providing redemption or salvation for humanity. The cultural context in which these verses were written would have influenced the understanding of ransom and redemption, with slavery being a prominent institution at the time.
 
 ## Average Grade
-87.0
+85.83333333333333
 
 ## Grades
  * [90.0](./Biblical_References_8_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ These verses contribute to the understanding of redemption by suggesting that hu
  * [90.0](./Biblical_References_8_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Biblical_References_8_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_References_8_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Biblical_References_8_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

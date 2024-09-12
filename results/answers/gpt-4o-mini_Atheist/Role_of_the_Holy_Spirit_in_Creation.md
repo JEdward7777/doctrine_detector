@@ -25,7 +25,7 @@ The significance of the Holy Spirit's involvement in the creation narrative of G
 Overall, the Holy Spirit's involvement in creation signifies a complex interplay of divinity, purpose, and order within the cosmos, inviting ongoing exploration of how these themes resonate across different cultural and philosophical landscapes.
 
 ## Average Grade
-82.0
+80.0
 
 ## Grades
  * [85.0](./Role_of_the_Holy_Spirit_in_Creation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ Overall, the Holy Spirit's involvement in creation signifies a complex interplay
  * [80.0](./Role_of_the_Holy_Spirit_in_Creation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Role_of_the_Holy_Spirit_in_Creation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Role_of_the_Holy_Spirit_in_Creation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Role_of_the_Holy_Spirit_in_Creation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

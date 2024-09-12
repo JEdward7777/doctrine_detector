@@ -25,7 +25,7 @@ Please note that from an Islamic perspective, these events should not be interpr
 In Islam, we believe that Jinn are created beings that possess free will and can choose to obey or disobey Allah's commands. While they may attempt to lead people astray, it is ultimately Allah's Will that prevails.
 
 ## Average Grade
-83.0
+80.83333333333333
 
 ## Grades
  * [70.0](./Examples_in_Scripture_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ In Islam, we believe that Jinn are created beings that possess free will and can
  * [85.0](./Examples_in_Scripture_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Examples_in_Scripture_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Examples_in_Scripture_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Examples_in_Scripture_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

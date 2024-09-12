@@ -19,7 +19,7 @@ The phrase highlights the idea that these spirits are not just malevolent but al
 In a broader context, discussions about unclean spirits and demons can serve as a metaphor for the struggles people face with inner turmoil, moral challenges, and the quest for spiritual cleanliness or righteousness. It’s essential, within this framework, to approach the topic with sensitivity and understanding, recognizing the diverse interpretations and beliefs surrounding spiritual matters.
 
 ## Average Grade
-88.0
+85.83333333333333
 
 ## Grades
  * [90.0](./Understanding_Demons_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ In a broader context, discussions about unclean spirits and demons can serve as 
  * [90.0](./Understanding_Demons_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_Demons_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Demons_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Understanding_Demons_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -21,7 +21,7 @@ In Christianity, belief in God the Son (Jesus Christ) and becoming a child of Go
 Becoming a child of God the Father, in this context, means being adopted into God's family and being granted the right to call Him "Father," signifying an intimate, loving relationship. This relationship is established through faith in Jesus Christ as the Son of God, who died for the sins of humanity, thereby offering salvation.
 
 ## Average Grade
-83.0
+80.83333333333333
 
 ## Grades
  * [70.0](./Becoming_a_Child_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Becoming a child of God the Father, in this context, means being adopted into Go
  * [90.0](./Becoming_a_Child_of_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Becoming_a_Child_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Becoming_a_Child_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Becoming_a_Child_of_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

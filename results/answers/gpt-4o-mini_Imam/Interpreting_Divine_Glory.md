@@ -38,7 +38,7 @@ When Muslims come together for congregational prayers and community events, the 
 In summary, understanding divine glory in worship is about recognizing Allah's majesty, which inspires sincere devotion, action, and the pursuit of closeness to Him. It encourages believers to live in a way that reflects their understanding of Allah’s greatness in all facets of life.
 
 ## Average Grade
-74.0
+71.66666666666667
 
 ## Grades
  * [60.0](./Interpreting_Divine_Glory_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -46,3 +46,4 @@ In summary, understanding divine glory in worship is about recognizing Allah's m
  * [85.0](./Interpreting_Divine_Glory_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [60.0](./Interpreting_Divine_Glory_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Interpreting_Divine_Glory_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Interpreting_Divine_Glory_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

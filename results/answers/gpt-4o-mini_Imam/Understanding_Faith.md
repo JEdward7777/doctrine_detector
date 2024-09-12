@@ -19,7 +19,7 @@ However, Muslims do not view Jesus as the Son of God or as part of a divine Trin
 Thus, to "have faith in Jesus" in an Islamic context means to recognize and honor him as a major prophet and messenger of Allah, to believe in the teachings he conveyed, and to acknowledge his significant place in the line of prophets leading to the final prophet, Muhammad (peace be upon him). Faith in Jesus is also intertwined with faith in all prophets and messengers of Islam, consistent with the broader Islamic belief in the Oneness of God (Tawhid) and the unity of the message delivered through all prophets.
 
 ## Average Grade
-34.0
+31.666666666666668
 
 ## Grades
  * [50.0](./Understanding_Faith_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Thus, to "have faith in Jesus" in an Islamic context means to recognize and hono
  * [40.0](./Understanding_Faith_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [20.0](./Understanding_Faith_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Understanding_Faith_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./Understanding_Faith_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

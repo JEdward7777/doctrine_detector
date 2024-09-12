@@ -27,7 +27,7 @@ In Islam, we are encouraged to adopt the opposite of pride – humility (tawbah)
 In conclusion, my brother, while I may not have a detailed understanding of the Bible's specific teachings on pride and humility, it seems that both Christianity and Islam emphasize the importance of humility and the dangers of pride. As Muslims, we are encouraged to cultivate humility as a means of seeking Allah's pleasure and avoiding His wrath.
 
 ## Average Grade
-92.0
+90.0
 
 ## Grades
  * [90.0](./Consequences_of_Pride_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In conclusion, my brother, while I may not have a detailed understanding of the 
  * [90.0](./Consequences_of_Pride_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Consequences_of_Pride_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Consequences_of_Pride_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Consequences_of_Pride_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

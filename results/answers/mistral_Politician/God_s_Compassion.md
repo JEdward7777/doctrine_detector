@@ -23,7 +23,7 @@ Knowing how God's compassion influences our understanding of divine love and mer
 These verses and many others demonstrate that compassion is a central aspect of God's character according to the Bible. It showcases his love for all people, his mercy, grace, kindness, and willingness to forgive, which are characteristics we should strive to emulate in our own lives.
 
 ## Average Grade
-93.0
+91.66666666666667
 
 ## Grades
  * [95.0](./God_s_Compassion_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ These verses and many others demonstrate that compassion is a central aspect of 
  * [95.0](./God_s_Compassion_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./God_s_Compassion_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./God_s_Compassion_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./God_s_Compassion_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

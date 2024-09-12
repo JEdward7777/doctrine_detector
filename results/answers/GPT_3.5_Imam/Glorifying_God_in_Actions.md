@@ -33,7 +33,7 @@ In Islam, a believer can actively glorify God in their daily life through variou
 Overall, a believer can actively glorify God in their daily life by embodying the principles of Islam in their actions, thoughts, and interactions with others, all while maintaining a conscious awareness of God's presence and guidance.
 
 ## Average Grade
-85.0
+82.5
 
 ## Grades
  * [80.0](./Glorifying_God_in_Actions_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -41,3 +41,4 @@ Overall, a believer can actively glorify God in their daily life by embodying th
  * [90.0](./Glorifying_God_in_Actions_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Glorifying_God_in_Actions_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Glorifying_God_in_Actions_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Glorifying_God_in_Actions_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -31,7 +31,7 @@ The promises made in biblical covenants illustrate God's unwavering commitment t
 In summary, biblical covenants illustrate God’s steadfast love, faithfulness, and a deep desire for relationship with His people. They also form a narrative that reveals His redemptive purpose throughout history, ultimately leading to the fulfillment of His promises in Jesus Christ. These covenants remind believers of God’s unchanging character and His active involvement in the world.
 
 ## Average Grade
-94.0
+93.33333333333333
 
 ## Grades
  * [95.0](./Covenants_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,3 +39,4 @@ In summary, biblical covenants illustrate God’s steadfast love, faithfulness, 
  * [95.0](./Covenants_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Covenants_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Covenants_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Covenants_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -21,7 +21,7 @@ From a culturally relative perspective, this idea can be understood as an expres
 In an atheistic view, this concept can be deconstructed to represent various factors such as group resilience, cultural preservation, and the human capacity for enduring through difficult times by clinging to shared beliefs. In essence, the idea of a "remnant" signifies a small yet powerful group that maintains its identity and values amidst adversity.
 
 ## Average Grade
-85.0
+79.16666666666667
 
 ## Grades
  * [90.0](./God_s_Chosen_People_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In an atheistic view, this concept can be deconstructed to represent various fac
  * [90.0](./God_s_Chosen_People_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [75.0](./God_s_Chosen_People_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./God_s_Chosen_People_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./God_s_Chosen_People_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

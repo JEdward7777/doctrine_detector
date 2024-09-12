@@ -21,7 +21,7 @@ From an Islamic perspective, we recognize John the Baptist as one of the importa
 From this understanding, when we see the Bible stating "His name is called John," it highlights the individual's identity as a prophet and the fulfillment of divine revelation in his life.
 
 ## Average Grade
-84.0
+78.33333333333333
 
 ## Grades
  * [90.0](./Understanding_Biblical_Naming_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ From this understanding, when we see the Bible stating "His name is called John,
  * [85.0](./Understanding_Biblical_Naming_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_Biblical_Naming_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Understanding_Biblical_Naming_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Understanding_Biblical_Naming_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -29,7 +29,7 @@ Divine glory can be understood in the context of worship as the manifestation of
 In summary, while divine glory in worship may be a deeply held belief for many, it can also be examined through lenses of psychology, culture, and philosophy to gain a broader understanding of its significance in human society. This multifaceted approach emphasizes the rich interplay between belief, meaning, and human experience.
 
 ## Average Grade
-63.0
+62.5
 
 ## Grades
  * [70.0](./Interpreting_Divine_Glory_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ In summary, while divine glory in worship may be a deeply held belief for many, 
  * [40.0](./Interpreting_Divine_Glory_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Interpreting_Divine_Glory_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Interpreting_Divine_Glory_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Interpreting_Divine_Glory_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

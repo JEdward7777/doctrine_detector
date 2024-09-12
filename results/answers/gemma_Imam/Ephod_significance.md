@@ -45,7 +45,7 @@ The high priest's ephod in the context of Old Testament worship held immense sig
 While the Old Testament practices and beliefs are not directly applicable to Muslims, understanding the significance of the high priest's ephod can provide insights into the importance of intercession, purity, and covenant in religious practices.
 
 ## Average Grade
-87.0
+85.83333333333333
 
 ## Grades
  * [85.0](./Ephod_significance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -53,3 +53,4 @@ While the Old Testament practices and beliefs are not directly applicable to Mus
  * [90.0](./Ephod_significance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Ephod_significance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Ephod_significance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Ephod_significance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

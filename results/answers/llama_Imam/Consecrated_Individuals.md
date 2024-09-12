@@ -29,7 +29,7 @@ Other individuals who are considered righteous in Islam include:
 These individuals are all mentioned in the Quran, which Muslims believe to be a complete and perfect revelation from Allah. While our understanding of their stories may differ from that of Christians, we recognize them as important figures who were consecrated to God's service.
 
 ## Average Grade
-61.0
+57.5
 
 ## Grades
  * [55.0](./Consecrated_Individuals_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ These individuals are all mentioned in the Quran, which Muslims believe to be a 
  * [50.0](./Consecrated_Individuals_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Consecrated_Individuals_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Consecrated_Individuals_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Consecrated_Individuals_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

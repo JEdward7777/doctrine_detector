@@ -21,7 +21,7 @@ On the other hand, the concept of an evil spirit in the Bible typically refers t
 In summary, the differentiation is primarily one of nature and role: the human spirit is an integral part of God's creation, intended for communion with Him, while evil spirits are entities that seek to disrupt that relationship and lead individuals away from God. Both are depicted in the Bible, contributing to a broader understanding of spiritual dynamics.
 
 ## Average Grade
-86.4
+86.16666666666667
 
 ## Grades
  * [92.0](./Understanding_the_Spirit_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In summary, the differentiation is primarily one of nature and role: the human s
  * [90.0](./Understanding_the_Spirit_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Understanding_the_Spirit_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Understanding_the_Spirit_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Understanding_the_Spirit_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

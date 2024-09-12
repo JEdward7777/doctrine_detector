@@ -37,7 +37,7 @@ In Islam, the concept of the Day of Judgment encompasses similar themes:
 Ultimately, while the specific terms "Day of Yahweh" or "Day of the Lord" may not be used in Islamic texts, the themes resonate deeply within Islamic teachings about the Day of Judgment and God's ultimate justice and mercy.
 
 ## Average Grade
-88.0
+85.0
 
 ## Grades
  * [90.0](./Judgment_and_Resurrection_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -45,3 +45,4 @@ Ultimately, while the specific terms "Day of Yahweh" or "Day of the Lord" may no
  * [90.0](./Judgment_and_Resurrection_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Judgment_and_Resurrection_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Judgment_and_Resurrection_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Judgment_and_Resurrection_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

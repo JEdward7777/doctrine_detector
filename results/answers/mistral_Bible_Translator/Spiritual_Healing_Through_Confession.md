@@ -27,7 +27,7 @@ The importance of community in spiritual growth
 By confessing sins to one another, Christians can experience spiritual healing through accountability, prayer, forgiveness, restoration, and transformation, all of which contribute to a closer walk with God and deeper relationships within the Church.
 
 ## Average Grade
-93.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Spiritual_Healing_Through_Confession_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ By confessing sins to one another, Christians can experience spiritual healing t
  * [95.0](./Spiritual_Healing_Through_Confession_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Spiritual_Healing_Through_Confession_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Spiritual_Healing_Through_Confession_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Spiritual_Healing_Through_Confession_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

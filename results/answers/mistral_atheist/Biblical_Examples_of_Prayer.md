@@ -27,7 +27,7 @@ Learning from biblical stories to foster a stronger prayer life.
 These examples illustrate the power and importance of prayer in various aspects, such as spiritual protection, provision, healing, overcoming adversity, and building and maintaining community ties.
 
 ## Average Grade
-87.0
+84.16666666666667
 
 ## Grades
  * [80.0](./Biblical_Examples_of_Prayer_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ These examples illustrate the power and importance of prayer in various aspects,
  * [85.0](./Biblical_Examples_of_Prayer_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Biblical_Examples_of_Prayer_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_Examples_of_Prayer_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Biblical_Examples_of_Prayer_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

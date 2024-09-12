@@ -31,7 +31,7 @@ Christians are encouraged to approach exhortation with a mindset rooted in love,
 In summary, Christians should approach exhortation as a loving act aimed at spiritual growth and restoration, grounded in truth and motivated by a desire to see one another flourish in faith.
 
 ## Average Grade
-95.0
+93.33333333333333
 
 ## Grades
  * [95.0](./Nature_of_Exhortation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,3 +39,4 @@ In summary, Christians should approach exhortation as a loving act aimed at spir
  * [95.0](./Nature_of_Exhortation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Nature_of_Exhortation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Nature_of_Exhortation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Nature_of_Exhortation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

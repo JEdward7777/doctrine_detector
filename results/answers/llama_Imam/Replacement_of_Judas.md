@@ -17,7 +17,7 @@ As a Muslim, I must clarify that the concept of apostles or disciples in Islam i
 However, regarding your question about Judas Iscariot's replacement among the twelve apostles, according to Christian tradition, Matthias was chosen to replace Judas Iscariot after his betrayal. This selection took place as described in Acts 1:21-26.
 
 ## Average Grade
-82.0
+83.33333333333333
 
 ## Grades
  * [80.0](./Replacement_of_Judas_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -25,3 +25,4 @@ However, regarding your question about Judas Iscariot's replacement among the tw
  * [90.0](./Replacement_of_Judas_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Replacement_of_Judas_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Replacement_of_Judas_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Replacement_of_Judas_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

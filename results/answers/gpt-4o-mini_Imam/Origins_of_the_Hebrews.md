@@ -21,7 +21,7 @@ The term "Hebrews" itself is often associated with the earlier nomadic lifestyle
 In summary, the Hebrews are considered to be descendants of Abraham through Isaac and Jacob, forming the basis of the Israelite nation as described in the Bible.
 
 ## Average Grade
-91.0
+91.66666666666667
 
 ## Grades
  * [90.0](./Origins_of_the_Hebrews_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In summary, the Hebrews are considered to be descendants of Abraham through Isaa
  * [95.0](./Origins_of_the_Hebrews_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Origins_of_the_Hebrews_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Origins_of_the_Hebrews_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [95.0](./Origins_of_the_Hebrews_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

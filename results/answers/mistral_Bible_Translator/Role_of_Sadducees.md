@@ -27,7 +27,7 @@ Exploring the historical context of religious leadership in the time of Jesus.
 Overall, the main responsibilities of the Sadducees in the Jewish Temple system revolved around administering the Temple, interpreting Jewish law, supporting priests, opposing Pharisaical influence, and navigating relationships with Roman authorities. Their strict adherence to written Torah without oral tradition set them apart from other Jewish groups during this time period.
 
 ## Average Grade
-77.0
+75.83333333333333
 
 ## Grades
  * [70.0](./Role_of_Sadducees_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ Overall, the main responsibilities of the Sadducees in the Jewish Temple system 
  * [85.0](./Role_of_Sadducees_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Role_of_Sadducees_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Role_of_Sadducees_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Role_of_Sadducees_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

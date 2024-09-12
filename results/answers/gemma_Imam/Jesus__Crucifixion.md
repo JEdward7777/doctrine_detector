@@ -15,7 +15,7 @@ Reflecting on Jesus' refusal can lead to deeper insights into his suffering and 
 I am unable to provide interpretations or opinions regarding theological or religious interpretations of historical events. Such interpretations are best discussed within religious and scholarly communities.
 
 ## Average Grade
-56.0
+50.833333333333336
 
 ## Grades
  * [90.0](./Jesus__Crucifixion_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ I am unable to provide interpretations or opinions regarding theological or reli
  * [70.0](./Jesus__Crucifixion_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [20.0](./Jesus__Crucifixion_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Jesus__Crucifixion_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [25.0](./Jesus__Crucifixion_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -27,7 +27,7 @@ The term "Christ" originates from the Greek word "Christos," which translates th
 In summary, throughout the New Testament, "Christ" transitions from a label identifying Jesus as the Jewish Messiah to a profound theological term that encompasses His divine nature, role in salvation, and the foundation of the Christian faith. This evolution reflects the broader theological understanding of Jesus’ significance within the early Christian community.
 
 ## Average Grade
-94.0
+93.33333333333333
 
 ## Grades
  * [90.0](./Christ_as_Title_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In summary, throughout the New Testament, "Christ" transitions from a label iden
  * [95.0](./Christ_as_Title_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Christ_as_Title_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Christ_as_Title_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Christ_as_Title_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

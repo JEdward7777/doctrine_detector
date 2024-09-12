@@ -23,7 +23,7 @@ It is essential for Muslims to seek guidance from Allah and His messenger, Muham
 Islam encourages Muslims to be resilient in their faith, seek knowledge, and strengthen their iman (faith) by following the Quran and Sunnah, thus protecting themselves from Shaytan's deceit.
 
 ## Average Grade
-82.0
+78.33333333333333
 
 ## Grades
  * [75.0](./Spiritual_Deceit_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ Islam encourages Muslims to be resilient in their faith, seek knowledge, and str
  * [80.0](./Spiritual_Deceit_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Spiritual_Deceit_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Spiritual_Deceit_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Spiritual_Deceit_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

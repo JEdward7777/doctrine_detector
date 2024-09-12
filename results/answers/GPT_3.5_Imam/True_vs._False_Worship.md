@@ -19,7 +19,7 @@ On the other hand, worshiping false gods involves ascribing partners to Allah or
 In Islam, worshiping anything other than Allah is considered a grave transgression as it goes against the fundamental principle of the faith. Muslims are called to worship Allah alone and to avoid associating any partners with Him in worship.
 
 ## Average Grade
-86.0
+80.0
 
 ## Grades
  * [90.0](./True_vs._False_Worship_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ In Islam, worshiping anything other than Allah is considered a grave transgressi
  * [95.0](./True_vs._False_Worship_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./True_vs._False_Worship_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./True_vs._False_Worship_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./True_vs._False_Worship_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

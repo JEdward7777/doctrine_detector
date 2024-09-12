@@ -19,7 +19,7 @@ Jesus taught us the model prayer in Matthew 6:9-13, where we find the expression
 Ultimately, calling out to the Lord is an act of faith, trusting that God hears us and responds according to His perfect will, even when our prayers are not answered in the way we hope or expect. As it says in Jeremiah 33:3, "Call to Me, and I will answer you, and show you great and mighty things, which you do not know."
 
 ## Average Grade
-93.0
+92.5
 
 ## Grades
  * [95.0](./Prayer_as_Calling_Out_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Ultimately, calling out to the Lord is an act of faith, trusting that God hears 
  * [95.0](./Prayer_as_Calling_Out_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Prayer_as_Calling_Out_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Prayer_as_Calling_Out_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Prayer_as_Calling_Out_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

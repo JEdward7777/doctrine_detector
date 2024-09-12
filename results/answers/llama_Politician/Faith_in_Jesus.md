@@ -25,7 +25,7 @@ Ultimately, I think it's essential to recognize that personal beliefs and convic
 So, in conclusion, believing in Jesus can be understood in various ways, and I believe that our differences should not divide us but rather inspire a sense of shared humanity and collective striving for understanding.
 
 ## Average Grade
-52.0
+50.0
 
 ## Grades
  * [50.0](./Faith_in_Jesus_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ So, in conclusion, believing in Jesus can be understood in various ways, and I b
  * [40.0](./Faith_in_Jesus_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [40.0](./Faith_in_Jesus_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Faith_in_Jesus_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Faith_in_Jesus_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

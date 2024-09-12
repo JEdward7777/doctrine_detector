@@ -29,7 +29,7 @@ In the Bible, particularly in the New Testament, Jesus is depicted as demonstrat
 These elements collectively highlight how Jesus garnered favor with both God and those around him, as portrayed in the Biblical narrative.
 
 ## Average Grade
-92.0
+89.16666666666667
 
 ## Grades
  * [90.0](./Understanding_God_s_Favor_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ These elements collectively highlight how Jesus garnered favor with both God and
  * [95.0](./Understanding_God_s_Favor_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_God_s_Favor_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_God_s_Favor_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Understanding_God_s_Favor_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

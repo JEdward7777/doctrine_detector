@@ -25,7 +25,7 @@ It is essential to note that our understanding of this event is based on biblica
 In Islamic theology, Jerusalem holds a special place as the city where Prophet Muhammad (peace be upon him) ascended to heaven during his Night Journey (Isra' and Mi'raj). This event is seen as a validation of the divine revelation received by earlier prophets, including Jesus, Moses, and Abraham.
 
 ## Average Grade
-80.0
+76.66666666666667
 
 ## Grades
  * [75.0](./Temple_Significance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ In Islamic theology, Jerusalem holds a special place as the city where Prophet M
  * [80.0](./Temple_Significance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Temple_Significance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Temple_Significance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Temple_Significance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

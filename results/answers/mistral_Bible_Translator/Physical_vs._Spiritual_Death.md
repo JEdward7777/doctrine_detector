@@ -21,7 +21,7 @@ The spiritual meaning of 'perish' is more metaphorical and encompasses a loss or
 In summary, physical death refers to the end of life in the body, while perishing has a spiritual connotation representing moral decay or estrangement from God, which can lead to eternal separation from Him. It is essential to maintain this distinction when interpreting and translating the Bible accurately.
 
 ## Average Grade
-92.4
+92.0
 
 ## Grades
  * [95.0](./Physical_vs._Spiritual_Death_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In summary, physical death refers to the end of life in the body, while perishin
  * [92.0](./Physical_vs._Spiritual_Death_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Physical_vs._Spiritual_Death_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Physical_vs._Spiritual_Death_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Physical_vs._Spiritual_Death_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

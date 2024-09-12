@@ -35,7 +35,7 @@ The actions of the apostles in teaching and fostering community among believers 
 In summary, the apostles' actions demonstrate the critical components of teaching, prayer, unity, community engagement, and outreach that lay the foundation for a thriving church. These principles remain relevant and essential for building and maintaining a strong Christian community today.
 
 ## Average Grade
-95.0
+94.16666666666667
 
 ## Grades
  * [95.0](./Role_of_Apostles_in_Early_Church_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -43,3 +43,4 @@ In summary, the apostles' actions demonstrate the critical components of teachin
  * [95.0](./Role_of_Apostles_in_Early_Church_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Role_of_Apostles_in_Early_Church_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Role_of_Apostles_in_Early_Church_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Role_of_Apostles_in_Early_Church_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

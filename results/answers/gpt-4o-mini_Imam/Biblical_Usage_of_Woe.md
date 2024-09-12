@@ -25,7 +25,7 @@ Certainly! The term "woe" is found throughout the Bible, particularly in the Old
 The term "woe" serves as a serious lament or pronouncement of divine displeasure and often acts as a call to repentance. It reveals that God's judgment is not arbitrary but based on justice, righteousness, and the moral state of individuals and societies. In all these instances, the warnings serve to call people back to God, urging them to reflect on their actions and turn towards righteousness.
 
 ## Average Grade
-92.4
+92.0
 
 ## Grades
  * [95.0](./Biblical_Usage_of_Woe_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ The term "woe" serves as a serious lament or pronouncement of divine displeasure
  * [90.0](./Biblical_Usage_of_Woe_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Biblical_Usage_of_Woe_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Biblical_Usage_of_Woe_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Biblical_Usage_of_Woe_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

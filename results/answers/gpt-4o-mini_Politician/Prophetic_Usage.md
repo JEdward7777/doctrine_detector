@@ -27,7 +27,7 @@ The term "Daughter of Zion" appears frequently in the Bible, particularly in the
 Incorporating these themes thoughtfully is important for understanding the rich tapestry of meaning woven throughout Biblical texts concerning the "Daughter of Zion." This understanding can facilitate deeper discussions about faith, identity, and the intersections of community and spirituality.
 
 ## Average Grade
-89.4
+87.83333333333333
 
 ## Grades
  * [92.0](./Prophetic_Usage_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ Incorporating these themes thoughtfully is important for understanding the rich 
  * [90.0](./Prophetic_Usage_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Prophetic_Usage_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Prophetic_Usage_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Prophetic_Usage_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

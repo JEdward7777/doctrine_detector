@@ -26,7 +26,7 @@ Now, regarding the Cornerstone metaphor, it appears that this concept originates
 In conclusion, while we Muslims may not share the same understanding or interpretation of Jesus as the Cornerstone, we can appreciate the symbolic significance it holds in Christian theology. The metaphor highlights Jesus' role as the foundation, uniqueness, connection point, and sacrifice for His followers, illustrating the depth and richness of their relationship with Him.
 
 ## Average Grade
-81.0
+79.16666666666667
 
 ## Grades
  * [85.0](./Symbolism_of_the_Cornerstone_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,3 +34,4 @@ In conclusion, while we Muslims may not share the same understanding or interpre
  * [85.0](./Symbolism_of_the_Cornerstone_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Symbolism_of_the_Cornerstone_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Symbolism_of_the_Cornerstone_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Symbolism_of_the_Cornerstone_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

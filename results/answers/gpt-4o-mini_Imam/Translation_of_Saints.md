@@ -17,7 +17,7 @@ In the context of Islamic teachings, the term 'saints' can be translated to Arab
 It is important to approach this term with the understanding that in Islam, all believers are encouraged to strive for righteousness and closeness to Allah, and the concept of sainthood differs from some other faiths. Instead, we focus on the qualities that make one beloved to Allah, such as devotion, humility, and service to others.
 
 ## Average Grade
-72.0
+63.333333333333336
 
 ## Grades
  * [90.0](./Translation_of_Saints_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -25,3 +25,4 @@ It is important to approach this term with the understanding that in Islam, all 
  * [90.0](./Translation_of_Saints_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [50.0](./Translation_of_Saints_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Translation_of_Saints_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./Translation_of_Saints_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -19,7 +19,7 @@ The atonement lid had two golden cherubim facing each other, symbolizing God's p
 This annual ritual served as a reminder that the people's sins were covered by God's grace, but it was also a foreshadowing of Christ, who would ultimately provide eternal redemption through His sacrifice on the cross (Hebrews 9:5, 24). The atonement lid thus carried great symbolic and spiritual significance within the Jewish faith and prefigured the ultimate atonement that Jesus Christ would bring.
 
 ## Average Grade
-92.0
+91.66666666666667
 
 ## Grades
  * [95.0](./atonement_lid_definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ This annual ritual served as a reminder that the people's sins were covered by G
  * [90.0](./atonement_lid_definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./atonement_lid_definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./atonement_lid_definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./atonement_lid_definition_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -25,7 +25,7 @@ Reassuring believers of their salvation through faith in Jesus.
 **Therefore, while belief in Jesus can be a part of a Muslim's faith, it is the comprehensive Islamic belief system that provides assurance and salvation.**
 
 ## Average Grade
-24.0
+21.666666666666668
 
 ## Grades
  * [20.0](./Assurance_of_Salvation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ Reassuring believers of their salvation through faith in Jesus.
  * [20.0](./Assurance_of_Salvation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [20.0](./Assurance_of_Salvation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Assurance_of_Salvation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [10.0](./Assurance_of_Salvation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

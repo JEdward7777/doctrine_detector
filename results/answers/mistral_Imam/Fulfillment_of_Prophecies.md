@@ -19,7 +19,7 @@ For example, many Christian scholars believe that the prophecy about the virgin 
 It's important to note that Islamic teachings recognize some of these Biblical prophecies but have different interpretations and beliefs regarding their fulfillment and relevance to Islam. As an Imam, I would encourage Muslims to approach such topics with an open mind, respecting differences while maintaining our faith in the guidance provided by the Quran and the Sunnah of Prophet Muhammad (peace be upon him).
 
 ## Average Grade
-73.0
+74.16666666666667
 
 ## Grades
  * [90.0](./Fulfillment_of_Prophecies_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ It's important to note that Islamic teachings recognize some of these Biblical p
  * [65.0](./Fulfillment_of_Prophecies_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Fulfillment_of_Prophecies_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Fulfillment_of_Prophecies_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Fulfillment_of_Prophecies_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

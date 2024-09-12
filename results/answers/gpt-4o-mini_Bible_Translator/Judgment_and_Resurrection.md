@@ -31,7 +31,7 @@ The "day of Yahweh" or "day of the Lord" is a significant theme in the Bible, pa
 In summary, the day of the Lord encompasses themes of judgment, restoration, cosmic changes, the coming of the Messiah, calls to repentance, and an expectation of God’s ultimate justice. In both the Old Testament and the New Testament, it serves as a reminder of God's sovereignty and the future hope for His people.
 
 ## Average Grade
-88.0
+87.5
 
 ## Grades
  * [85.0](./Judgment_and_Resurrection_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,3 +39,4 @@ In summary, the day of the Lord encompasses themes of judgment, restoration, cos
  * [95.0](./Judgment_and_Resurrection_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Judgment_and_Resurrection_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Judgment_and_Resurrection_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Judgment_and_Resurrection_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -19,7 +19,7 @@ In Islam, when we say that Allah has called us by name, we mean that He has a un
 Overall, the concept of being called by name by God reflects the idea of a personal and loving relationship between the Creator and His creation, which is a central theme in both Islam and Christianity.
 
 ## Average Grade
-89.0
+84.16666666666667
 
 ## Grades
  * [90.0](./Understanding_God_s_Call_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Overall, the concept of being called by name by God reflects the idea of a perso
  * [95.0](./Understanding_God_s_Call_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_God_s_Call_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_God_s_Call_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Understanding_God_s_Call_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

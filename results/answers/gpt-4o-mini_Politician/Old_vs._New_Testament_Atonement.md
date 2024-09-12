@@ -33,7 +33,7 @@ In contrast, the **New Testament** presents a transformative understanding of at
 In summary, while both Testaments address the theme of atonement, the Old Testament's emphasis on sacrificial law and ritual contrasts with the New Testament's focus on Jesus' sacrificial love and grace, which offers a universal invitation to reconciliation with God. This evolution of the concept reflects the deepening understanding of God's intent for humanity and His desire for a personal and transformative relationship with each individual.
 
 ## Average Grade
-91.0
+90.0
 
 ## Grades
  * [95.0](./Old_vs._New_Testament_Atonement_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -41,3 +41,4 @@ In summary, while both Testaments address the theme of atonement, the Old Testam
  * [85.0](./Old_vs._New_Testament_Atonement_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Old_vs._New_Testament_Atonement_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Old_vs._New_Testament_Atonement_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Old_vs._New_Testament_Atonement_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -29,7 +29,7 @@ In Christian belief, trust and faith are deeply interrelated concepts, though th
 In summary, faith and trust are interconnected in Christian theology, where faith serves as the foundation for trust, and trust is a manifestation of faith lived out in relationship with God. Both are essential for spiritual growth and are reinforced through understanding God's character and His faithfulness in the believer's life.
 
 ## Average Grade
-95.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Faith_and_Trust_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ In summary, faith and trust are interconnected in Christian theology, where fait
  * [95.0](./Faith_and_Trust_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Faith_and_Trust_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Faith_and_Trust_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Faith_and_Trust_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -27,7 +27,7 @@ In the phrases used by Jesus, such as "truly I tell you" (often translated from 
 In all these translations, the essence remains the same: to signify that what follows is a profound truth or important teaching. The use of "truly" serves to affirm the sincerity and significance of the words spoken by Jesus.
 
 ## Average Grade
-86.0
+84.16666666666667
 
 ## Grades
  * [90.0](./Translation_of_Amen_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In all these translations, the essence remains the same: to signify that what fo
  * [85.0](./Translation_of_Amen_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Translation_of_Amen_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Translation_of_Amen_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Translation_of_Amen_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -37,7 +37,7 @@ The Islamic understanding of Allah is that He is one, indivisible, and all-encom
 The Christian doctrine of the Trinity is not compatible with Islamic beliefs, which uphold monotheism and reject the concept of a Trinity.
 
 ## Average Grade
-68.0
+60.0
 
 ## Grades
  * [70.0](./Understanding_the_Trinity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -45,3 +45,4 @@ The Christian doctrine of the Trinity is not compatible with Islamic beliefs, wh
  * [65.0](./Understanding_the_Trinity_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [60.0](./Understanding_the_Trinity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Understanding_the_Trinity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./Understanding_the_Trinity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

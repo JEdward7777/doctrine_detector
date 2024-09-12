@@ -21,7 +21,7 @@ Furthermore, during the Last Supper, which was a Passover meal, Jesus instituted
 Thus, for Christians, Passover symbolizes not only the physical liberation of the Israelites but also the spiritual liberation from sin and death through Jesus Christ, embodying themes of sacrifice, redemption, and hope.
 
 ## Average Grade
-93.0
+92.5
 
 ## Grades
  * [95.0](./Passover_Significance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Thus, for Christians, Passover symbolizes not only the physical liberation of th
  * [95.0](./Passover_Significance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Passover_Significance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Passover_Significance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Passover_Significance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -29,7 +29,7 @@ The actions of the apostles in teaching and fostering community among believers 
 In summary, the apostles' actions emphasize the significance of inclusivity, education, relationship-building, service, open dialogue, and resilience. By applying these lessons to modern communities, we can promote understanding, nurture connections, and foster an environment where everyone feels valued and empowered.
 
 ## Average Grade
-87.4
+85.33333333333333
 
 ## Grades
  * [85.0](./Role_of_Apostles_in_Early_Church_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ In summary, the apostles' actions emphasize the significance of inclusivity, edu
  * [90.0](./Role_of_Apostles_in_Early_Church_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [92.0](./Role_of_Apostles_in_Early_Church_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Role_of_Apostles_in_Early_Church_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Role_of_Apostles_in_Early_Church_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

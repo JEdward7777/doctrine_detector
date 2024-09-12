@@ -21,7 +21,7 @@ The passages from 1 Timothy 4:10 and 2 Peter 2:20 offer different perspectives o
 In summary, both passages reveal that Christ is presented as a Savior with universal reach, but they also emphasize a more specific relationship with those who believe in Him. They reflect themes of grace, responsibility, and the transformative power of knowledge of Christ, illustrating a nuanced understanding of salvation in the Christian faith.
 
 ## Average Grade
-89.0
+86.66666666666667
 
 ## Grades
  * [90.0](./Biblical_References_to_Salvation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In summary, both passages reveal that Christ is presented as a Savior with unive
  * [90.0](./Biblical_References_to_Salvation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Biblical_References_to_Salvation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_References_to_Salvation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Biblical_References_to_Salvation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

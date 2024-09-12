@@ -25,7 +25,7 @@ In fact, Muslims believe that Jesus was neither crucified nor killed on the cros
 In conclusion, while the title "King of the Jews" holds significant importance in Christian theology for understanding Jesus' identity as the Messiah, Muslims reject this notion and instead view Jesus as a prophet and messenger of Allah, who was taken up to heaven without suffering any harm.
 
 ## Average Grade
-44.0
+46.666666666666664
 
 ## Grades
  * [40.0](./Messianic_Identity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ In conclusion, while the title "King of the Jews" holds significant importance i
  * [50.0](./Messianic_Identity_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [20.0](./Messianic_Identity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Messianic_Identity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Messianic_Identity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

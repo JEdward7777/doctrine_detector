@@ -33,7 +33,7 @@ True faith in Jesus can manifest in various ways in a person's life, often refle
 It's important to recognize that the expression of faith is highly personal and can vary widely across different cultures and individual experiences.
 
 ## Average Grade
-90.0
+87.5
 
 ## Grades
  * [90.0](./Faith_s_Impact_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -41,3 +41,4 @@ It's important to recognize that the expression of faith is highly personal and 
  * [90.0](./Faith_s_Impact_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Faith_s_Impact_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Faith_s_Impact_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Faith_s_Impact_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

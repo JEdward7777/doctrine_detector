@@ -31,7 +31,7 @@ In the context you provided, sharing "in Christ" refers to a deep connection or 
 7. Mental and emotional well-being: Religious beliefs can help individuals cope with stress, anxiety, and depression by providing a supportive network, fostering positive thinking, and offering comfort during times of grief or hardship.
 
 ## Average Grade
-77.0
+67.5
 
 ## Grades
  * [85.0](./Benefits_of_Being__In_Christ__grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,3 +39,4 @@ In the context you provided, sharing "in Christ" refers to a deep connection or 
  * [70.0](./Benefits_of_Being__In_Christ__grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Benefits_of_Being__In_Christ__grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Benefits_of_Being__In_Christ__grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./Benefits_of_Being__In_Christ__grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -17,7 +17,7 @@ In Islam, believers typically meet in mosques for congregational prayers, commun
 Additionally, mosques often host various events and activities such as lectures, classes, and social gatherings to foster community cohesion and strengthen the bonds among believers. It is through these interactions and communal activities that Muslims in a particular city come together to seek spiritual growth, support one another, and develop a sense of unity and brotherhood.
 
 ## Average Grade
-71.0
+62.5
 
 ## Grades
  * [85.0](./Local_Church_Meetings_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -25,3 +25,4 @@ Additionally, mosques often host various events and activities such as lectures,
  * [70.0](./Local_Church_Meetings_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [75.0](./Local_Church_Meetings_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Local_Church_Meetings_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./Local_Church_Meetings_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

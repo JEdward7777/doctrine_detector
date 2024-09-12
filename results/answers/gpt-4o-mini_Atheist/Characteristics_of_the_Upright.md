@@ -33,7 +33,7 @@ In the biblical context, an "upright" person is often characterized by several k
 These qualities can be found in various passages throughout the Bible, such as in Proverbs, Psalms, and writings of the prophets, emphasizing the importance of moral living as an expression of faith.
 
 ## Average Grade
-93.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Characteristics_of_the_Upright_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -41,3 +41,4 @@ These qualities can be found in various passages throughout the Bible, such as i
  * [95.0](./Characteristics_of_the_Upright_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Characteristics_of_the_Upright_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Characteristics_of_the_Upright_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Characteristics_of_the_Upright_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

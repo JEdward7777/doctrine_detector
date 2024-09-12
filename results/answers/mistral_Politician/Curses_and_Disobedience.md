@@ -21,7 +21,7 @@ It's important to note that interpretations can vary widely among different reli
 In either case, it is crucial for any discussion on this topic to approach it with sensitivity, understanding, and respect for diverse perspectives. It's always best to strive for open-mindedness and promote dialogue that fosters mutual understanding and unity rather than division or offense.
 
 ## Average Grade
-86.0
+85.0
 
 ## Grades
  * [90.0](./Curses_and_Disobedience_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In either case, it is crucial for any discussion on this topic to approach it wi
  * [85.0](./Curses_and_Disobedience_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Curses_and_Disobedience_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Curses_and_Disobedience_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Curses_and_Disobedience_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

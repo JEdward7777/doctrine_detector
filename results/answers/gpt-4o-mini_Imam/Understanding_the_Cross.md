@@ -29,7 +29,7 @@ In Christian beliefs, the significance of Jesus dying on the cross is profound a
 In contrast, it is important to note that in Islam, Jesus (known as Isa) is highly regarded as a prophet but not as divine, and Muslims do not believe that he was crucified or died on the cross. Instead, the Quran teaches that he was raised to heaven by God, and the notion of atonement through his crucifixion differs significantly between Islam and Christianity.
 
 ## Average Grade
-94.0
+92.5
 
 ## Grades
  * [90.0](./Understanding_the_Cross_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ In contrast, it is important to note that in Islam, Jesus (known as Isa) is high
  * [95.0](./Understanding_the_Cross_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_the_Cross_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Understanding_the_Cross_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Understanding_the_Cross_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

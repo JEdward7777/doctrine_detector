@@ -19,7 +19,7 @@ As Muslims, we also believe in the importance of doing good deeds and treating o
 Therefore, while the phrase "do good to" may have specific connotations within a Christian context, the underlying message of kindness, compassion, and benevolence towards others is a universal value that is shared by both Christians and Muslims alike.
 
 ## Average Grade
-71.0
+67.5
 
 ## Grades
  * [70.0](./Doing_Good_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Therefore, while the phrase "do good to" may have specific connotations within a
  * [70.0](./Doing_Good_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Doing_Good_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Doing_Good_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Doing_Good_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

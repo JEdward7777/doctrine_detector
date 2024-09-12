@@ -23,7 +23,7 @@ Understanding the God-ordained structure of authority and our responsibility to 
 These passages suggest that while governing authorities should be obeyed and respected as God's representatives, their authority is limited and should not infringe upon moral or religious convictions. It also encourages the selection of just and upright leaders who will govern with fairness and justice. Ultimately, the Bible emphasizes that citizens should always prioritize their relationship with God above any earthly authority.
 
 ## Average Grade
-89.0
+87.5
 
 ## Grades
  * [85.0](./Authority_in_Governance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ These passages suggest that while governing authorities should be obeyed and res
  * [95.0](./Authority_in_Governance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Authority_in_Governance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Authority_in_Governance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Authority_in_Governance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

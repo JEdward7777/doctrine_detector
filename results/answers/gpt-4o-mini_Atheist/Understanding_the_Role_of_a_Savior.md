@@ -29,7 +29,7 @@ In examining the Old Testament judges, we notice several key characteristics tha
 In summary, the judges of the Old Testament serve as a foundational concept that enriches and deepens the understanding of Jesus Christ’s nature and mission in the New Testament. The transition from temporal saviors to the eternal Savior highlights a continued narrative of God's commitment to redeem and restore His people, culminating in the life and work of Jesus.
 
 ## Average Grade
-92.8
+91.5
 
 ## Grades
  * [92.0](./Understanding_the_Role_of_a_Savior_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ In summary, the judges of the Old Testament serve as a foundational concept that
  * [95.0](./Understanding_the_Role_of_a_Savior_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_the_Role_of_a_Savior_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Understanding_the_Role_of_a_Savior_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Understanding_the_Role_of_a_Savior_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -35,7 +35,7 @@ The rejection of Jesus by Jewish religious leaders, particularly as depicted in 
 The exploration of these themes continues to be vital for both theological discourse and interreligious dialogue today.
 
 ## Average Grade
-82.0
+83.33333333333333
 
 ## Grades
  * [90.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -43,3 +43,4 @@ The exploration of these themes continues to be vital for both theological disco
  * [95.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

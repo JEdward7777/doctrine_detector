@@ -19,7 +19,7 @@ In this context, the offer can be seen as an attempt to ease Jesus' suffering du
 This moment also invites reflection on themes such as human suffering, compassion, and the meaningful choices we make in the face of hardship. It serves as a reminder of the various ways individuals respond to pain, both in seeking relief and in confronting it head-on.
 
 ## Average Grade
-86.6
+83.83333333333333
 
 ## Grades
  * [88.0](./Jesus__Crucifixion_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ This moment also invites reflection on themes such as human suffering, compassio
  * [90.0](./Jesus__Crucifixion_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Jesus__Crucifixion_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Jesus__Crucifixion_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Jesus__Crucifixion_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -21,7 +21,7 @@ Understanding these distinctions can help Christians better recognize the gravit
 It's essential to note that these definitions can vary depending on different scholarly interpretations and perspectives within Islamic thought. It is always recommended to consult with knowledgeable scholars or religious leaders for guidance on these matters.
 
 ## Average Grade
-70.0
+63.333333333333336
 
 ## Grades
  * [70.0](./Understanding_Iniquity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ It's essential to note that these definitions can vary depending on different sc
  * [70.0](./Understanding_Iniquity_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [75.0](./Understanding_Iniquity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Iniquity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [30.0](./Understanding_Iniquity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

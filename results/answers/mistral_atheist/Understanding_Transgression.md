@@ -15,7 +15,7 @@ Understanding the nature of sin and our relationship with God's commandments.
  In a Biblical context, the term "transgress" generally refers to violating God's laws or commandments. This concept is central to many Jewish and Christian beliefs, as it is seen as a departure from what is considered righteous or virtuous. Transgression is often associated with sin, and can result in divine punishment or consequences in one's earthly life. It's important to note that interpretations of transgression can vary widely among different religious groups and individuals.
 
 ## Average Grade
-88.0
+86.66666666666667
 
 ## Grades
  * [85.0](./Understanding_Transgression_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ Understanding the nature of sin and our relationship with God's commandments.
  * [90.0](./Understanding_Transgression_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_Transgression_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Transgression_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Understanding_Transgression_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

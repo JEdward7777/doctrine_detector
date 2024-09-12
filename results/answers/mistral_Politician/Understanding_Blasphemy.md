@@ -23,7 +23,7 @@ In Islam, blasphemy against Allah or the Prophet Muhammad is considered a grave 
 It's essential to remember that these are religious texts with complex interpretations across various denominations and cultures. Therefore, it's important for individuals to engage respectfully and sensitively when discussing such topics related to religion or faith.
 
 ## Average Grade
-88.0
+86.66666666666667
 
 ## Grades
  * [85.0](./Understanding_Blasphemy_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ It's essential to remember that these are religious texts with complex interpret
  * [90.0](./Understanding_Blasphemy_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_Blasphemy_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Understanding_Blasphemy_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Understanding_Blasphemy_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

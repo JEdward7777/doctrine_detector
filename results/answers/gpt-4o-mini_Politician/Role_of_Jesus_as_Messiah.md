@@ -27,7 +27,7 @@ In Christian theology, the "Kingdom of God" is often understood as a central the
 In summary, the relationship between the concept of the kingdom and Jesus’ role as the Messiah emphasizes an active, transformative presence in the world that calls for participation, hope, and the embodiment of core ethical principles rooted in love and service to others. It invites a collective journey toward justice and unity, aiming to uplift and honor the dignity of all people.
 
 ## Average Grade
-90.0
+88.33333333333333
 
 ## Grades
  * [90.0](./Role_of_Jesus_as_Messiah_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In summary, the relationship between the concept of the kingdom and Jesus’ rol
  * [95.0](./Role_of_Jesus_as_Messiah_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Role_of_Jesus_as_Messiah_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Role_of_Jesus_as_Messiah_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Role_of_Jesus_as_Messiah_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

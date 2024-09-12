@@ -21,7 +21,7 @@ Additionally, the "Word of God" conveys the idea that Jesus is not only a teache
 Ultimately, the title "The Word of God" ascribed to Jesus highlights His unique and central role within Christian faith, emphasizing His divinity, preexistence, and relationship with God the Father and humanity.
 
 ## Average Grade
-93.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Role_of_Jesus_as_the_Word_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Ultimately, the title "The Word of God" ascribed to Jesus highlights His unique 
  * [95.0](./Role_of_Jesus_as_the_Word_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Role_of_Jesus_as_the_Word_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Role_of_Jesus_as_the_Word_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Role_of_Jesus_as_the_Word_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

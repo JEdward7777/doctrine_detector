@@ -19,7 +19,7 @@ In the biblical context, "El Shaddai" is used to emphasize God’s covenant rela
 Additionally, "Shaddai" can signify the nurturing aspect of God, suggesting a duality of strength and care. This complexity allows for a rich understanding of the divine nature, where God is both a powerful protector and a tender provider. Overall, "Shaddai" is significant in conveying the multifaceted characteristics of God's relationship with humanity as depicted throughout the Old Testament.
 
 ## Average Grade
-90.0
+89.16666666666667
 
 ## Grades
  * [90.0](./Understanding_Shaddai_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Additionally, "Shaddai" can signify the nurturing aspect of God, suggesting a du
  * [90.0](./Understanding_Shaddai_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_Shaddai_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Shaddai_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Understanding_Shaddai_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -32,7 +32,7 @@ According to the New Testament, Jesus selected the twelve apostles based on thei
 The choice of the twelve apostles was significant in Christianity because they were considered eyewitnesses to Jesus' life, teachings, and miracles, and played essential roles in spreading his message. In Islamic tradition, some of these individuals are also recognized as prophets, like Jesus, while others are not mentioned explicitly. The reasons for choosing the twelve apostles in Christianity are primarily rooted in their faith and willingness to follow Jesus during his ministry.
 
 ## Average Grade
-88.0
+85.0
 
 ## Grades
  * [85.0](./Discipleship_Importance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -40,3 +40,4 @@ The choice of the twelve apostles was significant in Christianity because they w
  * [90.0](./Discipleship_Importance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Discipleship_Importance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Discipleship_Importance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Discipleship_Importance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

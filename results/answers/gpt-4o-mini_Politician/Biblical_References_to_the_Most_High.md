@@ -32,7 +32,7 @@ Several Bible verses highlight the concept of God as the 'Most High,' illustrati
 Each of these verses contributes to a broader understanding of God as the 'Most High,' revealing aspects of His character such as sovereignty, protection, righteousness, and the deep relationship He seeks with His creation. Through them, believers find assurance in His ultimate authority and care.
 
 ## Average Grade
-91.0
+89.16666666666667
 
 ## Grades
  * [95.0](./Biblical_References_to_the_Most_High_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -40,3 +40,4 @@ Each of these verses contributes to a broader understanding of God as the 'Most 
  * [95.0](./Biblical_References_to_the_Most_High_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Biblical_References_to_the_Most_High_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Biblical_References_to_the_Most_High_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Biblical_References_to_the_Most_High_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

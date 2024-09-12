@@ -23,7 +23,7 @@ Moreover, Samson's eventual downfall—losing his strength after having his hair
 In summary, Samson's narrative encapsulates the complexities of the Nazirite vow, illustrating themes of commitment, strength, temptation, and redemption, while also serving as a reminder of the responsibilities that accompany spiritual dedication. The story invites reflection on the balance between one's personal choices and their impact on the broader community, all within the context of striving for a meaningful relationship with the divine.
 
 ## Average Grade
-92.8
+91.5
 
 ## Grades
  * [95.0](./Samson_s_Nazirite_Status_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ In summary, Samson's narrative encapsulates the complexities of the Nazirite vow
  * [92.0](./Samson_s_Nazirite_Status_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [92.0](./Samson_s_Nazirite_Status_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Samson_s_Nazirite_Status_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Samson_s_Nazirite_Status_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

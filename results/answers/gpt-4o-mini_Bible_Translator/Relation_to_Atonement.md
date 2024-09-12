@@ -23,7 +23,7 @@ In Christian theology, particularly in the New Testament, Christ's death on the 
 In summary, while atonement encompasses the broader concept of reconciliation and restoration with God, propitiation focuses specifically on the aspect of satisfying God's justice and turning away His wrath through the redemptive work of Christ. The two concepts are interlinked, as propitiation is an essential part of the broader process of atonement.
 
 ## Average Grade
-93.0
+92.5
 
 ## Grades
  * [95.0](./Relation_to_Atonement_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ In summary, while atonement encompasses the broader concept of reconciliation an
  * [95.0](./Relation_to_Atonement_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Relation_to_Atonement_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Relation_to_Atonement_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Relation_to_Atonement_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

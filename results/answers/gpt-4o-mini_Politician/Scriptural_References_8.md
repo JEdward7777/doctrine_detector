@@ -37,7 +37,7 @@ The concept of being blameless is found throughout the Scriptures, and it carrie
 In summary, the call to be blameless is interwoven with the themes of integrity, reliance on God, and a commitment to embodying Christlike behavior. These scriptural references can serve as a guiding framework for Christians, encouraging them to cultivate positive relationships, engage in continuous spiritual growth, and respond to challenges with grace and resilience. Ultimately, the aim is to reflect God's love and truth in all aspects of life.
 
 ## Average Grade
-89.0
+88.33333333333333
 
 ## Grades
  * [90.0](./Scriptural_References_8_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -45,3 +45,4 @@ In summary, the call to be blameless is interwoven with the themes of integrity,
  * [90.0](./Scriptural_References_8_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Scriptural_References_8_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Scriptural_References_8_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Scriptural_References_8_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

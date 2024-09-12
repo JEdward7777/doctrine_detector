@@ -21,7 +21,7 @@ In terms of how couples should view their commitment to each other, they are enc
 It's also important to note that while marriage is highly valued within Christianity, the Bible acknowledges that divorce may be necessary in certain circumstances (Matthew 19:3-9). However, a commitment to forbearance, reconciliation, and forgiveness should always be pursued before considering separation. Ultimately, the ideal in Christian marriage is to embody the selfless, enduring love exemplified by Christ and His church.
 
 ## Average Grade
-95.0
+94.16666666666667
 
 ## Grades
  * [95.0](./Marriage_and_Bonds_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ It's also important to note that while marriage is highly valued within Christia
  * [95.0](./Marriage_and_Bonds_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Marriage_and_Bonds_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Marriage_and_Bonds_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Marriage_and_Bonds_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -27,7 +27,7 @@ These verses serve as guidance for Christians seeking to live a life that is ple
 In essence, being blameless means living a life that is pleasing to God by following His commandments, loving others, and reflecting Christ's light in the world. Striving for blamelessness should guide Christians to daily seek forgiveness, strive for holiness, love others, and live a life that reflects Christ's character.
 
 ## Average Grade
-87.0
+86.66666666666667
 
 ## Grades
  * [85.0](./Scriptural_References_8_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In essence, being blameless means living a life that is pleasing to God by follo
  * [80.0](./Scriptural_References_8_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Scriptural_References_8_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Scriptural_References_8_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Scriptural_References_8_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

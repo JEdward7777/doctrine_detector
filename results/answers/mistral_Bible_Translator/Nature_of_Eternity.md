@@ -15,7 +15,7 @@ It's vital for Christians to comprehend the concept of eternity to understand th
  In the context of Christian beliefs, eternity refers to an endless, timeless existence without beginning or end. This concept is often associated with God Himself, as He is described as being eternal (e.g., Deuteronomy 33:27, Psalm 90:2, and Isaiah 57:15). Eternity also applies to the spiritual realm of Heaven, where believers will dwell for eternity (John 3:16, Revelation 21:4). Conversely, Hell is also considered eternal in nature, as those who reject God's salvation will spend eternity separated from Him (Matthew 25:46). In summary, in Christian theology, eternity is an infinite, timeless existence beyond human comprehension.
 
 ## Average Grade
-92.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Nature_of_Eternity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ It's vital for Christians to comprehend the concept of eternity to understand th
  * [95.0](./Nature_of_Eternity_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Nature_of_Eternity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Nature_of_Eternity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Nature_of_Eternity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

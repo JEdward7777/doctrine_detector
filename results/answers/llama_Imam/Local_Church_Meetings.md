@@ -24,7 +24,7 @@ In Islamic tradition, believers typically meet for congregational prayers and ot
 These gatherings provide opportunities for socializing, learning, and spiritual growth within the Muslim community.
 
 ## Average Grade
-79.0
+69.16666666666667
 
 ## Grades
  * [90.0](./Local_Church_Meetings_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,3 +32,4 @@ These gatherings provide opportunities for socializing, learning, and spiritual 
  * [85.0](./Local_Church_Meetings_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Local_Church_Meetings_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Local_Church_Meetings_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./Local_Church_Meetings_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

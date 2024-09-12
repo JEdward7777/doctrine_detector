@@ -21,7 +21,7 @@ On the other hand, believing someone implies trusting their words, actions, or c
 In political discourse, it's important to differentiate between the two, as people may have misconceptions about the nature of someone's beliefs or trustworthiness. By being clear in communication, we can foster understanding, empathy, and respect among our constituents.
 
 ## Average Grade
-78.0
+77.5
 
 ## Grades
  * [70.0](./Understanding_Belief_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In political discourse, it's important to differentiate between the two, as peop
  * [75.0](./Understanding_Belief_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [75.0](./Understanding_Belief_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Belief_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Understanding_Belief_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

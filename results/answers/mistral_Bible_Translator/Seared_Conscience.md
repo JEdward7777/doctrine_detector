@@ -21,7 +21,7 @@ For a believer, having a seared conscience can pose significant challenges. It m
 However, the good news is that through repentance and faith in Jesus Christ, a believer can experience restoration and healing of their conscience. The Holy Spirit convicts us of our sins (John 16:8) and empowers us to live a life pleasing to God (Romans 8:4). As we confess our sins, seek forgiveness, and strive to obey God's commands, our consciences can become sensitive and attuned once more to His will.
 
 ## Average Grade
-87.0
+85.0
 
 ## Grades
  * [85.0](./Seared_Conscience_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ However, the good news is that through repentance and faith in Jesus Christ, a b
  * [85.0](./Seared_Conscience_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Seared_Conscience_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Seared_Conscience_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Seared_Conscience_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

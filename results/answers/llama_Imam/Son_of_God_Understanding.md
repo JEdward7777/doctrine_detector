@@ -27,7 +27,7 @@ In Islam, we believe that God is one, unique, and indivisible. We reject any not
 May Allah guide us all to the truth and guide us on the straight path.
 
 ## Average Grade
-44.0
+45.0
 
 ## Grades
  * [30.0](./Son_of_God_Understanding_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ May Allah guide us all to the truth and guide us on the straight path.
  * [20.0](./Son_of_God_Understanding_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [50.0](./Son_of_God_Understanding_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Son_of_God_Understanding_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Son_of_God_Understanding_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

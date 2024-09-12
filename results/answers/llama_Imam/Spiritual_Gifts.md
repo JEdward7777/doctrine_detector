@@ -23,7 +23,7 @@ In Islam, we emphasize the importance of using one's gifts and talents for the g
 While there may be some parallels between Christian concepts like "spiritual gifts" and Islamic ideas about human potential, it is essential to recognize that these concepts operate within distinct theological frameworks. As a Muslim Imam, I would encourage further exploration and understanding of the specific teachings and practices within each faith tradition.
 
 ## Average Grade
-83.0
+79.16666666666667
 
 ## Grades
  * [85.0](./Spiritual_Gifts_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ While there may be some parallels between Christian concepts like "spiritual gif
  * [85.0](./Spiritual_Gifts_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Spiritual_Gifts_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Spiritual_Gifts_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Spiritual_Gifts_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

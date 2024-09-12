@@ -23,7 +23,7 @@ Furthermore, the Bible encourages believers to live a life that reflects Christ'
 Overall, giving false testimony is strongly condemned in the Bible due to its negative impact on relationships, society, and one's standing before God. Christians are called to live a life of integrity and truthfulness, reflecting the character of Christ in their interactions with others.
 
 ## Average Grade
-95.0
+94.16666666666667
 
 ## Grades
  * [95.0](./False_Witness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ Overall, giving false testimony is strongly condemned in the Bible due to its ne
  * [95.0](./False_Witness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [100.0](./False_Witness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./False_Witness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./False_Witness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

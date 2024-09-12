@@ -21,7 +21,7 @@ Now, I know some might interpret this concept as exclusive to Christians only, b
 In conclusion, being glorified with Christ is a beautiful promise that speaks to the hope and redemption we find in Jesus. And as we navigate our differences, let us remember to approach each other with kindness, empathy, and an open heart, just as our Lord would have us do. *smiles warmly*
 
 ## Average Grade
-86.0
+81.66666666666667
 
 ## Grades
  * [85.0](./The_Role_of_Believers_in_Glory_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In conclusion, being glorified with Christ is a beautiful promise that speaks to
  * [85.0](./The_Role_of_Believers_in_Glory_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./The_Role_of_Believers_in_Glory_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./The_Role_of_Believers_in_Glory_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./The_Role_of_Believers_in_Glory_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

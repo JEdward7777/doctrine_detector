@@ -25,7 +25,7 @@ The purpose of the Passover has both ritualistic and historical significance:
 The annual observance of Passover serves as a reminder of these events and their meaning for the Jewish people, reaffirming their belief in God's power and providence while reinforcing their unique cultural and religious identity.
 
 ## Average Grade
-88.0
+87.5
 
 ## Grades
  * [90.0](./Annual_Remembrance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ The annual observance of Passover serves as a reminder of these events and their
  * [85.0](./Annual_Remembrance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Annual_Remembrance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Annual_Remembrance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Annual_Remembrance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

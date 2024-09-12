@@ -25,7 +25,7 @@ Of course, we must also acknowledge that different cultures and belief systems h
 In conclusion, the apostles being sent by Jesus is an inspiring example of how faith and compassion can come together to create positive change in our world. *smiles* And as we move forward in our increasingly interconnected global community, I believe it's crucial that we continue to promote unity and respect for all people – regardless of their beliefs or backgrounds!
 
 ## Average Grade
-62.0
+55.0
 
 ## Grades
  * [60.0](./Apostleship_Understanding_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ In conclusion, the apostles being sent by Jesus is an inspiring example of how f
  * [50.0](./Apostleship_Understanding_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [60.0](./Apostleship_Understanding_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Apostleship_Understanding_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./Apostleship_Understanding_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

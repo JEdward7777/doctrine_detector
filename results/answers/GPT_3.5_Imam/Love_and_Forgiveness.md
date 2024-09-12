@@ -21,7 +21,7 @@ Forgiveness is not only a gift that one offers to others, but it is also a way t
 Ultimately, forgiveness is an integral part of loving others in Islam because it reflects a deep sense of empathy, kindness, and understanding towards fellow human beings. By forgiving others, Muslims can uphold the principles of justice, mercy, and compassion that are essential to building strong and harmonious relationships within the Muslim community and beyond.
 
 ## Average Grade
-87.0
+82.5
 
 ## Grades
  * [85.0](./Love_and_Forgiveness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Ultimately, forgiveness is an integral part of loving others in Islam because it
  * [85.0](./Love_and_Forgiveness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Love_and_Forgiveness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Love_and_Forgiveness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Love_and_Forgiveness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

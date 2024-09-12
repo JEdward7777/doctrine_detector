@@ -27,7 +27,7 @@ Some examples include:
 Please note that these terms are not mutually exclusive, and various Christian communities may use multiple names interchangeably or have their own unique terminology. As a politician, I must emphasize the importance of respect, understanding, and inclusivity in our language and practices surrounding this sacred ritual.
 
 ## Average Grade
-91.0
+89.16666666666667
 
 ## Grades
  * [90.0](./Terminology_2_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ Please note that these terms are not mutually exclusive, and various Christian c
  * [90.0](./Terminology_2_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Terminology_2_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Terminology_2_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Terminology_2_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -26,7 +26,7 @@ The significance of this concept in Christian belief is multifaceted:
 In conclusion, while Muslims may not share the exact same understanding of Jesus as the "image of God," we recognize the significance of this concept within Christian theology. It highlights Jesus' unique relationship with God, his role in salvation, and his status as a mediator between humanity and the divine. As an Imam, I emphasize that respect for other faiths requires acknowledging these differences while also promoting mutual understanding and cooperation.
 
 ## Average Grade
-80.0
+76.66666666666667
 
 ## Grades
  * [75.0](./Nature_of_Christ_as_the_Image_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,3 +34,4 @@ In conclusion, while Muslims may not share the exact same understanding of Jesus
  * [75.0](./Nature_of_Christ_as_the_Image_of_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Nature_of_Christ_as_the_Image_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Nature_of_Christ_as_the_Image_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Nature_of_Christ_as_the_Image_of_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

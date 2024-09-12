@@ -17,7 +17,7 @@ Understanding the spiritual significance of unleavened bread in Christian teachi
 Furthermore, the Passover story teaches us about redemption and the sacrifice of Jesus Christ, who is the true Passover Lamb (1 Corinthians 5:7). By following in His footsteps and living a life that honors Him, Christians strive for spiritual purity and holiness (1 Peter 1:16) as they remember their own redemption from sin through faith in Christ.
 
 ## Average Grade
-93.0
+93.33333333333333
 
 ## Grades
  * [95.0](./Significance_of_Unleavened_Bread_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -25,3 +25,4 @@ Furthermore, the Passover story teaches us about redemption and the sacrifice of
  * [95.0](./Significance_of_Unleavened_Bread_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Significance_of_Unleavened_Bread_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Significance_of_Unleavened_Bread_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [95.0](./Significance_of_Unleavened_Bread_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

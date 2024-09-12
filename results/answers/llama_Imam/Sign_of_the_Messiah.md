@@ -27,7 +27,7 @@ As Muslims, we do not attribute divine nature to Jesus or consider him a son of 
 In conclusion, while the sign given to the shepherds holds significance within Christian theology, it does not contradict our Islamic understanding of Jesus as a prophet and messenger sent by Allah.
 
 ## Average Grade
-71.0
+64.16666666666667
 
 ## Grades
  * [70.0](./Sign_of_the_Messiah_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In conclusion, while the sign given to the shepherds holds significance within C
  * [75.0](./Sign_of_the_Messiah_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [60.0](./Sign_of_the_Messiah_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Sign_of_the_Messiah_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [30.0](./Sign_of_the_Messiah_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

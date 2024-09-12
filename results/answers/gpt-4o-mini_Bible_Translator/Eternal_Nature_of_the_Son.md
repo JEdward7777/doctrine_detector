@@ -27,7 +27,7 @@ In Christian theology, the title "Son of God" refers specifically to Jesus Chris
 These distinctions emphasize that while all believers are referred to as "children of God" through faith in Christ, the Son of God holds a unique and foundational place in Christian theology that sets Him apart from human sons in terms of existence and eternal nature.
 
 ## Average Grade
-92.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Eternal_Nature_of_the_Son_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ These distinctions emphasize that while all believers are referred to as "childr
  * [95.0](./Eternal_Nature_of_the_Son_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Eternal_Nature_of_the_Son_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Eternal_Nature_of_the_Son_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Eternal_Nature_of_the_Son_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

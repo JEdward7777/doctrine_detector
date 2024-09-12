@@ -48,7 +48,7 @@ The Biblical concept of 'bonds' has limited relevance within the context of Isla
 - The interpretation and application of these concepts may vary among different Islamic schools of thought and traditions.
 
 ## Average Grade
-86.4
+77.0
 
 ## Grades
  * [87.0](./Understanding_Bonds_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -56,3 +56,4 @@ The Biblical concept of 'bonds' has limited relevance within the context of Isla
  * [85.0](./Understanding_Bonds_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_Bonds_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Bonds_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [30.0](./Understanding_Bonds_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

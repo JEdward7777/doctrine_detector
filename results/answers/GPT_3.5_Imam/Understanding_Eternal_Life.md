@@ -21,7 +21,7 @@ Additionally, in the letters of the Apostle Paul, particularly in his epistles t
 Overall, the Bible teaches that inheriting eternal life is a gift from God that is granted to those who have faith in Him, follow His commandments, and strive to live a righteous and virtuous life.
 
 ## Average Grade
-84.0
+85.0
 
 ## Grades
  * [85.0](./Understanding_Eternal_Life_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Overall, the Bible teaches that inheriting eternal life is a gift from God that 
  * [85.0](./Understanding_Eternal_Life_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [75.0](./Understanding_Eternal_Life_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Eternal_Life_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Understanding_Eternal_Life_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

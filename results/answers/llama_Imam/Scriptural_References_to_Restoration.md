@@ -45,7 +45,7 @@ In these examples, the theme of restoration is often linked to ideas of redempti
 Please note that as a Muslim Imam, I must emphasize that these passages should be understood within their own biblical context and not be taken as a reference point for Islamic teachings.
 
 ## Average Grade
-83.0
+79.16666666666667
 
 ## Grades
  * [85.0](./Scriptural_References_to_Restoration_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -53,3 +53,4 @@ Please note that as a Muslim Imam, I must emphasize that these passages should b
  * [70.0](./Scriptural_References_to_Restoration_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Scriptural_References_to_Restoration_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Scriptural_References_to_Restoration_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Scriptural_References_to_Restoration_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

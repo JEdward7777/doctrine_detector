@@ -25,7 +25,7 @@ In Islamic theology, the term "Most High" (Al-A'la) used in reference to God (Al
 These interpretations are derived from the Qur’an and the teachings of Prophet Muhammad (peace be upon him). As Muslims, we are encouraged to reflect on these attributes to deepen our understanding and relationship with Allah, acknowledging His greatness in our worship and daily lives.
 
 ## Average Grade
-81.0
+80.83333333333333
 
 ## Grades
  * [85.0](./Interpreting__High__in_God_s_Title_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ These interpretations are derived from the Qur’an and the teachings of Prophet
  * [80.0](./Interpreting__High__in_God_s_Title_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Interpreting__High__in_God_s_Title_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Interpreting__High__in_God_s_Title_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Interpreting__High__in_God_s_Title_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

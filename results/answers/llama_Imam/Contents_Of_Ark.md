@@ -25,7 +25,7 @@ It is worth noting that the Ark itself was constructed according to divine instr
 In Islam, we do not worship physical objects or relics, including the Ark. Rather, we believe that the Ark was a sacred trust entrusted to Musa (Moses) and his people, containing divine messages and laws that guided them towards righteousness. May Allah guide us all towards the truth and wisdom.
 
 ## Average Grade
-74.0
+68.33333333333333
 
 ## Grades
  * [80.0](./Contents_Of_Ark_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ In Islam, we do not worship physical objects or relics, including the Ark. Rathe
  * [80.0](./Contents_Of_Ark_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Contents_Of_Ark_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Contents_Of_Ark_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Contents_Of_Ark_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

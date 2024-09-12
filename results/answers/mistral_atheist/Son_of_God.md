@@ -21,7 +21,7 @@ On the other hand, the term "sons (or children) of God" refers collectively to a
 Though both titles share a common origin (Genesis 6:2 and Psalm 2:7), the New Testament reinterprets these references in light of the life, teachings, death, and resurrection of Jesus Christ. The title "Son of God" is therefore understood as a unique, special, and singular application, while "sons (or children) of God" is applied to all those who accept Jesus as their Savior and follow his teachings.
 
 ## Average Grade
-91.0
+90.0
 
 ## Grades
  * [90.0](./Son_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Though both titles share a common origin (Genesis 6:2 and Psalm 2:7), the New Te
  * [95.0](./Son_of_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Son_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Son_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Son_of_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

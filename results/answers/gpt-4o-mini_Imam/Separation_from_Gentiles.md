@@ -27,7 +27,7 @@ The Pharisees, a significant religious and political group within Judaism during
 Overall, the Pharisees’ concerns about separating Jews from Gentiles were deeply intertwined with their desire to uphold the Jewish faith, protect Jewish identity, and navigate the complexities of their historical context.
 
 ## Average Grade
-90.0
+88.33333333333333
 
 ## Grades
  * [90.0](./Separation_from_Gentiles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ Overall, the Pharisees’ concerns about separating Jews from Gentiles were deep
  * [95.0](./Separation_from_Gentiles_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Separation_from_Gentiles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Separation_from_Gentiles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Separation_from_Gentiles_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

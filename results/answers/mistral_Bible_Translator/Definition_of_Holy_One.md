@@ -23,7 +23,7 @@ The concept of holiness in the Bible is closely linked with sanctification, whic
 Overall, the term "Holy One" in the Bible highlights God's transcendent and unique nature, His righteousness, purity, and separation from sin, and the call for His people to reflect this holiness in their own lives through obedience and sanctification.
 
 ## Average Grade
-93.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Definition_of_Holy_One_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ Overall, the term "Holy One" in the Bible highlights God's transcendent and uniq
  * [95.0](./Definition_of_Holy_One_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Definition_of_Holy_One_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Definition_of_Holy_One_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Definition_of_Holy_One_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

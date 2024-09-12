@@ -21,7 +21,7 @@ In the case of a person who has been wrongfully accused, Islam teaches that it i
 Therefore, in Islamic teachings, being innocent in the context of being wrongfully accused means that the individual is free from the accusations and should be supported, defended, and treated with fairness and compassion by the community.
 
 ## Average Grade
-77.0
+70.83333333333333
 
 ## Grades
  * [70.0](./Understanding_Innocence_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Therefore, in Islamic teachings, being innocent in the context of being wrongful
  * [90.0](./Understanding_Innocence_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Understanding_Innocence_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Understanding_Innocence_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Understanding_Innocence_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

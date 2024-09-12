@@ -19,7 +19,7 @@ In Galatians 3:10, the passage speaks about the consequences of relying on the l
 Therefore, the concept of curses in the context of God's judgment on disobedient people in Galatians 3:10 can be seen as a warning for us to turn back to God, seek His forgiveness, and strive to lead a righteous life in accordance with His guidance in order to avoid such negative consequences.
 
 ## Average Grade
-87.0
+80.83333333333333
 
 ## Grades
  * [85.0](./Curses_and_Disobedience_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Therefore, the concept of curses in the context of God's judgment on disobedient
  * [85.0](./Curses_and_Disobedience_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Curses_and_Disobedience_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Curses_and_Disobedience_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Curses_and_Disobedience_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

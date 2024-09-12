@@ -23,7 +23,7 @@ From an Islamic perspective, it can be understood that God's plan for different 
 In conclusion, the role of eunuchs in ancient times serving in royal courts reflects God's plan for different individuals in society by emphasizing the value and contributions of all individuals, regardless of their backgrounds or physical states. Islam teaches us to recognize the diversity and unique capabilities of individuals and to create a society that values and utilizes the talents of all its members for the common good.
 
 ## Average Grade
-86.0
+83.33333333333333
 
 ## Grades
  * [85.0](./Role_of_Eunuchs_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ In conclusion, the role of eunuchs in ancient times serving in royal courts refl
  * [85.0](./Role_of_Eunuchs_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Role_of_Eunuchs_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Role_of_Eunuchs_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Role_of_Eunuchs_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

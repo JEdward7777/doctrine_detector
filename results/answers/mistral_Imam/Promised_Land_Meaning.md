@@ -21,7 +21,7 @@ In Surah Al-Baqarah (Chapter 2, Verse 124), Allah says: "And when his Lord tried
 This verse indicates that God made a promise to Ibrahim about settling in a specific land (which could be interpreted as "the end of the world"), and Ibrahim fulfilled this promise. However, the exact interpretation can vary based on different scholarly opinions.
 
 ## Average Grade
-62.0
+58.333333333333336
 
 ## Grades
  * [60.0](./Promised_Land_Meaning_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ This verse indicates that God made a promise to Ibrahim about settling in a spec
  * [50.0](./Promised_Land_Meaning_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Promised_Land_Meaning_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Promised_Land_Meaning_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Promised_Land_Meaning_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

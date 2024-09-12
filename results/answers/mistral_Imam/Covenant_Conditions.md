@@ -21,7 +21,7 @@ Understanding the dynamics of God's promises and expectations in covenants.
 It's essential to recognize that these covenants serve as powerful examples of God's relationship with His people throughout history, demonstrating both His mercy and justice. The unconditional covenant reminds us of God's promises that are irrevocable, while the conditional covenant teaches us about the consequences of disobedience and the importance of following God's laws and commands.
 
 ## Average Grade
-92.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Covenant_Conditions_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ It's essential to recognize that these covenants serve as powerful examples of G
  * [95.0](./Covenant_Conditions_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Covenant_Conditions_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Covenant_Conditions_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Covenant_Conditions_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

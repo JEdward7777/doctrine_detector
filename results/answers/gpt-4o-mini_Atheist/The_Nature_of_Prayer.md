@@ -21,7 +21,7 @@ The distinction between the two lies primarily in the belief systems and the int
 In a cultural context, the interpretation of these actions can vary significantly. For instance, what one tradition considers prayer might be labeled as idol worship or heresy in another. Engaging in interfaith dialogue can help illuminate these differences and foster a greater understanding of how people mediate their experiences of the sacred or the divine, regardless of their beliefs in specific deities.
 
 ## Average Grade
-84.0
+81.66666666666667
 
 ## Grades
  * [85.0](./The_Nature_of_Prayer_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In a cultural context, the interpretation of these actions can vary significantl
  * [85.0](./The_Nature_of_Prayer_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./The_Nature_of_Prayer_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [75.0](./The_Nature_of_Prayer_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./The_Nature_of_Prayer_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

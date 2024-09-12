@@ -48,7 +48,7 @@ The Quran and Sunnah confirm that Jesus performed miracles as a sign from Allah 
 **These miracles are not merely isolated events but are central to the Islamic understanding of Jesus' identity and mission.** They serve as powerful evidence of his divine nature and his role as the promised Messiah.
 
 ## Average Grade
-89.0
+82.5
 
 ## Grades
  * [90.0](./Nature_of_Miracles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -56,3 +56,4 @@ The Quran and Sunnah confirm that Jesus performed miracles as a sign from Allah 
  * [90.0](./Nature_of_Miracles_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Nature_of_Miracles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Nature_of_Miracles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Nature_of_Miracles_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

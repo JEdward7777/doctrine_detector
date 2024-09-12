@@ -29,7 +29,7 @@ To humble oneself can mean several things, including:
 In essence, humbling oneself before God is about fostering a sincere and respectful relationship with the divine, acknowledging one’s limitations, and striving to embody love and compassion towards oneself and others. This perspective encourages individuals to pursue humility as a virtue within their spiritual journey and interactions with the world around them.
 
 ## Average Grade
-93.0
+90.83333333333333
 
 ## Grades
  * [90.0](./Understanding_Humility_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ In essence, humbling oneself before God is about fostering a sincere and respect
  * [95.0](./Understanding_Humility_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_Humility_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Understanding_Humility_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Understanding_Humility_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

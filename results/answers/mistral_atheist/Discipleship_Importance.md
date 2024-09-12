@@ -25,7 +25,7 @@ Understanding the role and significance of the apostles in the New Testament.
 In a culturally-rooted context, it is worth noting that Jesus lived in a society where charismatic leadership was highly valued, and his choice of the Twelve Apostles reflects this cultural context. Their roles as teachers, healers, and witnesses to Jesus' ministry were crucial in spreading the Christian message following Jesus' crucifixion and resurrection.
 
 ## Average Grade
-89.0
+87.5
 
 ## Grades
  * [90.0](./Discipleship_Importance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ In a culturally-rooted context, it is worth noting that Jesus lived in a society
  * [90.0](./Discipleship_Importance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Discipleship_Importance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Discipleship_Importance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Discipleship_Importance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -21,7 +21,7 @@ In the Christian context, the new covenant often refers to the relationship esta
 While Jesus is deeply respected in Islam, the understanding of covenants and the nature of Jesus’ role is framed within the broader narrative of Islam's belief in the oneness of God (Tawhid) and the continuity of prophetic messages culminating in Muhammad.
 
 ## Average Grade
-65.0
+65.83333333333333
 
 ## Grades
  * [30.0](./New_Covenant_Significance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ While Jesus is deeply respected in Islam, the understanding of covenants and the
  * [60.0](./New_Covenant_Significance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./New_Covenant_Significance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./New_Covenant_Significance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./New_Covenant_Significance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

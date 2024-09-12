@@ -15,7 +15,7 @@ Understanding the spiritual definition of fellowship is important for nurturing 
 In a Christian context, "fellowship" refers to the sense of companionship, community, and unity that believers in Christ share with one another. It involves coming together for spiritual support, encouragement, prayer, and mutual edification. Fellowship in Christian understanding also includes sharing in the beliefs, values, and practices of the faith, as well as participating in activities that promote spiritual growth and the building of relationships within the church community.
 
 ## Average Grade
-88.0
+87.5
 
 ## Grades
  * [90.0](./Fellowship_Meaning_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ In a Christian context, "fellowship" refers to the sense of companionship, commu
  * [90.0](./Fellowship_Meaning_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Fellowship_Meaning_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Fellowship_Meaning_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Fellowship_Meaning_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

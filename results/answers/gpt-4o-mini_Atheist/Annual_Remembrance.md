@@ -25,7 +25,7 @@ The Israelites were commanded to celebrate Passover every year as a significant 
 By instituting the annual observance of Passover, the Israelites create a structured framework for reflecting on their past and instilling a sense of purpose and identity in their present and future.
 
 ## Average Grade
-90.4
+90.33333333333333
 
 ## Grades
  * [90.0](./Annual_Remembrance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ By instituting the annual observance of Passover, the Israelites create a struct
  * [90.0](./Annual_Remembrance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Annual_Remembrance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Annual_Remembrance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Annual_Remembrance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

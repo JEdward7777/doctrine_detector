@@ -23,7 +23,7 @@ In Islam, we find a parallel understanding of the value of life and the protecti
 Thus, both biblical and Islamic teachings reflect a profound respect for life, denouncing acts of violence that take innocent lives and stressing the sanctity and value of every human being. In both traditions, safeguarding life is a fundamental principle of justice, mercy, and compassion.
 
 ## Average Grade
-91.0
+89.16666666666667
 
 ## Grades
  * [95.0](./Innocent_Suffering_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ Thus, both biblical and Islamic teachings reflect a profound respect for life, d
  * [95.0](./Innocent_Suffering_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Innocent_Suffering_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Innocent_Suffering_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Innocent_Suffering_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

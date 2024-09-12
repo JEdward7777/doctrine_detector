@@ -23,7 +23,7 @@ In contemporary discussions, many theologians and religious leaders interpret th
 In conclusion, while the practice of stoning for adultery is historically documented in biblical texts, the overarching themes of justice and mercy reveal a more nuanced understanding, advocating for compassion and a personal commitment to ethical living. This perspective encourages us to engage in discussions about morality and justice in ways that promote respect, understanding, and healing in our communities.
 
 ## Average Grade
-91.0
+90.0
 
 ## Grades
  * [90.0](./Stoning_as_Punishment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ In conclusion, while the practice of stoning for adultery is historically docume
  * [95.0](./Stoning_as_Punishment_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Stoning_as_Punishment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Stoning_as_Punishment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Stoning_as_Punishment_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

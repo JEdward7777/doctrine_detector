@@ -19,7 +19,7 @@ In the context of the verse you mentioned from the Bible (James 5:16), which sta
 While the approach to seeking spiritual healing may differ between Islam and Christianity, the underlying message of seeking repentance, forgiveness, support, and healing remains a common theme in both faiths. Muslims are encouraged to turn to Allah for forgiveness and healing, and seeking guidance and support from wise and trustworthy individuals within the community can also be beneficial for one's spiritual growth and well-being.
 
 ## Average Grade
-90.0
+86.66666666666667
 
 ## Grades
  * [95.0](./Spiritual_Healing_Through_Confession_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ While the approach to seeking spiritual healing may differ between Islam and Chr
  * [90.0](./Spiritual_Healing_Through_Confession_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Spiritual_Healing_Through_Confession_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Spiritual_Healing_Through_Confession_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Spiritual_Healing_Through_Confession_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -29,7 +29,7 @@ In the context of Christian theology, signs and miracles serve several important
 In considering these roles, it is important to recognize that interpretations of signs and miracles can vary widely across different cultures and religious contexts. The scholarly examination of these phenomena often seeks to understand the historical, social, and psychological factors that shape how communities perceive and ascribe meaning to these events.
 
 ## Average Grade
-92.0
+88.33333333333333
 
 ## Grades
  * [90.0](./Signs_and_Miracles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ In considering these roles, it is important to recognize that interpretations of
  * [95.0](./Signs_and_Miracles_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Signs_and_Miracles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Signs_and_Miracles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Signs_and_Miracles_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

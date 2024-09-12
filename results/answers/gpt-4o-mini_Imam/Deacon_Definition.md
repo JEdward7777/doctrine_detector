@@ -19,7 +19,7 @@ In Islamic communities, roles are more commonly divided among the Imam (who lead
 If you have questions about leadership roles in an Islamic context or anything else related to Islamic teachings, feel free to ask!
 
 ## Average Grade
-58.0
+51.666666666666664
 
 ## Grades
  * [60.0](./Deacon_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ If you have questions about leadership roles in an Islamic context or anything e
  * [60.0](./Deacon_Definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Deacon_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Deacon_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./Deacon_Definition_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

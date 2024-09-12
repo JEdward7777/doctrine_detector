@@ -21,7 +21,7 @@ In Islam, Muslims refer to the Kaaba in Mecca, Saudi Arabia, as the most holy si
 In both examples, the restrictions on access serve various purposes: preserving purity, maintaining order, honoring tradition, and demonstrating reverence for the sacred space.
 
 ## Average Grade
-82.0
+75.0
 
 ## Grades
  * [90.0](./Access_to_the_Most_Holy_Place_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In both examples, the restrictions on access serve various purposes: preserving 
  * [90.0](./Access_to_the_Most_Holy_Place_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Access_to_the_Most_Holy_Place_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Access_to_the_Most_Holy_Place_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Access_to_the_Most_Holy_Place_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

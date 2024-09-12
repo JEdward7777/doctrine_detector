@@ -21,7 +21,7 @@ In contrast, fear in our daily lives usually involves anxiety or dread related t
 While the common understanding of fear may include negative emotions and feelings, biblical fear is more about establishing a proper relationship with God and acknowledging His supremacy in our lives. This difference highlights the importance of fostering respectful dialogue and promoting understanding between various perspectives and interpretations.
 
 ## Average Grade
-90.0
+85.0
 
 ## Grades
  * [90.0](./Understanding_Fear_in_Worship_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ While the common understanding of fear may include negative emotions and feeling
  * [90.0](./Understanding_Fear_in_Worship_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_Fear_in_Worship_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Understanding_Fear_in_Worship_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Understanding_Fear_in_Worship_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

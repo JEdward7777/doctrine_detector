@@ -33,7 +33,7 @@ The term "church" can have various meanings depending on the context—ranging f
 These alternatives can help convey the multifaceted nature of what a "church" represents in various cultures and religious traditions.
 
 ## Average Grade
-86.0
+83.33333333333333
 
 ## Grades
  * [90.0](./Translation_of_Church_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -41,3 +41,4 @@ These alternatives can help convey the multifaceted nature of what a "church" re
  * [80.0](./Translation_of_Church_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Translation_of_Church_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Translation_of_Church_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Translation_of_Church_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

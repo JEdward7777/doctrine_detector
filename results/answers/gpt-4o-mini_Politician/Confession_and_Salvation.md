@@ -19,7 +19,7 @@ Confessing Jesus as Lord signifies an acknowledgment of His authority and divini
 In summary, according to Paul, confessing Jesus as Lord is an essential and integral aspect of the faith that leads to salvation, reflecting both inner belief and outward declaration. This understanding fosters a sense of community among believers, as it invites them to share their faith openly.
 
 ## Average Grade
-90.4
+89.5
 
 ## Grades
  * [90.0](./Confession_and_Salvation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ In summary, according to Paul, confessing Jesus as Lord is an essential and inte
  * [90.0](./Confession_and_Salvation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Confession_and_Salvation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Confession_and_Salvation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Confession_and_Salvation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

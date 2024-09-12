@@ -23,7 +23,7 @@ The concept of birthright in the Bible carries profound significance, and examin
 In summary, the references to birthright in these passages deepen our understanding of its significance by highlighting the dual nature of privilege and responsibility, the necessity of valuing spiritual heritage over temporal desires, and the call to live in a manner reflective of one's spiritual inheritance. Together, they encourage readers to consider the weight of their choices and the profound implications they have for their spiritual journeys and communal relationships. This balanced viewpoint seeks to foster a respectful dialogue about personal values and community ethics.
 
 ## Average Grade
-93.0
+92.5
 
 ## Grades
  * [90.0](./Scriptural_References_4_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ In summary, the references to birthright in these passages deepen our understand
  * [95.0](./Scriptural_References_4_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [93.0](./Scriptural_References_4_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Scriptural_References_4_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Scriptural_References_4_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

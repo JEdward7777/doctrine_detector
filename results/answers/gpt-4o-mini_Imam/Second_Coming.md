@@ -27,7 +27,7 @@ For believers, Jesus' return carries significant implications:
 In summary, while the specifics may differ between Christian and Islamic interpretations, the return of Jesus as a significant event is universally regarded as a moment for hope, unity, and moral vigilance for believers in both faith traditions.
 
 ## Average Grade
-91.0
+88.33333333333333
 
 ## Grades
  * [90.0](./Second_Coming_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In summary, while the specifics may differ between Christian and Islamic interpr
  * [95.0](./Second_Coming_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Second_Coming_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Second_Coming_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Second_Coming_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

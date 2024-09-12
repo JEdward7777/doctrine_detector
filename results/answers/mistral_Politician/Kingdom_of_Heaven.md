@@ -19,7 +19,7 @@ Retaining the term "heaven" in this context is important for several reasons. Fi
 Ultimately, the use of terminology in religious texts should be guided by a desire to accurately represent the original meaning and context, while also being sensitive to diverse cultural perspectives and experiences.
 
 ## Average Grade
-87.0
+86.66666666666667
 
 ## Grades
  * [90.0](./Kingdom_of_Heaven_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Ultimately, the use of terminology in religious texts should be guided by a desi
  * [90.0](./Kingdom_of_Heaven_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Kingdom_of_Heaven_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Kingdom_of_Heaven_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Kingdom_of_Heaven_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

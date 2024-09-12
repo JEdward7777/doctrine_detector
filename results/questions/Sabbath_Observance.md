@@ -11,26 +11,26 @@ To keep the Sabbath holy means to refrain from work and dedicate the day to rest
 Understanding the importance of the Sabbath and its implications for daily living as a Christian.
 
 ## Average Grade
-77.03703703703704
+74.95833333333333
 
 ## Grades
  * [44.166666666666664 llama atheist](../answers/llama_atheist/Sabbath_Observance.md)
+ * [52.5 gemma Imam](../answers/gemma_Imam/Sabbath_Observance.md)
  * [55.833333333333336 gemma atheist](../answers/gemma_atheist/Sabbath_Observance.md)
- * [58.0 gemma Imam](../answers/gemma_Imam/Sabbath_Observance.md)
- * [67.0 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Sabbath_Observance.md)
- * [70.0 llama Imam](../answers/llama_Imam/Sabbath_Observance.md)
- * [70.0 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Sabbath_Observance.md)
- * [71.0 llama Politician](../answers/llama_Politician/Sabbath_Observance.md)
+ * [59.166666666666664 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Sabbath_Observance.md)
+ * [63.333333333333336 llama Imam](../answers/llama_Imam/Sabbath_Observance.md)
+ * [65.0 mistral Imam](../answers/mistral_Imam/Sabbath_Observance.md)
+ * [68.33333333333333 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Sabbath_Observance.md)
+ * [69.16666666666667 llama Politician](../answers/llama_Politician/Sabbath_Observance.md)
  * [72.5 gemma Politician](../answers/gemma_Politician/Sabbath_Observance.md)
- * [74.0 mistral Imam](../answers/mistral_Imam/Sabbath_Observance.md)
  * [80.83333333333333 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Sabbath_Observance.md)
- * [82.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Sabbath_Observance.md)
+ * [81.66666666666667 mistral Bible Translator](../answers/mistral_Bible_Translator/Sabbath_Observance.md)
+ * [84.16666666666667 mistral atheist](../answers/mistral_atheist/Sabbath_Observance.md)
+ * [84.16666666666667 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Sabbath_Observance.md)
  * [85.0 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Sabbath_Observance.md)
- * [86.0 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Sabbath_Observance.md)
- * [87.0 mistral atheist](../answers/mistral_atheist/Sabbath_Observance.md)
- * [88.0 mistral Politician](../answers/mistral_Politician/Sabbath_Observance.md)
- * [89.0 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Sabbath_Observance.md)
+ * [85.83333333333333 mistral Politician](../answers/mistral_Politician/Sabbath_Observance.md)
+ * [85.83333333333333 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Sabbath_Observance.md)
  * [89.16666666666667 gemma Bible Translator](../answers/gemma_Bible_Translator/Sabbath_Observance.md)
  * [89.16666666666667 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Sabbath_Observance.md)
  * [91.66666666666667 llama Bible Translator](../answers/llama_Bible_Translator/Sabbath_Observance.md)
- * [92.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Sabbath_Observance.md)
+ * [91.66666666666667 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Sabbath_Observance.md)

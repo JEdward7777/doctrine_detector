@@ -37,7 +37,7 @@ This lack of intercession means that these individuals will not have any advocat
 In summary, those who are described as "perishing" in the Quran will suffer an eternal punishment characterized by severe torment, removal from Allah's mercy, and lack of intercession on their behalf. These individuals will be condemned to a state of eternal regret and sorrow, separated from the blessings and mercy of Allah.
 
 ## Average Grade
-90.0
+81.66666666666667
 
 ## Grades
  * [95.0](./Eternal_Consequences_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -45,3 +45,4 @@ In summary, those who are described as "perishing" in the Quran will suffer an e
  * [90.0](./Eternal_Consequences_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Eternal_Consequences_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Eternal_Consequences_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Eternal_Consequences_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

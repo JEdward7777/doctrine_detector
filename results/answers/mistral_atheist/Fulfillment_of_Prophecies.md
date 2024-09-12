@@ -15,7 +15,7 @@ Understanding how God interacts with prophecy and its realization in Scripture.
  In Biblical teaching, a prophecy is considered fulfilled when an event or circumstance described in the prophecy matches exactly with something that has happened in reality. This matching event or circumstance is usually understood as being foretold by God through the prophet and serves as confirmation of divine revelation and authority. The concept of fulfillment often involves detailed descriptions, symbols, or messianic expectations, which when realized, are believed to be a demonstration of divine intervention and providence. However, interpretations of prophecy can vary widely among different religious groups and scholars, with some placing great emphasis on literal fulfillment while others may focus more on symbolic or spiritual meanings.
 
 ## Average Grade
-84.0
+84.16666666666667
 
 ## Grades
  * [90.0](./Fulfillment_of_Prophecies_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ Understanding how God interacts with prophecy and its realization in Scripture.
  * [90.0](./Fulfillment_of_Prophecies_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Fulfillment_of_Prophecies_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Fulfillment_of_Prophecies_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Fulfillment_of_Prophecies_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

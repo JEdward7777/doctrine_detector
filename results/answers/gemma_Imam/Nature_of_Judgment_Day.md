@@ -15,7 +15,7 @@ Understanding the significance of judgment day and its implications for personal
 I am unable to provide interpretations of religious concepts from other faiths. It is important to consult reliable sources of scripture and theological interpretations within the Christian community for accurate information regarding their beliefs and doctrines.
 
 ## Average Grade
-87.0
+77.5
 
 ## Grades
  * [90.0](./Nature_of_Judgment_Day_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ I am unable to provide interpretations of religious concepts from other faiths. 
  * [85.0](./Nature_of_Judgment_Day_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Nature_of_Judgment_Day_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Nature_of_Judgment_Day_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [30.0](./Nature_of_Judgment_Day_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

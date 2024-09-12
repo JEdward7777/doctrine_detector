@@ -29,7 +29,7 @@ Fulfilled prophecies hold considerable significance in the Christian faith for s
 Overall, fulfilled prophecies are interwoven into the fabric of Christian theology and practice, serving both as a mechanism for faith reinforcement and a tool for outreach and education.
 
 ## Average Grade
-93.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Fulfillment_of_Prophecy_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ Overall, fulfilled prophecies are interwoven into the fabric of Christian theolo
  * [95.0](./Fulfillment_of_Prophecy_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Fulfillment_of_Prophecy_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Fulfillment_of_Prophecy_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Fulfillment_of_Prophecy_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

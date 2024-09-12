@@ -19,7 +19,7 @@ In a broader context, 'Israel' signifies the identity of the Jewish people and t
 Understanding this name involves acknowledging its multifaceted significance in religious texts, its impact on cultural identity, and its role in the historical narrative of the Jewish people. It is important to approach discussions about Israel with sensitivity to the diverse perspectives and sentiments that people hold regarding its significance today.
 
 ## Average Grade
-92.0
+88.33333333333333
 
 ## Grades
  * [95.0](./Israel_s_Identity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Understanding this name involves acknowledging its multifaceted significance in 
  * [95.0](./Israel_s_Identity_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Israel_s_Identity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Israel_s_Identity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Israel_s_Identity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

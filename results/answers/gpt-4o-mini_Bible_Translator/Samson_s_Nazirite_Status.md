@@ -27,7 +27,7 @@ Samson's story, found primarily in the Book of Judges (chapters 13-16), serves a
 Overall, Samson's story serves as a rich narrative that depicts the seriousness of the Nazirite vow, the potential for divine empowerment, the consequences of disobedience, and the possibility of redemption through repentance. It challenges readers to consider their own commitments to God and the importance of maintaining integrity in their faith.
 
 ## Average Grade
-93.0
+90.83333333333333
 
 ## Grades
  * [95.0](./Samson_s_Nazirite_Status_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ Overall, Samson's story serves as a rich narrative that depicts the seriousness 
  * [95.0](./Samson_s_Nazirite_Status_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Samson_s_Nazirite_Status_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Samson_s_Nazirite_Status_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Samson_s_Nazirite_Status_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

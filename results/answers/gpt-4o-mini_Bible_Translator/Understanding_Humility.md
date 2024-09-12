@@ -31,7 +31,7 @@ To humble oneself before God, according to the Christian perspective, involves r
 In summary, to humble oneself before God is to live in a way that reflects dependence on Him, acknowledges His majesty, and demonstrates love and service to others, all anchored in a deep awareness of one’s needs and the sufficiency of God’s grace.
 
 ## Average Grade
-95.0
+93.33333333333333
 
 ## Grades
  * [95.0](./Understanding_Humility_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,3 +39,4 @@ In summary, to humble oneself before God is to live in a way that reflects depen
  * [95.0](./Understanding_Humility_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_Humility_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Understanding_Humility_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Understanding_Humility_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

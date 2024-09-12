@@ -21,7 +21,7 @@ It is important to note that this concept aligns with Islamic teachings about th
 In summary, when God is described as 'jealous' in the Bible, it speaks to His profound love for a relationship with humanity and an intense desire for exclusivity in devotion, much like how Muslims understand Allah's Oneness (Tawheed).
 
 ## Average Grade
-87.0
+84.16666666666667
 
 ## Grades
  * [85.0](./God_s_Jealousy_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In summary, when God is described as 'jealous' in the Bible, it speaks to His pr
  * [85.0](./God_s_Jealousy_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./God_s_Jealousy_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./God_s_Jealousy_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./God_s_Jealousy_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -48,7 +48,7 @@ Recognizing God's zeal can deepen believers' trust in His commitment to their we
 * This encouragement encourages believers to increase their devotion and commitment to their faith.
 
 ## Average Grade
-86.0
+81.66666666666667
 
 ## Grades
  * [85.0](./God_s_Zeal_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -56,3 +56,4 @@ Recognizing God's zeal can deepen believers' trust in His commitment to their we
  * [85.0](./God_s_Zeal_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./God_s_Zeal_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./God_s_Zeal_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./God_s_Zeal_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

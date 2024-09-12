@@ -27,7 +27,7 @@ The Sadducees and Pharisees were two prominent Jewish sects during the time of J
 In summary, the decisions of the Sadducees and Pharisees to play a role in the crucifixion of Jesus stemmed from their desire to protect their own interests—be they political power for the Sadducees or religious authority for the Pharisees. This response also illustrates their positions and attitudes regarding faith and tradition, demonstrating how these factors can lead to drastic actions, even against the teachings of someone they recognized as a profound influencer of their time.
 
 ## Average Grade
-87.0
+86.66666666666667
 
 ## Grades
  * [85.0](./Influence_on_Jesus__Crucifixion_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In summary, the decisions of the Sadducees and Pharisees to play a role in the c
  * [90.0](./Influence_on_Jesus__Crucifixion_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Influence_on_Jesus__Crucifixion_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Influence_on_Jesus__Crucifixion_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Influence_on_Jesus__Crucifixion_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -19,7 +19,7 @@ This concept has its roots in the Old Testament, particularly in Deuteronomy 10:
 Overall, the "circumcision of the heart" signifies a surrender to God, a transformative faith that leads to genuine obedience and a relationship with Him, highlighting the move from external rituals to an internal disposition of love, devotion, and repentance.
 
 ## Average Grade
-92.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Spiritual_Significance_of_Circumcision_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Overall, the "circumcision of the heart" signifies a surrender to God, a transfo
  * [90.0](./Spiritual_Significance_of_Circumcision_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Spiritual_Significance_of_Circumcision_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Spiritual_Significance_of_Circumcision_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Spiritual_Significance_of_Circumcision_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

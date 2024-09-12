@@ -19,7 +19,7 @@ Allah has promised to answer the prayers of His sincere servants in His own way 
 Furthermore, putting God to the test can also be seen as a sign of arrogance and entitlement. It shows a lack of understanding of our place as humble servants of Allah and our dependence on Him for everything. We are encouraged to make supplications and seek help from Allah, but with humility, sincerity, and acceptance of His divine will.
 
 ## Average Grade
-92.0
+90.83333333333333
 
 ## Grades
  * [95.0](./Testing_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Furthermore, putting God to the test can also be seen as a sign of arrogance and
  * [90.0](./Testing_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Testing_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Testing_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Testing_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

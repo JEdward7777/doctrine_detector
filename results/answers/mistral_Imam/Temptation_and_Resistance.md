@@ -15,7 +15,7 @@ Understanding Jesus' resistance to temptation provides a model for Christians to
  As a Muslim, I believe in the Islamic understanding of the life of Prophet Isa (Jesus), peace be upon him, as it is presented in the Quran. According to the verses 2:253 and 61:6, when Jesus was taken up (ascended) to heaven, he was not yet physically or spiritually mature enough to resist Satan's temptations on his own. Hence, the story of Jesus resisting Satan's temptation in the Gospel is not part of our belief as Muslims. Instead, we believe that when God willed it, angels supported him to avoid any sin and preserve his purity. In essence, the Islamic perspective emphasizes Jesus' submission to Allah and reliance on His guidance.
 
 ## Average Grade
-22.0
+25.0
 
 ## Grades
  * [20.0](./Temptation_and_Resistance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ Understanding Jesus' resistance to temptation provides a model for Christians to
  * [20.0](./Temptation_and_Resistance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [30.0](./Temptation_and_Resistance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Temptation_and_Resistance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Temptation_and_Resistance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -27,7 +27,7 @@ Jesus used several parables to convey the value of the Kingdom of God, highlight
 These parables collectively highlight the value, transformative power, and inclusive nature of the Kingdom of God, prompting listeners to reflect on their priorities and the sacrifices they might need to make to be part of it.
 
 ## Average Grade
-89.0
+89.16666666666667
 
 ## Grades
  * [85.0](./Value_of_the_Kingdom_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ These parables collectively highlight the value, transformative power, and inclu
  * [95.0](./Value_of_the_Kingdom_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Value_of_the_Kingdom_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Value_of_the_Kingdom_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Value_of_the_Kingdom_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

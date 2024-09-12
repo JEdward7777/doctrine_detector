@@ -25,7 +25,7 @@ In the New Testament letters, the term 'beloved' is used frequently to express a
 In summary, the term 'beloved' in the New Testament letters serves multiple purposes: it affirms God's love, encourages and unifies the community, and prepares the believers for moral and ethical exhortation. It encapsulates the essence of love that is central to the Christian faith, promoting a spirit of companionship and mutual care among believers.
 
 ## Average Grade
-95.0
+93.33333333333333
 
 ## Grades
  * [95.0](./Beloved_in_Scripture_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ In summary, the term 'beloved' in the New Testament letters serves multiple purp
  * [95.0](./Beloved_in_Scripture_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Beloved_in_Scripture_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Beloved_in_Scripture_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Beloved_in_Scripture_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

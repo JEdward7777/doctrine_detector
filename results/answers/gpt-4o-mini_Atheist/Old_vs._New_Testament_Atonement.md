@@ -35,7 +35,7 @@ In the New Testament, the understanding of atonement transforms, largely through
 In summary, while both the Old and New Testaments address atonement, the former is largely focused on ritual sacrifices within a specific covenant community, while the latter emphasizes the sufficiency of Christ's sacrifice, grace, faith, and a universal call to salvation.
 
 ## Average Grade
-90.4
+90.33333333333333
 
 ## Grades
  * [92.0](./Old_vs._New_Testament_Atonement_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -43,3 +43,4 @@ In summary, while both the Old and New Testaments address atonement, the former 
  * [90.0](./Old_vs._New_Testament_Atonement_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Old_vs._New_Testament_Atonement_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Old_vs._New_Testament_Atonement_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Old_vs._New_Testament_Atonement_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

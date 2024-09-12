@@ -19,7 +19,7 @@ In Christian tradition, for example, priests are consecrated through ordination 
 In other traditions, consecration might involve different rituals or practices, but the underlying idea is similar: to prepare an individual or object for a higher purpose or service that is considered sacred or divine. However, it's important to note that the beliefs and practices surrounding consecration can vary greatly among different religious groups and cultures.
 
 ## Average Grade
-87.0
+84.16666666666667
 
 ## Grades
  * [90.0](./Consecration_and_Service_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ In other traditions, consecration might involve different rituals or practices, 
  * [80.0](./Consecration_and_Service_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Consecration_and_Service_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Consecration_and_Service_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Consecration_and_Service_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -15,7 +15,7 @@ Exploring the core of the Gospel message and its personal implications for belie
  In Islam, we believe that all prophets of God, including Prophet Jesus (peace be upon him), were sent to guide humanity towards the right path. As Muslims, we do not believe in trinity or divinity of Prophet Jesus (peace be upon him). However, according to the Christian faith, believing in Christ refers to acknowledging Jesus Christ as the Son of God and the Savior of mankind, born out of the Virgin Mary through the Holy Spirit. This belief is rooted in the New Testament and forms a central tenet of Christianity. It's important to note that both religions uphold high regard for Prophet Jesus (peace be upon him) as a prophet and messenger of God.
 
 ## Average Grade
-71.0
+69.16666666666667
 
 ## Grades
  * [70.0](./Faith_in_Christ_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ Exploring the core of the Gospel message and its personal implications for belie
  * [70.0](./Faith_in_Christ_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Faith_in_Christ_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Faith_in_Christ_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Faith_in_Christ_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

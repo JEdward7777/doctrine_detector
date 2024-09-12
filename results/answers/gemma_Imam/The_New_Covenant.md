@@ -35,7 +35,7 @@ Grasping the transition from the Old Testament law to the principles of the New 
 The passage from the New Covenant about God writing His law on the people's hearts is a symbolic representation of the transformative power of faith in Jesus Christ, emphasizing the importance of spiritual growth and ethical transformation among believers.
 
 ## Average Grade
-84.0
+84.16666666666667
 
 ## Grades
  * [85.0](./The_New_Covenant_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -43,3 +43,4 @@ The passage from the New Covenant about God writing His law on the people's hear
  * [85.0](./The_New_Covenant_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./The_New_Covenant_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./The_New_Covenant_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./The_New_Covenant_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

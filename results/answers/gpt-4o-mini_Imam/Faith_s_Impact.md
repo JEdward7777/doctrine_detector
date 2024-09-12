@@ -33,7 +33,7 @@ In Islam, we recognize Jesus (known as Isa in Arabic) as a revered prophet and m
 In summary, true faith in Jesus, from an Islamic perspective, inspires individuals to embody the values of love, compassion, humility, and the pursuit of righteousness, striving to connect with God through their actions and the way they treat others.
 
 ## Average Grade
-72.0
+63.333333333333336
 
 ## Grades
  * [80.0](./Faith_s_Impact_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -41,3 +41,4 @@ In summary, true faith in Jesus, from an Islamic perspective, inspires individua
  * [60.0](./Faith_s_Impact_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Faith_s_Impact_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Faith_s_Impact_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./Faith_s_Impact_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

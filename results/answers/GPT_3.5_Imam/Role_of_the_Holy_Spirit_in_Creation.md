@@ -21,7 +21,7 @@ Muslims believe that Allah created the world through His divine will and power, 
 Therefore, from an Islamic perspective, the significance of the creation of the world is attributed solely to Allah, without the involvement of any other divine beings such as the Holy Spirit.
 
 ## Average Grade
-32.0
+33.333333333333336
 
 ## Grades
  * [20.0](./Role_of_the_Holy_Spirit_in_Creation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Therefore, from an Islamic perspective, the significance of the creation of the 
  * [50.0](./Role_of_the_Holy_Spirit_in_Creation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [50.0](./Role_of_the_Holy_Spirit_in_Creation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [20.0](./Role_of_the_Holy_Spirit_in_Creation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Role_of_the_Holy_Spirit_in_Creation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

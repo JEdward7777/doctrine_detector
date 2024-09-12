@@ -29,7 +29,7 @@ Understanding the concept of 'appointed time' can greatly enhance our faith in G
 In summary, understanding God's concept of 'appointed time' invites us to embrace His sovereignty, foster patience, cherish hope, anticipate the fulfillment of His promises, and deepen our dependence on Him. This leads to a fuller faith rooted in the assurance that God is at work in our lives according to His perfect timeline.
 
 ## Average Grade
-93.0
+92.5
 
 ## Grades
  * [90.0](./God_s_Timing_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ In summary, understanding God's concept of 'appointed time' invites us to embrac
  * [95.0](./God_s_Timing_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./God_s_Timing_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./God_s_Timing_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./God_s_Timing_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

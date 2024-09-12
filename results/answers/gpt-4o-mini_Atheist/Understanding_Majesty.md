@@ -19,7 +19,7 @@ From a cultural perspective, references to God's majesty can also reflect societ
 Overall, majesty serves as a means to encapsulate the complexities of divine nature while inviting individuals and communities to reflect on their place within a broader existential framework.
 
 ## Average Grade
-83.0
+79.16666666666667
 
 ## Grades
  * [85.0](./Understanding_Majesty_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Overall, majesty serves as a means to encapsulate the complexities of divine nat
  * [90.0](./Understanding_Majesty_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Understanding_Majesty_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [75.0](./Understanding_Majesty_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Understanding_Majesty_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

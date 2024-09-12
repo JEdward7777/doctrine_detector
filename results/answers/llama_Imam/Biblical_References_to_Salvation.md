@@ -21,7 +21,7 @@ In contrast to Christian teachings on the nature of Christ as Savior, Islamic tr
 If you're interested in learning more about Islamic perspectives on Jesus and Christianity, I'd be happy to engage in a respectful discussion.
 
 ## Average Grade
-28.0
+28.333333333333332
 
 ## Grades
  * [20.0](./Biblical_References_to_Salvation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ If you're interested in learning more about Islamic perspectives on Jesus and Ch
  * [20.0](./Biblical_References_to_Salvation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [20.0](./Biblical_References_to_Salvation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Biblical_References_to_Salvation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [30.0](./Biblical_References_to_Salvation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

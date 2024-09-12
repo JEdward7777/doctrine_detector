@@ -21,7 +21,7 @@ This belief is rooted in the Christian understanding of the Old Testament sacrif
 It is important for Muslims to understand and respect the beliefs of others, even if they differ from our own. As Muslims, we are taught to engage in respectful dialogue and to seek common ground with people of other faiths, while also staying true to our own beliefs and values.
 
 ## Average Grade
-90.0
+83.33333333333333
 
 ## Grades
  * [90.0](./Understanding_Atonement_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ It is important for Muslims to understand and respect the beliefs of others, eve
  * [90.0](./Understanding_Atonement_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_Atonement_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Atonement_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Understanding_Atonement_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -27,7 +27,7 @@ Consecration is a practice found in various religious traditions, often referrin
 In summary, the act of consecration serves to prepare individuals and things for God's service through intentionality, ritual, transformation, community engagement, and establishing a connection to the sacred. Each of these aspects plays a role in emphasizing the significance of the act and its potential impact on both personal and communal levels.
 
 ## Average Grade
-88.0
+83.33333333333333
 
 ## Grades
  * [90.0](./Consecration_and_Service_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In summary, the act of consecration serves to prepare individuals and things for
  * [90.0](./Consecration_and_Service_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Consecration_and_Service_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Consecration_and_Service_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Consecration_and_Service_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

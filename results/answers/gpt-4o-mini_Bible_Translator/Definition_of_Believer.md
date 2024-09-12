@@ -27,7 +27,7 @@ In the Bible, a believer is generally classified as someone who has faith in Jes
 These points highlight that a believer is someone who has a personal, transformative relationship with Jesus Christ characterized by faith, repentance, obedience, and love.
 
 ## Average Grade
-93.0
+90.0
 
 ## Grades
  * [95.0](./Definition_of_Believer_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ These points highlight that a believer is someone who has a personal, transforma
  * [95.0](./Definition_of_Believer_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Definition_of_Believer_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Definition_of_Believer_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Definition_of_Believer_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

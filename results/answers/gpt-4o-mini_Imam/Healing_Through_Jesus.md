@@ -25,7 +25,7 @@ In the Bible, Jesus is depicted as having a compassionate and authoritative appr
 This compassionate and authoritative approach emphasizes not only the power of Jesus but also his mission to bring healing and restoration to all people.
 
 ## Average Grade
-92.0
+90.0
 
 ## Grades
  * [95.0](./Healing_Through_Jesus_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ This compassionate and authoritative approach emphasizes not only the power of J
  * [95.0](./Healing_Through_Jesus_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Healing_Through_Jesus_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Healing_Through_Jesus_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Healing_Through_Jesus_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

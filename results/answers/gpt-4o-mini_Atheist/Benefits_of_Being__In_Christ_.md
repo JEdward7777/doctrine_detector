@@ -33,7 +33,7 @@ The phrase "sharing in Christ," often understood within Christian communities, e
 While these benefits are specific to those who align with Christian beliefs, they reflect broader themes of community, support, and shared values, which can resonate with individuals from various cultural and philosophical backgrounds.
 
 ## Average Grade
-69.0
+68.33333333333333
 
 ## Grades
  * [85.0](./Benefits_of_Being__In_Christ__grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -41,3 +41,4 @@ While these benefits are specific to those who align with Christian beliefs, the
  * [70.0](./Benefits_of_Being__In_Christ__grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Benefits_of_Being__In_Christ__grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Benefits_of_Being__In_Christ__grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [65.0](./Benefits_of_Being__In_Christ__grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

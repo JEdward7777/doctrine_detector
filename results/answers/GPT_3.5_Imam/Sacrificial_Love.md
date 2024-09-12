@@ -19,7 +19,7 @@ The Prophet Muhammad (peace be upon him) is the ultimate example of loving other
 In Islam, we believe that true love and compassion are not just feelings, but actions that must be demonstrated through our behavior and treatment of others. By following the teachings of the Qur'an and the Sunnah, we can strive to emulate the example set by the Prophet Muhammad (peace be upon him) and show sacrificial love to those around us.
 
 ## Average Grade
-70.0
+63.333333333333336
 
 ## Grades
  * [80.0](./Sacrificial_Love_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ In Islam, we believe that true love and compassion are not just feelings, but ac
  * [60.0](./Sacrificial_Love_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Sacrificial_Love_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Sacrificial_Love_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [30.0](./Sacrificial_Love_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

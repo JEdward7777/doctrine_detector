@@ -21,7 +21,7 @@ Angels also act as messengers between Allah and His creations, including deliver
 In summary, angels in Islam serve as a vital link between Allah and His creation, carrying out various tasks and responsibilities in accordance with the divine will.
 
 ## Average Grade
-87.0
+82.5
 
 ## Grades
  * [85.0](./Definition_of_Angel_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In summary, angels in Islam serve as a vital link between Allah and His creation
  * [90.0](./Definition_of_Angel_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Definition_of_Angel_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Definition_of_Angel_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Definition_of_Angel_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

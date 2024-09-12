@@ -27,7 +27,7 @@ Christians may need guidance in exploring Scripture to fully appreciate the sign
 These verses reinforce the idea of God as the Most High by emphasizing His uniqueness, holiness, supremacy, and eternal dominion. They also reveal aspects of His character such as justice, mercy, and the need for humanity to worship and glorify Him.
 
 ## Average Grade
-77.0
+72.5
 
 ## Grades
  * [75.0](./Biblical_References_to_the_Most_High_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ These verses reinforce the idea of God as the Most High by emphasizing His uniqu
  * [90.0](./Biblical_References_to_the_Most_High_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [65.0](./Biblical_References_to_the_Most_High_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_References_to_the_Most_High_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Biblical_References_to_the_Most_High_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

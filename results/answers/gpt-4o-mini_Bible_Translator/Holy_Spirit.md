@@ -34,7 +34,7 @@ Introducing the concept of the Holy Spirit in contexts unfamiliar with the Trini
 By focusing on the Holy Spirit's roles and how God's presence is experienced through Him, you can introduce this concept in a way that resonates even with those who are unfamiliar with or have different beliefs about the Trinity.
 
 ## Average Grade
-92.0
+90.83333333333333
 
 ## Grades
  * [85.0](./Holy_Spirit_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -42,3 +42,4 @@ By focusing on the Holy Spirit's roles and how God's presence is experienced thr
  * [95.0](./Holy_Spirit_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Holy_Spirit_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Holy_Spirit_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Holy_Spirit_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

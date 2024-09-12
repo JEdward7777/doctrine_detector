@@ -39,7 +39,7 @@ In conclusion, Samson's story illustrates the significance of the Nazirite vow i
 May Allah guide us to emulate Samson's commitment to His service and remind us of the importance of maintaining purity, devotion, and dependence on Him alone. Ameen.
 
 ## Average Grade
-67.0
+62.5
 
 ## Grades
  * [50.0](./Samson_s_Nazirite_Status_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -47,3 +47,4 @@ May Allah guide us to emulate Samson's commitment to His service and remind us o
  * [60.0](./Samson_s_Nazirite_Status_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Samson_s_Nazirite_Status_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Samson_s_Nazirite_Status_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Samson_s_Nazirite_Status_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

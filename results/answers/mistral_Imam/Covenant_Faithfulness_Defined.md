@@ -19,7 +19,7 @@ In biblical terms, covenants are sacred agreements between God and people or amo
 While I am an Imam and my primary context is Islamic teachings, understanding the concept of covenant faithfulness in Biblical relationships helps bridge our commonalities in terms of spiritual values. Both Islam and Christianity emphasize the importance of upholding agreements, maintaining trust, and being obedient to a higher power for the betterment of ourselves and our communities.
 
 ## Average Grade
-83.0
+82.5
 
 ## Grades
  * [80.0](./Covenant_Faithfulness_Defined_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ While I am an Imam and my primary context is Islamic teachings, understanding th
  * [90.0](./Covenant_Faithfulness_Defined_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Covenant_Faithfulness_Defined_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Covenant_Faithfulness_Defined_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Covenant_Faithfulness_Defined_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

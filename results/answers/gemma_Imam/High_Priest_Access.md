@@ -26,7 +26,7 @@ The Prophet Muhammad was allowed to approach the Ark on two occasions:
 Hudhayfah was a companion of the Prophet Muhammad who was entrusted with guarding the Ark of the Covenant after the Prophet's death. He was permitted to approach and handle the Ark under strict conditions and only for necessary purposes.
 
 ## Average Grade
-23.0
+19.166666666666668
 
 ## Grades
  * [10.0](./High_Priest_Access_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,3 +34,4 @@ Hudhayfah was a companion of the Prophet Muhammad who was entrusted with guardin
  * [20.0](./High_Priest_Access_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [25.0](./High_Priest_Access_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./High_Priest_Access_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [0.0](./High_Priest_Access_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

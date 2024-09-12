@@ -25,7 +25,7 @@ Recognizing the intentional nature of God's interaction with humanity.
 5. Spiritual Growth: The call encourages spiritual growth as those who respond to the call are often called to follow Christ more closely, to serve others, or to engage in specific ministries. This call can lead to personal transformation and maturity in faith.
 
 ## Average Grade
-93.4
+92.0
 
 ## Grades
  * [95.0](./God_s_Intentionality_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ Recognizing the intentional nature of God's interaction with humanity.
  * [90.0](./God_s_Intentionality_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./God_s_Intentionality_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./God_s_Intentionality_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./God_s_Intentionality_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

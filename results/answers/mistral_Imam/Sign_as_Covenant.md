@@ -21,7 +21,7 @@ In addition, the Prophet Muhammad (peace be upon him) is reported to have said: 
 So, from an Islamic perspective, the rainbow serves as a sign of Allah's covenant with humanity, symbolizing mercy, compassion, and divine promise.
 
 ## Average Grade
-59.0
+57.5
 
 ## Grades
  * [40.0](./Sign_as_Covenant_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ So, from an Islamic perspective, the rainbow serves as a sign of Allah's covenan
  * [70.0](./Sign_as_Covenant_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [60.0](./Sign_as_Covenant_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Sign_as_Covenant_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Sign_as_Covenant_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

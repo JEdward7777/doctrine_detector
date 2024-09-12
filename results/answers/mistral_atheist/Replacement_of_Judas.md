@@ -19,7 +19,7 @@ The disciples were gathered together, and they prayed for guidance on who should
 This event is significant in Christian history because it marks the completion of the original twelve apostles as described in the New Testament. Matthias' selection demonstrates the Church's commitment to continuity with Jesus' apostolic ministry, even after Judas' betrayal and suicide.
 
 ## Average Grade
-89.0
+90.0
 
 ## Grades
  * [90.0](./Replacement_of_Judas_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ This event is significant in Christian history because it marks the completion o
  * [90.0](./Replacement_of_Judas_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Replacement_of_Judas_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Replacement_of_Judas_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [95.0](./Replacement_of_Judas_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

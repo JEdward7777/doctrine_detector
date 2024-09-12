@@ -32,7 +32,7 @@ Islam emphasizes the cultivation of good moral character traits, and according t
 These traits reflect the character of a wise person in Islam who strives to live according to the teachings of the Quran and Sunnah. The Prophet (peace be upon him) stated, "The best of you are those who have the best manners and character," emphasizing the importance of good character in Islamic teachings.
 
 ## Average Grade
-54.0
+50.0
 
 ## Grades
  * [50.0](./Fruits_of_Wisdom_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -40,3 +40,4 @@ These traits reflect the character of a wise person in Islam who strives to live
  * [40.0](./Fruits_of_Wisdom_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [30.0](./Fruits_of_Wisdom_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Fruits_of_Wisdom_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [30.0](./Fruits_of_Wisdom_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

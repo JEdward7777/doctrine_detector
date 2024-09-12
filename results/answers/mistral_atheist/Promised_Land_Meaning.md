@@ -19,7 +19,7 @@ The Promised Land holds great significance in Jewish, Christian, and Islamic tra
 As an atheistic scholar, I acknowledge the cultural and historical importance of this concept without attributing it to any supernatural or divine origin. The idea of a "Promised Land" has served as a powerful motivator throughout history, inspiring individuals and communities to form new societies and fight for their beliefs. Understanding its significance in various cultures can provide valuable insights into human values, aspirations, and the dynamics of religious and national identities.
 
 ## Average Grade
-41.0
+42.5
 
 ## Grades
  * [65.0](./Promised_Land_Meaning_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ As an atheistic scholar, I acknowledge the cultural and historical importance of
  * [30.0](./Promised_Land_Meaning_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [20.0](./Promised_Land_Meaning_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Promised_Land_Meaning_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Promised_Land_Meaning_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

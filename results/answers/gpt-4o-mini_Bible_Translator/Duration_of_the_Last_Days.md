@@ -19,7 +19,7 @@ The New Testament also contains other references to "the last days," notably in 
 In summary, while the Bible discusses the nature and significance of the last days, it does not provide a defined timeframe for how long they will last. This lack of specificity encourages believers to remain vigilant and faithful, living in readiness for Christ's return.
 
 ## Average Grade
-93.0
+93.33333333333333
 
 ## Grades
  * [95.0](./Duration_of_the_Last_Days_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ In summary, while the Bible discusses the nature and significance of the last da
  * [90.0](./Duration_of_the_Last_Days_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Duration_of_the_Last_Days_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Duration_of_the_Last_Days_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [95.0](./Duration_of_the_Last_Days_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

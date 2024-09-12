@@ -27,7 +27,7 @@ The significance of this parable is profound. Here are a few key points:
 In Islam, the themes of compassion, charity (sadaqah), and helping others are also highly emphasized. The story aligns with the teaching that all human beings should be treated with dignity and that it is essential to help those in need regardless of differences. This parable serves as a reminder of the universal moral values that are at the heart of both Christianity and Islam.
 
 ## Average Grade
-90.4
+88.66666666666667
 
 ## Grades
  * [95.0](./Example_of_Parables_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In Islam, the themes of compassion, charity (sadaqah), and helping others are al
  * [90.0](./Example_of_Parables_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Example_of_Parables_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Example_of_Parables_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Example_of_Parables_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

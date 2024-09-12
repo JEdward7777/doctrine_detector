@@ -19,7 +19,7 @@ For example, when the Israelites complained about their circumstances, Moses oft
 Moses' story illustrates that true leadership often involves putting others before oneself and recognizing one's limitations, themes that resonate across cultures and can inspire individuals to cultivate humility in their own lives.
 
 ## Average Grade
-90.0
+88.33333333333333
 
 ## Grades
  * [95.0](./Biblical_Example_of_Humility_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Moses' story illustrates that true leadership often involves putting others befo
  * [90.0](./Biblical_Example_of_Humility_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Biblical_Example_of_Humility_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Biblical_Example_of_Humility_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Biblical_Example_of_Humility_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

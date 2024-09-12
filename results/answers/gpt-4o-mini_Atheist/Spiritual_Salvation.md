@@ -29,7 +29,7 @@ In Christian teaching, the concept of being "saved" holds profound significance 
 In summary, the significance of being "saved" in a spiritual sense according to Christian teaching involves forgiveness of sins, a personal relationship with Jesus Christ, the promise of eternal life, personal transformation, the community of believers, and the hope and assurance provided by faith. These elements collectively frame the Christian understanding of salvation as a holistic and deeply impactful experience.
 
 ## Average Grade
-91.0
+90.0
 
 ## Grades
  * [90.0](./Spiritual_Salvation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ In summary, the significance of being "saved" in a spiritual sense according to 
  * [95.0](./Spiritual_Salvation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Spiritual_Salvation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Spiritual_Salvation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Spiritual_Salvation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

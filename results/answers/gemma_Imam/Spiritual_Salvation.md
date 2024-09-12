@@ -19,7 +19,7 @@ Within Islam, the concept of salvation focuses on spiritual growth, obedience to
 While there may be similarities between Christian and Islamic ideas about personal transformation and connection with a higher power, the specific frameworks and terminology differ significantly. Muslims believe in monotheism and follow Islamic law and teachings, while Christians believe in Jesus Christ as the Son of God and rely on faith in him for salvation.
 
 ## Average Grade
-81.0
+75.83333333333333
 
 ## Grades
  * [85.0](./Spiritual_Salvation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ While there may be similarities between Christian and Islamic ideas about person
  * [90.0](./Spiritual_Salvation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Spiritual_Salvation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Spiritual_Salvation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Spiritual_Salvation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

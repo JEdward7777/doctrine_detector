@@ -11,26 +11,26 @@ Relevant verses include Hebrews 7:25-26, Isaiah 53:12, Jeremiah 29:6-7, Romans 8
 To encourage believers to explore Scripture for guidance on prayer and intercession.
 
 ## Average Grade
-81.91743119266054
+80.36666666666666
 
 ## Grades
- * [23.0 gemma Imam](../answers/gemma_Imam/Scriptural_Basis_for_Intercession.md)
- * [64.0 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Scriptural_Basis_for_Intercession.md)
+ * [19.166666666666668 gemma Imam](../answers/gemma_Imam/Scriptural_Basis_for_Intercession.md)
+ * [61.666666666666664 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Scriptural_Basis_for_Intercession.md)
  * [70.0 gemma atheist](../answers/gemma_atheist/Scriptural_Basis_for_Intercession.md)
  * [78.33333333333333 llama atheist](../answers/llama_atheist/Scriptural_Basis_for_Intercession.md)
  * [80.0 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Scriptural_Basis_for_Intercession.md)
+ * [80.83333333333333 mistral Imam](../answers/mistral_Imam/Scriptural_Basis_for_Intercession.md)
+ * [81.66666666666667 llama Imam](../answers/llama_Imam/Scriptural_Basis_for_Intercession.md)
+ * [82.5 mistral Politician](../answers/mistral_Politician/Scriptural_Basis_for_Intercession.md)
  * [83.33333333333333 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Scriptural_Basis_for_Intercession.md)
  * [83.33333333333333 llama Politician](../answers/llama_Politician/Scriptural_Basis_for_Intercession.md)
- * [86.0 llama Imam](../answers/llama_Imam/Scriptural_Basis_for_Intercession.md)
- * [86.0 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Scriptural_Basis_for_Intercession.md)
+ * [85.83333333333333 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Scriptural_Basis_for_Intercession.md)
  * [86.5 gemma Politician](../answers/gemma_Politician/Scriptural_Basis_for_Intercession.md)
- * [87.0 mistral Politician](../answers/mistral_Politician/Scriptural_Basis_for_Intercession.md)
- * [87.0 mistral Imam](../answers/mistral_Imam/Scriptural_Basis_for_Intercession.md)
- * [89.0 mistral atheist](../answers/mistral_atheist/Scriptural_Basis_for_Intercession.md)
- * [89.0 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Scriptural_Basis_for_Intercession.md)
+ * [87.5 mistral atheist](../answers/mistral_atheist/Scriptural_Basis_for_Intercession.md)
+ * [87.5 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Scriptural_Basis_for_Intercession.md)
+ * [88.33333333333333 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Scriptural_Basis_for_Intercession.md)
+ * [89.16666666666667 mistral Bible Translator](../answers/mistral_Bible_Translator/Scriptural_Basis_for_Intercession.md)
  * [90.0 llama Bible Translator](../answers/llama_Bible_Translator/Scriptural_Basis_for_Intercession.md)
- * [90.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Scriptural_Basis_for_Intercession.md)
- * [90.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Scriptural_Basis_for_Intercession.md)
+ * [90.0 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Scriptural_Basis_for_Intercession.md)
  * [90.83333333333333 gemma Bible Translator](../answers/gemma_Bible_Translator/Scriptural_Basis_for_Intercession.md)
  * [90.83333333333333 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Scriptural_Basis_for_Intercession.md)
- * [91.0 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Scriptural_Basis_for_Intercession.md)

@@ -19,7 +19,7 @@ However, there are some instances where the word "Amin" (which translates to "Am
 In summary, while "Amen" is not a common term at the end of a Muslim prayer, it does have significance in certain supplications or du'as, signifying assent and agreement with the prayer.
 
 ## Average Grade
-74.0
+70.0
 
 ## Grades
  * [85.0](./Understanding_Amen_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ In summary, while "Amen" is not a common term at the end of a Muslim prayer, it 
  * [70.0](./Understanding_Amen_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Understanding_Amen_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Amen_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Understanding_Amen_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

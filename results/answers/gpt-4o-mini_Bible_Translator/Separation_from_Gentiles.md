@@ -27,7 +27,7 @@ The Pharisees, a prominent religious group in Judaism during the Second Temple p
 In summary, the Pharisees' concerns about separation were rooted in their desire to maintain Jewish religious identity, obedience to the law, and the community’s spiritual integrity in a complex and often hostile environment.
 
 ## Average Grade
-94.4
+92.83333333333333
 
 ## Grades
  * [95.0](./Separation_from_Gentiles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In summary, the Pharisees' concerns about separation were rooted in their desire
  * [95.0](./Separation_from_Gentiles_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Separation_from_Gentiles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Separation_from_Gentiles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Separation_from_Gentiles_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

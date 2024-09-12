@@ -29,7 +29,7 @@ For a Christian, experiencing purification from sin typically refers to the proc
 Overall, the experience of purification from sin in Christianity is deeply tied to personal and communal dimensions, emphasizing transformation through God's grace and love.
 
 ## Average Grade
-89.0
+86.66666666666667
 
 ## Grades
  * [90.0](./Personal_Application_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ Overall, the experience of purification from sin in Christianity is deeply tied 
  * [90.0](./Personal_Application_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Personal_Application_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Personal_Application_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Personal_Application_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

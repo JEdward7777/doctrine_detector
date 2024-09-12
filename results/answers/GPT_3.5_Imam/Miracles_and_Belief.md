@@ -23,7 +23,7 @@ Miracles are also meant to provoke reflection and contemplation among people. Th
 Ultimately, miracles serve as a means to strengthen one's faith and belief in God. They provide a tangible and visible demonstration of His existence and power, encouraging people to turn to Him in worship and submission. However, it is important to remember that while miracles can serve as signs that lead to belief, faith ultimately comes from within and is a personal choice that each individual must make.
 
 ## Average Grade
-87.0
+84.16666666666667
 
 ## Grades
  * [85.0](./Miracles_and_Belief_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ Ultimately, miracles serve as a means to strengthen one's faith and belief in Go
  * [85.0](./Miracles_and_Belief_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Miracles_and_Belief_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Miracles_and_Belief_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Miracles_and_Belief_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

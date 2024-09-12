@@ -27,7 +27,7 @@ These Bible verses collectively contribute to our understanding of redemption by
 In conclusion, these Bible verses provide valuable insights into the concept of ransom in biblical context. By recognizing Jesus Christ's sacrifice as the ultimate ransom payment for humanity's redemption, we can deepen our understanding of His role in bringing about salvation and reconciliation between God and humanity.
 
 ## Average Grade
-89.0
+85.0
 
 ## Grades
  * [95.0](./Biblical_References_8_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In conclusion, these Bible verses provide valuable insights into the concept of 
  * [90.0](./Biblical_References_8_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Biblical_References_8_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Biblical_References_8_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [65.0](./Biblical_References_8_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -43,7 +43,7 @@ The concept of condemnation in the Bible is not about eternal punishment but abo
 The Bible teaches that condemnation is not an eternal punishment but a temporary consequence of sin. God's love is greater than any condemnation we may feel, and through Christ's redemption, we are justified and declared righteous in his sight.
 
 ## Average Grade
-91.0
+89.16666666666667
 
 ## Grades
  * [90.0](./Understanding_Condemnation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -51,3 +51,4 @@ The Bible teaches that condemnation is not an eternal punishment but a temporary
  * [90.0](./Understanding_Condemnation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_Condemnation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Condemnation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Understanding_Condemnation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

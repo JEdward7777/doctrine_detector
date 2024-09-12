@@ -21,7 +21,7 @@ The significance of this parable lies in its profound message about compassion a
 The parable encourages individuals to show kindness and support to all people, promoting a message of empathy, inclusivity, and humanity. It serves as a reminder that our actions speak louder than social labels and that anyone can be a good neighbor. This message remains relevant today, urging us to extend compassion and assistance to those in need, irrespective of their differences.
 
 ## Average Grade
-91.0
+90.83333333333333
 
 ## Grades
  * [95.0](./Example_of_Parables_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ The parable encourages individuals to show kindness and support to all people, p
  * [90.0](./Example_of_Parables_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Example_of_Parables_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Example_of_Parables_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Example_of_Parables_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

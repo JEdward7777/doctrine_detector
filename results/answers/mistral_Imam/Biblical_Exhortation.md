@@ -25,7 +25,7 @@ Jesus also emphasized in the Quran to spread the good news and teachings he rece
 In summary, while Jesus did not leave a specific directive regarding the good news in written form, his teachings encouraged spreading the message of God and embodying righteousness and compassion in daily life.
 
 ## Average Grade
-36.0
+35.0
 
 ## Grades
  * [40.0](./Biblical_Exhortation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ In summary, while Jesus did not leave a specific directive regarding the good ne
  * [30.0](./Biblical_Exhortation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [40.0](./Biblical_Exhortation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Biblical_Exhortation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [30.0](./Biblical_Exhortation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

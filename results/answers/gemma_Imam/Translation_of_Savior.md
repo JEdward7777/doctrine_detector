@@ -50,7 +50,7 @@ To explore how language shapes theological understanding and faith practices.
 While the translation 'Savior' as 'the One who saves' or 'who rescues from enemies' is widely used in non-Islamic contexts, it may not fully capture the Islamic perspective on God's role in the lives of believers. Alternative translations that emphasize the spiritual and ethical dimensions of salvation are more appropriate for Islamic teachings.
 
 ## Average Grade
-85.0
+83.33333333333333
 
 ## Grades
  * [85.0](./Translation_of_Savior_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -58,3 +58,4 @@ While the translation 'Savior' as 'the One who saves' or 'who rescues from enemi
  * [80.0](./Translation_of_Savior_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Translation_of_Savior_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Translation_of_Savior_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Translation_of_Savior_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

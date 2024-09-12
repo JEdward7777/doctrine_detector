@@ -19,7 +19,7 @@ In 1 Timothy 1:5, it says, "Now the goal of our instruction is love, which comes
 It's important to note that while the language and religious context may differ between Christianity and Islam, the underlying principle of striving for moral integrity and peace of mind is present in both traditions. In Islamic teachings, this idea is represented through concepts such as "taqwa" (God-consciousness) and seeking forgiveness for one's wrongdoings.
 
 ## Average Grade
-86.0
+84.16666666666667
 
 ## Grades
  * [90.0](./Clear_Conscience_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ It's important to note that while the language and religious context may differ 
  * [95.0](./Clear_Conscience_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Clear_Conscience_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Clear_Conscience_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Clear_Conscience_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -23,7 +23,7 @@ In Islamic eschatology, the concept of the "last days" encompasses the events an
 Overall, the "last days" signify a period of immense trials but also hope for believers, culminating in the Day of Judgment where all will be held accountable for their deeds. Jesus’ role in these final events emphasizes his importance within Islamic theology and the unity of God's message across different prophets.
 
 ## Average Grade
-55.0
+49.166666666666664
 
 ## Grades
  * [65.0](./Understanding_the_Last_Days_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ Overall, the "last days" signify a period of immense trials but also hope for be
  * [50.0](./Understanding_the_Last_Days_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [20.0](./Understanding_the_Last_Days_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Understanding_the_Last_Days_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./Understanding_the_Last_Days_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

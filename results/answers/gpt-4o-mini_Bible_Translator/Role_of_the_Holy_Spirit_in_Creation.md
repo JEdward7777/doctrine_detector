@@ -29,7 +29,7 @@ The involvement of the Holy Spirit in the creation of the world, as noted in Gen
 In conclusion, the Holy Spirit's involvement in creation as depicted in Genesis 1:1-2 underscores the active role of the Spirit in bringing forth life and order, reflects the Trinitarian nature of God, and holds implications for understanding the goodness and purpose of creation within Christian theology.
 
 ## Average Grade
-89.4
+88.66666666666667
 
 ## Grades
  * [90.0](./Role_of_the_Holy_Spirit_in_Creation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ In conclusion, the Holy Spirit's involvement in creation as depicted in Genesis 
  * [85.0](./Role_of_the_Holy_Spirit_in_Creation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [92.0](./Role_of_the_Holy_Spirit_in_Creation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Role_of_the_Holy_Spirit_in_Creation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Role_of_the_Holy_Spirit_in_Creation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

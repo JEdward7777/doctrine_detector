@@ -27,7 +27,7 @@ In summary:
 This understanding highlights how the biblical concepts of the afterlife evolved from a somewhat uniform view in the Old Testament to a more nuanced view in the New Testament, reflecting different theological developments.
 
 ## Average Grade
-88.0
+87.5
 
 ## Grades
  * [90.0](./Understanding_of_Sheol_and_Hades_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ This understanding highlights how the biblical concepts of the afterlife evolved
  * [90.0](./Understanding_of_Sheol_and_Hades_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Understanding_of_Sheol_and_Hades_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_of_Sheol_and_Hades_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Understanding_of_Sheol_and_Hades_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -19,7 +19,7 @@ In the Bible, myrrh is mentioned several times in relation to burial practices. 
 Overall, the use of myrrh in burial practices in biblical times was a symbol of respect, honor, and a way to preserve and prepare the body of the deceased for the afterlife.
 
 ## Average Grade
-90.0
+89.16666666666667
 
 ## Grades
  * [90.0](./Use_in_Burial_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Overall, the use of myrrh in burial practices in biblical times was a symbol of 
  * [90.0](./Use_in_Burial_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Use_in_Burial_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Use_in_Burial_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Use_in_Burial_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

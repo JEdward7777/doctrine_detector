@@ -29,7 +29,7 @@ In Islam, we also emphasize the importance of reconciliation. For example, Proph
 In conclusion, while Christians may have specific interpretations and applications of reconciliation, the underlying principles are universal and can be applied by people of all faiths. By embracing humility, empathy, forgiveness, and understanding, we can strengthen relationships and build stronger communities.
 
 ## Average Grade
-83.0
+77.5
 
 ## Grades
  * [80.0](./Application_of_Reconciliation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ In conclusion, while Christians may have specific interpretations and applicatio
  * [80.0](./Application_of_Reconciliation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Application_of_Reconciliation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Application_of_Reconciliation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Application_of_Reconciliation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -19,7 +19,7 @@ The reference to eunuchs in this verse is not necessarily about physical castrat
 In Islamic teachings, celibacy is not encouraged as it is seen as going against the natural inclination of human beings to marry and procreate. However, there are examples of individuals in Islamic history who chose to remain unmarried and dedicate themselves to serving God and the community. Islam emphasizes the importance of marriage and fulfilling one's marital responsibilities, but also recognizes the value of individuals who choose a life of celibacy for the sake of worship and devotion to God.
 
 ## Average Grade
-89.0
+82.5
 
 ## Grades
  * [85.0](./Eunuchs_in_the_Bible_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ In Islamic teachings, celibacy is not encouraged as it is seen as going against 
  * [90.0](./Eunuchs_in_the_Bible_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Eunuchs_in_the_Bible_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Eunuchs_in_the_Bible_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Eunuchs_in_the_Bible_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

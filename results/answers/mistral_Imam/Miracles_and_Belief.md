@@ -21,7 +21,7 @@ For instance, the Prophet Muhammad (peace be upon him) did not perform miracles 
 Miracles, thus, function as signs that lead to belief in God by providing compelling proof of a prophet's truthfulness and the authenticity of their message. They serve to strengthen faith, encourage obedience, and confirm the oneness and omnipotence of Allah.
 
 ## Average Grade
-92.0
+88.33333333333333
 
 ## Grades
  * [90.0](./Miracles_and_Belief_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Miracles, thus, function as signs that lead to belief in God by providing compel
  * [95.0](./Miracles_and_Belief_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Miracles_and_Belief_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Miracles_and_Belief_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Miracles_and_Belief_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

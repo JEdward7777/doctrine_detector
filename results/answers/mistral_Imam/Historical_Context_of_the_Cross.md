@@ -24,7 +24,7 @@ However, over time, the perception of the cross began to change among Christians
 Overall, the early Christian perception of the cross was significantly influenced by its association with crucifixion, but over time, the symbol took on new meanings as Christianity evolved and spread. Today, the cross remains a potent and enduring symbol for millions of Christians around the world.
 
 ## Average Grade
-93.0
+92.5
 
 ## Grades
  * [95.0](./Historical_Context_of_the_Cross_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,3 +32,4 @@ Overall, the early Christian perception of the cross was significantly influence
  * [95.0](./Historical_Context_of_the_Cross_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Historical_Context_of_the_Cross_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Historical_Context_of_the_Cross_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Historical_Context_of_the_Cross_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

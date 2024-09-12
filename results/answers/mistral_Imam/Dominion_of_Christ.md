@@ -25,7 +25,7 @@ In Islamic literature, there is also mention of an account called the "Hadith of
 Again, it is essential to note that interpretations can vary greatly among individuals and religious communities, and these are just general overviews of some popular views regarding Jesus Christ's dominion in Christian and Islamic traditions. For more specific information or personal guidance, I recommend consulting knowledgeable religious scholars or authorities in the respective faith community.
 
 ## Average Grade
-71.0
+67.5
 
 ## Grades
  * [70.0](./Dominion_of_Christ_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ Again, it is essential to note that interpretations can vary greatly among indiv
  * [80.0](./Dominion_of_Christ_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Dominion_of_Christ_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Dominion_of_Christ_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Dominion_of_Christ_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

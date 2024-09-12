@@ -11,26 +11,26 @@ Believers in Jesus are commanded to sanctify themselves to God and to be holy in
 Emphasizing the importance of personal responsibility in the sanctification process.
 
 ## Average Grade
-77.44954128440367
+75.64166666666667
 
 ## Grades
  * [30.0 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Calling_to_Sanctification.md)
  * [48.333333333333336 llama atheist](../answers/llama_atheist/Calling_to_Sanctification.md)
  * [61.666666666666664 llama Politician](../answers/llama_Politician/Calling_to_Sanctification.md)
+ * [66.66666666666667 mistral Imam](../answers/mistral_Imam/Calling_to_Sanctification.md)
  * [70.83333333333333 gemma Politician](../answers/gemma_Politician/Calling_to_Sanctification.md)
- * [72.0 mistral Imam](../answers/mistral_Imam/Calling_to_Sanctification.md)
+ * [71.66666666666667 gemma Imam](../answers/gemma_Imam/Calling_to_Sanctification.md)
+ * [74.16666666666667 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Calling_to_Sanctification.md)
  * [75.0 gemma atheist](../answers/gemma_atheist/Calling_to_Sanctification.md)
- * [75.0 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Calling_to_Sanctification.md)
+ * [77.0 mistral atheist](../answers/mistral_atheist/Calling_to_Sanctification.md)
+ * [78.33333333333333 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Calling_to_Sanctification.md)
+ * [78.33333333333333 llama Imam](../answers/llama_Imam/Calling_to_Sanctification.md)
  * [80.0 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Calling_to_Sanctification.md)
- * [80.0 gemma Imam](../answers/gemma_Imam/Calling_to_Sanctification.md)
- * [82.0 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Calling_to_Sanctification.md)
- * [84.4 mistral atheist](../answers/mistral_atheist/Calling_to_Sanctification.md)
- * [86.0 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Calling_to_Sanctification.md)
- * [87.0 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Calling_to_Sanctification.md)
- * [88.0 llama Imam](../answers/llama_Imam/Calling_to_Sanctification.md)
- * [89.0 mistral Politician](../answers/mistral_Politician/Calling_to_Sanctification.md)
+ * [82.5 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Calling_to_Sanctification.md)
+ * [83.33333333333333 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Calling_to_Sanctification.md)
+ * [85.83333333333333 mistral Politician](../answers/mistral_Politician/Calling_to_Sanctification.md)
+ * [88.33333333333333 mistral Bible Translator](../answers/mistral_Bible_Translator/Calling_to_Sanctification.md)
  * [89.16666666666667 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Calling_to_Sanctification.md)
- * [90.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Calling_to_Sanctification.md)
- * [90.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Calling_to_Sanctification.md)
+ * [89.16666666666667 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Calling_to_Sanctification.md)
  * [90.83333333333333 llama Bible Translator](../answers/llama_Bible_Translator/Calling_to_Sanctification.md)
  * [91.66666666666667 gemma Bible Translator](../answers/gemma_Bible_Translator/Calling_to_Sanctification.md)

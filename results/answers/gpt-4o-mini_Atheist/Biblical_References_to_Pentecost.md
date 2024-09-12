@@ -33,7 +33,7 @@ The Festival of Weeks, also known as Shavuot or Pentecost, is mentioned in sever
 These references illustrate the festival's dual significance as both an agricultural harvest celebration and a time for spiritual reflection and community celebration among the people of Israel.
 
 ## Average Grade
-67.0
+70.83333333333333
 
 ## Grades
  * [70.0](./Biblical_References_to_Pentecost_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -41,3 +41,4 @@ These references illustrate the festival's dual significance as both an agricult
  * [80.0](./Biblical_References_to_Pentecost_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Biblical_References_to_Pentecost_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Biblical_References_to_Pentecost_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Biblical_References_to_Pentecost_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

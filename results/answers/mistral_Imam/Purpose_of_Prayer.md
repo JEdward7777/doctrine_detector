@@ -29,7 +29,7 @@ In the Bible, there are several instances and teachings about prayer. Here are s
 These purposes of prayer in the Bible align with some of the key aspects of prayer in Islam, such as communication with Allah, seeking His help, expressing gratitude, worship, and intercession for others. However, it's essential to understand that prayer practices may differ significantly between the two religions due to their unique beliefs, rituals, and traditions.
 
 ## Average Grade
-87.0
+85.0
 
 ## Grades
  * [90.0](./Purpose_of_Prayer_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ These purposes of prayer in the Bible align with some of the key aspects of pray
  * [80.0](./Purpose_of_Prayer_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Purpose_of_Prayer_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Purpose_of_Prayer_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Purpose_of_Prayer_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

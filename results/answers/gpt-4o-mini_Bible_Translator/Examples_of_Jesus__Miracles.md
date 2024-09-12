@@ -44,7 +44,7 @@ Certainly! Jesus performed numerous miracles during His earthly ministry, each w
 These miracles not only reveal Jesus' divine nature and authority but also serve to teach profound spiritual truths and encourage faith among His followers. Each miracle is rich with implications for understanding God's love and His kingdom.
 
 ## Average Grade
-93.0
+93.33333333333333
 
 ## Grades
  * [90.0](./Examples_of_Jesus__Miracles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -52,3 +52,4 @@ These miracles not only reveal Jesus' divine nature and authority but also serve
  * [95.0](./Examples_of_Jesus__Miracles_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Examples_of_Jesus__Miracles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Examples_of_Jesus__Miracles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [95.0](./Examples_of_Jesus__Miracles_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

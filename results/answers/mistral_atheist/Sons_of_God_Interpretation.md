@@ -27,7 +27,7 @@ Understanding biblical interpretation helps in grasping the meaning of scripture
 It is essential to recognize that different interpretations of biblical texts may have cultural and historical roots, and each one offers a unique perspective on the original meaning intended by the author(s) of Genesis.
 
 ## Average Grade
-86.0
+85.83333333333333
 
 ## Grades
  * [90.0](./Sons_of_God_Interpretation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ It is essential to recognize that different interpretations of biblical texts ma
  * [90.0](./Sons_of_God_Interpretation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Sons_of_God_Interpretation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Sons_of_God_Interpretation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Sons_of_God_Interpretation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

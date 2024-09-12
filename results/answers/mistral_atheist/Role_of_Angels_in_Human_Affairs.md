@@ -29,7 +29,7 @@ Understanding the various roles of angels can impact how Christians perceive div
 It's important to remember that interpretations can vary widely among different religious traditions and within individual belief systems. These roles are not exhaustive and are based on common themes found in the biblical text.
 
 ## Average Grade
-83.0
+81.66666666666667
 
 ## Grades
  * [85.0](./Role_of_Angels_in_Human_Affairs_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ It's important to remember that interpretations can vary widely among different 
  * [90.0](./Role_of_Angels_in_Human_Affairs_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Role_of_Angels_in_Human_Affairs_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Role_of_Angels_in_Human_Affairs_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Role_of_Angels_in_Human_Affairs_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

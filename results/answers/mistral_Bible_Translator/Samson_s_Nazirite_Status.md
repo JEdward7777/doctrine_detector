@@ -21,7 +21,7 @@ Samson's story illustrates the significance of each condition. He strictly adher
 Ultimately, Samson's story demonstrates that the Nazirite vow was not merely a personal preference but a sacred covenant with God. His life serves as a reminder of the seriousness and importance of keeping one's promises to the Lord, even when faced with difficult circumstances or temptations. Additionally, it underscores the power and faithfulness of God in fulfilling His purposes despite human weaknesses and mistakes.
 
 ## Average Grade
-90.4
+88.66666666666667
 
 ## Grades
  * [95.0](./Samson_s_Nazirite_Status_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Ultimately, Samson's story demonstrates that the Nazirite vow was not merely a p
  * [90.0](./Samson_s_Nazirite_Status_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [92.0](./Samson_s_Nazirite_Status_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Samson_s_Nazirite_Status_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Samson_s_Nazirite_Status_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

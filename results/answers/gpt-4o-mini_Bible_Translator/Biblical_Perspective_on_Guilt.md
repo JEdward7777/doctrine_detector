@@ -29,7 +29,7 @@ The Bible illustrates the consequences of guilt and sin in numerous ways, reflec
 In summary, the Bible portrays sin as leading to guilt and various forms of separation and consequence while also consistently offering a message of hope through repentance and redemption. The complexity of this theme underscores the seriousness of sin but also the depth of God's love and grace extended to humanity.
 
 ## Average Grade
-92.0
+90.83333333333333
 
 ## Grades
  * [90.0](./Biblical_Perspective_on_Guilt_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ In summary, the Bible portrays sin as leading to guilt and various forms of sepa
  * [95.0](./Biblical_Perspective_on_Guilt_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Biblical_Perspective_on_Guilt_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Biblical_Perspective_on_Guilt_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Biblical_Perspective_on_Guilt_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

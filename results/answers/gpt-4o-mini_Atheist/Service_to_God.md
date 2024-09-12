@@ -33,7 +33,7 @@ Christians can serve God in their ministry in various ways, reflecting the teach
 These facets of ministry not only foster personal growth but also contribute to the well-being of the broader community, aligning with the foundational Christian principle of loving one's neighbor. Each individual's ministry can take unique forms based on their gifts, calling, and the needs of their community.
 
 ## Average Grade
-90.0
+89.16666666666667
 
 ## Grades
  * [90.0](./Service_to_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -41,3 +41,4 @@ These facets of ministry not only foster personal growth but also contribute to 
  * [95.0](./Service_to_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Service_to_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Service_to_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Service_to_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -33,7 +33,7 @@ In general, demonstrating trustworthiness can involve several key actions:
 Both the Quran and the Bible emphasize the importance of being trustworthy in relations with others, whether in personal, professional, or community contexts. Adhering to these principles can help in building a reputation as a trustworthy individual, regardless of the religious background.
 
 ## Average Grade
-92.0
+90.83333333333333
 
 ## Grades
  * [90.0](./Trustworthiness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -41,3 +41,4 @@ Both the Quran and the Bible emphasize the importance of being trustworthy in re
  * [95.0](./Trustworthiness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Trustworthiness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Trustworthiness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Trustworthiness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

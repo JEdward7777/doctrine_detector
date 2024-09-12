@@ -21,7 +21,7 @@ In Christian tradition, Jesus is referred to as the "Lamb of God" as part of a s
 In summary, the concept of Jesus as the "Lamb of God" in Christian theology signifies his role as the sacrificial offering that took away the sins of humankind through his crucifixion and resurrection. In Islam, we revere Prophet Isa as a prophet who did not die on the cross but was raised to Heaven by Allah (God).
 
 ## Average Grade
-42.0
+43.333333333333336
 
 ## Grades
  * [30.0](./Understanding_Sacrifice_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In summary, the concept of Jesus as the "Lamb of God" in Christian theology sign
  * [30.0](./Understanding_Sacrifice_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [50.0](./Understanding_Sacrifice_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Understanding_Sacrifice_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Understanding_Sacrifice_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

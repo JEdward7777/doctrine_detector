@@ -23,7 +23,7 @@ In biblical texts, love is often described using the Greek terms "agape," "phili
 In summary, while the Bible places a significant emphasis on agape as the quintessential form of love, brotherly love (philia) and romantic love (eros) also occupy important roles within the biblical framework. They each serve different purposes in relationships, contributing to a holistic understanding of love that transcends mere emotion and fosters community and connection among individuals.
 
 ## Average Grade
-93.0
+93.33333333333333
 
 ## Grades
  * [95.0](./Types_of_Love_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ In summary, while the Bible places a significant emphasis on agape as the quinte
  * [95.0](./Types_of_Love_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Types_of_Love_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Types_of_Love_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [95.0](./Types_of_Love_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

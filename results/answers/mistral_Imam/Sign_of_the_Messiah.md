@@ -21,7 +21,7 @@ From a Christian perspective, the significance of the sign given to the shepherd
 In both religious traditions, Jesus is revered as a prophet and considered significant for his message of peace and mercy. As Muslims and Christians continue to engage in dialogue and mutual understanding, it is essential to appreciate each other's traditions while maintaining our unique identities.
 
 ## Average Grade
-67.0
+60.833333333333336
 
 ## Grades
  * [70.0](./Sign_of_the_Messiah_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In both religious traditions, Jesus is revered as a prophet and considered signi
  * [65.0](./Sign_of_the_Messiah_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Sign_of_the_Messiah_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Sign_of_the_Messiah_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [30.0](./Sign_of_the_Messiah_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

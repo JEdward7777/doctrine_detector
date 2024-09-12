@@ -38,7 +38,7 @@ It is important to avoid misconceptions about God's nature and to understand the
 * His perfect and eternal nature.
 
 ## Average Grade
-88.0
+86.66666666666667
 
 ## Grades
  * [90.0](./Interpreting__High__in_God_s_Title_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -46,3 +46,4 @@ It is important to avoid misconceptions about God's nature and to understand the
  * [85.0](./Interpreting__High__in_God_s_Title_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Interpreting__High__in_God_s_Title_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Interpreting__High__in_God_s_Title_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Interpreting__High__in_God_s_Title_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

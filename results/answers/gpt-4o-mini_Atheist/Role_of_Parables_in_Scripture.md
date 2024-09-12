@@ -21,7 +21,7 @@ This parable served multiple purposes. It engaged David’s emotions and moral s
 Through the parable, Nathan effectively highlighted David's moral failure in a way that would resonate with David’s own sense of justice, ultimately leading to a moment of recognition and repentance. This method illustrates the power of storytelling in moral persuasion, especially in a cultural context where direct confrontation could have been dangerous or met with hostility.
 
 ## Average Grade
-93.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Role_of_Parables_in_Scripture_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Through the parable, Nathan effectively highlighted David's moral failure in a w
  * [95.0](./Role_of_Parables_in_Scripture_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Role_of_Parables_in_Scripture_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Role_of_Parables_in_Scripture_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Role_of_Parables_in_Scripture_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

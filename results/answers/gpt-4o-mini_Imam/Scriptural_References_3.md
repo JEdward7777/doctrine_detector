@@ -23,7 +23,7 @@ Islam emphasizes that sincere worship and righteous actions must stem from a pur
 In conclusion, Matthew 23:27-28 reflects the broader theological theme found in Islam—that one's faith and actions must be authentically aligned and that true righteousness is determined by the state of the heart and intentions, not merely by outward appearances.
 
 ## Average Grade
-69.0
+65.83333333333333
 
 ## Grades
  * [65.0](./Scriptural_References_3_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ In conclusion, Matthew 23:27-28 reflects the broader theological theme found in 
  * [60.0](./Scriptural_References_3_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Scriptural_References_3_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Scriptural_References_3_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Scriptural_References_3_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

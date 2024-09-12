@@ -27,7 +27,7 @@ In the New Testament, the concept of every believer being considered a priest st
 In summary, the New Testament depiction of believers as priests signifies that every Christian is called to a direct relationship with God, a life of service, participation in the community, and a commitment to evangelism. This concept encourages inclusivity, responsibility, and active engagement in the life of faith.
 
 ## Average Grade
-92.0
+90.0
 
 ## Grades
  * [95.0](./New_Testament_Priesthood_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In summary, the New Testament depiction of believers as priests signifies that e
  * [95.0](./New_Testament_Priesthood_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./New_Testament_Priesthood_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./New_Testament_Priesthood_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./New_Testament_Priesthood_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

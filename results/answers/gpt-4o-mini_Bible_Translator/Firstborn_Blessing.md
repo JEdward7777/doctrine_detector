@@ -31,7 +31,7 @@ Applying the biblical concept of birthright to understanding one's role or statu
 In conclusion, the biblical concept of birthright serves as a powerful metaphor for understanding one's role and status within a Christian family, emphasizing identity in Christ, responsibilities towards one another, the importance of spiritual heritage, and the essential nature of love and grace within familial relationships.
 
 ## Average Grade
-94.0
+93.33333333333333
 
 ## Grades
  * [90.0](./Firstborn_Blessing_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,3 +39,4 @@ In conclusion, the biblical concept of birthright serves as a powerful metaphor 
  * [95.0](./Firstborn_Blessing_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Firstborn_Blessing_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Firstborn_Blessing_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Firstborn_Blessing_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

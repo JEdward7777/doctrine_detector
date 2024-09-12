@@ -21,7 +21,7 @@ The return from Babylon also symbolizes the spiritual renewal and repentance of 
 Overall, the return of the Jews from Babylon signifies God's faithfulness to His promises, His mercy towards His people, and His power to bring about restoration and renewal even in the face of great adversity.
 
 ## Average Grade
-91.0
+90.0
 
 ## Grades
  * [90.0](./Return_from_Exile_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Overall, the return of the Jews from Babylon signifies God's faithfulness to His
  * [90.0](./Return_from_Exile_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Return_from_Exile_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Return_from_Exile_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Return_from_Exile_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -25,7 +25,7 @@ The commandment for the Israelites to celebrate Passover annually is rooted in t
 Overall, the annual celebration of Passover is a deeply meaningful tradition that embodies themes of freedom, remembrance, and community.
 
 ## Average Grade
-89.0
+87.5
 
 ## Grades
  * [90.0](./Annual_Remembrance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ Overall, the annual celebration of Passover is a deeply meaningful tradition tha
  * [90.0](./Annual_Remembrance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Annual_Remembrance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Annual_Remembrance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Annual_Remembrance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

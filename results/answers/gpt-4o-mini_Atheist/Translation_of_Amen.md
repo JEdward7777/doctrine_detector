@@ -37,7 +37,7 @@ In the phrases used by Jesus, such as "truly I tell you," the word "truly" can b
 These translations and equivalents reflect the cultural and linguistic variations while maintaining the emphasis on truth and certainty in Jesus' statements. Each translation choice can also carry nuanced meanings depending on the interpretive lens of the reader.
 
 ## Average Grade
-91.0
+87.5
 
 ## Grades
  * [95.0](./Translation_of_Amen_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -45,3 +45,4 @@ These translations and equivalents reflect the cultural and linguistic variation
  * [90.0](./Translation_of_Amen_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Translation_of_Amen_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Translation_of_Amen_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Translation_of_Amen_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

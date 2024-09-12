@@ -29,7 +29,7 @@ The Bible places a strong emphasis on faithfulness in marriage and explicitly co
 Overall, the Bible teaches that marriage is a sacred covenant designed by God, and faithfulness within that covenant is crucial. Adultery is viewed as a serious offense that can bring significant consequences, both relationally and spiritually. Faithfulness is not just an expectation but a reflection of God's faithfulness to His people.
 
 ## Average Grade
-95.0
+94.16666666666667
 
 ## Grades
  * [95.0](./Faithfulness_in_Marriage_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ Overall, the Bible teaches that marriage is a sacred covenant designed by God, a
  * [95.0](./Faithfulness_in_Marriage_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Faithfulness_in_Marriage_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Faithfulness_in_Marriage_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Faithfulness_in_Marriage_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

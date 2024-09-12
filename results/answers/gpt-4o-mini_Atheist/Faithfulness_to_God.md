@@ -29,7 +29,7 @@ To be faithful to God according to the biblical definition generally encompasses
 In summary, being faithful to God biblically means trusting Him, obeying His commands, maintaining a consistent relationship with Him, demonstrating loyalty, expressing love, and enduring through trials. It is a holistic commitment that encompasses both belief and action.
 
 ## Average Grade
-91.0
+90.0
 
 ## Grades
  * [95.0](./Faithfulness_to_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ In summary, being faithful to God biblically means trusting Him, obeying His com
  * [85.0](./Faithfulness_to_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Faithfulness_to_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Faithfulness_to_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Faithfulness_to_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

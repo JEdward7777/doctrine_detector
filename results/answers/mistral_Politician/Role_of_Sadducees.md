@@ -21,7 +21,7 @@ Exploring the historical context of religious leadership in the time of Jesus.
 3. Collaboration with the Roman authorities, who held significant power over Judea during this time. This collaboration often led to conflict with other Jewish groups like the Pharisees, who advocated for greater independence from Roman rule.
 
 ## Average Grade
-82.0
+79.16666666666667
 
 ## Grades
  * [90.0](./Role_of_Sadducees_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Exploring the historical context of religious leadership in the time of Jesus.
  * [85.0](./Role_of_Sadducees_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Role_of_Sadducees_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Role_of_Sadducees_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [65.0](./Role_of_Sadducees_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

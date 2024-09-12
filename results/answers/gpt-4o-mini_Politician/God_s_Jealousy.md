@@ -19,7 +19,7 @@ The use of the word "jealous" in this context emphasizes God's devotion to His c
 This description can prompt discussions about the nature of love, commitment, and the importance of prioritizing one's relationship with the divine, encouraging believers to reflect on their own loyalties and values. It’s important to approach such interpretations with sensitivity to diverse beliefs and interpretations within different faith communities.
 
 ## Average Grade
-90.4
+90.33333333333333
 
 ## Grades
  * [90.0](./God_s_Jealousy_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ This description can prompt discussions about the nature of love, commitment, an
  * [95.0](./God_s_Jealousy_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [92.0](./God_s_Jealousy_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./God_s_Jealousy_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./God_s_Jealousy_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

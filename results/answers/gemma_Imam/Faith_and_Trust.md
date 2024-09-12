@@ -57,7 +57,7 @@ Clarifying the relationship between trust and faith to deepen one's understandin
 * Both are essential for a complete and vibrant Christian life.
 
 ## Average Grade
-92.0
+81.66666666666667
 
 ## Grades
  * [90.0](./Faith_and_Trust_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -65,3 +65,4 @@ Clarifying the relationship between trust and faith to deepen one's understandin
  * [95.0](./Faith_and_Trust_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Faith_and_Trust_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Faith_and_Trust_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [30.0](./Faith_and_Trust_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

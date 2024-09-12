@@ -17,7 +17,7 @@ Understanding the significance of God's name is crucial for recognizing His natu
 In Islamic tradition, Muslims do not use this specific name for God. Instead, the Arabic name of God, Allah, is used, which shares a similar meaning – the One Who Exists by Himself, without any beginning or end. The Quran acknowledges and respects the sacredness of divine names in the previous scriptures while emphasizing the unique and supreme nature of Allah as understood in Islam.
 
 ## Average Grade
-88.0
+86.66666666666667
 
 ## Grades
  * [90.0](./Understanding_the_Name_of_God_2_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -25,3 +25,4 @@ In Islamic tradition, Muslims do not use this specific name for God. Instead, th
  * [90.0](./Understanding_the_Name_of_God_2_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_the_Name_of_God_2_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_the_Name_of_God_2_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Understanding_the_Name_of_God_2_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

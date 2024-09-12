@@ -33,7 +33,7 @@ To emphasize the importance of living a life that honors God's greatness.
 10. Fulfilling family responsibilities: Honoring and caring for parents, being a good spouse, raising children in an Islamic environment, and maintaining strong relationships with extended family members all serve as ways of actively glorifying God by fulfilling the ties that He has ordained in our lives.
 
 ## Average Grade
-86.0
+85.83333333333333
 
 ## Grades
  * [90.0](./Glorifying_God_in_Actions_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -41,3 +41,4 @@ To emphasize the importance of living a life that honors God's greatness.
  * [85.0](./Glorifying_God_in_Actions_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Glorifying_God_in_Actions_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Glorifying_God_in_Actions_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Glorifying_God_in_Actions_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

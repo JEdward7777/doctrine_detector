@@ -33,7 +33,7 @@ Depth of understanding of the Old Testament laws and their relevance today.
 These commandments provide a basic understanding of some of the rules given to the Israelites by God as documented in the Hebrew Bible. It is important to remember that interpretations of these texts may vary across different Jewish, Christian, and Islamic perspectives.
 
 ## Average Grade
-90.4
+87.83333333333333
 
 ## Grades
  * [95.0](./Understanding_the_Law_of_Moses_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -41,3 +41,4 @@ These commandments provide a basic understanding of some of the rules given to t
  * [90.0](./Understanding_the_Law_of_Moses_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [87.0](./Understanding_the_Law_of_Moses_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_the_Law_of_Moses_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Understanding_the_Law_of_Moses_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

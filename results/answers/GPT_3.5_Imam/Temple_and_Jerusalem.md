@@ -19,7 +19,7 @@ In Islamic tradition, Jerusalem holds great significance as a holy site, particu
 Ultimately, the association of "Zion" with the temple in Jerusalem is deeply rooted in religious texts and historical narratives, reflecting the sacred importance of the city in various faith traditions.
 
 ## Average Grade
-77.0
+74.16666666666667
 
 ## Grades
  * [85.0](./Temple_and_Jerusalem_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Ultimately, the association of "Zion" with the temple in Jerusalem is deeply roo
  * [80.0](./Temple_and_Jerusalem_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Temple_and_Jerusalem_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Temple_and_Jerusalem_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Temple_and_Jerusalem_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -23,7 +23,7 @@ In the New Testament, myrrh is associated with Jesus' crucifixion and burial, as
 Therefore, the gift of myrrh given to Jesus at his birth is significant not only as a valuable and exotic present but also as a symbol of religious devotion, sacrifice, and prophetic foreshadowing of Jesus' future role and eventual death.
 
 ## Average Grade
-89.0
+87.5
 
 ## Grades
  * [90.0](./Myrrh_as_a_Gift_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ Therefore, the gift of myrrh given to Jesus at his birth is significant not only
  * [90.0](./Myrrh_as_a_Gift_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Myrrh_as_a_Gift_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Myrrh_as_a_Gift_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Myrrh_as_a_Gift_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

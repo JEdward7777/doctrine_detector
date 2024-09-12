@@ -23,7 +23,7 @@ In addition, prayer in Christianity is not merely a one-way conversation, but it
 In summary, prayer in Christianity involves communicating with the one true God, recognizing His sovereignty, seeking His wisdom and guidance, and building a personal relationship with Him based on faith and trust. Talking to a false god does not have these elements and is contrary to Christian theology.
 
 ## Average Grade
-95.0
+93.33333333333333
 
 ## Grades
  * [95.0](./The_Nature_of_Prayer_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ In summary, prayer in Christianity involves communicating with the one true God,
  * [95.0](./The_Nature_of_Prayer_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./The_Nature_of_Prayer_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./The_Nature_of_Prayer_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./The_Nature_of_Prayer_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

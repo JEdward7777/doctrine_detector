@@ -27,7 +27,7 @@ Understanding the seriousness of blasphemy helps Christians to avoid disrespectf
 Blasphemy within the Scriptures can be defined as speaking against God or the Holy Spirit with contempt, disrespect, or irreverence. It can also involve lying to the Holy Spirit or using His name frivolously or in anger. Blasphemy is a serious offense that goes against the values of love, truth, and respect for both God and others as taught throughout the Bible.
 
 ## Average Grade
-95.0
+92.5
 
 ## Grades
  * [95.0](./Understanding_Blasphemy_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ Blasphemy within the Scriptures can be defined as speaking against God or the Ho
  * [95.0](./Understanding_Blasphemy_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_Blasphemy_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Understanding_Blasphemy_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Understanding_Blasphemy_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

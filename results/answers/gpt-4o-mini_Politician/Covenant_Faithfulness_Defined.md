@@ -19,7 +19,7 @@ Covenant faithfulness emphasizes a deep, enduring commitment that goes beyond me
 This notion of faithfulness can also be understood through the lens of God’s covenant with humanity, where He demonstrates unwavering love and faithfulness, setting an example for human relationships. Ultimately, covenant faithfulness is about nurturing strong, loving, and supportive bonds that withstand the trials of life, rooted in mutual respect and understanding.
 
 ## Average Grade
-93.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Covenant_Faithfulness_Defined_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ This notion of faithfulness can also be understood through the lens of God’s c
  * [95.0](./Covenant_Faithfulness_Defined_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Covenant_Faithfulness_Defined_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Covenant_Faithfulness_Defined_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Covenant_Faithfulness_Defined_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

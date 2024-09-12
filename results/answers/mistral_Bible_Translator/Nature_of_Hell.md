@@ -27,7 +27,7 @@ Understanding the severity and purpose of hell is important for grasping the Chr
 6. Universal Reconciliation: A minority view among Christians is known as "universal reconciliation" or "Annihilationism," which posits that, while hell exists for a time, eventually all souls will be reunited with God. This belief is not widely held in mainstream Christianity.
 
 ## Average Grade
-84.0
+81.66666666666667
 
 ## Grades
  * [90.0](./Nature_of_Hell_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ Understanding the severity and purpose of hell is important for grasping the Chr
  * [95.0](./Nature_of_Hell_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Nature_of_Hell_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Nature_of_Hell_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Nature_of_Hell_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

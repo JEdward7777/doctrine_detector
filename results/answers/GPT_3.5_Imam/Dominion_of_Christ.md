@@ -19,7 +19,7 @@ Furthermore, Jesus' dominion is portrayed as eternal and unending, emphasizing h
 As Muslims, while we do not share the same theological beliefs about Jesus as Christians do, we can still appreciate and respect the exalted status that Jesus holds in the Christian faith as a revered prophet and a significant figure in religious history.
 
 ## Average Grade
-85.0
+82.5
 
 ## Grades
  * [90.0](./Dominion_of_Christ_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ As Muslims, while we do not share the same theological beliefs about Jesus as Ch
  * [85.0](./Dominion_of_Christ_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Dominion_of_Christ_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Dominion_of_Christ_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Dominion_of_Christ_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

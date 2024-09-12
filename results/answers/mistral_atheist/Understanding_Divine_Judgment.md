@@ -27,7 +27,7 @@ Understanding the distinction between God's perfect judgment and flawed human ju
 By considering these biblical themes, we can see that God's judgment differs from human judgment in terms of fairness, wisdom, and ultimate purpose. While humanity often judges out of bias or self-interest, God judges with perfect knowledge, love, and justice. Additionally, while human judgments may bring only punishment or rejection, God's judgment offers the opportunity for repentance, forgiveness, and eternal life.
 
 ## Average Grade
-94.0
+93.33333333333333
 
 ## Grades
  * [90.0](./Understanding_Divine_Judgment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ By considering these biblical themes, we can see that God's judgment differs fro
  * [95.0](./Understanding_Divine_Judgment_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_Divine_Judgment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Understanding_Divine_Judgment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Understanding_Divine_Judgment_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

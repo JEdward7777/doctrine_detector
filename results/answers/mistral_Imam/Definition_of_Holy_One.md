@@ -17,7 +17,7 @@ Understanding the holiness of God and His unique role in scripture.
 In the Christian context, Jesus Christ is also referred to as the "Holy One of God" (Mark 1:24) due to His perfect nature, sinlessness, and divine mission. Muslims, however, believe that while the Bible does contain some truth from Allah, it has been distorted and altered over time. In Islam, the Arabic term for God's holiness is "Al-Quddus," which maintains the same meaning of God's perfect purity, sanctity, and uniqueness.
 
 ## Average Grade
-89.0
+85.83333333333333
 
 ## Grades
  * [90.0](./Definition_of_Holy_One_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -25,3 +25,4 @@ In the Christian context, Jesus Christ is also referred to as the "Holy One of G
  * [90.0](./Definition_of_Holy_One_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Definition_of_Holy_One_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Definition_of_Holy_One_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Definition_of_Holy_One_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

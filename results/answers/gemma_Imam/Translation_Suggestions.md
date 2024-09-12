@@ -30,7 +30,7 @@ The term "zealous" in the Bible often refers to a deep commitment to religious p
 In Islamic tradition, zeal is highly valued as an essential quality for believers. It encompasses the willingness to embrace religious duties, uphold Islamic values, and defend the faith with conviction and determination.
 
 ## Average Grade
-85.0
+80.83333333333333
 
 ## Grades
  * [90.0](./Translation_Suggestions_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,3 +38,4 @@ In Islamic tradition, zeal is highly valued as an essential quality for believer
  * [95.0](./Translation_Suggestions_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Translation_Suggestions_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Translation_Suggestions_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Translation_Suggestions_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

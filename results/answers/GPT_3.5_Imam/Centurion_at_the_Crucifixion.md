@@ -19,7 +19,7 @@ For Christians, this declaration by the centurion signifies the realization of J
 In addition, this moment reinforces the central theme of Jesus' crucifixion and resurrection in Christianity, highlighting Jesus' sacrificial death for the redemption of humanity's sins and his victorious resurrection over death. It serves as a reminder of the transformative power of Jesus' sacrifice and the profound impact it has had on believers throughout history.
 
 ## Average Grade
-93.0
+92.5
 
 ## Grades
  * [90.0](./Centurion_at_the_Crucifixion_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ In addition, this moment reinforces the central theme of Jesus' crucifixion and 
  * [95.0](./Centurion_at_the_Crucifixion_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Centurion_at_the_Crucifixion_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Centurion_at_the_Crucifixion_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Centurion_at_the_Crucifixion_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

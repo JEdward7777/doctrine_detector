@@ -23,7 +23,7 @@ In the context of Biblical teachings, especially within a Muslim perspective, we
 In conclusion, these verses collectively prompt believers, whether from a Judeo-Christian or an Islamic perspective, to reflect on the importance of spiritual responsibility, the weight of choices and actions, and the enduring value of one's faith and conduct over hereditary claims. The teachings encourage us to seek a birthright that is aligned with righteousness and piety, serving as a reminder that our true inheritance is rooted in our relationship with God and our adherence to His commandments.
 
 ## Average Grade
-90.0
+85.83333333333333
 
 ## Grades
  * [90.0](./Scriptural_References_4_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ In conclusion, these verses collectively prompt believers, whether from a Judeo-
  * [85.0](./Scriptural_References_4_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Scriptural_References_4_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Scriptural_References_4_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [65.0](./Scriptural_References_4_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

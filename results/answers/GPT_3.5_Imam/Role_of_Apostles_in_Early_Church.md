@@ -21,7 +21,7 @@ Lastly, the apostles led by example in their actions and behaviors, showing the 
 Overall, by following the example of the apostles in teaching and fostering community among believers, we can work towards building a strong, cohesive, and supportive Muslim community that is grounded in faith, knowledge, and good character.
 
 ## Average Grade
-76.0
+73.33333333333333
 
 ## Grades
  * [70.0](./Role_of_Apostles_in_Early_Church_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Overall, by following the example of the apostles in teaching and fostering comm
  * [75.0](./Role_of_Apostles_in_Early_Church_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Role_of_Apostles_in_Early_Church_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Role_of_Apostles_in_Early_Church_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Role_of_Apostles_in_Early_Church_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

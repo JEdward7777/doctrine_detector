@@ -28,7 +28,7 @@ In the Quran, we are reminded that "And when My servants ask you about Me, then 
 In conclusion, tempting God is a behavior that can have negative consequences according to Biblical teaching. It involves ignoring Allah's wisdom, disregarding His commands, undermining trust and faith, and compromising moral values. As Muslims, we are encouraged to seek Allah's guidance and wisdom, trusting in His infinite knowledge and mercy.
 
 ## Average Grade
-92.0
+80.0
 
 ## Grades
  * [95.0](./Tempting_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,3 +36,4 @@ In conclusion, tempting God is a behavior that can have negative consequences ac
  * [90.0](./Tempting_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Tempting_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Tempting_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./Tempting_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

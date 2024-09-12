@@ -29,7 +29,7 @@ The significance of the apostles being sent by Jesus in spreading the gospel is 
 Overall, the sending of the apostles plays a crucial role in illustrating the mission of the Church and the continuous journey of sharing hope, love, and reconciliation across the globe.
 
 ## Average Grade
-93.0
+90.0
 
 ## Grades
  * [95.0](./Apostleship_Understanding_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ Overall, the sending of the apostles plays a crucial role in illustrating the mi
  * [95.0](./Apostleship_Understanding_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Apostleship_Understanding_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Apostleship_Understanding_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Apostleship_Understanding_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

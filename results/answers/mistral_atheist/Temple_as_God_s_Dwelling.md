@@ -19,7 +19,7 @@ In the New Testament, Jesus and his followers do not have a physical temple to w
 Overall, the concept of the temple as God's dwelling place is a central theme in both the Old and New Testaments. In the Old Testament, it is expressed through the physical temple, while in the New Testament, it is expressed through the community of believers who gather together to worship and follow Jesus.
 
 ## Average Grade
-91.0
+90.0
 
 ## Grades
  * [95.0](./Temple_as_God_s_Dwelling_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Overall, the concept of the temple as God's dwelling place is a central theme in
  * [90.0](./Temple_as_God_s_Dwelling_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Temple_as_God_s_Dwelling_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Temple_as_God_s_Dwelling_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Temple_as_God_s_Dwelling_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

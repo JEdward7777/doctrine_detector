@@ -25,7 +25,7 @@ In the Bible, specifically in the Book of Genesis (chapters 6-9), Noah's Ark ser
 Overall, the story of Noah's Ark is rich with theological, moral, and cultural implications that have resonated through various traditions and interpretations over the centuries.
 
 ## Average Grade
-90.0
+89.16666666666667
 
 ## Grades
  * [95.0](./Noah_s_Ark_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ Overall, the story of Noah's Ark is rich with theological, moral, and cultural i
  * [90.0](./Noah_s_Ark_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Noah_s_Ark_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Noah_s_Ark_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Noah_s_Ark_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

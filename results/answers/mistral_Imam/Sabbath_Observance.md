@@ -21,7 +21,7 @@ It is worth noting that the Islamic observance of a weekly day of rest is not eq
 In summary, while both Islamic and Jewish/Christian traditions recognize a weekly day of rest, the specific customs and rules surrounding this observance differ significantly between these faiths.
 
 ## Average Grade
-74.0
+65.0
 
 ## Grades
  * [70.0](./Sabbath_Observance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In summary, while both Islamic and Jewish/Christian traditions recognize a weekl
  * [70.0](./Sabbath_Observance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Sabbath_Observance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Sabbath_Observance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./Sabbath_Observance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

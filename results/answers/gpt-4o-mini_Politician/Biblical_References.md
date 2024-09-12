@@ -27,7 +27,7 @@ The concept of covenant faithfulness is central to many biblical texts, and seve
 These verses collectively emphasize the theme of faithfulness in the context of God’s promises, trustworthiness, and the enduring nature of His covenant relationships with humanity. If you have any specific queries or would like further information, please feel free to ask!
 
 ## Average Grade
-74.0
+75.0
 
 ## Grades
  * [70.0](./Biblical_References_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ These verses collectively emphasize the theme of faithfulness in the context of 
  * [65.0](./Biblical_References_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [75.0](./Biblical_References_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_References_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Biblical_References_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

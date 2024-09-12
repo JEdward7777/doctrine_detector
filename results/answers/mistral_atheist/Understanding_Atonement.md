@@ -21,7 +21,7 @@ The significance lies in the belief that through Christ's sacrifice, the penalty
 It's important to note that interpretations and understanding of these beliefs can vary greatly among different Christian denominations and individuals. This explanation aims to provide a general overview based on common Christian theology as found in the New Testament.
 
 ## Average Grade
-95.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Understanding_Atonement_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ It's important to note that interpretations and understanding of these beliefs c
  * [95.0](./Understanding_Atonement_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_Atonement_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Understanding_Atonement_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Understanding_Atonement_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -27,7 +27,7 @@ As we navigate this sensitive topic, I hope we can all agree that understanding 
 Now, if you'll excuse me, I have an important meeting with a diverse group of community leaders to discuss... *checks notes* Ah yes! The importance of interfaith cooperation and mutual understanding.
 
 ## Average Grade
-77.0
+72.5
 
 ## Grades
  * [70.0](./Pharisees__Influence_on_Jewish_Law_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ Now, if you'll excuse me, I have an important meeting with a diverse group of co
  * [75.0](./Pharisees__Influence_on_Jewish_Law_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Pharisees__Influence_on_Jewish_Law_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Pharisees__Influence_on_Jewish_Law_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Pharisees__Influence_on_Jewish_Law_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

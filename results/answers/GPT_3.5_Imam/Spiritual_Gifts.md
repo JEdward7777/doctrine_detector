@@ -19,7 +19,7 @@ The Quran emphasizes the importance of recognizing and appreciating the spiritua
 It is important for Muslims to remember that all blessings come from Allah, and that they should strive to develop and nurture their spiritual gifts in a way that aligns with the teachings of Islam. By doing so, they can seek to improve themselves, their communities, and ultimately, their relationship with their Creator.
 
 ## Average Grade
-72.0
+66.66666666666667
 
 ## Grades
  * [70.0](./Spiritual_Gifts_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ It is important for Muslims to remember that all blessings come from Allah, and 
  * [70.0](./Spiritual_Gifts_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Spiritual_Gifts_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Spiritual_Gifts_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Spiritual_Gifts_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

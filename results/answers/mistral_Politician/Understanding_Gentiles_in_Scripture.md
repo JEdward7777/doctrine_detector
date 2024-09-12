@@ -23,7 +23,7 @@ Similarly, the Apostle Paul, who was initially a Pharisee and strict adherent to
 In summary, while early Israelites may have had a less inclusive view of Gentiles based on their traditional Jewish teachings, the advent of Christianity and the guidance of key figures like Peter and Paul led to a more accepting and welcoming attitude towards non-Jewish people within the church. However, it is important to note that this process was not without challenges and tensions, as we can see in the Book of Acts and the letters of Paul.
 
 ## Average Grade
-89.0
+88.33333333333333
 
 ## Grades
  * [90.0](./Understanding_Gentiles_in_Scripture_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ In summary, while early Israelites may have had a less inclusive view of Gentile
  * [90.0](./Understanding_Gentiles_in_Scripture_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_Gentiles_in_Scripture_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Gentiles_in_Scripture_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Understanding_Gentiles_in_Scripture_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

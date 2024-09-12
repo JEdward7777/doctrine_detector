@@ -25,7 +25,7 @@ The interaction between the centurion and Jesus, as described in the Gospels, pa
 In summary, the interaction underscores that faith has no boundaries and that authority can be expressed through humility and recognition of a greater power. It invites reflection on our own understandings of faith and how we engage with others across different backgrounds.
 
 ## Average Grade
-90.4
+90.33333333333333
 
 ## Grades
  * [90.0](./Centurion_and_Healing_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ In summary, the interaction underscores that faith has no boundaries and that au
  * [90.0](./Centurion_and_Healing_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Centurion_and_Healing_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Centurion_and_Healing_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Centurion_and_Healing_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -23,7 +23,7 @@ Lastly, the division might have influenced cultural exchanges and interfaith rel
 In summary, while the division of Herod's kingdom was not directly aimed at the Jewish people, it brought about political instability, potential economic hardships, and cultural tensions that impacted them significantly. It is crucial to acknowledge these historical events and their consequences to better understand the complexities of the past and present-day socio-political landscapes.
 
 ## Average Grade
-85.0
+82.5
 
 ## Grades
  * [90.0](./Historical_Context_of_Tetrarchs_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ In summary, while the division of Herod's kingdom was not directly aimed at the 
  * [90.0](./Historical_Context_of_Tetrarchs_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Historical_Context_of_Tetrarchs_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Historical_Context_of_Tetrarchs_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Historical_Context_of_Tetrarchs_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

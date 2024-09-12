@@ -23,7 +23,7 @@ In relation to God's authority, miracles serve as irrefutable evidence that supp
 In summary, a miracle is an extraordinary event or occurrence that demonstrates the prophethood of a messenger sent by God. Miracles serve as proof of God's authority, confirming the authenticity of His message and reinforcing faith in the hearts of believers.
 
 ## Average Grade
-92.0
+89.16666666666667
 
 ## Grades
  * [95.0](./Definition_of_a_Miracle_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ In summary, a miracle is an extraordinary event or occurrence that demonstrates 
  * [95.0](./Definition_of_a_Miracle_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Definition_of_a_Miracle_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Definition_of_a_Miracle_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Definition_of_a_Miracle_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

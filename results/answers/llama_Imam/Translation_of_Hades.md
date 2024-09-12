@@ -30,7 +30,7 @@ When exploring these terms, it's essential to consider their cultural and histor
 Keep in mind that these terms have been reinterpreted throughout history and across different Christian traditions. In Islamic tradition, we understand the concept of death and the afterlife differently, focusing on the Hereafter (Akhirah) and the Day of Judgment (Qiyamah).
 
 ## Average Grade
-84.0
+80.0
 
 ## Grades
  * [85.0](./Translation_of_Hades_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,3 +38,4 @@ Keep in mind that these terms have been reinterpreted throughout history and acr
  * [90.0](./Translation_of_Hades_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Translation_of_Hades_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Translation_of_Hades_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Translation_of_Hades_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

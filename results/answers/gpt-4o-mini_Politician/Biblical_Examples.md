@@ -27,7 +27,7 @@ Several biblical figures are highlighted as examples of being blameless, each em
 From these stories, we can learn valuable lessons about faith, resilience, integrity, character, forgiveness, and the importance of remaining true to ourselves and our values in a complex world. Each of these figures reminds us that being "blameless" often involves a commitment to a higher ethical standard and a dedication to positively impacting the lives of others.
 
 ## Average Grade
-91.0
+89.16666666666667
 
 ## Grades
  * [95.0](./Biblical_Examples_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ From these stories, we can learn valuable lessons about faith, resilience, integ
  * [90.0](./Biblical_Examples_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Biblical_Examples_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_Examples_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Biblical_Examples_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

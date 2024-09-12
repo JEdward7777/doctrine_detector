@@ -27,7 +27,7 @@ It is also worth noting that the Ark was not just any ordinary vessel; it was a 
 In summary, my brother, according to Islamic understanding, only righteous believers who had faith in Allah and His messenger Noah were allowed to approach and enter the Ark of the Covenant under the circumstances described in the Quran.
 
 ## Average Grade
-52.0
+48.333333333333336
 
 ## Grades
  * [50.0](./High_Priest_Access_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In summary, my brother, according to Islamic understanding, only righteous belie
  * [50.0](./High_Priest_Access_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [60.0](./High_Priest_Access_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./High_Priest_Access_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [30.0](./High_Priest_Access_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

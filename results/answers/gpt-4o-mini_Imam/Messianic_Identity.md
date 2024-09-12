@@ -29,7 +29,7 @@ The title 'King of the Jews' can be understood through several lenses:
 In summary, the title 'King of the Jews' encapsulates various interpretations tied to messianic expectations, political realities of the time, and theological implications of Jesus' identity as a central figure in both Christianity and Islam. For Muslims, while we honor Jesus as a prophet and the Messiah, we emphasize submission to God's will and await the coming of the true leader who will establish peace and justice according to divine decree.
 
 ## Average Grade
-88.0
+85.0
 
 ## Grades
  * [90.0](./Messianic_Identity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ In summary, the title 'King of the Jews' encapsulates various interpretations ti
  * [85.0](./Messianic_Identity_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Messianic_Identity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Messianic_Identity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Messianic_Identity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -21,7 +21,7 @@ The term is also found in the context of comfort and reassurance. In the book of
 Overall, "Shaddai" in the Old Testament conveys a multifaceted view of God as both a powerful protector and a nurturing provider, reinforcing key themes of dependence on deity and divine providence throughout the narrative.
 
 ## Average Grade
-88.0
+87.5
 
 ## Grades
  * [90.0](./Understanding_Shaddai_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Overall, "Shaddai" in the Old Testament conveys a multifaceted view of God as bo
  * [85.0](./Understanding_Shaddai_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_Shaddai_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Shaddai_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Understanding_Shaddai_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

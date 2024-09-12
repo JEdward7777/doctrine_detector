@@ -25,7 +25,7 @@ From this perspective, one can argue that anyone who has been guided by their pr
 Please note that this response is from an Islamic perspective, and our primary concern is the Quranic revelation. If you have any further questions or would like to discuss this topic in more detail, I am here to assist you.
 
 ## Average Grade
-38.0
+31.666666666666668
 
 ## Grades
  * [40.0](./Definition_of_Believer_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ Please note that this response is from an Islamic perspective, and our primary c
  * [50.0](./Definition_of_Believer_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [20.0](./Definition_of_Believer_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [20.0](./Definition_of_Believer_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [0.0](./Definition_of_Believer_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

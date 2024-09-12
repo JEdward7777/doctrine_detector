@@ -23,7 +23,7 @@ In terms of their relationship, this incident created tension between the two br
 Overall, the decision that Esau made to sell his birthright had long-lasting implications for both brothers, shaping their identities, their relationships, and the course of their lives. It serves as a cautionary tale about the importance of careful consideration when making decisions that affect one's future and the consequences of dishonesty in pursuing one's goals.
 
 ## Average Grade
-84.0
+81.66666666666667
 
 ## Grades
  * [85.0](./Understanding_Birthright_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ Overall, the decision that Esau made to sell his birthright had long-lasting imp
  * [85.0](./Understanding_Birthright_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Understanding_Birthright_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Birthright_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Understanding_Birthright_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

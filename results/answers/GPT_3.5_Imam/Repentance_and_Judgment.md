@@ -21,7 +21,7 @@ Regarding the concept of God's wrath, Islamic teachings emphasize that Allah's w
 Overall, in Islamic teachings, there is a balance between the concepts of repentance and the wrath of God. Repentance is encouraged as a means to seek Allah's forgiveness and mercy, while the concept of God's wrath serves as a reminder of the consequences of persisting in wrongdoing and rejecting His guidance.
 
 ## Average Grade
-70.0
+66.66666666666667
 
 ## Grades
  * [70.0](./Repentance_and_Judgment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Overall, in Islamic teachings, there is a balance between the concepts of repent
  * [70.0](./Repentance_and_Judgment_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Repentance_and_Judgment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Repentance_and_Judgment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Repentance_and_Judgment_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

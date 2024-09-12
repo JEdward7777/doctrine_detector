@@ -31,7 +31,7 @@ The usage of the term Christ evolves throughout the New Testament in several way
 In summary, the usage of the term 'Christ' in the New Testament showcases Jesus as the promised Messiah, the anointed one who was prophesied in the Old Testament and whom Christians believe to be the Son of God. The term is used to convey Jesus' identity, role, and relationship with God.
 
 ## Average Grade
-91.0
+90.83333333333333
 
 ## Grades
  * [90.0](./Christ_as_Title_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,3 +39,4 @@ In summary, the usage of the term 'Christ' in the New Testament showcases Jesus 
  * [95.0](./Christ_as_Title_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Christ_as_Title_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Christ_as_Title_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Christ_as_Title_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

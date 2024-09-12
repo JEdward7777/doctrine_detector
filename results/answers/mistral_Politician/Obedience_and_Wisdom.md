@@ -21,7 +21,7 @@ In this context, listening to God can be seen as nurturing a sense of humility, 
 However, it's essential to remember that wisdom is not exclusive to any particular belief system. Many individuals find wisdom through various means such as education, life experiences, personal growth, and open-mindedness. It's crucial to encourage dialogue, empathy, and mutual respect across all beliefs and backgrounds in order to create a more harmonious and enlightened society.
 
 ## Average Grade
-70.0
+68.33333333333333
 
 ## Grades
  * [60.0](./Obedience_and_Wisdom_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ However, it's essential to remember that wisdom is not exclusive to any particul
  * [70.0](./Obedience_and_Wisdom_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [75.0](./Obedience_and_Wisdom_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Obedience_and_Wisdom_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Obedience_and_Wisdom_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

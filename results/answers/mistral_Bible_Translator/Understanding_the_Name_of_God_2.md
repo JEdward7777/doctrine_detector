@@ -17,7 +17,7 @@ Understanding the significance of God's name is crucial for recognizing His natu
 In many translations, you may see "LORD" or "Adonai" used in place of Yahweh due to religious tradition. However, it's essential to remember that these titles are still representing the same divine being revealed to Moses and throughout the Old Testament. It's also worth noting that understanding the cultural context and historical background can greatly enrich our appreciation of the significance of God's name in the Old Testament.
 
 ## Average Grade
-92.0
+90.83333333333333
 
 ## Grades
  * [95.0](./Understanding_the_Name_of_God_2_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -25,3 +25,4 @@ In many translations, you may see "LORD" or "Adonai" used in place of Yahweh due
  * [95.0](./Understanding_the_Name_of_God_2_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_the_Name_of_God_2_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_the_Name_of_God_2_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Understanding_the_Name_of_God_2_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

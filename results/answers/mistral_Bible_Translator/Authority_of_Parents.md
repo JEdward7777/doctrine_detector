@@ -25,7 +25,7 @@ Navigating family dynamics within a Christian framework of obedience and authori
 These passages suggest that parental authority is rooted in God's commandments, and obedience to parents (within reason and without abuse) is a sign of respect for both God and the parents. However, it is important to note that these scriptures also emphasize the importance of loving, caring, and nurturing parenting. The Bible does not condone harsh or abusive treatment of children. Instead, it encourages raising children in the knowledge of the Lord.
 
 ## Average Grade
-91.4
+91.16666666666667
 
 ## Grades
  * [90.0](./Authority_of_Parents_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ These passages suggest that parental authority is rooted in God's commandments, 
  * [90.0](./Authority_of_Parents_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Authority_of_Parents_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Authority_of_Parents_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Authority_of_Parents_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

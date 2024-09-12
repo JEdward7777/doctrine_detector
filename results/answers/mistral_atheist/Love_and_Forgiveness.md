@@ -33,7 +33,7 @@ Forgiveness is critical in the biblical context for several reasons:
 In summary, forgiveness is a critical aspect of loving others as described in the biblical context because it allows us to reflect God's nature, restore relationships, promote peace, redeem ourselves and others, acknowledge God's power, and ultimately grow in our faith and understanding of love.
 
 ## Average Grade
-94.0
+92.5
 
 ## Grades
  * [95.0](./Love_and_Forgiveness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -41,3 +41,4 @@ In summary, forgiveness is a critical aspect of loving others as described in th
  * [90.0](./Love_and_Forgiveness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Love_and_Forgiveness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Love_and_Forgiveness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Love_and_Forgiveness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

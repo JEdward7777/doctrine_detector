@@ -29,7 +29,7 @@ In the Islamic tradition, figures like Moses (Musa) and King David (Dawud) are c
 Overall, the concept of being 'chosen' in Islam reinforces the idea that God has the ultimate authority and wisdom in selecting individuals to fulfill His divine plans, and it serves as a reminder of the responsibilities that come with such a calling.
 
 ## Average Grade
-90.0
+85.0
 
 ## Grades
  * [90.0](./The_Role_of_God_s_Chosen_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ Overall, the concept of being 'chosen' in Islam reinforces the idea that God has
  * [90.0](./The_Role_of_God_s_Chosen_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./The_Role_of_God_s_Chosen_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./The_Role_of_God_s_Chosen_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./The_Role_of_God_s_Chosen_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

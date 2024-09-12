@@ -23,7 +23,7 @@ Understanding the integration of Scripture in the communication of the Gospel.
 These examples demonstrate the importance of using Scripture in sharing the Gospel message. The Bible itself models this approach by connecting Old Testament prophecies with New Testament events and teachings. This method helps to establish the authority, relevance, and fulfillment of God's Word in both testaments.
 
 ## Average Grade
-92.0
+90.83333333333333
 
 ## Grades
  * [95.0](./Role_of_Scripture_in_the_Gospel_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ These examples demonstrate the importance of using Scripture in sharing the Gosp
  * [95.0](./Role_of_Scripture_in_the_Gospel_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Role_of_Scripture_in_the_Gospel_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Role_of_Scripture_in_the_Gospel_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Role_of_Scripture_in_the_Gospel_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -23,7 +23,7 @@ Lastly, they were disobedient to Allah's messengers. They not only rejected Mose
 These acts of disobedience and ingratitude are considered as examples of unfaithfulness in Islamic teaching, serving as reminders for Muslims to remain steadfast in their faith and obedience to Allah.
 
 ## Average Grade
-84.0
+73.33333333333333
 
 ## Grades
  * [85.0](./Unfaithfulness_in_Worship_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ These acts of disobedience and ingratitude are considered as examples of unfaith
  * [80.0](./Unfaithfulness_in_Worship_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Unfaithfulness_in_Worship_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Unfaithfulness_in_Worship_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./Unfaithfulness_in_Worship_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

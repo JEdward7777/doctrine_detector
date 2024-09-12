@@ -19,7 +19,7 @@ In such cases, it could be beneficial to use language and concepts that are more
 Ultimately, the goal of translation in religious contexts is to facilitate a deep understanding and connection with the divine message, and if rephrasing the term "Kingdom of God" can help achieve that goal in a particular cultural setting, then it may be advisable to do so.
 
 ## Average Grade
-88.0
+85.0
 
 ## Grades
  * [85.0](./Kingdom_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Ultimately, the goal of translation in religious contexts is to facilitate a dee
  * [95.0](./Kingdom_of_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Kingdom_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Kingdom_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Kingdom_of_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

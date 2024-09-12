@@ -19,7 +19,7 @@ This phrase often reflects an acknowledgment of vulnerability and the weight of 
 Historically, this expression has roots in literature and religious texts, where characters or figures lament their fates or shortcomings. In this sense, it can signify not just personal suffering but also an awareness of broader themes of human fallibility and the quest for redemption.
 
 ## Average Grade
-86.0
+85.83333333333333
 
 ## Grades
  * [90.0](./Personal_Reflection_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Historically, this expression has roots in literature and religious texts, where
  * [90.0](./Personal_Reflection_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Personal_Reflection_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Personal_Reflection_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Personal_Reflection_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

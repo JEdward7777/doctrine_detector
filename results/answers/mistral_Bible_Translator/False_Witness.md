@@ -27,7 +27,7 @@ In the Ten Commandments, the sixth commandment states, "You shall not bear false
 By adhering to the commandment against giving false testimony, Christians demonstrate their commitment to God's character, love for their neighbor, obedience to His commands, and pursuit of justice and righteousness in their lives and communities.
 
 ## Average Grade
-93.0
+92.5
 
 ## Grades
  * [95.0](./False_Witness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ By adhering to the commandment against giving false testimony, Christians demons
  * [95.0](./False_Witness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./False_Witness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./False_Witness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./False_Witness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

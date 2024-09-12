@@ -17,7 +17,7 @@ Understanding the true meaning of being a Christian in accordance with biblical 
 However, it's important to note that there are many different denominations within Christianity, each with their own unique beliefs, practices, and interpretations of the Bible. Therefore, while the basic definition may hold true across various Christian traditions, the specifics can vary significantly.
 
 ## Average Grade
-87.0
+87.5
 
 ## Grades
  * [85.0](./Definition_of_a_Christian_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -25,3 +25,4 @@ However, it's important to note that there are many different denominations with
  * [90.0](./Definition_of_a_Christian_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Definition_of_a_Christian_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Definition_of_a_Christian_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Definition_of_a_Christian_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

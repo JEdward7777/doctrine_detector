@@ -23,7 +23,7 @@ The term "spirit," on the other hand, refers to the non-physical part of a perso
 In summary, the Bible distinguishes between soul and spirit by differentiating between a person's life and physical existence (soul) and their divine, spiritual connection with God and the eternal aspects of themselves (spirit).
 
 ## Average Grade
-85.0
+82.5
 
 ## Grades
  * [85.0](./Nature_of_the_Soul_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ In summary, the Bible distinguishes between soul and spirit by differentiating b
  * [85.0](./Nature_of_the_Soul_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Nature_of_the_Soul_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Nature_of_the_Soul_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Nature_of_the_Soul_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

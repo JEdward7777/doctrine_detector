@@ -23,7 +23,7 @@ In a broader cultural context, the Ark of the Covenant and its Atonement Lid ser
 However, it is important to note that the Ark of the Covenant and its Atonement Lid are historical artifacts deeply rooted in ancient Jewish tradition and religion, and their significance may not be fully understood or relevant outside this cultural context.
 
 ## Average Grade
-89.0
+88.33333333333333
 
 ## Grades
  * [90.0](./atonement_lid_definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ However, it is important to note that the Ark of the Covenant and its Atonement 
  * [85.0](./atonement_lid_definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./atonement_lid_definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./atonement_lid_definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./atonement_lid_definition_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -23,7 +23,7 @@ The Most Holy Place contained only one item: the Ark of the Covenant (Aron Hakod
 Again, I hope this response respects all perspectives while providing an accurate and helpful answer about the Tabernacle.
 
 ## Average Grade
-80.0
+76.66666666666667
 
 ## Grades
  * [90.0](./Structure_of_the_Tabernacle_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ Again, I hope this response respects all perspectives while providing an accurat
  * [85.0](./Structure_of_the_Tabernacle_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Structure_of_the_Tabernacle_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Structure_of_the_Tabernacle_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Structure_of_the_Tabernacle_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

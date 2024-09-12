@@ -27,7 +27,7 @@ The concept of transgression, which often refers to the act of violating a comma
 These references collectively highlight the importance of understanding moral boundaries and the implications of actions that fall short of those guidelines. They serve as meaningful reflections on the human experience regarding ethics, accountability, and the pursuit of forgiveness.
 
 ## Average Grade
-86.0
+84.16666666666667
 
 ## Grades
  * [85.0](./Biblical_Examples_of_Transgression_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ These references collectively highlight the importance of understanding moral bo
  * [85.0](./Biblical_Examples_of_Transgression_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Biblical_Examples_of_Transgression_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_Examples_of_Transgression_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Biblical_Examples_of_Transgression_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -19,7 +19,7 @@ In our everyday decisions, seeking God's will could involve praying for wisdom, 
 I want to emphasize that this concept may vary greatly among individuals, as different religious traditions interpret God's will differently. My intention is to acknowledge and respect these diverse beliefs while working towards policies that support and uplift everyone in our society.
 
 ## Average Grade
-77.0
+72.5
 
 ## Grades
  * [70.0](./Understanding_God_s_Will_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ I want to emphasize that this concept may vary greatly among individuals, as dif
  * [85.0](./Understanding_God_s_Will_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Understanding_God_s_Will_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_God_s_Will_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Understanding_God_s_Will_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

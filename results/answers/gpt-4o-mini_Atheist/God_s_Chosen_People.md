@@ -29,7 +29,7 @@ From a scholarly perspective, the notion of a remnant can be interpreted as a ma
 In summary, the 'remnant' highlights God's selective grace towards His people by illustrating how faithfulness can lead to preservation and blessing, emphasizing the qualities of integrity, hope, and covenant loyalty. This concept invites reflection on the broader themes of redemption and the nature of divine grace as it operates within human experience.
 
 ## Average Grade
-91.4
+91.16666666666667
 
 ## Grades
  * [90.0](./God_s_Chosen_People_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ In summary, the 'remnant' highlights God's selective grace towards His people by
  * [90.0](./God_s_Chosen_People_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./God_s_Chosen_People_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./God_s_Chosen_People_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./God_s_Chosen_People_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

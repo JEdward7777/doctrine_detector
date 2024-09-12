@@ -21,7 +21,7 @@ In addition to repentance and baptism, ongoing sanctification or spiritual growt
 Ultimately, the Christian belief in purification from sin is rooted in the belief that Jesus Christ, who lived a sinless life and died on the cross as an atonement for human sin, offers salvation and forgiveness to those who believe in Him. This process of purification is not something that can be accomplished through one's own efforts, but rather it is the work of God's grace and love in the heart of a repentant believer.
 
 ## Average Grade
-91.0
+87.5
 
 ## Grades
  * [95.0](./Personal_Application_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Ultimately, the Christian belief in purification from sin is rooted in the belie
  * [95.0](./Personal_Application_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Personal_Application_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Personal_Application_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Personal_Application_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

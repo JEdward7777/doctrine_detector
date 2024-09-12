@@ -21,7 +21,7 @@ In Philippians 2:9-11, the exaltation of Christ serves as a powerful theological
 Together, these passages illustrate that in the Christian faith, exaltation is not achieved through self-assertion or pride but through humility and submission to God's will. The theme is that genuine exaltation comes as a result of embodying Christ-like humility, both in individual lives and within the broader community of faith.
 
 ## Average Grade
-93.0
+90.83333333333333
 
 ## Grades
  * [95.0](./Scriptural_References_7_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Together, these passages illustrate that in the Christian faith, exaltation is n
  * [95.0](./Scriptural_References_7_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Scriptural_References_7_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Scriptural_References_7_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Scriptural_References_7_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

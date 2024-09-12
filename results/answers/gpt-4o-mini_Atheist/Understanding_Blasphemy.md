@@ -32,7 +32,7 @@ The biblical implications of speaking against God or others can resonate deeply 
 In sum, blasphemy is treated with utmost seriousness in the Scriptures, reflecting a foundational principle concerning the reverence owed to God and the necessity of treating others with respect and compassion. Understanding these biblical implications can inform ethical discussions and personal conduct in contemporary contexts.
 
 ## Average Grade
-90.0
+89.16666666666667
 
 ## Grades
  * [95.0](./Understanding_Blasphemy_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -40,3 +40,4 @@ In sum, blasphemy is treated with utmost seriousness in the Scriptures, reflecti
  * [90.0](./Understanding_Blasphemy_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_Blasphemy_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Blasphemy_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Understanding_Blasphemy_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

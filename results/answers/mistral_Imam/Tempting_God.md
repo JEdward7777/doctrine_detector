@@ -23,7 +23,7 @@ This story demonstrates that God will not be manipulated or tested, and those wh
 In both Islamic and Biblical teachings, the act of tempting or testing God is discouraged as it reveals a lack of faith and trust in His omniscience and wisdom. Instead, worship and obedience should be offered sincerely, with humility and gratitude for the blessings that God has bestowed upon us.
 
 ## Average Grade
-88.0
+85.0
 
 ## Grades
  * [90.0](./Tempting_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ In both Islamic and Biblical teachings, the act of tempting or testing God is di
  * [85.0](./Tempting_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Tempting_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Tempting_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Tempting_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

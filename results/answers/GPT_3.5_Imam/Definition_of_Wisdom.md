@@ -21,7 +21,7 @@ Prophet Muhammad (peace be upon him) said, "The most complete of the believers i
 In summary, according to Islamic teachings, wisdom encompasses knowledge, good judgment, and the fear of Allah. It involves seeking knowledge, understanding, and reflecting on the teachings of Islam to make sound decisions and actions that benefit oneself and others.
 
 ## Average Grade
-64.0
+61.666666666666664
 
 ## Grades
  * [70.0](./Definition_of_Wisdom_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In summary, according to Islamic teachings, wisdom encompasses knowledge, good j
  * [60.0](./Definition_of_Wisdom_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [75.0](./Definition_of_Wisdom_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Definition_of_Wisdom_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Definition_of_Wisdom_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

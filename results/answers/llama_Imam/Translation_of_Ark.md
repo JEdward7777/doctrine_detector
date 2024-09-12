@@ -33,7 +33,7 @@ Keep in mind that these translations can vary depending on the specific context 
 I hope this clarifies the varying meanings of "ark" within different Biblical contexts. If you have any further questions or concerns, please don't hesitate to ask. Alhamdulillah.
 
 ## Average Grade
-81.0
+75.83333333333333
 
 ## Grades
  * [85.0](./Translation_of_Ark_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -41,3 +41,4 @@ I hope this clarifies the varying meanings of "ark" within different Biblical co
  * [85.0](./Translation_of_Ark_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Translation_of_Ark_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Translation_of_Ark_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Translation_of_Ark_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

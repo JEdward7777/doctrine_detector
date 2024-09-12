@@ -21,7 +21,7 @@ In contrast, the spiritual meaning of 'perish' can encompass a broader range of 
 To differentiate these concepts, one approach is to frame discussions within their respective contexts—acknowledging the physical aspect as a natural part of life while exploring spiritual notions as part of a broader philosophical or theological discourse. By providing a space for open dialogue, we can honor the diverse beliefs and feelings people hold regarding these profound topics.
 
 ## Average Grade
-81.0
+79.16666666666667
 
 ## Grades
  * [80.0](./Physical_vs._Spiritual_Death_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ To differentiate these concepts, one approach is to frame discussions within the
  * [90.0](./Physical_vs._Spiritual_Death_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Physical_vs._Spiritual_Death_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [65.0](./Physical_vs._Spiritual_Death_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Physical_vs._Spiritual_Death_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -19,7 +19,7 @@ The unleavened bread symbolizes the haste with which the Israelites left Egypt. 
 However, it's essential to remember that interpretations can vary among different religious communities, and the symbolism of unleavened bread may take on additional meanings in specific contexts.
 
 ## Average Grade
-89.0
+87.5
 
 ## Grades
  * [90.0](./Significance_of_Unleavened_Bread_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ However, it's essential to remember that interpretations can vary among differen
  * [90.0](./Significance_of_Unleavened_Bread_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Significance_of_Unleavened_Bread_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Significance_of_Unleavened_Bread_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Significance_of_Unleavened_Bread_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

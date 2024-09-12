@@ -21,7 +21,7 @@ Upon hearing this story, David was enraged and declared that the rich man deserv
 Nathan's use of the parable was a powerful method of addressing King David's sin, provoking him to acknowledge his guilt and prompting repentance, which is a significant theme in both the Biblical and Islamic understanding of accountability and the importance of recognizing one’s sins. In Islamic teachings, the approach of using stories or parables to convey moral lessons is also appreciated as a means to guide individuals toward reflection and repentance.
 
 ## Average Grade
-89.0
+87.5
 
 ## Grades
  * [90.0](./Role_of_Parables_in_Scripture_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Nathan's use of the parable was a powerful method of addressing King David's sin
  * [90.0](./Role_of_Parables_in_Scripture_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Role_of_Parables_in_Scripture_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Role_of_Parables_in_Scripture_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Role_of_Parables_in_Scripture_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -23,7 +23,7 @@ Atonement, forgiveness, and reconciliation are interrelated concepts in Christia
 In summary, atonement serves as the foundation for forgiveness, making it possible for individuals to be forgiven for their sins. In turn, this forgiveness facilitates reconciliation, allowing for mending of relationships both with God and with others. Together, these concepts underscore a central theme of Christianity: the transformative power of grace and the possibility of restoring broken relationships.
 
 ## Average Grade
-92.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Atonement_and_Forgiveness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ In summary, atonement serves as the foundation for forgiveness, making it possib
  * [95.0](./Atonement_and_Forgiveness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Atonement_and_Forgiveness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Atonement_and_Forgiveness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Atonement_and_Forgiveness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

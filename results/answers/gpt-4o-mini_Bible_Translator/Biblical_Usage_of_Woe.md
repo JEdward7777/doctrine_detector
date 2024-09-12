@@ -29,7 +29,7 @@ Certainly! The term "woe" is used throughout the Bible, particularly in the cont
 Overall, the term "woe" is used in the Scriptures to express God's serious displeasure with sin, warning both individuals and communities about the consequences of turning away from His ways. It serves as a call to repentance and the recognition of God's ultimate authority and justice.
 
 ## Average Grade
-91.0
+90.0
 
 ## Grades
  * [90.0](./Biblical_Usage_of_Woe_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ Overall, the term "woe" is used in the Scriptures to express God's serious displ
  * [95.0](./Biblical_Usage_of_Woe_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Biblical_Usage_of_Woe_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_Usage_of_Woe_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Biblical_Usage_of_Woe_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

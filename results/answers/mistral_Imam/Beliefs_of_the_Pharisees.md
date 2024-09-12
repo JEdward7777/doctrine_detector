@@ -21,7 +21,7 @@ Regarding spiritual beings, the Pharisees were known for their belief in angels,
 However, it is crucial to remember that these interpretations are based on Islamic sources' accounts of Judaism during the time of Prophet Muhammad (PBUH). A more comprehensive understanding would require delving into primary sources and scholarly works on Jewish beliefs and history, as well as considering the evolution of beliefs over centuries.
 
 ## Average Grade
-77.0
+70.83333333333333
 
 ## Grades
  * [85.0](./Beliefs_of_the_Pharisees_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ However, it is crucial to remember that these interpretations are based on Islam
  * [80.0](./Beliefs_of_the_Pharisees_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Beliefs_of_the_Pharisees_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Beliefs_of_the_Pharisees_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Beliefs_of_the_Pharisees_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

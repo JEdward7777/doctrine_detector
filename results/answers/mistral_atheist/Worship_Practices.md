@@ -27,7 +27,7 @@ While it would be inappropriate to assert that individuals are intentionally wor
 5. Entertainment and Popular Culture: In some cases, people may become so engrossed in entertainment or popular culture that it takes precedence over their spiritual lives. This can manifest as an unhealthy obsession with celebrities, television shows, or music, leading to a form of idolatry when these entertainments are given more importance than God.
 
 ## Average Grade
-92.0
+90.0
 
 ## Grades
  * [90.0](./Worship_Practices_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ While it would be inappropriate to assert that individuals are intentionally wor
  * [95.0](./Worship_Practices_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Worship_Practices_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Worship_Practices_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Worship_Practices_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

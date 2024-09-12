@@ -19,7 +19,7 @@ In Christian teachings, being "worldly" can suggest an inclination towards sinfu
 Thus, in Christianity, the label "worldly" typically carries a negative connotation, indicating behaviors that prioritize earthly satisfaction and materialism over spiritual development and alignment with God's will. In essence, it serves as a reminder for believers to maintain their focus on their faith and the teachings of Jesus, rather than getting lost in the distractions of the worldly life.
 
 ## Average Grade
-93.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Understanding_Worldly_Values_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Thus, in Christianity, the label "worldly" typically carries a negative connotat
  * [95.0](./Understanding_Worldly_Values_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_Worldly_Values_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Worldly_Values_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Understanding_Worldly_Values_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

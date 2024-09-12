@@ -29,7 +29,7 @@ When translating scriptures in cultures that respect multiple deities, it is cru
 6. Encourage open-mindedness: Encourage those in the culture to approach the Bible with an open mind, seeking wisdom and guidance from its teachings while maintaining their own cultural identity. Encourage them to question, learn, and grow as they engage with this sacred text.
 
 ## Average Grade
-85.0
+81.66666666666667
 
 ## Grades
  * [85.0](./One_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ When translating scriptures in cultures that respect multiple deities, it is cru
  * [85.0](./One_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./One_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./One_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [65.0](./One_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

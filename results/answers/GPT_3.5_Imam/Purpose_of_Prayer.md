@@ -29,7 +29,7 @@ In Islam, prayer holds several key purposes:
 Overall, prayer in Islam serves as a comprehensive spiritual practice that nourishes the soul, strengthens faith, and fosters a deep connection with Allah and with the community of believers.
 
 ## Average Grade
-81.0
+77.5
 
 ## Grades
  * [80.0](./Purpose_of_Prayer_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ Overall, prayer in Islam serves as a comprehensive spiritual practice that nouri
  * [85.0](./Purpose_of_Prayer_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Purpose_of_Prayer_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Purpose_of_Prayer_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Purpose_of_Prayer_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

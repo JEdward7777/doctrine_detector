@@ -19,7 +19,7 @@ From an Islamic perspective, while we do not refer to the Bible or its interpret
 In both faiths, the notion of being called by name emphasizes the importance of individual significance in the eyes of God and encourages believers to seek a personal connection with Him. It resonates with the idea that we are not just part of a collective, but we are valued as unique creations. This can inspire devotion, prayer, and a sense of responsibility in fulfilling the purpose given to us by God.
 
 ## Average Grade
-90.0
+86.66666666666667
 
 ## Grades
  * [90.0](./Understanding_God_s_Call_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ In both faiths, the notion of being called by name emphasizes the importance of 
  * [95.0](./Understanding_God_s_Call_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_God_s_Call_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_God_s_Call_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Understanding_God_s_Call_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

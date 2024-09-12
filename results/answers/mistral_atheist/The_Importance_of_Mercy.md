@@ -17,7 +17,7 @@ Emphasizing the importance of mercy in Christian conduct and its implications fo
 In a broader interpretation, this verse implies that the more mercy we show to others, the more understanding and compassionate God will be with us when He judges us. This principle encourages followers of Christianity to practice love, kindness, and empathy in their interactions with people around them. However, it's essential to note that interpretations may vary among different Christian denominations and theologians. For a more accurate understanding, I would recommend consulting religious scholars or texts directly.
 
 ## Average Grade
-89.0
+86.66666666666667
 
 ## Grades
  * [90.0](./The_Importance_of_Mercy_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -25,3 +25,4 @@ In a broader interpretation, this verse implies that the more mercy we show to o
  * [90.0](./The_Importance_of_Mercy_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./The_Importance_of_Mercy_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./The_Importance_of_Mercy_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./The_Importance_of_Mercy_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -23,7 +23,7 @@ Understanding translations aids in ensuring that church teachings align with scr
 In conclusion, it is essential to consider these implications when discussing inter-personal violations within a church community. Using neutral terms like 'trespass' can help maintain clarity and inclusivity while still allowing for nuanced discussions about appropriate behavior and resolution of conflicts.
 
 ## Average Grade
-87.0
+86.66666666666667
 
 ## Grades
  * [90.0](./Translation_of_Trespass_in_Different_Contexts_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ In conclusion, it is essential to consider these implications when discussing in
  * [90.0](./Translation_of_Trespass_in_Different_Contexts_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Translation_of_Trespass_in_Different_Contexts_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Translation_of_Trespass_in_Different_Contexts_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Translation_of_Trespass_in_Different_Contexts_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

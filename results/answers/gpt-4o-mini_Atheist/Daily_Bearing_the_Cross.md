@@ -19,7 +19,7 @@ Historically, the cross was a symbol of execution in Roman times, specifically a
 In a broader cultural context, "taking up your cross" can symbolize the need to prioritize values that may lead to personal sacrifice, such as compassion, justice, and integrity, even in the face of adversity. It encourages individuals to reflect on what they're willing to endure for their beliefs and the greater good. Thus, to "take up your cross" can be seen as an invitation to engage deeply with one's principles and to act on them, despite the potential for hardship.
 
 ## Average Grade
-90.0
+88.33333333333333
 
 ## Grades
  * [90.0](./Daily_Bearing_the_Cross_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ In a broader cultural context, "taking up your cross" can symbolize the need to 
  * [95.0](./Daily_Bearing_the_Cross_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Daily_Bearing_the_Cross_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Daily_Bearing_the_Cross_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Daily_Bearing_the_Cross_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

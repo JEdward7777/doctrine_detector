@@ -19,7 +19,7 @@ In these passages, the Sabbath is described as a day of rest, holy convocation (
 While the specific observance of the Sabbath has evolved over time and varies among different Jewish and Christian traditions, the fundamental principles remain the same: to set aside a day for rest, reflection, worship, and gratitude for the gifts of life and creation.
 
 ## Average Grade
-87.0
+84.16666666666667
 
 ## Grades
  * [90.0](./Sabbath_Observance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ While the specific observance of the Sabbath has evolved over time and varies am
  * [85.0](./Sabbath_Observance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Sabbath_Observance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Sabbath_Observance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Sabbath_Observance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

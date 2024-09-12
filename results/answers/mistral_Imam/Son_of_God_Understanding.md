@@ -19,7 +19,7 @@ In Islamic belief, Jesus (PBUH) is considered a prophet sent by God to guide hum
 It is important to note that this understanding of Jesus's relationship with God differs from some Christian beliefs, particularly those emphasizing the concept of the Trinity. Both religions share a deep reverence for Jesus and his role as a prophet, but the specific language used and interpretations of scripture can lead to significant differences in belief systems.
 
 ## Average Grade
-32.0
+33.333333333333336
 
 ## Grades
  * [50.0](./Son_of_God_Understanding_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ It is important to note that this understanding of Jesus's relationship with God
  * [40.0](./Son_of_God_Understanding_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [20.0](./Son_of_God_Understanding_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [20.0](./Son_of_God_Understanding_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Son_of_God_Understanding_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

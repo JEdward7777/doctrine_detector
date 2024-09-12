@@ -27,7 +27,7 @@ The concept of God's glory in the Bible is profoundly distinct from worldly sour
 In summary, while both concepts of glory exist, they differ fundamentally in their nature, source, purpose, duration, and impact on individuals and society. The biblical perspective encourages a focus on spiritual growth and love, contrasting with the more self-driven pursuit often associated with worldly glory.
 
 ## Average Grade
-95.0
+94.16666666666667
 
 ## Grades
  * [95.0](./Understanding_God_s_Glory_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In summary, while both concepts of glory exist, they differ fundamentally in the
  * [95.0](./Understanding_God_s_Glory_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_God_s_Glory_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Understanding_God_s_Glory_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Understanding_God_s_Glory_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

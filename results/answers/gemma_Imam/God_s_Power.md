@@ -43,7 +43,7 @@ Understanding God's omnipotence is fundamental to faith and worship.
 **The term 'Almighty' reminds Muslims of the immense power and glory of God, and encourages them to rely on His strength and seek His guidance in all aspects of life.**
 
 ## Average Grade
-91.0
+87.5
 
 ## Grades
  * [90.0](./God_s_Power_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -51,3 +51,4 @@ Understanding God's omnipotence is fundamental to faith and worship.
  * [95.0](./God_s_Power_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./God_s_Power_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./God_s_Power_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./God_s_Power_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

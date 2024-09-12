@@ -21,7 +21,7 @@ In addition, Jesus showed compassion towards those who were marginalized or over
 Throughout his interactions with the synagogue, Jesus demonstrated love, empathy, and a deep understanding of the scriptures. His teachings encouraged the pursuit of righteousness, forgiveness, and a life lived in accordance with God's will. By engaging with the synagogue community in this manner, he set an example for believers to follow even today.
 
 ## Average Grade
-88.0
+85.0
 
 ## Grades
  * [90.0](./Jesus_in_Synagogues_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Throughout his interactions with the synagogue, Jesus demonstrated love, empathy
  * [85.0](./Jesus_in_Synagogues_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Jesus_in_Synagogues_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Jesus_in_Synagogues_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Jesus_in_Synagogues_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -19,7 +19,7 @@ Their main responsibilities included performing priestly duties, regulating reli
 It is important to note that my understanding of the Sadducees is based on general knowledge and may not cover all aspects of their responsibilities within the Jewish temple system.
 
 ## Average Grade
-78.0
+75.0
 
 ## Grades
  * [80.0](./Role_of_Sadducees_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ It is important to note that my understanding of the Sadducees is based on gener
  * [90.0](./Role_of_Sadducees_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Role_of_Sadducees_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Role_of_Sadducees_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Role_of_Sadducees_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

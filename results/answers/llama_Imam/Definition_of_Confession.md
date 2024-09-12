@@ -31,7 +31,7 @@ In Islam, we do not have a concept equivalent to confession in Christianity. Ins
 While there are similarities between Christian confession and Islamic tawbah, they have distinct nuances and applications within their respective religious traditions. As a Muslim Imam, I must emphasize that each faith has its unique beliefs and practices, and we respect and honor these differences.
 
 ## Average Grade
-88.0
+81.66666666666667
 
 ## Grades
  * [95.0](./Definition_of_Confession_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,3 +39,4 @@ While there are similarities between Christian confession and Islamic tawbah, th
  * [85.0](./Definition_of_Confession_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Definition_of_Confession_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Definition_of_Confession_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Definition_of_Confession_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -38,7 +38,7 @@ Certainly! The concept of mercy is a central theme in the Bible, and there are m
 These examples from Scripture highlight the multifaceted nature of mercy—how it is shown by God, how it is expected in human relationships, and how it plays a transformative role in the lives of individuals.
 
 ## Average Grade
-79.0
+80.0
 
 ## Grades
  * [70.0](./Biblical_Examples_of_Mercy_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -46,3 +46,4 @@ These examples from Scripture highlight the multifaceted nature of mercy—how i
  * [80.0](./Biblical_Examples_of_Mercy_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Biblical_Examples_of_Mercy_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_Examples_of_Mercy_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Biblical_Examples_of_Mercy_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

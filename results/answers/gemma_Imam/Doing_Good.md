@@ -39,7 +39,7 @@ The concept of "doing good" is also emphasized in Islam, with emphasis on helpin
 **In essence, 'do good to' in a Christian context is a call to action that emphasizes the importance of loving and serving others as a reflection of God's love.**
 
 ## Average Grade
-93.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Doing_Good_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -47,3 +47,4 @@ The concept of "doing good" is also emphasized in Islam, with emphasis on helpin
  * [95.0](./Doing_Good_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Doing_Good_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Doing_Good_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Doing_Good_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

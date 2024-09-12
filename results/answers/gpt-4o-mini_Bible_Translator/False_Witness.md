@@ -29,7 +29,7 @@ The significance of giving false testimony in a Christian context can be underst
 In summary, the Bible’s teaching on false testimony underscores the value of truth, the impact of honesty on the community, and the alignment with God’s nature as a God of truth and justice. For Christians, adhering to these principles is essential to living out their faith authentically.
 
 ## Average Grade
-93.8
+92.33333333333333
 
 ## Grades
  * [94.0](./False_Witness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ In summary, the Bible’s teaching on false testimony underscores the value of t
  * [95.0](./False_Witness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./False_Witness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./False_Witness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./False_Witness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

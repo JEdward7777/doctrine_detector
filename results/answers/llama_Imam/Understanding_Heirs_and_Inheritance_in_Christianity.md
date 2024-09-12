@@ -27,7 +27,7 @@ While there are significant differences in how these concepts are understood, bo
 In conclusion, the concept of being an heir is more pronounced in Christian theology, where it is deeply connected to their understanding of salvation and redemption. In Islam, our focus is on fulfilling our duties as Muslims and pleasing Allah through good deeds and acts of worship.
 
 ## Average Grade
-83.0
+77.5
 
 ## Grades
  * [90.0](./Understanding_Heirs_and_Inheritance_in_Christianity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In conclusion, the concept of being an heir is more pronounced in Christian theo
  * [75.0](./Understanding_Heirs_and_Inheritance_in_Christianity_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Understanding_Heirs_and_Inheritance_in_Christianity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Heirs_and_Inheritance_in_Christianity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Understanding_Heirs_and_Inheritance_in_Christianity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

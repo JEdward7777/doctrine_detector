@@ -21,7 +21,7 @@ Lastly, the stoning of Stephen foreshadows the broader societal persecution that
 In terms of cultural context, the stoning of Stephen reveals the profound cultural clash between the emerging Christian movement and traditional Jewish beliefs. It underscores the complex interplay of religious, political, and social forces that shaped the early Christian church and its interactions with the wider society. As such, understanding this event provides valuable insights into the challenges faced by early Christians in spreading their message and establishing their community amidst adversity.
 
 ## Average Grade
-89.4
+87.83333333333333
 
 ## Grades
  * [90.0](./Stephen_s_Martyrdom_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In terms of cultural context, the stoning of Stephen reveals the profound cultur
  * [90.0](./Stephen_s_Martyrdom_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Stephen_s_Martyrdom_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Stephen_s_Martyrdom_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Stephen_s_Martyrdom_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

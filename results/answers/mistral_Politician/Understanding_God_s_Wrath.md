@@ -25,7 +25,7 @@ Lastly, it is essential to acknowledge that God's love far surpasses any express
 In summary, the nature of God's wrath as depicted in the Bible differs significantly from human anger due to its roots in righteousness, enduring duration, and ultimate purpose towards restoration and reconciliation. As we engage in discussions on this topic, let us strive for understanding, respect, and inclusivity, recognizing that diverse perspectives enrich our dialogue and foster a more harmonious community.
 
 ## Average Grade
-91.4
+87.0
 
 ## Grades
  * [90.0](./Understanding_God_s_Wrath_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ In summary, the nature of God's wrath as depicted in the Bible differs significa
  * [95.0](./Understanding_God_s_Wrath_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [92.0](./Understanding_God_s_Wrath_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_God_s_Wrath_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [65.0](./Understanding_God_s_Wrath_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

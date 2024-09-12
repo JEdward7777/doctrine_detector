@@ -19,7 +19,7 @@ Believers are typically characterized by their commitment to following God's com
 Throughout the Bible, faith is seen as a central tenet of what it means to be a believer, and passages like Hebrews 11 highlight the importance of faith in the lives of biblical figures. Different denominations and interpretations may have varied understandings of what constitutes being a believer, but faith in God and acceptance of Jesus' role in salvation is a common thread.
 
 ## Average Grade
-85.0
+84.16666666666667
 
 ## Grades
  * [85.0](./Definition_of_Believer_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Throughout the Bible, faith is seen as a central tenet of what it means to be a 
  * [90.0](./Definition_of_Believer_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Definition_of_Believer_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Definition_of_Believer_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Definition_of_Believer_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

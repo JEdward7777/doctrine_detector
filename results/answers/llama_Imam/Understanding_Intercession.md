@@ -31,7 +31,7 @@ In Islam, we believe in the concept of "wasila" or intermediation, which refers 
 In conclusion, while I am not a Christian scholar, I hope this brief overview provides some insight into the role of the Holy Spirit in intercession according to Christian scriptures. As Muslims, we must continue to engage with other faiths and cultures with respect, compassion, and an open heart.
 
 ## Average Grade
-90.0
+85.0
 
 ## Grades
  * [90.0](./Understanding_Intercession_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,3 +39,4 @@ In conclusion, while I am not a Christian scholar, I hope this brief overview pr
  * [90.0](./Understanding_Intercession_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_Intercession_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Understanding_Intercession_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Understanding_Intercession_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

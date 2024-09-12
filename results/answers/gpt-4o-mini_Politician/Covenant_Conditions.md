@@ -29,7 +29,7 @@ In the Bible, covenants are agreements or promises that establish a relationship
 These covenants illustrate the diverse ways God interacts with humanity, showing both the importance of obedience in certain contexts and the assurance of His promises in others. Understanding these distinctions can help provide deeper insights into the biblical narrative and the nature of God’s relationship with His people.
 
 ## Average Grade
-93.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Covenant_Conditions_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ These covenants illustrate the diverse ways God interacts with humanity, showing
  * [95.0](./Covenant_Conditions_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Covenant_Conditions_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Covenant_Conditions_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Covenant_Conditions_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

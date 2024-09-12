@@ -23,7 +23,7 @@ Thus, while "scripture" can be seen as the documented and compiled texts, "the w
 In summary, scripture is the written collection of God's revelation, while the "word of God" refers to the broader concept of His message and communication, which includes the contents of scripture and the active presence of divine teaching in the world.
 
 ## Average Grade
-87.0
+87.5
 
 ## Grades
  * [85.0](./Nature_of_Scripture_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ In summary, scripture is the written collection of God's revelation, while the "
  * [85.0](./Nature_of_Scripture_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Nature_of_Scripture_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Nature_of_Scripture_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Nature_of_Scripture_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

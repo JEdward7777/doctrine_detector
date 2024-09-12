@@ -33,7 +33,7 @@ Here are some implications for a believer from an Islamic perspective:
 In summary, the concept of a seared conscience serves as a warning to maintain moral integrity and spiritual vigilance within one’s faith life, enhancing the believer’s relationship with Allah and reinforcing commitment to righteousness.
 
 ## Average Grade
-85.0
+80.83333333333333
 
 ## Grades
  * [85.0](./Seared_Conscience_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -41,3 +41,4 @@ In summary, the concept of a seared conscience serves as a warning to maintain m
  * [80.0](./Seared_Conscience_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Seared_Conscience_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Seared_Conscience_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Seared_Conscience_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

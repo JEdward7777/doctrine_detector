@@ -15,7 +15,7 @@ Clarifying the source of holiness reinforces the central role of faith in Jesus 
 In the Islamic faith, we do not have a concept of believers becoming saints as in Christianity. In Islam, all believers are encouraged to strive for righteousness and obedience to Allah in order to attain closeness to Him and ultimately achieve paradise. Saints do not have a specific designation or status in Islam like they do in Christianity. Instead, we believe that all believers have the potential to draw near to Allah through sincere belief, good deeds, and seeking His forgiveness and guidance.
 
 ## Average Grade
-86.0
+73.33333333333333
 
 ## Grades
  * [90.0](./Source_of_Holiness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ In the Islamic faith, we do not have a concept of believers becoming saints as i
  * [95.0](./Source_of_Holiness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Source_of_Holiness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Source_of_Holiness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [10.0](./Source_of_Holiness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

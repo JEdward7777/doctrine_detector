@@ -25,7 +25,7 @@ Furthermore, using this phrase allows Jesus to contrast His message with that of
 In conclusion, retaining the term "heaven" in the phrase "kingdom of heaven" is important because it underscores the spiritual nature of Jesus' message, emphasizes the contrast between earthly and heavenly values, and invites people to submit to Allah's will and wisdom.
 
 ## Average Grade
-82.0
+78.33333333333333
 
 ## Grades
  * [85.0](./Kingdom_of_Heaven_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ In conclusion, retaining the term "heaven" in the phrase "kingdom of heaven" is 
  * [75.0](./Kingdom_of_Heaven_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Kingdom_of_Heaven_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Kingdom_of_Heaven_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Kingdom_of_Heaven_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

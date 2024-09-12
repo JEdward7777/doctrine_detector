@@ -31,7 +31,7 @@ In the biblical context, an 'upright' person is typically characterized by sever
 These qualities collectively paint a picture of someone who strives to live a life that reflects their values and promotes the well-being of others, in alignment with biblical teachings.
 
 ## Average Grade
-89.0
+86.66666666666667
 
 ## Grades
  * [95.0](./Characteristics_of_the_Upright_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,3 +39,4 @@ These qualities collectively paint a picture of someone who strives to live a li
  * [90.0](./Characteristics_of_the_Upright_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Characteristics_of_the_Upright_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Characteristics_of_the_Upright_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Characteristics_of_the_Upright_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

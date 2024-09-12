@@ -17,7 +17,7 @@ The term "saints" can be translated in several ways, depending on the context an
 It's also important to be mindful of the cultural connotations associated with the term in different communities, and to choose a translation that is inclusive and respectful of varying beliefs and practices. If you have a specific context in mind, I’d be happy to provide a more tailored recommendation.
 
 ## Average Grade
-79.0
+77.5
 
 ## Grades
  * [80.0](./Translation_of_Saints_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -25,3 +25,4 @@ It's also important to be mindful of the cultural connotations associated with t
  * [85.0](./Translation_of_Saints_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [75.0](./Translation_of_Saints_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Translation_of_Saints_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Translation_of_Saints_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

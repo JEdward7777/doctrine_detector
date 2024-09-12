@@ -31,7 +31,7 @@ In Islam, these qualities are highly valued, as reflected in the teachings of th
 Thus, embodying graciousness in our interactions is not only a personal virtue but also an essential part of Islamic conduct that fosters harmony and strengthens community bonds.
 
 ## Average Grade
-78.0
+75.0
 
 ## Grades
  * [75.0](./Being_Gracious_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,3 +39,4 @@ Thus, embodying graciousness in our interactions is not only a personal virtue b
  * [90.0](./Being_Gracious_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [60.0](./Being_Gracious_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Being_Gracious_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Being_Gracious_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

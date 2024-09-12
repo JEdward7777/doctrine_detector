@@ -29,7 +29,7 @@ The "kingdom of God" is a central theme in the New Testament and refers to God's
 In conclusion, while the "kingdom of God" holds specific meanings within Christian theology, it can also resonate on a broader level with themes of divine justice, moral integrity, and spiritual renewal, which are values appreciated across various religious traditions, including Islam.
 
 ## Average Grade
-82.4
+80.33333333333333
 
 ## Grades
  * [82.0](./Understanding_the_Kingdom_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ In conclusion, while the "kingdom of God" holds specific meanings within Christi
  * [85.0](./Understanding_the_Kingdom_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Understanding_the_Kingdom_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_the_Kingdom_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Understanding_the_Kingdom_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

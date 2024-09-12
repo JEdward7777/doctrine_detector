@@ -23,7 +23,7 @@ In addition, in 2 Corinthians 1:4, we find that God is described as the one "who
 These examples illustrate that in a biblical context, ministering involves serving others selflessly, caring for their spiritual well-being, offering emotional support, and demonstrating compassion and empathy. It's not about personal gain but rather about putting others first and showing the love of God.
 
 ## Average Grade
-92.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Ministry_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ These examples illustrate that in a biblical context, ministering involves servi
  * [95.0](./Ministry_Definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Ministry_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Ministry_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Ministry_Definition_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

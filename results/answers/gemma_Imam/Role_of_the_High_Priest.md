@@ -15,7 +15,7 @@ Understanding the significance of the high priest's role in the worship practice
 In Islamic tradition, the concept of high priests or sacerdlies does not exist. Islamic belief follows the teachings of the Quran and the Sunnah, which do not recognize such hierarchical positions among religious leaders.
 
 ## Average Grade
-74.0
+65.0
 
 ## Grades
  * [80.0](./Role_of_the_High_Priest_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ In Islamic tradition, the concept of high priests or sacerdlies does not exist. 
  * [90.0](./Role_of_the_High_Priest_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Role_of_the_High_Priest_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [20.0](./Role_of_the_High_Priest_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./Role_of_the_High_Priest_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

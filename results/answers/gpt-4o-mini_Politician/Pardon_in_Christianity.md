@@ -21,7 +21,7 @@ Furthermore, this concept of pardon is transformational, highlighting not just t
 By framing forgiveness in this way, it aims to foster a sense of hope and understanding, encouraging individuals to extend compassion towards others, as they themselves have been shown grace. In essence, both pardon and divine forgiveness serve as reminders of the power of love, reconciliation, and the importance of reflecting that grace in our interactions with others.
 
 ## Average Grade
-91.0
+86.66666666666667
 
 ## Grades
  * [90.0](./Pardon_in_Christianity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ By framing forgiveness in this way, it aims to foster a sense of hope and unders
  * [95.0](./Pardon_in_Christianity_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Pardon_in_Christianity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Pardon_in_Christianity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [65.0](./Pardon_in_Christianity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -29,7 +29,7 @@ In summary, these references deepen our understanding of the significance of bir
 While these references may not directly impact Islamic teachings, they do provide valuable insights into the importance of birthright in Jewish and Christian traditions. As Muslims, we recognize the importance of lineage and inheritance in our own faith, but our understanding of birthright is tied more closely to concepts like spiritual descent (wasilah) and the pursuit of higher spiritual stations (maqamat).
 
 ## Average Grade
-85.0
+82.5
 
 ## Grades
  * [85.0](./Scriptural_References_4_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ While these references may not directly impact Islamic teachings, they do provid
  * [85.0](./Scriptural_References_4_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Scriptural_References_4_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Scriptural_References_4_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Scriptural_References_4_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

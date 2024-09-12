@@ -17,7 +17,7 @@ Recognizing the importance of His revelation in understanding God's character an
 However, it is essential to remember that the Bible was written thousands of years ago, in a cultural context significantly different from ours today. The language used by God in the Bible may not be politically correct according to modern standards, as it often reflects the patriarchal and anthropomorphic traditions of ancient times. Therefore, when engaging with sacred texts, it is crucial to approach them with sensitivity, understanding, and respect for their historical context and the diverse perspectives they represent.
 
 ## Average Grade
-75.0
+69.16666666666667
 
 ## Grades
  * [70.0](./God_s_Revelation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -25,3 +25,4 @@ However, it is essential to remember that the Bible was written thousands of yea
  * [40.0](./God_s_Revelation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./God_s_Revelation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./God_s_Revelation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./God_s_Revelation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

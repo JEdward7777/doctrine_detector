@@ -27,7 +27,7 @@ The concept of the "Day of Yahweh" (or "Day of the Lord") appears throughout the
 In summary, the descriptions of God’s punishment during the Day of Yahweh encapsulate themes of judgment, cosmic signs, the opportunity for repentance, and eventual restoration, reflecting both the justice and mercy of the divine.
 
 ## Average Grade
-92.0
+88.33333333333333
 
 ## Grades
  * [95.0](./God_s_Wrath_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In summary, the descriptions of God’s punishment during the Day of Yahweh enca
  * [95.0](./God_s_Wrath_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./God_s_Wrath_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./God_s_Wrath_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./God_s_Wrath_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

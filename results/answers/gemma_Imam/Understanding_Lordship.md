@@ -26,7 +26,7 @@ Understanding the significance of the term 'Lord' in relation to Jesus and God i
 **The term 'Lord' emphasizes Jesus' divine authority and sovereignty.** It is a title of reverence and submission, acknowledging his rightful place as the supreme ruler and leader of all who believe in him.
 
 ## Average Grade
-90.0
+85.0
 
 ## Grades
  * [90.0](./Understanding_Lordship_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,3 +34,4 @@ Understanding the significance of the term 'Lord' in relation to Jesus and God i
  * [95.0](./Understanding_Lordship_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_Lordship_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Understanding_Lordship_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Understanding_Lordship_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

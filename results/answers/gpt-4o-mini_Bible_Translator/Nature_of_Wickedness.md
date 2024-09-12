@@ -34,7 +34,7 @@ The Bible provides numerous insights into what it means for individuals to be 'w
 In summary, the Bible outlines that wickedness stems from a corrupted heart, leads to severe consequences, affirms the possibility of repentance, and emphasizes God's justice. It paints a picture of a moral universe in which righteousness is ultimately rewarded, whereas wickedness leads to destruction.
 
 ## Average Grade
-92.0
+90.0
 
 ## Grades
  * [95.0](./Nature_of_Wickedness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -42,3 +42,4 @@ In summary, the Bible outlines that wickedness stems from a corrupted heart, lea
  * [90.0](./Nature_of_Wickedness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Nature_of_Wickedness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Nature_of_Wickedness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Nature_of_Wickedness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

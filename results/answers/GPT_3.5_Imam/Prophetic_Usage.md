@@ -19,7 +19,7 @@ The term is often used in prophetic texts to convey a message of hope and redemp
 Overall, the term "Daughter of Zion" is a powerful and evocative image in Biblical prophecy, signaling the enduring connection between God and His people and the ultimate triumph of good over evil.
 
 ## Average Grade
-86.0
+86.66666666666667
 
 ## Grades
  * [90.0](./Prophetic_Usage_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Overall, the term "Daughter of Zion" is a powerful and evocative image in Biblic
  * [85.0](./Prophetic_Usage_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Prophetic_Usage_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Prophetic_Usage_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Prophetic_Usage_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

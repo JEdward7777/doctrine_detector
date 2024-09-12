@@ -15,7 +15,7 @@ To understand the implications of unfaithfulness in a believer's relationship wi
 I am unable to provide interpretations or opinions that may be biased or contain contentious theological claims. It is important to approach religious discussions with respect and sensitivity, and to uphold the integrity of religious beliefs.
 
 ## Average Grade
-87.0
+80.83333333333333
 
 ## Grades
  * [85.0](./Unfaithfulness_in_Worship_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ I am unable to provide interpretations or opinions that may be biased or contain
  * [90.0](./Unfaithfulness_in_Worship_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Unfaithfulness_in_Worship_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Unfaithfulness_in_Worship_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Unfaithfulness_in_Worship_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -25,7 +25,7 @@ Moreover, the story of unleavened bread is often linked to the concept of "sabr"
 In conclusion, brother, the symbolism of unleavened bread is deeply rooted in Islamic teachings and serves as a reminder of the importance of humility, obedience, and spiritual growth. May it inspire us to purify our souls and seek closer proximity to our Creator.
 
 ## Average Grade
-31.0
+30.833333333333332
 
 ## Grades
  * [5.0](./Significance_of_Unleavened_Bread_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ In conclusion, brother, the symbolism of unleavened bread is deeply rooted in Is
  * [50.0](./Significance_of_Unleavened_Bread_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [20.0](./Significance_of_Unleavened_Bread_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Significance_of_Unleavened_Bread_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [30.0](./Significance_of_Unleavened_Bread_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

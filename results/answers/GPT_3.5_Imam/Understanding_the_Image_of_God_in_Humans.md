@@ -31,7 +31,7 @@ Some of the qualities that reflect the image of God or divine attributes include
 It is important to note that while humans possess qualities that reflect divine attributes, they are limited and imperfect compared to the infinite and perfect attributes of Allah. Therefore, it is essential for Muslims to strive to develop these qualities as a means of emulating the divine attributes and fulfilling their purpose as vicegerents on earth (Quran 2:30).
 
 ## Average Grade
-85.0
+83.33333333333333
 
 ## Grades
  * [85.0](./Understanding_the_Image_of_God_in_Humans_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,3 +39,4 @@ It is important to note that while humans possess qualities that reflect divine 
  * [90.0](./Understanding_the_Image_of_God_in_Humans_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [75.0](./Understanding_the_Image_of_God_in_Humans_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_the_Image_of_God_in_Humans_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Understanding_the_Image_of_God_in_Humans_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

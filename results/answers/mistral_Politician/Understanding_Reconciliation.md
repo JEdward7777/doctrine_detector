@@ -21,7 +21,7 @@ Jesus is believed to have lived a sinless life, died on the cross as a sacrifice
 It's crucial to remember that the interpretation of religious texts may vary among individuals, and it's essential for everyone to respect these differences while fostering open dialogue and mutual understanding within our diverse community.
 
 ## Average Grade
-91.0
+87.5
 
 ## Grades
  * [95.0](./Understanding_Reconciliation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ It's crucial to remember that the interpretation of religious texts may vary amo
  * [90.0](./Understanding_Reconciliation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_Reconciliation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Reconciliation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Understanding_Reconciliation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

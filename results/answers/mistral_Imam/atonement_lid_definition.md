@@ -23,7 +23,7 @@ This practice is not directly mentioned in the Quran, but it aligns with one of 
 In conclusion, while the specific details about the atonement lid in the Ark of the Covenant may not be directly addressed in Islamic sources, its symbolism of seeking divine forgiveness is a shared concept with Islam.
 
 ## Average Grade
-83.0
+77.5
 
 ## Grades
  * [85.0](./atonement_lid_definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ In conclusion, while the specific details about the atonement lid in the Ark of 
  * [90.0](./atonement_lid_definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./atonement_lid_definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./atonement_lid_definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./atonement_lid_definition_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

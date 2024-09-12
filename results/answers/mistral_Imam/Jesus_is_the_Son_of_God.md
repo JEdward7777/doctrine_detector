@@ -17,7 +17,7 @@ While minimizing offense is important, it is also important to ensure that the t
 So, when translating the phrase "Jesus is the Son of God" into a Muslim context, it would be more accurate to say that Jesus (peace be upon him) is a prophet and messenger of Allah. This statement reflects Islamic beliefs about Jesus' status in Islam while avoiding any language or ideas that may not align with our religious tenets.
 
 ## Average Grade
-48.0
+50.0
 
 ## Grades
  * [30.0](./Jesus_is_the_Son_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -25,3 +25,4 @@ So, when translating the phrase "Jesus is the Son of God" into a Muslim context,
  * [40.0](./Jesus_is_the_Son_of_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [60.0](./Jesus_is_the_Son_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Jesus_is_the_Son_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Jesus_is_the_Son_of_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

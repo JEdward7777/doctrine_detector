@@ -41,7 +41,7 @@ The Bible contains numerous testimonies that support and elucidate the commandme
 The significance of testimony in the Bible is recognized in Islam as an important element in establishing the truth and upholding justice. The testimonies in the Bible support and elucidate the commandments of God, providing valuable insights into their origins and applications.
 
 ## Average Grade
-77.0
+72.5
 
 ## Grades
  * [85.0](./Testimony_Meaning_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -49,3 +49,4 @@ The significance of testimony in the Bible is recognized in Islam as an importan
  * [85.0](./Testimony_Meaning_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Testimony_Meaning_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Testimony_Meaning_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Testimony_Meaning_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

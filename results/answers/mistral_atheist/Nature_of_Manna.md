@@ -15,7 +15,7 @@ Understanding the miraculous provision of God.
  According to the Bible, the appearance of manna is described in Exodus 16:31 as being like "coriander seed, white; and the taste was like wafers made with honey." However, it's important to note that the manna described in the Bible is a miraculous food provided by God during the Israelites' journey through the wilderness, and it may not have resembled actual coriander seeds or honey-flavored wafers as we understand them today. The descriptions are metaphorical and culturally contextualized within the ancient Near Eastern worldview.
 
 ## Average Grade
-89.0
+89.16666666666667
 
 ## Grades
  * [90.0](./Nature_of_Manna_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ Understanding the miraculous provision of God.
  * [90.0](./Nature_of_Manna_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Nature_of_Manna_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Nature_of_Manna_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Nature_of_Manna_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

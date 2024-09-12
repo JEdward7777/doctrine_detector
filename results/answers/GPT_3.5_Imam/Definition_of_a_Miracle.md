@@ -19,7 +19,7 @@ Miracles serve as a means to strengthen the faith of believers and to invite non
 In summary, miracles are extraordinary events that demonstrate God's authority and power over the universe, and serve as a means to affirm the truth of prophethood and invite people to believe in the existence and oneness of God.
 
 ## Average Grade
-92.0
+90.0
 
 ## Grades
  * [90.0](./Definition_of_a_Miracle_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ In summary, miracles are extraordinary events that demonstrate God's authority a
  * [90.0](./Definition_of_a_Miracle_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Definition_of_a_Miracle_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Definition_of_a_Miracle_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Definition_of_a_Miracle_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

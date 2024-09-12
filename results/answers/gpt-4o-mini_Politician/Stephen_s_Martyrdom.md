@@ -27,7 +27,7 @@ The stoning of Stephen, as recorded in the Book of Acts in the New Testament, ho
 In summary, the stoning of Stephen is significant not only as an individual act of martyrdom but also as a reflection of the broader struggles, resilience, and transformative growth of the early Christian church. It emphasizes the complexity of faith, community, and the challenges inherent in standing up for one’s beliefs during times of adversity.
 
 ## Average Grade
-95.0
+92.5
 
 ## Grades
  * [95.0](./Stephen_s_Martyrdom_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In summary, the stoning of Stephen is significant not only as an individual act 
  * [95.0](./Stephen_s_Martyrdom_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Stephen_s_Martyrdom_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Stephen_s_Martyrdom_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Stephen_s_Martyrdom_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

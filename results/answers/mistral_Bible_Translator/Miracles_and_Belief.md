@@ -19,7 +19,7 @@ In this sense, miracles function as signs that lead to belief in God by providin
 The response to a miracle, however, is ultimately up to each individual. The Bible records instances where people witnessed miracles yet continued to disbelieve (John 12:37), while others responded with faith and devotion (Matthew 8:10). Ultimately, the purpose of miracles as signs is not only to provide evidence for God's existence but also to prompt people to engage with Him on a personal level and come to a deeper understanding of His character and nature.
 
 ## Average Grade
-91.0
+90.83333333333333
 
 ## Grades
  * [95.0](./Miracles_and_Belief_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ The response to a miracle, however, is ultimately up to each individual. The Bib
  * [95.0](./Miracles_and_Belief_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Miracles_and_Belief_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Miracles_and_Belief_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Miracles_and_Belief_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

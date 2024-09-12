@@ -31,7 +31,7 @@ According to the Bible, Jesus also demonstrated favor with men by:
 These demonstrations of favor with God and men, as described in the Bible, are an integral part of Jesus' life and ministry. As Muslims, we respect Jesus as a prophet and recognize his importance in the history of prophethood, but our understanding of his role and message may differ slightly from Christian perspectives.
 
 ## Average Grade
-83.0
+80.83333333333333
 
 ## Grades
  * [85.0](./Understanding_God_s_Favor_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,3 +39,4 @@ These demonstrations of favor with God and men, as described in the Bible, are a
  * [75.0](./Understanding_God_s_Favor_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Understanding_God_s_Favor_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_God_s_Favor_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Understanding_God_s_Favor_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -23,7 +23,7 @@ This assurance is not based on our own works or efforts, but solely on faith in 
 So, for those who believe in Jesus, they can have the assurance of eternal life and salvation based on God's promises and His grace.
 
 ## Average Grade
-94.0
+94.16666666666667
 
 ## Grades
  * [95.0](./Assurance_of_Salvation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ So, for those who believe in Jesus, they can have the assurance of eternal life 
  * [95.0](./Assurance_of_Salvation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Assurance_of_Salvation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Assurance_of_Salvation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [95.0](./Assurance_of_Salvation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

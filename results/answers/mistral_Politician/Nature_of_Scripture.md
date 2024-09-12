@@ -21,7 +21,7 @@ The term "Scripture" is used in a broader sense to encompass all of the books th
 It's important to note that interpretations of Scripture can vary widely among different religious communities and individuals, and it's crucial to approach these texts with respect for the diverse perspectives that exist within and across faith traditions.
 
 ## Average Grade
-87.0
+85.0
 
 ## Grades
  * [85.0](./Nature_of_Scripture_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ It's important to note that interpretations of Scripture can vary widely among d
  * [90.0](./Nature_of_Scripture_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Nature_of_Scripture_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Nature_of_Scripture_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Nature_of_Scripture_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

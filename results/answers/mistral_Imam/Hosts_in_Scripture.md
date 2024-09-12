@@ -21,7 +21,7 @@ The term can sometimes refer to jinn as well, who, according to Islamic belief, 
 In a broader context, the term hosts can also be used in narrations (hadith) to describe the Companions of Prophet Muhammad (peace be upon him), who were collectively referred to as his host or army.
 
 ## Average Grade
-79.0
+77.5
 
 ## Grades
  * [80.0](./Hosts_in_Scripture_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In a broader context, the term hosts can also be used in narrations (hadith) to 
  * [85.0](./Hosts_in_Scripture_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Hosts_in_Scripture_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Hosts_in_Scripture_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Hosts_in_Scripture_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

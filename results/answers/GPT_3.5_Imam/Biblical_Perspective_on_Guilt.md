@@ -19,7 +19,7 @@ In Islam, it is believed that everyone will be held accountable for their deeds 
 It is important for Muslims to strive for righteousness, seek forgiveness for their sins, and repent sincerely in order to avoid the negative consequences of guilt and sin in the afterlife.
 
 ## Average Grade
-64.0
+56.666666666666664
 
 ## Grades
  * [65.0](./Biblical_Perspective_on_Guilt_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ It is important for Muslims to strive for righteousness, seek forgiveness for th
  * [50.0](./Biblical_Perspective_on_Guilt_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [75.0](./Biblical_Perspective_on_Guilt_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Biblical_Perspective_on_Guilt_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./Biblical_Perspective_on_Guilt_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

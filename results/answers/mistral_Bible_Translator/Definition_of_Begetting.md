@@ -19,7 +19,7 @@ In the New Testament, Jesus Christ is described as "begotten" (Greek: "gennethei
 Additionally, within Christian theology, believers are said to be "born again" or "begotten anew" through spiritual rebirth (John 3:3, 1 Peter 1:23), emphasizing their new identity as children of God. In this context, "beget" symbolizes a spiritual relationship and the transformation that occurs when individuals accept Jesus Christ as their Savior.
 
 ## Average Grade
-92.4
+88.66666666666667
 
 ## Grades
  * [95.0](./Definition_of_Begetting_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Additionally, within Christian theology, believers are said to be "born again" o
  * [95.0](./Definition_of_Begetting_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Definition_of_Begetting_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Definition_of_Begetting_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Definition_of_Begetting_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

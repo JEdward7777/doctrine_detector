@@ -27,7 +27,7 @@ Many Christians struggle with how to properly express their sorrows and regrets,
 In summary, lamentation plays a crucial role in the life of a believer by reminding us of death, seeking forgiveness, strengthening our faith, purifying our souls, and teaching empathy and compassion. It helps us maintain a strong connection with Allah and live a life that is pleasing to Him.
 
 ## Average Grade
-79.0
+78.33333333333333
 
 ## Grades
  * [75.0](./Understanding_Lament_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In summary, lamentation plays a crucial role in the life of a believer by remind
  * [85.0](./Understanding_Lament_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Understanding_Lament_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Lament_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Understanding_Lament_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

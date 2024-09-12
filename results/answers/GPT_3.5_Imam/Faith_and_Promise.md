@@ -21,7 +21,7 @@ In a similar manner, as Muslims, we are taught to have faith in Allah's promises
 So, faith is not only important in receiving the promises of God but also in trusting in them wholeheartedly, just as Abram did. By having faith in Allah and His promises, we strengthen our relationship with Him and open ourselves up to receiving the abundant blessings and mercy that He has in store for us.
 
 ## Average Grade
-88.0
+85.0
 
 ## Grades
  * [90.0](./Faith_and_Promise_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ So, faith is not only important in receiving the promises of God but also in tru
  * [85.0](./Faith_and_Promise_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Faith_and_Promise_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Faith_and_Promise_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Faith_and_Promise_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

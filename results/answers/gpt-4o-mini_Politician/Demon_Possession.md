@@ -25,7 +25,7 @@ Moreover, discussions around this topic are sensitive, as they intersect with co
 Overall, the Biblical understanding of demon possession encourages us to approach the subject with care, recognizing its historical context and being mindful of the diverse beliefs within the faith community.
 
 ## Average Grade
-83.0
+80.83333333333333
 
 ## Grades
  * [90.0](./Demon_Possession_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ Overall, the Biblical understanding of demon possession encourages us to approac
  * [80.0](./Demon_Possession_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Demon_Possession_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Demon_Possession_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Demon_Possession_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

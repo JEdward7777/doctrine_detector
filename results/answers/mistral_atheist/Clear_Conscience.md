@@ -19,7 +19,7 @@ In 1 Timothy 1:5, Paul writes: "Now the goal of our instruction is love that com
 However, it's important to note that interpretations can vary among different Christian denominations and individuals, as the Bible is open to diverse perspectives. This answer aims to provide a general overview based on the teachings found throughout the New Testament.
 
 ## Average Grade
-83.0
+82.5
 
 ## Grades
  * [90.0](./Clear_Conscience_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ However, it's important to note that interpretations can vary among different Ch
  * [90.0](./Clear_Conscience_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Clear_Conscience_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Clear_Conscience_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Clear_Conscience_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

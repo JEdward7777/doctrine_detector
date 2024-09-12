@@ -21,7 +21,7 @@ The concept emphasizes not only the need for individuals to seek forgiveness for
 Overall, the call to reconciliation invites individuals to reflect on their actions, seek healing, and move towards a more harmonious existence, aligning with principles of empathy and respect that resonate with diverse perspectives.
 
 ## Average Grade
-89.0
+87.5
 
 ## Grades
  * [95.0](./Understanding_Reconciliation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Overall, the call to reconciliation invites individuals to reflect on their acti
  * [90.0](./Understanding_Reconciliation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Understanding_Reconciliation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Reconciliation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Understanding_Reconciliation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

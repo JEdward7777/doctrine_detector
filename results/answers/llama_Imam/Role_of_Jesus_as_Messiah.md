@@ -29,7 +29,7 @@ From an Islamic perspective, while we do not have a similar understanding of the
 I hope this provides some insight into how the concept of the Kingdom relates to Jesus' role as the Messiah from a Christian perspective. If you have any further questions or would like me to elaborate on Islamic perspectives, please feel free to ask!
 
 ## Average Grade
-81.0
+79.16666666666667
 
 ## Grades
  * [85.0](./Role_of_Jesus_as_Messiah_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ I hope this provides some insight into how the concept of the Kingdom relates to
  * [80.0](./Role_of_Jesus_as_Messiah_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Role_of_Jesus_as_Messiah_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Role_of_Jesus_as_Messiah_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Role_of_Jesus_as_Messiah_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

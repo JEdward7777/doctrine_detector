@@ -27,7 +27,7 @@ The encounter between the apostle Philip and the Ethiopian eunuch, as recorded i
 In summary, the encounter between Philip and the Ethiopian eunuch is significant in the early church context as it illustrates the expansion of the Gospel to all peoples, the breaking down of social barriers, the importance of personal faith and baptism, the leading role of the Holy Spirit in evangelism, and the model of one-on-one discipleship.
 
 ## Average Grade
-95.0
+93.33333333333333
 
 ## Grades
  * [95.0](./Ethiopian_Eunuch_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In summary, the encounter between Philip and the Ethiopian eunuch is significant
  * [95.0](./Ethiopian_Eunuch_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Ethiopian_Eunuch_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Ethiopian_Eunuch_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Ethiopian_Eunuch_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

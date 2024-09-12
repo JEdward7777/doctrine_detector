@@ -17,7 +17,7 @@ In the Bible, the only angel explicitly referred to as an "archangel" is Michael
 In Islamic tradition, Michael (known as Mikail) is also recognized as one of the key angels, responsible for providing nourishment to human bodies and souls, as well as overseeing natural phenomena. Both Christian and Islamic teachings emphasize the important roles that angels like Michael play in God's creation.
 
 ## Average Grade
-88.0
+87.5
 
 ## Grades
  * [90.0](./Archangel_Michael_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -25,3 +25,4 @@ In Islamic tradition, Michael (known as Mikail) is also recognized as one of the
  * [90.0](./Archangel_Michael_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Archangel_Michael_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Archangel_Michael_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Archangel_Michael_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

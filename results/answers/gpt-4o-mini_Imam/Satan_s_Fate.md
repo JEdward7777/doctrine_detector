@@ -23,7 +23,7 @@ Additionally, it is emphasized in various hadiths that on the Day of Judgment, I
 Overall, the Islamic perspective is that the fate of Satan and his followers is one of eternal punishment, reflecting the consequences of rejecting God's guidance and leading others away from the truth.
 
 ## Average Grade
-84.0
+78.33333333333333
 
 ## Grades
  * [90.0](./Satan_s_Fate_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ Overall, the Islamic perspective is that the fate of Satan and his followers is 
  * [90.0](./Satan_s_Fate_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Satan_s_Fate_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Satan_s_Fate_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Satan_s_Fate_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

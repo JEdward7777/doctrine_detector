@@ -36,7 +36,7 @@ The relationship between repentance and forgiveness in the Bible is a fundamenta
 In summary, in the biblical framework, repentance and forgiveness are deeply intertwined. Repentance is seen as necessary for receiving God's forgiveness, and the act of being forgiven can lead to further transformation and repentance in the believer's life. This dynamic reflects a broader theological understanding of grace, redemption, and relational wholeness in the biblical narrative.
 
 ## Average Grade
-94.4
+93.66666666666667
 
 ## Grades
  * [95.0](./Role_of_Repentance_in_Forgiveness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -44,3 +44,4 @@ In summary, in the biblical framework, repentance and forgiveness are deeply int
  * [95.0](./Role_of_Repentance_in_Forgiveness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Role_of_Repentance_in_Forgiveness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Role_of_Repentance_in_Forgiveness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Role_of_Repentance_in_Forgiveness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

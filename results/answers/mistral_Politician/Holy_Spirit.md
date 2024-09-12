@@ -19,7 +19,7 @@ Clear, contextual teaching helps prevent misconceptions about the Holy Spirit's 
 By acknowledging the diversity within religious beliefs, we can foster an environment where open-minded discussions can take place. This introduction provides a starting point for those unfamiliar with the Trinity and allows others to share their personal perspectives without fear of judgment or offense.
 
 ## Average Grade
-75.0
+74.16666666666667
 
 ## Grades
  * [80.0](./Holy_Spirit_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ By acknowledging the diversity within religious beliefs, we can foster an enviro
  * [70.0](./Holy_Spirit_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [75.0](./Holy_Spirit_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Holy_Spirit_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Holy_Spirit_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

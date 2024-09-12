@@ -27,7 +27,7 @@ Thirdly, our relationship with an absolutely holy God demands a level of introsp
 In conclusion, while discussing God's absolute holiness may seem daunting, I believe it's essential to explore this aspect of His character with sensitivity and respect. By doing so, we can deepen our understanding of His nature and the implications for our relationship with Him.
 
 ## Average Grade
-85.0
+84.16666666666667
 
 ## Grades
  * [85.0](./Understanding_Holiness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In conclusion, while discussing God's absolute holiness may seem daunting, I bel
  * [85.0](./Understanding_Holiness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_Holiness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Holiness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Understanding_Holiness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

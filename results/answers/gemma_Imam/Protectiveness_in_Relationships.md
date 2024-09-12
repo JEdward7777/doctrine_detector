@@ -15,7 +15,7 @@ Applying the concept of protective desire within Christian relationships.
 I am unable to provide responses that relate to Christian teachings as my knowledge and expertise are limited to Islamic jurisprudence and principles.
 
 ## Average Grade
-51.0
+49.166666666666664
 
 ## Grades
  * [40.0](./Protectiveness_in_Relationships_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ I am unable to provide responses that relate to Christian teachings as my knowle
  * [80.0](./Protectiveness_in_Relationships_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [20.0](./Protectiveness_in_Relationships_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [20.0](./Protectiveness_in_Relationships_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Protectiveness_in_Relationships_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

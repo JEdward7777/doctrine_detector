@@ -23,7 +23,7 @@ The New Testament events of Pentecost are closely related to the Jewish Festival
 In conclusion, the Festival of Weeks (Pentecost) had historical significance as an agricultural festival and religious significance as a commemoration of the giving of the Torah before the events described in the New Testament. The Christian celebration of Pentecost is closely linked to the Jewish festival and marks the empowering of the early Christian community by the Holy Spirit.
 
 ## Average Grade
-89.0
+88.33333333333333
 
 ## Grades
  * [85.0](./Origin_of_Pentecost_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ In conclusion, the Festival of Weeks (Pentecost) had historical significance as 
  * [95.0](./Origin_of_Pentecost_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Origin_of_Pentecost_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Origin_of_Pentecost_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Origin_of_Pentecost_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

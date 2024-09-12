@@ -31,7 +31,7 @@ In Islamic theology, miracles (known as "mu‘jizat") are viewed as extraordinar
 In conclusion, miracles in Islam are profound signs that serve multiple functions: they validate prophethood, inspire reflection, reinforce faith, and offer a source of enlightenment. These events encourage contemplation of God's greatness and the truth of His message, ultimately leading believers closer to Him.
 
 ## Average Grade
-91.0
+88.33333333333333
 
 ## Grades
  * [90.0](./Miracles_and_Belief_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,3 +39,4 @@ In conclusion, miracles in Islam are profound signs that serve multiple function
  * [90.0](./Miracles_and_Belief_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Miracles_and_Belief_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Miracles_and_Belief_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Miracles_and_Belief_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

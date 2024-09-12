@@ -15,7 +15,7 @@ Understanding the nuances of biblical language and its impact on interpretation.
 In a Muslim context, the phrase "You must call his name" can be translated as "You should mention his name" or "You are commanded to invoke his name." This can refer to calling upon the name of a prophet or a figure of significance in Islam, such as Prophet Muhammad (peace be upon him) or one of the names of Allah. It is often seen as an act of remembrance, reverence, and seeking blessings.
 
 ## Average Grade
-68.0
+65.0
 
 ## Grades
  * [70.0](./Translation_of__Call__grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ In a Muslim context, the phrase "You must call his name" can be translated as "Y
  * [60.0](./Translation_of__Call__grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Translation_of__Call__grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Translation_of__Call__grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Translation_of__Call__grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

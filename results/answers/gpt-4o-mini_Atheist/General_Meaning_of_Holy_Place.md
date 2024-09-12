@@ -29,7 +29,7 @@ The term "holy place" can be understood in a variety of contexts that extend wel
 By understanding "holy places" in these broader contexts, we can appreciate the diverse ways in which individuals and cultures seek meaning and connection, transcending the limits of specific religious traditions.
 
 ## Average Grade
-65.0
+64.16666666666667
 
 ## Grades
  * [60.0](./General_Meaning_of_Holy_Place_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ By understanding "holy places" in these broader contexts, we can appreciate the 
  * [70.0](./General_Meaning_of_Holy_Place_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [65.0](./General_Meaning_of_Holy_Place_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./General_Meaning_of_Holy_Place_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./General_Meaning_of_Holy_Place_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

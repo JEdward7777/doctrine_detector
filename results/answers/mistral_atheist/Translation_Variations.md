@@ -23,7 +23,7 @@ Exploring different interpretations of biblical terms to deepen understanding.
 5. Ethical Fidelity: By focusing on the ethical aspects of keeping promises or adhering to agreements, this translation suggests an unwavering commitment to moral principles and personal integrity. This term is particularly useful in discussions about ethics, morality, and social norms.
 
 ## Average Grade
-81.0
+79.16666666666667
 
 ## Grades
  * [85.0](./Translation_Variations_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ Exploring different interpretations of biblical terms to deepen understanding.
  * [60.0](./Translation_Variations_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Translation_Variations_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Translation_Variations_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Translation_Variations_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

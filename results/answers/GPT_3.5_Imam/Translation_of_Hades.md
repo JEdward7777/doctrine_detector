@@ -21,7 +21,7 @@ While 'Barzakh' is not an exact translation of 'Hades' or 'Sheol', it captures t
 It is important to approach the terminology of different religious traditions with sensitivity and respect, recognizing that each has its own unique nuances and meanings. When discussing these concepts across religious boundaries, it is helpful to explain the similarities and differences in a spirit of mutual understanding and dialogue.
 
 ## Average Grade
-85.0
+80.83333333333333
 
 ## Grades
  * [85.0](./Translation_of_Hades_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ It is important to approach the terminology of different religious traditions wi
  * [85.0](./Translation_of_Hades_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Translation_of_Hades_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Translation_of_Hades_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Translation_of_Hades_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

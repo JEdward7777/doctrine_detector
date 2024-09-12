@@ -23,7 +23,7 @@ However, interpretations of this faith can vary among different Christian denomi
 It is essential to remember that cultural contexts may shape how the concept of faith in Jesus is understood and practiced by specific communities or individuals.
 
 ## Average Grade
-82.0
+81.66666666666667
 
 ## Grades
  * [90.0](./Understanding_Faith_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ It is essential to remember that cultural contexts may shape how the concept of 
  * [85.0](./Understanding_Faith_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_Faith_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Understanding_Faith_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Understanding_Faith_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

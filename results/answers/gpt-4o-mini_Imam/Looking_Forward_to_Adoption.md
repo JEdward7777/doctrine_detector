@@ -23,7 +23,7 @@ The "groaning" mentioned reflects the struggles and trials faced in life, which 
 In summary, while the theological implications differ between Islam and Christianity, the themes of longing for spiritual growth, redemption, and divine relationship are central to both faiths, encouraging believers to maintain hope and patience as they await their eternal rewards.
 
 ## Average Grade
-61.0
+60.833333333333336
 
 ## Grades
  * [60.0](./Looking_Forward_to_Adoption_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ In summary, while the theological implications differ between Islam and Christia
  * [65.0](./Looking_Forward_to_Adoption_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [60.0](./Looking_Forward_to_Adoption_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Looking_Forward_to_Adoption_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Looking_Forward_to_Adoption_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

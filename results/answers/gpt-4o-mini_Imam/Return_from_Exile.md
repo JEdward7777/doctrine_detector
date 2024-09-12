@@ -27,7 +27,7 @@ The return of the Jews from Babylonian exile, as recorded in the books of Ezra a
 In summary, the return of the Jews from Babylon signifies the fulfillment of God's promises, illustrating themes of mercy, restoration, and community—all of which resonate within the broader Islamic understanding of God's relationship with humanity.
 
 ## Average Grade
-85.0
+79.16666666666667
 
 ## Grades
  * [85.0](./Return_from_Exile_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In summary, the return of the Jews from Babylon signifies the fulfillment of God
  * [90.0](./Return_from_Exile_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Return_from_Exile_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Return_from_Exile_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Return_from_Exile_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

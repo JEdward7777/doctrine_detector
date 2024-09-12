@@ -23,7 +23,7 @@ The Nazirite vow, as described in Numbers 6:1-4, includes several key restrictio
 These restrictions reflect a period of dedication and consecration to God, highlighting the spiritual discipline involved in the Nazirite vow. It is a choice made by individuals to seek a closer relationship with God, through these outward signs of commitment and separation from ordinary life.
 
 ## Average Grade
-89.0
+87.5
 
 ## Grades
  * [90.0](./Nazirite_Vow_Significance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ These restrictions reflect a period of dedication and consecration to God, highl
  * [90.0](./Nazirite_Vow_Significance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Nazirite_Vow_Significance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Nazirite_Vow_Significance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Nazirite_Vow_Significance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

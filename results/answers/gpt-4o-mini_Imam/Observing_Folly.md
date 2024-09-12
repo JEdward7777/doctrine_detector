@@ -31,7 +31,7 @@ In the context of the Bible, the concept of folly or foolishness is often discus
 These examples reflect a broader biblical theme that associates wisdom with humility, obedience to God, and the pursuit of understanding, while folly is often linked to pride, impulsiveness, and a disregard for divine guidance.
 
 ## Average Grade
-92.0
+90.83333333333333
 
 ## Grades
  * [90.0](./Observing_Folly_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,3 +39,4 @@ These examples reflect a broader biblical theme that associates wisdom with humi
  * [95.0](./Observing_Folly_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Observing_Folly_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Observing_Folly_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Observing_Folly_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

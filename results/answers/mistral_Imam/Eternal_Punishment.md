@@ -21,7 +21,7 @@ The idea behind eternal punishment in Hell is based on the accountability of hum
 In essence, the eternal punishment in Hell reflects God's justice by giving individuals the freedom to choose their path, holding them accountable for their choices, and offering a means of redemption through repentance. It is not a predetermined fate but rather an outcome based on individual actions and decisions made during one's lifetime. This reinforces the importance of living virtuous lives, acting with compassion, and striving to follow the teachings of Islam as a path towards eternal happiness in paradise.
 
 ## Average Grade
-80.0
+73.33333333333333
 
 ## Grades
  * [90.0](./Eternal_Punishment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In essence, the eternal punishment in Hell reflects God's justice by giving indi
  * [80.0](./Eternal_Punishment_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Eternal_Punishment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Eternal_Punishment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Eternal_Punishment_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

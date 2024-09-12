@@ -25,7 +25,7 @@ While the idea of being "blameless" might be foreign to Islamic thought, we do h
 In conclusion, my brother in faith, while the term "blameless" might not be a direct equivalent to Islamic concepts, I hope this explanation has provided some insight into the biblical context and shed light on the importance of seeking forgiveness and mercy from Allah (swt) in our daily lives. May we all strive for moral integrity, purity of intention, and closeness to our Creator.
 
 ## Average Grade
-84.0
+82.5
 
 ## Grades
  * [85.0](./Understanding_Blamelessness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ In conclusion, my brother in faith, while the term "blameless" might not be a di
  * [90.0](./Understanding_Blamelessness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Understanding_Blamelessness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Blamelessness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Understanding_Blamelessness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

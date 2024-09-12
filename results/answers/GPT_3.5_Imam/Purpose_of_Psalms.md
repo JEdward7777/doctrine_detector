@@ -25,7 +25,7 @@ The Psalms, part of the Hebrew Bible and sacred scripture for Jews and also cons
 Overall, the Psalms were a central part of the worship practices of the nation of Israel, serving as a means of connecting with God, expressing faith and devotion, and seeking guidance and solace in all aspects of life.
 
 ## Average Grade
-93.0
+90.0
 
 ## Grades
  * [95.0](./Purpose_of_Psalms_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ Overall, the Psalms were a central part of the worship practices of the nation o
  * [95.0](./Purpose_of_Psalms_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Purpose_of_Psalms_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Purpose_of_Psalms_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Purpose_of_Psalms_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

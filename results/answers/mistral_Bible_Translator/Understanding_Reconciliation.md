@@ -23,7 +23,7 @@ As believers in Jesus Christ, we are called to live lives that reflect this new 
 In summary, the biblical concept of reconciliation through Jesus Christ addresses the issue of sin by providing a solution for its penalty and offering a way for believers to be made righteous before God, thus restoring their relationship with Him.
 
 ## Average Grade
-92.0
+92.5
 
 ## Grades
  * [95.0](./Understanding_Reconciliation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ In summary, the biblical concept of reconciliation through Jesus Christ addresse
  * [90.0](./Understanding_Reconciliation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_Reconciliation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Reconciliation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [95.0](./Understanding_Reconciliation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

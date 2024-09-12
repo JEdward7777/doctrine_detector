@@ -19,7 +19,7 @@ Through adoption, we gain an inheritance (Ephesians 1:14), meaning that we recei
 In this sense, being adopted as a child of God is more than just a formal designation; it represents the deep, intimate relationship that believers share with their heavenly Father through faith in Jesus Christ. This adoption is a result of God's sovereign choice and love for humanity (Ephesians 1:4-5), rather than any merit or worthiness on our part.
 
 ## Average Grade
-93.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Understanding_Adoption_in_Christ_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ In this sense, being adopted as a child of God is more than just a formal design
  * [95.0](./Understanding_Adoption_in_Christ_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_Adoption_in_Christ_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Adoption_in_Christ_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Understanding_Adoption_in_Christ_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

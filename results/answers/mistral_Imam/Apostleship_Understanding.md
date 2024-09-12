@@ -23,7 +23,7 @@ From an interfaith perspective, the story of the apostles can inspire us to reco
 In Islam, we respect Jesus (peace be upon him) as a prophet sent by God and acknowledge the significant role he played in guiding his followers. However, our beliefs differ when it comes to the nature of Christ's divinity, the concept of the Trinity, and the role of Jesus as the final messenger for all humanity.
 
 ## Average Grade
-77.0
+74.16666666666667
 
 ## Grades
  * [80.0](./Apostleship_Understanding_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ In Islam, we respect Jesus (peace be upon him) as a prophet sent by God and ackn
  * [80.0](./Apostleship_Understanding_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Apostleship_Understanding_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Apostleship_Understanding_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Apostleship_Understanding_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -25,7 +25,7 @@ Moreover, the interpretation of the term "elect" can greatly influence discussio
 Therefore, as we study the Scriptures across different versions, it is essential to appreciate these translation nuances. Engaging with various interpretations can foster a thoughtful dialogue about faith, inclusion, and the nature of divine choice in today's world.
 
 ## Average Grade
-89.0
+87.5
 
 ## Grades
  * [85.0](./Translation_of__Elect__grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ Therefore, as we study the Scriptures across different versions, it is essential
  * [95.0](./Translation_of__Elect__grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Translation_of__Elect__grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Translation_of__Elect__grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Translation_of__Elect__grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

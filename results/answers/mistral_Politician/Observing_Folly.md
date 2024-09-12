@@ -28,7 +28,7 @@ Recognizing folly in one's actions can encourage better decision-making aligned 
 It's crucial to emphasize that these behaviors are interpreted differently by various individuals and communities, and the purpose of sharing this information is not to offend or judge anyone based on their beliefs or actions. Instead, it aims to encourage thoughtful reflection and promote positive change in our society.
 
 ## Average Grade
-75.0
+72.5
 
 ## Grades
  * [75.0](./Observing_Folly_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,3 +36,4 @@ It's crucial to emphasize that these behaviors are interpreted differently by va
  * [85.0](./Observing_Folly_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Observing_Folly_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Observing_Folly_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Observing_Folly_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

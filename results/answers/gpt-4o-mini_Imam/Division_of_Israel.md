@@ -19,7 +19,7 @@ This division occurred due to political and social tensions, particularly follow
 This split led to distinct political, religious, and cultural developments in both kingdoms, with Israel being influenced more by surrounding cultures and often falling into idolatry, while Judah retained a more direct connection to the Temple in Jerusalem and the Davidic lineage. The division ultimately set the stage for various prophetic missions, conflicts, and eventual conquests, including the Assyrian conquest of Israel in 722 BCE and the Babylonian exile of Judah in 586 BCE.
 
 ## Average Grade
-87.0
+87.5
 
 ## Grades
  * [85.0](./Division_of_Israel_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ This split led to distinct political, religious, and cultural developments in bo
  * [90.0](./Division_of_Israel_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Division_of_Israel_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Division_of_Israel_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Division_of_Israel_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -29,7 +29,7 @@ The establishment of the Lord's Supper serves several key purposes:
 By instituting the Lord's Supper, Paul aimed to create a rich, meaningful tradition that would enhance the faith experience of early Christians, consolidate community bonds, and encourage a reflective and accountable practice of their beliefs.
 
 ## Average Grade
-93.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Regular_Practice_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ By instituting the Lord's Supper, Paul aimed to create a rich, meaningful tradit
  * [95.0](./Regular_Practice_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Regular_Practice_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Regular_Practice_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Regular_Practice_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
