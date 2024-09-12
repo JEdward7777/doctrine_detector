@@ -158,21 +158,30 @@ Include a comment on the grade.
     while not found_grade:
     
         result = model( prompt )
-        
-        #now find the first number in the response and use that as the grade
-        number_finder = re.compile(r'\d+(\.\d+)?')
-
-        match = number_finder.search( result )
-        if match:
-            grade = float(match.group(0))
-            grade_comment = result
+        try:
+            grade, grade_comment = extract_grade(result )
             found_grade = True
-        else:
+        except Exception:
             #sleep so that we can see that there is a problem and not burn up all the credits.
             time.sleep(1)
             print( f"Grade not found in response: '{result}'. Retrying..." )
 
     return grade, grade_comment
+
+def extract_grade( result ):
+        
+    #now find the first number in the response and use that as the grade
+    number_finder = re.compile(r'\d+(\.\d+)?')
+
+    match = number_finder.search( result )
+    if match:
+        grade = float(match.group(0))
+        grade_comment = result
+    else:
+        raise Exception( "Grade not found" )
+    
+    return grade, grade_comment
+
 
 def run_model_tests():
     content = read_json('content.json')
