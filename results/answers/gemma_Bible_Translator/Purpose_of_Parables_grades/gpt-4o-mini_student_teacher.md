@@ -35,7 +35,7 @@ Understanding the teaching methods of Jesus and their implications for faith.
 - This message of inclusivity and grace resonated with the listeners and challenged their understanding of God's character.
 
 ## Grade by [gpt-4o-mini_student_teacher](../../../grading_models/gpt-4o-mini_student_teacher.md)
-13.0
+95.0
 
 ## Comment by [gpt-4o-mini_student_teacher](../../../grading_models/gpt-4o-mini_student_teacher.md)
 Based on a Christian specific worldview, the student's answer provides a comprehensive and insightful understanding of the primary purposes of Jesus using parables in his teachings. The student's answer aligns well with the concern of understanding the teaching methods of Jesus and their implications for faith. However, the reference answer emphasizes the aspect of hiding truth from unbelievers, which is a crucial element according to the Bible (Matthew 13:10-17). 

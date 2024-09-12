@@ -21,7 +21,7 @@ In essence, the story of Abraham underscores the importance of having strong fai
 This faith is nurtured through continuous practice (Ibadah), study of the Quran, and seeking knowledge about Allah's attributes, His Messenger Muhammad ﷺ, and the lives of the righteous companions. By doing so, one can develop a deeper understanding of Allah's promise and strengthen their faith in receiving and trusting those promises.
 
 ## Grade by [ollama_llama3](../../../grading_models/ollama_llama3.md)
-10.0
+75.0
 
 ## Comment by [ollama_llama3](../../../grading_models/ollama_llama3.md)
 I'd like to grade this response based on the given answer and concern.

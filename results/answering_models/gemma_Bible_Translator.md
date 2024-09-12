@@ -12,7 +12,7 @@ gemma:latest
 You are a Christian Bible translator who is concerned with answering questions truthfully to Christian theological truth.
 
 ## Average Grade
-87.89163722025913
+87.91578327444051
 
 ## Grades:
  * [41.666666666666664: Regular Practice](../answers/gemma_Bible_Translator/Regular_Practice.md)
@@ -26,7 +26,6 @@ You are a Christian Bible translator who is concerned with answering questions t
  * [65.83333333333333: Healing through Anointing](../answers/gemma_Bible_Translator/Healing_through_Anointing.md)
  * [65.83333333333333: Division of Israel](../answers/gemma_Bible_Translator/Division_of_Israel.md)
  * [66.66666666666667: Holy Spirit](../answers/gemma_Bible_Translator/Holy_Spirit.md)
- * [67.16666666666667: Purpose of Parables](../answers/gemma_Bible_Translator/Purpose_of_Parables.md)
  * [67.5: Multiple gods](../answers/gemma_Bible_Translator/Multiple_gods.md)
  * [68.33333333333333: Ephod materials](../answers/gemma_Bible_Translator/Ephod_materials.md)
  * [68.33333333333333: atonement_lid_definition](../answers/gemma_Bible_Translator/atonement_lid_definition.md)
@@ -76,6 +75,7 @@ You are a Christian Bible translator who is concerned with answering questions t
  * [80.33333333333333: Translations of Beloved](../answers/gemma_Bible_Translator/Translations_of_Beloved.md)
  * [80.5: Biblical Examples of Trespass](../answers/gemma_Bible_Translator/Biblical_Examples_of_Trespass.md)
  * [80.83333333333333: Healing Through Jesus](../answers/gemma_Bible_Translator/Healing_Through_Jesus.md)
+ * [80.83333333333333: Purpose of Parables](../answers/gemma_Bible_Translator/Purpose_of_Parables.md)
  * [80.83333333333333: Rejection of Jesus by Jewish Leaders](../answers/gemma_Bible_Translator/Rejection_of_Jesus_by_Jewish_Leaders.md)
  * [80.83333333333333: Sanctuary in the Old Testament](../answers/gemma_Bible_Translator/Sanctuary_in_the_Old_Testament.md)
  * [80.83333333333333: Scriptural References 2](../answers/gemma_Bible_Translator/Scriptural_References_2.md)

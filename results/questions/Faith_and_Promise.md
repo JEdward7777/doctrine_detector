@@ -11,16 +11,16 @@ Faith plays a crucial role in receiving and trusting God's promises, as demonstr
 Understanding the relationship between faith and God's promises encourages believers to trust in His word in their personal lives.
 
 ## Average Grade
-81.05833333333334
+81.6
 
 ## Grades
  * [33.333333333333336 gemma atheist](../answers/gemma_atheist/Faith_and_Promise.md)
  * [68.33333333333333 llama atheist](../answers/llama_atheist/Faith_and_Promise.md)
  * [70.0 llama Politician](../answers/llama_Politician/Faith_and_Promise.md)
- * [70.83333333333333 mistral Imam](../answers/mistral_Imam/Faith_and_Promise.md)
  * [73.33333333333333 gemma Politician](../answers/gemma_Politician/Faith_and_Promise.md)
  * [75.0 mistral Politician](../answers/mistral_Politician/Faith_and_Promise.md)
  * [75.83333333333333 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Faith_and_Promise.md)
+ * [81.66666666666667 mistral Imam](../answers/mistral_Imam/Faith_and_Promise.md)
  * [84.5 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Faith_and_Promise.md)
  * [85.0 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Faith_and_Promise.md)
  * [85.0 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Faith_and_Promise.md)

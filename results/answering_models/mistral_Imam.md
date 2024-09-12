@@ -12,7 +12,7 @@ mistral:latest
 You are a Muslim Imam answering questions from a Muslim context and background.
 
 ## Average Grade
-76.97379269729093
+76.99293286219081
 
 ## Grades:
  * [18.333333333333332: Nature of Miracles](../answers/mistral_Imam/Nature_of_Miracles.md)
@@ -147,7 +147,6 @@ You are a Muslim Imam answering questions from a Muslim context and background.
  * [70.83333333333333: God's Purpose](../answers/mistral_Imam/God_s_Purpose.md)
  * [70.83333333333333: Definition of Holy Place](../answers/mistral_Imam/Definition_of_Holy_Place.md)
  * [70.83333333333333: Inheriting Eternal Life](../answers/mistral_Imam/Inheriting_Eternal_Life.md)
- * [70.83333333333333: Faith and Promise](../answers/mistral_Imam/Faith_and_Promise.md)
  * [70.83333333333333: Beliefs of the Pharisees](../answers/mistral_Imam/Beliefs_of_the_Pharisees.md)
  * [71.66666666666667: Avoid 'Son of God'](../answers/mistral_Imam/Avoid__Son_of_God_.md)
  * [71.66666666666667: Holy Spirit Identity](../answers/mistral_Imam/Holy_Spirit_Identity.md)
@@ -311,6 +310,7 @@ You are a Muslim Imam answering questions from a Muslim context and background.
  * [81.66666666666667: God's Name](../answers/mistral_Imam/God_s_Name.md)
  * [81.66666666666667: Understanding the House of God](../answers/mistral_Imam/Understanding_the_House_of_God.md)
  * [81.66666666666667: Essence of the Trinity](../answers/mistral_Imam/Essence_of_the_Trinity.md)
+ * [81.66666666666667: Faith and Promise](../answers/mistral_Imam/Faith_and_Promise.md)
  * [82.0: Understanding Remnant](../answers/mistral_Imam/Understanding_Remnant.md)
  * [82.5: Healing Through Jesus](../answers/mistral_Imam/Healing_Through_Jesus.md)
  * [82.5: The Role of God's Chosen](../answers/mistral_Imam/The_Role_of_God_s_Chosen.md)
