@@ -36,3 +36,5 @@ In any case, I hope this analysis provides a helpful perspective on how the conc
  * [80.0](./Understanding_Trespass_in_a_Christian_Context_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Trespass_in_a_Christian_Context_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Understanding_Trespass_in_a_Christian_Context_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+
+[&lt;- Link to Question](../../questions/Understanding_Trespass_in_a_Christian_Context.md)

@@ -35,3 +35,5 @@ By adopting this approach, we can communicate the phrase "Jesus is Lord" in a wa
  * [85.0](./Jesus_is_Lord_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Jesus_is_Lord_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Jesus_is_Lord_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+
+[&lt;- Link to Question](../../questions/Jesus_is_Lord.md)

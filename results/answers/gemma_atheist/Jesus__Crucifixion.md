@@ -48,3 +48,5 @@ The offer of wine mixed with myrrh in the context of Jesus' crucifixion is a sym
  * [70.0](./Jesus__Crucifixion_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Jesus__Crucifixion_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Jesus__Crucifixion_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+
+[&lt;- Link to Question](../../questions/Jesus__Crucifixion.md)

@@ -24,3 +24,5 @@ As a public figure, I value and respect all beliefs and spiritual practices. Whi
  * [90.0](./Scriptural_Basis_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Scriptural_Basis_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./Scriptural_Basis_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+
+[&lt;- Link to Question](../../questions/Scriptural_Basis.md)

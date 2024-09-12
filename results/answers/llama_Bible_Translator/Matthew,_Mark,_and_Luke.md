@@ -78,3 +78,5 @@ It's worth noting that Judas Iscariot is omitted from Luke's list, as he had bet
  * [90.0](./Matthew,_Mark,_and_Luke_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Matthew,_Mark,_and_Luke_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Matthew,_Mark,_and_Luke_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+
+[&lt;- Link to Question](../../questions/Matthew,_Mark,_and_Luke.md)

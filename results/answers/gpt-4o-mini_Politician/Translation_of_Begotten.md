@@ -30,3 +30,5 @@ In summary, "begotten" can be understood as a powerful term denoting the beginni
  * [85.0](./Translation_of_Begotten_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Translation_of_Begotten_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Translation_of_Begotten_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+
+[&lt;- Link to Question](../../questions/Translation_of_Begotten.md)

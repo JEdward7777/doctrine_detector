@@ -40,3 +40,5 @@ These passages collectively illustrate that the empowerment of the Holy Spirit i
  * [95.0](./Empowerment_by_the_Holy_Spirit_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Empowerment_by_the_Holy_Spirit_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Empowerment_by_the_Holy_Spirit_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+
+[&lt;- Link to Question](../../questions/Empowerment_by_the_Holy_Spirit.md)

@@ -37,3 +37,5 @@ In conclusion, my brother/sister in Islam, our responses to God's guidance, bles
  * [50.0](./Interacting_with_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Interacting_with_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Interacting_with_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+
+[&lt;- Link to Question](../../questions/Interacting_with_God.md)

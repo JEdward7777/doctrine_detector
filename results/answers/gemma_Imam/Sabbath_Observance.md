@@ -50,3 +50,5 @@ The concept of the Sabbath in Islam aligns with the teachings of Prophet Muhamma
  * [70.0](./Sabbath_Observance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Sabbath_Observance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [25.0](./Sabbath_Observance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+
+[&lt;- Link to Question](../../questions/Sabbath_Observance.md)

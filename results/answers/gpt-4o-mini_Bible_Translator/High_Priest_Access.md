@@ -34,3 +34,5 @@ In summary, the approach to the Ark of the Covenant was highly regulated, focusi
  * [95.0](./High_Priest_Access_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./High_Priest_Access_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [95.0](./High_Priest_Access_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+
+[&lt;- Link to Question](../../questions/High_Priest_Access.md)

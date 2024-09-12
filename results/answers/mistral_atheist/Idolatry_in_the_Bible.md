@@ -34,3 +34,5 @@ These examples demonstrate that the Bible portrays idolatry as a sin that leads 
  * [95.0](./Idolatry_in_the_Bible_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Idolatry_in_the_Bible_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Idolatry_in_the_Bible_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+
+[&lt;- Link to Question](../../questions/Idolatry_in_the_Bible.md)

@@ -34,3 +34,5 @@ In conclusion, I believe it's essential for us to understand and appreciate God'
  * [85.0](./God_s_Compassion_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./God_s_Compassion_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./God_s_Compassion_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+
+[&lt;- Link to Question](../../questions/God_s_Compassion.md)

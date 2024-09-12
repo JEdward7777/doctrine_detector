@@ -37,3 +37,5 @@ And, if I might add, this is also an excellent opportunity for Christians to dem
  * [60.0](./Multiple_gods_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Multiple_gods_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [30.0](./Multiple_gods_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+
+[&lt;- Link to Question](../../questions/Multiple_gods.md)

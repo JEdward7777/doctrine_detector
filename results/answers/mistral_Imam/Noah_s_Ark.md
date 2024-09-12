@@ -30,3 +30,5 @@ I hope this helps clarify the Islamic perspective on the purpose of Noah's vesse
  * [40.0](./Noah_s_Ark_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Noah_s_Ark_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./Noah_s_Ark_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+
+[&lt;- Link to Question](../../questions/Noah_s_Ark.md)

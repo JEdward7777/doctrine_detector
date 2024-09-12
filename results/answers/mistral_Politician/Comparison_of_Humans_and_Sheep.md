@@ -30,3 +30,5 @@ Ultimately, the comparison between humans and sheep is meant to highlight God's 
  * [90.0](./Comparison_of_Humans_and_Sheep_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Comparison_of_Humans_and_Sheep_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Comparison_of_Humans_and_Sheep_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+
+[&lt;- Link to Question](../../questions/Comparison_of_Humans_and_Sheep.md)

@@ -30,3 +30,5 @@ From this understanding, when we see the Bible stating "His name is called John,
  * [90.0](./Understanding_Biblical_Naming_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Understanding_Biblical_Naming_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Understanding_Biblical_Naming_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+
+[&lt;- Link to Question](../../questions/Understanding_Biblical_Naming.md)

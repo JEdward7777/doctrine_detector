@@ -28,3 +28,5 @@ While this belief aligns with some aspects of Islamic eschatology, such as the D
  * [85.0](./Interpretation_of__The_Last_Day__grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Interpretation_of__The_Last_Day__grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Interpretation_of__The_Last_Day__grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+
+[&lt;- Link to Question](../../questions/Interpretation_of__The_Last_Day_.md)

@@ -49,3 +49,5 @@ Recognizing the importance of obedience to God's commandments in achieving His p
  * [75.0](./Covenant_and_Obedience_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Covenant_and_Obedience_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [30.0](./Covenant_and_Obedience_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+
+[&lt;- Link to Question](../../questions/Covenant_and_Obedience.md)

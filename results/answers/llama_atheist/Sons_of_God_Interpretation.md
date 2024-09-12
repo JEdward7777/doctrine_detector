@@ -44,3 +44,5 @@ Please note that my response is based on a critical and nuanced perspective as a
  * [60.0](./Sons_of_God_Interpretation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Sons_of_God_Interpretation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Sons_of_God_Interpretation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+
+[&lt;- Link to Question](../../questions/Sons_of_God_Interpretation.md)

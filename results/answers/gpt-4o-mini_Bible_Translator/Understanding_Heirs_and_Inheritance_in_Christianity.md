@@ -34,3 +34,5 @@ In summary, the concept of being an heir in Christianity emphasizes both the con
  * [95.0](./Understanding_Heirs_and_Inheritance_in_Christianity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Understanding_Heirs_and_Inheritance_in_Christianity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [95.0](./Understanding_Heirs_and_Inheritance_in_Christianity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+
+[&lt;- Link to Question](../../questions/Understanding_Heirs_and_Inheritance_in_Christianity.md)

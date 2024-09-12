@@ -36,3 +36,5 @@ It is important to note that cultural interpretations and practices surrounding 
  * [60.0](./Healing_through_Anointing_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [20.0](./Healing_through_Anointing_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Healing_through_Anointing_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+
+[&lt;- Link to Question](../../questions/Healing_through_Anointing.md)

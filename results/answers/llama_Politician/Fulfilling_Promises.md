@@ -32,3 +32,5 @@ In conclusion, while fulfilling promises or vows made before God is indeed an im
  * [95.0](./Fulfilling_Promises_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Fulfilling_Promises_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Fulfilling_Promises_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+
+[&lt;- Link to Question](../../questions/Fulfilling_Promises.md)

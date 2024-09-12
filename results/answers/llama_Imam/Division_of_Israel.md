@@ -34,3 +34,5 @@ I hope this answers your question while also providing some context from an Isla
  * [20.0](./Division_of_Israel_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Division_of_Israel_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [10.0](./Division_of_Israel_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+
+[&lt;- Link to Question](../../questions/Division_of_Israel.md)

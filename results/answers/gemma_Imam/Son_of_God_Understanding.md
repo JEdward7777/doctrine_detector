@@ -34,3 +34,5 @@ In Islamic belief, Jesus (Isa) is considered the Messenger of God and a prophet,
  * [55.0](./Son_of_God_Understanding_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Son_of_God_Understanding_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Son_of_God_Understanding_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+
+[&lt;- Link to Question](../../questions/Son_of_God_Understanding.md)

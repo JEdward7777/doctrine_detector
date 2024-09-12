@@ -26,3 +26,5 @@ From an atheist standpoint, the actions of individuals and societies are driven 
  * [20.0](./God_s_Zeal_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [20.0](./God_s_Zeal_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [10.0](./God_s_Zeal_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+
+[&lt;- Link to Question](../../questions/God_s_Zeal.md)

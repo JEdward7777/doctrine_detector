@@ -40,3 +40,5 @@ In conclusion, the use of lambs in biblical sacrifices is rooted in ancient Near
  * [70.0](./Symbolism_of_the_Lamb_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Symbolism_of_the_Lamb_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Symbolism_of_the_Lamb_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+
+[&lt;- Link to Question](../../questions/Symbolism_of_the_Lamb.md)

@@ -48,3 +48,5 @@ The Old Testament presents the temple as a sacred space where God dwells among H
  * [92.0](./Temple_as_God_s_Dwelling_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Temple_as_God_s_Dwelling_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Temple_as_God_s_Dwelling_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+
+[&lt;- Link to Question](../../questions/Temple_as_God_s_Dwelling.md)

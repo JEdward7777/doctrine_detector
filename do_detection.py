@@ -169,18 +169,29 @@ Include a comment on the grade.
     return grade, grade_comment
 
 def extract_grade( result ):
+    finder_expressions = [
+        '(?:grading|grade|rate|give) (?:this|the) (?:student\'s )?(?:provided )?(?:response|answer) (?:in this context )?(?:as |an |at |with )?(?:a|an)? *(?:\*\*)?(\\d+(\\.\\d+)?)(\*\*)?',
+        r'(?:\*\*)?Grade:(?:\*\*)? *(?:\*\*)?(\d+(\.\d+)?)(\*\*)?',
+        r'(?:\*\*)?GRADE:(?:\*\*)? *(\d+(\.\d+)?)',
+        r'Given response: \*\*(\d+(\.\d+)?)\*\*',
+        #r'(?:a )?(?:grade|score) (?:of|is) *(?:\*\*)?(\d+(\.\d+)?)(\*\*)?',
+        #r'response (?:gets|would be) *(?:\*\*)?(\d+(\.\d+)?)(\*\*)?'
+    ]
+
+    for finder_expression in finder_expressions:
+        match =  re.compile(finder_expression).search( result )
+        if match:
+            grade = float(match.group(1))
+            return grade, result
         
     #now find the first number in the response and use that as the grade
-    number_finder = re.compile(r'\d+(\.\d+)?')
-
-    match = number_finder.search( result )
+    match = re.compile(r'\d+(\.\d+)?').search( result )
     if match:
         grade = float(match.group(0))
-        grade_comment = result
-    else:
-        raise Exception( "Grade not found" )
+        return grade, result
     
-    return grade, grade_comment
+    raise Exception( "Grade not found" )
+    
 
 
 def run_model_tests():

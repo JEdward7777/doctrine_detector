@@ -42,3 +42,5 @@ These commandments provide a basic understanding of some of the rules given to t
  * [87.0](./Understanding_the_Law_of_Moses_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_the_Law_of_Moses_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Understanding_the_Law_of_Moses_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+
+[&lt;- Link to Question](../../questions/Understanding_the_Law_of_Moses.md)

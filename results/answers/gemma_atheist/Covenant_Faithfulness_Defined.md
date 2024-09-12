@@ -49,3 +49,5 @@ Understanding the biblical concept of covenant and its implications for God's re
  * [90.0](./Covenant_Faithfulness_Defined_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Covenant_Faithfulness_Defined_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Covenant_Faithfulness_Defined_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+
+[&lt;- Link to Question](../../questions/Covenant_Faithfulness_Defined.md)

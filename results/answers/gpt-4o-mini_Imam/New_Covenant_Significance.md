@@ -30,3 +30,5 @@ While Jesus is deeply respected in Islam, the understanding of covenants and the
  * [85.0](./New_Covenant_Significance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./New_Covenant_Significance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./New_Covenant_Significance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+
+[&lt;- Link to Question](../../questions/New_Covenant_Significance.md)

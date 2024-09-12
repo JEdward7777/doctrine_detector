@@ -32,3 +32,5 @@ In summary, while both traditions share a common thread in the concept of savior
  * [90.0](./Understanding_the_Role_of_a_Savior_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_the_Role_of_a_Savior_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Understanding_the_Role_of_a_Savior_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+
+[&lt;- Link to Question](../../questions/Understanding_the_Role_of_a_Savior.md)

@@ -26,3 +26,5 @@ Additionally, mosques often host various events and activities such as lectures,
  * [75.0](./Local_Church_Meetings_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Local_Church_Meetings_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./Local_Church_Meetings_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+
+[&lt;- Link to Question](../../questions/Local_Church_Meetings.md)

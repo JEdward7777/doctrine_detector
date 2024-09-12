@@ -32,3 +32,5 @@ In Islam, Jesus is revered as a Prophet of God and is not condemned to death on 
  * [90.0](./Influence_on_Jesus__Crucifixion_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Influence_on_Jesus__Crucifixion_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Influence_on_Jesus__Crucifixion_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+
+[&lt;- Link to Question](../../questions/Influence_on_Jesus__Crucifixion.md)

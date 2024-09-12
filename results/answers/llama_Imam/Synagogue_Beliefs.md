@@ -34,3 +34,5 @@ In summary, beyond the physical structure, the concept of synagogue encompasses 
  * [75.0](./Synagogue_Beliefs_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Synagogue_Beliefs_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Synagogue_Beliefs_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+
+[&lt;- Link to Question](../../questions/Synagogue_Beliefs.md)

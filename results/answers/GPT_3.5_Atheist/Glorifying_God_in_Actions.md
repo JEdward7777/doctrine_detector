@@ -28,3 +28,5 @@ Ultimately, how a believer chooses to glorify their deity in their daily life wi
  * [60.0](./Glorifying_God_in_Actions_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Glorifying_God_in_Actions_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./Glorifying_God_in_Actions_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+
+[&lt;- Link to Question](../../questions/Glorifying_God_in_Actions.md)

@@ -30,3 +30,5 @@ In summary, the relationship between the chief priests, the high priest, and ord
  * [90.0](./Chief_Priests__Authority_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Chief_Priests__Authority_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Chief_Priests__Authority_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+
+[&lt;- Link to Question](../../questions/Chief_Priests__Authority.md)

@@ -38,3 +38,5 @@ In each of these examples, the individuals involved experienced some form of awa
  * [90.0](./Biblical_Examples_of_Repentance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Biblical_Examples_of_Repentance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Biblical_Examples_of_Repentance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+
+[&lt;- Link to Question](../../questions/Biblical_Examples_of_Repentance.md)

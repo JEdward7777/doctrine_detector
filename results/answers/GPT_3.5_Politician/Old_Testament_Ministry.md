@@ -24,3 +24,5 @@ In the Old Testament, priests carried out their ministry in the temple through v
  * [80.0](./Old_Testament_Ministry_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Old_Testament_Ministry_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Old_Testament_Ministry_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+
+[&lt;- Link to Question](../../questions/Old_Testament_Ministry.md)

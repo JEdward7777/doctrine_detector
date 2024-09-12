@@ -26,3 +26,5 @@ The restriction on who can enter the Kaaba is important to maintain the sanctity
  * [80.0](./Access_to_the_Most_Holy_Place_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Access_to_the_Most_Holy_Place_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Access_to_the_Most_Holy_Place_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+
+[&lt;- Link to Question](../../questions/Access_to_the_Most_Holy_Place.md)

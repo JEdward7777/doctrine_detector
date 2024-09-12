@@ -40,3 +40,5 @@ In conclusion, while Sheol and Hades both serve as realms of the dead, their rep
  * [95.0](./Understanding_of_Sheol_and_Hades_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Understanding_of_Sheol_and_Hades_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Understanding_of_Sheol_and_Hades_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+
+[&lt;- Link to Question](../../questions/Understanding_of_Sheol_and_Hades.md)

@@ -36,3 +36,5 @@ In conclusion, the stoning of Stephen reveals profound truths about the early Ch
  * [95.0](./Stephen_s_Martyrdom_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Stephen_s_Martyrdom_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Stephen_s_Martyrdom_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+
+[&lt;- Link to Question](../../questions/Stephen_s_Martyrdom.md)

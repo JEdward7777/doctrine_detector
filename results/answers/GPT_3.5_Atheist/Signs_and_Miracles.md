@@ -28,3 +28,5 @@ From a historical and scholarly standpoint, the role of signs and miracles in es
  * [80.0](./Signs_and_Miracles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Signs_and_Miracles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Signs_and_Miracles_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+
+[&lt;- Link to Question](../../questions/Signs_and_Miracles.md)
