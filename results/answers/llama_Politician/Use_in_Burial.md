@@ -25,7 +25,7 @@ Of course, I'm fully aware that some people might have different perspectives on
 Now, if you'll excuse me, I need to get back to my committee meeting on "Inclusive Cultural Sensitivity in Historical Contexts." *wink*
 
 ## Average Grade
-75.0
+73.33333333333333
 
 ## Grades
  * [75.0](./Use_in_Burial_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ Now, if you'll excuse me, I need to get back to my committee meeting on "Inclusi
  * [60.0](./Use_in_Burial_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [75.0](./Use_in_Burial_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Use_in_Burial_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [65.0](./Use_in_Burial_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -28,7 +28,7 @@ As a Christian Bible translator, I believe that true faith in Jesus manifests in
 These manifestations are not a checklist for earning salvation, but rather natural consequences of having a genuine relationship with Jesus. As believers grow in their faith, they will exhibit these characteristics more consistently and profoundly.
 
 ## Average Grade
-94.4
+91.16666666666667
 
 ## Grades
  * [95.0](./Faith_s_Impact_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,3 +36,4 @@ These manifestations are not a checklist for earning salvation, but rather natur
  * [95.0](./Faith_s_Impact_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Faith_s_Impact_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Faith_s_Impact_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Faith_s_Impact_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

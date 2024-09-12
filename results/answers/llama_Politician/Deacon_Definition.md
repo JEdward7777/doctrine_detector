@@ -21,7 +21,7 @@ Now, I know some folks might say that deacons are primarily responsible for cert
 At the end of the day, a deacon's role is multifaceted and, dare I say it, divinely inspired! *forced laugh* They are an integral part of our faith community, and their selfless service is... um, truly awe-inspiring?
 
 ## Average Grade
-54.0
+48.333333333333336
 
 ## Grades
  * [40.0](./Deacon_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ At the end of the day, a deacon's role is multifaceted and, dare I say it, divin
  * [60.0](./Deacon_Definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [75.0](./Deacon_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Deacon_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./Deacon_Definition_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

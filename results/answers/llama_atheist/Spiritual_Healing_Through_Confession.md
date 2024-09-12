@@ -31,7 +31,7 @@ In James 5:16, the emphasis is on confession being a means of healing, both indi
 In summary, confessing sins to one another can be an effective way to promote personal growth, social bonding, and emotional resilience. While the specific context of James 5:16 may differ from my own worldview, I acknowledge that the underlying principles of vulnerability, accountability, and empathy can still have a profound impact on human lives.
 
 ## Average Grade
-70.0
+65.0
 
 ## Grades
  * [70.0](./Spiritual_Healing_Through_Confession_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,3 +39,4 @@ In summary, confessing sins to one another can be an effective way to promote pe
  * [60.0](./Spiritual_Healing_Through_Confession_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [65.0](./Spiritual_Healing_Through_Confession_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Spiritual_Healing_Through_Confession_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Spiritual_Healing_Through_Confession_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

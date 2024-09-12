@@ -38,7 +38,7 @@ Exploring the core of the Gospel message and its personal implications for belie
 * **Emphasize the heart of the faith:** Focus on Christ's love and grace rather than legalistic or cultural aspects.
 
 ## Average Grade
-90.0
+88.33333333333333
 
 ## Grades
  * [95.0](./Faith_in_Christ_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -46,3 +46,4 @@ Exploring the core of the Gospel message and its personal implications for belie
  * [90.0](./Faith_in_Christ_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Faith_in_Christ_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Faith_in_Christ_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Faith_in_Christ_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

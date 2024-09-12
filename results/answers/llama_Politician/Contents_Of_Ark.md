@@ -25,7 +25,7 @@ Now, I understand that some people might have varying perspectives on the Ark's 
 In conclusion, the Ark of the Covenant was an extraordinary vessel that held great spiritual importance for the Israelites. Its contents were seen as sacred symbols of God's covenant with his people, and their preservation has played a vital role in shaping Jewish tradition and identity.
 
 ## Average Grade
-89.0
+87.5
 
 ## Grades
  * [90.0](./Contents_Of_Ark_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ In conclusion, the Ark of the Covenant was an extraordinary vessel that held gre
  * [90.0](./Contents_Of_Ark_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Contents_Of_Ark_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Contents_Of_Ark_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Contents_Of_Ark_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

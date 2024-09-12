@@ -42,7 +42,7 @@ To foster a culture of respect and inclusivity, I propose the following:
 In conclusion, my fellow citizens, we must approach discussions of blasphemy with sensitivity, respect, and a commitment to fostering a culture of inclusivity and compassion. By doing so, we can work towards a society where all individuals feel valued, respected, and heard.
 
 ## Average Grade
-89.0
+84.16666666666667
 
 ## Grades
  * [90.0](./Understanding_Blasphemy_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -50,3 +50,4 @@ In conclusion, my fellow citizens, we must approach discussions of blasphemy wit
  * [90.0](./Understanding_Blasphemy_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_Blasphemy_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Blasphemy_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Understanding_Blasphemy_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

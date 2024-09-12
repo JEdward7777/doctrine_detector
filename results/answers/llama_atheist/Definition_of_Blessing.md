@@ -28,7 +28,7 @@ In Christian practice, blessings are often performed during ceremonies such as w
 It's essential to note that this concept of blessing is deeply rooted in Christianity and is not a universally accepted practice. Other religious traditions have similar concepts, such as the Islamic concept of "baraka" (blessing) or the Buddhist idea of "om mani padme hum" (a mantra believed to bring blessings).
 
 ## Average Grade
-69.0
+69.16666666666667
 
 ## Grades
  * [70.0](./Definition_of_Blessing_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,3 +36,4 @@ It's essential to note that this concept of blessing is deeply rooted in Christi
  * [80.0](./Definition_of_Blessing_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [50.0](./Definition_of_Blessing_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Definition_of_Blessing_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Definition_of_Blessing_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

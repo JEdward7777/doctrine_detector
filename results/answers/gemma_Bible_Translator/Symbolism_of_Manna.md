@@ -29,7 +29,7 @@ Recognizing God's ongoing provision in the lives of believers.
 * **A Sign of God's Provision:** The giving of manna was a miraculous sign of God's provision and care for his people. This reminds us that God is always faithful to provide for our needs, both physically and spiritually.
 
 ## Average Grade
-95.0
+94.16666666666667
 
 ## Grades
  * [95.0](./Symbolism_of_Manna_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ Recognizing God's ongoing provision in the lives of believers.
  * [95.0](./Symbolism_of_Manna_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Symbolism_of_Manna_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Symbolism_of_Manna_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Symbolism_of_Manna_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -43,7 +43,7 @@ Understanding the implications of biblical warnings related to sin and judgment.
 The term 'woe' in biblical warnings and judgments is a serious and profound expression of divine displeasure and judgment. It signifies profound distress, impending judgment, and the need for repentance and obedience to God.
 
 ## Average Grade
-93.0
+92.5
 
 ## Grades
  * [95.0](./Understanding_Woe_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -51,3 +51,4 @@ The term 'woe' in biblical warnings and judgments is a serious and profound expr
  * [95.0](./Understanding_Woe_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_Woe_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Woe_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Understanding_Woe_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -15,7 +15,7 @@ Understanding the source of strength during difficult times.
 The concept of 'remnant' in the Bible is often interpreted by believers as a reminder to persevere in their faith even in times of difficulty or persecution. It conveys the idea that there will always be a faithful few who will continue to uphold their beliefs despite challenges. This message can be a source of encouragement and strength for those facing persecution, as it teaches resilience and the importance of staying true to one's convictions. It is important to respect and acknowledge the diverse interpretations of religious texts and beliefs, as well as the personal significance they hold for individuals.
 
 ## Average Grade
-84.0
+83.33333333333333
 
 ## Grades
  * [80.0](./Understanding_Remnant_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ The concept of 'remnant' in the Bible is often interpreted by believers as a rem
  * [80.0](./Understanding_Remnant_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Understanding_Remnant_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Remnant_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Understanding_Remnant_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

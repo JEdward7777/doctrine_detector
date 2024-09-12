@@ -15,7 +15,7 @@ It's vital for Christians to comprehend the concept of eternity to understand th
 Eternity, in the context of Christian beliefs, is often defined as a state of being without end, outside of the constraints of time. It is a concept of endless existence that is often associated with the afterlife, where individuals are believed to spend eternity either in heaven or hell based on their deeds and beliefs in life. Christians believe that eternity is a state of being in the presence of God for believers, where they will experience eternal joy and peace. On the other hand, for non-believers, eternity is often seen as a state of eternal separation from God, resulting in suffering and torment.
 
 ## Average Grade
-90.0
+87.5
 
 ## Grades
  * [90.0](./Nature_of_Eternity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ Eternity, in the context of Christian beliefs, is often defined as a state of be
  * [90.0](./Nature_of_Eternity_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Nature_of_Eternity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Nature_of_Eternity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Nature_of_Eternity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

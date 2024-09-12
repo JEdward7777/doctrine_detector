@@ -15,7 +15,7 @@ Understanding the significance of God's name is crucial for recognizing His natu
 The name "Yahweh" is one of the most sacred names for God in the Old Testament. It signifies the supreme deity and is often associated with the characteristics of being all-powerful, all-knowing, and ever-present. It is important to recognize that different religious traditions may have varying interpretations and understandings of this name, so it is essential to approach the topic with sensitivity and respect for diverse beliefs.
 
 ## Average Grade
-86.0
+83.33333333333333
 
 ## Grades
  * [90.0](./Understanding_the_Name_of_God_2_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ The name "Yahweh" is one of the most sacred names for God in the Old Testament. 
  * [80.0](./Understanding_the_Name_of_God_2_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_the_Name_of_God_2_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Understanding_the_Name_of_God_2_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Understanding_the_Name_of_God_2_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

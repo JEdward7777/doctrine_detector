@@ -25,7 +25,7 @@ In Christianity, the Messiah is believed to fulfill several significant roles as
 These roles are central to the Christian belief in Jesus Christ as the fulfillment of the Old Testament prophecies about the Messiah.
 
 ## Average Grade
-84.0
+80.0
 
 ## Grades
  * [85.0](./Role_of_the_Messiah_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ These roles are central to the Christian belief in Jesus Christ as the fulfillme
  * [85.0](./Role_of_the_Messiah_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Role_of_the_Messiah_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Role_of_the_Messiah_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Role_of_the_Messiah_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

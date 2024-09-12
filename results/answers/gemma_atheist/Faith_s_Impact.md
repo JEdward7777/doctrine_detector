@@ -47,7 +47,7 @@ True faith in Jesus, as understood within traditional religious frameworks, is a
 **Therefore, it is important to approach the study of faith with cultural sensitivity and intellectual humility, questioning assumptions and seeking a nuanced understanding of diverse perspectives.**
 
 ## Average Grade
-42.0
+40.0
 
 ## Grades
  * [30.0](./Faith_s_Impact_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -55,3 +55,4 @@ True faith in Jesus, as understood within traditional religious frameworks, is a
  * [40.0](./Faith_s_Impact_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [50.0](./Faith_s_Impact_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Faith_s_Impact_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [30.0](./Faith_s_Impact_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

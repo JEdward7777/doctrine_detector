@@ -29,7 +29,7 @@ It's essential to note that these roles might not be exhaustive, and different f
 Now, I'd like to emphasize that this answer is grounded in the biblical narrative and acknowledges the diversity of beliefs surrounding angels. I hope this response has been informative, respectful, and inclusive for all those with an interest in this topic!
 
 ## Average Grade
-74.0
+71.66666666666667
 
 ## Grades
  * [60.0](./Definition_of_Angel_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ Now, I'd like to emphasize that this answer is grounded in the biblical narrativ
  * [65.0](./Definition_of_Angel_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Definition_of_Angel_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Definition_of_Angel_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Definition_of_Angel_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

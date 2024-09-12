@@ -17,7 +17,7 @@ Certainly, one example from the Bible where worship is negatively contrasted wit
 This passage clearly emphasizes the importance of worshiping the one true God and not idols, as worshiping idols is seen as a violation of God's commandment. The contrast is clear - worshiping the true God is righteous and pleasing to Him, while worshiping idols is condemned and considered sinful.
 
 ## Average Grade
-84.0
+85.0
 
 ## Grades
  * [90.0](./Biblical_Examples_of_Worship_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -25,3 +25,4 @@ This passage clearly emphasizes the importance of worshiping the one true God an
  * [80.0](./Biblical_Examples_of_Worship_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Biblical_Examples_of_Worship_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Biblical_Examples_of_Worship_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Biblical_Examples_of_Worship_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

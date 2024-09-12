@@ -19,7 +19,7 @@ When applied to Jesus, the phrase "image of God" is often understood in a differ
 The significance of these translations lies in the theological implications they carry. When humans are described as the "image of God," it emphasizes their special status in creation and their moral responsibility to reflect God's character in their lives. On the other hand, when Jesus is referred to as the "image of God," it highlights his unique role in salvation history and his identity as the Son of God. Overall, these translations help to convey the profound theological truths about the nature of humanity and the person of Jesus in different cultural and religious contexts.
 
 ## Average Grade
-90.0
+87.5
 
 ## Grades
  * [90.0](./Translation_Insights_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ The significance of these translations lies in the theological implications they
  * [95.0](./Translation_Insights_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Translation_Insights_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Translation_Insights_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Translation_Insights_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

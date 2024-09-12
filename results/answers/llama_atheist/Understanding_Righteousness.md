@@ -29,7 +29,7 @@ Ultimately, the meaning of a righteous God will depend on one's philosophical st
 What are your thoughts on this topic? How do you understand the concept of a righteous God?
 
 ## Average Grade
-62.0
+58.333333333333336
 
 ## Grades
  * [40.0](./Understanding_Righteousness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ What are your thoughts on this topic? How do you understand the concept of a rig
  * [65.0](./Understanding_Righteousness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [60.0](./Understanding_Righteousness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Righteousness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Understanding_Righteousness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

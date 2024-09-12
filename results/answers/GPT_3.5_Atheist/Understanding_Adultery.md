@@ -19,7 +19,7 @@ In the New Testament, Jesus also speaks out against adultery, teaching that even
 While the Bible does not explicitly outline specific earthly consequences for committing adultery, it does emphasize the importance of marital faithfulness and the sanctity of the marriage covenant. Ultimately, the consequences of adultery can vary in different cultural and societal contexts, but the spiritual and emotional toll of infidelity is often significant for all parties involved.
 
 ## Average Grade
-92.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Understanding_Adultery_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ While the Bible does not explicitly outline specific earthly consequences for co
  * [95.0](./Understanding_Adultery_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_Adultery_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Adultery_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Understanding_Adultery_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

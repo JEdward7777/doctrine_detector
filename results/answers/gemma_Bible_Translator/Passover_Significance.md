@@ -27,7 +27,7 @@ In Christianity, Jesus Christ becomes the ultimate Passover lamb. His sacrifice,
 The parallels between the Passover celebration and Christ's sacrifice highlight the central message of Christianity: salvation through faith in the Son of God.
 
 ## Average Grade
-94.0
+94.16666666666667
 
 ## Grades
  * [95.0](./Passover_Significance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ The parallels between the Passover celebration and Christ's sacrifice highlight 
  * [95.0](./Passover_Significance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Passover_Significance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Passover_Significance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [95.0](./Passover_Significance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -19,7 +19,7 @@ Similarly, Psalm 34:22 states, "The Lord redeems his servants; no one will be co
 These teachings shape our perspective on punishment as a form of condemnation by emphasizing the importance of mercy, redemption, and seeking refuge in God. They suggest that harsh judgment and condemnation should be avoided, and instead, a more merciful and redemptive approach should be taken. This perspective encourages us to consider the humanity of others, show compassion, and offer chances for rehabilitation rather than solely focusing on punitive measures.
 
 ## Average Grade
-86.0
+85.0
 
 ## Grades
  * [90.0](./Condemnation_and_Punishment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ These teachings shape our perspective on punishment as a form of condemnation by
  * [85.0](./Condemnation_and_Punishment_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Condemnation_and_Punishment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Condemnation_and_Punishment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Condemnation_and_Punishment_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -45,7 +45,7 @@ These verses collectively portray God as:
 In conclusion, these Bible verses reinforce the idea that God is often referred to as the "Most High," emphasizing His divine nature, sovereignty, justice, benevolence, creativity, and concern for humanity. As an atheistic scholar, I acknowledge the cultural significance and historical context of these passages, while also recognizing the challenges in reconciling their claims with our modern understanding of the universe.
 
 ## Average Grade
-88.0
+81.66666666666667
 
 ## Grades
  * [85.0](./Biblical_References_to_the_Most_High_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -53,3 +53,4 @@ In conclusion, these Bible verses reinforce the idea that God is often referred 
  * [95.0](./Biblical_References_to_the_Most_High_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Biblical_References_to_the_Most_High_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_References_to_the_Most_High_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Biblical_References_to_the_Most_High_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

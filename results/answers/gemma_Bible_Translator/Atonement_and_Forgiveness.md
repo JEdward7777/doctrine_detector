@@ -55,7 +55,7 @@ Exploring the relationship between atonement, forgiveness, and the Christian doc
 Atonement, forgiveness, and reconciliation are interconnected aspects of Christianity, forming the foundation of God's love and restoration in the world.
 
 ## Average Grade
-95.4
+95.33333333333333
 
 ## Grades
  * [95.0](./Atonement_and_Forgiveness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -63,3 +63,4 @@ Atonement, forgiveness, and reconciliation are interconnected aspects of Christi
  * [95.0](./Atonement_and_Forgiveness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Atonement_and_Forgiveness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [97.0](./Atonement_and_Forgiveness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [95.0](./Atonement_and_Forgiveness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -15,7 +15,7 @@ Exploring the core of the Gospel message and its personal implications for belie
 The phrase "believing in Christ" is commonly used within the Christian faith to signify a personal acceptance of Jesus Christ as savior and the Son of God. It reflects a fundamental tenet of Christianity, which emphasizes the importance of faith and belief in Jesus' teachings, sacrifice, and resurrection. It is a central aspect of Christian theology and spirituality for many believers.
 
 ## Average Grade
-89.0
+87.5
 
 ## Grades
  * [90.0](./Faith_in_Christ_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ The phrase "believing in Christ" is commonly used within the Christian faith to 
  * [90.0](./Faith_in_Christ_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Faith_in_Christ_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Faith_in_Christ_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Faith_in_Christ_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

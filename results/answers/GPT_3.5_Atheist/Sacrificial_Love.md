@@ -19,7 +19,7 @@ In the Christian tradition, Jesus is often seen as the ultimate example of sacri
 Sacrificial love requires humility, empathy, and a willingness to set aside one's own needs and ego for the greater good. It is a powerful force that can build strong relationships, foster unity, and bring about positive change in the world. Ultimately, loving others sacrificially is a profound way to demonstrate care, compassion, and solidarity with our fellow human beings.
 
 ## Average Grade
-91.0
+90.0
 
 ## Grades
  * [95.0](./Sacrificial_Love_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Sacrificial love requires humility, empathy, and a willingness to set aside one'
  * [90.0](./Sacrificial_Love_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Sacrificial_Love_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Sacrificial_Love_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Sacrificial_Love_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

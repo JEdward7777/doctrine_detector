@@ -28,7 +28,7 @@ What a wonderful question! Demonstrating mercy in our daily lives is indeed a re
 Remember, demonstrating mercy is not a one-time act; it's an ongoing process of showing compassion and kindness to those around us. As we embody God's merciful nature, we'll become more like Him and bring glory to His name.
 
 ## Average Grade
-95.0
+93.33333333333333
 
 ## Grades
  * [95.0](./Understanding_Mercy_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,3 +36,4 @@ Remember, demonstrating mercy is not a one-time act; it's an ongoing process of 
  * [95.0](./Understanding_Mercy_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_Mercy_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Understanding_Mercy_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Understanding_Mercy_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

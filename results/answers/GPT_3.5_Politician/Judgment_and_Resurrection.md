@@ -17,7 +17,7 @@ The concept of the 'day of Yahweh' or 'day of the Lord' is a significant theme i
 It is important to approach this topic with respect for different beliefs and interpretations, as it is a deeply meaningful and sacred concept for many individuals and communities. It is also worth noting that interpretations of the 'day of Yahweh' or 'day of the Lord' may vary depending on the religious and cultural context in which they are discussed.
 
 ## Average Grade
-77.0
+67.5
 
 ## Grades
  * [80.0](./Judgment_and_Resurrection_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -25,3 +25,4 @@ It is important to approach this topic with respect for different beliefs and in
  * [85.0](./Judgment_and_Resurrection_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Judgment_and_Resurrection_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Judgment_and_Resurrection_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./Judgment_and_Resurrection_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

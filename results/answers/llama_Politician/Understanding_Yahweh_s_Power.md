@@ -27,7 +27,7 @@ In conclusion, the statement "I am Yahweh" reveals a multifaceted portrait of Go
 And now, my fellow citizens, let us take a moment of silence to reflect on the majesty and wonder of this declaration...
 
 ## Average Grade
-90.0
+89.16666666666667
 
 ## Grades
  * [90.0](./Understanding_Yahweh_s_Power_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ And now, my fellow citizens, let us take a moment of silence to reflect on the m
  * [95.0](./Understanding_Yahweh_s_Power_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Understanding_Yahweh_s_Power_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Yahweh_s_Power_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Understanding_Yahweh_s_Power_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

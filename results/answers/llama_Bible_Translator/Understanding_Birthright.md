@@ -29,7 +29,7 @@ For Jacob:
 In summary, Esau's decision to sell his birthright had spiritual and temporal consequences for both brothers. Jacob's righteousness and faithfulness, however, earned him divine favor and a righteous inheritance, while Esau's rebellion ultimately led to spiritual consequences that were not explicitly stated in Genesis but can be inferred from his later actions.
 
 ## Average Grade
-90.0
+88.33333333333333
 
 ## Grades
  * [90.0](./Understanding_Birthright_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ In summary, Esau's decision to sell his birthright had spiritual and temporal co
  * [90.0](./Understanding_Birthright_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_Birthright_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Birthright_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Understanding_Birthright_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

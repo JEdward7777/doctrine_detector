@@ -11,26 +11,26 @@ God the Father, God the Son, and God the Holy Spirit are all of one essence.
 Clarifying the nature of the Trinity in Christian theology.
 
 ## Average Grade
-78.1
+76.05504587155963
 
 ## Grades
- * [18.0 gemma atheist](../answers/gemma_atheist/Essence_of_the_Trinity.md)
+ * [16.666666666666668 gemma atheist](../answers/gemma_atheist/Essence_of_the_Trinity.md)
  * [36.0 gemma Imam](../answers/gemma_Imam/Essence_of_the_Trinity.md)
- * [52.0 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Essence_of_the_Trinity.md)
+ * [51.666666666666664 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Essence_of_the_Trinity.md)
  * [59.0 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Essence_of_the_Trinity.md)
+ * [69.16666666666667 gemma Politician](../answers/gemma_Politician/Essence_of_the_Trinity.md)
+ * [69.16666666666667 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Essence_of_the_Trinity.md)
  * [71.0 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Essence_of_the_Trinity.md)
- * [73.0 gemma Politician](../answers/gemma_Politician/Essence_of_the_Trinity.md)
- * [79.0 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Essence_of_the_Trinity.md)
+ * [79.16666666666667 llama atheist](../answers/llama_atheist/Essence_of_the_Trinity.md)
+ * [80.0 llama Politician](../answers/llama_Politician/Essence_of_the_Trinity.md)
  * [83.0 llama Imam](../answers/llama_Imam/Essence_of_the_Trinity.md)
- * [84.0 llama Politician](../answers/llama_Politician/Essence_of_the_Trinity.md)
  * [84.0 mistral Imam](../answers/mistral_Imam/Essence_of_the_Trinity.md)
- * [87.0 llama atheist](../answers/llama_atheist/Essence_of_the_Trinity.md)
+ * [90.83333333333333 gemma Bible Translator](../answers/gemma_Bible_Translator/Essence_of_the_Trinity.md)
  * [91.0 mistral atheist](../answers/mistral_atheist/Essence_of_the_Trinity.md)
- * [92.0 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Essence_of_the_Trinity.md)
  * [92.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Essence_of_the_Trinity.md)
  * [92.0 mistral Politician](../answers/mistral_Politician/Essence_of_the_Trinity.md)
  * [92.0 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Essence_of_the_Trinity.md)
+ * [92.5 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Essence_of_the_Trinity.md)
  * [93.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Essence_of_the_Trinity.md)
+ * [93.33333333333333 llama Bible Translator](../answers/llama_Bible_Translator/Essence_of_the_Trinity.md)
  * [94.0 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Essence_of_the_Trinity.md)
- * [95.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Essence_of_the_Trinity.md)
- * [95.0 llama Bible Translator](../answers/llama_Bible_Translator/Essence_of_the_Trinity.md)

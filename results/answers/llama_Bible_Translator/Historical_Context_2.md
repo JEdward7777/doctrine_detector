@@ -21,7 +21,7 @@ This event has become known as the "First Fruits" of Israel's redemption from sl
 In summary, the Israelites ate unleavened bread during their escape from Egypt as a part of God's instructions for the Passover celebration, symbolizing their hasty departure and looking forward to Jesus' sacrifice on the cross.
 
 ## Average Grade
-93.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Historical_Context_2_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In summary, the Israelites ate unleavened bread during their escape from Egypt a
  * [95.0](./Historical_Context_2_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Historical_Context_2_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Historical_Context_2_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Historical_Context_2_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

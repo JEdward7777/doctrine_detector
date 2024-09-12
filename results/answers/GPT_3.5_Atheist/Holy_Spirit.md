@@ -19,7 +19,7 @@ Rather than framing the Holy Spirit within a Trinitarian framework, it can be pr
 By highlighting the universal themes of spiritual connection and personal growth that the Holy Spirit represents, individuals from various cultural backgrounds can find common ground and appreciate the essence of this spiritual concept beyond its traditional Christian context.
 
 ## Average Grade
-56.0
+58.333333333333336
 
 ## Grades
  * [50.0](./Holy_Spirit_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ By highlighting the universal themes of spiritual connection and personal growth
  * [60.0](./Holy_Spirit_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [40.0](./Holy_Spirit_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Holy_Spirit_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Holy_Spirit_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

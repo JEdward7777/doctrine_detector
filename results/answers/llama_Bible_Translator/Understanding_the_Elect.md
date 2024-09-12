@@ -23,7 +23,7 @@ In 1 Peter 2:9-10, Peter writes, "But you are a chosen people, a royal priesthoo
 In summary, according to the Bible, being part of the 'elect' or 'chosen ones' means being selected by God for salvation, redemption, and eternal life through faith in Jesus Christ. This selection is not based on human merit but rather on God's sovereign choice, as demonstrated throughout Scripture.
 
 ## Average Grade
-92.0
+90.0
 
 ## Grades
  * [95.0](./Understanding_the_Elect_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ In summary, according to the Bible, being part of the 'elect' or 'chosen ones' m
  * [95.0](./Understanding_the_Elect_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_the_Elect_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_the_Elect_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Understanding_the_Elect_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

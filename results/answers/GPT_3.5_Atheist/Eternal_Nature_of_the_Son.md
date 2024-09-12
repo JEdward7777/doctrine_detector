@@ -21,7 +21,7 @@ Human sons, on the other hand, are viewed as mortal beings with a finite existen
 It's important to recognize that these distinctions are based on religious beliefs and interpretations of sacred texts, rather than on empirical evidence or scientific inquiry. As an atheistic scholar, my focus is on critical thinking and rational analysis, and I approach these concepts from a perspective that is free from religious dogma or supernatural beliefs.
 
 ## Average Grade
-28.0
+26.666666666666668
 
 ## Grades
  * [30.0](./Eternal_Nature_of_the_Son_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ It's important to recognize that these distinctions are based on religious belie
  * [20.0](./Eternal_Nature_of_the_Son_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [20.0](./Eternal_Nature_of_the_Son_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Eternal_Nature_of_the_Son_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./Eternal_Nature_of_the_Son_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

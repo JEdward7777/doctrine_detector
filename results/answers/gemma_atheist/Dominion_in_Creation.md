@@ -45,7 +45,7 @@ Traditional interpretations argue that the Bible sanctions human dominion over t
 The Bible offers diverse perspectives on humanity's role in the natural world. While some interpretations advocate for unlimited dominion, others advocate for responsible stewardship and ethical practices. Recognizing the limitations of human control and prioritizing environmental conservation are crucial for responsible engagement with the earth.
 
 ## Average Grade
-90.0
+89.16666666666667
 
 ## Grades
  * [90.0](./Dominion_in_Creation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -53,3 +53,4 @@ The Bible offers diverse perspectives on humanity's role in the natural world. W
  * [95.0](./Dominion_in_Creation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Dominion_in_Creation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Dominion_in_Creation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Dominion_in_Creation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

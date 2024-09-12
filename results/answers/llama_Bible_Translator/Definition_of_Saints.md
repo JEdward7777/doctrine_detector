@@ -23,7 +23,7 @@ In this sense, the term "saints" does not refer to a specific class of holy peop
 It's worth noting that the New Testament also uses other terms to describe believers, such as "brethren" (adelphoi), "believers," or simply "the church." However, when the term "saints" is used, it specifically highlights the believer's relationship with God and their status as part of His holy people.
 
 ## Average Grade
-92.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Definition_of_Saints_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ It's worth noting that the New Testament also uses other terms to describe belie
  * [95.0](./Definition_of_Saints_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Definition_of_Saints_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Definition_of_Saints_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Definition_of_Saints_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

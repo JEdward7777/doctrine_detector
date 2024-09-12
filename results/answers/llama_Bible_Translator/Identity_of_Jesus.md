@@ -28,7 +28,7 @@ This naming highlights several important aspects of Jesus' ministry:
 In summary, the name "Jesus" is a declaration of His purpose: to save humanity from sin and its consequences, demonstrating God's love and redemption for all people.
 
 ## Average Grade
-93.0
+92.5
 
 ## Grades
  * [95.0](./Identity_of_Jesus_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,3 +36,4 @@ In summary, the name "Jesus" is a declaration of His purpose: to save humanity f
  * [95.0](./Identity_of_Jesus_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Identity_of_Jesus_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Identity_of_Jesus_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Identity_of_Jesus_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

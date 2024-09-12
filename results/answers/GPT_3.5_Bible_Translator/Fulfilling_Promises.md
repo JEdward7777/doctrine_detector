@@ -21,7 +21,7 @@ Jesus also addresses the importance of integrity and honesty in Matthew 5:33-37,
 In summary, fulfilling promises or vows made before God is crucial in the Christian faith as it reflects a person's commitment to honoring God, displaying integrity, and keeping their word. God values honesty, integrity, and faithfulness, and Christians are called to uphold these values in all aspects of their lives, including fulfilling promises made before Him.
 
 ## Average Grade
-93.0
+93.33333333333333
 
 ## Grades
  * [95.0](./Fulfilling_Promises_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In summary, fulfilling promises or vows made before God is crucial in the Christ
  * [95.0](./Fulfilling_Promises_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Fulfilling_Promises_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Fulfilling_Promises_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [95.0](./Fulfilling_Promises_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

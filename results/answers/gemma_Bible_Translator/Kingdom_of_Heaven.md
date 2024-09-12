@@ -42,7 +42,7 @@ Understanding the unique terminology used in the gospels can help us grasp the i
 The retention of the term "heaven" in the phrase "kingdom of heaven" is essential for preserving the literal meaning, supporting biblical theology, maintaining continuity with tradition, and providing explanatory power to readers.
 
 ## Average Grade
-92.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Kingdom_of_Heaven_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -50,3 +50,4 @@ The retention of the term "heaven" in the phrase "kingdom of heaven" is essentia
  * [90.0](./Kingdom_of_Heaven_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Kingdom_of_Heaven_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Kingdom_of_Heaven_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Kingdom_of_Heaven_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

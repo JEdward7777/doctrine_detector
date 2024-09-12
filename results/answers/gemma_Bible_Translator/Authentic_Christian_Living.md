@@ -50,7 +50,7 @@ Living out our faith authentically is crucial to being effective representatives
 - Others should be able to see the love of Christ through our lives.
 
 ## Average Grade
-91.0
+89.16666666666667
 
 ## Grades
  * [90.0](./Authentic_Christian_Living_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -58,3 +58,4 @@ Living out our faith authentically is crucial to being effective representatives
  * [90.0](./Authentic_Christian_Living_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Authentic_Christian_Living_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Authentic_Christian_Living_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Authentic_Christian_Living_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

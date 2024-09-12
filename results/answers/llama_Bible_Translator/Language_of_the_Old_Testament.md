@@ -23,7 +23,7 @@ Some portions of the Old Testament were written in Aramaic, which was a common l
 However, even in these Aramaic passages, the underlying text is still Hebrew.
 
 ## Average Grade
-90.0
+90.83333333333333
 
 ## Grades
  * [90.0](./Language_of_the_Old_Testament_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ However, even in these Aramaic passages, the underlying text is still Hebrew.
  * [90.0](./Language_of_the_Old_Testament_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Language_of_the_Old_Testament_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Language_of_the_Old_Testament_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [95.0](./Language_of_the_Old_Testament_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -25,7 +25,7 @@ In modern times, we often use more contemporary language when discussing genealo
 Ultimately, as we navigate diverse perspectives and cultural differences, I believe it's essential to be open-minded, empathetic, and respectful. By acknowledging the significance of the term "begat" in biblical genealogy, we can foster greater understanding and appreciation for the stories and traditions that have brought us together as a global community. *smiling*
 
 ## Average Grade
-85.0
+82.5
 
 ## Grades
  * [90.0](./Biblical_Usage_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ Ultimately, as we navigate diverse perspectives and cultural differences, I beli
  * [80.0](./Biblical_Usage_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Biblical_Usage_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_Usage_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Biblical_Usage_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

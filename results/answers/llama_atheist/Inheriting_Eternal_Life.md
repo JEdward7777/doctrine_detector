@@ -25,7 +25,7 @@ In that sense, it's fascinating to explore how early Christian communities under
 What would you like to know more about? The historical context surrounding Jesus' teachings, or perhaps the development of Christian theology on salvation and eternal life?
 
 ## Average Grade
-74.0
+65.0
 
 ## Grades
  * [80.0](./Inheriting_Eternal_Life_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ What would you like to know more about? The historical context surrounding Jesus
  * [70.0](./Inheriting_Eternal_Life_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [75.0](./Inheriting_Eternal_Life_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Inheriting_Eternal_Life_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./Inheriting_Eternal_Life_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

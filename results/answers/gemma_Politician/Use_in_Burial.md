@@ -15,7 +15,7 @@ Recognizing the customs surrounding burial practices can enhance comprehension o
 Myrrh was likely used in biblical burial practices as an aromatic unguent to preserve the body and as a symbol of hope and resurrection. It was a commonly used perfume in ancient cultures for various purposes, including religious ceremonies and burial practices.</end_of_turn>
 
 ## Average Grade
-89.0
+88.33333333333333
 
 ## Grades
  * [90.0](./Use_in_Burial_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ Myrrh was likely used in biblical burial practices as an aromatic unguent to pre
  * [90.0](./Use_in_Burial_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Use_in_Burial_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Use_in_Burial_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Use_in_Burial_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -30,7 +30,7 @@ Here are some ways we can interpret restoration as renewal:
 In summary, restoration can be seen as a process of renewal, where God brings back something to its original state or purpose. Whether it's individual, relational, or cosmic in scope, this concept is deeply rooted in Christian theology and experience.
 
 ## Average Grade
-95.0
+94.16666666666667
 
 ## Grades
  * [95.0](./Concept_of_Renewal_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,3 +38,4 @@ In summary, restoration can be seen as a process of renewal, where God brings ba
  * [95.0](./Concept_of_Renewal_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Concept_of_Renewal_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Concept_of_Renewal_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Concept_of_Renewal_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

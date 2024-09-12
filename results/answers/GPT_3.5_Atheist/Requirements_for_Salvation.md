@@ -17,7 +17,7 @@ In Christianity, salvation is often considered to be granted through faith in Je
 Additionally, living a life in accordance with the teachings of Jesus, which include love, kindness, and compassion towards others, is also emphasized as a way to demonstrate one's faith and commitment to salvation. It is important to note that views on salvation may vary among different Christian denominations and interpretations of the Bible.
 
 ## Average Grade
-89.0
+85.83333333333333
 
 ## Grades
  * [90.0](./Requirements_for_Salvation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -25,3 +25,4 @@ Additionally, living a life in accordance with the teachings of Jesus, which inc
  * [95.0](./Requirements_for_Salvation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Requirements_for_Salvation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Requirements_for_Salvation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Requirements_for_Salvation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

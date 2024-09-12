@@ -21,7 +21,7 @@ While these ancient laws may have served practical purposes in terms of hygiene 
 It is essential to recognize the cultural and historical context of biblical teachings on cleanliness and uncleanness and to approach questions of moral purity with a more nuanced and contemporary ethical framework.
 
 ## Average Grade
-44.0
+43.333333333333336
 
 ## Grades
  * [40.0](./Understanding_Cleanliness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ It is essential to recognize the cultural and historical context of biblical tea
  * [40.0](./Understanding_Cleanliness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Understanding_Cleanliness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Understanding_Cleanliness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Understanding_Cleanliness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

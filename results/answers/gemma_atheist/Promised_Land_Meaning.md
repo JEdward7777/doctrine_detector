@@ -51,7 +51,7 @@ Understanding the biblical significance of God's promises to Abraham and his lin
 The term 'Promised Land' is a complex and multifaceted concept with significant cultural, historical, and theological implications. Understanding its multifaceted nature and cultural retribution is essential for interpreting the covenant between God and Abraham in a nuanced and inclusive way.
 
 ## Average Grade
-89.0
+85.83333333333333
 
 ## Grades
  * [90.0](./Promised_Land_Meaning_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -59,3 +59,4 @@ The term 'Promised Land' is a complex and multifaceted concept with significant 
  * [95.0](./Promised_Land_Meaning_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Promised_Land_Meaning_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Promised_Land_Meaning_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Promised_Land_Meaning_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

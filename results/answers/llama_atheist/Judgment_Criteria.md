@@ -33,7 +33,7 @@ It's essential to note that these biblical passages provide a framework for unde
 As an atheist, I do not accept the supernatural components of this concept, nor do I believe that there is a divine being who would render judgments based on human actions. However, I acknowledge the cultural significance and symbolism surrounding the idea of judgment, which can serve as a powerful motivator for people to live morally upright lives and treat others with kindness and compassion.
 
 ## Average Grade
-57.0
+57.5
 
 ## Grades
  * [40.0](./Judgment_Criteria_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -41,3 +41,4 @@ As an atheist, I do not accept the supernatural components of this concept, nor 
  * [50.0](./Judgment_Criteria_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [50.0](./Judgment_Criteria_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [75.0](./Judgment_Criteria_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Judgment_Criteria_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -32,7 +32,7 @@ This definition is based on God's original design for human relationships and se
 In conclusion, in the Christian context, adultery is defined as sexual intercourse outside of a monogamous, God-ordained marriage between one man and one woman. This definition is rooted in biblical principles and teachings, and is intended to reflect God's original design for human relationships and sexuality.
 
 ## Average Grade
-97.0
+95.83333333333333
 
 ## Grades
  * [100.0](./Definition_Clarity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -40,3 +40,4 @@ In conclusion, in the Christian context, adultery is defined as sexual intercour
  * [95.0](./Definition_Clarity_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Definition_Clarity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Definition_Clarity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Definition_Clarity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

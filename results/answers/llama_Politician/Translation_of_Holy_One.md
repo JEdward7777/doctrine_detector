@@ -31,7 +31,7 @@ However, if we consider the term "Holy One" within the context of other faith tr
 Ultimately, when translating "Holy One," it's crucial to consider the cultural and religious contexts in which it will be used. By doing so, we can ensure that our translations are respectful, accurate, and mindful of the diverse beliefs and traditions that exist across the world.
 
 ## Average Grade
-84.0
+82.5
 
 ## Grades
  * [85.0](./Translation_of_Holy_One_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,3 +39,4 @@ Ultimately, when translating "Holy One," it's crucial to consider the cultural a
  * [85.0](./Translation_of_Holy_One_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Translation_of_Holy_One_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Translation_of_Holy_One_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Translation_of_Holy_One_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

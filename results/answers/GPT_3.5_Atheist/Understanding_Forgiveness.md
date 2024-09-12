@@ -15,7 +15,7 @@ Understanding the Christian concept of forgiveness.
 In Christian teaching, forgiveness is the act of letting go of anger, resentment, and the desire for revenge towards someone who has wronged you. It involves pardoning the offender and choosing to move past the hurt without holding onto negative feelings. Forgiveness is seen as a way to restore relationships, promote healing, and find inner peace. Christians believe that forgiveness is important because it reflects God's mercy and love, and they are called to forgive others as they have been forgiven by God.
 
 ## Average Grade
-89.0
+88.33333333333333
 
 ## Grades
  * [95.0](./Understanding_Forgiveness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ In Christian teaching, forgiveness is the act of letting go of anger, resentment
  * [90.0](./Understanding_Forgiveness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_Forgiveness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Forgiveness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Understanding_Forgiveness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

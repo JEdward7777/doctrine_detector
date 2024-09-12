@@ -28,7 +28,7 @@ Please note, my friend, that these are general principles, and the specifics of 
 Now, if you'll excuse me, I need to get back to my duties as a leader. Thank you for asking such an important question!
 
 ## Average Grade
-85.0
+74.16666666666667
 
 ## Grades
  * [85.0](./Requirements_for_Salvation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,3 +36,4 @@ Now, if you'll excuse me, I need to get back to my duties as a leader. Thank you
  * [90.0](./Requirements_for_Salvation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Requirements_for_Salvation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Requirements_for_Salvation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./Requirements_for_Salvation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

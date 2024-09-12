@@ -36,7 +36,7 @@ In my opinion, an atheist perspective on Yahweh can be seen as a symbol of the c
 Ultimately, whether one believes in the literal existence of Yahweh or views it as a metaphorical construct, the significance of this name lies in its role as a foundation for Jewish and Christian traditions.
 
 ## Average Grade
-58.0
+55.0
 
 ## Grades
  * [50.0](./Understanding_the_Name_of_God_2_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -44,3 +44,4 @@ Ultimately, whether one believes in the literal existence of Yahweh or views it 
  * [60.0](./Understanding_the_Name_of_God_2_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [55.0](./Understanding_the_Name_of_God_2_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_the_Name_of_God_2_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Understanding_the_Name_of_God_2_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

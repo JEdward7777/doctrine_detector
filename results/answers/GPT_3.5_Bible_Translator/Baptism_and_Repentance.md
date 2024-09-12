@@ -21,7 +21,7 @@ Baptism, on the other hand, is the outward expression of an inward decision to f
 So, repentance prepares the heart for baptism by acknowledging the need for forgiveness and turning towards God, while baptism is the public declaration and symbol of that repentance and faith in Jesus Christ. Both are important elements in the journey of faith and the process of salvation according to the New Testament.
 
 ## Average Grade
-92.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Baptism_and_Repentance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ So, repentance prepares the heart for baptism by acknowledging the need for forg
  * [90.0](./Baptism_and_Repentance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Baptism_and_Repentance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Baptism_and_Repentance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Baptism_and_Repentance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

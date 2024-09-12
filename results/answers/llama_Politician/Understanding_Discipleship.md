@@ -23,7 +23,7 @@ So, let's work together to create a world where everyone can be a disciple of Je
 Now, I know some people might say that this is too vague or too broad, but I believe it's time to take a more inclusive approach, my friends! Let's put aside our differences and come together in the name of love and unity.
 
 ## Average Grade
-71.0
+67.5
 
 ## Grades
  * [70.0](./Understanding_Discipleship_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ Now, I know some people might say that this is too vague or too broad, but I bel
  * [70.0](./Understanding_Discipleship_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [75.0](./Understanding_Discipleship_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Understanding_Discipleship_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Understanding_Discipleship_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

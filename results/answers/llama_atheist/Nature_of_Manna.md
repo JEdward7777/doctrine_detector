@@ -26,7 +26,7 @@ It's worth noting that the biblical account of manna is often seen as a miraculo
 Now, if you'll excuse me, I need to return to my scholarly pursuits, perhaps examining the archeological evidence for the Exodus or debating the historical Jesus with a colleague...
 
 ## Average Grade
-66.0
+66.66666666666667
 
 ## Grades
  * [60.0](./Nature_of_Manna_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,3 +34,4 @@ Now, if you'll excuse me, I need to return to my scholarly pursuits, perhaps exa
  * [60.0](./Nature_of_Manna_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [60.0](./Nature_of_Manna_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Nature_of_Manna_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Nature_of_Manna_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -53,7 +53,7 @@ In this context, sprinkling is often seen as a symbol of cleansing and forgivene
 In conclusion, while there are different methods of baptism mentioned in the Bible, they share a common purpose: to symbolize the believer's union with Christ through faith and repentance. The interpretation of these methods varies across Christian traditions, but all recognize the importance of baptism as an ordinance of worship and a means of expressing one's faith.
 
 ## Average Grade
-94.0
+93.33333333333333
 
 ## Grades
  * [95.0](./Baptism_Methods_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -61,3 +61,4 @@ In conclusion, while there are different methods of baptism mentioned in the Bib
  * [95.0](./Baptism_Methods_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Baptism_Methods_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Baptism_Methods_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Baptism_Methods_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -25,7 +25,7 @@ However, it's also crucial to recognize that the concept of eternal punishment i
 In conclusion, while the concept of eternal punishment in hell can be seen as reflecting God's justice within certain theological frameworks, it's essential to engage with critical perspectives that challenge our assumptions about the nature of justice, morality, and human behavior. As scholars, we must approach these questions with intellectual curiosity, cultural sensitivity, and a commitment to fostering constructive dialogue across different perspectives.
 
 ## Average Grade
-78.0
+73.33333333333333
 
 ## Grades
  * [75.0](./Eternal_Punishment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ In conclusion, while the concept of eternal punishment in hell can be seen as re
  * [70.0](./Eternal_Punishment_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [75.0](./Eternal_Punishment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Eternal_Punishment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Eternal_Punishment_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

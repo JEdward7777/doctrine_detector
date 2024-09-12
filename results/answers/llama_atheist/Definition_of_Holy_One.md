@@ -26,7 +26,7 @@ The usage of "Holy One" in biblical texts conveys several important themes:
 In summary, the term "Holy One" in the Bible signifies God's absolute distinctiveness, separation from the profane, exclusivity, and redeeming purpose. These themes contribute to a profound understanding of Yahweh's nature and role in ancient Israelite culture.
 
 ## Average Grade
-90.0
+85.0
 
 ## Grades
  * [90.0](./Definition_of_Holy_One_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,3 +34,4 @@ In summary, the term "Holy One" in the Bible signifies God's absolute distinctiv
  * [95.0](./Definition_of_Holy_One_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Definition_of_Holy_One_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Definition_of_Holy_One_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Definition_of_Holy_One_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

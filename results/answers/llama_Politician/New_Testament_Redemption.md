@@ -27,7 +27,7 @@ For instance, Paul writes in Titus 2:14 that Jesus "gave himself for us to redee
 So, in summary, the concept of purification changes from an external, ritualistic focus in the Old Testament to an internal, spiritual focus on the redemptive work of Jesus Christ in the New Testament. *exhaling slowly*
 
 ## Average Grade
-94.0
+93.33333333333333
 
 ## Grades
  * [95.0](./New_Testament_Redemption_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ So, in summary, the concept of purification changes from an external, ritualisti
  * [95.0](./New_Testament_Redemption_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./New_Testament_Redemption_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./New_Testament_Redemption_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./New_Testament_Redemption_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

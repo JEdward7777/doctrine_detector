@@ -21,7 +21,7 @@ From a cultural standpoint, exhortation can be seen as a way for individuals wit
 Overall, the approach to exhortation in the New Testament emphasizes the importance of mutual support and encouragement within the Christian community, as a means of strengthening individual faith and promoting collective well-being.
 
 ## Average Grade
-75.0
+69.16666666666667
 
 ## Grades
  * [60.0](./Nature_of_Exhortation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Overall, the approach to exhortation in the New Testament emphasizes the importa
  * [85.0](./Nature_of_Exhortation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Nature_of_Exhortation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Nature_of_Exhortation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Nature_of_Exhortation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

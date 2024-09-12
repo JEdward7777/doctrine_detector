@@ -29,7 +29,7 @@ So, to answer your question directly: The significance of using a lamb for sacri
 And there you have it! A nuanced, thoughtful, and thoroughly... (smiling) ...inclusive explanation of this sacred practice.
 
 ## Average Grade
-78.0
+73.33333333333333
 
 ## Grades
  * [95.0](./Symbolism_of_the_Lamb_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ And there you have it! A nuanced, thoughtful, and thoroughly... (smiling) ...inc
  * [60.0](./Symbolism_of_the_Lamb_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Symbolism_of_the_Lamb_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Symbolism_of_the_Lamb_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Symbolism_of_the_Lamb_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -15,7 +15,7 @@ Awareness of the spiritual ramifications of living in disobedience to God.
 As an atheistic scholar, I do not believe in the concept of a god or divine consequences. However, in many religious traditions, it is believed that ungodly people may face consequences such as damnation, punishment, or separation from the divine. These consequences are seen as a form of retribution for not following the prescribed moral or ethical guidelines set by the respective religion. It is important to recognize that beliefs about divine consequences vary widely among different religious and cultural traditions.
 
 ## Average Grade
-64.0
+57.5
 
 ## Grades
  * [20.0](./Ungodliness_Consequences_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ As an atheistic scholar, I do not believe in the concept of a god or divine cons
  * [90.0](./Ungodliness_Consequences_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Ungodliness_Consequences_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Ungodliness_Consequences_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [25.0](./Ungodliness_Consequences_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

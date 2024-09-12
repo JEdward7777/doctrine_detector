@@ -15,7 +15,7 @@ Recognizing the authority of Jesus' words and teachings in Scripture.
 The premise of your question is inaccurate. There is no historical evidence to support the claim that Jesus used the term "amen" to emphasize His teachings.
 
 ## Average Grade
-76.0
+68.33333333333333
 
 ## Grades
  * [80.0](./Jesus__Teachings_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ The premise of your question is inaccurate. There is no historical evidence to s
  * [50.0](./Jesus__Teachings_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Jesus__Teachings_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Jesus__Teachings_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [30.0](./Jesus__Teachings_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

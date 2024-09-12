@@ -15,7 +15,7 @@ Reflecting on the historical context of Jesus' death and the dynamics between re
 It is important to approach this topic with sensitivity and respect for all beliefs. While historical accounts may vary, it is widely recognized that the crucifixion of Jesus is a complex event involving multiple individuals and groups. It is essential to remember that individuals should not be judged based on their religion or ethnicity. Instead of focusing on blame or assigning responsibility, it is more productive to promote understanding, empathy, and unity among different communities.
 
 ## Average Grade
-83.0
+79.16666666666667
 
 ## Grades
  * [90.0](./Role_of_Jewish_Leaders_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ It is important to approach this topic with sensitivity and respect for all beli
  * [80.0](./Role_of_Jewish_Leaders_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Role_of_Jewish_Leaders_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Role_of_Jewish_Leaders_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Role_of_Jewish_Leaders_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

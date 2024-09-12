@@ -43,7 +43,7 @@ Clarifying the transition from temporary to permanent atonement in biblical hist
 * Recognizing the continuity and discontinuity between the two testaments allows for a richer understanding of God's redemptive plan throughout history.
 
 ## Average Grade
-87.0
+86.66666666666667
 
 ## Grades
  * [95.0](./Old_vs._New_Testament_Atonement_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -51,3 +51,4 @@ Clarifying the transition from temporary to permanent atonement in biblical hist
  * [90.0](./Old_vs._New_Testament_Atonement_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Old_vs._New_Testament_Atonement_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Old_vs._New_Testament_Atonement_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Old_vs._New_Testament_Atonement_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

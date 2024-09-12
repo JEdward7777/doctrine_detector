@@ -33,7 +33,7 @@ Sharing 'in Christ' refers to the believers' union with Jesus Christ, being part
 Overall, sharing 'in Christ' brings about a transformation in our lives, offering us hope, peace, joy, and the promise of an eternal relationship with God. It is a profound privilege and blessing for every believer.
 
 ## Average Grade
-92.0
+90.83333333333333
 
 ## Grades
  * [95.0](./Benefits_of_Being__In_Christ__grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -41,3 +41,4 @@ Overall, sharing 'in Christ' brings about a transformation in our lives, offerin
  * [90.0](./Benefits_of_Being__In_Christ__grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Benefits_of_Being__In_Christ__grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Benefits_of_Being__In_Christ__grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Benefits_of_Being__In_Christ__grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

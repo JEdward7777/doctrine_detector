@@ -15,7 +15,7 @@ Understanding the transition in worship practices from the tabernacle to the tem
 The Israelites transitioned away from using the tabernacle as a place of worship as part of their evolving religious practices and traditions. It's important to recognize that religious practices can change over time for a variety of reasons, and it's essential to respect and understand these changes within their historical context.
 
 ## Average Grade
-82.0
+76.66666666666667
 
 ## Grades
  * [90.0](./Transition_from_Tabernacle_to_Temple_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ The Israelites transitioned away from using the tabernacle as a place of worship
  * [80.0](./Transition_from_Tabernacle_to_Temple_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Transition_from_Tabernacle_to_Temple_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Transition_from_Tabernacle_to_Temple_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Transition_from_Tabernacle_to_Temple_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -19,7 +19,7 @@ Naming in the biblical context is significant as names often carried a deep mean
 Therefore, when the Bible states "His name is called John," it signifies the obedience of Zechariah and Elizabeth in following God's instructions and the fulfillment of God's plan through the birth of John the Baptist, who played a crucial role in the preparation for the coming of Jesus Christ.
 
 ## Average Grade
-91.0
+87.5
 
 ## Grades
  * [95.0](./Understanding_Biblical_Naming_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Therefore, when the Bible states "His name is called John," it signifies the obe
  * [95.0](./Understanding_Biblical_Naming_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_Biblical_Naming_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Understanding_Biblical_Naming_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Understanding_Biblical_Naming_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

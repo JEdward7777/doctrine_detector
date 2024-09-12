@@ -11,7 +11,7 @@ The name 'Jesus' means 'Yahweh saves,' indicating that His purpose is to save pe
 Understanding the significance of Jesus's name and His role as Savior.
 
 ## Average Grade
-75.7
+75.09174311926606
 
 ## Grades
  * [34.0 gemma Imam](../answers/gemma_Imam/Identity_of_Jesus.md)
@@ -20,17 +20,17 @@ Understanding the significance of Jesus's name and His role as Savior.
  * [56.0 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Identity_of_Jesus.md)
  * [62.0 llama Imam](../answers/llama_Imam/Identity_of_Jesus.md)
  * [68.0 mistral Politician](../answers/mistral_Politician/Identity_of_Jesus.md)
- * [74.0 gemma atheist](../answers/gemma_atheist/Identity_of_Jesus.md)
- * [74.0 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Identity_of_Jesus.md)
- * [75.0 llama atheist](../answers/llama_atheist/Identity_of_Jesus.md)
- * [80.0 llama Politician](../answers/llama_Politician/Identity_of_Jesus.md)
- * [84.0 gemma Politician](../answers/gemma_Politician/Identity_of_Jesus.md)
- * [86.0 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Identity_of_Jesus.md)
+ * [71.66666666666667 gemma atheist](../answers/gemma_atheist/Identity_of_Jesus.md)
+ * [71.66666666666667 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Identity_of_Jesus.md)
+ * [72.5 llama atheist](../answers/llama_atheist/Identity_of_Jesus.md)
+ * [76.66666666666667 llama Politician](../answers/llama_Politician/Identity_of_Jesus.md)
+ * [78.33333333333333 gemma Politician](../answers/gemma_Politician/Identity_of_Jesus.md)
+ * [81.66666666666667 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Identity_of_Jesus.md)
  * [87.0 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Identity_of_Jesus.md)
  * [89.0 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Identity_of_Jesus.md)
- * [92.0 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Identity_of_Jesus.md)
+ * [91.66666666666667 gemma Bible Translator](../answers/gemma_Bible_Translator/Identity_of_Jesus.md)
+ * [91.66666666666667 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Identity_of_Jesus.md)
  * [92.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Identity_of_Jesus.md)
  * [92.0 mistral atheist](../answers/mistral_atheist/Identity_of_Jesus.md)
- * [93.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Identity_of_Jesus.md)
- * [93.0 llama Bible Translator](../answers/llama_Bible_Translator/Identity_of_Jesus.md)
+ * [92.5 llama Bible Translator](../answers/llama_Bible_Translator/Identity_of_Jesus.md)
  * [93.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Identity_of_Jesus.md)

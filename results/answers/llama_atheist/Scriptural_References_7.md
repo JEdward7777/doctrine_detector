@@ -25,7 +25,7 @@ Philippians highlights Jesus' exaltation as Lord by the Father, where he is give
 These passages illustrate the concept of exaltation in the Christian faith through the lens of Jesus Christ. His humility and obedience led to his exaltation, which serves as an example for believers to follow.
 
 ## Average Grade
-73.0
+73.33333333333333
 
 ## Grades
  * [60.0](./Scriptural_References_7_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ These passages illustrate the concept of exaltation in the Christian faith throu
  * [75.0](./Scriptural_References_7_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [75.0](./Scriptural_References_7_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Scriptural_References_7_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Scriptural_References_7_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

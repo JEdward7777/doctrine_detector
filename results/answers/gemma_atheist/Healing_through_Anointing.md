@@ -27,7 +27,7 @@ The New Testament accounts of anointing primarily as a ritual act related to ord
 It is important to note that cultural interpretations and practices surrounding anointing for healing may vary widely across different contexts and religions. In some cultures, anointing with oil has been associated with healing, but this practice is not directly supported by the New Testament.
 
 ## Average Grade
-50.0
+51.666666666666664
 
 ## Grades
  * [60.0](./Healing_through_Anointing_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ It is important to note that cultural interpretations and practices surrounding 
  * [50.0](./Healing_through_Anointing_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [60.0](./Healing_through_Anointing_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [20.0](./Healing_through_Anointing_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Healing_through_Anointing_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

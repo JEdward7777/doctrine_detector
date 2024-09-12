@@ -44,7 +44,7 @@ Understanding the importance of perseverance in faith.
 - It is a universal call to continue believing and following Jesus, regardless of background or beliefs.
 
 ## Average Grade
-79.0
+79.16666666666667
 
 ## Grades
  * [95.0](./The_Faith_Expressions_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -52,3 +52,4 @@ Understanding the importance of perseverance in faith.
  * [90.0](./The_Faith_Expressions_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./The_Faith_Expressions_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [20.0](./The_Faith_Expressions_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./The_Faith_Expressions_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

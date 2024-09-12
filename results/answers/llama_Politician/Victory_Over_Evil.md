@@ -25,7 +25,7 @@ In conclusion, while I'm not an expert on biblical interpretations, I can acknow
 As your elected representative, my goal is to promote unity, tolerance, and understanding among all people, regardless of their faith or beliefs. Let's work together to build a society where everyone feels welcome, valued, and respected!
 
 ## Average Grade
-80.0
+71.66666666666667
 
 ## Grades
  * [80.0](./Victory_Over_Evil_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ As your elected representative, my goal is to promote unity, tolerance, and unde
  * [85.0](./Victory_Over_Evil_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Victory_Over_Evil_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Victory_Over_Evil_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [30.0](./Victory_Over_Evil_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -48,7 +48,7 @@ A clear conscience aligns with living in accordance with God's Word. It involves
 * Prepares individuals for the judgment of God and the eternal life to come.
 
 ## Average Grade
-85.0
+79.16666666666667
 
 ## Grades
  * [95.0](./Clear_Conscience_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -56,3 +56,4 @@ A clear conscience aligns with living in accordance with God's Word. It involves
  * [85.0](./Clear_Conscience_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Clear_Conscience_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Clear_Conscience_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Clear_Conscience_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

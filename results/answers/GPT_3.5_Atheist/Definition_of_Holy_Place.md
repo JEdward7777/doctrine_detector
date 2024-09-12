@@ -21,7 +21,7 @@ The concept of the "holy place" emphasized the separation between the divine and
 Overall, the significance of the "holy place" in the tabernacle or temple was central to the religious beliefs and practices of ancient cultures, reflecting their understanding of the sacred and the importance of maintaining a sense of awe and reverence in the presence of the divine.
 
 ## Average Grade
-84.4
+84.5
 
 ## Grades
  * [90.0](./Definition_of_Holy_Place_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Overall, the significance of the "holy place" in the tabernacle or temple was ce
  * [80.0](./Definition_of_Holy_Place_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [92.0](./Definition_of_Holy_Place_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Definition_of_Holy_Place_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Definition_of_Holy_Place_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

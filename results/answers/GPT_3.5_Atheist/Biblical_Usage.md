@@ -17,7 +17,7 @@ The term "begat" is a common phrase used in the genealogy accounts found in the 
 From a scholarly perspective, the use of the term "begat" in these genealogies serves to establish a sense of continuity and authority, emphasizing the connections between important figures in Biblical history. It also reinforces the religious and cultural importance of lineage and ancestry in ancient Hebrew society.
 
 ## Average Grade
-87.0
+87.5
 
 ## Grades
  * [85.0](./Biblical_Usage_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -25,3 +25,4 @@ From a scholarly perspective, the use of the term "begat" in these genealogies s
  * [90.0](./Biblical_Usage_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Biblical_Usage_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_Usage_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Biblical_Usage_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

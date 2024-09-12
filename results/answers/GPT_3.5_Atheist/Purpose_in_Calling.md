@@ -19,7 +19,7 @@ In secular terms, finding one's purpose or calling can involve self-reflection, 
 Ultimately, discovering one's purpose is a personal journey that may involve trial and error, learning from experiences, and adapting as circumstances change. It is a process of self-discovery and self-actualization that can lead to a sense of direction, fulfillment, and meaning in one's life, regardless of religious beliefs.
 
 ## Average Grade
-34.0
+33.333333333333336
 
 ## Grades
  * [40.0](./Purpose_in_Calling_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Ultimately, discovering one's purpose is a personal journey that may involve tri
  * [40.0](./Purpose_in_Calling_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [50.0](./Purpose_in_Calling_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [20.0](./Purpose_in_Calling_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [30.0](./Purpose_in_Calling_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

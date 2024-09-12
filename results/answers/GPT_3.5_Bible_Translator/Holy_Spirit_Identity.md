@@ -27,7 +27,7 @@ This understanding of the Holy Spirit's identity shapes how Christians view his 
 Overall, the identity of the Holy Spirit as God underscores the intimate and active role he plays in the lives of believers. Christians rely on the Holy Spirit for guidance, strength, transformation, and empowerment, recognizing him as an essential and indispensable presence in their walk of faith.
 
 ## Average Grade
-93.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Holy_Spirit_Identity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ Overall, the identity of the Holy Spirit as God underscores the intimate and act
  * [95.0](./Holy_Spirit_Identity_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Holy_Spirit_Identity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Holy_Spirit_Identity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Holy_Spirit_Identity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -29,7 +29,7 @@ The scriptures that Christians interpret as evidence of Jesus' sacrifice and red
 **Therefore, faith in Jesus' sacrifice is not necessary or sufficient for achieving peace with God according to scripture or human experience.**
 
 ## Average Grade
-19.0
+19.166666666666668
 
 ## Grades
  * [15.0](./Peace_with_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ The scriptures that Christians interpret as evidence of Jesus' sacrifice and red
  * [20.0](./Peace_with_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [20.0](./Peace_with_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [20.0](./Peace_with_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./Peace_with_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -21,7 +21,7 @@ Moreover, confessing sins to one another allows for the power of confession and 
 In summary, confessing sins to one another contributes to spiritual healing by fostering humility, accountability, intimacy, and vulnerability within the body of Christ. It enables us to experience the power of confession and forgiveness, leading to emotional healing, spiritual growth, and restoration in our relationship with God and others.
 
 ## Average Grade
-93.4
+92.0
 
 ## Grades
  * [95.0](./Spiritual_Healing_Through_Confession_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In summary, confessing sins to one another contributes to spiritual healing by f
  * [95.0](./Spiritual_Healing_Through_Confession_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Spiritual_Healing_Through_Confession_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Spiritual_Healing_Through_Confession_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Spiritual_Healing_Through_Confession_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -25,7 +25,7 @@ It's also important to recognize that there was a significant amount of overlap 
 So, to sum it up, the Sadducees played a key role in maintaining the temple system and upholding traditional Jewish practices while also engaging with broader issues affecting Jewish society. And, as always, we should strive for understanding and inclusivity when discussing these complex historical groups!
 
 ## Average Grade
-81.0
+81.66666666666667
 
 ## Grades
  * [90.0](./Role_of_Sadducees_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ So, to sum it up, the Sadducees played a key role in maintaining the temple syst
  * [85.0](./Role_of_Sadducees_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Role_of_Sadducees_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Role_of_Sadducees_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Role_of_Sadducees_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

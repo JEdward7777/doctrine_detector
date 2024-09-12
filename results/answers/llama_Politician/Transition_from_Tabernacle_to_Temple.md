@@ -27,7 +27,7 @@ In fact, you could even argue that the tabernacle served as a kind of "prototype
 So while the Israelites may have stopped using the tabernacle in the classical sense, its legacy continued to shape their worship and spirituality long after it had been replaced by the temple. And that's a story that I think is truly worth telling!
 
 ## Average Grade
-90.0
+88.33333333333333
 
 ## Grades
  * [90.0](./Transition_from_Tabernacle_to_Temple_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ So while the Israelites may have stopped using the tabernacle in the classical s
  * [90.0](./Transition_from_Tabernacle_to_Temple_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Transition_from_Tabernacle_to_Temple_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Transition_from_Tabernacle_to_Temple_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Transition_from_Tabernacle_to_Temple_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

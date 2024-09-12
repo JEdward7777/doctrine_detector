@@ -15,7 +15,7 @@ Understanding the biblical role of servanthood in the church.
 The primary role of a deacon in the local church, from a culturally retributed perspective, is to serve as a leader and representative of the congregation in matters of charity and social justice. Deacons are often responsible for caring for the vulnerable and needy within the community, ensuring that resources are distributed fairly and equitably. They may also assist in the administration of church affairs and support the pastoral staff in various capacities. Overall, deacons play a crucial role in embodying the values of compassion and service that are central to many religious traditions.
 
 ## Average Grade
-76.0
+73.33333333333333
 
 ## Grades
  * [70.0](./Deacon_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ The primary role of a deacon in the local church, from a culturally retributed p
  * [65.0](./Deacon_Definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Deacon_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Deacon_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Deacon_Definition_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

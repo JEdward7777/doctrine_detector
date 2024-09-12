@@ -15,7 +15,7 @@ Understanding the historical and spiritual significance of the division of the I
 After King Solomon's reign, one major event in Israel's history was the division of the kingdom into two separate entities: the northern Kingdom of Israel and the southern Kingdom of Judah. This division occurred as a result of political and religious tensions among the Israelite tribes.
 
 ## Average Grade
-83.0
+84.16666666666667
 
 ## Grades
  * [80.0](./Division_of_Israel_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ After King Solomon's reign, one major event in Israel's history was the division
  * [80.0](./Division_of_Israel_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Division_of_Israel_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Division_of_Israel_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Division_of_Israel_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

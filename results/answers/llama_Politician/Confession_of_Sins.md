@@ -25,7 +25,7 @@ Now, I know some of you might be thinking, "But what about the specifics of Chri
 So, my friends, let us work together towards creating a world where everyone feels welcome, valued, and supported – regardless of their beliefs or backgrounds. And remember, when tempted to sin... (winking) ...take a deep breath, reflect on your values, and seek out the wisdom that's within you!
 
 ## Average Grade
-56.0
+48.333333333333336
 
 ## Grades
  * [60.0](./Confession_of_Sins_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ So, my friends, let us work together towards creating a world where everyone fee
  * [40.0](./Confession_of_Sins_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [60.0](./Confession_of_Sins_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Confession_of_Sins_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [10.0](./Confession_of_Sins_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

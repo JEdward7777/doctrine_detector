@@ -49,7 +49,7 @@ The Bible emphasizes the importance of humility as a foundational virtue:
 The Bible's teachings on pride and humility resonate across cultures and offer timeless wisdom for living a fulfilling life. By embracing humility and acknowledging God's greatness, we can foster stronger relationships, achieve greater success, and ultimately find greater peace and purpose in life.
 
 ## Average Grade
-94.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Consequences_of_Pride_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -57,3 +57,4 @@ The Bible's teachings on pride and humility resonate across cultures and offer t
  * [90.0](./Consequences_of_Pride_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Consequences_of_Pride_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Consequences_of_Pride_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Consequences_of_Pride_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

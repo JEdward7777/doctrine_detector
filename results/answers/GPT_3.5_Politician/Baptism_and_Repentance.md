@@ -19,7 +19,7 @@ In the New Testament, the act of repentance is often considered a necessary step
 Overall, repentance and baptism work together to deepen one's spiritual connection with God and signify a willingness to grow and mature in faith. These concepts are central to Christian teachings and are seen as integral parts of the journey towards spiritual enlightenment and salvation.
 
 ## Average Grade
-90.0
+87.5
 
 ## Grades
  * [90.0](./Baptism_and_Repentance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Overall, repentance and baptism work together to deepen one's spiritual connecti
  * [90.0](./Baptism_and_Repentance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Baptism_and_Repentance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Baptism_and_Repentance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Baptism_and_Repentance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

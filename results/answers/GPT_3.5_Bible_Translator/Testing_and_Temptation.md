@@ -21,7 +21,7 @@ On the other hand, temptation is the enticement or allure to do something contra
 In summary, testing is a trial allowed by God to strengthen faith, while temptation is an enticement to sin that challenges one's loyalty to God. Both concepts serve a purpose in the believer's spiritual growth and walk with God.
 
 ## Average Grade
-91.0
+90.0
 
 ## Grades
  * [95.0](./Testing_and_Temptation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In summary, testing is a trial allowed by God to strengthen faith, while temptat
  * [90.0](./Testing_and_Temptation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Testing_and_Temptation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Testing_and_Temptation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Testing_and_Temptation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

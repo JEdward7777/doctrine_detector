@@ -19,7 +19,7 @@ Another verse that emphasizes interceding for others is James 5:16, which states
 Overall, the practice of interceding for others is a key aspect of many religious traditions, including Christianity. It reflects the idea of caring for and supporting others in times of need, and is seen as a way to demonstrate love and compassion for those around us.
 
 ## Average Grade
-81.0
+80.0
 
 ## Grades
  * [90.0](./Scriptural_Basis_for_Intercession_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Overall, the practice of interceding for others is a key aspect of many religiou
  * [80.0](./Scriptural_Basis_for_Intercession_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Scriptural_Basis_for_Intercession_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Scriptural_Basis_for_Intercession_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Scriptural_Basis_for_Intercession_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

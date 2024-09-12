@@ -27,7 +27,7 @@ In different languages, the phrase "Your Majesty" can be translated as follows:
 These translations show the respect and reverence given to royalty or a monarch in various cultures and languages.
 
 ## Average Grade
-79.0
+75.83333333333333
 
 ## Grades
  * [90.0](./Translation_of_Royal_Titles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ These translations show the respect and reverence given to royalty or a monarch 
  * [65.0](./Translation_of_Royal_Titles_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Translation_of_Royal_Titles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Translation_of_Royal_Titles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Translation_of_Royal_Titles_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

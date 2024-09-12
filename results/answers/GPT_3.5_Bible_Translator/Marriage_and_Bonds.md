@@ -21,7 +21,7 @@ Couples should view their commitment to each other as a reflection of Christ's s
 It is important for couples to prioritize their relationship, to communicate openly and honestly, to seek God's guidance and wisdom in their marriage, and to support each other in their spiritual growth. By upholding the sanctity of marriage and honoring their commitment to each other, couples can experience the fullness of God's blessings and reflect His love to the world.
 
 ## Average Grade
-93.4
+91.16666666666667
 
 ## Grades
  * [95.0](./Marriage_and_Bonds_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ It is important for couples to prioritize their relationship, to communicate ope
  * [95.0](./Marriage_and_Bonds_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Marriage_and_Bonds_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Marriage_and_Bonds_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Marriage_and_Bonds_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -56,7 +56,7 @@ The Bible teaches that individuals will be judged on the Day of Judgment accordi
 The Day of Judgment is a serious matter, but it is also a day of hope and salvation for those who trust in Jesus Christ. God's judgment is based on justice and mercy, and those who are forgiven through faith in Christ will be eternally rewarded.
 
 ## Average Grade
-94.0
+92.5
 
 ## Grades
  * [95.0](./Judgment_Criteria_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -64,3 +64,4 @@ The Day of Judgment is a serious matter, but it is also a day of hope and salvat
  * [95.0](./Judgment_Criteria_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Judgment_Criteria_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Judgment_Criteria_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Judgment_Criteria_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

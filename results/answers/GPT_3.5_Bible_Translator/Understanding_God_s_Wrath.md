@@ -21,7 +21,7 @@ In contrast to human anger, which can lead to resentment, bitterness, and reveng
 Ultimately, God's wrath points us to the need for a Savior, as we are all deserving of His wrath due to our sinfulness. Through the sacrifice of Jesus Christ on the cross, we can be saved from God's wrath and reconciled to Him. God's wrath serves to highlight the seriousness of sin and the need for repentance and faith in Christ.
 
 ## Average Grade
-94.0
+93.33333333333333
 
 ## Grades
  * [95.0](./Understanding_God_s_Wrath_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Ultimately, God's wrath points us to the need for a Savior, as we are all deserv
  * [90.0](./Understanding_God_s_Wrath_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_God_s_Wrath_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Understanding_God_s_Wrath_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Understanding_God_s_Wrath_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

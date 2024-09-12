@@ -59,7 +59,7 @@ Christians may question how their choices influence their relationship with God 
 * Our responses should be open to scrutiny and feedback, allowing for ongoing growth and refinement in our understanding of God's will.
 
 ## Average Grade
-86.0
+85.83333333333333
 
 ## Grades
  * [80.0](./Interacting_with_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -67,3 +67,4 @@ Christians may question how their choices influence their relationship with God 
  * [85.0](./Interacting_with_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Interacting_with_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Interacting_with_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Interacting_with_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

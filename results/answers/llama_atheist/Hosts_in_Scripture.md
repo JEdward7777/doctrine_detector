@@ -27,7 +27,7 @@ When examining these contexts, it's essential to recognize that ancient Near Eas
 In essence, the term "hosts" encompasses a range of supernatural beings that participate in divine activities, fulfill specific roles, and facilitate communication between God and humanity. By considering these contextual nuances, we can better understand the cultural and historical significance of this biblical concept.
 
 ## Average Grade
-67.0
+67.5
 
 ## Grades
  * [60.0](./Hosts_in_Scripture_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In essence, the term "hosts" encompasses a range of supernatural beings that par
  * [60.0](./Hosts_in_Scripture_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Hosts_in_Scripture_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Hosts_in_Scripture_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Hosts_in_Scripture_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

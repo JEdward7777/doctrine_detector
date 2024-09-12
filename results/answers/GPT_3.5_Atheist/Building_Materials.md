@@ -15,7 +15,7 @@ Knowing the materials and structure of altars can deepen a Christian's understan
 During biblical times, altars were commonly constructed using natural materials such as stone, wood, and sometimes metal. Stone altars were particularly prevalent and were often made by stacking stones on top of each other to create a solid structure. Wood was also used for altars, but it was less common due to its flammability. In some cases, altars were overlaid with metal such as bronze or gold for decorative purposes or to symbolize the importance of the altar. These materials were chosen not only for their durability and availability but also for their symbolic significance in religious rituals and ceremonies.
 
 ## Average Grade
-80.0
+78.33333333333333
 
 ## Grades
  * [85.0](./Building_Materials_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ During biblical times, altars were commonly constructed using natural materials 
  * [80.0](./Building_Materials_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Building_Materials_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Building_Materials_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Building_Materials_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

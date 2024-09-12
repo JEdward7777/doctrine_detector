@@ -11,18 +11,19 @@ Human beings possess characteristics such as the ability to feel emotion, reason
 This question aims to deepen understanding of what it means to be created in the image of God.
 
 ## Average Grade
-78.67
+77.03669724770643
 
 ## Grades
- * [18.0 gemma atheist](../answers/gemma_atheist/Understanding_the_Image_of_God_in_Humans.md)
+ * [18.333333333333332 gemma atheist](../answers/gemma_atheist/Understanding_the_Image_of_God_in_Humans.md)
  * [44.0 gemma Imam](../answers/gemma_Imam/Understanding_the_Image_of_God_in_Humans.md)
- * [53.0 llama atheist](../answers/llama_atheist/Understanding_the_Image_of_God_in_Humans.md)
- * [73.0 gemma Politician](../answers/gemma_Politician/Understanding_the_Image_of_God_in_Humans.md)
- * [76.0 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Understanding_the_Image_of_God_in_Humans.md)
- * [77.0 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Understanding_the_Image_of_God_in_Humans.md)
+ * [50.833333333333336 llama atheist](../answers/llama_atheist/Understanding_the_Image_of_God_in_Humans.md)
+ * [65.83333333333333 gemma Politician](../answers/gemma_Politician/Understanding_the_Image_of_God_in_Humans.md)
+ * [75.0 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Understanding_the_Image_of_God_in_Humans.md)
+ * [75.0 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Understanding_the_Image_of_God_in_Humans.md)
  * [80.0 mistral Politician](../answers/mistral_Politician/Understanding_the_Image_of_God_in_Humans.md)
- * [83.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Understanding_the_Image_of_God_in_Humans.md)
+ * [80.83333333333333 gemma Bible Translator](../answers/gemma_Bible_Translator/Understanding_the_Image_of_God_in_Humans.md)
  * [85.0 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Understanding_the_Image_of_God_in_Humans.md)
+ * [86.66666666666667 llama Politician](../answers/llama_Politician/Understanding_the_Image_of_God_in_Humans.md)
  * [87.4 mistral atheist](../answers/mistral_atheist/Understanding_the_Image_of_God_in_Humans.md)
  * [88.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Understanding_the_Image_of_God_in_Humans.md)
  * [88.0 llama Imam](../answers/llama_Imam/Understanding_the_Image_of_God_in_Humans.md)
@@ -32,5 +33,4 @@ This question aims to deepen understanding of what it means to be created in the
  * [90.0 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Understanding_the_Image_of_God_in_Humans.md)
  * [90.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Understanding_the_Image_of_God_in_Humans.md)
  * [90.0 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Understanding_the_Image_of_God_in_Humans.md)
- * [92.0 llama Politician](../answers/llama_Politician/Understanding_the_Image_of_God_in_Humans.md)
- * [93.0 llama Bible Translator](../answers/llama_Bible_Translator/Understanding_the_Image_of_God_in_Humans.md)
+ * [91.66666666666667 llama Bible Translator](../answers/llama_Bible_Translator/Understanding_the_Image_of_God_in_Humans.md)

@@ -53,7 +53,7 @@ As an atheist scholar, I approach the study of religious texts critically and wi
 God's promises in the Bible played a multifaceted role in shaping the relationship between God and His people. While these promises offer valuable insights into the cultural and social context of ancient societies, it is important to approach them critically and avoid anachronistic interpretations.
 
 ## Average Grade
-56.0
+55.0
 
 ## Grades
  * [50.0](./God_s_Promises_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -61,3 +61,4 @@ God's promises in the Bible played a multifaceted role in shaping the relationsh
  * [50.0](./God_s_Promises_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./God_s_Promises_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./God_s_Promises_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./God_s_Promises_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

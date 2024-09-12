@@ -25,7 +25,7 @@ Therefore, I conclude that there are no eternal consequences for those who "peri
 This perspective is not meant to diminish the emotional impact or cultural significance of death and mourning, but rather to approach these topics through a lens of reason, compassion, and scientific understanding. Ultimately, I believe that this approach can lead to more meaningful and fulfilling lives, free from superstition and misinformation.
 
 ## Average Grade
-24.0
+21.666666666666668
 
 ## Grades
  * [20.0](./Eternal_Consequences_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ This perspective is not meant to diminish the emotional impact or cultural signi
  * [20.0](./Eternal_Consequences_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [20.0](./Eternal_Consequences_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Eternal_Consequences_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [10.0](./Eternal_Consequences_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

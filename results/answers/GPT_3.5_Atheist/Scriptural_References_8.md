@@ -21,7 +21,7 @@ Another reference is 1 Thessalonians 5:23, which encourages believers to "May Go
 Guiding a Christian's life, these scriptures can serve as a reminder of the importance of striving for moral purity and integrity in their actions and conduct. Believers can use these references as a source of motivation to live a life that is pleasing to God and reflective of their faith. By seeking to be blameless, Christians can aim to bring honor and glory to their beliefs and set an example for others to follow.
 
 ## Average Grade
-77.0
+75.83333333333333
 
 ## Grades
  * [70.0](./Scriptural_References_8_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Guiding a Christian's life, these scriptures can serve as a reminder of the impo
  * [70.0](./Scriptural_References_8_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Scriptural_References_8_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Scriptural_References_8_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Scriptural_References_8_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

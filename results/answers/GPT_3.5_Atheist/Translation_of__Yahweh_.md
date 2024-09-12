@@ -17,7 +17,7 @@ The preference for using 'LORD' instead of 'Yahweh' in translations of the Bible
 Additionally, the use of 'LORD' in translations helps to maintain consistency and continuity with previous translations and interpretations of the Bible. Many English translations of the Bible, such as the King James Version, use 'LORD' in place of the divine name. By continuing this tradition, churches aim to preserve the reverence and holiness associated with the name of God while making the text accessible and familiar to contemporary readers.
 
 ## Average Grade
-84.0
+84.16666666666667
 
 ## Grades
  * [85.0](./Translation_of__Yahweh__grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -25,3 +25,4 @@ Additionally, the use of 'LORD' in translations helps to maintain consistency an
  * [80.0](./Translation_of__Yahweh__grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Translation_of__Yahweh__grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Translation_of__Yahweh__grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Translation_of__Yahweh__grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

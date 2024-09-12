@@ -23,7 +23,7 @@ The translation of 'Shaddai' as a title rather than a name in Bible translations
 * **Inclusive Representation:** Translating 'Shaddai' as a title rather than a name promotes inclusivity by recognizing that divine attributes can be expressed in various ways without compromising theological precision.
 
 ## Average Grade
-79.0
+77.5
 
 ## Grades
  * [85.0](./Significance_of_Names_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ The translation of 'Shaddai' as a title rather than a name in Bible translations
  * [80.0](./Significance_of_Names_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Significance_of_Names_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Significance_of_Names_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Significance_of_Names_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

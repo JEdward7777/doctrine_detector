@@ -27,7 +27,7 @@ In this sense, the title "King of the Jews" serves as a reminder of Jesus' uniqu
 Ultimately, the significance of the title "King of the Jews" lies in its connection to Jesus' messianic claim and his divine authority. As the Messiah, Jesus is the one who embodies the will of God and brings about the redemption of humanity, rather than seeking to establish a human kingdom through worldly means.
 
 ## Average Grade
-93.0
+92.5
 
 ## Grades
  * [95.0](./Messianic_Identity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ Ultimately, the significance of the title "King of the Jews" lies in its connect
  * [95.0](./Messianic_Identity_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Messianic_Identity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Messianic_Identity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Messianic_Identity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

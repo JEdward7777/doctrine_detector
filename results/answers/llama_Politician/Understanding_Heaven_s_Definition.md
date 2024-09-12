@@ -28,7 +28,7 @@ In summary, while both "heaven" and "sky" can be translated from Hebrew words, t
 I hope this response has been informative, respectful, and inclusive for all faiths and backgrounds!
 
 ## Average Grade
-89.0
+86.66666666666667
 
 ## Grades
  * [85.0](./Understanding_Heaven_s_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,3 +36,4 @@ I hope this response has been informative, respectful, and inclusive for all fai
  * [90.0](./Understanding_Heaven_s_Definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_Heaven_s_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Understanding_Heaven_s_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Understanding_Heaven_s_Definition_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

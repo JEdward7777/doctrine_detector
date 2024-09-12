@@ -19,7 +19,7 @@ From an atheistic perspective, this process is typically understood as a deeply 
 In this context, the role of any traditional notion of God or divine intervention in the process of being "born again" would not be considered a factor. Instead, individuals may undergo personal growth, self-discovery, and transformation through their own agency, experiences, and reflections on the world around them.
 
 ## Average Grade
-18.0
+18.333333333333332
 
 ## Grades
  * [20.0](./God_s_Role_in_New_Birth_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ In this context, the role of any traditional notion of God or divine interventio
  * [20.0](./God_s_Role_in_New_Birth_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [20.0](./God_s_Role_in_New_Birth_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [20.0](./God_s_Role_in_New_Birth_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./God_s_Role_in_New_Birth_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

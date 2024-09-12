@@ -25,7 +25,7 @@ In the original Greek text of Matthew, the phrase "basileia tōn ouranōn" (βα
 In summary, retaining the term "heaven" in Matthew's Kingdom of Heaven emphasizes the eternal, divine, and eschatological nature of Jesus' message. It highlights that the Kingdom of God is not just a human achievement but a reality revealed by God Himself.
 
 ## Average Grade
-93.0
+92.5
 
 ## Grades
  * [95.0](./Kingdom_of_Heaven_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ In summary, retaining the term "heaven" in Matthew's Kingdom of Heaven emphasize
  * [90.0](./Kingdom_of_Heaven_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Kingdom_of_Heaven_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Kingdom_of_Heaven_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Kingdom_of_Heaven_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

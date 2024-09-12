@@ -25,7 +25,7 @@ In the Bible, the phrase "Word of God" (Hebrew: דְבַר יהוה, Devar YHWH;
 In summary, the concept of the "Word of God" in the Bible encompasses various meanings depending on the context. It can refer to direct divine communication, sacred scripture, Jesus Christ, general divine guidance, or even the natural world itself. As a scholar, I recognize the importance of understanding these different interpretations within their historical and cultural contexts.
 
 ## Average Grade
-76.0
+71.66666666666667
 
 ## Grades
  * [75.0](./Word_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ In summary, the concept of the "Word of God" in the Bible encompasses various me
  * [70.0](./Word_of_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Word_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Word_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Word_of_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

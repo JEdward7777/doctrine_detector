@@ -21,7 +21,7 @@ Furthermore, the Bible also teaches that the soul is eternal and destined for ei
 Overall, the figurative uses of the word 'soul' in the Bible provide a holistic perspective on human identity, emphasizing the interconnectedness of the physical, emotional, mental, and spiritual aspects of a person. It underscores the importance of nurturing and caring for the soul as a key aspect of a person's overall well-being and relationship with God.
 
 ## Average Grade
-90.0
+88.33333333333333
 
 ## Grades
  * [90.0](./Function_of_the_Soul_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Overall, the figurative uses of the word 'soul' in the Bible provide a holistic 
  * [90.0](./Function_of_the_Soul_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Function_of_the_Soul_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Function_of_the_Soul_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Function_of_the_Soul_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

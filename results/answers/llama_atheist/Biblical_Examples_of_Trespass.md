@@ -41,7 +41,7 @@ In each of these examples, trespassing represents a moral or spiritual transgres
 As an atheistic scholar, I do not find it necessary to ascribe divine authority or supernatural explanations to these events. Instead, I view them as cultural expressions that reflect human experiences and moral dilemmas, offering valuable insights into human nature and the importance of cooperation, respect, and empathy.
 
 ## Average Grade
-64.0
+63.333333333333336
 
 ## Grades
  * [50.0](./Biblical_Examples_of_Trespass_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -49,3 +49,4 @@ As an atheistic scholar, I do not find it necessary to ascribe divine authority 
  * [40.0](./Biblical_Examples_of_Trespass_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [60.0](./Biblical_Examples_of_Trespass_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Biblical_Examples_of_Trespass_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Biblical_Examples_of_Trespass_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

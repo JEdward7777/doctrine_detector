@@ -35,7 +35,7 @@ It is important to note that cultural contexts can influence the interpretation 
 While fulfilling vows is important, it is also essential to balance this obligation with other ethical and practical considerations. Individuals should prioritize their commitments to God without neglecting their responsibilities to family, friends, and society.
 
 ## Average Grade
-87.4
+87.83333333333333
 
 ## Grades
  * [95.0](./Fulfilling_Promises_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -43,3 +43,4 @@ While fulfilling vows is important, it is also essential to balance this obligat
  * [92.0](./Fulfilling_Promises_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Fulfilling_Promises_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Fulfilling_Promises_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Fulfilling_Promises_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

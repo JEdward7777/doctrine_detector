@@ -21,7 +21,7 @@ Additionally, purification rituals were also symbolic of a process of renewal an
 Overall, purification in the Old Testament laws underscored the idea of maintaining spiritual purity and readiness to engage in worship and service to God. It served as a means of expressing devotion and seeking reconciliation with God, demonstrating the significance of ritual practices in ancient Israelite culture.
 
 ## Average Grade
-88.0
+87.5
 
 ## Grades
  * [90.0](./Understanding_Purification_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Overall, purification in the Old Testament laws underscored the idea of maintain
  * [85.0](./Understanding_Purification_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_Purification_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Purification_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Understanding_Purification_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

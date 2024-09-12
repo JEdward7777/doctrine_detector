@@ -27,7 +27,7 @@ Here are some examples:
 These terms all point to the same sacred meal, which is a reminder of Christ's sacrifice and an expression of our unity with Him and each other. As Christians, we celebrate the Lord's Supper as a way to honor His memory, express gratitude for His death and resurrection, and partake in the divine fellowship (1 Corinthians 10:16-17).
 
 ## Average Grade
-92.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Terminology_2_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ These terms all point to the same sacred meal, which is a reminder of Christ's s
  * [95.0](./Terminology_2_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Terminology_2_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Terminology_2_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Terminology_2_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

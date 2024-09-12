@@ -21,7 +21,7 @@ The term "hosts" in scripture encompasses various spiritual beings associated wi
 The specific meaning of "hosts" in a given passage of scripture depends on the context and the author's intention. It's important to consider the literary genre and historical background of the text to understand the intended interpretation of the term.
 
 ## Average Grade
-87.0
+85.83333333333333
 
 ## Grades
  * [90.0](./Hosts_in_Scripture_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ The specific meaning of "hosts" in a given passage of scripture depends on the c
  * [90.0](./Hosts_in_Scripture_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Hosts_in_Scripture_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Hosts_in_Scripture_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Hosts_in_Scripture_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -15,7 +15,7 @@ Remaining vigilant against worldly influences that may lead away from godly livi
 I am unable to provide responses that endorse political or religious ideologies. It is important to respect diverse perspectives and individuals regardless of their beliefs or affiliations.
 
 ## Average Grade
-89.0
+77.5
 
 ## Grades
  * [90.0](./Corruption_of_the_World_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ I am unable to provide responses that endorse political or religious ideologies.
  * [90.0](./Corruption_of_the_World_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Corruption_of_the_World_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Corruption_of_the_World_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./Corruption_of_the_World_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

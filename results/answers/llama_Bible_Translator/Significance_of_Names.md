@@ -27,7 +27,7 @@ There are several reasons why translating Shaddai as a title is significant:
 In summary, translating "Shaddai" as a title rather than a name reflects its function as a descriptive term that emphasizes God's power, strength, and sovereignty. This approach aligns with biblical theology, distinguishes it from other divine names, and helps to contextualize its significance within the broader biblical narrative.
 
 ## Average Grade
-90.4
+89.5
 
 ## Grades
  * [90.0](./Significance_of_Names_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In summary, translating "Shaddai" as a title rather than a name reflects its fun
  * [90.0](./Significance_of_Names_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Significance_of_Names_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Significance_of_Names_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Significance_of_Names_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

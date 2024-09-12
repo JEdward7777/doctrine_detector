@@ -37,7 +37,7 @@ From a cultural perspective, the story of God's promise to Abraham reflects anci
 In conclusion, while I'm not inclined to interpret these biblical passages as "God's promise" to Abraham and his descendants, they do reflect historical and cultural themes related to land inheritance and covenant-making that were important in the ancient Near East.
 
 ## Average Grade
-49.0
+49.166666666666664
 
 ## Grades
  * [60.0](./Inheritance_and_the_Promise_to_Abraham_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -45,3 +45,4 @@ In conclusion, while I'm not inclined to interpret these biblical passages as "G
  * [30.0](./Inheritance_and_the_Promise_to_Abraham_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [50.0](./Inheritance_and_the_Promise_to_Abraham_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Inheritance_and_the_Promise_to_Abraham_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Inheritance_and_the_Promise_to_Abraham_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

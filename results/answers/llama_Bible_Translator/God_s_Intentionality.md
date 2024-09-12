@@ -27,7 +27,7 @@ Lastly, the significance of intentionality and purpose in God's calling highligh
 In conclusion, the significance of intentionality and purpose when referring to God's calling lies in its emphasis on His sovereign agency, specific plan for each individual, uniqueness of human experience, and high value placed on human agency. These aspects all contribute to a profound understanding of God's relational dynamics with humanity, highlighting His concern for our individual lives and purposes.
 
 ## Average Grade
-93.0
+92.5
 
 ## Grades
  * [95.0](./God_s_Intentionality_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In conclusion, the significance of intentionality and purpose when referring to 
  * [90.0](./God_s_Intentionality_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./God_s_Intentionality_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./God_s_Intentionality_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./God_s_Intentionality_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

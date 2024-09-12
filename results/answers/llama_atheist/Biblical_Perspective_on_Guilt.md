@@ -29,7 +29,7 @@ As an atheistic scholar, I recognize that these biblical accounts are rooted in 
 In conclusion, while I don't attribute divine or supernatural significance to the consequences of guilt and sin described in the Bible, I acknowledge that these stories continue to influence Western cultural and moral discourse. As an secular scholar, my goal is to analyze these narratives critically, stripping away layers of theological interpretation to uncover the historical and cultural context that shaped their creation.
 
 ## Average Grade
-36.0
+38.333333333333336
 
 ## Grades
  * [40.0](./Biblical_Perspective_on_Guilt_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ In conclusion, while I don't attribute divine or supernatural significance to th
  * [20.0](./Biblical_Perspective_on_Guilt_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [30.0](./Biblical_Perspective_on_Guilt_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Biblical_Perspective_on_Guilt_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Biblical_Perspective_on_Guilt_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

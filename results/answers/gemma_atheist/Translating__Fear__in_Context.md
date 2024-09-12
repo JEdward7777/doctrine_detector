@@ -58,7 +58,7 @@ Misinterpretation of 'fear' may lead to a distorted view of God, affecting one's
 Understanding the different ways in which "fear" can be translated is essential for respectful and effective communication about God across cultures. It allows for a deeper appreciation of the diverse religious experiences and ethical implications associated with encountering the divine.
 
 ## Average Grade
-92.0
+90.83333333333333
 
 ## Grades
  * [95.0](./Translating__Fear__in_Context_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -66,3 +66,4 @@ Understanding the different ways in which "fear" can be translated is essential 
  * [95.0](./Translating__Fear__in_Context_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Translating__Fear__in_Context_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Translating__Fear__in_Context_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Translating__Fear__in_Context_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

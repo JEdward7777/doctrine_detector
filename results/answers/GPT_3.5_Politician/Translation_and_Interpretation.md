@@ -19,7 +19,7 @@ On the other hand, when used in reference to ordinary people, the term "Lord" ca
 Therefore, it is important to be mindful of the implications and potential sensitivities associated with using the term "Lord" in different contexts to ensure respectful and inclusive communication.
 
 ## Average Grade
-80.0
+77.5
 
 ## Grades
  * [80.0](./Translation_and_Interpretation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Therefore, it is important to be mindful of the implications and potential sensi
  * [90.0](./Translation_and_Interpretation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Translation_and_Interpretation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Translation_and_Interpretation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [65.0](./Translation_and_Interpretation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

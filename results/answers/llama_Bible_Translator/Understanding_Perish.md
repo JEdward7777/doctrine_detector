@@ -25,7 +25,7 @@ In this sense, perishing represents a state of being cut off from the life-givin
 So, in summary, to perish spiritually means to experience eternal separation from God's love, resulting from rejecting Him or failing to follow His teachings. This concept highlights the importance of a personal relationship with God through faith in Jesus Christ as the only way to avoid spiritual perishing and receive eternal life.
 
 ## Average Grade
-89.0
+87.5
 
 ## Grades
  * [90.0](./Understanding_Perish_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ So, in summary, to perish spiritually means to experience eternal separation fro
  * [90.0](./Understanding_Perish_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_Perish_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Perish_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Understanding_Perish_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

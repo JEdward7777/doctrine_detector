@@ -71,7 +71,7 @@ Understanding the distinction between God's perfect judgment and flawed human ju
 God's judgment is a complex and nuanced concept rooted in his love for justice and his desire to restore and redeem his creation. It is not a reflection of human judgment but stands as a unique and powerful expression of God's character.
 
 ## Average Grade
-95.0
+93.33333333333333
 
 ## Grades
  * [95.0](./Understanding_Divine_Judgment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -79,3 +79,4 @@ God's judgment is a complex and nuanced concept rooted in his love for justice a
  * [95.0](./Understanding_Divine_Judgment_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_Divine_Judgment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Understanding_Divine_Judgment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Understanding_Divine_Judgment_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

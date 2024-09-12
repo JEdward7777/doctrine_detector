@@ -15,7 +15,7 @@ Understanding the depth of God's love for Jesus and how that relates to believer
 In the Biblical context, the term "beloved" often conveys a sense of divine favor, affection, or special relationship. For example, in the New Testament, Jesus is often referred to as the "beloved Son" of God, highlighting his unique relationship with the divine. Additionally, in the Old Testament, the term "beloved" is also used to describe individuals who were favored by God, such as King David or the nation of Israel. This term is often associated with a sense of love, care, and protection shown by a higher power towards those who are considered beloved.
 
 ## Average Grade
-84.0
+84.16666666666667
 
 ## Grades
  * [90.0](./Definition_of_Beloved_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ In the Biblical context, the term "beloved" often conveys a sense of divine favo
  * [90.0](./Definition_of_Beloved_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Definition_of_Beloved_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Definition_of_Beloved_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Definition_of_Beloved_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

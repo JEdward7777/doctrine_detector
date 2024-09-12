@@ -30,7 +30,7 @@ Based on these passages, we can distill some key responsibilities of deacons:
 It is essential to note that these passages do not present a rigid, hierarchical structure, but rather emphasize the importance of servant-leadership within the early Christian communities.
 
 ## Average Grade
-87.0
+85.83333333333333
 
 ## Grades
  * [90.0](./Biblical_Context_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,3 +38,4 @@ It is essential to note that these passages do not present a rigid, hierarchical
  * [90.0](./Biblical_Context_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Biblical_Context_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_Context_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Biblical_Context_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

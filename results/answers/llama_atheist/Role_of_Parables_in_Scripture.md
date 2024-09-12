@@ -31,7 +31,7 @@ This confrontational yet subtle method allowed Nathan to address David's sin of 
 As an atheistic scholar, I appreciate how Nathan's use of a parable demonstrates the power of storytelling in shaping human behavior and moral understanding, regardless of one's religious affiliations. This episode showcases the prophet's mastery of narrative techniques, which continue to inspire and influence literary and cultural practices across time and cultures.
 
 ## Average Grade
-81.0
+81.66666666666667
 
 ## Grades
  * [70.0](./Role_of_Parables_in_Scripture_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,3 +39,4 @@ As an atheistic scholar, I appreciate how Nathan's use of a parable demonstrates
  * [80.0](./Role_of_Parables_in_Scripture_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Role_of_Parables_in_Scripture_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Role_of_Parables_in_Scripture_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Role_of_Parables_in_Scripture_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

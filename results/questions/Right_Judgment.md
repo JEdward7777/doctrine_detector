@@ -11,26 +11,26 @@ Luke 6:37 advises against judging others harshly, encouraging believers to show 
 Promoting a spirit of grace rather than judgment within Christian communities.
 
 ## Average Grade
-88.04
+86.91743119266054
 
 ## Grades
+ * [68.33333333333333 llama atheist](../answers/llama_atheist/Right_Judgment.md)
  * [69.0 mistral Imam](../answers/mistral_Imam/Right_Judgment.md)
- * [70.0 llama atheist](../answers/llama_atheist/Right_Judgment.md)
  * [83.0 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Right_Judgment.md)
- * [86.0 llama Politician](../answers/llama_Politician/Right_Judgment.md)
+ * [83.33333333333333 llama Politician](../answers/llama_Politician/Right_Judgment.md)
+ * [84.16666666666667 gemma Politician](../answers/gemma_Politician/Right_Judgment.md)
+ * [85.0 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Right_Judgment.md)
  * [87.0 mistral atheist](../answers/mistral_atheist/Right_Judgment.md)
  * [87.0 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Right_Judgment.md)
- * [89.0 gemma Politician](../answers/gemma_Politician/Right_Judgment.md)
  * [89.0 gemma Imam](../answers/gemma_Imam/Right_Judgment.md)
- * [90.0 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Right_Judgment.md)
- * [90.0 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Right_Judgment.md)
+ * [89.16666666666667 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Right_Judgment.md)
+ * [89.5 gemma atheist](../answers/gemma_atheist/Right_Judgment.md)
+ * [90.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Right_Judgment.md)
  * [90.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Right_Judgment.md)
  * [90.0 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Right_Judgment.md)
- * [90.4 gemma atheist](../answers/gemma_atheist/Right_Judgment.md)
  * [91.0 mistral Politician](../answers/mistral_Politician/Right_Judgment.md)
  * [91.0 llama Imam](../answers/llama_Imam/Right_Judgment.md)
- * [93.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Right_Judgment.md)
+ * [91.16666666666667 llama Bible Translator](../answers/llama_Bible_Translator/Right_Judgment.md)
  * [93.0 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Right_Judgment.md)
- * [93.4 llama Bible Translator](../answers/llama_Bible_Translator/Right_Judgment.md)
- * [94.0 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Right_Judgment.md)
+ * [94.16666666666667 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Right_Judgment.md)
  * [95.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Right_Judgment.md)

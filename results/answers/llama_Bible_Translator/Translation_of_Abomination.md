@@ -38,7 +38,7 @@ When translating "abomination," strive for a balance between conveying its origi
 Ultimately, the goal is to convey the moral and spiritual significance of "abomination" while maintaining its original biblical context.
 
 ## Average Grade
-89.0
+89.16666666666667
 
 ## Grades
  * [90.0](./Translation_of_Abomination_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -46,3 +46,4 @@ Ultimately, the goal is to convey the moral and spiritual significance of "abomi
  * [85.0](./Translation_of_Abomination_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Translation_of_Abomination_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Translation_of_Abomination_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Translation_of_Abomination_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

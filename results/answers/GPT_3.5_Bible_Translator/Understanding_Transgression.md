@@ -15,7 +15,7 @@ Understanding the nature of sin and our relationship with God's commandments.
 In a Biblical context, the term "transgress" implies willfully disobeying God's commands or going against His will. It is an intentional crossing of moral boundaries or breaking of the laws and principles set forth by God. Transgression is viewed as a sin or wrongdoing that separates humanity from God and requires repentance and forgiveness to reconcile with Him. The concept of transgression is central to the Christian understanding of sin and the need for redemption through Jesus Christ.
 
 ## Average Grade
-93.0
+92.5
 
 ## Grades
  * [95.0](./Understanding_Transgression_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ In a Biblical context, the term "transgress" implies willfully disobeying God's 
  * [95.0](./Understanding_Transgression_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_Transgression_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Transgression_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Understanding_Transgression_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

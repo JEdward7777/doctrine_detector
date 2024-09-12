@@ -19,7 +19,7 @@ Another important verse that speaks to the concept of ransom is 1 Timothy 2:5-6,
 The concept of ransom in the Bible contributes to our understanding of redemption by emphasizing the costly price that was paid for our salvation. The idea of a ransom implies that a debt needed to be paid in order to secure our freedom from sin and death, and Jesus willingly offered Himself as the payment for that debt. This serves as a powerful reminder of God's love and grace towards us, as well as the magnitude of the sacrifice that was made on our behalf. Ultimately, the concept of ransom points to the incredible act of redemption that was accomplished through Christ's death and resurrection, providing hope and eternal life for all who believe.
 
 ## Average Grade
-89.0
+88.33333333333333
 
 ## Grades
  * [90.0](./Biblical_References_8_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ The concept of ransom in the Bible contributes to our understanding of redemptio
  * [90.0](./Biblical_References_8_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Biblical_References_8_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_References_8_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Biblical_References_8_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

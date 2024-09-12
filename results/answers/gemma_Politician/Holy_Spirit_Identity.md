@@ -28,7 +28,7 @@ The identity of the Holy Spirit as God is a complex and multifaceted theological
 * **Embrace Dialogue:** Encourage respectful and open-minded dialogue among Christians with different perspectives on the Holy Spirit.
 
 ## Average Grade
-76.0
+71.66666666666667
 
 ## Grades
  * [70.0](./Holy_Spirit_Identity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,3 +36,4 @@ The identity of the Holy Spirit as God is a complex and multifaceted theological
  * [85.0](./Holy_Spirit_Identity_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Holy_Spirit_Identity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Holy_Spirit_Identity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Holy_Spirit_Identity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

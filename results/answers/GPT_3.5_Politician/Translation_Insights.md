@@ -19,7 +19,7 @@ When referring to Jesus as the 'image of God,' alternative translations could in
 Using more inclusive and politically correct language in these translations is important because it recognizes and respects diverse viewpoints and beliefs. It promotes dialogue and understanding among people of various faith traditions and backgrounds, avoiding language that may be exclusive or divisive.
 
 ## Average Grade
-60.0
+61.666666666666664
 
 ## Grades
  * [60.0](./Translation_Insights_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Using more inclusive and politically correct language in these translations is i
  * [60.0](./Translation_Insights_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Translation_Insights_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Translation_Insights_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Translation_Insights_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

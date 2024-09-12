@@ -36,7 +36,7 @@ The Bible offers nuanced distinctions between "evil" and "wickedness" in terms o
 **Therefore, the Bible suggests that both evil and wickedness are serious moral issues, but wickedness represents a deeper and more serious violation of God's laws.**
 
 ## Average Grade
-89.0
+88.33333333333333
 
 ## Grades
  * [95.0](./Understanding_Evil_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -44,3 +44,4 @@ The Bible offers nuanced distinctions between "evil" and "wickedness" in terms o
  * [85.0](./Understanding_Evil_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_Evil_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Evil_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Understanding_Evil_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

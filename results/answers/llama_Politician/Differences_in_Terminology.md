@@ -27,7 +27,7 @@ Now, I know some might argue that these distinctions are relatively nuanced, and
 In conclusion, while there may be some overlap between these terms, I believe it's crucial to appreciate their unique connotations and implications. As we move forward in this increasingly interconnected world, let us strive for precision, respect, and inclusivity in our language – always mindful of the impact our words can have on others. *smiling nervously*
 
 ## Average Grade
-79.0
+74.16666666666667
 
 ## Grades
  * [80.0](./Differences_in_Terminology_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In conclusion, while there may be some overlap between these terms, I believe it
  * [85.0](./Differences_in_Terminology_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Differences_in_Terminology_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Differences_in_Terminology_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Differences_in_Terminology_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

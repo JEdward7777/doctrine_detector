@@ -11,26 +11,26 @@ How can 'divine glory' be understood in the context of worship?
 Recognizing God's glory is crucial in worship practices and influences how Christians express reverence and awe towards Him.
 
 ## Average Grade
-76.07
+75.01834862385321
 
 ## Grades
- * [28.0 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Interpreting_Divine_Glory.md)
- * [38.0 llama atheist](../answers/llama_atheist/Interpreting_Divine_Glory.md)
+ * [27.5 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Interpreting_Divine_Glory.md)
+ * [36.666666666666664 llama atheist](../answers/llama_atheist/Interpreting_Divine_Glory.md)
  * [62.0 mistral Imam](../answers/mistral_Imam/Interpreting_Divine_Glory.md)
  * [63.0 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Interpreting_Divine_Glory.md)
  * [70.0 mistral Politician](../answers/mistral_Politician/Interpreting_Divine_Glory.md)
- * [72.0 gemma atheist](../answers/gemma_atheist/Interpreting_Divine_Glory.md)
+ * [70.83333333333333 gemma atheist](../answers/gemma_atheist/Interpreting_Divine_Glory.md)
+ * [72.5 llama Politician](../answers/llama_Politician/Interpreting_Divine_Glory.md)
  * [74.0 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Interpreting_Divine_Glory.md)
- * [75.0 llama Politician](../answers/llama_Politician/Interpreting_Divine_Glory.md)
- * [76.0 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Interpreting_Divine_Glory.md)
+ * [75.0 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Interpreting_Divine_Glory.md)
  * [78.0 llama Imam](../answers/llama_Imam/Interpreting_Divine_Glory.md)
  * [80.0 mistral atheist](../answers/mistral_atheist/Interpreting_Divine_Glory.md)
  * [81.0 gemma Imam](../answers/gemma_Imam/Interpreting_Divine_Glory.md)
  * [81.0 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Interpreting_Divine_Glory.md)
  * [85.0 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Interpreting_Divine_Glory.md)
- * [89.0 gemma Politician](../answers/gemma_Politician/Interpreting_Divine_Glory.md)
+ * [85.83333333333333 gemma Politician](../answers/gemma_Politician/Interpreting_Divine_Glory.md)
+ * [90.83333333333333 llama Bible Translator](../answers/llama_Bible_Translator/Interpreting_Divine_Glory.md)
+ * [91.66666666666667 gemma Bible Translator](../answers/gemma_Bible_Translator/Interpreting_Divine_Glory.md)
  * [92.4 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Interpreting_Divine_Glory.md)
- * [93.0 llama Bible Translator](../answers/llama_Bible_Translator/Interpreting_Divine_Glory.md)
- * [94.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Interpreting_Divine_Glory.md)
- * [95.0 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Interpreting_Divine_Glory.md)
+ * [94.16666666666667 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Interpreting_Divine_Glory.md)
  * [95.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Interpreting_Divine_Glory.md)

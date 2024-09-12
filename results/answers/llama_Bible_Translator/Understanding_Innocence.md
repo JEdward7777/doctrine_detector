@@ -25,7 +25,7 @@ In the New Testament, Jesus Christ is often referred to as "the innocent" or "in
 In summary, when a person is wrongfully accused, "innocent" signifies that they have not committed any offense or sin against God's laws or standards. This understanding is rooted in biblical principles of justice, morality, and the character of God, who seeks to vindicate the innocent and punish the guilty.
 
 ## Average Grade
-95.0
+92.5
 
 ## Grades
  * [95.0](./Understanding_Innocence_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ In summary, when a person is wrongfully accused, "innocent" signifies that they 
  * [95.0](./Understanding_Innocence_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_Innocence_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Understanding_Innocence_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Understanding_Innocence_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

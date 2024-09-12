@@ -25,7 +25,7 @@ Furthermore, Jesus Christ is referred to as the "Only Begotten Son" (John 1:14, 
 In summary, within a biblical context, "beget" implies a creative or generative act that brings forth something new, whether it be the universe, humanity, or the Son of God himself. This concept carries significance for understanding creation, procreation, and salvation in both Jewish and Christian traditions.
 
 ## Average Grade
-86.0
+80.0
 
 ## Grades
  * [95.0](./Definition_of_Begetting_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ In summary, within a biblical context, "beget" implies a creative or generative 
  * [95.0](./Definition_of_Begetting_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Definition_of_Begetting_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Definition_of_Begetting_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Definition_of_Begetting_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -23,7 +23,7 @@ In 1 Corinthians 10:13, Paul reminds us that God is faithful and will not allow 
 Ultimately, the Bible teaches that we have the power to resist temptation through prayer, reliance on the Holy Spirit (Galatians 5:16-17), and submission to God's will (Romans 6:12-14). As believers, it is crucial to recognize both our internal sinful nature and external influences as potential temptations, while relying on Christ's help and guidance to navigate these challenges.
 
 ## Average Grade
-95.0
+93.33333333333333
 
 ## Grades
  * [95.0](./Nature_of_Temptation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ Ultimately, the Bible teaches that we have the power to resist temptation throug
  * [95.0](./Nature_of_Temptation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Nature_of_Temptation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Nature_of_Temptation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Nature_of_Temptation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

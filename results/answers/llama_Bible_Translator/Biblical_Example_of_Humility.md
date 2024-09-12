@@ -32,7 +32,7 @@ Moses' life demonstrates several key aspects of humility:
 As Christians, we can learn from Moses' example, recognizing that true greatness lies not in human achievements but in our dependence on God and our willingness to follow His leading.
 
 ## Average Grade
-91.0
+87.5
 
 ## Grades
  * [95.0](./Biblical_Example_of_Humility_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -40,3 +40,4 @@ As Christians, we can learn from Moses' example, recognizing that true greatness
  * [90.0](./Biblical_Example_of_Humility_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Biblical_Example_of_Humility_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_Example_of_Humility_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Biblical_Example_of_Humility_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -29,7 +29,7 @@ It is essential to note that these characteristics and attributes are not consis
 As an atheist, I do not assume any supernatural authority or accept the Bible as a divine revelation. Instead, I view these descriptions of God's characteristics and attributes as cultural and historical expressions that have shaped human understanding and imagination throughout the ages.
 
 ## Average Grade
-51.0
+47.5
 
 ## Grades
  * [75.0](./Definition_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ As an atheist, I do not assume any supernatural authority or accept the Bible as
  * [50.0](./Definition_of_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [40.0](./Definition_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Definition_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [30.0](./Definition_of_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

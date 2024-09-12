@@ -44,7 +44,7 @@ Eternity is a crucial aspect of Christian faith, and understanding how to attain
 The Bible teaches that inheriting eternal life is a gift from God, received through faith in Jesus Christ. While cultural interpretations may vary, the core message of salvation through faith remains consistent across cultures and contexts.
 
 ## Average Grade
-72.0
+73.33333333333333
 
 ## Grades
  * [40.0](./Understanding_Eternal_Life_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -52,3 +52,4 @@ The Bible teaches that inheriting eternal life is a gift from God, received thro
  * [90.0](./Understanding_Eternal_Life_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Understanding_Eternal_Life_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Eternal_Life_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Understanding_Eternal_Life_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

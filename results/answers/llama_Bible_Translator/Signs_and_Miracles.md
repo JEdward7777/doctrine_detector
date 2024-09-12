@@ -28,7 +28,7 @@ The role of signs and miracles in proving the truth of God's message is multifac
 In summary, signs and miracles played a crucial role in authenticating the message of God through Jesus Christ and the early Church. They served as a demonstration of divine power, a testimony to the resurrection, a tool for evangelism, and a source of comfort and encouragement for believers.
 
 ## Average Grade
-95.0
+94.16666666666667
 
 ## Grades
  * [95.0](./Signs_and_Miracles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,3 +36,4 @@ In summary, signs and miracles played a crucial role in authenticating the messa
  * [95.0](./Signs_and_Miracles_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Signs_and_Miracles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Signs_and_Miracles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Signs_and_Miracles_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

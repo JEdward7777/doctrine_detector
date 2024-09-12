@@ -39,7 +39,7 @@ In each of these examples, trespassing is associated with negative consequences,
 As Christians, it's essential to recognize the significance of trespassing in our lives and strive to live according to God's will, respecting His commands and treating others with kindness, fairness, and compassion.
 
 ## Average Grade
-90.0
+89.16666666666667
 
 ## Grades
  * [95.0](./Biblical_Examples_of_Trespass_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -47,3 +47,4 @@ As Christians, it's essential to recognize the significance of trespassing in ou
  * [90.0](./Biblical_Examples_of_Trespass_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Biblical_Examples_of_Trespass_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_Examples_of_Trespass_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Biblical_Examples_of_Trespass_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

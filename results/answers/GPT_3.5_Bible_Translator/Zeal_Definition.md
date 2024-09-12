@@ -19,7 +19,7 @@ However, it is important to note that zeal must be tempered with wisdom, humilit
 One well-known example of zeal in the Bible is the apostle Paul, who demonstrated great passion and dedication in his mission to spread the Gospel, even in the face of persecution and hardships. Ultimately, zeal in the Christian context is about wholeheartedly pursuing a relationship with God and living out His purposes with enthusiasm and sincerity.
 
 ## Average Grade
-91.0
+90.0
 
 ## Grades
  * [90.0](./Zeal_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ One well-known example of zeal in the Bible is the apostle Paul, who demonstrate
  * [95.0](./Zeal_Definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Zeal_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Zeal_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Zeal_Definition_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

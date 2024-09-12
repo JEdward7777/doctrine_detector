@@ -21,7 +21,7 @@ Believing in Jesus also involves a personal relationship with Him, accepting Him
 Ultimately, believing in Jesus is central to the Christian faith and is the foundation of a Christian's relationship with God and their hope for the future.
 
 ## Average Grade
-89.0
+87.5
 
 ## Grades
  * [95.0](./Faith_in_Jesus_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Ultimately, believing in Jesus is central to the Christian faith and is the foun
  * [90.0](./Faith_in_Jesus_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Faith_in_Jesus_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Faith_in_Jesus_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Faith_in_Jesus_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

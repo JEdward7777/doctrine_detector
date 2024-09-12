@@ -17,7 +17,7 @@ The earliest reference to Christians as a collective appears in non-canonical wr
 The first known instances of the term "Christian" in historical records come from non-Christian sources such as the Roman historian Tacitus and the Jewish historian Josephus. These early references suggest that the term was used to describe the followers of Jesus as a distinct group with a unique identity.
 
 ## Average Grade
-66.0
+69.16666666666667
 
 ## Grades
  * [60.0](./Origin_of_the_Term_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -25,3 +25,4 @@ The first known instances of the term "Christian" in historical records come fro
  * [75.0](./Origin_of_the_Term_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [65.0](./Origin_of_the_Term_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Origin_of_the_Term_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Origin_of_the_Term_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -31,7 +31,7 @@ Now, when it comes to categorizing covenants into conditional and unconditional,
 Please note that these categorizations might be slightly nuanced depending on one's theological perspective. However, I hope this provides a general overview of the different types of covenants mentioned in the Bible!
 
 ## Average Grade
-90.0
+89.16666666666667
 
 ## Grades
  * [85.0](./Covenant_Conditions_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,3 +39,4 @@ Please note that these categorizations might be slightly nuanced depending on on
  * [95.0](./Covenant_Conditions_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Covenant_Conditions_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Covenant_Conditions_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Covenant_Conditions_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

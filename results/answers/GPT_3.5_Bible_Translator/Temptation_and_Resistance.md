@@ -23,7 +23,7 @@ In the Gospel of Matthew, chapters 4 verses 1-11, it is recorded that Jesus resp
 In each instance, Jesus relied on the truth of God's Word to overcome Satan's temptations, demonstrating his trust in and obedience to God.
 
 ## Average Grade
-93.0
+92.5
 
 ## Grades
  * [95.0](./Temptation_and_Resistance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ In each instance, Jesus relied on the truth of God's Word to overcome Satan's te
  * [95.0](./Temptation_and_Resistance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Temptation_and_Resistance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Temptation_and_Resistance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Temptation_and_Resistance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -21,7 +21,7 @@ In more recent times, some interpreters have suggested that the Antichrist might
 It's important to note that the Book of Revelation is a product of its time, and its symbolism and imagery were likely influenced by contemporary events and cultural contexts. As such, any attempts to identify a specific individual or regime as the ultimate Antichrist should be approached with caution and critical scrutiny.
 
 ## Average Grade
-76.0
+75.0
 
 ## Grades
  * [60.0](./Ultimate_Antichrist_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ It's important to note that the Book of Revelation is a product of its time, and
  * [70.0](./Ultimate_Antichrist_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Ultimate_Antichrist_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Ultimate_Antichrist_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Ultimate_Antichrist_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

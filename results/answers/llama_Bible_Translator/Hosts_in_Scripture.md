@@ -34,7 +34,7 @@ Here, the "sons of God" are again likely referring to these heavenly hosts, who 
 In summary, when the Bible uses the term "hosts," it typically refers to God's heavenly army or spiritual beings that serve and worship Him in heaven. These hosts are often depicted as mighty warriors, carrying out God's will and maintaining the order of creation.
 
 ## Average Grade
-87.0
+86.66666666666667
 
 ## Grades
  * [90.0](./Hosts_in_Scripture_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -42,3 +42,4 @@ In summary, when the Bible uses the term "hosts," it typically refers to God's h
  * [80.0](./Hosts_in_Scripture_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Hosts_in_Scripture_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Hosts_in_Scripture_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Hosts_in_Scripture_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

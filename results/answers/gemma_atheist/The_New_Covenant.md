@@ -38,7 +38,7 @@ This passage emphasizes that in the New Covenant, God's law is no longer merely 
 The statement "God would write His law on the people's hearts" is a powerful metaphor that highlights the transformative power of the Holy Spirit in the New Covenant. It emphasizes the internal transformation of believers, where God's law becomes a part of their hearts and guides their lives.
 
 ## Average Grade
-93.0
+93.33333333333333
 
 ## Grades
  * [95.0](./The_New_Covenant_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -46,3 +46,4 @@ The statement "God would write His law on the people's hearts" is a powerful met
  * [95.0](./The_New_Covenant_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./The_New_Covenant_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./The_New_Covenant_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [95.0](./The_New_Covenant_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

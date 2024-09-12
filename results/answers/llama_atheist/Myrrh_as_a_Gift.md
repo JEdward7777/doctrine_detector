@@ -25,7 +25,7 @@ Moreover, in Jewish tradition, myrrh held spiritual significance as a component 
 In conclusion, the significance of myrrh as one of the gifts given to Jesus at his birth lies in its cultural and symbolic associations with death, mourning, and spiritual purification. By including myrrh in their offerings, the Magi might have been acknowledging the cyclical nature of life and emphasizing Jesus' role as a symbol of new life and hope, while also connecting him to Jewish traditions and the concept of anointing.
 
 ## Average Grade
-68.0
+65.0
 
 ## Grades
  * [70.0](./Myrrh_as_a_Gift_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ In conclusion, the significance of myrrh as one of the gifts given to Jesus at h
  * [70.0](./Myrrh_as_a_Gift_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Myrrh_as_a_Gift_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Myrrh_as_a_Gift_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Myrrh_as_a_Gift_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

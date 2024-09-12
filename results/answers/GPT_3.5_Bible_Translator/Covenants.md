@@ -21,7 +21,7 @@ The ultimate demonstration of God's commitment to His people is seen in the New 
 Throughout the Bible, we see God's unwavering commitment to His people, even when they are unfaithful or disobedient. His promises are sure and trustworthy, and He always fulfills them in His perfect timing and according to His divine purposes. The covenants serve as a reminder of God's grace, mercy, and eternal love for His chosen ones.
 
 ## Average Grade
-92.4
+91.16666666666667
 
 ## Grades
  * [90.0](./Covenants_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Throughout the Bible, we see God's unwavering commitment to His people, even whe
  * [95.0](./Covenants_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [92.0](./Covenants_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Covenants_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Covenants_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

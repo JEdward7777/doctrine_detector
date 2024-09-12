@@ -27,7 +27,7 @@ In Scripture, the soul (or spirit) plays a vital role in a person's relationship
 In summary, the soul is intricately connected to our relationship with God, serving as a bridge between our physical bodies and spiritual lives. It's where we encounter God, respond to Him, and experience His presence and power.
 
 ## Average Grade
-94.0
+92.5
 
 ## Grades
  * [90.0](./Purpose_of_the_Soul_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In summary, the soul is intricately connected to our relationship with God, serv
  * [95.0](./Purpose_of_the_Soul_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Purpose_of_the_Soul_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Purpose_of_the_Soul_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Purpose_of_the_Soul_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

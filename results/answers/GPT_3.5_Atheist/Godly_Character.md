@@ -19,7 +19,7 @@ From a cultural perspective, the virtues or qualities that indicate a person has
 Ultimately, the idea of what constitutes good character is shaped by cultural norms, societal values, and individual beliefs. It is important to recognize that ethical and moral values are not exclusive to any one religious tradition, and people from diverse backgrounds can exhibit virtuous behavior and positive qualities regardless of their religious beliefs.
 
 ## Average Grade
-52.0
+50.0
 
 ## Grades
  * [60.0](./Godly_Character_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Ultimately, the idea of what constitutes good character is shaped by cultural no
  * [60.0](./Godly_Character_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [30.0](./Godly_Character_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Godly_Character_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Godly_Character_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

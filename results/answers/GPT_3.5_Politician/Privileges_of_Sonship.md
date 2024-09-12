@@ -15,7 +15,7 @@ Recognizing the depth of the relationship between believers and God.
 In Romans 8:14-15, it is stated that adopted children of God receive the privilege of being led by the Spirit of God and of experiencing a relationship with God as their Father. This passage emphasizes the deep connection and love that God has for all of His children, regardless of their biological background or circumstances of adoption. It highlights the idea that through faith in Christ, all believers are welcomed into God's family with open arms and are given the gift of a close, personal relationship with Him.
 
 ## Average Grade
-89.0
+89.16666666666667
 
 ## Grades
  * [90.0](./Privileges_of_Sonship_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ In Romans 8:14-15, it is stated that adopted children of God receive the privile
  * [90.0](./Privileges_of_Sonship_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Privileges_of_Sonship_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Privileges_of_Sonship_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Privileges_of_Sonship_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

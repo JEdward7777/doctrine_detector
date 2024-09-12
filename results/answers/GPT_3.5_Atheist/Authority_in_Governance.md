@@ -19,7 +19,7 @@ However, it is important to note that these verses were written in a specific hi
 As an atheistic scholar, it is worth considering the historical and cultural context of these verses and the complex relationship between religion and governance. It is also important to respect diverse perspectives and beliefs on this topic while approaching it with critical inquiry and analysis.
 
 ## Average Grade
-73.0
+72.5
 
 ## Grades
  * [70.0](./Authority_in_Governance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ As an atheistic scholar, it is worth considering the historical and cultural con
  * [75.0](./Authority_in_Governance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Authority_in_Governance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Authority_in_Governance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Authority_in_Governance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

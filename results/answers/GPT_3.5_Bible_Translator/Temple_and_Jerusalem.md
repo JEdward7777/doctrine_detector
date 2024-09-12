@@ -23,7 +23,7 @@ In the New Testament, Zion is sometimes used metaphorically to refer to the spir
 Overall, the association of the term "Zion" with the temple located in Jerusalem is rooted in the historical and theological significance of Jerusalem as the center of worship for the people of Israel and the place where God chose to make His presence known.
 
 ## Average Grade
-89.0
+89.16666666666667
 
 ## Grades
  * [95.0](./Temple_and_Jerusalem_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ Overall, the association of the term "Zion" with the temple located in Jerusalem
  * [90.0](./Temple_and_Jerusalem_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Temple_and_Jerusalem_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Temple_and_Jerusalem_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Temple_and_Jerusalem_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

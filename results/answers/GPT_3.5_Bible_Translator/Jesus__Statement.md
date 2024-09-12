@@ -21,7 +21,7 @@ Furthermore, by claiming to be the Life, Jesus is emphasizing that He is the sou
 In summary, when Jesus said, "I am the Resurrection and the Life," He was proclaiming his deity, power over death, and his role as the Savior who offers eternal life to all who believe in Him.
 
 ## Average Grade
-91.0
+90.0
 
 ## Grades
  * [90.0](./Jesus__Statement_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In summary, when Jesus said, "I am the Resurrection and the Life," He was procla
  * [90.0](./Jesus__Statement_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Jesus__Statement_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Jesus__Statement_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Jesus__Statement_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

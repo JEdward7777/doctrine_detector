@@ -19,7 +19,7 @@ The priests followed detailed instructions regarding the types of sacrifices to 
 Overall, the role of the priests in the Old Testament was central to maintaining the religious traditions and beliefs of the Israelites, and their duties were crucial in ensuring the spiritual well-being of the community.
 
 ## Average Grade
-84.0
+84.16666666666667
 
 ## Grades
  * [85.0](./Old_Testament_Ministry_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Overall, the role of the priests in the Old Testament was central to maintaining
  * [85.0](./Old_Testament_Ministry_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Old_Testament_Ministry_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Old_Testament_Ministry_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Old_Testament_Ministry_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

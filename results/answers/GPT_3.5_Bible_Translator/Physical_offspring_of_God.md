@@ -21,7 +21,7 @@ It is also important to emphasize that the concept of Jesus as the Son of God is
 Therefore, when discussing the term "Son of God" with someone who may have misconceptions about its meaning, it is crucial to provide a clear explanation rooted in the teachings of the Bible and Christian tradition. Clarifying that the term signifies Jesus' unique relationship with God and his divine nature can help dispel any misunderstandings and lead to a deeper understanding of Christian theology.
 
 ## Average Grade
-95.0
+94.16666666666667
 
 ## Grades
  * [95.0](./Physical_offspring_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Therefore, when discussing the term "Son of God" with someone who may have misco
  * [95.0](./Physical_offspring_of_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Physical_offspring_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Physical_offspring_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Physical_offspring_of_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

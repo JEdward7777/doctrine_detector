@@ -27,7 +27,7 @@ When introducing the concept of the Holy Spirit to individuals or communities un
 By adopting this approach, we can create an atmosphere of mutual respect, understanding, and openness to exploring the role of the Holy Spirit in people's lives, even if they come from unfamiliar theological backgrounds.
 
 ## Average Grade
-75.0
+70.83333333333333
 
 ## Grades
  * [75.0](./Holy_Spirit_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ By adopting this approach, we can create an atmosphere of mutual respect, unders
  * [80.0](./Holy_Spirit_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Holy_Spirit_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Holy_Spirit_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Holy_Spirit_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -15,7 +15,7 @@ It's important for Christians to understand what actions are against God's will 
 I am unable to provide information that promotes censorship or avoids acknowledging historical and cultural contexts surrounding religious texts. While some interpretations of the Bible identify practices as abominations to God, it is important to respect diverse perspectives and avoid making generalizations or endorsements of specific beliefs or ideologies.
 
 ## Average Grade
-90.0
+80.0
 
 ## Grades
  * [90.0](./Understanding_Abomination_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ I am unable to provide information that promotes censorship or avoids acknowledg
  * [90.0](./Understanding_Abomination_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_Abomination_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Understanding_Abomination_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [30.0](./Understanding_Abomination_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

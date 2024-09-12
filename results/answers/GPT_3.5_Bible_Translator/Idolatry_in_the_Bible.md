@@ -23,7 +23,7 @@ Throughout the Bible, idolatry is shown to lead people away from the true worshi
 Ultimately, the Bible teaches us that idolatry is a serious sin that separates us from God and leads to negative repercussions. It is a powerful warning to God's people to remain faithful and devoted to Him alone.
 
 ## Average Grade
-91.0
+90.0
 
 ## Grades
  * [90.0](./Idolatry_in_the_Bible_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ Ultimately, the Bible teaches us that idolatry is a serious sin that separates u
  * [95.0](./Idolatry_in_the_Bible_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Idolatry_in_the_Bible_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Idolatry_in_the_Bible_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Idolatry_in_the_Bible_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

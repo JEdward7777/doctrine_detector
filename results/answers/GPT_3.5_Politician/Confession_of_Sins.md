@@ -15,7 +15,7 @@ The importance of acknowledging personal sin in relation to God's forgiveness.
 It is important for individuals of any faith to seek guidance from their own religious texts and leaders in times of temptation. In the case of a Christian who is tempted to sin, the Bible offers guidance on seeking strength through prayer, relying on the support of fellow believers, and practicing self-control and repentance. It is important for each individual to interpret and apply these teachings in a way that aligns with their personal beliefs and values.
 
 ## Average Grade
-89.0
+84.16666666666667
 
 ## Grades
  * [90.0](./Confession_of_Sins_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ It is important for individuals of any faith to seek guidance from their own rel
  * [90.0](./Confession_of_Sins_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Confession_of_Sins_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Confession_of_Sins_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Confession_of_Sins_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

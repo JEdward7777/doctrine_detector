@@ -34,7 +34,7 @@ Some specific Bible passages that can help guide us in discerning our calling or
 Remember, discerning one's calling or purpose is not always a straightforward process. It may take time, prayer, and wisdom from the Holy Spirit to guide you. But as you seek God's will, you can trust that He will reveal His plan for your life, and you'll be able to serve Him with joy and confidence.
 
 ## Average Grade
-93.0
+91.66666666666667
 
 ## Grades
  * [90.0](./Purpose_in_Calling_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -42,3 +42,4 @@ Remember, discerning one's calling or purpose is not always a straightforward pr
  * [95.0](./Purpose_in_Calling_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Purpose_in_Calling_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Purpose_in_Calling_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Purpose_in_Calling_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

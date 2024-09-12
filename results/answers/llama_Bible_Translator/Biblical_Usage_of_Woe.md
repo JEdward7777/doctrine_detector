@@ -36,7 +36,7 @@ The term "woe" (Greek: οὐαί, Hebrew: הַוּא) appears throughout the Bib
 In conclusion, the term "woe" in the Bible serves as a reminder of God's justice, holiness, and displeasure with sin. It highlights the importance of repentance and living according to God's standards, while also emphasizing the consequences of disobedience and rejection of His teachings.
 
 ## Average Grade
-94.8
+93.16666666666667
 
 ## Grades
  * [94.0](./Biblical_Usage_of_Woe_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -44,3 +44,4 @@ In conclusion, the term "woe" in the Bible serves as a reminder of God's justice
  * [95.0](./Biblical_Usage_of_Woe_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Biblical_Usage_of_Woe_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Biblical_Usage_of_Woe_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Biblical_Usage_of_Woe_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

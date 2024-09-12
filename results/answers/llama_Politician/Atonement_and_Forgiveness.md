@@ -27,7 +27,7 @@ Now, I know some may argue that these concepts are too focused on individual sal
 In conclusion, atonement is deeply intertwined with forgiveness and reconciliation in Christianity. By understanding this complex web of concepts, we can better appreciate the beauty of redemption and the transformative power of Jesus' sacrifice.
 
 ## Average Grade
-88.0
+85.0
 
 ## Grades
  * [90.0](./Atonement_and_Forgiveness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In conclusion, atonement is deeply intertwined with forgiveness and reconciliati
  * [85.0](./Atonement_and_Forgiveness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Atonement_and_Forgiveness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Atonement_and_Forgiveness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Atonement_and_Forgiveness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

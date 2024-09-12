@@ -32,7 +32,7 @@ In contrast, in the New Testament, Jesus Christ's atoning sacrifice on the cross
 In summary, while purification was a crucial concept in the Old Testament, the New Testament presents Jesus Christ as the ultimate purifier who brings about forgiveness of sins and spiritual cleansing.
 
 ## Average Grade
-94.0
+93.33333333333333
 
 ## Grades
  * [95.0](./New_Testament_Redemption_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -40,3 +40,4 @@ In summary, while purification was a crucial concept in the Old Testament, the N
  * [95.0](./New_Testament_Redemption_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./New_Testament_Redemption_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./New_Testament_Redemption_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./New_Testament_Redemption_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

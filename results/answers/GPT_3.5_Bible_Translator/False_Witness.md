@@ -21,7 +21,7 @@ Giving false testimony is significant in a Christian context because truthfulnes
 Furthermore, false testimony can lead to harm and injustice, as it can damage someone's reputation, lead to wrongful accusations, or pervert the course of justice. Christians are called to love their neighbors as themselves and to seek justice and righteousness in all aspects of life. Therefore, giving false testimony goes against the biblical principles of love, justice, and truth that Christians are called to uphold.
 
 ## Average Grade
-95.0
+93.33333333333333
 
 ## Grades
  * [95.0](./False_Witness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Furthermore, false testimony can lead to harm and injustice, as it can damage so
  * [95.0](./False_Witness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./False_Witness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./False_Witness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./False_Witness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

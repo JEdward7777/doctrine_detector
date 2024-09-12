@@ -25,7 +25,7 @@ In this sense, inheriting God's promises is not just about receiving a specific 
 In conclusion, while the concept of inheriting land or goods has ancient roots in Near Eastern cultures, its connection to divine promises in Christianity is rooted in the eschatological significance of Jesus Christ. As co-heirs with Him, believers receive not just a physical inheritance but also a spiritual one, being adopted as children of God and inheriting eternal life.
 
 ## Average Grade
-88.0
+83.33333333333333
 
 ## Grades
  * [90.0](./Understanding_Heirs_and_Inheritance_in_Christianity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ In conclusion, while the concept of inheriting land or goods has ancient roots i
  * [85.0](./Understanding_Heirs_and_Inheritance_in_Christianity_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_Heirs_and_Inheritance_in_Christianity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Understanding_Heirs_and_Inheritance_in_Christianity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Understanding_Heirs_and_Inheritance_in_Christianity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

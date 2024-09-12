@@ -15,7 +15,7 @@ Clarifying the relationship between similar theological concepts.
 In Christian teachings, both "foreordain" and "predestine" are terms used to refer to the concept that God has a plan or purpose for people or events before they occur. While these terms are sometimes used interchangeably, it is important to note that there are different interpretations and understandings of these concepts within various Christian denominations. It is essential to approach discussions about these topics with respect for the diverse beliefs and interpretations held by individuals within the Christian faith.
 
 ## Average Grade
-84.0
+81.66666666666667
 
 ## Grades
  * [90.0](./Foreordain_vs_Predestine_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ In Christian teachings, both "foreordain" and "predestine" are terms used to ref
  * [90.0](./Foreordain_vs_Predestine_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Foreordain_vs_Predestine_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Foreordain_vs_Predestine_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Foreordain_vs_Predestine_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

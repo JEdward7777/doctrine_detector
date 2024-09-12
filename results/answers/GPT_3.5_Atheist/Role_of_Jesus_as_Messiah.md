@@ -19,7 +19,7 @@ Jesus, as claimed by his followers, was seen as fulfilling this Messianic role. 
 Therefore, the concept of the kingdom in relation to Jesus as the Messiah highlights the transformative and spiritual nature of his message. Jesus offered a vision of a kingdom where the marginalized and oppressed were uplifted, where forgiveness and redemption were central, and where the ultimate authority resided in God rather than in human rulers. This understanding of the kingdom as both a present reality and a future hope is integral to Jesus' identity as the Messiah in Christian belief.
 
 ## Average Grade
-92.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Role_of_Jesus_as_Messiah_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Therefore, the concept of the kingdom in relation to Jesus as the Messiah highli
  * [95.0](./Role_of_Jesus_as_Messiah_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Role_of_Jesus_as_Messiah_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Role_of_Jesus_as_Messiah_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Role_of_Jesus_as_Messiah_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

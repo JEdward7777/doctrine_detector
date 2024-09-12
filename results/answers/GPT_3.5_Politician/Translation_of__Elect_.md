@@ -17,7 +17,7 @@ Thank you for your question. The term "elect" has been typically used in older E
 The impact of this change in translation may differ depending on the interpretation of the term. Some may argue that "elect" carries a stronger sense of predestination, while "chosen" may be seen as more inclusive and less deterministic. Overall, it is essential to consider the historical context and theological implications when interpreting Scripture, and to recognize that different translations may offer varied insights into the meaning of the text.
 
 ## Average Grade
-87.0
+87.5
 
 ## Grades
  * [85.0](./Translation_of__Elect__grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -25,3 +25,4 @@ The impact of this change in translation may differ depending on the interpretat
  * [90.0](./Translation_of__Elect__grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Translation_of__Elect__grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Translation_of__Elect__grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Translation_of__Elect__grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

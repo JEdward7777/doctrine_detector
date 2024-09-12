@@ -15,7 +15,7 @@ Understanding the holiness of God and His unique role in scripture.
 The term "Holy One" in the Bible is used to refer to God, specifically highlighting His holiness, perfection, and separateness from all that is sinful or impure. It emphasizes the divine purity and righteousness of God as the ultimate standard of perfection. The concept of the Holy One serves as a reminder of the moral and ethical expectations placed upon believers to strive for holiness and righteousness in their own lives. It also reinforces the idea of God's transcendent nature and His unique status as the one true God worthy of worship and reverence.
 
 ## Average Grade
-90.0
+89.16666666666667
 
 ## Grades
  * [90.0](./Definition_of_Holy_One_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ The term "Holy One" in the Bible is used to refer to God, specifically highlight
  * [95.0](./Definition_of_Holy_One_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Definition_of_Holy_One_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Definition_of_Holy_One_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Definition_of_Holy_One_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

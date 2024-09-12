@@ -27,7 +27,7 @@ In these contexts, "beloved" carries a rich theological significance. It is an e
 In conclusion, when we read "beloved" in the New Testament letters, it serves as a powerful reminder that believers are deeply loved and cherished by God, regardless of their circumstances or spiritual maturity. It is an expression of divine affection that underscores our identity as beloved sons and daughters of God through Christ.
 
 ## Average Grade
-94.0
+92.5
 
 ## Grades
  * [95.0](./Beloved_in_Scripture_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In conclusion, when we read "beloved" in the New Testament letters, it serves as
  * [95.0](./Beloved_in_Scripture_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Beloved_in_Scripture_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Beloved_in_Scripture_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Beloved_in_Scripture_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -25,7 +25,7 @@ It's essential to recognize that these passages have been interpreted and reinte
 Now, if you'll excuse me, I need to attend to some pressing matters of state...
 
 ## Average Grade
-86.0
+85.83333333333333
 
 ## Grades
  * [85.0](./Historical_Context_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ Now, if you'll excuse me, I need to attend to some pressing matters of state...
  * [90.0](./Historical_Context_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Historical_Context_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Historical_Context_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Historical_Context_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

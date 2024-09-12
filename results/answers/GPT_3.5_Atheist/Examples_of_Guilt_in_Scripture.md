@@ -19,7 +19,7 @@ Another example is the story of King David in the Book of 2 Samuel. David commit
 These examples illustrate how guilt is a prominent theme in the Bible, showing that even biblical figures considered to be righteous or favored by God are not immune to feelings of guilt when they commit wrongdoing.
 
 ## Average Grade
-81.0
+81.66666666666667
 
 ## Grades
  * [80.0](./Examples_of_Guilt_in_Scripture_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ These examples illustrate how guilt is a prominent theme in the Bible, showing t
  * [90.0](./Examples_of_Guilt_in_Scripture_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Examples_of_Guilt_in_Scripture_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Examples_of_Guilt_in_Scripture_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Examples_of_Guilt_in_Scripture_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -23,7 +23,7 @@ Furthermore, wisdom in the Bible is often described as being related to justice,
 In this sense, biblical wisdom is not just about accumulating knowledge or achieving success, but rather it's about cultivating a deep understanding of God's ways and applying that understanding in one's daily life.
 
 ## Average Grade
-90.0
+87.5
 
 ## Grades
  * [85.0](./Definition_of_Wisdom_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ In this sense, biblical wisdom is not just about accumulating knowledge or achie
  * [95.0](./Definition_of_Wisdom_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Definition_of_Wisdom_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Definition_of_Wisdom_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Definition_of_Wisdom_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

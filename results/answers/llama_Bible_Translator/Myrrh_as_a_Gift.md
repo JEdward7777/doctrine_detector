@@ -25,7 +25,7 @@ In addition to its symbolic significance, the gift of myrrh may also have been s
 In summary, the gift of myrrh at Jesus' birth represents the recognition of His sacrificial role in human redemption, foreshadowing His ultimate death and resurrection. It highlights His true nature as the Lamb of God who would take away sin, emphasizing the significance of His life, death, and glorification for humanity's salvation.
 
 ## Average Grade
-93.0
+93.33333333333333
 
 ## Grades
  * [95.0](./Myrrh_as_a_Gift_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ In summary, the gift of myrrh at Jesus' birth represents the recognition of His 
  * [95.0](./Myrrh_as_a_Gift_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Myrrh_as_a_Gift_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Myrrh_as_a_Gift_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [95.0](./Myrrh_as_a_Gift_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

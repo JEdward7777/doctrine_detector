@@ -39,7 +39,7 @@ This promise is not suggesting that believers become sinless or perfect. Rather,
 The New Covenant promises that God will write His law on the hearts of believers, leading to profound inner transformation, increased understanding, and a transformed relationship with God.
 
 ## Average Grade
-93.0
+92.5
 
 ## Grades
  * [95.0](./The_New_Covenant_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -47,3 +47,4 @@ The New Covenant promises that God will write His law on the hearts of believers
  * [95.0](./The_New_Covenant_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./The_New_Covenant_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./The_New_Covenant_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./The_New_Covenant_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

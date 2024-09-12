@@ -41,7 +41,7 @@ From Mary's example, we can learn:
 These examples from Biblical figures demonstrate that lamentation is an essential aspect of the human experience. By exploring these laments, we can gain a deeper understanding of ourselves and our place within the world.
 
 ## Average Grade
-53.0
+54.166666666666664
 
 ## Grades
  * [70.0](./Biblical_Examples_of_Lamentation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -49,3 +49,4 @@ These examples from Biblical figures demonstrate that lamentation is an essentia
  * [40.0](./Biblical_Examples_of_Lamentation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [35.0](./Biblical_Examples_of_Lamentation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Biblical_Examples_of_Lamentation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Biblical_Examples_of_Lamentation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

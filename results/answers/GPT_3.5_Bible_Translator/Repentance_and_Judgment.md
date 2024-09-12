@@ -21,7 +21,7 @@ This passage underscores the importance of repentance as a response to God's off
 It is important to understand that God's wrath is not arbitrary or capricious but is a just response to sin and rebellion. However, His mercy and grace are always available to those who repent and seek His forgiveness. Repentance, therefore, is not only a means of escaping God's wrath but also a vital step in experiencing His love, forgiveness, and salvation.
 
 ## Average Grade
-94.0
+94.16666666666667
 
 ## Grades
  * [95.0](./Repentance_and_Judgment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ It is important to understand that God's wrath is not arbitrary or capricious bu
  * [95.0](./Repentance_and_Judgment_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Repentance_and_Judgment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Repentance_and_Judgment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [95.0](./Repentance_and_Judgment_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -15,7 +15,7 @@ Understanding the integration of Scripture in the communication of the Gospel.
 The Bible provides examples of how Scripture can be used effectively to share the Gospel message with others. This can be seen in passages such as 2 Timothy 3:16-17, which emphasizes the importance of all Scripture being inspired by God and useful for teaching, rebuking, correcting, and training in righteousness. Additionally, in Acts 17:2-3, we see Paul using the Scriptures to reason with the Jews and Gentiles in the synagogues, explaining and proving that Jesus is the Messiah. These examples highlight the power of using Scripture to communicate the message of salvation and to persuade others to believe in Jesus Christ.
 
 ## Average Grade
-89.0
+86.66666666666667
 
 ## Grades
  * [90.0](./Role_of_Scripture_in_the_Gospel_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ The Bible provides examples of how Scripture can be used effectively to share th
  * [90.0](./Role_of_Scripture_in_the_Gospel_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Role_of_Scripture_in_the_Gospel_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Role_of_Scripture_in_the_Gospel_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Role_of_Scripture_in_the_Gospel_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

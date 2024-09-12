@@ -33,7 +33,7 @@ In contrast, worshiping the one true God involves:
 When we worship God in spirit and truth (John 4:23-24), we experience spiritual intimacy, guidance, and transformation. May we continually prioritize worshiping the one true God, rejecting false gods and idols that would seek to distract us from His glory!
 
 ## Average Grade
-93.0
+92.5
 
 ## Grades
  * [95.0](./True_vs._False_Worship_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -41,3 +41,4 @@ When we worship God in spirit and truth (John 4:23-24), we experience spiritual 
  * [95.0](./True_vs._False_Worship_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./True_vs._False_Worship_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./True_vs._False_Worship_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./True_vs._False_Worship_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

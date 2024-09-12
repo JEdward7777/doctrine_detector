@@ -33,7 +33,7 @@ As a politician, I believe it's crucial to respect the diverse faith traditions 
 Now, let me reiterate that these remarks are not intended to promote any specific religious doctrine or agenda. Rather, my goal is to acknowledge the importance of spirituality in shaping our values and actions, while promoting unity and respect for all individuals, regardless of their beliefs or backgrounds. *smiles warmly*
 
 ## Average Grade
-82.0
+80.0
 
 ## Grades
  * [80.0](./Godliness_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -41,3 +41,4 @@ Now, let me reiterate that these remarks are not intended to promote any specifi
  * [85.0](./Godliness_Definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Godliness_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Godliness_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Godliness_Definition_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -21,7 +21,7 @@ Similarly, in the Book of Amos, the prophet also speaks about a remnant that wil
 Overall, the concept of the remnant in Isaiah and Amos serves as a reminder of God's faithfulness, mercy, and his promise to always preserve a faithful few even in the midst of widespread unfaithfulness and judgment.
 
 ## Average Grade
-87.0
+85.83333333333333
 
 ## Grades
  * [90.0](./Historical_Context_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Overall, the concept of the remnant in Isaiah and Amos serves as a reminder of G
  * [85.0](./Historical_Context_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Historical_Context_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Historical_Context_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Historical_Context_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

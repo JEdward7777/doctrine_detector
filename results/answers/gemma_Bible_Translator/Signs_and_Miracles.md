@@ -43,7 +43,7 @@ The New Testament records numerous instances where Jesus and the apostles perfor
 Signs and miracles are significant elements in the biblical witness, supporting the authenticity of God's message and the power of faith. While their interpretation and significance may be debated, their impact on the early church and Christian faith is undeniable.
 
 ## Average Grade
-91.0
+90.0
 
 ## Grades
  * [95.0](./Signs_and_Miracles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -51,3 +51,4 @@ Signs and miracles are significant elements in the biblical witness, supporting 
  * [90.0](./Signs_and_Miracles_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Signs_and_Miracles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Signs_and_Miracles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Signs_and_Miracles_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

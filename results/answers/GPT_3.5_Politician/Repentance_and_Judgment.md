@@ -21,7 +21,7 @@ Regarding the concept of the wrath of God, some interpretations emphasize a view
 Overall, discussions of repentance and the wrath of God should be conducted with respect for differing interpretations and beliefs, with a focus on promoting understanding and dialogue among people of all faiths and backgrounds.
 
 ## Average Grade
-82.0
+73.33333333333333
 
 ## Grades
  * [90.0](./Repentance_and_Judgment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Overall, discussions of repentance and the wrath of God should be conducted with
  * [80.0](./Repentance_and_Judgment_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Repentance_and_Judgment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Repentance_and_Judgment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [30.0](./Repentance_and_Judgment_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

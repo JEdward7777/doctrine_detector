@@ -19,7 +19,7 @@ In a culturally retributed perspective, the ephod can be seen as a way for the r
 It is important to critically analyze the historical and sociopolitical context in which religious practices and symbols like the high priest's ephod were used, so as to understand the complex dynamics of power and authority at play in ancient religious institutions.
 
 ## Average Grade
-76.0
+75.83333333333333
 
 ## Grades
  * [70.0](./Ephod_significance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ It is important to critically analyze the historical and sociopolitical context 
  * [80.0](./Ephod_significance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [75.0](./Ephod_significance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Ephod_significance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Ephod_significance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -47,7 +47,7 @@ While traditional interpretations of the Sabbath rest on a literal Saturday-to-S
 Keeping the Sabbath holy is an act of obedience to God and a vital part of Christian life. By observing this commandment, believers can experience spiritual renewal, prioritize worship, and reflect the character of their Creator.
 
 ## Average Grade
-91.0
+89.16666666666667
 
 ## Grades
  * [95.0](./Sabbath_Observance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -55,3 +55,4 @@ Keeping the Sabbath holy is an act of obedience to God and a vital part of Chris
  * [95.0](./Sabbath_Observance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Sabbath_Observance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Sabbath_Observance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Sabbath_Observance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

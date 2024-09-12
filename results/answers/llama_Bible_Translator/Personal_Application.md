@@ -25,7 +25,7 @@ Purification from sin also involves the progressive process of sanctification, w
 In summary, purification from sin means that believers experience spiritual cleansing through faith in Jesus Christ, resulting in justification before God, the empowerment of the Holy Spirit, and the progressive sanctification process. This radical transformation enables them to live a life pleasing to God, resisting sin's allure, and growing in their walk with Him.
 
 ## Average Grade
-90.0
+87.5
 
 ## Grades
  * [90.0](./Personal_Application_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ In summary, purification from sin means that believers experience spiritual clea
  * [85.0](./Personal_Application_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Personal_Application_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Personal_Application_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Personal_Application_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -19,7 +19,7 @@ In the Christian tradition, this practice was also adopted to show respect and r
 While some Bible translations do include the name 'Yahweh' in certain passages, the use of 'LORD' as a substitute for 'Yahweh' has become more widespread in modern translations for consistency and tradition. Ultimately, the choice of using 'LORD' or 'Yahweh' depends on the translation team's theological preferences and the target audience of the translation.
 
 ## Average Grade
-82.0
+81.66666666666667
 
 ## Grades
  * [85.0](./Translation_Practices_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ While some Bible translations do include the name 'Yahweh' in certain passages, 
  * [85.0](./Translation_Practices_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Translation_Practices_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Translation_Practices_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Translation_Practices_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

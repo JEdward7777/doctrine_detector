@@ -19,7 +19,7 @@ Miracles serve as a visible confirmation of God's authority and existence, and t
 In essence, miracles are a manifestation of God's authority over the natural order and serve as a powerful reminder of His presence and power in the world. They attest to the fact that God is sovereign and can transcend the laws of nature at His will, demonstrating His divine authority and the truth of His Word.
 
 ## Average Grade
-93.0
+92.5
 
 ## Grades
  * [95.0](./Definition_of_a_Miracle_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ In essence, miracles are a manifestation of God's authority over the natural ord
  * [95.0](./Definition_of_a_Miracle_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Definition_of_a_Miracle_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Definition_of_a_Miracle_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Definition_of_a_Miracle_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

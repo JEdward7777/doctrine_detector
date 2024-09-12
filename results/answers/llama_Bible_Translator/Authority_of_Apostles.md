@@ -29,7 +29,7 @@ Furthermore, the apostles' authority was not limited to their own abilities or p
 In summary, the apostles' authority is closely tied to their ability to perform miracles and preach boldly. Their words and deeds were not just a product of human ingenuity or charisma but were rooted in God's power and presence, which was demonstrated through signs and wonders. This divine authorization gave them the confidence to proclaim the gospel with boldness and to know that their message was validated by the miraculous works that accompanied it.
 
 ## Average Grade
-94.4
+93.66666666666667
 
 ## Grades
  * [95.0](./Authority_of_Apostles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ In summary, the apostles' authority is closely tied to their ability to perform 
  * [95.0](./Authority_of_Apostles_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Authority_of_Apostles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Authority_of_Apostles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Authority_of_Apostles_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

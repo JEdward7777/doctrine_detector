@@ -15,7 +15,7 @@ Understanding the traits of antichrists helps Christians recognize and resist fa
 In the interest of respect for all beliefs and religious perspectives, it is important to approach discussions on topics such as this with sensitivity and open-mindedness. It is important to acknowledge and understand the diversity of beliefs and interpretations that exist within different religious traditions. Ultimately, it is always best to focus on promoting understanding, compassion, and cooperation among people of all faiths and backgrounds.
 
 ## Average Grade
-78.0
+68.33333333333333
 
 ## Grades
  * [90.0](./Antichrist_Identification_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ In the interest of respect for all beliefs and religious perspectives, it is imp
  * [90.0](./Antichrist_Identification_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Antichrist_Identification_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Antichrist_Identification_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./Antichrist_Identification_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

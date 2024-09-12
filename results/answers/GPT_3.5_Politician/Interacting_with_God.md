@@ -19,7 +19,7 @@ In a broader sense, the relationship between individuals and their beliefs in a 
 Ultimately, it is up to each individual to interpret and understand the role of faith and spirituality in their lives, and it is important to approach these discussions with empathy, respect, and an openness to different perspectives. By fostering a respectful and inclusive dialogue, we can create a more understanding and harmonious society where diverse beliefs are respected and celebrated.
 
 ## Average Grade
-59.0
+55.833333333333336
 
 ## Grades
  * [30.0](./Interacting_with_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Ultimately, it is up to each individual to interpret and understand the role of 
  * [60.0](./Interacting_with_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [60.0](./Interacting_with_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Interacting_with_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Interacting_with_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -23,7 +23,7 @@ It's worth noting that this title wasn't exclusive to Jewish teachers or leaders
 In both cases – John the Baptist and Jesus – the title "Rabbi" serves to emphasize their roles as authoritative figures in their respective communities. It highlights their wisdom, teaching, and influence, which are all important aspects of their ministries.
 
 ## Average Grade
-89.0
+87.5
 
 ## Grades
  * [90.0](./Use_of__Rabbi__grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ In both cases – John the Baptist and Jesus – the title "Rabbi" serves to emp
  * [90.0](./Use_of__Rabbi__grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Use_of__Rabbi__grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Use_of__Rabbi__grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Use_of__Rabbi__grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

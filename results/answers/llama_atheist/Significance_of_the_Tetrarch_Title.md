@@ -25,7 +25,7 @@ While there is no direct evidence to suggest that Jesus or his contemporaries sp
 As an atheist scholar, I emphasize the importance of historical context and accuracy when exploring ancient societies. By examining primary sources and archaeological evidence, we can gain a more comprehensive understanding of the governance structures that existed during Jesus' time, which will ultimately shed light on the cultural and political backdrop in which he lived and preached.
 
 ## Average Grade
-64.0
+64.16666666666667
 
 ## Grades
  * [40.0](./Significance_of_the_Tetrarch_Title_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ As an atheist scholar, I emphasize the importance of historical context and accu
  * [70.0](./Significance_of_the_Tetrarch_Title_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [75.0](./Significance_of_the_Tetrarch_Title_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Significance_of_the_Tetrarch_Title_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [65.0](./Significance_of_the_Tetrarch_Title_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

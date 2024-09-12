@@ -33,7 +33,7 @@ It's essential to note that these passages were written in different cultural co
 In conclusion, while the Bible presents a variety of themes related to hell, it is essential to consider the cultural and historical contexts in which these passages were written. As an atheist scholar, I do not bring personal beliefs or faith to my understanding but instead seek to understand the text within its original context and the broader cultural narrative.
 
 ## Average Grade
-72.0
+68.33333333333333
 
 ## Grades
  * [60.0](./Nature_of_Hell_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -41,3 +41,4 @@ In conclusion, while the Bible presents a variety of themes related to hell, it 
  * [70.0](./Nature_of_Hell_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [60.0](./Nature_of_Hell_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Nature_of_Hell_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Nature_of_Hell_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -35,7 +35,7 @@ Understanding the teaching methods of Jesus and their implications for faith.
 - This message of inclusivity and grace resonated with the listeners and challenged their understanding of God's character.
 
 ## Average Grade
-78.0
+67.16666666666667
 
 ## Grades
  * [90.0](./Purpose_of_Parables_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -43,3 +43,4 @@ Understanding the teaching methods of Jesus and their implications for faith.
  * [70.0](./Purpose_of_Parables_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Purpose_of_Parables_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Purpose_of_Parables_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [13.0](./Purpose_of_Parables_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

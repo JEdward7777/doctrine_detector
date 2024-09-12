@@ -23,7 +23,7 @@ In the Bible, lambs were used as sacrifices from the earliest days of Israel's h
 In summary, the significance of using lambs for sacrifices lies in their representation of purity, innocence, and substitutionary principle. These elements foreshadowed the ultimate atonement made by Jesus Christ, who took our place as a sinless lamb of God (John 1:29). Through His sacrifice, we can have our sins covered and be reconciled to God.
 
 ## Average Grade
-94.0
+93.33333333333333
 
 ## Grades
  * [95.0](./Symbolism_of_the_Lamb_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ In summary, the significance of using lambs for sacrifices lies in their represe
  * [95.0](./Symbolism_of_the_Lamb_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Symbolism_of_the_Lamb_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Symbolism_of_the_Lamb_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Symbolism_of_the_Lamb_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

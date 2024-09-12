@@ -27,7 +27,7 @@ In a sense, Jesus' role as the Messiah was to announce the arrival of God's king
 In conclusion, the concept of the kingdom is deeply intertwined with Jesus' role as the Messiah. Both ideas are rooted in Old Testament prophecies and Jewish tradition, yet they take on a new dimension through Jesus' life, teachings, and ministry. As we continue to explore these concepts, let us strive for understanding, inclusivity, and respect for diverse perspectives.
 
 ## Average Grade
-83.0
+80.83333333333333
 
 ## Grades
  * [85.0](./Role_of_Jesus_as_Messiah_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In conclusion, the concept of the kingdom is deeply intertwined with Jesus' role
  * [90.0](./Role_of_Jesus_as_Messiah_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Role_of_Jesus_as_Messiah_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Role_of_Jesus_as_Messiah_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Role_of_Jesus_as_Messiah_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

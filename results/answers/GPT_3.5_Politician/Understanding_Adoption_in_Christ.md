@@ -15,7 +15,7 @@ Understanding the spiritual significance of adoption in the Christian faith.
 In Ephesians 1:5, being adopted as a child of God refers to the belief that through faith in Jesus Christ, believers are welcomed into God's family as His children. This adoption signifies a close, loving relationship with God and all the rights and privileges that come with being part of His family. It is a symbol of God's grace, love, and acceptance towards all who believe in Him.
 
 ## Average Grade
-90.0
+88.33333333333333
 
 ## Grades
  * [90.0](./Understanding_Adoption_in_Christ_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ In Ephesians 1:5, being adopted as a child of God refers to the belief that thro
  * [95.0](./Understanding_Adoption_in_Christ_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_Adoption_in_Christ_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Adoption_in_Christ_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Understanding_Adoption_in_Christ_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

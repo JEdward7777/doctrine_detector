@@ -17,7 +17,7 @@ The story of Gideon's creation of a gold ephod and the subsequent idolatry of th
 This story serves as a cautionary tale about the importance of remaining vigilant against the temptation to elevate material objects or symbols above the principles and teachings of one's faith. It reminds us to always prioritize a sincere and authentic relationship with our beliefs, rather than placing undue importance on external symbols or rituals. By understanding the lessons from Gideon's story, we can strive to avoid the pitfalls of idolatry and maintain a steadfast commitment to our core values and beliefs.
 
 ## Average Grade
-90.0
+89.16666666666667
 
 ## Grades
  * [90.0](./Ephod_idolatry_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -25,3 +25,4 @@ This story serves as a cautionary tale about the importance of remaining vigilan
  * [90.0](./Ephod_idolatry_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Ephod_idolatry_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Ephod_idolatry_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Ephod_idolatry_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

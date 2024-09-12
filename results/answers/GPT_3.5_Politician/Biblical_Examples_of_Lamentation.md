@@ -23,7 +23,7 @@ Certainly, in the Bible, there are many figures who expressed lament, or deep so
 From these examples, we can learn that it is okay to express our feelings of sadness and despair, and that it is important to turn to God for comfort and strength during difficult times. Additionally, we can gain insights into the power of resilience, faith, and empathy in the face of adversity.
 
 ## Average Grade
-89.6
+88.0
 
 ## Grades
  * [95.0](./Biblical_Examples_of_Lamentation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ From these examples, we can learn that it is okay to express our feelings of sad
  * [93.0](./Biblical_Examples_of_Lamentation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Biblical_Examples_of_Lamentation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_Examples_of_Lamentation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Biblical_Examples_of_Lamentation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

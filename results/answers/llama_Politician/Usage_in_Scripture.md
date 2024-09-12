@@ -25,7 +25,7 @@ In other contexts, the term "Holy One" might also be used to describe angels or 
 Overall, the term "Holy One" is used in both Testaments to emphasize God's divine nature and character, as well as His connection to Israel and Jesus Christ.
 
 ## Average Grade
-84.0
+84.16666666666667
 
 ## Grades
  * [90.0](./Usage_in_Scripture_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ Overall, the term "Holy One" is used in both Testaments to emphasize God's divin
  * [90.0](./Usage_in_Scripture_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Usage_in_Scripture_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Usage_in_Scripture_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Usage_in_Scripture_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

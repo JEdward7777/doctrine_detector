@@ -19,7 +19,7 @@ One New Testament scripture that connects the concept of unleavened bread to Chr
 This passage draws a parallel between the tradition of removing leaven from bread during the Jewish festival of Passover and the Christian call to remove sin from our lives through the sacrificial death of Christ. Just as the Israelites were instructed to eat unleavened bread as a sign of their deliverance from slavery in Egypt, Christians are called to live lives free from sin through faith in Christ.
 
 ## Average Grade
-92.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Biblical_References_5_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ This passage draws a parallel between the tradition of removing leaven from brea
  * [95.0](./Biblical_References_5_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Biblical_References_5_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Biblical_References_5_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Biblical_References_5_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

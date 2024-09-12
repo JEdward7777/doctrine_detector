@@ -44,7 +44,7 @@ The New Testament reveals that baptism is not merely a ritual or outward action,
 Repentance is an indispensable prerequisite to baptism as presented in the New Testament. It symbolizes the genuine transformation that occurs in the lives of believers through forgiveness and renewal in Christ.
 
 ## Average Grade
-94.0
+93.33333333333333
 
 ## Grades
  * [95.0](./Baptism_and_Repentance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -52,3 +52,4 @@ Repentance is an indispensable prerequisite to baptism as presented in the New T
  * [95.0](./Baptism_and_Repentance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Baptism_and_Repentance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Baptism_and_Repentance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Baptism_and_Repentance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

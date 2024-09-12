@@ -21,7 +21,7 @@ Altars in the Bible often represented a tangible way for individuals to connect 
 Overall, the building of altars in the Bible symbolizes the importance of worship, devotion, and spiritual connection with God. It was a way for individuals to acknowledge the presence of the divine in their lives and express their faith and gratitude.
 
 ## Average Grade
-90.0
+86.66666666666667
 
 ## Grades
  * [95.0](./Historical_Examples_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Overall, the building of altars in the Bible symbolizes the importance of worshi
  * [90.0](./Historical_Examples_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Historical_Examples_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Historical_Examples_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Historical_Examples_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

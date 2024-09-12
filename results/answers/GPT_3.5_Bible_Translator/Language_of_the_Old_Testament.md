@@ -15,7 +15,7 @@ This knowledge is essential for studying the Scriptures and understanding their 
 The vast majority of the Old Testament was originally written in Hebrew. However, there are small sections of the Old Testament that were written in Aramaic, such as portions of the books of Daniel and Ezra.
 
 ## Average Grade
-81.0
+82.5
 
 ## Grades
  * [85.0](./Language_of_the_Old_Testament_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ The vast majority of the Old Testament was originally written in Hebrew. However
  * [80.0](./Language_of_the_Old_Testament_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Language_of_the_Old_Testament_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Language_of_the_Old_Testament_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Language_of_the_Old_Testament_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

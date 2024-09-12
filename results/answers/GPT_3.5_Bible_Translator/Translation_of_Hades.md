@@ -21,7 +21,7 @@ For 'Sheol,' a possible translation could be 'the grave' or 'the place of the de
 When translating these terms, it is important to consider the cultural and theological implications of the original languages and how they shape our understanding of the afterlife as portrayed in the Bible. By choosing translations that accurately reflect the meanings of 'Hades' and 'Sheol,' we can help ensure that the deeper theological truths of the text are preserved for modern readers.
 
 ## Average Grade
-90.0
+87.5
 
 ## Grades
  * [90.0](./Translation_of_Hades_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ When translating these terms, it is important to consider the cultural and theol
  * [95.0](./Translation_of_Hades_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Translation_of_Hades_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Translation_of_Hades_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Translation_of_Hades_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

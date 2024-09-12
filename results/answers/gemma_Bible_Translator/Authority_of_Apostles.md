@@ -42,7 +42,7 @@ Exploring the divine empowerment and authority bestowed upon the apostles for mi
 The authority of the apostles is essential to both their miraculous powers and their courageous preaching. These two aspects work together to authenticate their message and empower them to spread the gospel effectively.
 
 ## Average Grade
-92.0
+91.66666666666667
 
 ## Grades
  * [90.0](./Authority_of_Apostles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -50,3 +50,4 @@ The authority of the apostles is essential to both their miraculous powers and t
  * [95.0](./Authority_of_Apostles_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Authority_of_Apostles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Authority_of_Apostles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Authority_of_Apostles_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

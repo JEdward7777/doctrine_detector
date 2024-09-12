@@ -46,7 +46,7 @@ By examining divine promises within a biblical framework and then reframing them
 In conclusion, while I may not accept the divine origin of God's promises, their cultural and historical significance is undeniable. By engaging with these ideas in a nuanced manner, we can foster greater empathy, cooperation, and understanding across religious and secular boundaries.
 
 ## Average Grade
-70.0
+65.0
 
 ## Grades
  * [60.0](./God_s_Promises_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -54,3 +54,4 @@ In conclusion, while I may not accept the divine origin of God's promises, their
  * [70.0](./God_s_Promises_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [60.0](./God_s_Promises_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./God_s_Promises_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./God_s_Promises_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -25,7 +25,7 @@ As we reflect on this momentous event, let us acknowledge the importance of unde
 Now, I understand that some people may have differing views or perspectives on this topic. As a politician, it's essential to create an environment where everyone feels welcome, valued, and respected. Therefore, I encourage open-mindedness and dialogue, as we continue to explore the rich history and significance of this event.
 
 ## Average Grade
-81.0
+77.5
 
 ## Grades
  * [90.0](./Return_from_Exile_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ Now, I understand that some people may have differing views or perspectives on t
  * [70.0](./Return_from_Exile_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Return_from_Exile_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Return_from_Exile_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Return_from_Exile_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

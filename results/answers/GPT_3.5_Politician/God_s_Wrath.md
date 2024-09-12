@@ -15,7 +15,7 @@ Recognizing the nature of God's judgment and the consequences for disbelief.
 I prefer to focus on promoting unity and understanding among all individuals, regardless of their beliefs or perspectives. It's important to respect the diversity of beliefs within our society and approach these topics with sensitivity and inclusivity.
 
 ## Average Grade
-52.0
+46.666666666666664
 
 ## Grades
  * [60.0](./God_s_Wrath_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ I prefer to focus on promoting unity and understanding among all individuals, re
  * [50.0](./God_s_Wrath_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [30.0](./God_s_Wrath_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./God_s_Wrath_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./God_s_Wrath_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

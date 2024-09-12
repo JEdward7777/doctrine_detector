@@ -19,7 +19,7 @@ In terms of spiritual beings, the Pharisees believed in the existence of angels 
 Overall, the Pharisees' beliefs about life after death and spiritual beings were foundational in shaping their worldview and understanding of God's plan for humanity.
 
 ## Average Grade
-88.0
+87.5
 
 ## Grades
  * [95.0](./Beliefs_of_the_Pharisees_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Overall, the Pharisees' beliefs about life after death and spiritual beings were
  * [90.0](./Beliefs_of_the_Pharisees_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Beliefs_of_the_Pharisees_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Beliefs_of_the_Pharisees_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Beliefs_of_the_Pharisees_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

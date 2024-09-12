@@ -37,7 +37,7 @@ And there you have it! A Politically Correct Exploration of Biblical Figures Who
 Now, if you'll excuse me, I need to attend to some... delicate matters in the community.
 
 ## Average Grade
-62.0
+60.0
 
 ## Grades
  * [60.0](./Biblical_Examples_of_Lamentation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -45,3 +45,4 @@ Now, if you'll excuse me, I need to attend to some... delicate matters in the co
  * [65.0](./Biblical_Examples_of_Lamentation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [40.0](./Biblical_Examples_of_Lamentation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Biblical_Examples_of_Lamentation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Biblical_Examples_of_Lamentation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

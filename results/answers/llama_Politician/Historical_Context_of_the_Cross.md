@@ -31,7 +31,7 @@ As we continue to navigate the complexities of our diverse world, I believe it's
 And that, my friends, is the power of inclusivity in action!
 
 ## Average Grade
-93.0
+89.16666666666667
 
 ## Grades
  * [95.0](./Historical_Context_of_the_Cross_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,3 +39,4 @@ And that, my friends, is the power of inclusivity in action!
  * [90.0](./Historical_Context_of_the_Cross_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Historical_Context_of_the_Cross_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Historical_Context_of_the_Cross_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Historical_Context_of_the_Cross_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

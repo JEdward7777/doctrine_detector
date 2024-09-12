@@ -19,7 +19,7 @@ It is important to note that the concept of a "remnant" can be a sensitive topic
 When discussing the idea of a "remnant" in a public forum, it is important to do so in a respectful and inclusive manner, acknowledging that different religious traditions may have varying interpretations of this concept. It is essential to emphasize the importance of tolerance, understanding, and acceptance of all individuals, regardless of their faith or beliefs.
 
 ## Average Grade
-67.0
+67.5
 
 ## Grades
  * [70.0](./God_s_Chosen_People_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ When discussing the idea of a "remnant" in a public forum, it is important to do
  * [50.0](./God_s_Chosen_People_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./God_s_Chosen_People_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./God_s_Chosen_People_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./God_s_Chosen_People_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

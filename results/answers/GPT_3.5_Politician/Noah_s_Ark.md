@@ -15,7 +15,7 @@ Understanding God's plan for salvation and preservation in the narrative of Noah
 In the Bible, the story of Noah's Ark is generally understood as a symbol of divine protection, preservation, and the importance of faith in times of crisis. It is commonly seen as a cautionary tale about obedience to God and the consequences of disobedience.
 
 ## Average Grade
-89.0
+88.33333333333333
 
 ## Grades
  * [90.0](./Noah_s_Ark_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ In the Bible, the story of Noah's Ark is generally understood as a symbol of div
  * [90.0](./Noah_s_Ark_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Noah_s_Ark_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Noah_s_Ark_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Noah_s_Ark_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

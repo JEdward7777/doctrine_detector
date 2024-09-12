@@ -19,7 +19,7 @@ Giving false testimony is significant in a Christian context because it goes aga
 Furthermore, spreading false information or lies can lead to harm and injustice, causing conflict, damaging relationships, and undermining trust within communities. By upholding the value of truthful testimony, Christians can contribute to a more just and compassionate society based on honesty and respect for one another.
 
 ## Average Grade
-93.0
+91.66666666666667
 
 ## Grades
  * [95.0](./False_Witness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Furthermore, spreading false information or lies can lead to harm and injustice,
  * [95.0](./False_Witness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./False_Witness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./False_Witness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./False_Witness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

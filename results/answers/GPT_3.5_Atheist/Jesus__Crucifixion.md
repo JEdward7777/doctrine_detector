@@ -19,7 +19,7 @@ From a historical and cultural perspective, this gesture highlights the compassi
 As an atheistic scholar, I view this act as a poignant reminder of the harsh realities of crucifixion and the physical agony that Jesus endured during his crucifixion. It serves as a reflection of the brutality of the Roman practice of crucifixion and the human capacity for empathy and compassion even in the face of such cruelty.
 
 ## Average Grade
-70.0
+65.0
 
 ## Grades
  * [70.0](./Jesus__Crucifixion_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ As an atheistic scholar, I view this act as a poignant reminder of the harsh rea
  * [70.0](./Jesus__Crucifixion_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Jesus__Crucifixion_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Jesus__Crucifixion_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Jesus__Crucifixion_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -30,7 +30,7 @@ The Bible suggests that a seared conscience is a conscience that has been perman
 While it is important to be sensitive to the views of others, it is not necessary to avoid discussing sensitive topics such as morality and sin. The Bible provides valuable insights on these issues, and believers can engage in respectful and thoughtful discussions without compromising their faith or offending others.
 
 ## Average Grade
-87.0
+84.16666666666667
 
 ## Grades
  * [85.0](./Seared_Conscience_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,3 +38,4 @@ While it is important to be sensitive to the views of others, it is not necessar
  * [85.0](./Seared_Conscience_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Seared_Conscience_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Seared_Conscience_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Seared_Conscience_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

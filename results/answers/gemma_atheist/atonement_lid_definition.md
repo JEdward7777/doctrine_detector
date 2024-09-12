@@ -15,7 +15,7 @@ Understanding the symbolic representation of God's mercy and atonement in the Ol
 The atonement lid does not exist in historical or archaeological records, so it did not have any significance in the context of the ark of the covenant.
 
 ## Average Grade
-75.0
+65.83333333333333
 
 ## Grades
  * [90.0](./atonement_lid_definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ The atonement lid does not exist in historical or archaeological records, so it 
  * [90.0](./atonement_lid_definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./atonement_lid_definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [20.0](./atonement_lid_definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./atonement_lid_definition_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

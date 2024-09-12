@@ -40,7 +40,7 @@ The concept of an eternal throne holds deep cultural significance in the Middle 
 The promise of David's throne lasting forever is a central theological belief in Christianity, signifying the permanence of God's reign and the continuity of Christ's kingdom. While the cultural significance of this promise should be recognized, it is ultimately a theological assertion rooted in biblical revelation.
 
 ## Average Grade
-95.0
+90.83333333333333
 
 ## Grades
  * [95.0](./David_s_Throne_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -48,3 +48,4 @@ The promise of David's throne lasting forever is a central theological belief in
  * [95.0](./David_s_Throne_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./David_s_Throne_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./David_s_Throne_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./David_s_Throne_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

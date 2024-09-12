@@ -25,7 +25,7 @@ While modern Christians don't need to follow the same ritual cleanliness practic
 Remember that these practices should not be seen as a means to earn God's favor or achieve salvation through good works. Rather, they can serve as reminders of our dependence on Jesus Christ and our desire to honor Him in all aspects of life.
 
 ## Average Grade
-93.4
+92.83333333333333
 
 ## Grades
  * [95.0](./Cleansing_Practices_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ Remember that these practices should not be seen as a means to earn God's favor 
  * [90.0](./Cleansing_Practices_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [92.0](./Cleansing_Practices_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Cleansing_Practices_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Cleansing_Practices_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

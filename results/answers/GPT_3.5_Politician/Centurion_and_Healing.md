@@ -19,7 +19,7 @@ Jesus, in turn, acknowledges the centurion's faith and commends him for it, sayi
 Overall, the story emphasizes the importance of humility, respect, and faith in relationships of authority, showing that true leadership is marked by compassion, understanding, and a willingness to see beyond societal roles.
 
 ## Average Grade
-89.0
+85.83333333333333
 
 ## Grades
  * [95.0](./Centurion_and_Healing_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Overall, the story emphasizes the importance of humility, respect, and faith in 
  * [90.0](./Centurion_and_Healing_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Centurion_and_Healing_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Centurion_and_Healing_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Centurion_and_Healing_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -27,7 +27,7 @@ In Christian theology, humans can experience a taste of eternity through their r
 In summary, eternity in Christian theology is a mysterious, transcendent realm that exists outside of human experience. It's characterized by timelessness, infinite duration, and an unchanging nature, all of which are reflective of God's eternal Being.
 
 ## Average Grade
-93.0
+92.5
 
 ## Grades
  * [95.0](./Nature_of_Eternity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In summary, eternity in Christian theology is a mysterious, transcendent realm t
  * [95.0](./Nature_of_Eternity_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Nature_of_Eternity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Nature_of_Eternity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Nature_of_Eternity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

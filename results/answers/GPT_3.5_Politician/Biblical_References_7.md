@@ -15,7 +15,7 @@ Identifying scriptural backing for the Sabbath observance and its relevance in C
 Certainly. The concept of Sabbath, or a day of rest, is important across various religious traditions. In the Christian Bible, one can find references in the Ten Commandments, specifically in Exodus 20:8-11 and Deuteronomy 5:12-15, which emphasize the observance of the Sabbath as a day of rest and worship. Additionally, Jesus' teachings in the New Testament also highlight the value of setting aside time for spiritual reflection and rejuvenation. It is important to approach these references with respect for all beliefs and interpretations.
 
 ## Average Grade
-86.0
+81.66666666666667
 
 ## Grades
  * [85.0](./Biblical_References_7_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ Certainly. The concept of Sabbath, or a day of rest, is important across various
  * [90.0](./Biblical_References_7_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Biblical_References_7_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Biblical_References_7_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Biblical_References_7_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -26,7 +26,7 @@ By presenting alternative translations, we can facilitate a more diverse range o
 Now, I must emphasize that these suggestions are not meant to be taken as definitive or authoritative. Rather, they represent my attempt to engage in respectful and considerate language, acknowledging the complexities and sensitivities surrounding biblical scholarship.
 
 ## Average Grade
-88.0
+85.0
 
 ## Grades
  * [85.0](./Translation_of__Call__grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,3 +34,4 @@ Now, I must emphasize that these suggestions are not meant to be taken as defini
  * [85.0](./Translation_of__Call__grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Translation_of__Call__grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Translation_of__Call__grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Translation_of__Call__grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

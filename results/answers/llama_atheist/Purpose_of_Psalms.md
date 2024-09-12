@@ -25,7 +25,7 @@ In biblical studies, it's widely acknowledged that the Psalms were an integral p
 In summary, the Psalms played a vital role in the worship practices of ancient Israel, serving as liturgical texts for communal services, temple music, personal devotion, instruction, and community bonding. Their significance extends beyond their theological content to reveal the cultural and social dynamics that shaped Israelite religious life.
 
 ## Average Grade
-77.0
+74.16666666666667
 
 ## Grades
  * [90.0](./Purpose_of_Psalms_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ In summary, the Psalms played a vital role in the worship practices of ancient I
  * [70.0](./Purpose_of_Psalms_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Purpose_of_Psalms_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Purpose_of_Psalms_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Purpose_of_Psalms_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

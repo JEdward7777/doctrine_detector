@@ -33,7 +33,7 @@ In these biblical references, the consequences of evil can be summarized as foll
 As an atheistic scholar, I do not attribute these consequences to divine retribution but rather to the natural outcomes of human choices, societal dynamics, and psychological insights.
 
 ## Average Grade
-67.0
+62.5
 
 ## Grades
  * [65.0](./Consequences_of_Evil_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -41,3 +41,4 @@ As an atheistic scholar, I do not attribute these consequences to divine retribu
  * [60.0](./Consequences_of_Evil_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [65.0](./Consequences_of_Evil_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Consequences_of_Evil_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Consequences_of_Evil_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

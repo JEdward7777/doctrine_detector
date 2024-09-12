@@ -50,7 +50,7 @@ Understanding the cultural context of the New Testament is crucial for interpret
 The New Testament provides a general framework for understanding the responsibilities of deacons, but it is important to interpret these responsibilities within their first-century cultural context. This nuanced approach allows for a more accurate and culturally relevant understanding of the New Testament texts.
 
 ## Average Grade
-87.0
+82.5
 
 ## Grades
  * [90.0](./Biblical_Context_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -58,3 +58,4 @@ The New Testament provides a general framework for understanding the responsibil
  * [85.0](./Biblical_Context_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Biblical_Context_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Biblical_Context_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Biblical_Context_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -21,7 +21,7 @@ The significance of the holy place lies in its representation of the presence of
 In the New Testament, Jesus Christ is seen as the ultimate sacrifice that fulfills and surpasses the rituals of the Old Testament. Through His death and resurrection, believers now have direct access to God and can approach Him boldly and confidently. The concept of the holy place is no longer limited to a physical location but extends to the hearts of believers, who are now called to be a holy priesthood and offer spiritual sacrifices to God (1 Peter 2:5).
 
 ## Average Grade
-92.0
+91.66666666666667
 
 ## Grades
  * [90.0](./Definition_of_Holy_Place_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In the New Testament, Jesus Christ is seen as the ultimate sacrifice that fulfil
  * [95.0](./Definition_of_Holy_Place_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Definition_of_Holy_Place_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Definition_of_Holy_Place_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Definition_of_Holy_Place_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

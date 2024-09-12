@@ -21,7 +21,7 @@ However, Jesus Christ entered this sanctuary and tore the veil from top to botto
 In this sense, the term "sanctuary" has taken on a broader meaning in Christian theology. It refers to the place where we can find shelter, protection, and comfort in our relationship with God through Jesus Christ. The Bible teaches that believers are now the temple of God, and their bodies are the sanctuary where the Holy Spirit dwells (1 Corinthians 6:19; Ephesians 2:22).
 
 ## Average Grade
-92.0
+90.83333333333333
 
 ## Grades
  * [95.0](./Sanctuary_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In this sense, the term "sanctuary" has taken on a broader meaning in Christian 
  * [95.0](./Sanctuary_Definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Sanctuary_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Sanctuary_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Sanctuary_Definition_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

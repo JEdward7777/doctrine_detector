@@ -29,7 +29,7 @@ In terms of relationships between these terms:
 It's essential to note that these distinctions are not rigidly defined and can vary depending on the context and authorial intent. Nevertheless, understanding these nuances can provide valuable insight into the complexities of Hebrew thought and the nature of human wrongdoing in biblical perspective.
 
 ## Average Grade
-90.4
+88.66666666666667
 
 ## Grades
  * [85.0](./Understanding_Iniquity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ It's essential to note that these distinctions are not rigidly defined and can v
  * [90.0](./Understanding_Iniquity_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_Iniquity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Understanding_Iniquity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Understanding_Iniquity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -29,7 +29,7 @@ The Ark of the Covenant was placed in the center of the Holy of Holies, surround
 The Ark was not only a symbol of God's presence but also a reminder of His covenant with Israel. Its placement in the Holy of Holies emphasized its importance as a sacred object that contained the very words and presence of God.
 
 ## Average Grade
-94.0
+94.16666666666667
 
 ## Grades
  * [95.0](./Ark_Location_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ The Ark was not only a symbol of God's presence but also a reminder of His coven
  * [95.0](./Ark_Location_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Ark_Location_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Ark_Location_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [95.0](./Ark_Location_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

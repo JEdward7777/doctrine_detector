@@ -23,7 +23,7 @@ Hebrews 12:14-17 references the same incident between Esau and Jacob to warn bel
 Overall, these references deepen our understanding of birthright as not just a social or legal privilege, but as a symbol of the sacred covenant relationship between God and His people. They emphasize the need for individuals to honor and uphold the spiritual legacy passed down to them, recognizing the value of their birthright in shaping their identity, destiny, and relationship with God.
 
 ## Average Grade
-93.8
+92.33333333333333
 
 ## Grades
  * [95.0](./Scriptural_References_4_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ Overall, these references deepen our understanding of birthright as not just a s
  * [95.0](./Scriptural_References_4_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [92.0](./Scriptural_References_4_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Scriptural_References_4_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Scriptural_References_4_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

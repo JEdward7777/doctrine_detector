@@ -30,7 +30,7 @@ These responses showcase Jesus' commitment to his divine mission and his underst
 In conclusion, when considering Jesus' response to Satan's temptations from a secular perspective, we see a narrative that highlights Jesus' humanity, his reliance on scripture, and his commitment to his divine purpose. This story serves as a demonstration of Jesus' moral character, rather than an explicit rejection of Satan or the devil.
 
 ## Average Grade
-62.0
+58.333333333333336
 
 ## Grades
  * [50.0](./Temptation_and_Resistance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,3 +38,4 @@ In conclusion, when considering Jesus' response to Satan's temptations from a se
  * [60.0](./Temptation_and_Resistance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [40.0](./Temptation_and_Resistance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Temptation_and_Resistance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Temptation_and_Resistance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

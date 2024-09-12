@@ -28,7 +28,7 @@ To address this issue, I recommend that missionaries:
 By following these suggestions, missionaries can help to clear up the misconception that Christianity is polytheistic and instead present a more nuanced understanding of Trinitarian theology that is both biblically grounded and culturally sensitive.
 
 ## Average Grade
-89.4
+86.16666666666667
 
 ## Grades
  * [85.0](./Multiple_gods_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,3 +36,4 @@ By following these suggestions, missionaries can help to clear up the misconcept
  * [90.0](./Multiple_gods_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Multiple_gods_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Multiple_gods_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Multiple_gods_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

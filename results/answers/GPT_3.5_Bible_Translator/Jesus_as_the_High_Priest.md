@@ -23,7 +23,7 @@ This passage highlights that Jesus, as the High Priest, offered himself as the p
 Overall, the New Testament presents Jesus as the ultimate High Priest who embodies the qualities of holiness, purity, and sacrifice, fulfilling the Old Testament priesthood and reconciling humanity to God through his atoning sacrifice on the cross.
 
 ## Average Grade
-92.0
+92.5
 
 ## Grades
  * [95.0](./Jesus_as_the_High_Priest_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ Overall, the New Testament presents Jesus as the ultimate High Priest who embodi
  * [95.0](./Jesus_as_the_High_Priest_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Jesus_as_the_High_Priest_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Jesus_as_the_High_Priest_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [95.0](./Jesus_as_the_High_Priest_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -19,7 +19,7 @@ The concept of being chosen by God implies that there is a divine selection proc
 From a cultural perspective, the idea of being chosen by God can also be seen as a reflection of the belief in a covenantal relationship between God and the Jewish people. By choosing certain individuals to fulfill specific roles, God was demonstrating his commitment to guiding and protecting his chosen people. This concept of chosenness has been a central aspect of Jewish identity and theology throughout history.
 
 ## Average Grade
-90.0
+89.16666666666667
 
 ## Grades
  * [90.0](./The_Role_of_God_s_Chosen_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ From a cultural perspective, the idea of being chosen by God can also be seen as
  * [85.0](./The_Role_of_God_s_Chosen_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./The_Role_of_God_s_Chosen_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./The_Role_of_God_s_Chosen_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./The_Role_of_God_s_Chosen_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

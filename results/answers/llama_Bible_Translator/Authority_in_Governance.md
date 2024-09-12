@@ -27,7 +27,7 @@ These passages teach that governing rulers have been appointed by God and are ac
 In conclusion, the Bible teaches that governing rulers have been appointed by God and are accountable to Him for their actions. It emphasizes the importance of submitting oneself to the higher powers and obeying the laws and regulations established by those in authority, as long as they do not contradict God's will.
 
 ## Average Grade
-94.0
+92.5
 
 ## Grades
  * [95.0](./Authority_in_Governance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In conclusion, the Bible teaches that governing rulers have been appointed by Go
  * [95.0](./Authority_in_Governance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Authority_in_Governance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Authority_in_Governance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Authority_in_Governance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

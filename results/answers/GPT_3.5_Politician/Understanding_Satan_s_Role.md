@@ -15,7 +15,7 @@ Knowing the meaning of Satan's name helps Christians understand his role as an a
 In the Christian faith, the name "Satan" is often associated with the devil or a fallen angel who is seen as the embodiment of evil and acts as a tempter or accuser against humanity. It is important to remember that different religious traditions may have varying interpretations and beliefs regarding this figure, and it is essential to approach discussions about religious beliefs with sensitivity and respect for diverse perspectives.
 
 ## Average Grade
-87.0
+86.66666666666667
 
 ## Grades
  * [90.0](./Understanding_Satan_s_Role_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ In the Christian faith, the name "Satan" is often associated with the devil or a
  * [90.0](./Understanding_Satan_s_Role_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Understanding_Satan_s_Role_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Understanding_Satan_s_Role_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Understanding_Satan_s_Role_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

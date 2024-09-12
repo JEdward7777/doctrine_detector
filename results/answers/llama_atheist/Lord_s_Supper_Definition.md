@@ -25,7 +25,7 @@ As an atheist scholar, I must emphasize that this interpretation is rooted in Ch
 In conclusion, while the Lord's Supper holds deep meaning for Christians, as a neutral observer, I believe it is reasonable to conclude that this sacred ritual likely commemorates Jesus' Last Supper and his sacrifice on behalf of humanity.
 
 ## Average Grade
-80.0
+75.0
 
 ## Grades
  * [80.0](./Lord_s_Supper_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ In conclusion, while the Lord's Supper holds deep meaning for Christians, as a n
  * [65.0](./Lord_s_Supper_Definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Lord_s_Supper_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Lord_s_Supper_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Lord_s_Supper_Definition_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

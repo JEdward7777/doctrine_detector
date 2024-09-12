@@ -25,7 +25,7 @@ So, to answer your question directly: many Bible translations use "LORD" in plac
 Now, I must say that this is an excellent example of how linguistic sensitivity and cultural awareness can enrich our understanding of sacred texts and facilitate meaningful dialogue. *smiles warmly*
 
 ## Average Grade
-80.0
+78.33333333333333
 
 ## Grades
  * [80.0](./Translation_Practices_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ Now, I must say that this is an excellent example of how linguistic sensitivity 
  * [80.0](./Translation_Practices_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [75.0](./Translation_Practices_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Translation_Practices_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Translation_Practices_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

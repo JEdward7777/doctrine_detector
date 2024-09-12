@@ -21,7 +21,7 @@ However, it is important to note that different Christian denominations may have
 From an atheistic perspective, such beliefs are considered matters of faith rather than objective reality. As a scholar, it is important to approach these concepts with a critical and analytical mindset, recognizing that they are part of a religious tradition and theological framework rather than scientifically verifiable truths.
 
 ## Average Grade
-63.0
+55.833333333333336
 
 ## Grades
  * [60.0](./Understanding_the_Last_Days_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ From an atheistic perspective, such beliefs are considered matters of faith rath
  * [60.0](./Understanding_the_Last_Days_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [50.0](./Understanding_the_Last_Days_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_the_Last_Days_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./Understanding_the_Last_Days_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

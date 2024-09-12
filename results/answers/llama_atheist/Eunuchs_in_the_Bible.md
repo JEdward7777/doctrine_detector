@@ -29,7 +29,7 @@ In this context, Jesus is highlighting the possibility of living a life free fro
 In conclusion, Jesus' mention of eunuchs in Matthew 19:12 is not primarily about promoting celibacy as a universal ideal. Rather, it's an acknowledgment of the diverse paths people can take in their spiritual journeys, including those who may be called to a life of singleness and devotion for the sake of God and others.
 
 ## Average Grade
-76.4
+73.66666666666667
 
 ## Grades
  * [70.0](./Eunuchs_in_the_Bible_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ In conclusion, Jesus' mention of eunuchs in Matthew 19:12 is not primarily about
  * [60.0](./Eunuchs_in_the_Bible_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Eunuchs_in_the_Bible_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Eunuchs_in_the_Bible_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Eunuchs_in_the_Bible_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

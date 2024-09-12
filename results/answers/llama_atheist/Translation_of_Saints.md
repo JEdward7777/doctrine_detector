@@ -27,7 +27,7 @@ Here are some possible translations or equivalents:
 When translating "saints" in a non-religious context, it's essential to be sensitive to the cultural background and historical period in which the term was used. By using more secular language, we can maintain a nuanced understanding of their significance while avoiding any unnecessary religious connotations.
 
 ## Average Grade
-60.0
+61.666666666666664
 
 ## Grades
  * [60.0](./Translation_of_Saints_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ When translating "saints" in a non-religious context, it's essential to be sensi
  * [70.0](./Translation_of_Saints_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [50.0](./Translation_of_Saints_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Translation_of_Saints_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Translation_of_Saints_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

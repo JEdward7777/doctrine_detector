@@ -29,7 +29,7 @@ For believers, this statement might imply several things:
 It's essential to note that these interpretations are based on historical-critical analysis and might not be seen as authoritative by all Christian traditions or denominations. Ultimately, the meaning attributed to Jesus' statement would depend on individual perspectives and theological stances within Christianity.
 
 ## Average Grade
-84.0
+80.0
 
 ## Grades
  * [80.0](./Second_Coming_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ It's essential to note that these interpretations are based on historical-critic
  * [75.0](./Second_Coming_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Second_Coming_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Second_Coming_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Second_Coming_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

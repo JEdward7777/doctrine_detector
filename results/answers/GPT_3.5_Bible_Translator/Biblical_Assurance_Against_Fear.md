@@ -19,7 +19,7 @@ It is a reminder that God is in control, and His love and power are greater than
 Ultimately, the phrase "fear not" in the Bible is a message of hope and encouragement, reminding believers that they can have confidence in God's promises and provision, no matter what they may be facing.
 
 ## Average Grade
-92.0
+90.0
 
 ## Grades
  * [90.0](./Biblical_Assurance_Against_Fear_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Ultimately, the phrase "fear not" in the Bible is a message of hope and encourag
  * [90.0](./Biblical_Assurance_Against_Fear_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Biblical_Assurance_Against_Fear_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Biblical_Assurance_Against_Fear_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Biblical_Assurance_Against_Fear_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

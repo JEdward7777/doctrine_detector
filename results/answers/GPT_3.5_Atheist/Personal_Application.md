@@ -19,7 +19,7 @@ This process often includes confession, repentance, and seeking redemption throu
 While the idea of purification from sin may hold deep significance for believers, from an atheistic standpoint, it is understood as a symbolic and ritualistic practice intended to promote ethical behavior and spiritual growth within the context of religious belief.
 
 ## Average Grade
-80.0
+71.66666666666667
 
 ## Grades
  * [65.0](./Personal_Application_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ While the idea of purification from sin may hold deep significance for believers
  * [85.0](./Personal_Application_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Personal_Application_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Personal_Application_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [30.0](./Personal_Application_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

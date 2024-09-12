@@ -11,26 +11,26 @@ To 'find grace in the eyes of God' means to receive mercy and favor from God, in
 Exploring how one can seek and recognize God's favor in their life.
 
 ## Average Grade
-80.92
+78.77981651376147
 
 ## Grades
- * [36.0 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Finding_Grace.md)
- * [49.0 gemma atheist](../answers/gemma_atheist/Finding_Grace.md)
- * [63.0 llama atheist](../answers/llama_atheist/Finding_Grace.md)
- * [67.0 llama Politician](../answers/llama_Politician/Finding_Grace.md)
- * [78.0 gemma Politician](../answers/gemma_Politician/Finding_Grace.md)
+ * [36.666666666666664 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Finding_Grace.md)
+ * [44.166666666666664 gemma atheist](../answers/gemma_atheist/Finding_Grace.md)
+ * [62.5 llama atheist](../answers/llama_atheist/Finding_Grace.md)
+ * [64.16666666666667 llama Politician](../answers/llama_Politician/Finding_Grace.md)
+ * [68.33333333333333 gemma Politician](../answers/gemma_Politician/Finding_Grace.md)
+ * [82.5 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Finding_Grace.md)
  * [84.0 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Finding_Grace.md)
- * [85.0 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Finding_Grace.md)
  * [85.0 mistral Politician](../answers/mistral_Politician/Finding_Grace.md)
  * [86.0 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Finding_Grace.md)
  * [87.0 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Finding_Grace.md)
  * [87.0 gemma Imam](../answers/gemma_Imam/Finding_Grace.md)
  * [88.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Finding_Grace.md)
  * [88.0 mistral Imam](../answers/mistral_Imam/Finding_Grace.md)
- * [89.0 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Finding_Grace.md)
+ * [88.33333333333333 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Finding_Grace.md)
  * [89.0 mistral atheist](../answers/mistral_atheist/Finding_Grace.md)
  * [89.0 llama Imam](../answers/llama_Imam/Finding_Grace.md)
  * [89.4 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Finding_Grace.md)
- * [92.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Finding_Grace.md)
+ * [90.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Finding_Grace.md)
+ * [90.0 llama Bible Translator](../answers/llama_Bible_Translator/Finding_Grace.md)
  * [93.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Finding_Grace.md)
- * [94.0 llama Bible Translator](../answers/llama_Bible_Translator/Finding_Grace.md)

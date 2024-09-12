@@ -25,7 +25,7 @@ What a crucial and often misunderstood aspect of Christian theology! The concept
 In conclusion, the concept of eternal punishment in hell reflects God's justice by emphasizing the gravity of sin, the value of redemption, and the importance of seeking salvation through Jesus Christ.
 
 ## Average Grade
-93.0
+91.66666666666667
 
 ## Grades
  * [90.0](./Eternal_Punishment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ In conclusion, the concept of eternal punishment in hell reflects God's justice 
  * [90.0](./Eternal_Punishment_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Eternal_Punishment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Eternal_Punishment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Eternal_Punishment_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

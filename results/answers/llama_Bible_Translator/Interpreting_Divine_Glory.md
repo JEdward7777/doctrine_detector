@@ -31,7 +31,7 @@ There are several ways we can understand God's glory in the context of worship:
 In worship, acknowledging God's glory means recognizing His presence, power, love, and beauty. It is an expression of our gratitude, adoration, and submission to Him. As we worship, we are saying, "You are the magnificent, majestic, loving, and beautiful God, worthy of all praise and honor."
 
 ## Average Grade
-93.0
+90.83333333333333
 
 ## Grades
  * [90.0](./Interpreting_Divine_Glory_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,3 +39,4 @@ In worship, acknowledging God's glory means recognizing His presence, power, lov
  * [95.0](./Interpreting_Divine_Glory_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Interpreting_Divine_Glory_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Interpreting_Divine_Glory_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Interpreting_Divine_Glory_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

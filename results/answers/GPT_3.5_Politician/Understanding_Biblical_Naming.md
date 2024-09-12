@@ -15,7 +15,7 @@ Understanding proper biblical interpretation and the significance of names in sc
 In the Bible, the name "John" holds significant meaning, symbolizing God's graciousness and favor. The reference to His name as "John" highlights the chosen nature of the individual and the divine plan associated with the name. It is important to approach such topics with sensitivity and respect for various beliefs and interpretations.
 
 ## Average Grade
-70.0
+65.0
 
 ## Grades
  * [70.0](./Understanding_Biblical_Naming_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ In the Bible, the name "John" holds significant meaning, symbolizing God's graci
  * [85.0](./Understanding_Biblical_Naming_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Understanding_Biblical_Naming_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Understanding_Biblical_Naming_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Understanding_Biblical_Naming_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

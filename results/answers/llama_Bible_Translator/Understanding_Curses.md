@@ -40,7 +40,7 @@ The Bible teaches that cursing others can lead to spiritual consequences, such a
 In conclusion, the Bible teaches that cursing others has severe consequences for one's spiritual well-being and relationships with others. As followers of Jesus, we are called to bless those who curse us and pray for those who persecute us (Matthew 5:44). We must be mindful of our words and actions, ensuring that they reflect Christlikeness and do not bring harm to ourselves or others.
 
 ## Average Grade
-95.0
+94.16666666666667
 
 ## Grades
  * [95.0](./Understanding_Curses_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -48,3 +48,4 @@ In conclusion, the Bible teaches that cursing others has severe consequences for
  * [95.0](./Understanding_Curses_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_Curses_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Understanding_Curses_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Understanding_Curses_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

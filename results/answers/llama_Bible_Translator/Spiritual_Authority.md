@@ -29,7 +29,7 @@ Key differences between spiritual authorities and earthly authorities include:
 In summary, spiritual authorities operate within the realm of faith, morality, and spirituality, serving as agents of God's kingdom on earth. Earthly authorities govern and maintain order in the physical realm, focusing on issues of justice and societal well-being. Both types of authority have different roles, responsibilities, and spheres of influence, but they are both ultimately accountable to God.
 
 ## Average Grade
-93.4
+90.33333333333333
 
 ## Grades
  * [95.0](./Spiritual_Authority_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ In summary, spiritual authorities operate within the realm of faith, morality, a
  * [95.0](./Spiritual_Authority_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Spiritual_Authority_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Spiritual_Authority_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Spiritual_Authority_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -28,7 +28,7 @@ In the biblical context, the image of God is often associated with the creation 
 In conclusion, while there may not be a direct correlation between these human characteristics and the biblical definition of God's image, they do represent aspects of human nature that can be valued and cultivated to promote positive change. As an atheist scholar, I approach these concepts through a cultural lens, recognizing their significance in promoting individual fulfillment, community building, and social progress.
 
 ## Average Grade
-53.0
+50.833333333333336
 
 ## Grades
  * [50.0](./Understanding_the_Image_of_God_in_Humans_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,3 +36,4 @@ In conclusion, while there may not be a direct correlation between these human c
  * [40.0](./Understanding_the_Image_of_God_in_Humans_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [40.0](./Understanding_the_Image_of_God_in_Humans_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_the_Image_of_God_in_Humans_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Understanding_the_Image_of_God_in_Humans_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -11,26 +11,26 @@ In the Bible, 'hope' signifies a strong desire for something to happen, often ac
 Understanding the spiritual foundation of hope in the Christian faith.
 
 ## Average Grade
-89.19
+88.29357798165138
 
 ## Grades
- * [72.0 llama atheist](../answers/llama_atheist/Biblical_Hope_Definition.md)
+ * [70.0 llama atheist](../answers/llama_atheist/Biblical_Hope_Definition.md)
+ * [75.83333333333333 llama Politician](../answers/llama_Politician/Biblical_Hope_Definition.md)
  * [77.0 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Biblical_Hope_Definition.md)
- * [81.0 llama Politician](../answers/llama_Politician/Biblical_Hope_Definition.md)
  * [85.0 gemma Imam](../answers/gemma_Imam/Biblical_Hope_Definition.md)
- * [89.0 gemma Politician](../answers/gemma_Politician/Biblical_Hope_Definition.md)
- * [89.0 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Biblical_Hope_Definition.md)
+ * [88.33333333333333 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Biblical_Hope_Definition.md)
  * [89.0 mistral Imam](../answers/mistral_Imam/Biblical_Hope_Definition.md)
- * [90.0 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Biblical_Hope_Definition.md)
+ * [89.16666666666667 gemma Politician](../answers/gemma_Politician/Biblical_Hope_Definition.md)
+ * [89.16666666666667 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Biblical_Hope_Definition.md)
+ * [90.66666666666667 gemma atheist](../answers/gemma_atheist/Biblical_Hope_Definition.md)
+ * [90.83333333333333 gemma Bible Translator](../answers/gemma_Bible_Translator/Biblical_Hope_Definition.md)
+ * [90.83333333333333 llama Bible Translator](../answers/llama_Bible_Translator/Biblical_Hope_Definition.md)
  * [91.0 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Biblical_Hope_Definition.md)
- * [91.8 gemma atheist](../answers/gemma_atheist/Biblical_Hope_Definition.md)
- * [92.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Biblical_Hope_Definition.md)
- * [92.0 llama Bible Translator](../answers/llama_Bible_Translator/Biblical_Hope_Definition.md)
+ * [91.66666666666667 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Biblical_Hope_Definition.md)
  * [92.0 mistral Politician](../answers/mistral_Politician/Biblical_Hope_Definition.md)
  * [92.0 llama Imam](../answers/llama_Imam/Biblical_Hope_Definition.md)
  * [93.0 mistral atheist](../answers/mistral_atheist/Biblical_Hope_Definition.md)
  * [93.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Biblical_Hope_Definition.md)
  * [93.0 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Biblical_Hope_Definition.md)
  * [93.0 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Biblical_Hope_Definition.md)
- * [94.0 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Biblical_Hope_Definition.md)
  * [95.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Biblical_Hope_Definition.md)

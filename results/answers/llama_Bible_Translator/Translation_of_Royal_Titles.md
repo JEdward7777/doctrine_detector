@@ -39,7 +39,7 @@ When translating "Your Majesty," consider the following principles:
 Remember, translating "Your Majesty" requires a thoughtful approach that balances linguistic precision with cultural sensitivity.
 
 ## Average Grade
-91.0
+88.33333333333333
 
 ## Grades
  * [90.0](./Translation_of_Royal_Titles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -47,3 +47,4 @@ Remember, translating "Your Majesty" requires a thoughtful approach that balance
  * [95.0](./Translation_of_Royal_Titles_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Translation_of_Royal_Titles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Translation_of_Royal_Titles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Translation_of_Royal_Titles_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -374,10 +374,30 @@ def produce_grade_page( *, answer_model__question__answer_grade_comment, questio
 
 [&lt;- Link to Answer]({get_rel_url(get_answer_url(question_label, answer_model_label),url)})
 """ )
+        
+
+def load_results_with_grades(grading_model_infos):
+    with open( "results.json", "rt" ) as fin:
+        answer_model__question__answer = json.load(fin)
+
+        for answer_model_label, question__answer in answer_model__question__answer.items():
+            for question_label, answer in question__answer.items():
+                answer["grades"] = {}
+                for grading_model_label in grading_model_infos.keys():
+                    grade_filename = get_grade_json( question_label, answer_model_label, grading_model_label )
+                    if os.path.exists( grade_filename ):
+                        with open( grade_filename, "rt" ) as fin:
+                            grade = json.load(fin)
+                            answer["grades"][grading_model_label] = grade
+    return answer_model__question__answer
+
 
 def main():
-    with open( "results.json", "rt" ) as fin:
-        answer_model__question__answer_grade_comment = json.load(fin)
+
+    with open( 'model_jobs.json' ) as fin:
+        grading_model_infos = json.load(fin)['grading_models']
+
+    answer_model__question__answer_grade_comment = load_results_with_grades(grading_model_infos)
 
     #flip the structure for convenience
     question__answer_model__answer_grade_comment = defaultdict( lambda: {} )
@@ -405,9 +425,6 @@ def main():
     answer_model__answer_model = {}
     for model in model_array:
         answer_model__answer_model[model["label"]] = model
-
-    with open( 'model_jobs.json' ) as fin:
-        grading_model_infos = json.load(fin)['grading_models']
 
 
     #grading model page

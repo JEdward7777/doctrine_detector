@@ -11,26 +11,26 @@ To 'call out to the Lord' is to seek Him urgently for help, trust in Him, and de
 The significance of prayer and dependence on God in daily life.
 
 ## Average Grade
-72.8
+71.19266055045871
 
 ## Grades
- * [28.0 llama atheist](../answers/llama_atheist/Prayer_as_Calling_Out.md)
- * [36.0 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Prayer_as_Calling_Out.md)
+ * [26.666666666666668 llama atheist](../answers/llama_atheist/Prayer_as_Calling_Out.md)
+ * [35.0 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Prayer_as_Calling_Out.md)
  * [39.0 mistral atheist](../answers/mistral_atheist/Prayer_as_Calling_Out.md)
  * [41.0 mistral Politician](../answers/mistral_Politician/Prayer_as_Calling_Out.md)
- * [57.0 llama Politician](../answers/llama_Politician/Prayer_as_Calling_Out.md)
- * [60.0 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Prayer_as_Calling_Out.md)
- * [69.0 gemma atheist](../answers/gemma_atheist/Prayer_as_Calling_Out.md)
- * [76.0 gemma Politician](../answers/gemma_Politician/Prayer_as_Calling_Out.md)
+ * [55.0 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Prayer_as_Calling_Out.md)
+ * [57.5 llama Politician](../answers/llama_Politician/Prayer_as_Calling_Out.md)
+ * [65.83333333333333 gemma atheist](../answers/gemma_atheist/Prayer_as_Calling_Out.md)
+ * [70.0 gemma Politician](../answers/gemma_Politician/Prayer_as_Calling_Out.md)
  * [76.0 mistral Imam](../answers/mistral_Imam/Prayer_as_Calling_Out.md)
  * [78.0 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Prayer_as_Calling_Out.md)
  * [80.0 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Prayer_as_Calling_Out.md)
  * [85.0 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Prayer_as_Calling_Out.md)
  * [87.0 gemma Imam](../answers/gemma_Imam/Prayer_as_Calling_Out.md)
  * [88.0 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Prayer_as_Calling_Out.md)
- * [92.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Prayer_as_Calling_Out.md)
- * [92.0 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Prayer_as_Calling_Out.md)
+ * [90.83333333333333 gemma Bible Translator](../answers/gemma_Bible_Translator/Prayer_as_Calling_Out.md)
+ * [90.83333333333333 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Prayer_as_Calling_Out.md)
+ * [90.83333333333333 llama Bible Translator](../answers/llama_Bible_Translator/Prayer_as_Calling_Out.md)
  * [92.0 llama Imam](../answers/llama_Imam/Prayer_as_Calling_Out.md)
- * [93.0 llama Bible Translator](../answers/llama_Bible_Translator/Prayer_as_Calling_Out.md)
  * [93.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Prayer_as_Calling_Out.md)
  * [94.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Prayer_as_Calling_Out.md)

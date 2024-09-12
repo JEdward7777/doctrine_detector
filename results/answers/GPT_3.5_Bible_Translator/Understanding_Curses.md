@@ -21,7 +21,7 @@ Furthermore, in Matthew 12:36-37, Jesus teaches, "But I tell you that everyone w
 Ultimately, cursing others goes against the teachings of Jesus to love our neighbors as ourselves and to speak words of grace and kindness. The consequences of cursing others may lead to broken relationships, hurt feelings, and even spiritual consequences as we are held accountable for our words before God. It is important for Christians to strive to use their speech to build others up and reflect the love of Christ in all interactions.
 
 ## Average Grade
-95.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Understanding_Curses_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Ultimately, cursing others goes against the teachings of Jesus to love our neigh
  * [95.0](./Understanding_Curses_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_Curses_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Understanding_Curses_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Understanding_Curses_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

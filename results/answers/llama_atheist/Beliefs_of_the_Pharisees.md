@@ -27,7 +27,7 @@ It's essential to note that these beliefs were not uniform among all Pharisees, 
 As an atheist, I find it fascinating to explore the complexities of ancient Jewish beliefs, even if they don't align with my own philosophical views. The study of ancient religious traditions can provide valuable insights into human culture and the development of belief systems over time.
 
 ## Average Grade
-84.0
+81.66666666666667
 
 ## Grades
  * [85.0](./Beliefs_of_the_Pharisees_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ As an atheist, I find it fascinating to explore the complexities of ancient Jewi
  * [80.0](./Beliefs_of_the_Pharisees_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Beliefs_of_the_Pharisees_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Beliefs_of_the_Pharisees_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Beliefs_of_the_Pharisees_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

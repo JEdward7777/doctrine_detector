@@ -45,7 +45,7 @@ Exploring different interpretations of biblical terms to deepen understanding.
 * **Clarity and Accuracy:** The translation should be clear and accurate, capturing the essence of the original concept.
 
 ## Average Grade
-83.0
+82.5
 
 ## Grades
  * [90.0](./Translation_Variations_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -53,3 +53,4 @@ Exploring different interpretations of biblical terms to deepen understanding.
  * [90.0](./Translation_Variations_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [75.0](./Translation_Variations_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Translation_Variations_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Translation_Variations_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

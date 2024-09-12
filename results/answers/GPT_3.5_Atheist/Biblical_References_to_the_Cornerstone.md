@@ -19,7 +19,7 @@ Another reference can be found in 1 Peter 2:6, which says, "For in Scripture, it
 Overall, the verses highlighting Jesus as the cornerstone emphasize His foundational role in the Christian faith, serving as the source of unity, stability, and trust for believers. Just as a cornerstone is essential for the construction of a building, Jesus is essential for the spiritual foundation and growth of the church.
 
 ## Average Grade
-88.0
+87.5
 
 ## Grades
  * [90.0](./Biblical_References_to_the_Cornerstone_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Overall, the verses highlighting Jesus as the cornerstone emphasize His foundati
  * [85.0](./Biblical_References_to_the_Cornerstone_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Biblical_References_to_the_Cornerstone_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_References_to_the_Cornerstone_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Biblical_References_to_the_Cornerstone_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

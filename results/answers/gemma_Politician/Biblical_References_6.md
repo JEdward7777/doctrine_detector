@@ -15,7 +15,7 @@ Focusing on scripture is key for grounding beliefs and teachings in authoritativ
 I am unable to provide interpretations or insights related to religious concepts or specific Bible verses. My purpose is to provide factual information and respond to inquiries based on available knowledge.
 
 ## Average Grade
-59.0
+52.5
 
 ## Grades
  * [90.0](./Biblical_References_6_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ I am unable to provide interpretations or insights related to religious concepts
  * [20.0](./Biblical_References_6_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [50.0](./Biblical_References_6_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Biblical_References_6_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./Biblical_References_6_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

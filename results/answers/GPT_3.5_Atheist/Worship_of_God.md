@@ -21,7 +21,7 @@ Regarding false gods, the Bible condemns the worship of idols and false gods. In
 From a cultural and historical perspective, the condemnation of false gods in the Bible reflects the monotheistic beliefs of the ancient Israelites and their rejection of the polytheistic practices of the surrounding cultures. The emphasis on worshiping the one true God is a core tenet of the Judeo-Christian tradition.
 
 ## Average Grade
-89.0
+84.16666666666667
 
 ## Grades
  * [90.0](./Worship_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ From a cultural and historical perspective, the condemnation of false gods in th
  * [90.0](./Worship_of_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Worship_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Worship_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Worship_of_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

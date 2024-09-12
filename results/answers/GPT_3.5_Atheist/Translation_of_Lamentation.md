@@ -21,7 +21,7 @@ Furthermore, investigating the cultural and historical context in which these la
 In sum, studying the translations of the word "lament" can enrich our appreciation of the complex emotions and spiritual dimensions inherent in biblical laments, shedding light on the depth of human experience and resilience in the face of suffering and loss.
 
 ## Average Grade
-86.4
+87.0
 
 ## Grades
  * [92.0](./Translation_of_Lamentation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In sum, studying the translations of the word "lament" can enrich our appreciati
  * [80.0](./Translation_of_Lamentation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Translation_of_Lamentation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Translation_of_Lamentation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Translation_of_Lamentation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

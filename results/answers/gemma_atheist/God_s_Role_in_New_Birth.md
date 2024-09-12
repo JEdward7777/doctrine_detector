@@ -19,7 +19,7 @@ The biological process of birth involves complex physiological mechanisms and is
 Therefore, the idea of God playing a role in the process of being born again is not supported by scientific or rational evidence.
 
 ## Average Grade
-78.0
+68.33333333333333
 
 ## Grades
  * [60.0](./God_s_Role_in_New_Birth_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Therefore, the idea of God playing a role in the process of being born again is 
  * [100.0](./God_s_Role_in_New_Birth_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./God_s_Role_in_New_Birth_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./God_s_Role_in_New_Birth_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./God_s_Role_in_New_Birth_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

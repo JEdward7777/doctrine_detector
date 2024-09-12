@@ -17,7 +17,7 @@ Keeping the Sabbath holy, as stated in the commandments given to Moses, means se
 Keeping the Sabbath holy involves refraining from secular work and activities, focusing on worship and rest, and spending time in prayer and reflection. It is a day to remember and honor God's creation and to cultivate our relationship with Him. Christians observe the Sabbath on Sunday, the day of Christ's resurrection, in light of the New Testament teachings and the early church tradition.
 
 ## Average Grade
-92.0
+89.16666666666667
 
 ## Grades
  * [95.0](./Sabbath_Observance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -25,3 +25,4 @@ Keeping the Sabbath holy involves refraining from secular work and activities, f
  * [95.0](./Sabbath_Observance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Sabbath_Observance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Sabbath_Observance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Sabbath_Observance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

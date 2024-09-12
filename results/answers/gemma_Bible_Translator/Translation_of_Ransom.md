@@ -47,7 +47,7 @@ Ensuring theological terms are accurately understood across linguistic and cultu
 * The translation should be consistent with the overall theological framework of the Bible and the target audience.
 
 ## Average Grade
-90.0
+90.83333333333333
 
 ## Grades
  * [90.0](./Translation_of_Ransom_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -55,3 +55,4 @@ Ensuring theological terms are accurately understood across linguistic and cultu
  * [95.0](./Translation_of_Ransom_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Translation_of_Ransom_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Translation_of_Ransom_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [95.0](./Translation_of_Ransom_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

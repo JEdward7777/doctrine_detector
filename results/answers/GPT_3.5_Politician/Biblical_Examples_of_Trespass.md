@@ -21,7 +21,7 @@ Another example is when Jesus teaches about forgiveness in Matthew 18:21-22, whe
 Overall, the concept of trespass in the Bible serves as a reminder of the importance of repentance, forgiveness, and reconciliation in our relationships with others and with God. It encourages us to seek forgiveness for our own wrongdoings and to be willing to forgive those who have wronged us, reflecting moral and spiritual lessons of humility, compassion, and reconciliation.
 
 ## Average Grade
-89.0
+88.33333333333333
 
 ## Grades
  * [95.0](./Biblical_Examples_of_Trespass_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Overall, the concept of trespass in the Bible serves as a reminder of the import
  * [90.0](./Biblical_Examples_of_Trespass_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Biblical_Examples_of_Trespass_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Biblical_Examples_of_Trespass_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Biblical_Examples_of_Trespass_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

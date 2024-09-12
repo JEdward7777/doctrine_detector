@@ -15,7 +15,7 @@ Recognizing the importance of remembrance in Christian faith.
 I am unable to provide interpretations or opinions regarding religious or historical events, as my purpose is to provide factual and neutral information. For accurate information on religious traditions and historical events, please consult reliable religious or historical sources.</end_of_turn>
 
 ## Average Grade
-92.0
+85.0
 
 ## Grades
  * [90.0](./Annual_Remembrance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ I am unable to provide interpretations or opinions regarding religious or histor
  * [95.0](./Annual_Remembrance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Annual_Remembrance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Annual_Remembrance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Annual_Remembrance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

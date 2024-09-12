@@ -27,7 +27,7 @@ In Christian ethics, living a worldly lifestyle often implies a rejection of div
 In conclusion, being "worldly" within Christian teachings implies a focus on earthly concerns that may overshadow spiritual priorities. While some level of worldly involvement is inevitable, an overemphasis on material possessions, wealth, or power can lead people away from God's will. The ideal balance lies in cultivating a sense of reverence and awe for the divine while still engaging with the world around us.
 
 ## Average Grade
-85.0
+83.33333333333333
 
 ## Grades
  * [85.0](./Understanding_Worldly_Values_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In conclusion, being "worldly" within Christian teachings implies a focus on ear
  * [85.0](./Understanding_Worldly_Values_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Understanding_Worldly_Values_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Worldly_Values_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Understanding_Worldly_Values_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

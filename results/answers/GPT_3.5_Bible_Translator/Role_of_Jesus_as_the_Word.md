@@ -27,7 +27,7 @@ By referring to Jesus as "the Word," the Gospel of John communicates several key
 Overall, the title "the Word of God" highlights Jesus' unique identity as the Son of God, who serves as the perfect expression of God's message and mission to reconcile humanity to Himself.
 
 ## Average Grade
-93.0
+92.5
 
 ## Grades
  * [95.0](./Role_of_Jesus_as_the_Word_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ Overall, the title "the Word of God" highlights Jesus' unique identity as the So
  * [95.0](./Role_of_Jesus_as_the_Word_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Role_of_Jesus_as_the_Word_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Role_of_Jesus_as_the_Word_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Role_of_Jesus_as_the_Word_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -15,7 +15,7 @@ Understanding the biblical basis for encouraging others in their faith journey.
 In the New Testament, exhortation serves as a means to encourage and motivate individuals to live a virtuous and righteous life in accordance with their religious beliefs. It is meant to uplift and inspire individuals to strive for personal growth and spiritual fulfillment.
 
 ## Average Grade
-79.0
+75.83333333333333
 
 ## Grades
  * [85.0](./Purpose_of_Exhortation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ In the New Testament, exhortation serves as a means to encourage and motivate in
  * [80.0](./Purpose_of_Exhortation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Purpose_of_Exhortation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Purpose_of_Exhortation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Purpose_of_Exhortation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -27,7 +27,7 @@ These judges served as a type or foreshadowing of Jesus Christ, the ultimate Sav
 In summary, the concept of judges as saviors in the Old Testament provides a rich backdrop for understanding Jesus Christ as the ultimate Savior in the New Testament. By examining these parallels, we gain insight into the nature of salvation, the significance of faith, and the character of God's saving work through Jesus Christ.
 
 ## Average Grade
-93.4
+92.0
 
 ## Grades
  * [90.0](./Understanding_the_Role_of_a_Savior_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In summary, the concept of judges as saviors in the Old Testament provides a ric
  * [95.0](./Understanding_the_Role_of_a_Savior_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_the_Role_of_a_Savior_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Understanding_the_Role_of_a_Savior_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Understanding_the_Role_of_a_Savior_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

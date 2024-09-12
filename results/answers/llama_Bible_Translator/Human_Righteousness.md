@@ -30,7 +30,7 @@ This is why Paul writes, "For God did not send his Son into the world to condemn
 In other words, when we trust in Jesus Christ, we're not trying to earn righteousness or prove ourselves worthy. Rather, we're acknowledging that we can never be good enough on our own and trusting that God has provided a way for us to be declared righteous through faith in Him.
 
 ## Average Grade
-95.0
+94.16666666666667
 
 ## Grades
  * [95.0](./Human_Righteousness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,3 +38,4 @@ In other words, when we trust in Jesus Christ, we're not trying to earn righteou
  * [95.0](./Human_Righteousness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Human_Righteousness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Human_Righteousness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Human_Righteousness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

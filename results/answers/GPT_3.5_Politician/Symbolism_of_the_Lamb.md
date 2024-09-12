@@ -17,7 +17,7 @@ The use of a lamb for sacrifices in the Bible is a symbol that represents innoce
 It is important to approach this topic with sensitivity and respect for the beliefs of others. Different cultures and religions have various interpretations of sacrificial practices, and it is crucial to engage in constructive dialogue and understanding when discussing such sensitive topics.
 
 ## Average Grade
-84.0
+82.5
 
 ## Grades
  * [90.0](./Symbolism_of_the_Lamb_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -25,3 +25,4 @@ It is important to approach this topic with sensitivity and respect for the beli
  * [90.0](./Symbolism_of_the_Lamb_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Symbolism_of_the_Lamb_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Symbolism_of_the_Lamb_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Symbolism_of_the_Lamb_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

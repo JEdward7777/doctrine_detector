@@ -25,7 +25,7 @@ In considering these examples, it is essential to recognize that the concept of 
 I hope this nuanced approach helps us navigate this complex topic while maintaining respect for all individuals, regardless of their beliefs, identities, or backgrounds.
 
 ## Average Grade
-85.0
+82.5
 
 ## Grades
  * [90.0](./Biblical_Examples_of_Transgression_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ I hope this nuanced approach helps us navigate this complex topic while maintain
  * [80.0](./Biblical_Examples_of_Transgression_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Biblical_Examples_of_Transgression_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_Examples_of_Transgression_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Biblical_Examples_of_Transgression_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -47,7 +47,7 @@ These biblical passages illustrate various aspects of restoration, including:
 As an atheist, I can acknowledge the cultural significance of these themes in religious contexts. However, I do not subscribe to any supernatural or divine explanations for restoration. Instead, I believe that humans have always sought ways to repair and renew themselves, their relationships, and their environments through various forms of art, literature, philosophy, and culture.
 
 ## Average Grade
-87.0
+75.83333333333333
 
 ## Grades
  * [85.0](./Scriptural_References_to_Restoration_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -55,3 +55,4 @@ As an atheist, I can acknowledge the cultural significance of these themes in re
  * [90.0](./Scriptural_References_to_Restoration_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Scriptural_References_to_Restoration_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Scriptural_References_to_Restoration_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./Scriptural_References_to_Restoration_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

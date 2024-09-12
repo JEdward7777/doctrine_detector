@@ -29,7 +29,7 @@ When translating "predestined," it's essential to consider the broader context a
 In my opinion, a balanced translation should aim to convey God's sovereignty, plan, and purpose while also acknowledging human agency and responsibility. By doing so, we can provide a more nuanced understanding of God's character and our place in His story.
 
 ## Average Grade
-90.0
+88.33333333333333
 
 ## Grades
  * [90.0](./Translation_of_Predestine_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ In my opinion, a balanced translation should aim to convey God's sovereignty, pl
  * [90.0](./Translation_of_Predestine_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Translation_of_Predestine_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Translation_of_Predestine_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Translation_of_Predestine_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

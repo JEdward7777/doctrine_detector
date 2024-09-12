@@ -25,7 +25,7 @@ In this sense, when God calls us by name, it's not just about recognition or ack
 As Christians, we can take comfort in knowing that God has a personal stake in our lives and has called us by name for a specific purpose. This understanding should inspire us to live out our faith with intentionality, confidence, and humility, as we seek to fulfill the mission He has given us.
 
 ## Average Grade
-94.0
+93.33333333333333
 
 ## Grades
  * [95.0](./Understanding_God_s_Call_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ As Christians, we can take comfort in knowing that God has a personal stake in o
  * [95.0](./Understanding_God_s_Call_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_God_s_Call_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Understanding_God_s_Call_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Understanding_God_s_Call_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

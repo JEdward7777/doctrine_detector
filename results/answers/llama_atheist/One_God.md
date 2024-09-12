@@ -26,7 +26,7 @@ As an atheist scholar, I must acknowledge that the concept of "one God" is a pro
 By adopting these approaches, we can create a more inclusive and culturally sensitive understanding of "one God" that respects the diversity of human experiences and perspectives.
 
 ## Average Grade
-38.0
+40.0
 
 ## Grades
  * [30.0](./One_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,3 +34,4 @@ By adopting these approaches, we can create a more inclusive and culturally sens
  * [50.0](./One_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [40.0](./One_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [20.0](./One_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./One_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

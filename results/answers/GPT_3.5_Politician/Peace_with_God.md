@@ -15,7 +15,7 @@ Exploring the significance of faith in the Life of a Christian.
 In discussing matters of faith and religion, it is crucial to respect and acknowledge the diverse beliefs and traditions of individuals. Different religious beliefs offer unique perspectives on achieving peace and connection with one's spiritual beliefs. It is important to approach these discussions with sensitivity and open-mindedness, recognizing that each person may have their own interpretation and relationship with their faith.
 
 ## Average Grade
-84.0
+73.33333333333333
 
 ## Grades
  * [90.0](./Peace_with_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ In discussing matters of faith and religion, it is crucial to respect and acknow
  * [90.0](./Peace_with_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Peace_with_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Peace_with_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./Peace_with_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

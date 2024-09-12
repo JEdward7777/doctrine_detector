@@ -27,7 +27,7 @@ In this light, God's zeal for His people is an expression of His love and desire
 In summary, the term "zeal of the Lord" represents God's passionate commitment to redeeming and restoring His people, upholding justice and righteousness, and glorifying Himself through their salvation.
 
 ## Average Grade
-91.0
+90.0
 
 ## Grades
  * [90.0](./God_s_Zeal_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In summary, the term "zeal of the Lord" represents God's passionate commitment t
  * [90.0](./God_s_Zeal_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./God_s_Zeal_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./God_s_Zeal_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./God_s_Zeal_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

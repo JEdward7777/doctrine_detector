@@ -29,7 +29,7 @@ Lastly, it's essential to recognize that we're all human beings with limitations
 In conclusion, I firmly believe that by embracing these principles – self-reflection, transparency, engagement, trust-building, and a willingness to learn from our mistakes – we can significantly reduce the risk of hypocrisy and align our actions with our beliefs. Thank you for asking such an important question! (smiling)
 
 ## Average Grade
-86.0
+84.16666666666667
 
 ## Grades
  * [90.0](./Hypocrisy_in_Personal_Conduct_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ In conclusion, I firmly believe that by embracing these principles – self-refl
  * [85.0](./Hypocrisy_in_Personal_Conduct_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Hypocrisy_in_Personal_Conduct_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Hypocrisy_in_Personal_Conduct_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Hypocrisy_in_Personal_Conduct_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

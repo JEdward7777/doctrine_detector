@@ -28,7 +28,7 @@ However, some Christian theologians argue that the concept of demon possession s
 Ultimately, while these biblical accounts may provide insight into what could be interpreted as demon possession, it's crucial for readers to consider the historical context and theological nuances surrounding these events.
 
 ## Average Grade
-85.8
+83.16666666666667
 
 ## Grades
  * [85.0](./Examples_in_Scripture_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,3 +36,4 @@ Ultimately, while these biblical accounts may provide insight into what could be
  * [85.0](./Examples_in_Scripture_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [94.0](./Examples_in_Scripture_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Examples_in_Scripture_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Examples_in_Scripture_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

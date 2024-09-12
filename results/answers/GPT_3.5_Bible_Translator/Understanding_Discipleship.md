@@ -19,7 +19,7 @@ Being a disciple of Jesus also involves a personal relationship with Him, throug
 Ultimately, being a disciple of Jesus is not just about being a follower or a student, but about being a devoted servant and ambassador of the Kingdom of God, spreading the message of salvation and making disciples of all nations (Matthew 28:19-20). It is a lifelong journey of faith, obedience, and transformation, empowered by the grace of God and the work of the Holy Spirit in our lives.
 
 ## Average Grade
-93.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Understanding_Discipleship_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Ultimately, being a disciple of Jesus is not just about being a follower or a st
  * [95.0](./Understanding_Discipleship_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_Discipleship_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Discipleship_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Understanding_Discipleship_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

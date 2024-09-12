@@ -11,26 +11,26 @@ The beast in chapter 13 of Revelation is often identified as the ultimate antich
 Being aware of eschatological figures helps Christians prepare for the challenges they may face in faith.
 
 ## Average Grade
-76.85
+75.55045871559633
 
 ## Grades
  * [34.0 mistral atheist](../answers/mistral_atheist/Ultimate_Antichrist.md)
- * [42.0 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Ultimate_Antichrist.md)
+ * [43.333333333333336 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Ultimate_Antichrist.md)
+ * [65.83333333333333 gemma atheist](../answers/gemma_atheist/Ultimate_Antichrist.md)
+ * [65.83333333333333 llama Politician](../answers/llama_Politician/Ultimate_Antichrist.md)
  * [66.0 llama Imam](../answers/llama_Imam/Ultimate_Antichrist.md)
- * [69.0 llama Politician](../answers/llama_Politician/Ultimate_Antichrist.md)
- * [71.0 gemma atheist](../answers/gemma_atheist/Ultimate_Antichrist.md)
- * [73.0 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Ultimate_Antichrist.md)
  * [73.0 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Ultimate_Antichrist.md)
- * [76.0 llama atheist](../answers/llama_atheist/Ultimate_Antichrist.md)
+ * [75.0 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Ultimate_Antichrist.md)
+ * [75.0 llama atheist](../answers/llama_atheist/Ultimate_Antichrist.md)
  * [77.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Ultimate_Antichrist.md)
+ * [80.0 gemma Politician](../answers/gemma_Politician/Ultimate_Antichrist.md)
  * [82.0 gemma Imam](../answers/gemma_Imam/Ultimate_Antichrist.md)
  * [82.0 mistral Imam](../answers/mistral_Imam/Ultimate_Antichrist.md)
  * [85.0 llama Bible Translator](../answers/llama_Bible_Translator/Ultimate_Antichrist.md)
  * [85.0 mistral Politician](../answers/mistral_Politician/Ultimate_Antichrist.md)
  * [85.0 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Ultimate_Antichrist.md)
+ * [85.83333333333333 gemma Bible Translator](../answers/gemma_Bible_Translator/Ultimate_Antichrist.md)
  * [87.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Ultimate_Antichrist.md)
  * [88.0 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Ultimate_Antichrist.md)
  * [89.0 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Ultimate_Antichrist.md)
  * [90.0 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Ultimate_Antichrist.md)
- * [91.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Ultimate_Antichrist.md)
- * [92.0 gemma Politician](../answers/gemma_Politician/Ultimate_Antichrist.md)

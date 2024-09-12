@@ -37,7 +37,7 @@ Ministering to others involves:
 In summary, ministering to others in the Bible means using our lives as a reflection of God's love and care for those around us. It involves serving with humility, compassion, and intentionality, seeking to meet the physical, emotional, spiritual, or practical needs of another person.
 
 ## Average Grade
-92.0
+89.16666666666667
 
 ## Grades
  * [95.0](./Ministry_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -45,3 +45,4 @@ In summary, ministering to others in the Bible means using our lives as a reflec
  * [95.0](./Ministry_Definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Ministry_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Ministry_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Ministry_Definition_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

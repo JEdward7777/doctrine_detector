@@ -32,7 +32,7 @@ While ordinary priests held important roles within the Temple, their authority w
 It's worth noting that this distinction is also reflected in Jesus' interactions with the two types of priests. In the New Testament, Jesus often confronts the chief priests and scribes (experts in Jewish law) for their spiritual and moral failures, whereas he seems to have a more nuanced relationship with ordinary priests like Zachariah (Luke 1:5-23).
 
 ## Average Grade
-89.0
+89.16666666666667
 
 ## Grades
  * [95.0](./Chief_Priests__Authority_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -40,3 +40,4 @@ It's worth noting that this distinction is also reflected in Jesus' interactions
  * [90.0](./Chief_Priests__Authority_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Chief_Priests__Authority_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Chief_Priests__Authority_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Chief_Priests__Authority_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

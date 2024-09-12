@@ -19,7 +19,7 @@ In the New Testament, Jesus referred to Himself as the "true bread from heaven" 
 Ultimately, the term "manna" symbolizes God's ongoing faithfulness and provision for His people, both physically and spiritually. It reminds us that God is always there to meet our needs and provide for us, just as He did for the Israelites in the wilderness.
 
 ## Average Grade
-93.0
+91.66666666666667
 
 ## Grades
  * [90.0](./Symbolism_of_Manna_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Ultimately, the term "manna" symbolizes God's ongoing faithfulness and provision
  * [95.0](./Symbolism_of_Manna_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Symbolism_of_Manna_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Symbolism_of_Manna_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Symbolism_of_Manna_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

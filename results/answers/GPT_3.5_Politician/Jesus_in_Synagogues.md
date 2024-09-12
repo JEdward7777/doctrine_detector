@@ -15,7 +15,7 @@ Recognizing the significance of Jesus' actions in synagogues as part of His mini
 In accordance with respectful dialogue and engagement among different religious communities, Jesus interacted with the synagogue during His ministry in a manner that reflected mutual understanding and inclusivity. He utilized the synagogue as a platform for teaching, discussion, and sharing spiritual insights with those present. His approach focused on fostering unity, compassion, and a shared sense of humanity among all individuals, regardless of their religious backgrounds. Additionally, Jesus emphasized the importance of embracing diversity and respecting varying beliefs within the community.
 
 ## Average Grade
-85.4
+79.5
 
 ## Grades
  * [92.0](./Jesus_in_Synagogues_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ In accordance with respectful dialogue and engagement among different religious 
  * [85.0](./Jesus_in_Synagogues_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Jesus_in_Synagogues_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Jesus_in_Synagogues_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Jesus_in_Synagogues_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

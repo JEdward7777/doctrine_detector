@@ -31,7 +31,7 @@ It seems that both groups were driven by a desire to protect their own interests
 In conclusion, the Sadducees and Pharisees played significant roles in Jesus' crucifixion, but it's essential to approach this topic with sensitivity and avoid making hasty judgments. By acknowledging the complexities of human nature and the historical context, we can work towards greater understanding and mutual respect between people of different faiths and backgrounds.
 
 ## Average Grade
-82.0
+76.66666666666667
 
 ## Grades
  * [85.0](./Influence_on_Jesus__Crucifixion_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,3 +39,4 @@ In conclusion, the Sadducees and Pharisees played significant roles in Jesus' cr
  * [80.0](./Influence_on_Jesus__Crucifixion_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Influence_on_Jesus__Crucifixion_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Influence_on_Jesus__Crucifixion_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Influence_on_Jesus__Crucifixion_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

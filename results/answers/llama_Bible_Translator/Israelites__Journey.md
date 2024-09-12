@@ -40,7 +40,7 @@ The Israelites' journey to the Promised Land showcases God's faithfulness in thr
 The journey of the Israelites serves as a powerful reminder of God's faithfulness to His promises, His guidance and protection, and His mercy and patience. These truths are still applicable today, as we trust in God's reliability and seek to follow Him faithfully.
 
 ## Average Grade
-93.0
+91.66666666666667
 
 ## Grades
  * [90.0](./Israelites__Journey_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -48,3 +48,4 @@ The journey of the Israelites serves as a powerful reminder of God's faithfulnes
  * [90.0](./Israelites__Journey_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Israelites__Journey_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Israelites__Journey_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Israelites__Journey_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

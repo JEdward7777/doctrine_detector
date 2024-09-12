@@ -11,26 +11,26 @@ In a Christian context, 'adultery' is defined as a sin where a married person en
 Understanding the Biblical definition and implications of adultery.
 
 ## Average Grade
-89.42
+87.40366972477064
 
 ## Grades
- * [75.0 gemma atheist](../answers/gemma_atheist/Definition_Clarity.md)
+ * [65.83333333333333 gemma atheist](../answers/gemma_atheist/Definition_Clarity.md)
+ * [75.83333333333333 llama Politician](../answers/llama_Politician/Definition_Clarity.md)
+ * [76.66666666666667 gemma Politician](../answers/gemma_Politician/Definition_Clarity.md)
  * [79.0 gemma Imam](../answers/gemma_Imam/Definition_Clarity.md)
- * [83.0 llama Politician](../answers/llama_Politician/Definition_Clarity.md)
+ * [83.33333333333333 llama atheist](../answers/llama_atheist/Definition_Clarity.md)
  * [85.0 mistral Imam](../answers/mistral_Imam/Definition_Clarity.md)
- * [88.0 gemma Politician](../answers/gemma_Politician/Definition_Clarity.md)
- * [88.0 llama atheist](../answers/llama_atheist/Definition_Clarity.md)
  * [88.0 llama Imam](../answers/llama_Imam/Definition_Clarity.md)
+ * [90.0 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Definition_Clarity.md)
  * [91.0 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Definition_Clarity.md)
  * [91.4 mistral Politician](../answers/mistral_Politician/Definition_Clarity.md)
- * [92.0 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Definition_Clarity.md)
- * [92.0 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Definition_Clarity.md)
- * [92.0 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Definition_Clarity.md)
+ * [91.66666666666667 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Definition_Clarity.md)
  * [92.0 mistral atheist](../answers/mistral_atheist/Definition_Clarity.md)
  * [92.0 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Definition_Clarity.md)
  * [92.0 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Definition_Clarity.md)
  * [92.0 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Definition_Clarity.md)
- * [93.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Definition_Clarity.md)
+ * [92.5 gemma Bible Translator](../answers/gemma_Bible_Translator/Definition_Clarity.md)
+ * [92.5 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Definition_Clarity.md)
  * [93.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Definition_Clarity.md)
  * [93.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Definition_Clarity.md)
- * [97.0 llama Bible Translator](../answers/llama_Bible_Translator/Definition_Clarity.md)
+ * [95.83333333333333 llama Bible Translator](../answers/llama_Bible_Translator/Definition_Clarity.md)

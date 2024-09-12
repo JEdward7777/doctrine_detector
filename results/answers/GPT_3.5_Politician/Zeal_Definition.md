@@ -15,7 +15,7 @@ Understanding the biblical context of zeal is essential for proper application i
 In the context of Christian teachings, having zeal typically refers to being passionately committed to following the teachings of Jesus Christ and spreading love, kindness, and understanding to others. It involves showing dedication, fervor, and enthusiasm in one's faith and in living out the principles of compassion and charity that are central to Christianity. It is important to approach the concept of zeal with respect for the diverse interpretations and beliefs within the Christian community.
 
 ## Average Grade
-86.0
+85.0
 
 ## Grades
  * [85.0](./Zeal_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ In the context of Christian teachings, having zeal typically refers to being pas
  * [90.0](./Zeal_Definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Zeal_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Zeal_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Zeal_Definition_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

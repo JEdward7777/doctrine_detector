@@ -21,7 +21,7 @@ When considering the concept of stoning in relation to God's justice and mercy, 
 As an atheistic scholar, one may question the morality and ethics of using such drastic measures to address wrongdoings, especially when considering the disproportionate impact on marginalized individuals and the absence of a rehabilitative approach. It is essential to approach ancient texts with a critical and empathetic lens, recognizing the complexities of interpreting and applying religious laws in a modern and diverse society.
 
 ## Average Grade
-81.0
+74.16666666666667
 
 ## Grades
  * [60.0](./Stoning_as_Punishment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ As an atheistic scholar, one may question the morality and ethics of using such 
  * [90.0](./Stoning_as_Punishment_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Stoning_as_Punishment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Stoning_as_Punishment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Stoning_as_Punishment_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

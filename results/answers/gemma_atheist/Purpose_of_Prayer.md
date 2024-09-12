@@ -57,7 +57,7 @@ Recognizing the multifaceted role of prayer in a believer's life.
 * As an atheist scholar, I recognize the cultural and psychological significance of prayer, even if I do not personally subscribe to its religious efficacy.
 
 ## Average Grade
-81.0
+80.0
 
 ## Grades
  * [80.0](./Purpose_of_Prayer_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -65,3 +65,4 @@ Recognizing the multifaceted role of prayer in a believer's life.
  * [90.0](./Purpose_of_Prayer_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Purpose_of_Prayer_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Purpose_of_Prayer_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Purpose_of_Prayer_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

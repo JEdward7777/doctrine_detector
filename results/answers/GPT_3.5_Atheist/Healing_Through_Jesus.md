@@ -21,7 +21,7 @@ Jesus' healing miracles were not only seen as acts of compassion towards the aff
 It is worth noting that these accounts of demon possession and healing should be understood within the cultural and religious context of the time, and interpreted through a critical and historical lens. The understanding of demon possession and exorcism in the ancient world was different from modern scientific and psychological perspectives, and it is important to approach these stories with a nuanced understanding of their cultural significance.
 
 ## Average Grade
-88.0
+85.0
 
 ## Grades
  * [90.0](./Healing_Through_Jesus_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ It is worth noting that these accounts of demon possession and healing should be
  * [85.0](./Healing_Through_Jesus_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Healing_Through_Jesus_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Healing_Through_Jesus_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Healing_Through_Jesus_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -11,26 +11,26 @@ In the Bible, redemption refers to the act of Jesus paying the price for human s
 Understanding the significance of redemption in Christian faith.
 
 ## Average Grade
-85.35
+85.0925925925926
 
 ## Grades
  * [62.0 mistral Imam](../answers/mistral_Imam/Redemption_Concept.md)
- * [76.0 llama atheist](../answers/llama_atheist/Redemption_Concept.md)
+ * [71.66666666666667 llama atheist](../answers/llama_atheist/Redemption_Concept.md)
  * [79.0 llama Imam](../answers/llama_Imam/Redemption_Concept.md)
  * [80.0 mistral Politician](../answers/mistral_Politician/Redemption_Concept.md)
  * [80.0 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Redemption_Concept.md)
  * [84.0 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Redemption_Concept.md)
  * [84.0 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Redemption_Concept.md)
- * [86.0 gemma atheist](../answers/gemma_atheist/Redemption_Concept.md)
- * [87.0 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Redemption_Concept.md)
+ * [85.83333333333333 gemma atheist](../answers/gemma_atheist/Redemption_Concept.md)
+ * [86.66666666666667 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Redemption_Concept.md)
  * [87.0 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Redemption_Concept.md)
- * [89.0 gemma Politician](../answers/gemma_Politician/Redemption_Concept.md)
- * [89.0 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Redemption_Concept.md)
+ * [88.33333333333333 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Redemption_Concept.md)
+ * [88.33333333333333 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Redemption_Concept.md)
  * [89.0 llama Politician](../answers/llama_Politician/Redemption_Concept.md)
  * [89.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Redemption_Concept.md)
  * [89.0 gemma Imam](../answers/gemma_Imam/Redemption_Concept.md)
- * [90.0 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Redemption_Concept.md)
- * [91.0 llama Bible Translator](../answers/llama_Bible_Translator/Redemption_Concept.md)
+ * [89.16666666666667 gemma Politician](../answers/gemma_Politician/Redemption_Concept.md)
+ * [90.83333333333333 llama Bible Translator](../answers/llama_Bible_Translator/Redemption_Concept.md)
  * [91.0 mistral atheist](../answers/mistral_atheist/Redemption_Concept.md)
  * [92.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Redemption_Concept.md)
- * [93.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Redemption_Concept.md)
+ * [92.5 gemma Bible Translator](../answers/gemma_Bible_Translator/Redemption_Concept.md)

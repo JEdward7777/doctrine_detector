@@ -23,7 +23,7 @@ There are several scriptural references that support the concept of being blamel
 Being blameless as a Christian means living a life that is in alignment with the teachings and character of Jesus Christ. It involves avoiding sin, living a life of integrity, and striving for holiness. These scriptures guide a Christian's life by reminding them of the standard of righteousness set by God and encouraging them to pursue a life of purity and holiness. Through prayer, regular reflection on the Word of God, and reliance on the Holy Spirit, a Christian can seek to live blamelessly before God and others, reflecting the love and grace of Christ in all areas of their life.
 
 ## Average Grade
-89.0
+87.5
 
 ## Grades
  * [90.0](./Scriptural_References_8_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ Being blameless as a Christian means living a life that is in alignment with the
  * [90.0](./Scriptural_References_8_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Scriptural_References_8_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Scriptural_References_8_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Scriptural_References_8_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -15,7 +15,7 @@ Understanding the contrast between worldly values and godly principles.
 In Christian teachings, the term "worldly" is often used to describe attitudes or behaviors that prioritize material possessions, status, or pleasure over spiritual values and principles. It can also refer to an excessive focus on secular concerns rather than on matters of faith and morality. Christians are encouraged to be mindful of these potential temptations and to prioritize humility, compassion, and faith in their lives.
 
 ## Average Grade
-81.0
+79.16666666666667
 
 ## Grades
  * [85.0](./Understanding_Worldly_Values_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ In Christian teachings, the term "worldly" is often used to describe attitudes o
  * [85.0](./Understanding_Worldly_Values_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Understanding_Worldly_Values_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Understanding_Worldly_Values_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Understanding_Worldly_Values_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -19,7 +19,7 @@ Revelation 20:10 describes hell as a place where the devil, the beast, and the f
 However, the Bible also teaches that God desires for all people to be saved and to come to a knowledge of the truth (1 Timothy 2:3-4). God's love and mercy are always available to those who turn to Him in repentance and faith. While hell is a real and serious consequence for those who reject God, His desire is for all to be saved through faith in Jesus Christ (John 3:16).
 
 ## Average Grade
-92.0
+90.83333333333333
 
 ## Grades
  * [95.0](./Nature_of_Hell_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ However, the Bible also teaches that God desires for all people to be saved and 
  * [95.0](./Nature_of_Hell_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Nature_of_Hell_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Nature_of_Hell_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Nature_of_Hell_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

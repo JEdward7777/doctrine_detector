@@ -19,7 +19,7 @@ In the context of the New Testament, calling Jesus the 'Son of God' indicates hi
 Ultimately, the title 'Son of God' underscores the profound mystery of the Trinity - the three Persons of the Godhead in perfect unity and harmony. Jesus, as the Son, is the perfect revelation of the Father and the means through which humanity can be reconciled to God.
 
 ## Average Grade
-93.0
+89.16666666666667
 
 ## Grades
  * [95.0](./Son_of_God_Understanding_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Ultimately, the title 'Son of God' underscores the profound mystery of the Trini
  * [95.0](./Son_of_God_Understanding_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Son_of_God_Understanding_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Son_of_God_Understanding_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Son_of_God_Understanding_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

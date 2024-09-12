@@ -21,7 +21,7 @@ Similarly, early Christians faced opposition from the Pharisees, who viewed them
 Overall, the Pharisees' rigid adherence to the Laws of Moses created a barrier between them and Jesus and early Christians, as they struggled to accept the new understanding of righteousness and salvation brought by Jesus.
 
 ## Average Grade
-91.0
+90.83333333333333
 
 ## Grades
  * [90.0](./Pharisees__Influence_on_Jewish_Law_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Overall, the Pharisees' rigid adherence to the Laws of Moses created a barrier b
  * [95.0](./Pharisees__Influence_on_Jewish_Law_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Pharisees__Influence_on_Jewish_Law_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Pharisees__Influence_on_Jewish_Law_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Pharisees__Influence_on_Jewish_Law_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

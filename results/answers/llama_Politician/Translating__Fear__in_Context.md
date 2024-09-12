@@ -24,7 +24,7 @@ You see, understanding these various interpretations of "fear" in relation to Go
 As a politician, I believe it's essential to recognize that our words and actions have the power to either unite or divide us. By embracing a nuanced understanding of "fear" in relation to God, we can create a more inclusive and respectful discourse that honors the diversity of human experience while also acknowledging our shared humanity.
 
 ## Average Grade
-78.0
+73.33333333333333
 
 ## Grades
  * [80.0](./Translating__Fear__in_Context_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,3 +32,4 @@ As a politician, I believe it's essential to recognize that our words and action
  * [75.0](./Translating__Fear__in_Context_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Translating__Fear__in_Context_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Translating__Fear__in_Context_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Translating__Fear__in_Context_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

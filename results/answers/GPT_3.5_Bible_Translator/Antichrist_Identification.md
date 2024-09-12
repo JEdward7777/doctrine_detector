@@ -15,7 +15,7 @@ Understanding the traits of antichrists helps Christians recognize and resist fa
 According to the apostle John in 1 John 4:3, a person is defined as an antichrist if they deny the truth about Jesus Christ, specifically denying that Jesus is the Christ, denying that He came in the flesh, or denying that He is the Son of God.
 
 ## Average Grade
-88.0
+89.16666666666667
 
 ## Grades
  * [95.0](./Antichrist_Identification_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ According to the apostle John in 1 John 4:3, a person is defined as an antichris
  * [90.0](./Antichrist_Identification_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Antichrist_Identification_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Antichrist_Identification_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [95.0](./Antichrist_Identification_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

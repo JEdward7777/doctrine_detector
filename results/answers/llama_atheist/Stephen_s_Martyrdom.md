@@ -31,7 +31,7 @@ Challenges faced by early believers:
 In conclusion, the stoning of Stephen is a pivotal event in the early Christian church, revealing the growing tensions between Christianity and Jewish authorities, as well as the challenges faced by early believers. This episode highlights the bravery and resilience of the earliest Christians, who were willing to face persecution and even death for their faith.
 
 ## Average Grade
-79.0
+75.83333333333333
 
 ## Grades
  * [85.0](./Stephen_s_Martyrdom_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,3 +39,4 @@ In conclusion, the stoning of Stephen is a pivotal event in the early Christian 
  * [70.0](./Stephen_s_Martyrdom_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Stephen_s_Martyrdom_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Stephen_s_Martyrdom_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Stephen_s_Martyrdom_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

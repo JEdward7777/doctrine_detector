@@ -19,7 +19,7 @@ The consequences of committing adultery can have far-reaching effects, including
 However, the Bible also teaches about the importance of forgiveness and redemption. Through repentance and seeking forgiveness from God and others, individuals can be restored and renewed in their relationships. God's grace and mercy are available to all who truly repent and turn away from their sin (1 John 1:9).
 
 ## Average Grade
-92.0
+90.83333333333333
 
 ## Grades
  * [95.0](./Understanding_Adultery_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ However, the Bible also teaches about the importance of forgiveness and redempti
  * [90.0](./Understanding_Adultery_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_Adultery_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Adultery_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Understanding_Adultery_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

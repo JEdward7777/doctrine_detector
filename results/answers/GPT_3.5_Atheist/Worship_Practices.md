@@ -23,7 +23,7 @@ Lastly, the idolization of celebrities can also distract individuals from their 
 Overall, idols in modern society can take many forms and can lead individuals away from a deep and meaningful relationship with the one true God. It is important for Christians to reflect on their priorities and ensure that their faith remains at the center of their lives.
 
 ## Average Grade
-81.0
+75.83333333333333
 
 ## Grades
  * [75.0](./Worship_Practices_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ Overall, idols in modern society can take many forms and can lead individuals aw
  * [85.0](./Worship_Practices_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Worship_Practices_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Worship_Practices_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Worship_Practices_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

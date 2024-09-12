@@ -27,7 +27,7 @@ Now, I must clarify that, in the biblical context, finding favor is not solely d
 I hope that answers your question! *nervous smile*
 
 ## Average Grade
-87.0
+87.5
 
 ## Grades
  * [85.0](./Finding_Favor_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ I hope that answers your question! *nervous smile*
  * [90.0](./Finding_Favor_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Finding_Favor_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Finding_Favor_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Finding_Favor_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

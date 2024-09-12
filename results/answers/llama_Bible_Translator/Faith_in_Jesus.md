@@ -32,7 +32,7 @@ As Paul wrote to the Galatians, "For as I have often told you, since we came int
 To believe in Jesus means to take hold of this eternal life and all its implications - a journey of transformation, growth, and glorification in Christ!
 
 ## Average Grade
-92.8
+93.16666666666667
 
 ## Grades
  * [95.0](./Faith_in_Jesus_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -40,3 +40,4 @@ To believe in Jesus means to take hold of this eternal life and all its implicat
  * [95.0](./Faith_in_Jesus_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Faith_in_Jesus_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Faith_in_Jesus_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [95.0](./Faith_in_Jesus_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

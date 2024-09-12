@@ -23,7 +23,7 @@ This connection between Jesus and the Passover lamb is significant because it hi
 In this sense, Christians may view Passover as an anticipation or foreshadowing of Jesus' eventual sacrifice, which would lead to his resurrection and the ultimate redemption of humanity.
 
 ## Average Grade
-90.0
+85.0
 
 ## Grades
  * [90.0](./Passover_Significance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ In this sense, Christians may view Passover as an anticipation or foreshadowing 
  * [95.0](./Passover_Significance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Passover_Significance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Passover_Significance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Passover_Significance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

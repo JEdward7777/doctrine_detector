@@ -21,7 +21,7 @@ It would be inaccurate to imply that one group had absolute authority over anoth
 As a politician, I believe in promoting unity, understanding, and respect for all individuals, regardless of their religious beliefs or affiliations. By avoiding language that might create divisions or hierarchies, we can foster a culture of inclusivity and cooperation.
 
 ## Average Grade
-85.0
+79.16666666666667
 
 ## Grades
  * [90.0](./Chief_Priests__Authority_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ As a politician, I believe in promoting unity, understanding, and respect for al
  * [80.0](./Chief_Priests__Authority_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Chief_Priests__Authority_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Chief_Priests__Authority_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Chief_Priests__Authority_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

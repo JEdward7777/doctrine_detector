@@ -44,7 +44,7 @@ Christians should recognize the seriousness of defiling God's sacred spaces and 
 The significance of the 'abomination of desolation' is a complex and multifaceted issue with various interpretations. Understanding the different perspectives and interpretations can help Christians better understand the prophecies in the Bible and prepare for the future.
 
 ## Average Grade
-82.0
+78.33333333333333
 
 ## Grades
  * [85.0](./Abomination_of_Desolation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -52,3 +52,4 @@ The significance of the 'abomination of desolation' is a complex and multifacete
  * [85.0](./Abomination_of_Desolation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Abomination_of_Desolation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Abomination_of_Desolation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Abomination_of_Desolation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

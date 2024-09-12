@@ -25,7 +25,7 @@ As we explore these verses further, let's strive to do so in a way that respects
 In conclusion, passages like Psalm 91:1-2 and Isaiah 14:14 offer valuable insights into God's character as the "Most High." As we delve deeper into these verses, let's prioritize sensitivity to others' beliefs and backgrounds, aiming to build bridges of understanding rather than create divisions.
 
 ## Average Grade
-88.0
+83.33333333333333
 
 ## Grades
  * [90.0](./Biblical_References_to_the_Most_High_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ In conclusion, passages like Psalm 91:1-2 and Isaiah 14:14 offer valuable insigh
  * [85.0](./Biblical_References_to_the_Most_High_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Biblical_References_to_the_Most_High_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_References_to_the_Most_High_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Biblical_References_to_the_Most_High_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

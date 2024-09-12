@@ -55,7 +55,7 @@ Clarifying the meaning of biblical texts in relation to the concept of being cho
 The changing translation of "elect" reflects the evolution of English Bible interpretation and the desire to balance theological concepts with broader audience comprehension and sensitivity. While older versions emphasize God's sovereignty, modern translations prioritize clarity and inclusivity while addressing the sensitive issue of predestination.
 
 ## Average Grade
-84.0
+84.16666666666667
 
 ## Grades
  * [85.0](./Translation_of__Elect__grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -63,3 +63,4 @@ The changing translation of "elect" reflects the evolution of English Bible inte
  * [85.0](./Translation_of__Elect__grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Translation_of__Elect__grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Translation_of__Elect__grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Translation_of__Elect__grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

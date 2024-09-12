@@ -27,7 +27,7 @@ In conclusion, the story of the Jewish religious leaders' rejection of Jesus is 
 Let's strive to create a climate where diverse perspectives can be explored and respected, even when we disagree. By doing so, we can build bridges of understanding that span the centuries and bring us closer together in our shared quest for truth, wisdom, and spiritual growth.
 
 ## Average Grade
-73.0
+69.16666666666667
 
 ## Grades
  * [75.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ Let's strive to create a climate where diverse perspectives can be explored and 
  * [65.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

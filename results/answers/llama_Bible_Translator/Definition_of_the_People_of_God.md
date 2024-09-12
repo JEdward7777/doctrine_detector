@@ -32,7 +32,7 @@ Throughout Israel's history, this people-of-God identity was marked by:
 In the New Testament, Jesus Christ is seen as the ultimate fulfillment of God's covenant with Israel. Through His death and resurrection, He offers salvation to all nations, including Gentiles (non-Jews), who can become part of the people of God by faith in Him (Galatians 3:26-29; Ephesians 2:11-22). This new covenant relationship is characterized by a personal connection with God through Jesus Christ and the Holy Spirit.
 
 ## Average Grade
-88.4
+88.66666666666667
 
 ## Grades
  * [95.0](./Definition_of_the_People_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -40,3 +40,4 @@ In the New Testament, Jesus Christ is seen as the ultimate fulfillment of God's 
  * [92.0](./Definition_of_the_People_of_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Definition_of_the_People_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Definition_of_the_People_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Definition_of_the_People_of_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

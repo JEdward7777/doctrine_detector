@@ -24,7 +24,7 @@ In many cases, the term "beloved" might not resonate with everyone, especially t
 Ultimately, as we strive to create a more compassionate and equitable society, it's essential that our language reflects our values of respect, empathy, and understanding. By offering these alternative translations, we can work towards a culture where everyone feels seen, heard, and valued.
 
 ## Average Grade
-72.0
+70.0
 
 ## Grades
  * [75.0](./Translations_of_Beloved_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,3 +32,4 @@ Ultimately, as we strive to create a more compassionate and equitable society, i
  * [85.0](./Translations_of_Beloved_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [30.0](./Translations_of_Beloved_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Translations_of_Beloved_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Translations_of_Beloved_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

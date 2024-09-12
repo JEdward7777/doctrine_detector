@@ -42,7 +42,7 @@ It is crucial to approach the concept of ministry with cultural sensitivity and 
 Fulfilling a ministry is not limited to traditional religious practices. It is about serving others, building community, and making a positive impact on the world. By approaching the concept from a culturally sensitive and humanistic perspective, we can create a more inclusive and equitable society.
 
 ## Average Grade
-34.0
+31.666666666666668
 
 ## Grades
  * [40.0](./Ministry_Fulfillment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -50,3 +50,4 @@ Fulfilling a ministry is not limited to traditional religious practices. It is a
  * [20.0](./Ministry_Fulfillment_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [30.0](./Ministry_Fulfillment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Ministry_Fulfillment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./Ministry_Fulfillment_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

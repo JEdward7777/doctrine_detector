@@ -25,7 +25,7 @@ Of course, it's crucial to recognize that the role of synagogues has evolved ove
 I hope this thoughtful and nuanced response honors the rich history and cultural significance of synagogues in ancient Jewish communities!
 
 ## Average Grade
-87.0
+84.16666666666667
 
 ## Grades
  * [85.0](./Synagogue_Purpose_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ I hope this thoughtful and nuanced response honors the rich history and cultural
  * [90.0](./Synagogue_Purpose_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Synagogue_Purpose_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Synagogue_Purpose_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Synagogue_Purpose_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -26,7 +26,7 @@ The significance of anointing can be seen in several ways:
 In conclusion, the anointing of Old Testament priests, kings, and prophets represented a profound expression of God's involvement in human affairs. It conveyed divine authority, purity, empowerment, and the symbolization of God's Spirit. As we navigate our own roles and responsibilities, may we draw inspiration from this ancient practice and seek to be vessels for God's presence in our lives.
 
 ## Average Grade
-93.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Significance_of_Anointing_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,3 +34,4 @@ In conclusion, the anointing of Old Testament priests, kings, and prophets repre
  * [95.0](./Significance_of_Anointing_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Significance_of_Anointing_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Significance_of_Anointing_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Significance_of_Anointing_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

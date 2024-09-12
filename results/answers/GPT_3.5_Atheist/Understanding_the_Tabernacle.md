@@ -15,7 +15,7 @@ Understanding the role of the tabernacle in the Israelites' relationship with Go
 The tabernacle served as a portable sanctuary for the Israelites during their time in the desert. It was a central place for worship, where sacrifices could be offered and where the presence of God was believed to dwell. The tabernacle was designed to symbolize the presence of God among the Israelites and to provide a focal point for their religious practices and rituals. It also served as a symbol of unity and identity for the Israelite community, helping to reinforce their sense of belonging and purpose during their time in the desert.
 
 ## Average Grade
-88.0
+87.5
 
 ## Grades
  * [85.0](./Understanding_the_Tabernacle_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ The tabernacle served as a portable sanctuary for the Israelites during their ti
  * [90.0](./Understanding_the_Tabernacle_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_the_Tabernacle_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_the_Tabernacle_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Understanding_the_Tabernacle_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -29,7 +29,7 @@ In essence, Jesus' parting command can be interpreted as a call to his disciples
 As an atheist scholar, I recognize that these accounts are not only theologically significant but also historically important. The question remains, however: What can we know about Jesus' actual words and actions? Given the cultural and historical context of the time, it's challenging to separate fact from fiction. Nevertheless, as a scholar, I believe it's crucial to engage with the complexities and nuances of these accounts, acknowledging both their theological significance and their place within the broader narrative of human history.
 
 ## Average Grade
-65.0
+60.833333333333336
 
 ## Grades
  * [60.0](./The_Great_Commission_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ As an atheist scholar, I recognize that these accounts are not only theologicall
  * [70.0](./The_Great_Commission_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [40.0](./The_Great_Commission_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./The_Great_Commission_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./The_Great_Commission_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

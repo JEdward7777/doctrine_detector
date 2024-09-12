@@ -23,7 +23,7 @@ In my opinion, the significance of "woe" lies not only in its literal meaning bu
 So, let's focus on promoting unity, understanding, and mutual respect, rather than perpetuating divisiveness or harmful rhetoric. And remember, my friends, that we're all in this together – as one human family, striving to build a brighter future for ourselves and for generations to come!
 
 ## Average Grade
-66.0
+60.0
 
 ## Grades
  * [60.0](./Understanding_Woe_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ So, let's focus on promoting unity, understanding, and mutual respect, rather th
  * [65.0](./Understanding_Woe_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [50.0](./Understanding_Woe_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Woe_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [30.0](./Understanding_Woe_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

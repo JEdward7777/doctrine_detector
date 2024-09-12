@@ -25,7 +25,7 @@ Now, I understand that some may have concerns or questions about the nature of e
 May I emphasize that my intention is not to proselytize or offend anyone but rather to engage in respectful dialogue and foster a culture of inclusivity and respect for all beliefs.
 
 ## Average Grade
-87.0
+83.33333333333333
 
 ## Grades
  * [90.0](./Nature_of_Eternity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ May I emphasize that my intention is not to proselytize or offend anyone but rat
  * [90.0](./Nature_of_Eternity_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Nature_of_Eternity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Nature_of_Eternity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [65.0](./Nature_of_Eternity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

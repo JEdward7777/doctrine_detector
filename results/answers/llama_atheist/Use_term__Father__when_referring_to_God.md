@@ -25,7 +25,7 @@ Ultimately, it's crucial to engage in respectful dialogue and listen to the pers
 What are your thoughts on this matter? How do you believe we should approach language and terminology when discussing God or higher powers?
 
 ## Average Grade
-50.0
+45.0
 
 ## Grades
  * [40.0](./Use_term__Father__when_referring_to_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ What are your thoughts on this matter? How do you believe we should approach lan
  * [50.0](./Use_term__Father__when_referring_to_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [30.0](./Use_term__Father__when_referring_to_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Use_term__Father__when_referring_to_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./Use_term__Father__when_referring_to_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

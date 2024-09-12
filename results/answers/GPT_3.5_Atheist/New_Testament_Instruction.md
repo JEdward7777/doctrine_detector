@@ -21,7 +21,7 @@ Additionally, the apostle Paul encouraged Christians to use the Psalms for worsh
 Overall, the New Testament presents the Psalms as a valuable resource for spiritual growth, encouragement, and understanding of God's character and promises. Christians are encouraged to engage with the Psalms as part of their devotional life and theological reflection.
 
 ## Average Grade
-90.0
+85.0
 
 ## Grades
  * [90.0](./New_Testament_Instruction_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Overall, the New Testament presents the Psalms as a valuable resource for spirit
  * [90.0](./New_Testament_Instruction_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./New_Testament_Instruction_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./New_Testament_Instruction_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./New_Testament_Instruction_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

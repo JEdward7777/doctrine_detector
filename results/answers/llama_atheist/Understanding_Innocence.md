@@ -23,7 +23,7 @@ The biblical account of Job provides a poignant example of this concept. Job, de
 In summary, according to biblical teachings, an innocent person who is wrongfully accused is someone who has remained morally pure and righteous before God, despite their circumstances. This understanding is deeply rooted in the Hebrew Scriptures and continues to influence Christian thought and tradition.
 
 ## Average Grade
-78.0
+75.0
 
 ## Grades
  * [85.0](./Understanding_Innocence_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ In summary, according to biblical teachings, an innocent person who is wrongfull
  * [80.0](./Understanding_Innocence_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Understanding_Innocence_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Understanding_Innocence_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Understanding_Innocence_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

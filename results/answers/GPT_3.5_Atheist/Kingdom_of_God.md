@@ -19,7 +19,7 @@ In this case, one could consider using a term that conveys the idea of a divine 
 Ultimately, the goal of translation is to facilitate understanding and communication, so it is important to consider the cultural context and sensitivity of the audience when rephrasing religious concepts in different languages.
 
 ## Average Grade
-28.0
+30.0
 
 ## Grades
  * [30.0](./Kingdom_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Ultimately, the goal of translation is to facilitate understanding and communica
  * [30.0](./Kingdom_of_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [20.0](./Kingdom_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Kingdom_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Kingdom_of_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

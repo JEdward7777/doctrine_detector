@@ -29,7 +29,7 @@ In practical terms, having a clear conscience means being able to:
 Having a clear conscience is not about achieving perfection but about living with integrity, acknowledging one's weaknesses, and trusting in God's grace and mercy. As believers, we can strive for a clear conscience by seeking to honor God in every aspect of life, even as we face challenges and imperfections along the way.
 
 ## Average Grade
-91.0
+87.5
 
 ## Grades
  * [90.0](./Clear_Conscience_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ Having a clear conscience is not about achieving perfection but about living wit
  * [90.0](./Clear_Conscience_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Clear_Conscience_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Clear_Conscience_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Clear_Conscience_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

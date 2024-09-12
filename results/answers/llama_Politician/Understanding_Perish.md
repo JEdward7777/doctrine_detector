@@ -25,7 +25,7 @@ Ultimately, I believe that exploring the concept of perishing encourages us to r
 Now, let's keep the conversation going in a way that honors the complexities and diversities of human experience!
 
 ## Average Grade
-53.0
+50.833333333333336
 
 ## Grades
  * [70.0](./Understanding_Perish_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ Now, let's keep the conversation going in a way that honors the complexities and
  * [60.0](./Understanding_Perish_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [30.0](./Understanding_Perish_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Perish_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Understanding_Perish_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

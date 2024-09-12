@@ -19,7 +19,7 @@ In John 3:16, it is written: "For God so loved the world that he gave his one an
 Believing in Christ also involves repentance, turning away from sin, and living a life that is centered on Christ and his teachings. It is a relationship of faith, trust, and obedience to Jesus Christ as the Lord of one's life. Ultimately, believing in Christ is the foundation of the Christian faith and the doorway to a personal relationship with God.
 
 ## Average Grade
-91.0
+89.16666666666667
 
 ## Grades
  * [90.0](./Faith_in_Christ_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Believing in Christ also involves repentance, turning away from sin, and living 
  * [95.0](./Faith_in_Christ_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Faith_in_Christ_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Faith_in_Christ_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Faith_in_Christ_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

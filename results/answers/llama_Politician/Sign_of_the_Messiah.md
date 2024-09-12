@@ -23,7 +23,7 @@ Furthermore, the sign highlights the importance of being attuned to the divine p
 So, my fellow citizens, let us strive to embody the same spirit of inclusivity and radical openness that characterized the shepherds' experience. Let us seek to create a world where all people feel seen, heard, and valued, regardless of their background or identity. And let us never forget the transformative power of God's love, which can bring joy, hope, and redemption to anyone who receives it with an open heart and mind.
 
 ## Average Grade
-82.0
+80.0
 
 ## Grades
  * [80.0](./Sign_of_the_Messiah_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ So, my fellow citizens, let us strive to embody the same spirit of inclusivity a
  * [80.0](./Sign_of_the_Messiah_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Sign_of_the_Messiah_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Sign_of_the_Messiah_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Sign_of_the_Messiah_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -19,7 +19,7 @@ This curse serves as a reminder of the brokenness and corruption that sin has br
 In Christian theology, the curse on the serpent in Genesis 3:14 is seen as a precursor to the promise of redemption and restoration through the coming of Jesus Christ. In the New Testament, Jesus is described as the one who will ultimately crush the head of the serpent (Genesis 3:15), bringing salvation and reconciliation to humanity. This curse highlights the seriousness of sin and the need for redemption, which is ultimately fulfilled through the sacrificial death and resurrection of Jesus Christ.
 
 ## Average Grade
-91.4
+89.5
 
 ## Grades
  * [95.0](./Cursing_in_the_Biblical_Narrative_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ In Christian theology, the curse on the serpent in Genesis 3:14 is seen as a pre
  * [92.0](./Cursing_in_the_Biblical_Narrative_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Cursing_in_the_Biblical_Narrative_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Cursing_in_the_Biblical_Narrative_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Cursing_in_the_Biblical_Narrative_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

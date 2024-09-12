@@ -51,7 +51,7 @@ This question helps believers reflect on the importance of their faith in Jesus 
 The appointment of Jesus Christ as the judge on the day of judgment is a solemn responsibility, reflecting his perfect justice, authority, compassion, fairness, and eternal reign.
 
 ## Average Grade
-93.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Understanding_the_Day_of_Judgment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -59,3 +59,4 @@ The appointment of Jesus Christ as the judge on the day of judgment is a solemn 
  * [95.0](./Understanding_the_Day_of_Judgment_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_the_Day_of_Judgment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_the_Day_of_Judgment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Understanding_the_Day_of_Judgment_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

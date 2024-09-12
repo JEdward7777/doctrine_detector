@@ -15,7 +15,7 @@ Understanding God's omnipotence is fundamental to faith and worship.
 The term "Almighty" is often used to convey the idea that God is all-powerful and omnipotent, capable of achieving anything. It is a way to acknowledge and express reverence for the vast power and authority attributed to God in various religious traditions. It emphasizes the belief in God's ability to control all things and shape the course of events according to divine will. It is important to note that interpretations of this term may vary among different faiths and individuals.
 
 ## Average Grade
-87.0
+86.66666666666667
 
 ## Grades
  * [90.0](./God_s_Power_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ The term "Almighty" is often used to convey the idea that God is all-powerful an
  * [85.0](./God_s_Power_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./God_s_Power_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./God_s_Power_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./God_s_Power_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

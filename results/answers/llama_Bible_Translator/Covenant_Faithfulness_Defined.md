@@ -31,7 +31,7 @@ Throughout Scripture, covenant faithfulness is a recurring theme that highlights
 In summary, "covenant faithfulness" represents the sacred commitment to uphold and honor the terms of a covenant relationship, whether between God and humanity or among humans themselves. This concept is essential for understanding biblical relationships and the nature of God's interactions with His people throughout redemptive history.
 
 ## Average Grade
-91.0
+90.0
 
 ## Grades
  * [95.0](./Covenant_Faithfulness_Defined_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,3 +39,4 @@ In summary, "covenant faithfulness" represents the sacred commitment to uphold a
  * [95.0](./Covenant_Faithfulness_Defined_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Covenant_Faithfulness_Defined_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Covenant_Faithfulness_Defined_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Covenant_Faithfulness_Defined_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -45,7 +45,7 @@ Understanding the implications of faith and trust in Jesus for personal life.
 **Therefore, to truly believe in Jesus is to acknowledge his deity, accept his salvation, trust in his person and work, follow his teachings, and maintain a personal relationship with him.**
 
 ## Average Grade
-87.0
+86.66666666666667
 
 ## Grades
  * [90.0](./Faith_in_Jesus_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -53,3 +53,4 @@ Understanding the implications of faith and trust in Jesus for personal life.
  * [90.0](./Faith_in_Jesus_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Faith_in_Jesus_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Faith_in_Jesus_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Faith_in_Jesus_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

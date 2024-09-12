@@ -30,7 +30,7 @@ As Christians, we're called to be reconcilers, just as God was reconciling the w
 As we apply these principles, we'll find that reconciliation becomes a beautiful expression of God's love and character in our lives. May we be faithful ambassadors of this gospel message, bringing hope and unity to those around us!
 
 ## Average Grade
-94.0
+92.5
 
 ## Grades
  * [95.0](./Application_of_Reconciliation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,3 +38,4 @@ As we apply these principles, we'll find that reconciliation becomes a beautiful
  * [90.0](./Application_of_Reconciliation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Application_of_Reconciliation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Application_of_Reconciliation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Application_of_Reconciliation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

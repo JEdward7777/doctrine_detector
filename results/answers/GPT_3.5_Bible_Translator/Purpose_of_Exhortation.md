@@ -19,7 +19,7 @@ The book of Hebrews, for example, is filled with exhortations to persevere in th
 Overall, the primary purpose of exhortation in the New Testament is to build up and strengthen the body of Christ, to spur believers on towards maturity and godliness, and to equip them to fulfill God's purposes in their lives.
 
 ## Average Grade
-88.0
+86.66666666666667
 
 ## Grades
  * [95.0](./Purpose_of_Exhortation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Overall, the primary purpose of exhortation in the New Testament is to build up 
  * [90.0](./Purpose_of_Exhortation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Purpose_of_Exhortation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Purpose_of_Exhortation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Purpose_of_Exhortation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

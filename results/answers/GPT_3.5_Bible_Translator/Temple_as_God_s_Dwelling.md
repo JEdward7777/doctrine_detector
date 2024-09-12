@@ -19,7 +19,7 @@ In the New Testament, the concept of the temple as God's dwelling is reinterpret
 Ultimately, the concept of the temple as God's dwelling place is fulfilled in Jesus Christ and His work on the cross, where He bridges the gap between God and humanity. Through faith in Jesus, believers become the dwelling place of God's Spirit, and the church as a whole is considered the temple of God (Ephesians 2:19-22). This spiritual temple represents the presence of God among His people, expressing His love, grace, and mercy.
 
 ## Average Grade
-86.0
+85.83333333333333
 
 ## Grades
  * [90.0](./Temple_as_God_s_Dwelling_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Ultimately, the concept of the temple as God's dwelling place is fulfilled in Je
  * [90.0](./Temple_as_God_s_Dwelling_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Temple_as_God_s_Dwelling_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Temple_as_God_s_Dwelling_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Temple_as_God_s_Dwelling_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -46,7 +46,7 @@ Understanding translations aids in ensuring that church teachings align with scr
 * **Seek consensus:** Engage in dialogue to understand different perspectives and reach a consensus on appropriate consequences.
 
 ## Average Grade
-84.0
+84.16666666666667
 
 ## Grades
  * [85.0](./Translation_of_Trespass_in_Different_Contexts_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -54,3 +54,4 @@ Understanding translations aids in ensuring that church teachings align with scr
  * [85.0](./Translation_of_Trespass_in_Different_Contexts_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Translation_of_Trespass_in_Different_Contexts_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Translation_of_Trespass_in_Different_Contexts_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Translation_of_Trespass_in_Different_Contexts_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

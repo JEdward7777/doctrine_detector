@@ -19,7 +19,7 @@ In the city of Corinth, for example, believers likely met in the homes of wealth
 It's important to note that the early Christian communities were often persecuted and marginalized, so meeting in private homes provided a measure of security and privacy for believers to worship and fellowship without interference from local authorities. This way of gathering also fostered a sense of intimacy and community among believers, as they shared their lives and faith together in a more personal and informal setting.
 
 ## Average Grade
-93.0
+89.16666666666667
 
 ## Grades
  * [95.0](./Local_Church_Meetings_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ It's important to note that the early Christian communities were often persecute
  * [95.0](./Local_Church_Meetings_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Local_Church_Meetings_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Local_Church_Meetings_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Local_Church_Meetings_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

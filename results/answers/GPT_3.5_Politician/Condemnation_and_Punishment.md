@@ -23,7 +23,7 @@ When thinking about punishment as a form of condemnation, it is essential to app
 Ultimately, our perspective on punishment should be guided by principles of fairness, justice, and respect for human dignity. It is important to strive for a balance between holding individuals accountable for their actions and offering them opportunities for redemption and growth.
 
 ## Average Grade
-89.0
+87.5
 
 ## Grades
  * [90.0](./Condemnation_and_Punishment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ Ultimately, our perspective on punishment should be guided by principles of fair
  * [95.0](./Condemnation_and_Punishment_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Condemnation_and_Punishment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Condemnation_and_Punishment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Condemnation_and_Punishment_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -15,7 +15,7 @@ Living out our faith authentically is crucial to being effective representatives
 Romans 12:9 states, "Let love be genuine. Abhor what is evil; hold fast to what is good." This verse emphasizes the importance of sincerity and authenticity in our love and actions to avoid hypocrisy. By genuinely loving others without hidden agendas and aligning our actions with what is good and righteous, we can demonstrate true love and avoid hypocrisy. It is about being true to ourselves and our beliefs, and consistently embodying love and goodness in all aspects of our lives.
 
 ## Average Grade
-90.0
+88.33333333333333
 
 ## Grades
  * [95.0](./Authentic_Christian_Living_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ Romans 12:9 states, "Let love be genuine. Abhor what is evil; hold fast to what 
  * [90.0](./Authentic_Christian_Living_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Authentic_Christian_Living_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Authentic_Christian_Living_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Authentic_Christian_Living_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

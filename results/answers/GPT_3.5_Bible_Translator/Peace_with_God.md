@@ -21,7 +21,7 @@ Ephesians 2:8-9 further explains, "For by grace you have been saved through fait
 In essence, faith in Jesus' sacrifice is the means by which we receive the forgiveness of our sins, are justified before God, and can experience true peace with Him. It is through Jesus' sacrificial death on the cross that the barrier of sin separating us from God is removed, and we are reconciled to Him.
 
 ## Average Grade
-93.0
+92.5
 
 ## Grades
  * [95.0](./Peace_with_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In essence, faith in Jesus' sacrifice is the means by which we receive the forgi
  * [95.0](./Peace_with_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Peace_with_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Peace_with_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Peace_with_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -19,7 +19,7 @@ In the New Testament, the apostle Paul explicitly addresses the connection betwe
 Ultimately, the Bible teaches that demons seek to lead people away from the true worship of God and towards false gods and idols. Christians are called to resist the temptations of idolatry and to worship the one true God in spirit and in truth (John 4:24).
 
 ## Average Grade
-93.0
+92.5
 
 ## Grades
  * [95.0](./Spiritual_Deceit_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Ultimately, the Bible teaches that demons seek to lead people away from the true
  * [95.0](./Spiritual_Deceit_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Spiritual_Deceit_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Spiritual_Deceit_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Spiritual_Deceit_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

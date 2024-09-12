@@ -28,7 +28,7 @@ In Jewish tradition, El Shaddai (אֵל שַׁדַּי) is one of the most impor
 In summary, the phrase "El Shaddai" has been rendered in various ways across different languages and cultures, reflecting local connotations and theological understandings. While some translations emphasize God's power (e.g., Latin Vulgate), others highlight His providence (e.g., Aramaic Peshitta) or nurturing nature (e.g., Ethiopian Ge'ez). As an atheistic scholar, I'm intrigued by the diverse ways humans have attempted to describe and relate to their understanding of a higher power.
 
 ## Average Grade
-44.0
+46.666666666666664
 
 ## Grades
  * [30.0](./Translating_El_Shaddai_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,3 +36,4 @@ In summary, the phrase "El Shaddai" has been rendered in various ways across dif
  * [30.0](./Translating_El_Shaddai_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [40.0](./Translating_El_Shaddai_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Translating_El_Shaddai_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Translating_El_Shaddai_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -15,7 +15,7 @@ Knowing the meaning of Satan's name helps Christians understand his role as an a
 In the Christian faith, the name "Satan" signifies the embodiment of evil and the adversary of God. Satan is often portrayed as a fallen angel who rebelled against God and now seeks to tempt and lead humanity astray from the path of righteousness. In Christian theology, Satan is considered the ultimate symbol of temptation, sin, and spiritual destruction. It is important to note that beliefs about Satan may vary within different Christian denominations and interpretations of scripture.
 
 ## Average Grade
-89.0
+87.5
 
 ## Grades
  * [90.0](./Understanding_Satan_s_Role_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ In the Christian faith, the name "Satan" signifies the embodiment of evil and th
  * [90.0](./Understanding_Satan_s_Role_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_Satan_s_Role_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Satan_s_Role_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Understanding_Satan_s_Role_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

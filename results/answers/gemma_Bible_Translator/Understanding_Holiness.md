@@ -53,7 +53,7 @@ The reality of God's absolute holiness has profound implications for our relatio
 God's absolute holiness is a fundamental truth that shapes our understanding of who He is and how we are to live. By acknowledging and embracing His holiness, we are transformed, humbled, and empowered to live lives that honor and glorify our amazing God.
 
 ## Average Grade
-95.4
+94.5
 
 ## Grades
  * [95.0](./Understanding_Holiness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -61,3 +61,4 @@ God's absolute holiness is a fundamental truth that shapes our understanding of 
  * [97.0](./Understanding_Holiness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_Holiness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Understanding_Holiness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Understanding_Holiness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

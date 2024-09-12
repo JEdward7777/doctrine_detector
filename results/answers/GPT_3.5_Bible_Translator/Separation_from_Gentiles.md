@@ -19,7 +19,7 @@ The Pharisees believed that associating with Gentiles could lead to the contamin
 However, it is important to note that Jesus challenged the Pharisees' emphasis on external rituals and regulations, teaching instead about the importance of inward purity and love for all people, both Jews and Gentiles. Jesus' ministry emphasized inclusivity and the breaking down of barriers between different groups of people, demonstrating God's love and grace to all.
 
 ## Average Grade
-87.0
+87.5
 
 ## Grades
  * [90.0](./Separation_from_Gentiles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ However, it is important to note that Jesus challenged the Pharisees' emphasis o
  * [85.0](./Separation_from_Gentiles_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Separation_from_Gentiles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Separation_from_Gentiles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Separation_from_Gentiles_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

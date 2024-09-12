@@ -50,7 +50,7 @@ Clarity is needed to differentiate between Jesus' divine lordship and earthly ti
 * Engage in respectful dialogue with individuals who hold different beliefs or interpretations.
 
 ## Average Grade
-90.0
+86.66666666666667
 
 ## Grades
  * [90.0](./Jesus_is_Lord_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -58,3 +58,4 @@ Clarity is needed to differentiate between Jesus' divine lordship and earthly ti
  * [90.0](./Jesus_is_Lord_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Jesus_is_Lord_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Jesus_is_Lord_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Jesus_is_Lord_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -27,7 +27,7 @@ Moreover, the rejection of Jesus by the Jewish leaders led to His crucifixion, w
 As Christians, we are called to learn from the rejection of Jesus by the Jewish religious leaders and strive to be open to God's revelation, embrace His truth, and follow Christ with faith and obedience. It also reminds us of the importance of humility, repentance, and staying faithful to God's word, even in the face of opposition or rejection from those in positions of religious authority.
 
 ## Average Grade
-91.0
+90.0
 
 ## Grades
  * [95.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ As Christians, we are called to learn from the rejection of Jesus by the Jewish 
  * [95.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

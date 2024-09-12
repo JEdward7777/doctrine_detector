@@ -15,7 +15,7 @@ Recognizing the authority of Jesus' words and teachings in Scripture.
 As an atheistic scholar, I do not subscribe to the belief in Jesus as a divine figure. However, from a historical and cultural perspective, it is worth noting that the term "amen" is commonly used in religious and spiritual contexts to signify agreement, affirmation, or the truthfulness of a statement. In the case of Jesus, if we consider him as a historical figure, it is likely that he used the term "amen" to emphasize the importance and validity of his teachings to his followers. By using "amen," Jesus may have been emphasizing the sincerity and authority of his message, encouraging his audience to believe in what he was saying.
 
 ## Average Grade
-56.0
+55.0
 
 ## Grades
  * [40.0](./Jesus__Teachings_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ As an atheistic scholar, I do not subscribe to the belief in Jesus as a divine f
  * [60.0](./Jesus__Teachings_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [60.0](./Jesus__Teachings_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Jesus__Teachings_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Jesus__Teachings_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

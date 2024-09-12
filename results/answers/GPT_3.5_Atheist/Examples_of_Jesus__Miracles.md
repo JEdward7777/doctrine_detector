@@ -27,7 +27,7 @@ Some of the miracles attributed to Jesus include:
 For believers, these miracles serve as evidence of Jesus' divinity and reinforce the teachings of Christianity. However, from a scholarly and non-religious perspective, these miracles are seen as part of the religious narrative surrounding Jesus and are viewed with skepticism due to the lack of empirical evidence.
 
 ## Average Grade
-54.0
+53.333333333333336
 
 ## Grades
  * [70.0](./Examples_of_Jesus__Miracles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ For believers, these miracles serve as evidence of Jesus' divinity and reinforce
  * [25.0](./Examples_of_Jesus__Miracles_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Examples_of_Jesus__Miracles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Examples_of_Jesus__Miracles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Examples_of_Jesus__Miracles_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

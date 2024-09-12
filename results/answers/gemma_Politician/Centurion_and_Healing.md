@@ -44,7 +44,7 @@ Understanding the nature of faith and authority in the context of Jesus' ministr
 - His authority extends to empowering individuals and delegating responsibility for witnessing and caring for others.
 
 ## Average Grade
-81.0
+79.16666666666667
 
 ## Grades
  * [80.0](./Centurion_and_Healing_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -52,3 +52,4 @@ Understanding the nature of faith and authority in the context of Jesus' ministr
  * [85.0](./Centurion_and_Healing_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Centurion_and_Healing_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [75.0](./Centurion_and_Healing_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Centurion_and_Healing_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -21,7 +21,7 @@ Furthermore, spiritual gifts are not given for personal glory or self-promotion,
 Overall, the concept of spiritual gifts in the Bible highlights the diversity and unity of the body of Christ, as well as the importance of each member playing their part in the fulfillment of God's purposes. It is a reminder of God's grace and empowerment in the lives of believers, equipping them for service and ministry in the world.
 
 ## Average Grade
-92.0
+92.5
 
 ## Grades
  * [95.0](./Spiritual_Gifts_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Overall, the concept of spiritual gifts in the Bible highlights the diversity an
  * [90.0](./Spiritual_Gifts_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Spiritual_Gifts_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Spiritual_Gifts_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [95.0](./Spiritual_Gifts_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

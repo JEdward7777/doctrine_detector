@@ -53,7 +53,7 @@ Recognizing real-life applications of compassion as modeled by biblical figures.
 The Bible is replete with examples of compassion, demonstrating that this quality is central to the Christian faith. By following the example of Jesus Christ and other faithful followers, we can show compassion to those around us and embody the love of God.
 
 ## Average Grade
-88.0
+87.5
 
 ## Grades
  * [90.0](./Compassionate_Actions_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -61,3 +61,4 @@ The Bible is replete with examples of compassion, demonstrating that this qualit
  * [85.0](./Compassionate_Actions_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Compassionate_Actions_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Compassionate_Actions_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Compassionate_Actions_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

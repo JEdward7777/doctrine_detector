@@ -56,7 +56,7 @@ Understanding the purification process that comes with consecration.
 Consecration is a vital aspect of Christian life that prepares individuals and things for God's service by setting them apart for a specific purpose, purifying them, aligning them with God's standards, and enhancing their spiritual significance.
 
 ## Average Grade
-91.0
+90.0
 
 ## Grades
  * [95.0](./Consecration_and_Service_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -64,3 +64,4 @@ Consecration is a vital aspect of Christian life that prepares individuals and t
  * [95.0](./Consecration_and_Service_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Consecration_and_Service_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [75.0](./Consecration_and_Service_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Consecration_and_Service_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

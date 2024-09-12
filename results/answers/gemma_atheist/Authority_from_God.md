@@ -41,7 +41,7 @@ The concept of divine authority stands in conflict with the core tenets of athei
 The significance of divine authority in the life of a believer is a complex and nuanced issue with profound psychological and social implications. While some believers may find comfort and guidance in their faith, atheists contend that the concept is based on superstition and serves to perpetuate societal control rather than reflecting reality.
 
 ## Average Grade
-80.0
+78.33333333333333
 
 ## Grades
  * [70.0](./Authority_from_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -49,3 +49,4 @@ The significance of divine authority in the life of a believer is a complex and 
  * [70.0](./Authority_from_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Authority_from_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Authority_from_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Authority_from_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

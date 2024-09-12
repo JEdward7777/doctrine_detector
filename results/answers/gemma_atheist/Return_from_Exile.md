@@ -38,7 +38,7 @@ The return of the Jews from Babylon cannot be interpreted as evidence of God's p
 The return of the Jews from Babylon is best understood as a complex historical phenomenon, influenced by political, economic, and social factors. It does not provide evidence for the existence of a supernatural God or the fulfillment of divine promises in the traditional sense.
 
 ## Average Grade
-28.0
+25.0
 
 ## Grades
  * [40.0](./Return_from_Exile_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -46,3 +46,4 @@ The return of the Jews from Babylon is best understood as a complex historical p
  * [20.0](./Return_from_Exile_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [30.0](./Return_from_Exile_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [20.0](./Return_from_Exile_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [10.0](./Return_from_Exile_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

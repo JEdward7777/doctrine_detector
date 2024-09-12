@@ -49,7 +49,7 @@ Understanding the significance of Christ's role in the church can impact a belie
 Jesus Christ plays a pivotal role as the cornerstone in the Assembly of believers. He is the foundation, identity, guiding presence, source of hope, and the cornerstone of faith. Without him, the Assembly would not exist or be able to fulfill its purpose in God's kingdom.
 
 ## Average Grade
-94.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Understanding_the_Cornerstone_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -57,3 +57,4 @@ Jesus Christ plays a pivotal role as the cornerstone in the Assembly of believer
  * [95.0](./Understanding_the_Cornerstone_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_the_Cornerstone_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Understanding_the_Cornerstone_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Understanding_the_Cornerstone_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

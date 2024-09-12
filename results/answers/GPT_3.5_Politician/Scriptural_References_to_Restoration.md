@@ -15,7 +15,7 @@ Finding scriptural support for the concept of restoration in one's faith journey
 Thank you for your question. The Bible contains many verses that emphasize the theme of restoration. One example is Isaiah 61:1-3, which illustrates the concept of restoration through the prophecy of the Messiah bringing healing, freedom, and comfort to those who are suffering. Another example is Joel 2:25-26, which speaks of God's promise to restore what has been lost or destroyed. These verses highlight the idea of renewal, redemption, and hope for a better future.
 
 ## Average Grade
-87.0
+82.5
 
 ## Grades
  * [90.0](./Scriptural_References_to_Restoration_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ Thank you for your question. The Bible contains many verses that emphasize the t
  * [90.0](./Scriptural_References_to_Restoration_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Scriptural_References_to_Restoration_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Scriptural_References_to_Restoration_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Scriptural_References_to_Restoration_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

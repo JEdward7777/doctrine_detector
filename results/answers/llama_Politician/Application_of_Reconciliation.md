@@ -39,7 +39,7 @@ As we strive for unity and harmony in our personal and professional lives, it's 
 By embracing these principles, Christians can cultivate deeper relationships with others, reflect God's character of love and forgiveness, and contribute to a more harmonious world – all while being mindful of our individual differences and cultural nuances.
 
 ## Average Grade
-95.0
+90.83333333333333
 
 ## Grades
  * [95.0](./Application_of_Reconciliation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -47,3 +47,4 @@ By embracing these principles, Christians can cultivate deeper relationships wit
  * [95.0](./Application_of_Reconciliation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Application_of_Reconciliation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Application_of_Reconciliation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Application_of_Reconciliation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -15,7 +15,7 @@ Clarifying Jesus' identity and role in resurrection is important for faith and t
 As a politician, it is important to respect all religious beliefs and interpretations. The statement "I am the Resurrection and the Life" is a key teaching in Christianity, where Jesus is believed to be the source of eternal life and salvation. Different Christian denominations may interpret this statement in various ways, but it generally signifies Jesus' role as a spiritual guide and source of hope for believers. It is essential to approach discussions about religious beliefs with sensitivity and inclusivity.
 
 ## Average Grade
-80.0
+76.66666666666667
 
 ## Grades
  * [85.0](./Jesus__Statement_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ As a politician, it is important to respect all religious beliefs and interpreta
  * [80.0](./Jesus__Statement_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Jesus__Statement_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Jesus__Statement_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Jesus__Statement_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

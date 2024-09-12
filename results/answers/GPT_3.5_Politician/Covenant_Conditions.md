@@ -19,7 +19,7 @@ On the other hand, conditional covenants in the Bible include the covenant at Mo
 It is important to approach these covenants with sensitivity and respect for the beliefs of others, as they hold deep meaning for many individuals across different faith traditions.
 
 ## Average Grade
-85.0
+82.5
 
 ## Grades
  * [90.0](./Covenant_Conditions_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ It is important to approach these covenants with sensitivity and respect for the
  * [80.0](./Covenant_Conditions_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Covenant_Conditions_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Covenant_Conditions_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Covenant_Conditions_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

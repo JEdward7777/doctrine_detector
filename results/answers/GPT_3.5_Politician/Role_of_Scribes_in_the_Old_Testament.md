@@ -15,7 +15,7 @@ Understanding the significance of the scribes' role in biblical history and the 
 Scribes played a crucial role in preserving the Old Testament scriptures by meticulously copying and transmitting the texts from generation to generation. Their responsibilities included ensuring accuracy and consistency in the transcription of sacred texts to maintain the integrity of the scripture for future readers. Their dedication to preserving the written word served to honor the religious beliefs and traditions of the communities they served.
 
 ## Average Grade
-89.0
+89.16666666666667
 
 ## Grades
  * [90.0](./Role_of_Scribes_in_the_Old_Testament_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ Scribes played a crucial role in preserving the Old Testament scriptures by meti
  * [90.0](./Role_of_Scribes_in_the_Old_Testament_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Role_of_Scribes_in_the_Old_Testament_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Role_of_Scribes_in_the_Old_Testament_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Role_of_Scribes_in_the_Old_Testament_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

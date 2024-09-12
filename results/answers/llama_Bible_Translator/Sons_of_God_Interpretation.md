@@ -29,7 +29,7 @@ It is essential to note that these interpretations may not be mutually exclusive
 As Christian translators, we must remain committed to accurately conveying the original meaning and cultural context of Scripture while also acknowledging the diverse interpretations that arise from various perspectives. Ultimately, our goal is to honor the divine inspiration behind the Bible while providing faithful translations for those seeking to understand God's Word.
 
 ## Average Grade
-87.0
+84.16666666666667
 
 ## Grades
  * [85.0](./Sons_of_God_Interpretation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ As Christian translators, we must remain committed to accurately conveying the o
  * [90.0](./Sons_of_God_Interpretation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Sons_of_God_Interpretation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Sons_of_God_Interpretation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Sons_of_God_Interpretation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -27,7 +27,7 @@ In this passage, Paul is emphasizing the importance of honoring God with our bod
 This passage serves as a powerful reminder that true worship is not about external rituals or offerings, but about honoring God with our entire being – heart, soul, mind, and strength. In contrast, idol worship (whether literal or figurative) is an affront to this kind of holy living, and can lead to ruin and spiritual decay.
 
 ## Average Grade
-90.6
+88.83333333333333
 
 ## Grades
  * [93.0](./Biblical_Examples_of_Worship_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ This passage serves as a powerful reminder that true worship is not about extern
  * [95.0](./Biblical_Examples_of_Worship_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Biblical_Examples_of_Worship_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_Examples_of_Worship_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Biblical_Examples_of_Worship_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

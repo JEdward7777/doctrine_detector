@@ -54,7 +54,7 @@ While atonement is central to Christianity, its relationship to forgiveness and 
 Atonement, forgiveness, and reconciliation are intertwined concepts in Christianity, but their interpretation and application must be nuanced and sensitive to diverse perspectives and cultural contexts.
 
 ## Average Grade
-89.4
+86.16666666666667
 
 ## Grades
  * [92.0](./Atonement_and_Forgiveness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -62,3 +62,4 @@ Atonement, forgiveness, and reconciliation are intertwined concepts in Christian
  * [95.0](./Atonement_and_Forgiveness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Atonement_and_Forgiveness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Atonement_and_Forgiveness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Atonement_and_Forgiveness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

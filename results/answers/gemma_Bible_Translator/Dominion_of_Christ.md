@@ -43,7 +43,7 @@ The Bible offers various descriptions of Jesus Christ's dominion, each with uniq
 The Bible paints a vibrant and multifaceted portrait of Jesus Christ's dominion. It encompasses both present realities and future fulfillment, encompassing spiritual, political, and cosmic spheres. This dominion is characterized by rescue, restoration, victory, and ultimately the establishment of God's eternal kingdom.
 
 ## Average Grade
-92.0
+88.33333333333333
 
 ## Grades
  * [90.0](./Dominion_of_Christ_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -51,3 +51,4 @@ The Bible paints a vibrant and multifaceted portrait of Jesus Christ's dominion.
  * [95.0](./Dominion_of_Christ_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Dominion_of_Christ_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Dominion_of_Christ_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Dominion_of_Christ_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

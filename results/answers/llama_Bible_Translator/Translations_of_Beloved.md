@@ -31,7 +31,7 @@ When translating "beloved" in other contexts within Scripture, such as 2 Corinth
 Ultimately, as Christian translators, our goal is to convey the original meaning and emotional resonance of the Greek text while maintaining its theological integrity within the context of Christian love.
 
 ## Average Grade
-88.0
+86.66666666666667
 
 ## Grades
  * [90.0](./Translations_of_Beloved_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,3 +39,4 @@ Ultimately, as Christian translators, our goal is to convey the original meaning
  * [90.0](./Translations_of_Beloved_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Translations_of_Beloved_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Translations_of_Beloved_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Translations_of_Beloved_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -33,7 +33,7 @@ In addition to Yahweh, the Bible also uses other names and titles that reveal Go
 These names and titles help us understand the nature of God, His relationship with humanity, and His purpose for our lives. As we read and study these names in Scripture, we can gain a deeper understanding of who God is and how He desires to interact with us as His children.
 
 ## Average Grade
-91.0
+90.83333333333333
 
 ## Grades
  * [95.0](./God_s_Revelation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -41,3 +41,4 @@ These names and titles help us understand the nature of God, His relationship wi
  * [90.0](./God_s_Revelation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./God_s_Revelation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./God_s_Revelation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./God_s_Revelation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

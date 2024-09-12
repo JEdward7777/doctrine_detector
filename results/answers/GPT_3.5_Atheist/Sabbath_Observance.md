@@ -17,7 +17,7 @@ Keeping the Sabbath holy, according to the commandments given to Moses in the Bi
 However, it is important to note that interpretations and practices surrounding the Sabbath can vary among different religious traditions and denominations. Some may emphasize strict observance of abstaining from work and engaging in religious activities, while others may focus more on the spirit of rest and rejuvenation without strict regulations. Ultimately, keeping the Sabbath holy is about honoring one's spiritual beliefs and values in a way that brings meaning and fulfillment to one's life.
 
 ## Average Grade
-82.0
+80.83333333333333
 
 ## Grades
  * [85.0](./Sabbath_Observance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -25,3 +25,4 @@ However, it is important to note that interpretations and practices surrounding 
  * [90.0](./Sabbath_Observance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Sabbath_Observance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Sabbath_Observance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Sabbath_Observance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

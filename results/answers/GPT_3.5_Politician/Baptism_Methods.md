@@ -23,7 +23,7 @@ In the Bible, there are several references to baptism, each with its own signifi
 Each of these methods of baptism carries its own theological significance and symbolism, and different Christian denominations may interpret and practice them in varying ways. It is important to recognize and respect the diversity of beliefs and practices within the Christian faith when discussing baptism.
 
 ## Average Grade
-86.0
+86.66666666666667
 
 ## Grades
  * [90.0](./Baptism_Methods_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ Each of these methods of baptism carries its own theological significance and sy
  * [85.0](./Baptism_Methods_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Baptism_Methods_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Baptism_Methods_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Baptism_Methods_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

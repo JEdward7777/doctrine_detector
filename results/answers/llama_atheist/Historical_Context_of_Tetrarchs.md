@@ -25,7 +25,7 @@ However, it is essential to acknowledge that the division of Herod's kingdom als
 In conclusion, while the division of Herod's kingdom into tetrarchies had its challenges, it ultimately contributed to the strengthening of Jewish identity, the preservation of cultural traditions, and increased economic opportunities for Jews.
 
 ## Average Grade
-84.0
+81.66666666666667
 
 ## Grades
  * [85.0](./Historical_Context_of_Tetrarchs_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ In conclusion, while the division of Herod's kingdom into tetrarchies had its ch
  * [85.0](./Historical_Context_of_Tetrarchs_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Historical_Context_of_Tetrarchs_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Historical_Context_of_Tetrarchs_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Historical_Context_of_Tetrarchs_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

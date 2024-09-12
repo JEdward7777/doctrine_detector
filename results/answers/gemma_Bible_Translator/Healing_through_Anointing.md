@@ -28,7 +28,7 @@ Recognizing the role of anointing in spiritual and physical healing as part of C
 **Therefore, while anointing is not explicitly mentioned as a means of healing in the New Testament, prayer, faith, and the power of God are believed to be essential for healing in Christian faith.**
 
 ## Average Grade
-67.0
+65.83333333333333
 
 ## Grades
  * [60.0](./Healing_through_Anointing_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,3 +36,4 @@ Recognizing the role of anointing in spiritual and physical healing as part of C
  * [70.0](./Healing_through_Anointing_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Healing_through_Anointing_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Healing_through_Anointing_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Healing_through_Anointing_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

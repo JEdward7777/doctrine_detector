@@ -29,7 +29,7 @@ From an atheistic perspective, the concept of a soul and its relationship to God
 **Therefore, it is not possible to reconcile the concept of the soul as described in scripture with an atheistic perspective.**
 
 ## Average Grade
-34.0
+31.666666666666668
 
 ## Grades
  * [40.0](./Purpose_of_the_Soul_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ From an atheistic perspective, the concept of a soul and its relationship to God
  * [20.0](./Purpose_of_the_Soul_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [20.0](./Purpose_of_the_Soul_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Purpose_of_the_Soul_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./Purpose_of_the_Soul_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

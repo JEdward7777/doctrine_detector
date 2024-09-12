@@ -25,7 +25,7 @@ In terms of its significance in Christian life, baptism is often seen as a gatew
 Of course, these interpretations are shaped by various theological and cultural influences throughout Christian history. As an atheist, I'm not equipped to evaluate the truth or validity of these beliefs; my goal is simply to provide a neutral summary of the New Testament teachings on baptism.
 
 ## Average Grade
-56.0
+55.0
 
 ## Grades
  * [40.0](./Baptism_Purpose_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ Of course, these interpretations are shaped by various theological and cultural 
  * [20.0](./Baptism_Purpose_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Baptism_Purpose_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Baptism_Purpose_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Baptism_Purpose_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

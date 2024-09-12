@@ -25,7 +25,7 @@ Now, I know some individuals may view this concept as too narrow or exclusive, a
 In conclusion, I believe that embracing the idea of humility before God – or whatever higher power one may subscribe to – can be a powerful catalyst for personal growth, social cohesion, and global understanding. By acknowledging our limitations and recognizing our place within the larger human experience, we can work towards creating a more compassionate, inclusive, and just society for all.
 
 ## Average Grade
-70.0
+68.33333333333333
 
 ## Grades
  * [60.0](./Understanding_Humility_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ In conclusion, I believe that embracing the idea of humility before God – or w
  * [60.0](./Understanding_Humility_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [65.0](./Understanding_Humility_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Humility_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Understanding_Humility_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

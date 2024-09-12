@@ -15,7 +15,7 @@ Connecting biblical principles of humility and exaltation in the life of believe
 In those verses, the themes of humility, submission, and exaltation are depicted in the context of the Christian tradition. They emphasize the idea that humility and serving others are important virtues, leading to the ultimate exaltation and recognition from a higher power. The concept of exaltation in the Christian faith is about recognizing the value of humility and service, which ultimately leads to rewards and blessings from a higher authority. These verses highlight the interconnectedness of humility and exaltation in the Christian faith, showing how one can lead to the other through faith and devotion.
 
 ## Average Grade
-89.0
+85.83333333333333
 
 ## Grades
  * [90.0](./Scriptural_References_7_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ In those verses, the themes of humility, submission, and exaltation are depicted
  * [90.0](./Scriptural_References_7_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Scriptural_References_7_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Scriptural_References_7_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Scriptural_References_7_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

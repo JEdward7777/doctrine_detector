@@ -25,7 +25,7 @@ In this context, I would propose that "demons" are simply a metaphorical represe
 In conclusion, from a secular perspective, I do not believe that demons play any role in the deception of idolatry. Instead, it is essential to recognize idolatry as a human construct, driven by cognitive biases, emotional needs, and sociocultural factors.
 
 ## Average Grade
-24.0
+26.666666666666668
 
 ## Grades
  * [20.0](./Spiritual_Deceit_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ In conclusion, from a secular perspective, I do not believe that demons play any
  * [20.0](./Spiritual_Deceit_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [20.0](./Spiritual_Deceit_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Spiritual_Deceit_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Spiritual_Deceit_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

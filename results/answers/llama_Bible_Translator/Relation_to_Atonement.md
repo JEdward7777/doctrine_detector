@@ -31,7 +31,7 @@ Propitiation is like having a difficult neighbor who's upset with you because of
 In both cases, Jesus' sacrifice is seen as the means by which atonement and propitiation are accomplished, resulting in our reconciliation with God (Romans 5:9-11).
 
 ## Average Grade
-92.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Relation_to_Atonement_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,3 +39,4 @@ In both cases, Jesus' sacrifice is seen as the means by which atonement and prop
  * [95.0](./Relation_to_Atonement_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Relation_to_Atonement_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Relation_to_Atonement_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Relation_to_Atonement_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

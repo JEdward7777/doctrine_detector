@@ -27,7 +27,7 @@ Let's focus on building bridges of understanding rather than creating divisions.
 Now, I'd be happy to answer any questions you may have about prayer or the Bible!
 
 ## Average Grade
-75.0
+69.16666666666667
 
 ## Grades
  * [70.0](./Biblical_Examples_of_Prayer_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ Now, I'd be happy to answer any questions you may have about prayer or the Bible
  * [75.0](./Biblical_Examples_of_Prayer_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [65.0](./Biblical_Examples_of_Prayer_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_Examples_of_Prayer_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Biblical_Examples_of_Prayer_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

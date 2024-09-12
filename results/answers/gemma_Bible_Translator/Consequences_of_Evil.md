@@ -53,7 +53,7 @@ Understanding the impact of evil actions on communities and relationships in lig
 The consequences of evil are far-reaching and devastating, impacting individuals, communities, and the world as a whole. However, Christians can find hope in the knowledge that God ultimately uses even the darkest moments for his greater purpose and will bring justice and peace to the world one day.
 
 ## Average Grade
-91.0
+89.16666666666667
 
 ## Grades
  * [95.0](./Consequences_of_Evil_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -61,3 +61,4 @@ The consequences of evil are far-reaching and devastating, impacting individuals
  * [90.0](./Consequences_of_Evil_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Consequences_of_Evil_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Consequences_of_Evil_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Consequences_of_Evil_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

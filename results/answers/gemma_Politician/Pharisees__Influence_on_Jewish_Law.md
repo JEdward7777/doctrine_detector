@@ -32,7 +32,7 @@ The Pharisees' strict adherence to the Laws of Moses undoubtedly influenced thei
 * **Respectful Dialogue:** It is important to engage in respectful dialogue that acknowledges the diverse perspectives and interpretations of religious traditions.
 
 ## Average Grade
-87.0
+85.83333333333333
 
 ## Grades
  * [85.0](./Pharisees__Influence_on_Jewish_Law_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -40,3 +40,4 @@ The Pharisees' strict adherence to the Laws of Moses undoubtedly influenced thei
  * [90.0](./Pharisees__Influence_on_Jewish_Law_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Pharisees__Influence_on_Jewish_Law_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Pharisees__Influence_on_Jewish_Law_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Pharisees__Influence_on_Jewish_Law_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -25,7 +25,7 @@ It's essential to recognize that this concept is deeply rooted in Christian cult
 As an atheist, I acknowledge that this concept has significant cultural and historical significance within the Christian tradition. While I may not personally accept or agree with these beliefs, I respect the importance of trust in Jesus as a meaningful aspect of Christian faith and practice.
 
 ## Average Grade
-86.0
+81.66666666666667
 
 ## Grades
  * [80.0](./Trust_in_God_2_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ As an atheist, I acknowledge that this concept has significant cultural and hist
  * [85.0](./Trust_in_God_2_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Trust_in_God_2_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Trust_in_God_2_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Trust_in_God_2_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

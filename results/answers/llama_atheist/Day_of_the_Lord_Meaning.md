@@ -30,7 +30,7 @@ In any case, the "day of the Lord" in the New Testament is a call to repentance 
 Now, if you'll excuse me, I need to return to my research on the cultural influences that shaped early Christian thought...
 
 ## Average Grade
-90.4
+89.5
 
 ## Grades
  * [95.0](./Day_of_the_Lord_Meaning_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,3 +38,4 @@ Now, if you'll excuse me, I need to return to my research on the cultural influe
  * [87.0](./Day_of_the_Lord_Meaning_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Day_of_the_Lord_Meaning_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Day_of_the_Lord_Meaning_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Day_of_the_Lord_Meaning_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

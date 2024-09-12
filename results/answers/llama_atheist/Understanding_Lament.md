@@ -28,7 +28,7 @@ While I may not share the same religious beliefs as those who engage in lamentat
 Ultimately, the significance of lamentation lies in its ability to provide a framework for processing emotions, seeking answers, and reaffirming faith – all while fostering a sense of community and connection among those who are suffering.
 
 ## Average Grade
-77.0
+75.0
 
 ## Grades
  * [80.0](./Understanding_Lament_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,3 +36,4 @@ Ultimately, the significance of lamentation lies in its ability to provide a fra
  * [75.0](./Understanding_Lament_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [75.0](./Understanding_Lament_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Lament_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [65.0](./Understanding_Lament_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -19,7 +19,7 @@ From a culturally retributed perspective, faith can be seen as a virtuous qualit
 Ultimately, the story of Abram serves as a reminder of the importance of faith in the context of receiving and trusting the promises of God. It underscores the idea that belief in divine promises can lead to righteousness and ultimately to the fulfillment of those promises.
 
 ## Average Grade
-87.0
+85.0
 
 ## Grades
  * [90.0](./Faith_and_Promise_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Ultimately, the story of Abram serves as a reminder of the importance of faith i
  * [85.0](./Faith_and_Promise_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Faith_and_Promise_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Faith_and_Promise_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Faith_and_Promise_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

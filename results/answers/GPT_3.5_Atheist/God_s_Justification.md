@@ -15,7 +15,7 @@ Clarifying the Christian doctrine of justification and its importance in salvati
 As an atheistic scholar, I don't believe in the existence of a god who justifies sinners. However, in Christianity, justification is understood as the act of God declaring a sinner righteous based on the righteousness of Jesus Christ. This is believed to happen through faith in Jesus and his sacrifice on the cross. Justification entails being forgiven of one's sins and being reconciled to God, leading to eternal life in heaven.
 
 ## Average Grade
-90.0
+83.33333333333333
 
 ## Grades
  * [90.0](./God_s_Justification_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ As an atheistic scholar, I don't believe in the existence of a god who justifies
  * [90.0](./God_s_Justification_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./God_s_Justification_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./God_s_Justification_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./God_s_Justification_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

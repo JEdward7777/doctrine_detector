@@ -27,7 +27,7 @@ These individuals, along with others mentioned in Scripture, demonstrate the imp
 In Christianity, this concept is often referred to as a "call" or "consecration" from God. It involves surrendering one's life to Him, seeking His guidance, and living according to His principles.
 
 ## Average Grade
-87.0
+82.5
 
 ## Grades
  * [90.0](./Consecrated_Individuals_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In Christianity, this concept is often referred to as a "call" or "consecration"
  * [85.0](./Consecrated_Individuals_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Consecrated_Individuals_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Consecrated_Individuals_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Consecrated_Individuals_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

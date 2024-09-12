@@ -25,7 +25,7 @@ Similarly, in other parts of Scripture, such as Isaiah 5:8-25, Jeremiah 13:21, a
 In summary, in biblical warnings and judgments, the term "woe" signifies a strong sense of divine condemnation or judgment that will befall those who reject God's ways or neglect His warnings. It is often used to emphasize the gravity of sin and the importance of living according to God's will.
 
 ## Average Grade
-92.0
+90.83333333333333
 
 ## Grades
  * [95.0](./Understanding_Woe_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ In summary, in biblical warnings and judgments, the term "woe" signifies a stron
  * [95.0](./Understanding_Woe_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_Woe_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Woe_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Understanding_Woe_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

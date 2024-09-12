@@ -27,7 +27,7 @@ From a cultural perspective, the concept of discipleship has been influential in
 It's worth noting that my own perspective as an atheist doesn't diminish the importance of these cultural and historical developments. As a scholar, I recognize the significance of understanding the context and themes surrounding Jesus' message, even if I don't accept its supernatural claims.
 
 ## Average Grade
-62.0
+56.666666666666664
 
 ## Grades
  * [50.0](./Understanding_Discipleship_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ It's worth noting that my own perspective as an atheist doesn't diminish the imp
  * [60.0](./Understanding_Discipleship_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [65.0](./Understanding_Discipleship_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Understanding_Discipleship_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [30.0](./Understanding_Discipleship_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

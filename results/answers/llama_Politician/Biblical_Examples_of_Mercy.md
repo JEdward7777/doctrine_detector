@@ -25,7 +25,7 @@ Now, I understand that different people may interpret these examples in various 
 I hope this helps clarify the concept of mercy from a biblical perspective. Do you have any other questions or concerns?
 
 ## Average Grade
-82.0
+76.66666666666667
 
 ## Grades
  * [85.0](./Biblical_Examples_of_Mercy_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ I hope this helps clarify the concept of mercy from a biblical perspective. Do y
  * [80.0](./Biblical_Examples_of_Mercy_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Biblical_Examples_of_Mercy_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [75.0](./Biblical_Examples_of_Mercy_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Biblical_Examples_of_Mercy_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

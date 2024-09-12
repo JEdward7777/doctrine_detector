@@ -29,7 +29,7 @@ In conclusion, the significance of Jesus sending out his apostles to spread the 
 (Please note that my analysis is from an atheist perspective, focusing on the historical and cultural significance of the event rather than its theological implications.)
 
 ## Average Grade
-73.0
+70.83333333333333
 
 ## Grades
  * [60.0](./Apostleship_Understanding_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ In conclusion, the significance of Jesus sending out his apostles to spread the 
  * [60.0](./Apostleship_Understanding_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Apostleship_Understanding_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Apostleship_Understanding_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Apostleship_Understanding_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

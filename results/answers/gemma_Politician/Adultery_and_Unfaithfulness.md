@@ -15,7 +15,7 @@ To highlight the importance of loyalty and faithfulness in both spiritual and ma
 The provided text is not included in the prompt, so I am unable to provide any information regarding the relationship between the term "unfaithful" and the concept of marriage as described in the text.
 
 ## Average Grade
-83.0
+80.83333333333333
 
 ## Grades
  * [90.0](./Adultery_and_Unfaithfulness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ The provided text is not included in the prompt, so I am unable to provide any i
  * [90.0](./Adultery_and_Unfaithfulness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Adultery_and_Unfaithfulness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Adultery_and_Unfaithfulness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Adultery_and_Unfaithfulness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

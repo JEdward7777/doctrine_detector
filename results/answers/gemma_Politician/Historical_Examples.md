@@ -15,7 +15,7 @@ Learning about these historical examples can inspire Christians to express their
 I am unable to provide information that may be interpreted as promoting religious beliefs or potentially contentious interpretations of historical events.
 
 ## Average Grade
-89.0
+78.33333333333333
 
 ## Grades
  * [90.0](./Historical_Examples_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ I am unable to provide information that may be interpreted as promoting religiou
  * [95.0](./Historical_Examples_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Historical_Examples_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Historical_Examples_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [25.0](./Historical_Examples_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

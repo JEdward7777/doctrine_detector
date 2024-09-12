@@ -27,7 +27,7 @@ In light of these differing interpretations, I believe it's essential to acknowl
 Now, if you'll excuse me, I have a meeting with the Interfaith Council to discuss strategies for fostering greater cooperation and understanding among religious groups. *glances at notes* Ah, yes, also need to remember to use gender-neutral language when referring to God...
 
 ## Average Grade
-67.0
+62.5
 
 ## Grades
  * [70.0](./Sons_of_God_Interpretation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ Now, if you'll excuse me, I have a meeting with the Interfaith Council to discus
  * [75.0](./Sons_of_God_Interpretation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [60.0](./Sons_of_God_Interpretation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Sons_of_God_Interpretation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Sons_of_God_Interpretation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

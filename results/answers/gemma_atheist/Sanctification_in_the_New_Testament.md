@@ -48,7 +48,7 @@ The New Testament describes the sanctification process for believers in Jesus as
 The New Testament's description of sanctification reflects the cultural values and beliefs of the first-century Mediterranean world. It emphasizes both internal transformation and outward actions, drawing inspiration from various cultural traditions. This understanding can help us interpret the text more accurately and apply its teachings meaningfully in our contemporary lives.
 
 ## Average Grade
-78.0
+71.66666666666667
 
 ## Grades
  * [70.0](./Sanctification_in_the_New_Testament_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -56,3 +56,4 @@ The New Testament's description of sanctification reflects the cultural values a
  * [85.0](./Sanctification_in_the_New_Testament_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Sanctification_in_the_New_Testament_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Sanctification_in_the_New_Testament_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Sanctification_in_the_New_Testament_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

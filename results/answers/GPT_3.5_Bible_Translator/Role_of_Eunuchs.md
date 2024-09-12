@@ -23,7 +23,7 @@ In ancient times, eunuchs often served in royal courts as advisors, administrato
 Overall, the role of eunuchs in ancient times can serve as a reminder that God values all individuals, regardless of their circumstances, and can use them in His plan for society and the church.
 
 ## Average Grade
-92.0
+91.66666666666667
 
 ## Grades
  * [90.0](./Role_of_Eunuchs_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ Overall, the role of eunuchs in ancient times can serve as a reminder that God v
  * [95.0](./Role_of_Eunuchs_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Role_of_Eunuchs_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Role_of_Eunuchs_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Role_of_Eunuchs_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

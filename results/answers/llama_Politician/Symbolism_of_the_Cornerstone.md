@@ -25,7 +25,7 @@ Now, I must acknowledge that this metaphor might be perceived differently by var
 In conclusion, the cornerstone metaphor beautifully illustrates the relationship between Jesus and His followers, emphasizing the foundation He provides, the unity among believers, and the call to build our lives on His teachings. As we explore these concepts, I encourage us all to approach them with empathy, compassion, and a deep commitment to understanding and respecting each other's perspectives.
 
 ## Average Grade
-88.0
+87.5
 
 ## Grades
  * [90.0](./Symbolism_of_the_Cornerstone_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ In conclusion, the cornerstone metaphor beautifully illustrates the relationship
  * [90.0](./Symbolism_of_the_Cornerstone_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Symbolism_of_the_Cornerstone_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Symbolism_of_the_Cornerstone_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Symbolism_of_the_Cornerstone_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

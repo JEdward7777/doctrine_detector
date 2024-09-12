@@ -46,7 +46,7 @@ As a scholar, I must acknowledge that these events are embedded within the narra
 In conclusion, while miracles are often seen as extraordinary events, they can also serve as powerful symbols of Jesus' character, mission, and message. As a scholar, I encourage critical examination of these accounts, considering both the historical and cultural contexts in which they were recorded.
 
 ## Average Grade
-86.0
+86.66666666666667
 
 ## Grades
  * [85.0](./Examples_of_Jesus__Miracles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -54,3 +54,4 @@ In conclusion, while miracles are often seen as extraordinary events, they can a
  * [85.0](./Examples_of_Jesus__Miracles_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Examples_of_Jesus__Miracles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Examples_of_Jesus__Miracles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Examples_of_Jesus__Miracles_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

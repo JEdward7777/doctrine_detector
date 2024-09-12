@@ -24,7 +24,7 @@ In the Bible, Jesus Christ's dominion is described as being of two types: his ki
 When examining these biblical accounts, I avoid making theological or religious claims about Jesus' dominion. Instead, I focus on understanding the cultural and historical context in which these descriptions were written, and how they might have been perceived by the original audience.
 
 ## Average Grade
-74.0
+73.33333333333333
 
 ## Grades
  * [70.0](./Dominion_of_Christ_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,3 +32,4 @@ When examining these biblical accounts, I avoid making theological or religious 
  * [70.0](./Dominion_of_Christ_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Dominion_of_Christ_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Dominion_of_Christ_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Dominion_of_Christ_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

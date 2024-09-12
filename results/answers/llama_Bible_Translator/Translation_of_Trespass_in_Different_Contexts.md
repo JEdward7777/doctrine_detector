@@ -27,7 +27,7 @@ In a church community context, this understanding of trespass encourages believe
 Ultimately, accurately translating 'trespass' as "interpersonal violation" or "offense" can lead to a more nuanced understanding of Paul's teaching and encourage believers to cultivate a culture of love, humility, and harmony within their churches.
 
 ## Average Grade
-90.0
+88.33333333333333
 
 ## Grades
  * [85.0](./Translation_of_Trespass_in_Different_Contexts_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ Ultimately, accurately translating 'trespass' as "interpersonal violation" or "o
  * [95.0](./Translation_of_Trespass_in_Different_Contexts_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Translation_of_Trespass_in_Different_Contexts_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Translation_of_Trespass_in_Different_Contexts_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Translation_of_Trespass_in_Different_Contexts_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -15,7 +15,7 @@ Understanding different translations can aid in grasping the intensity of commit
 One alternative translation for the phrase "to be zealous" that reflects its biblical meaning could be "to be fervent in spirit." Another possible translation could be "to have great enthusiasm or passion for something."
 
 ## Average Grade
-84.0
+82.5
 
 ## Grades
  * [90.0](./Translation_Suggestions_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ One alternative translation for the phrase "to be zealous" that reflects its bib
  * [85.0](./Translation_Suggestions_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Translation_Suggestions_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Translation_Suggestions_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Translation_Suggestions_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

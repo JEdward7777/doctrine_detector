@@ -51,7 +51,7 @@ Recognizing the practices of fellowship can help contemporary Christians foster 
 * Their shared beliefs, practices, and experiences created a strong sense of identity and belonging.
 
 ## Average Grade
-87.0
+85.83333333333333
 
 ## Grades
  * [90.0](./Practices_of_Fellowship_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -59,3 +59,4 @@ Recognizing the practices of fellowship can help contemporary Christians foster 
  * [85.0](./Practices_of_Fellowship_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Practices_of_Fellowship_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Practices_of_Fellowship_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Practices_of_Fellowship_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

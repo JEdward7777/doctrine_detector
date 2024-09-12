@@ -51,7 +51,7 @@ Clarifying the events that will take place during this significant time in Chris
 * My analysis is based on a general understanding of these concepts.
 
 ## Average Grade
-48.0
+43.333333333333336
 
 ## Grades
  * [60.0](./Judgment_and_Resurrection_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -59,3 +59,4 @@ Clarifying the events that will take place during this significant time in Chris
  * [40.0](./Judgment_and_Resurrection_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [60.0](./Judgment_and_Resurrection_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Judgment_and_Resurrection_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./Judgment_and_Resurrection_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

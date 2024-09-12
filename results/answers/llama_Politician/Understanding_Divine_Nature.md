@@ -23,7 +23,7 @@ As a politician, I believe it's vital to approach this topic with sensitivity an
 Ultimately, the concept of God's divine nature is a deeply personal and subjective matter that should be approached with reverence, humility, and an openness to diverse perspectives.
 
 ## Average Grade
-73.0
+73.33333333333333
 
 ## Grades
  * [70.0](./Understanding_Divine_Nature_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ Ultimately, the concept of God's divine nature is a deeply personal and subjecti
  * [65.0](./Understanding_Divine_Nature_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Understanding_Divine_Nature_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Understanding_Divine_Nature_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Understanding_Divine_Nature_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -25,7 +25,7 @@ Rather than focusing solely on God's judgment, these passages can also be seen a
 So, while it's natural to wonder about God's judgment, I believe we should approach these passages with a spirit of humility and openness, recognizing that they offer valuable lessons for personal transformation rather than simply serving as pronouncements of divine retribution. (And remember, my fellow citizens, we must always strive to be understanding and compassionate in our discourse!)
 
 ## Average Grade
-42.0
+41.666666666666664
 
 ## Grades
  * [40.0](./Biblical_Usage_of_Woe_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ So, while it's natural to wonder about God's judgment, I believe we should appro
  * [20.0](./Biblical_Usage_of_Woe_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [50.0](./Biblical_Usage_of_Woe_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Biblical_Usage_of_Woe_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Biblical_Usage_of_Woe_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

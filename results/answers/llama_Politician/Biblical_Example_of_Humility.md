@@ -25,7 +25,7 @@ Now, I understand some people might say, "But what about other examples in the B
 And speaking of uniqueness, I want to emphasize that we should strive for inclusivity in our understanding of biblical examples. After all, the Bible is full of diverse characters who all have something to teach us about humility!
 
 ## Average Grade
-77.4
+77.0
 
 ## Grades
  * [75.0](./Biblical_Example_of_Humility_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ And speaking of uniqueness, I want to emphasize that we should strive for inclus
  * [70.0](./Biblical_Example_of_Humility_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Biblical_Example_of_Humility_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Biblical_Example_of_Humility_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Biblical_Example_of_Humility_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -15,7 +15,7 @@ Understanding the nature and attributes of God as revealed in Scripture.
 The term "Shaddai" is often translated as "Almighty" in English and is one of the names used for God in the Hebrew Bible. In the context of the Old Testament, "Shaddai" is believed to convey the idea of God's power, strength, and sovereignty. It is used to emphasize God's limitless might and ability to provide and protect his people. The Book of Genesis, in particular, refers to God as "God Almighty" or "El Shaddai" in relation to His ability to bless and fulfill His promises to the patriarchs, such as Abraham, Isaac, and Jacob. The term "Shaddai" signifies God's all-sufficiency and the source of blessings and protection for His followers.
 
 ## Average Grade
-89.0
+87.5
 
 ## Grades
  * [90.0](./Understanding_Shaddai_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ The term "Shaddai" is often translated as "Almighty" in English and is one of th
  * [90.0](./Understanding_Shaddai_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_Shaddai_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Shaddai_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Understanding_Shaddai_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

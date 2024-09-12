@@ -28,7 +28,7 @@ As a Christian Bible translator, I'd like to offer some alternative translations
 These alternative translations aim to convey the essence of covenant faithfulness while accurately reflecting Christian theological truth.
 
 ## Average Grade
-89.0
+87.5
 
 ## Grades
  * [90.0](./Translation_Variations_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,3 +36,4 @@ These alternative translations aim to convey the essence of covenant faithfulnes
  * [95.0](./Translation_Variations_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Translation_Variations_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Translation_Variations_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Translation_Variations_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

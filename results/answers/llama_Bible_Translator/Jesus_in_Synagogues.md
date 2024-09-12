@@ -25,7 +25,7 @@ It's essential to note that Jesus' engagement with the synagogue was not without
 In light of these accounts, we can conclude that Jesus engaged with the synagogue in various ways, from attending services and teaching to challenging traditions and performing miracles. His ultimate goal was to bring people closer to God and reveal himself as the Messiah, rather than simply maintaining the status quo within the synagogue.
 
 ## Average Grade
-91.0
+89.16666666666667
 
 ## Grades
  * [95.0](./Jesus_in_Synagogues_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ In light of these accounts, we can conclude that Jesus engaged with the synagogu
  * [95.0](./Jesus_in_Synagogues_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Jesus_in_Synagogues_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Jesus_in_Synagogues_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Jesus_in_Synagogues_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

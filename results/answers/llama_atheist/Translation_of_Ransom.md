@@ -38,7 +38,7 @@ These words share a common thread of conveying the idea of paying a price for so
 Ultimately, the best translation strategy will depend on the specific context, target audience, and cultural nuances of the language being translated. By considering these approaches, we can work towards conveying the meaning of "ransom" across linguistic and cultural boundaries.
 
 ## Average Grade
-46.0
+41.666666666666664
 
 ## Grades
  * [30.0](./Translation_of_Ransom_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -46,3 +46,4 @@ Ultimately, the best translation strategy will depend on the specific context, t
  * [40.0](./Translation_of_Ransom_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [40.0](./Translation_of_Ransom_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Translation_of_Ransom_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./Translation_of_Ransom_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

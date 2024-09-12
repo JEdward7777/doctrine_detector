@@ -25,7 +25,7 @@ In the New Testament, the Day of Pentecost (also known as the Feast of Firstfrui
 In summary, the Day of Pentecost is considered especially significant in the New Testament because it represents the fulfillment of Jesus' promise to send the Holy Spirit, the birth of the Christian church, the coming of the promised Helper, the manifestation of divine power, and the beginning of missionary activity.
 
 ## Average Grade
-92.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Significance_of_Pentecost_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ In summary, the Day of Pentecost is considered especially significant in the New
  * [90.0](./Significance_of_Pentecost_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Significance_of_Pentecost_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Significance_of_Pentecost_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Significance_of_Pentecost_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

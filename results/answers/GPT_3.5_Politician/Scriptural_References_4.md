@@ -23,7 +23,7 @@ In Hebrews 12:14-17, birthright is used metaphorically to convey the idea of spi
 Overall, these references deepen our understanding of birthright as a multifaceted concept that encompasses inheritance, blessings, and spiritual significance in Biblical teachings. It is crucial to approach discussions about these topics with sensitivity and an open mind, recognizing the diverse interpretations and beliefs that exist within different faith traditions.
 
 ## Average Grade
-85.6
+83.83333333333333
 
 ## Grades
  * [90.0](./Scriptural_References_4_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ Overall, these references deepen our understanding of birthright as a multifacet
  * [88.0](./Scriptural_References_4_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Scriptural_References_4_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Scriptural_References_4_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Scriptural_References_4_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

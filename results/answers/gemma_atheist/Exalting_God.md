@@ -39,7 +39,7 @@ It is important to avoid reducing the complex religious beliefs of others to mer
 Exalting God in a cultural context is a multifaceted concept that can hold various meanings and significance. While I do not personally subscribe to theistic beliefs, I respect the spiritual practices of others and acknowledge their cultural importance.
 
 ## Average Grade
-65.0
+57.5
 
 ## Grades
  * [60.0](./Exalting_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -47,3 +47,4 @@ Exalting God in a cultural context is a multifaceted concept that can hold vario
  * [70.0](./Exalting_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [60.0](./Exalting_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Exalting_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./Exalting_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

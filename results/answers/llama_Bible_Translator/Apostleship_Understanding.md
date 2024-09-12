@@ -33,7 +33,7 @@ In summary, the significance of the apostles being sent by Jesus in spreading th
 As Bible translators, we recognize that the apostles' commission is not just a historical event but also a theological framework for understanding the spread of Christianity. It emphasizes the importance of authentic representation, consistent teaching, and accountable leadership in spreading the gospel message.
 
 ## Average Grade
-95.0
+92.5
 
 ## Grades
  * [95.0](./Apostleship_Understanding_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -41,3 +41,4 @@ As Bible translators, we recognize that the apostles' commission is not just a h
  * [95.0](./Apostleship_Understanding_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Apostleship_Understanding_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Apostleship_Understanding_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Apostleship_Understanding_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

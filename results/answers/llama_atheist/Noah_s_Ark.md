@@ -25,7 +25,7 @@ In a more secular light, we can view the Ark as a symbol of humanity's relations
 Ultimately, the purpose of Noah's Ark is multifaceted and open to interpretation. As an atheist scholar, I recognize that this mythological tale has captivated human imagination for centuries, offering valuable insights into our shared cultural heritage while also shedding light on our complex and often fraught relationships with nature.
 
 ## Average Grade
-58.0
+55.0
 
 ## Grades
  * [50.0](./Noah_s_Ark_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ Ultimately, the purpose of Noah's Ark is multifaceted and open to interpretation
  * [60.0](./Noah_s_Ark_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [60.0](./Noah_s_Ark_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Noah_s_Ark_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Noah_s_Ark_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

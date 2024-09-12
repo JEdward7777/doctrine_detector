@@ -25,7 +25,7 @@ The concept of "remnant" in the Bible is a powerful reminder to believers to rem
 In summary, the concept of remnant in the Bible serves as a powerful reminder to believers to remain faithful during times of persecution. By recognizing God's sovereignty, persevering through tribulation, distinguishing between genuine and superficial faith, depending on divine intervention, anticipating redemption and restoration, fostering unity among believers, and being called to boldness and faithfulness, believers can find strength and encouragement in their walk with God.
 
 ## Average Grade
-92.4
+91.16666666666667
 
 ## Grades
  * [90.0](./Understanding_Remnant_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ In summary, the concept of remnant in the Bible serves as a powerful reminder to
  * [95.0](./Understanding_Remnant_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_Remnant_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Understanding_Remnant_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Understanding_Remnant_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

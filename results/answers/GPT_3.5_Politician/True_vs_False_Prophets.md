@@ -15,7 +15,7 @@ Being able to discern true prophetic voices from those that mislead or misrepres
 That is a great question and an important one to consider. Different individuals and faith traditions may have varying beliefs and criteria for discerning the authenticity of a prophet. It's important to approach this topic with sensitivity and respect for diverse perspectives and beliefs. It is recommended to consult with religious leaders, scholars, and spiritual guides within your particular tradition for guidance on this matter.
 
 ## Average Grade
-88.0
+83.33333333333333
 
 ## Grades
  * [90.0](./True_vs_False_Prophets_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ That is a great question and an important one to consider. Different individuals
  * [90.0](./True_vs_False_Prophets_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./True_vs_False_Prophets_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./True_vs_False_Prophets_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./True_vs_False_Prophets_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

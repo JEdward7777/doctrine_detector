@@ -25,7 +25,7 @@ In this sense, Christians celebrate Jesus' crucifixion and resurrection during H
 It's worth noting that while Christians have adopted many Jewish customs and traditions related to Passover, such as eating matzo or holding Seder meals during Holy Week, these practices are not meant to be observed as part of Christian worship. Rather, they serve as a reminder of the deep connections between Jesus' life, death, and resurrection, and the rich theological heritage of the Old Testament.
 
 ## Average Grade
-93.0
+89.16666666666667
 
 ## Grades
  * [95.0](./Passover_Significance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ It's worth noting that while Christians have adopted many Jewish customs and tra
  * [95.0](./Passover_Significance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Passover_Significance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Passover_Significance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Passover_Significance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

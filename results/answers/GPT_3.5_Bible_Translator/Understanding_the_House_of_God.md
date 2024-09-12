@@ -19,7 +19,7 @@ In the New Testament, the concept of the "house of God" expands to include the i
 Overall, the term "house of God" emphasizes the sacred and holy nature of a place where God is worshiped and where believers are called to gather in fellowship and to grow in their relationship with Him.
 
 ## Average Grade
-92.0
+88.33333333333333
 
 ## Grades
  * [95.0](./Understanding_the_House_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Overall, the term "house of God" emphasizes the sacred and holy nature of a plac
  * [95.0](./Understanding_the_House_of_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_the_House_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_the_House_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Understanding_the_House_of_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -25,7 +25,7 @@ It's worth noting that other individuals, such as prophets like Moses or Samuel,
 In summary, only the High Priest was allowed to approach the Ark of the Covenant, and even then, it was limited to once a year on the Day of Atonement when he would offer a sacrifice for sin.
 
 ## Average Grade
-94.4
+93.66666666666667
 
 ## Grades
  * [95.0](./High_Priest_Access_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ In summary, only the High Priest was allowed to approach the Ark of the Covenant
  * [95.0](./High_Priest_Access_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./High_Priest_Access_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./High_Priest_Access_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./High_Priest_Access_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -46,7 +46,7 @@ The concept of the Day of Judgment has significant implications in various cultu
 As a scholar, I've provided this comprehensive overview to highlight the biblical passages related to the Day of Judgment.
 
 ## Average Grade
-94.0
+90.0
 
 ## Grades
  * [90.0](./Scriptural_References_2_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -54,3 +54,4 @@ As a scholar, I've provided this comprehensive overview to highlight the biblica
  * [95.0](./Scriptural_References_2_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Scriptural_References_2_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Scriptural_References_2_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Scriptural_References_2_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

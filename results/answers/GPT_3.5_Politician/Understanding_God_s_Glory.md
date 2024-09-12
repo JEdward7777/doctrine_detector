@@ -19,7 +19,7 @@ When comparing this to worldly sources of glory, such as fame, wealth, or power,
 It's essential to approach these discussions with sensitivity and respect for different perspectives, recognizing that interpretations of religious teachings can vary widely and should be handled with care.
 
 ## Average Grade
-88.0
+83.33333333333333
 
 ## Grades
  * [85.0](./Understanding_God_s_Glory_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ It's essential to approach these discussions with sensitivity and respect for di
  * [90.0](./Understanding_God_s_Glory_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_God_s_Glory_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_God_s_Glory_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Understanding_God_s_Glory_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

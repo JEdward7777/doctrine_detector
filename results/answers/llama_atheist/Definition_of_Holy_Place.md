@@ -32,7 +32,7 @@ In this context, the "holy place" was not necessarily a site of direct divine re
 By understanding the "holy place" within its historical and cultural context, we can appreciate the ways in which ancient Jewish societies used these sacred spaces to reinforce their collective identity, negotiate power dynamics, and create meaningful rituals.
 
 ## Average Grade
-63.0
+57.5
 
 ## Grades
  * [60.0](./Definition_of_Holy_Place_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -40,3 +40,4 @@ By understanding the "holy place" within its historical and cultural context, we
  * [60.0](./Definition_of_Holy_Place_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [60.0](./Definition_of_Holy_Place_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Definition_of_Holy_Place_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [30.0](./Definition_of_Holy_Place_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

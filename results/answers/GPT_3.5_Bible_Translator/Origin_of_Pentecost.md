@@ -21,7 +21,7 @@ The Festival of Weeks was a pilgrimage festival, meaning that Jewish people from
 Therefore, before the events described in the New Testament in the book of Acts, Pentecost was already an important and sacred observance in Jewish tradition with both agricultural and religious significance. The coming of the Holy Spirit and the birth of the Christian church on the day of Pentecost in Acts 2 added a new layer of significance to the festival in Christian theology.
 
 ## Average Grade
-89.0
+89.16666666666667
 
 ## Grades
  * [85.0](./Origin_of_Pentecost_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Therefore, before the events described in the New Testament in the book of Acts,
  * [85.0](./Origin_of_Pentecost_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Origin_of_Pentecost_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Origin_of_Pentecost_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Origin_of_Pentecost_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

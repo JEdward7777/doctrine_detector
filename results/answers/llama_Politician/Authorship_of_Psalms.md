@@ -23,7 +23,7 @@ Of course, it's essential to recognize that these ancient texts were likely infl
 In conclusion, while we may not know every individual who contributed to the Psalms, it's clear that King David played a significant role in shaping this sacred text. I hope this answer has been informative and respectful for all parties involved.
 
 ## Average Grade
-81.0
+80.83333333333333
 
 ## Grades
  * [80.0](./Authorship_of_Psalms_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ In conclusion, while we may not know every individual who contributed to the Psa
  * [80.0](./Authorship_of_Psalms_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Authorship_of_Psalms_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Authorship_of_Psalms_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Authorship_of_Psalms_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

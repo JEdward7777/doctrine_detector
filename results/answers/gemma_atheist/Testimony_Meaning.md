@@ -55,7 +55,7 @@ It is important to acknowledge certain limitations when considering biblical tes
 While testimonies play a significant role in understanding the Bible and its commandments, it is crucial to approach them critically and consider their limitations. This approach allows for a more nuanced and nuanced interpretation of the scriptures, one that is informed by historical context, cultural understanding, and critical reflection.
 
 ## Average Grade
-60.0
+53.333333333333336
 
 ## Grades
  * [60.0](./Testimony_Meaning_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -63,3 +63,4 @@ While testimonies play a significant role in understanding the Bible and its com
  * [70.0](./Testimony_Meaning_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [50.0](./Testimony_Meaning_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Testimony_Meaning_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./Testimony_Meaning_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

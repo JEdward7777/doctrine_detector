@@ -23,7 +23,7 @@ So, while I understand that some people might have strong views on this topic, I
 Let's focus on building bridges rather than erecting walls, my friend!
 
 ## Average Grade
-40.0
+36.666666666666664
 
 ## Grades
  * [30.0](./Satan_s_Fate_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ Let's focus on building bridges rather than erecting walls, my friend!
  * [40.0](./Satan_s_Fate_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [20.0](./Satan_s_Fate_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Satan_s_Fate_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./Satan_s_Fate_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

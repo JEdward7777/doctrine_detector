@@ -32,7 +32,7 @@ It's essential to recognize that this concept is deeply rooted in Christian theo
 In a culturally retributed way, being "saved" in Christian teaching is often seen as a response to humanity's fundamental need for redemption from sin and separation from God. This concept has had profound impacts on art, literature, music, and society throughout history, shaping cultural expressions and influencing individual lives.
 
 ## Average Grade
-72.0
+71.66666666666667
 
 ## Grades
  * [70.0](./Spiritual_Salvation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -40,3 +40,4 @@ In a culturally retributed way, being "saved" in Christian teaching is often see
  * [60.0](./Spiritual_Salvation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [75.0](./Spiritual_Salvation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Spiritual_Salvation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Spiritual_Salvation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -33,7 +33,7 @@ In summary, according to the Bible, a fool is someone who disregards God's words
 Now, if you'll excuse me, I need to go polish my secular critique of biblical narratives
 
 ## Average Grade
-48.0
+50.0
 
 ## Grades
  * [40.0](./Understanding_Foolishness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -41,3 +41,4 @@ Now, if you'll excuse me, I need to go polish my secular critique of biblical na
  * [50.0](./Understanding_Foolishness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [60.0](./Understanding_Foolishness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Understanding_Foolishness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Understanding_Foolishness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

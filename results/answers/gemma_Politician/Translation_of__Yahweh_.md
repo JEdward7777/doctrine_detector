@@ -26,7 +26,7 @@ There are several reasons why some churches prefer to use "LORD" instead of "Yah
 * **Tradition and Compromise:** Some churches may prefer "LORD" as a compromise between traditional theological language and the need for broader accessibility and inclusivity. This approach allows them to retain some degree of theological accuracy while accommodating a wider audience.
 
 ## Average Grade
-73.0
+69.16666666666667
 
 ## Grades
  * [70.0](./Translation_of__Yahweh__grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,3 +34,4 @@ There are several reasons why some churches prefer to use "LORD" instead of "Yah
  * [70.0](./Translation_of__Yahweh__grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Translation_of__Yahweh__grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Translation_of__Yahweh__grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Translation_of__Yahweh__grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

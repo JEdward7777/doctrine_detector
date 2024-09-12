@@ -15,7 +15,7 @@ Understanding this aspect of fellowship is crucial for a believer's spiritual gr
 In Christianity, fellowship with God is seen as a central aspect of spiritual life and personal relationship with God. It represents the deep connection and intimacy that believers experience with God through prayer, worship, and following His teachings. This fellowship is believed to bring spiritual nourishment, comfort, guidance, and strength to individuals, helping them grow in faith and live according to God's will. It is a source of comfort and hope, providing believers with a sense of purpose and belonging in the world.
 
 ## Average Grade
-90.0
+89.16666666666667
 
 ## Grades
  * [90.0](./Fellowship_with_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ In Christianity, fellowship with God is seen as a central aspect of spiritual li
  * [90.0](./Fellowship_with_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Fellowship_with_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Fellowship_with_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Fellowship_with_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -19,7 +19,7 @@ Similarly, in the New Testament, the concept of the temple is reinterpreted in l
 Overall, both the Old and New Testaments convey the idea of the temple as God's dwelling place, but with a progression in understanding from a physical structure to a spiritual reality in Jesus Christ.
 
 ## Average Grade
-83.0
+83.33333333333333
 
 ## Grades
  * [85.0](./Temple_as_God_s_Dwelling_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Overall, both the Old and New Testaments convey the idea of the temple as God's 
  * [90.0](./Temple_as_God_s_Dwelling_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Temple_as_God_s_Dwelling_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Temple_as_God_s_Dwelling_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Temple_as_God_s_Dwelling_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

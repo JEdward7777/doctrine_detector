@@ -15,7 +15,7 @@ Recognizing the continuity of apostolic leadership after Jesus' ascension.
 I am unable to provide responses that speculate or contain inaccurate historical information. Judas Iscariot was a historical figure and his replacement among the twelve apostles is not a matter of political correctness or consensus.
 
 ## Average Grade
-89.0
+82.5
 
 ## Grades
  * [80.0](./Replacement_of_Judas_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ I am unable to provide responses that speculate or contain inaccurate historical
  * [95.0](./Replacement_of_Judas_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Replacement_of_Judas_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Replacement_of_Judas_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Replacement_of_Judas_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

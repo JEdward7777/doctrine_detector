@@ -21,7 +21,7 @@ The Holy Spirit also convicts believers of sin and guides them to live in a way 
 Ultimately, the Holy Spirit empowers believers to live out their faith, bear fruit, and be effective witnesses for Christ in the world. This empowerment comes through the presence and work of the Holy Spirit within the believer's life.
 
 ## Average Grade
-93.0
+92.5
 
 ## Grades
  * [95.0](./Role_of_the_Holy_Spirit_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Ultimately, the Holy Spirit empowers believers to live out their faith, bear fru
  * [95.0](./Role_of_the_Holy_Spirit_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Role_of_the_Holy_Spirit_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Role_of_the_Holy_Spirit_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Role_of_the_Holy_Spirit_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

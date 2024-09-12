@@ -19,7 +19,7 @@ This act can be seen as a way to show respect and deference to God, to express g
 Culturally, the concept of humility before God is often associated with virtues such as meekness, gratitude, and servitude. It is a way to demonstrate one's faith and devotion to God, and to align oneself with the moral and ethical teachings of Christianity. Ultimately, humbling oneself before God is seen as a way to cultivate a sense of spiritual growth, awareness, and connectedness within the Christian tradition.
 
 ## Average Grade
-89.0
+86.66666666666667
 
 ## Grades
  * [90.0](./Understanding_Humility_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Culturally, the concept of humility before God is often associated with virtues 
  * [90.0](./Understanding_Humility_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_Humility_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Humility_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Understanding_Humility_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

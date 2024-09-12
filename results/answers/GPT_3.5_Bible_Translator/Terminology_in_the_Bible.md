@@ -15,7 +15,7 @@ Recognizing these terms helps in comprehending the context and audience of vario
 The three terms often used interchangeably to refer to God's chosen people in the Bible are Israelites, Hebrews, and the Jews. These terms are used to describe the descendants of Abraham, Isaac, and Jacob, whom God chose to be His special people and through whom He would reveal Himself to the world.
 
 ## Average Grade
-89.0
+90.0
 
 ## Grades
  * [95.0](./Terminology_in_the_Bible_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ The three terms often used interchangeably to refer to God's chosen people in th
  * [90.0](./Terminology_in_the_Bible_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Terminology_in_the_Bible_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Terminology_in_the_Bible_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [95.0](./Terminology_in_the_Bible_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

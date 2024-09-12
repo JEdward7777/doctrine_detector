@@ -21,7 +21,7 @@ Some examples of behaviors that are commonly seen as negative or harmful include
 In identifying these behaviors in ourselves and in society, we can reflect on the values that guide our actions and consider how we can contribute to creating a more positive and inclusive environment for all individuals. By promoting understanding, empathy, and equality, we can work towards building a more just and harmonious society for everyone.
 
 ## Average Grade
-82.0
+75.0
 
 ## Grades
  * [85.0](./Understanding_Unholiness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In identifying these behaviors in ourselves and in society, we can reflect on th
  * [85.0](./Understanding_Unholiness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Understanding_Unholiness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Understanding_Unholiness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Understanding_Unholiness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -27,7 +27,7 @@ In a broader sense, John's concept of antichrist can be seen as a warning agains
 So, there you have it – an answer grounded in biblical scholarship, cultural context, and a healthy dose of skepticism toward claims of divine authority!
 
 ## Average Grade
-64.0
+61.666666666666664
 
 ## Grades
  * [60.0](./Antichrist_Identification_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ So, there you have it – an answer grounded in biblical scholarship, cultural c
  * [80.0](./Antichrist_Identification_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [50.0](./Antichrist_Identification_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Antichrist_Identification_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Antichrist_Identification_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

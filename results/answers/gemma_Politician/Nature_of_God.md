@@ -42,7 +42,7 @@ Understanding the essence of God and how to appropriately connect with Him in wo
 Understanding Jesus' statement that God is a spirit encourages us to move beyond physical limitations and cultivate a deep spiritual connection with God. This understanding should lead to a more inclusive and meaningful worship experience.
 
 ## Average Grade
-88.0
+87.5
 
 ## Grades
  * [90.0](./Nature_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -50,3 +50,4 @@ Understanding Jesus' statement that God is a spirit encourages us to move beyond
  * [90.0](./Nature_of_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Nature_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Nature_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Nature_of_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

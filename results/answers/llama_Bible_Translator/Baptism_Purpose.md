@@ -25,7 +25,7 @@ According to New Testament teachings, baptism has significant spiritual implicat
 In summary, baptism is a crucial step in a Christian's journey. It signifies our union with Christ, our separation from sin, our spiritual rebirth, adoption into God's family, expression of fidelity to Jesus, inauguration of a new life empowered by the Holy Spirit, and participation in Jesus' death, burial, and resurrection.
 
 ## Average Grade
-94.4
+92.0
 
 ## Grades
  * [90.0](./Baptism_Purpose_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ In summary, baptism is a crucial step in a Christian's journey. It signifies our
  * [95.0](./Baptism_Purpose_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Baptism_Purpose_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Baptism_Purpose_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Baptism_Purpose_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

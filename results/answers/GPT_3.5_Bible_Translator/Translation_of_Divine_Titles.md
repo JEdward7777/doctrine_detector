@@ -17,7 +17,7 @@ In translating the term 'Lord Yahweh' into different languages, it is important 
 It is essential for translators to carefully consider the theological implications of the term 'Lord Yahweh' in each language and strive to maintain its meaning as the self-existent, covenant-keeping God revealed in the Hebrew Scriptures. Translators may also need to provide explanatory footnotes or glosses to help readers understand the significance of the name 'Yahweh' and its relationship to the title 'Lord' in different languages. Ultimately, the goal is to accurately convey the divine authority, faithfulness, and covenant relationship embodied in the name 'Lord Yahweh' across linguistic and cultural boundaries.
 
 ## Average Grade
-81.0
+81.66666666666667
 
 ## Grades
  * [90.0](./Translation_of_Divine_Titles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -25,3 +25,4 @@ It is essential for translators to carefully consider the theological implicatio
  * [85.0](./Translation_of_Divine_Titles_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Translation_of_Divine_Titles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Translation_of_Divine_Titles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Translation_of_Divine_Titles_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

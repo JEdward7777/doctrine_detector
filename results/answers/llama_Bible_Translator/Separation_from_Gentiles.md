@@ -29,7 +29,7 @@ However, it's essential to note that this concern for separation did not necessa
 In Christian theology, we understand that Jesus' teachings and actions challenged this Pharisaic perspective, emphasizing unity and inclusion rather than separation. As followers of Christ, we are called to love our neighbors, including those from other cultures and religions, and to share the Good News with all people (Matthew 28:19-20; Acts 10:1-48).
 
 ## Average Grade
-83.0
+83.33333333333333
 
 ## Grades
  * [85.0](./Separation_from_Gentiles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ In Christian theology, we understand that Jesus' teachings and actions challenge
  * [85.0](./Separation_from_Gentiles_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Separation_from_Gentiles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Separation_from_Gentiles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Separation_from_Gentiles_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

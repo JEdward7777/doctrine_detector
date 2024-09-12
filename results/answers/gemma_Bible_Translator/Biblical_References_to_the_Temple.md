@@ -28,7 +28,7 @@ Several scriptures in the Bible refer to the temple as the "house of Yahweh":
 These scriptures highlight the temple as a physical structure where God's presence resided and where worship and prayer took place.
 
 ## Average Grade
-89.0
+87.5
 
 ## Grades
  * [95.0](./Biblical_References_to_the_Temple_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,3 +36,4 @@ These scriptures highlight the temple as a physical structure where God's presen
  * [90.0](./Biblical_References_to_the_Temple_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Biblical_References_to_the_Temple_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Biblical_References_to_the_Temple_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Biblical_References_to_the_Temple_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

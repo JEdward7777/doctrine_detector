@@ -27,7 +27,7 @@ Throughout the Bible, God's Word illustrates the consequences of guilt and sin i
 These consequences of guilt and sin serve as a stark reminder of humanity's fallen nature and the need for salvation. The Bible presents Jesus Christ as the one who bore the punishment for our sins, reconciling us to God and providing eternal life (John 3:16-17; Romans 5:8-11).
 
 ## Average Grade
-95.0
+92.5
 
 ## Grades
  * [95.0](./Biblical_Perspective_on_Guilt_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ These consequences of guilt and sin serve as a stark reminder of humanity's fall
  * [95.0](./Biblical_Perspective_on_Guilt_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Biblical_Perspective_on_Guilt_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Biblical_Perspective_on_Guilt_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Biblical_Perspective_on_Guilt_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

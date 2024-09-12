@@ -40,7 +40,7 @@ Understanding the biblical perspective on celibacy and the different reasons for
 Jesus' reference to "eunuchs" in Matthew 19:12 likely symbolizes individuals who have embraced celibacy for spiritual reasons. This aligns with the concept of celibacy as a deliberate abstinence from sexual relations for religious motivations.
 
 ## Average Grade
-91.0
+89.16666666666667
 
 ## Grades
  * [90.0](./Eunuchs_in_the_Bible_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -48,3 +48,4 @@ Jesus' reference to "eunuchs" in Matthew 19:12 likely symbolizes individuals who
  * [95.0](./Eunuchs_in_the_Bible_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Eunuchs_in_the_Bible_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Eunuchs_in_the_Bible_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Eunuchs_in_the_Bible_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -25,7 +25,7 @@ In essence, the term "Daughter of Zion" serves as a powerful symbol of hope and 
 I hope this answer provides insight into the usage of this phrase in biblical prophecies while being respectful to all individuals who may hold different perspectives on these matters.
 
 ## Average Grade
-88.0
+85.0
 
 ## Grades
  * [90.0](./Prophetic_Usage_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ I hope this answer provides insight into the usage of this phrase in biblical pr
  * [90.0](./Prophetic_Usage_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Prophetic_Usage_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Prophetic_Usage_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Prophetic_Usage_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

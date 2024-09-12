@@ -19,7 +19,7 @@ Furthermore, the Pharisees also believed that close interactions with Gentiles c
 Additionally, historical conflicts and tensions between the Jewish people and Gentiles, as well as the prevailing social and political circumstances of the time, also contributed to the Pharisees' concerns about separation. Overall, the Pharisees' desire to maintain Jewish purity and distinctiveness, uphold religious laws, and safeguard against outside influences were key factors in their emphasis on separating the Jewish people from the Gentiles.
 
 ## Average Grade
-87.0
+87.5
 
 ## Grades
  * [90.0](./Separation_from_Gentiles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Additionally, historical conflicts and tensions between the Jewish people and Ge
  * [90.0](./Separation_from_Gentiles_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Separation_from_Gentiles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Separation_from_Gentiles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Separation_from_Gentiles_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

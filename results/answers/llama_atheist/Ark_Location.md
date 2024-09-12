@@ -27,7 +27,7 @@ While the biblical account provides a clear description of the Ark's location wi
 In conclusion, based on our current understanding of biblical scholarship and archaeology, we can confidently say that the Ark of the Covenant was placed within the Holy of Holies, a sacred space within the Tabernacle. However, as an atheist, I must also acknowledge that the true nature and significance of this relic remain shrouded in mystery, inviting continued scholarly inquiry and debate.
 
 ## Average Grade
-63.0
+60.833333333333336
 
 ## Grades
  * [60.0](./Ark_Location_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In conclusion, based on our current understanding of biblical scholarship and ar
  * [60.0](./Ark_Location_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [50.0](./Ark_Location_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Ark_Location_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Ark_Location_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

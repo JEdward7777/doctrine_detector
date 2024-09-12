@@ -27,7 +27,7 @@ From a cultural perspective, it's worth noting that the temptation narrative can
 In conclusion, while we cannot directly access Jesus' thoughts or emotions, his response to Satan's temptations can be seen as an example of effective coping mechanisms, reframing, and reaffirming one's values and identity. These strategies can be applied to our own lives, helping us navigate challenges and stay true to our core beliefs and principles.
 
 ## Average Grade
-65.0
+60.833333333333336
 
 ## Grades
  * [60.0](./Understanding_Temptation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In conclusion, while we cannot directly access Jesus' thoughts or emotions, his 
  * [70.0](./Understanding_Temptation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [50.0](./Understanding_Temptation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Temptation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Understanding_Temptation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -19,7 +19,7 @@ Sanctification is associated with moral and spiritual growth, inner renewal, and
 For atheists and non-believers, sanctification may not hold the same spiritual significance, but the idea of striving for personal growth, ethical behavior, and a sense of purpose could still be relevant and valuable aspects of human experience.
 
 ## Average Grade
-86.0
+81.66666666666667
 
 ## Grades
  * [90.0](./Definition_of_Sanctification_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ For atheists and non-believers, sanctification may not hold the same spiritual s
  * [85.0](./Definition_of_Sanctification_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Definition_of_Sanctification_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Definition_of_Sanctification_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Definition_of_Sanctification_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

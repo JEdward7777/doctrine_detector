@@ -27,7 +27,7 @@ King Solomon built the Temple (also known as the First Temple) in Jerusalem, whi
 In this sense, the Tabernacle ceased to be the central place of worship because God had instructed David to prepare for something new – the Temple, which would serve as a permanent dwelling-place for God's glory and the Israelites' worship.
 
 ## Average Grade
-93.6
+93.83333333333333
 
 ## Grades
  * [98.0](./Transition_from_Tabernacle_to_Temple_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ In this sense, the Tabernacle ceased to be the central place of worship because 
  * [95.0](./Transition_from_Tabernacle_to_Temple_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Transition_from_Tabernacle_to_Temple_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Transition_from_Tabernacle_to_Temple_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [95.0](./Transition_from_Tabernacle_to_Temple_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -27,7 +27,7 @@ What a thought-provoking question! As we explore the concept of birthright in th
 As we consider these applications of birthright within a Christian family, I believe it's crucial that we approach this topic with sensitivity, compassion, and an openness to the Holy Spirit's guidance. By doing so, we can foster a deeper understanding of our roles and responsibilities within our families while honoring God's plan for each individual.
 
 ## Average Grade
-85.0
+83.33333333333333
 
 ## Grades
  * [90.0](./Firstborn_Blessing_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ As we consider these applications of birthright within a Christian family, I bel
  * [85.0](./Firstborn_Blessing_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Firstborn_Blessing_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Firstborn_Blessing_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Firstborn_Blessing_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

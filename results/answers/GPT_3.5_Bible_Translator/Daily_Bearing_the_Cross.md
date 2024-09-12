@@ -19,7 +19,7 @@ Taking up your cross refers to a willingness to endure self-denial, suffering, a
 As Christians, we are called to imitate Christ's sacrificial love and obedience, knowing that following Him may require us to go through difficulties or opposition. By taking up our cross daily and following Jesus, we show our dedication to Him and our willingness to walk in His ways, no matter the cost.
 
 ## Average Grade
-94.0
+94.16666666666667
 
 ## Grades
  * [95.0](./Daily_Bearing_the_Cross_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ As Christians, we are called to imitate Christ's sacrificial love and obedience,
  * [95.0](./Daily_Bearing_the_Cross_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Daily_Bearing_the_Cross_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Daily_Bearing_the_Cross_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [95.0](./Daily_Bearing_the_Cross_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -19,7 +19,7 @@ For Christians, a clear conscience is often associated with living a virtuous li
 Ultimately, having a clear conscience in Christianity is about maintaining a sense of integrity, honesty, and goodness in one's thoughts, words, and deeds, and seeking reconciliation with God and others when necessary. It can bring a deep sense of peace, freedom, and inner harmony, knowing that one is living in accordance with the principles of faith and righteousness.
 
 ## Average Grade
-87.0
+86.66666666666667
 
 ## Grades
  * [95.0](./Clear_Conscience_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Ultimately, having a clear conscience in Christianity is about maintaining a sen
  * [95.0](./Clear_Conscience_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Clear_Conscience_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Clear_Conscience_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Clear_Conscience_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

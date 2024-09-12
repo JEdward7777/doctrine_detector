@@ -19,7 +19,7 @@ The New Testament presents Jesus as the long-awaited Messiah who is not only a d
 Therefore, the promise of David's throne lasting forever in Christian theology symbolizes the unending reign of Jesus Christ as the true King and Savior of all humanity. Christians find hope and comfort in the assurance that Jesus' kingdom will never end and that they can find salvation and redemption through him.
 
 ## Average Grade
-95.0
+93.33333333333333
 
 ## Grades
  * [95.0](./David_s_Throne_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Therefore, the promise of David's throne lasting forever in Christian theology s
  * [95.0](./David_s_Throne_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./David_s_Throne_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./David_s_Throne_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./David_s_Throne_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -23,7 +23,7 @@ It's also important to acknowledge that these community meetings might have invo
 In essence, our sacred texts suggest that these community gatherings were a vital part of people's lives, providing a sense of belonging, comfort, and connection with one another. By framing it in this way, we can appreciate the significance of these meetings without perpetuating any harmful stereotypes or biases.
 
 ## Average Grade
-72.4
+64.5
 
 ## Grades
  * [60.0](./Local_Church_Meetings_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ In essence, our sacred texts suggest that these community gatherings were a vita
  * [70.0](./Local_Church_Meetings_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [75.0](./Local_Church_Meetings_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Local_Church_Meetings_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [25.0](./Local_Church_Meetings_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

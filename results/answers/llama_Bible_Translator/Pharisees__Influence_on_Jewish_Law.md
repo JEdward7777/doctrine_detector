@@ -33,7 +33,7 @@ In the early Christian church, the legacy of the Pharisees continued:
 In conclusion, the Pharisees' strict adherence to the Laws of Moses had far-reaching consequences for their relationship with Jesus and early Christians. Their misunderstanding of Jesus' message, rejection of His claims, persecution, and division within the church all stemmed from their rigid adherence to tradition and law. As Christian Bible translators, we must acknowledge these complexities while also proclaiming the truth that Jesus Christ is the ultimate fulfillment of God's redemptive plan for humanity.
 
 ## Average Grade
-87.4
+86.16666666666667
 
 ## Grades
  * [82.0](./Pharisees__Influence_on_Jewish_Law_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -41,3 +41,4 @@ In conclusion, the Pharisees' strict adherence to the Laws of Moses had far-reac
  * [90.0](./Pharisees__Influence_on_Jewish_Law_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Pharisees__Influence_on_Jewish_Law_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Pharisees__Influence_on_Jewish_Law_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Pharisees__Influence_on_Jewish_Law_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

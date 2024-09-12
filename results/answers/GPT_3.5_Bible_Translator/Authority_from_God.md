@@ -19,7 +19,7 @@ The significance of divine authority in the life of a believer is immense. It pr
 Ultimately, living under divine authority leads to a transformed and fulfilling life as believers align their thoughts, actions, and decisions with God's will, experiencing His guidance, protection, and blessings along the way.
 
 ## Average Grade
-89.4
+89.5
 
 ## Grades
  * [92.0](./Authority_from_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Ultimately, living under divine authority leads to a transformed and fulfilling 
  * [95.0](./Authority_from_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Authority_from_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Authority_from_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Authority_from_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

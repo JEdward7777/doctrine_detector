@@ -25,7 +25,7 @@ The Bible presents various instances where prayer is depicted as a means of comm
 4. Jesus' Teachings on Prayer (Matthew 6:5-15; Luke 11:1-13): In these passages, Jesus teaches his followers about the importance of prayer and how to pray effectively. He emphasizes the need for humility, sincerity, and persistence in one's prayers.
 
 ## Average Grade
-84.4
+82.83333333333333
 
 ## Grades
  * [82.0](./Biblical_Examples_of_Prayer_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ The Bible presents various instances where prayer is depicted as a means of comm
  * [85.0](./Biblical_Examples_of_Prayer_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Biblical_Examples_of_Prayer_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Biblical_Examples_of_Prayer_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Biblical_Examples_of_Prayer_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

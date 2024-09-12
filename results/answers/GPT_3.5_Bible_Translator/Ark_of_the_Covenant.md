@@ -25,7 +25,7 @@ The Ark of the Covenant is a sacred object described in the Bible as a chest mad
 In Christian theology, the Ark of the Covenant is often seen as a foreshadowing of Jesus Christ, who embodies the presence of God among his people, fulfills the terms of the covenant through his sacrificial death, and provides salvation, protection, and guidance to believers.
 
 ## Average Grade
-91.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Ark_of_the_Covenant_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ In Christian theology, the Ark of the Covenant is often seen as a foreshadowing 
  * [95.0](./Ark_of_the_Covenant_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Ark_of_the_Covenant_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Ark_of_the_Covenant_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [95.0](./Ark_of_the_Covenant_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

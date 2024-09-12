@@ -28,7 +28,7 @@ The term "faithless" is often used in a negative sense, implying that someone ha
 However, it is important to note that even faithless individuals are still accountable to God (Romans 2:6-11) and can experience His mercy and restoration if they repent and turn back to Him (Luke 15:18-24).
 
 ## Average Grade
-89.4
+89.5
 
 ## Grades
  * [90.0](./Understanding_Faithlessness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,3 +36,4 @@ However, it is important to note that even faithless individuals are still accou
  * [95.0](./Understanding_Faithlessness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Understanding_Faithlessness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Faithlessness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Understanding_Faithlessness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

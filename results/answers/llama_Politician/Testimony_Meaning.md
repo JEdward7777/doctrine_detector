@@ -27,7 +27,7 @@ In conclusion, testimonies play a vital role in the Bible by authenticating clai
 Now, I hope my answer has been thorough yet sensitive to the nuances of this important biblical concept. I'm more than happy to address any further questions or concerns you may have!
 
 ## Average Grade
-89.0
+85.0
 
 ## Grades
  * [90.0](./Testimony_Meaning_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ Now, I hope my answer has been thorough yet sensitive to the nuances of this imp
  * [90.0](./Testimony_Meaning_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Testimony_Meaning_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Testimony_Meaning_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [65.0](./Testimony_Meaning_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -19,7 +19,7 @@ In the Old Testament, there are references to individuals such as Job and Noah w
 Overall, being blameless before God is about striving to live a righteous and moral life, acknowledging one's shortcomings, seeking forgiveness, and actively working towards a closer relationship with God. It is not necessarily about being perfect, but rather about acknowledging one's imperfections and making efforts to grow spiritually and morally.
 
 ## Average Grade
-88.0
+86.66666666666667
 
 ## Grades
  * [90.0](./Understanding_Blamelessness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Overall, being blameless before God is about striving to live a righteous and mo
  * [90.0](./Understanding_Blamelessness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Understanding_Blamelessness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Blamelessness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Understanding_Blamelessness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

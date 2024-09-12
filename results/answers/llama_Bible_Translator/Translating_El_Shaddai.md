@@ -39,7 +39,7 @@ Some examples of how "El Shaddai" might be translated in different languages inc
 Ultimately, the goal of translating "El Shaddai" should be to convey the truth about God's character and attributes in a way that is both accurate and culturally relevant.
 
 ## Average Grade
-81.0
+77.5
 
 ## Grades
  * [80.0](./Translating_El_Shaddai_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -47,3 +47,4 @@ Ultimately, the goal of translating "El Shaddai" should be to convey the truth a
  * [85.0](./Translating_El_Shaddai_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Translating_El_Shaddai_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Translating_El_Shaddai_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Translating_El_Shaddai_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -59,7 +59,7 @@ Despite the shift in emphasis from ritual to moral purity, the concept of purifi
 The concept of purification evolves from Old Testament ritual practices to New Testament transformation, emphasizing the ultimate purification found in Christ's sacrifice and the work of the Holy Spirit.
 
 ## Average Grade
-92.0
+90.83333333333333
 
 ## Grades
  * [95.0](./New_Testament_Redemption_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -67,3 +67,4 @@ The concept of purification evolves from Old Testament ritual practices to New T
  * [95.0](./New_Testament_Redemption_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./New_Testament_Redemption_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./New_Testament_Redemption_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./New_Testament_Redemption_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

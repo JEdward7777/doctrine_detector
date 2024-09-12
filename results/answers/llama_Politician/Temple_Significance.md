@@ -25,7 +25,7 @@ Now, I know some may ask about the nuances surrounding the temple's construction
 So, to answer your question: the purpose of King Solomon's temple was multifaceted, serving as a place of worship, a symbol of unity, and a testament to human ingenuity. And as we move forward, let us draw inspiration from this iconic structure by cultivating understanding, empathy, and mutual respect – values that are essential for building a brighter future for all people.
 
 ## Average Grade
-63.0
+57.5
 
 ## Grades
  * [60.0](./Temple_Significance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ So, to answer your question: the purpose of King Solomon's temple was multifacet
  * [65.0](./Temple_Significance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [60.0](./Temple_Significance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Temple_Significance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [30.0](./Temple_Significance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

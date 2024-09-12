@@ -23,7 +23,7 @@ What a great question! In the early Christian era, fellowship was a vital aspect
 In summary, early Christians expressed their fellowship through shared meals, house churches, prayer and worship, resource sharing, and mutual support. These practices not only reflected Jesus' teachings but also demonstrated the power of His love and unity in action.
 
 ## Average Grade
-89.0
+89.16666666666667
 
 ## Grades
  * [95.0](./Practices_of_Fellowship_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ In summary, early Christians expressed their fellowship through shared meals, ho
  * [90.0](./Practices_of_Fellowship_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Practices_of_Fellowship_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Practices_of_Fellowship_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Practices_of_Fellowship_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

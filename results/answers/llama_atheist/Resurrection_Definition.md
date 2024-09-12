@@ -25,7 +25,7 @@ Furthermore, as an atheist, I must also consider the possibility that the story 
 In conclusion, while I understand the cultural significance of the resurrection in Christian theology, as an atheist scholar, I must approach this topic with a critical eye and acknowledge the methodological limitations of faith-based explanations.
 
 ## Average Grade
-66.0
+65.0
 
 ## Grades
  * [60.0](./Resurrection_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ In conclusion, while I understand the cultural significance of the resurrection 
  * [65.0](./Resurrection_Definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [60.0](./Resurrection_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Resurrection_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Resurrection_Definition_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -19,7 +19,7 @@ Additionally, honoring others is a reflection of the love and grace that God has
 Ultimately, honoring God and others is a manifestation of our faith in action and a witness to the world of the love, mercy, and grace of God. It is through our actions and attitudes towards God and others that we demonstrate our commitment to following Jesus and living out His teachings in our daily lives.
 
 ## Average Grade
-93.0
+92.5
 
 ## Grades
  * [95.0](./Importance_of_Honor_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Ultimately, honoring God and others is a manifestation of our faith in action an
  * [95.0](./Importance_of_Honor_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Importance_of_Honor_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Importance_of_Honor_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Importance_of_Honor_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

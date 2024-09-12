@@ -25,7 +25,7 @@ Ultimately, I believe that discerning one's "calling" or "purpose" requires a de
 So, to answer your question, I would say that discerning one's "calling" or "purpose" is a highly personal and subjective experience that can be informed by faith, values, passions, and aspirations. And, as someone who values inclusivity and diversity, I believe that we can learn from each other's experiences and approaches, even if we don't share the same beliefs or perspectives.
 
 ## Average Grade
-71.0
+67.5
 
 ## Grades
  * [75.0](./Purpose_in_Calling_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ So, to answer your question, I would say that discerning one's "calling" or "pur
  * [80.0](./Purpose_in_Calling_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Purpose_in_Calling_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Purpose_in_Calling_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Purpose_in_Calling_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

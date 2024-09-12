@@ -22,7 +22,7 @@ According to the New Testament, particularly in Acts 2:42-47 and 1 Corinthians 1
 These meetings were often held in homes, as the early church did not have dedicated buildings. The frequency of these gatherings varied from place to place, but they seem to have been a regular part of the believers' lives (Acts 2:46; 5:42).
 
 ## Average Grade
-86.0
+86.66666666666667
 
 ## Grades
  * [90.0](./Local_Church_Meetings_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,3 +30,4 @@ These meetings were often held in homes, as the early church did not have dedica
  * [95.0](./Local_Church_Meetings_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Local_Church_Meetings_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Local_Church_Meetings_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Local_Church_Meetings_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

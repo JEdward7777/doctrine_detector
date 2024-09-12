@@ -25,7 +25,7 @@ The ark floated on the waters for 150 days, and when the floodwaters receded, No
 The purpose of the ark, therefore, was to preserve human life and a remnant of animal species from the destruction caused by the flood, allowing God's plan for humanity to continue through Noah's family.
 
 ## Average Grade
-92.0
+92.5
 
 ## Grades
  * [90.0](./Noah_s_Ark_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ The purpose of the ark, therefore, was to preserve human life and a remnant of a
  * [95.0](./Noah_s_Ark_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Noah_s_Ark_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Noah_s_Ark_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [95.0](./Noah_s_Ark_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

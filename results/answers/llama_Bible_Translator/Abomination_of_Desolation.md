@@ -27,7 +27,7 @@ The significance of the "abomination of desolation" lies in its role as a warnin
 As Christians, it is crucial that we approach this prophecy with a biblical perspective, recognizing Jesus' intention to comfort His people during times of great uncertainty. By understanding the "abomination of desolation" as a warning sign of impending judgment, we can better prepare ourselves for the return of our Lord and Savior, Jesus Christ.
 
 ## Average Grade
-91.0
+90.83333333333333
 
 ## Grades
  * [85.0](./Abomination_of_Desolation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ As Christians, it is crucial that we approach this prophecy with a biblical pers
  * [95.0](./Abomination_of_Desolation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Abomination_of_Desolation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Abomination_of_Desolation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Abomination_of_Desolation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -25,7 +25,7 @@ In the New Testament, the term "evangelist" specifically refers to those who pro
 In Christian theology, the term "evangelist" often refers to those who actively share and spread the gospel message to others. This includes pastors, missionaries, and other believers who engage in evangelism.
 
 ## Average Grade
-85.0
+85.83333333333333
 
 ## Grades
  * [95.0](./Definition_of_Evangelist_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ In Christian theology, the term "evangelist" often refers to those who actively 
  * [90.0](./Definition_of_Evangelist_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Definition_of_Evangelist_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Definition_of_Evangelist_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Definition_of_Evangelist_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

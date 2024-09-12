@@ -28,7 +28,7 @@ Here are a few possible approaches:
 Ultimately, the goal should be to convey the essence and significance of Jesus' message while being sensitive to the linguistic and cultural nuances of the target audience. By taking a culturally retributed approach, we can ensure that the gospel is communicated in a way that resonates with diverse cultures and backgrounds.
 
 ## Average Grade
-52.0
+53.333333333333336
 
 ## Grades
  * [40.0](./Kingdom_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,3 +36,4 @@ Ultimately, the goal should be to convey the essence and significance of Jesus' 
  * [30.0](./Kingdom_of_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Kingdom_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Kingdom_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Kingdom_of_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

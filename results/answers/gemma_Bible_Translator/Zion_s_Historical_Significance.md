@@ -42,7 +42,7 @@ Understanding the importance of Mount Zion in the biblical narrative and its con
 Therefore, Mount Zion played a pivotal role in shaping David's life and reign, serving as the physical and spiritual center of his kingdom.
 
 ## Average Grade
-89.0
+89.16666666666667
 
 ## Grades
  * [95.0](./Zion_s_Historical_Significance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -50,3 +50,4 @@ Therefore, Mount Zion played a pivotal role in shaping David's life and reign, s
  * [95.0](./Zion_s_Historical_Significance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Zion_s_Historical_Significance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Zion_s_Historical_Significance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Zion_s_Historical_Significance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

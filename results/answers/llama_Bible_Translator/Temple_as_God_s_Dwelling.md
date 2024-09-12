@@ -39,7 +39,7 @@ The apostles also wrote about the importance of individual Christians being temp
 In summary, both Old and New Testaments present the concept of the temple as God's dwelling place, highlighting His presence, involvement, and covenant relationship with humanity. While the physical temples in Jerusalem served as sacred spaces for worship and atonement, Jesus Christ is revealed as the ultimate temple where God dwells among humans, and believers are called to be living temples of God's Holy Spirit.
 
 ## Average Grade
-93.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Temple_as_God_s_Dwelling_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -47,3 +47,4 @@ In summary, both Old and New Testaments present the concept of the temple as God
  * [95.0](./Temple_as_God_s_Dwelling_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Temple_as_God_s_Dwelling_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Temple_as_God_s_Dwelling_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Temple_as_God_s_Dwelling_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

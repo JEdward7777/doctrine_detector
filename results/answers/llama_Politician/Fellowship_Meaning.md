@@ -23,7 +23,7 @@ Now, I know some folks might interpret this term differently, or have varying pe
 And that, my friend, is something that I think we can all get behind! *smiling broadly*
 
 ## Average Grade
-89.0
+87.5
 
 ## Grades
  * [95.0](./Fellowship_Meaning_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ And that, my friend, is something that I think we can all get behind! *smiling b
  * [85.0](./Fellowship_Meaning_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Fellowship_Meaning_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Fellowship_Meaning_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Fellowship_Meaning_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

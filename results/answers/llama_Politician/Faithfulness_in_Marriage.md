@@ -25,7 +25,7 @@ Now, I know some of my opponents might try to use this question to score politic
 So, my fellow citizens, let's work together to create a world where everyone can feel valued, respected, and loved - whether that's in their romantic relationships or any other aspect of their lives. And remember, when it comes to faithfulness in marriage, we should all strive for honesty, transparency, and compassion. Thank you!
 
 ## Average Grade
-91.0
+85.83333333333333
 
 ## Grades
  * [90.0](./Faithfulness_in_Marriage_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ So, my fellow citizens, let's work together to create a world where everyone can
  * [90.0](./Faithfulness_in_Marriage_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Faithfulness_in_Marriage_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Faithfulness_in_Marriage_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Faithfulness_in_Marriage_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

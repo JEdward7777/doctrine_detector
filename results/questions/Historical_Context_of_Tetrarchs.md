@@ -11,22 +11,22 @@ The division created local rulers like Herod Antipas, which impacted Jewish gove
 A clear view of this historical context is essential for comprehending the socio-political dynamics faced by Jesus and the early church.
 
 ## Average Grade
-86.34
+85.4954128440367
 
 ## Grades
- * [74.0 llama Politician](../answers/llama_Politician/Historical_Context_of_Tetrarchs.md)
- * [79.0 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Historical_Context_of_Tetrarchs.md)
+ * [71.66666666666667 llama Politician](../answers/llama_Politician/Historical_Context_of_Tetrarchs.md)
+ * [79.16666666666667 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Historical_Context_of_Tetrarchs.md)
+ * [81.66666666666667 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Historical_Context_of_Tetrarchs.md)
+ * [81.66666666666667 llama atheist](../answers/llama_atheist/Historical_Context_of_Tetrarchs.md)
  * [83.0 gemma Imam](../answers/gemma_Imam/Historical_Context_of_Tetrarchs.md)
  * [83.0 llama Imam](../answers/llama_Imam/Historical_Context_of_Tetrarchs.md)
- * [84.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Historical_Context_of_Tetrarchs.md)
- * [84.0 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Historical_Context_of_Tetrarchs.md)
- * [84.0 llama atheist](../answers/llama_atheist/Historical_Context_of_Tetrarchs.md)
  * [84.0 mistral Imam](../answers/mistral_Imam/Historical_Context_of_Tetrarchs.md)
+ * [84.16666666666667 gemma Bible Translator](../answers/gemma_Bible_Translator/Historical_Context_of_Tetrarchs.md)
  * [85.0 llama Bible Translator](../answers/llama_Bible_Translator/Historical_Context_of_Tetrarchs.md)
  * [85.0 mistral Politician](../answers/mistral_Politician/Historical_Context_of_Tetrarchs.md)
- * [89.0 gemma atheist](../answers/gemma_atheist/Historical_Context_of_Tetrarchs.md)
- * [89.0 gemma Politician](../answers/gemma_Politician/Historical_Context_of_Tetrarchs.md)
- * [89.0 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Historical_Context_of_Tetrarchs.md)
+ * [85.83333333333333 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Historical_Context_of_Tetrarchs.md)
+ * [87.5 gemma atheist](../answers/gemma_atheist/Historical_Context_of_Tetrarchs.md)
+ * [88.33333333333333 gemma Politician](../answers/gemma_Politician/Historical_Context_of_Tetrarchs.md)
  * [89.0 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Historical_Context_of_Tetrarchs.md)
  * [89.4 mistral Bible Translator](../answers/mistral_Bible_Translator/Historical_Context_of_Tetrarchs.md)
  * [89.4 mistral atheist](../answers/mistral_atheist/Historical_Context_of_Tetrarchs.md)

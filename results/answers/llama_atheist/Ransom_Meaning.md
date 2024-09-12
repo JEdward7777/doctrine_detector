@@ -29,7 +29,7 @@ It's worth noting that this concept has undergone significant evolution througho
 As an atheistic scholar, I acknowledge the cultural significance of this concept within Western Christianity while also recognizing its limitations and problematic aspects. Nevertheless, I believe it remains a crucial aspect of Christian theology, warranting continued scholarly scrutiny and critique.
 
 ## Average Grade
-89.0
+85.83333333333333
 
 ## Grades
  * [90.0](./Ransom_Meaning_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ As an atheistic scholar, I acknowledge the cultural significance of this concept
  * [85.0](./Ransom_Meaning_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Ransom_Meaning_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Ransom_Meaning_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Ransom_Meaning_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

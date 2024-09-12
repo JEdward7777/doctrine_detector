@@ -37,7 +37,7 @@ The nine fruits of the Holy Spirit, as described in Galatians 5:22-23 and Romans
 These fruits are not something you can manufacture or force; they're a natural byproduct of living in harmony with the Holy Spirit (Galatians 5:16-21). As we seek to exhibit these qualities in our lives, we'll become more like Jesus Christ and glorify His name.
 
 ## Average Grade
-94.0
+93.33333333333333
 
 ## Grades
  * [95.0](./Fruits_of_Wisdom_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -45,3 +45,4 @@ These fruits are not something you can manufacture or force; they're a natural b
  * [95.0](./Fruits_of_Wisdom_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Fruits_of_Wisdom_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Fruits_of_Wisdom_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Fruits_of_Wisdom_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

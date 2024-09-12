@@ -15,7 +15,7 @@ Examining the relationship between faith, signs, and God's revelation.
 I believe that signs and miracles have been viewed by many as a way to demonstrate the power and truth of spiritual teachings and beliefs. These events are often seen as evidence of a higher power at work, and they have the potential to inspire and provide hope to those who witness them. It is important to approach discussions of signs and miracles with sensitivity and respect for differing beliefs and interpretations, understanding that not everyone may share the same perspective on these phenomena. Ultimately, I think it is crucial to focus on fostering understanding and empathy in discussions of spirituality and faith.
 
 ## Average Grade
-68.0
+66.66666666666667
 
 ## Grades
  * [80.0](./Signs_and_Miracles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ I believe that signs and miracles have been viewed by many as a way to demonstra
  * [70.0](./Signs_and_Miracles_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [60.0](./Signs_and_Miracles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Signs_and_Miracles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Signs_and_Miracles_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

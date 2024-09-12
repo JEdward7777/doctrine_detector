@@ -23,7 +23,7 @@ Praising God, on the other hand, is an act of reverence and adoration. It's a wa
 So, you see, blessing and praising are two sides of the same coin. By acknowledging the divine presence in every aspect of life, we're essentially expressing gratitude and reverence for the sacred fabric that binds us all together.
 
 ## Average Grade
-85.0
+82.5
 
 ## Grades
  * [75.0](./The_Role_of_Blessing_in_Worship_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ So, you see, blessing and praising are two sides of the same coin. By acknowledg
  * [95.0](./The_Role_of_Blessing_in_Worship_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./The_Role_of_Blessing_in_Worship_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./The_Role_of_Blessing_in_Worship_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./The_Role_of_Blessing_in_Worship_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

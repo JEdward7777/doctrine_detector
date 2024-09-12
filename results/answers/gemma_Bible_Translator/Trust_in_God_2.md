@@ -43,7 +43,7 @@ Understanding the foundation of Christian faith in relation to trust.
 - His love and power renew our minds, change our hearts, and empower us to live for him.
 
 ## Average Grade
-82.0
+80.0
 
 ## Grades
  * [90.0](./Trust_in_God_2_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -51,3 +51,4 @@ Understanding the foundation of Christian faith in relation to trust.
  * [80.0](./Trust_in_God_2_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Trust_in_God_2_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Trust_in_God_2_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Trust_in_God_2_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

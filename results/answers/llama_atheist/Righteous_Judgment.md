@@ -29,7 +29,7 @@ Furthermore, some scholars propose that the concept of wrath might be seen as an
 Ultimately, the relationship between God's love/mercy and wrath remains a complex and multifaceted issue, open to diverse interpretations within Christian theology. While these suggestions may offer some insights, it's essential for Christians to engage with their own tradition and biblical scholarship to develop a deeper understanding of this paradox.
 
 ## Average Grade
-88.0
+85.0
 
 ## Grades
  * [90.0](./Righteous_Judgment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ Ultimately, the relationship between God's love/mercy and wrath remains a comple
  * [85.0](./Righteous_Judgment_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Righteous_Judgment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Righteous_Judgment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Righteous_Judgment_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

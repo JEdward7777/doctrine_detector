@@ -21,7 +21,7 @@ Furthermore, the kingdom of God is characterized by love, justice, mercy, and pe
 Ultimately, the kingdom of God points to the fulfillment of God's purposes in the world and the restoration of all things in Christ. It is a hopeful and redemptive vision that inspires us to live with faith, hope, and love as we await the coming of God's kingdom in its fullness.
 
 ## Average Grade
-91.4
+91.16666666666667
 
 ## Grades
  * [92.0](./Understanding_the_Kingdom_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Ultimately, the kingdom of God points to the fulfillment of God's purposes in th
  * [90.0](./Understanding_the_Kingdom_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_the_Kingdom_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Understanding_the_Kingdom_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Understanding_the_Kingdom_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

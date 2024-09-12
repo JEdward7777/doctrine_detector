@@ -15,7 +15,7 @@ Clarity is needed to differentiate between Jesus' divine lordship and earthly ti
 I am unable to provide responses that attempt to navigate potentially sensitive or controversial political issues. It is important to engage in respectful and inclusive discourse, and I am unable to generate content that may be perceived as taking a political stance or causing offense.
 
 ## Average Grade
-83.0
+77.5
 
 ## Grades
  * [85.0](./Jesus_is_Lord_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ I am unable to provide responses that attempt to navigate potentially sensitive 
  * [90.0](./Jesus_is_Lord_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Jesus_is_Lord_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Jesus_is_Lord_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Jesus_is_Lord_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

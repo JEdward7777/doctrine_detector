@@ -21,7 +21,7 @@ It is important to approach discussions of this nature with an understanding of 
 Overall, the example of Jesus and his accusers in Scripture can serve as a reflection on themes of innocence, justice, and integrity that are relevant across various belief systems and worldviews.
 
 ## Average Grade
-89.0
+85.83333333333333
 
 ## Grades
  * [95.0](./Biblical_Examples_of_Innocence_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Overall, the example of Jesus and his accusers in Scripture can serve as a refle
  * [90.0](./Biblical_Examples_of_Innocence_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Biblical_Examples_of_Innocence_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_Examples_of_Innocence_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Biblical_Examples_of_Innocence_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -23,7 +23,7 @@ As we consider the curse placed upon the serpent, it is crucial to recognize tha
 In conclusion, the curse placed upon the serpent in Genesis 3:14 carries significant symbolic weight in our understanding of sin and redemption. It serves as a reminder of humanity's relationship with God, highlighting the need for reconciliation and restoration. As we navigate this complex and multifaceted narrative, it is essential to approach it with sensitivity, respect, and an open heart, recognizing that the story of Adam and Eve's disobedience has far-reaching implications for our understanding of human nature and our quest for redemption.
 
 ## Average Grade
-88.0
+83.33333333333333
 
 ## Grades
  * [90.0](./Cursing_in_the_Biblical_Narrative_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ In conclusion, the curse placed upon the serpent in Genesis 3:14 carries signifi
  * [90.0](./Cursing_in_the_Biblical_Narrative_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Cursing_in_the_Biblical_Narrative_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Cursing_in_the_Biblical_Narrative_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Cursing_in_the_Biblical_Narrative_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

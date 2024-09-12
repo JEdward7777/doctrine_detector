@@ -39,7 +39,7 @@ From an atheistic perspective, interpreting Romans 8:23 requires careful conside
 Romans 8:23 is a complex and multifaceted verse that has been interpreted in various ways throughout history. While it offers hope and transformation to believers, it is important to approach the verse with sensitivity to its cultural context and avoid making unsupported claims about biological transformation.
 
 ## Average Grade
-82.0
+73.33333333333333
 
 ## Grades
  * [90.0](./Looking_Forward_to_Adoption_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -47,3 +47,4 @@ Romans 8:23 is a complex and multifaceted verse that has been interpreted in var
  * [80.0](./Looking_Forward_to_Adoption_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Looking_Forward_to_Adoption_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Looking_Forward_to_Adoption_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [30.0](./Looking_Forward_to_Adoption_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -24,7 +24,7 @@ God's judgment differs from human judgment in several key ways:
 In summary, God's judgment is the ultimate standard of justice and righteousness, and it surpasses human judgment in every way. We can trust in God's perfect judgment to ultimately bring about justice in the world.
 
 ## Average Grade
-93.4
+92.0
 
 ## Grades
  * [95.0](./Understanding_Divine_Judgment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,3 +32,4 @@ In summary, God's judgment is the ultimate standard of justice and righteousness
  * [95.0](./Understanding_Divine_Judgment_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_Divine_Judgment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Understanding_Divine_Judgment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Understanding_Divine_Judgment_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

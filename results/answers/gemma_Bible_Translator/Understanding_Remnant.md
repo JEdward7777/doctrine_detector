@@ -60,7 +60,7 @@ The concept of the 'remnant' in the Bible offers encouragement and inspiration t
 The concept of the 'remnant' in the Bible offers encouragement and inspiration to believers facing persecution by reminding them of God's faithfulness, purpose, ultimate victory, and the importance of community.
 
 ## Average Grade
-90.4
+88.66666666666667
 
 ## Grades
  * [90.0](./Understanding_Remnant_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -68,3 +68,4 @@ The concept of the 'remnant' in the Bible offers encouragement and inspiration t
  * [85.0](./Understanding_Remnant_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_Remnant_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Understanding_Remnant_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Understanding_Remnant_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

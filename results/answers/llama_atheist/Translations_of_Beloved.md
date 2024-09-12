@@ -34,7 +34,7 @@ Keep in mind that these translations are not absolute or definitive, as the mean
 As an atheist scholar, I believe it's crucial to approach translation with a critical and culturally sensitive perspective, avoiding assumptions about divine inspiration or inherent moral values. By doing so, we can uncover the rich complexities of human experience and emotions, as reflected in the languages and cultures that have shaped our understanding of love.
 
 ## Average Grade
-52.0
+51.666666666666664
 
 ## Grades
  * [60.0](./Translations_of_Beloved_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -42,3 +42,4 @@ As an atheist scholar, I believe it's crucial to approach translation with a cri
  * [50.0](./Translations_of_Beloved_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [50.0](./Translations_of_Beloved_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Translations_of_Beloved_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Translations_of_Beloved_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

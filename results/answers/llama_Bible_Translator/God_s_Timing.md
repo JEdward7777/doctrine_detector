@@ -34,7 +34,7 @@ To deepen your faith in God's plans, meditate on passages that reveal His sovere
 As you reflect on these passages and the concept of appointed times, may your faith be strengthened in the knowledge that God is always working according to His perfect will, even when we cannot see what He's doing.
 
 ## Average Grade
-95.0
+94.16666666666667
 
 ## Grades
  * [95.0](./God_s_Timing_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -42,3 +42,4 @@ As you reflect on these passages and the concept of appointed times, may your fa
  * [95.0](./God_s_Timing_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./God_s_Timing_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./God_s_Timing_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./God_s_Timing_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

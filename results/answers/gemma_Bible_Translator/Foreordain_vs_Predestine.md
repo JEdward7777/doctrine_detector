@@ -42,7 +42,7 @@ Both terms are found in the Bible:
 Both "foreordain" and "predestine" are essential concepts in understanding God's sovereign work in salvation. While they are related, they represent different aspects of the same divine decree.
 
 ## Average Grade
-94.0
+93.33333333333333
 
 ## Grades
  * [95.0](./Foreordain_vs_Predestine_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -50,3 +50,4 @@ Both "foreordain" and "predestine" are essential concepts in understanding God's
  * [95.0](./Foreordain_vs_Predestine_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Foreordain_vs_Predestine_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Foreordain_vs_Predestine_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Foreordain_vs_Predestine_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

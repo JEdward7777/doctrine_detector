@@ -21,7 +21,7 @@ To live a holy life, Christians are expected to engage in prayer, worship, and r
 Ultimately, the pursuit of holiness is a personal and ongoing journey for Christians, guided by their understanding of scripture, tradition, and the teachings of their church. It is a way of living that brings them closer to God and helps them fulfill their purpose as followers of Christ.
 
 ## Average Grade
-81.0
+75.83333333333333
 
 ## Grades
  * [85.0](./Purpose_of_Holiness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Ultimately, the pursuit of holiness is a personal and ongoing journey for Christ
  * [70.0](./Purpose_of_Holiness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Purpose_of_Holiness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Purpose_of_Holiness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Purpose_of_Holiness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

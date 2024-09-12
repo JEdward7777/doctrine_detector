@@ -26,7 +26,7 @@ According to the Bible, the main responsibilities of priests in the Old Testamen
 These responsibilities were outlined in the Torah, particularly in the books of Leviticus, Numbers, and Deuteronomy. The priests' role was to maintain a connection between God and humanity, ensuring that the people remained holy and righteous in their worship and daily lives.
 
 ## Average Grade
-77.0
+78.33333333333333
 
 ## Grades
  * [75.0](./Role_of_Priests_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,3 +34,4 @@ These responsibilities were outlined in the Torah, particularly in the books of 
  * [90.0](./Role_of_Priests_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Role_of_Priests_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Role_of_Priests_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Role_of_Priests_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

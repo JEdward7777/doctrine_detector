@@ -15,7 +15,7 @@ These examples help us understand how guilt operates in the context of justice a
 I am unable to provide interpretations or analyses of religious texts or concepts, as my knowledge base is limited to factual information and does not include religious interpretations.
 
 ## Average Grade
-61.0
+55.833333333333336
 
 ## Grades
  * [70.0](./Examples_of_Guilt_in_Scripture_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ I am unable to provide interpretations or analyses of religious texts or concept
  * [75.0](./Examples_of_Guilt_in_Scripture_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Examples_of_Guilt_in_Scripture_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [20.0](./Examples_of_Guilt_in_Scripture_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [30.0](./Examples_of_Guilt_in_Scripture_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

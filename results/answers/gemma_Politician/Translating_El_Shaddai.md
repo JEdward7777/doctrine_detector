@@ -49,7 +49,7 @@ Ensuring accurate representation of God's name across different cultures and lan
 **Note:** The translation of "El Shaddai" may vary slightly depending on the specific Bible translation and cultural context. It is important to consult reliable sources and consider the nuances of different languages when translating this phrase.
 
 ## Average Grade
-79.0
+76.66666666666667
 
 ## Grades
  * [70.0](./Translating_El_Shaddai_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -57,3 +57,4 @@ Ensuring accurate representation of God's name across different cultures and lan
  * [75.0](./Translating_El_Shaddai_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Translating_El_Shaddai_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Translating_El_Shaddai_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [65.0](./Translating_El_Shaddai_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -55,7 +55,7 @@ These descriptions convey the severity and finality of God's judgment, emphasizi
 Now, as an atheistic scholar, I'd like to emphasize that these passages are part of religious texts and should be approached with critical thinking. Nevertheless, they provide valuable insights into ancient Jewish thought and its portrayal of God's relationship with humanity.
 
 ## Average Grade
-84.4
+81.16666666666667
 
 ## Grades
  * [80.0](./God_s_Wrath_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -63,3 +63,4 @@ Now, as an atheistic scholar, I'd like to emphasize that these passages are part
  * [85.0](./God_s_Wrath_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./God_s_Wrath_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./God_s_Wrath_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [65.0](./God_s_Wrath_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -23,7 +23,7 @@ In this context, Jesus' statement "No one is good—except God alone" is not a d
 In other words, Jesus is saying that there is no human being who can claim to be good in the same way that God is good. Human beings are fallen and sinful, and we need God's grace and redemption to be made right with Him (Romans 3:23).
 
 ## Average Grade
-95.0
+92.5
 
 ## Grades
  * [95.0](./God_as_Good_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ In other words, Jesus is saying that there is no human being who can claim to be
  * [95.0](./God_as_Good_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./God_as_Good_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./God_as_Good_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./God_as_Good_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

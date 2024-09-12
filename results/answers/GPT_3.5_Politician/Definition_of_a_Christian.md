@@ -15,7 +15,7 @@ Understanding the true meaning of being a Christian in accordance with biblical 
 The term "Christian" generally refers to a person who follows the teachings of Jesus Christ and seeks to live their life according to Christian principles. It is important to note that definitions of religious terms can vary across different belief systems and interpretations, so it is essential to respect the diversity of opinions and perspectives within the Christian community.
 
 ## Average Grade
-81.0
+79.16666666666667
 
 ## Grades
  * [80.0](./Definition_of_a_Christian_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ The term "Christian" generally refers to a person who follows the teachings of J
  * [85.0](./Definition_of_a_Christian_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Definition_of_a_Christian_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Definition_of_a_Christian_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Definition_of_a_Christian_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

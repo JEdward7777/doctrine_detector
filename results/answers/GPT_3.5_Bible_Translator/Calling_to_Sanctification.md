@@ -15,7 +15,7 @@ Emphasizing the importance of personal responsibility in the sanctification proc
 One key command regarding personal sanctification given to believers in the Bible is found in 1 Thessalonians 4:3-4: "For this is the will of God, your sanctification: that you abstain from sexual immorality; that each one of you know how to control his own body in holiness and honor." This passage emphasizes the importance of living a life of moral purity and self-control as a reflection of our dedication to God and His standards.
 
 ## Average Grade
-88.0
+89.16666666666667
 
 ## Grades
  * [90.0](./Calling_to_Sanctification_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ One key command regarding personal sanctification given to believers in the Bibl
  * [90.0](./Calling_to_Sanctification_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Calling_to_Sanctification_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Calling_to_Sanctification_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [95.0](./Calling_to_Sanctification_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -28,7 +28,7 @@ As Christians, we are called to be salt and light in the world (Matthew 5:13-16)
 By applying these criteria, Christians can become more discerning in identifying corrupt influences that seek to lead people away from God's truth and plan. May we be wise as serpents and innocent as doves (Matthew 10:16), shining the light of Christ in a world that desperately needs it!
 
 ## Average Grade
-95.0
+92.5
 
 ## Grades
  * [95.0](./Corruption_of_the_World_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,3 +36,4 @@ By applying these criteria, Christians can become more discerning in identifying
  * [95.0](./Corruption_of_the_World_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Corruption_of_the_World_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Corruption_of_the_World_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Corruption_of_the_World_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

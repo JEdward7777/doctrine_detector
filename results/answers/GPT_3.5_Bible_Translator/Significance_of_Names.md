@@ -17,7 +17,7 @@ The title "Shaddai" is often translated rather than transliterated in Bible tran
 Additionally, using a translation rather than a transliteration can help convey these meanings to readers who may not be familiar with the original Hebrew language. It provides a more accessible way for readers to understand and appreciate the significance of God's power and provision as described by the term "Shaddai" in the Bible.
 
 ## Average Grade
-89.0
+87.5
 
 ## Grades
  * [90.0](./Significance_of_Names_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -25,3 +25,4 @@ Additionally, using a translation rather than a transliteration can help convey 
  * [90.0](./Significance_of_Names_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Significance_of_Names_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Significance_of_Names_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Significance_of_Names_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

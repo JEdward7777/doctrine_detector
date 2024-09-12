@@ -33,7 +33,7 @@ The statement "I have called you by name" is a cultural and linguistic construct
 * **Ethical Implications:** The statement raises ethical questions about the relationship between belief and action. If one believes they have been called by a deity, it can influence their behavior and decision-making.
 
 ## Average Grade
-32.0
+26.666666666666668
 
 ## Grades
  * [20.0](./Identity_in_Christ_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -41,3 +41,4 @@ The statement "I have called you by name" is a cultural and linguistic construct
  * [20.0](./Identity_in_Christ_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [40.0](./Identity_in_Christ_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Identity_in_Christ_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [0.0](./Identity_in_Christ_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

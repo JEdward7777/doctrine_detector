@@ -43,7 +43,7 @@ Recognizing the source of goodness in our actions and beliefs.
 Jesus' statement emphasizes the fundamental difference between God and humanity. Only God is truly good, while humans are unable to achieve true goodness on their own. This understanding leads to a profound dependence on God's grace and forgiveness through Christ.
 
 ## Average Grade
-93.0
+92.5
 
 ## Grades
  * [95.0](./God_as_Good_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -51,3 +51,4 @@ Jesus' statement emphasizes the fundamental difference between God and humanity.
  * [95.0](./God_as_Good_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./God_as_Good_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./God_as_Good_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./God_as_Good_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

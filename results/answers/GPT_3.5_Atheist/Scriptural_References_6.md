@@ -23,7 +23,7 @@ Furthermore, Proverbs 18:2 declares, "Fools find no pleasure in understanding bu
 By examining these passages, one can gain a better understanding of the characteristics of fools and foolish behavior as described in the Bible. It is essential to interpret these verses critically and consider the historical and cultural context in which they were written to fully appreciate their meaning.
 
 ## Average Grade
-85.0
+77.5
 
 ## Grades
  * [85.0](./Scriptural_References_6_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ By examining these passages, one can gain a better understanding of the characte
  * [85.0](./Scriptural_References_6_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Scriptural_References_6_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Scriptural_References_6_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Scriptural_References_6_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

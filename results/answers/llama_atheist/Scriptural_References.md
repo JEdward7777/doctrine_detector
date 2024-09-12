@@ -25,7 +25,7 @@ However, from my perspective, the term "Almighty" is not an objective descriptio
 In conclusion, while Genesis 17:1 does not explicitly contain the phrase "Almighty," it sets the stage for the biblical narrative's portrayal of God's power and authority. As an atheist scholar, I approach this text with a critical eye, recognizing that it reflects the cultural and religious beliefs of ancient Israelites, which may or may not align with my own perspective on the nature of reality.
 
 ## Average Grade
-45.0
+44.166666666666664
 
 ## Grades
  * [20.0](./Scriptural_References_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ In conclusion, while Genesis 17:1 does not explicitly contain the phrase "Almigh
  * [20.0](./Scriptural_References_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [60.0](./Scriptural_References_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Scriptural_References_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Scriptural_References_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

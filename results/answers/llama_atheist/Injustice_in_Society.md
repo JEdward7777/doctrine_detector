@@ -33,7 +33,7 @@ Now, as a scholar who values cultural retributivity, I recognize that Christians
 As a scholar, I believe it's essential to approach these issues with a critical and nuanced perspective, acknowledging the complexity of each problem while still working towards tangible solutions. By doing so, we can create a more just and equitable world for all.
 
 ## Average Grade
-79.0
+74.16666666666667
 
 ## Grades
  * [70.0](./Injustice_in_Society_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -41,3 +41,4 @@ As a scholar, I believe it's essential to approach these issues with a critical 
  * [70.0](./Injustice_in_Society_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Injustice_in_Society_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Injustice_in_Society_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Injustice_in_Society_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

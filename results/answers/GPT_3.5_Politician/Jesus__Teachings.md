@@ -15,7 +15,7 @@ Recognizing the authority of Jesus' words and teachings in Scripture.
 In the context of discussing the teachings of Jesus, it is important to acknowledge the diverse beliefs and interpretations surrounding religious figures and their messages. Different faith traditions and individuals may have varying perspectives on the significance of 'amen' in Jesus' teachings. It is essential to approach this topic with sensitivity and respect for the beliefs of others in order to foster understanding and inclusivity.
 
 ## Average Grade
-80.0
+70.0
 
 ## Grades
  * [85.0](./Jesus__Teachings_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ In the context of discussing the teachings of Jesus, it is important to acknowle
  * [90.0](./Jesus__Teachings_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Jesus__Teachings_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Jesus__Teachings_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./Jesus__Teachings_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

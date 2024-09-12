@@ -31,7 +31,7 @@ In modern moral frameworks, these biblical categories are often misapplied or mi
 In conclusion, the biblical definitions of "clean" and "unclean" primarily revolve around ritual purity and temple worship, rather than moral character. It's essential to separate these ancient concepts from modern moral frameworks, recognizing that they do not provide a basis for moral judgment or segregation.
 
 ## Average Grade
-47.0
+47.5
 
 ## Grades
  * [30.0](./Understanding_Cleanliness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,3 +39,4 @@ In conclusion, the biblical definitions of "clean" and "unclean" primarily revol
  * [60.0](./Understanding_Cleanliness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [30.0](./Understanding_Cleanliness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Cleanliness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Understanding_Cleanliness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -43,7 +43,7 @@ Understanding the role of the ephod helps in comprehending the Old Testament pri
 **The significance of the ephod extends beyond its physical form. It represented the vital role of the high priest as mediator and intercessor between God and the people. It served as a constant reminder of God's presence and faithfulness, and symbolized the hope and redemption found in the covenant relationship.**
 
 ## Average Grade
-90.0
+88.33333333333333
 
 ## Grades
  * [90.0](./Ephod_significance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -51,3 +51,4 @@ Understanding the role of the ephod helps in comprehending the Old Testament pri
  * [95.0](./Ephod_significance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Ephod_significance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Ephod_significance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Ephod_significance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

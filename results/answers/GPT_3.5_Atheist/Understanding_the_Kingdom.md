@@ -21,7 +21,7 @@ Some scholars also argue that the concept of the kingdom of God in the New Testa
 Overall, the term "kingdom of God" in the New Testament can be seen as a call to action, inviting believers to live out their faith in a way that reflects God's values of love, compassion, and justice in the world.
 
 ## Average Grade
-88.0
+85.0
 
 ## Grades
  * [85.0](./Understanding_the_Kingdom_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Overall, the term "kingdom of God" in the New Testament can be seen as a call to
  * [90.0](./Understanding_the_Kingdom_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_the_Kingdom_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_the_Kingdom_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Understanding_the_Kingdom_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

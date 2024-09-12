@@ -21,7 +21,7 @@ Throughout the New Testament, the term "Christ" became synonymous with Jesus' di
 In summary, the evolution of the term "Christ" in the New Testament reflects the development of Christian theology and the understanding of Jesus as the central figure in Christianity, fulfilling the role of the Messiah in a spiritual and transcendent sense.
 
 ## Average Grade
-88.0
+87.5
 
 ## Grades
  * [90.0](./Christ_as_Title_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In summary, the evolution of the term "Christ" in the New Testament reflects the
  * [85.0](./Christ_as_Title_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Christ_as_Title_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Christ_as_Title_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Christ_as_Title_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

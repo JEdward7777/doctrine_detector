@@ -19,7 +19,7 @@ Jesus taught that true cleansing and forgiveness of sins come not from following
 In essence, the concept of 'cleansing' in the Bible is transformed in the New Testament to emphasize the spiritual renewal and transformation of individuals through faith in Jesus Christ, rather than just external rituals or sacrifices. It is through this understanding of sin and redemption that believers are able to experience true cleansing and forgiveness in the eyes of God.
 
 ## Average Grade
-91.4
+89.5
 
 ## Grades
  * [92.0](./The_Role_of_Cleansing_in_Christianity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ In essence, the concept of 'cleansing' in the Bible is transformed in the New Te
  * [90.0](./The_Role_of_Cleansing_in_Christianity_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./The_Role_of_Cleansing_in_Christianity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./The_Role_of_Cleansing_in_Christianity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./The_Role_of_Cleansing_in_Christianity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

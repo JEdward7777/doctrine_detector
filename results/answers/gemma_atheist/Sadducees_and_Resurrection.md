@@ -42,7 +42,7 @@ Christian teachings affirm the resurrection of Jesus Christ, which is central to
 The Sadducean denial of the resurrection stands in stark contrast to Christian teachings, which emphasize its central importance in their faith. This fundamental difference reflects the divergent worldviews and interpretations of the afterlife held by these two groups.
 
 ## Average Grade
-92.0
+90.0
 
 ## Grades
  * [95.0](./Sadducees_and_Resurrection_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -50,3 +50,4 @@ The Sadducean denial of the resurrection stands in stark contrast to Christian t
  * [95.0](./Sadducees_and_Resurrection_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Sadducees_and_Resurrection_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Sadducees_and_Resurrection_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Sadducees_and_Resurrection_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

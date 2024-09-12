@@ -51,7 +51,7 @@ Understanding the practical implications of a relationship with Christ.
 * **Avoid Reductionism:** Avoid reducing complex cultural or spiritual concepts to a single term or belief system.
 
 ## Average Grade
-74.0
+65.0
 
 ## Grades
  * [90.0](./Benefits_of_Being__In_Christ__grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -59,3 +59,4 @@ Understanding the practical implications of a relationship with Christ.
  * [80.0](./Benefits_of_Being__In_Christ__grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [75.0](./Benefits_of_Being__In_Christ__grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Benefits_of_Being__In_Christ__grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./Benefits_of_Being__In_Christ__grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

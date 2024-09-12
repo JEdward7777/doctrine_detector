@@ -21,7 +21,7 @@ Now, I want to emphasize that this doesn't mean all worldly pursuits are inheren
 In fact, many Christian teachings encourage us to be good stewards of the earth and engage with the world in positive ways, while still keeping our eyes on eternal rewards. So, let's focus on being responsible global citizens, shall we?
 
 ## Average Grade
-73.0
+70.83333333333333
 
 ## Grades
  * [75.0](./Understanding_Worldly_Values_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In fact, many Christian teachings encourage us to be good stewards of the earth 
  * [80.0](./Understanding_Worldly_Values_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Understanding_Worldly_Values_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Understanding_Worldly_Values_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Understanding_Worldly_Values_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

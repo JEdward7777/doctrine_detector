@@ -27,7 +27,7 @@ In this light, the "zeal of the Lord" can be seen as a powerful symbol of God's 
 Ultimately, by approaching this concept from a secular perspective, we can gain a deeper understanding of the cultural and historical context in which these phrases were written, allowing us to appreciate the nuances and complexities of biblical narratives without being bound by theological dogma.
 
 ## Average Grade
-55.0
+49.166666666666664
 
 ## Grades
  * [40.0](./God_s_Zeal_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ Ultimately, by approaching this concept from a secular perspective, we can gain 
  * [50.0](./God_s_Zeal_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [40.0](./God_s_Zeal_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./God_s_Zeal_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./God_s_Zeal_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

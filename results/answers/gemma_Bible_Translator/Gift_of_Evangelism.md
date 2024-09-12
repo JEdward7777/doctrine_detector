@@ -45,7 +45,7 @@ Understanding the spiritual gifts related to evangelism and their role in the ch
 **Other Christians, while also devoted to their faith, may not prioritize these aspects as extensively as evangelists.** Their primary focus may be on personal spiritual growth, fellowship, or serving their communities.
 
 ## Average Grade
-83.0
+79.16666666666667
 
 ## Grades
  * [85.0](./Gift_of_Evangelism_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -53,3 +53,4 @@ Understanding the spiritual gifts related to evangelism and their role in the ch
  * [90.0](./Gift_of_Evangelism_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Gift_of_Evangelism_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Gift_of_Evangelism_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Gift_of_Evangelism_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

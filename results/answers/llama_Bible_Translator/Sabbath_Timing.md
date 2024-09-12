@@ -21,7 +21,7 @@ In Jewish tradition, the Sabbath is observed by refraining from work or creative
 It's worth noting that while many Christian denominations observe Sunday worship instead of Saturday, some Christians still honor the seventh-day Sabbath as a reminder of Jesus' Jewish roots and the biblical commandment to keep the Sabbath holy (Exodus 20:8-11).
 
 ## Average Grade
-87.0
+87.5
 
 ## Grades
  * [90.0](./Sabbath_Timing_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ It's worth noting that while many Christian denominations observe Sunday worship
  * [90.0](./Sabbath_Timing_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Sabbath_Timing_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Sabbath_Timing_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Sabbath_Timing_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

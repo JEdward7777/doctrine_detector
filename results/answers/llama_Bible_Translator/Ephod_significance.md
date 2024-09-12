@@ -26,7 +26,7 @@ The significance of the high priest's ephod can be understood on several levels:
 In summary, the high priest's ephod was a significant artifact that represented God's presence among His people, symbolized the high priest's ministry and connection to God's glory, and emphasized his unique identity as the chief priest.
 
 ## Average Grade
-89.0
+89.16666666666667
 
 ## Grades
  * [85.0](./Ephod_significance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,3 +34,4 @@ In summary, the high priest's ephod was a significant artifact that represented 
  * [95.0](./Ephod_significance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Ephod_significance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Ephod_significance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Ephod_significance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

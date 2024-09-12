@@ -29,7 +29,7 @@ These cultural practices had significant implications for early Christianity:
 In summary, Jewish cultural practices associated with Gentiles created a significant divide between Jews and non-Jews in the first century. Early Christianity's response to this dichotomy was shaped by the apostles' recognition that faith in Jesus Christ was sufficient for salvation, regardless of cultural differences. This led to the expansion of Christian mission beyond traditional Jewish boundaries, the development of Christian ethics, and a global community united under the gospel message.
 
 ## Average Grade
-91.4
+90.33333333333333
 
 ## Grades
  * [95.0](./Cultural_Practices_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ In summary, Jewish cultural practices associated with Gentiles created a signifi
  * [95.0](./Cultural_Practices_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Cultural_Practices_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Cultural_Practices_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Cultural_Practices_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

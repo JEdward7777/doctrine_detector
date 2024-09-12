@@ -19,7 +19,7 @@ In terms of living a life that is considered "holy" and set apart for God's purp
 Ultimately, my focus as a politician is to create a society that upholds the values of respect, inclusivity, and unity, where individuals of all faiths or beliefs can coexist peacefully and contribute to the betterment of our communities.
 
 ## Average Grade
-67.0
+64.16666666666667
 
 ## Grades
  * [65.0](./Purpose_of_Holiness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Ultimately, my focus as a politician is to create a society that upholds the val
  * [75.0](./Purpose_of_Holiness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [65.0](./Purpose_of_Holiness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Purpose_of_Holiness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Purpose_of_Holiness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -27,7 +27,7 @@ Paul's humility stemmed from his deep understanding of God's sovereignty and his
 It's important to consider cultural contexts when examining biblical examples. While humility is highly valued in many cultures, it may be expressed differently across contexts. Paul's humility, rooted in his faith and influenced by his cultural background, may not be directly applicable to other cultures or belief systems.
 
 ## Average Grade
-93.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Biblical_Example_of_Humility_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ It's important to consider cultural contexts when examining biblical examples. W
  * [95.0](./Biblical_Example_of_Humility_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Biblical_Example_of_Humility_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_Example_of_Humility_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Biblical_Example_of_Humility_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

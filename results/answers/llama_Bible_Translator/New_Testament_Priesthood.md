@@ -29,7 +29,7 @@ Several key points highlight what it means for every believer in Jesus to be con
 In summary, being a priest in the New Testament means that every believer in Jesus has direct access to God, is called to worship and offer sacrifices, intercede for others, participate in Christ's priestly ministry, and live in unity with fellow believers. This understanding of our role as priests empowers us to fulfill the Great Commission and glorify God in all aspects of life!
 
 ## Average Grade
-95.0
+93.33333333333333
 
 ## Grades
  * [95.0](./New_Testament_Priesthood_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ In summary, being a priest in the New Testament means that every believer in Jes
  * [95.0](./New_Testament_Priesthood_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./New_Testament_Priesthood_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./New_Testament_Priesthood_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./New_Testament_Priesthood_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

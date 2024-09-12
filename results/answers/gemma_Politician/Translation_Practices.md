@@ -15,7 +15,7 @@ Clarity in the translation of sacred texts and maintaining reverence for God's n
 This premise is inaccurate. Many Bible translations use 'Yahweh' instead of 'LORD.' The decision of which translation to use is often based on theological and linguistic considerations, not a desire to be politically correct.
 
 ## Average Grade
-82.0
+78.33333333333333
 
 ## Grades
  * [85.0](./Translation_Practices_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ This premise is inaccurate. Many Bible translations use 'Yahweh' instead of 'LOR
  * [75.0](./Translation_Practices_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Translation_Practices_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Translation_Practices_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Translation_Practices_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

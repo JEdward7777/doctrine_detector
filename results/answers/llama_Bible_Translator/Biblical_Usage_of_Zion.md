@@ -26,7 +26,7 @@ In the Bible, "Zion" is used as a metaphorical or figurative expression in sever
 In summary, "Zion" in the Bible can represent God's dwelling place, His chosen city, the redeemed community, the heavenly Jerusalem, God's protection and salvation, or even the coming Messiah. These figurative uses help illustrate the deep connection between God and His people, as well as the ultimate destination of eternal life with Him.
 
 ## Average Grade
-95.0
+92.5
 
 ## Grades
  * [95.0](./Biblical_Usage_of_Zion_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,3 +34,4 @@ In summary, "Zion" in the Bible can represent God's dwelling place, His chosen c
  * [95.0](./Biblical_Usage_of_Zion_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Biblical_Usage_of_Zion_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Biblical_Usage_of_Zion_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Biblical_Usage_of_Zion_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

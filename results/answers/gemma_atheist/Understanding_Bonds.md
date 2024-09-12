@@ -51,7 +51,7 @@ The Biblical concept of "bonds" (Greek: "koinonia") occupies a complex and multi
 The Biblical concept of "bonds" offers valuable insights into the nature of spiritual responsibility and the interconnectedness of faith. By cultivating genuine fellowship and actively engaging in the lives of others, believers can deepen their understanding of God and their faith, and live out their spiritual obligations in meaningful ways.
 
 ## Average Grade
-90.4
+87.0
 
 ## Grades
  * [90.0](./Understanding_Bonds_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -59,3 +59,4 @@ The Biblical concept of "bonds" offers valuable insights into the nature of spir
  * [95.0](./Understanding_Bonds_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [92.0](./Understanding_Bonds_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Bonds_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Understanding_Bonds_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

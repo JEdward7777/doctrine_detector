@@ -25,7 +25,7 @@ In today's complex world, where differing opinions and perspectives are commonpl
 By embracing this value, we can cultivate a culture of mutual understanding, acceptance, and compassion – ultimately fostering a society where individuals from all walks of life feel valued, heard, and empowered to pursue their highest potential.
 
 ## Average Grade
-63.0
+60.833333333333336
 
 ## Grades
  * [60.0](./Clear_Conscience_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ By embracing this value, we can cultivate a culture of mutual understanding, acc
  * [60.0](./Clear_Conscience_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [60.0](./Clear_Conscience_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [75.0](./Clear_Conscience_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Clear_Conscience_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

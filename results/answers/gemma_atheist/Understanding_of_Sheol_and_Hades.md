@@ -49,7 +49,7 @@ Understanding the distinction between the fates of the righteous and the unright
 While the concepts of Sheol and Hades offer insights into the biblical understanding of death and the afterlife, it's important to consider their cultural context and interpret them cautiously. The Bible's language can be nuanced and open to multiple interpretations.
 
 ## Average Grade
-85.0
+84.16666666666667
 
 ## Grades
  * [85.0](./Understanding_of_Sheol_and_Hades_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -57,3 +57,4 @@ While the concepts of Sheol and Hades offer insights into the biblical understan
  * [90.0](./Understanding_of_Sheol_and_Hades_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Understanding_of_Sheol_and_Hades_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Understanding_of_Sheol_and_Hades_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Understanding_of_Sheol_and_Hades_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

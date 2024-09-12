@@ -43,7 +43,7 @@ As an atheist scholar, I reject the belief in a personal God who punishes or rew
 The relationship between repentance and God's wrath is a complex and multifaceted issue with varying interpretations. While some biblical passages suggest a connection between the two, others emphasize God's love and forgiveness.
 
 ## Average Grade
-70.0
+68.33333333333333
 
 ## Grades
  * [85.0](./Repentance_and_Judgment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -51,3 +51,4 @@ The relationship between repentance and God's wrath is a complex and multifacete
  * [60.0](./Repentance_and_Judgment_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Repentance_and_Judgment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Repentance_and_Judgment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Repentance_and_Judgment_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -34,7 +34,7 @@ From a scientific perspective, notions of exaltation and humility are social con
 The verses mentioned do not provide evidence supporting the concept of exaltation as understood in the Christian faith. Their interpretations are culturally biased and do not align with my understanding of the world based on reason and evidence.
 
 ## Average Grade
-47.0
+44.166666666666664
 
 ## Grades
  * [20.0](./Scriptural_References_7_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -42,3 +42,4 @@ The verses mentioned do not provide evidence supporting the concept of exaltatio
  * [65.0](./Scriptural_References_7_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [50.0](./Scriptural_References_7_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Scriptural_References_7_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [30.0](./Scriptural_References_7_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

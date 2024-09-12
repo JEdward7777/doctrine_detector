@@ -31,7 +31,7 @@ In this sense, living a "holy" life is not about being set apart from the world,
 I must reiterate that these observations are rooted in my understanding of Christian theology and do not reflect my personal beliefs or values. As an atheist scholar, I remain committed to engaging with religious ideas and perspectives through a lens of critical inquiry and respect for cultural diversity.
 
 ## Average Grade
-84.0
+78.33333333333333
 
 ## Grades
  * [90.0](./Purpose_of_Holiness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,3 +39,4 @@ I must reiterate that these observations are rooted in my understanding of Chris
  * [90.0](./Purpose_of_Holiness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Purpose_of_Holiness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Purpose_of_Holiness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Purpose_of_Holiness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

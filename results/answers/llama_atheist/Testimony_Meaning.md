@@ -30,7 +30,7 @@ To illustrate this concept, consider the story of Joshua at Jericho (Joshua 6). 
 In conclusion, testimony plays a vital role in establishing the authority and validity of biblical commandments. By providing evidence, authenticating divine revelation, establishing authority, offering moral guidance, and fostering community, testimony helps to create a sense of shared responsibility and commitment among those who follow God's commands.
 
 ## Average Grade
-75.4
+74.5
 
 ## Grades
  * [60.0](./Testimony_Meaning_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,3 +38,4 @@ In conclusion, testimony plays a vital role in establishing the authority and va
  * [80.0](./Testimony_Meaning_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Testimony_Meaning_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Testimony_Meaning_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Testimony_Meaning_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

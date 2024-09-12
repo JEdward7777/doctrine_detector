@@ -43,7 +43,7 @@ The statement "I am the Resurrection and the Life" is found in the Gospel of Joh
 The statement "I am the Resurrection and the Life" is a complex and multifaceted declaration that reflects both the cultural context and the profound claims of Christianity. It encompasses symbolic fulfillment, cultural beliefs, supernatural power, and ethical transformation.
 
 ## Average Grade
-82.0
+80.0
 
 ## Grades
  * [85.0](./Jesus__Statement_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -51,3 +51,4 @@ The statement "I am the Resurrection and the Life" is a complex and multifaceted
  * [90.0](./Jesus__Statement_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Jesus__Statement_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Jesus__Statement_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Jesus__Statement_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

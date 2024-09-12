@@ -17,7 +17,7 @@ Worshiping God involves honoring and adoring the one true God who has revealed H
 On the other hand, worshiping false gods involves giving reverence and devotion to entities that are not the true God. This can include idols, false deities, or even placing anything else above God in our lives. Worshiping false gods is considered idolatry in Christianity and goes against the first commandment God gave to His people: "You shall have no other gods before me" (Exodus 20:3). Additionally, worshiping false gods does not lead to salvation and can ultimately lead to spiritual deception and separation from the true God.
 
 ## Average Grade
-89.0
+88.33333333333333
 
 ## Grades
  * [95.0](./True_vs._False_Worship_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -25,3 +25,4 @@ On the other hand, worshiping false gods involves giving reverence and devotion 
  * [85.0](./True_vs._False_Worship_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./True_vs._False_Worship_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./True_vs._False_Worship_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./True_vs._False_Worship_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

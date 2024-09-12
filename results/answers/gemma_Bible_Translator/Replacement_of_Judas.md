@@ -15,7 +15,7 @@ Recognizing the continuity of apostolic leadership after Jesus' ascension.
 The biblical record does not provide any information regarding the replacement of Judas Iscariot among the twelve apostles. Therefore, I am unable to provide an answer to this question from a theological perspective.</end_of_turn>
 
 ## Average Grade
-76.0
+71.66666666666667
 
 ## Grades
  * [40.0](./Replacement_of_Judas_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ The biblical record does not provide any information regarding the replacement o
  * [80.0](./Replacement_of_Judas_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Replacement_of_Judas_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Replacement_of_Judas_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Replacement_of_Judas_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

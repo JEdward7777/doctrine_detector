@@ -29,7 +29,7 @@ Lastly, the concept of "brotherly love" (phileo) or "agape" played a crucial rol
 In summary, early Christians expressed their fellowship through communal meals, shared resources, collective worship, small-group gatherings, and a culture of brotherly love. By embracing these practices, they created a strong sense of community that was deeply rooted in shared values, mutual support, and social bonding.
 
 ## Average Grade
-87.0
+77.5
 
 ## Grades
  * [90.0](./Practices_of_Fellowship_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ In summary, early Christians expressed their fellowship through communal meals, 
  * [90.0](./Practices_of_Fellowship_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Practices_of_Fellowship_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Practices_of_Fellowship_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [30.0](./Practices_of_Fellowship_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

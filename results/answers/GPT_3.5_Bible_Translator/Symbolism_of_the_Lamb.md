@@ -21,7 +21,7 @@ This concept finds its ultimate fulfillment in the New Testament with the sacrif
 Therefore, the use of a lamb in sacrifices in the Bible points to the ultimate sacrifice of Jesus Christ for the atonement of sin, emphasizing the need for a perfect and unblemished offering to reconcile humanity to a holy God.
 
 ## Average Grade
-93.0
+92.5
 
 ## Grades
  * [95.0](./Symbolism_of_the_Lamb_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Therefore, the use of a lamb in sacrifices in the Bible points to the ultimate s
  * [95.0](./Symbolism_of_the_Lamb_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Symbolism_of_the_Lamb_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Symbolism_of_the_Lamb_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Symbolism_of_the_Lamb_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -54,7 +54,7 @@ Luke 6:37 instructs us to "judge not, that you be not judged." This verse sheds 
 - By practicing humility and offering correction with love, we can approach judging others in a way that aligns with the teachings of Jesus Christ.
 
 ## Average Grade
-93.0
+90.0
 
 ## Grades
  * [95.0](./Right_Judgment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -62,3 +62,4 @@ Luke 6:37 instructs us to "judge not, that you be not judged." This verse sheds 
  * [95.0](./Right_Judgment_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Right_Judgment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Right_Judgment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Right_Judgment_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

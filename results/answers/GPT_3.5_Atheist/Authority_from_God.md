@@ -21,7 +21,7 @@ The concept of divine authority can influence various aspects of a believer's li
 Ultimately, the significance of divine authority lies in the belief that it provides a framework for understanding the world and one's place within it, offering a sense of direction and purpose that transcends the mundane concerns of everyday life.
 
 ## Average Grade
-89.0
+87.5
 
 ## Grades
  * [90.0](./Authority_from_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Ultimately, the significance of divine authority lies in the belief that it prov
  * [90.0](./Authority_from_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Authority_from_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Authority_from_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Authority_from_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

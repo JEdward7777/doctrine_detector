@@ -15,7 +15,7 @@ Understanding the role of the tabernacle in the Israelites' relationship with Go
 The tabernacle served as a central place of worship and connection to the divine for the Israelites during their time in the desert. It symbolized their faith and commitment to God and provided a sacred space for religious rituals and practices.
 
 ## Average Grade
-90.0
+87.5
 
 ## Grades
  * [95.0](./Understanding_the_Tabernacle_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ The tabernacle served as a central place of worship and connection to the divine
  * [90.0](./Understanding_the_Tabernacle_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_the_Tabernacle_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_the_Tabernacle_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Understanding_the_Tabernacle_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

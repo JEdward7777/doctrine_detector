@@ -29,7 +29,7 @@ It's worth noting that this understanding has been subject to various interpreta
 Now, as an atheist scholar, I must confess that I find it intriguing how this doctrine has shaped Western morality and ethics. Despite my own philosophical reservations, I recognize the profound impact that Christian theology has had on human thought and culture.
 
 ## Average Grade
-88.0
+87.5
 
 ## Grades
  * [85.0](./Human_Righteousness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ Now, as an atheist scholar, I must confess that I find it intriguing how this do
  * [85.0](./Human_Righteousness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Human_Righteousness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Human_Righteousness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Human_Righteousness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

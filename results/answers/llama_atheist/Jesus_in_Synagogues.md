@@ -29,7 +29,7 @@ It's essential to note that Jesus' engagement with the synagogue was not without
 In conclusion, Jesus' engagement with the synagogue was marked by both respect for Jewish tradition and challenge to existing power structures. His teachings emphasized love, inclusivity, and social justice, which resonated with some members of the community while sparking controversy among others.
 
 ## Average Grade
-83.0
+79.16666666666667
 
 ## Grades
  * [90.0](./Jesus_in_Synagogues_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ In conclusion, Jesus' engagement with the synagogue was marked by both respect f
  * [85.0](./Jesus_in_Synagogues_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Jesus_in_Synagogues_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Jesus_in_Synagogues_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Jesus_in_Synagogues_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

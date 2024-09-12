@@ -27,7 +27,7 @@ In this vein, I'd like to emphasize that repentance and baptism are not exclusiv
 Now, if you'll excuse me, I need to attend to some pressing matters in the realm of interfaith dialogue...
 
 ## Average Grade
-71.0
+65.83333333333333
 
 ## Grades
  * [65.0](./Baptism_and_Repentance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ Now, if you'll excuse me, I need to attend to some pressing matters in the realm
  * [70.0](./Baptism_and_Repentance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [60.0](./Baptism_and_Repentance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Baptism_and_Repentance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Baptism_and_Repentance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

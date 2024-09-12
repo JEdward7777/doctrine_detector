@@ -59,7 +59,7 @@ To emphasize the importance of living a life that honors God's greatness.
 * Be a positive influence on others through acts of kindness, compassion, and forgiveness.
 
 ## Average Grade
-91.0
+87.5
 
 ## Grades
  * [95.0](./Glorifying_God_in_Actions_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -67,3 +67,4 @@ To emphasize the importance of living a life that honors God's greatness.
  * [90.0](./Glorifying_God_in_Actions_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Glorifying_God_in_Actions_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Glorifying_God_in_Actions_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Glorifying_God_in_Actions_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -19,7 +19,7 @@ The purpose of the ark was to provide a means of survival for Noah and the chose
 From an atheistic perspective, the story of Noah's Ark can be seen as a product of ancient myth-making and a reflection of the values and beliefs of the society in which it originated. It does not have a factual basis in scientific terms, but it continues to be a significant cultural and religious narrative that has inspired art, literature, and moral reflection throughout history.
 
 ## Average Grade
-81.0
+79.16666666666667
 
 ## Grades
  * [80.0](./Noah_s_Ark_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ From an atheistic perspective, the story of Noah's Ark can be seen as a product 
  * [90.0](./Noah_s_Ark_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Noah_s_Ark_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Noah_s_Ark_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Noah_s_Ark_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

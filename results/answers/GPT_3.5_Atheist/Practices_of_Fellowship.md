@@ -15,7 +15,7 @@ Recognizing the practices of fellowship can help contemporary Christians foster 
 Early Christians expressed their fellowship through various practices such as sharing meals together, helping one another in times of need, and gathering for worship and communal prayer. The concept of fellowship, known as “koinonia” in Greek, was integral to the early Christian community as they sought to emulate the teachings of Jesus and live in harmony with one another. This sense of fellowship was not only a social bond but also a spiritual connection that united believers in their shared faith. The early Christians saw themselves as a family, or community of believers, who supported and encouraged one another in their journey of faith.
 
 ## Average Grade
-85.0
+84.16666666666667
 
 ## Grades
  * [85.0](./Practices_of_Fellowship_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ Early Christians expressed their fellowship through various practices such as sh
  * [85.0](./Practices_of_Fellowship_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Practices_of_Fellowship_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Practices_of_Fellowship_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Practices_of_Fellowship_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

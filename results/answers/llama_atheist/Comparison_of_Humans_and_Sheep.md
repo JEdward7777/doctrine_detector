@@ -25,7 +25,7 @@ The comparison between humans and sheep is found throughout the Hebrew Bible (Ol
 In conclusion, the comparison between humans and sheep in biblical teaching is multifaceted. It can represent helplessness and dependence on God, conformity or rebellion, vulnerability to external threats, and the importance of trust and guidance.
 
 ## Average Grade
-94.0
+92.5
 
 ## Grades
  * [95.0](./Comparison_of_Humans_and_Sheep_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ In conclusion, the comparison between humans and sheep in biblical teaching is m
  * [95.0](./Comparison_of_Humans_and_Sheep_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Comparison_of_Humans_and_Sheep_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Comparison_of_Humans_and_Sheep_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Comparison_of_Humans_and_Sheep_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

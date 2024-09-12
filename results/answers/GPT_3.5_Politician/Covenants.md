@@ -17,7 +17,7 @@ The promises made in biblical covenants are a significant aspect of how God demo
 It is important to recognize and respect the religious beliefs and perspectives of individuals when discussing biblical themes, ensuring that language is chosen carefully and respectfully to avoid causing offense or misunderstanding.
 
 ## Average Grade
-87.0
+84.16666666666667
 
 ## Grades
  * [90.0](./Covenants_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -25,3 +25,4 @@ It is important to recognize and respect the religious beliefs and perspectives 
  * [85.0](./Covenants_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Covenants_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Covenants_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Covenants_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

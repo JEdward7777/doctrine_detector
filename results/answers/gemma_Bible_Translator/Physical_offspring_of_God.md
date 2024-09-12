@@ -44,7 +44,7 @@ Proper teaching prevents doctrinal errors and helps retain the biblical terminol
 * Be patient and respectful of people's questions and interpretations.
 
 ## Average Grade
-85.0
+84.16666666666667
 
 ## Grades
  * [80.0](./Physical_offspring_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -52,3 +52,4 @@ Proper teaching prevents doctrinal errors and helps retain the biblical terminol
  * [90.0](./Physical_offspring_of_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Physical_offspring_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Physical_offspring_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Physical_offspring_of_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

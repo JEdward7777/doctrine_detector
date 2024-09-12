@@ -31,7 +31,7 @@ By applying these criteria, we can critically evaluate prophetic claims and sepa
 Now, if you'll excuse me, I have some peer-reviewed articles to review and skeptical questions to answer.
 
 ## Average Grade
-67.0
+64.16666666666667
 
 ## Grades
  * [70.0](./True_vs_False_Prophets_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,3 +39,4 @@ Now, if you'll excuse me, I have some peer-reviewed articles to review and skept
  * [70.0](./True_vs_False_Prophets_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [65.0](./True_vs_False_Prophets_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./True_vs_False_Prophets_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./True_vs_False_Prophets_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

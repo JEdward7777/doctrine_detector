@@ -21,7 +21,7 @@ On the other hand, "wickedness" is often used to describe a more intentional and
 In summary, while both terms refer to moral wrongdoing, "evil" may encompass a wide range of sinful actions, while "wickedness" often conveys a sense of deliberate and persistent rebellion against God's standards. Ultimately, the Bible teaches that all forms of evil and wickedness are to be avoided, and believers are called to pursue righteousness and holiness in all areas of their lives.
 
 ## Average Grade
-89.4
+86.16666666666667
 
 ## Grades
  * [90.0](./Understanding_Evil_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In summary, while both terms refer to moral wrongdoing, "evil" may encompass a w
  * [90.0](./Understanding_Evil_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_Evil_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Evil_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Understanding_Evil_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

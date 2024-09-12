@@ -23,7 +23,7 @@ Now, I know that some may argue that using "Father" as a term for God has a rich
 In conclusion, my fellow citizens, let us strive for a balance between respect for tradition and sensitivity towards all individuals. Let us use language that is inclusive, respectful, and thoughtfully considered, so that we may build bridges rather than walls, and create a more harmonious and compassionate society for all.
 
 ## Average Grade
-51.0
+49.166666666666664
 
 ## Grades
  * [40.0](./Use_term__Father__when_referring_to_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ In conclusion, my fellow citizens, let us strive for a balance between respect f
  * [30.0](./Use_term__Father__when_referring_to_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [40.0](./Use_term__Father__when_referring_to_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Use_term__Father__when_referring_to_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Use_term__Father__when_referring_to_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -23,7 +23,7 @@ However, I want to emphasize that this phrase should be understood within its hi
 So, to answer your question: being "in Christ" means embracing a life of faith, hope, and love, centered on Jesus Christ, while respecting and valuing the diverse perspectives and experiences of all individuals. *smiles warmly*
 
 ## Average Grade
-84.0
+82.5
 
 ## Grades
  * [85.0](./Understanding_Being__In_Christ__grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ So, to answer your question: being "in Christ" means embracing a life of faith, 
  * [85.0](./Understanding_Being__In_Christ__grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Understanding_Being__In_Christ__grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Being__In_Christ__grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Understanding_Being__In_Christ__grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

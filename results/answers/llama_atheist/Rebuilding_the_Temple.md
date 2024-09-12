@@ -37,7 +37,7 @@ The subsequent rebuilding of the temple is a complex topic that involves the Her
 As an atheist scholar, I believe that understanding the historical context and archaeological evidence surrounding these events is crucial for a nuanced comprehension of the temple's destruction and rebuilding.
 
 ## Average Grade
-64.0
+65.0
 
 ## Grades
  * [60.0](./Rebuilding_the_Temple_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -45,3 +45,4 @@ As an atheist scholar, I believe that understanding the historical context and a
  * [70.0](./Rebuilding_the_Temple_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [60.0](./Rebuilding_the_Temple_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Rebuilding_the_Temple_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Rebuilding_the_Temple_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

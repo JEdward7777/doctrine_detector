@@ -29,7 +29,7 @@ In this context, the sanctuary represents a tangible connection between God and 
 Now, I must confess that my own lack of faith in a divine being doesn't diminish the significance or cultural importance of these biblical passages. As an atheist scholar, I recognize the Tabernacle and its accompanying rituals as a crucial aspect of ancient Jewish culture and identity.
 
 ## Average Grade
-74.0
+66.66666666666667
 
 ## Grades
  * [60.0](./Sanctuary_in_the_Old_Testament_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ Now, I must confess that my own lack of faith in a divine being doesn't diminish
  * [60.0](./Sanctuary_in_the_Old_Testament_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Sanctuary_in_the_Old_Testament_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Sanctuary_in_the_Old_Testament_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [30.0](./Sanctuary_in_the_Old_Testament_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -25,7 +25,7 @@ From a cultural perspective, blasphemy laws have been used in some societies to 
 Overall, the concept of blasphemy in the Scriptures reflects the importance of reverence and respect for the divine in religious contexts. However, as an atheistic scholar, my focus is on studying and understanding the cultural and historical significance of these beliefs rather than interpreting them as literal truths.
 
 ## Average Grade
-66.0
+65.0
 
 ## Grades
  * [75.0](./Understanding_Blasphemy_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ Overall, the concept of blasphemy in the Scriptures reflects the importance of r
  * [65.0](./Understanding_Blasphemy_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [65.0](./Understanding_Blasphemy_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Blasphemy_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Understanding_Blasphemy_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

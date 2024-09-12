@@ -25,7 +25,7 @@ However, I must emphasize that the Bible also acknowledges the struggles and dou
 In conclusion, my fellow citizens, it is crucial to approach this topic with sensitivity and respect for the diverse perspectives represented within the Bible. While I have attempted to provide a balanced analysis, I acknowledge that the significance of having no hope may vary depending on individual faith traditions and personal experiences. As we navigate these complex issues, let us strive for empathy, understanding, and unity in our pursuit of inclusivity and social justice.
 
 ## Average Grade
-86.0
+81.66666666666667
 
 ## Grades
  * [90.0](./Hope_and_Assurance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ In conclusion, my fellow citizens, it is crucial to approach this topic with sen
  * [85.0](./Hope_and_Assurance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Hope_and_Assurance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Hope_and_Assurance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Hope_and_Assurance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

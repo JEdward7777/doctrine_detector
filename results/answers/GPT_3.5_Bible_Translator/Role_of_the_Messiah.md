@@ -27,7 +27,7 @@ The Messiah, as prophesied in the Bible, fulfilled multiple roles. Here are some
 Overall, the Messiah's roles encompassed salvation, kingship, prophecy, priesthood, and judgment, all of which Jesus fulfilled according to the Bible.
 
 ## Average Grade
-87.0
+87.5
 
 ## Grades
  * [90.0](./Role_of_the_Messiah_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ Overall, the Messiah's roles encompassed salvation, kingship, prophecy, priestho
  * [85.0](./Role_of_the_Messiah_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Role_of_the_Messiah_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Role_of_the_Messiah_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Role_of_the_Messiah_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

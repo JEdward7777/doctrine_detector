@@ -39,7 +39,7 @@ This verse reminds us that love and forgiveness can cover even the most signific
 In conclusion, as we strive to build bridges between individuals and communities, let us remember the power of forgiveness. By embracing these biblical principles, we can create a more just, compassionate, and harmonious world – one that reflects God's character and love for humanity.
 
 ## Average Grade
-95.0
+92.5
 
 ## Grades
  * [95.0](./Biblical_Basis_for_Forgiveness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -47,3 +47,4 @@ In conclusion, as we strive to build bridges between individuals and communities
  * [95.0](./Biblical_Basis_for_Forgiveness_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Biblical_Basis_for_Forgiveness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Biblical_Basis_for_Forgiveness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Biblical_Basis_for_Forgiveness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

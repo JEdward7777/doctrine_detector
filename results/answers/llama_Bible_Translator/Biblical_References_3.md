@@ -29,7 +29,7 @@ The Old Testament references that contribute to our understanding of Jesus as th
 These passages collectively convey that the Son of Man is a divine figure who has authority and power over all creation, will come to judge humanity, and represents God's presence on earth. This understanding sets the stage for Jesus' identification as the Son of Man in the New Testament (Matthew 8:20; Mark 13:26; Luke 5:24).
 
 ## Average Grade
-90.4
+88.66666666666667
 
 ## Grades
  * [92.0](./Biblical_References_3_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ These passages collectively convey that the Son of Man is a divine figure who ha
  * [90.0](./Biblical_References_3_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Biblical_References_3_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_References_3_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Biblical_References_3_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

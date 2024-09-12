@@ -28,7 +28,7 @@ In conclusion, while there may be some overlap between "evil" and "wickedness" i
 As we seek to understand and apply these biblical concepts, it's crucial to recognize the complexities and nuances within each term. By doing so, we can foster more thoughtful and inclusive discussions about morality, ethics, and spirituality.
 
 ## Average Grade
-91.0
+90.0
 
 ## Grades
  * [90.0](./Understanding_Evil_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,3 +36,4 @@ As we seek to understand and apply these biblical concepts, it's crucial to reco
  * [95.0](./Understanding_Evil_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_Evil_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Evil_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Understanding_Evil_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

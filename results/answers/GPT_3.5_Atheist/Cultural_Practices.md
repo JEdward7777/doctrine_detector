@@ -19,7 +19,7 @@ These cultural practices had a significant impact on early Christian practices, 
 Ultimately, this decision allowed Christianity to become a more inclusive and universal faith, welcoming people of all backgrounds and cultures, and breaking down traditional barriers between Jews and Gentiles. The early Christians sought to focus on the core ethical teachings of Jesus rather than cultural practices, leading to a more inclusive and diverse religious community that grew beyond the confines of Jewish cultural boundaries.
 
 ## Average Grade
-87.0
+86.66666666666667
 
 ## Grades
  * [90.0](./Cultural_Practices_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Ultimately, this decision allowed Christianity to become a more inclusive and un
  * [90.0](./Cultural_Practices_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Cultural_Practices_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Cultural_Practices_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Cultural_Practices_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

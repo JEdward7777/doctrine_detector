@@ -15,7 +15,7 @@ Understanding the biblical context of confession
 Confessing according to the Bible involves acknowledging wrongdoing, expressing sincere remorse, and taking responsibility for one's actions. It is not about avoiding accountability or minimizing the impact of one's behavior. The goal is to restore relationships with others and demonstrate a commitment to personal growth and transformation.
 
 ## Average Grade
-84.2
+81.83333333333333
 
 ## Grades
  * [86.0](./Definition_of_Confession_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ Confessing according to the Bible involves acknowledging wrongdoing, expressing 
  * [90.0](./Definition_of_Confession_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Definition_of_Confession_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Definition_of_Confession_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Definition_of_Confession_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

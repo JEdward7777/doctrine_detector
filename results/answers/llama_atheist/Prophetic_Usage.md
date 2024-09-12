@@ -32,7 +32,7 @@ Some notable examples of the "Daughter of Zion" in biblical prophecies include:
 In summary, the term "Daughter of Zion" is a rich metaphorical expression that conveys God's love and protection for Israel, emphasizes their unique role in biblical history, and symbolizes the city of Jerusalem.
 
 ## Average Grade
-92.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Prophetic_Usage_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -40,3 +40,4 @@ In summary, the term "Daughter of Zion" is a rich metaphorical expression that c
  * [90.0](./Prophetic_Usage_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Prophetic_Usage_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Prophetic_Usage_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Prophetic_Usage_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -25,7 +25,7 @@ Another perspective is that baptism functions as an initiation rite, marking the
 Ultimately, the relationship between repentance and baptism in the New Testament is complex and open to interpretation. While we can't pinpoint an exact cause-and-effect link, it's clear that both concepts are deeply intertwined with each other and with the broader narrative of salvation through Jesus Christ.
 
 ## Average Grade
-70.0
+68.33333333333333
 
 ## Grades
  * [70.0](./Baptism_and_Repentance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ Ultimately, the relationship between repentance and baptism in the New Testament
  * [75.0](./Baptism_and_Repentance_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [50.0](./Baptism_and_Repentance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Baptism_and_Repentance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Baptism_and_Repentance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

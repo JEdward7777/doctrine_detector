@@ -35,7 +35,7 @@ In a more secular light, the concept of "divine glory" can be reinterpreted to r
 Ultimately, the concept of "divine glory" can serve as a powerful symbol for human aspirations, values, and experiences. By reframing this notion in a more secular context, we can emphasize the universal aspects of human existence, such as our quest for meaning, connection, and transcendence.
 
 ## Average Grade
-38.0
+36.666666666666664
 
 ## Grades
  * [40.0](./Interpreting_Divine_Glory_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -43,3 +43,4 @@ Ultimately, the concept of "divine glory" can serve as a powerful symbol for hum
  * [20.0](./Interpreting_Divine_Glory_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [20.0](./Interpreting_Divine_Glory_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Interpreting_Divine_Glory_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [30.0](./Interpreting_Divine_Glory_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

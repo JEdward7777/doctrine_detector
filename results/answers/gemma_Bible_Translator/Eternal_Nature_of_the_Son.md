@@ -37,7 +37,7 @@ Emphasizing the preeminence and eternal existence of Jesus as the Son of God.
 **Therefore, the Son of God stands apart from human sons in his divine nature, eternal existence, and unique relationship with the Father.**
 
 ## Average Grade
-92.0
+89.16666666666667
 
 ## Grades
  * [95.0](./Eternal_Nature_of_the_Son_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -45,3 +45,4 @@ Emphasizing the preeminence and eternal existence of Jesus as the Son of God.
  * [95.0](./Eternal_Nature_of_the_Son_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Eternal_Nature_of_the_Son_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Eternal_Nature_of_the_Son_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Eternal_Nature_of_the_Son_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

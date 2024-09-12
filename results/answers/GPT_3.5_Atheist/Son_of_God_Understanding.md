@@ -21,7 +21,7 @@ According to Christian teachings, Jesus is considered the Son of God because he 
 However, it is essential to recognize that different religious traditions have their own interpretations of divine relationships, and not all belief systems assign the same significance to the term "Son of God." From a scholarly perspective, it is important to approach these concepts with a critical and objective lens, understanding the cultural and historical context in which they originated.
 
 ## Average Grade
-64.0
+60.0
 
 ## Grades
  * [65.0](./Son_of_God_Understanding_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ However, it is essential to recognize that different religious traditions have t
  * [70.0](./Son_of_God_Understanding_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [60.0](./Son_of_God_Understanding_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Son_of_God_Understanding_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Son_of_God_Understanding_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

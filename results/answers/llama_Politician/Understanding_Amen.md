@@ -21,7 +21,7 @@ Now, I want to make it clear that I'm not implying any specific religious belief
 So, in a spirit of inclusivity and respect for all people's beliefs, I hope we can agree that "amen" can be a meaningful way to conclude a prayer, regardless of one's specific religious views or backgrounds. Thank you, and may our prayers be filled with compassion, wisdom, and understanding!
 
 ## Average Grade
-63.0
+60.833333333333336
 
 ## Grades
  * [50.0](./Understanding_Amen_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ So, in a spirit of inclusivity and respect for all people's beliefs, I hope we c
  * [50.0](./Understanding_Amen_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Understanding_Amen_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Amen_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Understanding_Amen_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -21,7 +21,7 @@ Furthermore, being 'saved' also involves transformation and sanctification, as t
 Ultimately, being 'saved' has eternal implications, as it ensures a believer's place in heaven with God for all eternity. It brings about peace, joy, and hope, as believers can rest assured in the promise of salvation through faith in Jesus Christ.
 
 ## Average Grade
-91.0
+87.5
 
 ## Grades
  * [95.0](./Spiritual_Salvation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Ultimately, being 'saved' has eternal implications, as it ensures a believer's p
  * [95.0](./Spiritual_Salvation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Spiritual_Salvation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Spiritual_Salvation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Spiritual_Salvation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

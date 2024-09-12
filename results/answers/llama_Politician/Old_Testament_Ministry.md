@@ -23,7 +23,7 @@ Now, I understand that some people might have differing opinions about certain a
 In conclusion, the priests in the Old Testament temple played a vital role in the life of their community, and their ministry continues to inspire and guide people to this day.
 
 ## Average Grade
-75.0
+69.16666666666667
 
 ## Grades
  * [85.0](./Old_Testament_Ministry_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ In conclusion, the priests in the Old Testament temple played a vital role in th
  * [80.0](./Old_Testament_Ministry_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Old_Testament_Ministry_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Old_Testament_Ministry_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Old_Testament_Ministry_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -35,7 +35,7 @@ As a politician committed to fostering inclusive and respectful dialogue, I beli
 By cultivating these qualities, individuals can foster stronger relationships, make more informed decisions, and contribute to a more just and equitable society.
 
 ## Average Grade
-94.0
+90.0
 
 ## Grades
  * [90.0](./Godly_Character_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -43,3 +43,4 @@ By cultivating these qualities, individuals can foster stronger relationships, m
  * [95.0](./Godly_Character_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Godly_Character_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Godly_Character_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Godly_Character_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

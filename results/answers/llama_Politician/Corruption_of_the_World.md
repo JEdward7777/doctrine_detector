@@ -29,7 +29,7 @@ Now, I want to stress that this is not about judging others or imposing our valu
 In conclusion, Christians can identify corrupt influences by reflecting on their own values, seeking wisdom, engaging in respectful dialogue, cultivating empathy, and remaining informed. By doing so, we can work together to build a world that honors God's plan for humanity – a world where love, compassion, and justice reign supreme!
 
 ## Average Grade
-87.0
+83.33333333333333
 
 ## Grades
  * [90.0](./Corruption_of_the_World_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ In conclusion, Christians can identify corrupt influences by reflecting on their
  * [90.0](./Corruption_of_the_World_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Corruption_of_the_World_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Corruption_of_the_World_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [65.0](./Corruption_of_the_World_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -39,7 +39,7 @@ This negative contrast between genuine and idol worship aligns with the principl
 The example from Exodus 20 provides a clear and concise illustration of how the Bible negatively contrasts genuine worship with idol worship. This resonates with the ancient Israelites' cultural context and encourages ethical behavior by highlighting the spiritual harm of false worship.
 
 ## Average Grade
-89.0
+88.33333333333333
 
 ## Grades
  * [90.0](./Biblical_Examples_of_Worship_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -47,3 +47,4 @@ The example from Exodus 20 provides a clear and concise illustration of how the 
  * [85.0](./Biblical_Examples_of_Worship_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Biblical_Examples_of_Worship_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Biblical_Examples_of_Worship_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Biblical_Examples_of_Worship_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

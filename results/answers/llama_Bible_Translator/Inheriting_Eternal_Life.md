@@ -28,7 +28,7 @@ So, what must one do to inherit eternal life? According to the Bible, we must:
 Remember, eternal life is not something we can earn or work for; it's a free gift given to us through faith in Jesus Christ!
 
 ## Average Grade
-50.0
+57.5
 
 ## Grades
  * [25.0](./Inheriting_Eternal_Life_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,3 +36,4 @@ Remember, eternal life is not something we can earn or work for; it's a free gif
  * [30.0](./Inheriting_Eternal_Life_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Inheriting_Eternal_Life_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Inheriting_Eternal_Life_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [95.0](./Inheriting_Eternal_Life_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

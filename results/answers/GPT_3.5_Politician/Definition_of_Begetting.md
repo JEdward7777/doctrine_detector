@@ -15,7 +15,7 @@ Understanding the significance of begetting in relation to God's creation and fa
 In a biblical context, the term "beget" is often used to describe the act of a father having a child or offspring. It is a formal and traditional way of indicating the physical parentage of a person.
 
 ## Average Grade
-82.0
+80.0
 
 ## Grades
  * [85.0](./Definition_of_Begetting_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ In a biblical context, the term "beget" is often used to describe the act of a f
  * [85.0](./Definition_of_Begetting_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Definition_of_Begetting_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Definition_of_Begetting_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Definition_of_Begetting_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -23,7 +23,7 @@ As we navigate the complexities of our diverse world, I believe it's crucial tha
 So, my fellow citizens, let us strive to make exhortation a hallmark of our faith community – an expression of love, compassion, and encouragement that reflects the very best of who we are as children of God.
 
 ## Average Grade
-87.0
+82.5
 
 ## Grades
  * [90.0](./Purpose_of_Exhortation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ So, my fellow citizens, let us strive to make exhortation a hallmark of our fait
  * [85.0](./Purpose_of_Exhortation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Purpose_of_Exhortation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Purpose_of_Exhortation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Purpose_of_Exhortation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -35,7 +35,7 @@ In the Bible, Jesus Christ's dominion is extensively described as universal and 
 These passages illustrate Jesus' dominion as encompassing the entire universe, including heaven, earth, and all creation. His kingdom is not limited to a specific time or place but is eternal and universal.
 
 ## Average Grade
-93.0
+90.0
 
 ## Grades
  * [90.0](./Dominion_of_Christ_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -43,3 +43,4 @@ These passages illustrate Jesus' dominion as encompassing the entire universe, i
  * [95.0](./Dominion_of_Christ_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Dominion_of_Christ_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Dominion_of_Christ_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Dominion_of_Christ_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

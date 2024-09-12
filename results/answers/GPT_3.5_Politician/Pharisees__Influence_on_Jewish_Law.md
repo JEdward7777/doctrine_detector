@@ -15,7 +15,7 @@ Understanding the role of the Pharisees provides insight into the challenges Jes
 The Pharisees' commitment to following the Laws of Moses led to differing interpretations and tensions with Jesus and early Christians. While some Pharisees engaged in constructive dialogue with Jesus and supported his teachings, others felt threatened by his message of love and inclusion. It is important to recognize the diversity of opinions within any group and focus on fostering understanding and mutual respect.
 
 ## Average Grade
-83.0
+81.66666666666667
 
 ## Grades
  * [85.0](./Pharisees__Influence_on_Jewish_Law_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ The Pharisees' commitment to following the Laws of Moses led to differing interp
  * [90.0](./Pharisees__Influence_on_Jewish_Law_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Pharisees__Influence_on_Jewish_Law_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Pharisees__Influence_on_Jewish_Law_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Pharisees__Influence_on_Jewish_Law_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

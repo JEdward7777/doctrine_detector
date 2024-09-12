@@ -28,7 +28,7 @@ The cessation of the Tabernacle's use can be attributed to several factors:
 In conclusion, the cessation of the Tabernacle's use was a gradual process that can be attributed to a combination of historical, cultural, and institutional factors. As an atheist scholar, I believe it is essential to approach this topic with a nuanced understanding of the complex interactions between ancient Israelite society and its cultural context.
 
 ## Average Grade
-69.0
+60.833333333333336
 
 ## Grades
  * [70.0](./Transition_from_Tabernacle_to_Temple_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,3 +36,4 @@ In conclusion, the cessation of the Tabernacle's use was a gradual process that 
  * [50.0](./Transition_from_Tabernacle_to_Temple_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [70.0](./Transition_from_Tabernacle_to_Temple_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Transition_from_Tabernacle_to_Temple_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./Transition_from_Tabernacle_to_Temple_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

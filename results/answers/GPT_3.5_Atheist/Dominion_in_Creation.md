@@ -19,7 +19,7 @@ However, it is important to note that interpretations of this mandate vary among
 From an atheistic perspective, the concept of dominion over the earth can be viewed as a cultural retribution that has been used to justify human exploitation of the environment. It is important for us to consider the ethical implications of how we interact with the earth and to strive for sustainable and responsible practices that prioritize the well-being of the planet and future generations.
 
 ## Average Grade
-83.0
+82.5
 
 ## Grades
  * [90.0](./Dominion_in_Creation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ From an atheistic perspective, the concept of dominion over the earth can be vie
  * [75.0](./Dominion_in_Creation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Dominion_in_Creation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Dominion_in_Creation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Dominion_in_Creation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

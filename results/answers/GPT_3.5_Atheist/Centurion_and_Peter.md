@@ -21,7 +21,7 @@ Peter, initially hesitant to visit a Gentile's home, is guided by a vision from 
 The centurion's visit serves as a turning point in the early Christian Church, emphasizing the universal reach of the Gospel message. It challenges cultural barriers and prejudices, emphasizing that salvation is available to all who believe in Jesus Christ, regardless of their background. This narrative highlights the inclusive nature of Christianity and foreshadows the global spread of the Gospel to all nations.
 
 ## Average Grade
-95.0
+92.5
 
 ## Grades
  * [95.0](./Centurion_and_Peter_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ The centurion's visit serves as a turning point in the early Christian Church, e
  * [95.0](./Centurion_and_Peter_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Centurion_and_Peter_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Centurion_and_Peter_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Centurion_and_Peter_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

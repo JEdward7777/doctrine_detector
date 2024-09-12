@@ -37,7 +37,7 @@ To mitigate the negative consequences of favoritism, consider the following stra
 By being mindful of our own biases and taking steps to promote fairness and inclusivity, we can foster healthier relationships with others while minimizing the negative effects of favoritism.
 
 ## Average Grade
-62.0
+58.333333333333336
 
 ## Grades
  * [50.0](./Favoritism_in_Relationships_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -45,3 +45,4 @@ By being mindful of our own biases and taking steps to promote fairness and incl
  * [40.0](./Favoritism_in_Relationships_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [60.0](./Favoritism_in_Relationships_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Favoritism_in_Relationships_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Favoritism_in_Relationships_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

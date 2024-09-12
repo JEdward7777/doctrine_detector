@@ -36,7 +36,7 @@ This passage clarifies the gospel message as one of "faith in Christ Jesus, and 
 Acts 9:13-16 and Galatians 2:16 clearly reveal the central role of Gentile inclusion in the Christian faith. These passages demonstrate that God's love and salvation are for everyone, regardless of their background.
 
 ## Average Grade
-92.2
+91.83333333333333
 
 ## Grades
  * [96.0](./Biblical_References_to_Gentiles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -44,3 +44,4 @@ Acts 9:13-16 and Galatians 2:16 clearly reveal the central role of Gentile inclu
  * [95.0](./Biblical_References_to_Gentiles_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Biblical_References_to_Gentiles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_References_to_Gentiles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Biblical_References_to_Gentiles_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

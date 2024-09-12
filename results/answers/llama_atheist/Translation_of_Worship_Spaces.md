@@ -23,7 +23,7 @@ Ultimately, the best translation will depend on the specific context in which th
 What are your thoughts on this? Would you like to explore more about the cultural and historical context of ancient Israelite worship practices or the role of sacred spaces in other cultures?
 
 ## Average Grade
-87.0
+85.83333333333333
 
 ## Grades
  * [90.0](./Translation_of_Worship_Spaces_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ What are your thoughts on this? Would you like to explore more about the cultura
  * [90.0](./Translation_of_Worship_Spaces_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Translation_of_Worship_Spaces_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Translation_of_Worship_Spaces_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Translation_of_Worship_Spaces_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

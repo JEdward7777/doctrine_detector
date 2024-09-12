@@ -30,7 +30,7 @@ In terms of architecture, ancient synagogues often featured a rectangular shape 
 While we can't pinpoint exact dates or descriptions of ancient synagogues, archaeological findings and literary sources provide valuable insights into their role in Jewish life during this period.
 
 ## Average Grade
-91.0
+90.83333333333333
 
 ## Grades
  * [90.0](./Synagogue_Purpose_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,3 +38,4 @@ While we can't pinpoint exact dates or descriptions of ancient synagogues, archa
  * [95.0](./Synagogue_Purpose_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Synagogue_Purpose_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Synagogue_Purpose_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Synagogue_Purpose_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

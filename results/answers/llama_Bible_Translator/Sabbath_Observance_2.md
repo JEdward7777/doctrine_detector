@@ -21,7 +21,7 @@ In this passage, God commanded the Israelites to gather an extra day's supply of
 In essence, God was setting a boundary for His people regarding the observance of the Sabbath. By not allowing them to prepare food in advance, He was teaching them to trust Him for their daily provision and to honor the Sabbath as a day of rest from labor (Exodus 20:8-11).
 
 ## Average Grade
-87.0
+87.5
 
 ## Grades
  * [90.0](./Sabbath_Observance_2_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ In essence, God was setting a boundary for His people regarding the observance o
  * [90.0](./Sabbath_Observance_2_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Sabbath_Observance_2_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Sabbath_Observance_2_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Sabbath_Observance_2_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

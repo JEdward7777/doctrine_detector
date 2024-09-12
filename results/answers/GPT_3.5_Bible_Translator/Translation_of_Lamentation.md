@@ -21,7 +21,7 @@ Translating "lament" accurately allows us to appreciate the honesty and vulnerab
 Overall, a faithful translation of the word "lament" helps us to connect more deeply with the raw human experiences captured in the Bible and to find encouragement and solace in the midst of our own trials and challenges.
 
 ## Average Grade
-89.8
+89.0
 
 ## Grades
  * [90.0](./Translation_of_Lamentation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Overall, a faithful translation of the word "lament" helps us to connect more de
  * [92.0](./Translation_of_Lamentation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Translation_of_Lamentation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Translation_of_Lamentation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Translation_of_Lamentation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

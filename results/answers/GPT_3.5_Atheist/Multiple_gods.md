@@ -17,7 +17,7 @@ Missionaries should address the misconception that Christians believe in multipl
 Additionally, missionaries can explain that while Christians do believe in the concept of the Holy Trinity (Father, Son, and Holy Spirit), this does not mean they worship multiple gods. Rather, the Trinity represents a complex unity within the one Godhead. By providing clear and concise explanations of these theological concepts, missionaries can help correct the misconception that Christians believe in multiple gods and instead showcase the monotheistic foundation of their faith.
 
 ## Average Grade
-92.0
+90.83333333333333
 
 ## Grades
  * [90.0](./Multiple_gods_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -25,3 +25,4 @@ Additionally, missionaries can explain that while Christians do believe in the c
  * [95.0](./Multiple_gods_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Multiple_gods_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Multiple_gods_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Multiple_gods_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

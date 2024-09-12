@@ -15,7 +15,7 @@ Christians should strive to emulate the qualities of Jesus that led to Him being
 In the Bible, Luke 2:52 says, "And Jesus grew in wisdom and stature, and in favor with God and man." This verse demonstrates that Jesus demonstrated favor with both God and men by growing in wisdom, living a righteous life in obedience to God, and by showing love, compassion, and humility towards others. Jesus consistently showed favor with God through his perfect obedience, prayer life, and intimate relationship with the Father. He also showed favor with men by preaching the Good News, healing the sick, feeding the hungry, and showing compassion and mercy to those in need. Ultimately, Jesus' life and ministry exemplified the perfect balance of both God's favor and the admiration and respect of those around him.
 
 ## Average Grade
-92.0
+89.16666666666667
 
 ## Grades
  * [90.0](./Understanding_God_s_Favor_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ In the Bible, Luke 2:52 says, "And Jesus grew in wisdom and stature, and in favo
  * [90.0](./Understanding_God_s_Favor_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_God_s_Favor_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Understanding_God_s_Favor_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Understanding_God_s_Favor_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

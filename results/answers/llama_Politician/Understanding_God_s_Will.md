@@ -25,7 +25,7 @@ Ultimately, seeking God's will is about acknowledging our own limitations and re
 Now, I know some folks might interpret this concept differently, and I respect that diversity of opinion. (inclusive nod) As we navigate these complex issues, let's strive to create spaces where everyone feels welcome, valued, and heard. After all, when we seek God's will together, we can create a more just, loving, and harmonious world for all.
 
 ## Average Grade
-82.0
+73.33333333333333
 
 ## Grades
  * [75.0](./Understanding_God_s_Will_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ Now, I know some folks might interpret this concept differently, and I respect t
  * [80.0](./Understanding_God_s_Will_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Understanding_God_s_Will_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_God_s_Will_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [30.0](./Understanding_God_s_Will_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

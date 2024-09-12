@@ -23,7 +23,7 @@ In the Gospel of Matthew, the Bible tells us that Jesus was tempted by Satan in 
 Overall, Jesus' strategies for resisting temptation involved a combination of reliance on God's Word, staying focused on God's will, and utilizing the power of prayer. By following these strategies, Jesus demonstrated how we can overcome temptations and stay faithful to God in the face of adversity.
 
 ## Average Grade
-93.0
+90.83333333333333
 
 ## Grades
  * [95.0](./Understanding_Temptation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ Overall, Jesus' strategies for resisting temptation involved a combination of re
  * [95.0](./Understanding_Temptation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_Temptation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Temptation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Understanding_Temptation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

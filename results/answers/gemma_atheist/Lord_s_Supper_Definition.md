@@ -17,7 +17,7 @@ The Lord's Supper commemorates the symbolic actions of Jesus Christ during the L
 While the event holds deep spiritual significance for believers, it does not commemorate a historical dinner in the literal sense. The Last Supper is primarily a symbolic representation of Christ's love, sacrifice, and the establishment of the Christian faith.
 
 ## Average Grade
-84.0
+82.5
 
 ## Grades
  * [85.0](./Lord_s_Supper_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -25,3 +25,4 @@ While the event holds deep spiritual significance for believers, it does not com
  * [85.0](./Lord_s_Supper_Definition_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Lord_s_Supper_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Lord_s_Supper_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Lord_s_Supper_Definition_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

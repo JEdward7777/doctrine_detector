@@ -34,7 +34,7 @@ In the book of Job, the term "Shaddai" takes on a deeper significance. Job's fri
 In summary, the Hebrew term "Shaddai" is a richly textured concept that reveals God's power, sovereignty, provision, and covenantal commitment. As we engage with the Old Testament, understanding this term helps us grasp the character of our all-powerful, all-knowing, and all-loving God.
 
 ## Average Grade
-93.0
+89.16666666666667
 
 ## Grades
  * [95.0](./Understanding_Shaddai_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -42,3 +42,4 @@ In summary, the Hebrew term "Shaddai" is a richly textured concept that reveals 
  * [90.0](./Understanding_Shaddai_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Understanding_Shaddai_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Understanding_Shaddai_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Understanding_Shaddai_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

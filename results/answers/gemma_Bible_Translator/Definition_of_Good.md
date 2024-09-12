@@ -42,7 +42,7 @@ Understanding the moral implications of 'good' and 'evil' in daily decision-maki
 The Biblical definition of 'good' stands in stark contrast to the concept of 'evil,' highlighting the fundamental differences between these two opposing forces. Good is characterized by righteousness, kindness, and blessing, while evil is defined by moral Inversion, harm, and spiritual darkness.
 
 ## Average Grade
-91.0
+90.0
 
 ## Grades
  * [90.0](./Definition_of_Good_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -50,3 +50,4 @@ The Biblical definition of 'good' stands in stark contrast to the concept of 'ev
  * [95.0](./Definition_of_Good_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Definition_of_Good_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Definition_of_Good_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Definition_of_Good_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

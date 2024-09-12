@@ -41,7 +41,7 @@ Humility before God leads to:
 Humility before God is an essential aspect of the Christian faith, involving acknowledging God's sovereignty, submitting to his will, and expressing reverence for his greatness. It is a journey that involves both intellectual and emotional transformation, leading to a deeper relationship with the Creator.
 
 ## Average Grade
-94.0
+91.66666666666667
 
 ## Grades
  * [95.0](./Understanding_Humility_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -49,3 +49,4 @@ Humility before God is an essential aspect of the Christian faith, involving ack
  * [95.0](./Understanding_Humility_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Understanding_Humility_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Understanding_Humility_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [80.0](./Understanding_Humility_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

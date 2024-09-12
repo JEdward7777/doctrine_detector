@@ -31,7 +31,7 @@ In essence, a gracious person is one who cultivates a culture of kindness, compa
 In conclusion, the term "gracious" represents a set of values that emphasize the importance of empathy, respect, appreciation, open-mindedness, and self-awareness in our relationships with others. By embracing these principles, we can foster a culture of kindness, cooperation, and mutual understanding – attributes that are essential for building stronger, more resilient communities.
 
 ## Average Grade
-71.0
+65.83333333333333
 
 ## Grades
  * [70.0](./Being_Gracious_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,3 +39,4 @@ In conclusion, the term "gracious" represents a set of values that emphasize the
  * [70.0](./Being_Gracious_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [75.0](./Being_Gracious_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Being_Gracious_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Being_Gracious_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

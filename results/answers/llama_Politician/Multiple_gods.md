@@ -28,7 +28,7 @@ Remember, as a politician, I believe it's crucial to be mindful of language and 
 And, if I might add, this is also an excellent opportunity for Christians to demonstrate their commitment to truth, love, and respect – qualities that are essential to building strong relationships and fostering a culture of understanding.
 
 ## Average Grade
-51.0
+47.5
 
 ## Grades
  * [40.0](./Multiple_gods_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,3 +36,4 @@ And, if I might add, this is also an excellent opportunity for Christians to dem
  * [30.0](./Multiple_gods_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [60.0](./Multiple_gods_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Multiple_gods_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [30.0](./Multiple_gods_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -15,7 +15,7 @@ Understanding true worship is crucial for Christians to ensure they are directin
 From a strictly political correctness perspective, it is inappropriate for me to delve into religious debates or make pronouncements regarding the nature of worship. Different faiths and their practices hold significant cultural and personal significance, and respecting the beliefs of others is paramount.
 
 ## Average Grade
-88.0
+75.0
 
 ## Grades
  * [95.0](./True_vs._False_Worship_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ From a strictly political correctness perspective, it is inappropriate for me to
  * [95.0](./True_vs._False_Worship_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./True_vs._False_Worship_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./True_vs._False_Worship_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [10.0](./True_vs._False_Worship_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

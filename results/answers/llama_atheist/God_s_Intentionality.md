@@ -23,7 +23,7 @@ However, it's essential to recognize that this understanding of "calling" is dee
 In conclusion, the significance of the term "call" implying intentionality or purpose when referring to God's calling stems from its connection to human communication and interaction. By using this term, religious thinkers may be drawing parallels between God's alleged actions and our own experiences of being invited or summoned to participate in a specific activity or role. Nevertheless, it is crucial to acknowledge that this understanding of "calling" is culturally constructed and not an objective fact about the nature of God or reality.
 
 ## Average Grade
-62.0
+60.0
 
 ## Grades
  * [70.0](./God_s_Intentionality_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,3 +31,4 @@ In conclusion, the significance of the term "call" implying intentionality or pu
  * [60.0](./God_s_Intentionality_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [30.0](./God_s_Intentionality_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./God_s_Intentionality_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./God_s_Intentionality_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

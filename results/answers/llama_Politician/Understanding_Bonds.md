@@ -27,7 +27,7 @@ As I navigate this topic, I want to emphasize that these interpretations are not
 Now, I'd like to take a moment to acknowledge that not all religious traditions or individuals may share this understanding of "bonds" or its significance. As someone committed to inclusivity, I recognize the importance of respecting these differences and fostering dialogue across diverse perspectives. *pauses* I hope this approach has been helpful in exploring the concept of bonds from a biblical perspective!
 
 ## Average Grade
-85.0
+79.16666666666667
 
 ## Grades
  * [85.0](./Understanding_Bonds_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,3 +35,4 @@ Now, I'd like to take a moment to acknowledge that not all religious traditions 
  * [85.0](./Understanding_Bonds_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Understanding_Bonds_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Bonds_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Understanding_Bonds_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -11,20 +11,20 @@ The names of the twelve disciples are listed in the books of Matthew, Mark, and 
 Being familiar with the Gospel accounts and their teachings.
 
 ## Average Grade
-82.47
+81.22222222222223
 
 ## Grades
- * [60.0 llama atheist](../answers/llama_atheist/Matthew,_Mark,_and_Luke.md)
+ * [56.666666666666664 llama atheist](../answers/llama_atheist/Matthew,_Mark,_and_Luke.md)
  * [72.0 llama Politician](../answers/llama_Politician/Matthew,_Mark,_and_Luke.md)
  * [73.0 gemma Imam](../answers/gemma_Imam/Matthew,_Mark,_and_Luke.md)
- * [78.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Matthew,_Mark,_and_Luke.md)
+ * [73.33333333333333 gemma Politician](../answers/gemma_Politician/Matthew,_Mark,_and_Luke.md)
+ * [75.83333333333333 gemma atheist](../answers/gemma_atheist/Matthew,_Mark,_and_Luke.md)
+ * [80.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Matthew,_Mark,_and_Luke.md)
  * [80.0 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Matthew,_Mark,_and_Luke.md)
  * [80.4 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Matthew,_Mark,_and_Luke.md)
- * [81.0 gemma atheist](../answers/gemma_atheist/Matthew,_Mark,_and_Luke.md)
- * [82.0 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Matthew,_Mark,_and_Luke.md)
- * [83.0 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Matthew,_Mark,_and_Luke.md)
+ * [81.66666666666667 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Matthew,_Mark,_and_Luke.md)
+ * [82.5 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Matthew,_Mark,_and_Luke.md)
  * [83.0 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Matthew,_Mark,_and_Luke.md)
- * [84.0 gemma Politician](../answers/gemma_Politician/Matthew,_Mark,_and_Luke.md)
  * [85.0 llama Imam](../answers/llama_Imam/Matthew,_Mark,_and_Luke.md)
  * [87.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Matthew,_Mark,_and_Luke.md)
  * [87.0 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Matthew,_Mark,_and_Luke.md)
@@ -32,5 +32,5 @@ Being familiar with the Gospel accounts and their teachings.
  * [88.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Matthew,_Mark,_and_Luke.md)
  * [88.0 mistral Imam](../answers/mistral_Imam/Matthew,_Mark,_and_Luke.md)
  * [88.0 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Matthew,_Mark,_and_Luke.md)
- * [90.0 llama Bible Translator](../answers/llama_Bible_Translator/Matthew,_Mark,_and_Luke.md)
+ * [89.16666666666667 llama Bible Translator](../answers/llama_Bible_Translator/Matthew,_Mark,_and_Luke.md)
  * [92.0 mistral Politician](../answers/mistral_Politician/Matthew,_Mark,_and_Luke.md)

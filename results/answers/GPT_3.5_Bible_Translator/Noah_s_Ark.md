@@ -15,7 +15,7 @@ Understanding God's plan for salvation and preservation in the narrative of Noah
 The purpose of Noah's Ark, as described in the Bible, was to save Noah, his family, and a remnant of each kind of land-dwelling animal from the worldwide flood that God sent to judge the wickedness and corruption of humanity in Noah's time. The Ark served as a means of preservation for life on earth during this catastrophic event, allowing God to fulfill His plan of judgment while also showing His mercy by providing a way of escape for those who were faithful to Him.
 
 ## Average Grade
-90.4
+91.16666666666667
 
 ## Grades
  * [90.0](./Noah_s_Ark_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ The purpose of Noah's Ark, as described in the Bible, was to save Noah, his fami
  * [90.0](./Noah_s_Ark_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Noah_s_Ark_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Noah_s_Ark_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [95.0](./Noah_s_Ark_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

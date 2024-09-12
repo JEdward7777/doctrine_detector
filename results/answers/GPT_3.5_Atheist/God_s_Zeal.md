@@ -17,7 +17,7 @@ In a culturally retributive context, the term "zeal of the Lord" reflects God's 
 Conversely, when the people turn away from God and engage in sinful behavior, the zeal of the Lord manifests as a retributive force that brings about punishment and consequences for their actions. This concept emphasizes the idea that God's judgment is just and that His actions are a direct result of the choices made by His people.
 
 ## Average Grade
-88.0
+85.83333333333333
 
 ## Grades
  * [90.0](./God_s_Zeal_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -25,3 +25,4 @@ Conversely, when the people turn away from God and engage in sinful behavior, th
  * [90.0](./God_s_Zeal_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./God_s_Zeal_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./God_s_Zeal_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./God_s_Zeal_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

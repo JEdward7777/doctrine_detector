@@ -19,7 +19,7 @@ In understanding one's role or status within a Christian family, it is key to ap
 Ultimately, recognizing and appreciating the diversity of perspectives within Christianity can enrich our understanding of the concept of birthright and its implications for personal and familial identity.
 
 ## Average Grade
-73.0
+72.5
 
 ## Grades
  * [60.0](./Firstborn_Blessing_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ Ultimately, recognizing and appreciating the diversity of perspectives within Ch
  * [80.0](./Firstborn_Blessing_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Firstborn_Blessing_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Firstborn_Blessing_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Firstborn_Blessing_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

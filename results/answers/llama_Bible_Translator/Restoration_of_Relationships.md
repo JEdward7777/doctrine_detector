@@ -29,7 +29,7 @@ Restoration in this context involves three key aspects:
 In summary, when God restores sinful people back to Himself, He declares them righteous through justification, gives them new life through regeneration, and empowers them for a life of obedience through sanctification. This restoration is not only a one-time event but also an ongoing process as believers walk with Jesus throughout their lives (2 Corinthians 5:17).
 
 ## Average Grade
-92.0
+90.83333333333333
 
 ## Grades
  * [95.0](./Restoration_of_Relationships_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ In summary, when God restores sinful people back to Himself, He declares them ri
  * [95.0](./Restoration_of_Relationships_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Restoration_of_Relationships_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Restoration_of_Relationships_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Restoration_of_Relationships_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

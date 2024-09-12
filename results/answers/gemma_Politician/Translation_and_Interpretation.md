@@ -15,7 +15,7 @@ Proper translation and interpretation of biblical terms impact the understanding
 In the context of referring to God, the translation of "Lord" is often more formal and majestic, emphasizing the divine and transcendent nature of the entity. Conversely, when referring to ordinary people, the translation of "lord" is more hierarchical and descriptive of an individual's position or authority. This distinction is made to avoid potential offense or misunderstanding based on cultural or religious sensitivities.
 
 ## Average Grade
-84.0
+82.5
 
 ## Grades
  * [85.0](./Translation_and_Interpretation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ In the context of referring to God, the translation of "Lord" is often more form
  * [90.0](./Translation_and_Interpretation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./Translation_and_Interpretation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Translation_and_Interpretation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Translation_and_Interpretation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

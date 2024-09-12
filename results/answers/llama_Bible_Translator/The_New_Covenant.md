@@ -28,7 +28,7 @@ In this New Covenant context, God's laws being written on people's hearts means 
 In summary, when God writes His laws on our hearts in the New Covenant, it means that He transforms us spiritually, gives us a conscience to guide us, enables us to love and obey Him from the heart, and provides intimate guidance for living a life pleasing to Him.
 
 ## Average Grade
-92.0
+91.66666666666667
 
 ## Grades
  * [95.0](./The_New_Covenant_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,3 +36,4 @@ In summary, when God writes His laws on our hearts in the New Covenant, it means
  * [95.0](./The_New_Covenant_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./The_New_Covenant_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./The_New_Covenant_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./The_New_Covenant_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

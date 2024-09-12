@@ -29,7 +29,7 @@ Lastly, as we navigate the complexities of environmental challenges and sustaina
 In conclusion, my friend, while there may be differing interpretations of humanity's role in having dominion over the earth, I believe that the Bible ultimately calls us to be responsible stewards of God's creation, recognizing our interconnectedness with nature and our place within the larger ecosystem. By embracing this understanding, we can work together towards a more harmonious relationship between humans and the natural world.
 
 ## Average Grade
-92.0
+89.16666666666667
 
 ## Grades
  * [90.0](./Dominion_in_Creation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ In conclusion, my friend, while there may be differing interpretations of humani
  * [95.0](./Dominion_in_Creation_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Dominion_in_Creation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Dominion_in_Creation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Dominion_in_Creation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

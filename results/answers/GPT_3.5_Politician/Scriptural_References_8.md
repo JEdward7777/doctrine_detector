@@ -19,7 +19,7 @@ Scriptural references that support the idea of being blameless include Philippia
 These passages can guide a Christian's life by emphasizing the importance of living with integrity, honesty, and humility. By following the teachings of Jesus and striving to be blameless, Christians can cultivate a sense of inner peace, joy, and fulfillment in their lives. It is important to approach these topics with sensitivity and respect for the beliefs of others, recognizing that interpretations of scripture may vary among individuals and denominations.
 
 ## Average Grade
-89.0
+86.66666666666667
 
 ## Grades
  * [90.0](./Scriptural_References_8_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -27,3 +27,4 @@ These passages can guide a Christian's life by emphasizing the importance of liv
  * [90.0](./Scriptural_References_8_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Scriptural_References_8_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Scriptural_References_8_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [75.0](./Scriptural_References_8_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

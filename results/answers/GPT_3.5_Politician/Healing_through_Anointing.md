@@ -15,7 +15,7 @@ Recognizing the role of anointing in spiritual and physical healing as part of C
 In the New Testament, anointing is often associated with healing through the belief that it holds spiritual and symbolic significance. It is seen as a way to show care and compassion for the sick and in need. The act of anointing with oil can be interpreted as a form of offering comfort, support, and prayers for physical and emotional well-being. It is considered a sacred ritual that demonstrates faith and trust in divine intervention for healing. It is important to approach discussions about religious practices with respect for diverse beliefs and interpretations.
 
 ## Average Grade
-87.0
+86.66666666666667
 
 ## Grades
  * [90.0](./Healing_through_Anointing_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ In the New Testament, anointing is often associated with healing through the bel
  * [90.0](./Healing_through_Anointing_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Healing_through_Anointing_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Healing_through_Anointing_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./Healing_through_Anointing_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

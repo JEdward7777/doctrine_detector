@@ -25,7 +25,7 @@ Ultimately, acting justly according to any framework â€“ secular or religious â€
 So, while I don't subscribe to the idea of divine laws, I believe that acting justly is a fundamental human value that can be cultivated through education, critical thinking, and a commitment to promoting human rights and social justice.
 
 ## Average Grade
-48.0
+48.333333333333336
 
 ## Grades
  * [50.0](./Understanding_Justice_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ So, while I don't subscribe to the idea of divine laws, I believe that acting ju
  * [40.0](./Understanding_Justice_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [50.0](./Understanding_Justice_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Understanding_Justice_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Understanding_Justice_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -54,7 +54,7 @@ Recognizing the importance of Jesus' role in God's plan for humanity.
 The concept of the kingdom is an integral part of Jesus' Messianic role, but its interpretation and application have cultural variations. Understanding the cultural background and potential perspectives can foster respectful and meaningful dialogue.
 
 ## Average Grade
-80.0
+77.5
 
 ## Grades
  * [85.0](./Role_of_Jesus_as_Messiah_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -62,3 +62,4 @@ The concept of the kingdom is an integral part of Jesus' Messianic role, but its
  * [85.0](./Role_of_Jesus_as_Messiah_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Role_of_Jesus_as_Messiah_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Role_of_Jesus_as_Messiah_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [65.0](./Role_of_Jesus_as_Messiah_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -48,7 +48,7 @@ Understanding the relationship between faith and God's promises encourages belie
 Faith is an essential element in receiving and trusting God's promises. Abram's example demonstrates the power of unwavering faith in God's faithfulness. By exercising faith, we can confidently claim the blessings that God has promised to his children.
 
 ## Average Grade
-93.0
+92.5
 
 ## Grades
  * [95.0](./Faith_and_Promise_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -56,3 +56,4 @@ Faith is an essential element in receiving and trusting God's promises. Abram's 
  * [95.0](./Faith_and_Promise_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Faith_and_Promise_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Faith_and_Promise_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Faith_and_Promise_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

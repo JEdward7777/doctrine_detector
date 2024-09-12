@@ -49,7 +49,7 @@ To be culturally sensitive and inclusive, interpretations of glorify with Christ
 The concept of being glorified with Christ is a complex and nuanced one. By acknowledging the cultural and psychological contexts of this concept, we can offer more inclusive and meaningful interpretations that resonate with people from diverse backgrounds and beliefs.
 
 ## Average Grade
-77.0
+74.16666666666667
 
 ## Grades
  * [70.0](./The_Role_of_Believers_in_Glory_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -57,3 +57,4 @@ The concept of being glorified with Christ is a complex and nuanced one. By ackn
  * [75.0](./The_Role_of_Believers_in_Glory_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [75.0](./The_Role_of_Believers_in_Glory_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./The_Role_of_Believers_in_Glory_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./The_Role_of_Believers_in_Glory_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

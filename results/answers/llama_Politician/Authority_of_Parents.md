@@ -25,7 +25,7 @@ In conclusion, while the biblical basis for parental authority is rooted in pass
 Thank you for your thoughtful question, and I hope this response has provided a balanced and inclusive perspective on the topic!
 
 ## Average Grade
-82.0
+75.0
 
 ## Grades
  * [80.0](./Authority_of_Parents_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,3 +33,4 @@ Thank you for your thoughtful question, and I hope this response has provided a 
  * [75.0](./Authority_of_Parents_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Authority_of_Parents_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Authority_of_Parents_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [40.0](./Authority_of_Parents_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

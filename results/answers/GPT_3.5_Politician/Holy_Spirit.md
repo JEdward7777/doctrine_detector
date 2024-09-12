@@ -15,7 +15,7 @@ Clear, contextual teaching helps prevent misconceptions about the Holy Spirit's 
 When introducing the concept of the Holy Spirit in contexts unfamiliar with the Trinity, it is important to approach the topic with sensitivity and respect for differing beliefs. One way to introduce the Holy Spirit is to explain it as a divine presence or guiding force that is believed to be active in the world and in people's lives. This can help create a more inclusive and open dialogue about spirituality without assuming specific religious beliefs. It is also important to emphasize the diversity of beliefs about the Holy Spirit and to encourage respectful discussion and understanding of different perspectives.
 
 ## Average Grade
-71.0
+69.16666666666667
 
 ## Grades
  * [70.0](./Holy_Spirit_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ When introducing the concept of the Holy Spirit in contexts unfamiliar with the 
  * [80.0](./Holy_Spirit_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [60.0](./Holy_Spirit_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Holy_Spirit_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [60.0](./Holy_Spirit_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

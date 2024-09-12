@@ -51,7 +51,7 @@ The significance of prayer and dependence on God in daily life.
 The phrase "call out to the Lord" can be interpreted in culturally nuanced ways, ranging from a literal invocation of a deity to a metaphorical expression of human aspirations and emotions. By considering the cultural context and the cognitive framing of the phrase, we can arrive at meaningful interpretations that respect the diversity of beliefs and perspectives.
 
 ## Average Grade
-69.0
+65.83333333333333
 
 ## Grades
  * [70.0](./Prayer_as_Calling_Out_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -59,3 +59,4 @@ The phrase "call out to the Lord" can be interpreted in culturally nuanced ways,
  * [60.0](./Prayer_as_Calling_Out_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [60.0](./Prayer_as_Calling_Out_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Prayer_as_Calling_Out_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [50.0](./Prayer_as_Calling_Out_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

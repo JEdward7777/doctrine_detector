@@ -21,7 +21,7 @@ Furthermore, the division of the kingdom into tetrarchies also had religious imp
 Overall, the division of Herod the Great's kingdom into tetrarchies had a negative impact on the Jewish people, leading to political instability, social unrest, and religious persecution.
 
 ## Average Grade
-84.0
+81.66666666666667
 
 ## Grades
  * [80.0](./Historical_Context_of_Tetrarchs_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Overall, the division of Herod the Great's kingdom into tetrarchies had a negati
  * [90.0](./Historical_Context_of_Tetrarchs_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [80.0](./Historical_Context_of_Tetrarchs_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Historical_Context_of_Tetrarchs_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Historical_Context_of_Tetrarchs_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

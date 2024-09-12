@@ -29,7 +29,7 @@ By adopting this approach, I believe we can create a translation that honors the
 Now, if you'll excuse me, I need to attend to some pressing matters on the Hill. *ahem*
 
 ## Average Grade
-56.0
+57.5
 
 ## Grades
  * [70.0](./One_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,3 +37,4 @@ Now, if you'll excuse me, I need to attend to some pressing matters on the Hill.
  * [55.0](./One_God_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [30.0](./One_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./One_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [65.0](./One_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

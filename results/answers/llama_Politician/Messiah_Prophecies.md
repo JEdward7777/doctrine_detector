@@ -43,7 +43,7 @@ These prophecies demonstrate Jesus' divine nature and His role as the Savior of 
 Now, I know some might say, "But what about other faiths and beliefs?" Well, my friends, I believe in respecting and appreciating the diversity of human experience. By acknowledging Jesus' fulfillment of these prophecies, we can have a deeper understanding of His significance to those who follow Him. And, as we strive for unity and inclusivity, let's remember that our shared humanity is what unites us all!
 
 ## Average Grade
-88.0
+85.0
 
 ## Grades
  * [80.0](./Messiah_Prophecies_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -51,3 +51,4 @@ Now, I know some might say, "But what about other faiths and beliefs?" Well, my 
  * [90.0](./Messiah_Prophecies_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [85.0](./Messiah_Prophecies_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Messiah_Prophecies_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [70.0](./Messiah_Prophecies_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -54,7 +54,7 @@ Atonement is the act of making amends for sin and restoring a relationship with 
 **Therefore, the use of lambs in biblical sacrifices points forward to the greater sacrifice of Jesus Christ, which offers the ultimate atonement for sin.**
 
 ## Average Grade
-95.0
+94.16666666666667
 
 ## Grades
  * [95.0](./Symbolism_of_the_Lamb_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -62,3 +62,4 @@ Atonement is the act of making amends for sin and restoring a relationship with 
  * [95.0](./Symbolism_of_the_Lamb_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Symbolism_of_the_Lamb_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Symbolism_of_the_Lamb_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Symbolism_of_the_Lamb_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

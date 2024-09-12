@@ -45,7 +45,7 @@ The concept of "finding grace in the eyes of God" is a culturally nuanced and mu
 The concept of "finding grace in the eyes of God" is a complex and multifaceted idea that has cultural, psychological, and philosophical implications. While it may be meaningful to those who subscribe to theistic beliefs, it does not align with my own philosophical perspective as an atheist scholar.
 
 ## Average Grade
-49.0
+44.166666666666664
 
 ## Grades
  * [40.0](./Finding_Grace_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -53,3 +53,4 @@ The concept of "finding grace in the eyes of God" is a complex and multifaceted 
  * [50.0](./Finding_Grace_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [50.0](./Finding_Grace_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Finding_Grace_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./Finding_Grace_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

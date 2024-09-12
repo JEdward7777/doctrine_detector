@@ -17,7 +17,7 @@ In discussing the concept of the kingdom in relation to Jesus' role as the Messi
 As a politician, I strive to respect and acknowledge the diversity of beliefs and perspectives on this topic. It is essential to engage in open and respectful dialogue, listen to different viewpoints, and work towards fostering understanding and cooperation among individuals with varying interpretations and understandings of the concept of the kingdom in relation to Jesus' role as the Messiah.
 
 ## Average Grade
-48.0
+43.333333333333336
 
 ## Grades
  * [60.0](./Role_of_Jesus_as_Messiah_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -25,3 +25,4 @@ As a politician, I strive to respect and acknowledge the diversity of beliefs an
  * [50.0](./Role_of_Jesus_as_Messiah_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [30.0](./Role_of_Jesus_as_Messiah_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Role_of_Jesus_as_Messiah_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [20.0](./Role_of_Jesus_as_Messiah_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

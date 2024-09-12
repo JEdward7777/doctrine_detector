@@ -35,7 +35,7 @@ As Christians, we're called to respond with compassion, justice, and faithfulnes
 As we respond to injustices, let's not forget the biblical imperative to "act justly, love mercy, and walk humbly with your God" (Micah 6:8). May our actions be motivated by a deep love for God and a commitment to reflecting His character in our world.
 
 ## Average Grade
-95.0
+94.16666666666667
 
 ## Grades
  * [95.0](./Injustice_in_Society_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -43,3 +43,4 @@ As we respond to injustices, let's not forget the biblical imperative to "act ju
  * [95.0](./Injustice_in_Society_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Injustice_in_Society_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Injustice_in_Society_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Injustice_in_Society_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

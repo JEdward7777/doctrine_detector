@@ -21,7 +21,7 @@ On the other hand, the zeal of the Lord is also seen as a manifestation of God's
 Overall, the term "zeal of the Lord" reflects God's intense passion and commitment towards His people, both in judgment and in love, showing that God's actions are always motivated by His perfect and righteous character.
 
 ## Average Grade
-89.0
+88.33333333333333
 
 ## Grades
  * [90.0](./God_s_Zeal_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,3 +29,4 @@ Overall, the term "zeal of the Lord" reflects God's intense passion and commitme
  * [90.0](./God_s_Zeal_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [90.0](./God_s_Zeal_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./God_s_Zeal_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [85.0](./God_s_Zeal_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)

@@ -15,7 +15,7 @@ Understanding God's covenant and promises in the Bible.
 In the Bible, the rainbow is described as a sign of God's covenant with humanity in Genesis 9:12-17. After the Great Flood, God made a covenant with Noah and his descendants, promising never again to flood the whole earth. The rainbow serves as a visible reminder of this promise, symbolizing God's faithfulness and mercy. When God sees the rainbow, it serves as a reminder to Him of His covenant with humanity, and it reassures us of His enduring love and faithfulness.
 
 ## Average Grade
-91.0
+90.83333333333333
 
 ## Grades
  * [85.0](./Sign_as_Covenant_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -23,3 +23,4 @@ In the Bible, the rainbow is described as a sign of God's covenant with humanity
  * [95.0](./Sign_as_Covenant_grades/openai_gpt-4o-mini_1.md) [openai_gpt-4o-mini_1](../../grading_models/openai_gpt-4o-mini_1.md)
  * [95.0](./Sign_as_Covenant_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Sign_as_Covenant_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
+ * [90.0](./Sign_as_Covenant_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
