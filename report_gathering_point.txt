@@ -3,10 +3,10 @@ Here is what I shared with Klappy for the lab.
 An effort has been gone through to evaluate the ability of different Large Language Models such as ChatGPT to answer questions from a Christian perspective.  To achieve this goal,
  
 566 questions were generated from Unfolding Word translation notes
-20 models/configurations were used to answer these questions with
-6 runs of answer gradings by three different models
-11320 answers were produced 566 * 20
-67920 grades were generated 11320 * 6
+21 models/configurations were used to answer these questions with
+8 runs of answer gradings by three different models
+11886 answers were produced 566 * 21
+95088 grades were generated 11886 * 8
 
 The full results are available on the web as rendered markdown and json.
 https://github.com/JEdward7777/doctrine_detector/blob/master/index.md
@@ -67,3 +67,189 @@ The specific response of the Fate of Satan helps show
 2) The non student teacher model doesn't correctly separate out a bad answer from the reference answer.
 3) That the models that do answer correct are able to correctly criticize the response.
 https://github.com/JEdward7777/doctrine_detector/blob/master/results/answers/mistral_1.75_vectored/Satan_s_Fate.md
+
+
+Here is another answer which shows how a bad answer can be correctly caught.  This one deals with not just a specific outright error but a philosophy in the answer.
+https://github.com/JEdward7777/doctrine_detector/blob/master/results/answers/gemma_atheist/Authentic_Christian_Living_grades/gpt-4o-mini_student_teacher.md
+
+Even the blind grader was able to show that this wasn't an ok answer:
+https://github.com/JEdward7777/doctrine_detector/blob/master/results/answers/gemma_atheist/Authentic_Christian_Living_grades/gpt-4o-mini_blind.md
+
+
+Here is the information restructured: =========================
+
+Slide 1: ========
+Describe the point of this exercise.
+Framework for testing LLM answers and testing LLM grading.
+====
+
+Presentation Structure for Evaluating LLMs from a Christian Perspective
+Introduction
+The project focuses on evaluating how Large Language Models (LLMs) like ChatGPT answer questions from a Christian perspective.
+The goal is to analyze the quality and bias in responses and determine if models can accurately reflect theological views based on Christian doctrine.
+Project Overview
+Data Collection:
+
+Slide 2: =====
+Read the slide giving the questions that I hope to answer.
+Can an LLM give a meaningful grade or is it just noise?
+Can an LLM give a consistent grade?
+Will a LLM give a grade according to a stated priority contrary to its trained bias?
+Will an LLM show favoritism to its own answers vs answers of other LLMs?
+What factors influence the quality of the LLM’s output?
+=====
+
+Slide 3: =====
+Read the slide giving the scope of the work
+566 questions were generated from Unfolding Word translation notes.
+21 models/configurations answered these questions.
+8 grading runs were performed by three different models.
+11,886 answers produced (566 questions × 21 models).
+95,088 grades generated (11,886 answers × 8 runs).
+====
+
+Slide 4: ====
+Click and show the questions and grades matrix at GitHub.  Show that the questions include a stated answer and concern.
+====
+
+Full results:
+
+Available in markdown and JSON formats on GitHub: Results on GitHub.
+Key Observations
+
+Slide 5: ====
+LLMs were used for both answering the questions as well as grading the answers.
+This slide shows the average answers for the answering LLMs on the y axis with the grading LLMs on the x axis.
+The colors of the graphs relate to the system persona of the model.
+ Yellow Bible Translator
+ Blue Atheist
+ Green Politian
+ Red Imam
+
+1- There is correlation between the grades of different models and color separation showing meaning in the grades.
+2- Both openai_gpt-3.5-turbo and open_ai_gpt-4o-mini were used multiple times showing consistency in the average results.
+
+There are two local graders on the left, several ChatGPT answers in the middle and two modified ChatGPT graders on the right.
+
+Most of the graders were provided the "correct" answer key to grade the submitted answer with.  The problem is that the grade provided was influenced by the reference answer as part of what was being graded.  The two answer runs on the right combat this in two ways.  One is using a student teacher metaphor which helped ChatGPT grade the "student's" answer instead of the "teacher's" answer, and the blind model was not provided the reference answer or stated concern at all.
+Correlation between the blind model and the student teacher model help show that the student/teacher model is correctly grading the correct answers.
+
+Testing a blind model is also important for cases where the "correct" answer is not available because the response was generated dynamically.
+
+The openai_gpt-4o-mini/act-as-a-Bible-Translator model delivered the most accurate, doctrinally aligned responses.
+====
+
+
+Slide 6: ====
+This shows a correlation between the gpt-4o-mini_student_teacher adn the openai_gpt-4o-mini_2.
+
+You can see the Bible translator personas in yellow are grouped together in the top right
+A general linear fit between the two.
+And a lower grade for the bad answers on the left.
+====
+
+Slide 7: ====
+This slide shows the correlation between chatGPT (openai_gpt-4o-minit_2) and a local model (ollama_llama3)
+The local models while still providing coherent output, did not do so with the same quality as the online models which is as would be expected.
+=====
+
+System Prompt Impact:
+The prompt used influences the bias of the response significantly.
+For instance, prompts like “Bible Translator” yield different results than “Atheist.”
+Model Bias:
+Smaller, less capable models like Llama seemed biased toward their own answers, while larger models like ChatGPT were more neutral.
+However, this is later identified as a bias against smaller local models since their answers were underrepresented. Larger models established what was considered "unbiased."
+Best Performing Model:
+The openai_gpt-4o-mini/act-as-a-Bible-Translator model delivered the most accurate, doctrinally aligned responses.
+Grading Patterns:
+Atheist configurations consistently received lower grades, showing the graders’ ability to detect doctrinal discrepancies.
+Room for Improvement
+Grading Confusion:
+Graders occasionally mixed up reference answers with generated answers, causing grading inconsistencies.
+Developing a Christian-Biased Model:
+Suggestion: Using control vectors (as per this article) to build models with inherent Christian biases for both generating and grading answers.
+Correction on Model Bias:
+The previous assumption that smaller models were biased was incorrect.
+The issue was that the larger models set the standard, which caused the smaller models to appear biased when they weren’t adequately represented in the average grading process.
+Insights on LLM Grading Behavior
+LLMs can sometimes give themselves bad grades based on the specific grading criteria set for the task.
+Future Work Suggestion:
+Gather critiques from various models and summarize them.
+Generate a new response based on these critiques, and then let the same models grade it to see if it performs better.
+Visual Aids
+Grade Consistency Graph:
+
+This graph shows the consistency between the grading runs and highlights a clear gradient in the output.
+Useful for demonstrating run-to-run consistency and the impact of grading criteria.
+Correlation Chart:
+
+Correlates the grades between different graders, focusing on the local Llama3 model and a student-teacher metaphor.
+Index of All Responses:
+
+
+Slide 8: ====
+This slide attempts to show if there is favoritism for a model when grading output produce by itself.
+The sort of the models is a weighted average so that each model type has an equal say in order so that ChatGPT doesn't what "unbiased" means because it has the most answers.
+In total there are three models types,
+  Local Llama3
+  Local Gemma
+  ChatGPT
+
+It is hard to see any evidence of favoritism
+====
+
+Slide 9: ====
+This slide sorts based on the average of gpt-4o-mini_blind and gpt-4o-mini_student_teacher and with this sort you can see a favoritism for Llama3 orange for its own answers.  However apparently Gemma also likes Llama3 answers.
+====
+
+
+An index showing all points for the different answers, useful for summarizing overall results.
+Areas for Improvement and Poor Performance
+Show areas where the grading results were poor, highlighting specific errors made by models.
+Emphasize the importance of consumer thinking and certified professional support when relying on AI tools.
+Future Work
+Training Models with Control Vectors:
+This approach showed mixed results. Control vectors did not significantly improve performance.
+Blind Model Evaluation:
+Without reference answers, the blind model still managed to perform consistently, especially when using the student-teacher metaphor.
+Case Studies
+Fate of Satan:
+
+Demonstrates how the vector model did not perform well and how the non-student-teacher model failed to differentiate a bad answer from the reference.
+Shows that the well-performing models could correctly criticize the bad response.
+Link to example.
+Authentic Christian Living:
+
+Shows a poor answer that was correctly flagged by models, dealing not only with specific errors but also philosophical issues in the response.
+The blind grader was even able to detect that this wasn't an acceptable answer:
+Link to student-teacher metaphor grading.
+Link to blind model grading.
+Conclusion
+Highlight that LLMs are tools that require human oversight and certified professionals to ensure quality output.
+Future work will continue refining the ability of these models to align more closely with doctrinal accuracy.
+
+
+Slide 10 ====
+Read slide about Control Vector Test
+====
+
+
+Slide 11====
+The specific response of the Fate of Satan helps show 
+1) The vector model doesn't answer correctly.
+2) The non student teacher model doesn't correctly separate out a bad answer from the reference answer.
+3) That the models that do answer correct are able to correctly criticize the response.
+https://github.com/JEdward7777/doctrine_detector/blob/master/results/answers/mistral_1.75_vectored/Satan_s_Fate.md
+
+
+Here is another answer which shows how a bad answer can be correctly caught.  This one deals with not just a specific outright error but a philosophy in the answer.
+https://github.com/JEdward7777/doctrine_detector/blob/master/results/answers/gemma_atheist/Authentic_Christian_Living_grades/gpt-4o-mini_student_teacher.md
+
+Even the blind grader was able to show that this wasn't an ok answer:
+https://github.com/JEdward7777/doctrine_detector/blob/master/results/answers/gemma_atheist/Authentic_Christian_Living_grades/gpt-4o-mini_blind.md
+====
+
+Slide 12 ===
+Read the slide about possible future ideas.
+
+===
