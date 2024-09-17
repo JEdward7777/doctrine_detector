@@ -29,7 +29,7 @@ These miracles reveal several aspects about Jesus' identity:
 In conclusion, the miracles performed by Jesus, as described in the Quran, reveal his identity as a prophet, servant, and messenger of Allah. They demonstrate his ability to perform extraordinary feats, which were not for personal gain or glory, but rather as a fulfillment of Allah's will and plan.
 
 ## Average Grade
-28.333333333333332
+37.5
 
 ## Grades
  * [20.0](./Nature_of_Miracles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ In conclusion, the miracles performed by Jesus, as described in the Quran, revea
  * [10.0](./Nature_of_Miracles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Nature_of_Miracles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Nature_of_Miracles_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [70.0](./Nature_of_Miracles_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Nature_of_Miracles_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Nature_of_Miracles.md)

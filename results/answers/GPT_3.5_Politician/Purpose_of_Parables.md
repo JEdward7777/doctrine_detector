@@ -15,7 +15,7 @@ Understanding the teaching methods of Jesus and their implications for faith.
 Thank you for that question. Jesus used parables in his teachings to convey spiritual truths in a way that could be easily understood and remembered by a diverse audience with varying levels of education and cultural backgrounds. By using stories and analogies from everyday life, he was able to connect with his listeners on a personal level and communicate complex ideas in a way that was accessible and engaging. The parables also encouraged listeners to think deeply about the message and apply it to their own lives, fostering introspection and growth in their faith.
 
 ## Average Grade
-85.0
+83.75
 
 ## Grades
  * [90.0](./Purpose_of_Parables_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ Thank you for that question. Jesus used parables in his teachings to convey spir
  * [85.0](./Purpose_of_Parables_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Purpose_of_Parables_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Purpose_of_Parables_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Purpose_of_Parables_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [75.0](./Purpose_of_Parables_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Purpose_of_Parables.md)

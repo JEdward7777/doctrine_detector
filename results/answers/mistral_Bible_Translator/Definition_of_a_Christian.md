@@ -21,7 +21,7 @@ It is important to note that being a Christian involves more than just professin
 In summary, a Christian is someone who has accepted Jesus Christ as their Lord and Savior, believes in His teachings, and seeks to live according to God's will as revealed in the Bible.
 
 ## Average Grade
-91.66666666666667
+90.625
 
 ## Grades
  * [95.0](./Definition_of_a_Christian_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ In summary, a Christian is someone who has accepted Jesus Christ as their Lord a
  * [95.0](./Definition_of_a_Christian_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Definition_of_a_Christian_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Definition_of_a_Christian_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Definition_of_a_Christian_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Definition_of_a_Christian_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Definition_of_a_Christian.md)

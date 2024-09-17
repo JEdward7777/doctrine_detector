@@ -39,7 +39,7 @@ Islamic law also recognizes parental authority as a fundamental responsibility. 
 Both the Bible and Islamic law share the principle of parental authority over children. The scriptures emphasize the divine responsibility of parents to guide, discipline, and provide for their children's spiritual and physical well-being.
 
 ## Average Grade
-76.66666666666667
+73.125
 
 ## Grades
  * [85.0](./Authority_of_Parents_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -48,5 +48,7 @@ Both the Bible and Islamic law share the principle of parental authority over ch
  * [95.0](./Authority_of_Parents_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Authority_of_Parents_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./Authority_of_Parents_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Authority_of_Parents_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Authority_of_Parents_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Authority_of_Parents.md)

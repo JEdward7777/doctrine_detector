@@ -43,7 +43,7 @@ The term "Holy One" appears in various contexts in both the Old and New Testamen
 The term "Holy One" serves to convey different layers of meaning within the biblical text. Primarily, it denotes God's holiness and separateness from sin while also referring to individuals marked by holiness due to their relationship with God. The context determines whether it refers specifically to God, Jesus, believers, or prophets.
 
 ## Average Grade
-85.0
+85.625
 
 ## Grades
  * [90.0](./Usage_in_Scripture_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -52,5 +52,7 @@ The term "Holy One" serves to convey different layers of meaning within the bibl
  * [90.0](./Usage_in_Scripture_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Usage_in_Scripture_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Usage_in_Scripture_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Usage_in_Scripture_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Usage_in_Scripture_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Usage_in_Scripture.md)

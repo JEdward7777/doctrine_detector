@@ -21,7 +21,7 @@ We can also find freedom from the bonds of sin by seeking God's help and power t
 Ultimately, true freedom from the bonds of sin comes through the saving work of Jesus Christ. In John 8:36, Jesus said, "So if the Son sets you free, you will be free indeed." Through faith in Jesus and His sacrifice on the cross, we can be set free from the power of sin and death, and experience true freedom in our relationship with God.
 
 ## Average Grade
-93.33333333333333
+91.875
 
 ## Grades
  * [95.0](./Freedom_from_Sin_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ Ultimately, true freedom from the bonds of sin comes through the saving work of 
  * [95.0](./Freedom_from_Sin_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Freedom_from_Sin_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Freedom_from_Sin_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Freedom_from_Sin_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Freedom_from_Sin_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Freedom_from_Sin.md)

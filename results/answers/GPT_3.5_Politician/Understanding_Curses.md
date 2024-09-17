@@ -19,7 +19,7 @@ It is important to remember that the Bible emphasizes the power of words and the
 Overall, the message of James 3:10 encourages us to be mindful of our speech and to strive for harmony and unity in our interactions with others.
 
 ## Average Grade
-82.5
+81.875
 
 ## Grades
  * [90.0](./Understanding_Curses_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ Overall, the message of James 3:10 encourages us to be mindful of our speech and
  * [85.0](./Understanding_Curses_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Curses_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Understanding_Curses_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Curses_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [75.0](./Understanding_Curses_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Curses.md)

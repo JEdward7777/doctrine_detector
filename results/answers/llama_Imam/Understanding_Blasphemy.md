@@ -29,7 +29,7 @@ As Muslims, we are commanded to avoid speaking against God or others, and instea
 In conclusion, while blasphemy is a serious offense in both Christian and Islamic perspectives, it is essential to approach these issues with compassion, humility, and respect for the divine nature of our respective religions.
 
 ## Average Grade
-82.5
+80.0
 
 ## Grades
  * [90.0](./Understanding_Blasphemy_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ In conclusion, while blasphemy is a serious offense in both Christian and Islami
  * [80.0](./Understanding_Blasphemy_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Blasphemy_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Understanding_Blasphemy_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Blasphemy_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Understanding_Blasphemy_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Blasphemy.md)

@@ -19,7 +19,7 @@ A person who truly believes in Jesus will strive to embody the same qualities he
 In following the teachings of Jesus, a person's faith will show in their actions towards others, their willingness to help those in need, and their commitment to living a righteous and ethical life. Ultimately, true faith in Jesus should lead to a deeper connection with God and a greater sense of peace and purpose in one's life.
 
 ## Average Grade
-75.83333333333333
+69.375
 
 ## Grades
  * [80.0](./Faith_s_Impact_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ In following the teachings of Jesus, a person's faith will show in their actions
  * [75.0](./Faith_s_Impact_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Faith_s_Impact_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Faith_s_Impact_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [70.0](./Faith_s_Impact_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [30.0](./Faith_s_Impact_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Faith_s_Impact.md)

@@ -21,7 +21,7 @@ In the spiritual sense, being saved means being made new creations in Christ, re
 Salvation is not just a one-time event but an ongoing process of sanctification, in which believers are made more like Christ as they grow in their relationship with Him. Ultimately, being saved is about experiencing the fullness of God's love, grace, and mercy, and spending eternity in His presence.
 
 ## Average Grade
-90.83333333333333
+91.25
 
 ## Grades
  * [90.0](./Spiritual_Salvation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ Salvation is not just a one-time event but an ongoing process of sanctification,
  * [95.0](./Spiritual_Salvation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Spiritual_Salvation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [95.0](./Spiritual_Salvation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Spiritual_Salvation_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Spiritual_Salvation_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Spiritual_Salvation.md)

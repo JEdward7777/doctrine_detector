@@ -23,7 +23,7 @@ In the parable of the prodigal son (Luke 15:11-32), we see a clear picture of th
 Ultimately, true repentance leads to the experience of God's forgiveness, while receiving God's forgiveness enables believers to live a life of repentance and grow in their faith (1 John 1:9). As believers, we are called to extend this same grace and forgiveness to others as we have received from God (Matthew 6:14-15, Matthew 18:21-35).
 
 ## Average Grade
-90.0
+89.375
 
 ## Grades
  * [95.0](./Role_of_Repentance_in_Forgiveness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ Ultimately, true repentance leads to the experience of God's forgiveness, while 
  * [90.0](./Role_of_Repentance_in_Forgiveness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Role_of_Repentance_in_Forgiveness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Role_of_Repentance_in_Forgiveness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Role_of_Repentance_in_Forgiveness_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Role_of_Repentance_in_Forgiveness_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Role_of_Repentance_in_Forgiveness.md)

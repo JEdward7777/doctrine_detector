@@ -23,7 +23,7 @@ In modern times, the term "ministry" can also refer to any professional or volun
 Ultimately, the notion of fulfilling one's ministry is shaped by cultural, historical, and individual factors. It is essential to recognize that these perspectives may vary significantly across different cultures, traditions, and belief systems. As an atheist, I do not subscribe to religious dogma, but rather emphasize the importance of understanding the complexities of human experience and culture in shaping our values and behaviors.
 
 ## Average Grade
-28.333333333333332
+36.875
 
 ## Grades
  * [20.0](./Ministry_Fulfillment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ Ultimately, the notion of fulfilling one's ministry is shaped by cultural, histo
  * [20.0](./Ministry_Fulfillment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Ministry_Fulfillment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./Ministry_Fulfillment_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Ministry_Fulfillment_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Ministry_Fulfillment_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Ministry_Fulfillment.md)

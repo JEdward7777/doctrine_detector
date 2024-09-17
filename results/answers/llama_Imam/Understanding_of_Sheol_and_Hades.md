@@ -28,7 +28,7 @@ It's essential to note that the biblical concept of Sheol/Hades is distinct from
 In conclusion, while both Sheol and Hades refer to the realm or abode of the dead, they differ in their connotations and implications for the afterlife. The biblical perspectives highlight the distinction between the righteous and unrighteous, foreshadowing a final judgment that will determine one's eternal destiny. As Muslims, we recognize the differences between our beliefs and those of other faiths but affirm the shared goal of seeking guidance from Allah (God) in this life and the next.
 
 ## Average Grade
-80.83333333333333
+77.5
 
 ## Grades
  * [75.0](./Understanding_of_Sheol_and_Hades_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,5 +37,7 @@ In conclusion, while both Sheol and Hades refer to the realm or abode of the dea
  * [85.0](./Understanding_of_Sheol_and_Hades_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_of_Sheol_and_Hades_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Understanding_of_Sheol_and_Hades_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_of_Sheol_and_Hades_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Understanding_of_Sheol_and_Hades_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_of_Sheol_and_Hades.md)

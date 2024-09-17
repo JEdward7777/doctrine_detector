@@ -25,7 +25,7 @@ Ultimately, the concept of "unfaithfulness" is tied to societal norms, cultural 
 Now, I know some might argue that certain religious texts or traditions define "unfaithfulness" in absolute terms. But as an atheistic scholar, I believe it's crucial to separate the cultural and historical contexts from the natural world, allowing us to engage with these concepts in a more analytical and open-minded way.
 
 ## Average Grade
-20.0
+29.375
 
 ## Grades
  * [10.0](./Adultery_and_Unfaithfulness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ Now, I know some might argue that certain religious texts or traditions define "
  * [20.0](./Adultery_and_Unfaithfulness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [30.0](./Adultery_and_Unfaithfulness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./Adultery_and_Unfaithfulness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Adultery_and_Unfaithfulness_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [30.0](./Adultery_and_Unfaithfulness_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Adultery_and_Unfaithfulness.md)

@@ -26,7 +26,7 @@ Honoring God in our daily lives is such an important topic! As a thoughtful and 
 Remember, honoring God in our daily lives is not just about individual actions; it's also about creating an environment where others feel welcome and valued. By incorporating these practices into your daily routine, you'll be well on your way to glorifying God in all you do!
 
 ## Average Grade
-75.0
+75.625
 
 ## Grades
  * [85.0](./Ways_to_Honor_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,5 +35,7 @@ Remember, honoring God in our daily lives is not just about individual actions; 
  * [70.0](./Ways_to_Honor_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Ways_to_Honor_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Ways_to_Honor_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Ways_to_Honor_God_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Ways_to_Honor_God_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Ways_to_Honor_God.md)

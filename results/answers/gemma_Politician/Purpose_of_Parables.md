@@ -15,7 +15,7 @@ Understanding the teaching methods of Jesus and their implications for faith.
 The primary purpose of Jesus using parables in his teachings was to communicate complex spiritual concepts in a way that was accessible and relatable to the people of his time, without offending or alienating them. By using familiar analogies and stories, Jesus could engage listeners' imaginations and convey profound truths in a way that was both memorable and impactful.
 
 ## Average Grade
-80.0
+79.375
 
 ## Grades
  * [90.0](./Purpose_of_Parables_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ The primary purpose of Jesus using parables in his teachings was to communicate 
  * [80.0](./Purpose_of_Parables_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Purpose_of_Parables_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [65.0](./Purpose_of_Parables_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Purpose_of_Parables_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Purpose_of_Parables_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Purpose_of_Parables.md)

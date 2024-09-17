@@ -25,7 +25,7 @@ In our pluralistic society, we must respect people's beliefs and values, even if
 So, my fellow citizens, let's approach this topic with empathy, understanding, and a commitment to respecting the diverse perspectives within our community. By doing so, we can foster a culture of inclusivity, compassion, and mutual respect.
 
 ## Average Grade
-63.333333333333336
+62.5
 
 ## Grades
  * [60.0](./Demon_Possession_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ So, my fellow citizens, let's approach this topic with empathy, understanding, a
  * [70.0](./Demon_Possession_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Demon_Possession_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Demon_Possession_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Demon_Possession_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [35.0](./Demon_Possession_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Demon_Possession.md)

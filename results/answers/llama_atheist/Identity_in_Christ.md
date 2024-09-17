@@ -27,7 +27,7 @@ In today's context, we might interpret "I have called you by name" as a declarat
 Ultimately, the phrase "I have called you by name" is a powerful expression that transcends religious boundaries. Its significance lies in its ability to evoke feelings of connection, purpose, and hope, regardless of one's beliefs or lack thereof.
 
 ## Average Grade
-59.166666666666664
+62.5
 
 ## Grades
  * [60.0](./Identity_in_Christ_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ Ultimately, the phrase "I have called you by name" is a powerful expression that
  * [60.0](./Identity_in_Christ_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Identity_in_Christ_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Identity_in_Christ_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Identity_in_Christ_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Identity_in_Christ_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Identity_in_Christ.md)

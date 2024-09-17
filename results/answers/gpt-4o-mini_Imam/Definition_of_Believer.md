@@ -21,7 +21,7 @@ In a broader sense, the concept of belief is tied to acknowledging the existence
 It is important to note that while there are overlapping themes, the definitions and implications of being a believer can differ significantly between Islam and Christianity. In Islam, belief also encompasses the articles of faith and submitting to the will of Allah.
 
 ## Average Grade
-76.66666666666667
+76.875
 
 ## Grades
  * [75.0](./Definition_of_Believer_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ It is important to note that while there are overlapping themes, the definitions
  * [70.0](./Definition_of_Believer_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Definition_of_Believer_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Definition_of_Believer_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Definition_of_Believer_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Definition_of_Believer_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Definition_of_Believer.md)

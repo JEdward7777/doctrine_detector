@@ -25,7 +25,7 @@ Balancing the concepts of divine justice and mercy in our understanding of punis
 In summary, these verses encourage us to approach punishment as a means for growth, redemption, and learning rather than as a form of condemnation. It's essential to prioritize human dignity, refrain from judgment, extend compassion, and emphasize righteous actions in our decisions and policies regarding punishment.
 
 ## Average Grade
-82.5
+80.0
 
 ## Grades
  * [85.0](./Condemnation_and_Punishment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ In summary, these verses encourage us to approach punishment as a means for grow
  * [85.0](./Condemnation_and_Punishment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Condemnation_and_Punishment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Condemnation_and_Punishment_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Condemnation_and_Punishment_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Condemnation_and_Punishment_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Condemnation_and_Punishment.md)

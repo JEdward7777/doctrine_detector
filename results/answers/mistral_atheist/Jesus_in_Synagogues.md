@@ -25,7 +25,7 @@ It's worth noting that Jesus' message and teachings often clashed with the relig
 In summary, during his ministry, Jesus engaged with the synagogue as an important community center and platform for teaching, healing, and interacting with others. His message and actions sometimes conflicted with the prevailing religious orthodoxy, leading to confrontations within the synagogue setting.
 
 ## Average Grade
-90.83333333333333
+88.75
 
 ## Grades
  * [90.0](./Jesus_in_Synagogues_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ In summary, during his ministry, Jesus engaged with the synagogue as an importan
  * [95.0](./Jesus_in_Synagogues_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Jesus_in_Synagogues_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Jesus_in_Synagogues_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Jesus_in_Synagogues_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [80.0](./Jesus_in_Synagogues_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Jesus_in_Synagogues.md)

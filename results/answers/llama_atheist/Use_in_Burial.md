@@ -34,7 +34,7 @@ In general, myrrh was likely used during the following stages of ancient Near Ea
 In conclusion, myrrh was a crucial component in ancient Near Eastern and Mediterranean burial practices, including those mentioned in the Bible. Its antiseptic, aromatic, and symbolic qualities made it an integral part of the preparation, anointing, and perfuming of the deceased, reflecting the cultural values and beliefs surrounding death and the afterlife.
 
 ## Average Grade
-89.16666666666667
+88.75
 
 ## Grades
  * [90.0](./Use_in_Burial_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -43,5 +43,7 @@ In conclusion, myrrh was a crucial component in ancient Near Eastern and Mediter
  * [90.0](./Use_in_Burial_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Use_in_Burial_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Use_in_Burial_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Use_in_Burial_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Use_in_Burial_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Use_in_Burial.md)

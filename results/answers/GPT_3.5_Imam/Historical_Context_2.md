@@ -17,7 +17,7 @@ The Israelites ate unleavened bread during their escape from Egypt because they 
 Additionally, eating unleavened bread during the escape from Egypt became a symbol of remembrance and a way to commemorate their deliverance from slavery. This practice was later formalized as part of the observance of Passover in Judaism.
 
 ## Average Grade
-73.33333333333333
+67.5
 
 ## Grades
  * [90.0](./Historical_Context_2_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -26,5 +26,7 @@ Additionally, eating unleavened bread during the escape from Egypt became a symb
  * [70.0](./Historical_Context_2_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Historical_Context_2_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Historical_Context_2_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Historical_Context_2_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [20.0](./Historical_Context_2_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Historical_Context_2.md)

@@ -51,7 +51,7 @@ Certainly, the power and importance of prayer are illustrated throughout the Bib
 **Remember, prayer is a vital part of the Muslim faith. The Quran and Sunnah encourage believers to cultivate a close and intimate relationship with Allah through prayer.**
 
 ## Average Grade
-68.33333333333333
+65.625
 
 ## Grades
  * [80.0](./Biblical_Examples_of_Prayer_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -60,5 +60,7 @@ Certainly, the power and importance of prayer are illustrated throughout the Bib
  * [75.0](./Biblical_Examples_of_Prayer_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Biblical_Examples_of_Prayer_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [30.0](./Biblical_Examples_of_Prayer_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Biblical_Examples_of_Prayer_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [30.0](./Biblical_Examples_of_Prayer_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Biblical_Examples_of_Prayer.md)

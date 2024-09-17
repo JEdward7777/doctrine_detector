@@ -21,7 +21,7 @@ Moreover, obedience to God's laws was not solely about following rules and regul
 Overall, obedience to God's laws played a multifaceted role in the Israelites' journey toward the Promised Land, shaping their society, ensuring their well-being, and fostering a spiritual connection with the divine that sustained them through challenges and triumphs alike.
 
 ## Average Grade
-90.83333333333333
+89.375
 
 ## Grades
  * [95.0](./Covenant_and_Obedience_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ Overall, obedience to God's laws played a multifaceted role in the Israelites' j
  * [95.0](./Covenant_and_Obedience_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Covenant_and_Obedience_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Covenant_and_Obedience_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Covenant_and_Obedience_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Covenant_and_Obedience_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Covenant_and_Obedience.md)

@@ -27,7 +27,7 @@ Now, I must be mindful to avoid any potential misunderstandings or unintended of
 In conclusion, a synagogue transcends its physical structure by representing a vibrant community, rich tradition, and shared values that inspire and uplift individuals from all walks of life.
 
 ## Average Grade
-89.16666666666667
+87.5
 
 ## Grades
  * [90.0](./Synagogue_Beliefs_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ In conclusion, a synagogue transcends its physical structure by representing a v
  * [85.0](./Synagogue_Beliefs_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Synagogue_Beliefs_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Synagogue_Beliefs_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Synagogue_Beliefs_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [75.0](./Synagogue_Beliefs_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Synagogue_Beliefs.md)

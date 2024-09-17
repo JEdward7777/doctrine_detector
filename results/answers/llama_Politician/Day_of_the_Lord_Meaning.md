@@ -25,7 +25,7 @@ In today's globalized world, where differences between cultures, beliefs, and ba
 In conclusion, when considering the term "day of the Lord," we must prioritize inclusivity, sensitivity, and compassion. By doing so, we can work towards building bridges between diverse perspectives and fostering a more harmonious global community.
 
 ## Average Grade
-50.0
+56.25
 
 ## Grades
  * [40.0](./Day_of_the_Lord_Meaning_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ In conclusion, when considering the term "day of the Lord," we must prioritize i
  * [55.0](./Day_of_the_Lord_Meaning_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [75.0](./Day_of_the_Lord_Meaning_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [30.0](./Day_of_the_Lord_Meaning_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Day_of_the_Lord_Meaning_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [65.0](./Day_of_the_Lord_Meaning_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Day_of_the_Lord_Meaning.md)

@@ -19,7 +19,7 @@ Moreover, tests are sometimes seen as a means of encouraging believers to rely o
 It is important to approach this topic with sensitivity, recognizing that interpretations of faith and experiences of adversity can vary widely among individuals and communities. Each person's journey is unique, and discussions about such matters can benefit from inclusivity and respect for different perspectives.
 
 ## Average Grade
-65.0
+68.125
 
 ## Grades
  * [75.0](./Purpose_of_Tests_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ It is important to approach this topic with sensitivity, recognizing that interp
  * [60.0](./Purpose_of_Tests_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Purpose_of_Tests_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Purpose_of_Tests_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Purpose_of_Tests_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [75.0](./Purpose_of_Tests_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Purpose_of_Tests.md)

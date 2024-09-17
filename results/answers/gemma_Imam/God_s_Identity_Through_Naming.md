@@ -54,7 +54,7 @@ Exploring the implications of identity and belonging to God in a Christian's lif
 **The concept of being 'called by my name' reminds Muslims of the unique and special relationship they have with God, and encourages them to respond faithfully to His call.**
 
 ## Average Grade
-79.16666666666667
+78.75
 
 ## Grades
  * [85.0](./God_s_Identity_Through_Naming_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -63,5 +63,7 @@ Exploring the implications of identity and belonging to God in a Christian's lif
  * [85.0](./God_s_Identity_Through_Naming_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./God_s_Identity_Through_Naming_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./God_s_Identity_Through_Naming_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./God_s_Identity_Through_Naming_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./God_s_Identity_Through_Naming_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/God_s_Identity_Through_Naming.md)

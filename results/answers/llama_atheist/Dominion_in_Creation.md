@@ -25,7 +25,7 @@ In light of this cultural context, I believe that humanity's role in having domi
 Ultimately, I think that the Bible's teachings on humanity's role in having dominion over the earth encourage us to adopt a more holistic approach, recognizing our place within the natural world as part of God's larger plan.
 
 ## Average Grade
-91.66666666666667
+90.625
 
 ## Grades
  * [95.0](./Dominion_in_Creation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ Ultimately, I think that the Bible's teachings on humanity's role in having domi
  * [95.0](./Dominion_in_Creation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Dominion_in_Creation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Dominion_in_Creation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Dominion_in_Creation_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Dominion_in_Creation_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Dominion_in_Creation.md)

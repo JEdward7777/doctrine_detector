@@ -15,7 +15,7 @@ Understanding the relationship between Old Testament practices and New Testament
 It is important to approach discussions about religious concepts with sensitivity and respect for different beliefs. In the context of the Bible, the concept of "cleansing" can be understood in various ways, including as a metaphor for spiritual purification or moral purification. In the New Testament, the teachings about sin and redemption emphasize the idea of forgiveness, grace, and reconciliation with God through faith in Jesus Christ. This understanding encourages believers to acknowledge their mistakes, seek forgiveness, and strive to live according to the teachings of love, compassion, and humility. It is important to recognize that interpretations of religious texts can vary among individuals and communities, and it is essential to engage in respectful dialogue when discussing such topics.
 
 ## Average Grade
-83.33333333333333
+80.625
 
 ## Grades
  * [90.0](./The_Role_of_Cleansing_in_Christianity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ It is important to approach discussions about religious concepts with sensitivit
  * [85.0](./The_Role_of_Cleansing_in_Christianity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./The_Role_of_Cleansing_in_Christianity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./The_Role_of_Cleansing_in_Christianity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./The_Role_of_Cleansing_in_Christianity_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./The_Role_of_Cleansing_in_Christianity_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/The_Role_of_Cleansing_in_Christianity.md)

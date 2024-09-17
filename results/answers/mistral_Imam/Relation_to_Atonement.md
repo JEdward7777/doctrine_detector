@@ -23,7 +23,7 @@ In some cases, similar to the concept of atonement in Christianity, Islam also h
 So while there are similarities in the general sense of seeking forgiveness and making amends for sins, it is essential to understand that 'propitiation' and 'atonement' have distinct meanings in their original religious contexts and may not perfectly translate into Islamic terminology.
 
 ## Average Grade
-84.16666666666667
+81.25
 
 ## Grades
  * [95.0](./Relation_to_Atonement_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ So while there are similarities in the general sense of seeking forgiveness and 
  * [85.0](./Relation_to_Atonement_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Relation_to_Atonement_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Relation_to_Atonement_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Relation_to_Atonement_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Relation_to_Atonement_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Relation_to_Atonement.md)

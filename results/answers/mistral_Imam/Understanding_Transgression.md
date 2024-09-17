@@ -15,7 +15,7 @@ Understanding the nature of sin and our relationship with God's commandments.
  In a Biblical context, the term "transgress" implies breaking or violating God's laws or commandments. It refers to actions that go against divine will or moral principles, leading to sin. The concept of transgression is present across various books in the Bible, such as Genesis, Leviticus, and Proverbs, among others. In these instances, "transgressing" often carries a sense of disobedience or going beyond the limits set by God, which can lead to negative consequences. This idea is not exclusive to the Biblical context but is also reflected in Islamic teachings, where sinning or transgressing against God's commands is discouraged and can result in spiritual penalties and separation from God.
 
 ## Average Grade
-85.0
+84.375
 
 ## Grades
  * [85.0](./Understanding_Transgression_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ Understanding the nature of sin and our relationship with God's commandments.
  * [90.0](./Understanding_Transgression_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Understanding_Transgression_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Understanding_Transgression_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Transgression_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [80.0](./Understanding_Transgression_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Transgression.md)

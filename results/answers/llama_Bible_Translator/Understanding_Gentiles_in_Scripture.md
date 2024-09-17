@@ -29,7 +29,7 @@ In Galatians 2:11-14, Paul explicitly addresses this issue, emphasizing that fai
 In summary, the Israelites' perception of Gentiles as outsiders and enemies of God was a significant factor in shaping relationships between Jewish Christians and Gentile converts in the early church. However, through Jesus' teachings and the apostles' experiences, this view began to change, leading to greater unity and inclusivity among believers from diverse backgrounds.
 
 ## Average Grade
-91.66666666666667
+90.0
 
 ## Grades
  * [95.0](./Understanding_Gentiles_in_Scripture_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ In summary, the Israelites' perception of Gentiles as outsiders and enemies of G
  * [85.0](./Understanding_Gentiles_in_Scripture_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Understanding_Gentiles_in_Scripture_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Understanding_Gentiles_in_Scripture_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Gentiles_in_Scripture_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Understanding_Gentiles_in_Scripture_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Gentiles_in_Scripture.md)

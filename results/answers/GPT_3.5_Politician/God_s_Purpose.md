@@ -15,7 +15,7 @@ Believers might feel lost or confused about their purpose or calling, leading to
 While I appreciate your question about spirituality and guidance, it's important to remember that people come from a variety of belief systems and may not all share the same perspective on the concept of God. It's important to approach discussions about faith and destiny with sensitivity and respect for diverse beliefs. Ultimately, individuals may find guidance and purpose through their own spiritual beliefs, self-reflection, and seeking support from their community. Each person's journey is unique and I believe it's important to honor and respect that diversity.
 
 ## Average Grade
-65.0
+62.5
 
 ## Grades
  * [70.0](./God_s_Purpose_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ While I appreciate your question about spirituality and guidance, it's important
  * [60.0](./God_s_Purpose_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./God_s_Purpose_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./God_s_Purpose_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./God_s_Purpose_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [30.0](./God_s_Purpose_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/God_s_Purpose.md)

@@ -19,7 +19,7 @@ In a cultural context where the soul is seen as the seat of a person's morality,
 By exploring the various ways in which the Bible uses the concept of "soul" metaphorically, we can gain a deeper understanding of the multifaceted nature of human identity and the importance of introspection, self-awareness, and moral development in shaping our characters. Ultimately, this figurative approach to understanding the soul in the Bible can lead us to a more nuanced and culturally retributed perspective on what it means to be human.
 
 ## Average Grade
-85.0
+83.75
 
 ## Grades
  * [80.0](./Function_of_the_Soul_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ By exploring the various ways in which the Bible uses the concept of "soul" meta
  * [85.0](./Function_of_the_Soul_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Function_of_the_Soul_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Function_of_the_Soul_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Function_of_the_Soul_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [75.0](./Function_of_the_Soul_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Function_of_the_Soul.md)

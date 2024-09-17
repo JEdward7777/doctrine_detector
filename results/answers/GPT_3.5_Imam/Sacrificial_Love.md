@@ -19,7 +19,7 @@ The Prophet Muhammad (peace be upon him) is the ultimate example of loving other
 In Islam, we believe that true love and compassion are not just feelings, but actions that must be demonstrated through our behavior and treatment of others. By following the teachings of the Qur'an and the Sunnah, we can strive to emulate the example set by the Prophet Muhammad (peace be upon him) and show sacrificial love to those around us.
 
 ## Average Grade
-63.333333333333336
+65.625
 
 ## Grades
  * [80.0](./Sacrificial_Love_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ In Islam, we believe that true love and compassion are not just feelings, but ac
  * [80.0](./Sacrificial_Love_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Sacrificial_Love_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [30.0](./Sacrificial_Love_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [75.0](./Sacrificial_Love_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Sacrificial_Love_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Sacrificial_Love.md)

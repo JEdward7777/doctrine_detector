@@ -37,7 +37,7 @@ To find freedom from the bonds of sin, a person can take the following steps:
 Remember that Allah is the Most Merciful and Forgiving, and He is always ready to accept the repentance of His servants. Keep turning to Him in repentance and seek His guidance and help in breaking free from the bonds of sin.
 
 ## Average Grade
-85.0
+81.875
 
 ## Grades
  * [90.0](./Freedom_from_Sin_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -46,5 +46,7 @@ Remember that Allah is the Most Merciful and Forgiving, and He is always ready t
  * [95.0](./Freedom_from_Sin_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Freedom_from_Sin_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Freedom_from_Sin_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Freedom_from_Sin_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Freedom_from_Sin_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Freedom_from_Sin.md)

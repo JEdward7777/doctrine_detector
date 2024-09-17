@@ -21,7 +21,7 @@ Understanding the fundamental concept of resurrection is crucial for comprehensi
 **The Quranic concept of 'qiyamah' (resurrection) refers to the final resurrection of all humanity at the end of time, when God will reunite the bodies and souls of the deceased. This event is seen as the ultimate triumph of God's power and justice.**
 
 ## Average Grade
-77.5
+78.75
 
 ## Grades
  * [85.0](./Resurrection_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ Understanding the fundamental concept of resurrection is crucial for comprehensi
  * [90.0](./Resurrection_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Resurrection_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Resurrection_Definition_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Resurrection_Definition_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [80.0](./Resurrection_Definition_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Resurrection_Definition.md)

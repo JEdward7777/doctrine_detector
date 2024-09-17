@@ -23,7 +23,7 @@ Similarly, the concept of "unclean" in the Bible can be understood in Islam as b
 Therefore, as Muslims, we are encouraged to strive for both physical and moral purity by following the teachings of Islam, seeking forgiveness for our shortcomings, and constantly improving ourselves to become better individuals in the eyes of Allah.
 
 ## Average Grade
-80.0
+75.625
 
 ## Grades
  * [90.0](./Understanding_Cleanliness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ Therefore, as Muslims, we are encouraged to strive for both physical and moral p
  * [85.0](./Understanding_Cleanliness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Cleanliness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Understanding_Cleanliness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Cleanliness_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Understanding_Cleanliness_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Cleanliness.md)

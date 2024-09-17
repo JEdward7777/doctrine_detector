@@ -33,7 +33,7 @@ In the New Testament, Jesus often condemned actions that were foolish from a mor
 In both testaments, these examples illustrate behaviors considered foolish because they disregard wisdom, morality, and divine laws. However, it's essential to approach these texts within their historical context and recognize the cultural biases inherent in ancient writings.
 
 ## Average Grade
-85.0
+83.125
 
 ## Grades
  * [95.0](./Observing_Folly_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -42,5 +42,7 @@ In both testaments, these examples illustrate behaviors considered foolish becau
  * [90.0](./Observing_Folly_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Observing_Folly_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Observing_Folly_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Observing_Folly_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Observing_Folly_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Observing_Folly.md)

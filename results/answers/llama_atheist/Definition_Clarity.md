@@ -27,7 +27,7 @@ However, it's essential to acknowledge that the concept of adultery can be cultu
 As an atheistic scholar, I recognize that religious beliefs and cultural practices can shape our understanding of morality and ethics. By engaging with these complex issues, we can foster greater understanding, respect, and open-mindedness among people from diverse backgrounds.
 
 ## Average Grade
-83.33333333333333
+80.625
 
 ## Grades
  * [90.0](./Definition_Clarity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ As an atheistic scholar, I recognize that religious beliefs and cultural practic
  * [85.0](./Definition_Clarity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Definition_Clarity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Definition_Clarity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Definition_Clarity_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Definition_Clarity_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Definition_Clarity.md)

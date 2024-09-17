@@ -47,7 +47,7 @@ The Bible teaches that salvation is a gift from God, received through faith in J
 Salvation is a gift from God, received through faith in Jesus Christ, accompanied by genuine repentance from sin, acceptance of God's forgiveness, and transformation by the Holy Spirit.
 
 ## Average Grade
-85.83333333333333
+87.5
 
 ## Grades
  * [95.0](./Requirements_for_Salvation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -56,5 +56,7 @@ Salvation is a gift from God, received through faith in Jesus Christ, accompanie
  * [95.0](./Requirements_for_Salvation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Requirements_for_Salvation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Requirements_for_Salvation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [95.0](./Requirements_for_Salvation_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Requirements_for_Salvation_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Requirements_for_Salvation.md)

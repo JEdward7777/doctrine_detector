@@ -27,7 +27,7 @@ Jesus used several parables to convey the value of the Kingdom of God, each illu
 These parables collectively highlight the Kingdom of God's great worth, transformative power, and the values of love and compassion that are essential to its essence. They encourage listeners to recognize the Kingdom's significance and to be willing to invest in it wholeheartedly.
 
 ## Average Grade
-90.83333333333333
+90.0
 
 ## Grades
  * [90.0](./Value_of_the_Kingdom_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ These parables collectively highlight the Kingdom of God's great worth, transfor
  * [90.0](./Value_of_the_Kingdom_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Value_of_the_Kingdom_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Value_of_the_Kingdom_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Value_of_the_Kingdom_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Value_of_the_Kingdom_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Value_of_the_Kingdom.md)

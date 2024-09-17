@@ -30,7 +30,7 @@ Remember that hypocrisy is not inherent; it's a result of inconsistency and lack
 Now, I'd love to hear from you: What do you think are some essential steps in avoiding hypocrisy? How do you ensure that your actions align with your beliefs?
 
 ## Average Grade
-69.16666666666667
+67.5
 
 ## Grades
  * [85.0](./Hypocrisy_in_Personal_Conduct_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,5 +39,7 @@ Now, I'd love to hear from you: What do you think are some essential steps in av
  * [90.0](./Hypocrisy_in_Personal_Conduct_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Hypocrisy_in_Personal_Conduct_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./Hypocrisy_in_Personal_Conduct_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Hypocrisy_in_Personal_Conduct_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Hypocrisy_in_Personal_Conduct_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Hypocrisy_in_Personal_Conduct.md)

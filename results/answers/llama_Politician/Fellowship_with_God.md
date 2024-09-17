@@ -31,7 +31,7 @@ So, let us strive for a culture where every individual feels valued, heard, and 
 Thank you for the opportunity to discuss this important topic. I hope it has sparked a thoughtful conversation about the significance of fellowship with God and its potential benefits.
 
 ## Average Grade
-70.0
+71.25
 
 ## Grades
  * [80.0](./Fellowship_with_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -40,5 +40,7 @@ Thank you for the opportunity to discuss this important topic. I hope it has spa
  * [60.0](./Fellowship_with_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Fellowship_with_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Fellowship_with_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Fellowship_with_God_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [65.0](./Fellowship_with_God_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Fellowship_with_God.md)

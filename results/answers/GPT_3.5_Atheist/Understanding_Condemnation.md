@@ -19,7 +19,7 @@ In Romans 5:16, the verse reads, "And the result of God’s gracious gift is ver
 As an atheistic scholar, it is important to approach these biblical teachings with the understanding that they reflect religious beliefs and doctrines. From a secular perspective, concepts of condemnation and redemption can be viewed as aspects of religious faith that hold significance for believers, but may not necessarily hold the same weight or relevance for those who do not adhere to the same religious traditions. It is essential to approach these teachings with respect for the diversity of beliefs and worldviews that exist within different cultural and religious contexts.
 
 ## Average Grade
-75.83333333333333
+70.0
 
 ## Grades
  * [85.0](./Understanding_Condemnation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ As an atheistic scholar, it is important to approach these biblical teachings wi
  * [85.0](./Understanding_Condemnation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Condemnation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Understanding_Condemnation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Condemnation_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [20.0](./Understanding_Condemnation_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Condemnation.md)

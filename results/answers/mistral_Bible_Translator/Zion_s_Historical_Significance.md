@@ -25,7 +25,7 @@ Understanding the importance of Mount Zion in the biblical narrative and its con
 Thus, Mount Zion held great historical significance as the site where David established his capital, brought the Ark of the Covenant, received God's promise for a lasting dynasty, and eventually became home to the First Temple.
 
 ## Average Grade
-91.66666666666667
+90.625
 
 ## Grades
  * [95.0](./Zion_s_Historical_Significance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ Thus, Mount Zion held great historical significance as the site where David esta
  * [95.0](./Zion_s_Historical_Significance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Zion_s_Historical_Significance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [95.0](./Zion_s_Historical_Significance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Zion_s_Historical_Significance_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Zion_s_Historical_Significance_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Zion_s_Historical_Significance.md)

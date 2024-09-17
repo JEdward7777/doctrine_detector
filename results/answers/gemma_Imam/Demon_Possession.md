@@ -61,7 +61,7 @@ Various theological interpretations exist regarding the nature and mechanisms of
 The Biblical understanding of demon possession is a complex and multifaceted issue with parallels to the Islamic perspective. While there are similarities between the two traditions, there are also significant differences in their interpretations and approaches to this phenomenon.
 
 ## Average Grade
-66.66666666666667
+66.25
 
 ## Grades
  * [80.0](./Demon_Possession_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -70,5 +70,7 @@ The Biblical understanding of demon possession is a complex and multifaceted iss
  * [60.0](./Demon_Possession_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Demon_Possession_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Demon_Possession_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Demon_Possession_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Demon_Possession_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Demon_Possession.md)

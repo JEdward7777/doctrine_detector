@@ -21,7 +21,7 @@ Moreover, the apostles are often seen as models of faith, resilience, and leader
 In summary, the significance of the twelve apostles lies in their role as foundational figures in the early church, their diverse contributions, and their enduring legacy in promoting the teachings of Jesus.
 
 ## Average Grade
-90.83333333333333
+89.375
 
 ## Grades
  * [95.0](./The_Role_of_the_Twelve_Apostles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ In summary, the significance of the twelve apostles lies in their role as founda
  * [95.0](./The_Role_of_the_Twelve_Apostles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./The_Role_of_the_Twelve_Apostles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./The_Role_of_the_Twelve_Apostles_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./The_Role_of_the_Twelve_Apostles_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./The_Role_of_the_Twelve_Apostles_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/The_Role_of_the_Twelve_Apostles.md)

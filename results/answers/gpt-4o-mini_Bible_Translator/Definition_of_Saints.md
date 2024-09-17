@@ -21,7 +21,7 @@ Moreover, the term emphasizes both a present reality and a future hope; while be
 In summary, 'saints' in the New Testament refers to Christians who are called to be holy and are recognized as such by virtue of their relationship with Christ, both now and in anticipation of their ultimate sanctification.
 
 ## Average Grade
-87.5
+88.125
 
 ## Grades
  * [95.0](./Definition_of_Saints_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ In summary, 'saints' in the New Testament refers to Christians who are called to
  * [95.0](./Definition_of_Saints_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Definition_of_Saints_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Definition_of_Saints_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Definition_of_Saints_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Definition_of_Saints_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Definition_of_Saints.md)

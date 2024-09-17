@@ -37,7 +37,7 @@ Significance: Joshua's altars symbolize the people's dedication to following God
 In each of these examples, building an altar represents a significant moment of worship, obedience, and commitment to God. The act of building an altar serves as a reminder of one's dependence on God and His faithfulness in their lives.
 
 ## Average Grade
-87.5
+86.875
 
 ## Grades
  * [90.0](./Historical_Examples_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -46,5 +46,7 @@ In each of these examples, building an altar represents a significant moment of 
  * [90.0](./Historical_Examples_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Historical_Examples_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Historical_Examples_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Historical_Examples_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Historical_Examples_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Historical_Examples.md)

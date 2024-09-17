@@ -19,7 +19,7 @@ Worship is the essence of a Muslim's life, as it is the means by which we streng
 Ultimately, worship is a way for us to acknowledge our dependence on Allah, recognize His greatness, and strive to live our lives in accordance with His guidance. It is a source of peace, fulfillment, and closeness to the Creator.
 
 ## Average Grade
-80.83333333333333
+78.75
 
 ## Grades
  * [95.0](./Understanding_Worship_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ Ultimately, worship is a way for us to acknowledge our dependence on Allah, reco
  * [90.0](./Understanding_Worship_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Worship_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Understanding_Worship_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [70.0](./Understanding_Worship_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [75.0](./Understanding_Worship_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Worship.md)

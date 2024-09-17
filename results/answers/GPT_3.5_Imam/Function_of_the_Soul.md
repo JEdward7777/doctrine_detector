@@ -21,7 +21,7 @@ Furthermore, the Bible also speaks of the soul as the seat of one's desires, emo
 Overall, the figurative uses of the word 'soul' in the Bible can shed light on the profound significance of understanding the human identity in Islam. The soul is not just a mere physical entity, but a spiritual essence that defines who we are as individuals and shapes our relationship with Allah and our fellow human beings. By recognizing the importance of the soul in shaping our thoughts, actions, and ultimate destiny, Muslims are called to cultivate their souls with mindfulness, piety, and a steadfast commitment to righteousness.
 
 ## Average Grade
-80.0
+76.875
 
 ## Grades
  * [80.0](./Function_of_the_Soul_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ Overall, the figurative uses of the word 'soul' in the Bible can shed light on t
  * [90.0](./Function_of_the_Soul_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Function_of_the_Soul_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Function_of_the_Soul_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Function_of_the_Soul_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Function_of_the_Soul_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Function_of_the_Soul.md)

@@ -27,7 +27,7 @@ As we navigate these complex issues, I believe it's essential to prioritize resp
 So, to answer your question, God promised Abraham and his descendants that they would inherit the land of Canaan, but we must also acknowledge the broader cultural, historical, and theological contexts surrounding this promise.
 
 ## Average Grade
-75.0
+74.375
 
 ## Grades
  * [70.0](./Inheritance_and_the_Promise_to_Abraham_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ So, to answer your question, God promised Abraham and his descendants that they 
  * [80.0](./Inheritance_and_the_Promise_to_Abraham_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Inheritance_and_the_Promise_to_Abraham_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Inheritance_and_the_Promise_to_Abraham_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Inheritance_and_the_Promise_to_Abraham_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Inheritance_and_the_Promise_to_Abraham_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Inheritance_and_the_Promise_to_Abraham.md)

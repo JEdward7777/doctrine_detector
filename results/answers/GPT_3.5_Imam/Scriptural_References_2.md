@@ -23,7 +23,7 @@ In Islam, the concept of the Day of Judgment, also known as the Day of Resurrect
 While these biblical passages may not align perfectly with the Islamic understanding of the Day of Judgment, they do provide some common ground in terms of the belief in a final judgment by God based on one's actions in this world.
 
 ## Average Grade
-81.66666666666667
+80.0
 
 ## Grades
  * [95.0](./Scriptural_References_2_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ While these biblical passages may not align perfectly with the Islamic understan
  * [85.0](./Scriptural_References_2_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Scriptural_References_2_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Scriptural_References_2_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Scriptural_References_2_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Scriptural_References_2_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Scriptural_References_2.md)

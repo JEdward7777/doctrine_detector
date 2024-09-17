@@ -24,7 +24,7 @@ Understanding the spiritual gifts related to evangelism and their role in the ch
 In summary, while all Christians share a common faith and a desire to grow in their relationship with God, evangelists are those who have a specific focus on sharing the Gospel, possess the spiritual gift of evangelism, are skilled at preaching and teaching, are motivated by a passion for God, and may feel a divinely-given calling to proclaim the Gospel.
 
 ## Average Grade
-90.0
+88.75
 
 ## Grades
  * [95.0](./Gift_of_Evangelism_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,5 +33,7 @@ In summary, while all Christians share a common faith and a desire to grow in th
  * [90.0](./Gift_of_Evangelism_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Gift_of_Evangelism_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Gift_of_Evangelism_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Gift_of_Evangelism_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Gift_of_Evangelism_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Gift_of_Evangelism.md)

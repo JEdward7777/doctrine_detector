@@ -27,7 +27,7 @@ As a Muslim Imam, my primary focus is on Islamic teachings; however, I can share
 These examples reflect enduring qualities of compassion, kindness, and mercy that are also deeply rooted in Islamic teachings. Islam emphasizes the importance of compassion towards all living beings, following the example set by the Prophet Muhammad (peace be upon him), who was known for his mercy and kindness.
 
 ## Average Grade
-85.83333333333333
+82.5
 
 ## Grades
  * [90.0](./Compassionate_Actions_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ These examples reflect enduring qualities of compassion, kindness, and mercy tha
  * [90.0](./Compassionate_Actions_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Compassionate_Actions_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Compassionate_Actions_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Compassionate_Actions_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Compassionate_Actions_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Compassionate_Actions.md)

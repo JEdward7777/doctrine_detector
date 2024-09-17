@@ -30,7 +30,7 @@ The significance of Christ's death can be summarized in several key points:
 While this perspective may differ from Islamic beliefs about Jesus' role as a prophet and messenger, it is essential to acknowledge the significance of Christ's death within the Christian context. As Muslims, we must respect the beliefs of our fellow human beings, even when they differ from ours.
 
 ## Average Grade
-90.83333333333333
+87.5
 
 ## Grades
  * [95.0](./Understanding_Atonement_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,5 +39,7 @@ While this perspective may differ from Islamic beliefs about Jesus' role as a pr
  * [95.0](./Understanding_Atonement_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Understanding_Atonement_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Understanding_Atonement_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Atonement_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Understanding_Atonement_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Atonement.md)

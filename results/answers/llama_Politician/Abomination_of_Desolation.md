@@ -27,7 +27,7 @@ Now, let me reiterate: my intention is not to proselytize or dictate how others 
 In closing, the "abomination of desolation" serves as a reminder of the importance of understanding and respect for religious diversity. As we strive to build bridges between our communities, let us prioritize empathy, compassion, and mutual understanding – just as Jesus intended when he spoke about this enigmatic phrase.
 
 ## Average Grade
-45.0
+50.625
 
 ## Grades
  * [20.0](./Abomination_of_Desolation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ In closing, the "abomination of desolation" serves as a reminder of the importan
  * [50.0](./Abomination_of_Desolation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Abomination_of_Desolation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Abomination_of_Desolation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Abomination_of_Desolation_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Abomination_of_Desolation_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Abomination_of_Desolation.md)

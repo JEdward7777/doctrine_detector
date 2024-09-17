@@ -29,7 +29,7 @@ Now, I understand that not all religious traditions or individuals may subscribe
 In conclusion, receiving the Holy Spirit in the context of anointing is a deeply personal and spiritual experience that can bring about profound transformation and growth. As we navigate the complexities of our world, it's essential to approach these topics with empathy, understanding, and respect for all faiths and beliefs.
 
 ## Average Grade
-86.66666666666667
+85.0
 
 ## Grades
  * [90.0](./Anointing_and_the_Holy_Spirit_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ In conclusion, receiving the Holy Spirit in the context of anointing is a deeply
  * [90.0](./Anointing_and_the_Holy_Spirit_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Anointing_and_the_Holy_Spirit_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Anointing_and_the_Holy_Spirit_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Anointing_and_the_Holy_Spirit_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [75.0](./Anointing_and_the_Holy_Spirit_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Anointing_and_the_Holy_Spirit.md)

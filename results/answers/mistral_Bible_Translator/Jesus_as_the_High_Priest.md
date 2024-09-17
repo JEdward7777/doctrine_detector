@@ -29,7 +29,7 @@ Exploring the theological implications of Jesus fulfilling the role of high prie
 In summary, according to the New Testament, Jesus is described as having a superior priesthood compared to the Old Testament high priests because His ministry is heavenly, based on a better covenant with better promises, and because He himself is the source of that new covenant rather than being an administrator like the earthly high priests. Additionally, His perpetual priesthood is highlighted by the comparison made between Him and Melchizedek.
 
 ## Average Grade
-91.66666666666667
+91.875
 
 ## Grades
  * [95.0](./Jesus_as_the_High_Priest_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ In summary, according to the New Testament, Jesus is described as having a super
  * [95.0](./Jesus_as_the_High_Priest_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Jesus_as_the_High_Priest_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Jesus_as_the_High_Priest_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Jesus_as_the_High_Priest_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Jesus_as_the_High_Priest_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Jesus_as_the_High_Priest.md)

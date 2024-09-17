@@ -27,7 +27,7 @@ In the Old Testament, priests had several important responsibilities, including:
 Overall, priests in the Old Testament played a crucial role in the religious and spiritual life of the community, serving as shepherds and guides who helped the people to stay faithful to God and His commandments.
 
 ## Average Grade
-84.16666666666667
+84.375
 
 ## Grades
  * [85.0](./Role_of_Priests_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ Overall, priests in the Old Testament played a crucial role in the religious and
  * [90.0](./Role_of_Priests_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Role_of_Priests_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Role_of_Priests_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Role_of_Priests_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Role_of_Priests_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Role_of_Priests.md)

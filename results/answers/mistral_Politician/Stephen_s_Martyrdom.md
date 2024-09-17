@@ -29,7 +29,7 @@ The stoning of Stephen reveals several challenges faced by early believers:
 5. The growth and spread of Christianity: Despite the challenges and hardships faced by early Christians, their faith continued to grow and spread throughout the Roman Empire, eventually becoming one of the dominant religions in the world. This resilience in the face of persecution serves as a reminder of the enduring power of faith and the indomitable spirit of those who believe in it.
 
 ## Average Grade
-90.83333333333333
+90.0
 
 ## Grades
  * [95.0](./Stephen_s_Martyrdom_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ The stoning of Stephen reveals several challenges faced by early believers:
  * [95.0](./Stephen_s_Martyrdom_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Stephen_s_Martyrdom_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Stephen_s_Martyrdom_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Stephen_s_Martyrdom_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Stephen_s_Martyrdom_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Stephen_s_Martyrdom.md)

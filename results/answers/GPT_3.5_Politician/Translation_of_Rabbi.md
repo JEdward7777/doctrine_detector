@@ -25,7 +25,7 @@ When translating the term "Rabbi" into various languages, it is important to con
 Overall, the key considerations when translating the term "Rabbi" in various languages are accuracy, cultural sensitivity, and respect for the religious significance of the title. By consulting with experts and being mindful of cultural differences, translations can be made in a way that is politically correct and considerate of all parties involved.
 
 ## Average Grade
-82.5
+81.875
 
 ## Grades
  * [90.0](./Translation_of_Rabbi_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ Overall, the key considerations when translating the term "Rabbi" in various lan
  * [90.0](./Translation_of_Rabbi_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Translation_of_Rabbi_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Translation_of_Rabbi_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Translation_of_Rabbi_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [75.0](./Translation_of_Rabbi_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Translation_of_Rabbi.md)

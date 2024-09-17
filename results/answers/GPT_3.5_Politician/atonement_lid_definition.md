@@ -15,7 +15,7 @@ Understanding the symbolic representation of God's mercy and atonement in the Ol
 The atonement lid, also known as the mercy seat, was a symbol of reconciliation and forgiveness in the context of the ark of the covenant. It represented the sacred space where God's presence would commune with the Israelites, and where sins could be atoned for through sacrifices and prayers. The atonement lid served as a reminder of the need for repentance, forgiveness, and the restoration of relationships with both God and fellow human beings.
 
 ## Average Grade
-87.5
+86.875
 
 ## Grades
  * [90.0](./atonement_lid_definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ The atonement lid, also known as the mercy seat, was a symbol of reconciliation 
  * [90.0](./atonement_lid_definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./atonement_lid_definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./atonement_lid_definition_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./atonement_lid_definition_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./atonement_lid_definition_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/atonement_lid_definition.md)

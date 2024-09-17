@@ -19,7 +19,7 @@ It's important to note that this process can take centuries, and not every belie
 By emphasizing this spiritual journey towards holiness, we can avoid potential misinterpretations or offenses that might arise from discussing the specific process of canonization. It's also crucial to remember that Christian faith is deeply personal and varies among different denominations, so it's essential to approach these discussions with sensitivity and respect for individual beliefs.
 
 ## Average Grade
-84.16666666666667
+84.375
 
 ## Grades
  * [90.0](./Source_of_Holiness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ By emphasizing this spiritual journey towards holiness, we can avoid potential m
  * [95.0](./Source_of_Holiness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Source_of_Holiness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [55.0](./Source_of_Holiness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Source_of_Holiness_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Source_of_Holiness_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Source_of_Holiness.md)

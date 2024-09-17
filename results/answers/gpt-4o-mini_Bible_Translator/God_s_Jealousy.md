@@ -21,7 +21,7 @@ This concept emphasizes that God is deeply invested in the faithfulness of His p
 Overall, God's jealousy reflects His holiness, His love, and His commitment, contrasting with human jealousy that often stems from insecurity or fear of loss. In this way, the Biblical portrayal of God's jealousy can be understood as a demonstration of His profound love and desire for a covenant relationship with humanity.
 
 ## Average Grade
-94.16666666666667
+93.125
 
 ## Grades
  * [95.0](./God_s_Jealousy_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ Overall, God's jealousy reflects His holiness, His love, and His commitment, con
  * [95.0](./God_s_Jealousy_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./God_s_Jealousy_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./God_s_Jealousy_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./God_s_Jealousy_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./God_s_Jealousy_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/God_s_Jealousy.md)

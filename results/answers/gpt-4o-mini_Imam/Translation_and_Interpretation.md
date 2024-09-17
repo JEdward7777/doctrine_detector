@@ -27,7 +27,7 @@ In Islamic terminology, the Arabic word for "Lord" is "Rabb" (رب). This term h
 In summary, while the term "Lord" can be used to denote authority in both divine and human contexts, the implications and connotations are vastly different. In the context of Allah, it denotes divine mastery and sustenance, while in reference to people, it typically reflects a social or political hierarchy without any claim to divine attributes.
 
 ## Average Grade
-85.0
+86.25
 
 ## Grades
  * [90.0](./Translation_and_Interpretation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ In summary, while the term "Lord" can be used to denote authority in both divine
  * [90.0](./Translation_and_Interpretation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Translation_and_Interpretation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Translation_and_Interpretation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Translation_and_Interpretation_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Translation_and_Interpretation_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Translation_and_Interpretation.md)

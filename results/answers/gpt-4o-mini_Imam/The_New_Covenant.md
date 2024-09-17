@@ -21,7 +21,7 @@ To write His law on the hearts implies that the moral and ethical teachings of G
 In Islam, believers are encouraged to seek a direct and personal relationship with Allah, and through sincere worship, prayer, and reflection, the principles of Islam can be internalized. This reflects how a true follower of Islam should allow the teachings of the Quran and the Sunnah (the practices of the Prophet Muhammad) to shape their moral compass and way of life, rather than just adhering to them externally. Thus, there is a parallel in the emphasis on internalizing God's guidance to live a life that reflects His will, regardless of differences in the specifics of belief systems.
 
 ## Average Grade
-67.5
+68.75
 
 ## Grades
  * [70.0](./The_New_Covenant_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ In Islam, believers are encouraged to seek a direct and personal relationship wi
  * [60.0](./The_New_Covenant_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./The_New_Covenant_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./The_New_Covenant_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./The_New_Covenant_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./The_New_Covenant_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/The_New_Covenant.md)

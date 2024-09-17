@@ -34,7 +34,7 @@ The term "Lord Yahweh" is significant in biblical texts, representing the person
 Ultimately, the goal in translating "Lord Yahweh" is to preserve both the uniqueness of God's name and the understanding of His lordship across different cultures and languages. Consulting with theologians or native speakers who are familiar with both the original texts and the target language can further ensure accuracy and reverence in translation.
 
 ## Average Grade
-90.83333333333333
+89.375
 
 ## Grades
  * [95.0](./Translation_of_Divine_Titles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -43,5 +43,7 @@ Ultimately, the goal in translating "Lord Yahweh" is to preserve both the unique
  * [95.0](./Translation_of_Divine_Titles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Translation_of_Divine_Titles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Translation_of_Divine_Titles_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Translation_of_Divine_Titles_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Translation_of_Divine_Titles_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Translation_of_Divine_Titles.md)

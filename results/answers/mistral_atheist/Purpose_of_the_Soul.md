@@ -33,7 +33,7 @@ Recognizing the soul's role in relation to God can influence a believer's spirit
 It's essential to remember that these interpretations are generalizations based on various religious texts and may not reflect the beliefs of all adherents within each tradition. Additionally, many individuals within these faiths may hold unique or nuanced perspectives on the relationship between the soul, God, and human existence.
 
 ## Average Grade
-88.0
+86.0
 
 ## Grades
  * [95.0](./Purpose_of_the_Soul_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -42,5 +42,7 @@ It's essential to remember that these interpretations are generalizations based 
  * [93.0](./Purpose_of_the_Soul_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Purpose_of_the_Soul_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Purpose_of_the_Soul_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Purpose_of_the_Soul_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [75.0](./Purpose_of_the_Soul_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Purpose_of_the_Soul.md)

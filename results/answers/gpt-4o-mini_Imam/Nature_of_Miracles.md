@@ -27,7 +27,7 @@ In Islamic tradition, Jesus (known as 'Isa in Arabic) is revered as a prophet an
 In Islam, while Jesus is highly regarded and his miracles are acknowledged, it is essential to remember that these acts are seen as manifestations of God's will and power rather than an indication of Jesus' own divine nature. His identity is firmly rooted in the acknowledgement of God’s singularity and the prophetic calling that he fulfilled.
 
 ## Average Grade
-41.666666666666664
+48.125
 
 ## Grades
  * [20.0](./Nature_of_Miracles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ In Islam, while Jesus is highly regarded and his miracles are acknowledged, it i
  * [70.0](./Nature_of_Miracles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [20.0](./Nature_of_Miracles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Nature_of_Miracles_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [75.0](./Nature_of_Miracles_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Nature_of_Miracles_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Nature_of_Miracles.md)

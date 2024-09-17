@@ -15,7 +15,7 @@ Recognizing the implications of hopelessness in a Christian worldview.
 In the Bible, the concept of hope is often seen as essential for sustaining faith and resilience in the face of adversity. The absence of hope can lead to feelings of despair and disillusionment. It is important to remember that interpretations of biblical teachings can vary widely, and it is always best to consult with a religious leader or scholar for a more in-depth understanding.
 
 ## Average Grade
-81.66666666666667
+78.75
 
 ## Grades
  * [90.0](./Hope_and_Assurance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ In the Bible, the concept of hope is often seen as essential for sustaining fait
  * [90.0](./Hope_and_Assurance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Hope_and_Assurance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Hope_and_Assurance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Hope_and_Assurance_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Hope_and_Assurance_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Hope_and_Assurance.md)

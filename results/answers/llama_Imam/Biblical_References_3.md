@@ -22,7 +22,7 @@ As an Islamic scholar, I must emphasize that the concept of the "Son of Man" in 
 It's important to note that these references are open to interpretation and were not explicitly understood as referring to a single Messiah figure in Jewish tradition. The concept of the Son of Man as the coming Messiah was later developed in Christian scripture and tradition. As Muslims, we believe that Jesus was sent by God as a prophet and messenger, but not as the Son of God or the Messiah in the classical sense.
 
 ## Average Grade
-72.5
+71.25
 
 ## Grades
  * [70.0](./Biblical_References_3_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,5 +31,7 @@ It's important to note that these references are open to interpretation and were
  * [70.0](./Biblical_References_3_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_References_3_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Biblical_References_3_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Biblical_References_3_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Biblical_References_3_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Biblical_References_3.md)

@@ -19,7 +19,7 @@ The idea of renewal in Christianity is closely tied to the concept of being born
 Ultimately, the concept of restoration as renewal in a Christian context emphasizes the belief in the possibility of redemption and transformation, both on a personal level and within the wider community. It highlights the power of faith and compassion to bring healing and wholeness to individuals and societies that have been broken or damaged.
 
 ## Average Grade
-87.5
+86.875
 
 ## Grades
  * [90.0](./Concept_of_Renewal_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ Ultimately, the concept of restoration as renewal in a Christian context emphasi
  * [90.0](./Concept_of_Renewal_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Concept_of_Renewal_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Concept_of_Renewal_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Concept_of_Renewal_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Concept_of_Renewal_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Concept_of_Renewal.md)

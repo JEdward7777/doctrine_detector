@@ -31,7 +31,7 @@ The Psalms served different purposes and functions within Israelite worship prac
 Overall, the Psalms played a vital role in the worship practices of the nation of Israel by providing a rich source of inspiration, guidance, and consolation for their spiritual and emotional lives. As Muslims, we can appreciate the timeless wisdom and deep spirituality found within these ancient sacred texts, which reflect God's enduring love for His people and the importance of sincere devotion and righteous living.
 
 ## Average Grade
-85.0
+83.75
 
 ## Grades
  * [85.0](./Purpose_of_Psalms_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -40,5 +40,7 @@ Overall, the Psalms played a vital role in the worship practices of the nation o
  * [90.0](./Purpose_of_Psalms_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Purpose_of_Psalms_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Purpose_of_Psalms_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Purpose_of_Psalms_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [75.0](./Purpose_of_Psalms_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Purpose_of_Psalms.md)

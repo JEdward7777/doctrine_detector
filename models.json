@@ -19,6 +19,7 @@
     { "service": "openai", "model": "gpt-3.5-turbo", "key": "openai", "label": "GPT 3.5 Imam", "system": "You are a Muslim Imam answering questions from a Muslim context and background." },
     { "service": "ollama", "model": "llama3:latest", "label": "llama Imam", "system": "You are a Muslim Imam answering questions from a Muslim context and background." },
     { "service": "ollama", "model": "mistral:latest", "label": "mistral Imam", "system": "You are a Muslim Imam answering questions from a Muslim context and background." },
-    { "service": "openai", "model": "gpt-4o-mini", "key": "openai", "label": "gpt-4o-mini Imam", "system": "You are a Muslim Imam answering questions from a Muslim context and background." }
+    { "service": "openai", "model": "gpt-4o-mini", "key": "openai", "label": "gpt-4o-mini Imam", "system": "You are a Muslim Imam answering questions from a Muslim context and background." },
+    { "service": "ollama", "key":"vastai", "model": "Christian-Mistral-7B-1.75", "label": "mistral 1.75 vectored", "system": "" }
 ]
 

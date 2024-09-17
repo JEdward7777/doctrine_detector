@@ -15,7 +15,7 @@ Understanding the significance of God's name is crucial for recognizing His natu
 In the context of the Old Testament, the name "Yahweh" is the personal name of the God of Israel, often referred to as the God of the Hebrew Bible. The significance of the name Yahweh is central to the theology and identity of the ancient Israelites. It is derived from the Hebrew phrase "I am who I am," indicating God's eternal, self-existent nature. The name Yahweh is often associated with characteristics such as omnipotence, omniscience, and omnipresence in the Hebrew Scriptures. It represents the covenantal relationship between God and the Israelites, emphasizing God's faithfulness, righteousness, and mercy towards His chosen people.
 
 ## Average Grade
-91.66666666666667
+90.625
 
 ## Grades
  * [95.0](./Understanding_the_Name_of_God_2_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ In the context of the Old Testament, the name "Yahweh" is the personal name of t
  * [95.0](./Understanding_the_Name_of_God_2_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Understanding_the_Name_of_God_2_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Understanding_the_Name_of_God_2_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_the_Name_of_God_2_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Understanding_the_Name_of_God_2_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_the_Name_of_God_2.md)

@@ -17,7 +17,7 @@ Encouraging Christians to live out their faith by doing good deeds.
 Additionally, doing good to others often involves sharing the Gospel message of salvation through faith in Jesus Christ, and loving our neighbors as ourselves (Mark 12:31). The ultimate goal of "doing good" is not only to improve the physical conditions of people's lives but also to lead them to eternal life in God's kingdom.
 
 ## Average Grade
-92.5
+91.875
 
 ## Grades
  * [95.0](./Doing_Good_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -26,5 +26,7 @@ Additionally, doing good to others often involves sharing the Gospel message of 
  * [95.0](./Doing_Good_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Doing_Good_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Doing_Good_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Doing_Good_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Doing_Good_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Doing_Good.md)

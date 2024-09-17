@@ -25,7 +25,7 @@ In conclusion, being "called" by God is a significant aspect of the Christian fa
 Now, if you'll excuse me, I need to attend to some pressing matters... * glance at watch*
 
 ## Average Grade
-63.333333333333336
+63.125
 
 ## Grades
  * [60.0](./Understanding_God_s_Calling_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ Now, if you'll excuse me, I need to attend to some pressing matters... * glance 
  * [65.0](./Understanding_God_s_Calling_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_God_s_Calling_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Understanding_God_s_Calling_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_God_s_Calling_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Understanding_God_s_Calling_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_God_s_Calling.md)

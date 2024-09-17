@@ -27,7 +27,7 @@ In Islam, the concept of discerning one's calling or purpose is also important a
 Ultimately, the journey to discern one's purpose is a personal and spiritual one, guided by faith, reflection, and action in accordance with Islamic principles. By seeking knowledge, reflecting on abilities, seeking divine guidance, serving humanity, and consulting with others, one can work towards understanding and fulfilling their unique calling in life.
 
 ## Average Grade
-82.5
+76.875
 
 ## Grades
  * [85.0](./Purpose_in_Calling_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ Ultimately, the journey to discern one's purpose is a personal and spiritual one
  * [85.0](./Purpose_in_Calling_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Purpose_in_Calling_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Purpose_in_Calling_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Purpose_in_Calling_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Purpose_in_Calling_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Purpose_in_Calling.md)

@@ -34,7 +34,7 @@ These scriptural passages, among many others, provide the foundation for our ass
 These promises serve as a beacon of hope and security for believers, reminding us that our salvation is not based on our works or performance but solely on the finished work of Jesus Christ on the cross.
 
 ## Average Grade
-96.66666666666667
+96.25
 
 ## Grades
  * [100.0](./Assurance_of_Salvation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -43,5 +43,7 @@ These promises serve as a beacon of hope and security for believers, reminding u
  * [100.0](./Assurance_of_Salvation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Assurance_of_Salvation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [95.0](./Assurance_of_Salvation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [95.0](./Assurance_of_Salvation_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Assurance_of_Salvation_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Assurance_of_Salvation.md)

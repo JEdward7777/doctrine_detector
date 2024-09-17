@@ -19,7 +19,7 @@ Regarding Jesus being appointed as the judge on the Day of Judgment, it is menti
 The concept of Jesus being a judge on the Day of Judgment emphasizes the importance of justice and fairness in the final reckoning of all individuals. It also highlights the mercy and wisdom of Allah in choosing honorable and righteous individuals to carry out important tasks on that Day. Muslims believe in the ultimate justice of Allah, and Jesus being appointed as a judge adds to the overall understanding of divine mercy and wisdom in the Islamic worldview.
 
 ## Average Grade
-78.33333333333333
+77.5
 
 ## Grades
  * [85.0](./Understanding_the_Day_of_Judgment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ The concept of Jesus being a judge on the Day of Judgment emphasizes the importa
  * [85.0](./Understanding_the_Day_of_Judgment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Understanding_the_Day_of_Judgment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Understanding_the_Day_of_Judgment_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_the_Day_of_Judgment_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [65.0](./Understanding_the_Day_of_Judgment_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_the_Day_of_Judgment.md)

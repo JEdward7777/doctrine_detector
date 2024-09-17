@@ -27,7 +27,7 @@ There are different interpretations of predestination within Christianity:
 Overall, predestination raises significant discussions within theology regarding free will, divine grace, and God's justice. Each denomination or theological perspective may interpret these concepts differently, leading to various beliefs about the nature of God's decision-making in relation to salvation.
 
 ## Average Grade
-84.16666666666667
+85.0
 
 ## Grades
  * [90.0](./Predestination_Meaning_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ Overall, predestination raises significant discussions within theology regarding
  * [95.0](./Predestination_Meaning_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Predestination_Meaning_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Predestination_Meaning_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Predestination_Meaning_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Predestination_Meaning_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Predestination_Meaning.md)

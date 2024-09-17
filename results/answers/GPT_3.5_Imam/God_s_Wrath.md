@@ -21,7 +21,7 @@ Furthermore, in Surah Al-Hajj (22:19-20), it is mentioned that on the Day of Jud
 It is important to remember that while the descriptions of punishment are severe, God's mercy and forgiveness are also emphasized in Islam. Repentance and seeking forgiveness can help a person avoid the punishment in the Hereafter. Muslims are encouraged to turn to God in sincere repentance, seek His forgiveness, and strive to lead a life in accordance with His teachings to avoid facing His punishment on the Day of Judgment.
 
 ## Average Grade
-84.16666666666667
+80.625
 
 ## Grades
  * [90.0](./God_s_Wrath_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ It is important to remember that while the descriptions of punishment are severe
  * [90.0](./God_s_Wrath_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./God_s_Wrath_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./God_s_Wrath_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./God_s_Wrath_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./God_s_Wrath_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/God_s_Wrath.md)

@@ -29,7 +29,7 @@ If we do encounter situations where others have wronged us or done something har
 In conclusion, while the concept of judgment is inherent to our human nature, Islam encourages us to approach it with humility and compassion. By recognizing that Allah (swt) is the ultimate Judge, we can focus on our own spiritual development and treat others with kindness, mercy, and respect.
 
 ## Average Grade
-85.83333333333333
+83.75
 
 ## Grades
  * [90.0](./Right_Judgment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ In conclusion, while the concept of judgment is inherent to our human nature, Is
  * [90.0](./Right_Judgment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Right_Judgment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Right_Judgment_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Right_Judgment_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Right_Judgment_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Right_Judgment.md)

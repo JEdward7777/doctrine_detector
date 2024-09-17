@@ -27,7 +27,7 @@ The term "Daughter of Zion" holds rich theological and cultural significance in 
 In summary, "Daughter of Zion" is significant because it encapsulates key themes of identity, lament, hope, and covenant in relation to the people of Israel, reflecting both their historical experiences and their future aspirations in the light of God's promises.
 
 ## Average Grade
-90.0
+89.375
 
 ## Grades
  * [95.0](./Understanding_Zion_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ In summary, "Daughter of Zion" is significant because it encapsulates key themes
  * [95.0](./Understanding_Zion_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Zion_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Understanding_Zion_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Zion_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Understanding_Zion_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Zion.md)

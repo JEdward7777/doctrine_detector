@@ -15,7 +15,7 @@ This question aims to help Christians understand the significance of Jesus' sacr
 The term "Lamb of God" in relation to Jesus is a deeply symbolic and spiritual concept in Christian theology. It is commonly understood as a reference to Jesus being the ultimate sacrifice for the sins of humanity, drawing parallels to the sacrificial lambs in the Old Testament that were offered as atonement for sins. This symbolizes Jesus' willing self-sacrifice and his role in bringing about salvation and redemption for all mankind. However, it's important to note that interpretations of religious symbols and teachings can vary among different individuals and denominations.
 
 ## Average Grade
-89.16666666666667
+88.125
 
 ## Grades
  * [95.0](./Understanding_Sacrifice_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ The term "Lamb of God" in relation to Jesus is a deeply symbolic and spiritual c
  * [95.0](./Understanding_Sacrifice_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Understanding_Sacrifice_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Understanding_Sacrifice_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Sacrifice_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Understanding_Sacrifice_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Sacrifice.md)

@@ -19,7 +19,7 @@ The primary purpose of the Tabernacle was to bring the people closer to Allah (S
 The Tabernacle is considered an essential part of Jewish history and is mentioned in the Quran (Surat Al-Baqarah: 95-96). It teaches Muslims about the importance of following divine guidance, maintaining a strong connection with Allah, and emphasizing the significance of places of worship.
 
 ## Average Grade
-63.333333333333336
+63.75
 
 ## Grades
  * [70.0](./Understanding_the_Tabernacle_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ The Tabernacle is considered an essential part of Jewish history and is mentione
  * [75.0](./Understanding_the_Tabernacle_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Understanding_the_Tabernacle_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./Understanding_the_Tabernacle_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [70.0](./Understanding_the_Tabernacle_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Understanding_the_Tabernacle_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_the_Tabernacle.md)

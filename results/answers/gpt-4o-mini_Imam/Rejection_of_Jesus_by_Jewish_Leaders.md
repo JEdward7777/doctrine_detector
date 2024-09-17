@@ -27,7 +27,7 @@ In terms of implications for Christian beliefs, the rejection of Jesus is signif
 It's vital to approach this topic with sensitivity, as it has historically led to misunderstandings and tensions between Jewish and Christian communities. Dialogue and mutual respect are essential in addressing these historical complexities.
 
 ## Average Grade
-84.16666666666667
+84.375
 
 ## Grades
  * [90.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ It's vital to approach this topic with sensitivity, as it has historically led t
  * [95.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Rejection_of_Jesus_by_Jewish_Leaders.md)

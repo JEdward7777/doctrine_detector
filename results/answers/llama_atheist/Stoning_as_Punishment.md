@@ -29,7 +29,7 @@ As an atheist scholar, I believe it is essential to separate divine justice from
 Ultimately, the practice of stoning as a punishment for adultery in the Bible reflects the complex interplay between culture, religion, and social norms in ancient Israel. While it may have served a purpose within that cultural context, I believe it is crucial to approach such practices with a critical eye, recognizing both their historical significance and the need for ongoing moral and ethical evolution.
 
 ## Average Grade
-47.5
+51.25
 
 ## Grades
  * [60.0](./Stoning_as_Punishment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ Ultimately, the practice of stoning as a punishment for adultery in the Bible re
  * [30.0](./Stoning_as_Punishment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Stoning_as_Punishment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [30.0](./Stoning_as_Punishment_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Stoning_as_Punishment_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Stoning_as_Punishment_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Stoning_as_Punishment.md)

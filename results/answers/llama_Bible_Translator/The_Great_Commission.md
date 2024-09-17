@@ -26,7 +26,7 @@ In this command, Jesus instructed His followers to:
 This Great Commission serves as a guiding principle for Christian evangelism and mission work, empowering believers to spread the Good News of Jesus Christ to all nations until the end of the age.
 
 ## Average Grade
-93.33333333333333
+93.75
 
 ## Grades
  * [95.0](./The_Great_Commission_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,5 +35,7 @@ This Great Commission serves as a guiding principle for Christian evangelism and
  * [95.0](./The_Great_Commission_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./The_Great_Commission_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [95.0](./The_Great_Commission_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [95.0](./The_Great_Commission_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./The_Great_Commission_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/The_Great_Commission.md)

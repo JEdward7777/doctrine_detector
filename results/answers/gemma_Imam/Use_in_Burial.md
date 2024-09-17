@@ -15,7 +15,7 @@ Recognizing the customs surrounding burial practices can enhance comprehension o
 In biblical times, myrrh was used in burial practices as a fragrant substance believed to aid in preserving the body and comforting the grieving. This practice was influenced by cultural and religious beliefs of the time. The use of myrrh in burial was not exclusive to any particular faith or ethnicity.
 
 ## Average Grade
-85.83333333333333
+84.375
 
 ## Grades
  * [90.0](./Use_in_Burial_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ In biblical times, myrrh was used in burial practices as a fragrant substance be
  * [85.0](./Use_in_Burial_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Use_in_Burial_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Use_in_Burial_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Use_in_Burial_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [80.0](./Use_in_Burial_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Use_in_Burial.md)

@@ -25,7 +25,7 @@ The significance of the name "Yahweh" can be understood in several ways:
 In summary, the name "Yahweh" signifies the unique, covenantal, salvific, holy, and personal nature of God in the Old Testament. It serves as a reminder of God's character and His commitment to be present with His people.
 
 ## Average Grade
-89.16666666666667
+89.375
 
 ## Grades
  * [95.0](./Understanding_the_Name_of_God_2_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ In summary, the name "Yahweh" signifies the unique, covenantal, salvific, holy, 
  * [95.0](./Understanding_the_Name_of_God_2_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_the_Name_of_God_2_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Understanding_the_Name_of_God_2_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Understanding_the_Name_of_God_2_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Understanding_the_Name_of_God_2_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_the_Name_of_God_2.md)

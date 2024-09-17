@@ -27,7 +27,7 @@ The concept of "fear" in relation to God can be understood in various ways, and 
 Understanding these various interpretations of fear is important because it allows for meaningful discussions among individuals of different backgrounds and beliefs. It underscores the richness of spiritual language and acknowledges the different experiences people may have with the divine. Promoting a respectful dialogue helps build bridges and fosters a sense of unity in diversity, allowing for a greater appreciation of each person’s faith journey.
 
 ## Average Grade
-85.0
+82.5
 
 ## Grades
  * [85.0](./Translating__Fear__in_Context_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ Understanding these various interpretations of fear is important because it allo
  * [90.0](./Translating__Fear__in_Context_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Translating__Fear__in_Context_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Translating__Fear__in_Context_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Translating__Fear__in_Context_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [65.0](./Translating__Fear__in_Context_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Translating__Fear__in_Context.md)

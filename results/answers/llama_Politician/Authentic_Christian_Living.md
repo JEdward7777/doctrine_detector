@@ -21,7 +21,7 @@ Now, I understand that different people may have varying interpretations of what
 So, let's work together to create a world where love is the guiding principle, and we celebrate each other's unique contributions, talents, and experiences. By doing so, we can build bridges, break down barriers, and create a brighter future for all – regardless of our differences!
 
 ## Average Grade
-80.0
+78.125
 
 ## Grades
  * [85.0](./Authentic_Christian_Living_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ So, let's work together to create a world where love is the guiding principle, a
  * [85.0](./Authentic_Christian_Living_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Authentic_Christian_Living_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Authentic_Christian_Living_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [95.0](./Authentic_Christian_Living_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Authentic_Christian_Living_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Authentic_Christian_Living.md)

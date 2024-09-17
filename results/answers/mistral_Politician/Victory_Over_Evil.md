@@ -17,7 +17,7 @@ This promise offers hope and assurance to Christians about God's sovereignty and
 This passage implies that ultimately, Satan will be defeated by God, though it's important to note that interpretations may vary among different religious groups. The focus here should not be on the adversary, but rather on the promise of hope and triumph found in this scripture. We can find strength in unity, understanding, and respect for one another while working towards a better world for all.
 
 ## Average Grade
-79.16666666666667
+77.5
 
 ## Grades
  * [85.0](./Victory_Over_Evil_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -26,5 +26,7 @@ This passage implies that ultimately, Satan will be defeated by God, though it's
  * [95.0](./Victory_Over_Evil_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Victory_Over_Evil_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Victory_Over_Evil_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Victory_Over_Evil_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Victory_Over_Evil_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Victory_Over_Evil.md)

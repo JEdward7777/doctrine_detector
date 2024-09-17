@@ -23,7 +23,7 @@ In Galatians 6:7-8, it says, "Be not deceived; God is not mocked: for whatsoever
 Overall, the Bible teaches us to speak blessings upon others, show love and kindness towards them, and avoid anger and cursing towards them. As Christians, we are called to follow Jesus' example of love and forgiveness, even towards those who may have wronged us.
 
 ## Average Grade
-90.0
+89.375
 
 ## Grades
  * [95.0](./Understanding_Curses_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ Overall, the Bible teaches us to speak blessings upon others, show love and kind
  * [90.0](./Understanding_Curses_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Understanding_Curses_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Understanding_Curses_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Understanding_Curses_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Understanding_Curses_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Curses.md)

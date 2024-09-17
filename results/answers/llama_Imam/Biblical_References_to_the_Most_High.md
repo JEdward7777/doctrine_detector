@@ -43,7 +43,7 @@ These verses, among others, reveal aspects of God's character that are consisten
 As Muslims, we believe that these characteristics of God are also reflected in the Quran, which describes Allah as Al-'Alī (The Most High) and Al-'Azīz (The Mighty). We also believe that the Bible has been altered over time, and therefore, its teachings do not supersede those of the Quran.
 
 ## Average Grade
-70.83333333333333
+69.375
 
 ## Grades
  * [80.0](./Biblical_References_to_the_Most_High_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -52,5 +52,7 @@ As Muslims, we believe that these characteristics of God are also reflected in t
  * [80.0](./Biblical_References_to_the_Most_High_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_References_to_the_Most_High_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./Biblical_References_to_the_Most_High_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Biblical_References_to_the_Most_High_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [45.0](./Biblical_References_to_the_Most_High_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Biblical_References_to_the_Most_High.md)

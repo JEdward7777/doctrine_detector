@@ -23,7 +23,7 @@ The term "sons of God" in the context of Genesis 6 has been the subject of vario
 Ultimately, the precise identity of the "sons of God" in Genesis 6 remains a matter of debate, and different interpretations have been proposed over the centuries. It is important to interpret this passage in light of the broader biblical narrative and theological themes, such as the nature of sin, the consequences of disobedience, and the need for redemption through Christ.
 
 ## Average Grade
-87.5
+86.875
 
 ## Grades
  * [90.0](./Sons_of_God_Interpretation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ Ultimately, the precise identity of the "sons of God" in Genesis 6 remains a mat
  * [90.0](./Sons_of_God_Interpretation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Sons_of_God_Interpretation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Sons_of_God_Interpretation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Sons_of_God_Interpretation_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Sons_of_God_Interpretation_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Sons_of_God_Interpretation.md)

@@ -31,7 +31,7 @@ The Bible also speaks about the existence of neutral spirits, sometimes referred
 In summary, while both human and evil spirits are non-physical entities, they differ significantly in their origins, nature, and purposes. The Bible teaches that humans are created by God and can choose to follow Him, whereas evil spirits are fallen angels that seek to oppose God's will and lead people astray.
 
 ## Average Grade
-85.0
+85.625
 
 ## Grades
  * [80.0](./Understanding_the_Spirit_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -40,5 +40,7 @@ In summary, while both human and evil spirits are non-physical entities, they di
  * [90.0](./Understanding_the_Spirit_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_the_Spirit_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Understanding_the_Spirit_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Understanding_the_Spirit_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Understanding_the_Spirit_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_the_Spirit.md)

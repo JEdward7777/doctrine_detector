@@ -50,7 +50,7 @@ While the historical existence of Jesus and the apostles is debated, the questio
 While the historical presence of Jesus and the apostles is debated, their actions and teachings undoubtedly had a profound impact on their followers. However, relying on signs and miracles to establish the truth of God's message is problematic due to cultural bias, lack of independent verification, scientific explanations, selective interpretations, and ethical concerns.
 
 ## Average Grade
-27.5
+33.125
 
 ## Grades
  * [20.0](./Signs_and_Miracles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -59,5 +59,7 @@ While the historical presence of Jesus and the apostles is debated, their action
  * [30.0](./Signs_and_Miracles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Signs_and_Miracles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [25.0](./Signs_and_Miracles_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Signs_and_Miracles_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [20.0](./Signs_and_Miracles_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Signs_and_Miracles.md)

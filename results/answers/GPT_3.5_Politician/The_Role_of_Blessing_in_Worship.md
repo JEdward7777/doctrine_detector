@@ -15,7 +15,7 @@ Exploring the relationship between blessings and worship in a Christian context.
 The act of blessing is often associated with expressing gratitude and acknowledging the goodness of God or a higher power. It is a way of recognizing and appreciating the divine presence in our lives. Blessings can also be seen as a form of praise, as they often involve words or actions that honor and glorify God's attributes and deeds. In many religious traditions, blessing is considered a way to connect with the divine and seek guidance, protection, and favor.
 
 ## Average Grade
-85.0
+83.125
 
 ## Grades
  * [90.0](./The_Role_of_Blessing_in_Worship_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ The act of blessing is often associated with expressing gratitude and acknowledg
  * [85.0](./The_Role_of_Blessing_in_Worship_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./The_Role_of_Blessing_in_Worship_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./The_Role_of_Blessing_in_Worship_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./The_Role_of_Blessing_in_Worship_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./The_Role_of_Blessing_in_Worship_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/The_Role_of_Blessing_in_Worship.md)

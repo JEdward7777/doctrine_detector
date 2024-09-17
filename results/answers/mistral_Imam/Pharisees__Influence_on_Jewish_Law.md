@@ -23,7 +23,7 @@ The early Christians, who were primarily Jewish, also faced criticism from the P
 However, it's important to note that this is a simplification of a complex historical and religious context. The relationship between the Pharisees, Jesus, and early Christians involved many factors, including political, cultural, and social dynamics that shaped their interactions and perceptions of each other. For a deeper understanding, I would recommend further study or consultation with scholars specializing in this period of history.
 
 ## Average Grade
-80.83333333333333
+80.0
 
 ## Grades
  * [90.0](./Pharisees__Influence_on_Jewish_Law_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ However, it's important to note that this is a simplification of a complex histo
  * [75.0](./Pharisees__Influence_on_Jewish_Law_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Pharisees__Influence_on_Jewish_Law_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Pharisees__Influence_on_Jewish_Law_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Pharisees__Influence_on_Jewish_Law_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Pharisees__Influence_on_Jewish_Law_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Pharisees__Influence_on_Jewish_Law.md)

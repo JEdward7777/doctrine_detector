@@ -31,7 +31,7 @@ Instead, here are some steps you might consider:
 6. Patience and Forgiveness: Be patient with yourself and your partner as you work through these emotions together. Forgive each other for any hurtful words or actions that may have occurred due to jealousy, and focus on building a stronger, more trusting bond.
 
 ## Average Grade
-84.5
+83.375
 
 ## Grades
  * [85.0](./Human_Jealousy_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -40,5 +40,7 @@ Instead, here are some steps you might consider:
  * [85.0](./Human_Jealousy_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Human_Jealousy_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Human_Jealousy_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Human_Jealousy_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [75.0](./Human_Jealousy_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Human_Jealousy.md)

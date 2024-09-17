@@ -35,7 +35,7 @@ This emphasizes the call to discipleship and the personal cost of following Chri
 **Therefore, "taking up your cross" in Islam is not seen as a literal physical act, but rather as an attitude of the heart and spirit.** It is about enduring hardship with patience and faith, knowing that Allah will reward those who struggle in his way.
 
 ## Average Grade
-74.16666666666667
+68.75
 
 ## Grades
  * [90.0](./Daily_Bearing_the_Cross_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -44,5 +44,7 @@ This emphasizes the call to discipleship and the personal cost of following Chri
  * [85.0](./Daily_Bearing_the_Cross_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Daily_Bearing_the_Cross_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [30.0](./Daily_Bearing_the_Cross_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Daily_Bearing_the_Cross_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [20.0](./Daily_Bearing_the_Cross_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Daily_Bearing_the_Cross.md)

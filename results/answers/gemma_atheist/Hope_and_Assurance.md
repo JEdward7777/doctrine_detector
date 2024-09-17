@@ -37,7 +37,7 @@ From an atheistic perspective, the absence of a belief in an afterlife or divine
 The significance of "having no hope" according to biblical references is complex and nuanced, encompassing both positive and negative connotations. While understanding these interpretations can be valuable for understanding religious beliefs and practices, it's important to approach them critically and consider their cultural context.
 
 ## Average Grade
-68.33333333333333
+65.625
 
 ## Grades
  * [70.0](./Hope_and_Assurance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -46,5 +46,7 @@ The significance of "having no hope" according to biblical references is complex
  * [65.0](./Hope_and_Assurance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Hope_and_Assurance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [65.0](./Hope_and_Assurance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Hope_and_Assurance_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [30.0](./Hope_and_Assurance_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Hope_and_Assurance.md)

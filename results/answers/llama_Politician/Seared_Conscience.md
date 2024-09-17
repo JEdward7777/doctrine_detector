@@ -25,7 +25,7 @@ Now, I know some of my colleagues might be thinking, "But how can we balance our
 In conclusion, a seared conscience is a serious matter that requires us to reflect on our own spiritual journeys. As believers, we must strive to remain sensitive to God's voice and moral guidance, lest we become hardened in our hearts. And to our non-believing friends, I say, "Let us work together to build bridges of understanding and compassion, even as we respectfully share the Good News of Jesus Christ."
 
 ## Average Grade
-84.5
+82.125
 
 ## Grades
  * [90.0](./Seared_Conscience_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ In conclusion, a seared conscience is a serious matter that requires us to refle
  * [85.0](./Seared_Conscience_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Seared_Conscience_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [65.0](./Seared_Conscience_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Seared_Conscience_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [65.0](./Seared_Conscience_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Seared_Conscience.md)

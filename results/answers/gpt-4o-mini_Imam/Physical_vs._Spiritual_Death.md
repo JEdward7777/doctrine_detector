@@ -27,7 +27,7 @@ As Muslims, we are encouraged to remember death and the transient nature of this
 In summary, while physical death is the end of life's journey in this world, spiritual perishing signifies a profound alienation from Allah and the core tenets of faith, which can affect both our lives here and our status in the Hereafter. Therefore, nurturing our spiritual life is essential to truly live a life aligned with Islamic values and to prepare for the Hereafter.
 
 ## Average Grade
-67.5
+68.75
 
 ## Grades
  * [90.0](./Physical_vs._Spiritual_Death_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ In summary, while physical death is the end of life's journey in this world, spi
  * [50.0](./Physical_vs._Spiritual_Death_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Physical_vs._Spiritual_Death_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Physical_vs._Spiritual_Death_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Physical_vs._Spiritual_Death_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Physical_vs._Spiritual_Death_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Physical_vs._Spiritual_Death.md)

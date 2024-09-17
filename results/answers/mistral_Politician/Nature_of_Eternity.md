@@ -15,7 +15,7 @@ It's vital for Christians to comprehend the concept of eternity to understand th
  In the context of Christian beliefs, eternity is generally understood to be an endless duration without end or limit. This concept is often associated with God, who is believed to exist outside of time and space, and whose existence is eternal. For humans, salvation through faith in Jesus Christ offers the promise of eternal life, meaning a state of unending life beyond physical death. It's essential to note that interpretations can vary among different Christian denominations and individuals.
 
 ## Average Grade
-88.33333333333333
+87.5
 
 ## Grades
  * [95.0](./Nature_of_Eternity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ It's vital for Christians to comprehend the concept of eternity to understand th
  * [95.0](./Nature_of_Eternity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Nature_of_Eternity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Nature_of_Eternity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Nature_of_Eternity_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Nature_of_Eternity_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Nature_of_Eternity.md)

@@ -23,7 +23,7 @@ Jesus' teachings emphasize love, compassion, and forgiveness over strict adheren
 This shift from ritualistic purification to personal redemption through faith in Christ is a central theme that links Old Testament teachings about cleansing with New Testament teachings about sin and redemption. It's essential to remember that interpretations may vary among different Christian denominations and individual beliefs.
 
 ## Average Grade
-87.5
+86.875
 
 ## Grades
  * [95.0](./The_Role_of_Cleansing_in_Christianity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ This shift from ritualistic purification to personal redemption through faith in
  * [85.0](./The_Role_of_Cleansing_in_Christianity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./The_Role_of_Cleansing_in_Christianity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./The_Role_of_Cleansing_in_Christianity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./The_Role_of_Cleansing_in_Christianity_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./The_Role_of_Cleansing_in_Christianity_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/The_Role_of_Cleansing_in_Christianity.md)

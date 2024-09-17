@@ -40,7 +40,7 @@ However, the Bible does contain prophecies and teachings that many Muslims find 
 * Both religions share values such as monotheism (belief in one God), mercy, and justice.
 
 ## Average Grade
-89.16666666666667
+84.375
 
 ## Grades
  * [95.0](./Role_of_Jesus_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -49,5 +49,7 @@ However, the Bible does contain prophecies and teachings that many Muslims find 
  * [95.0](./Role_of_Jesus_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Role_of_Jesus_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Role_of_Jesus_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Role_of_Jesus_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Role_of_Jesus_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Role_of_Jesus.md)

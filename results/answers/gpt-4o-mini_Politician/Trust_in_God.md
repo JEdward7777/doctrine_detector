@@ -21,7 +21,7 @@ Additionally, hope in God can foster a sense of community, encouraging individua
 Ultimately, hope in God can provide individuals with strength, purpose, and motivation to work towards their goals, while also encouraging a mindset that appreciates the journey and the lessons learned along the way.
 
 ## Average Grade
-90.0
+87.5
 
 ## Grades
  * [95.0](./Trust_in_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ Ultimately, hope in God can provide individuals with strength, purpose, and moti
  * [90.0](./Trust_in_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Trust_in_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Trust_in_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Trust_in_God_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [75.0](./Trust_in_God_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Trust_in_God.md)

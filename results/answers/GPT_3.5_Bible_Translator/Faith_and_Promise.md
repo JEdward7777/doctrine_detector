@@ -21,7 +21,7 @@ Similarly, in the New Testament, the apostle Paul writes in Romans 4:20-21 about
 Faith, then, is essential in receiving and trusting the promises of God because it acknowledges God's sovereignty, power, and faithfulness. It involves belief in who God is and what He has promised, even when circumstances seem impossible or when doubts arise. This kind of faith is pleasing to God and is the foundation of a right relationship with Him.
 
 ## Average Grade
-91.66666666666667
+91.875
 
 ## Grades
  * [95.0](./Faith_and_Promise_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ Faith, then, is essential in receiving and trusting the promises of God because 
  * [95.0](./Faith_and_Promise_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Faith_and_Promise_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Faith_and_Promise_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Faith_and_Promise_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Faith_and_Promise_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Faith_and_Promise.md)

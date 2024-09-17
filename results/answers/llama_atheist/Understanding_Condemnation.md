@@ -25,7 +25,7 @@ In Romans 5:16, Paul's argument is often seen as a contrast between Adam's sin a
 Ultimately, our understanding of condemnation should not be limited by traditional theological frameworks. Instead, we can engage with these texts within their cultural context and consider how they might inform contemporary social and political issues. By doing so, we can foster a more inclusive and compassionate society that values the well-being of all individuals, regardless of their background or beliefs.
 
 ## Average Grade
-31.666666666666668
+38.75
 
 ## Grades
  * [40.0](./Understanding_Condemnation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ Ultimately, our understanding of condemnation should not be limited by tradition
  * [30.0](./Understanding_Condemnation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Understanding_Condemnation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [0.0](./Understanding_Condemnation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Condemnation_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [35.0](./Understanding_Condemnation_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Condemnation.md)

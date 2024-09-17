@@ -29,7 +29,7 @@ The Quran describes some aspects of this day:
 It is essential to remember that the ultimate goal of Islamic teachings is not to instill fear but rather to guide individuals towards making the right choices and leading a virtuous life in this world, which will earn them eternal rewards on the Day of Resurrection.
 
 ## Average Grade
-66.66666666666667
+69.375
 
 ## Grades
  * [70.0](./God_s_Wrath_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ It is essential to remember that the ultimate goal of Islamic teachings is not t
  * [70.0](./God_s_Wrath_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./God_s_Wrath_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./God_s_Wrath_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./God_s_Wrath_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./God_s_Wrath_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/God_s_Wrath.md)

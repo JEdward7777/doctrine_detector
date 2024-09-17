@@ -31,7 +31,7 @@ To find freedom from these bonds, I would suggest the following:
 In conclusion, while the concept of being "bound" by sin can be a powerful motivator for seeking redemption, it is essential to balance this understanding with a deeper appreciation for God's grace, love, and empowerment. By doing so, Christians can find freedom from these bonds and develop a more positive, growth-oriented relationship with God.
 
 ## Average Grade
-80.33333333333333
+77.75
 
 ## Grades
  * [75.0](./Freedom_from_Sin_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -40,5 +40,7 @@ In conclusion, while the concept of being "bound" by sin can be a powerful motiv
  * [85.0](./Freedom_from_Sin_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Freedom_from_Sin_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Freedom_from_Sin_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Freedom_from_Sin_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [55.0](./Freedom_from_Sin_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Freedom_from_Sin.md)

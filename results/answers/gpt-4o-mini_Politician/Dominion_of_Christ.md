@@ -27,7 +27,7 @@ In the Bible, the dominion of Jesus Christ is described in various ways, emphasi
 These descriptions collectively illustrate Jesus Christ's dominion as one of love, justice, and ultimate authority, emphasizing His foundational role in Christian faith and thought.
 
 ## Average Grade
-88.33333333333333
+88.125
 
 ## Grades
  * [90.0](./Dominion_of_Christ_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ These descriptions collectively illustrate Jesus Christ's dominion as one of lov
  * [95.0](./Dominion_of_Christ_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Dominion_of_Christ_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Dominion_of_Christ_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Dominion_of_Christ_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Dominion_of_Christ_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Dominion_of_Christ.md)

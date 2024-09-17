@@ -23,7 +23,7 @@ It is essential to remember that the New Testament does not eliminate all aspect
 Overall, while both testaments address purification, there is a shift from physical and ritualistic cleanliness in the Old Testament to spiritual purification in the New Testament. This shift underscores the importance of inner holiness and moral conduct as key components of a righteous life in Christianity.
 
 ## Average Grade
-90.0
+88.75
 
 ## Grades
  * [95.0](./New_Testament_Redemption_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ Overall, while both testaments address purification, there is a shift from physi
  * [90.0](./New_Testament_Redemption_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./New_Testament_Redemption_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./New_Testament_Redemption_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./New_Testament_Redemption_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./New_Testament_Redemption_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/New_Testament_Redemption.md)

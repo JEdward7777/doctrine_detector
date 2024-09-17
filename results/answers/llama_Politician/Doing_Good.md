@@ -25,7 +25,7 @@ Instead, let's focus on promoting universal values like empathy, kindness, and c
 In summary, "doing good to" someone within a Christian context means showing love, care, and generosity towards others, while being mindful of the potential for offense or misunderstanding. It's about embodying Christ-like values and promoting inclusivity through our actions and words.
 
 ## Average Grade
-92.5
+89.375
 
 ## Grades
  * [90.0](./Doing_Good_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ In summary, "doing good to" someone within a Christian context means showing lov
  * [95.0](./Doing_Good_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Doing_Good_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Doing_Good_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Doing_Good_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Doing_Good_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Doing_Good.md)

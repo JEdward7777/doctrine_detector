@@ -35,7 +35,7 @@ In a Christian context, to consecrate something or someone means to set it apart
 While there may be cultural and theological variations between Christianity and Islam, the underlying principles of setting things apart for spiritual purposes and recognizing their significance are shared.
 
 ## Average Grade
-85.83333333333333
+84.375
 
 ## Grades
  * [90.0](./Consecration_Meaning_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -44,5 +44,7 @@ While there may be cultural and theological variations between Christianity and 
  * [95.0](./Consecration_Meaning_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Consecration_Meaning_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Consecration_Meaning_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Consecration_Meaning_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [75.0](./Consecration_Meaning_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Consecration_Meaning.md)

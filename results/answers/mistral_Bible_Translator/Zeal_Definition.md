@@ -19,7 +19,7 @@ Zeal is mentioned several times in the Bible as a desirable quality. For example
 However, it's important to remember that zeal without knowledge can lead to incorrect or harmful actions (Hosea 6:6), so zeal should always be guided by the wisdom found in Scripture and informed by God's love for all people. As believers strive to live with zeal, they must also seek to imitate Jesus' perfect balance of love, compassion, and righteousness (Matthew 22:37-40).
 
 ## Average Grade
-92.5
+91.875
 
 ## Grades
  * [90.0](./Zeal_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ However, it's important to remember that zeal without knowledge can lead to inco
  * [95.0](./Zeal_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Zeal_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [95.0](./Zeal_Definition_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Zeal_Definition_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Zeal_Definition_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Zeal_Definition.md)

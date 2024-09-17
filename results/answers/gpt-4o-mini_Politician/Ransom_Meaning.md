@@ -29,7 +29,7 @@ The significance of this metaphor can be understood from several perspectives:
 In summary, the idea of Jesus as a ransom serves to encapsulate core Christian beliefs about redemption, love, and hope, resonating deeply within the faith and guiding the values of many believers. It is a powerful theme that underscores not only individual spirituality but also the collective ethos of the Christian community.
 
 ## Average Grade
-92.0
+91.5
 
 ## Grades
  * [95.0](./Ransom_Meaning_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ In summary, the idea of Jesus as a ransom serves to encapsulate core Christian b
  * [95.0](./Ransom_Meaning_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Ransom_Meaning_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Ransom_Meaning_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Ransom_Meaning_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Ransom_Meaning_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Ransom_Meaning.md)

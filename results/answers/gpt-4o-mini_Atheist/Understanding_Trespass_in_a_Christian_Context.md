@@ -25,7 +25,7 @@ In a Christian worldview, the concept of trespass is closely related to the noti
 In summary, while the concept of trespass can be seen as a specific aspect of the broader category of sin, both terms emphasize the violation of boundaries—whether divine or moral—and underscore the need for forgiveness and restoration within the Christian worldview.
 
 ## Average Grade
-92.5
+91.25
 
 ## Grades
  * [95.0](./Understanding_Trespass_in_a_Christian_Context_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ In summary, while the concept of trespass can be seen as a specific aspect of th
  * [95.0](./Understanding_Trespass_in_a_Christian_Context_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Trespass_in_a_Christian_Context_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Understanding_Trespass_in_a_Christian_Context_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Understanding_Trespass_in_a_Christian_Context_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Understanding_Trespass_in_a_Christian_Context_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Trespass_in_a_Christian_Context.md)

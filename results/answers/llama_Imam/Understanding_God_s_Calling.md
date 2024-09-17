@@ -27,7 +27,7 @@ While the concept of being "called" by God may be distinct from the Islamic unde
 In conclusion, while the concept of being "called" by God may be specific to Christian theology, it shares similarities with Islamic concepts such as fitra. Both emphasize the importance of recognizing one's unique role and purpose in life, which is determined by a higher power or divine guidance.
 
 ## Average Grade
-85.0
+80.625
 
 ## Grades
  * [90.0](./Understanding_God_s_Calling_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ In conclusion, while the concept of being "called" by God may be specific to Chr
  * [90.0](./Understanding_God_s_Calling_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_God_s_Calling_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Understanding_God_s_Calling_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_God_s_Calling_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Understanding_God_s_Calling_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_God_s_Calling.md)

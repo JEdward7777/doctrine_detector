@@ -25,7 +25,7 @@ The curse placed on the serpent in Genesis 3:14 serves multiple purposes within 
 In summary, the curse on the serpent in Genesis 3:14 is significant as it encapsulates the themes of temptation, sin, the resulting fall of humanity, and the hope for future redemption. It illustrates the complex interplay between good and evil that is central to the biblical narrative, while also inviting deeper reflection on moral responsibility and the nature of salvation.
 
 ## Average Grade
-91.66666666666667
+90.625
 
 ## Grades
  * [95.0](./Cursing_in_the_Biblical_Narrative_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ In summary, the curse on the serpent in Genesis 3:14 is significant as it encaps
  * [95.0](./Cursing_in_the_Biblical_Narrative_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Cursing_in_the_Biblical_Narrative_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Cursing_in_the_Biblical_Narrative_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Cursing_in_the_Biblical_Narrative_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Cursing_in_the_Biblical_Narrative_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Cursing_in_the_Biblical_Narrative.md)

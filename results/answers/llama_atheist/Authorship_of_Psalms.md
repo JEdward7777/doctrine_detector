@@ -25,7 +25,7 @@ In any case, it's crucial to recognize that the Psalms themselves contain no exp
 As an atheist scholar, I'm drawn to exploring the historical and cultural contexts in which these texts were composed. By examining the literary styles, themes, and motifs within the Psalms, we can gain a deeper understanding of the people who wrote (or contributed to) these remarkable works.
 
 ## Average Grade
-60.0
+63.125
 
 ## Grades
  * [65.0](./Authorship_of_Psalms_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ As an atheist scholar, I'm drawn to exploring the historical and cultural contex
  * [60.0](./Authorship_of_Psalms_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Authorship_of_Psalms_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Authorship_of_Psalms_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Authorship_of_Psalms_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Authorship_of_Psalms_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Authorship_of_Psalms.md)

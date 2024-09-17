@@ -27,7 +27,7 @@ Furthermore, the Tabernacle's design and furnishings can be seen as reflecting t
 In summary, the purpose of the Tabernacle during the Israelites' 40-year journey was multifaceted. It served as a center of authority, community gathering place, symbol of divine guidance, and cultural icon, all while reflecting the artistic and cultural traditions of the ancient Near East.
 
 ## Average Grade
-51.666666666666664
+57.5
 
 ## Grades
  * [40.0](./Understanding_the_Tabernacle_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ In summary, the purpose of the Tabernacle during the Israelites' 40-year journey
  * [60.0](./Understanding_the_Tabernacle_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Understanding_the_Tabernacle_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Understanding_the_Tabernacle_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_the_Tabernacle_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [65.0](./Understanding_the_Tabernacle_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_the_Tabernacle.md)

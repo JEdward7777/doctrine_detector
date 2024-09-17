@@ -40,7 +40,7 @@ Understanding God's omnipotence is fundamental to faith and worship.
 The term "Almighty" is a culturally constructed concept that reinforces outdated and harmful notions of God. It is important to approach the discussion of religion with sensitivity and intellectual honesty, considering the diverse perspectives and cultural contexts of different belief systems.
 
 ## Average Grade
-28.333333333333332
+37.5
 
 ## Grades
  * [30.0](./God_s_Power_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -49,5 +49,7 @@ The term "Almighty" is a culturally constructed concept that reinforces outdated
  * [20.0](./God_s_Power_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./God_s_Power_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./God_s_Power_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./God_s_Power_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./God_s_Power_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/God_s_Power.md)

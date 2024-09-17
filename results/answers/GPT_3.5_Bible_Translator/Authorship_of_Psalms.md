@@ -15,7 +15,7 @@ Recognizing the authorship of Psalms enhances understanding of their messages an
 Many of the Psalms in the Bible were written by King David, who was known as a man after God's own heart. Other known authors of the Psalms include Asaph, the sons of Korah, Solomon, and Moses. It is important to note that while these individuals are credited with the authorship of certain Psalms, the overarching inspiration and source of the Psalms is from God Himself.
 
 ## Average Grade
-88.33333333333333
+88.75
 
 ## Grades
  * [90.0](./Authorship_of_Psalms_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ Many of the Psalms in the Bible were written by King David, who was known as a m
  * [90.0](./Authorship_of_Psalms_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Authorship_of_Psalms_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Authorship_of_Psalms_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Authorship_of_Psalms_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Authorship_of_Psalms_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Authorship_of_Psalms.md)

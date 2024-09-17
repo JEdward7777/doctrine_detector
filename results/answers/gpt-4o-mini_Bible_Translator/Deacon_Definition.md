@@ -29,7 +29,7 @@ Deacons are typically tasked with assisting the pastor and elders in various asp
 In summary, deacons play a critical role in fostering a spirit of service within the church, ensuring that practical and spiritual needs are met effectively, allowing the church to function smoothly in its mission. Their role is rooted in biblical examples, such as in Acts 6:1-6, where the first deacons were appointed to address the needs of the early Christian community.
 
 ## Average Grade
-87.5
+86.875
 
 ## Grades
  * [85.0](./Deacon_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ In summary, deacons play a critical role in fostering a spirit of service within
  * [90.0](./Deacon_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Deacon_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Deacon_Definition_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Deacon_Definition_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Deacon_Definition_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Deacon_Definition.md)

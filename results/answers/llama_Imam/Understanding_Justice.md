@@ -35,7 +35,7 @@ As Muslims, we are reminded that justice is not just a human concept, but a divi
 In conclusion, acting justly according to God's laws is essential for every Muslim. It requires us to uphold fairness, equality, and compassion in all aspects of our lives, while adhering to the principles outlined in the Quran and the Sunnah. May Allah guide us to act justly and be pleasing to Him. Ameen.
 
 ## Average Grade
-80.0
+79.375
 
 ## Grades
  * [75.0](./Understanding_Justice_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -44,5 +44,7 @@ In conclusion, acting justly according to God's laws is essential for every Musl
  * [90.0](./Understanding_Justice_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Justice_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Understanding_Justice_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [95.0](./Understanding_Justice_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Understanding_Justice_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Justice.md)

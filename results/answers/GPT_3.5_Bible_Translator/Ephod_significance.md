@@ -19,7 +19,7 @@ The ephod, along with other priestly garments, symbolized the authority and holi
 Overall, the ephod served as a visible symbol of the high priest's role as mediator between God and the people of Israel. It emphasized the importance of the high priest's intercessory role in offering sacrifices for the atonement of sins and seeking God's guidance for the nation.
 
 ## Average Grade
-89.16666666666667
+88.75
 
 ## Grades
  * [90.0](./Ephod_significance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ Overall, the ephod served as a visible symbol of the high priest's role as media
  * [90.0](./Ephod_significance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Ephod_significance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Ephod_significance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Ephod_significance_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Ephod_significance_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Ephod_significance.md)

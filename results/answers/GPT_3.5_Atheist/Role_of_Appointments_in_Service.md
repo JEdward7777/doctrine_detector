@@ -21,7 +21,7 @@ It is important for Christians to fulfill these roles in order to maintain the s
 While these roles may be influenced by theological beliefs and scriptures, from a secular perspective, the fulfillment of these roles can be seen as a form of social exchange within the Church community, where individuals offer their time, resources, and talents in exchange for a sense of belonging, purpose, and spiritual fulfillment.
 
 ## Average Grade
-75.83333333333333
+73.75
 
 ## Grades
  * [80.0](./Role_of_Appointments_in_Service_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ While these roles may be influenced by theological beliefs and scriptures, from 
  * [85.0](./Role_of_Appointments_in_Service_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Role_of_Appointments_in_Service_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Role_of_Appointments_in_Service_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [75.0](./Role_of_Appointments_in_Service_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Role_of_Appointments_in_Service_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Role_of_Appointments_in_Service.md)

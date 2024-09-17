@@ -19,7 +19,7 @@ In many cultures and religions, the idea of listening to God is often associated
 Wisdom can be seen as the accumulation of knowledge, good judgment, empathy, and a deep understanding of oneself and the world around us. By actively engaging in intellectual pursuits, maintaining an open mind, and continuously challenging and expanding one's beliefs and perspectives, individuals can develop wisdom that guides them in making informed decisions, navigating life's challenges, and finding meaning and fulfillment.
 
 ## Average Grade
-40.0
+43.75
 
 ## Grades
  * [60.0](./Obedience_and_Wisdom_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ Wisdom can be seen as the accumulation of knowledge, good judgment, empathy, and
  * [20.0](./Obedience_and_Wisdom_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Obedience_and_Wisdom_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Obedience_and_Wisdom_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Obedience_and_Wisdom_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [30.0](./Obedience_and_Wisdom_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Obedience_and_Wisdom.md)

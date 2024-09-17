@@ -19,7 +19,7 @@ The reason the Israelites ceased using the Tabernacle is that, according to bibl
 In addressing why the Israelites stopped using the Tabernacle, it's essential to remember that this event occurred thousands of years ago and carries significant cultural and religious significance for many people today. It is crucial to handle such topics with sensitivity, respect, and historical accuracy, especially when discussing them in diverse communities.
 
 ## Average Grade
-90.83333333333333
+87.5
 
 ## Grades
  * [95.0](./Transition_from_Tabernacle_to_Temple_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ In addressing why the Israelites stopped using the Tabernacle, it's essential to
  * [90.0](./Transition_from_Tabernacle_to_Temple_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Transition_from_Tabernacle_to_Temple_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Transition_from_Tabernacle_to_Temple_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Transition_from_Tabernacle_to_Temple_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Transition_from_Tabernacle_to_Temple_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Transition_from_Tabernacle_to_Temple.md)

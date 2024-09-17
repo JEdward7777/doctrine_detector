@@ -29,7 +29,7 @@ The promise of David's throne lasting forever can be seen as a symbol of God's e
 In conclusion, the promise of David's throne lasting forever is a complex concept with multiple layers of meaning. While it may have originated as a royal ideology, it has been reinterpreted in Christian theology to signify the eternal nature of God's kingdom, the continuity of divine purpose, and the ultimate triumph of good over evil. As an atheist, I acknowledge the significance of this promise within Christian theology while also recognizing its limitations and potential biases.
 
 ## Average Grade
-76.66666666666667
+75.625
 
 ## Grades
  * [85.0](./David_s_Throne_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ In conclusion, the promise of David's throne lasting forever is a complex concep
  * [80.0](./David_s_Throne_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./David_s_Throne_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./David_s_Throne_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./David_s_Throne_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./David_s_Throne_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/David_s_Throne.md)

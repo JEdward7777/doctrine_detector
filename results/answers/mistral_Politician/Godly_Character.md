@@ -28,7 +28,7 @@ Understanding the characteristics of a godly individual and how to cultivate the
 By embodying these qualities, individuals demonstrate a strong moral character that fosters harmony, respect, and understanding within communities. I strive to promote policies and actions that encourage and support the development of these virtues in myself and others.
 
 ## Average Grade
-85.83333333333333
+85.625
 
 ## Grades
  * [90.0](./Godly_Character_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,5 +37,7 @@ By embodying these qualities, individuals demonstrate a strong moral character t
  * [95.0](./Godly_Character_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Godly_Character_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Godly_Character_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Godly_Character_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Godly_Character_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Godly_Character.md)

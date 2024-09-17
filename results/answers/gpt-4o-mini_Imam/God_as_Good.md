@@ -21,7 +21,7 @@ In Christianity, this statement, attributed to Jesus in the Gospels (specificall
 Overall, this statement highlights the core belief in the singularity of God's goodness and serves as a reminder of the moral and spiritual responsibilities that come with acknowledging God's supreme authority.
 
 ## Average Grade
-85.83333333333333
+82.5
 
 ## Grades
  * [85.0](./God_as_Good_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ Overall, this statement highlights the core belief in the singularity of God's g
  * [85.0](./God_as_Good_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./God_as_Good_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./God_as_Good_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./God_as_Good_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./God_as_Good_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/God_as_Good.md)

@@ -25,7 +25,7 @@ In contrast, Christian teaching affirms the bodily resurrection of believers at 
 Jesus himself taught that believers would have a new, glorious body in the resurrection (John 5:28-29; Philippians 3:20-21). The Sadducees' denial of the resurrection was seen as a rejection of God's plan for humanity, which is to bring creation back into a restored state through Jesus Christ.
 
 ## Average Grade
-90.0
+89.375
 
 ## Grades
  * [90.0](./Sadducees_and_Resurrection_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ Jesus himself taught that believers would have a new, glorious body in the resur
  * [90.0](./Sadducees_and_Resurrection_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Sadducees_and_Resurrection_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [95.0](./Sadducees_and_Resurrection_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Sadducees_and_Resurrection_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Sadducees_and_Resurrection_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Sadducees_and_Resurrection.md)

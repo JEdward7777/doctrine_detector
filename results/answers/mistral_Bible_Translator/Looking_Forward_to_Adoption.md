@@ -19,7 +19,7 @@ This verse implies that as believers, we are eagerly awaiting or longing for our
 In essence, this waiting for adoption is a reminder of our hopeful expectation for our final glorification and the ultimate fulfillment of God's promises. It also reminds us that the process of sanctification (growing in holiness) can be difficult, but it produces character and hope in us, which will ultimately lead to our glorious redemption. This verse encourages believers to persevere in their faith and trust in God during times of suffering because our hope in Christ does not disappoint us.
 
 ## Average Grade
-88.33333333333333
+86.875
 
 ## Grades
  * [90.0](./Looking_Forward_to_Adoption_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ In essence, this waiting for adoption is a reminder of our hopeful expectation f
  * [90.0](./Looking_Forward_to_Adoption_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Looking_Forward_to_Adoption_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Looking_Forward_to_Adoption_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Looking_Forward_to_Adoption_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [80.0](./Looking_Forward_to_Adoption_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Looking_Forward_to_Adoption.md)

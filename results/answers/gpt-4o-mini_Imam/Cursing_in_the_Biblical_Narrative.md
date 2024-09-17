@@ -27,7 +27,7 @@ In Genesis 3:14, the curse placed upon the serpent after the Fall of Adam and Ev
 In summary, while the curse on the serpent in Genesis is a specific narrative with its own context and theological implications within Christianity, its themes resonate in Islamic thought regarding sin, temptation, the consequences of disobedience, the hope for redemption through repentance, and the ongoing struggle against evil. Both traditions acknowledge the importance of aligning oneself with divine will and the opportunities for forgiveness and mercy that God continuously extends to His creation.
 
 ## Average Grade
-75.33333333333333
+74.625
 
 ## Grades
  * [85.0](./Cursing_in_the_Biblical_Narrative_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ In summary, while the curse on the serpent in Genesis is a specific narrative wi
  * [80.0](./Cursing_in_the_Biblical_Narrative_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Cursing_in_the_Biblical_Narrative_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Cursing_in_the_Biblical_Narrative_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Cursing_in_the_Biblical_Narrative_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Cursing_in_the_Biblical_Narrative_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Cursing_in_the_Biblical_Narrative.md)

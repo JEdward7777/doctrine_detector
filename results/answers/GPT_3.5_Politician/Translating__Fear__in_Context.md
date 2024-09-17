@@ -19,7 +19,7 @@ However, it is also essential to recognize that the concept of fear can be inter
 By incorporating diverse perspectives and interpretations of the concept of fear in relation to God, we can foster a more inclusive and respectful dialogue that acknowledges the complexities and diversity of human experiences. This approach can help promote understanding, empathy, and tolerance among different communities and create a more harmonious and inclusive society.
 
 ## Average Grade
-80.0
+78.75
 
 ## Grades
  * [90.0](./Translating__Fear__in_Context_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ By incorporating diverse perspectives and interpretations of the concept of fear
  * [80.0](./Translating__Fear__in_Context_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Translating__Fear__in_Context_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Translating__Fear__in_Context_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Translating__Fear__in_Context_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [65.0](./Translating__Fear__in_Context_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Translating__Fear__in_Context.md)

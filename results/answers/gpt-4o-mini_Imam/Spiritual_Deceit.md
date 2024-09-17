@@ -29,7 +29,7 @@ The role demons play in the deception of idolatry can be understood through seve
 In summary, in Islamic understanding, demons facilitate the deception of idolatry by whispering doubts, promoting superstitions, distracting from proper worship, and exploiting human weaknesses. It is through the guidance of the Qur'an and the teachings of the Prophet Muhammad (peace be upon him) that Muslims can seek protection from these influences and remain steadfast in their faith in the oneness of Allah.
 
 ## Average Grade
-83.33333333333333
+81.875
 
 ## Grades
  * [85.0](./Spiritual_Deceit_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ In summary, in Islamic understanding, demons facilitate the deception of idolatr
  * [95.0](./Spiritual_Deceit_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Spiritual_Deceit_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Spiritual_Deceit_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Spiritual_Deceit_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Spiritual_Deceit_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Spiritual_Deceit.md)

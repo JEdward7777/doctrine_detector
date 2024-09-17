@@ -39,7 +39,7 @@ Prayer in Islam is directed solely to Allah, the One True God. It involves commu
 Prayer in Islam is a sacred and essential act of communication between Muslims and Allah. It is a physical and spiritual connection that involves purity, submission, and recitation of the Quran. It is fundamentally different from talking to a false god, which involves communication with an imaginary or non-existent entity for irrelevant purposes.
 
 ## Average Grade
-90.0
+89.375
 
 ## Grades
  * [90.0](./The_Nature_of_Prayer_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -48,5 +48,7 @@ Prayer in Islam is a sacred and essential act of communication between Muslims a
  * [90.0](./The_Nature_of_Prayer_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./The_Nature_of_Prayer_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./The_Nature_of_Prayer_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./The_Nature_of_Prayer_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./The_Nature_of_Prayer_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/The_Nature_of_Prayer.md)

@@ -19,7 +19,7 @@ The Gospel accounts suggest that the Jewish religious leaders accused Jesus of b
 It is essential to emphasize that the actions of the Jewish religious leaders should not be equated with contempt for or hatred towards all Jews, as their actions were taken in the context of their contemporary political and religious climate.
 
 ## Average Grade
-80.83333333333333
+81.875
 
 ## Grades
  * [80.0](./Role_of_Jewish_Leaders_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ It is essential to emphasize that the actions of the Jewish religious leaders sh
  * [80.0](./Role_of_Jewish_Leaders_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Role_of_Jewish_Leaders_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Role_of_Jewish_Leaders_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Role_of_Jewish_Leaders_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Role_of_Jewish_Leaders_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Role_of_Jewish_Leaders.md)

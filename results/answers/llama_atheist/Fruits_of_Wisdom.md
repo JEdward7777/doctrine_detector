@@ -32,7 +32,7 @@ In my view, a wise person should strive to exhibit the following "fruits":
 While these "fruits" may not be explicitly linked to divine guidance, they are values that can bring people together, foster personal growth, and contribute to a more just and harmonious society.
 
 ## Average Grade
-61.666666666666664
+59.375
 
 ## Grades
  * [60.0](./Fruits_of_Wisdom_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -41,5 +41,7 @@ While these "fruits" may not be explicitly linked to divine guidance, they are v
  * [60.0](./Fruits_of_Wisdom_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Fruits_of_Wisdom_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Fruits_of_Wisdom_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Fruits_of_Wisdom_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [20.0](./Fruits_of_Wisdom_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Fruits_of_Wisdom.md)

@@ -21,7 +21,7 @@ While all Christians believe in the teachings of Jesus Christ, not all are evang
 In summary, an evangelist is a Christian who actively shares their faith with others in an effort to convert them. This is one way that evangelists may differ from other Christians, as not all Christians feel compelled to engage in evangelistic activities.
 
 ## Average Grade
-76.66666666666667
+76.875
 
 ## Grades
  * [80.0](./Gift_of_Evangelism_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ In summary, an evangelist is a Christian who actively shares their faith with ot
  * [80.0](./Gift_of_Evangelism_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Gift_of_Evangelism_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Gift_of_Evangelism_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Gift_of_Evangelism_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Gift_of_Evangelism_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Gift_of_Evangelism.md)

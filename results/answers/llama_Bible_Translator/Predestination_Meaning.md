@@ -23,7 +23,7 @@ Predestination is not about forcing people to do something against their will, b
 In Christian theology, predestination is often paired with other biblical concepts like election (the choosing of believers for salvation), redemption (the act of saving humanity from sin), and justification (the process by which believers are declared righteous before God).
 
 ## Average Grade
-90.0
+90.625
 
 ## Grades
  * [95.0](./Predestination_Meaning_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ In Christian theology, predestination is often paired with other biblical concep
  * [95.0](./Predestination_Meaning_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Predestination_Meaning_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Predestination_Meaning_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Predestination_Meaning_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Predestination_Meaning_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Predestination_Meaning.md)

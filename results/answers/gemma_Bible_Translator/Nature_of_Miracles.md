@@ -47,7 +47,7 @@ Understanding the importance of Jesus's miracles in affirming His divine nature.
 **Therefore, the miracles of Jesus provide compelling evidence that He is the Son of God, the Messiah, and the Savior of the world.**
 
 ## Average Grade
-94.16666666666667
+94.375
 
 ## Grades
  * [95.0](./Nature_of_Miracles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -56,5 +56,7 @@ Understanding the importance of Jesus's miracles in affirming His divine nature.
  * [95.0](./Nature_of_Miracles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Nature_of_Miracles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Nature_of_Miracles_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [95.0](./Nature_of_Miracles_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Nature_of_Miracles_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Nature_of_Miracles.md)

@@ -39,7 +39,7 @@ In each of these instances, Jesus' innocence is highlighted by His words and act
 These examples illustrate that, in the eyes of Scripture, Jesus was indeed innocent, and His opponents were motivated by sin and a lack of understanding about God's true plan.
 
 ## Average Grade
-90.0
+88.75
 
 ## Grades
  * [90.0](./Biblical_Examples_of_Innocence_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -48,5 +48,7 @@ These examples illustrate that, in the eyes of Scripture, Jesus was indeed innoc
  * [95.0](./Biblical_Examples_of_Innocence_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Biblical_Examples_of_Innocence_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Biblical_Examples_of_Innocence_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Biblical_Examples_of_Innocence_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [80.0](./Biblical_Examples_of_Innocence_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Biblical_Examples_of_Innocence.md)

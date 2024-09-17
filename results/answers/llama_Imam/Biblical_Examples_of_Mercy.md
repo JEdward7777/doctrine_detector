@@ -23,7 +23,7 @@ As a Muslim Imam, I must acknowledge that while the Bible is not considered a sa
 These examples demonstrate the concept of mercy in various contexts within the Bible. Muslims can reflect on these stories as a reminder of the importance of showing compassion and forgiveness, even towards those who may have wronged us.
 
 ## Average Grade
-74.16666666666667
+73.75
 
 ## Grades
  * [80.0](./Biblical_Examples_of_Mercy_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ These examples demonstrate the concept of mercy in various contexts within the B
  * [70.0](./Biblical_Examples_of_Mercy_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_Examples_of_Mercy_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Biblical_Examples_of_Mercy_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Biblical_Examples_of_Mercy_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Biblical_Examples_of_Mercy_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Biblical_Examples_of_Mercy.md)

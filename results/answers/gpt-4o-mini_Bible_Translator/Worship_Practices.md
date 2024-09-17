@@ -33,7 +33,7 @@ In contemporary society, there are several things that can become modern idolsâ€
 It's important for Christians to regularly examine their hearts and priorities, ensuring that they remain focused on God and His commands rather than being distracted by these modern idols. The call is to seek first the kingdom of God and to allow Him to be at the center of one's life.
 
 ## Average Grade
-91.66666666666667
+91.25
 
 ## Grades
  * [95.0](./Worship_Practices_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -42,5 +42,7 @@ It's important for Christians to regularly examine their hearts and priorities, 
  * [95.0](./Worship_Practices_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Worship_Practices_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Worship_Practices_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Worship_Practices_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Worship_Practices_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Worship_Practices.md)

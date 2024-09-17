@@ -22,7 +22,7 @@ The names of the twelve disciples are listed in various places throughout the Ne
 These passages provide the most comprehensive lists of the twelve disciples in the New Testament.
 
 ## Average Grade
-80.0
+81.875
 
 ## Grades
  * [90.0](./Matthew,_Mark,_and_Luke_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,5 +31,7 @@ These passages provide the most comprehensive lists of the twelve disciples in t
  * [80.0](./Matthew,_Mark,_and_Luke_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Matthew,_Mark,_and_Luke_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Matthew,_Mark,_and_Luke_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Matthew,_Mark,_and_Luke_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Matthew,_Mark,_and_Luke_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Matthew,_Mark,_and_Luke.md)

@@ -19,7 +19,7 @@ In terms of interpretation for believers, this can be understood as a prophecy o
 While our beliefs may differ in certain aspects, both religions share an expectation of Jesus' return as a significant event in the End Times. It is essential for followers of these faiths to remain steadfast and hopeful while preparing themselves spiritually and morally for the arrival of their prophet and awaiting the fulfillment of God's promise.
 
 ## Average Grade
-60.0
+60.625
 
 ## Grades
  * [70.0](./Second_Coming_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ While our beliefs may differ in certain aspects, both religions share an expecta
  * [60.0](./Second_Coming_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Second_Coming_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Second_Coming_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Second_Coming_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Second_Coming_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Second_Coming.md)

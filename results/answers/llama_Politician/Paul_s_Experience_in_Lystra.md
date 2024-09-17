@@ -25,7 +25,7 @@ In conclusion, my fellow citizens, the story of Paul's stoning in Lystra offers 
 Thank you for your attention to this sensitive topic. I hope that my remarks have been helpful in illuminating the importance of cultural sensitivity and perseverance in faith and ministry.
 
 ## Average Grade
-82.83333333333333
+80.875
 
 ## Grades
  * [85.0](./Paul_s_Experience_in_Lystra_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ Thank you for your attention to this sensitive topic. I hope that my remarks hav
  * [92.0](./Paul_s_Experience_in_Lystra_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Paul_s_Experience_in_Lystra_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Paul_s_Experience_in_Lystra_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Paul_s_Experience_in_Lystra_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [65.0](./Paul_s_Experience_in_Lystra_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Paul_s_Experience_in_Lystra.md)

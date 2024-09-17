@@ -32,7 +32,7 @@ As we strive for a more harmonious and inclusive society, I propose that we draw
 Thank you for your attention, and may our collective efforts promote peace, justice, and harmony throughout the world.
 
 ## Average Grade
-82.5
+81.875
 
 ## Grades
  * [85.0](./Obeying_God_s_Commands_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -41,5 +41,7 @@ Thank you for your attention, and may our collective efforts promote peace, just
  * [90.0](./Obeying_God_s_Commands_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Obeying_God_s_Commands_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Obeying_God_s_Commands_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Obeying_God_s_Commands_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Obeying_God_s_Commands_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Obeying_God_s_Commands.md)

@@ -23,7 +23,7 @@ This verse suggests that God gives individuals the capacity to reason (wisdom) a
 In summary, while there is some similarity between the idea of God writing His law on people's hearts in both Muslim and Christian contexts, the specific meanings and applications differ significantly. In Islam, it is more about the guidance provided by God through revelation, reason, and knowledge rather than an innate understanding or New Covenant concept.
 
 ## Average Grade
-68.33333333333333
+69.375
 
 ## Grades
  * [70.0](./The_New_Covenant_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ In summary, while there is some similarity between the idea of God writing His l
  * [80.0](./The_New_Covenant_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./The_New_Covenant_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./The_New_Covenant_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./The_New_Covenant_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./The_New_Covenant_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/The_New_Covenant.md)

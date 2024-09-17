@@ -15,7 +15,7 @@ Understanding the miraculous provision of God.
 In the Bible, manna is described as a "fine, flake-like thing" and as white like coriander seed with a taste like wafers made with honey. This description can be found in the book of Exodus in the Old Testament. The Israelites received manna as a miraculous provision from God during their time in the wilderness after leaving Egypt.
 
 ## Average Grade
-84.16666666666667
+85.0
 
 ## Grades
  * [80.0](./Nature_of_Manna_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ In the Bible, manna is described as a "fine, flake-like thing" and as white like
  * [85.0](./Nature_of_Manna_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Nature_of_Manna_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Nature_of_Manna_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Nature_of_Manna_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Nature_of_Manna_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Nature_of_Manna.md)

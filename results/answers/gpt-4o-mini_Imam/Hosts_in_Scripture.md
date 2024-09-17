@@ -25,7 +25,7 @@ In scripture, particularly in the context of Islamic texts and beliefs, the term
 In sum, "hosts" in a scriptural context encompasses angels, the vast creation of Allah, armies or forces under God's command, and the gathering for the Day of Judgment. Each interpretation reflects a different aspect of Allah's majesty and the order established in the universe according to Islamic teachings.
 
 ## Average Grade
-81.66666666666667
+79.375
 
 ## Grades
  * [85.0](./Hosts_in_Scripture_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ In sum, "hosts" in a scriptural context encompasses angels, the vast creation of
  * [85.0](./Hosts_in_Scripture_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Hosts_in_Scripture_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Hosts_in_Scripture_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Hosts_in_Scripture_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Hosts_in_Scripture_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Hosts_in_Scripture.md)

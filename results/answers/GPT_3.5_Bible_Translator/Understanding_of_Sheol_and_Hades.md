@@ -21,7 +21,7 @@ In the New Testament, the term Hades is used in a similar way to Sheol, as a pla
 Ultimately, both Sheol and Hades are temporary holding places for the dead, and the final destinations for the righteous and the unrighteous are described in terms of heaven and hell. For Christians, the hope is in the resurrection of the dead and the promise of eternal life in the presence of God for those who have faith in Jesus Christ.
 
 ## Average Grade
-85.83333333333333
+83.75
 
 ## Grades
  * [90.0](./Understanding_of_Sheol_and_Hades_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ Ultimately, both Sheol and Hades are temporary holding places for the dead, and 
  * [90.0](./Understanding_of_Sheol_and_Hades_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_of_Sheol_and_Hades_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Understanding_of_Sheol_and_Hades_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_of_Sheol_and_Hades_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Understanding_of_Sheol_and_Hades_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_of_Sheol_and_Hades.md)

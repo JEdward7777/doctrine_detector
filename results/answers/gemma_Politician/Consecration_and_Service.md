@@ -19,7 +19,7 @@ Consecration involves acts of purity and cleansing, which symbolize the transfor
 Furthermore, consecration often involves the use of specific rituals and symbols that have cultural and religious significance. These rituals and symbols can reinforce the idea of dedication and service to God.
 
 ## Average Grade
-88.33333333333333
+87.5
 
 ## Grades
  * [90.0](./Consecration_and_Service_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ Furthermore, consecration often involves the use of specific rituals and symbols
  * [95.0](./Consecration_and_Service_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Consecration_and_Service_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Consecration_and_Service_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Consecration_and_Service_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Consecration_and_Service_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Consecration_and_Service.md)

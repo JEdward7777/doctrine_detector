@@ -29,7 +29,7 @@ The division of Herod the Great's kingdom into tetrarchies after his death in 4 
 Overall, the division of Herod the Great's kingdom into tetrarchies created a complex environment for the Jewish people that was marked by both challenges and local variations in governance, religious life, and social dynamics.
 
 ## Average Grade
-90.83333333333333
+89.375
 
 ## Grades
  * [95.0](./Historical_Context_of_Tetrarchs_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ Overall, the division of Herod the Great's kingdom into tetrarchies created a co
  * [90.0](./Historical_Context_of_Tetrarchs_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Historical_Context_of_Tetrarchs_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Historical_Context_of_Tetrarchs_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Historical_Context_of_Tetrarchs_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Historical_Context_of_Tetrarchs_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Historical_Context_of_Tetrarchs.md)

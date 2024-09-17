@@ -21,7 +21,7 @@ When we talk about the concept of marriage, it's essential to emphasize the valu
 So, rather than focusing on labels or negative associations, let's work together to build a culture of empathy, understanding, and mutual respect in our society – particularly when it comes to the institution of marriage.
 
 ## Average Grade
-56.166666666666664
+57.75
 
 ## Grades
  * [30.0](./Adultery_and_Unfaithfulness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ So, rather than focusing on labels or negative associations, let's work together
  * [40.0](./Adultery_and_Unfaithfulness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Adultery_and_Unfaithfulness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [65.0](./Adultery_and_Unfaithfulness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Adultery_and_Unfaithfulness_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Adultery_and_Unfaithfulness_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Adultery_and_Unfaithfulness.md)

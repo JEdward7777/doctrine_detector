@@ -27,7 +27,7 @@ The Bible contains several verses that provide insight into the concept of heave
 These verses reflect a variety of themes concerning heaven, including its nature as a place of comfort, hope, and divine presence, illustrating the ways in which different authors of the Bible convey their theological and eschatological views.
 
 ## Average Grade
-85.83333333333333
+86.875
 
 ## Grades
  * [85.0](./Biblical_References_to_Heaven_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ These verses reflect a variety of themes concerning heaven, including its nature
  * [80.0](./Biblical_References_to_Heaven_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_References_to_Heaven_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Biblical_References_to_Heaven_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Biblical_References_to_Heaven_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Biblical_References_to_Heaven_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Biblical_References_to_Heaven.md)

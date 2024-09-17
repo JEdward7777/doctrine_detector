@@ -21,7 +21,7 @@ Becoming a child of God the Father in Christian belief represents an individual'
 However, it's crucial to remember that interpretations of these beliefs may vary widely among different religious communities and individuals. It's essential to approach such discussions with sensitivity, respecting each person's beliefs and personal journey in exploring faith.
 
 ## Average Grade
-85.83333333333333
+83.75
 
 ## Grades
  * [90.0](./Becoming_a_Child_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ However, it's crucial to remember that interpretations of these beliefs may vary
  * [90.0](./Becoming_a_Child_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Becoming_a_Child_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Becoming_a_Child_of_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Becoming_a_Child_of_God_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Becoming_a_Child_of_God_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Becoming_a_Child_of_God.md)

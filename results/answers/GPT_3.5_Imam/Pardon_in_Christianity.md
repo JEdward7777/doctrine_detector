@@ -19,7 +19,7 @@ Jesus Christ, as understood in Christianity, is believed to be the intercessor b
 Therefore, while both Christianity and Islam emphasize the importance of forgiveness and pardon, the understanding of how this forgiveness is attained differs between the two faiths. In Islam, forgiveness is sought directly from God through sincere repentance, while in Christianity, Jesus Christ is seen as the mediator for forgiveness of sins.
 
 ## Average Grade
-60.0
+58.75
 
 ## Grades
  * [60.0](./Pardon_in_Christianity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ Therefore, while both Christianity and Islam emphasize the importance of forgive
  * [60.0](./Pardon_in_Christianity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Pardon_in_Christianity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Pardon_in_Christianity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [70.0](./Pardon_in_Christianity_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Pardon_in_Christianity_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Pardon_in_Christianity.md)

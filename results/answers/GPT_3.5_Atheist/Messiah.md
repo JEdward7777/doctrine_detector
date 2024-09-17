@@ -21,7 +21,7 @@ In Islam, the concept of the Messiah overlaps with the figure of the Mahdi, who 
 It is important to note that while these religions share some commonalities in their beliefs about the Messiah, there are also significant differences in how they interpret the role and significance of this figure. Each faith tradition has its own unique expectations and beliefs regarding the coming of a savior, reflecting the diversity of human cultural and religious expressions.
 
 ## Average Grade
-83.33333333333333
+82.5
 
 ## Grades
  * [90.0](./Messiah_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ It is important to note that while these religions share some commonalities in t
  * [80.0](./Messiah_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Messiah_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Messiah_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Messiah_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [75.0](./Messiah_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Messiah.md)

@@ -19,7 +19,7 @@ From a religious perspective, Shavuot became associated with the giving of the T
 Overall, the Festival of Weeks held dual significance, both as an agricultural celebration of the harvest and as a religious observance commemorating the giving of the Torah. Its significance continued in Jewish tradition and was later incorporated into Christian tradition as Pentecost, marking the coming of the Holy Spirit to the apostles.
 
 ## Average Grade
-85.0
+84.375
 
 ## Grades
  * [85.0](./Origin_of_Pentecost_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ Overall, the Festival of Weeks held dual significance, both as an agricultural c
  * [80.0](./Origin_of_Pentecost_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Origin_of_Pentecost_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Origin_of_Pentecost_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Origin_of_Pentecost_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [80.0](./Origin_of_Pentecost_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Origin_of_Pentecost.md)

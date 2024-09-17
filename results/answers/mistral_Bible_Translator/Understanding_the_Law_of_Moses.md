@@ -33,7 +33,7 @@ Depth of understanding of the Old Testament laws and their relevance today.
 In addition to these, there are many other laws and commandments given throughout the books of Exodus, Leviticus, Numbers, and Deuteronomy that were part of God's covenant with the Israelites. These included laws concerning social justice, ritual purity, dietary restrictions, and festivals, among others.
 
 ## Average Grade
-84.16666666666667
+85.625
 
 ## Grades
  * [85.0](./Understanding_the_Law_of_Moses_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -42,5 +42,7 @@ In addition to these, there are many other laws and commandments given throughou
  * [90.0](./Understanding_the_Law_of_Moses_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Understanding_the_Law_of_Moses_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Understanding_the_Law_of_Moses_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_the_Law_of_Moses_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Understanding_the_Law_of_Moses_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_the_Law_of_Moses.md)

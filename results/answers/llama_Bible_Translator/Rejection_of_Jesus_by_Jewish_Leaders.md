@@ -31,7 +31,7 @@ The rejection of Jesus by the Jewish religious leaders has significant implicati
 In summary, Jesus' rejection by the Jewish religious leaders was due to his claims of Messiahship, his teachings that challenged traditional understanding, perceived blasphemy, and fear of Roman involvement. This event has far-reaching implications for Christian theology, emphasizing divine necessity, the New Covenant, salvation through faith, and the mission to the Gentiles.
 
 ## Average Grade
-92.0
+90.875
 
 ## Grades
  * [95.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -40,5 +40,7 @@ In summary, Jesus' rejection by the Jewish religious leaders was due to his clai
  * [95.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Rejection_of_Jesus_by_Jewish_Leaders.md)

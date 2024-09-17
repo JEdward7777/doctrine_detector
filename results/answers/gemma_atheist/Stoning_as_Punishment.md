@@ -46,7 +46,7 @@ The Bible presents a complex balance between justice and mercy. While the punish
 The practice of stoning as a punishment for adultery in the Bible should be understood within its historical context. Applying these laws to contemporary society is ethically problematic and violates fundamental human rights. The Bible teaches a balance between justice and mercy, ultimately revealing God's love for all.
 
 ## Average Grade
-90.83333333333333
+87.5
 
 ## Grades
  * [95.0](./Stoning_as_Punishment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -55,5 +55,7 @@ The practice of stoning as a punishment for adultery in the Bible should be unde
  * [95.0](./Stoning_as_Punishment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Stoning_as_Punishment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Stoning_as_Punishment_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Stoning_as_Punishment_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Stoning_as_Punishment_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Stoning_as_Punishment.md)

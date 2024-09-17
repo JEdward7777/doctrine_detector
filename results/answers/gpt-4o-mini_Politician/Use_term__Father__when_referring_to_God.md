@@ -19,7 +19,7 @@ In contexts where using "Father" may not resonate positively or could be misunde
 Ultimately, the necessity of using any particular term depends on the context and the audience. It’s always wise to approach discussions about faith and spirituality with sensitivity, openness, and a willingness to adapt language to be more inclusive and considerate of diverse perspectives. Engaging in dialogue and listening to the preferences of others can help foster understanding and respect.
 
 ## Average Grade
-64.16666666666667
+66.25
 
 ## Grades
  * [70.0](./Use_term__Father__when_referring_to_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ Ultimately, the necessity of using any particular term depends on the context an
  * [60.0](./Use_term__Father__when_referring_to_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Use_term__Father__when_referring_to_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Use_term__Father__when_referring_to_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Use_term__Father__when_referring_to_God_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Use_term__Father__when_referring_to_God_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Use_term__Father__when_referring_to_God.md)

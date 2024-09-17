@@ -25,7 +25,7 @@ As leaders, it's our duty to foster an environment of inclusivity, respect, and 
 In conclusion, Jesus' words in Matthew 19:12 offer valuable insights into the importance of self-denial, dedication, and spiritual pursuit. As we navigate these complex issues, let us prioritize compassion, empathy, and understanding – for all individuals, regardless of their beliefs or identities.
 
 ## Average Grade
-81.66666666666667
+79.375
 
 ## Grades
  * [85.0](./Eunuchs_in_the_Bible_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ In conclusion, Jesus' words in Matthew 19:12 offer valuable insights into the im
  * [80.0](./Eunuchs_in_the_Bible_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Eunuchs_in_the_Bible_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Eunuchs_in_the_Bible_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Eunuchs_in_the_Bible_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [55.0](./Eunuchs_in_the_Bible_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Eunuchs_in_the_Bible.md)

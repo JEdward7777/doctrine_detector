@@ -27,7 +27,7 @@ The term "holy place" can be understood in a broader context by recognizing that
 By embracing these varied interpretations, we can foster a more inclusive and respectful dialogue that honors the multiplicity of ways in which people experience and define holiness in their lives. This broader perspective allows for greater understanding and appreciation of the diverse tapestry of human experience.
 
 ## Average Grade
-62.5
+66.25
 
 ## Grades
  * [70.0](./General_Meaning_of_Holy_Place_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ By embracing these varied interpretations, we can foster a more inclusive and re
  * [50.0](./General_Meaning_of_Holy_Place_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./General_Meaning_of_Holy_Place_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./General_Meaning_of_Holy_Place_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./General_Meaning_of_Holy_Place_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./General_Meaning_of_Holy_Place_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/General_Meaning_of_Holy_Place.md)

@@ -23,7 +23,7 @@ For Muslims, while the specific Christian interpretation may not be central, it 
 Overall, the "abomination of desolation" serves as a profound reminder of the significance of the sacred, the consequences of its violation, and the eventual triumph of righteousness, which resonates across multiple religious traditions.
 
 ## Average Grade
-66.66666666666667
+65.625
 
 ## Grades
  * [60.0](./Abomination_of_Desolation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ Overall, the "abomination of desolation" serves as a profound reminder of the si
  * [60.0](./Abomination_of_Desolation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Abomination_of_Desolation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Abomination_of_Desolation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Abomination_of_Desolation_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Abomination_of_Desolation_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Abomination_of_Desolation.md)

@@ -15,7 +15,7 @@ Understanding the transition in worship practices from the tabernacle to the tem
 The Israelites stopped using the tabernacle because it was no longer relevant to their religious practices and beliefs. As society and religious customs evolved, the tabernacle lost its significance as a place of worship. The Israelites transitioned to more permanent structures such as the temple in Jerusalem, which better suited their spiritual needs and rituals. This change reflected a shift in the Israelites' religious traditions and cultural practices over time.
 
 ## Average Grade
-72.5
+70.625
 
 ## Grades
  * [80.0](./Transition_from_Tabernacle_to_Temple_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ The Israelites stopped using the tabernacle because it was no longer relevant to
  * [85.0](./Transition_from_Tabernacle_to_Temple_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Transition_from_Tabernacle_to_Temple_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Transition_from_Tabernacle_to_Temple_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Transition_from_Tabernacle_to_Temple_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Transition_from_Tabernacle_to_Temple_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Transition_from_Tabernacle_to_Temple.md)

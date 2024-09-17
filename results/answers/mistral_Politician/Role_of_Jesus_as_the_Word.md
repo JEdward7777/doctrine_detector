@@ -19,7 +19,7 @@ In Christianity, the title 'the Word of God,' ascribed to Jesus, is deeply roote
 The belief is that through Jesus' teachings, actions, and ultimately his sacrifice on the cross, he fulfills God's plan for salvation and reconciliation with God. This title emphasizes Jesus' role as a mediator between humans and the divine, and it highlights the transformative power of his teachings and his life's work in Christianity.
 
 ## Average Grade
-90.0
+87.5
 
 ## Grades
  * [90.0](./Role_of_Jesus_as_the_Word_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ The belief is that through Jesus' teachings, actions, and ultimately his sacrifi
  * [95.0](./Role_of_Jesus_as_the_Word_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Role_of_Jesus_as_the_Word_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Role_of_Jesus_as_the_Word_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Role_of_Jesus_as_the_Word_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [75.0](./Role_of_Jesus_as_the_Word_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Role_of_Jesus_as_the_Word.md)

@@ -15,7 +15,7 @@ Understanding the symbolic representation of God's mercy and atonement in the Ol
 There is no biblical evidence to support the concept of an "atonement lid" in the context of the ark of the covenant. Therefore, I am unable to provide any information regarding its significance.</end_of_turn>
 
 ## Average Grade
-68.33333333333333
+62.5
 
 ## Grades
  * [80.0](./atonement_lid_definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ There is no biblical evidence to support the concept of an "atonement lid" in th
  * [90.0](./atonement_lid_definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./atonement_lid_definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./atonement_lid_definition_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [70.0](./atonement_lid_definition_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [20.0](./atonement_lid_definition_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/atonement_lid_definition.md)

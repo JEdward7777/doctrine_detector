@@ -25,7 +25,7 @@ In Islamic theology, the restoration of sinful people back to God (Allah) is a p
 In essence, for God to restore sinful people back to Himself means offering them a path of hope, redemption, and growth through sincere repentance and His infinite mercy. It acknowledges human fallibility while emphasizing the loving and forgiving nature of Allah, encouraging believers to seek His forgiveness and strive to live righteous lives.
 
 ## Average Grade
-75.83333333333333
+76.25
 
 ## Grades
  * [80.0](./Restoration_of_Relationships_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ In essence, for God to restore sinful people back to Himself means offering them
  * [70.0](./Restoration_of_Relationships_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Restoration_of_Relationships_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Restoration_of_Relationships_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Restoration_of_Relationships_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Restoration_of_Relationships_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Restoration_of_Relationships.md)

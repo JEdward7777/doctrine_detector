@@ -33,7 +33,7 @@ The biblical distinction between "heaven" and "sky" is not always clear-cut, as 
 Keep in mind that this distinction is not absolute and can vary depending on the context of each passage. Nonetheless, recognizing these nuances can enrich our understanding of the Bible's teachings about the nature of God, creation, and eternity.
 
 ## Average Grade
-90.0
+88.75
 
 ## Grades
  * [95.0](./Understanding_Heaven_s_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -42,5 +42,7 @@ Keep in mind that this distinction is not absolute and can vary depending on the
  * [90.0](./Understanding_Heaven_s_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Heaven_s_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Understanding_Heaven_s_Definition_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Heaven_s_Definition_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Understanding_Heaven_s_Definition_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Heaven_s_Definition.md)

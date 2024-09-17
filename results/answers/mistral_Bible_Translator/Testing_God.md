@@ -21,7 +21,7 @@ Similarly, in Matthew 4:5-7 (New Testament), Satan tempts Jesus to throw himself
 These examples demonstrate that putting God to the test shows disbelief in His omnipotence, omniscience, and love. Instead, we are called to trust Him and have faith that He will guide us and provide for our needs according to His perfect timing and wisdom.
 
 ## Average Grade
-89.16666666666667
+87.5
 
 ## Grades
  * [90.0](./Testing_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ These examples demonstrate that putting God to the test shows disbelief in His o
  * [95.0](./Testing_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Testing_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Testing_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Testing_God_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [80.0](./Testing_God_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Testing_God.md)

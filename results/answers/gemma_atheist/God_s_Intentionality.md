@@ -42,7 +42,7 @@ Recognizing the intentional nature of God's interaction with humanity.
 **Therefore, the use of the term "call" emphasizes the intentional and purposeful nature of God's communication and calling, acknowledging both divine initiative and human responsibility in the process.**
 
 ## Average Grade
-92.83333333333333
+89.625
 
 ## Grades
  * [90.0](./God_s_Intentionality_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -51,5 +51,7 @@ Recognizing the intentional nature of God's interaction with humanity.
  * [95.0](./God_s_Intentionality_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./God_s_Intentionality_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./God_s_Intentionality_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./God_s_Intentionality_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [75.0](./God_s_Intentionality_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/God_s_Intentionality.md)

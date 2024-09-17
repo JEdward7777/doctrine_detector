@@ -19,7 +19,7 @@ The Christian belief is monotheistic, which means they worship one God. This sin
 It may be helpful for missionaries to emphasize this monotheistic aspect when discussing Christianity with others who might hold misconceptions about the number of gods Christians believe in. They could also provide resources, such as religious texts or scholarly works, that explain the Christian understanding of God in more detail. It's essential to foster open and respectful dialogue, recognizing that cultural perspectives can influence beliefs and misunderstandings may arise.
 
 ## Average Grade
-85.83333333333333
+85.625
 
 ## Grades
  * [85.0](./Multiple_gods_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ It may be helpful for missionaries to emphasize this monotheistic aspect when di
  * [85.0](./Multiple_gods_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Multiple_gods_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Multiple_gods_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Multiple_gods_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Multiple_gods_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Multiple_gods.md)

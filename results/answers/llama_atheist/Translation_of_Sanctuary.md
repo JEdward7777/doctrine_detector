@@ -27,7 +27,7 @@ Here are some guidelines for a culturally responsible translation:
 By following these guidelines, you'll be able to translate "sanctuary" in modern texts while maintaining cultural sensitivity and respect for the historical context. This will enable readers to engage with the text on its own terms, without imposing modernizing biases or misunderstandings.
 
 ## Average Grade
-77.5
+76.875
 
 ## Grades
  * [90.0](./Translation_of_Sanctuary_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ By following these guidelines, you'll be able to translate "sanctuary" in modern
  * [85.0](./Translation_of_Sanctuary_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Translation_of_Sanctuary_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Translation_of_Sanctuary_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Translation_of_Sanctuary_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [65.0](./Translation_of_Sanctuary_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Translation_of_Sanctuary.md)

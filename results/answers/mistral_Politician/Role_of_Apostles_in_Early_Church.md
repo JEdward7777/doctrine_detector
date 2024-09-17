@@ -25,7 +25,7 @@ Lastly, the apostles were adaptable, adjusting their approach to meet the needs 
 In conclusion, we can learn from the apostles' actions by emphasizing love, respect, effective communication, commitment to our communities, and adaptability in our interactions with others. These values will help us build bridges, foster understanding, and create strong, supportive communities that reflect the spirit of inclusivity and compassion.
 
 ## Average Grade
-82.5
+79.375
 
 ## Grades
  * [85.0](./Role_of_Apostles_in_Early_Church_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ In conclusion, we can learn from the apostles' actions by emphasizing love, resp
  * [80.0](./Role_of_Apostles_in_Early_Church_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Role_of_Apostles_in_Early_Church_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Role_of_Apostles_in_Early_Church_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Role_of_Apostles_in_Early_Church_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [55.0](./Role_of_Apostles_in_Early_Church_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Role_of_Apostles_in_Early_Church.md)

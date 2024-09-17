@@ -29,7 +29,7 @@ The concept of eternal punishment in hell is a topic that brings about various i
 In summary, the concept of eternal punishment in hell reflects God's justice by emphasizing accountability, the seriousness of one’s actions, and the hope for mercy and compassion that guide a believer's conduct in this life. It serves as both a warning and a reminder of the larger consequences of one’s moral choices.
 
 ## Average Grade
-71.66666666666667
+72.5
 
 ## Grades
  * [85.0](./Eternal_Punishment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ In summary, the concept of eternal punishment in hell reflects God's justice by 
  * [70.0](./Eternal_Punishment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Eternal_Punishment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [30.0](./Eternal_Punishment_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Eternal_Punishment_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [65.0](./Eternal_Punishment_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Eternal_Punishment.md)

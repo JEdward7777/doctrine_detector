@@ -23,7 +23,7 @@ After the Exodus, God commanded the Israelites to celebrate Passover every year 
 It is important to note that Islam recognizes Abraham, Isaac, and Jacob as prophets of Allah, and the story of Moses (Musa) and his people is an essential part of Islamic history. However, Muslims do not observe Passover as a religious holiday but celebrate the life and prophethood of Moses in their own religious practices.
 
 ## Average Grade
-56.666666666666664
+61.25
 
 ## Grades
  * [50.0](./Annual_Remembrance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ It is important to note that Islam recognizes Abraham, Isaac, and Jacob as proph
  * [70.0](./Annual_Remembrance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Annual_Remembrance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Annual_Remembrance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Annual_Remembrance_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [65.0](./Annual_Remembrance_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Annual_Remembrance.md)

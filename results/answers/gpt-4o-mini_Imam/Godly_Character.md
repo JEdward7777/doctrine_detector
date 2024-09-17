@@ -37,7 +37,7 @@ The fruits of the Spirit are:
 These traits not only reflect a godly character but also align closely with the teachings found in the Quran and Hadith, where believers are encouraged to embody these characteristics in their daily lives. By nurturing these qualities, a person can demonstrate a virtuous character that is pleasing to Allah and beneficial to society.
 
 ## Average Grade
-88.33333333333333
+82.5
 
 ## Grades
  * [90.0](./Godly_Character_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -46,5 +46,7 @@ These traits not only reflect a godly character but also align closely with the 
  * [90.0](./Godly_Character_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Godly_Character_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Godly_Character_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Godly_Character_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Godly_Character_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Godly_Character.md)

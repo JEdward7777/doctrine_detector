@@ -15,7 +15,7 @@ Understanding the nature of God's righteousness is crucial for appreciating His 
  In a biblical context, when God is described as "righteous," it signifies His moral perfection and faithfulness to His character. This righteousness is not humanly defined but is a standard that transcends human understanding. It encompasses qualities such as justice, holiness, truth, goodness, love, mercy, and faithfulness. When God is said to be righteous, it means He always acts in accordance with His perfect moral character without any deviation or compromise. This quality sets the divine standard for right living and morality that humans should aspire to, acknowledging the inherent sinfulness of humanity and the need for salvation through faith in Jesus Christ.
 
 ## Average Grade
-90.83333333333333
+90.625
 
 ## Grades
  * [95.0](./Understanding_Righteousness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ Understanding the nature of God's righteousness is crucial for appreciating His 
  * [90.0](./Understanding_Righteousness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Righteousness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Understanding_Righteousness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Righteousness_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Understanding_Righteousness_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Righteousness.md)

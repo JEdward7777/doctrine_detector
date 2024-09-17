@@ -23,7 +23,7 @@ The "redemption of our body" refers to the hope for glorification or transformat
 For modern believers, this passage serves as a reminder of their ongoing struggle against sin and a confirmation of their hope for redemption in Christ's return. It encourages them to persevere through hardships and wait patiently for the fulfillment of their ultimate adoption as children of God.
 
 ## Average Grade
-92.5
+90.625
 
 ## Grades
  * [90.0](./Looking_Forward_to_Adoption_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ For modern believers, this passage serves as a reminder of their ongoing struggl
  * [95.0](./Looking_Forward_to_Adoption_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Looking_Forward_to_Adoption_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Looking_Forward_to_Adoption_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Looking_Forward_to_Adoption_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Looking_Forward_to_Adoption_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Looking_Forward_to_Adoption.md)

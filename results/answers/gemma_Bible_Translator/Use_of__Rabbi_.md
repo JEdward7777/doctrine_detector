@@ -15,7 +15,7 @@ Recognizing the respect and authority associated with Jesus' and John's teaching
 Neither John the Baptist nor Jesus are referred to as "Rabbi" in the biblical texts. The title "Rabbi" was typically used for teachers of Jewish law and tradition, and neither John nor Jesus were considered to be Pharisees or teachers in that sense.</start_of_turn>
 
 ## Average Grade
-60.833333333333336
+64.375
 
 ## Grades
  * [70.0](./Use_of__Rabbi__grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ Neither John the Baptist nor Jesus are referred to as "Rabbi" in the biblical te
  * [65.0](./Use_of__Rabbi__grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [30.0](./Use_of__Rabbi__grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Use_of__Rabbi__grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [70.0](./Use_of__Rabbi__grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [80.0](./Use_of__Rabbi__grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Use_of__Rabbi_.md)

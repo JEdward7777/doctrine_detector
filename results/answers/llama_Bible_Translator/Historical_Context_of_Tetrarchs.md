@@ -26,7 +26,7 @@ The division of Herod the Great's kingdom into four tetrarchies, which occurred 
 In summary, the division of Herod's kingdom into tetrarchies had far-reaching consequences for the Jewish people, including regionalization, economic changes, administrative reorganization, religious developments, polarization and competition, and increased Roman involvement. These impacts would have contributed to a complex web of social, political, and cultural dynamics that shaped the lives of Jews in Judea during this period.
 
 ## Average Grade
-85.0
+86.25
 
 ## Grades
  * [80.0](./Historical_Context_of_Tetrarchs_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,5 +35,7 @@ In summary, the division of Herod's kingdom into tetrarchies had far-reaching co
  * [90.0](./Historical_Context_of_Tetrarchs_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Historical_Context_of_Tetrarchs_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Historical_Context_of_Tetrarchs_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Historical_Context_of_Tetrarchs_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Historical_Context_of_Tetrarchs_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Historical_Context_of_Tetrarchs.md)

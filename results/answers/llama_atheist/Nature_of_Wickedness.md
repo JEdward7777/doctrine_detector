@@ -36,7 +36,7 @@ However, it's essential to note that the Bible also presents a message of hope a
 In conclusion, the Bible presents a nuanced view of wickedness, emphasizing both the consequences and potential for redemption. As a scholar, I believe it's essential to understand these themes in context, rather than imposing moral judgments or supernatural explanations.
 
 ## Average Grade
-81.66666666666667
+76.875
 
 ## Grades
  * [85.0](./Nature_of_Wickedness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -45,5 +45,7 @@ In conclusion, the Bible presents a nuanced view of wickedness, emphasizing both
  * [85.0](./Nature_of_Wickedness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Nature_of_Wickedness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Nature_of_Wickedness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Nature_of_Wickedness_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Nature_of_Wickedness_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Nature_of_Wickedness.md)

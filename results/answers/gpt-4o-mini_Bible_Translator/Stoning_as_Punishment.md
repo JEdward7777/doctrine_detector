@@ -27,7 +27,7 @@ In the New Testament, the approach to sin and punishment shifts significantly. T
 Thus, stoning as a punishment for adultery serves as a part of the Old Testament legal system but is recontextualized in the New Testament through the teachings of Jesus. This reflects a move toward understanding God's justice not merely as strict punishment but as an expression of mercy that aims for restoration and relationship rather than retribution. It encourages believers to consider how they extend both justice and mercy in their interactions with others.
 
 ## Average Grade
-92.5
+91.25
 
 ## Grades
  * [95.0](./Stoning_as_Punishment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ Thus, stoning as a punishment for adultery serves as a part of the Old Testament
  * [95.0](./Stoning_as_Punishment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Stoning_as_Punishment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Stoning_as_Punishment_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Stoning_as_Punishment_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Stoning_as_Punishment_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Stoning_as_Punishment.md)

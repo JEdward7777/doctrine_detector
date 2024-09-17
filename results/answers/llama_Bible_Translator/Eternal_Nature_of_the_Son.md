@@ -24,7 +24,7 @@ In contrast to human sons, who are finite beings born of human parents and subje
 These distinctions highlight the unique nature of the Son of God, which is distinct from humanity's finite and mortal existence. In Christian theology, this understanding of Jesus' eternal and essential existence forms the foundation for our comprehension of His role in salvation history and His identity as the only-begotten Son (John 1:14).
 
 ## Average Grade
-94.16666666666667
+94.375
 
 ## Grades
  * [95.0](./Eternal_Nature_of_the_Son_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,5 +33,7 @@ These distinctions highlight the unique nature of the Son of God, which is disti
  * [95.0](./Eternal_Nature_of_the_Son_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Eternal_Nature_of_the_Son_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [95.0](./Eternal_Nature_of_the_Son_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [95.0](./Eternal_Nature_of_the_Son_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Eternal_Nature_of_the_Son_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Eternal_Nature_of_the_Son.md)

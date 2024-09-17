@@ -25,7 +25,7 @@ The story of Lazarus in John 11:1-44 is another example. Jesus receives news tha
 These biblical accounts demonstrate that individuals within the biblical narratives have shown compassion towards others, often in the face of adversity or hardship. As a scholar, I can acknowledge these examples without necessarily ascribing them to divine intervention.
 
 ## Average Grade
-83.33333333333333
+81.875
 
 ## Grades
  * [90.0](./Compassionate_Actions_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ These biblical accounts demonstrate that individuals within the biblical narrati
  * [85.0](./Compassionate_Actions_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Compassionate_Actions_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Compassionate_Actions_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Compassionate_Actions_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Compassionate_Actions_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Compassionate_Actions.md)

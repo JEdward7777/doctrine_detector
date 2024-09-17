@@ -31,7 +31,7 @@ Living a life that is considered 'holy' and set apart for God's purpose is a jou
 Ultimately, living a holy life is about striving for authenticity in one’s faith while being considerate and inclusive of others. Each journey is unique, and supporting one another in this pursuit can create a sense of community and shared purpose.
 
 ## Average Grade
-90.0
+88.75
 
 ## Grades
  * [95.0](./Purpose_of_Holiness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -40,5 +40,7 @@ Ultimately, living a holy life is about striving for authenticity in one’s fai
  * [90.0](./Purpose_of_Holiness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Purpose_of_Holiness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Purpose_of_Holiness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Purpose_of_Holiness_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Purpose_of_Holiness_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Purpose_of_Holiness.md)

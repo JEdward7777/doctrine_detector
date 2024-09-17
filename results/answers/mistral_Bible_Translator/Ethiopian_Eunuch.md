@@ -27,7 +27,7 @@ Recognizing the inclusiveness of the Christian message and the role of individua
 In summary, the encounter between Philip and the Ethiopian eunuch provides a foundational narrative for understanding the early church's mission to spread the gospel to all people, its inclusivity of everyone regardless of their nationality or background, and how the Holy Spirit guides believers in sharing the message effectively.
 
 ## Average Grade
-92.5
+91.875
 
 ## Grades
  * [90.0](./Ethiopian_Eunuch_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ In summary, the encounter between Philip and the Ethiopian eunuch provides a fou
  * [90.0](./Ethiopian_Eunuch_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Ethiopian_Eunuch_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Ethiopian_Eunuch_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Ethiopian_Eunuch_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Ethiopian_Eunuch_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Ethiopian_Eunuch.md)

@@ -47,7 +47,7 @@ To encourage believers to explore Scripture for guidance on prayer and intercess
 **In Islamic tradition, the Prophet Muhammad (peace be upon him) frequently practiced intercessory prayer for his followers and others.**
 
 ## Average Grade
-19.166666666666668
+26.25
 
 ## Grades
  * [35.0](./Scriptural_Basis_for_Intercession_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -56,5 +56,7 @@ To encourage believers to explore Scripture for guidance on prayer and intercess
  * [20.0](./Scriptural_Basis_for_Intercession_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [20.0](./Scriptural_Basis_for_Intercession_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [0.0](./Scriptural_Basis_for_Intercession_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [75.0](./Scriptural_Basis_for_Intercession_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [20.0](./Scriptural_Basis_for_Intercession_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Scriptural_Basis_for_Intercession.md)

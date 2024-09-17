@@ -27,7 +27,7 @@ Symbolically, manna represents several key ideas about God's provision in Islam:
 Overall, manna symbolizes God's unwavering care, provision, and compassion for His creation, as well as the importance of trust, gratitude, and thankfulness in our relationship with Allah.
 
 ## Average Grade
-90.0
+85.625
 
 ## Grades
  * [90.0](./Symbolism_of_Manna_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ Overall, manna symbolizes God's unwavering care, provision, and compassion for H
  * [90.0](./Symbolism_of_Manna_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Symbolism_of_Manna_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Symbolism_of_Manna_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Symbolism_of_Manna_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Symbolism_of_Manna_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Symbolism_of_Manna.md)

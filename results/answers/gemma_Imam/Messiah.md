@@ -43,7 +43,7 @@ Despite the differences in specific beliefs, there is common ground between Isla
 The Islamic concept of the Messiah emphasizes the importance of faith in Allah, upholding justice, and establishing peace. While there are variations in beliefs compared to other religions, the underlying notions of salvation and redemption share similarities, highlighting the common spiritual aspirations of humanity.
 
 ## Average Grade
-71.66666666666667
+74.375
 
 ## Grades
  * [70.0](./Messiah_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -52,5 +52,7 @@ The Islamic concept of the Messiah emphasizes the importance of faith in Allah, 
  * [60.0](./Messiah_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Messiah_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Messiah_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Messiah_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [80.0](./Messiah_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Messiah.md)

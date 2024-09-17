@@ -23,7 +23,7 @@ In the Quran, however, we don't find a direct equivalent to the term "begat." In
 In summary, the term "begat" in the Bible refers to the act of having children or offspring, emphasizing the father-son relationship. While the Quran does not use this exact term, it describes genealogy using different expressions, highlighting the importance of prophetic lineage and the role of women in these accounts.
 
 ## Average Grade
-80.0
+78.125
 
 ## Grades
  * [80.0](./Biblical_Usage_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ In summary, the term "begat" in the Bible refers to the act of having children o
  * [85.0](./Biblical_Usage_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Biblical_Usage_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Biblical_Usage_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Biblical_Usage_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Biblical_Usage_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Biblical_Usage.md)

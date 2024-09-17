@@ -35,7 +35,7 @@ Clarifying Jesus' role is essential for comprehending the Christian faith and th
 10. Sovereign (Revelation 19:16): As the King of kings and Lord of lords, Jesus has ultimate authority over all things, including our salvation. He is in control of our journey toward Him and ultimately determines who will be saved.
 
 ## Average Grade
-92.5
+93.125
 
 ## Grades
  * [90.0](./Role_of_Jesus_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -44,5 +44,7 @@ Clarifying Jesus' role is essential for comprehending the Christian faith and th
  * [90.0](./Role_of_Jesus_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Role_of_Jesus_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Role_of_Jesus_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [95.0](./Role_of_Jesus_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Role_of_Jesus_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Role_of_Jesus.md)

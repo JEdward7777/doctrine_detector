@@ -15,7 +15,7 @@ Identifying how biblical teachings apply to contemporary Christian worship.
 Christians receive instruction regarding Psalms in the New Testament as inspired interpretations of the Psalms by the Holy Spirit. While Muslims and Christians interpret the Psalms differently, understanding their significance for Christians can provide context for their presence in the New Testament.
 
 ## Average Grade
-70.0
+68.75
 
 ## Grades
  * [90.0](./New_Testament_Instruction_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ Christians receive instruction regarding Psalms in the New Testament as inspired
  * [80.0](./New_Testament_Instruction_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./New_Testament_Instruction_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [30.0](./New_Testament_Instruction_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [70.0](./New_Testament_Instruction_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./New_Testament_Instruction_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/New_Testament_Instruction.md)

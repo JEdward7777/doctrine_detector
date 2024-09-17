@@ -31,7 +31,7 @@ In the biblical context, an "upright" person is often characterized by several k
 These qualities mirror values found in Islamic teachings as well, where an upright person embodies characteristics like justice, honesty, compassion, and commitment to God’s guidance. Both traditions emphasize the importance of living a life that honors God and serves humanity.
 
 ## Average Grade
-85.0
+81.875
 
 ## Grades
  * [90.0](./Characteristics_of_the_Upright_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -40,5 +40,7 @@ These qualities mirror values found in Islamic teachings as well, where an uprig
  * [90.0](./Characteristics_of_the_Upright_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Characteristics_of_the_Upright_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Characteristics_of_the_Upright_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Characteristics_of_the_Upright_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Characteristics_of_the_Upright_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Characteristics_of_the_Upright.md)

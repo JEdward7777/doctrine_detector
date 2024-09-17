@@ -25,7 +25,7 @@ The term 'Christ' has a rich and evolving significance throughout the New Testam
 Overall, throughout the New Testament, 'Christ' evolves from a title signifying expectation, to a profound theological concept central to Christian belief, ultimately shaping the identity and mission of the early Christian community. This evolution indicates not only the early church's understanding of Jesus' role but also how that understanding informs the faith and practice of Christians today.
 
 ## Average Grade
-88.33333333333333
+88.75
 
 ## Grades
  * [85.0](./Christ_as_Title_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ Overall, throughout the New Testament, 'Christ' evolves from a title signifying 
  * [95.0](./Christ_as_Title_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Christ_as_Title_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Christ_as_Title_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Christ_as_Title_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Christ_as_Title_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Christ_as_Title.md)

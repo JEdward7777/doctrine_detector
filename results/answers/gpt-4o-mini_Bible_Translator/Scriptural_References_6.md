@@ -37,7 +37,7 @@ The Bible includes numerous passages that describe the characteristics of fools 
 These passages develop a comprehensive biblical understanding of what it means to be a fool, emphasizing the importance of wisdom, the danger of self-deception, and the consequences of immoral behavior.
 
 ## Average Grade
-93.83333333333333
+92.875
 
 ## Grades
  * [95.0](./Scriptural_References_6_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -46,5 +46,7 @@ These passages develop a comprehensive biblical understanding of what it means t
  * [95.0](./Scriptural_References_6_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [98.0](./Scriptural_References_6_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Scriptural_References_6_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Scriptural_References_6_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Scriptural_References_6_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Scriptural_References_6.md)

@@ -51,7 +51,7 @@ The Quran and Islamic traditions (Sunnah and Hadith) contain numerous references
 Mount Zion played a crucial role in the life and reign of King David, and its significance in Islamic tradition is undeniable. The mountain is a sacred and historically significant site for Muslims, connecting them to their religious and cultural heritage.
 
 ## Average Grade
-30.833333333333332
+38.125
 
 ## Grades
  * [30.0](./Zion_s_Historical_Significance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -60,5 +60,7 @@ Mount Zion played a crucial role in the life and reign of King David, and its si
  * [40.0](./Zion_s_Historical_Significance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [20.0](./Zion_s_Historical_Significance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./Zion_s_Historical_Significance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [70.0](./Zion_s_Historical_Significance_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Zion_s_Historical_Significance_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Zion_s_Historical_Significance.md)

@@ -25,7 +25,7 @@ Ensuring accurate interpretation of biblical texts and enhancing interpersonal r
 6. Esteemed partner: This phrase can be used in both romantic and platonic relationships, emphasizing the importance and value each individual brings to their relationship with one another. It is less emotionally charged than some other terms but still expresses deep respect and affection.
 
 ## Average Grade
-87.83333333333333
+87.125
 
 ## Grades
  * [85.0](./Translations_of_Beloved_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ Ensuring accurate interpretation of biblical texts and enhancing interpersonal r
  * [95.0](./Translations_of_Beloved_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Translations_of_Beloved_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Translations_of_Beloved_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Translations_of_Beloved_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Translations_of_Beloved_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Translations_of_Beloved.md)

@@ -21,7 +21,7 @@ In the case of the Sadducees and Pharisees, it is important to recognize that no
 In discussing the character of the Sadducees and Pharisees, it is essential to approach the topic with sensitivity and respect for diverse perspectives. It is always important to engage in discussions about religious history and beliefs with humility, empathy, and a willingness to listen to different points of view.
 
 ## Average Grade
-58.333333333333336
+58.75
 
 ## Grades
  * [50.0](./Influence_on_Jesus__Crucifixion_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ In discussing the character of the Sadducees and Pharisees, it is essential to a
  * [80.0](./Influence_on_Jesus__Crucifixion_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Influence_on_Jesus__Crucifixion_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [30.0](./Influence_on_Jesus__Crucifixion_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Influence_on_Jesus__Crucifixion_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Influence_on_Jesus__Crucifixion_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Influence_on_Jesus__Crucifixion.md)

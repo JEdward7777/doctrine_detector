@@ -25,7 +25,7 @@ And hey, who knows? Maybe one day we'll find a way to make the whole "blood on d
 Anyway, that's my take on the significance of blood in Passover. What do you think? Do you have any other insights to share?
 
 ## Average Grade
-34.166666666666664
+39.375
 
 ## Grades
  * [40.0](./Role_of_Blood_in_Passover_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ Anyway, that's my take on the significance of blood in Passover. What do you thi
  * [30.0](./Role_of_Blood_in_Passover_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Role_of_Blood_in_Passover_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [25.0](./Role_of_Blood_in_Passover_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [70.0](./Role_of_Blood_in_Passover_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Role_of_Blood_in_Passover_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Role_of_Blood_in_Passover.md)

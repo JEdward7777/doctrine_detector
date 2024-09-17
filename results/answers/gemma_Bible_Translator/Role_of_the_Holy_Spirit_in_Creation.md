@@ -52,7 +52,7 @@ The biblical account of Genesis 1:1-2 suggests that the Holy Spirit played a vit
 The involvement of the Holy Spirit in the creation of the world is a crucial aspect of the biblical account. He is the divine source of inspiration, the creative energy, and the permanent presence that sustains and guides the physical and spiritual realms.
 
 ## Average Grade
-94.16666666666667
+92.5
 
 ## Grades
  * [95.0](./Role_of_the_Holy_Spirit_in_Creation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -61,5 +61,7 @@ The involvement of the Holy Spirit in the creation of the world is a crucial asp
  * [95.0](./Role_of_the_Holy_Spirit_in_Creation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Role_of_the_Holy_Spirit_in_Creation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Role_of_the_Holy_Spirit_in_Creation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Role_of_the_Holy_Spirit_in_Creation_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Role_of_the_Holy_Spirit_in_Creation_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Role_of_the_Holy_Spirit_in_Creation.md)

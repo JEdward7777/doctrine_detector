@@ -27,7 +27,7 @@ Understanding the concept of 'appointed time' can significantly enhance our fait
 In essence, reflecting on the concept of 'appointed time' can deepen our faith, help us find meaning in our journey, and enhance our understanding of God’s overarching plans for our lives.
 
 ## Average Grade
-90.33333333333333
+89.625
 
 ## Grades
  * [90.0](./God_s_Timing_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ In essence, reflecting on the concept of 'appointed time' can deepen our faith, 
  * [90.0](./God_s_Timing_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./God_s_Timing_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./God_s_Timing_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./God_s_Timing_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./God_s_Timing_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/God_s_Timing.md)

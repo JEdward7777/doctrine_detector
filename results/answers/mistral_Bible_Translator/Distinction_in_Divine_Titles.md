@@ -15,7 +15,7 @@ Maintaining clarity in translations prevents misinterpretations concerning God's
  Translating "Lord Yahweh" as "Lord LORD" can be misleading because it fails to accurately represent the original Hebrew text in the Old Testament. In the original text, the name "Yahweh" appears over 6000 times, often translated as "LORD" in English Bibles due to Jewish tradition that considers the direct pronunciation of God's name sacred and unutterable. However, when the Tetragrammaton (the Hebrew name for God: YHWH) is found sandwiched between two other words, it is often translated as "LORD," but followed by "God" on the next line or in a footnote to indicate that it refers to God. Translating it as "Lord LORD" can create confusion about the identity of the subject and undermine the clarity and reverence intended by the original authors. It is important to preserve the accuracy of the text, even if that means acknowledging the sacredness of God's name in a footnote or alternative translation.
 
 ## Average Grade
-91.66666666666667
+91.25
 
 ## Grades
  * [90.0](./Distinction_in_Divine_Titles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ Maintaining clarity in translations prevents misinterpretations concerning God's
  * [95.0](./Distinction_in_Divine_Titles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Distinction_in_Divine_Titles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Distinction_in_Divine_Titles_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Distinction_in_Divine_Titles_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Distinction_in_Divine_Titles_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Distinction_in_Divine_Titles.md)

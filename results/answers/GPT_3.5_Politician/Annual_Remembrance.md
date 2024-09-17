@@ -15,7 +15,7 @@ Recognizing the importance of remembrance in Christian faith.
 The commandment for the Israelites to celebrate Passover annually is a significant part of their cultural and religious traditions. This celebration commemorates the liberation of the Israelites from slavery in Egypt and marks a pivotal moment in their history. It serves as a reminder of the importance of freedom, justice, and faith. It is important to respect and understand different religious observances and traditions, as they hold deep meaning and significance for those who follow them.
 
 ## Average Grade
-82.5
+77.5
 
 ## Grades
  * [80.0](./Annual_Remembrance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ The commandment for the Israelites to celebrate Passover annually is a significa
  * [80.0](./Annual_Remembrance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Annual_Remembrance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Annual_Remembrance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Annual_Remembrance_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Annual_Remembrance_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Annual_Remembrance.md)

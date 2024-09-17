@@ -15,7 +15,7 @@ Gaining insight into the geographical and theological significance of the locati
 The term "Zion" is historically associated with the Temple Mount in Jerusalem as it is considered a place of great religious significance to various faiths. The term itself has ancient roots and has been used in religious texts and literature to symbolize a place of spiritual connection and divine presence. It is important to approach discussions about religious and cultural symbols with respect and sensitivity to the beliefs and practices of diverse communities.
 
 ## Average Grade
-79.16666666666667
+77.5
 
 ## Grades
  * [90.0](./Temple_and_Jerusalem_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ The term "Zion" is historically associated with the Temple Mount in Jerusalem as
  * [90.0](./Temple_and_Jerusalem_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Temple_and_Jerusalem_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Temple_and_Jerusalem_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Temple_and_Jerusalem_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Temple_and_Jerusalem_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Temple_and_Jerusalem.md)

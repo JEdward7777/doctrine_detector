@@ -42,7 +42,7 @@ In terms of the person's responsibility and culpability, the Bible teaches that:
 It is essential to approach the topic of demonic possession with a balanced understanding of the biblical teachings on the subject. While recognizing the reality of demonic influence, we must also emphasize the importance of faith in Jesus Christ and the need for spiritual discernment and wisdom.
 
 ## Average Grade
-90.33333333333333
+90.25
 
 ## Grades
  * [95.0](./Demon_Possession_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -51,5 +51,7 @@ It is essential to approach the topic of demonic possession with a balanced unde
  * [90.0](./Demon_Possession_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Demon_Possession_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Demon_Possession_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Demon_Possession_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Demon_Possession_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Demon_Possession.md)

@@ -23,7 +23,7 @@ However, it's also important to recognize that other religious traditions and sp
 In conclusion, while fulfilling promises or vows made before God is indeed an important value in many Christian traditions, I must emphasize that we should strive for inclusivity and acknowledge the diversity of beliefs within our pluralistic society. By doing so, we can foster a culture of mutual respect, understanding, and cooperation among people from all walks of life.
 
 ## Average Grade
-85.83333333333333
+82.5
 
 ## Grades
  * [90.0](./Fulfilling_Promises_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ In conclusion, while fulfilling promises or vows made before God is indeed an im
  * [95.0](./Fulfilling_Promises_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Fulfilling_Promises_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Fulfilling_Promises_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Fulfilling_Promises_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Fulfilling_Promises_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Fulfilling_Promises.md)

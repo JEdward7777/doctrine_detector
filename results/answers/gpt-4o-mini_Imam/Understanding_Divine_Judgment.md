@@ -23,7 +23,7 @@ Moreover, God's judgment is deeply intertwined with mercy and grace, as illustra
 In summary, God's judgment is based on complete knowledge and righteousness, while human judgment is often flawed and subjective. In the Islamic context, we also recognize that judgment belongs to Allah alone, who is all-knowledgable and just, and we are encouraged to avoid hastily judging others without understanding their circumstances.
 
 ## Average Grade
-90.83333333333333
+89.375
 
 ## Grades
  * [90.0](./Understanding_Divine_Judgment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ In summary, God's judgment is based on complete knowledge and righteousness, whi
  * [90.0](./Understanding_Divine_Judgment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Understanding_Divine_Judgment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Understanding_Divine_Judgment_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Understanding_Divine_Judgment_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [80.0](./Understanding_Divine_Judgment_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Divine_Judgment.md)

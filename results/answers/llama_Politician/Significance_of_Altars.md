@@ -23,7 +23,7 @@ Now, I know that some people might have concerns about the implications of this 
 In conclusion, building an altar in ancient Israelite worship was a significant aspect of their religious practice, serving as a physical representation of their connection with the divine. As we navigate the complexities of our own faiths and cultures, it's essential that we approach these discussions with sensitivity, respect, and an open mind. Thank you for allowing me to share my thoughts on this topic.
 
 ## Average Grade
-64.16666666666667
+65.0
 
 ## Grades
  * [40.0](./Significance_of_Altars_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ In conclusion, building an altar in ancient Israelite worship was a significant 
  * [60.0](./Significance_of_Altars_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Significance_of_Altars_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Significance_of_Altars_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Significance_of_Altars_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Significance_of_Altars_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Significance_of_Altars.md)

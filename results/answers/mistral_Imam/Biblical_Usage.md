@@ -21,7 +21,7 @@ It is essential to note that this terminology mirrors the Hebrew Bible's origina
 For Muslims, genealogies found in the Bible play an indirect role in Islamic history since they provide crucial information about the lineage of important figures like Prophet Abraham (Ibrahim), whom all three Abrahamic faiths hold dear. However, Muslims primarily rely on the Quran and Hadiths for their religious teachings and practices.
 
 ## Average Grade
-85.83333333333333
+85.625
 
 ## Grades
  * [90.0](./Biblical_Usage_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ For Muslims, genealogies found in the Bible play an indirect role in Islamic his
  * [90.0](./Biblical_Usage_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Biblical_Usage_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Biblical_Usage_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Biblical_Usage_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Biblical_Usage_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Biblical_Usage.md)

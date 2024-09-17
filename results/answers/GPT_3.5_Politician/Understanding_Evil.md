@@ -15,7 +15,7 @@ Ensuring clarity on the moral implications of behaviors and character in the con
 When discussing moral character and behavior in the context of the Bible, it is important to approach the subject with sensitivity and respect for all perspectives. In general, "evil" and "wickedness" are often used interchangeably in religious texts and teachings to describe actions that go against moral standards or cause harm to others. It is important to remember that interpretations of these terms can vary among different religious traditions and individuals. It is advisable to approach discussions about these concepts with an open mind and a willingness to listen to differing viewpoints.
 
 ## Average Grade
-72.5
+71.25
 
 ## Grades
  * [85.0](./Understanding_Evil_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ When discussing moral character and behavior in the context of the Bible, it is 
  * [85.0](./Understanding_Evil_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Understanding_Evil_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Understanding_Evil_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Evil_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Understanding_Evil_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Evil.md)

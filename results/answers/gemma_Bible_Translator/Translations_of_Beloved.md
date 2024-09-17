@@ -47,7 +47,7 @@ Ensuring accurate interpretation of biblical texts and enhancing interpersonal r
 * **"You are a chosen people, a royal priesthood, a nation of priests."** (1 Peter 2:9) - "You are a favored people, a royal priesthood, a nation of priests."
 
 ## Average Grade
-80.33333333333333
+82.125
 
 ## Grades
  * [92.0](./Translations_of_Beloved_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -56,5 +56,7 @@ Ensuring accurate interpretation of biblical texts and enhancing interpersonal r
  * [90.0](./Translations_of_Beloved_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [30.0](./Translations_of_Beloved_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Translations_of_Beloved_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Translations_of_Beloved_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Translations_of_Beloved_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Translations_of_Beloved.md)

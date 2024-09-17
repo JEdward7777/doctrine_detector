@@ -33,7 +33,7 @@ The term "House of Yahweh" is a biblical concept primarily used in the Hebrew Bi
 While the term "House of Yahweh" is a significant concept in Christianity, it is not directly applicable or translatable in a Muslim context. Islamic teachings emphasize the oneness of Allah and the universality of worship, focusing on the spiritual connection with God rather than physical structures.
 
 ## Average Grade
-81.66666666666667
+79.375
 
 ## Grades
  * [85.0](./Translation_of_Worship_Spaces_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -42,5 +42,7 @@ While the term "House of Yahweh" is a significant concept in Christianity, it is
  * [85.0](./Translation_of_Worship_Spaces_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Translation_of_Worship_Spaces_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Translation_of_Worship_Spaces_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Translation_of_Worship_Spaces_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Translation_of_Worship_Spaces_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Translation_of_Worship_Spaces.md)

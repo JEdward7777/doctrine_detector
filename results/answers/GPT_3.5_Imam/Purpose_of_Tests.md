@@ -19,7 +19,7 @@ The Quran mentions in chapter 2, verse 155-157: "And We will surely test you wit
 Thus, the purpose of tests in Islam is not to cause harm or suffering, but to purify and elevate the believers, as well as to differentiate between those who are truly devoted to Allah and those who are not. It is believed that by facing and overcoming these tests with patience and faith, believers can attain spiritual growth, closeness to Allah, and ultimately, success in this life and the Hereafter.
 
 ## Average Grade
-85.83333333333333
+83.125
 
 ## Grades
  * [85.0](./Purpose_of_Tests_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ Thus, the purpose of tests in Islam is not to cause harm or suffering, but to pu
  * [90.0](./Purpose_of_Tests_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Purpose_of_Tests_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Purpose_of_Tests_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [70.0](./Purpose_of_Tests_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [80.0](./Purpose_of_Tests_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Purpose_of_Tests.md)

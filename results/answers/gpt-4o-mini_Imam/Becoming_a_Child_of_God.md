@@ -21,7 +21,7 @@ Being a "child of God" in the Christian sense implies a special relationship bas
 If you have further questions or are looking for a deeper discussion on differences between these beliefs, feel free to ask!
 
 ## Average Grade
-53.333333333333336
+55.625
 
 ## Grades
  * [50.0](./Becoming_a_Child_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ If you have further questions or are looking for a deeper discussion on differen
  * [70.0](./Becoming_a_Child_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Becoming_a_Child_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [30.0](./Becoming_a_Child_of_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [75.0](./Becoming_a_Child_of_God_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Becoming_a_Child_of_God_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Becoming_a_Child_of_God.md)

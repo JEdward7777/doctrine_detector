@@ -25,7 +25,7 @@ Lastly, we might consider acts of greed, covetousness, and materialism that can 
 In conclusion, my friend, while the Bible does identify certain actions as abominations, we must approach this topic with sensitivity, compassion, and a commitment to respecting the dignity and worth of every individual. By doing so, we can create a more just, equitable, and loving society for all.
 
 ## Average Grade
-79.16666666666667
+77.5
 
 ## Grades
  * [85.0](./Understanding_Abomination_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ In conclusion, my friend, while the Bible does identify certain actions as abomi
  * [85.0](./Understanding_Abomination_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Abomination_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Understanding_Abomination_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Abomination_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Understanding_Abomination_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Abomination.md)

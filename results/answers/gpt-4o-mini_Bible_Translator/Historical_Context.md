@@ -34,7 +34,7 @@ The concept of the "remnant" is a significant theme in the prophetic books of Is
 These events and passages from Isaiah and Amos reflect the overarching theme of God's commitment to His people, highlighting that, even in times of judgment, He preserves a faithful remnant to carry His purposes forward. This concept reinforces the hope of restoration and the importance of remaining faithful amidst adversity.
 
 ## Average Grade
-92.5
+91.25
 
 ## Grades
  * [95.0](./Historical_Context_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -43,5 +43,7 @@ These events and passages from Isaiah and Amos reflect the overarching theme of 
  * [95.0](./Historical_Context_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Historical_Context_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Historical_Context_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Historical_Context_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Historical_Context_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Historical_Context.md)

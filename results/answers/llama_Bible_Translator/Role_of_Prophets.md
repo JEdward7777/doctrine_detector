@@ -26,7 +26,7 @@ In the New Testament, Jesus Christ is often referred to as a prophet (Matthew 21
 Throughout Scripture, prophets were called to be God's mouthpiece, communicating His message with clarity and authority. Their role was not just to predict future events but also to declare God's character, justice, and mercy to a world in need of redemption.
 
 ## Average Grade
-90.83333333333333
+90.625
 
 ## Grades
  * [90.0](./Role_of_Prophets_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,5 +35,7 @@ Throughout Scripture, prophets were called to be God's mouthpiece, communicating
  * [95.0](./Role_of_Prophets_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Role_of_Prophets_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Role_of_Prophets_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Role_of_Prophets_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Role_of_Prophets_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Role_of_Prophets.md)

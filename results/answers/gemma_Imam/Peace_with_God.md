@@ -17,7 +17,7 @@ Exploring the significance of faith in the Life of a Christian.
 The Quran and Islamic teachings emphasize monotheism and submission to Allah as the means of achieving peace with God. The belief in Jesus as a prophet is respected, but his sacrifice is not considered necessary for salvation or reconciliation with Allah.
 
 ## Average Grade
-65.83333333333333
+51.875
 
 ## Grades
  * [90.0](./Peace_with_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -26,5 +26,7 @@ The Quran and Islamic teachings emphasize monotheism and submission to Allah as 
  * [90.0](./Peace_with_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [20.0](./Peace_with_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [10.0](./Peace_with_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [0.0](./Peace_with_God_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [20.0](./Peace_with_God_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Peace_with_God.md)

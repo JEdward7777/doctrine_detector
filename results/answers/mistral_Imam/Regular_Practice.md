@@ -21,7 +21,7 @@ In the Bible (1 Corinthians 11:23-26), it states that Jesus instituted the Lord'
 As a Muslim, it is important to respect the beliefs and practices of others while focusing on deepening our understanding of Islam. If you have any questions about Islamic teachings or practices, please feel free to ask!
 
 ## Average Grade
-57.5
+55.625
 
 ## Grades
  * [65.0](./Regular_Practice_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ As a Muslim, it is important to respect the beliefs and practices of others whil
  * [60.0](./Regular_Practice_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Regular_Practice_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Regular_Practice_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Regular_Practice_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [20.0](./Regular_Practice_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Regular_Practice.md)

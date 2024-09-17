@@ -35,7 +35,7 @@ Hypocrisy can lead to a loss of integrity and may cause others to question our f
 10. Communicate effectively: Clearly communicate your intentions, policies, and actions to the public, addressing any potential concerns or misunderstandings upfront. Be honest, transparent, and open to feedback.
 
 ## Average Grade
-75.83333333333333
+78.125
 
 ## Grades
  * [80.0](./Hypocrisy_in_Personal_Conduct_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -44,5 +44,7 @@ Hypocrisy can lead to a loss of integrity and may cause others to question our f
  * [85.0](./Hypocrisy_in_Personal_Conduct_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Hypocrisy_in_Personal_Conduct_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Hypocrisy_in_Personal_Conduct_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Hypocrisy_in_Personal_Conduct_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Hypocrisy_in_Personal_Conduct_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Hypocrisy_in_Personal_Conduct.md)

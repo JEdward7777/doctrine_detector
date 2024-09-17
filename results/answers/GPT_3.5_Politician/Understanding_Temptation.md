@@ -15,7 +15,7 @@ This question is concerned with understanding how to combat temptation in daily 
 Jesus used a combination of spiritual strength, knowledge of scripture, and trust in God to resist the temptations presented by Satan. He did not succumb to the temptations and instead stayed true to his beliefs and values. It is important to note that different individuals may use different strategies to resist temptation, and it is ultimately up to each person to find what works best for them.
 
 ## Average Grade
-83.33333333333333
+81.25
 
 ## Grades
  * [80.0](./Understanding_Temptation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ Jesus used a combination of spiritual strength, knowledge of scripture, and trus
  * [85.0](./Understanding_Temptation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Understanding_Temptation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Understanding_Temptation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Understanding_Temptation_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Understanding_Temptation_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Temptation.md)

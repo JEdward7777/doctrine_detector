@@ -15,7 +15,7 @@ Recognizing biblical references helps reinforce the understanding of God's autho
 As a Muslim Imam, I am unable to provide interpretations of biblical passages or theological discussions. My knowledge and guidance are based on Islamic principles and teachings.
 
 ## Average Grade
-37.5
+29.375
 
 ## Grades
  * [20.0](./Biblical_References_4_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ As a Muslim Imam, I am unable to provide interpretations of biblical passages or
  * [25.0](./Biblical_References_4_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [20.0](./Biblical_References_4_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./Biblical_References_4_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [0.0](./Biblical_References_4_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [10.0](./Biblical_References_4_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Biblical_References_4.md)

@@ -19,7 +19,7 @@ Now, every believer has direct access to God through faith in Jesus and can offe
 It's essential to note that this doesn't mean every Christian has the same role or responsibility within the church community. The New Testament also outlines specific roles for leaders and ministers within the body of believers (e.g., Ephesians 4:11-12). Nevertheless, all believers are priests in the sense that they have access to God through Christ and are called to serve Him and others.
 
 ## Average Grade
-92.83333333333333
+91.5
 
 ## Grades
  * [95.0](./New_Testament_Priesthood_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ It's essential to note that this doesn't mean every Christian has the same role 
  * [95.0](./New_Testament_Priesthood_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./New_Testament_Priesthood_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./New_Testament_Priesthood_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./New_Testament_Priesthood_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./New_Testament_Priesthood_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/New_Testament_Priesthood.md)

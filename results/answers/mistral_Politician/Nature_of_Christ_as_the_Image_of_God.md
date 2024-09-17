@@ -21,7 +21,7 @@ In Christian belief, this symbolic representation is significant because it prov
 It is essential to approach such discussions with sensitivity and respect for all beliefs and practices. It is also crucial to remember that individual interpretations may vary within Christianity and among different religious groups.
 
 ## Average Grade
-77.5
+76.875
 
 ## Grades
  * [80.0](./Nature_of_Christ_as_the_Image_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ It is essential to approach such discussions with sensitivity and respect for al
  * [70.0](./Nature_of_Christ_as_the_Image_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Nature_of_Christ_as_the_Image_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Nature_of_Christ_as_the_Image_of_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Nature_of_Christ_as_the_Image_of_God_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [65.0](./Nature_of_Christ_as_the_Image_of_God_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Nature_of_Christ_as_the_Image_of_God.md)

@@ -21,7 +21,7 @@ In this theological framework, faith in Jesus' sacrifice is seen as the key that
 It is important to note that this perspective is specific to the Christian faith tradition and may not be shared by all religious or philosophical systems. From a scholarly standpoint, the interpretation and significance of Jesus' sacrifice in achieving peace with God vary among different religious and secular perspectives.
 
 ## Average Grade
-88.33333333333333
+88.125
 
 ## Grades
  * [90.0](./Peace_with_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ It is important to note that this perspective is specific to the Christian faith
  * [90.0](./Peace_with_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Peace_with_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Peace_with_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Peace_with_God_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Peace_with_God_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Peace_with_God.md)

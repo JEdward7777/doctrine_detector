@@ -15,7 +15,7 @@ Addresses the responsibility of believers in their appointed tasks and service w
 Christians are called to fulfill their roles within the Church by practicing love, compassion, and understanding towards one another. They are encouraged to support one another, promote unity, and work towards the greater good of the community. It is important for Christians to respect diverse beliefs and perspectives within the Church and to strive for inclusivity and acceptance of all members.
 
 ## Average Grade
-82.5
+80.0
 
 ## Grades
  * [90.0](./Role_of_Appointments_in_Service_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ Christians are called to fulfill their roles within the Church by practicing lov
  * [90.0](./Role_of_Appointments_in_Service_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Role_of_Appointments_in_Service_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Role_of_Appointments_in_Service_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Role_of_Appointments_in_Service_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Role_of_Appointments_in_Service_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Role_of_Appointments_in_Service.md)

@@ -21,7 +21,7 @@ Additionally, in James 5:16, it encourages believers to “confess your sins to 
 Overall, confession in the biblical sense encompasses honesty, humility, and a desire to align oneself with ethical and moral principles. It is a meaningful practice intended to foster personal growth, reconciliation, and spiritual well-being.
 
 ## Average Grade
-90.0
+88.75
 
 ## Grades
  * [95.0](./Definition_of_Confession_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ Overall, confession in the biblical sense encompasses honesty, humility, and a d
  * [95.0](./Definition_of_Confession_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Definition_of_Confession_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Definition_of_Confession_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Definition_of_Confession_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Definition_of_Confession_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Definition_of_Confession.md)

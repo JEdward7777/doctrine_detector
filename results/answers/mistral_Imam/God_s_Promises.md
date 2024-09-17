@@ -25,7 +25,7 @@ These promises demonstrate God's unwavering commitment to those who believe in H
 In summary, God's promises hold great significance in the context of His relationship with His people, offering comfort, hope, and guidance while emphasizing the importance of faith, patience, and perseverance. The examples from both the Bible and Quran illustrate this concept beautifully.
 
 ## Average Grade
-83.33333333333333
+80.625
 
 ## Grades
  * [90.0](./God_s_Promises_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ In summary, God's promises hold great significance in the context of His relatio
  * [85.0](./God_s_Promises_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./God_s_Promises_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./God_s_Promises_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./God_s_Promises_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./God_s_Promises_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/God_s_Promises.md)

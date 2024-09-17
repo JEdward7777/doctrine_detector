@@ -29,7 +29,7 @@ Several Bible verses emphasize the importance of forgiveness among individuals:
 **7. Mark 11:25:** "When you are wronged, do not retaliate; but pray for those who mistreat you." This verse encourages active forgiveness and prayer rather than retaliation.
 
 ## Average Grade
-89.16666666666667
+89.375
 
 ## Grades
  * [90.0](./Biblical_Basis_for_Forgiveness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ Several Bible verses emphasize the importance of forgiveness among individuals:
  * [90.0](./Biblical_Basis_for_Forgiveness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_Basis_for_Forgiveness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Biblical_Basis_for_Forgiveness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Biblical_Basis_for_Forgiveness_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Biblical_Basis_for_Forgiveness_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Biblical_Basis_for_Forgiveness.md)

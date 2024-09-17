@@ -19,7 +19,7 @@ That being said, in Islam, all believers are considered to be close to Allah and
 So, in Islam, the "privileges" that believers receive include guidance in this world, the promise of forgiveness and mercy from Allah, and the hope of eternal paradise in the hereafter. These privileges are not based on adoption, but rather on sincere faith and submission to the will of Allah.
 
 ## Average Grade
-67.5
+64.375
 
 ## Grades
  * [80.0](./Privileges_of_Sonship_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ So, in Islam, the "privileges" that believers receive include guidance in this w
  * [80.0](./Privileges_of_Sonship_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Privileges_of_Sonship_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [30.0](./Privileges_of_Sonship_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [70.0](./Privileges_of_Sonship_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Privileges_of_Sonship_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Privileges_of_Sonship.md)

@@ -17,7 +17,7 @@ In Islam, believers are not referred to as 'children of God' as this phrase carr
 Therefore, the impact of being referred to as 'children of God' would not have a direct relationship on the beliefs and practices of Muslim believers. Instead, Muslims typically strive to foster a strong and loving relationship with God through acts of worship, obedience to His commandments, seeking His forgiveness, and constantly remembering and glorifying Him in their daily lives. This relationship is based on the understanding of God's mercy, love, and justice, rather than on a familial connection as children.
 
 ## Average Grade
-50.0
+55.625
 
 ## Grades
  * [40.0](./Children_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -26,5 +26,7 @@ Therefore, the impact of being referred to as 'children of God' would not have a
  * [30.0](./Children_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Children_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Children_of_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [75.0](./Children_of_God_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Children_of_God_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Children_of_God.md)

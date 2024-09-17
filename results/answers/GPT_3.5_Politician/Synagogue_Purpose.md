@@ -15,7 +15,7 @@ Understanding the historical and religious importance of synagogues in Jewish wo
 Synagogues have historically served as important places of worship, study, and community gathering for Jewish individuals and communities. They provided a space for communal prayer, reading of the scriptures, and teaching of religious traditions. Synagogues were and continue to be centers of spiritual and communal life for Jewish people, playing a crucial role in maintaining cultural and religious practices throughout history.
 
 ## Average Grade
-89.16666666666667
+88.75
 
 ## Grades
  * [90.0](./Synagogue_Purpose_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ Synagogues have historically served as important places of worship, study, and c
  * [95.0](./Synagogue_Purpose_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Synagogue_Purpose_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Synagogue_Purpose_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Synagogue_Purpose_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Synagogue_Purpose_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Synagogue_Purpose.md)

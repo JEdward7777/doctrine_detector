@@ -19,7 +19,7 @@ Regarding its location in the tabernacle, the Ark of the Covenant was placed in 
 In summary, while the Ark of the Covenant is not a central topic in Islamic theology, its mention in historical and scriptural contexts highlights its significance in the story of the Children of Israel. The intricate details of its location and function are primarily part of the Judeo-Christian tradition.
 
 ## Average Grade
-74.16666666666667
+69.375
 
 ## Grades
  * [85.0](./Ark_Location_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ In summary, while the Ark of the Covenant is not a central topic in Islamic theo
  * [80.0](./Ark_Location_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Ark_Location_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Ark_Location_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Ark_Location_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [25.0](./Ark_Location_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Ark_Location.md)

@@ -21,7 +21,7 @@ In Muslim history, the term "Zion" is not often used in the same context as it i
 In summary, the term "Zion" comes to be associated with Jerusalem due to its significance in Jewish tradition, particularly referencing Mount Zion or the City of David. In Islamic tradition, it is more commonly referred to as 'al-Quds al-Sharif,' and its importance lies in its association with events significant to Muslims, such as the Isra and Miraj journey of Prophet Muhammad (peace be upon him).
 
 ## Average Grade
-56.666666666666664
+60.625
 
 ## Grades
  * [70.0](./Temple_and_Jerusalem_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ In summary, the term "Zion" comes to be associated with Jerusalem due to its sig
  * [55.0](./Temple_and_Jerusalem_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Temple_and_Jerusalem_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./Temple_and_Jerusalem_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Temple_and_Jerusalem_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Temple_and_Jerusalem_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Temple_and_Jerusalem.md)

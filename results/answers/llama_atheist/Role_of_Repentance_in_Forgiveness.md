@@ -32,7 +32,7 @@ In conclusion, the biblical relationship between repentance and forgiveness is c
 As an atheist, I recognize that these concepts are deeply rooted in religious culture and may not be universally applicable or relevant outside of their original context. Nevertheless, analyzing these ideas within their cultural framework can provide valuable insights into human morality, ethics, and the complexities of interpersonal relationships.
 
 ## Average Grade
-74.16666666666667
+73.75
 
 ## Grades
  * [85.0](./Role_of_Repentance_in_Forgiveness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -41,5 +41,7 @@ As an atheist, I recognize that these concepts are deeply rooted in religious cu
  * [75.0](./Role_of_Repentance_in_Forgiveness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Role_of_Repentance_in_Forgiveness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [30.0](./Role_of_Repentance_in_Forgiveness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Role_of_Repentance_in_Forgiveness_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Role_of_Repentance_in_Forgiveness_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Role_of_Repentance_in_Forgiveness.md)

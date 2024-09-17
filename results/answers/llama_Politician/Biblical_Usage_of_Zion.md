@@ -25,7 +25,7 @@ In the Bible, Zion often represents the capital city of ancient Israel, Jerusale
 In these figurative ways, the term "Zion" serves as a powerful symbol of God's presence, justice, salvation, and redemption. As we continue to explore the complexities of biblical interpretation, I believe it's essential to approach this topic with sensitivity and respect for the diverse perspectives within Christianity and Judaism.
 
 ## Average Grade
-94.16666666666667
+92.5
 
 ## Grades
  * [95.0](./Biblical_Usage_of_Zion_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ In these figurative ways, the term "Zion" serves as a powerful symbol of God's p
  * [95.0](./Biblical_Usage_of_Zion_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Biblical_Usage_of_Zion_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Biblical_Usage_of_Zion_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Biblical_Usage_of_Zion_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Biblical_Usage_of_Zion_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Biblical_Usage_of_Zion.md)

@@ -19,7 +19,7 @@ In Christian theology, an Evangelist is one who writes a Gospel account of Jesus
 It is important to note that cultural connotations can vary significantly for words like "evangelist," as they have been used in different contexts throughout history and may still carry various meanings within different religious, political, and societal frameworks.
 
 ## Average Grade
-82.5
+83.75
 
 ## Grades
  * [90.0](./Definition_of_Evangelist_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ It is important to note that cultural connotations can vary significantly for wo
  * [90.0](./Definition_of_Evangelist_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Definition_of_Evangelist_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Definition_of_Evangelist_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Definition_of_Evangelist_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Definition_of_Evangelist_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Definition_of_Evangelist.md)

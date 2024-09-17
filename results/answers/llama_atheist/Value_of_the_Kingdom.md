@@ -31,7 +31,7 @@ Jesus used various parables to convey the significance of the Kingdom of God. He
 By examining these parables through a secular lens, we can gain insights into the symbolic language Jesus used to describe the value of the Kingdom of God. While avoiding theological interpretations, we can recognize the cultural and historical significance of these stories as they relate to ancient Jewish and Mediterranean societies.
 
 ## Average Grade
-45.833333333333336
+47.5
 
 ## Grades
  * [30.0](./Value_of_the_Kingdom_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -40,5 +40,7 @@ By examining these parables through a secular lens, we can gain insights into th
  * [25.0](./Value_of_the_Kingdom_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Value_of_the_Kingdom_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Value_of_the_Kingdom_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Value_of_the_Kingdom_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [20.0](./Value_of_the_Kingdom_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Value_of_the_Kingdom.md)

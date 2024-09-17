@@ -19,7 +19,7 @@ For instance, in Leviticus 19:16, it says, "Do not stand idly by when your neigh
 These passages demonstrate that life, especially innocent lives, is highly valued in the Bible. The concept of "innocent blood" serves as a reminder to protect and respect all human lives and to avoid any actions that might unjustly take them away. It underscores the belief in the sanctity of life and the importance of justice and compassion.
 
 ## Average Grade
-92.16666666666667
+90.375
 
 ## Grades
  * [95.0](./Innocent_Suffering_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ These passages demonstrate that life, especially innocent lives, is highly value
  * [95.0](./Innocent_Suffering_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Innocent_Suffering_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Innocent_Suffering_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Innocent_Suffering_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Innocent_Suffering_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Innocent_Suffering.md)

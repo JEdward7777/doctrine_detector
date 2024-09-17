@@ -15,7 +15,7 @@ Understanding the meaning and significance of the term 'sanctuary' in the Biblic
  In the context of the Bible, a sanctuary primarily refers to a sacred or holy place set apart for religious worship and offerings. It's often associated with the Tabernacle (the portable sanctuary used by the Israelites during their desert wanderings) and the Temple in Jerusalem. The term is also used metaphorically to describe God's presence among His people, as well as the believer's spiritual state of being made holy before God. For example, Psalm 96:1 says, "Oh sing to the LORD a new song; sing to the LORD, all the earth!" Here, the Lord and His sanctuary are synonymous with Himself and His presence among the people of Earth.
 
 ## Average Grade
-88.33333333333333
+88.75
 
 ## Grades
  * [95.0](./Sanctuary_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ Understanding the meaning and significance of the term 'sanctuary' in the Biblic
  * [85.0](./Sanctuary_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Sanctuary_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Sanctuary_Definition_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Sanctuary_Definition_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Sanctuary_Definition_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Sanctuary_Definition.md)

@@ -31,7 +31,7 @@ Clear, contextual teaching helps prevent misconceptions about the Holy Spirit's 
 8. Lastly, reassure the audience that having a personal relationship with the Holy Spirit is not something to be feared but something to be desired. Encourage them to seek the Holy Spirit and ask for His guidance and help in their lives.
 
 ## Average Grade
-90.33333333333333
+89.0
 
 ## Grades
  * [92.0](./Holy_Spirit_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -40,5 +40,7 @@ Clear, contextual teaching helps prevent misconceptions about the Holy Spirit's 
  * [90.0](./Holy_Spirit_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Holy_Spirit_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Holy_Spirit_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Holy_Spirit_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Holy_Spirit_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Holy_Spirit.md)

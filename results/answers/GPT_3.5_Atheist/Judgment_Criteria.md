@@ -15,7 +15,7 @@ This question encourages Christians to consider their actions and the need for a
 From an atheistic perspective, the concept of judgment on the day of judgment as described in the Bible is viewed as a product of cultural beliefs and mythology rather than a literal event. Different religious traditions may have varying interpretations of how individuals will be judged, either based on their beliefs, actions, or a combination of both. As an atheistic scholar, I would approach this question by considering the historical, literary, and sociological aspects of such beliefs rather than interpreting them as divine truths.
 
 ## Average Grade
-18.333333333333332
+23.75
 
 ## Grades
  * [20.0](./Judgment_Criteria_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ From an atheistic perspective, the concept of judgment on the day of judgment as
  * [20.0](./Judgment_Criteria_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [20.0](./Judgment_Criteria_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [10.0](./Judgment_Criteria_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [70.0](./Judgment_Criteria_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [10.0](./Judgment_Criteria_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Judgment_Criteria.md)

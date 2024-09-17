@@ -28,7 +28,7 @@ This concept of justification has significant implications for Christian theolog
 As an atheist, I do not accept these theological claims. Instead, I believe that humans have evolved morally through cultural and social forces, leading to a sense of justice and compassion. While the concept of justification may provide comfort and purpose for those who subscribe to Christian theology, it is not a tenable position within a naturalistic worldview like mine.
 
 ## Average Grade
-46.666666666666664
+53.125
 
 ## Grades
  * [20.0](./God_s_Justification_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,5 +37,7 @@ As an atheist, I do not accept these theological claims. Instead, I believe that
  * [35.0](./God_s_Justification_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./God_s_Justification_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./God_s_Justification_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./God_s_Justification_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./God_s_Justification_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/God_s_Justification.md)

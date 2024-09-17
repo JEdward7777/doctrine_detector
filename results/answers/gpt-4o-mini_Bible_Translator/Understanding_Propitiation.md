@@ -33,7 +33,7 @@ The significance of Jesus' sacrifice in the context of propitiation can be summa
 In summary, the significance of Jesus’ sacrifice as propitiation lies in its role in satisfying God’s wrath, providing forgiveness and reconciliation, demonstrating profound love, and offering a pathway to salvation for all who believe.
 
 ## Average Grade
-93.33333333333333
+93.75
 
 ## Grades
  * [95.0](./Understanding_Propitiation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -42,5 +42,7 @@ In summary, the significance of Jesus’ sacrifice as propitiation lies in its r
  * [95.0](./Understanding_Propitiation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Understanding_Propitiation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Understanding_Propitiation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [95.0](./Understanding_Propitiation_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Understanding_Propitiation_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Propitiation.md)

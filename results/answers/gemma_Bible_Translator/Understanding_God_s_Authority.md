@@ -36,7 +36,7 @@ The title "Most High" signifies God's supreme authority and dominion over all cr
 The title "Most High" highlights the unparalleled authority of God in our lives. He is the supreme ruler of all creation, and his dominion extends over every aspect of our existence. This understanding should lead us to submit to his will, trust his guidance, and live lives that honor his authority.
 
 ## Average Grade
-91.16666666666667
+90.875
 
 ## Grades
  * [95.0](./Understanding_God_s_Authority_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -45,5 +45,7 @@ The title "Most High" highlights the unparalleled authority of God in our lives.
  * [90.0](./Understanding_God_s_Authority_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_God_s_Authority_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Understanding_God_s_Authority_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Understanding_God_s_Authority_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Understanding_God_s_Authority_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_God_s_Authority.md)

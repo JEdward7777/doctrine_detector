@@ -57,7 +57,7 @@ As an atheist scholar, I acknowledge the impact of Jesus' miracles on his follow
 The miracles of Jesus have cultural and historical significance, offering insights into the beliefs and practices of early Christianity. However, they should be interpreted without supernatural assumptions, utilizing cultural and historical knowledge to understand their potential explanations.
 
 ## Average Grade
-33.333333333333336
+37.5
 
 ## Grades
  * [30.0](./Examples_of_Jesus__Miracles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -66,5 +66,7 @@ The miracles of Jesus have cultural and historical significance, offering insigh
  * [40.0](./Examples_of_Jesus__Miracles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Examples_of_Jesus__Miracles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [30.0](./Examples_of_Jesus__Miracles_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Examples_of_Jesus__Miracles_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [20.0](./Examples_of_Jesus__Miracles_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Examples_of_Jesus__Miracles.md)

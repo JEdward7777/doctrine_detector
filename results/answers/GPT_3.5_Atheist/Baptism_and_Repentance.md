@@ -21,7 +21,7 @@ Additionally, baptism is often understood as a public declaration of one's faith
 Overall, repentance and baptism are closely connected in the New Testament as essential components of the Christian conversion experience. Repentance signifies a genuine turning towards God, while baptism symbolizes the cleansing of sin and the beginning of a new life in Christ.
 
 ## Average Grade
-90.0
+88.75
 
 ## Grades
  * [90.0](./Baptism_and_Repentance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ Overall, repentance and baptism are closely connected in the New Testament as es
  * [95.0](./Baptism_and_Repentance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Baptism_and_Repentance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Baptism_and_Repentance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Baptism_and_Repentance_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Baptism_and_Repentance_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Baptism_and_Repentance.md)

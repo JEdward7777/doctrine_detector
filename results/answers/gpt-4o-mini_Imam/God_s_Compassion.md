@@ -25,7 +25,7 @@ In the Christian tradition, the Bible portrays God as compassionate and merciful
 These verses portray a God who is deeply aware of human suffering and injustice and who responds with kindness and an invitation for repentance and healing. Similarly, in Islam, Allah is also described as "The Most Compassionate" (Ar-Rahman) and "The Most Merciful" (Ar-Rahim), emphasizing a shared understanding of God's compassionate nature across both faiths. If you have any more specific questions or would like further insights, feel free to ask!
 
 ## Average Grade
-88.33333333333333
+88.75
 
 ## Grades
  * [95.0](./God_s_Compassion_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ These verses portray a God who is deeply aware of human suffering and injustice 
  * [95.0](./God_s_Compassion_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./God_s_Compassion_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./God_s_Compassion_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./God_s_Compassion_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./God_s_Compassion_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/God_s_Compassion.md)

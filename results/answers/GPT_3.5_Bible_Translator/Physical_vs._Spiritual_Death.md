@@ -19,7 +19,7 @@ On the other hand, the spiritual meaning of "perish" often refers to the eternal
 Therefore, while physical death is a temporary separation of the body and soul, the spiritual meaning of perishing refers to the eternal separation from God for those who reject Him and His offer of salvation through Jesus Christ.
 
 ## Average Grade
-91.66666666666667
+90.0
 
 ## Grades
  * [95.0](./Physical_vs._Spiritual_Death_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ Therefore, while physical death is a temporary separation of the body and soul, 
  * [95.0](./Physical_vs._Spiritual_Death_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Physical_vs._Spiritual_Death_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [95.0](./Physical_vs._Spiritual_Death_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Physical_vs._Spiritual_Death_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Physical_vs._Spiritual_Death_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Physical_vs._Spiritual_Death.md)

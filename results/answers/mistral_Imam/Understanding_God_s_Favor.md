@@ -27,7 +27,7 @@ In Islamic tradition, Jesus (PBUH) demonstrated favor with God by following divi
 These verses reflect Jesus' emphasis on compassion, service, and obedience to God as ways of demonstrating favor with both God and humanity in a Christian context. Muslims see these teachings as further evidence of Prophet 'Īsā's greatness and exemplary character for all people.
 
 ## Average Grade
-55.0
+56.875
 
 ## Grades
  * [50.0](./Understanding_God_s_Favor_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ These verses reflect Jesus' emphasis on compassion, service, and obedience to Go
  * [40.0](./Understanding_God_s_Favor_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_God_s_Favor_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./Understanding_God_s_Favor_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_God_s_Favor_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Understanding_God_s_Favor_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_God_s_Favor.md)

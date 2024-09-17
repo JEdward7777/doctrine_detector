@@ -28,7 +28,7 @@ Becoming wise through listening to God involves several key aspects:
 In summary, listening to God is the foundation for becoming wise. By seeking to know Him, understand His ways, develop discernment, and grow in spiritual maturity, we can tap into the divine wisdom that flows from above (James 1:5). May we cherish this gift of wisdom and continue to seek it from our Heavenly Father!
 
 ## Average Grade
-92.0
+92.75
 
 ## Grades
  * [95.0](./Obedience_and_Wisdom_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,5 +37,7 @@ In summary, listening to God is the foundation for becoming wise. By seeking to 
  * [95.0](./Obedience_and_Wisdom_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Obedience_and_Wisdom_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Obedience_and_Wisdom_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [95.0](./Obedience_and_Wisdom_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Obedience_and_Wisdom_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Obedience_and_Wisdom.md)

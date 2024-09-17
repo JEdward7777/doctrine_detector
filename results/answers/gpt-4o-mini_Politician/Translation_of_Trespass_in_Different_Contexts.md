@@ -33,7 +33,7 @@ Translating 'trespass' as 'sin' or 'breaking the rule' in the context of interpe
 In conclusion, careful consideration of language in these discussions is crucial. Striking a balance between recognizing the spiritual and moral gravity of interpersonal violations while fostering an environment of understanding and inclusivity will be essential for healthy community dynamics. It is vital to engage with community members to ascertain their preferences and sensitivities, ensuring that our language aligns with shared values and promotes healing and reconciliation.
 
 ## Average Grade
-89.16666666666667
+88.75
 
 ## Grades
  * [90.0](./Translation_of_Trespass_in_Different_Contexts_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -42,5 +42,7 @@ In conclusion, careful consideration of language in these discussions is crucial
  * [85.0](./Translation_of_Trespass_in_Different_Contexts_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Translation_of_Trespass_in_Different_Contexts_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Translation_of_Trespass_in_Different_Contexts_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Translation_of_Trespass_in_Different_Contexts_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Translation_of_Trespass_in_Different_Contexts_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Translation_of_Trespass_in_Different_Contexts.md)

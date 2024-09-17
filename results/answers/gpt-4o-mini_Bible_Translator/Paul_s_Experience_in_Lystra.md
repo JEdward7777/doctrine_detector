@@ -31,7 +31,7 @@ The account of Paul’s stoning in Lystra, found in Acts 14:19-20, provides seve
 These lessons collectively encourage believers to embrace perseverance in their own faith journeys and to remain faithful to their calling, even amidst trials and tribulations.
 
 ## Average Grade
-93.66666666666667
+92.75
 
 ## Grades
  * [95.0](./Paul_s_Experience_in_Lystra_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -40,5 +40,7 @@ These lessons collectively encourage believers to embrace perseverance in their 
  * [95.0](./Paul_s_Experience_in_Lystra_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Paul_s_Experience_in_Lystra_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Paul_s_Experience_in_Lystra_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Paul_s_Experience_in_Lystra_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Paul_s_Experience_in_Lystra_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Paul_s_Experience_in_Lystra.md)

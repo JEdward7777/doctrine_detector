@@ -19,7 +19,7 @@ This concept can be found in several passages across different books of the New 
 The Last Day is often associated with the Second Coming of Christ and includes a series of events such as the rapture (the catching away of faithful believers), the seven-year tribulation period (a time of great suffering), and the millennium (a thousand years of peace). The exact details, including the precise timing, can be subject to interpretation.
 
 ## Average Grade
-75.83333333333333
+78.125
 
 ## Grades
  * [80.0](./Interpretation_of__The_Last_Day__grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ The Last Day is often associated with the Second Coming of Christ and includes a
  * [85.0](./Interpretation_of__The_Last_Day__grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Interpretation_of__The_Last_Day__grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Interpretation_of__The_Last_Day__grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Interpretation_of__The_Last_Day__grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Interpretation_of__The_Last_Day__grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Interpretation_of__The_Last_Day_.md)

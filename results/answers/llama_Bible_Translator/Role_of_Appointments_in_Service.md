@@ -37,7 +37,7 @@ In summary, as Christians called to fulfill our appointed roles within the Churc
 May our roles within the Church be marked by a deepening dependence on Christ, a growing understanding of His character, and a commitment to serving Him and others with joy!
 
 ## Average Grade
-94.16666666666667
+93.125
 
 ## Grades
  * [95.0](./Role_of_Appointments_in_Service_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -46,5 +46,7 @@ May our roles within the Church be marked by a deepening dependence on Christ, a
  * [95.0](./Role_of_Appointments_in_Service_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Role_of_Appointments_in_Service_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Role_of_Appointments_in_Service_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [95.0](./Role_of_Appointments_in_Service_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Role_of_Appointments_in_Service_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Role_of_Appointments_in_Service.md)

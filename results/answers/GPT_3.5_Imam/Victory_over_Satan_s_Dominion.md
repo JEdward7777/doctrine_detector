@@ -17,7 +17,7 @@ In Islam, we believe that Jesus (peace be upon him) was not crucified, but inste
 Therefore, in the Islamic belief, there is no significance of Jesus' death on the cross regarding Satan's dominion because he was not crucified in the first place. Allah protected Jesus from the harms of his enemies and raised him up to the heavens.
 
 ## Average Grade
-26.666666666666668
+31.25
 
 ## Grades
  * [20.0](./Victory_over_Satan_s_Dominion_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -26,5 +26,7 @@ Therefore, in the Islamic belief, there is no significance of Jesus' death on th
  * [30.0](./Victory_over_Satan_s_Dominion_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Victory_over_Satan_s_Dominion_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [30.0](./Victory_over_Satan_s_Dominion_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [40.0](./Victory_over_Satan_s_Dominion_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Victory_over_Satan_s_Dominion_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Victory_over_Satan_s_Dominion.md)

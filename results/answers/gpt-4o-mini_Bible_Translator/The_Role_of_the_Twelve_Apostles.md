@@ -31,7 +31,7 @@ The twelve apostles hold a significant place among Jesus' disciples for several 
 In summary, the apostles' significance lies in their unique role as chosen followers of Christ, their foundational contributions to the early church, the witness they provided to Jesus' life and works, and the continuity they represent in God's plan for humanity.
 
 ## Average Grade
-92.5
+91.875
 
 ## Grades
  * [95.0](./The_Role_of_the_Twelve_Apostles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -40,5 +40,7 @@ In summary, the apostles' significance lies in their unique role as chosen follo
  * [95.0](./The_Role_of_the_Twelve_Apostles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./The_Role_of_the_Twelve_Apostles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./The_Role_of_the_Twelve_Apostles_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./The_Role_of_the_Twelve_Apostles_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./The_Role_of_the_Twelve_Apostles_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/The_Role_of_the_Twelve_Apostles.md)

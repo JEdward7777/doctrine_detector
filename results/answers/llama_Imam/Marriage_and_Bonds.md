@@ -33,7 +33,7 @@ In terms of how couples should view their commitment to each other, Islam emphas
 In conclusion, while I may not be able to provide a Christian perspective on the bond of marriage, I hope this brief overview of Islamic teachings on marriage has been helpful. As an Imam, my role is to guide and counsel Muslims on matters related to faith and practice. If you have any further questions or concerns, please feel free to ask.
 
 ## Average Grade
-50.0
+55.625
 
 ## Grades
  * [60.0](./Marriage_and_Bonds_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -42,5 +42,7 @@ In conclusion, while I may not be able to provide a Christian perspective on the
  * [20.0](./Marriage_and_Bonds_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Marriage_and_Bonds_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Marriage_and_Bonds_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Marriage_and_Bonds_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Marriage_and_Bonds_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Marriage_and_Bonds.md)

@@ -29,7 +29,7 @@ Here are a few examples from the Bible that illustrate the concept of mercy:
 While these examples are drawn from Christianity, the overarching theme of mercy resonates deeply within the Quran as well. In Islam, Allah is described as "Ar-Rahman" and "Ar-Rahim," the Most Merciful and the Most Compassionate, showcasing the importance of mercy in our faith.
 
 ## Average Grade
-80.0
+78.125
 
 ## Grades
  * [85.0](./Biblical_Examples_of_Mercy_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ While these examples are drawn from Christianity, the overarching theme of mercy
  * [85.0](./Biblical_Examples_of_Mercy_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Biblical_Examples_of_Mercy_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Biblical_Examples_of_Mercy_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Biblical_Examples_of_Mercy_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Biblical_Examples_of_Mercy_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Biblical_Examples_of_Mercy.md)

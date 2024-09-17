@@ -21,7 +21,7 @@ The key aspects of this process are sincerity in repentance, understanding and a
 In conclusion, justification in an Islamic context entails seeking and being granted God's forgiveness for one's sins through sincere repentance and striving to avoid repeating the sin. It is a reminder of God's infinite mercy and compassion for His creation.
 
 ## Average Grade
-36.666666666666664
+42.5
 
 ## Grades
  * [50.0](./God_s_Justification_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ In conclusion, justification in an Islamic context entails seeking and being gra
  * [20.0](./God_s_Justification_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./God_s_Justification_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [30.0](./God_s_Justification_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [70.0](./God_s_Justification_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./God_s_Justification_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/God_s_Justification.md)

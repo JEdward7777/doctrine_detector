@@ -21,7 +21,7 @@ From a scholarly perspective, the term reflects a relational dynamic between the
 Additionally, interpreting "zeal" in a broader cultural context allows for exploration of themes such as loyalty, devotion, and communal identity, which are significant in many cultures. Thus, "zeal of the Lord" can also be seen as a call for individuals and communities to embody similar qualities of commitment and care within their own relationships and responsibilities.
 
 ## Average Grade
-86.66666666666667
+85.625
 
 ## Grades
  * [90.0](./God_s_Zeal_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ Additionally, interpreting "zeal" in a broader cultural context allows for explo
  * [90.0](./God_s_Zeal_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./God_s_Zeal_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./God_s_Zeal_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./God_s_Zeal_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [80.0](./God_s_Zeal_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/God_s_Zeal.md)

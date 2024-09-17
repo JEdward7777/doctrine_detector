@@ -31,7 +31,7 @@ True faith in Jesus is deeply personal and varies among those who profess it. Ho
 7. Gratitude: People who have strong faith recognize and express gratitude for the blessings in their lives, recognizing that everything they have comes from God (James 1:17). This leads to an attitude of thankfulness and contentment.
 
 ## Average Grade
-85.83333333333333
+83.125
 
 ## Grades
  * [90.0](./Faith_s_Impact_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -40,5 +40,7 @@ True faith in Jesus is deeply personal and varies among those who profess it. Ho
  * [95.0](./Faith_s_Impact_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Faith_s_Impact_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Faith_s_Impact_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Faith_s_Impact_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [65.0](./Faith_s_Impact_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Faith_s_Impact.md)

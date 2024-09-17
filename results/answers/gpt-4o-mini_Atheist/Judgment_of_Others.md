@@ -19,7 +19,7 @@ The underlying message is that self-awareness and humility are crucial when addr
 In a culturally retributive context, this teaching encourages a shift away from punitive attitudes towards others and emphasizes a more empathetic and constructive response to faults and failures. It fosters a community in which individuals support each other in growth and improvement rather than engaging in blame or harsh criticism.
 
 ## Average Grade
-90.0
+86.875
 
 ## Grades
  * [90.0](./Judgment_of_Others_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ In a culturally retributive context, this teaching encourages a shift away from 
  * [85.0](./Judgment_of_Others_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Judgment_of_Others_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Judgment_of_Others_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Judgment_of_Others_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Judgment_of_Others_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Judgment_of_Others.md)

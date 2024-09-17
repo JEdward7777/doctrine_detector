@@ -25,7 +25,7 @@ According to the New Testament, Jesus' approach to healing demon-possessed indiv
 In conclusion, while I do not subscribe to supernatural explanations for the healing of demon-possessed individuals, an analysis of Jesus' approach reveals a complex interplay between spiritual confrontation, divine language, emphasis on faith, physical contact, and association with the marginalized. These elements may have been intended to demonstrate Jesus' authority, compassion, and connection to those he healed.
 
 ## Average Grade
-66.66666666666667
+68.75
 
 ## Grades
  * [70.0](./Healing_Through_Jesus_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ In conclusion, while I do not subscribe to supernatural explanations for the hea
  * [60.0](./Healing_Through_Jesus_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Healing_Through_Jesus_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./Healing_Through_Jesus_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Healing_Through_Jesus_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [65.0](./Healing_Through_Jesus_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Healing_Through_Jesus.md)

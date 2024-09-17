@@ -29,7 +29,7 @@ In the New Testament:
 In summary, the term "Holy One" in the Old and New Testaments primarily refers to Yahweh, God's character, or Jesus Christ, emphasizing their unique relationship with God the Father. As a Muslim Imam, I must reiterate that our understanding of divine holiness is rooted in the Quranic concept of Tawhid (the Oneness of God), where Allah (God) is considered the sole Source of all goodness and purity.
 
 ## Average Grade
-58.333333333333336
+62.875
 
 ## Grades
  * [70.0](./Usage_in_Scripture_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ In summary, the term "Holy One" in the Old and New Testaments primarily refers t
  * [50.0](./Usage_in_Scripture_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Usage_in_Scripture_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Usage_in_Scripture_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Usage_in_Scripture_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [68.0](./Usage_in_Scripture_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Usage_in_Scripture.md)

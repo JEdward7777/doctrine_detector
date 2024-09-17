@@ -21,7 +21,7 @@ Mount Zion was likely a fortified hilltop settlement that played a vital role in
 It is important to note that there is ongoing debate and scholarly interpretation regarding the precise historical significance of Mount Zion in relation to King David. Archaeological discoveries and historical records may provide additional insights and context to this topic over time.
 
 ## Average Grade
-79.16666666666667
+78.125
 
 ## Grades
  * [75.0](./Zion_s_Historical_Significance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ It is important to note that there is ongoing debate and scholarly interpretatio
  * [80.0](./Zion_s_Historical_Significance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Zion_s_Historical_Significance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Zion_s_Historical_Significance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Zion_s_Historical_Significance_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [65.0](./Zion_s_Historical_Significance_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Zion_s_Historical_Significance.md)

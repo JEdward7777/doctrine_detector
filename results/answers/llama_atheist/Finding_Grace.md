@@ -25,7 +25,7 @@ In a secular sense, finding "grace" might refer to the experience of feeling acc
 Ultimately, the phrase "find grace in the eyes of God" should be approached with critical analysis and understood as a metaphorical expression that can be reinterpreted to convey meaningful concepts and emotions.
 
 ## Average Grade
-62.5
+63.75
 
 ## Grades
  * [40.0](./Finding_Grace_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ Ultimately, the phrase "find grace in the eyes of God" should be approached with
  * [50.0](./Finding_Grace_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Finding_Grace_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Finding_Grace_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Finding_Grace_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Finding_Grace_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Finding_Grace.md)

@@ -27,7 +27,7 @@ Understanding community and teaching as integral aspects of church life as model
 In summary, while the teachings of the apostles are rooted in religious context, their actions provide valuable insights into leadership, effective communication, community building, adaptability, and persistence – lessons that can be applied in contemporary secular societies to foster more harmonious and productive communities.
 
 ## Average Grade
-80.83333333333333
+76.25
 
 ## Grades
  * [90.0](./Role_of_Apostles_in_Early_Church_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ In summary, while the teachings of the apostles are rooted in religious context,
  * [85.0](./Role_of_Apostles_in_Early_Church_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Role_of_Apostles_in_Early_Church_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Role_of_Apostles_in_Early_Church_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Role_of_Apostles_in_Early_Church_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Role_of_Apostles_in_Early_Church_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Role_of_Apostles_in_Early_Church.md)

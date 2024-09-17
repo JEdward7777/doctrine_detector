@@ -17,7 +17,7 @@ In Islam, there is no specific concept of a "most holy place" with similar restr
 The restriction on who can enter the Kaaba is important to maintain the sanctity and reverence of the site, ensuring that it is preserved and respected by those who enter. This helps to uphold the spiritual significance of the Kaaba and the pilgrimage experience for Muslims around the world.
 
 ## Average Grade
-77.5
+73.125
 
 ## Grades
  * [80.0](./Access_to_the_Most_Holy_Place_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -26,5 +26,7 @@ The restriction on who can enter the Kaaba is important to maintain the sanctity
  * [80.0](./Access_to_the_Most_Holy_Place_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Access_to_the_Most_Holy_Place_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Access_to_the_Most_Holy_Place_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Access_to_the_Most_Holy_Place_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Access_to_the_Most_Holy_Place_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Access_to_the_Most_Holy_Place.md)

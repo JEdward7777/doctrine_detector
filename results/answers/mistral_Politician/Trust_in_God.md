@@ -21,7 +21,7 @@ On the other hand, mere wishing is typically a fleeting thought or desire, lacki
 It's essential to remember that individuals may interpret these concepts differently based on their personal beliefs and experiences. Encouraging open dialogue about faith, hope, and personal growth is an important part of fostering understanding and unity in our diverse society.
 
 ## Average Grade
-90.83333333333333
+86.875
 
 ## Grades
  * [95.0](./Trust_in_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ It's essential to remember that individuals may interpret these concepts differe
  * [95.0](./Trust_in_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Trust_in_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Trust_in_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Trust_in_God_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [65.0](./Trust_in_God_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Trust_in_God.md)

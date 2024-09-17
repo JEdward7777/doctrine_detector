@@ -29,7 +29,7 @@ It is essential to note that these claims are rooted in religious dogma and not 
 Ultimately, as a scholar committed to evidence-based inquiry, I believe it is crucial to approach this topic with critical thinking, avoiding unwarranted assumptions or uncritical acceptance of religious dogma. By doing so, we can better understand the historical and cultural contexts that gave rise to these practices, while also acknowledging their limitations in terms of providing empirical support for the claims they make about God's service.
 
 ## Average Grade
-66.66666666666667
+68.125
 
 ## Grades
  * [75.0](./Consecration_and_Service_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ Ultimately, as a scholar committed to evidence-based inquiry, I believe it is cr
  * [70.0](./Consecration_and_Service_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Consecration_and_Service_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Consecration_and_Service_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Consecration_and_Service_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Consecration_and_Service_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Consecration_and_Service.md)

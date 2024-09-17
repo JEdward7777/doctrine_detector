@@ -27,7 +27,7 @@ In modern times, the phrase "Most High" is often used in Christian scripture (e.
 In conclusion, the title "Most High" signifies a sense of absolute authority, power, and sovereignty over all creation, reflecting an ancient Near Eastern cosmology where gods and goddesses were believed to reside in a celestial realm above the earth. While this concept has been influential in shaping religious and cultural narratives throughout history, it's crucial to consider its historical and cultural context when interpreting its meaning today.
 
 ## Average Grade
-71.66666666666667
+73.75
 
 ## Grades
  * [60.0](./Understanding_God_s_Authority_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ In conclusion, the title "Most High" signifies a sense of absolute authority, po
  * [70.0](./Understanding_God_s_Authority_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_God_s_Authority_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Understanding_God_s_Authority_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_God_s_Authority_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [75.0](./Understanding_God_s_Authority_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_God_s_Authority.md)

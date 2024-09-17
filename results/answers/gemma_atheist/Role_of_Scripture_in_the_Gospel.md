@@ -54,7 +54,7 @@ While I approach the Bible from an atheistic perspective, I acknowledge its prof
 The Bible can offer valuable lessons about the responsible use of Scripture in sharing the Gospel message. By acknowledging cultural contexts, selectively interpreting texts, and emphasizing shared values, we can ensure that the Gospel is presented in a culturally respectful and meaningful way.
 
 ## Average Grade
-59.166666666666664
+60.0
 
 ## Grades
  * [70.0](./Role_of_Scripture_in_the_Gospel_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -63,5 +63,7 @@ The Bible can offer valuable lessons about the responsible use of Scripture in s
  * [65.0](./Role_of_Scripture_in_the_Gospel_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Role_of_Scripture_in_the_Gospel_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [30.0](./Role_of_Scripture_in_the_Gospel_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Role_of_Scripture_in_the_Gospel_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [45.0](./Role_of_Scripture_in_the_Gospel_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Role_of_Scripture_in_the_Gospel.md)

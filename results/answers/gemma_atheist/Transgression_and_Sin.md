@@ -44,7 +44,7 @@ While traditional theological frameworks readily invoke concepts like sin and di
 By acknowledging the cultural relativity of concepts like sin and disobedience, we can foster greater understanding and inclusivity. This approach encourages open-mindedness, critical reflection, and respectful dialogue across diverse perspectives.
 
 ## Average Grade
-38.333333333333336
+44.375
 
 ## Grades
  * [30.0](./Transgression_and_Sin_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -53,5 +53,7 @@ By acknowledging the cultural relativity of concepts like sin and disobedience, 
  * [50.0](./Transgression_and_Sin_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Transgression_and_Sin_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./Transgression_and_Sin_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Transgression_and_Sin_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Transgression_and_Sin_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Transgression_and_Sin.md)

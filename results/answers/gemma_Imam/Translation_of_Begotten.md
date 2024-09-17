@@ -41,7 +41,7 @@ The term 'begotten' in Islamic theology can be understood in the context of spir
 The term 'begotten' in Islamic theology emphasizes the transformative power of spiritual rebirth. It is a process of renewal and regeneration that leads to a new creation, where the essence remains the same but the manifestation is fresh and vibrant.
 
 ## Average Grade
-60.0
+60.625
 
 ## Grades
  * [70.0](./Translation_of_Begotten_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -50,5 +50,7 @@ The term 'begotten' in Islamic theology emphasizes the transformative power of s
  * [70.0](./Translation_of_Begotten_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Translation_of_Begotten_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./Translation_of_Begotten_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Translation_of_Begotten_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Translation_of_Begotten_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Translation_of_Begotten.md)

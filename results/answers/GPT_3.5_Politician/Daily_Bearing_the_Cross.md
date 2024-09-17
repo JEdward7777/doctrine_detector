@@ -15,7 +15,7 @@ This emphasizes the call to discipleship and the personal cost of following Chri
 Thank you for the question. "Taking up your cross" in Luke 9:23 is a metaphor commonly interpreted as embracing the challenges and responsibilities that come with following one's beliefs or principles, even when it is difficult or demanding. It is often seen as a call to persevere in the face of adversity and to remain committed to one's faith or values. Different interpretations may exist, but it is generally understood as a message of dedication and resilience.
 
 ## Average Grade
-90.0
+84.375
 
 ## Grades
  * [90.0](./Daily_Bearing_the_Cross_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ Thank you for the question. "Taking up your cross" in Luke 9:23 is a metaphor co
  * [90.0](./Daily_Bearing_the_Cross_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Daily_Bearing_the_Cross_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Daily_Bearing_the_Cross_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Daily_Bearing_the_Cross_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Daily_Bearing_the_Cross_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Daily_Bearing_the_Cross.md)

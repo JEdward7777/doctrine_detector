@@ -19,7 +19,7 @@ Saints in this context are not necessarily those who have performed miracles or 
 For Muslims, understanding this term can offer insights into the commonalities and differences between Christian and Islamic views of sanctity and righteousness. In Islam, every believer is invited to strive towards righteousness and to be among the "mu'min," or true believers, while also acknowledging that all humans can fall short. Both traditions value the importance of community, faith, and striving towards God’s commands.
 
 ## Average Grade
-81.66666666666667
+81.25
 
 ## Grades
  * [90.0](./Definition_of_Saints_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ For Muslims, understanding this term can offer insights into the commonalities a
  * [90.0](./Definition_of_Saints_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Definition_of_Saints_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Definition_of_Saints_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Definition_of_Saints_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [75.0](./Definition_of_Saints_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Definition_of_Saints.md)

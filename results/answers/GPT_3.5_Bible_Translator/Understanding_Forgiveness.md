@@ -15,7 +15,7 @@ Understanding the Christian concept of forgiveness.
 According to Christian teaching, to forgive someone means to choose to release feelings of resentment or anger towards a person who has wronged you, and to offer them mercy and grace instead. The concept of forgiveness is central to Christian belief, as Jesus Christ taught his followers to forgive others as they have been forgiven by God. Forgiveness involves letting go of the desire for revenge and choosing to show love and compassion to the person who has hurt you. It does not necessarily mean forgetting what happened or excusing the wrongdoing, but rather choosing to move forward and heal the relationship through grace and reconciliation. Ultimately, forgiveness is a reflection of God's forgiveness towards us and is essential for experiencing healing and restoration in personal relationships.
 
 ## Average Grade
-90.0
+89.375
 
 ## Grades
  * [95.0](./Understanding_Forgiveness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ According to Christian teaching, to forgive someone means to choose to release f
  * [95.0](./Understanding_Forgiveness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Understanding_Forgiveness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Understanding_Forgiveness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Forgiveness_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Understanding_Forgiveness_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Forgiveness.md)

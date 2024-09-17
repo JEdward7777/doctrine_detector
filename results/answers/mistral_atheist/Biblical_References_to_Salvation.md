@@ -21,7 +21,7 @@ In 2 Peter 2:20, it says, "If they have escaped the defilements of the world by 
 In both passages, the nature of Christ as Savior is emphasized, with an emphasis on faith as a requirement for salvation and the role of Christ in maintaining that salvation. However, interpretations can vary widely among different scholars and religious communities.
 
 ## Average Grade
-82.5
+81.25
 
 ## Grades
  * [85.0](./Biblical_References_to_Salvation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ In both passages, the nature of Christ as Savior is emphasized, with an emphasis
  * [80.0](./Biblical_References_to_Salvation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Biblical_References_to_Salvation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Biblical_References_to_Salvation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Biblical_References_to_Salvation_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Biblical_References_to_Salvation_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Biblical_References_to_Salvation.md)

@@ -27,7 +27,7 @@ In my opinion, Christians can identify corrupt influences by recognizing pattern
 In conclusion, identifying corrupt influences requires a critical examination of the world around us. Christians can start by recognizing patterns of exploitation, oppression, and injustice and working towards creating a more equitable and just society.
 
 ## Average Grade
-62.5
+63.125
 
 ## Grades
  * [50.0](./Corruption_of_the_World_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ In conclusion, identifying corrupt influences requires a critical examination of
  * [50.0](./Corruption_of_the_World_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Corruption_of_the_World_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [65.0](./Corruption_of_the_World_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [75.0](./Corruption_of_the_World_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [55.0](./Corruption_of_the_World_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Corruption_of_the_World.md)

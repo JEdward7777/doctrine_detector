@@ -21,7 +21,7 @@ On the other hand, when we refer to believers as "sons of God," it's not meant t
 In essence, while both uses of "sons of God" share a sense of divine connection, the former emphasizes Jesus' inherent, eternal divinity, whereas the latter signifies our spiritual identity and inheritance as believers. *smiling thoughtfully*
 
 ## Average Grade
-91.66666666666667
+91.25
 
 ## Grades
  * [95.0](./Son_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ In essence, while both uses of "sons of God" share a sense of divine connection,
  * [90.0](./Son_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Son_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [95.0](./Son_of_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Son_of_God_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Son_of_God_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Son_of_God.md)

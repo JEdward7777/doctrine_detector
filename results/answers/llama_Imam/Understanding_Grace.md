@@ -29,7 +29,7 @@ In Islamic theology, Allah's mercy and forgiveness are seen as inherent aspects 
 In conclusion, while the Christian concept of "grace" may be foreign to Islamic thought, it reflects the importance of divine forgiveness and mercy in human salvation. As an Imam, I recognize the value of these concepts within the broader framework of Islamic teachings, which emphasize Allah's infinite mercy and compassion for humanity.
 
 ## Average Grade
-75.83333333333333
+76.875
 
 ## Grades
  * [75.0](./Understanding_Grace_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ In conclusion, while the Christian concept of "grace" may be foreign to Islamic 
  * [70.0](./Understanding_Grace_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Grace_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Understanding_Grace_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Grace_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [75.0](./Understanding_Grace_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Grace.md)

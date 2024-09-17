@@ -25,7 +25,7 @@ In the New Testament, Jesus' teachings emphasize forgiveness and love for one an
 Overall, the Bible illustrates the consequences of guilt and sin through various stories, laws, and teachings that emphasize the separation from God, negative impacts on the community, historical events, warnings, and potential eternal consequences. It's important to note that interpretations can vary based on religious and cultural contexts.
 
 ## Average Grade
-89.16666666666667
+88.75
 
 ## Grades
  * [95.0](./Biblical_Perspective_on_Guilt_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ Overall, the Bible illustrates the consequences of guilt and sin through various
  * [95.0](./Biblical_Perspective_on_Guilt_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_Perspective_on_Guilt_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Biblical_Perspective_on_Guilt_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Biblical_Perspective_on_Guilt_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Biblical_Perspective_on_Guilt_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Biblical_Perspective_on_Guilt.md)

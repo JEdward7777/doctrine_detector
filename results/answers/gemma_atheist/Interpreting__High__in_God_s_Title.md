@@ -49,7 +49,7 @@ As an atheistic scholar, I approach the title "Most High" with cultural sensitiv
 The interpretation of "high" in the title "Most High" is multifaceted and subject to cultural and historical considerations. While it may resonate with certain cultural and spiritual interpretations of God, it is important to approach such terminology with sensitivity and open-mindedness.
 
 ## Average Grade
-60.833333333333336
+61.25
 
 ## Grades
  * [60.0](./Interpreting__High__in_God_s_Title_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -58,5 +58,7 @@ The interpretation of "high" in the title "Most High" is multifaceted and subjec
  * [60.0](./Interpreting__High__in_God_s_Title_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Interpreting__High__in_God_s_Title_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Interpreting__High__in_God_s_Title_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Interpreting__High__in_God_s_Title_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Interpreting__High__in_God_s_Title_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Interpreting__High__in_God_s_Title.md)

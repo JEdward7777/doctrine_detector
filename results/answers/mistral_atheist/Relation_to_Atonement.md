@@ -19,7 +19,7 @@ To clarify the differences and similarities between these two important theologi
 'Propitiation,' on the other hand, is a specific aspect of atonement. It refers to the act of appeasing or placating a deity, typically through a sacrifice or offering. By making such an offering, individuals hope to turn away the wrath or displeasure of the deity and regain their favor. In essence, propitiation is a means by which atonement may be achieved within certain religious contexts.
 
 ## Average Grade
-85.83333333333333
+83.75
 
 ## Grades
  * [90.0](./Relation_to_Atonement_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ To clarify the differences and similarities between these two important theologi
  * [90.0](./Relation_to_Atonement_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Relation_to_Atonement_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Relation_to_Atonement_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Relation_to_Atonement_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Relation_to_Atonement_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Relation_to_Atonement.md)

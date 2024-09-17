@@ -29,7 +29,7 @@ The concept of the Holy Spirit empowering believers after they are born again is
 In summary, the Holy Spirit is viewed as a central figure in the life of a believer after they are born again, providing guidance, empowerment, and a transformative presence that shapes their spiritual journey and involvement in the world.
 
 ## Average Grade
-92.83333333333333
+92.125
 
 ## Grades
  * [95.0](./Role_of_the_Holy_Spirit_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ In summary, the Holy Spirit is viewed as a central figure in the life of a belie
  * [95.0](./Role_of_the_Holy_Spirit_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Role_of_the_Holy_Spirit_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Role_of_the_Holy_Spirit_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Role_of_the_Holy_Spirit_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Role_of_the_Holy_Spirit_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Role_of_the_Holy_Spirit.md)

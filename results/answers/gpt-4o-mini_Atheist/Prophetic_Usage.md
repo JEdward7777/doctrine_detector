@@ -25,7 +25,7 @@ The term "Daughter of Zion" is used in various parts of the Bible, particularly 
 Overall, the utilization of "Daughter of Zion" in biblical prophecies is rich with layers of meaning, encapsulating themes of identity, suffering, hope, and restoration for a people profoundly connected to their land and their God.
 
 ## Average Grade
-89.16666666666667
+88.75
 
 ## Grades
  * [95.0](./Prophetic_Usage_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ Overall, the utilization of "Daughter of Zion" in biblical prophecies is rich wi
  * [95.0](./Prophetic_Usage_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Prophetic_Usage_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Prophetic_Usage_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Prophetic_Usage_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Prophetic_Usage_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Prophetic_Usage.md)

@@ -19,7 +19,7 @@ When translating "El Shaddai" into other languages, translators aim to convey th
 Ultimately, the translation of "El Shaddai" depends on the specific language and the theological understanding of the translators, but the goal is always to accurately convey the richness and depth of the original Hebrew term within the cultural context of the target language.
 
 ## Average Grade
-80.0
+81.875
 
 ## Grades
  * [85.0](./Translating_El_Shaddai_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ Ultimately, the translation of "El Shaddai" depends on the specific language and
  * [85.0](./Translating_El_Shaddai_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Translating_El_Shaddai_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Translating_El_Shaddai_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Translating_El_Shaddai_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Translating_El_Shaddai_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Translating_El_Shaddai.md)

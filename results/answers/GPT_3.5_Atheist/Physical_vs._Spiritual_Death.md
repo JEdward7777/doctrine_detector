@@ -19,7 +19,7 @@ While physical death is a natural and inevitable part of life, the idea of "peri
 Therefore, to differentiate between physical death and the spiritual meaning of "perish," one must consider the scientific understanding of mortality and the cultural or religious beliefs that shape the concept of spiritual consequences beyond physical demise. It is essential to approach these distinctions with critical thinking, acknowledging the diverse perspectives and interpretations that exist across different belief systems and worldviews.
 
 ## Average Grade
-74.16666666666667
+71.25
 
 ## Grades
  * [85.0](./Physical_vs._Spiritual_Death_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ Therefore, to differentiate between physical death and the spiritual meaning of 
  * [80.0](./Physical_vs._Spiritual_Death_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Physical_vs._Spiritual_Death_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Physical_vs._Spiritual_Death_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Physical_vs._Spiritual_Death_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Physical_vs._Spiritual_Death_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Physical_vs._Spiritual_Death.md)

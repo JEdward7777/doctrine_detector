@@ -29,7 +29,7 @@ An evangelist is a specific role within the Christian faith, distinguished prima
 In summary, while all Christians are called to share their faith, evangelists have a distinctive role that focuses on actively proclaiming the Gospel and encouraging others to enter into a relationship with Jesus Christ.
 
 ## Average Grade
-90.0
+89.375
 
 ## Grades
  * [95.0](./Gift_of_Evangelism_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ In summary, while all Christians are called to share their faith, evangelists ha
  * [90.0](./Gift_of_Evangelism_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Gift_of_Evangelism_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Gift_of_Evangelism_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Gift_of_Evangelism_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Gift_of_Evangelism_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Gift_of_Evangelism.md)

@@ -15,7 +15,7 @@ This emphasizes the call for Christians to witness their faith and share persona
 In the New Testament, witnesses play a crucial role in recounting the life and resurrection of Jesus. Their testimonies provide important insights into the events surrounding Jesus and help to legitimize the significance of his teachings and miracles. The various eyewitness accounts included in the Gospels help to establish the historical context of Jesus' ministry and highlight different perspectives on his life and teachings.
 
 ## Average Grade
-85.83333333333333
+85.625
 
 ## Grades
  * [85.0](./Role_of_Witnesses_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ In the New Testament, witnesses play a crucial role in recounting the life and r
  * [90.0](./Role_of_Witnesses_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Role_of_Witnesses_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Role_of_Witnesses_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Role_of_Witnesses_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Role_of_Witnesses_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Role_of_Witnesses.md)

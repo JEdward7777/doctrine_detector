@@ -25,7 +25,7 @@ Furthermore, as a politician, I believe it's crucial to acknowledge that religio
 In conclusion, while there may be some superficial parallels between trespassing and sin, it's essential to approach this topic with sensitivity, respect, and a deep understanding of the complexities involved. As we navigate these issues, let us strive for empathy, compassion, and open-mindedness, recognizing that all individuals have the right to their own beliefs and perspectives.
 
 ## Average Grade
-74.16666666666667
+74.375
 
 ## Grades
  * [85.0](./Understanding_Trespass_in_a_Christian_Context_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ In conclusion, while there may be some superficial parallels between trespassing
  * [80.0](./Understanding_Trespass_in_a_Christian_Context_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Trespass_in_a_Christian_Context_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Understanding_Trespass_in_a_Christian_Context_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Trespass_in_a_Christian_Context_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [65.0](./Understanding_Trespass_in_a_Christian_Context_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Trespass_in_a_Christian_Context.md)

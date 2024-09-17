@@ -15,7 +15,7 @@ Clarifying Jesus' role is essential for comprehending the Christian faith and th
 The Bible portrays Jesus as a central figure in Christian theology, with his role in salvation being described primarily as the sacrificial lamb who died for the sins of humanity. Christians believe that through his crucifixion and resurrection, Jesus atoned for the sins of believers, offering them redemption and the promise of eternal life. His teachings and example are also seen as guiding believers towards living morally upright lives and seeking forgiveness for their transgressions. Ultimately, Jesus is viewed as the bridge between humanity and God, offering believers a path to salvation through faith in him.
 
 ## Average Grade
-87.5
+86.25
 
 ## Grades
  * [90.0](./Role_of_Jesus_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ The Bible portrays Jesus as a central figure in Christian theology, with his rol
  * [85.0](./Role_of_Jesus_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Role_of_Jesus_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Role_of_Jesus_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Role_of_Jesus_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [80.0](./Role_of_Jesus_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Role_of_Jesus.md)

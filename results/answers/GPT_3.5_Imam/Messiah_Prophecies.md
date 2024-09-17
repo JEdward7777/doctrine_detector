@@ -27,7 +27,7 @@ Some of the prophecies about the Messiah in the Old Testament include:
 There are many more prophecies in the Old Testament that Christians believe Jesus fulfilled as the Messiah. Muslims also believe in the miraculous birth of Jesus and his prophethood, but do not see him as the literal fulfillment of these specific Old Testament prophecies about the Messiah.
 
 ## Average Grade
-88.33333333333333
+83.125
 
 ## Grades
  * [90.0](./Messiah_Prophecies_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ There are many more prophecies in the Old Testament that Christians believe Jesu
  * [90.0](./Messiah_Prophecies_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Messiah_Prophecies_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Messiah_Prophecies_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Messiah_Prophecies_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Messiah_Prophecies_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Messiah_Prophecies.md)

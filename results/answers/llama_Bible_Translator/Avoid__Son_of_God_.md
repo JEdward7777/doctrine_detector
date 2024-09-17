@@ -27,7 +27,7 @@ Instead, we can take a few steps to ensure that our translation accurately conve
 By taking these steps, we can ensure that our translation of "Son of God" honors the original biblical text while also being mindful of potential misunderstandings in polytheistic cultures.
 
 ## Average Grade
-94.16666666666667
+92.75
 
 ## Grades
  * [95.0](./Avoid__Son_of_God__grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ By taking these steps, we can ensure that our translation of "Son of God" honors
  * [95.0](./Avoid__Son_of_God__grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Avoid__Son_of_God__grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Avoid__Son_of_God__grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Avoid__Son_of_God__grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [92.0](./Avoid__Son_of_God__grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Avoid__Son_of_God_.md)

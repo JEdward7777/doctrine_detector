@@ -27,7 +27,7 @@ Therefore, when considering eunuchs serving in ancient royal courts, we can see 
 In conclusion, while Islam does not condone castration or eunuchry, we can analyze the role of eunuchs in ancient royal courts from an Islamic perspective. Their presence and service reflect God's plan for their unique circumstances, just as it is for every individual in society. Ultimately, our focus should be on cultivating our natural inclination towards good, as commanded by Allah, rather than seeking to alter or define human beings based on physical or social characteristics.
 
 ## Average Grade
-81.66666666666667
+79.375
 
 ## Grades
  * [85.0](./Role_of_Eunuchs_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ In conclusion, while Islam does not condone castration or eunuchry, we can analy
  * [85.0](./Role_of_Eunuchs_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Role_of_Eunuchs_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Role_of_Eunuchs_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Role_of_Eunuchs_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Role_of_Eunuchs_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Role_of_Eunuchs.md)

@@ -27,7 +27,7 @@ For instance, many cultures and faiths have their own stories about the power of
 So, to answer your question in a way that's sensitive to all beliefs, I believe the rainbow serves as a symbol of God's covenant with humanity because it represents our shared values of hope, resilience, and the pursuit of a better future. And who knows? Maybe one day we'll find common ground on this and many other issues. (laughs)
 
 ## Average Grade
-60.833333333333336
+61.25
 
 ## Grades
  * [60.0](./Sign_as_Covenant_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ So, to answer your question in a way that's sensitive to all beliefs, I believe 
  * [75.0](./Sign_as_Covenant_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Sign_as_Covenant_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [30.0](./Sign_as_Covenant_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Sign_as_Covenant_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Sign_as_Covenant_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Sign_as_Covenant.md)

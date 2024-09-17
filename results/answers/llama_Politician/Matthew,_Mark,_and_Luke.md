@@ -17,7 +17,7 @@ I'm happy to provide an answer that's inclusive and respectful to all individual
 The names of the twelve apostles of Jesus Christ can be found in three different books of the Bible. In the Gospel of Matthew, we find the list in chapter 10, verse 2-4, where it says: "These are the names of the twelve apostles: first, Simon (who was called Peter), then Andrew, James the son of Zebedee, John, Philip, Bartholomew, Thomas, Matthew the tax collector, James the son of Alphaeus, Simon the Zealot, and Judas Iscariot."
 
 ## Average Grade
-70.0
+72.5
 
 ## Grades
  * [80.0](./Matthew,_Mark,_and_Luke_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -26,5 +26,7 @@ The names of the twelve apostles of Jesus Christ can be found in three different
  * [70.0](./Matthew,_Mark,_and_Luke_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Matthew,_Mark,_and_Luke_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Matthew,_Mark,_and_Luke_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Matthew,_Mark,_and_Luke_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [75.0](./Matthew,_Mark,_and_Luke_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Matthew,_Mark,_and_Luke.md)

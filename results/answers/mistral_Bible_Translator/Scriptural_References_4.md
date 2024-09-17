@@ -21,7 +21,7 @@ Lastly, Hebrews 12:14-17 does not explicitly reference a "birthright," but inste
 In summary, references to birthright in the Bible demonstrate its significance in familial, tribal, and spiritual contexts. The tribal birthright in 1 Chronicles 5:1 is a matter of familial heritage, while the birthright in Genesis 25:34 carries both familial and spiritual implications. Hebrews 12:14-17 teaches us that spiritual birthright is attainable through faith and obedience to God.
 
 ## Average Grade
-86.66666666666667
+85.625
 
 ## Grades
  * [85.0](./Scriptural_References_4_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ In summary, references to birthright in the Bible demonstrate its significance i
  * [90.0](./Scriptural_References_4_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Scriptural_References_4_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Scriptural_References_4_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Scriptural_References_4_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [80.0](./Scriptural_References_4_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Scriptural_References_4.md)

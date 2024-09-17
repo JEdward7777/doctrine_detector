@@ -15,7 +15,7 @@ Recognizing the source of goodness in our actions and beliefs.
 In this statement, Jesus is affirming the absolute goodness and perfection of God. He is emphasizing the unique and unparalleled goodness of God, highlighting that human beings, including himself as a human being, are not at the same level of perfection and goodness as God. Jesus, as a messenger of God in Islamic belief, is recognizing and emphasizing the exclusive divine attribute of goodness that belongs only to God. This statement reflects the Islamic belief in the transcendence and perfection of God's attributes, including His goodness.
 
 ## Average Grade
-59.166666666666664
+61.25
 
 ## Grades
  * [50.0](./God_as_Good_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ In this statement, Jesus is affirming the absolute goodness and perfection of Go
  * [50.0](./God_as_Good_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./God_as_Good_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./God_as_Good_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./God_as_Good_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./God_as_Good_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/God_as_Good.md)

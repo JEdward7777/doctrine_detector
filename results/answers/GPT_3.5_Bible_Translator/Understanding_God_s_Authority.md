@@ -15,7 +15,7 @@ Believers may struggle to comprehend the implications of God's sovereignty in th
 The title "Most High" signifies the supreme authority and sovereignty of God over all creation. In the Bible, God is often referred to as the "Most High" to emphasize His unrivaled power, majesty, and dominion over all things. As believers, recognizing God as the Most High means acknowledging His absolute authority and submitting ourselves to His will and guidance in our lives. It reminds us that God is above all earthly powers and that His plans and purposes ultimately prevail. Embracing God as the Most High in our lives calls us to trust in His wisdom and rely on His strength, knowing that He is in control of all things and working all things together for His good purposes.
 
 ## Average Grade
-89.16666666666667
+88.75
 
 ## Grades
  * [90.0](./Understanding_God_s_Authority_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ The title "Most High" signifies the supreme authority and sovereignty of God ove
  * [90.0](./Understanding_God_s_Authority_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_God_s_Authority_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Understanding_God_s_Authority_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_God_s_Authority_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Understanding_God_s_Authority_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_God_s_Authority.md)

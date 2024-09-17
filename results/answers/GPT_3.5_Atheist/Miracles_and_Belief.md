@@ -19,7 +19,7 @@ For believers, miracles serve as confirmation of their faith and reinforce their
 However, it is important to note that the interpretation of miracles as signs of God's existence is subjective and influenced by cultural and religious beliefs. Skeptics may offer alternative explanations for purported miracles, such as scientific reasoning or psychological factors. As an atheistic scholar, I approach the concept of miracles with skepticism and view them as phenomena that require critical examination and analysis before attributing them to supernatural causes.
 
 ## Average Grade
-70.83333333333333
+70.625
 
 ## Grades
  * [75.0](./Miracles_and_Belief_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ However, it is important to note that the interpretation of miracles as signs of
  * [75.0](./Miracles_and_Belief_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Miracles_and_Belief_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Miracles_and_Belief_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Miracles_and_Belief_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Miracles_and_Belief_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Miracles_and_Belief.md)

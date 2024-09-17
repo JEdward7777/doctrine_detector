@@ -21,7 +21,7 @@ In Islam, the concept of sin and guilt is similar but with some differences. Mus
 To clarify any confusion: While both religions acknowledge the existence of guilt, they have different understandings about the source of sin, the means of salvation or redemption, and how individuals can seek forgiveness. It is essential to study each religion thoroughly to gain a comprehensive understanding of their teachings and practices.
 
 ## Average Grade
-78.33333333333333
+76.875
 
 ## Grades
  * [90.0](./Understanding_Guilt_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ To clarify any confusion: While both religions acknowledge the existence of guil
  * [85.0](./Understanding_Guilt_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Guilt_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Understanding_Guilt_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Guilt_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Understanding_Guilt_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Guilt.md)

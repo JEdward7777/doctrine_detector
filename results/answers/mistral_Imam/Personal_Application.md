@@ -19,7 +19,7 @@ Through Jesus Christ's sacrifice on the cross, Christians believe they can recei
 It is essential to remember that these beliefs are unique to Christianity, and they may not align perfectly with Islamic teachings regarding sin, forgiveness, and salvation. As Muslims, our focus should be on understanding and respecting our own faith while striving for peaceful coexistence and mutual respect with people of other faiths.
 
 ## Average Grade
-85.0
+83.125
 
 ## Grades
  * [85.0](./Personal_Application_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ It is essential to remember that these beliefs are unique to Christianity, and t
  * [90.0](./Personal_Application_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Personal_Application_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Personal_Application_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Personal_Application_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Personal_Application_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Personal_Application.md)

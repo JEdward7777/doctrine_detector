@@ -27,7 +27,7 @@ Understanding the significance of honor in relationships and our spiritual life.
 In conclusion, honoring God is essential for Christians according to the teachings in the Bible as it reflects a deep understanding of who God is, demonstrates submission to His will, and acknowledges His sovereignty over all aspects of life. Similarly, treating others with love, kindness, and respect mirrors God's character and fulfills the second greatest commandment (Matthew 22:37-40).
 
 ## Average Grade
-92.5
+90.0
 
 ## Grades
  * [90.0](./Importance_of_Honor_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ In conclusion, honoring God is essential for Christians according to the teachin
  * [95.0](./Importance_of_Honor_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Importance_of_Honor_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Importance_of_Honor_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Importance_of_Honor_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [75.0](./Importance_of_Honor_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Importance_of_Honor.md)

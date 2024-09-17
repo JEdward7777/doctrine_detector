@@ -29,7 +29,7 @@ The phrase "call out to the Lord" can be interpreted in several ways, depending 
 Each of these interpretations resonates differently based on personal beliefs, cultural backgrounds, and collective experiences within a faith tradition. Even from an atheistic perspective, these elements showcase the rich tapestry of human emotion and social interaction intertwined with spiritual practices.
 
 ## Average Grade
-73.33333333333333
+71.875
 
 ## Grades
  * [85.0](./Prayer_as_Calling_Out_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ Each of these interpretations resonates differently based on personal beliefs, c
  * [80.0](./Prayer_as_Calling_Out_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Prayer_as_Calling_Out_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Prayer_as_Calling_Out_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Prayer_as_Calling_Out_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Prayer_as_Calling_Out_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Prayer_as_Calling_Out.md)

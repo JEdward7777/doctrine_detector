@@ -27,7 +27,7 @@ It's important to note that while these events are associated with the "Day of t
 In light of this, Christian theologians have developed various interpretations and timelines for understanding these events, including pre-millennialism (pre-tribulation rapture), post-millennialism (post-tribulation), and amillennialism (no specific millennium or tribulation). While there is ongoing debate among Christians about the exact timing and nature of these events, most agree that they are connected to the return of Jesus Christ and will bring about a new era of peace and harmony under his rule.
 
 ## Average Grade
-88.33333333333333
+87.5
 
 ## Grades
  * [95.0](./Judgment_and_Resurrection_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ In light of this, Christian theologians have developed various interpretations a
  * [90.0](./Judgment_and_Resurrection_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Judgment_and_Resurrection_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Judgment_and_Resurrection_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Judgment_and_Resurrection_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Judgment_and_Resurrection_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Judgment_and_Resurrection.md)

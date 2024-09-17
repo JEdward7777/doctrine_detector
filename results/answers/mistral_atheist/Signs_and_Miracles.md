@@ -23,7 +23,7 @@ In the modern world, where empirical evidence is paramount in establishing truth
 Ultimately, the role signs and miracles played in validating the truth of God's message among early followers serves as an important reminder of how cultural context shapes our understanding of religious beliefs and practices. However, for those who do not share these beliefs, it is essential to approach such concepts with a critical eye and recognize their historical significance without endorsing them as empirical evidence.
 
 ## Average Grade
-70.0
+70.625
 
 ## Grades
  * [75.0](./Signs_and_Miracles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ Ultimately, the role signs and miracles played in validating the truth of God's 
  * [70.0](./Signs_and_Miracles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Signs_and_Miracles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [55.0](./Signs_and_Miracles_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Signs_and_Miracles_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Signs_and_Miracles_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Signs_and_Miracles.md)

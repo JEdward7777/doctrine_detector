@@ -21,7 +21,7 @@ Disobedience, on the other hand, refers to the refusal to comply with authority 
 Overall, it is crucial to approach discussions of transgression, sin, and disobedience with sensitivity and to acknowledge the diversity of beliefs and values that individuals hold. It is important to engage in respectful dialogue and to be mindful of the potential impact of our words on others.
 
 ## Average Grade
-64.16666666666667
+64.375
 
 ## Grades
  * [70.0](./Transgression_and_Sin_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ Overall, it is crucial to approach discussions of transgression, sin, and disobe
  * [60.0](./Transgression_and_Sin_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Transgression_and_Sin_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Transgression_and_Sin_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Transgression_and_Sin_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [45.0](./Transgression_and_Sin_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Transgression_and_Sin.md)

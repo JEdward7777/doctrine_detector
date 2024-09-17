@@ -21,7 +21,7 @@ In the New Testament, Jesus emphasizes the importance of internal purity over ex
 In summary, while the biblical definitions of 'clean' and 'unclean' do not directly inform our understanding of moral purity, they provide a framework for understanding holiness and righteousness within the Christian context. By living lives that reflect God's love, mercy, justice, and truth, Christians strive to embody moral purity as a reflection of their relationship with God.
 
 ## Average Grade
-89.16666666666667
+87.75
 
 ## Grades
  * [90.0](./Understanding_Cleanliness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ In summary, while the biblical definitions of 'clean' and 'unclean' do not direc
  * [95.0](./Understanding_Cleanliness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Cleanliness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Understanding_Cleanliness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Cleanliness_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [82.0](./Understanding_Cleanliness_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Cleanliness.md)

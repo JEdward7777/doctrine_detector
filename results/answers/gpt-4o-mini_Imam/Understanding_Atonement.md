@@ -25,7 +25,7 @@ In Christian belief, the significance of Christ's death as the permanent atoneme
 While these beliefs are foundational to Christianity, in Islam, the understanding of atonement is different. Muslims believe that God is merciful and forgiving and that individuals can seek forgiveness directly from Him through sincere repentance. The concept of vicarious atonement through another being, such as the crucifixion of Jesus, is not aligned with Islamic teachings. In Islam, everyone is accountable for their own actions, and God's mercy is open to all who turn to Him with a sincere heart.
 
 ## Average Grade
-90.0
+89.375
 
 ## Grades
  * [90.0](./Understanding_Atonement_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ While these beliefs are foundational to Christianity, in Islam, the understandin
  * [90.0](./Understanding_Atonement_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Atonement_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [95.0](./Understanding_Atonement_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Understanding_Atonement_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Understanding_Atonement_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Atonement.md)

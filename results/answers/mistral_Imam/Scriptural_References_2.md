@@ -25,7 +25,7 @@ That being said, there are several passages in the Bible that mention the Day of
 These passages echo Islamic beliefs about the Day of Judgment, such as the resurrection of the dead, the accounting for deeds, and the separation between those destined for Paradise (Jannah) and those bound for Hell (Jahannam). However, it's important to remember that the Quran supersedes previous scriptures in Muslim understanding. The details and descriptions might vary slightly due to historical context, but the core concepts are similar.
 
 ## Average Grade
-75.0
+74.375
 
 ## Grades
  * [85.0](./Scriptural_References_2_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ These passages echo Islamic beliefs about the Day of Judgment, such as the resur
  * [85.0](./Scriptural_References_2_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Scriptural_References_2_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Scriptural_References_2_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Scriptural_References_2_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Scriptural_References_2_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Scriptural_References_2.md)

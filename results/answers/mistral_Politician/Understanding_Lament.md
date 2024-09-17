@@ -29,7 +29,7 @@ The significance of lamentation in the life of a believer can be summarized in s
 5. Connection with the divine: Lamentation is a means by which believers can express their deepest feelings and desires to God. In doing so, they strengthen their relationship with Him and draw closer to Him, ultimately finding solace and peace in His presence.
 
 ## Average Grade
-85.33333333333333
+83.375
 
 ## Grades
  * [95.0](./Understanding_Lament_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ The significance of lamentation in the life of a believer can be summarized in s
  * [90.0](./Understanding_Lament_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Lament_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Understanding_Lament_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Lament_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Understanding_Lament_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Lament.md)

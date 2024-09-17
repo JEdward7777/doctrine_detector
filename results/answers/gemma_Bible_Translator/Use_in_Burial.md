@@ -15,7 +15,7 @@ Recognizing the customs surrounding burial practices can enhance comprehension o
 Myrrh was a fragrant resin commonly used in ancient cultures for various purposes, including religious rituals and burial practices. In biblical times, myrrh was used as an embalming agent and fragrance to preserve the body of the deceased and enhance the process of decomposition. The use of myrrh in burial practices was likely influenced by cultural and religious beliefs of the time.
 
 ## Average Grade
-84.16666666666667
+81.875
 
 ## Grades
  * [85.0](./Use_in_Burial_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ Myrrh was a fragrant resin commonly used in ancient cultures for various purpose
  * [80.0](./Use_in_Burial_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Use_in_Burial_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Use_in_Burial_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Use_in_Burial_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Use_in_Burial_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Use_in_Burial.md)

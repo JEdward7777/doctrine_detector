@@ -15,7 +15,7 @@ This question addresses the complexities of the Trinity and God's nature.
 This is a complex theological concept that varies among different religious beliefs and interpretations. It is important to respect and acknowledge the diversity of beliefs regarding the nature of God within different faith traditions. Ultimately, the understanding of the trinity is a matter of personal faith and interpretation, and it is important to approach discussions of religion with sensitivity and openness to different perspectives.
 
 ## Average Grade
-76.66666666666667
+73.75
 
 ## Grades
  * [90.0](./Understanding_the_Trinity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ This is a complex theological concept that varies among different religious beli
  * [80.0](./Understanding_the_Trinity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Understanding_the_Trinity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Understanding_the_Trinity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Understanding_the_Trinity_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Understanding_the_Trinity_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_the_Trinity.md)

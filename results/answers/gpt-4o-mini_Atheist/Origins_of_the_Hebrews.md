@@ -19,7 +19,7 @@ The term "Hebrew" itself is thought to derive from "Eber," an ancestor mentioned
 The historical and archaeological understanding of the Hebrews is complex, involving various migrations, sociopolitical developments, and cultural exchanges in the ancient Near East.
 
 ## Average Grade
-90.0
+89.375
 
 ## Grades
  * [90.0](./Origins_of_the_Hebrews_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ The historical and archaeological understanding of the Hebrews is complex, invol
  * [90.0](./Origins_of_the_Hebrews_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Origins_of_the_Hebrews_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [95.0](./Origins_of_the_Hebrews_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Origins_of_the_Hebrews_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Origins_of_the_Hebrews_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Origins_of_the_Hebrews.md)

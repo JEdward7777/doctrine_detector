@@ -23,7 +23,7 @@ Later in the New Testament, the term "Christ" comes to symbolize Jesus' divine n
 Throughout the New Testament, the term "Christ" thus evolves from a designation of a future Jewish leader to a title denoting Jesus' unique role as the promised Messiah and Son of God. This evolution reflects the changing understanding and interpretation of who Jesus was and his significance for humanity.
 
 ## Average Grade
-89.16666666666667
+88.125
 
 ## Grades
  * [90.0](./Christ_as_Title_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ Throughout the New Testament, the term "Christ" thus evolves from a designation 
  * [90.0](./Christ_as_Title_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Christ_as_Title_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Christ_as_Title_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Christ_as_Title_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Christ_as_Title_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Christ_as_Title.md)

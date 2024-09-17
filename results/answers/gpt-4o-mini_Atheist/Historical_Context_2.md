@@ -19,7 +19,7 @@ As a result, they made unleavened bread, or matzah, which could be prepared quic
 From a cultural perspective, the practice has endured as a means of remembering and reflecting on themes of freedom, resilience, and the importance of community in the face of oppression.
 
 ## Average Grade
-85.0
+85.625
 
 ## Grades
  * [90.0](./Historical_Context_2_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ From a cultural perspective, the practice has endured as a means of remembering 
  * [90.0](./Historical_Context_2_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Historical_Context_2_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Historical_Context_2_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Historical_Context_2_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Historical_Context_2_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Historical_Context_2.md)

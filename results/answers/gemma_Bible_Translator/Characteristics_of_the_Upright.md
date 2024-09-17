@@ -56,7 +56,7 @@ Knowing the traits of upright individuals can guide Christians in their behavior
 * Example: Shadrach, Meshach, and Abednego, who refused to bow down to pagan idols despite threats (Daniel 3).
 
 ## Average Grade
-90.83333333333333
+90.0
 
 ## Grades
  * [95.0](./Characteristics_of_the_Upright_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -65,5 +65,7 @@ Knowing the traits of upright individuals can guide Christians in their behavior
  * [95.0](./Characteristics_of_the_Upright_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Characteristics_of_the_Upright_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Characteristics_of_the_Upright_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Characteristics_of_the_Upright_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Characteristics_of_the_Upright_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Characteristics_of_the_Upright.md)

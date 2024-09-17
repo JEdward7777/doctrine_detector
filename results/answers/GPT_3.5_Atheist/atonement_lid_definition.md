@@ -21,7 +21,7 @@ From a cultural perspective, the atonement lid played a significant role in the 
 As an atheistic scholar, it is important to approach such beliefs from a historical and cultural perspective rather than a religious one. The atonement lid and its significance provide insights into the religious practices and beliefs of ancient Israelites, shedding light on how they understood concepts of sin, forgiveness, and divine communication.
 
 ## Average Grade
-76.66666666666667
+71.875
 
 ## Grades
  * [80.0](./atonement_lid_definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ As an atheistic scholar, it is important to approach such beliefs from a histori
  * [80.0](./atonement_lid_definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./atonement_lid_definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./atonement_lid_definition_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./atonement_lid_definition_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [30.0](./atonement_lid_definition_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/atonement_lid_definition.md)

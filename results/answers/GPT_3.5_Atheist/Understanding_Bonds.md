@@ -21,7 +21,7 @@ In terms of our relationship with God, these bonds play a crucial role in shapin
 Ultimately, the concept of bonds in a biblical context reminds us of the importance of staying true to our convictions, honoring our commitments, and nurturing our relationship with God and with our fellow human beings. It is through these bonds that we can find fulfillment, purpose, and a sense of belonging in the world.
 
 ## Average Grade
-89.16666666666667
+88.125
 
 ## Grades
  * [90.0](./Understanding_Bonds_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ Ultimately, the concept of bonds in a biblical context reminds us of the importa
  * [90.0](./Understanding_Bonds_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Understanding_Bonds_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Understanding_Bonds_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Bonds_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Understanding_Bonds_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Bonds.md)

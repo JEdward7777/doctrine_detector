@@ -48,7 +48,7 @@ Understanding repentance in the Bible requires careful consideration of its cult
 While the traditional interpretation of repentance remains relevant for many cultures, it is essential to consider its cultural context to avoid misunderstandings and promote inclusivity. By acknowledging the diverse perspectives on repentance, scholars can foster a more nuanced and inclusive understanding of the Bible and its teachings.
 
 ## Average Grade
-50.833333333333336
+52.5
 
 ## Grades
  * [50.0](./Definition_of_Repentance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -57,5 +57,7 @@ While the traditional interpretation of repentance remains relevant for many cul
  * [40.0](./Definition_of_Repentance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Definition_of_Repentance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./Definition_of_Repentance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Definition_of_Repentance_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [30.0](./Definition_of_Repentance_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Definition_of_Repentance.md)

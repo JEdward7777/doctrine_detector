@@ -29,7 +29,7 @@ In Christianity, the Holy Spirit is understood as a divine presence that empower
 These themes illustrate the importance of the Holy Spirit in the life of a Christian believer, providing them with guidance, strength, and the ability to serve others effectively. If you have further questions or need clarification on Islamic teachings related to the concept of the spirit or spiritual empowerment, I'd be happy to assist!
 
 ## Average Grade
-85.0
+81.875
 
 ## Grades
  * [90.0](./Empowerment_by_the_Holy_Spirit_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ These themes illustrate the importance of the Holy Spirit in the life of a Chris
  * [85.0](./Empowerment_by_the_Holy_Spirit_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Empowerment_by_the_Holy_Spirit_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Empowerment_by_the_Holy_Spirit_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Empowerment_by_the_Holy_Spirit_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Empowerment_by_the_Holy_Spirit_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Empowerment_by_the_Holy_Spirit.md)

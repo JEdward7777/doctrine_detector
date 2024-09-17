@@ -29,7 +29,7 @@ The stoning of Paul in Lystra, as recounted in Acts 14:19-20, presents several v
 In summary, the stoning of Paul in Lystra urges believers to remain steadfast in their faith and ministry, embodying resilience, commitment, community, hope, and the active spreading of their message despite challenges. These lessons resonate strongly within the Islamic framework, inviting practitioners to reflect on their own journeys of faith and service.
 
 ## Average Grade
-59.166666666666664
+60.625
 
 ## Grades
  * [50.0](./Paul_s_Experience_in_Lystra_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ In summary, the stoning of Paul in Lystra urges believers to remain steadfast in
  * [60.0](./Paul_s_Experience_in_Lystra_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Paul_s_Experience_in_Lystra_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Paul_s_Experience_in_Lystra_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Paul_s_Experience_in_Lystra_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Paul_s_Experience_in_Lystra_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Paul_s_Experience_in_Lystra.md)

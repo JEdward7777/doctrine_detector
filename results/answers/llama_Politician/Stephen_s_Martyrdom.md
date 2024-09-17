@@ -29,7 +29,7 @@ In conclusion, the stoning of Stephen is a powerful reminder of the early Christ
 I hope that my words have been helpful in illuminating the significance of Stephen's martyrdom and the challenges faced by early believers. Let us continue to learn from their experiences and draw inspiration from their faithfulness, as we seek to build a more compassionate, inclusive, and just society for all.
 
 ## Average Grade
-86.66666666666667
+84.375
 
 ## Grades
  * [90.0](./Stephen_s_Martyrdom_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ I hope that my words have been helpful in illuminating the significance of Steph
  * [85.0](./Stephen_s_Martyrdom_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Stephen_s_Martyrdom_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Stephen_s_Martyrdom_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Stephen_s_Martyrdom_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [65.0](./Stephen_s_Martyrdom_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Stephen_s_Martyrdom.md)

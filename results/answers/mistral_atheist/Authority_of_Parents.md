@@ -25,7 +25,7 @@ Navigating family dynamics within a Christian framework of obedience and authori
 These passages highlight the responsibility of children to honor and obey their parents as part of their religious duties, reflecting the cultural contexts in which they were written. The Bible also emphasizes that parents are to nurture, teach, and care for their children, providing guidance and wisdom for them as they grow. This relationship is a key aspect of the broader social fabric within the Biblical narrative.
 
 ## Average Grade
-89.16666666666667
+89.0
 
 ## Grades
  * [90.0](./Authority_of_Parents_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ These passages highlight the responsibility of children to honor and obey their 
  * [90.0](./Authority_of_Parents_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Authority_of_Parents_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Authority_of_Parents_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Authority_of_Parents_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [92.0](./Authority_of_Parents_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Authority_of_Parents.md)

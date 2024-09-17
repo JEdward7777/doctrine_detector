@@ -15,7 +15,7 @@ Understanding the historical and religious importance of synagogues in Jewish wo
 **Synagogues did not play a role in the worship practices of Jews during ancient times.** Worship practices for ancient Jews centered around the Temple in Jerusalem and other sacrificial and devotional rituals associated with the Mosaic Law. Synagogues primarily served as social and educational centers for Jews, not religious worship spaces.
 
 ## Average Grade
-75.83333333333333
+71.875
 
 ## Grades
  * [90.0](./Synagogue_Purpose_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ Understanding the historical and religious importance of synagogues in Jewish wo
  * [80.0](./Synagogue_Purpose_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Synagogue_Purpose_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Synagogue_Purpose_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [70.0](./Synagogue_Purpose_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Synagogue_Purpose_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Synagogue_Purpose.md)

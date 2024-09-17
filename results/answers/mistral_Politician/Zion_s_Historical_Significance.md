@@ -19,7 +19,7 @@ Mount Zion, specifically the City of David, was a crucial part of ancient Jerusa
 Mount Zion is also where King David's Palace and the Temple of God were said to be located. The significance of Mount Zion extends beyond King David as it is mentioned throughout both the Hebrew Bible (Old Testament) and the New Testament, playing a crucial role in religious history for millions worldwide.
 
 ## Average Grade
-92.83333333333333
+90.25
 
 ## Grades
  * [95.0](./Zion_s_Historical_Significance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ Mount Zion is also where King David's Palace and the Temple of God were said to 
  * [95.0](./Zion_s_Historical_Significance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Zion_s_Historical_Significance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Zion_s_Historical_Significance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Zion_s_Historical_Significance_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [80.0](./Zion_s_Historical_Significance_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Zion_s_Historical_Significance.md)

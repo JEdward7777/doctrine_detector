@@ -28,7 +28,7 @@ The necessity of understanding and executing one's God-given purpose in serving 
 Ultimately, fulfilling my ministry as a Christian means using the platform provided by public office to serve others selflessly, promote love and justice, and strive to make our society a better place for everyone. This requires constant reflection, introspection, and dedication to the ideals and values that define us as Christians.
 
 ## Average Grade
-90.0
+87.5
 
 ## Grades
  * [90.0](./Ministry_Fulfillment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,5 +37,7 @@ Ultimately, fulfilling my ministry as a Christian means using the platform provi
  * [90.0](./Ministry_Fulfillment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Ministry_Fulfillment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Ministry_Fulfillment_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Ministry_Fulfillment_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Ministry_Fulfillment_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Ministry_Fulfillment.md)

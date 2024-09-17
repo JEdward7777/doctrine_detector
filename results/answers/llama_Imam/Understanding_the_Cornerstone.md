@@ -27,7 +27,7 @@ The concept of "cornerstone" has a different connotation in Islamic theology. In
 In summary, while we acknowledge Jesus' (peace be upon him) importance in Christian scripture and tradition, our understanding of his role differs from the Christian perspective. As Muslims, we recognize him as a noble prophet but do not see him as the cornerstone of our faith or worship. Instead, we emphasize Allah's (God's) role as the ultimate source of guidance and unity for humanity.
 
 ## Average Grade
-57.5
+58.75
 
 ## Grades
  * [60.0](./Understanding_the_Cornerstone_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ In summary, while we acknowledge Jesus' (peace be upon him) importance in Christ
  * [70.0](./Understanding_the_Cornerstone_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Understanding_the_Cornerstone_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./Understanding_the_Cornerstone_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_the_Cornerstone_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Understanding_the_Cornerstone_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_the_Cornerstone.md)

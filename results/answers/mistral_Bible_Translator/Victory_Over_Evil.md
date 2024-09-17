@@ -15,7 +15,7 @@ This promise offers hope and assurance to Christians about God's sovereignty and
  As a Christian Bible translator, I would reference Revelation 20:1-3, where it is stated that after the thousand-year reign of Christ on earth (described in Revelation 20:4-6), Satan will be released for a short time. However, he will then be decisively defeated and permanently banished, along with death and the grave. This event marks the final triumph of God and His people, leading to the eternal state, where there will no longer be any more pain, sorrow, or death (Revelation 21:4). This promise of Satan's ultimate defeat is an essential aspect of Christian eschatology, reflecting the hope that evil will eventually be vanquished, and God's reign will prevail forever.
 
 ## Average Grade
-91.66666666666667
+91.25
 
 ## Grades
  * [95.0](./Victory_Over_Evil_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ This promise offers hope and assurance to Christians about God's sovereignty and
  * [95.0](./Victory_Over_Evil_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Victory_Over_Evil_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Victory_Over_Evil_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Victory_Over_Evil_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Victory_Over_Evil_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Victory_Over_Evil.md)

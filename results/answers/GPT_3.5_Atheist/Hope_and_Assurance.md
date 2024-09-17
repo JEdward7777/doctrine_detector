@@ -21,7 +21,7 @@ Moreover, the absence of hope can also be viewed as a catalyst for transformatio
 Ultimately, while the state of having no hope may be a challenging and distressing experience, it is often depicted in biblical references as a precursor to spiritual growth, restoration, and the eventual realization of God's saving grace.
 
 ## Average Grade
-88.33333333333333
+87.5
 
 ## Grades
  * [90.0](./Hope_and_Assurance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ Ultimately, while the state of having no hope may be a challenging and distressi
  * [95.0](./Hope_and_Assurance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Hope_and_Assurance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Hope_and_Assurance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Hope_and_Assurance_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Hope_and_Assurance_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Hope_and_Assurance.md)

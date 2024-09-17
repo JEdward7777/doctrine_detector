@@ -19,7 +19,7 @@ On the other hand, external influences encompass a wide range of factors such as
 It's crucial to approach this topic with sensitivity, acknowledging that everyone's experiences with temptation are unique. By understanding the interplay between our internal dispositions and the external circumstances we face, we can foster greater compassion and support for those working to navigate their own challenges. It’s also vital to promote open conversations about these influences in a way that encourages growth, understanding, and personal responsibility.
 
 ## Average Grade
-79.16666666666667
+80.625
 
 ## Grades
  * [90.0](./Nature_of_Temptation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ It's crucial to approach this topic with sensitivity, acknowledging that everyon
  * [85.0](./Nature_of_Temptation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Nature_of_Temptation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Nature_of_Temptation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Nature_of_Temptation_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Nature_of_Temptation_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Nature_of_Temptation.md)

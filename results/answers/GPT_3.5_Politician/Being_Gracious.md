@@ -15,7 +15,7 @@ Understanding the Christian obligation to be forgiving and kind.
 The term "gracious" typically refers to someone who is courteous, kind, and considerate in their behavior towards others. It implies a willingness to show respect, dignity, and empathy in interactions with others. Being gracious involves showing appreciation, expressing gratitude, and being humble in our relationships and communication. It promotes a positive and respectful atmosphere in social interactions and fosters harmonious relationships with others.
 
 ## Average Grade
-83.33333333333333
+83.75
 
 ## Grades
  * [85.0](./Being_Gracious_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ The term "gracious" typically refers to someone who is courteous, kind, and cons
  * [80.0](./Being_Gracious_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Being_Gracious_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Being_Gracious_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Being_Gracious_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Being_Gracious_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Being_Gracious.md)

@@ -23,7 +23,7 @@ For prophets, anointing with oil symbolized the commissioning by God to speak Hi
 Overall, anointing in the Old Testament represented God's presence, approval, and empowerment upon His chosen servants for their specific roles in fulfilling His purposes and plans.
 
 ## Average Grade
-92.5
+91.25
 
 ## Grades
  * [95.0](./Significance_of_Anointing_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ Overall, anointing in the Old Testament represented God's presence, approval, an
  * [95.0](./Significance_of_Anointing_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Significance_of_Anointing_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Significance_of_Anointing_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Significance_of_Anointing_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Significance_of_Anointing_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Significance_of_Anointing.md)

@@ -31,7 +31,7 @@ Now, I know what you're thinking: "But isn't this just a matter of faith?" Ah, m
 In conclusion, the spirit of antichrist is not just a biblical construct but a reminder of the ongoing struggle between forces that promote love, justice, and compassion versus those that foster division, hatred, and oppression. As scholars and critical thinkers, we can learn from these ancient texts while also applying their themes to our contemporary world.
 
 ## Average Grade
-55.833333333333336
+59.375
 
 ## Grades
  * [70.0](./The_Spirit_of_Antichrist_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -40,5 +40,7 @@ In conclusion, the spirit of antichrist is not just a biblical construct but a r
  * [60.0](./The_Spirit_of_Antichrist_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./The_Spirit_of_Antichrist_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./The_Spirit_of_Antichrist_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./The_Spirit_of_Antichrist_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./The_Spirit_of_Antichrist_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/The_Spirit_of_Antichrist.md)

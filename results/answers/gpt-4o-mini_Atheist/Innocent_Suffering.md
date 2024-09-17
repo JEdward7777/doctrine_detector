@@ -27,7 +27,7 @@ The concept of "innocent blood" is addressed in several places in the Bible, oft
 In summary, the concept of "innocent blood" in the Bible underscores the intrinsic value of life and the moral obligations of individuals and communities to uphold justice and protect the vulnerable. Its repeated emphasis in biblical texts reveals a consistent divine concern for the sanctity of life and the seriousness of moral failure associated with unjust violence.
 
 ## Average Grade
-93.0
+92.25
 
 ## Grades
  * [90.0](./Innocent_Suffering_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ In summary, the concept of "innocent blood" in the Bible underscores the intrins
  * [98.0](./Innocent_Suffering_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Innocent_Suffering_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Innocent_Suffering_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Innocent_Suffering_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Innocent_Suffering_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Innocent_Suffering.md)

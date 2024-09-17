@@ -31,7 +31,7 @@ Now, I'm aware that some scholars might argue that these passages demonstrate a 
 In conclusion, the term "Holy One" is used primarily to describe Yahweh or Jesus, emphasizing their divine nature, moral excellence, and role as mediators between humanity and God. As an atheist, I recognize that these passages reflect the cultural and historical context of ancient Jewish and early Christian communities, rather than any objective truth about the nature of the universe.
 
 ## Average Grade
-68.33333333333333
+67.5
 
 ## Grades
  * [60.0](./Usage_in_Scripture_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -40,5 +40,7 @@ In conclusion, the term "Holy One" is used primarily to describe Yahweh or Jesus
  * [75.0](./Usage_in_Scripture_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Usage_in_Scripture_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Usage_in_Scripture_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Usage_in_Scripture_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [45.0](./Usage_in_Scripture_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Usage_in_Scripture.md)

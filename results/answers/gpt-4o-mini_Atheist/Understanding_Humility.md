@@ -29,7 +29,7 @@ In the Christian perspective, humbling oneself before God involves recognizing o
 In summary, humbling oneself before God in Christianity is about recognizing one’s own limitations, embracing a posture of repentance and service, and cultivating a deep and trusting relationship with the divine. It is seen as a pathway to spiritual growth and greater understanding of one's place in relation to God and others.
 
 ## Average Grade
-89.16666666666667
+88.125
 
 ## Grades
  * [90.0](./Understanding_Humility_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ In summary, humbling oneself before God in Christianity is about recognizing one
  * [95.0](./Understanding_Humility_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Humility_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Understanding_Humility_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Humility_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Understanding_Humility_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Humility.md)

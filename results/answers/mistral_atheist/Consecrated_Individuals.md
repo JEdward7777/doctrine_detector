@@ -28,7 +28,7 @@ Recognizing the significance of consecrated individuals in biblical history.
 These individuals were all consecrated or dedicated to God in various ways, whether through prophecy, leadership, music, or personal devotion. Their stories are still revered and studied today as examples of faithfulness and service to God.
 
 ## Average Grade
-84.16666666666667
+83.75
 
 ## Grades
  * [85.0](./Consecrated_Individuals_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,5 +37,7 @@ These individuals were all consecrated or dedicated to God in various ways, whet
  * [90.0](./Consecrated_Individuals_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Consecrated_Individuals_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [65.0](./Consecrated_Individuals_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Consecrated_Individuals_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [80.0](./Consecrated_Individuals_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Consecrated_Individuals.md)

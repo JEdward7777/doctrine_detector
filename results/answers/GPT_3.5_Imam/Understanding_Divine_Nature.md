@@ -33,7 +33,7 @@ The term 'divine nature' refers to the inherent and unique qualities or attribut
 These are just a few aspects of Allah's divine nature as understood in Islam. Muslims believe that it is essential to have a correct understanding and belief in God's divine nature in order to worship Him in the best way and fulfill their purpose in life.
 
 ## Average Grade
-84.16666666666667
+81.25
 
 ## Grades
  * [90.0](./Understanding_Divine_Nature_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -42,5 +42,7 @@ These are just a few aspects of Allah's divine nature as understood in Islam. Mu
  * [90.0](./Understanding_Divine_Nature_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Divine_Nature_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Understanding_Divine_Nature_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Divine_Nature_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Understanding_Divine_Nature_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Divine_Nature.md)

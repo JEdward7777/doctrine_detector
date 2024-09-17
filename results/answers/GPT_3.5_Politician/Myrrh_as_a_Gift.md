@@ -15,7 +15,7 @@ Understanding the symbolism of gifts given to Jesus can deepen one's appreciatio
 Myrrh, one of the gifts given to Jesus at his birth, is traditionally seen as a symbol of suffering and sacrifice. It holds significance in many religious and cultural contexts as a symbol of powerful emotions and spiritual devotion. It is important to acknowledge and respect the diverse interpretations and beliefs surrounding this gift.
 
 ## Average Grade
-85.83333333333333
+82.5
 
 ## Grades
  * [85.0](./Myrrh_as_a_Gift_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ Myrrh, one of the gifts given to Jesus at his birth, is traditionally seen as a 
  * [90.0](./Myrrh_as_a_Gift_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Myrrh_as_a_Gift_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Myrrh_as_a_Gift_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Myrrh_as_a_Gift_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [65.0](./Myrrh_as_a_Gift_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Myrrh_as_a_Gift.md)

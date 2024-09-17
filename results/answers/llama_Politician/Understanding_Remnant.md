@@ -29,7 +29,7 @@ Finally, the concept of remnant offers hope and redemption for those who have be
 In conclusion, the concept of remnant in the Bible inspires believers to remain faithful during times of persecution by emphasizing community, God's sovereignty, steadfastness in values, and the promise of redemption. I hope this helps, and please let me know if you have any further questions! *smiling warmly*
 
 ## Average Grade
-86.16666666666667
+83.375
 
 ## Grades
  * [90.0](./Understanding_Remnant_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ In conclusion, the concept of remnant in the Bible inspires believers to remain 
  * [85.0](./Understanding_Remnant_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Understanding_Remnant_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Understanding_Remnant_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Remnant_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [65.0](./Understanding_Remnant_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Remnant.md)

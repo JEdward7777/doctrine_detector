@@ -25,7 +25,7 @@ The Bible provides several illustrations of the consequences of idolatry, partic
 Through these narratives, the Bible illustrates that idolatry not only strains the relationship between God and His people but also brings about tangible consequences that affect their lives, communities, and spiritual health. Yet, it also portrays the message of hope and the possibility of returning to a faithful relationship with God.
 
 ## Average Grade
-92.5
+90.625
 
 ## Grades
  * [95.0](./Idolatry_in_the_Bible_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ Through these narratives, the Bible illustrates that idolatry not only strains t
  * [95.0](./Idolatry_in_the_Bible_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Idolatry_in_the_Bible_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Idolatry_in_the_Bible_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Idolatry_in_the_Bible_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Idolatry_in_the_Bible_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Idolatry_in_the_Bible.md)

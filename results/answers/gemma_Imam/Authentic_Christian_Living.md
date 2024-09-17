@@ -50,7 +50,7 @@ The verse you referenced, Romans 12:9, reminds us that our love should be sincer
 May Allah guide us to genuine love and inspire us to live lives that reflect this virtue in all our actions.
 
 ## Average Grade
-80.83333333333333
+78.75
 
 ## Grades
  * [85.0](./Authentic_Christian_Living_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -59,5 +59,7 @@ May Allah guide us to genuine love and inspire us to live lives that reflect thi
  * [80.0](./Authentic_Christian_Living_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Authentic_Christian_Living_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Authentic_Christian_Living_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [95.0](./Authentic_Christian_Living_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Authentic_Christian_Living_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Authentic_Christian_Living.md)

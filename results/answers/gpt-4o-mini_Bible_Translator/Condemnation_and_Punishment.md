@@ -21,7 +21,7 @@ Together, these passages advocate for a perspective on punishment that is temper
 In summary, Matthew 12:7 and Psalm 34:22 together shape a view of punishment that leans toward merciful correction rather than harsh condemnation, encouraging a spirit of grace in our interactions and judgments.
 
 ## Average Grade
-85.83333333333333
+85.625
 
 ## Grades
  * [85.0](./Condemnation_and_Punishment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ In summary, Matthew 12:7 and Psalm 34:22 together shape a view of punishment tha
  * [85.0](./Condemnation_and_Punishment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Condemnation_and_Punishment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Condemnation_and_Punishment_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Condemnation_and_Punishment_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Condemnation_and_Punishment_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Condemnation_and_Punishment.md)

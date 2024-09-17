@@ -25,7 +25,7 @@ Mount Zion holds significant historical and religious importance in the context 
 In summary, Mount Zion is significant not only as the location of David's political capital but also as a spiritual center that shaped the religious landscape of ancient Israel. It is a testament to God's promise to David and the enduring legacy of his lineage.
 
 ## Average Grade
-90.83333333333333
+90.0
 
 ## Grades
  * [95.0](./Zion_s_Historical_Significance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ In summary, Mount Zion is significant not only as the location of David's politi
  * [95.0](./Zion_s_Historical_Significance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Zion_s_Historical_Significance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Zion_s_Historical_Significance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Zion_s_Historical_Significance_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Zion_s_Historical_Significance_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Zion_s_Historical_Significance.md)

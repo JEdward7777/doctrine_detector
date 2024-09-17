@@ -19,7 +19,7 @@ To foster greater understanding and respect among different cultures, it may be 
 Ultimately, the goal should be to communicate the core messages of faith in a way that is both respectful and inclusive, allowing for a deeper appreciation of different beliefs while remaining true to one's own traditions. Balancing accuracy with sensitivity is crucial in promoting understanding and harmony among diverse populations.
 
 ## Average Grade
-52.5
+59.375
 
 ## Grades
  * [40.0](./Avoid__Son_of_God__grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ Ultimately, the goal should be to communicate the core messages of faith in a wa
  * [60.0](./Avoid__Son_of_God__grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Avoid__Son_of_God__grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Avoid__Son_of_God__grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Avoid__Son_of_God__grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [75.0](./Avoid__Son_of_God__grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Avoid__Son_of_God_.md)

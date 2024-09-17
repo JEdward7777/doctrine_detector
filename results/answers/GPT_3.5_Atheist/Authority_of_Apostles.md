@@ -19,7 +19,7 @@ From a scholarly and atheistic perspective, these miraculous abilities and bold 
 It is important to critically analyze the historical accounts of the apostles' actions and consider the socio-cultural context in which they operated. While the apostles may have been influential figures in the spread of Christianity, their supposed divine authority should be viewed with a skeptical eye and understood within the framework of human psychology and cultural beliefs.
 
 ## Average Grade
-41.666666666666664
+45.0
 
 ## Grades
  * [20.0](./Authority_of_Apostles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ It is important to critically analyze the historical accounts of the apostles' a
  * [30.0](./Authority_of_Apostles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Authority_of_Apostles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Authority_of_Apostles_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Authority_of_Apostles_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [30.0](./Authority_of_Apostles_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Authority_of_Apostles.md)

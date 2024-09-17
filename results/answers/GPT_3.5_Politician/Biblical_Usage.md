@@ -15,7 +15,7 @@ Understanding the importance of genealogies in establishing Jesus' lineage and f
 In the genealogy accounts found in the Bible, the term "begat" is used to indicate the relationship between a father and his son or descendant. It is a traditional and historical way of expressing lineage and ancestry. It's important to understand that the language and terminology used in ancient texts like the Bible may not align with contemporary language norms. It's always advisable to approach such texts with a sensitivity to cultural and historical contexts.
 
 ## Average Grade
-85.0
+84.375
 
 ## Grades
  * [90.0](./Biblical_Usage_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ In the genealogy accounts found in the Bible, the term "begat" is used to indica
  * [90.0](./Biblical_Usage_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_Usage_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Biblical_Usage_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Biblical_Usage_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Biblical_Usage_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Biblical_Usage.md)

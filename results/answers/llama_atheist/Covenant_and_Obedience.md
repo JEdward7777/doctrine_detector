@@ -25,7 +25,7 @@ In this reinterpreted context, the Israelites' journey toward the Promised Land 
 Ultimately, the role of "obedience to God's laws" in the Israelites' journey can be seen as a metaphor for the importance of collective identity, social responsibility, and community values in shaping human experiences and achievements.
 
 ## Average Grade
-28.333333333333332
+36.875
 
 ## Grades
  * [30.0](./Covenant_and_Obedience_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ Ultimately, the role of "obedience to God's laws" in the Israelites' journey can
  * [30.0](./Covenant_and_Obedience_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [20.0](./Covenant_and_Obedience_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./Covenant_and_Obedience_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Covenant_and_Obedience_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Covenant_and_Obedience_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Covenant_and_Obedience.md)

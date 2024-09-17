@@ -42,7 +42,7 @@ Understanding the significance of Jesus's name and His role as Savior.
 **Therefore, the name 'Jesus' signifies a complex and multifaceted concept, reflecting both religious and cultural beliefs, and its meaning has evolved over time.**
 
 ## Average Grade
-71.66666666666667
+72.5
 
 ## Grades
  * [80.0](./Identity_of_Jesus_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -51,5 +51,7 @@ Understanding the significance of Jesus's name and His role as Savior.
  * [70.0](./Identity_of_Jesus_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Identity_of_Jesus_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Identity_of_Jesus_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Identity_of_Jesus_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [65.0](./Identity_of_Jesus_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Identity_of_Jesus.md)

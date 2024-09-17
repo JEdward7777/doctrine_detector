@@ -29,7 +29,7 @@ From an atheistic perspective, we can see Jesus' statement as an early example o
 In conclusion, Luke 6:37 reminds us that judgmentalism can be a destructive force in human relationships, leading to alienation, isolation, and conflict. As scholars, it is our responsibility to critically examine the cultural and historical contexts of these texts and draw out practical insights for building more compassionate and inclusive communities.
 
 ## Average Grade
-68.33333333333333
+66.875
 
 ## Grades
  * [60.0](./Right_Judgment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ In conclusion, Luke 6:37 reminds us that judgmentalism can be a destructive forc
  * [70.0](./Right_Judgment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Right_Judgment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Right_Judgment_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Right_Judgment_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Right_Judgment_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Right_Judgment.md)

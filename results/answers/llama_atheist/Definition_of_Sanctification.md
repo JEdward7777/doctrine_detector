@@ -27,7 +27,7 @@ It's essential to note that this concept of sanctification was deeply rooted in 
 In summary, to sanctify or be sanctified in biblical terms means to set something or someone apart for a specific purpose, often through rituals, sacrifices, or prophetic pronouncements. This concept reflects the cultural and religious practices of ancient Israel, where the sacred and profane were intertwined, and the idea of separation was crucial for understanding one's place within the divine-human relationship.
 
 ## Average Grade
-72.5
+70.625
 
 ## Grades
  * [85.0](./Definition_of_Sanctification_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ In summary, to sanctify or be sanctified in biblical terms means to set somethin
  * [80.0](./Definition_of_Sanctification_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Definition_of_Sanctification_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./Definition_of_Sanctification_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Definition_of_Sanctification_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [45.0](./Definition_of_Sanctification_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Definition_of_Sanctification.md)

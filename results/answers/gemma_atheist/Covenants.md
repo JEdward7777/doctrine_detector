@@ -36,7 +36,7 @@ As an atheist scholar, I reject the existence of supernatural beings and the con
 The promises made in biblical covenants do not provide evidence of God's commitment to His people throughout Scripture. They are cultural and historical constructs that do not align with the principles of atheism.
 
 ## Average Grade
-23.333333333333332
+20.0
 
 ## Grades
  * [20.0](./Covenants_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -45,5 +45,7 @@ The promises made in biblical covenants do not provide evidence of God's commitm
  * [20.0](./Covenants_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Covenants_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./Covenants_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [0.0](./Covenants_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [20.0](./Covenants_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Covenants.md)

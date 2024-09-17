@@ -27,7 +27,7 @@ As Muslims, we reject the Christian concept of the "Son of God" as an affirmatio
 It's essential to note that the Christian understanding of the "Son of God" is rooted in their scriptures, particularly the New Testament. Muslims, on the other hand, base our beliefs and teachings on the Quran and Hadith (the sayings and actions of the Prophet Muhammad). The two faiths have distinct conceptions of Jesus' nature and role, which are shaped by their respective scriptures and theological traditions.
 
 ## Average Grade
-80.0
+76.25
 
 ## Grades
  * [90.0](./Eternal_Nature_of_the_Son_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ It's essential to note that the Christian understanding of the "Son of God" is r
  * [90.0](./Eternal_Nature_of_the_Son_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Eternal_Nature_of_the_Son_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Eternal_Nature_of_the_Son_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Eternal_Nature_of_the_Son_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [45.0](./Eternal_Nature_of_the_Son_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Eternal_Nature_of_the_Son.md)

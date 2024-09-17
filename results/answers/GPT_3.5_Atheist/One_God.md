@@ -15,7 +15,7 @@ Proper teaching upholds the biblical truth of one God while addressing cultural 
 When translating the concept of 'One God' for cultures that respect multiple deities, it is important to emphasize the uniqueness and supremacy of this single deity. This can be done by using language and imagery that highlights the power, omnipotence, and all-encompassing nature of this deity in contrast to other gods. Additionally, it may be helpful to provide explanations or footnotes that clarify the monotheistic belief system and differentiate it from polytheistic beliefs. Ultimately, the goal is to convey the idea that this one God is the ultimate authority and creator, deserving of worship above all others.
 
 ## Average Grade
-87.5
+86.875
 
 ## Grades
  * [90.0](./One_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ When translating the concept of 'One God' for cultures that respect multiple dei
  * [85.0](./One_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./One_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./One_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./One_God_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./One_God_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/One_God.md)

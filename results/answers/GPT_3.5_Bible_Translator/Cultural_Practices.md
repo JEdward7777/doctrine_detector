@@ -21,7 +21,7 @@ Ultimately, the decision of the Jerusalem Council was that Gentile converts did 
 In summary, the cultural practices associated with the Jewish view of Gentiles as unclean or inferior had an impact on early Christian practices, particularly in terms of the inclusion of Gentiles in the Christian community and the development of a distinct Christian culture separate from Jewish customs.
 
 ## Average Grade
-86.66666666666667
+86.875
 
 ## Grades
  * [90.0](./Cultural_Practices_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ In summary, the cultural practices associated with the Jewish view of Gentiles a
  * [80.0](./Cultural_Practices_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Cultural_Practices_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Cultural_Practices_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Cultural_Practices_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Cultural_Practices_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Cultural_Practices.md)

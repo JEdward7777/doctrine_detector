@@ -19,7 +19,7 @@ Additionally, Jesus also gained favor with men by his charisma, moral teachings,
 However, it is important to note that interpretations of Jesus' relationship with God and men can vary among different religious traditions and individuals. Some may see him as a divine figure with a unique connection to God, while others may view him as a wise teacher and moral exemplar.
 
 ## Average Grade
-81.66666666666667
+81.25
 
 ## Grades
  * [80.0](./Understanding_God_s_Favor_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ However, it is important to note that interpretations of Jesus' relationship wit
  * [90.0](./Understanding_God_s_Favor_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_God_s_Favor_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Understanding_God_s_Favor_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_God_s_Favor_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [75.0](./Understanding_God_s_Favor_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_God_s_Favor.md)

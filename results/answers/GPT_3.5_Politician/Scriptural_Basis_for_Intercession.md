@@ -25,7 +25,7 @@ Certainly. In the Bible, there are several verses that speak to the concept of i
 Interceding for others is seen as an act of compassion and empathy in many religious traditions, and these verses illustrate the importance and power of lifting others up in prayer or seeking blessings on their behalf.
 
 ## Average Grade
-83.33333333333333
+83.75
 
 ## Grades
  * [85.0](./Scriptural_Basis_for_Intercession_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ Interceding for others is seen as an act of compassion and empathy in many relig
  * [90.0](./Scriptural_Basis_for_Intercession_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Scriptural_Basis_for_Intercession_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Scriptural_Basis_for_Intercession_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Scriptural_Basis_for_Intercession_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Scriptural_Basis_for_Intercession_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Scriptural_Basis_for_Intercession.md)

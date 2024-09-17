@@ -19,7 +19,7 @@ Muslims believe in the miraculous birth of Jesus to the Virgin Mary, his ability
 Overall, having faith in Jesus as a Muslim means acknowledging his status as a noble prophet and showing respect for his teachings and the miracles he performed during his time on earth.
 
 ## Average Grade
-40.0
+47.5
 
 ## Grades
  * [30.0](./Understanding_Faith_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ Overall, having faith in Jesus as a Muslim means acknowledging his status as a n
  * [30.0](./Understanding_Faith_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Understanding_Faith_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [30.0](./Understanding_Faith_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [75.0](./Understanding_Faith_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [65.0](./Understanding_Faith_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Faith.md)

@@ -21,7 +21,7 @@ In the New Testament of the Bible, passages such as 1 John 3:20 and Romans 5:16 
 In a broader theological context, these verses work together to describe the dual aspects of humanity's condition: the reality of sin that brings about condemnation and the promise of grace that leads to forgiveness and a restored relationship with God. In Islam, similar themes exist regarding sin, repentance, and God's mercy. In both faiths, there is an emphasis on the importance of seeking forgiveness and understanding that God’s mercy is greater than human failings.
 
 ## Average Grade
-89.16666666666667
+86.875
 
 ## Grades
  * [95.0](./Understanding_Condemnation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ In a broader theological context, these verses work together to describe the dua
  * [95.0](./Understanding_Condemnation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Condemnation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Understanding_Condemnation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Condemnation_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [75.0](./Understanding_Condemnation_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Condemnation.md)

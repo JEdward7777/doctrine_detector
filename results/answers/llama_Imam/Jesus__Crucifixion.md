@@ -25,7 +25,7 @@ In this context, the offer of wine mixed with myrrh is seen as a cruel twist, mo
 In Islamic tradition, we recognize that Jesus (peace be upon him) was a noble prophet who suffered at the hands of those who rejected his message. This incident serves as a reminder of the consequences of rejecting Allah's prophets and messengers.
 
 ## Average Grade
-51.666666666666664
+54.375
 
 ## Grades
  * [50.0](./Jesus__Crucifixion_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ In Islamic tradition, we recognize that Jesus (peace be upon him) was a noble pr
  * [30.0](./Jesus__Crucifixion_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Jesus__Crucifixion_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Jesus__Crucifixion_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Jesus__Crucifixion_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Jesus__Crucifixion_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Jesus__Crucifixion.md)

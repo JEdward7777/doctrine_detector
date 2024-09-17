@@ -28,7 +28,7 @@ In the life of a believer, lamentation is not a sign of weakness but rather a de
 In conclusion, lamentation is an essential aspect of a believer's life. It reminds us of our dependence on Allah, leads to self-reflection and repentance, allows for emotional processing, and strengthens our bond with the Divine. May we always remember to turn to Allah in both joy and sorrow, seeking His guidance and mercy in all aspects of our lives.
 
 ## Average Grade
-78.66666666666667
+80.875
 
 ## Grades
  * [90.0](./Understanding_Lament_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,5 +37,7 @@ In conclusion, lamentation is an essential aspect of a believer's life. It remin
  * [85.0](./Understanding_Lament_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Understanding_Lament_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Understanding_Lament_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Understanding_Lament_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Understanding_Lament_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Lament.md)

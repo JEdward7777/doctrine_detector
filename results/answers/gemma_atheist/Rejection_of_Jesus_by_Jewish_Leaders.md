@@ -35,7 +35,7 @@ This scenario poses questions about authority, faith, and the recognition of the
 * **Faith and Reason:** The rejection of Jesus by some Jewish leaders should not be seen as a definitive rejection of the possibility of divine revelation.
 
 ## Average Grade
-75.83333333333333
+76.25
 
 ## Grades
  * [85.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -44,5 +44,7 @@ This scenario poses questions about authority, faith, and the recognition of the
  * [80.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Rejection_of_Jesus_by_Jewish_Leaders.md)

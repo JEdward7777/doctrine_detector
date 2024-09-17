@@ -21,7 +21,7 @@ The relationship between repentance and forgiveness is highlighted throughout th
 Ultimately, true repentance leads to genuine forgiveness, both from God and from others. As Christians, we are called to forgive others just as God has forgiven us (Ephesians 4:32). The connection between repentance and forgiveness underscores the transformative power of God's grace in our lives.
 
 ## Average Grade
-91.16666666666667
+90.25
 
 ## Grades
  * [95.0](./Role_of_Repentance_in_Forgiveness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ Ultimately, true repentance leads to genuine forgiveness, both from God and from
  * [95.0](./Role_of_Repentance_in_Forgiveness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Role_of_Repentance_in_Forgiveness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Role_of_Repentance_in_Forgiveness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Role_of_Repentance_in_Forgiveness_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Role_of_Repentance_in_Forgiveness_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Role_of_Repentance_in_Forgiveness.md)

@@ -27,7 +27,7 @@ Here are some pieces of evidence from the New Testament and surrounding texts th
 While the New Testament does not explicitly label John the Baptist as a Nazirite, these aspects of his life and ministry contribute to the understanding that he may indeed uphold some of the characteristic traits of a Nazirite. However, it's essential to approach this interpretation with caution, as not all scholars may agree with the Nazirite classification.
 
 ## Average Grade
-90.0
+89.375
 
 ## Grades
  * [85.0](./New_Testament_References_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ While the New Testament does not explicitly label John the Baptist as a Nazirite
  * [95.0](./New_Testament_References_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./New_Testament_References_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./New_Testament_References_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./New_Testament_References_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./New_Testament_References_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/New_Testament_References.md)

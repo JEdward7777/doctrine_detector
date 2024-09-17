@@ -23,7 +23,7 @@ Furthermore, in a Hadith narrated by Abu Huraira, Prophet Muhammad (peace be upo
 In Islam, transgression is condemned and believers are encouraged to fulfill their duties and obligations without exceeding the limits set by Allah. Transgression leads to the corruption of individuals and societies, and it is important for Muslims to strive to avoid it in all aspects of their lives.
 
 ## Average Grade
-69.16666666666667
+70.625
 
 ## Grades
  * [75.0](./Biblical_Examples_of_Transgression_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ In Islam, transgression is condemned and believers are encouraged to fulfill the
  * [85.0](./Biblical_Examples_of_Transgression_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Biblical_Examples_of_Transgression_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [30.0](./Biblical_Examples_of_Transgression_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Biblical_Examples_of_Transgression_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Biblical_Examples_of_Transgression_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Biblical_Examples_of_Transgression.md)

@@ -15,7 +15,7 @@ Understanding the meaning and significance of the Lord’s Supper in Christian f
 The Lord's Supper commemorates the symbolic act of Jesus Christ sharing a meal with his disciples before his crucifixion. The emphasis is on the love and forgiveness offered by Christ, rather than on any specific historical or dietary event.</end_of_turn>
 
 ## Average Grade
-75.0
+73.75
 
 ## Grades
  * [70.0](./Lord_s_Supper_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ The Lord's Supper commemorates the symbolic act of Jesus Christ sharing a meal w
  * [80.0](./Lord_s_Supper_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Lord_s_Supper_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Lord_s_Supper_Definition_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [70.0](./Lord_s_Supper_Definition_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Lord_s_Supper_Definition_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Lord_s_Supper_Definition.md)

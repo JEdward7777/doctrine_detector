@@ -25,7 +25,7 @@ This passage suggests that justification (acceptance into the Christian communit
 In summary, these passages reveal that the early Christian community was undergoing a significant transformation regarding its attitude towards Gentiles. The conversion of Saul in Acts 9:13-16 signifies the acceptance of former outsiders into the faith, while Galatians 2:16 shows that this change was rooted in the belief that justification comes through faith in Jesus Christ rather than adherence to Jewish Law. This newfound openness to Gentiles became a defining characteristic of Christianity and played a significant role in its rapid spread throughout the Roman Empire.
 
 ## Average Grade
-81.66666666666667
+79.375
 
 ## Grades
  * [85.0](./Biblical_References_to_Gentiles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ In summary, these passages reveal that the early Christian community was undergo
  * [85.0](./Biblical_References_to_Gentiles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_References_to_Gentiles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Biblical_References_to_Gentiles_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Biblical_References_to_Gentiles_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Biblical_References_to_Gentiles_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Biblical_References_to_Gentiles.md)

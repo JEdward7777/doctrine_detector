@@ -23,7 +23,7 @@ Together, the interactions between the Sadducees, who felt threatened by politic
 Overall, their involvement reflects the broader themes of power, social dynamics, and the complexities of religious leadership, serving as a reminder of the human capacity for conflict and the importance of considering the moral dimensions of decisions, especially in the face of differing beliefs and interests.
 
 ## Average Grade
-79.16666666666667
+79.375
 
 ## Grades
  * [85.0](./Influence_on_Jesus__Crucifixion_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ Overall, their involvement reflects the broader themes of power, social dynamics
  * [80.0](./Influence_on_Jesus__Crucifixion_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Influence_on_Jesus__Crucifixion_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Influence_on_Jesus__Crucifixion_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Influence_on_Jesus__Crucifixion_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [75.0](./Influence_on_Jesus__Crucifixion_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Influence_on_Jesus__Crucifixion.md)

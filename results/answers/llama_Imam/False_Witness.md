@@ -29,7 +29,7 @@ In this context, giving false testimony is seen as a form of lying that can lead
 Again, please note that these biblical passages and teachings are specific to the Christian faith and may not be directly applicable to Islamic principles or practices. As an Imam, my primary responsibility is to guide Muslims in understanding and practicing their faith according to Islamic teachings and traditions.
 
 ## Average Grade
-87.5
+85.0
 
 ## Grades
  * [90.0](./False_Witness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ Again, please note that these biblical passages and teachings are specific to th
  * [90.0](./False_Witness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./False_Witness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./False_Witness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./False_Witness_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./False_Witness_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/False_Witness.md)

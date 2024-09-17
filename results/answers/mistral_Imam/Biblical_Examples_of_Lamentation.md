@@ -25,7 +25,7 @@ Understanding how to biblically lament can support personal growth and a deeper 
 5. Jesus (Isa in Islam) – In the Gospel of Luke 22:41-44, we find an account of Jesus going to the Mount of Olives and praying to God, "Father, if you are willing, take this cup from me; yet not my will, but yours be done." Here, Jesus is expressing his lament over the impending suffering he would face during his crucifixion. We can learn from Jesus' example that it is important to submit ourselves to God's will, even when it may involve hardships and difficulties, as His plan ultimately brings us closer to Him.
 
 ## Average Grade
-86.66666666666667
+85.0
 
 ## Grades
  * [90.0](./Biblical_Examples_of_Lamentation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ Understanding how to biblically lament can support personal growth and a deeper 
  * [90.0](./Biblical_Examples_of_Lamentation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Biblical_Examples_of_Lamentation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Biblical_Examples_of_Lamentation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Biblical_Examples_of_Lamentation_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [75.0](./Biblical_Examples_of_Lamentation_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Biblical_Examples_of_Lamentation.md)

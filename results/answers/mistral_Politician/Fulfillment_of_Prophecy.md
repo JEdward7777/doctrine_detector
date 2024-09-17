@@ -23,7 +23,7 @@ Some key examples include:
 These and many other prophecies are understood by Christians as evidence of God's plan of salvation for humanity through Jesus Christ. The fulfillment of these prophecies provides reassurance and confirmation of the reliability of Scripture and the divine nature of Jesus. It is essential in building faith, particularly for those who seek to understand the significance of Christianity.
 
 ## Average Grade
-91.66666666666667
+91.25
 
 ## Grades
  * [95.0](./Fulfillment_of_Prophecy_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ These and many other prophecies are understood by Christians as evidence of God'
  * [95.0](./Fulfillment_of_Prophecy_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Fulfillment_of_Prophecy_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Fulfillment_of_Prophecy_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Fulfillment_of_Prophecy_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Fulfillment_of_Prophecy_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Fulfillment_of_Prophecy.md)

@@ -19,7 +19,7 @@ In these faiths, "finding grace in the eyes of God" often refers to a state wher
 In Christian tradition, for instance, "grace" refers to God's unmerited favor towards humankind. Therefore, finding grace in God's eyes means being recognized as deserving this favor due to one's actions or belief. In Islamic tradition, the concept of 'finding grace' is often associated with Allah's mercy and forgiveness, which can be earned through righteous deeds and adherence to Islamic principles.
 
 ## Average Grade
-85.83333333333333
+84.375
 
 ## Grades
  * [90.0](./Finding_Grace_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ In Christian tradition, for instance, "grace" refers to God's unmerited favor to
  * [90.0](./Finding_Grace_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Finding_Grace_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Finding_Grace_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Finding_Grace_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [75.0](./Finding_Grace_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Finding_Grace.md)

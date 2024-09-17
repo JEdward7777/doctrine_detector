@@ -25,7 +25,7 @@ Finally, viewing a calling as intentional can also cultivate a sense of accounta
 Overall, the use of 'call' as intentional encapsulates a profound understanding of purpose, community, self-worth, and responsible living, resonating deeply with many who seek purpose in their lives. It highlights the interconnectedness of individuals with one another and with the divine, reflecting a broader narrative about human experience and existential significance.
 
 ## Average Grade
-89.16666666666667
+86.25
 
 ## Grades
  * [90.0](./God_s_Intentionality_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ Overall, the use of 'call' as intentional encapsulates a profound understanding 
  * [95.0](./God_s_Intentionality_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./God_s_Intentionality_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./God_s_Intentionality_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./God_s_Intentionality_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [65.0](./God_s_Intentionality_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/God_s_Intentionality.md)

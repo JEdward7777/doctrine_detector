@@ -19,7 +19,7 @@ In contrast, "Hades" appears in the New Testament (Greek Bible) to refer to the 
 It is important to note that interpretations of these concepts can vary among different Christian denominations and theologians. The Bible does not provide a clear picture of the afterlife for the righteous versus the unrighteous, but it emphasizes living a righteous life as the primary focus rather than focusing on the details of the afterlife. The ultimate destination of individuals is often depicted as being determined by their faith and relationship with God.
 
 ## Average Grade
-83.33333333333333
+81.875
 
 ## Grades
  * [90.0](./Understanding_of_Sheol_and_Hades_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ It is important to note that interpretations of these concepts can vary among di
  * [85.0](./Understanding_of_Sheol_and_Hades_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Understanding_of_Sheol_and_Hades_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Understanding_of_Sheol_and_Hades_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_of_Sheol_and_Hades_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Understanding_of_Sheol_and_Hades_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_of_Sheol_and_Hades.md)

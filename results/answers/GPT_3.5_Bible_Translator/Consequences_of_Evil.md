@@ -25,7 +25,7 @@ In the Bible, the consequences of evil are depicted in a variety of ways, illust
 Overall, the Bible teaches that the consequences of evil are severe and include physical death, spiritual separation from God, destruction, and ultimately eternal punishment. However, the good news is that God offers forgiveness and salvation through Jesus Christ, providing a way for individuals to be reconciled to Him and escape the consequences of sin.
 
 ## Average Grade
-85.0
+86.25
 
 ## Grades
  * [90.0](./Consequences_of_Evil_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ Overall, the Bible teaches that the consequences of evil are severe and include 
  * [90.0](./Consequences_of_Evil_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Consequences_of_Evil_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Consequences_of_Evil_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Consequences_of_Evil_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Consequences_of_Evil_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Consequences_of_Evil.md)

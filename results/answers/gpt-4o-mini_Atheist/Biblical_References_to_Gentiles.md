@@ -21,7 +21,7 @@ In Galatians 2:16, Paul discusses the issue of justification and the role of fai
 Together, these passages reveal that the early Christian movement recognized the inclusion of Gentiles as essential to its growth and mission. They illustrate a pivotal shift from a primarily Jewish faith to a broader, more inclusive religion that welcomed believers from all backgrounds, emphasizing faith in Christ as the key to salvation rather than adherence to the law. This inclusion was a foundational aspect of Paul's theology and significantly shaped the development of early Christian identity.
 
 ## Average Grade
-92.5
+91.875
 
 ## Grades
  * [95.0](./Biblical_References_to_Gentiles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ Together, these passages reveal that the early Christian movement recognized the
  * [95.0](./Biblical_References_to_Gentiles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Biblical_References_to_Gentiles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Biblical_References_to_Gentiles_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Biblical_References_to_Gentiles_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Biblical_References_to_Gentiles_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Biblical_References_to_Gentiles.md)

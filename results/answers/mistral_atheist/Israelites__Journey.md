@@ -19,7 +19,7 @@ In this narrative, Yahweh is portrayed as the one who led the Israelites out of 
 This interpretation emphasizes the central role of Yahweh in the Israelite understanding of their history and identity. By looking at this journey through the lens of ancient Israelite religious beliefs, we can appreciate how the successful conclusion of the journey to the Promised Land demonstrated God's faithfulness as understood by them. However, it is essential to remember that this interpretation may not resonate with those who do not hold similar belief systems.
 
 ## Average Grade
-94.16666666666667
+91.25
 
 ## Grades
  * [95.0](./Israelites__Journey_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ This interpretation emphasizes the central role of Yahweh in the Israelite under
  * [95.0](./Israelites__Journey_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Israelites__Journey_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Israelites__Journey_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Israelites__Journey_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [80.0](./Israelites__Journey_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Israelites__Journey.md)

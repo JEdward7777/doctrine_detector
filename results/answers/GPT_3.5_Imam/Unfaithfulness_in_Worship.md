@@ -25,7 +25,7 @@ The people of Israel demonstrated unfaithfulness in their worship in several way
 Overall, unfaithfulness in worship can take many forms, and it is important for Muslims to remain steadfast in their worship of Allah alone, following His commandments with sincerity and devotion.
 
 ## Average Grade
-69.16666666666667
+67.5
 
 ## Grades
  * [75.0](./Unfaithfulness_in_Worship_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ Overall, unfaithfulness in worship can take many forms, and it is important for 
  * [85.0](./Unfaithfulness_in_Worship_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Unfaithfulness_in_Worship_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Unfaithfulness_in_Worship_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Unfaithfulness_in_Worship_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Unfaithfulness_in_Worship_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Unfaithfulness_in_Worship.md)

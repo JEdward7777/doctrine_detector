@@ -17,7 +17,7 @@ The Bible instructs children to honor their parents in various passages, includi
 The concept of honoring one's parents is seen as an important moral and ethical duty in many cultures and religions, not just in Christianity. It is a way to show respect, gratitude, and care for those who brought us into the world and raised us. Honoring parents can include obeying their guidance (when it is positive and beneficial), showing appreciation and love, providing care and support as they age, and treating them with respect and dignity.
 
 ## Average Grade
-80.0
+79.375
 
 ## Grades
  * [90.0](./Children_and_Honor_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -26,5 +26,7 @@ The concept of honoring one's parents is seen as an important moral and ethical 
  * [90.0](./Children_and_Honor_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Children_and_Honor_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Children_and_Honor_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Children_and_Honor_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Children_and_Honor_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Children_and_Honor.md)

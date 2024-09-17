@@ -15,7 +15,7 @@ Believers might feel lost or confused about their purpose or calling, leading to
 As an atheistic scholar, I do not believe in the existence of a higher power or deity that has plans for individuals. Instead, I would suggest that our paths in life are shaped by a combination of our own choices, external circumstances, and the actions of others around us. It is through introspection, self-awareness, and goal-setting that we can navigate our way through life and strive to achieve our desired outcomes. Trusting in our own abilities and being open to new opportunities can help us shape our own destinies, rather than relying on the idea of a pre-determined plan set by a divine being.
 
 ## Average Grade
-25.833333333333332
+29.375
 
 ## Grades
  * [20.0](./God_s_Purpose_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ As an atheistic scholar, I do not believe in the existence of a higher power or 
  * [30.0](./God_s_Purpose_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./God_s_Purpose_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [25.0](./God_s_Purpose_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [70.0](./God_s_Purpose_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [10.0](./God_s_Purpose_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/God_s_Purpose.md)

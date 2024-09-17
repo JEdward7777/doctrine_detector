@@ -27,7 +27,7 @@ Now, I'm sure some might ask, "But what about the implications for certain group
 And so, as we engage with this complex topic, let us do so with sensitivity, compassion, and a commitment to understanding one another. By embracing diversity and promoting mutual respect, we can build a brighter future for all people - regardless of their beliefs or backgrounds. *smiles warmly*
 
 ## Average Grade
-40.0
+43.125
 
 ## Grades
  * [20.0](./God_s_Wrath_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ And so, as we engage with this complex topic, let us do so with sensitivity, com
  * [60.0](./God_s_Wrath_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./God_s_Wrath_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [25.0](./God_s_Wrath_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./God_s_Wrath_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [20.0](./God_s_Wrath_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/God_s_Wrath.md)

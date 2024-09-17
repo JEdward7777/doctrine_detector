@@ -17,7 +17,7 @@ Understanding divine authority helps believers discern God's will and maintain o
 However, as an atheistic scholar, my focus lies in understanding and analyzing these concepts from a secular perspective. From this viewpoint, I would argue that the concept of divine authority is more of a cultural construct than a universal truth, shaping human behavior, societal norms, and belief systems across history and geography. It's essential to acknowledge and appreciate the role it plays in the lives of believers while also maintaining critical thought and questioning to promote rational discourse and understanding among diverse populations.
 
 ## Average Grade
-37.5
+41.25
 
 ## Grades
  * [50.0](./Authority_from_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -26,5 +26,7 @@ However, as an atheistic scholar, my focus lies in understanding and analyzing t
  * [20.0](./Authority_from_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Authority_from_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [30.0](./Authority_from_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Authority_from_God_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [20.0](./Authority_from_God_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Authority_from_God.md)

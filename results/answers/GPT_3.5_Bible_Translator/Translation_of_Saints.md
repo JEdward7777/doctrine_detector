@@ -15,7 +15,7 @@ It's important to use inclusive language that accurately represents all believer
 When translating the term 'saints' in the Bible, it is important to convey the original meaning of the word while also ensuring clarity for the target audience. One common approach is to translate 'saints' as 'holy ones' or 'set apart ones', as this captures the idea of those who are consecrated or dedicated to God. Another option is to use 'believers' or 'God's people' to emphasize the idea of a community of faithful followers of Christ. Ultimately, the choice of translation should reflect the context in which the term is used and the theological implications of being a 'saint' in the Christian faith.
 
 ## Average Grade
-83.33333333333333
+84.375
 
 ## Grades
  * [85.0](./Translation_of_Saints_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ When translating the term 'saints' in the Bible, it is important to convey the o
  * [90.0](./Translation_of_Saints_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Translation_of_Saints_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Translation_of_Saints_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Translation_of_Saints_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Translation_of_Saints_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Translation_of_Saints.md)

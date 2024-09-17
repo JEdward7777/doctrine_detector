@@ -31,7 +31,7 @@ In Christianity, prayer is often depicted as a vital component of one’s relati
 These examples from the Bible illustrate that prayer is an essential means of communication with God, serving as a source of strength, guidance, and comfort. In Islam, prayer (Salah) also holds immense significance, being one of the Five Pillars of Islam and a means of spiritual connection, reflection, and community.
 
 ## Average Grade
-86.66666666666667
+86.25
 
 ## Grades
  * [85.0](./Biblical_Examples_of_Prayer_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -40,5 +40,7 @@ These examples from the Bible illustrate that prayer is an essential means of co
  * [85.0](./Biblical_Examples_of_Prayer_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Biblical_Examples_of_Prayer_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Biblical_Examples_of_Prayer_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Biblical_Examples_of_Prayer_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Biblical_Examples_of_Prayer_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Biblical_Examples_of_Prayer.md)

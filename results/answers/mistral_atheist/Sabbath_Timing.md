@@ -17,7 +17,7 @@ Recognizing the specific timeframe for the observance of the Sabbath in accordan
 It's important to note that the specific timing can vary slightly among different Jewish communities due to regional differences and the intricacies involved in calculating sunset based on astronomical observations. However, this basic timing of Friday evening to Saturday evening remains consistent across most Jewish traditions.
 
 ## Average Grade
-90.83333333333333
+90.0
 
 ## Grades
  * [90.0](./Sabbath_Timing_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -26,5 +26,7 @@ It's important to note that the specific timing can vary slightly among differen
  * [95.0](./Sabbath_Timing_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Sabbath_Timing_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [95.0](./Sabbath_Timing_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Sabbath_Timing_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Sabbath_Timing_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Sabbath_Timing.md)

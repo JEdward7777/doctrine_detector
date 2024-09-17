@@ -23,7 +23,7 @@ Ensuring accurate representation of God's name across different cultures and lan
 These translations all strive to convey the sense of God's omnipotence and power as indicated by the phrase in its original Hebrew context. However, it is essential to remember that translation can be subjective and may differ between translations and versions, influenced by the cultural and religious background of the translators.
 
 ## Average Grade
-78.33333333333333
+80.0
 
 ## Grades
  * [90.0](./Translating_El_Shaddai_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ These translations all strive to convey the sense of God's omnipotence and power
  * [85.0](./Translating_El_Shaddai_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Translating_El_Shaddai_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Translating_El_Shaddai_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Translating_El_Shaddai_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Translating_El_Shaddai_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Translating_El_Shaddai.md)

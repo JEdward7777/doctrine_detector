@@ -23,7 +23,7 @@ However, there are parallels drawn between Jesus and the high priesthood in cert
 **The New Testament emphasizes that Jesus' priesthood is universal and inclusive**, offering salvation and reconciliation to all people, regardless of their background or religious practices.
 
 ## Average Grade
-90.0
+88.125
 
 ## Grades
  * [90.0](./Jesus_as_the_High_Priest_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ However, there are parallels drawn between Jesus and the high priesthood in cert
  * [95.0](./Jesus_as_the_High_Priest_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Jesus_as_the_High_Priest_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Jesus_as_the_High_Priest_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Jesus_as_the_High_Priest_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [80.0](./Jesus_as_the_High_Priest_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Jesus_as_the_High_Priest.md)

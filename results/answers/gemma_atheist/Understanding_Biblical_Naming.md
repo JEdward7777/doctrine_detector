@@ -49,7 +49,7 @@ Understanding proper biblical interpretation and the significance of names in sc
 The statement "His name is called John" in the Bible is a reflection of the cultural and religious understanding of naming practices among ancient Israelite communities. It should be interpreted within the historical and cultural context of ancient Israel and does not hold religious significance from an atheological perspective.
 
 ## Average Grade
-60.0
+63.125
 
 ## Grades
  * [70.0](./Understanding_Biblical_Naming_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -58,5 +58,7 @@ The statement "His name is called John" in the Bible is a reflection of the cult
  * [70.0](./Understanding_Biblical_Naming_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Understanding_Biblical_Naming_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Understanding_Biblical_Naming_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Biblical_Naming_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Understanding_Biblical_Naming_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Biblical_Naming.md)

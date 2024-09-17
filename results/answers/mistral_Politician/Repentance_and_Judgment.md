@@ -21,7 +21,7 @@ In the New Testament, Jesus preached forgiveness to those who repent (Luke 5:32)
 In summary, the Bible suggests that repentance plays an essential role in reconciling oneself with God and avoiding His wrath, while also demonstrating His compassion for those who seek forgiveness. As always, it is important to remember that interpretations can vary among different faith communities, so it's crucial to consult with knowledgeable sources when seeking a deeper understanding of these teachings.
 
 ## Average Grade
-85.83333333333333
+82.5
 
 ## Grades
  * [90.0](./Repentance_and_Judgment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ In summary, the Bible suggests that repentance plays an essential role in reconc
  * [90.0](./Repentance_and_Judgment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Repentance_and_Judgment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Repentance_and_Judgment_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Repentance_and_Judgment_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Repentance_and_Judgment_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Repentance_and_Judgment.md)

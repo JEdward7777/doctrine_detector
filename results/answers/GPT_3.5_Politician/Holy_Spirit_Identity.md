@@ -15,7 +15,7 @@ Understanding the divine nature of the Holy Spirit is essential for Christians t
 Many Christians believe that the Holy Spirit, as a divine entity, plays a crucial role in guiding and empowering them in their faith and daily lives. The belief in the Holy Spirit as God underscores the importance of seeking spiritual guidance, inspiration, and strength from a higher power. This belief also highlights the interconnectedness of individuals with their faith and the divine, emphasizing the need for humility, reverence, and prayer in seeking guidance and fulfilling one's purpose. It is important to respect and acknowledge the diversity of beliefs within the Christian community regarding the Holy Spirit's role, being mindful not to invalidate or disrespect differing interpretations.
 
 ## Average Grade
-85.0
+83.75
 
 ## Grades
  * [85.0](./Holy_Spirit_Identity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ Many Christians believe that the Holy Spirit, as a divine entity, plays a crucia
  * [90.0](./Holy_Spirit_Identity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Holy_Spirit_Identity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Holy_Spirit_Identity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Holy_Spirit_Identity_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [75.0](./Holy_Spirit_Identity_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Holy_Spirit_Identity.md)

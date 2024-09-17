@@ -35,7 +35,7 @@ Other differences between human sons and the Son of God might include:
 It's essential to note that these distinctions are rooted in Christian theology and may vary across different cultural and religious contexts. As an atheist scholar, I'm not attempting to establish or justify the existence or nature of the Son of God but rather provide a nuanced understanding of the concept within its historical and cultural framework.
 
 ## Average Grade
-70.83333333333333
+71.25
 
 ## Grades
  * [95.0](./Eternal_Nature_of_the_Son_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -44,5 +44,7 @@ It's essential to note that these distinctions are rooted in Christian theology 
  * [80.0](./Eternal_Nature_of_the_Son_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Eternal_Nature_of_the_Son_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Eternal_Nature_of_the_Son_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Eternal_Nature_of_the_Son_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Eternal_Nature_of_the_Son_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Eternal_Nature_of_the_Son.md)

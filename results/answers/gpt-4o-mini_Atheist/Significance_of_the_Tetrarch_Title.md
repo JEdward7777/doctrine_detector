@@ -25,7 +25,7 @@ The title "tetrarch" provides significant insight into the governance structure 
 In summary, the title "tetrarch" illustrates a complex governance structure in Judea during Jesus' time. It highlights the presence of Roman administrative practices, the fragmentation of authority after Herod the Great's reign, and the local rulers' need to balance their roles within the framework of Roman imperial power. This context is critical for understanding the social and political environment in which Jesus lived and preached.
 
 ## Average Grade
-90.83333333333333
+90.625
 
 ## Grades
  * [95.0](./Significance_of_the_Tetrarch_Title_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ In summary, the title "tetrarch" illustrates a complex governance structure in J
  * [90.0](./Significance_of_the_Tetrarch_Title_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Significance_of_the_Tetrarch_Title_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Significance_of_the_Tetrarch_Title_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Significance_of_the_Tetrarch_Title_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Significance_of_the_Tetrarch_Title_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Significance_of_the_Tetrarch_Title.md)

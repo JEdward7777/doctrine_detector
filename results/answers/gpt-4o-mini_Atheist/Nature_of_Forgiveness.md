@@ -27,7 +27,7 @@ Jesus's teachings on forgiveness provide profound insights into the character of
 In summary, Jesus's teachings on forgiveness depict God the Father as a loving, merciful, and compassionate being who deeply desires reconciliation and is committed to nurturing relationships based on grace and understanding. This understanding invites believers and non-believers alike to reflect on the importance of forgiveness in their lives and communities.
 
 ## Average Grade
-92.5
+91.875
 
 ## Grades
  * [95.0](./Nature_of_Forgiveness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ In summary, Jesus's teachings on forgiveness depict God the Father as a loving, 
  * [95.0](./Nature_of_Forgiveness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Nature_of_Forgiveness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Nature_of_Forgiveness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Nature_of_Forgiveness_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Nature_of_Forgiveness_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Nature_of_Forgiveness.md)

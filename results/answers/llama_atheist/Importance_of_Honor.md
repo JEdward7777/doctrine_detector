@@ -32,7 +32,7 @@ In conclusion, honoring God and others according to biblical teachings is crucia
 While I, as an atheist, may not share the same beliefs or values, it's essential to recognize the significance of these concepts within Christian culture and society. By understanding their cultural context and historical development, we can better appreciate the importance of honoring God and others in the lives of Christians.
 
 ## Average Grade
-78.33333333333333
+71.25
 
 ## Grades
  * [85.0](./Importance_of_Honor_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -41,5 +41,7 @@ While I, as an atheist, may not share the same beliefs or values, it's essential
  * [90.0](./Importance_of_Honor_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Importance_of_Honor_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Importance_of_Honor_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Importance_of_Honor_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [20.0](./Importance_of_Honor_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Importance_of_Honor.md)

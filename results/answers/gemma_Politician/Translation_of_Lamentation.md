@@ -51,7 +51,7 @@ Christians may need clarity on the emotional weight of lamentation to appropriat
 * The importance of fostering open and respectful conversations about grief and lament without causing offense or distress.
 
 ## Average Grade
-81.66666666666667
+81.25
 
 ## Grades
  * [90.0](./Translation_of_Lamentation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -60,5 +60,7 @@ Christians may need clarity on the emotional weight of lamentation to appropriat
  * [90.0](./Translation_of_Lamentation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Translation_of_Lamentation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [65.0](./Translation_of_Lamentation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Translation_of_Lamentation_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Translation_of_Lamentation_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Translation_of_Lamentation.md)

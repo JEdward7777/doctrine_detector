@@ -42,7 +42,7 @@ Exploring how one can seek and recognize God's favor in their life.
 Finding grace in the eyes of God is a fundamental aspect of the Muslim faith. It is a state of spiritual fulfillment that is attainable through humility, repentance, gratitude, and compassion.
 
 ## Average Grade
-84.16666666666667
+81.25
 
 ## Grades
  * [90.0](./Finding_Grace_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -51,5 +51,7 @@ Finding grace in the eyes of God is a fundamental aspect of the Muslim faith. It
  * [85.0](./Finding_Grace_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Finding_Grace_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Finding_Grace_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Finding_Grace_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Finding_Grace_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Finding_Grace.md)

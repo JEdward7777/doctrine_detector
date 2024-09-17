@@ -15,7 +15,7 @@ Recognizing historical context and significance of the term 'Christian'.
  According to historical records, the term "Christian" was first used as an appellative by outsiders rather than by Jesus' followers themselves. The earliest known use of this term appears in the Acts of the Apostles (11:26), written around 80-90 CE. The word "Christian" comes from the Greek term "Christianos," which means "followers of Christ." It is believed that they were first called Christians in Antioch, a city located in modern-day Syria, by non-Jewish people who observed the new religious group's devotion to Jesus. This label later became more widespread as followers of Jesus spread throughout the Greco-Roman world and beyond. It is important to note that the term "Christian" was not universally adopted by all followers of Jesus during this time, with some choosing to identify themselves as disciples or believers in Jesus instead.
 
 ## Average Grade
-88.33333333333333
+88.75
 
 ## Grades
  * [95.0](./Origin_of_the_Term_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ Recognizing historical context and significance of the term 'Christian'.
  * [95.0](./Origin_of_the_Term_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Origin_of_the_Term_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [95.0](./Origin_of_the_Term_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Origin_of_the_Term_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Origin_of_the_Term_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Origin_of_the_Term.md)

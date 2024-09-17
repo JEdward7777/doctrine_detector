@@ -33,7 +33,7 @@ Understanding the practical implications of a relationship with Christ.
 10. Transformation: Sharing "in Christ" means being transformed into His likeness, becoming more like Jesus daily (2 Corinthians 3:18, Romans 8:29). This transformation brings glory to God and enables believers to live lives that reflect His character and nature.
 
 ## Average Grade
-78.33333333333333
+81.875
 
 ## Grades
  * [70.0](./Benefits_of_Being__In_Christ__grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -42,5 +42,7 @@ Understanding the practical implications of a relationship with Christ.
  * [70.0](./Benefits_of_Being__In_Christ__grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Benefits_of_Being__In_Christ__grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Benefits_of_Being__In_Christ__grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Benefits_of_Being__In_Christ__grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Benefits_of_Being__In_Christ__grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Benefits_of_Being__In_Christ_.md)

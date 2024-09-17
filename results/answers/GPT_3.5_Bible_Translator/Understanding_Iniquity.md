@@ -23,7 +23,7 @@ In the Bible, there are distinctions between the terms iniquity, sin, and transg
 While these terms have distinct nuances, they all ultimately point to the reality of human sinfulness and the need for repentance, forgiveness, and redemption through Jesus Christ. Regardless of the specific term used, the Bible teaches that all have sinned and fall short of God's glory (Romans 3:23) and that the only remedy for sin is found in the sacrificial death and resurrection of Jesus Christ (1 Peter 2:24).
 
 ## Average Grade
-90.0
+89.375
 
 ## Grades
  * [90.0](./Understanding_Iniquity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ While these terms have distinct nuances, they all ultimately point to the realit
  * [95.0](./Understanding_Iniquity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Iniquity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Understanding_Iniquity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Iniquity_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Understanding_Iniquity_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Iniquity.md)

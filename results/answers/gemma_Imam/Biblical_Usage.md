@@ -15,7 +15,7 @@ Understanding the importance of genealogies in establishing Jesus' lineage and f
 The term 'begat' is not used in the genealogy accounts found in the Bible within a Muslim context. The Bible is not considered scripture by Muslims, and Islamic teachings and interpretations take precedence over biblical narratives.
 
 ## Average Grade
-55.833333333333336
+48.125
 
 ## Grades
  * [85.0](./Biblical_Usage_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ The term 'begat' is not used in the genealogy accounts found in the Bible within
  * [50.0](./Biblical_Usage_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [20.0](./Biblical_Usage_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./Biblical_Usage_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [0.0](./Biblical_Usage_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Biblical_Usage_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Biblical_Usage.md)

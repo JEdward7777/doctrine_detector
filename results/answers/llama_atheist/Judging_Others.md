@@ -27,7 +27,7 @@ In terms of judging others, the Bible warns against being judgmental or critical
 In summary, the Bible offers guidance on how Christians should interact with each other by emphasizing the importance of love, compassion, humility, honesty, and forgiveness. It also advises against being judgmental and encourages believers to focus on their own spiritual growth and development rather than trying to correct or change others.
 
 ## Average Grade
-89.16666666666667
+85.625
 
 ## Grades
  * [90.0](./Judging_Others_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ In summary, the Bible offers guidance on how Christians should interact with eac
  * [95.0](./Judging_Others_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Judging_Others_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Judging_Others_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Judging_Others_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [65.0](./Judging_Others_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Judging_Others.md)

@@ -27,7 +27,7 @@ In Islam, we believe that the Bible is one of the revealed scriptures (Kitab), a
 As an Imam, I can assure you that our understanding of Christianity is based on the Quranic revelations and the teachings of the Prophet Muhammad (peace be upon him), who emphasized the importance of respecting and honoring all prophets, including Jesus Christ.
 
 ## Average Grade
-25.833333333333332
+34.375
 
 ## Grades
  * [20.0](./Definition_of_a_Christian_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ As an Imam, I can assure you that our understanding of Christianity is based on 
  * [45.0](./Definition_of_a_Christian_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Definition_of_a_Christian_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [0.0](./Definition_of_a_Christian_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [70.0](./Definition_of_a_Christian_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Definition_of_a_Christian_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Definition_of_a_Christian.md)

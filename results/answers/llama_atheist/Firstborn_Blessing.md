@@ -30,7 +30,7 @@ To make these applications more accessible to non-Christians, we can reframe the
 By reinterpreting the concept of birthright in these ways, we can foster a deeper understanding of our roles and statuses within Christian families while also acknowledging the diversity and complexity of modern family dynamics.
 
 ## Average Grade
-71.66666666666667
+69.375
 
 ## Grades
  * [60.0](./Firstborn_Blessing_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,5 +39,7 @@ By reinterpreting the concept of birthright in these ways, we can foster a deepe
  * [85.0](./Firstborn_Blessing_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Firstborn_Blessing_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [30.0](./Firstborn_Blessing_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Firstborn_Blessing_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Firstborn_Blessing_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Firstborn_Blessing.md)

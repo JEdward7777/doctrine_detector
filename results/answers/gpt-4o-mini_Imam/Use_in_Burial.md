@@ -25,7 +25,7 @@ In the New Testament, myrrh is notably mentioned as one of the gifts presented t
 Overall, myrrh played a multifaceted role in burial practices, reflecting both practical and symbolic aspects in the ancient context. Its use in these practices can serve as a reminder of the cultural customs surrounding death and the afterlife in biblical traditions.
 
 ## Average Grade
-91.66666666666667
+90.0
 
 ## Grades
  * [95.0](./Use_in_Burial_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ Overall, myrrh played a multifaceted role in burial practices, reflecting both p
  * [95.0](./Use_in_Burial_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Use_in_Burial_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Use_in_Burial_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Use_in_Burial_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Use_in_Burial_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Use_in_Burial.md)

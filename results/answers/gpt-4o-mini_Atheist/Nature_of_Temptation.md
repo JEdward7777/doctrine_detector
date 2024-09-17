@@ -21,7 +21,7 @@ The concept of temptation is often understood through the interplay between our 
 In summary, temptation arises from a complex interaction between our inner drives and the external environments we navigate. Understanding this interplay can offer insights into managing temptation and making choices that align with personal values and ethical frameworks. By being aware of both our innate tendencies and the influences around us, we can cultivate a more mindful approach to decision-making.
 
 ## Average Grade
-75.0
+76.25
 
 ## Grades
  * [85.0](./Nature_of_Temptation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ In summary, temptation arises from a complex interaction between our inner drive
  * [70.0](./Nature_of_Temptation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Nature_of_Temptation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [65.0](./Nature_of_Temptation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Nature_of_Temptation_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [75.0](./Nature_of_Temptation_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Nature_of_Temptation.md)

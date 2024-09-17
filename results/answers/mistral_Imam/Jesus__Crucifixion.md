@@ -19,7 +19,7 @@ In Islamic tradition, it is believed that this offer did not represent actual in
 It's important to note that interpretations can vary among Muslim scholars and within different Islamic traditions. This response represents one common understanding based on the Hadith Qudsi (a saying of Prophet Muhammad that is not part of the Quran but is considered to express the words of God).
 
 ## Average Grade
-74.16666666666667
+68.75
 
 ## Grades
  * [85.0](./Jesus__Crucifixion_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ It's important to note that interpretations can vary among Muslim scholars and w
  * [70.0](./Jesus__Crucifixion_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Jesus__Crucifixion_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Jesus__Crucifixion_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Jesus__Crucifixion_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [20.0](./Jesus__Crucifixion_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Jesus__Crucifixion.md)

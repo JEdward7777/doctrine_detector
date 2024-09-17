@@ -23,7 +23,7 @@ To reconcile these seemingly contradictory concepts, one may consider the idea o
 Ultimately, the nature of God is complex and multifaceted, encompassing attributes such as love, mercy, justice, holiness, and wisdom. By seeking to understand these qualities in context and through the lens of Christian teachings and tradition, we can strive to reconcile seemingly contradictory aspects of God's character.
 
 ## Average Grade
-90.0
+86.875
 
 ## Grades
  * [95.0](./Righteous_Judgment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ Ultimately, the nature of God is complex and multifaceted, encompassing attribut
  * [95.0](./Righteous_Judgment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Righteous_Judgment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Righteous_Judgment_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Righteous_Judgment_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Righteous_Judgment_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Righteous_Judgment.md)

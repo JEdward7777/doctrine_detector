@@ -23,7 +23,7 @@ The concept of ransom is referenced in several Bible verses, including:
 These verses contribute to the understanding of redemption by emphasizing the sacrificial nature of Jesus' death as a means of paying the price for sin and reconciling humanity with God. The concept of ransom highlights the idea of liberation from bondage and captivity through the payment of a price, underscoring the notion of redemption as a process of rescue and deliverance from sin and its consequences.
 
 ## Average Grade
-86.66666666666667
+87.5
 
 ## Grades
  * [95.0](./Biblical_References_8_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ These verses contribute to the understanding of redemption by emphasizing the sa
  * [90.0](./Biblical_References_8_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_References_8_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Biblical_References_8_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Biblical_References_8_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Biblical_References_8_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Biblical_References_8.md)

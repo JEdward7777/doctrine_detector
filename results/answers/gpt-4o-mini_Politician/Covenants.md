@@ -27,7 +27,7 @@ The promises made in biblical covenants serve as profound illustrations of God's
 Throughout Scripture, these covenants collectively demonstrate that God is not only a promise-maker but a promise-keeper. They convey themes of faithfulness, mercy, justice, and love, revealing how God has consistently sought to engage with, guide, and redeem humanity. Understanding these covenants helps us appreciate the depth of God's commitment and His desire for meaningful relationship with His creation.
 
 ## Average Grade
-93.66666666666667
+92.75
 
 ## Grades
  * [92.0](./Covenants_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ Throughout Scripture, these covenants collectively demonstrate that God is not o
  * [95.0](./Covenants_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Covenants_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Covenants_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Covenants_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Covenants_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Covenants.md)

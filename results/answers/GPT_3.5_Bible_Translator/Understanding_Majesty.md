@@ -15,7 +15,7 @@ Understanding God's attributes and His sovereignty over creation.
 The term 'majesty' when used in relation to God's character signifies his greatness, sovereignty, and splendor. It emphasizes his supreme authority, power, and glory that far surpasses any other being or thing. In the Bible, God's majesty is often associated with descriptions of his immense strength, beauty, and awe-inspiring presence. Psalm 96:6 says, "Splendor and majesty are before him; strength and glory are in his sanctuary." God's majesty highlights his unmatched excellence and holiness, and serves as a reminder of his divine nature and the reverence and worship that is due to him.
 
 ## Average Grade
-89.16666666666667
+88.75
 
 ## Grades
  * [90.0](./Understanding_Majesty_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ The term 'majesty' when used in relation to God's character signifies his greatn
  * [90.0](./Understanding_Majesty_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Understanding_Majesty_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Understanding_Majesty_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Majesty_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Understanding_Majesty_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Majesty.md)

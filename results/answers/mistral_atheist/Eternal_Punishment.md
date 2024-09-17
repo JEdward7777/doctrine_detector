@@ -23,7 +23,7 @@ However, critics argue that an eternal punishment is disproportionate and contra
 It's essential to acknowledge that different cultures, religions, and philosophical traditions have diverse interpretations of divine justice, sin, and punishment. Engaging with these discussions allows us to gain a richer understanding of various beliefs and values, fostering empathy, open-mindedness, and respect for the diversity within our global community.
 
 ## Average Grade
-60.833333333333336
+62.5
 
 ## Grades
  * [60.0](./Eternal_Punishment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ It's essential to acknowledge that different cultures, religions, and philosophi
  * [75.0](./Eternal_Punishment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Eternal_Punishment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./Eternal_Punishment_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Eternal_Punishment_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Eternal_Punishment_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Eternal_Punishment.md)

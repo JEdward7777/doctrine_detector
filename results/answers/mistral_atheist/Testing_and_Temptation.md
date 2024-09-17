@@ -21,7 +21,7 @@ Differentiating between testing and temptation is essential for spiritual discer
 In both cases, the ultimate purpose is to strengthen one's faith, but testing often serves as a means of growth and affirmation, while temptation presents a challenge to one's faith that must be resisted.
 
 ## Average Grade
-83.33333333333333
+83.75
 
 ## Grades
  * [85.0](./Testing_and_Temptation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ In both cases, the ultimate purpose is to strengthen one's faith, but testing of
  * [90.0](./Testing_and_Temptation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Testing_and_Temptation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Testing_and_Temptation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Testing_and_Temptation_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Testing_and_Temptation_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Testing_and_Temptation.md)

@@ -21,7 +21,7 @@ In the New Testament, the term "Rabbi" is primarily used to refer to Jesus. The 
 In summary, John the Baptist is not commonly referred to as "Rabbi," while Jesus is recognized with this title, reflecting His role as a teacher and leader within the Jewish context of His ministry.
 
 ## Average Grade
-79.16666666666667
+81.25
 
 ## Grades
  * [85.0](./Use_of__Rabbi__grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ In summary, John the Baptist is not commonly referred to as "Rabbi," while Jesus
  * [85.0](./Use_of__Rabbi__grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [50.0](./Use_of__Rabbi__grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Use_of__Rabbi__grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Use_of__Rabbi__grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Use_of__Rabbi__grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Use_of__Rabbi_.md)

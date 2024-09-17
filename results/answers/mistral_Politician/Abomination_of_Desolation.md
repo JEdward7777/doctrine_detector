@@ -21,7 +21,7 @@ In this context, the "abomination of desolation" symbolizes a profound violation
 In modern times, the phrase is often used metaphorically to describe any event or action that causes deep offense or shock within a community, particularly when it involves the desecration or betrayal of religious or cultural values. However, its original meaning and significance remain rooted in the historical context of the Jewish revolt against the Seleucid Empire.
 
 ## Average Grade
-84.66666666666667
+82.875
 
 ## Grades
  * [93.0](./Abomination_of_Desolation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ In modern times, the phrase is often used metaphorically to describe any event o
  * [75.0](./Abomination_of_Desolation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Abomination_of_Desolation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Abomination_of_Desolation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Abomination_of_Desolation_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Abomination_of_Desolation_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Abomination_of_Desolation.md)

@@ -29,7 +29,7 @@ In light of Christian theology, when we "call out to the Lord" in prayer, we're:
 As Christians, we have a mediator between us and God – Jesus Christ. When we pray, we can approach the throne of grace with confidence, knowing that we're already reconciled to God through faith in Christ's atoning sacrifice (Hebrews 4:16). In this sense, "calling out to the Lord" becomes an expression of our dependence on God and our trust in His sovereignty.
 
 ## Average Grade
-90.83333333333333
+91.25
 
 ## Grades
  * [95.0](./Prayer_as_Calling_Out_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ As Christians, we have a mediator between us and God – Jesus Christ. When we p
  * [95.0](./Prayer_as_Calling_Out_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Prayer_as_Calling_Out_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Prayer_as_Calling_Out_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [95.0](./Prayer_as_Calling_Out_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Prayer_as_Calling_Out_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Prayer_as_Calling_Out.md)

@@ -25,7 +25,7 @@ In 2 Corinthians 7:1, Paul speaks of believers being "sanctified in Christ Jesus
 Throughout this process, we must remember that sanctification is not just about individual growth but also about community and mission. We're called to love our neighbors as ourselves and serve others in His name (Matthew 22:37-40).
 
 ## Average Grade
-90.0
+87.5
 
 ## Grades
  * [95.0](./Sanctification_in_the_New_Testament_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ Throughout this process, we must remember that sanctification is not just about 
  * [90.0](./Sanctification_in_the_New_Testament_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Sanctification_in_the_New_Testament_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Sanctification_in_the_New_Testament_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Sanctification_in_the_New_Testament_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Sanctification_in_the_New_Testament_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Sanctification_in_the_New_Testament.md)

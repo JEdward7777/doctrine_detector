@@ -21,7 +21,7 @@ In Islamic theology, while Jesus (known as Isa) is highly respected as a prophet
 That said, the consideration of Jesus’ experience can serve as a reminder for Muslims of the deep compassion, mercy, and sacrifice that prophets embody, which can inspire believers to bear their own struggles with patience and faith. In Islam, the emphasis is on the unity and finality of God's message as brought through the Prophet Muhammad, and the significance of Jesus is considered within that broader context.
 
 ## Average Grade
-85.83333333333333
+82.5
 
 ## Grades
  * [90.0](./Jesus__Crucifixion_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ That said, the consideration of Jesus’ experience can serve as a reminder for 
  * [90.0](./Jesus__Crucifixion_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Jesus__Crucifixion_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Jesus__Crucifixion_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Jesus__Crucifixion_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Jesus__Crucifixion_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Jesus__Crucifixion.md)

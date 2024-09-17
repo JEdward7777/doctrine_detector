@@ -15,7 +15,7 @@ Understanding the role of the ephod helps in comprehending the Old Testament pri
 The ephod worn by the high priest in the Old Testament held great significance as it represented his sacred position and authority in leading the people in worship and seeking guidance from God. It was a symbol of his role as a mediator between the people and God, showing his responsibility to intercede on behalf of the community and carry out rituals in accordance with the law. The ephod was also adorned with precious stones symbolizing the tribes of Israel, highlighting the unity and diversity of the people coming together in worship.
 
 ## Average Grade
-89.16666666666667
+88.125
 
 ## Grades
  * [90.0](./Ephod_significance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ The ephod worn by the high priest in the Old Testament held great significance a
  * [90.0](./Ephod_significance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Ephod_significance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Ephod_significance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Ephod_significance_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Ephod_significance_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Ephod_significance.md)

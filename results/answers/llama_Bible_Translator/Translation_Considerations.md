@@ -25,7 +25,7 @@ In biblical studies, retaining the original Hebrew terms "Zion" (צִיוֹן) a
 In conclusion, retaining the terms "Zion" and "Daughter" in translations of Biblical texts is crucial for preserving authorial intent, connecting us to Israel's history and identity, highlighting theological significance, preserving cultural and historical context, and demonstrating faithfulness to the original Hebrew text.
 
 ## Average Grade
-90.0
+91.0
 
 ## Grades
  * [85.0](./Translation_Considerations_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ In conclusion, retaining the terms "Zion" and "Daughter" in translations of Bibl
  * [95.0](./Translation_Considerations_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Translation_Considerations_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Translation_Considerations_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Translation_Considerations_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [98.0](./Translation_Considerations_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Translation_Considerations.md)

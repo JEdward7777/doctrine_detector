@@ -21,7 +21,7 @@ In terms of Jesus' (PBUH) first coming, Islam believes that he was born miraculo
 It is important to note that interpretations of eschatological events can vary among Muslim scholars and communities. As a Muslim Imam, I invite anyone seeking further guidance on these matters to consult reputable religious scholars and engage in ongoing study and reflection, guided by the Quran and authentic Hadiths.
 
 ## Average Grade
-31.666666666666668
+40.0
 
 ## Grades
  * [30.0](./Understanding_the_Last_Days_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ It is important to note that interpretations of eschatological events can vary a
  * [40.0](./Understanding_the_Last_Days_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Understanding_the_Last_Days_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./Understanding_the_Last_Days_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Understanding_the_Last_Days_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Understanding_the_Last_Days_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_the_Last_Days.md)

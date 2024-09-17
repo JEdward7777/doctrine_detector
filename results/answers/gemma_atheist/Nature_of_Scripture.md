@@ -39,7 +39,7 @@ Clarifying the relationship between written scripture and God's spoken word.
 While the terms "scripture" and "the Word of God" are often used interchangeably in the Bible, they represent different aspects of the same divine revelation. Understanding their nuanced relationship is crucial for a culturally nuanced interpretation of the biblical text.
 
 ## Average Grade
-82.5
+81.25
 
 ## Grades
  * [90.0](./Nature_of_Scripture_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -48,5 +48,7 @@ While the terms "scripture" and "the Word of God" are often used interchangeably
  * [90.0](./Nature_of_Scripture_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Nature_of_Scripture_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Nature_of_Scripture_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Nature_of_Scripture_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Nature_of_Scripture_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Nature_of_Scripture.md)

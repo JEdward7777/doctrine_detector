@@ -30,7 +30,7 @@ In Hebrews 11:1, we read, "Now faith is the substance of things hoped for, the e
 In summary, having hope in God is different from merely wishing for something because it's rooted in His character, promises, and our relationship with Him. It's a confident expectation based on our understanding of who He is and what He has promised.
 
 ## Average Grade
-95.0
+94.375
 
 ## Grades
  * [95.0](./Trust_in_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,5 +39,7 @@ In summary, having hope in God is different from merely wishing for something be
  * [95.0](./Trust_in_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Trust_in_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [95.0](./Trust_in_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [95.0](./Trust_in_God_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Trust_in_God_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Trust_in_God.md)

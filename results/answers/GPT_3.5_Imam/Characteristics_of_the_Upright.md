@@ -21,7 +21,7 @@ Similarly, in Islam, an upright person is known as a "muttaqi," which translates
 Overall, both the Bible and the Quran teach that an upright person is one who lives a life of virtue, sincerity, and devotion to God, striving to do good and avoid evil in all aspects of their life.
 
 ## Average Grade
-80.83333333333333
+80.625
 
 ## Grades
  * [80.0](./Characteristics_of_the_Upright_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ Overall, both the Bible and the Quran teach that an upright person is one who li
  * [90.0](./Characteristics_of_the_Upright_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Characteristics_of_the_Upright_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Characteristics_of_the_Upright_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Characteristics_of_the_Upright_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [75.0](./Characteristics_of_the_Upright_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Characteristics_of_the_Upright.md)

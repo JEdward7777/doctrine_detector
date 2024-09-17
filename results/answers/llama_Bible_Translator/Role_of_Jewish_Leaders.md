@@ -33,7 +33,7 @@ It's essential to note that while the Jewish leaders played a significant role i
 In conclusion, the Jewish religious leaders' influence on Jesus' crucifixion stemmed from a combination of factors, including jealousy, fear, misconceptions about Jesus' teachings, concerns about His claims to divinity, and cooperation with Roman authorities.
 
 ## Average Grade
-88.66666666666667
+88.375
 
 ## Grades
  * [90.0](./Role_of_Jewish_Leaders_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -42,5 +42,7 @@ In conclusion, the Jewish religious leaders' influence on Jesus' crucifixion ste
  * [95.0](./Role_of_Jewish_Leaders_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Role_of_Jewish_Leaders_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Role_of_Jewish_Leaders_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Role_of_Jewish_Leaders_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Role_of_Jewish_Leaders_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Role_of_Jewish_Leaders.md)

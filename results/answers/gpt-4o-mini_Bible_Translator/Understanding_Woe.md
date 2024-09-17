@@ -19,7 +19,7 @@ For example, in the prophetic books of the Old Testament, prophets like Isaiah a
 In essence, "woe" functions as a call to repentance, urging individuals and communities to recognize their sinful state and return to God before it is too late. It encapsulates both the compassion of God, who warns His people, and the righteousness of God, who judges sin.
 
 ## Average Grade
-90.83333333333333
+90.0
 
 ## Grades
  * [95.0](./Understanding_Woe_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ In essence, "woe" functions as a call to repentance, urging individuals and comm
  * [90.0](./Understanding_Woe_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Woe_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Understanding_Woe_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Woe_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Understanding_Woe_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Woe.md)

@@ -25,7 +25,7 @@ The concept of birthright in the Bible is often associated with inheritance and 
 In modern Christian families, these biblical stories can serve as reminders of the importance of love, forgiveness, and fairness within the family structure. They emphasize that our roles and status within a family should not be determined solely by birth but by character, faith, and actions. The concept of birthright encourages understanding, respect, and compassion among family members, reminding everyone of their unique place in God's plan for their lives.
 
 ## Average Grade
-83.33333333333333
+81.875
 
 ## Grades
  * [85.0](./Firstborn_Blessing_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ In modern Christian families, these biblical stories can serve as reminders of t
  * [90.0](./Firstborn_Blessing_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Firstborn_Blessing_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [65.0](./Firstborn_Blessing_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Firstborn_Blessing_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Firstborn_Blessing_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Firstborn_Blessing.md)

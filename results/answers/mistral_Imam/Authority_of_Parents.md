@@ -27,7 +27,7 @@ In the Bible, Proverbs 13:24 states, "Whoever spares the rod hates their childre
 In both traditions, parents have the responsibility to guide their children towards righteousness while showing love, kindness, patience, and understanding. The ultimate goal is to raise children who are obedient to God and who contribute positively to society.
 
 ## Average Grade
-87.5
+86.25
 
 ## Grades
  * [90.0](./Authority_of_Parents_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ In both traditions, parents have the responsibility to guide their children towa
  * [90.0](./Authority_of_Parents_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Authority_of_Parents_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Authority_of_Parents_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [95.0](./Authority_of_Parents_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Authority_of_Parents_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Authority_of_Parents.md)

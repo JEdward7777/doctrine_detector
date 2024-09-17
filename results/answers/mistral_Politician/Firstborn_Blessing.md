@@ -23,7 +23,7 @@ In a modern context, it's essential to promote equality, respect, and fairness a
 Furthermore, it's important to recognize that interpretations and applications of religious texts can vary widely among different communities and individuals. Encouraging open dialogue, mutual respect, and tolerance for diverse perspectives will help ensure that our understanding of religious concepts remains inclusive, fair, and meaningful in the context of modern society.
 
 ## Average Grade
-80.5
+79.75
 
 ## Grades
  * [90.0](./Firstborn_Blessing_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ Furthermore, it's important to recognize that interpretations and applications o
  * [90.0](./Firstborn_Blessing_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Firstborn_Blessing_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Firstborn_Blessing_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Firstborn_Blessing_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Firstborn_Blessing_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Firstborn_Blessing.md)

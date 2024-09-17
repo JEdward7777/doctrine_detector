@@ -15,7 +15,7 @@ Recognizing the role of the high priest in the Israelite's relationship with God
  In the Islamic tradition, we do not have any specific knowledge about the Ark of the Covenant as it is a part of Jewish history that is not mentioned in the Quran or Hadiths (sayings of Prophet Muhammad peace be upon him). However, in the Jewish tradition, the Ark was kept in the Holy of Holies in the Tabernacle and later in the Temple in Jerusalem. Only the high priest could approach the Ark once a year on Yom Kippur (Day of Atonement), and then only after rigorous purification rituals and specific procedures were followed. This is according to the descriptions found in books like Exodus, Leviticus, and Numbers in the Hebrew Bible.
 
 ## Average Grade
-86.66666666666667
+83.125
 
 ## Grades
  * [90.0](./High_Priest_Access_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ Recognizing the role of the high priest in the Israelite's relationship with God
  * [85.0](./High_Priest_Access_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./High_Priest_Access_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./High_Priest_Access_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./High_Priest_Access_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./High_Priest_Access_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/High_Priest_Access.md)

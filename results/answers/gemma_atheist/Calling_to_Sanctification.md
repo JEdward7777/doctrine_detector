@@ -15,7 +15,7 @@ Emphasizing the importance of personal responsibility in the sanctification proc
 The premise of your question is inaccurate. Atheism is a lack of belief in the existence of deities and does not involve any religious or spiritual concepts of sanctification.
 
 ## Average Grade
-75.0
+57.5
 
 ## Grades
  * [80.0](./Calling_to_Sanctification_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ The premise of your question is inaccurate. Atheism is a lack of belief in the e
  * [95.0](./Calling_to_Sanctification_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Calling_to_Sanctification_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./Calling_to_Sanctification_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [0.0](./Calling_to_Sanctification_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [10.0](./Calling_to_Sanctification_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Calling_to_Sanctification.md)

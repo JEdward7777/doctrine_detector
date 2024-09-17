@@ -21,7 +21,7 @@ Secondly, the interaction reveals the authority of Jesus. Jesus marvels at the c
 Overall, the interaction between the centurion and Jesus underscores the importance of faith in recognizing the authority of Jesus. It teaches us that true faith involves acknowledging Jesus' authority and power, and trusting in him to work miracles in our lives.
 
 ## Average Grade
-90.33333333333333
+89.625
 
 ## Grades
  * [95.0](./Centurion_and_Healing_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ Overall, the interaction between the centurion and Jesus underscores the importa
  * [92.0](./Centurion_and_Healing_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Centurion_and_Healing_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Centurion_and_Healing_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Centurion_and_Healing_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Centurion_and_Healing_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Centurion_and_Healing.md)

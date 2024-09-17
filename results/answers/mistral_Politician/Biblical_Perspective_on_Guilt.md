@@ -21,7 +21,7 @@ Another example can be found in the Book of Jonah, where Jonah is sent by God to
 These stories, among others, illustrate that the Bible perceives guilt and sin as leading to consequences, such as separation from God, hardship, suffering, and even death. However, it's essential to remember that interpretations of these stories can vary widely across different faith communities and individuals. Encouraging open dialogue, understanding, and respect for diverse beliefs is crucial in fostering a more harmonious and inclusive society.
 
 ## Average Grade
-80.83333333333333
+78.75
 
 ## Grades
  * [85.0](./Biblical_Perspective_on_Guilt_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ These stories, among others, illustrate that the Bible perceives guilt and sin a
  * [85.0](./Biblical_Perspective_on_Guilt_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Biblical_Perspective_on_Guilt_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Biblical_Perspective_on_Guilt_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Biblical_Perspective_on_Guilt_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Biblical_Perspective_on_Guilt_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Biblical_Perspective_on_Guilt.md)

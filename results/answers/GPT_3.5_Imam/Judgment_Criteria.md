@@ -23,7 +23,7 @@ On the Day of Judgment, every person's deeds will be weighed, and they will be h
 Ultimately, the judgment on the Day of Judgment is in the hands of Allah, who is the Most Just and Merciful. It is important for Muslims to strive to live a righteous life, seek forgiveness for their sins, and have faith in Allah's mercy and judgment on that day.
 
 ## Average Grade
-43.333333333333336
+48.75
 
 ## Grades
  * [70.0](./Judgment_Criteria_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ Ultimately, the judgment on the Day of Judgment is in the hands of Allah, who is
  * [60.0](./Judgment_Criteria_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Judgment_Criteria_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [0.0](./Judgment_Criteria_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [70.0](./Judgment_Criteria_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Judgment_Criteria_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Judgment_Criteria.md)

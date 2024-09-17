@@ -17,7 +17,7 @@ Avoiding the term 'Father' could lead to theological inaccuracies and dilute the
 In an academic context, it's important to use terms that are inclusive and respectful to the broadest possible audience. If the term "Father" may be misunderstood or perceived as exclusive, one could consider using alternative terminology such as "Creator," "Divinity," or "The Supreme Being," among others. These terms can help maintain the integrity of the discussion while accommodating a diverse range of cultural and personal beliefs. Ultimately, the choice of words will depend on the context, audience, and the specific goals of the conversation or study at hand.
 
 ## Average Grade
-63.333333333333336
+66.875
 
 ## Grades
  * [60.0](./Use_term__Father__when_referring_to_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -26,5 +26,7 @@ In an academic context, it's important to use terms that are inclusive and respe
  * [50.0](./Use_term__Father__when_referring_to_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Use_term__Father__when_referring_to_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Use_term__Father__when_referring_to_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Use_term__Father__when_referring_to_God_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Use_term__Father__when_referring_to_God_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Use_term__Father__when_referring_to_God.md)

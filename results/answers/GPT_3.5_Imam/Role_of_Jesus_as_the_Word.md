@@ -19,7 +19,7 @@ By being identified as the Word of God, Jesus is seen as the ultimate expression
 Overall, the title "the Word of God" underscores the divinity, power, and significance of Jesus in Christian belief, highlighting his role as the ultimate revelation of God to humanity.
 
 ## Average Grade
-92.83333333333333
+92.125
 
 ## Grades
  * [95.0](./Role_of_Jesus_as_the_Word_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ Overall, the title "the Word of God" underscores the divinity, power, and signif
  * [95.0](./Role_of_Jesus_as_the_Word_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Role_of_Jesus_as_the_Word_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Role_of_Jesus_as_the_Word_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Role_of_Jesus_as_the_Word_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Role_of_Jesus_as_the_Word_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Role_of_Jesus_as_the_Word.md)

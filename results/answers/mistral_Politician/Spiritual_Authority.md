@@ -27,7 +27,7 @@ According to Biblical teaching, both spiritual and earthly authorities serve imp
 By understanding these differences, we can promote a more harmonious and inclusive society that respects the role of both earthly and spiritual authorities while encouraging open dialogue, mutual respect, and adherence to ethical principles.
 
 ## Average Grade
-81.66666666666667
+78.125
 
 ## Grades
  * [85.0](./Spiritual_Authority_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ By understanding these differences, we can promote a more harmonious and inclusi
  * [90.0](./Spiritual_Authority_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Spiritual_Authority_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Spiritual_Authority_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Spiritual_Authority_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Spiritual_Authority_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Spiritual_Authority.md)

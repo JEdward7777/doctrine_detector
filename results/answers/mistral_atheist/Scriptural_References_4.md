@@ -23,7 +23,7 @@ This question prompts the discussion of scripture interpretation and its relevan
 In summary, these references to birthright in the Biblical texts demonstrate its role as a cultural, familial, and spiritual marker. In 1 Chronicles 5:1, it signifies tribal identity; in Genesis 25:34, it highlights the importance of familial inheritance and the potential consequences of squandering one's birthright; while in Hebrews 12:14-17, it underscores the spiritual significance of being children of God and the need to live a life consistent with one's divine inheritance. Understanding these various aspects can deepen our understanding of the concept of birthright within Biblical teachings.
 
 ## Average Grade
-87.5
+86.875
 
 ## Grades
  * [85.0](./Scriptural_References_4_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ In summary, these references to birthright in the Biblical texts demonstrate its
  * [90.0](./Scriptural_References_4_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Scriptural_References_4_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Scriptural_References_4_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Scriptural_References_4_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Scriptural_References_4_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Scriptural_References_4.md)

@@ -19,7 +19,7 @@ Certainly! One such example can be found in the book of Genesis. In Genesis 1:28
 In this verse, God acknowledges the creativity and stewardship of human beings, and He grants them the privilege and responsibility to care for and manage the natural world. This blessing includes the use of resources, the preservation of life, and the responsible management of the environment.
 
 ## Average Grade
-69.16666666666667
+74.375
 
 ## Grades
  * [70.0](./Biblical_Examples_of_Blessing_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ In this verse, God acknowledges the creativity and stewardship of human beings, 
  * [70.0](./Biblical_Examples_of_Blessing_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Biblical_Examples_of_Blessing_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Biblical_Examples_of_Blessing_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Biblical_Examples_of_Blessing_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Biblical_Examples_of_Blessing_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Biblical_Examples_of_Blessing.md)

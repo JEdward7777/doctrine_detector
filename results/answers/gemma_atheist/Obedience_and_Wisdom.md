@@ -38,7 +38,7 @@ While listening to God may hold significance for those who believe in his existe
 Listening to God may have cultural and psychological benefits, but it does not constitute a basis for becoming wise in the traditional sense. Wisdom is primarily attained through human intellectual endeavors, based on reason, evidence, and critical reflection.
 
 ## Average Grade
-40.0
+45.0
 
 ## Grades
  * [30.0](./Obedience_and_Wisdom_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -47,5 +47,7 @@ Listening to God may have cultural and psychological benefits, but it does not c
  * [30.0](./Obedience_and_Wisdom_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Obedience_and_Wisdom_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Obedience_and_Wisdom_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Obedience_and_Wisdom_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Obedience_and_Wisdom_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Obedience_and_Wisdom.md)

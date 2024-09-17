@@ -15,7 +15,7 @@ Understanding the nature and attributes of God as revealed in Scripture.
 The term "Shaddai" is a Hebrew word that is often translated as "Almighty" or "All-Sufficient" in English. In the context of the Old Testament, it is used as one of the names or titles for God to emphasize His power, strength, and ability to provide for His people. It is often associated with God's roles as a protector, provider, and sustainer. It is a term that conveys a sense of divine authority and sovereignty.
 
 ## Average Grade
-83.33333333333333
+83.125
 
 ## Grades
  * [85.0](./Understanding_Shaddai_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ The term "Shaddai" is a Hebrew word that is often translated as "Almighty" or "A
  * [85.0](./Understanding_Shaddai_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Understanding_Shaddai_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Understanding_Shaddai_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Understanding_Shaddai_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Understanding_Shaddai_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Shaddai.md)

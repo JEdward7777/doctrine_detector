@@ -23,7 +23,7 @@ As we navigate these sacred waters, I want to emphasize my deep respect for all 
 In conclusion, the name "Yahweh" represents a profound aspect of God's nature in the Old Testament, emphasizing His divine character, power, and presence. As we continue to explore the complexities of faith, it's essential that we do so with respect, compassion, and a commitment to understanding one another's beliefs.
 
 ## Average Grade
-85.0
+84.375
 
 ## Grades
  * [85.0](./Understanding_the_Name_of_God_2_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ In conclusion, the name "Yahweh" represents a profound aspect of God's nature in
  * [90.0](./Understanding_the_Name_of_God_2_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_the_Name_of_God_2_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Understanding_the_Name_of_God_2_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [95.0](./Understanding_the_Name_of_God_2_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Understanding_the_Name_of_God_2_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_the_Name_of_God_2.md)

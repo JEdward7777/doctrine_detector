@@ -15,7 +15,7 @@ Understanding the spiritual definition of fellowship is important for nurturing 
  In a Christian context, 'fellowship' often refers to the community of believers or the communal life shared among followers of Jesus Christ. It is a sense of unity, love, and mutual support that is founded on their shared faith and spiritual bond. This fellowship is considered essential as it reflects the idea of unity within the Trinity (Father, Son, and Holy Spirit) and the communion between God and believers. Fellowship can also refer to gatherings or meetings where Christians come together for worship, prayer, teaching, and mutual encouragement. In this sense, fellowship goes beyond simple social interaction as it is a spiritual experience centered around faith, love, and service to one another.
 
 ## Average Grade
-90.0
+89.375
 
 ## Grades
  * [95.0](./Fellowship_Meaning_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ Understanding the spiritual definition of fellowship is important for nurturing 
  * [95.0](./Fellowship_Meaning_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Fellowship_Meaning_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Fellowship_Meaning_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Fellowship_Meaning_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Fellowship_Meaning_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Fellowship_Meaning.md)

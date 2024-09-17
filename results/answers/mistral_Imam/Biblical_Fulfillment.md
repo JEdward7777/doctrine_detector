@@ -23,7 +23,7 @@ It is worth noting that Muslims believe in Jesus as one of God's messengers and 
 In summary, from a Christian perspective, the references to Jesus as "King of the Jews" in the Bible reflect their belief that he is the fulfillment of Old Testament prophecies concerning a future Jewish king and Messiah. However, Muslims understand these prophecies differently, believing that the Messiah has yet to come.
 
 ## Average Grade
-79.16666666666667
+76.25
 
 ## Grades
  * [60.0](./Biblical_Fulfillment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ In summary, from a Christian perspective, the references to Jesus as "King of th
  * [85.0](./Biblical_Fulfillment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_Fulfillment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Biblical_Fulfillment_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Biblical_Fulfillment_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Biblical_Fulfillment_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Biblical_Fulfillment.md)

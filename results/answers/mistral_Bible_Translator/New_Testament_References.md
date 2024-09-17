@@ -23,7 +23,7 @@ Lastly, we find in Luke 1:13 that John's father Zacharias was told by the angel 
 Therefore, while there are some suggestive details, the New Testament does not provide clear and definitive evidence that John the Baptist was a full-fledged Nazirite. It seems more likely that he followed certain aspects of the Nazirite vows, but not all three as required by Numbers 6:2-8.
 
 ## Average Grade
-85.0
+83.75
 
 ## Grades
  * [85.0](./New_Testament_References_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ Therefore, while there are some suggestive details, the New Testament does not p
  * [85.0](./New_Testament_References_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./New_Testament_References_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./New_Testament_References_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./New_Testament_References_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [80.0](./New_Testament_References_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/New_Testament_References.md)

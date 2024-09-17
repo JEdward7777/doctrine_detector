@@ -33,7 +33,7 @@ The phrase "El Shaddai" is a Hebrew term often translated as "God Almighty" in m
 When translating "El Shaddai," the emphasis on the omnipotence and sufficiency of God is typically retained across different translations, reflecting the theological understanding that this name conveys. Each translation strives to respect the meaning of the original Hebrew while making it relatable and understandable in the context of the respective language and culture.
 
 ## Average Grade
-74.16666666666667
+76.875
 
 ## Grades
  * [70.0](./Translating_El_Shaddai_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -42,5 +42,7 @@ When translating "El Shaddai," the emphasis on the omnipotence and sufficiency o
  * [90.0](./Translating_El_Shaddai_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Translating_El_Shaddai_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Translating_El_Shaddai_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Translating_El_Shaddai_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Translating_El_Shaddai_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Translating_El_Shaddai.md)

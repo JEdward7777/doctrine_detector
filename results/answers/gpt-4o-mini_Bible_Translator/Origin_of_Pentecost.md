@@ -31,7 +31,7 @@ The Festival of Weeks, known in Hebrew as Shavuot, holds significant historical 
 In addition to these aspects, Shavuot is also linked to themes of judgment and harvest, making it a multifaceted celebration that encompasses physical, spiritual, and communal dimensions. This understanding of Shavuot sets the stage for its significance in the New Testament, where Pentecost becomes the occasion for the outpouring of the Holy Spirit, symbolically linking the giving of the law with the birth of the Church and the empowerment of believers for ministry.
 
 ## Average Grade
-89.16666666666667
+89.375
 
 ## Grades
  * [85.0](./Origin_of_Pentecost_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -40,5 +40,7 @@ In addition to these aspects, Shavuot is also linked to themes of judgment and h
  * [95.0](./Origin_of_Pentecost_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Origin_of_Pentecost_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Origin_of_Pentecost_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Origin_of_Pentecost_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Origin_of_Pentecost_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Origin_of_Pentecost.md)

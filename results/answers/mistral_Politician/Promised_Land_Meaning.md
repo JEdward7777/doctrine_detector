@@ -15,7 +15,7 @@ Understanding the biblical significance of God's promises to Abraham and his lin
  In the context of the biblical narrative, the term "Promised Land" refers to the land that God promised to give to Abraham and his descendants, the Israelites. This land, primarily encompassing modern-day Israel and Palestine, was envisioned as a fertile and abundant territory, a place of peace, prosperity, and security for the Israelite people, according to the Hebrew Bible or Old Testament. The concept carries religious and cultural significance for many people around the world who follow Abrahamic faiths such as Judaism, Christianity, and Islam. However, it's essential to remember that interpretations and understandings of these historical narratives can vary among individuals and communities, reflecting diverse cultural contexts and personal beliefs.
 
 ## Average Grade
-80.83333333333333
+78.75
 
 ## Grades
  * [80.0](./Promised_Land_Meaning_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ Understanding the biblical significance of God's promises to Abraham and his lin
  * [90.0](./Promised_Land_Meaning_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Promised_Land_Meaning_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [65.0](./Promised_Land_Meaning_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Promised_Land_Meaning_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [65.0](./Promised_Land_Meaning_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Promised_Land_Meaning.md)

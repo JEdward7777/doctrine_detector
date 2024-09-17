@@ -19,7 +19,7 @@ Early Christian practices were influenced by a variety of factors, including Jew
 In studying the historical interactions between Jewish and Gentile believers, it's crucial to consider the diverse perspectives and experiences of individuals within these communities. Understanding and respecting the differences between various cultural practices is essential for promoting mutual understanding and dialogue among people of different backgrounds and beliefs.
 
 ## Average Grade
-70.83333333333333
+69.375
 
 ## Grades
  * [70.0](./Cultural_Practices_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ In studying the historical interactions between Jewish and Gentile believers, it
  * [60.0](./Cultural_Practices_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Cultural_Practices_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Cultural_Practices_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Cultural_Practices_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [45.0](./Cultural_Practices_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Cultural_Practices.md)

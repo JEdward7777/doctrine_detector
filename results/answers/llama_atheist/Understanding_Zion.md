@@ -25,7 +25,7 @@ Moreover, "Daughter of Zion" has played a crucial role in Jewish cultural imagin
 In a broader sense, the term "Daughter of Zion" can be seen as a representation of Jewish resilience and perseverance, reflecting the people's capacity to endure hardship, maintain their cultural identity, and continue to thrive despite adversity.
 
 ## Average Grade
-71.66666666666667
+73.125
 
 ## Grades
  * [75.0](./Understanding_Zion_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ In a broader sense, the term "Daughter of Zion" can be seen as a representation 
  * [70.0](./Understanding_Zion_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Zion_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [65.0](./Understanding_Zion_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Zion_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Understanding_Zion_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Zion.md)

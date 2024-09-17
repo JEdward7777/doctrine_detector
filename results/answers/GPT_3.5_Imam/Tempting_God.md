@@ -21,7 +21,7 @@ Islamic teachings emphasize the concept of tawakkul, or placing trust in God whi
 While it is believed that God is capable of performing miracles, Muslims are encouraged to exercise caution and prudence in their actions and decisions. Neglecting this principle and deliberately putting oneself or others in harm's way with the expectation of a miraculous intervention can have negative consequences, as it may lead to harm or loss that could have been prevented through proper planning and foresight.
 
 ## Average Grade
-80.0
+78.75
 
 ## Grades
  * [90.0](./Tempting_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ While it is believed that God is capable of performing miracles, Muslims are enc
  * [85.0](./Tempting_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Tempting_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Tempting_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Tempting_God_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [65.0](./Tempting_God_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Tempting_God.md)

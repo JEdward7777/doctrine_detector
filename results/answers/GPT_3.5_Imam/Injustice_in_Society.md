@@ -19,7 +19,7 @@ In response to these injustices, Christians can take several actions based on th
 In Islam, we are also taught to stand against injustice and oppression, to help the needy and marginalized, and to strive for a just and peaceful world. By working together, Muslims and Christians can amplify their efforts to create a more just and equitable society for all.
 
 ## Average Grade
-72.5
+71.875
 
 ## Grades
  * [80.0](./Injustice_in_Society_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ In Islam, we are also taught to stand against injustice and oppression, to help 
  * [85.0](./Injustice_in_Society_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Injustice_in_Society_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [30.0](./Injustice_in_Society_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Injustice_in_Society_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Injustice_in_Society_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Injustice_in_Society.md)

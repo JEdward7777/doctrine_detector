@@ -19,7 +19,7 @@ In Christian theology, eternal life is considered a gift given by God to those w
 In Islam, the equivalent concept would be attaining paradise (Jannah) in the hereafter, which is earned through living a righteous and pious life according to the teachings of the Quran and the Sunnah of Prophet Muhammad (peace be upon him). However, it's important to note that interpretations can vary among different sects and scholars within each religion.
 
 ## Average Grade
-85.0
+83.125
 
 ## Grades
  * [90.0](./Understanding_Appointments_in_God_s_Plan_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ In Islam, the equivalent concept would be attaining paradise (Jannah) in the her
  * [90.0](./Understanding_Appointments_in_God_s_Plan_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Appointments_in_God_s_Plan_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Understanding_Appointments_in_God_s_Plan_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Appointments_in_God_s_Plan_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Understanding_Appointments_in_God_s_Plan_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Appointments_in_God_s_Plan.md)

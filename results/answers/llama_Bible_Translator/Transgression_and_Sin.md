@@ -29,7 +29,7 @@ In Christian theology, the solution to sin and transgression lies in Jesus Chris
 In summary, transgression is a concept closely related to sin and disobedience. It refers to a deliberate and intentional act that goes against God's will or laws. This concept underscores the gravity of sin and the need for redemption, which is found in Jesus Christ.
 
 ## Average Grade
-93.33333333333333
+93.75
 
 ## Grades
  * [95.0](./Transgression_and_Sin_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ In summary, transgression is a concept closely related to sin and disobedience. 
  * [95.0](./Transgression_and_Sin_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Transgression_and_Sin_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Transgression_and_Sin_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [95.0](./Transgression_and_Sin_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Transgression_and_Sin_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Transgression_and_Sin.md)

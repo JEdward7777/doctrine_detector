@@ -19,7 +19,7 @@ Another important verse that discusses the concept of ransom is found in 1 Timot
 These verses contribute to the understanding of redemption by highlighting the idea that Jesus' death served as a payment or ransom for the sins of humanity. The concept of ransom implies a transaction or exchange, where Jesus offered his life as a sacrifice to atone for the sins of humanity and bring about reconciliation between God and humankind. This sacrificial act of love and mercy is central to the Christian understanding of redemption, emphasizing the idea of salvation through faith in Jesus as the redeemer and mediator between God and humanity.
 
 ## Average Grade
-90.0
+89.375
 
 ## Grades
  * [90.0](./Biblical_References_8_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ These verses contribute to the understanding of redemption by highlighting the i
  * [90.0](./Biblical_References_8_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_References_8_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Biblical_References_8_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Biblical_References_8_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Biblical_References_8_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Biblical_References_8.md)

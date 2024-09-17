@@ -29,7 +29,7 @@ Now, let's synthesize these references to better understand the significance of 
 In conclusion, these references deepen our understanding of birthright by emphasizing its connection to family ties, sacred responsibility, and spiritual heritage. The biblical teachings surrounding birthright reveal a complex interplay between physical and spiritual inheritance, underscoring the significance of community, shared history, and responsibility for the future of God's people.
 
 ## Average Grade
-70.0
+66.875
 
 ## Grades
  * [60.0](./Scriptural_References_4_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ In conclusion, these references deepen our understanding of birthright by emphas
  * [70.0](./Scriptural_References_4_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Scriptural_References_4_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Scriptural_References_4_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Scriptural_References_4_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [30.0](./Scriptural_References_4_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Scriptural_References_4.md)

@@ -21,7 +21,7 @@ While the concept of being "in Christ" may not have a direct equivalent in Islam
 Ultimately, the focus in Islam is on developing a deep and meaningful relationship with Allah based on faith, devotion, and obedience to His commandments, rather than being "in Christ" as understood in Christian theology.
 
 ## Average Grade
-73.33333333333333
+66.25
 
 ## Grades
  * [80.0](./Understanding_Being__In_Christ__grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ Ultimately, the focus in Islam is on developing a deep and meaningful relationsh
  * [85.0](./Understanding_Being__In_Christ__grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Understanding_Being__In_Christ__grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./Understanding_Being__In_Christ__grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [70.0](./Understanding_Being__In_Christ__grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [20.0](./Understanding_Being__In_Christ__grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Being__In_Christ_.md)

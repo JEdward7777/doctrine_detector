@@ -44,7 +44,7 @@ Understanding Jesus' messianic role is central to the Christian faith.
 The title "King of the Jews" is a complex and multifaceted concept with significant historical, cultural, and theological implications. Its significance and appropriate usage should be carefully considered, with sensitivity to cultural and ethical considerations.
 
 ## Average Grade
-60.833333333333336
+65.0
 
 ## Grades
  * [40.0](./Messianic_Identity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -53,5 +53,7 @@ The title "King of the Jews" is a complex and multifaceted concept with signific
  * [80.0](./Messianic_Identity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Messianic_Identity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Messianic_Identity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Messianic_Identity_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Messianic_Identity_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Messianic_Identity.md)

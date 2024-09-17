@@ -21,7 +21,7 @@ In addition to this, various passages in the New Testament emphasize that repent
 Ultimately, the concept of pardon, as it relates to God's forgiveness through Jesus Christ, underscores the love, grace, and mercy that God extends to sinners, making it possible for them to be restored to a right relationship with Him.
 
 ## Average Grade
-90.33333333333333
+90.25
 
 ## Grades
  * [92.0](./Pardon_in_Christianity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ Ultimately, the concept of pardon, as it relates to God's forgiveness through Je
  * [95.0](./Pardon_in_Christianity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Pardon_in_Christianity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Pardon_in_Christianity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Pardon_in_Christianity_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Pardon_in_Christianity_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Pardon_in_Christianity.md)

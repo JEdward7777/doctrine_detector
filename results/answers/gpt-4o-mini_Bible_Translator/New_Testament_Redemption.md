@@ -37,7 +37,7 @@ The concept of purification in the Bible evolves significantly from the Old Test
 In summary, while purification in the Old Testament focused on ritual practices and adherence to the Law, the New Testament reinterprets this concept through the lens of the Gospel, emphasizing faith in Christ, the inner work of the Holy Spirit, and the transformative power of grace. The shift highlights a move from external observance to internal holiness, culminating in the believer's relationship with Jesus as the source of true purification.
 
 ## Average Grade
-90.83333333333333
+90.0
 
 ## Grades
  * [95.0](./New_Testament_Redemption_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -46,5 +46,7 @@ In summary, while purification in the Old Testament focused on ritual practices 
  * [90.0](./New_Testament_Redemption_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./New_Testament_Redemption_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./New_Testament_Redemption_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./New_Testament_Redemption_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./New_Testament_Redemption_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/New_Testament_Redemption.md)

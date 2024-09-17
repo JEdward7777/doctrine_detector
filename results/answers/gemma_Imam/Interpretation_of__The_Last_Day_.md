@@ -31,7 +31,7 @@ This Day will be a day of great accountability, when every soul will be judged a
 **It is important to note that Muslims and Christians have different interpretations and beliefs about the Day of Judgement, and these interpretations may vary within each faith.**
 
 ## Average Grade
-66.66666666666667
+63.75
 
 ## Grades
  * [70.0](./Interpretation_of__The_Last_Day__grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -40,5 +40,7 @@ This Day will be a day of great accountability, when every soul will be judged a
  * [85.0](./Interpretation_of__The_Last_Day__grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Interpretation_of__The_Last_Day__grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [30.0](./Interpretation_of__The_Last_Day__grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Interpretation_of__The_Last_Day__grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [30.0](./Interpretation_of__The_Last_Day__grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Interpretation_of__The_Last_Day_.md)

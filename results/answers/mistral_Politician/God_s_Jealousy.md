@@ -15,7 +15,7 @@ Understanding God's character and His desire for our spiritual fidelity.
  As a neutral entity, I don't hold personal beliefs or religious affiliations, but I can help you understand the context of the term "jealous" in the Bible. In this context, "jealous" is often used to describe a passionate and protective love. It doesn't imply petty envy or spitefulness as one might interpret it in everyday language. Instead, God's jealousy is presented as a deep, protective love for His people, urging them to remain faithful and devoted only to Him. This concept can be found in Exodus 34:14, where it says, "Do not worship any other god, for the Lord, whose name is Jealous, is a jealous God." Here, "jealous" signifies God's deep desire for exclusive devotion and relationship with His people.
 
 ## Average Grade
-92.5
+90.0
 
 ## Grades
  * [95.0](./God_s_Jealousy_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ Understanding God's character and His desire for our spiritual fidelity.
  * [90.0](./God_s_Jealousy_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./God_s_Jealousy_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./God_s_Jealousy_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./God_s_Jealousy_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [80.0](./God_s_Jealousy_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/God_s_Jealousy.md)

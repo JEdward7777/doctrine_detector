@@ -21,7 +21,7 @@ More broadly, the gospel encompasses the theological implications of Jesus’ me
 While primarily a Christian term, the concept of 'gospel' can also resonate in a more general sense as an announcement of significant and positive news, impacting various cultural and social contexts, even outside of a religious framework.
 
 ## Average Grade
-89.16666666666667
+88.125
 
 ## Grades
  * [95.0](./Definition_of_Gospel_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ While primarily a Christian term, the concept of 'gospel' can also resonate in a
  * [95.0](./Definition_of_Gospel_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Definition_of_Gospel_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Definition_of_Gospel_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Definition_of_Gospel_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Definition_of_Gospel_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Definition_of_Gospel.md)

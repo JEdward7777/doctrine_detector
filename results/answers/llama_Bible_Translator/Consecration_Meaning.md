@@ -25,7 +25,7 @@ In Christian tradition, the sacrament of ordination is a powerful example of con
 In summary, in a Christian context, to consecrate something or someone means to dedicate it to God's exclusive use and purpose. This can be done through various acts of dedication, such as prayer, sacrifice, or ordination, and ultimately points to the ultimate example of consecration found in Jesus Christ.
 
 ## Average Grade
-92.33333333333333
+93.0
 
 ## Grades
  * [95.0](./Consecration_Meaning_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ In summary, in a Christian context, to consecrate something or someone means to 
  * [95.0](./Consecration_Meaning_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Consecration_Meaning_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Consecration_Meaning_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [95.0](./Consecration_Meaning_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Consecration_Meaning_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Consecration_Meaning.md)

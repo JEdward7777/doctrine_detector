@@ -34,7 +34,7 @@ In Islam, we believe that these covenants are part of a larger narrative of God'
 As Muslims, we recognize that the Bible is a sacred text for Christians, and its stories and teachings have shaped Christian theology and practice. We believe that the Quran is the final and complete revelation from God, but we also acknowledge the importance of respecting and learning from other religious traditions, including Christianity.
 
 ## Average Grade
-80.83333333333333
+78.75
 
 ## Grades
  * [85.0](./Covenants_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -43,5 +43,7 @@ As Muslims, we recognize that the Bible is a sacred text for Christians, and its
  * [75.0](./Covenants_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Covenants_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Covenants_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Covenants_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Covenants_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Covenants.md)

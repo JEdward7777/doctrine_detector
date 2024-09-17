@@ -56,7 +56,7 @@ Understanding God's promises helps believers trust His faithfulness in their own
 God's promises play a vital role in the Islamic relationship between God and His people. They provide faith, hope, trust, motivation, and accountability. The examples from the Bible demonstrate the reliability and fulfillment of God's promises, offering believers a source of comfort and inspiration.
 
 ## Average Grade
-76.66666666666667
+73.125
 
 ## Grades
  * [85.0](./God_s_Promises_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -65,5 +65,7 @@ God's promises play a vital role in the Islamic relationship between God and His
  * [90.0](./God_s_Promises_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./God_s_Promises_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./God_s_Promises_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./God_s_Promises_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./God_s_Promises_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/God_s_Promises.md)

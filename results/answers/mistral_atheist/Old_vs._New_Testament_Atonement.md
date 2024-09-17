@@ -21,7 +21,7 @@ In contrast, the NT presents Jesus Christ as the ultimate sacrifice, atoning for
 In NT atonement theology, salvation is achieved not through performing specific rituals but through faith in Jesus's sacrificial death and resurrection. This shift from ritualistic atonement to Christ-centered atonement marks a significant difference between the OT and NT understandings of atonement.
 
 ## Average Grade
-85.0
+85.625
 
 ## Grades
  * [90.0](./Old_vs._New_Testament_Atonement_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ In NT atonement theology, salvation is achieved not through performing specific 
  * [95.0](./Old_vs._New_Testament_Atonement_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Old_vs._New_Testament_Atonement_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Old_vs._New_Testament_Atonement_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Old_vs._New_Testament_Atonement_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Old_vs._New_Testament_Atonement_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Old_vs._New_Testament_Atonement.md)

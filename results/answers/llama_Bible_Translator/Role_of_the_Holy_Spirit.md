@@ -27,7 +27,7 @@ After being born again, believers are indwelt by the Holy Spirit (Romans 8:9-11)
 In summary, the Holy Spirit's empowerment after being born again enables believers to live a life that honors God, resist sin, and demonstrate love and kindness to others. His presence within us gives us the power to pray effectively, share our faith with others, and minister in various ways for the benefit of all people.
 
 ## Average Grade
-94.16666666666667
+92.5
 
 ## Grades
  * [95.0](./Role_of_the_Holy_Spirit_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ In summary, the Holy Spirit's empowerment after being born again enables believe
  * [95.0](./Role_of_the_Holy_Spirit_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Role_of_the_Holy_Spirit_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Role_of_the_Holy_Spirit_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Role_of_the_Holy_Spirit_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Role_of_the_Holy_Spirit_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Role_of_the_Holy_Spirit.md)

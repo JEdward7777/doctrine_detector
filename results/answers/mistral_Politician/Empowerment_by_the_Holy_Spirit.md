@@ -27,7 +27,7 @@ Awareness of the Holy Spirit's empowerment is crucial for Christians to effectiv
 These references illustrate how the Holy Spirit empowers Christians by providing them with gifts, guidance, witnessing abilities, and spiritual fruit. As always, interpretations may vary among individuals and religious communities.
 
 ## Average Grade
-91.16666666666667
+89.625
 
 ## Grades
  * [95.0](./Empowerment_by_the_Holy_Spirit_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ These references illustrate how the Holy Spirit empowers Christians by providing
  * [95.0](./Empowerment_by_the_Holy_Spirit_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Empowerment_by_the_Holy_Spirit_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Empowerment_by_the_Holy_Spirit_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Empowerment_by_the_Holy_Spirit_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Empowerment_by_the_Holy_Spirit_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Empowerment_by_the_Holy_Spirit.md)

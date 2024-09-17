@@ -30,7 +30,7 @@ It's essential to note that Christian interpretations of Judgment Day have evolv
 As an atheist, I must acknowledge that these biblical passages are central to Christian theology, and their interpretation has had significant cultural and historical impact. However, as a scholar, I also recognize the complexity and diversity of human beliefs, and the need for ongoing critical analysis and reflection on religious concepts like Judgment Day.
 
 ## Average Grade
-74.16666666666667
+72.5
 
 ## Grades
  * [70.0](./Nature_of_Judgment_Day_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,5 +39,7 @@ As an atheist, I must acknowledge that these biblical passages are central to Ch
  * [85.0](./Nature_of_Judgment_Day_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Nature_of_Judgment_Day_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Nature_of_Judgment_Day_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Nature_of_Judgment_Day_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Nature_of_Judgment_Day_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Nature_of_Judgment_Day.md)

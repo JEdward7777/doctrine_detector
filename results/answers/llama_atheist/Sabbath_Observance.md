@@ -37,7 +37,7 @@ From a secular perspective, keeping the Sabbath holy can be seen as an opportuni
 In conclusion, keeping the Sabbath holy according to the commandments given to Moses is not just about obeying a divine decree; it's an integral part of Jewish culture and tradition that has been passed down through generations. While I may not subscribe to religious beliefs, I recognize the importance of cultural heritage and the value of setting aside time for rest, reflection, and community-building.
 
 ## Average Grade
-44.166666666666664
+51.875
 
 ## Grades
  * [30.0](./Sabbath_Observance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -46,5 +46,7 @@ In conclusion, keeping the Sabbath holy according to the commandments given to M
  * [40.0](./Sabbath_Observance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Sabbath_Observance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./Sabbath_Observance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Sabbath_Observance_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [65.0](./Sabbath_Observance_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Sabbath_Observance.md)

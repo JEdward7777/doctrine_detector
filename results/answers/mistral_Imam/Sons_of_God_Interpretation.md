@@ -21,7 +21,7 @@ However, it is essential to note that Islamic interpretations of biblical texts 
 In summary, in Genesis 6:2, Muslims interpret the "sons of God" as referring to angels who intermarried with human women, producing offspring known as the Nephilim. This interpretation is based on the understanding that angels are messengers of Allah and do not have the ability to procreate like humans.
 
 ## Average Grade
-56.666666666666664
+58.75
 
 ## Grades
  * [60.0](./Sons_of_God_Interpretation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ In summary, in Genesis 6:2, Muslims interpret the "sons of God" as referring to 
  * [50.0](./Sons_of_God_Interpretation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Sons_of_God_Interpretation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Sons_of_God_Interpretation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Sons_of_God_Interpretation_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Sons_of_God_Interpretation_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Sons_of_God_Interpretation.md)

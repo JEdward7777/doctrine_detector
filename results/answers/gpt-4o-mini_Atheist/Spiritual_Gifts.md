@@ -29,7 +29,7 @@ The phrase "spiritual gifts" in the Bible, particularly within the New Testament
 Overall, the implications of "spiritual gifts" in the biblical context revolve around themes of community, service, diversity, empowerment, and the responsibility that comes with these gifts, all of which can enrich the understanding of interpersonal relationships within faith communities.
 
 ## Average Grade
-91.16666666666667
+89.625
 
 ## Grades
  * [90.0](./Spiritual_Gifts_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ Overall, the implications of "spiritual gifts" in the biblical context revolve a
  * [90.0](./Spiritual_Gifts_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Spiritual_Gifts_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Spiritual_Gifts_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Spiritual_Gifts_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Spiritual_Gifts_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Spiritual_Gifts.md)

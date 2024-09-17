@@ -19,7 +19,7 @@ In 1 Corinthians 11:23-26, Paul explains the institution of the Lord's Supper: "
 The Lord's Supper serves to reinforce believers' unity with one another as the body of Christ (1 Corinthians 10:16-17) and strengthen their faith in Christ's sacrifice for the forgiveness of sins. It is a sacred event that helps Christians remember and reaffirm their commitment to following Jesus Christ.
 
 ## Average Grade
-93.33333333333333
+93.75
 
 ## Grades
  * [95.0](./Regular_Practice_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ The Lord's Supper serves to reinforce believers' unity with one another as the b
  * [95.0](./Regular_Practice_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Regular_Practice_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Regular_Practice_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [95.0](./Regular_Practice_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Regular_Practice_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Regular_Practice.md)

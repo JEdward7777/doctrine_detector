@@ -19,7 +19,7 @@ On the other hand, worshiping false gods generally refers to the veneration of d
 It's important to recognize that interpretations of what constitutes "God" and "false gods" can vary greatly across different cultures and religious systems. For many, that's a deeply personal subject tied to identity, belief, and community. Engaging in open, respectful dialogue about these differences can foster greater understanding and tolerance among diverse beliefs.
 
 ## Average Grade
-81.66666666666667
+81.875
 
 ## Grades
  * [90.0](./True_vs._False_Worship_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ It's important to recognize that interpretations of what constitutes "God" and "
  * [95.0](./True_vs._False_Worship_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./True_vs._False_Worship_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./True_vs._False_Worship_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./True_vs._False_Worship_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [80.0](./True_vs._False_Worship_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/True_vs._False_Worship.md)

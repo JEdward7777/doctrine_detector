@@ -33,7 +33,7 @@ Distinguishing between hope as a confident expectation versus wishful thinking.
 **Hope in God provides a perspective that transcends political ideologies and social constructs.** It reminds us that there is something greater than ourselves, something that transcends our earthly concerns. This sense of awe and purpose can guide our actions and decisions, even in politically sensitive situations.
 
 ## Average Grade
-90.0
+90.625
 
 ## Grades
  * [90.0](./Trust_in_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -42,5 +42,7 @@ Distinguishing between hope as a confident expectation versus wishful thinking.
  * [90.0](./Trust_in_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Trust_in_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Trust_in_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [95.0](./Trust_in_God_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Trust_in_God_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Trust_in_God.md)

@@ -15,7 +15,7 @@ Encouraging personal reflection on one's own spiritual state and awareness of si
 The expression "woe is me" conveys a deep sense of remorse, grief, or distress about one's own suffering or sin. It is an acknowledgment of personal faults or difficulties and can indicate a feeling of helplessness or despair. From an Islamic perspective, it is important for individuals to recognize their own sins, seek forgiveness from Allah, and strive to improve themselves. Expressing feelings of sorrow and regret is a sign of humility and self-awareness, which are important qualities in seeking repentance and spiritual growth.
 
 ## Average Grade
-76.66666666666667
+75.625
 
 ## Grades
  * [70.0](./Personal_Reflection_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ The expression "woe is me" conveys a deep sense of remorse, grief, or distress a
  * [85.0](./Personal_Reflection_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Personal_Reflection_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Personal_Reflection_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Personal_Reflection_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Personal_Reflection_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Personal_Reflection.md)

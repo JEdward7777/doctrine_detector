@@ -19,7 +19,7 @@ This prophecy has deep religious significance for Christians, as it signifies th
 To ensure political correctness, it's essential to understand that this prophecy holds deep religious and historical significance for Christians and should be approached with respect. It represents the core belief in the Messianic nature of Jesus and the continuity between the Old Testament and the New Testament.
 
 ## Average Grade
-86.66666666666667
+85.625
 
 ## Grades
  * [85.0](./David_s_Throne_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ To ensure political correctness, it's essential to understand that this prophecy
  * [95.0](./David_s_Throne_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./David_s_Throne_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./David_s_Throne_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./David_s_Throne_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [80.0](./David_s_Throne_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/David_s_Throne.md)

@@ -19,7 +19,7 @@ For Christians, this celebration is deeply symbolic, as Jesus is often referred 
 Thus, for Christians, Passover signifies not only a historical event in Jewish tradition but also represents the anticipation of salvation through Jesus, portraying him as the ultimate sacrifice who delivers humanity from sin, akin to how the lamb's blood delivered the Israelites from death. This dual significance highlights the intertwining of Jewish and Christian beliefs and the shared roots of these two faiths.
 
 ## Average Grade
-90.83333333333333
+90.0
 
 ## Grades
  * [95.0](./Passover_Significance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ Thus, for Christians, Passover signifies not only a historical event in Jewish t
  * [95.0](./Passover_Significance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Passover_Significance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Passover_Significance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Passover_Significance_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Passover_Significance_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Passover_Significance.md)

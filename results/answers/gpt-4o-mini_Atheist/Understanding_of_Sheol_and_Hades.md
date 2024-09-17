@@ -31,7 +31,7 @@ In the context of the Bible, the concepts of Sheol and Hades are often associate
 In conclusion, while Sheol and Hades both serve as realms of the dead, their representations evolve from a neutral waiting place in the Hebrew Bible (Sheol) to a more morally charged place in the New Testament (Hades) that begins to articulate notions of reward and punishment.
 
 ## Average Grade
-92.5
+90.625
 
 ## Grades
  * [95.0](./Understanding_of_Sheol_and_Hades_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -40,5 +40,7 @@ In conclusion, while Sheol and Hades both serve as realms of the dead, their rep
  * [95.0](./Understanding_of_Sheol_and_Hades_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Understanding_of_Sheol_and_Hades_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Understanding_of_Sheol_and_Hades_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_of_Sheol_and_Hades_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Understanding_of_Sheol_and_Hades_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_of_Sheol_and_Hades.md)

@@ -31,7 +31,7 @@ As an atheist, I acknowledge the significance of this concept within Christian t
 In my opinion, it's essential to approach these concepts with a critical and nuanced perspective, recognizing both their cultural and theological significance while also acknowledging their limitations and potential biases. By doing so, we can foster a more inclusive and respectful dialogue across different belief systems and worldviews.
 
 ## Average Grade
-68.33333333333333
+68.125
 
 ## Grades
  * [70.0](./Understanding_Trespass_in_a_Christian_Context_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -40,5 +40,7 @@ In my opinion, it's essential to approach these concepts with a critical and nua
  * [70.0](./Understanding_Trespass_in_a_Christian_Context_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Understanding_Trespass_in_a_Christian_Context_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Understanding_Trespass_in_a_Christian_Context_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Trespass_in_a_Christian_Context_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Understanding_Trespass_in_a_Christian_Context_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Trespass_in_a_Christian_Context.md)

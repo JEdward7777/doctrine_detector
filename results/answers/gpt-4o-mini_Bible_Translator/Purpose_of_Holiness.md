@@ -37,7 +37,7 @@ Living a life that is considered 'holy' and set apart for God's purpose is a cen
 In summary, living a holy life involves a holistic approach that includes faith in Christ, engagement with Scripture, reliance on the Holy Spirit, and active participation in the Christian community, all while pursuing moral integrity and seeking God’s purpose.
 
 ## Average Grade
-89.16666666666667
+90.0
 
 ## Grades
  * [95.0](./Purpose_of_Holiness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -46,5 +46,7 @@ In summary, living a holy life involves a holistic approach that includes faith 
  * [95.0](./Purpose_of_Holiness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Purpose_of_Holiness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Purpose_of_Holiness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Purpose_of_Holiness_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Purpose_of_Holiness_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Purpose_of_Holiness.md)

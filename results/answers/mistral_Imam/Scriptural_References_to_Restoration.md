@@ -25,7 +25,7 @@ Finding scriptural support for the concept of restoration in one's faith journey
 These verses illustrate the theme of restoration as a central part of God's relationship with His people. They demonstrate His compassion, mercy, and desire to heal and restore those who repent and turn back to Him. This concept aligns with Islamic teachings on repentance (Tawba) and God's infinite mercy towards His creation.
 
 ## Average Grade
-83.33333333333333
+78.125
 
 ## Grades
  * [90.0](./Scriptural_References_to_Restoration_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ These verses illustrate the theme of restoration as a central part of God's rela
  * [90.0](./Scriptural_References_to_Restoration_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Scriptural_References_to_Restoration_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Scriptural_References_to_Restoration_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Scriptural_References_to_Restoration_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Scriptural_References_to_Restoration_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Scriptural_References_to_Restoration.md)

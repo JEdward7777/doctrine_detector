@@ -19,7 +19,7 @@ When we discuss God's characteristics, we can say that His divine nature implies
 However, it is essential to note that Muslim scholars have debated the nature of God's attributes throughout history. Some believe that His attributes are similar to human attributes but infinite in degree (Al-Mushabbihah), while others argue that God's attributes are unlike any human quality (Ash-Shaksiyyah). Ultimately, these debates emphasize the need for humility when discussing God and seeking a deeper understanding of His nature through revelation and contemplation.
 
 ## Average Grade
-80.83333333333333
+80.0
 
 ## Grades
  * [85.0](./Understanding_Divine_Nature_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ However, it is essential to note that Muslim scholars have debated the nature of
  * [85.0](./Understanding_Divine_Nature_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Divine_Nature_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Understanding_Divine_Nature_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Divine_Nature_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Understanding_Divine_Nature_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Divine_Nature.md)

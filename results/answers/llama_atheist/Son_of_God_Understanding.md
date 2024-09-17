@@ -29,7 +29,7 @@ It's crucial to note that these interpretations are not mutually exclusive, and 
 Ultimately, the significance of "Son of God" lies in its capacity to evoke awe, mystery, and introspection. As we continue to grapple with the complexities of human nature and our relationship with the divine, we might find that this phrase encourages us to reexamine our assumptions about the interconnectedness of humanity and the cosmos.
 
 ## Average Grade
-59.166666666666664
+63.75
 
 ## Grades
  * [60.0](./Son_of_God_Understanding_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ Ultimately, the significance of "Son of God" lies in its capacity to evoke awe, 
  * [70.0](./Son_of_God_Understanding_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Son_of_God_Understanding_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Son_of_God_Understanding_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Son_of_God_Understanding_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Son_of_God_Understanding_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Son_of_God_Understanding.md)

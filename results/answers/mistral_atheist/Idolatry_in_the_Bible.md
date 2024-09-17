@@ -25,7 +25,7 @@ Understanding these consequences can help Christians recognize the seriousness o
 These examples demonstrate that the Bible portrays idolatry as a sin that leads to negative consequences for God's people, such as divine punishment, destruction, and exile. It is important to note that these stories are part of a larger cultural context and should be understood within that framework. Additionally, many modern scholars interpret these passages in allegorical or metaphorical ways rather than viewing them as literal historical accounts.
 
 ## Average Grade
-88.33333333333333
+88.125
 
 ## Grades
  * [95.0](./Idolatry_in_the_Bible_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ These examples demonstrate that the Bible portrays idolatry as a sin that leads 
  * [95.0](./Idolatry_in_the_Bible_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Idolatry_in_the_Bible_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Idolatry_in_the_Bible_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Idolatry_in_the_Bible_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Idolatry_in_the_Bible_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Idolatry_in_the_Bible.md)

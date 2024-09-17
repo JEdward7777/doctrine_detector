@@ -17,7 +17,7 @@ Avoidance can lead to significant theological gaps and misunderstandings about J
 In translating religious texts or discussing religious concepts, it's crucial to be mindful of cultural context and potential misunderstandings. If the intention is to communicate accurately within an Islamic context, it might be preferable to avoid the phrase "Son of God." Instead, terminology that adheres more closely to Islamic understanding of divine attributes could be used. However, it's essential to approach such conversations with sensitivity and respect for all faith traditions.
 
 ## Average Grade
-71.66666666666667
+70.625
 
 ## Grades
  * [85.0](./Avoid__Son_of_God__grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -26,5 +26,7 @@ In translating religious texts or discussing religious concepts, it's crucial to
  * [70.0](./Avoid__Son_of_God__grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Avoid__Son_of_God__grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Avoid__Son_of_God__grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Avoid__Son_of_God__grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Avoid__Son_of_God__grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Avoid__Son_of_God_.md)

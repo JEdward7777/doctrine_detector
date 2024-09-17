@@ -32,7 +32,7 @@ Translating the term 'Lord Yahweh' while maintaining its meaning across differen
 By approaching the translation of 'Lord Yahweh' with care, respect, and an understanding of its significance in various cultures, we can ensure that its meaning is preserved while fostering inclusivity and understanding.
 
 ## Average Grade
-89.16666666666667
+88.75
 
 ## Grades
  * [95.0](./Translation_of_Divine_Titles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -41,5 +41,7 @@ By approaching the translation of 'Lord Yahweh' with care, respect, and an under
  * [90.0](./Translation_of_Divine_Titles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Translation_of_Divine_Titles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Translation_of_Divine_Titles_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Translation_of_Divine_Titles_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Translation_of_Divine_Titles_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Translation_of_Divine_Titles.md)

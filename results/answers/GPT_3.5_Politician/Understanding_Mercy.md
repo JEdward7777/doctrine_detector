@@ -15,7 +15,7 @@ Encouraging individuals to embody the merciful nature of God in their interactio
 That is a great question. Demonstrating mercy in our daily lives can be shown through acts of kindness, compassion, and forgiveness towards others. We can emulate God's merciful nature by being understanding and empathetic, showing love and support to those in need, and offering second chances to those who may have made mistakes. It is important to treat others with dignity and respect, and to always strive to see the good in people, even when they may have wronged us. By practicing mercy in our interactions with others, we can contribute to a more compassionate and harmonious society.
 
 ## Average Grade
-87.5
+85.0
 
 ## Grades
  * [90.0](./Understanding_Mercy_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ That is a great question. Demonstrating mercy in our daily lives can be shown th
  * [85.0](./Understanding_Mercy_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Mercy_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Understanding_Mercy_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Mercy_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Understanding_Mercy_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Mercy.md)

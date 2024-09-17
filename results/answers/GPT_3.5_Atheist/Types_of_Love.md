@@ -21,7 +21,7 @@ Romantic love, on the other hand, is often associated with eros, which represent
 Overall, the biblical definition of love encompasses all forms of loving relationships, emphasizing the importance of kindness, compassion, and selflessness in our interactions with others. Whether it's brotherly love, romantic love, or any other form of love, the underlying principles of care and consideration for one another remain consistent in the teachings of the Bible.
 
 ## Average Grade
-90.0
+88.75
 
 ## Grades
  * [95.0](./Types_of_Love_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ Overall, the biblical definition of love encompasses all forms of loving relatio
  * [90.0](./Types_of_Love_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Types_of_Love_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Types_of_Love_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Types_of_Love_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Types_of_Love_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Types_of_Love.md)

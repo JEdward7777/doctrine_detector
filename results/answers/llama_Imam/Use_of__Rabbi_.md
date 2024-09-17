@@ -25,7 +25,7 @@ As for Jesus, the Quran also mentions him as Rabbi Isa (Quran 5:75). However, it
 In conclusion, both John the Baptist and Jesus were referred to as Rabbi in their respective contexts, signifying their roles as teachers and guides. However, Muslims believe that Jesus was not divine and did not possess any extraordinary powers or attributes that would set him apart from other prophets.
 
 ## Average Grade
-55.833333333333336
+60.0
 
 ## Grades
  * [60.0](./Use_of__Rabbi__grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ In conclusion, both John the Baptist and Jesus were referred to as Rabbi in thei
  * [60.0](./Use_of__Rabbi__grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Use_of__Rabbi__grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Use_of__Rabbi__grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Use_of__Rabbi__grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Use_of__Rabbi__grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Use_of__Rabbi_.md)

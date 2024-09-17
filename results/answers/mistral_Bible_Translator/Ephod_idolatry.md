@@ -24,7 +24,7 @@ In Judges 8:27, we read that Gideon made an ephod from gold received from the Mi
 In summary, the story of Gideon's golden ephod serves as a cautionary tale about the dangers of idolatry and the importance of recognizing that only God is worthy of our worship and devotion. By remembering this lesson, we can strive to maintain a proper relationship with Him and avoid practices that might lead us astray.
 
 ## Average Grade
-87.83333333333333
+87.75
 
 ## Grades
  * [90.0](./Ephod_idolatry_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,5 +33,7 @@ In summary, the story of Gideon's golden ephod serves as a cautionary tale about
  * [85.0](./Ephod_idolatry_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Ephod_idolatry_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Ephod_idolatry_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Ephod_idolatry_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Ephod_idolatry_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Ephod_idolatry.md)

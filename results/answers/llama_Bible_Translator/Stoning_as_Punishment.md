@@ -38,7 +38,7 @@ It is also important to note that Jesus Christ, in His teachings and actions, su
 In summary, while the practice of stoning as a punishment for adultery may seem harsh to us today, it was intended to maintain social order and uphold God's laws in the cultural context of ancient Israel. At the same time, we see glimpses of God's mercy and compassion throughout these passages, as well as in His broader teachings about love, forgiveness, and redemption through Jesus Christ.
 
 ## Average Grade
-87.0
+84.625
 
 ## Grades
  * [90.0](./Stoning_as_Punishment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -47,5 +47,7 @@ In summary, while the practice of stoning as a punishment for adultery may seem 
  * [90.0](./Stoning_as_Punishment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Stoning_as_Punishment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Stoning_as_Punishment_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Stoning_as_Punishment_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Stoning_as_Punishment_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Stoning_as_Punishment.md)

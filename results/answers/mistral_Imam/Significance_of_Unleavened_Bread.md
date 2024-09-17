@@ -23,7 +23,7 @@ In the Hadith Qudsi narrated by Bukhari and Muslim, Prophet Muhammad (peace be u
 Here, the emphasis is on maintaining a constant connection with Allah, keeping our lives simple and focused on worship and remembrance. This can be seen as paralleling the simplicity and purity represented by unleavened bread in Islamic tradition.
 
 ## Average Grade
-68.33333333333333
+68.125
 
 ## Grades
  * [90.0](./Significance_of_Unleavened_Bread_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ Here, the emphasis is on maintaining a constant connection with Allah, keeping o
  * [60.0](./Significance_of_Unleavened_Bread_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Significance_of_Unleavened_Bread_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Significance_of_Unleavened_Bread_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Significance_of_Unleavened_Bread_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Significance_of_Unleavened_Bread_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Significance_of_Unleavened_Bread.md)

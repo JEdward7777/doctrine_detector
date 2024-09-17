@@ -38,7 +38,7 @@ As a politician, I want to acknowledge that these examples may have different me
 In any case, it's essential to approach these stories with sensitivity and respect, recognizing the complexities and diversity of human experiences in Scripture. By doing so, we can foster a deeper understanding of the Bible's themes and messages that resonate across cultures and generations.
 
 ## Average Grade
-82.5
+80.0
 
 ## Grades
  * [90.0](./Historical_Examples_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -47,5 +47,7 @@ In any case, it's essential to approach these stories with sensitivity and respe
  * [85.0](./Historical_Examples_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Historical_Examples_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Historical_Examples_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Historical_Examples_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Historical_Examples_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Historical_Examples.md)

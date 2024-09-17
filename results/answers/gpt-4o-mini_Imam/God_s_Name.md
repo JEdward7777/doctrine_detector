@@ -19,7 +19,7 @@ From an Islamic perspective, while we acknowledge the importance of God's names 
 In summary, the significance of "Yahweh" in the Bible denotes God's personal and covenantal relationship with His people. In Islam, we emphasize the attributes and names of Allah as described in the Qur'an, recognizing the unity and oneness of God, which is fundamentally similar to the conception of God found in the Bible, but acknowledged through different names and linguistic traditions.
 
 ## Average Grade
-80.83333333333333
+80.0
 
 ## Grades
  * [85.0](./God_s_Name_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ In summary, the significance of "Yahweh" in the Bible denotes God's personal and
  * [80.0](./God_s_Name_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./God_s_Name_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./God_s_Name_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./God_s_Name_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./God_s_Name_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/God_s_Name.md)

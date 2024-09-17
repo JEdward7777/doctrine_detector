@@ -23,7 +23,7 @@ To connect the theological concept with biblical references for deeper understan
 These verses highlight the idea of atonement or propitiation through sacrifices, which are significant concepts in the Christian understanding of redemption. In Islam, we believe that faith and good deeds can earn God's forgiveness, but not through a sacrificial offering or propitiation as stated in these verses.
 
 ## Average Grade
-83.33333333333333
+81.25
 
 ## Grades
  * [90.0](./Scriptural_Basis_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ These verses highlight the idea of atonement or propitiation through sacrifices,
  * [90.0](./Scriptural_Basis_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Scriptural_Basis_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Scriptural_Basis_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Scriptural_Basis_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Scriptural_Basis_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Scriptural_Basis.md)

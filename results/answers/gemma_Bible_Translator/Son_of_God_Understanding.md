@@ -37,7 +37,7 @@ Understanding the divinity of Jesus and His eternal relationship with God.
 The term 'Son of God' is a central theological concept in Christianity, highlighting Jesus' filial relationship with God the Father. This relationship reveals Jesus' divine identity, empowers his ministry, and offers salvation to the world.
 
 ## Average Grade
-90.83333333333333
+91.25
 
 ## Grades
  * [90.0](./Son_of_God_Understanding_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -46,5 +46,7 @@ The term 'Son of God' is a central theological concept in Christianity, highligh
  * [95.0](./Son_of_God_Understanding_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Son_of_God_Understanding_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Son_of_God_Understanding_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [95.0](./Son_of_God_Understanding_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Son_of_God_Understanding_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Son_of_God_Understanding.md)

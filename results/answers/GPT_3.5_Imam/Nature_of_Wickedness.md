@@ -23,7 +23,7 @@ Ultimately, the Bible offers hope and redemption for those who turn away from wi
 Overall, both Islam and Christianity emphasize the importance of living a righteous life, avoiding wickedness, and seeking forgiveness for one's sins. By following the teachings of the Quran and the Bible, individuals can strive to lead a more moral and ethical life in accordance with the guidance of God.
 
 ## Average Grade
-83.33333333333333
+80.0
 
 ## Grades
  * [90.0](./Nature_of_Wickedness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ Overall, both Islam and Christianity emphasize the importance of living a righte
  * [85.0](./Nature_of_Wickedness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Nature_of_Wickedness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Nature_of_Wickedness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Nature_of_Wickedness_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Nature_of_Wickedness_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Nature_of_Wickedness.md)

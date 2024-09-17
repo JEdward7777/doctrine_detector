@@ -27,7 +27,7 @@ The title 'King of the Jews' holds profound significance in relation to Jesus' i
 In summary, the title 'King of the Jews' encapsulates the Christian belief in Jesus as the fulfillment of the Messianic prophecies, highlights the contrast between earthly and spiritual kingdoms, and signifies his overarching authority as the Messiah for all humanity.
 
 ## Average Grade
-91.66666666666667
+91.25
 
 ## Grades
  * [95.0](./Messianic_Identity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ In summary, the title 'King of the Jews' encapsulates the Christian belief in Je
  * [95.0](./Messianic_Identity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Messianic_Identity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Messianic_Identity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Messianic_Identity_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Messianic_Identity_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Messianic_Identity.md)

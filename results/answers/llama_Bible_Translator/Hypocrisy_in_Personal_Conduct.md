@@ -28,7 +28,7 @@ What a great question! As Christians, we must recognize that our actions are an 
 By prioritizing these practices, you'll be better equipped to avoid hypocrisy and live out your faith in a way that honors God. Remember, it's not about being perfect; it's about being faithful and obedient to His will.
 
 ## Average Grade
-91.66666666666667
+90.625
 
 ## Grades
  * [90.0](./Hypocrisy_in_Personal_Conduct_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,5 +37,7 @@ By prioritizing these practices, you'll be better equipped to avoid hypocrisy an
  * [90.0](./Hypocrisy_in_Personal_Conduct_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Hypocrisy_in_Personal_Conduct_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Hypocrisy_in_Personal_Conduct_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Hypocrisy_in_Personal_Conduct_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Hypocrisy_in_Personal_Conduct_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Hypocrisy_in_Personal_Conduct.md)

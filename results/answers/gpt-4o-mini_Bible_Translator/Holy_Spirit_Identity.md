@@ -29,7 +29,7 @@ The identity of the Holy Spirit as God profoundly influences the way Christians 
 In summary, the understanding of the Holy Spirit as God shapes a Christian's life by emphasizing His active role in sanctification, guidance, empowerment, comfort, and intercession. This identity fosters a relationship that encourages believers to rely on the Spirit in various aspects of their spiritual journey, deepening their faith and commitment to living out God's will.
 
 ## Average Grade
-92.5
+93.125
 
 ## Grades
  * [90.0](./Holy_Spirit_Identity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ In summary, the understanding of the Holy Spirit as God shapes a Christian's lif
  * [95.0](./Holy_Spirit_Identity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Holy_Spirit_Identity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Holy_Spirit_Identity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [95.0](./Holy_Spirit_Identity_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Holy_Spirit_Identity_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Holy_Spirit_Identity.md)

@@ -15,7 +15,7 @@ Exploring the theological implications of God dwelling among His people.
 In the Old Testament, the temple is seen as the physical manifestation of God's presence among the people of Israel. It is the sacred space where worship and sacrifices are conducted, and where the divine presence is believed to reside. In the New Testament, the concept of the temple as God's dwelling is reinterpreted to emphasize the idea that believers themselves are now the temple of God, with the indwelling of the Holy Spirit. This shift reflects a more personal and intimate relationship with God, accessible to all believers regardless of physical location.
 
 ## Average Grade
-88.33333333333333
+87.5
 
 ## Grades
  * [90.0](./Temple_as_God_s_Dwelling_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ In the Old Testament, the temple is seen as the physical manifestation of God's 
  * [90.0](./Temple_as_God_s_Dwelling_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Temple_as_God_s_Dwelling_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Temple_as_God_s_Dwelling_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Temple_as_God_s_Dwelling_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Temple_as_God_s_Dwelling_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Temple_as_God_s_Dwelling.md)

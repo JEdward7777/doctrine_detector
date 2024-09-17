@@ -25,7 +25,7 @@ Jesus ends the story by asking, "Which of these three do you think was a neighbo
 This parable serves as a reminder that neighbors are not limited by ethnicity, religion, or social status. Instead, we should treat everyone with kindness, empathy, and compassion. By showing mercy to the injured man, the Samaritan challenged the stereotypes of his day and demonstrated the true meaning of love for one's neighbor.
 
 ## Average Grade
-93.33333333333333
+91.875
 
 ## Grades
  * [95.0](./Example_of_Parables_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ This parable serves as a reminder that neighbors are not limited by ethnicity, r
  * [95.0](./Example_of_Parables_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Example_of_Parables_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [95.0](./Example_of_Parables_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Example_of_Parables_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Example_of_Parables_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Example_of_Parables.md)

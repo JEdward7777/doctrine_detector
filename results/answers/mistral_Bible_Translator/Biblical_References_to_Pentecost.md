@@ -29,7 +29,7 @@ Understanding the scriptural basis for the observance and significance of Pentec
 In the New Testament (Acts 2:1), we find the account of the first celebration of Pentecost following Jesus' resurrection, where the Holy Spirit was poured out on the disciples. This event marks a significant transition in God's relationship with humanity and is often interpreted as the inauguration of the Church.
 
 ## Average Grade
-55.0
+63.75
 
 ## Grades
  * [60.0](./Biblical_References_to_Pentecost_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ In the New Testament (Acts 2:1), we find the account of the first celebration of
  * [50.0](./Biblical_References_to_Pentecost_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Biblical_References_to_Pentecost_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Biblical_References_to_Pentecost_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Biblical_References_to_Pentecost_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Biblical_References_to_Pentecost_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Biblical_References_to_Pentecost.md)

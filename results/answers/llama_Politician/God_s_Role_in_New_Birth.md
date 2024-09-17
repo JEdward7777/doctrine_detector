@@ -27,7 +27,7 @@ So, to answer your question in a way that honors these diverse perspectives, I w
 Let us strive to create a society where people from all walks of life can engage in respectful dialogue about their beliefs and experiences, free from fear of judgment or marginalization.
 
 ## Average Grade
-51.666666666666664
+52.5
 
 ## Grades
  * [60.0](./God_s_Role_in_New_Birth_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ Let us strive to create a society where people from all walks of life can engage
  * [50.0](./God_s_Role_in_New_Birth_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./God_s_Role_in_New_Birth_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./God_s_Role_in_New_Birth_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./God_s_Role_in_New_Birth_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [25.0](./God_s_Role_in_New_Birth_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/God_s_Role_in_New_Birth.md)

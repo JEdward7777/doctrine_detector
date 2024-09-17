@@ -30,7 +30,7 @@ The significance of Jesus' cross regarding Satan's dominion is multifaceted:
 In conclusion, Jesus' death on the cross marks a decisive blow against Satan's dominion, exposing his deceit, destroying his power, establishing a new covenant, and granting believers victory over him.
 
 ## Average Grade
-92.16666666666667
+92.25
 
 ## Grades
  * [95.0](./Victory_over_Satan_s_Dominion_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,5 +39,7 @@ In conclusion, Jesus' death on the cross marks a decisive blow against Satan's d
  * [90.0](./Victory_over_Satan_s_Dominion_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Victory_over_Satan_s_Dominion_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Victory_over_Satan_s_Dominion_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Victory_over_Satan_s_Dominion_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Victory_over_Satan_s_Dominion_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Victory_over_Satan_s_Dominion.md)

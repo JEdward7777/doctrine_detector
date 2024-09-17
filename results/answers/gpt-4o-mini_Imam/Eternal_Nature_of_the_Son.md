@@ -23,7 +23,7 @@ In Islamic theology, we hold very distinct views about the nature of God, His at
 In short, the Islamic perspective emphasizes that Allah is singular and unique, with no attributes or relationships that can be equated to human familial structures. The terms used to describe God in Islam, such as Ar-Rahman (The Most Merciful) and Al-Wahid (The One), highlight His uniqueness and transcendence over anything found in creation. Thus, the distinction between the "Son of God" and human sons is profound; it is not merely a difference in existence but a fundamental difference in nature and essence.
 
 ## Average Grade
-38.333333333333336
+49.375
 
 ## Grades
  * [20.0](./Eternal_Nature_of_the_Son_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ In short, the Islamic perspective emphasizes that Allah is singular and unique, 
  * [20.0](./Eternal_Nature_of_the_Son_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [50.0](./Eternal_Nature_of_the_Son_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./Eternal_Nature_of_the_Son_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Eternal_Nature_of_the_Son_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [80.0](./Eternal_Nature_of_the_Son_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Eternal_Nature_of_the_Son.md)

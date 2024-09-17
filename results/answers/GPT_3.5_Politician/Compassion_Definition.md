@@ -15,7 +15,7 @@ Understanding the biblical perspective on compassion and how it guides our actio
 Compassion, as defined in the Bible, involves showing kindness, mercy, and understanding towards others, particularly those who are suffering or in need. Some actions associated with being compassionate, according to the Bible, include helping those in need, comforting the afflicted, and showing empathy towards others. It is important to approach each situation with an open heart and a willingness to alleviate the suffering of others in a respectful and non-judgmental manner.
 
 ## Average Grade
-90.0
+88.75
 
 ## Grades
  * [90.0](./Compassion_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ Compassion, as defined in the Bible, involves showing kindness, mercy, and under
  * [90.0](./Compassion_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Compassion_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Compassion_Definition_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Compassion_Definition_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Compassion_Definition_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Compassion_Definition.md)

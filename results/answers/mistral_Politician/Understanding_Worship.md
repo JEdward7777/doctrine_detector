@@ -15,7 +15,7 @@ It is important to comprehend the significance of worship in a Christian's life 
  As a politician, I would clarify that the term "worship" refers to the act of revering or honoring a deity, idol, or principle with deep respect, admiration, or devotion. It is important to note that everyone has their own beliefs and values, and it is crucial to respect these differences while promoting understanding, harmony, and peaceful coexistence. In this context, it is essential not to equate worshipping a specific deity or principle with the superiority of one belief system over another, as that could potentially offend individuals who hold different religious or philosophical beliefs. Instead, we should focus on fostering an environment where everyone's unique perspectives and practices are acknowledged, appreciated, and respected.
 
 ## Average Grade
-50.0
+52.5
 
 ## Grades
  * [50.0](./Understanding_Worship_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ It is important to comprehend the significance of worship in a Christian's life 
  * [50.0](./Understanding_Worship_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Understanding_Worship_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Understanding_Worship_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Understanding_Worship_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Understanding_Worship_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Worship.md)

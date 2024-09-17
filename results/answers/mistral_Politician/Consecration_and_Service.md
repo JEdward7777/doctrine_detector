@@ -21,7 +21,7 @@ It is crucial to remember that consecration has different interpretations and me
 In conclusion, consecration plays a vital role in spiritual growth and service within many religious traditions by preparing individuals and things for God's work through sacred rituals, dedication, and prayer. It serves as an important step towards fulfilling one's purpose and serving the Divine according to their beliefs and practices.
 
 ## Average Grade
-82.83333333333333
+81.5
 
 ## Grades
  * [85.0](./Consecration_and_Service_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ In conclusion, consecration plays a vital role in spiritual growth and service w
  * [92.0](./Consecration_and_Service_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Consecration_and_Service_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Consecration_and_Service_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Consecration_and_Service_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Consecration_and_Service_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Consecration_and_Service.md)

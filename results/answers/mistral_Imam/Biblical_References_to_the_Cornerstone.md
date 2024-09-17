@@ -25,7 +25,7 @@ This passage from 1 Peter refers to Psalm 118:22, a psalm traditionally sung on 
 These verses convey Jesus' role as the foundational element upon which the church is built and the one who determines its alignment and stability. However, interpretations may vary among different denominations and individual readers within Christianity. It's essential to remember that understanding religious texts often involves cultural, historical, and contextual knowledge.
 
 ## Average Grade
-89.5
+88.375
 
 ## Grades
  * [90.0](./Biblical_References_to_the_Cornerstone_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ These verses convey Jesus' role as the foundational element upon which the churc
  * [95.0](./Biblical_References_to_the_Cornerstone_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_References_to_the_Cornerstone_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Biblical_References_to_the_Cornerstone_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Biblical_References_to_the_Cornerstone_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Biblical_References_to_the_Cornerstone_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Biblical_References_to_the_Cornerstone.md)

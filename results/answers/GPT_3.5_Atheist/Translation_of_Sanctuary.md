@@ -19,7 +19,7 @@ In a modern context, 'sanctuary' can also be used to describe a place of safety 
 Additionally, it is important to be mindful of any potential misunderstandings or misinterpretations that may arise when translating 'sanctuary' into a different language or cultural context. Taking into account the nuances and complexities of the term, translators must strive to capture the full essence of 'sanctuary' while respecting its cultural retribution in the target language.
 
 ## Average Grade
-81.66666666666667
+80.625
 
 ## Grades
  * [85.0](./Translation_of_Sanctuary_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ Additionally, it is important to be mindful of any potential misunderstandings o
  * [85.0](./Translation_of_Sanctuary_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Translation_of_Sanctuary_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Translation_of_Sanctuary_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Translation_of_Sanctuary_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Translation_of_Sanctuary_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Translation_of_Sanctuary.md)

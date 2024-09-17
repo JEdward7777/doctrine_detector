@@ -19,7 +19,7 @@ According to Christian belief, all believers in Jesus are considered saints, reg
 Ultimately, the process of becoming a saint in the Christian faith involves faith in Jesus Christ, repentance of sin, and a commitment to live a life in accordance with God's will. It is through this ongoing relationship with God that believers are transformed into saints, reflecting the character of Christ in their thoughts, words, and actions.
 
 ## Average Grade
-90.0
+89.375
 
 ## Grades
  * [95.0](./Source_of_Holiness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ Ultimately, the process of becoming a saint in the Christian faith involves fait
  * [95.0](./Source_of_Holiness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Source_of_Holiness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Source_of_Holiness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Source_of_Holiness_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Source_of_Holiness_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Source_of_Holiness.md)

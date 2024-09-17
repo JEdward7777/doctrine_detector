@@ -25,7 +25,7 @@ Jesus himself expressed lament in the Garden of Gethsemane before his crucifixio
 Overall, the examples of lament in the Bible teach us the importance of honesty and vulnerability in our relationship with God. Lament allows us to express our deepest emotions, doubts, and struggles to God, leading to a deeper trust and reliance on Him. It also reminds us that even in our darkest moments, God is present and faithful to comfort and sustain us.
 
 ## Average Grade
-92.5
+91.25
 
 ## Grades
  * [95.0](./Biblical_Examples_of_Lamentation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ Overall, the examples of lament in the Bible teach us the importance of honesty 
  * [95.0](./Biblical_Examples_of_Lamentation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_Examples_of_Lamentation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Biblical_Examples_of_Lamentation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Biblical_Examples_of_Lamentation_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Biblical_Examples_of_Lamentation_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Biblical_Examples_of_Lamentation.md)

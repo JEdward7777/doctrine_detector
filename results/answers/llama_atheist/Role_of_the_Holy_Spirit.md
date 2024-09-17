@@ -28,7 +28,7 @@ From this perspective, the "empowerment" that follows being born again is not a 
 In conclusion, while I respect the cultural significance and personal importance of the concept of being born again within Christian tradition, as a secular scholar, I believe it's essential to consider these experiences through the lens of human psychology, sociology, and cultural anthropology. By doing so, we can better understand the complex interplay between individual factors, environmental influences, and social contexts that shape our lives and empower us in meaningful ways.
 
 ## Average Grade
-26.666666666666668
+31.875
 
 ## Grades
  * [20.0](./Role_of_the_Holy_Spirit_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,5 +37,7 @@ In conclusion, while I respect the cultural significance and personal importance
  * [20.0](./Role_of_the_Holy_Spirit_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Role_of_the_Holy_Spirit_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [10.0](./Role_of_the_Holy_Spirit_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [75.0](./Role_of_the_Holy_Spirit_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [20.0](./Role_of_the_Holy_Spirit_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Role_of_the_Holy_Spirit.md)

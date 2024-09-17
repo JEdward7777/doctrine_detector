@@ -25,7 +25,7 @@ The term 'ark' appears in various contexts within the Bible and can have differe
 In summary, while the term 'ark' is used in several contexts within the Bible, its translation typically reflects the original meaning of a secure vessel or container, with its specific application varying based on the narrative in which it appears. The term is preserved in most English translations to maintain its theological and cultural significance.
 
 ## Average Grade
-90.0
+89.375
 
 ## Grades
  * [90.0](./Translation_of_Ark_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ In summary, while the term 'ark' is used in several contexts within the Bible, i
  * [90.0](./Translation_of_Ark_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Translation_of_Ark_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Translation_of_Ark_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Translation_of_Ark_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Translation_of_Ark_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Translation_of_Ark.md)

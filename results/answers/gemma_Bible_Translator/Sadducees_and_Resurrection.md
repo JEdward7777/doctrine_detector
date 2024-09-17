@@ -31,7 +31,7 @@ Christian teachings about the resurrection are fundamentally different from the 
 The differences between these beliefs highlight the fundamental differences between Christianity and Sadduceanism regarding their interpretation of the afterlife and their understanding of the nature of death and life.
 
 ## Average Grade
-91.66666666666667
+90.875
 
 ## Grades
  * [95.0](./Sadducees_and_Resurrection_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -40,5 +40,7 @@ The differences between these beliefs highlight the fundamental differences betw
  * [95.0](./Sadducees_and_Resurrection_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Sadducees_and_Resurrection_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Sadducees_and_Resurrection_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Sadducees_and_Resurrection_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [92.0](./Sadducees_and_Resurrection_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Sadducees_and_Resurrection.md)

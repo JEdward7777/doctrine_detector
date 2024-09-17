@@ -15,7 +15,7 @@ Understanding the value and purpose of all individuals in God's kingdom, irrespe
 I appreciate the question about eunuchs in ancient times. It is important to acknowledge that people in different roles and capacities have contributed to society throughout history. In terms of God's plan for individuals, many religious traditions teach us to treat all individuals with respect and compassion, regardless of their background or circumstances. It is essential to recognize that diversity and inclusion are important values in promoting a just and harmonious society.
 
 ## Average Grade
-76.66666666666667
+71.25
 
 ## Grades
  * [90.0](./Role_of_Eunuchs_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ I appreciate the question about eunuchs in ancient times. It is important to ack
  * [85.0](./Role_of_Eunuchs_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Role_of_Eunuchs_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Role_of_Eunuchs_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Role_of_Eunuchs_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [30.0](./Role_of_Eunuchs_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Role_of_Eunuchs.md)

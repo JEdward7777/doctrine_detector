@@ -15,7 +15,7 @@ Believers may struggle to comprehend the implications of God's sovereignty in th
 The title "Most High" traditionally signifies the supreme authority and power of God over all aspects of our lives. This title emphasizes God's position as the ultimate ruler and sovereign over the universe and all humanity. It implies that God's authority is above all earthly powers and is to be revered and obeyed. From a cultural perspective, the title "Most High" reinforces the idea of divine retribution, where God's justice and judgment are believed to be absolute and inevitable. It serves as a reminder that our actions and choices are accountable to a higher power, and that ultimately, we will be judged based on our behavior and beliefs.
 
 ## Average Grade
-88.33333333333333
+88.125
 
 ## Grades
  * [85.0](./Understanding_God_s_Authority_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ The title "Most High" traditionally signifies the supreme authority and power of
  * [90.0](./Understanding_God_s_Authority_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Understanding_God_s_Authority_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Understanding_God_s_Authority_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_God_s_Authority_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Understanding_God_s_Authority_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_God_s_Authority.md)

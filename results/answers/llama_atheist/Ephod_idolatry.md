@@ -26,7 +26,7 @@ In today's context, this lesson might apply to issues like:
 Ultimately, Gideon's story serves as a reminder to respect the autonomy of different domains, whether they be religious, political, or personal. By acknowledging these boundaries, we can promote greater understanding, tolerance, and pluralism in our own societies.
 
 ## Average Grade
-64.16666666666667
+63.125
 
 ## Grades
  * [70.0](./Ephod_idolatry_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,5 +35,7 @@ Ultimately, Gideon's story serves as a reminder to respect the autonomy of diffe
  * [75.0](./Ephod_idolatry_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Ephod_idolatry_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Ephod_idolatry_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Ephod_idolatry_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [35.0](./Ephod_idolatry_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Ephod_idolatry.md)

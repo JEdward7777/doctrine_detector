@@ -23,7 +23,7 @@ It's also worth mentioning that the Bible emphasizes love, forgiveness, and salv
 In summary, the Bible presents Hell as a place of suffering and separation from God for those who reject Him, although interpretations may vary across different religious groups and individuals. It is essential to promote understanding, empathy, and respect when discussing these complex and sensitive topics.
 
 ## Average Grade
-83.33333333333333
+82.5
 
 ## Grades
  * [85.0](./Nature_of_Hell_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ In summary, the Bible presents Hell as a place of suffering and separation from 
  * [90.0](./Nature_of_Hell_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Nature_of_Hell_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Nature_of_Hell_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Nature_of_Hell_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [75.0](./Nature_of_Hell_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Nature_of_Hell.md)

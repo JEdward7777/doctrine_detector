@@ -27,7 +27,7 @@ The term "Son of Man" has significant roots in the Old Testament and contributes
 These texts collectively contribute to the development of the "Son of Man" motif in Jewish thought, particularly as it relates to messianic expectations, highlighting themes of authority, representation, suffering, and humanity. Each of these elements plays a role in shaping the understanding of the future Messiah in both Jewish and Christian traditions.
 
 ## Average Grade
-89.5
+89.0
 
 ## Grades
  * [92.0](./Biblical_References_3_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ These texts collectively contribute to the development of the "Son of Man" motif
  * [95.0](./Biblical_References_3_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_References_3_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Biblical_References_3_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Biblical_References_3_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Biblical_References_3_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Biblical_References_3.md)

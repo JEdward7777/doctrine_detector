@@ -15,7 +15,7 @@ Understanding God's covenant and promises in the Bible.
 The rainbow in the story of Noah and the flood in Genesis is not necessarily a direct sign of God's covenant with humanity. The rainbow is mentioned as a reminder of God's promise to never again destroy the earth with a flood. It symbolizes God's mercy and compassion towards humanity, rather than a covenant in the traditional sense. The story serves as a moral lesson about the consequences of human actions and the importance of repentance and forgiveness.
 
 ## Average Grade
-78.33333333333333
+76.25
 
 ## Grades
  * [85.0](./Sign_as_Covenant_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ The rainbow in the story of Noah and the flood in Genesis is not necessarily a d
  * [60.0](./Sign_as_Covenant_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Sign_as_Covenant_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Sign_as_Covenant_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Sign_as_Covenant_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Sign_as_Covenant_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Sign_as_Covenant.md)

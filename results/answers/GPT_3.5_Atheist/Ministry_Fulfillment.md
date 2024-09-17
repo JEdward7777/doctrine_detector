@@ -15,7 +15,7 @@ The necessity of understanding and executing one's God-given purpose in serving 
 Fulfilling one's ministry as a Christian typically involves serving others, spreading the teachings of Jesus, and living in accordance with Christian values. However, as an atheistic scholar, I do not adhere to Christian beliefs. From a more secular perspective, one could interpret fulfilling one's ministry as striving to make a positive impact on the world, promoting compassion, justice, and equality for all individuals. This can be achieved through various means such as volunteering, advocating for social change, and being a supportive presence in the lives of others. Ultimately, fulfilling one's "ministry" could be seen as living a life of purpose and integrity that contributes to the betterment of society.
 
 ## Average Grade
-26.666666666666668
+32.5
 
 ## Grades
  * [20.0](./Ministry_Fulfillment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ Fulfilling one's ministry as a Christian typically involves serving others, spre
  * [20.0](./Ministry_Fulfillment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Ministry_Fulfillment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./Ministry_Fulfillment_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [70.0](./Ministry_Fulfillment_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [30.0](./Ministry_Fulfillment_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Ministry_Fulfillment.md)

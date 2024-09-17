@@ -17,7 +17,7 @@ Scribes in ancient times played a crucial role in preserving the Old Testament s
 Additionally, scribes were often highly trained individuals who were well-versed in the language and script used in the scriptures, allowing them to accurately transcribe the texts without compromising their integrity. Their dedication to their craft and commitment to preserving the scriptures played a significant role in ensuring that the Old Testament texts were transmitted faithfully over the centuries.
 
 ## Average Grade
-89.16666666666667
+88.125
 
 ## Grades
  * [95.0](./Role_of_Scribes_in_the_Old_Testament_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -26,5 +26,7 @@ Additionally, scribes were often highly trained individuals who were well-versed
  * [85.0](./Role_of_Scribes_in_the_Old_Testament_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Role_of_Scribes_in_the_Old_Testament_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Role_of_Scribes_in_the_Old_Testament_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Role_of_Scribes_in_the_Old_Testament_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Role_of_Scribes_in_the_Old_Testament_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Role_of_Scribes_in_the_Old_Testament.md)

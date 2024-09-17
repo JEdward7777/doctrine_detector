@@ -27,7 +27,7 @@ The significance of Jesus' death on the cross in relation to Satan's dominion is
 In conclusion, Jesus' death on the cross holds deep theological and cultural significance regarding the concept of Satan's dominion. It represents a turning point in the human experience of sin, evil, and the possibility of redemption and hope. Different cultural interpretations provide rich insights into how this event continues to resonate across time and belief systems.
 
 ## Average Grade
-80.83333333333333
+80.0
 
 ## Grades
  * [85.0](./Victory_over_Satan_s_Dominion_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ In conclusion, Jesus' death on the cross holds deep theological and cultural sig
  * [80.0](./Victory_over_Satan_s_Dominion_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Victory_over_Satan_s_Dominion_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Victory_over_Satan_s_Dominion_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Victory_over_Satan_s_Dominion_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Victory_over_Satan_s_Dominion_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Victory_over_Satan_s_Dominion.md)

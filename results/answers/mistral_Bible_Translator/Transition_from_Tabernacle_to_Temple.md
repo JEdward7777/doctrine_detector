@@ -21,7 +21,7 @@ The First Temple was destroyed by the Babylonians in 586 BC, leading to another 
 In summary, the Israelites stopped using the Tabernacle as their primary place of worship after entering the Promised Land and establishing the First Temple in Jerusalem. This change was prophesied by God through Moses and marked a shift from a mobile sanctuary to a more stable one. However, the practices associated with the Tabernacle were maintained in various forms throughout Israel's history.
 
 ## Average Grade
-90.83333333333333
+89.375
 
 ## Grades
  * [95.0](./Transition_from_Tabernacle_to_Temple_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ In summary, the Israelites stopped using the Tabernacle as their primary place o
  * [95.0](./Transition_from_Tabernacle_to_Temple_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Transition_from_Tabernacle_to_Temple_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Transition_from_Tabernacle_to_Temple_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Transition_from_Tabernacle_to_Temple_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Transition_from_Tabernacle_to_Temple_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Transition_from_Tabernacle_to_Temple.md)

@@ -27,7 +27,7 @@ In Islamic theology, angels are considered to be purely spiritual beings created
 Overall, angels serve as a means through which God interacts with His creation and carries out His divine plan. They are considered to be beings of light and mercy, constantly working to uphold the will of God.
 
 ## Average Grade
-60.0
+61.25
 
 ## Grades
  * [60.0](./Role_of_Angels_in_Human_Affairs_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ Overall, angels serve as a means through which God interacts with His creation a
  * [65.0](./Role_of_Angels_in_Human_Affairs_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Role_of_Angels_in_Human_Affairs_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Role_of_Angels_in_Human_Affairs_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Role_of_Angels_in_Human_Affairs_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Role_of_Angels_in_Human_Affairs_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Role_of_Angels_in_Human_Affairs.md)

@@ -25,7 +25,7 @@ This passage underscores the notion that salvation is not limited to a particula
 In conclusion, these passages demonstrate that the inclusion of Gentiles in the Christian faith was an integral part of the plan of salvation from the beginning. They highlight the universal nature of Christ's message and the fact that salvation is available to all people, regardless of their background or ethnicity. As Muslims, we respect this aspect of Christianity as a fundamental component of its theology, and we recognize it as a significant aspect of God's mercy towards humanity.
 
 ## Average Grade
-66.66666666666667
+65.625
 
 ## Grades
  * [85.0](./Biblical_References_to_Gentiles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ In conclusion, these passages demonstrate that the inclusion of Gentiles in the 
  * [60.0](./Biblical_References_to_Gentiles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Biblical_References_to_Gentiles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Biblical_References_to_Gentiles_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Biblical_References_to_Gentiles_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Biblical_References_to_Gentiles_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Biblical_References_to_Gentiles.md)

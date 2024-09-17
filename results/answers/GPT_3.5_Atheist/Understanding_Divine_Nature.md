@@ -19,7 +19,7 @@ From an atheistic perspective, the concept of a divine nature is a human constru
 It is important to recognize that beliefs about the divine nature can vary greatly across different religions and belief systems. Atheism, as a lack of belief in gods or deities, does not adhere to the notion of a divine nature associated with a specific deity. Instead, atheists tend to view concepts of gods and their characteristics as products of human imagination and cultural evolution.
 
 ## Average Grade
-46.666666666666664
+50.625
 
 ## Grades
  * [40.0](./Understanding_Divine_Nature_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ It is important to recognize that beliefs about the divine nature can vary great
  * [30.0](./Understanding_Divine_Nature_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Understanding_Divine_Nature_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Understanding_Divine_Nature_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Understanding_Divine_Nature_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [45.0](./Understanding_Divine_Nature_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Divine_Nature.md)

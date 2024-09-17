@@ -21,7 +21,7 @@ Romans 5:16, on the other hand, explains the nature of condemnation more explici
 In summary, both passages discuss the nature of condemnation but from different perspectives. The internal feeling of guilt or conviction in 1 John 3:20 serves as a reminder for believers to repent and draw closer to God. Meanwhile, Romans 5:16 explains that through faith in Jesus Christ, believers can overcome the spiritual death and separation from God (eternal condemnation) brought about by Adam's sin. It is crucial to understand this distinction when discussing the nature of condemnation as referenced in these verses.
 
 ## Average Grade
-90.0
+89.375
 
 ## Grades
  * [95.0](./Understanding_Condemnation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ In summary, both passages discuss the nature of condemnation but from different 
  * [90.0](./Understanding_Condemnation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Condemnation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Understanding_Condemnation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [95.0](./Understanding_Condemnation_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [80.0](./Understanding_Condemnation_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Condemnation.md)

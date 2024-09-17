@@ -25,7 +25,7 @@ As we move forward in our discussion, it's vital that we prioritize inclusivity,
 In conclusion, anointing in the New Testament is closely tied to healing, but it's essential that we approach this topic with sensitivity, respect, and a willingness to listen and learn from others. (smiling)
 
 ## Average Grade
-81.66666666666667
+80.625
 
 ## Grades
  * [85.0](./Healing_through_Anointing_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ In conclusion, anointing in the New Testament is closely tied to healing, but it
  * [90.0](./Healing_through_Anointing_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Healing_through_Anointing_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Healing_through_Anointing_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Healing_through_Anointing_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Healing_through_Anointing_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Healing_through_Anointing.md)

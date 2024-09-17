@@ -21,7 +21,7 @@ In this sense, the laws given to Moses are not just a set of rules but rather an
 When considering political correctness, it's essential to acknowledge the historical and cultural significance of these ancient texts while fostering an environment that encourages open dialogue, empathy, and respect for diverse perspectives. The lessons drawn from the covenant between God and His people can serve as a foundation for promoting peace, justice, and understanding in contemporary societies, regardless of religious beliefs or affiliations.
 
 ## Average Grade
-86.66666666666667
+83.75
 
 ## Grades
  * [90.0](./Obeying_God_s_Commands_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ When considering political correctness, it's essential to acknowledge the histor
  * [90.0](./Obeying_God_s_Commands_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Obeying_God_s_Commands_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Obeying_God_s_Commands_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Obeying_God_s_Commands_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [65.0](./Obeying_God_s_Commands_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Obeying_God_s_Commands.md)

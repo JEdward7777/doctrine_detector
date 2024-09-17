@@ -35,7 +35,7 @@ Identifying scriptural backing for the Sabbath observance and its relevance in C
    "O ye who believe! Observe the fasting of the month of Ramadhan; and pay the alms on your wealth set apart for it, in due proportion. Yet do this by measuring out honestly and weighing with a balance; that haply ye may receive mercy. And the Sabbath was only observed amongst the Children of Israel: We have appointed Friday instead thereof; a day during which ye are to remember [the Blessings of] God, for the first of it is the holiest: Therefore call the congregation to prayer on (Friday) afternoon; and when the Prayer is finished, so disperse in the land, seeking Allah's bounty, and celebrate the Praises of God, verily I am well acquainted with that which ye do."
 
 ## Average Grade
-82.5
+81.875
 
 ## Grades
  * [95.0](./Biblical_References_7_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -44,5 +44,7 @@ Identifying scriptural backing for the Sabbath observance and its relevance in C
  * [85.0](./Biblical_References_7_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_References_7_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Biblical_References_7_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Biblical_References_7_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [75.0](./Biblical_References_7_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Biblical_References_7.md)

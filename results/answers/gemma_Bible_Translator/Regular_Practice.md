@@ -17,7 +17,7 @@ The apostle Paul did not establish the Lord's Supper as a regular practice for b
 The early church primarily practiced the Lord's Supper on the day of Pentecost and on other special occasions. It was not until centuries later that the frequency of its observance became a matter of debate and interpretation among different Christian denominations.
 
 ## Average Grade
-41.666666666666664
+49.375
 
 ## Grades
  * [40.0](./Regular_Practice_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -26,5 +26,7 @@ The early church primarily practiced the Lord's Supper on the day of Pentecost a
  * [50.0](./Regular_Practice_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Regular_Practice_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Regular_Practice_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [75.0](./Regular_Practice_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Regular_Practice_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Regular_Practice.md)

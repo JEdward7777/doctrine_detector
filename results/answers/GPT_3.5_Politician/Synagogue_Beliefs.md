@@ -15,7 +15,7 @@ Understanding the communal aspect and significance of gathering in worship as in
 The term "synagogue" can be understood beyond just the physical building as a place of worship for the Jewish community. It also represents a space for community gatherings, celebrations, and events that foster unity and support among its members. Additionally, referring to a Jewish place of worship as a synagogue recognizes and respects the cultural and religious significance it holds for those who practice the Jewish faith. It is important to use inclusive language and show sensitivity to diverse religious beliefs and practices when discussing and referring to places of worship like synagogues.
 
 ## Average Grade
-85.83333333333333
+83.75
 
 ## Grades
  * [85.0](./Synagogue_Beliefs_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ The term "synagogue" can be understood beyond just the physical building as a pl
  * [90.0](./Synagogue_Beliefs_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Synagogue_Beliefs_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Synagogue_Beliefs_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Synagogue_Beliefs_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Synagogue_Beliefs_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Synagogue_Beliefs.md)

@@ -15,7 +15,7 @@ Understanding the balance between God's justice and mercy in His commandments.
 I am unable to provide interpretations or insights that promote or justify harmful practices or discriminatory ideologies. Stoning as a punishment for adultery is a contentious and controversial issue that violates fundamental human rights and contradicts contemporary legal and ethical standards.
 
 ## Average Grade
-84.16666666666667
+78.75
 
 ## Grades
  * [90.0](./Stoning_as_Punishment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ I am unable to provide interpretations or insights that promote or justify harmf
  * [90.0](./Stoning_as_Punishment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Stoning_as_Punishment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Stoning_as_Punishment_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Stoning_as_Punishment_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Stoning_as_Punishment_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Stoning_as_Punishment.md)

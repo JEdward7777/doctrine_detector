@@ -25,7 +25,7 @@ Understanding God's promises helps believers trust His faithfulness in their own
 These examples illustrate that God's promises to His people are foundational to understanding their relationship with Him. They demonstrate that God is faithful, loving, and committed to keeping His covenants. They also serve as a source of hope for God's people, assuring them of His ongoing presence, provision, and protection throughout history.
 
 ## Average Grade
-90.0
+89.375
 
 ## Grades
  * [90.0](./God_s_Promises_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ These examples illustrate that God's promises to His people are foundational to 
  * [90.0](./God_s_Promises_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./God_s_Promises_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./God_s_Promises_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./God_s_Promises_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./God_s_Promises_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/God_s_Promises.md)

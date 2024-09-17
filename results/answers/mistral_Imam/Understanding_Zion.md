@@ -19,7 +19,7 @@ However, in a broader context, Muslims believe that the prophets and significant
 So, while the term "Daughter of Zion" is not directly associated with the people of Israel in the way some might understand, it does serve as a reminder of their unique role in Islamic history and their continued place in Muslim teachings about the prophets and messengers sent by Allah.
 
 ## Average Grade
-58.333333333333336
+58.75
 
 ## Grades
  * [50.0](./Understanding_Zion_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ So, while the term "Daughter of Zion" is not directly associated with the people
  * [60.0](./Understanding_Zion_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Understanding_Zion_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [30.0](./Understanding_Zion_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Understanding_Zion_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Understanding_Zion_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Zion.md)

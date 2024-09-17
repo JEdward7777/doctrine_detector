@@ -22,7 +22,7 @@ Understanding the importance of the Sabbath and its implications for daily livin
 In a politically correct manner, it would be appropriate to acknowledge and respect the diversity of religious beliefs and practices among the people you serve, while also emphasizing the shared values of rest, reverence, and recognition of our interconnectedness with others and the natural world that are inherent in keeping the Sabbath holy.
 
 ## Average Grade
-85.83333333333333
+85.0
 
 ## Grades
  * [90.0](./Sabbath_Observance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,5 +31,7 @@ In a politically correct manner, it would be appropriate to acknowledge and resp
  * [90.0](./Sabbath_Observance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Sabbath_Observance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Sabbath_Observance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Sabbath_Observance_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [80.0](./Sabbath_Observance_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Sabbath_Observance.md)

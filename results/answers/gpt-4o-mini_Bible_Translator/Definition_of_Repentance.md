@@ -31,7 +31,7 @@ Repentance is a key theme throughout both the Old and New Testaments. Here are s
 In summary, biblical repentance involves recognizing and feeling sorrow for sin, turning away from it, and turning towards God. It is marked by a transformative change in life that reflects a commitment to live according to His will.
 
 ## Average Grade
-94.16666666666667
+93.75
 
 ## Grades
  * [95.0](./Definition_of_Repentance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -40,5 +40,7 @@ In summary, biblical repentance involves recognizing and feeling sorrow for sin,
  * [95.0](./Definition_of_Repentance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Definition_of_Repentance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Definition_of_Repentance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Definition_of_Repentance_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Definition_of_Repentance_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Definition_of_Repentance.md)

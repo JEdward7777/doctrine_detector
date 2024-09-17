@@ -25,7 +25,7 @@ The Festival of Weeks, or Shavuot, holds significant historical and religious im
 Overall, Shavuot represents a multifaceted celebration that encompasses agricultural abundance, historical remembrance of divine revelation, and a reaffirmation of faith and identity within the community of Israel. This background laid a foundation that would later be transformed in the New Testament to signify the outpouring of the Holy Spirit and the birth of the Christian church.
 
 ## Average Grade
-85.83333333333333
+85.625
 
 ## Grades
  * [90.0](./Origin_of_Pentecost_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ Overall, Shavuot represents a multifaceted celebration that encompasses agricult
  * [90.0](./Origin_of_Pentecost_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Origin_of_Pentecost_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Origin_of_Pentecost_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Origin_of_Pentecost_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Origin_of_Pentecost_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Origin_of_Pentecost.md)

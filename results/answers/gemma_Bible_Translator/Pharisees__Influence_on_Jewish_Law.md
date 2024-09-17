@@ -46,7 +46,7 @@ Understanding the role of the Pharisees provides insight into the challenges Jes
 **In summary, the Pharisees' strict adherence to the Laws of Moses created conflict, tension, and distance between them and Jesus, as well as between them and early Christians. Their legalistic approach ultimately failed to recognize Jesus as the ultimate fulfillment of the Law and led to the separation of Christianity from Judaism.**
 
 ## Average Grade
-88.33333333333333
+88.125
 
 ## Grades
  * [85.0](./Pharisees__Influence_on_Jewish_Law_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -55,5 +55,7 @@ Understanding the role of the Pharisees provides insight into the challenges Jes
  * [90.0](./Pharisees__Influence_on_Jewish_Law_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Pharisees__Influence_on_Jewish_Law_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Pharisees__Influence_on_Jewish_Law_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Pharisees__Influence_on_Jewish_Law_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Pharisees__Influence_on_Jewish_Law_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Pharisees__Influence_on_Jewish_Law.md)

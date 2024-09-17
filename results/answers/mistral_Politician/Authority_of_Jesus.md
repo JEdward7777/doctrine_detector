@@ -19,7 +19,7 @@ In the religious traditions of Christianity, Jesus is believed to have a unique 
 It is crucial to approach religious and historical narratives with sensitivity, acknowledging the complexities of their interpretations and the diverse ways in which they are understood by different communities and individuals. The title "King of the Jews" carries significant meaning for many people, but its implications regarding Jesus' authority over all creation may be more appropriately discussed within a broader context of his teachings and spiritual significance.
 
 ## Average Grade
-63.333333333333336
+65.625
 
 ## Grades
  * [70.0](./Authority_of_Jesus_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ It is crucial to approach religious and historical narratives with sensitivity, 
  * [60.0](./Authority_of_Jesus_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Authority_of_Jesus_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Authority_of_Jesus_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Authority_of_Jesus_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [65.0](./Authority_of_Jesus_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Authority_of_Jesus.md)

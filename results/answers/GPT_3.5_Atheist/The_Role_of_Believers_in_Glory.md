@@ -19,7 +19,7 @@ From an atheistic perspective, the idea of believers being glorified with Christ
 Ultimately, the concept of believers being glorified with Christ is a spiritually significant idea within Christian theology, but one that may not have a tangible or verifiable impact on the physical world outside of religious beliefs and practices.
 
 ## Average Grade
-68.33333333333333
+65.0
 
 ## Grades
  * [90.0](./The_Role_of_Believers_in_Glory_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ Ultimately, the concept of believers being glorified with Christ is a spirituall
  * [80.0](./The_Role_of_Believers_in_Glory_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./The_Role_of_Believers_in_Glory_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [30.0](./The_Role_of_Believers_in_Glory_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [70.0](./The_Role_of_Believers_in_Glory_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./The_Role_of_Believers_in_Glory_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/The_Role_of_Believers_in_Glory.md)

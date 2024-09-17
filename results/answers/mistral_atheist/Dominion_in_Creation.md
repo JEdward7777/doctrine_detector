@@ -21,7 +21,7 @@ This idea of human stewardship is further reinforced in other parts of the Bible
 Overall, the Bible teaches that humanity has a special role in managing and caring for the Earth, but this role is one of stewardship rather than domination. Humans are called to be good stewards of God's creation, using their gifts and abilities to care for and preserve the world for future generations while also living in harmony with its resources.
 
 ## Average Grade
-92.5
+90.625
 
 ## Grades
  * [90.0](./Dominion_in_Creation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ Overall, the Bible teaches that humanity has a special role in managing and cari
  * [95.0](./Dominion_in_Creation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Dominion_in_Creation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Dominion_in_Creation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Dominion_in_Creation_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Dominion_in_Creation_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Dominion_in_Creation.md)

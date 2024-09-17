@@ -21,7 +21,7 @@ In Islam, Muslims are encouraged to serve and care for their communities by foll
 While there are differences in beliefs between Islam and Christianity, both religions emphasize the importance of serving and caring for others. A Muslim might find connections with Christian ideas of ministry by recognizing the common values of compassion, service, and faithfulness to God. They could also explore Christian teachings and traditions as a means of learning more about other religious perspectives and building bridges of understanding between communities.
 
 ## Average Grade
-70.0
+68.125
 
 ## Grades
  * [70.0](./Ministry_Fulfillment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ While there are differences in beliefs between Islam and Christianity, both reli
  * [70.0](./Ministry_Fulfillment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Ministry_Fulfillment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [30.0](./Ministry_Fulfillment_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Ministry_Fulfillment_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Ministry_Fulfillment_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Ministry_Fulfillment.md)

@@ -33,7 +33,7 @@ Clarifying the significance and meaning of 'house of God' in Scripture.
 **Given my atheist perspective and concern for cultural context, I would suggest interpreting the term "house of God" as a cultural construct that reflects the religious beliefs and practices of ancient societies. It is not a literal or scientific concept, but a symbolic representation of spiritual beliefs.**
 
 ## Average Grade
-70.83333333333333
+71.875
 
 ## Grades
  * [80.0](./Understanding_the_House_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -42,5 +42,7 @@ Clarifying the significance and meaning of 'house of God' in Scripture.
  * [85.0](./Understanding_the_House_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Understanding_the_House_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Understanding_the_House_of_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_the_House_of_God_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [65.0](./Understanding_the_House_of_God_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_the_House_of_God.md)

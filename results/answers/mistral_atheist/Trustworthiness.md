@@ -31,7 +31,7 @@ Encouraging followers to live in accordance with Biblical teachings on integrity
 8. Pursuing Wisdom: Proverbs repeatedly emphasizes the importance of wisdom. Making decisions based on wisdom rather than impulse or selfishness can help ensure that one's actions are wise, just, and trustworthy.
 
 ## Average Grade
-94.16666666666667
+94.375
 
 ## Grades
  * [95.0](./Trustworthiness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -40,5 +40,7 @@ Encouraging followers to live in accordance with Biblical teachings on integrity
  * [95.0](./Trustworthiness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Trustworthiness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Trustworthiness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [95.0](./Trustworthiness_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Trustworthiness_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Trustworthiness.md)

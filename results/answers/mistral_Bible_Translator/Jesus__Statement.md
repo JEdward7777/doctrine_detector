@@ -17,7 +17,7 @@ Clarifying Jesus' identity and role in resurrection is important for faith and t
 Jesus was making a profound statement about His role as the source of eternal life, which is also referred to as the resurrection. He was emphasizing that faith in Him leads not just to physical survival after death, but to spiritual life – a state of being with God forever. In other words, Jesus is stating that He is not only the One who brings people back to life from the dead (resurrection), but also the One who gives eternal life (life). This life with Him transcends the physical realm and offers everlasting communion with God.
 
 ## Average Grade
-86.66666666666667
+87.5
 
 ## Grades
  * [90.0](./Jesus__Statement_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -26,5 +26,7 @@ Jesus was making a profound statement about His role as the source of eternal li
  * [90.0](./Jesus__Statement_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Jesus__Statement_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Jesus__Statement_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Jesus__Statement_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Jesus__Statement_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Jesus__Statement.md)

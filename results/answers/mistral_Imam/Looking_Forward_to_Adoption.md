@@ -21,7 +21,7 @@ This verse is often understood by Christians to imply that believers are current
 From a Muslim perspective, we believe that every religion contains some truth and guidance from Allah (God), but we interpret our faith differently based on our unique scriptures and traditions. For Muslims, our understanding of eschatology (the study of last things) is primarily derived from the Quran and Hadith. While there are similarities between Christian and Islamic teachings regarding the concept of awaiting a future reality, there are also significant differences due to our different foundational texts.
 
 ## Average Grade
-80.0
+75.0
 
 ## Grades
  * [85.0](./Looking_Forward_to_Adoption_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ From a Muslim perspective, we believe that every religion contains some truth an
  * [90.0](./Looking_Forward_to_Adoption_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Looking_Forward_to_Adoption_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Looking_Forward_to_Adoption_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Looking_Forward_to_Adoption_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Looking_Forward_to_Adoption_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Looking_Forward_to_Adoption.md)

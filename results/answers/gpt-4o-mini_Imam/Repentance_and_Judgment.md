@@ -25,7 +25,7 @@ In Christianity, the relationship between repentance and the wrath of God is ind
 In summary, the Biblical perspective presents repentance as crucial for avoiding the wrath of God, as it opens the door to His mercy and grace. It emphasizes that God, in His nature, desires repentance and reconciliation rather than punishment.
 
 ## Average Grade
-90.83333333333333
+90.625
 
 ## Grades
  * [95.0](./Repentance_and_Judgment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ In summary, the Biblical perspective presents repentance as crucial for avoiding
  * [95.0](./Repentance_and_Judgment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Repentance_and_Judgment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Repentance_and_Judgment_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Repentance_and_Judgment_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Repentance_and_Judgment_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Repentance_and_Judgment.md)

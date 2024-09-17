@@ -15,7 +15,7 @@ Understanding the heritage of the Hebrew people is important for grasping Biblic
 In the context of the Bible, the Hebrews are traditionally understood to be the descendants of the patriarch Abraham, as well as his son Isaac and grandson Jacob, who is also called Israel. Jacob had twelve sons, who became the founders of the Twelve Tribes of Israel. The term "Hebrew" is often associated with the ancient Israelites, particularly in reference to their early history. It's important to recognize the diverse interpretations of these narratives across different cultures and religious traditions.
 
 ## Average Grade
-88.33333333333333
+87.5
 
 ## Grades
  * [80.0](./Origins_of_the_Hebrews_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ In the context of the Bible, the Hebrews are traditionally understood to be the 
  * [95.0](./Origins_of_the_Hebrews_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Origins_of_the_Hebrews_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Origins_of_the_Hebrews_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Origins_of_the_Hebrews_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Origins_of_the_Hebrews_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Origins_of_the_Hebrews.md)

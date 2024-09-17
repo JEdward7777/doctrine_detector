@@ -21,7 +21,7 @@ The separation was also a means to protect the Jewish people from adopting non-J
 In the context of this question, it is essential to clarify that Islam later came on the scene, and the Pharisees are mentioned in the Quran as being among the people of the Scripture (Ahl al-Kitab). Muslims believe that the teachings of Abraham, Moses, Jesus, and Muhammad all convey the same message of monotheism and moral values.
 
 ## Average Grade
-85.83333333333333
+83.75
 
 ## Grades
  * [85.0](./Separation_from_Gentiles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ In the context of this question, it is essential to clarify that Islam later cam
  * [90.0](./Separation_from_Gentiles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Separation_from_Gentiles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Separation_from_Gentiles_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Separation_from_Gentiles_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Separation_from_Gentiles_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Separation_from_Gentiles.md)

@@ -17,7 +17,7 @@ In Islam, we refer to God as 'Allah,' which is the Arabic term for the one true 
 It is important to use language that accurately conveys the monotheistic nature of God in Islam and avoids any confusion or misconceptions. Therefore, it is best to refer to God using the term 'Allah' or other attributes and names that are used in the Quran and authentic teachings of the Prophet Muhammad (peace be upon him).
 
 ## Average Grade
-44.166666666666664
+51.875
 
 ## Grades
  * [20.0](./Use_term__Father__when_referring_to_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -26,5 +26,7 @@ It is important to use language that accurately conveys the monotheistic nature 
  * [65.0](./Use_term__Father__when_referring_to_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Use_term__Father__when_referring_to_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Use_term__Father__when_referring_to_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [70.0](./Use_term__Father__when_referring_to_God_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [80.0](./Use_term__Father__when_referring_to_God_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Use_term__Father__when_referring_to_God.md)

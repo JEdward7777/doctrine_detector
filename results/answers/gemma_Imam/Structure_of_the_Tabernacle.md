@@ -15,7 +15,7 @@ Learning about the significance of the components of the tabernacle in worship.
 The tabernacle is not a concept found within Islamic tradition or teachings, as it is a concept associated with Judaism and Christianity. Therefore, I am unable to provide information regarding its structure or contents from an Islamic perspective.
 
 ## Average Grade
-70.83333333333333
+65.625
 
 ## Grades
  * [80.0](./Structure_of_the_Tabernacle_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ The tabernacle is not a concept found within Islamic tradition or teachings, as 
  * [95.0](./Structure_of_the_Tabernacle_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [50.0](./Structure_of_the_Tabernacle_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./Structure_of_the_Tabernacle_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Structure_of_the_Tabernacle_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [20.0](./Structure_of_the_Tabernacle_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Structure_of_the_Tabernacle.md)

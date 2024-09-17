@@ -23,7 +23,7 @@ In the accounts found in the Gospels of Matthew (4:1-11) and Luke (4:1-13), Jesu
 Overall, Jesus' responses reflect a deep understanding of scripture, a commitment to his divine mission, and an example of resisting temptation through faith and obedience. These narratives have been interpreted in various ways across cultures and traditions, often highlighting themes of moral integrity, resilience, and the importance of spiritual strength.
 
 ## Average Grade
-93.33333333333333
+92.5
 
 ## Grades
  * [95.0](./Temptation_and_Resistance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ Overall, Jesus' responses reflect a deep understanding of scripture, a commitmen
  * [95.0](./Temptation_and_Resistance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Temptation_and_Resistance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [95.0](./Temptation_and_Resistance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Temptation_and_Resistance_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Temptation_and_Resistance_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Temptation_and_Resistance.md)

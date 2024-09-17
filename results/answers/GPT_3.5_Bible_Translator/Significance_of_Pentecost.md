@@ -19,7 +19,7 @@ On the Day of Pentecost, the Holy Spirit came upon the disciples in a powerful w
 The Day of Pentecost also symbolizes the birth of the Christian church as a community of believers who are united by faith in Christ and empowered by the Holy Spirit to spread the message of salvation to the ends of the earth. It serves as a reminder of the importance of the Holy Spirit in the life of the believer and the work of the church in the world.
 
 ## Average Grade
-90.83333333333333
+90.0
 
 ## Grades
  * [95.0](./Significance_of_Pentecost_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ The Day of Pentecost also symbolizes the birth of the Christian church as a comm
  * [90.0](./Significance_of_Pentecost_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Significance_of_Pentecost_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Significance_of_Pentecost_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Significance_of_Pentecost_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Significance_of_Pentecost_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Significance_of_Pentecost.md)

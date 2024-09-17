@@ -21,7 +21,7 @@ When we accept Jesus as our Savior and Lord, confess our sins, and repent of the
 Therefore, the concept of pardon in Christianity is intimately tied to the idea of God's forgiveness through Jesus Christ. It is through His sacrifice that we can experience the fullness of God's mercy and grace, knowing that our sins are forgiven and that we are made righteous in God's sight.
 
 ## Average Grade
-90.0
+89.375
 
 ## Grades
  * [90.0](./Pardon_in_Christianity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ Therefore, the concept of pardon in Christianity is intimately tied to the idea 
  * [95.0](./Pardon_in_Christianity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Pardon_in_Christianity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Pardon_in_Christianity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Pardon_in_Christianity_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Pardon_in_Christianity_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Pardon_in_Christianity.md)

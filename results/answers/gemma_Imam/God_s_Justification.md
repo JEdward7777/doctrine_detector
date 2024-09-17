@@ -50,7 +50,7 @@ Justification is a legal term that refers to the forgiveness of sins and the rec
 God's justification of sinners is a central concept in Islam, emphasizing His immense mercy, forgiveness, and redemption. By repenting, seeking forgiveness, and performing good deeds, sinners can receive divine reconciliation and experience the profound joy of forgiveness.
 
 ## Average Grade
-25.0
+33.75
 
 ## Grades
  * [20.0](./God_s_Justification_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -59,5 +59,7 @@ God's justification of sinners is a central concept in Islam, emphasizing His im
  * [40.0](./God_s_Justification_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [30.0](./God_s_Justification_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./God_s_Justification_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [70.0](./God_s_Justification_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./God_s_Justification_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/God_s_Justification.md)

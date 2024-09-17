@@ -31,7 +31,7 @@ Lamentation holds profound significance in the life of a believer within the Isl
 In summary, lamentation serves as a multifaceted tool for believers to navigate their emotional and spiritual landscapes, reinforcing their relationship with Allah, enhancing community bonds, and fostering personal growth and empathy.
 
 ## Average Grade
-68.33333333333333
+70.0
 
 ## Grades
  * [60.0](./Understanding_Lament_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -40,5 +40,7 @@ In summary, lamentation serves as a multifaceted tool for believers to navigate 
  * [75.0](./Understanding_Lament_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Lament_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Understanding_Lament_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Lament_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [65.0](./Understanding_Lament_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Lament.md)

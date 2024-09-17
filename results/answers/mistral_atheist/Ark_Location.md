@@ -19,7 +19,7 @@ The Most Holy Place, also known as the Holy of Holies, could only be entered by 
 As an atheistic scholar, I must emphasize that these religious accounts are considered mythological or historical narratives in the scholarly community, as there is no archaeological or scientific evidence supporting the existence of the Tabernacle or the Ark of the Covenant.
 
 ## Average Grade
-64.16666666666667
+65.0
 
 ## Grades
  * [95.0](./Ark_Location_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ As an atheistic scholar, I must emphasize that these religious accounts are cons
  * [40.0](./Ark_Location_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Ark_Location_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Ark_Location_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Ark_Location_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Ark_Location_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Ark_Location.md)

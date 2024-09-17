@@ -19,7 +19,7 @@ Their ability to perform miracles, as described in the New Testament, can be see
 Instead, we can view the apostles as spiritual leaders who inspired and guided early Christian communities, helping them navigate complex issues and uphold shared values. Their preaching and miracles served as catalysts for unity, growth, and transformation within these communities. Today, we can draw inspiration from their example by embracing empathy, humility, and a strong commitment to our beliefs, while remaining mindful of the diverse perspectives and needs within our own societies.
 
 ## Average Grade
-71.66666666666667
+71.875
 
 ## Grades
  * [70.0](./Authority_of_Apostles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ Instead, we can view the apostles as spiritual leaders who inspired and guided e
  * [70.0](./Authority_of_Apostles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Authority_of_Apostles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Authority_of_Apostles_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Authority_of_Apostles_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Authority_of_Apostles_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Authority_of_Apostles.md)

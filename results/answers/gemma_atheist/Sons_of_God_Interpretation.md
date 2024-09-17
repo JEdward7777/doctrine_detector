@@ -57,7 +57,7 @@ Understanding biblical interpretation helps in grasping the meaning of scripture
 The interpretation of "sons of God" in Genesis 6 remains debated among scholars. While some literalist and supernatural interpretations have been proposed, more plausible explanations suggest a cultural, ethical, or genetic understanding of the passage.
 
 ## Average Grade
-67.5
+70.0
 
 ## Grades
  * [80.0](./Sons_of_God_Interpretation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -66,5 +66,7 @@ The interpretation of "sons of God" in Genesis 6 remains debated among scholars.
  * [70.0](./Sons_of_God_Interpretation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Sons_of_God_Interpretation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Sons_of_God_Interpretation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Sons_of_God_Interpretation_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Sons_of_God_Interpretation_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Sons_of_God_Interpretation.md)

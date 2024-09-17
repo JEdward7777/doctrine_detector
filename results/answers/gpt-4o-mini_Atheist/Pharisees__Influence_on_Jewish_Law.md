@@ -25,7 +25,7 @@ The Pharisees, a prominent Jewish group during the Second Temple period, were kn
 Ultimately, the strict adherence of the Pharisees to the Laws of Moses created a framework for both conflict and dialogue, influencing the development of early Christian theology and practices as they emerged in a predominantly Jewish cultural landscape.
 
 ## Average Grade
-90.0
+89.375
 
 ## Grades
  * [90.0](./Pharisees__Influence_on_Jewish_Law_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ Ultimately, the strict adherence of the Pharisees to the Laws of Moses created a
  * [95.0](./Pharisees__Influence_on_Jewish_Law_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Pharisees__Influence_on_Jewish_Law_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Pharisees__Influence_on_Jewish_Law_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Pharisees__Influence_on_Jewish_Law_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Pharisees__Influence_on_Jewish_Law_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Pharisees__Influence_on_Jewish_Law.md)

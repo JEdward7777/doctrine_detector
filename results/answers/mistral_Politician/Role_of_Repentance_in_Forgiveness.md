@@ -21,7 +21,7 @@ Forgiveness, on the other hand, is the act of pardoning or overlooking an offens
 The relationship between repentance and forgiveness in the Bible can be summarized as follows: Repentance is the act of acknowledging wrongdoings and turning away from them; forgiveness is the response to repentance, a pardoning or overlooking of those past transgressions by God. The ability to receive forgiveness through repentance is emphasized throughout the Bible as a key aspect of a relationship with God.
 
 ## Average Grade
-87.5
+86.875
 
 ## Grades
  * [90.0](./Role_of_Repentance_in_Forgiveness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ The relationship between repentance and forgiveness in the Bible can be summariz
  * [95.0](./Role_of_Repentance_in_Forgiveness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Role_of_Repentance_in_Forgiveness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Role_of_Repentance_in_Forgiveness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Role_of_Repentance_in_Forgiveness_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Role_of_Repentance_in_Forgiveness_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Role_of_Repentance_in_Forgiveness.md)

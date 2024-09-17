@@ -15,7 +15,7 @@ Understanding the metaphorical language used in Scripture and its implications f
 The term "Daughter of Zion" is a poetic and symbolic way of referring to the Jewish people or the nation of Israel. It is often used in religious and cultural contexts to evoke a sense of pride, unity, and connection to the land of Israel. The term carries historical and spiritual significance, symbolizing the unique and cherished relationship between the Jewish people and their ancestral homeland. It is important to approach this term with sensitivity and respect for its cultural and religious significance to those who identify with it.
 
 ## Average Grade
-86.66666666666667
+81.875
 
 ## Grades
  * [90.0](./Understanding_Zion_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ The term "Daughter of Zion" is a poetic and symbolic way of referring to the Jew
  * [85.0](./Understanding_Zion_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Understanding_Zion_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Understanding_Zion_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Zion_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Understanding_Zion_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Zion.md)

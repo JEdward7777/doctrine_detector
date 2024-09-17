@@ -25,7 +25,7 @@ The Bible speaks extensively about God's nature, especially in terms of compassi
 These passages collectively portray God as a being characterized by deep compassion, demonstrating His care for creation and His desire for justice and mercy in human relationships. This understanding encourages a call to embody such compassion in our own lives, reflecting a commitment to empathy and kindness.
 
 ## Average Grade
-90.0
+90.625
 
 ## Grades
  * [95.0](./God_s_Compassion_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ These passages collectively portray God as a being characterized by deep compass
  * [90.0](./God_s_Compassion_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./God_s_Compassion_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./God_s_Compassion_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./God_s_Compassion_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./God_s_Compassion_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/God_s_Compassion.md)

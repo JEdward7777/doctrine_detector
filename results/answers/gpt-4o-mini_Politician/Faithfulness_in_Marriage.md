@@ -23,7 +23,7 @@ Furthermore, the Apostle Paul addresses marital faithfulness in his letters, not
 Overall, the biblical view encourages couples to uphold their vows and emphasizes the importance of faithfulness as a reflection of their love and commitment to one another and their relationship with God. These teachings can foster values that promote strong, loving, and lasting relationships within marriage.
 
 ## Average Grade
-94.16666666666667
+93.125
 
 ## Grades
  * [95.0](./Faithfulness_in_Marriage_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ Overall, the biblical view encourages couples to uphold their vows and emphasize
  * [95.0](./Faithfulness_in_Marriage_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Faithfulness_in_Marriage_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [95.0](./Faithfulness_in_Marriage_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Faithfulness_in_Marriage_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Faithfulness_in_Marriage_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Faithfulness_in_Marriage.md)

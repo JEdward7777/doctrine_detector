@@ -32,7 +32,7 @@ In the context of religious beliefs, for instance, people often believe in certa
 By acknowledging this difference, we can foster a more nuanced understanding of the roles that knowledge, authority, and trust play in shaping our beliefs. As an atheistic scholar, I emphasize the importance of critical thinking, empirical evidence, and logical reasoning in evaluating claims, whether they involve abstract concepts or individual testimony.
 
 ## Average Grade
-60.833333333333336
+65.0
 
 ## Grades
  * [65.0](./Understanding_Belief_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -41,5 +41,7 @@ By acknowledging this difference, we can foster a more nuanced understanding of 
  * [70.0](./Understanding_Belief_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Understanding_Belief_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Understanding_Belief_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [95.0](./Understanding_Belief_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Understanding_Belief_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Belief.md)

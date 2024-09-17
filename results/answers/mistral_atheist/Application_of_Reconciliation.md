@@ -31,7 +31,7 @@ Understanding the practical implications of reconciliation in daily life.
 In summary, the principle of reconciliation is a core aspect of Christian teachings, emphasizing forgiveness, healing, and the restoration of broken relationships. By applying these principles to their lives, Christians can strive to live in harmony with others, cultivate meaningful connections, and ultimately reflect the love and grace of God.
 
 ## Average Grade
-88.66666666666667
+87.75
 
 ## Grades
  * [90.0](./Application_of_Reconciliation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -40,5 +40,7 @@ In summary, the principle of reconciliation is a core aspect of Christian teachi
  * [95.0](./Application_of_Reconciliation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Application_of_Reconciliation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Application_of_Reconciliation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Application_of_Reconciliation_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [80.0](./Application_of_Reconciliation_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Application_of_Reconciliation.md)

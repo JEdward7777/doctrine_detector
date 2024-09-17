@@ -15,7 +15,7 @@ It's vital for Christians to comprehend the concept of eternity to understand th
  In the Christian belief, eternity is understood as everlasting, timeless existence without end. This concept often stems from the idea that God is eternal, meaning He has no beginning or ending in time. As such, heaven and hell are also seen as eternal realms where souls experience either eternal life with God (heaven) or eternal separation from Him (hell). This understanding differs slightly between various Christian denominations, but the core belief is that eternity refers to an endless, timeless state of existence in the afterlife.
 
 ## Average Grade
-90.83333333333333
+90.0
 
 ## Grades
  * [95.0](./Nature_of_Eternity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ It's vital for Christians to comprehend the concept of eternity to understand th
  * [90.0](./Nature_of_Eternity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Nature_of_Eternity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Nature_of_Eternity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Nature_of_Eternity_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Nature_of_Eternity_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Nature_of_Eternity.md)

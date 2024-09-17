@@ -25,7 +25,7 @@ In translating 'Rabbi' into other languages, it is crucial to maintain the origi
 Ultimately, the goal of translating 'Rabbi' into different languages is to accurately convey the role and significance of a religious teacher or leader in Judaism, while also respecting the cultural and linguistic nuances of the target language.
 
 ## Average Grade
-85.83333333333333
+85.625
 
 ## Grades
  * [85.0](./Translation_of_Rabbi_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ Ultimately, the goal of translating 'Rabbi' into different languages is to accur
  * [90.0](./Translation_of_Rabbi_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Translation_of_Rabbi_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Translation_of_Rabbi_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Translation_of_Rabbi_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Translation_of_Rabbi_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Translation_of_Rabbi.md)

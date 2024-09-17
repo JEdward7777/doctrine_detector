@@ -29,7 +29,7 @@ As a Muslim, I must acknowledge that while we do not accept Jesus as the Son of 
 May this response provide insight into the significance of fulfilled prophecies in Christianity. If you have further questions or would like to discuss this topic further, please feel free to ask.
 
 ## Average Grade
-79.16666666666667
+76.25
 
 ## Grades
  * [85.0](./Fulfillment_of_Prophecy_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ May this response provide insight into the significance of fulfilled prophecies 
  * [90.0](./Fulfillment_of_Prophecy_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Fulfillment_of_Prophecy_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Fulfillment_of_Prophecy_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [75.0](./Fulfillment_of_Prophecy_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Fulfillment_of_Prophecy_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Fulfillment_of_Prophecy.md)

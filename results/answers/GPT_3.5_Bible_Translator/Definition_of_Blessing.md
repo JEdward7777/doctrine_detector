@@ -15,7 +15,7 @@ Understanding the concept of blessing in a Christian context.
 In Christian teachings, to 'bless' someone means to invoke or confer God's favor, goodness, and protection upon them. Blessings can also include prayers for God's guidance, strength, and peace in someone's life. When a Christian blesses someone, they are essentially asking God to bestow His grace and blessings upon that person. The act of blessing can also signify a desire for God's presence and provision to be with the individual being blessed. Ultimately, blessings in the Christian context are meant to uplift, encourage, and support others in their faith journey and daily life.
 
 ## Average Grade
-86.66666666666667
+86.25
 
 ## Grades
  * [90.0](./Definition_of_Blessing_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ In Christian teachings, to 'bless' someone means to invoke or confer God's favor
  * [85.0](./Definition_of_Blessing_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Definition_of_Blessing_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Definition_of_Blessing_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Definition_of_Blessing_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Definition_of_Blessing_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Definition_of_Blessing.md)

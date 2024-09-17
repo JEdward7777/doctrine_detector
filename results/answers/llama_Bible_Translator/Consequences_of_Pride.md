@@ -27,7 +27,7 @@ The Bible also teaches that humility is essential for spiritual growth. In Phili
 In conclusion, the Bible teaches that pride is a serious sin that can lead to our downfall, while humility is highly valued and essential for spiritual growth. By recognizing our need for God's grace and humbly submitting to His will, we can experience greater joy, fulfillment, and purpose in our lives.
 
 ## Average Grade
-90.83333333333333
+91.25
 
 ## Grades
  * [95.0](./Consequences_of_Pride_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ In conclusion, the Bible teaches that pride is a serious sin that can lead to ou
  * [95.0](./Consequences_of_Pride_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Consequences_of_Pride_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Consequences_of_Pride_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Consequences_of_Pride_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Consequences_of_Pride_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Consequences_of_Pride.md)

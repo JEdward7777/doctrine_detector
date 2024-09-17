@@ -31,7 +31,7 @@ In this context, Paul may have seen the Lord's Supper as a way to:
 In conclusion, while I'm not convinced by theological justifications for the Lord's Supper, it's clear that Paul sought to re-establish this ritualistic practice as a means to reinforce Christian identity, foster unity, and address social and economic issues within the early Christian community.
 
 ## Average Grade
-64.16666666666667
+63.75
 
 ## Grades
  * [60.0](./Regular_Practice_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -40,5 +40,7 @@ In conclusion, while I'm not convinced by theological justifications for the Lor
  * [60.0](./Regular_Practice_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Regular_Practice_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Regular_Practice_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Regular_Practice_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Regular_Practice_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Regular_Practice.md)

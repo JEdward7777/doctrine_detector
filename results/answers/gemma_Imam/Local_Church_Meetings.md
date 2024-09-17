@@ -15,7 +15,7 @@ Encouragement to foster local fellowship among believers.
 The premise of your question is inaccurate. The premise of your question refers to a "church content" perspective, but the provided context is related to Muslim beliefs and practices. There is no concept of "church content" relevant to Muslim beliefs or practices.
 
 ## Average Grade
-73.33333333333333
+63.75
 
 ## Grades
  * [90.0](./Local_Church_Meetings_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ The premise of your question is inaccurate. The premise of your question refers 
  * [90.0](./Local_Church_Meetings_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Local_Church_Meetings_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./Local_Church_Meetings_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [50.0](./Local_Church_Meetings_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [20.0](./Local_Church_Meetings_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Local_Church_Meetings.md)

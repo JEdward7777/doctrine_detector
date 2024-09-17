@@ -23,7 +23,7 @@ Another example is the story of the Prophet Yusuf (Joseph) in the Quran, where h
 Overall, Islam teaches the importance of respecting the boundaries set by Allah and upholding justice and fairness in all aspects of life. Trespassing not only harms individuals but also creates discord and injustice in society. It is essential for Muslims to be mindful of their actions and avoid trespassing against the rights of others in order to maintain spiritual purity and moral integrity.
 
 ## Average Grade
-61.666666666666664
+61.25
 
 ## Grades
  * [70.0](./Biblical_Examples_of_Trespass_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ Overall, Islam teaches the importance of respecting the boundaries set by Allah 
  * [75.0](./Biblical_Examples_of_Trespass_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Biblical_Examples_of_Trespass_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./Biblical_Examples_of_Trespass_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [70.0](./Biblical_Examples_of_Trespass_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Biblical_Examples_of_Trespass_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Biblical_Examples_of_Trespass.md)

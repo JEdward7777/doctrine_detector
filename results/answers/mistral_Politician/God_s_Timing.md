@@ -23,7 +23,7 @@ Ultimately, embracing the concept of 'Appointed Time' allows us to let go of con
 In engaging with others from various religious backgrounds or none at all, it is essential to approach these conversations with open-mindedness, empathy, and respect. While the concept of 'Appointed Time' may resonate more strongly within certain religious traditions, its essence - trusting in a higher power's divine plan for our lives - transcends religious boundaries and can be meaningful to people from all walks of life.
 
 ## Average Grade
-84.16666666666667
+78.75
 
 ## Grades
  * [90.0](./God_s_Timing_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ In engaging with others from various religious backgrounds or none at all, it is
  * [90.0](./God_s_Timing_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./God_s_Timing_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./God_s_Timing_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./God_s_Timing_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./God_s_Timing_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/God_s_Timing.md)

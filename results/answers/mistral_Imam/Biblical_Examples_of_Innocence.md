@@ -27,7 +27,7 @@ Another example is found in Surah Al-Imran (3:52-55), where the Prophet Muhammad
 In these passages, we see that Jesus is portrayed as an innocent figure who was protected by God from harm. This concept of innocence, especially in the context of unjust accusations, is a recurring theme throughout Islamic scriptures and teachings.
 
 ## Average Grade
-43.333333333333336
+47.5
 
 ## Grades
  * [80.0](./Biblical_Examples_of_Innocence_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ In these passages, we see that Jesus is portrayed as an innocent figure who was 
  * [30.0](./Biblical_Examples_of_Innocence_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Biblical_Examples_of_Innocence_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./Biblical_Examples_of_Innocence_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Biblical_Examples_of_Innocence_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Biblical_Examples_of_Innocence_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Biblical_Examples_of_Innocence.md)

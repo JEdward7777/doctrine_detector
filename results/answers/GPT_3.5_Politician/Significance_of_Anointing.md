@@ -15,7 +15,7 @@ Understanding the importance of anointing in biblical leadership roles.
 In the Old Testament, anointing was a sacred ritual symbolizing approval and divine empowerment for the chosen individual to fulfill their role as a priest, king, or prophet. It was a sign of consecration and set them apart for their specific duties. Anointing with oil signified the pouring out of God's favor and blessings on the individual, guiding and supporting them in their leadership and service to the people. It was a key moment in recognizing and solidifying their authority and responsibility within the community.
 
 ## Average Grade
-86.66666666666667
+86.875
 
 ## Grades
  * [85.0](./Significance_of_Anointing_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ In the Old Testament, anointing was a sacred ritual symbolizing approval and div
  * [90.0](./Significance_of_Anointing_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Significance_of_Anointing_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Significance_of_Anointing_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Significance_of_Anointing_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Significance_of_Anointing_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Significance_of_Anointing.md)

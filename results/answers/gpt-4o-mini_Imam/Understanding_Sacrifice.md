@@ -23,7 +23,7 @@ In contrast, Islam does not subscribe to the notion of Jesus as divine or as a s
 In summary, while 'Lamb of God' in Christian thought draws from the sacrificial practices of the Old Testament and symbolizes atonement through Jesus, in Islamic theology, Jesus holds a respected role as a prophet, without the sacrificial implications assigned to him in Christianity.
 
 ## Average Grade
-81.66666666666667
+76.875
 
 ## Grades
  * [95.0](./Understanding_Sacrifice_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ In summary, while 'Lamb of God' in Christian thought draws from the sacrificial 
  * [90.0](./Understanding_Sacrifice_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Understanding_Sacrifice_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [65.0](./Understanding_Sacrifice_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Sacrifice_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Understanding_Sacrifice_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Sacrifice.md)

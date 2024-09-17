@@ -27,7 +27,7 @@ In this passage, Jesus addresses the religious leaders of His time, highlighting
 In essence, Matthew 23:27-28 teaches us that iniquity is deeply rooted in the heart and involves a profound disconnect between outward appearances and inward truth. It calls for self-examination and an authentic relationship with God, emphasizing the need for inner purity that aligns with outward behavior.
 
 ## Average Grade
-90.0
+89.375
 
 ## Grades
  * [95.0](./Scriptural_References_3_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ In essence, Matthew 23:27-28 teaches us that iniquity is deeply rooted in the he
  * [90.0](./Scriptural_References_3_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Scriptural_References_3_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Scriptural_References_3_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Scriptural_References_3_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Scriptural_References_3_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Scriptural_References_3.md)

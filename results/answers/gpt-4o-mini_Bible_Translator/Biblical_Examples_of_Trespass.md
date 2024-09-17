@@ -29,7 +29,7 @@ Certainly! The term "trespass" appears in various forms in the Bible, often refe
 Through these examples, we see that the concept of trespass in the Bible is connected not just to the act of wrongdoing, but also to deeper themes of forgiveness, community, holiness, accountability, and the need for divine grace. These passages serve as reminders of the importance of our relationship with God and with one another.
 
 ## Average Grade
-88.33333333333333
+88.75
 
 ## Grades
  * [85.0](./Biblical_Examples_of_Trespass_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ Through these examples, we see that the concept of trespass in the Bible is conn
  * [95.0](./Biblical_Examples_of_Trespass_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_Examples_of_Trespass_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Biblical_Examples_of_Trespass_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Biblical_Examples_of_Trespass_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Biblical_Examples_of_Trespass_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Biblical_Examples_of_Trespass.md)

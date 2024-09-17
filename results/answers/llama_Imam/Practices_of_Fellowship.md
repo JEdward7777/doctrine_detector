@@ -26,7 +26,7 @@ These expressions of fellowship were rooted in their shared faith in Jesus Chris
 In Islam, we also emphasize the importance of community and social bonding through practices like congregational prayers (jumu'ah), charitable giving (zakat), and mutual support among believers. While our understanding of fellowship may differ from that of early Christianity, we both recognize the value of collective worship, shared values, and mutual care in building strong communities.
 
 ## Average Grade
-81.66666666666667
+80.0
 
 ## Grades
  * [90.0](./Practices_of_Fellowship_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,5 +35,7 @@ In Islam, we also emphasize the importance of community and social bonding throu
  * [90.0](./Practices_of_Fellowship_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Practices_of_Fellowship_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Practices_of_Fellowship_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Practices_of_Fellowship_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [65.0](./Practices_of_Fellowship_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Practices_of_Fellowship.md)

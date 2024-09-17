@@ -21,7 +21,7 @@ The traditional Jewish definition of sunset is the time when three stars become 
 It's important to note that as a Muslim, I do not observe the Sabbath or any other Jewish holidays. My focus is on following the Five Pillars of Islam and adhering to Islamic laws and customs.
 
 ## Average Grade
-61.666666666666664
+63.75
 
 ## Grades
  * [40.0](./Sabbath_Timing_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ It's important to note that as a Muslim, I do not observe the Sabbath or any oth
  * [50.0](./Sabbath_Timing_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Sabbath_Timing_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Sabbath_Timing_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [70.0](./Sabbath_Timing_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Sabbath_Timing_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Sabbath_Timing.md)

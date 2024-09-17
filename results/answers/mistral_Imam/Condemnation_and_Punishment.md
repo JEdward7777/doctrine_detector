@@ -21,7 +21,7 @@ Balancing the concepts of divine justice and mercy in our understanding of punis
 In both cases, these verses can be seen as emphasizing God's desire for mercy, compassion, and saving those who are suffering. Punishment should not be viewed as a form of condemnation but rather as an opportunity for repentance, reform, and growth. This perspective is consistent with the Islamic principle of 'Adl (Justice), which emphasizes that punishment should serve a reformatory purpose rather than being retributive or vindictive.
 
 ## Average Grade
-80.83333333333333
+79.375
 
 ## Grades
  * [90.0](./Condemnation_and_Punishment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ In both cases, these verses can be seen as emphasizing God's desire for mercy, c
  * [70.0](./Condemnation_and_Punishment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Condemnation_and_Punishment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Condemnation_and_Punishment_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Condemnation_and_Punishment_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [65.0](./Condemnation_and_Punishment_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Condemnation_and_Punishment.md)

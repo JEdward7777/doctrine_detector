@@ -21,7 +21,7 @@ Similarly, in the story of Prophet Musa (Moses), we see the concept of a 'remnan
 Overall, the concept of a 'remnant' in Islamic teachings emphasizes the importance of maintaining faith and righteousness, even in the most challenging of circumstances. It serves as a reminder to believers to stay steadfast in their beliefs and to trust in Allah's promise of protection and guidance for those who remain true to their faith.
 
 ## Average Grade
-74.16666666666667
+70.625
 
 ## Grades
  * [85.0](./Historical_Context_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ Overall, the concept of a 'remnant' in Islamic teachings emphasizes the importan
  * [80.0](./Historical_Context_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Historical_Context_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Historical_Context_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [70.0](./Historical_Context_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Historical_Context_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Historical_Context.md)

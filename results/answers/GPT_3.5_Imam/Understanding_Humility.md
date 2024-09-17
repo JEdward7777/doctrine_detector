@@ -19,7 +19,7 @@ Muslims are encouraged to be humble in their prayers, interactions with others, 
 In Islam, humility is seen as a virtue that leads to spiritual growth, inner peace, and a closer relationship with Allah. It is also a way to show gratitude for the countless blessings that Allah has bestowed upon us. By being humble before God, a Muslim demonstrates their obedience, gratitude, and devotion to Him.
 
 ## Average Grade
-83.33333333333333
+78.75
 
 ## Grades
  * [85.0](./Understanding_Humility_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ In Islam, humility is seen as a virtue that leads to spiritual growth, inner pea
  * [85.0](./Understanding_Humility_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Humility_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Understanding_Humility_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [70.0](./Understanding_Humility_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Understanding_Humility_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Humility.md)

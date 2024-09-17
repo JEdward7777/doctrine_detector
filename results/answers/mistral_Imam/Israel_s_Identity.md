@@ -21,7 +21,7 @@ However, it's important to note that the modern nation-state of Israel does not 
 In the context of Muslim teachings, the region now known as Israel holds significance as the place where many important events in Islamic history took place, such as the migration (Hijra) of Prophet Muhammad (peace be upon him) from Mecca to Medina and the subsequent battles that followed, and the eventual establishment of the first Muslim state under the leadership of Caliph Umar Ibn Al-Khattab.
 
 ## Average Grade
-79.16666666666667
+77.5
 
 ## Grades
  * [70.0](./Israel_s_Identity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ In the context of Muslim teachings, the region now known as Israel holds signifi
  * [90.0](./Israel_s_Identity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Israel_s_Identity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Israel_s_Identity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Israel_s_Identity_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Israel_s_Identity_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Israel_s_Identity.md)

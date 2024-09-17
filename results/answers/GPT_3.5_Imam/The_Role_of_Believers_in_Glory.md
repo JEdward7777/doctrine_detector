@@ -21,7 +21,7 @@ As Muslims, we believe in the Day of Judgment when all individuals will be held 
 Ultimately, whether in the Christian or Islamic context, the concept of being glorified with Christ or with Allah emphasizes the importance of faith, obedience, and righteousness in securing a positive outcome in the afterlife.
 
 ## Average Grade
-55.833333333333336
+54.375
 
 ## Grades
  * [60.0](./The_Role_of_Believers_in_Glory_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ Ultimately, whether in the Christian or Islamic context, the concept of being gl
  * [60.0](./The_Role_of_Believers_in_Glory_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./The_Role_of_Believers_in_Glory_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./The_Role_of_Believers_in_Glory_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [70.0](./The_Role_of_Believers_in_Glory_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [30.0](./The_Role_of_Believers_in_Glory_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/The_Role_of_Believers_in_Glory.md)

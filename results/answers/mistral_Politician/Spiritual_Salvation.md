@@ -21,7 +21,7 @@ It is important to note that interpretations of salvation can vary among differe
 To avoid potential offense or misunderstanding, it is essential to remember that religious beliefs are deeply personal and vary greatly among individuals. It is always important to approach such topics with respect and sensitivity, acknowledging and valuing the diverse beliefs and perspectives that exist within our multicultural and multi-faith society.
 
 ## Average Grade
-90.0
+89.625
 
 ## Grades
  * [90.0](./Spiritual_Salvation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ To avoid potential offense or misunderstanding, it is essential to remember that
  * [95.0](./Spiritual_Salvation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Spiritual_Salvation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Spiritual_Salvation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Spiritual_Salvation_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [92.0](./Spiritual_Salvation_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Spiritual_Salvation.md)

@@ -15,7 +15,7 @@ Understanding the biblical role of priests
 In the Old Testament, priests were responsible for leading religious ceremonies, offering sacrifices, providing spiritual guidance to the community, and upholding religious laws and customs. They played a key role in mediation between the people and God, offering prayers on behalf of the community and facilitating rituals of atonement for sins. It is important to recognize the diverse perspectives on this topic and to approach the discussion with sensitivity and respect for different beliefs and traditions.
 
 ## Average Grade
-85.0
+84.375
 
 ## Grades
  * [95.0](./Role_of_Priests_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ In the Old Testament, priests were responsible for leading religious ceremonies,
  * [85.0](./Role_of_Priests_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Role_of_Priests_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Role_of_Priests_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Role_of_Priests_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [80.0](./Role_of_Priests_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Role_of_Priests.md)

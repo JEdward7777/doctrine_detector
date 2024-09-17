@@ -27,7 +27,7 @@ The statement "I am Yahweh" (or "I am the Lord") is foundational in understandin
 In summary, the statement encapsulates core elements of God's character—His oneness, authority, commitment to His promises, and unmatched power—all of which are deeply significant in the Islamic faith. Believers are reminded of their duty to worship Him, obey His commands, and trust in His promises.
 
 ## Average Grade
-85.83333333333333
+80.625
 
 ## Grades
  * [90.0](./Understanding_Yahweh_s_Power_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ In summary, the statement encapsulates core elements of God's character—His on
  * [95.0](./Understanding_Yahweh_s_Power_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Understanding_Yahweh_s_Power_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Understanding_Yahweh_s_Power_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Understanding_Yahweh_s_Power_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Understanding_Yahweh_s_Power_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Yahweh_s_Power.md)

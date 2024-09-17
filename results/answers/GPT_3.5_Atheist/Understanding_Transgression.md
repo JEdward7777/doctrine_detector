@@ -15,7 +15,7 @@ Understanding the nature of sin and our relationship with God's commandments.
 The term "transgress" in a Biblical context generally refers to breaking a divine rule, stepping over a moral boundary, or disobeying a commandment or law set by God. It implies committing a wrongful or sinful act, going against the will of God, and deviating from the expected righteous behavior. Transgressions are seen as actions that offend God and disrupt the harmonious relationship between humans and the divine. In the context of cultural retribution, transgressions may be met with punishments or consequences, either in this life or in the afterlife, as a way to restore justice and balance.
 
 ## Average Grade
-90.0
+88.75
 
 ## Grades
  * [95.0](./Understanding_Transgression_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ The term "transgress" in a Biblical context generally refers to breaking a divin
  * [95.0](./Understanding_Transgression_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Transgression_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Understanding_Transgression_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Transgression_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Understanding_Transgression_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Transgression.md)

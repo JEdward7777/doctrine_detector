@@ -21,7 +21,7 @@ God's faithfulness was also demonstrated through the leadership of Prophet Moses
 Overall, the Israelites' journey to the Promised Land serves as a powerful reminder of God's unwavering faithfulness and love for His people, despite their shortcomings and failings. It teaches us to trust in God's promises and to remain steadfast in our faith, knowing that He will always be there to guide and protect us on our own journeys in life.
 
 ## Average Grade
-83.33333333333333
+80.625
 
 ## Grades
  * [90.0](./Israelites__Journey_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ Overall, the Israelites' journey to the Promised Land serves as a powerful remin
  * [95.0](./Israelites__Journey_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Israelites__Journey_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Israelites__Journey_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Israelites__Journey_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Israelites__Journey_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Israelites__Journey.md)

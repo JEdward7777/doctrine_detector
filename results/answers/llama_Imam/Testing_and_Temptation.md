@@ -35,7 +35,7 @@ In contrast, biblical stories like Adam and Eve's experience in the Garden of Ed
 In conclusion, while both Islam and Christianity acknowledge the importance of trials and tests, the primary differences lie in the intentions behind these experiences. Islamic theology sees Allah (SWT) as the ultimate guide and tester, while biblical teachings portray Satan as a deceiver seeking to lead humans astray.
 
 ## Average Grade
-80.83333333333333
+80.625
 
 ## Grades
  * [80.0](./Testing_and_Temptation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -44,5 +44,7 @@ In conclusion, while both Islam and Christianity acknowledge the importance of t
  * [85.0](./Testing_and_Temptation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Testing_and_Temptation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Testing_and_Temptation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Testing_and_Temptation_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [75.0](./Testing_and_Temptation_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Testing_and_Temptation.md)

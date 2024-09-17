@@ -27,7 +27,7 @@ Understanding biblical interpretation helps in grasping the meaning of scripture
 Each interpretation has its strengths and weaknesses, and it's essential to consider the broader context of Scripture when seeking a fuller understanding of any biblical passage. Ultimately, the truth of who the "sons of God" were in Genesis 6 is a matter of careful exegesis and prayerful discernment.
 
 ## Average Grade
-84.16666666666667
+83.75
 
 ## Grades
  * [90.0](./Sons_of_God_Interpretation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ Each interpretation has its strengths and weaknesses, and it's essential to cons
  * [90.0](./Sons_of_God_Interpretation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Sons_of_God_Interpretation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Sons_of_God_Interpretation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Sons_of_God_Interpretation_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [80.0](./Sons_of_God_Interpretation_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Sons_of_God_Interpretation.md)

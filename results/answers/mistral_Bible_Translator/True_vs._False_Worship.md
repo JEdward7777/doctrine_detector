@@ -21,7 +21,7 @@ On the other hand, worshiping false gods or idols involves giving devotion, hono
 In worshiping false gods, one may miss out on a meaningful relationship with the one true God and risk eternal separation from Him. Instead, by worshiping God alone, Christians can enjoy a fulfilling life and relationship with Him both now and in eternity.
 
 ## Average Grade
-90.83333333333333
+91.25
 
 ## Grades
  * [90.0](./True_vs._False_Worship_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ In worshiping false gods, one may miss out on a meaningful relationship with the
  * [95.0](./True_vs._False_Worship_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./True_vs._False_Worship_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./True_vs._False_Worship_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./True_vs._False_Worship_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./True_vs._False_Worship_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/True_vs._False_Worship.md)

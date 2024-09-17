@@ -25,7 +25,7 @@ As a Muslim Imam, I primarily focus on Islamic teachings and the Quran. However,
 These examples emphasize the human experience of guilt, the importance of acknowledging wrongdoing, and the opportunity for repentance and reconciliation with God. In Islam, repentance (tawbah) is highly encouraged, and seeking forgiveness from Allah is central to the practice of faith. Muslims believe in the mercy of Allah and His willingness to forgive those who sincerely repent and strive to amend their ways.
 
 ## Average Grade
-76.33333333333333
+77.875
 
 ## Grades
  * [88.0](./Examples_of_Guilt_in_Scripture_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ These examples emphasize the human experience of guilt, the importance of acknow
  * [85.0](./Examples_of_Guilt_in_Scripture_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Examples_of_Guilt_in_Scripture_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Examples_of_Guilt_in_Scripture_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Examples_of_Guilt_in_Scripture_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [80.0](./Examples_of_Guilt_in_Scripture_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Examples_of_Guilt_in_Scripture.md)

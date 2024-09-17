@@ -21,7 +21,7 @@ Another significant event involving Herod Antipas is the beheading of John the B
 Overall, Herod Antipas is depicted in the New Testament as a ruler who was influenced by personal relationships and political considerations, rather than upholding justice and righteousness. His interactions with Jesus and John the Baptist serve as examples of how earthly powers can sometimes be at odds with the Kingdom of God.
 
 ## Average Grade
-87.5
+86.25
 
 ## Grades
  * [90.0](./Tetrarch_Role_in_the_New_Testament_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ Overall, Herod Antipas is depicted in the New Testament as a ruler who was influ
  * [85.0](./Tetrarch_Role_in_the_New_Testament_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Tetrarch_Role_in_the_New_Testament_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Tetrarch_Role_in_the_New_Testament_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Tetrarch_Role_in_the_New_Testament_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [80.0](./Tetrarch_Role_in_the_New_Testament_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Tetrarch_Role_in_the_New_Testament.md)

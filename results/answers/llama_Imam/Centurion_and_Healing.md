@@ -25,7 +25,7 @@ Furthermore, this event illustrates the concept of "wasiyyah" or spiritual succe
 In conclusion, my brother, the interaction between the centurion and Jesus serves as a reminder of the importance of faith in connecting with the divine and recognizing the authority of prophets and messengers. May this story inspire us to deepen our understanding of the nature of faith and authority in Islam.
 
 ## Average Grade
-68.33333333333333
+66.25
 
 ## Grades
  * [85.0](./Centurion_and_Healing_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ In conclusion, my brother, the interaction between the centurion and Jesus serve
  * [55.0](./Centurion_and_Healing_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Centurion_and_Healing_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Centurion_and_Healing_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Centurion_and_Healing_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Centurion_and_Healing_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Centurion_and_Healing.md)

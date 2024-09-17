@@ -24,7 +24,7 @@ In ancient Near Eastern cultures, including ancient Israel, the concept of a sou
 It is essential to note that these ideas are rooted in ancient Near Eastern cultural and religious contexts, which may differ significantly from modern-day understandings. As an atheist, I do not accept the supernatural aspects of these concepts but can acknowledge their historical and cultural significance.
 
 ## Average Grade
-65.83333333333333
+65.0
 
 ## Grades
  * [70.0](./Purpose_of_the_Soul_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,5 +33,7 @@ It is essential to note that these ideas are rooted in ancient Near Eastern cult
  * [50.0](./Purpose_of_the_Soul_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Purpose_of_the_Soul_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Purpose_of_the_Soul_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Purpose_of_the_Soul_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Purpose_of_the_Soul_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Purpose_of_the_Soul.md)

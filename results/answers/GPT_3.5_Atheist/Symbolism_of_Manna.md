@@ -15,7 +15,7 @@ Recognizing God's ongoing provision in the lives of believers.
 The term "manna" traditionally symbolizes God's provision of sustenance and care for his people. In the Christian and Jewish faiths, manna refers to the miraculous food that God provided to the Israelites in the wilderness during their exodus from Egypt, as described in the Bible. This act of divine provision is seen as a sign of God's faithfulness and love for his people, demonstrating that he will always provide for their needs. It serves as a reminder of the importance of trust and reliance on God for sustenance and support in times of hardship.
 
 ## Average Grade
-86.66666666666667
+88.125
 
 ## Grades
  * [90.0](./Symbolism_of_Manna_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ The term "manna" traditionally symbolizes God's provision of sustenance and care
  * [90.0](./Symbolism_of_Manna_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Symbolism_of_Manna_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Symbolism_of_Manna_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Symbolism_of_Manna_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Symbolism_of_Manna_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Symbolism_of_Manna.md)

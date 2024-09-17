@@ -36,7 +36,7 @@ These lists are not identical in all three accounts, but they share a common cor
 Now, I know some might argue that these accounts are divinely inspired and therefore infallible. However, as an atheist, I remain skeptical of such claims and instead rely on empirical evidence, historical context, and rigorous scholarly analysis to understand the world around us.
 
 ## Average Grade
-56.666666666666664
+61.25
 
 ## Grades
  * [50.0](./Matthew,_Mark,_and_Luke_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -45,5 +45,7 @@ Now, I know some might argue that these accounts are divinely inspired and there
  * [70.0](./Matthew,_Mark,_and_Luke_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Matthew,_Mark,_and_Luke_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Matthew,_Mark,_and_Luke_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Matthew,_Mark,_and_Luke_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [65.0](./Matthew,_Mark,_and_Luke_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Matthew,_Mark,_and_Luke.md)

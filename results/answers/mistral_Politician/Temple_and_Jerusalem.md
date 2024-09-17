@@ -19,7 +19,7 @@ In Jewish tradition, the term "Zion" came to symbolize the spiritual center of J
 Over time, "Zion" came to be associated with the concept of a restored Israel, an independent Jewish state centered on Jerusalem. This association continues today, particularly among those who support the modern State of Israel. However, it is important to note that the term has diverse meanings for different groups, and it is essential to approach discussions about Zionism and its history with sensitivity and openness to multiple perspectives.
 
 ## Average Grade
-81.66666666666667
+82.5
 
 ## Grades
  * [90.0](./Temple_and_Jerusalem_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ Over time, "Zion" came to be associated with the concept of a restored Israel, a
  * [90.0](./Temple_and_Jerusalem_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Temple_and_Jerusalem_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Temple_and_Jerusalem_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Temple_and_Jerusalem_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Temple_and_Jerusalem_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Temple_and_Jerusalem.md)

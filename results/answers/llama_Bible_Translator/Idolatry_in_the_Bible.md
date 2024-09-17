@@ -32,7 +32,7 @@ Throughout these examples, the Bible consistently teaches that:
 In light of these illustrations, it is essential for Christians to recognize the dangers of idolatry in their own lives and communities. We must be vigilant in our worship, ensuring that we give ultimate devotion to the one true God, rejecting any form of idolatry or syncretism.
 
 ## Average Grade
-94.66666666666667
+94.125
 
 ## Grades
  * [95.0](./Idolatry_in_the_Bible_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -41,5 +41,7 @@ In light of these illustrations, it is essential for Christians to recognize the
  * [95.0](./Idolatry_in_the_Bible_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [98.0](./Idolatry_in_the_Bible_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Idolatry_in_the_Bible_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [95.0](./Idolatry_in_the_Bible_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Idolatry_in_the_Bible_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Idolatry_in_the_Bible.md)

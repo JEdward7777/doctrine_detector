@@ -15,7 +15,7 @@ Clarifying the events that will take place during this significant time in Chris
 The concepts of "day of Yahweh" or "day of the Lord" are primarily associated with Abrahamic religions such as Christianity and Judaism. These concepts are not directly referenced or observed within Islamic tradition. Muslims follow Islamic principles and rituals, which do not include such concepts.
 
 ## Average Grade
-73.33333333333333
+70.0
 
 ## Grades
  * [75.0](./Judgment_and_Resurrection_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ The concepts of "day of Yahweh" or "day of the Lord" are primarily associated wi
  * [90.0](./Judgment_and_Resurrection_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Judgment_and_Resurrection_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Judgment_and_Resurrection_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [70.0](./Judgment_and_Resurrection_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Judgment_and_Resurrection_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Judgment_and_Resurrection.md)

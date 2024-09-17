@@ -28,7 +28,7 @@ It's essential to note that the purpose of Jesus' parables might not have been p
 This perspective is rooted in the historical and cultural context of ancient Judaism, where wisdom literature and storytelling were valued as means of conveying moral guidance and spiritual insight. By acknowledging this cultural backdrop, we can gain a more nuanced understanding of Jesus' use of parables and their significance within his teachings.
 
 ## Average Grade
-70.83333333333333
+71.25
 
 ## Grades
  * [75.0](./Purpose_of_Parables_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,5 +37,7 @@ This perspective is rooted in the historical and cultural context of ancient Jud
  * [70.0](./Purpose_of_Parables_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Purpose_of_Parables_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Purpose_of_Parables_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Purpose_of_Parables_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Purpose_of_Parables_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Purpose_of_Parables.md)

@@ -25,7 +25,7 @@ In this sense, God's assurance to believers can be seen as a form of psychologic
 Ultimately, the phrase "Fear not" is a powerful symbol of God's reassurance and protection. While it may hold different meanings for people with religious or spiritual beliefs, its cultural significance lies in its ability to provide comfort and solace to those who are struggling.
 
 ## Average Grade
-72.5
+73.125
 
 ## Grades
  * [90.0](./Biblical_Assurance_Against_Fear_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ Ultimately, the phrase "Fear not" is a powerful symbol of God's reassurance and 
  * [60.0](./Biblical_Assurance_Against_Fear_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_Assurance_Against_Fear_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Biblical_Assurance_Against_Fear_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Biblical_Assurance_Against_Fear_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Biblical_Assurance_Against_Fear_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Biblical_Assurance_Against_Fear.md)

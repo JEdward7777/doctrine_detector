@@ -23,7 +23,7 @@ In 1 Corinthians 8:1, the Apostle Paul writes, "Knowledge puffs up, but love bui
 These scriptural teachings underscore the importance of humility in Christian thought and offer guidance for living a virtuous life that values others and prioritizes relationships over personal gain or status. It's essential to remember these principles when navigating political, professional, and social interactions.
 
 ## Average Grade
-88.66666666666667
+85.875
 
 ## Grades
  * [90.0](./Consequences_of_Pride_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ These scriptural teachings underscore the importance of humility in Christian th
  * [95.0](./Consequences_of_Pride_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Consequences_of_Pride_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Consequences_of_Pride_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Consequences_of_Pride_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Consequences_of_Pride_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Consequences_of_Pride.md)

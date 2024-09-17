@@ -29,7 +29,7 @@ In the Quran and Hadith (Prophetic traditions), there are many virtues and chara
 These qualities are not exhaustive, but they give you an idea of the character traits that are highly valued in Islamic faith and practice. When we cultivate these virtues, we become more like the Prophet Muhammad (peace be upon him), who was known for his exceptional piety, compassion, and wisdom.
 
 ## Average Grade
-64.16666666666667
+67.5
 
 ## Grades
  * [70.0](./Godly_Character_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ These qualities are not exhaustive, but they give you an idea of the character t
  * [85.0](./Godly_Character_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Godly_Character_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./Godly_Character_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Godly_Character_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Godly_Character_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Godly_Character.md)

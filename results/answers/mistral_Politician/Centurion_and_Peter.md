@@ -19,7 +19,7 @@ The centurion was a non-Jewish military leader who acknowledged Jesus' authority
 The story of the centurion also underscores the central tenets of Christianity, such as faith, compassion, and love, while emphasizing the idea that these values transcend cultural boundaries and bring unity among diverse groups of people. By embracing this inclusive message, we can learn to appreciate one another's differences and work together in promoting peace, justice, and mutual respect.
 
 ## Average Grade
-90.0
+86.25
 
 ## Grades
  * [90.0](./Centurion_and_Peter_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ The story of the centurion also underscores the central tenets of Christianity, 
  * [95.0](./Centurion_and_Peter_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Centurion_and_Peter_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Centurion_and_Peter_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Centurion_and_Peter_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [65.0](./Centurion_and_Peter_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Centurion_and_Peter.md)

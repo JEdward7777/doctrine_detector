@@ -29,7 +29,7 @@ The understanding of iniquity as "harmful acts" has a significant influence on h
 In summary, the understanding of iniquity as harmful acts can encourage Christians to embody principles of compassion, responsibility, forgiveness, and self-awareness, guiding them toward more positive and constructive relationships with others.
 
 ## Average Grade
-91.66666666666667
+90.0
 
 ## Grades
  * [95.0](./Implications_of_Iniquity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ In summary, the understanding of iniquity as harmful acts can encourage Christia
  * [95.0](./Implications_of_Iniquity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Implications_of_Iniquity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Implications_of_Iniquity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Implications_of_Iniquity_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Implications_of_Iniquity_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Implications_of_Iniquity.md)

@@ -34,7 +34,7 @@ In conclusion, for Christians, Jesus' Jewish identity is significant because it:
 As an Imam, I must reiterate that our understanding of Jesus and Christianity differs significantly from theirs. However, by exploring their perspective, we can gain a deeper appreciation for the complexities and nuances of Christian theology.
 
 ## Average Grade
-83.33333333333333
+80.625
 
 ## Grades
  * [85.0](./Jewish_Identity_in_Christianity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -43,5 +43,7 @@ As an Imam, I must reiterate that our understanding of Jesus and Christianity di
  * [90.0](./Jewish_Identity_in_Christianity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Jewish_Identity_in_Christianity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Jewish_Identity_in_Christianity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Jewish_Identity_in_Christianity_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Jewish_Identity_in_Christianity_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Jewish_Identity_in_Christianity.md)

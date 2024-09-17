@@ -19,7 +19,7 @@ Additionally, in James 4:7-8, it is stated, "Submit yourselves, then, to God. Re
 Ultimately, the Bible teaches that Christians should rely on God's strength and guidance to resist temptation and live a life that is pleasing to Him.
 
 ## Average Grade
-84.16666666666667
+85.0
 
 ## Grades
  * [90.0](./Confession_of_Sins_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ Ultimately, the Bible teaches that Christians should rely on God's strength and 
  * [90.0](./Confession_of_Sins_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Confession_of_Sins_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Confession_of_Sins_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Confession_of_Sins_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Confession_of_Sins_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Confession_of_Sins.md)

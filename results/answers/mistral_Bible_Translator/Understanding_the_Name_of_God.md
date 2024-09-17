@@ -17,7 +17,7 @@ Understanding the personal nature of God and His relationship with humanity.
 The name Yahweh emphasizes God's self-revelation to Moses at the burning bush (Exodus 3:14), where He identifies Himself as "I Am Who I Am" or "Yahweh," which means "He brings into existence, causes to become, or continues in being." This name highlights God's eternal and unchanging nature, emphasizing His self-existence, sovereignty, and faithfulness throughout history. Additionally, the name Yahweh often appears in conjunction with promises and covenants, symbolizing God's active involvement in the lives of His people and His commitment to fulfilling His promises.
 
 ## Average Grade
-87.83333333333333
+88.375
 
 ## Grades
  * [92.0](./Understanding_the_Name_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -26,5 +26,7 @@ The name Yahweh emphasizes God's self-revelation to Moses at the burning bush (E
  * [95.0](./Understanding_the_Name_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [75.0](./Understanding_the_Name_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Understanding_the_Name_of_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_the_Name_of_God_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Understanding_the_Name_of_God_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_the_Name_of_God.md)

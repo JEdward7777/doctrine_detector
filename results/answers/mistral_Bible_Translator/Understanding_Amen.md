@@ -15,7 +15,7 @@ Understanding the significance of prayer in Christian practice.
  In Christian theology, the term "Amen" is often used as an affirmation of agreement or assent. When it appears at the end of a prayer, it serves as a declaration that what was prayed for is true and right, and that the one saying "Amen" wholeheartedly agrees with the sentiments expressed in the prayer. It also signifies a solemn appeal to God to fulfill what has been prayed. In essence, "Amen" reinforces the faithfulness and commitment of the community of believers in upholding their prayers to God.
 
 ## Average Grade
-88.33333333333333
+87.5
 
 ## Grades
  * [90.0](./Understanding_Amen_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ Understanding the significance of prayer in Christian practice.
  * [85.0](./Understanding_Amen_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Amen_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Understanding_Amen_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Amen_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Understanding_Amen_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Amen.md)

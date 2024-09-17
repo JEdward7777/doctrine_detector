@@ -25,7 +25,7 @@ In the New Testament, the term "Day of the Lord" generally refers to a future ev
 Overall, the "Day of the Lord" in the New Testament serves as a powerful reminder of the awaited culmination of history, where divine justice will prevail, and a new order will be established. It balances themes of judgment and hope, reflecting the complex nature of eschatological beliefs in early Christianity.
 
 ## Average Grade
-91.66666666666667
+90.625
 
 ## Grades
  * [90.0](./Day_of_the_Lord_Meaning_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ Overall, the "Day of the Lord" in the New Testament serves as a powerful reminde
  * [95.0](./Day_of_the_Lord_Meaning_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Day_of_the_Lord_Meaning_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Day_of_the_Lord_Meaning_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Day_of_the_Lord_Meaning_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Day_of_the_Lord_Meaning_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Day_of_the_Lord_Meaning.md)

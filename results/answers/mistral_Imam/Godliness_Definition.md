@@ -23,7 +23,7 @@ In this passage, godliness (or righteousness) is tied closely to contentment and
 In Islamic terms, these concepts are similar yet distinct due to the unique teachings of the Quran and Hadith (Prophetic traditions). In Islam, godliness is also achieved by living a life in accordance with God's will as expressed in the Quran and Sunnah, including daily prayers, fasting during Ramadan, giving Zakat (charity), and performing Hajj (pilgrimage) if able. However, both religions emphasize the importance of personal piety, good deeds, compassion, and submission to God in one's life.
 
 ## Average Grade
-81.66666666666667
+80.0
 
 ## Grades
  * [80.0](./Godliness_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ In Islamic terms, these concepts are similar yet distinct due to the unique teac
  * [85.0](./Godliness_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Godliness_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [65.0](./Godliness_Definition_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Godliness_Definition_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [65.0](./Godliness_Definition_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Godliness_Definition.md)

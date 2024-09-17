@@ -17,7 +17,7 @@ According to the Bible, particularly in the New Testament, the concept of inheri
 Overall, the teachings suggest that a combination of faith in God, love for others, and adherence to moral principles is key to inheriting eternal life. Each interpretation may vary among different Christian denominations, so it's always beneficial to consider the wide range of theological perspectives within Christianity.
 
 ## Average Grade
-81.66666666666667
+80.625
 
 ## Grades
  * [85.0](./Inheriting_Eternal_Life_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -26,5 +26,7 @@ Overall, the teachings suggest that a combination of faith in God, love for othe
  * [85.0](./Inheriting_Eternal_Life_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Inheriting_Eternal_Life_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Inheriting_Eternal_Life_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Inheriting_Eternal_Life_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Inheriting_Eternal_Life_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Inheriting_Eternal_Life.md)

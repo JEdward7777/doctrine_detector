@@ -21,7 +21,7 @@ Moreover, Christians believe that all humans are created in the image of God (Ge
 In summary, the understanding of iniquity as harmful acts helps Christians approach others with compassion, fairness, and a desire to foster peace and justice, reflecting the love and righteousness that they believe God desires for humanity.
 
 ## Average Grade
-89.5
+89.625
 
 ## Grades
  * [90.0](./Implications_of_Iniquity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ In summary, the understanding of iniquity as harmful acts helps Christians appro
  * [92.0](./Implications_of_Iniquity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Implications_of_Iniquity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Implications_of_Iniquity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Implications_of_Iniquity_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Implications_of_Iniquity_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Implications_of_Iniquity.md)

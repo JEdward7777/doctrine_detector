@@ -25,7 +25,7 @@ Recognizing the transformative power of Jesus' sacrifice in the context of God's
 5. Community and Unity: The New Covenant calls the church, the body of Christ, to unity and love for one another (Ephesians 4:3). It emphasizes the importance of fellowship and supporting each other in our shared faith journey.
 
 ## Average Grade
-90.83333333333333
+90.0
 
 ## Grades
  * [95.0](./New_Covenant_Significance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ Recognizing the transformative power of Jesus' sacrifice in the context of God's
  * [95.0](./New_Covenant_Significance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./New_Covenant_Significance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./New_Covenant_Significance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./New_Covenant_Significance_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./New_Covenant_Significance_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/New_Covenant_Significance.md)

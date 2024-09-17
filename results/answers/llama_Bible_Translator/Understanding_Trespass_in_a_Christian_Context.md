@@ -29,7 +29,7 @@ In this sense, sin is often understood as trespassing on God's domain or violati
 As Christians, we understand that sin has consequences for our relationship with God and with one another. Through Jesus Christ, however, we have the opportunity to restore that broken relationship by acknowledging our trespasses (or sins) and seeking forgiveness through faith in His sacrifice (Romans 3:23-25).
 
 ## Average Grade
-85.0
+86.0
 
 ## Grades
  * [90.0](./Understanding_Trespass_in_a_Christian_Context_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ As Christians, we understand that sin has consequences for our relationship with
  * [85.0](./Understanding_Trespass_in_a_Christian_Context_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Trespass_in_a_Christian_Context_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Understanding_Trespass_in_a_Christian_Context_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Understanding_Trespass_in_a_Christian_Context_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [88.0](./Understanding_Trespass_in_a_Christian_Context_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Trespass_in_a_Christian_Context.md)

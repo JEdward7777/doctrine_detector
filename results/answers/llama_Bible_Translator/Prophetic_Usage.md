@@ -27,7 +27,7 @@ The term "Daughter of Zion" (Hebrew: בִתְחוֹזַי, B'thochay) is used in
 In summary, the term "Daughter of Zion" is used in Old Testament prophecies to represent God's special relationship with the city of Jerusalem and its inhabitants. It often serves as a call to repentance or redemption, highlighting God's desire to restore His people. In some cases, this term takes on Messianic significance, anticipating the coming Messiah who would bring salvation to Israel.
 
 ## Average Grade
-91.16666666666667
+90.5
 
 ## Grades
  * [95.0](./Prophetic_Usage_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ In summary, the term "Daughter of Zion" is used in Old Testament prophecies to r
  * [95.0](./Prophetic_Usage_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Prophetic_Usage_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Prophetic_Usage_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Prophetic_Usage_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [92.0](./Prophetic_Usage_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Prophetic_Usage.md)

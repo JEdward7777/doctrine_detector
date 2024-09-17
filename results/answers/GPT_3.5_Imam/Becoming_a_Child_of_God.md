@@ -19,7 +19,7 @@ Muslims believe that Allah (God) is unique, indivisible, and absolute in His one
 Therefore, the idea of believing in God the Son or becoming a child of God the Father does not align with Islamic teachings. Instead, our focus is on submitting to the will of Allah, seeking His mercy and forgiveness, and striving to live a life in accordance with His guidance as revealed in the Quran and the teachings of the Prophet Muhammad (peace be upon him).
 
 ## Average Grade
-39.166666666666664
+44.375
 
 ## Grades
  * [45.0](./Becoming_a_Child_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ Therefore, the idea of believing in God the Son or becoming a child of God the F
  * [40.0](./Becoming_a_Child_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Becoming_a_Child_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./Becoming_a_Child_of_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [70.0](./Becoming_a_Child_of_God_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Becoming_a_Child_of_God_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Becoming_a_Child_of_God.md)

@@ -15,7 +15,7 @@ Encouragement to foster local fellowship among believers.
 In many towns and cities, believers typically gathered in community spaces such as churches, homes, or community centers to engage in fellowship, worship, and spiritual activities. These gatherings often included prayer, singing, sharing of teachings, and communal meals, fostering a sense of belonging and support among the attendees. Additionally, some believers might connect through small groups or study sessions, allowing for deeper discussions and connections in a more intimate setting. The emphasis was generally on inclusivity and creating a welcoming environment for all individuals, regardless of their background or beliefs.
 
 ## Average Grade
-79.16666666666667
+77.5
 
 ## Grades
  * [80.0](./Local_Church_Meetings_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ In many towns and cities, believers typically gathered in community spaces such 
  * [85.0](./Local_Church_Meetings_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Local_Church_Meetings_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Local_Church_Meetings_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Local_Church_Meetings_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [65.0](./Local_Church_Meetings_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Local_Church_Meetings.md)

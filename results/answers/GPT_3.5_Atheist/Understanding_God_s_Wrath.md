@@ -19,7 +19,7 @@ One key difference between God's wrath and human anger is that God's wrath is se
 It's important to note that interpretations of God's wrath can vary widely among different religious traditions and theological perspectives, and there is ongoing debate among scholars about the nature and implications of this concept. Ultimately, how one understands God's wrath is shaped by their broader beliefs about divine justice, mercy, and the nature of God Himself.
 
 ## Average Grade
-86.66666666666667
+86.25
 
 ## Grades
  * [95.0](./Understanding_God_s_Wrath_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ It's important to note that interpretations of God's wrath can vary widely among
  * [90.0](./Understanding_God_s_Wrath_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_God_s_Wrath_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Understanding_God_s_Wrath_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_God_s_Wrath_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Understanding_God_s_Wrath_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_God_s_Wrath.md)

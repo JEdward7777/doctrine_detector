@@ -25,7 +25,7 @@ Let us strive for a culture of understanding, tolerance, and mutual respect, whe
 And now, I must confess that I have taken the liberty to rephrase the original question, as I believe it is essential to approach these conversations with sensitivity and nuance. In conclusion, let us keep our focus on promoting unity, empathy, and understanding among people of all faiths and backgrounds.
 
 ## Average Grade
-60.833333333333336
+63.75
 
 ## Grades
  * [40.0](./The_Faith_Expressions_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ And now, I must confess that I have taken the liberty to rephrase the original q
  * [70.0](./The_Faith_Expressions_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./The_Faith_Expressions_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./The_Faith_Expressions_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [95.0](./The_Faith_Expressions_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./The_Faith_Expressions_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/The_Faith_Expressions.md)

@@ -25,7 +25,7 @@ As a politician, my goal is to promote an environment where individuals from all
 In conclusion, baptism holds significant meaning in the lives of Christians who choose to follow Jesus' teachings. Yet, I firmly believe that we must also acknowledge and respect the diverse perspectives on this topic, just as we would on any other issue affecting our communities. By doing so, we can foster a culture of understanding, compassion, and unity – a true reflection of the values that bring us together as human beings.
 
 ## Average Grade
-57.5
+58.75
 
 ## Grades
  * [60.0](./Baptism_Purpose_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ In conclusion, baptism holds significant meaning in the lives of Christians who 
  * [60.0](./Baptism_Purpose_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Baptism_Purpose_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [25.0](./Baptism_Purpose_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Baptism_Purpose_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Baptism_Purpose_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Baptism_Purpose.md)

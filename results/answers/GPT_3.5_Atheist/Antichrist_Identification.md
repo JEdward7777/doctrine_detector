@@ -15,7 +15,7 @@ Understanding the traits of antichrists helps Christians recognize and resist fa
 In the context of the New Testament, particularly in the writings attributed to the apostle John, an antichrist is described as someone who denies that Jesus is the Christ, or denies the Father and the Son (1 John 2:22). Additionally, an antichrist is characterized by spreading false teachings that contradict the central beliefs of Christianity. It is important to note that the concept of antichrist in the Bible is not a single figure but rather refers to anyone who opposes or goes against the teachings of Christ.
 
 ## Average Grade
-89.16666666666667
+88.125
 
 ## Grades
  * [95.0](./Antichrist_Identification_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ In the context of the New Testament, particularly in the writings attributed to 
  * [90.0](./Antichrist_Identification_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Antichrist_Identification_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Antichrist_Identification_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Antichrist_Identification_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Antichrist_Identification_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Antichrist_Identification.md)

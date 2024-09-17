@@ -19,7 +19,7 @@ Some traditional views hold that the "last days" began with the ministry of Jesu
 It's crucial to approach such topics with sensitivity, as they can be emotionally charged and divisive. The phrase "last days" serves as a call for believers to live faithfully, remain vigilant, and share the message of salvation. However, it's essential to remember that everyone interprets these scriptural passages according to their unique beliefs and understanding.
 
 ## Average Grade
-83.33333333333333
+83.75
 
 ## Grades
  * [85.0](./Understanding_the_Last_Days_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ It's crucial to approach such topics with sensitivity, as they can be emotionall
  * [85.0](./Understanding_the_Last_Days_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Understanding_the_Last_Days_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Understanding_the_Last_Days_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_the_Last_Days_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Understanding_the_Last_Days_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_the_Last_Days.md)

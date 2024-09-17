@@ -33,7 +33,7 @@ By examining these figurative uses of "soul" in the Bible, we can gain insight i
 In conclusion, the figurative uses of "soul" in the Bible provide valuable insights into its importance for understanding human identity. By examining these biblical concepts, we can gain a deeper appreciation for the complexities and nuances of human existence, which are essential for cultivating empathy, compassion, and personal growth.
 
 ## Average Grade
-74.16666666666667
+74.375
 
 ## Grades
  * [60.0](./Function_of_the_Soul_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -42,5 +42,7 @@ In conclusion, the figurative uses of "soul" in the Bible provide valuable insig
  * [90.0](./Function_of_the_Soul_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Function_of_the_Soul_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Function_of_the_Soul_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Function_of_the_Soul_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [65.0](./Function_of_the_Soul_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Function_of_the_Soul.md)

@@ -35,7 +35,7 @@ In the Bible, prayer serves several key purposes:
 While the above points are from a Biblical perspective, it’s interesting to note that many of these purposes resonate with the principles of prayer in Islam as well. In both faiths, prayer serves as a vital aspect of spiritual life and connection to the Divine. If you have any specific questions regarding prayer in Islam, I'd be glad to assist!
 
 ## Average Grade
-88.33333333333333
+87.5
 
 ## Grades
  * [90.0](./Purpose_of_Prayer_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -44,5 +44,7 @@ While the above points are from a Biblical perspective, it’s interesting to no
  * [90.0](./Purpose_of_Prayer_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Purpose_of_Prayer_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Purpose_of_Prayer_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Purpose_of_Prayer_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Purpose_of_Prayer_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Purpose_of_Prayer.md)

@@ -15,7 +15,7 @@ Exploring how Christians are called to maintain integrity and faithfulness in th
 The Bible teaches that marriage is a sacred and important commitment between two individuals, and faithfulness is essential to maintaining a healthy and loving relationship. Adultery, which is the act of being unfaithful to one's spouse, is seen as a betrayal of trust and can have serious consequences on a marriage and family. It is important to approach this topic with compassion and understanding, recognizing that every situation is unique and individuals may need support and guidance in navigating challenges in their relationships.
 
 ## Average Grade
-85.0
+83.125
 
 ## Grades
  * [90.0](./Faithfulness_in_Marriage_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ The Bible teaches that marriage is a sacred and important commitment between two
  * [90.0](./Faithfulness_in_Marriage_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Faithfulness_in_Marriage_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Faithfulness_in_Marriage_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Faithfulness_in_Marriage_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Faithfulness_in_Marriage_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Faithfulness_in_Marriage.md)

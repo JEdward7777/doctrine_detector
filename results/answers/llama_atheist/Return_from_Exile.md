@@ -25,7 +25,7 @@ In a broader cultural context, the return from Babylon also reflects the complex
 In conclusion, while I do not subscribe to a supernatural interpretation of God's promises, the return from Babylon remains an important event in Jewish history, marking the restoration of Jewish identity, culture, and political autonomy.
 
 ## Average Grade
-69.16666666666667
+70.0
 
 ## Grades
  * [85.0](./Return_from_Exile_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ In conclusion, while I do not subscribe to a supernatural interpretation of God'
  * [80.0](./Return_from_Exile_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Return_from_Exile_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [30.0](./Return_from_Exile_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Return_from_Exile_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Return_from_Exile_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Return_from_Exile.md)

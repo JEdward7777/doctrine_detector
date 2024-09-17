@@ -21,7 +21,7 @@ On the other hand, "wickedness" often carries a connotation of persistent and de
 In summary, both terms describe moral wrongdoing, but "wickedness" may emphasize the ongoing nature and intentionality of sinful actions. However, it's essential to remember that this is not a strict rule, as usage can vary depending on the context within individual passages or books of the Bible. Ultimately, both concepts underscore the importance of living in obedience to God and avoiding sinful behaviors.
 
 ## Average Grade
-93.33333333333333
+91.25
 
 ## Grades
  * [95.0](./Understanding_Evil_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ In summary, both terms describe moral wrongdoing, but "wickedness" may emphasize
  * [95.0](./Understanding_Evil_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Evil_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [95.0](./Understanding_Evil_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Evil_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Understanding_Evil_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Evil.md)

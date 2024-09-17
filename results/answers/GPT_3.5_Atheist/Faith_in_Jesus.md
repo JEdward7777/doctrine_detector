@@ -19,7 +19,7 @@ From a scholarly and atheistic perspective, the belief in Jesus can be understoo
 It is important to recognize that beliefs about Jesus vary among different Christian denominations and individuals, and some may interpret the concept of "believing in Jesus" in different ways. Ultimately, the meaning of believing in Jesus is a complex and multifaceted concept with deep theological and cultural significance.
 
 ## Average Grade
-64.16666666666667
+66.875
 
 ## Grades
  * [65.0](./Faith_in_Jesus_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ It is important to recognize that beliefs about Jesus vary among different Chris
  * [70.0](./Faith_in_Jesus_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Faith_in_Jesus_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Faith_in_Jesus_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Faith_in_Jesus_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [65.0](./Faith_in_Jesus_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Faith_in_Jesus.md)

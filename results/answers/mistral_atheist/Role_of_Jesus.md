@@ -21,7 +21,7 @@ The role of Jesus in salvation is understood in terms of his atonement for human
 Through faith in Jesus Christ, individuals can be forgiven of their sins and receive eternal life. This concept is expressed in various verses throughout the New Testament, such as John 3:16, Romans 5:8, and Ephesians 2:8-9. It's important to note that interpretations may vary among different Christian denominations and traditions.
 
 ## Average Grade
-92.5
+91.25
 
 ## Grades
  * [95.0](./Role_of_Jesus_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ Through faith in Jesus Christ, individuals can be forgiven of their sins and rec
  * [95.0](./Role_of_Jesus_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Role_of_Jesus_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Role_of_Jesus_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Role_of_Jesus_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Role_of_Jesus_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Role_of_Jesus.md)

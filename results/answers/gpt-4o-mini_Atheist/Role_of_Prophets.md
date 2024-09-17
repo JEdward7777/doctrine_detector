@@ -19,7 +19,7 @@ Prophets also serve to interpret events in light of God's covenant with His peop
 Ultimately, the role of a prophet in the biblical context is multifaceted, encompassing both the duties of a teacher and a challenger, with the aim of guiding people toward a closer relationship with the divine.
 
 ## Average Grade
-86.66666666666667
+86.25
 
 ## Grades
  * [85.0](./Role_of_Prophets_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ Ultimately, the role of a prophet in the biblical context is multifaceted, encom
  * [90.0](./Role_of_Prophets_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Role_of_Prophets_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Role_of_Prophets_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Role_of_Prophets_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Role_of_Prophets_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Role_of_Prophets.md)

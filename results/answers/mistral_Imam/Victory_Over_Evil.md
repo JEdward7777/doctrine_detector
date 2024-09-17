@@ -21,7 +21,7 @@ Lastly, Surah Al-A'raf (7:25) states: "And We will make you to recede from there
 These verses, among others, assure us as Muslims that the ultimate victory belongs to Allah and His righteous servants, and that Shaitan will be defeated in the end. It is our duty to remain steadfast in faith, follow the guidance of the Qur'an and the Sunnah, and seek Allah's mercy and forgiveness in order to attain salvation on Judgment Day.
 
 ## Average Grade
-50.0
+53.75
 
 ## Grades
  * [70.0](./Victory_Over_Evil_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ These verses, among others, assure us as Muslims that the ultimate victory belon
  * [80.0](./Victory_Over_Evil_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [20.0](./Victory_Over_Evil_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [30.0](./Victory_Over_Evil_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Victory_Over_Evil_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Victory_Over_Evil_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Victory_Over_Evil.md)

@@ -21,7 +21,7 @@ In the teachings of Jesus, we see a profound understanding of mercy and forgiven
 Thus, when discussing a person being wrongfully accused, the idea of innocence in biblical teachings conveys not just physical freedom from guilt, but a deeper moral and spiritual integrity that reflects God's justice and truth. It urges believers to act justly and seek truth, advocating for the protection and fair treatment of those who are innocent.
 
 ## Average Grade
-92.5
+91.25
 
 ## Grades
  * [95.0](./Understanding_Innocence_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ Thus, when discussing a person being wrongfully accused, the idea of innocence i
  * [95.0](./Understanding_Innocence_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Innocence_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Understanding_Innocence_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Understanding_Innocence_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Understanding_Innocence_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Innocence.md)

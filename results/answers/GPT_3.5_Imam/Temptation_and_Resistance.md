@@ -19,7 +19,7 @@ One of the core beliefs in Islam is the concept of prophets being free from majo
 It is important to remember that the primary focus of Jesus' mission in Islam is to convey the message of monotheism and submission to Allah, rather than the specific details of his individual encounters with Satan. Muslims believe that Jesus' response to any temptation would align with his dedication to fulfilling the will of Allah and upholding moral integrity.
 
 ## Average Grade
-69.16666666666667
+64.375
 
 ## Grades
  * [70.0](./Temptation_and_Resistance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ It is important to remember that the primary focus of Jesus' mission in Islam is
  * [85.0](./Temptation_and_Resistance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Temptation_and_Resistance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Temptation_and_Resistance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [70.0](./Temptation_and_Resistance_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [30.0](./Temptation_and_Resistance_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Temptation_and_Resistance.md)

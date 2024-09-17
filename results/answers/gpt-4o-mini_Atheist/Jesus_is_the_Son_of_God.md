@@ -17,7 +17,7 @@ Translating the phrase "Jesus is the Son of God" into a Muslim context requires 
 A culturally respectful way to express the essence of Jesus' role in Islam might be: "Jesus is a revered prophet and messenger of God." This maintains the significance of Jesus within Islamic belief while aligning with fundamental Islamic principles regarding God’s nature.
 
 ## Average Grade
-60.0
+65.625
 
 ## Grades
  * [30.0](./Jesus_is_the_Son_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -26,5 +26,7 @@ A culturally respectful way to express the essence of Jesus' role in Islam might
  * [50.0](./Jesus_is_the_Son_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Jesus_is_the_Son_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Jesus_is_the_Son_of_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Jesus_is_the_Son_of_God_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Jesus_is_the_Son_of_God_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Jesus_is_the_Son_of_God.md)

@@ -19,7 +19,7 @@ By understanding Shaddai as a title instead of a proper noun, we acknowledge and
 By preserving these nuances during translation, Bible scholars demonstrate their commitment to fostering inclusivity and promoting understanding among diverse faith groups. In turn, this promotes peace, unity, and harmony within our multicultural society, which are essential values in any democratic nation like the United States.
 
 ## Average Grade
-41.666666666666664
+45.625
 
 ## Grades
  * [40.0](./Significance_of_Names_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ By preserving these nuances during translation, Bible scholars demonstrate their
  * [20.0](./Significance_of_Names_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Significance_of_Names_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./Significance_of_Names_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Significance_of_Names_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [30.0](./Significance_of_Names_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Significance_of_Names.md)

@@ -32,7 +32,7 @@ In Islamic tradition, the Mosaic Covenant is considered an important precedent f
 In conclusion, the laws given to Moses are an integral part of the Mosaic Covenant, which represents a sacred promise made by Allah to Bani Israel. This covenant has far-reaching implications for our understanding of the nature of Allah's relationship with humanity and serves as a foundation for later covenants made with other prophets, including the Prophet Muhammad (peace be upon him).
 
 ## Average Grade
-82.5
+80.0
 
 ## Grades
  * [90.0](./Obeying_God_s_Commands_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -41,5 +41,7 @@ In conclusion, the laws given to Moses are an integral part of the Mosaic Covena
  * [80.0](./Obeying_God_s_Commands_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Obeying_God_s_Commands_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Obeying_God_s_Commands_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Obeying_God_s_Commands_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Obeying_God_s_Commands_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Obeying_God_s_Commands.md)

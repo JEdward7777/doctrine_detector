@@ -15,7 +15,7 @@ To clarify the differences and similarities between these two important theologi
 Thank you for your question. In a general sense, both "propitiation" and "atonement" are terms used in various religious and philosophical contexts to describe the concept of seeking forgiveness or reconciliation for wrongdoing. "Propitiation" often refers to the act of appeasing or satisfying a deity or higher power, while "atonement" typically refers to the process of making amends or restoring harmony after a transgression. Both terms are deeply meaningful to many people and are open to interpretation based on individual beliefs and cultural traditions. It's important to approach discussions about these concepts with sensitivity and respect for diverse perspectives.
 
 ## Average Grade
-80.0
+78.75
 
 ## Grades
  * [80.0](./Relation_to_Atonement_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ Thank you for your question. In a general sense, both "propitiation" and "atonem
  * [85.0](./Relation_to_Atonement_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Relation_to_Atonement_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Relation_to_Atonement_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Relation_to_Atonement_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Relation_to_Atonement_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Relation_to_Atonement.md)

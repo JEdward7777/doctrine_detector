@@ -32,7 +32,7 @@ Certainly! The concept of trespassing is mentioned in various contexts throughou
 In these examples, "trespass" functions as a metaphor for human failings—whether against God's commandments or in our interpersonal relationships. The lessons derived from these instances promote themes of forgiveness, repentance, moral responsibility, and the transformative power of grace, all of which resonate deeply within both spiritual and moral frameworks.
 
 ## Average Grade
-87.0
+87.75
 
 ## Grades
  * [90.0](./Biblical_Examples_of_Trespass_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -41,5 +41,7 @@ In these examples, "trespass" functions as a metaphor for human failings—wheth
  * [92.0](./Biblical_Examples_of_Trespass_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_Examples_of_Trespass_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Biblical_Examples_of_Trespass_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Biblical_Examples_of_Trespass_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Biblical_Examples_of_Trespass_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Biblical_Examples_of_Trespass.md)

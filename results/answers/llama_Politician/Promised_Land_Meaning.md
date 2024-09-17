@@ -25,7 +25,7 @@ In contemporary times, we can draw parallels between the Promised Land and the i
 Let us approach this topic with humility and respect, recognizing that our understanding of the Promised Land must be rooted in its original biblical context while also acknowledging its relevance to contemporary societal concerns. By doing so, we can foster a deeper appreciation for the complexities of history and the shared quest for a brighter future.
 
 ## Average Grade
-84.16666666666667
+81.875
 
 ## Grades
  * [90.0](./Promised_Land_Meaning_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ Let us approach this topic with humility and respect, recognizing that our under
  * [85.0](./Promised_Land_Meaning_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Promised_Land_Meaning_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Promised_Land_Meaning_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Promised_Land_Meaning_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Promised_Land_Meaning_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Promised_Land_Meaning.md)

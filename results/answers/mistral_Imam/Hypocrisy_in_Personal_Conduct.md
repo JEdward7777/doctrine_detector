@@ -31,7 +31,7 @@ Hypocrisy can lead to a loss of integrity and may cause others to question our f
 8. Patience and Perseverance: Understand that the journey towards righteousness is a lifelong process. Be patient with yourself and persevere in your efforts, knowing that Allah will reward your steadfastness.
 
 ## Average Grade
-76.66666666666667
+78.125
 
 ## Grades
  * [75.0](./Hypocrisy_in_Personal_Conduct_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -40,5 +40,7 @@ Hypocrisy can lead to a loss of integrity and may cause others to question our f
  * [80.0](./Hypocrisy_in_Personal_Conduct_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Hypocrisy_in_Personal_Conduct_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Hypocrisy_in_Personal_Conduct_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Hypocrisy_in_Personal_Conduct_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [80.0](./Hypocrisy_in_Personal_Conduct_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Hypocrisy_in_Personal_Conduct.md)

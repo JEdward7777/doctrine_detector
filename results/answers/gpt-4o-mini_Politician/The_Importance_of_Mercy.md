@@ -17,7 +17,7 @@ James 2:13 emphasizes the importance of mercy in relation to judgment, stating t
 In essence, the verse encourages us to practice compassion and kindness, as our willingness to extend mercy to others may influence how mercy is extended to us. This principle promotes a message of empathy, understanding, and the importance of fostering a community where compassion is prioritized. By adopting this mindset, we create an environment that uplifts everyone and strengthens our collective humanity.
 
 ## Average Grade
-86.66666666666667
+86.25
 
 ## Grades
  * [90.0](./The_Importance_of_Mercy_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -26,5 +26,7 @@ In essence, the verse encourages us to practice compassion and kindness, as our 
  * [90.0](./The_Importance_of_Mercy_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./The_Importance_of_Mercy_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./The_Importance_of_Mercy_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./The_Importance_of_Mercy_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./The_Importance_of_Mercy_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/The_Importance_of_Mercy.md)

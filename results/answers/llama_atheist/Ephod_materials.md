@@ -28,7 +28,7 @@ It's worth noting that the exact methods used to create these materials, particu
 As an atheist scholar, I'm interested in the cultural significance of these materials rather than any supposed divine or mystical properties they might possess. The use of expensive and exotic materials like gold and purple wool likely symbolized the high priest's status as a mediator between God and humanity.
 
 ## Average Grade
-75.0
+75.625
 
 ## Grades
  * [75.0](./Ephod_materials_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,5 +37,7 @@ As an atheist scholar, I'm interested in the cultural significance of these mate
  * [75.0](./Ephod_materials_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Ephod_materials_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Ephod_materials_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Ephod_materials_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Ephod_materials_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Ephod_materials.md)

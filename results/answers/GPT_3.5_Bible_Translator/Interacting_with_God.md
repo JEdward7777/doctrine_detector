@@ -27,7 +27,7 @@ As a Christian, we believe that God's will for our lives is ultimately in accord
 In summary, while God's will is ultimately sovereign and unchanging, our responses to Him can impact how we align ourselves with His plans, receive His guidance, and experience His blessings in our lives. By obediently following Him, seeking His wisdom through prayer, exercising faith, repenting of sin, and surrendering to His will, we can more fully participate in the fulfillment of His purposes for us.
 
 ## Average Grade
-90.0
+89.375
 
 ## Grades
  * [90.0](./Interacting_with_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ In summary, while God's will is ultimately sovereign and unchanging, our respons
  * [95.0](./Interacting_with_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Interacting_with_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Interacting_with_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Interacting_with_God_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Interacting_with_God_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Interacting_with_God.md)

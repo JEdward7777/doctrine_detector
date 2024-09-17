@@ -23,7 +23,7 @@ The concept of birthright in the Bible carries significant implications, especia
 By comparing these texts, we see that birthright extends beyond simple lineage; it encapsulates a larger theological principle. A birthright in biblical terms transitions from physical inheritance to spiritual responsibility, urging individuals to acknowledge their identity and the covenantal relationship they bear. The loss or forfeiture of birthright conveys the message of accountability and the consequences of choices made in the face of divine promises. This dynamically shapes family heritage and spiritual legacy in biblical narratives, providing a lens through which to view contemporary issues of identity, privilege, and morality in various cultural contexts.
 
 ## Average Grade
-92.5
+91.25
 
 ## Grades
  * [95.0](./Scriptural_References_4_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ By comparing these texts, we see that birthright extends beyond simple lineage; 
  * [95.0](./Scriptural_References_4_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Scriptural_References_4_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Scriptural_References_4_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Scriptural_References_4_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Scriptural_References_4_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Scriptural_References_4.md)

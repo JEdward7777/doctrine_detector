@@ -21,7 +21,7 @@ God described the sanctuary as a symbol of His presence among His people and as 
 In the Quran, the Islamic holy book, Muslims believe that the sanctuary (Kaaba) in Mecca was originally built by Prophet Ibrahim (Abraham) and his son Ismail (Ishmael), and it has been a place of Muslim pilgrimage since the time of the Prophet Muhammad. The Kaaba is considered the holiest site in Islam, and Muslims face it during their daily prayers (Salah).
 
 ## Average Grade
-74.16666666666667
+76.875
 
 ## Grades
  * [80.0](./Sanctuary_in_the_Old_Testament_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ In the Quran, the Islamic holy book, Muslims believe that the sanctuary (Kaaba) 
  * [85.0](./Sanctuary_in_the_Old_Testament_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Sanctuary_in_the_Old_Testament_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Sanctuary_in_the_Old_Testament_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Sanctuary_in_the_Old_Testament_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Sanctuary_in_the_Old_Testament_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Sanctuary_in_the_Old_Testament.md)

@@ -15,7 +15,7 @@ To help individuals recognize the significance of faith in one's moral conduct.
 The term 'faithless' typically implies a lack of belief or trust in God or a higher power. It suggests that the individual may be skeptical of religious doctrines, may not adhere to the practices of a faith tradition, or may actively reject the notion of divinity altogether. In a broader context, 'faithless' can also indicate betrayal of trust, not just in a religious sense but in relationships or commitments as well. The connotation often leans towards a negative judgment about one’s spiritual or moral standing. However, it's important to consider that interpretations of the term can vary across different cultures and belief systems.
 
 ## Average Grade
-78.33333333333333
+77.5
 
 ## Grades
  * [85.0](./Understanding_Faithlessness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ The term 'faithless' typically implies a lack of belief or trust in God or a hig
  * [90.0](./Understanding_Faithlessness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Understanding_Faithlessness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Understanding_Faithlessness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Understanding_Faithlessness_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Understanding_Faithlessness_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Faithlessness.md)

@@ -21,7 +21,7 @@ These theories range from premillennialism (the belief that Jesus will return be
 It's important to note that these interpretations are not universally accepted within Christianity and often reflect cultural and historical contexts. As an atheistic scholar, my perspective would be to approach such concepts from a skeptical stance, given the lack of empirical evidence or consensus among scholars and religious groups. However, it is essential to respect the diversity of beliefs and maintain open dialogue on this complex topic.
 
 ## Average Grade
-63.333333333333336
+64.375
 
 ## Grades
  * [40.0](./Duration_of_the_Last_Days_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ It's important to note that these interpretations are not universally accepted w
  * [65.0](./Duration_of_the_Last_Days_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Duration_of_the_Last_Days_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Duration_of_the_Last_Days_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Duration_of_the_Last_Days_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Duration_of_the_Last_Days_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Duration_of_the_Last_Days.md)

@@ -25,7 +25,7 @@ The use of "amen" in this way serves a few purposes:
 In the Quran, the concept of truthfulness and the importance of divine authority is also emphasized, although the context and usage may differ from that in the Gospels. Both traditions acknowledge the significance of affirming truth in matters of faith and the centrality of divine messages.
 
 ## Average Grade
-89.16666666666667
+87.5
 
 ## Grades
  * [95.0](./Jesus__Teachings_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ In the Quran, the concept of truthfulness and the importance of divine authority
  * [95.0](./Jesus__Teachings_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Jesus__Teachings_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Jesus__Teachings_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Jesus__Teachings_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [80.0](./Jesus__Teachings_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Jesus__Teachings.md)

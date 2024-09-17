@@ -21,7 +21,7 @@ Additionally, it is essential to clarify that in Islam, associating partners wit
 Therefore, when discussing the term "Son of God" with someone who may have a misconception about its meaning, it is important to emphasize the theological and doctrinal differences between Islam and other faith traditions, and to explain the metaphorical understanding of this term within an Islamic context.
 
 ## Average Grade
-76.66666666666667
+75.625
 
 ## Grades
  * [80.0](./Physical_offspring_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ Therefore, when discussing the term "Son of God" with someone who may have a mis
  * [80.0](./Physical_offspring_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Physical_offspring_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Physical_offspring_of_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Physical_offspring_of_God_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [65.0](./Physical_offspring_of_God_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Physical_offspring_of_God.md)

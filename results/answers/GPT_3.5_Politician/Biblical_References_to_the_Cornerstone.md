@@ -15,7 +15,7 @@ Encouraging believers to explore scripture deepens their understanding of Jesus'
 In Christianity, Jesus is often referred to as the cornerstone based on the verse from the Bible in Ephesians 2:20, which states, "Built on the foundation of the apostles and prophets, Christ Jesus himself being the cornerstone." This metaphor highlights Jesus' central and crucial role in the Christian faith, emphasizing his significance as the foundation and the key element that holds everything together. Additionally, in Acts 4:11, Jesus is described as the cornerstone, further emphasizing his importance and how he is the key to the faith. It is important to note that interpretation of religious texts can vary among different denominations and belief systems, and sensitivity to diverse perspectives is crucial when discussing matters of faith.
 
 ## Average Grade
-90.0
+88.75
 
 ## Grades
  * [90.0](./Biblical_References_to_the_Cornerstone_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ In Christianity, Jesus is often referred to as the cornerstone based on the vers
  * [95.0](./Biblical_References_to_the_Cornerstone_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_References_to_the_Cornerstone_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Biblical_References_to_the_Cornerstone_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Biblical_References_to_the_Cornerstone_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Biblical_References_to_the_Cornerstone_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Biblical_References_to_the_Cornerstone.md)

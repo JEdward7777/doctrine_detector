@@ -29,7 +29,7 @@ In a discussion about the significance of testimony within the context of the Bi
 From an Islamic perspective, the concept of testimony remains vital as well, notably through the Shahada (the testimony of faith), which underscores the importance of acknowledging the oneness of God and the prophethood of Muhammad (peace be upon him). In both traditions, the act of bearing witness carries profound implications for personal faith and community integrity.
 
 ## Average Grade
-86.33333333333333
+86.0
 
 ## Grades
  * [90.0](./Testimony_Meaning_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ From an Islamic perspective, the concept of testimony remains vital as well, not
  * [90.0](./Testimony_Meaning_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Testimony_Meaning_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Testimony_Meaning_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Testimony_Meaning_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Testimony_Meaning_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Testimony_Meaning.md)

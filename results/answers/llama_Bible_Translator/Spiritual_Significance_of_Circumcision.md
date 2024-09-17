@@ -23,7 +23,7 @@ In the New Testament, Jesus Christ is seen as the one who brings about this spir
 In summary, the "circumcision of the heart" in a Christian context represents the spiritual transformation that takes place when one turns away from self-centeredness and towards God-centeredness through faith in Jesus Christ. It symbolizes the internal renewal that comes from having one's heart purified by the Holy Spirit, making it possible for believers to love and obey God with all their hearts, souls, and minds (Mark 12:30).
 
 ## Average Grade
-93.33333333333333
+93.75
 
 ## Grades
  * [95.0](./Spiritual_Significance_of_Circumcision_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ In summary, the "circumcision of the heart" in a Christian context represents th
  * [95.0](./Spiritual_Significance_of_Circumcision_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Spiritual_Significance_of_Circumcision_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Spiritual_Significance_of_Circumcision_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [95.0](./Spiritual_Significance_of_Circumcision_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Spiritual_Significance_of_Circumcision_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Spiritual_Significance_of_Circumcision.md)

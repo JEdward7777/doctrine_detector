@@ -17,7 +17,7 @@ Encouraging personal reflection on one's own spiritual state and awareness of si
 However, when an individual in modern context uses this phrase, it may imply a sense of personal suffering or guilt, acknowledging their own shortcomings and asking for divine intervention or understanding. In both cases, it shows a heightened awareness of personal condition (sinful or afflicted) and a longing for God's mercy and forgiveness.
 
 ## Average Grade
-88.33333333333333
+87.5
 
 ## Grades
  * [95.0](./Personal_Reflection_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -26,5 +26,7 @@ However, when an individual in modern context uses this phrase, it may imply a s
  * [90.0](./Personal_Reflection_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Personal_Reflection_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Personal_Reflection_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Personal_Reflection_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Personal_Reflection_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Personal_Reflection.md)

@@ -27,7 +27,7 @@ Trusting in Jesus, according to Christian teachings, generally involves a deep a
 It’s important to note that interpretations and expressions of this trust can vary among different Christian denominations and cultural contexts, but the core idea remains centered around faith, love, and a desire to follow Jesus' example.
 
 ## Average Grade
-85.83333333333333
+86.25
 
 ## Grades
  * [90.0](./Trust_in_God_2_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ It’s important to note that interpretations and expressions of this trust can 
  * [90.0](./Trust_in_God_2_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Trust_in_God_2_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Trust_in_God_2_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Trust_in_God_2_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Trust_in_God_2_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Trust_in_God_2.md)

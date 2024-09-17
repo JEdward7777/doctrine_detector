@@ -15,7 +15,7 @@ Understanding the significance of reconciliation in the Christian faith.
  As a political figure, I am committed to fostering understanding and unity among all people, regardless of their beliefs. In this context, the phrase "God restoring sinful people back to Himself" is often interpreted as a belief that there is a divine power who offers redemption or forgiveness to individuals who have strayed from a moral path, traditionally due to sinful actions. This concept is deeply personal and varies widely among different religious and philosophical beliefs. It's important to remember that everyone has their own interpretation of these ideas, and it's essential to approach such topics with respect for each other's viewpoints.
 
 ## Average Grade
-57.5
+55.625
 
 ## Grades
  * [40.0](./Restoration_of_Relationships_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ Understanding the significance of reconciliation in the Christian faith.
  * [70.0](./Restoration_of_Relationships_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Restoration_of_Relationships_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./Restoration_of_Relationships_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Restoration_of_Relationships_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [20.0](./Restoration_of_Relationships_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Restoration_of_Relationships.md)

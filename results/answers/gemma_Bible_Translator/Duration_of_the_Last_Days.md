@@ -37,7 +37,7 @@ However, some theologians and scholars suggest possible clues regarding its leng
 While the exact duration of 'the last days' is not explicitly stated in the Bible, it is likely a vast period encompassing both physical and spiritual transformations. The emphasis remains on faithfulness, readiness for Christ's return, and living in light of his imminent coming.
 
 ## Average Grade
-86.66666666666667
+86.25
 
 ## Grades
  * [90.0](./Duration_of_the_Last_Days_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -46,5 +46,7 @@ While the exact duration of 'the last days' is not explicitly stated in the Bibl
  * [85.0](./Duration_of_the_Last_Days_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Duration_of_the_Last_Days_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Duration_of_the_Last_Days_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Duration_of_the_Last_Days_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Duration_of_the_Last_Days_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Duration_of_the_Last_Days.md)

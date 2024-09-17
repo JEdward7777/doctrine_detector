@@ -15,7 +15,7 @@ Recognizing the authorship of Psalms enhances understanding of their messages an
 The Psalms are a collection of sacred texts found in the Bible, traditionally attributed to King David of Israel, with contributions from various authors and scribes. It is important to recognize the diversity of voices and perspectives reflected in the Psalms, which have inspired many individuals and communities across different faith traditions.
 
 ## Average Grade
-80.0
+78.125
 
 ## Grades
  * [70.0](./Authorship_of_Psalms_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ The Psalms are a collection of sacred texts found in the Bible, traditionally at
  * [80.0](./Authorship_of_Psalms_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Authorship_of_Psalms_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Authorship_of_Psalms_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Authorship_of_Psalms_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Authorship_of_Psalms_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Authorship_of_Psalms.md)

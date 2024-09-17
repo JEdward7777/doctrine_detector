@@ -38,7 +38,7 @@ However, Scripture also warns against abusing this dominion. Examples include:
 In conclusion, the Bible teaches that humanity has a sacred responsibility to exercise dominion over the earth in a way that honors God. This includes responsible care for the natural world, reflection of God's character and values, and a recognition of our place within the creation.
 
 ## Average Grade
-95.33333333333333
+94.625
 
 ## Grades
  * [95.0](./Dominion_in_Creation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -47,5 +47,7 @@ In conclusion, the Bible teaches that humanity has a sacred responsibility to ex
  * [97.0](./Dominion_in_Creation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Dominion_in_Creation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [95.0](./Dominion_in_Creation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [95.0](./Dominion_in_Creation_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Dominion_in_Creation_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Dominion_in_Creation.md)

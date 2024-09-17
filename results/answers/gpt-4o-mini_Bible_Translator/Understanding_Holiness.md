@@ -33,7 +33,7 @@ Understanding God’s absolute holiness directly impacts our relationship with H
 In summary, God's absolute holiness is both a reminder of His greatness and a benchmark for human conduct. It aids in understanding the profound nature of sin, the necessity of salvation, and the transformative grace that invites us into a renewed relationship with our Creator. Understanding holiness encourages reverence, prompts confession, and fosters a desire for holiness in our lives.
 
 ## Average Grade
-93.33333333333333
+93.125
 
 ## Grades
  * [95.0](./Understanding_Holiness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -42,5 +42,7 @@ In summary, God's absolute holiness is both a reminder of His greatness and a be
  * [95.0](./Understanding_Holiness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Understanding_Holiness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Understanding_Holiness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Understanding_Holiness_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Understanding_Holiness_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Holiness.md)

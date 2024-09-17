@@ -23,7 +23,7 @@ The title "King of the Jews" was significant because, on one hand, it recognized
 In summary, the title "King of the Jews" held significant meaning in relation to Jesus' identity as the Messiah. The Old Testament Scriptures foretold of a future Jewish king who would rule with wisdom, justice, and righteousness. When Pilate asked if Jesus was a king, His response left open the Messianic interpretation for His followers, fulfilling prophecies and signifying that He came to establish God's Kingdom on earth.
 
 ## Average Grade
-90.83333333333333
+91.25
 
 ## Grades
  * [90.0](./Messianic_Identity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ In summary, the title "King of the Jews" held significant meaning in relation to
  * [95.0](./Messianic_Identity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Messianic_Identity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Messianic_Identity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [95.0](./Messianic_Identity_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Messianic_Identity_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Messianic_Identity.md)

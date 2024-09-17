@@ -17,7 +17,7 @@ Understanding the meaning and significance of the term 'sanctuary' in the Biblic
 In more modern contexts, "sanctuary" may be used metaphorically to refer to a safe place or refuge for people fleeing danger, which has been adopted in discussions surrounding immigration policy where "sanctuary cities" are those offering protection to undocumented immigrants facing potential deportation. As a politically correct individual, it's crucial to acknowledge and respect the multiple connotations of this term across cultures, religions, and political discourses.
 
 ## Average Grade
-68.33333333333333
+70.0
 
 ## Grades
  * [70.0](./Sanctuary_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -26,5 +26,7 @@ In more modern contexts, "sanctuary" may be used metaphorically to refer to a sa
  * [60.0](./Sanctuary_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Sanctuary_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Sanctuary_Definition_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Sanctuary_Definition_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [65.0](./Sanctuary_Definition_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Sanctuary_Definition.md)

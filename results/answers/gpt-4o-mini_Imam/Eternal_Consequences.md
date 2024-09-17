@@ -29,7 +29,7 @@ In Islamic theology, those described as "perishing" (or "ahl al-halak") typicall
 It is essential to remember that Allah is described as "Most Merciful" and "Most Compassionate." Islam encourages seeking forgiveness and turning back to Allah, as no one can judge the ultimate fate of others, and abundant mercy awaits those who repent sincerely. Therefore, while the consequences for those described as 'perishing' are severe, the door for repentance and forgiveness remains open for those who seek it.
 
 ## Average Grade
-83.33333333333333
+81.875
 
 ## Grades
  * [90.0](./Eternal_Consequences_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ It is essential to remember that Allah is described as "Most Merciful" and "Most
  * [85.0](./Eternal_Consequences_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Eternal_Consequences_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Eternal_Consequences_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Eternal_Consequences_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Eternal_Consequences_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Eternal_Consequences.md)

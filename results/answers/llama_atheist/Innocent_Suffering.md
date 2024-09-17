@@ -29,7 +29,7 @@ In the context of Christian theology, Jesus' teachings on love, forgiveness, and
 In conclusion, the biblical concept of "innocent blood" serves as a powerful reminder of the sacred value of human life. It emphasizes that every individual is created in God's image and deserves to be treated with dignity, respect, and compassion. As such, it provides a theological foundation for affirming the inherent worth and dignity of all people, regardless of their background or circumstances.
 
 ## Average Grade
-95.0
+93.125
 
 ## Grades
  * [95.0](./Innocent_Suffering_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ In conclusion, the biblical concept of "innocent blood" serves as a powerful rem
  * [95.0](./Innocent_Suffering_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Innocent_Suffering_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [95.0](./Innocent_Suffering_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Innocent_Suffering_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Innocent_Suffering_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Innocent_Suffering.md)

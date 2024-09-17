@@ -31,7 +31,7 @@ These responsibilities demonstrate the importance of scribes in preserving the O
 In this context, the role of scribes in preserving the Old Testament scriptures is a testament to human ingenuity and dedication. While I may not share religious beliefs, I acknowledge the remarkable cultural achievement of preserving these ancient texts, which have had a profound impact on Western civilization.
 
 ## Average Grade
-75.0
+74.375
 
 ## Grades
  * [85.0](./Role_of_Scribes_in_the_Old_Testament_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -40,5 +40,7 @@ In this context, the role of scribes in preserving the Old Testament scriptures 
  * [70.0](./Role_of_Scribes_in_the_Old_Testament_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Role_of_Scribes_in_the_Old_Testament_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Role_of_Scribes_in_the_Old_Testament_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Role_of_Scribes_in_the_Old_Testament_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Role_of_Scribes_in_the_Old_Testament_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Role_of_Scribes_in_the_Old_Testament.md)

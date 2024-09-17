@@ -17,7 +17,7 @@ Jesus' followers were first called "Christians" in the city of Antioch. This is 
 This designation reflects the followers' belief in Jesus as the Christ (or Messiah), and it marked a significant point in the early development of what would become Christianity as a distinct faith tradition.
 
 ## Average Grade
-91.66666666666667
+91.25
 
 ## Grades
  * [95.0](./Origin_of_the_Term_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -26,5 +26,7 @@ This designation reflects the followers' belief in Jesus as the Christ (or Messi
  * [95.0](./Origin_of_the_Term_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Origin_of_the_Term_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Origin_of_the_Term_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Origin_of_the_Term_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Origin_of_the_Term_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Origin_of_the_Term.md)

@@ -21,7 +21,7 @@ Understanding the significance of the term 'Lord' in relation to Jesus and God i
 Thus, while both God the Father and Jesus Christ are referred to as "Lord," their roles, characteristics, and relationship to humanity differ significantly. As Christians, it is essential to understand these nuances and avoid conflating the two in our faith and doctrine.
 
 ## Average Grade
-87.5
+88.125
 
 ## Grades
  * [95.0](./Understanding_Lordship_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ Thus, while both God the Father and Jesus Christ are referred to as "Lord," thei
  * [90.0](./Understanding_Lordship_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Understanding_Lordship_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Understanding_Lordship_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Lordship_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Understanding_Lordship_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Lordship.md)

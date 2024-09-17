@@ -19,7 +19,7 @@ The Bible teaches that marriage is a sacred covenant between one man and one wom
 The Bible clearly condemns unfaithful behavior, as it violates the trust and commitment within the marriage relationship. God's Word teaches that faithfulness is essential for maintaining a healthy and fulfilling marriage (1 Corinthians 7:3-5).
 
 ## Average Grade
-85.0
+86.875
 
 ## Grades
  * [90.0](./Adultery_and_Unfaithfulness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ The Bible clearly condemns unfaithful behavior, as it violates the trust and com
  * [90.0](./Adultery_and_Unfaithfulness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Adultery_and_Unfaithfulness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Adultery_and_Unfaithfulness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Adultery_and_Unfaithfulness_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Adultery_and_Unfaithfulness_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Adultery_and_Unfaithfulness.md)

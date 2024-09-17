@@ -19,7 +19,7 @@ When we are gracious towards others, we are demonstrating love and forgiveness, 
 Being gracious in our interactions with others can lead to building meaningful relationships, fostering reconciliation, and showing others the love of Christ. It is a way to live out our faith and reflect the character of God to those around us.
 
 ## Average Grade
-90.33333333333333
+89.625
 
 ## Grades
  * [95.0](./Being_Gracious_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ Being gracious in our interactions with others can lead to building meaningful r
  * [92.0](./Being_Gracious_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Being_Gracious_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Being_Gracious_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Being_Gracious_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Being_Gracious_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Being_Gracious.md)

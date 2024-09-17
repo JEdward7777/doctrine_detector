@@ -29,7 +29,7 @@ In summary, while we can't know the precise reasons behind Jesus' choice of twel
 As an atheist, I'm not invested in defending or promoting any particular theological perspective. Instead, my goal is to provide a nuanced and culturally informed analysis that can help us better understand the historical context in which Jesus chose his twelve apostles.
 
 ## Average Grade
-60.833333333333336
+63.75
 
 ## Grades
  * [50.0](./Discipleship_Importance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ As an atheist, I'm not invested in defending or promoting any particular theolog
  * [50.0](./Discipleship_Importance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Discipleship_Importance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Discipleship_Importance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Discipleship_Importance_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Discipleship_Importance_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Discipleship_Importance.md)

@@ -27,7 +27,7 @@ Lastly, Pentecost played a crucial role in shaping early Christian identity. By 
 In conclusion, while the supernatural aspects of Pentecost are undoubtedly significant for Christian theology, I believe its cultural and historical context is equally important. By situating this event within Jewish tradition and the early Christian community's development, we can better understand how Pentecost became a cornerstone of Christian identity and practice in the New Testament.
 
 ## Average Grade
-85.33333333333333
+83.375
 
 ## Grades
  * [90.0](./Significance_of_Pentecost_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ In conclusion, while the supernatural aspects of Pentecost are undoubtedly signi
  * [92.0](./Significance_of_Pentecost_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Significance_of_Pentecost_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Significance_of_Pentecost_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Significance_of_Pentecost_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Significance_of_Pentecost_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Significance_of_Pentecost.md)

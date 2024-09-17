@@ -44,7 +44,7 @@ The shift in translation from "chosen" to "picked out" or "set apart" highlights
 The translation of "elect" in older and modern English Bible versions reflects changing cultural contexts. While older versions carry the weight of their historical language, modern translations prioritize clarity and inclusivity, offering a more accessible and nuanced understanding of God's action in Scripture.
 
 ## Average Grade
-90.5
+89.75
 
 ## Grades
  * [90.0](./Translation_of__Elect__grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -53,5 +53,7 @@ The translation of "elect" in older and modern English Bible versions reflects c
  * [90.0](./Translation_of__Elect__grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Translation_of__Elect__grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [88.0](./Translation_of__Elect__grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Translation_of__Elect__grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Translation_of__Elect__grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Translation_of__Elect_.md)

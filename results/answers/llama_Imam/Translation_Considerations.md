@@ -25,7 +25,7 @@ However, it is essential to recognize that these terms may have different connot
 In conclusion, retaining the terms "Zion" and "Daughter" in translations of Biblical texts is important for preserving the original meaning, honoring the biblical narrative, and facilitating interfaith dialogue. Nevertheless, it is vital to consider these terms within their specific cultural and theological contexts, taking care not to perpetuate misunderstandings or misinterpretations between Muslims and Christians.
 
 ## Average Grade
-82.5
+80.0
 
 ## Grades
  * [70.0](./Translation_Considerations_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ In conclusion, retaining the terms "Zion" and "Daughter" in translations of Bibl
  * [90.0](./Translation_Considerations_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Translation_Considerations_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Translation_Considerations_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Translation_Considerations_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Translation_Considerations_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Translation_Considerations.md)

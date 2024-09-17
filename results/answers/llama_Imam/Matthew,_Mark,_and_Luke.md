@@ -35,7 +35,7 @@ Note that these accounts may have some variations in the order or inclusion of c
 Remember, as Muslims, we do not believe that Jesus was a prophet sent by God nor do we accept him as a messenger. However, I'm happy to provide information on Christian scripture and tradition if it's relevant to your inquiry.
 
 ## Average Grade
-85.83333333333333
+83.75
 
 ## Grades
  * [75.0](./Matthew,_Mark,_and_Luke_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -44,5 +44,7 @@ Remember, as Muslims, we do not believe that Jesus was a prophet sent by God nor
  * [90.0](./Matthew,_Mark,_and_Luke_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Matthew,_Mark,_and_Luke_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Matthew,_Mark,_and_Luke_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Matthew,_Mark,_and_Luke_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Matthew,_Mark,_and_Luke_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Matthew,_Mark,_and_Luke.md)

@@ -19,7 +19,7 @@ In many religious teachings, idolatry is seen as a significant spiritual misstep
 Ultimately, the perspective on demons and their role in idolatry varies widely among different cultures and religious practices. It is crucial to approach these topics with sensitivity and respect for diverse beliefs while fostering a dialogue that promotes understanding and unity among varying viewpoints.
 
 ## Average Grade
-85.0
+81.25
 
 ## Grades
  * [90.0](./Spiritual_Deceit_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ Ultimately, the perspective on demons and their role in idolatry varies widely a
  * [90.0](./Spiritual_Deceit_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Spiritual_Deceit_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [65.0](./Spiritual_Deceit_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Spiritual_Deceit_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Spiritual_Deceit_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Spiritual_Deceit.md)

@@ -27,7 +27,7 @@ The laws given to Moses served several purposes within the covenant relationship
 In summary, the laws given to Moses were an essential part of the covenant between God and His people, serving to guide, define, and reveal God's expectations for His chosen people while also pointing to the need for a Savior who would ultimately fulfill the requirements of the law.
 
 ## Average Grade
-93.33333333333333
+91.25
 
 ## Grades
  * [95.0](./Obeying_God_s_Commands_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ In summary, the laws given to Moses were an essential part of the covenant betwe
  * [95.0](./Obeying_God_s_Commands_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Obeying_God_s_Commands_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Obeying_God_s_Commands_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Obeying_God_s_Commands_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Obeying_God_s_Commands_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Obeying_God_s_Commands.md)

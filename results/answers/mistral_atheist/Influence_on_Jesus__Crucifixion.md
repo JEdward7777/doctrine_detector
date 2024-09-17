@@ -25,7 +25,7 @@ The character of the Sadducees and Pharisees, as revealed through their involvem
 Ultimately, the trial and crucifixion of Jesus offer valuable insights into the dynamics of Jewish society during this period, including the tensions between different religious groups, the role of political power, and the challenges faced by those who sought to question or challenge traditional beliefs.
 
 ## Average Grade
-75.83333333333333
+75.0
 
 ## Grades
  * [70.0](./Influence_on_Jesus__Crucifixion_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ Ultimately, the trial and crucifixion of Jesus offer valuable insights into the 
  * [75.0](./Influence_on_Jesus__Crucifixion_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Influence_on_Jesus__Crucifixion_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Influence_on_Jesus__Crucifixion_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Influence_on_Jesus__Crucifixion_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Influence_on_Jesus__Crucifixion_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Influence_on_Jesus__Crucifixion.md)

@@ -25,7 +25,7 @@ This question examines how cultural norms influence faith communities and their 
 These cultural practices had a significant impact on early Christian practices by establishing foundational beliefs, shaping interactions with non-Christians, and defining essential religious practices. However, it's important to note that Christianity eventually evolved into its own distinct religion, influenced by various cultures and contexts as it spread throughout the world.
 
 ## Average Grade
-88.33333333333333
+88.125
 
 ## Grades
  * [85.0](./Cultural_Practices_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ These cultural practices had a significant impact on early Christian practices b
  * [85.0](./Cultural_Practices_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Cultural_Practices_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Cultural_Practices_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Cultural_Practices_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Cultural_Practices_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Cultural_Practices.md)

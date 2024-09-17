@@ -21,7 +21,7 @@ Furthermore, forgiveness fosters reconciliation and restores relationships. By f
 Ultimately, forgiveness is a critical aspect of loving others in the biblical context because it embodies the selfless, sacrificial love that Jesus demonstrated for us on the cross. As Christians, we are called to extend forgiveness to others as an expression of the love and grace that God has lavished upon us.
 
 ## Average Grade
-91.66666666666667
+91.875
 
 ## Grades
  * [90.0](./Love_and_Forgiveness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ Ultimately, forgiveness is a critical aspect of loving others in the biblical co
  * [95.0](./Love_and_Forgiveness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Love_and_Forgiveness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Love_and_Forgiveness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Love_and_Forgiveness_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Love_and_Forgiveness_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Love_and_Forgiveness.md)

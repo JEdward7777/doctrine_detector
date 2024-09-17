@@ -50,7 +50,7 @@ While different forms of love exist, Islamic principles guide individuals to pri
 In the Islamic context, love is a multifaceted concept that encompasses love for Allah, fellow Muslims, and humanity. Different forms of love are complementary and should be nurtured in accordance with Islamic principles. The Quran and Sunnah provide guidance on expressing love in ways that align with faith and ethics.
 
 ## Average Grade
-75.0
+72.5
 
 ## Grades
  * [90.0](./Types_of_Love_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -59,5 +59,7 @@ In the Islamic context, love is a multifaceted concept that encompasses love for
  * [90.0](./Types_of_Love_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Types_of_Love_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Types_of_Love_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Types_of_Love_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Types_of_Love_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Types_of_Love.md)

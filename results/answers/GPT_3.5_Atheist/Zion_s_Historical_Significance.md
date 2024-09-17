@@ -17,7 +17,7 @@ Mount Zion holds great historical significance in relation to King David, as it 
 From a cultural perspective, Mount Zion became a symbol of royal power and divine favor in the Judeo-Christian tradition. It was associated with the presence of God and was later revered as the site of Solomon's Temple. The historical connection between King David and Mount Zion is an important aspect of Jewish and Christian religious heritage, shaping their beliefs and practices over the centuries.
 
 ## Average Grade
-88.33333333333333
+86.875
 
 ## Grades
  * [85.0](./Zion_s_Historical_Significance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -26,5 +26,7 @@ From a cultural perspective, Mount Zion became a symbol of royal power and divin
  * [95.0](./Zion_s_Historical_Significance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Zion_s_Historical_Significance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Zion_s_Historical_Significance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Zion_s_Historical_Significance_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [80.0](./Zion_s_Historical_Significance_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Zion_s_Historical_Significance.md)

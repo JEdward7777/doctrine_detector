@@ -25,7 +25,7 @@ In Christian scriptures (New Testament), guilt is often linked to the concept of
 In conclusion, biblical notions of guilt emphasize the importance of moral and ethical responsibility within the context of ancient Israelite society. The concept is closely tied to ideas of avon, reparation, and sin, highlighting the need for atonement and restoration when one fails to meet God's standards. As an atheist scholar, I approach these concepts with a critical eye, recognizing their cultural and historical contexts while acknowledging the ongoing influence they continue to exert on Western moral and ethical discourse.
 
 ## Average Grade
-66.66666666666667
+68.75
 
 ## Grades
  * [50.0](./Understanding_Guilt_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ In conclusion, biblical notions of guilt emphasize the importance of moral and e
  * [80.0](./Understanding_Guilt_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Guilt_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Understanding_Guilt_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Guilt_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [65.0](./Understanding_Guilt_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Guilt.md)

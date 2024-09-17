@@ -16,7 +16,7 @@ Exploring the implications of spiritual separation from God.
    However, it's essential to remember that religious beliefs can vary greatly among different individuals and denominations within Christianity, so it's important to approach these topics with sensitivity and respect for diversity in interpretation. If you have specific questions or need further clarification on the spiritual implications of perishing according to a particular Christian tradition, I would be happy to help you explore that.
 
 ## Average Grade
-86.66666666666667
+86.875
 
 ## Grades
  * [85.0](./Understanding_Perish_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -25,5 +25,7 @@ Exploring the implications of spiritual separation from God.
  * [85.0](./Understanding_Perish_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Perish_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Understanding_Perish_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Perish_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Understanding_Perish_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Perish.md)

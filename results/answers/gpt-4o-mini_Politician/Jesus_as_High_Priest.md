@@ -21,7 +21,7 @@ For those in the faith community, this understanding can foster a deep sense of 
 Ultimately, discussing these theological concepts requires sensitivity, as interpretations and beliefs can vary widely among different religious traditions and denominations. It is always important to approach such discussions with respect and an open mind to foster understanding and dialogue.
 
 ## Average Grade
-91.16666666666667
+89.625
 
 ## Grades
  * [90.0](./Jesus_as_High_Priest_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ Ultimately, discussing these theological concepts requires sensitivity, as inter
  * [95.0](./Jesus_as_High_Priest_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Jesus_as_High_Priest_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Jesus_as_High_Priest_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Jesus_as_High_Priest_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Jesus_as_High_Priest_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Jesus_as_High_Priest.md)

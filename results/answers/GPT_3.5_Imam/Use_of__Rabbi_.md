@@ -19,7 +19,7 @@ As for the title "Rabbi," which means teacher or master in Hebrew, it is not spe
 Overall, both John the Baptist and Jesus are revered figures in Islam, with their teachings and examples serving as inspiration for Muslims to lead a righteous and devout life.
 
 ## Average Grade
-60.833333333333336
+60.625
 
 ## Grades
  * [70.0](./Use_of__Rabbi__grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ Overall, both John the Baptist and Jesus are revered figures in Islam, with thei
  * [75.0](./Use_of__Rabbi__grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Use_of__Rabbi__grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [25.0](./Use_of__Rabbi__grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [70.0](./Use_of__Rabbi__grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Use_of__Rabbi__grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Use_of__Rabbi_.md)

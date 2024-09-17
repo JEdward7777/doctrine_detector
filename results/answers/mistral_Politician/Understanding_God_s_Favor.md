@@ -29,7 +29,7 @@ Christians should strive to emulate the qualities of Jesus that led to Him being
 In conclusion, Jesus demonstrated favor with God by living a sinless life, teaching with authority, performing miracles, showing love towards all people, dying on the cross for the sins of mankind, and resurrecting from the dead. His actions and teachings continue to inspire millions around the world today.
 
 ## Average Grade
-89.16666666666667
+89.375
 
 ## Grades
  * [95.0](./Understanding_God_s_Favor_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ In conclusion, Jesus demonstrated favor with God by living a sinless life, teach
  * [90.0](./Understanding_God_s_Favor_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_God_s_Favor_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Understanding_God_s_Favor_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Understanding_God_s_Favor_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Understanding_God_s_Favor_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_God_s_Favor.md)

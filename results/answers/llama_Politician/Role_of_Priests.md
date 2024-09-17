@@ -27,7 +27,7 @@ Now, I must emphasize that these responsibilities were primarily entrusted to me
 As we move forward in our understanding of the Old Testament, it's crucial to acknowledge both the historical context and the cultural nuances that shaped the roles of priests. By doing so, we can work towards a more inclusive and respectful appreciation for the diverse contributions of individuals from all walks of life.
 
 ## Average Grade
-86.66666666666667
+84.375
 
 ## Grades
  * [90.0](./Role_of_Priests_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ As we move forward in our understanding of the Old Testament, it's crucial to ac
  * [90.0](./Role_of_Priests_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Role_of_Priests_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Role_of_Priests_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Role_of_Priests_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [65.0](./Role_of_Priests_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Role_of_Priests.md)

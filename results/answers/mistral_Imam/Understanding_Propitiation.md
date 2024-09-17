@@ -21,7 +21,7 @@ However, some Sufi or mystical interpretations may refer to the spiritual sacrif
 It's always important to remember that interpretations can vary among different Islamic scholars and traditions, and this response is intended to provide a general overview. For more specific or personal matters, it's always best to consult with a knowledgeable scholar or religious authority.
 
 ## Average Grade
-43.333333333333336
+45.0
 
 ## Grades
  * [30.0](./Understanding_Propitiation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ It's always important to remember that interpretations can vary among different 
  * [60.0](./Understanding_Propitiation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Understanding_Propitiation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./Understanding_Propitiation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Understanding_Propitiation_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [20.0](./Understanding_Propitiation_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Propitiation.md)

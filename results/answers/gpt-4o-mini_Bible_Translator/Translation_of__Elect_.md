@@ -26,7 +26,7 @@ The translation of the term "elect" in the Bible has evolved from older English 
 In summary, the translation of "elect" across different versions reveals shifts in understanding that influence how contemporary readers engage with theological concepts. Recognizing these differences can lead to more informed discussions about the nature of God's choosing and its implications for believers today.
 
 ## Average Grade
-87.83333333333333
+87.75
 
 ## Grades
  * [90.0](./Translation_of__Elect__grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,5 +35,7 @@ In summary, the translation of "elect" across different versions reveals shifts 
  * [90.0](./Translation_of__Elect__grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Translation_of__Elect__grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Translation_of__Elect__grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Translation_of__Elect__grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Translation_of__Elect__grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Translation_of__Elect_.md)

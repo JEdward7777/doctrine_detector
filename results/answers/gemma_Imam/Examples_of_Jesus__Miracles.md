@@ -51,7 +51,7 @@ The Quran acknowledges Jesus as a messenger of God and some of his miracles hold
 **Note:** While Islamic tradition recognizes some of Jesus' miracles, interpretations and details may differ from Christianity.
 
 ## Average Grade
-79.16666666666667
+77.5
 
 ## Grades
  * [85.0](./Examples_of_Jesus__Miracles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -60,5 +60,7 @@ The Quran acknowledges Jesus as a messenger of God and some of his miracles hold
  * [90.0](./Examples_of_Jesus__Miracles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Examples_of_Jesus__Miracles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Examples_of_Jesus__Miracles_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Examples_of_Jesus__Miracles_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [65.0](./Examples_of_Jesus__Miracles_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Examples_of_Jesus__Miracles.md)

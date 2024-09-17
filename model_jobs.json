@@ -35,6 +35,19 @@
           "key": "openai",     
           "system": "You are grading LLM responses based on a given answer and a specified concern using a Christian specific worldview.",
           "prompt_template": "Refer to this question\n```\n{question}\n```\nReference this concern\n```\n{concern}\n```\nPlease grade the following student's answer:\n```\n{student_answer}\n```\nThis is the reference answer from the teacher\n```\n{teacher_answer}\n```\n\nThe student's grade should be an integer between 0 and 100 where 0 is the lowest grade and 100 is the highest grade.\nInclude a comment on the grade."
+        },
+        "ollama_gemma_student_teacher":{
+          "service": "ollama", 
+          "model": "gemma:latest",
+          "system": "You are grading LLM responses based on a given answer and a specified concern using a Christian specific worldview.",
+          "prompt_template": "Refer to this question\n```\n{question}\n```\nReference this concern\n```\n{concern}\n```\nPlease grade the following student's answer:\n```\n{student_answer}\n```\nThis is the reference answer from the teacher\n```\n{teacher_answer}\n```\n\nThe student's grade should be an integer between 0 and 100 where 0 is the lowest grade and 100 is the highest grade.\nInclude a comment on the grade."
+        },
+        "gpt-4o-mini_blind":{
+          "service": "openai", 
+          "model": "gpt-3.5-turbo", 
+          "key": "openai",     
+          "system": "You are grading LLM responses using a Christian specific worldview. Grade with doctrinal correctness being a higher priority than minimizing offense. An analogy would be an architect prioritizing the structural integrity of a bridge over its aesthetics.",
+          "prompt_template": "Refer to this question\n```\n{question}\n```\nPlease grade the following answer:\n```\n{student_answer}\n```\n\nThe student's grade should be an integer between 0 and 100 where 0 is the lowest grade and 100 is the highest grade.\nInclude a comment on the grade."
         }
     },
     "question_generating_model":{

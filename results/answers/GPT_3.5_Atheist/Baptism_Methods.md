@@ -25,7 +25,7 @@ Interpretations of these different methods of baptism vary among Christian denom
 Ultimately, the method of baptism holds significance within the specific theological and cultural context of a Christian tradition. Different denominations may prioritize different methods based on their understanding of biblical teachings and historical practices.
 
 ## Average Grade
-88.33333333333333
+86.875
 
 ## Grades
  * [85.0](./Baptism_Methods_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ Ultimately, the method of baptism holds significance within the specific theolog
  * [90.0](./Baptism_Methods_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Baptism_Methods_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Baptism_Methods_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Baptism_Methods_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [80.0](./Baptism_Methods_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Baptism_Methods.md)

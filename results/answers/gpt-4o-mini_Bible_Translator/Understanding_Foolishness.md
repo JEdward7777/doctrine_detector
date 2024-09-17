@@ -27,7 +27,7 @@ In the Bible, a fool is often defined in relation to belief and obedience to God
 In summary, in the biblical context, a fool is someone who does not believe in God, rejects wisdom and instruction, acts in disobedience to God's commandments, lacks foresight about the consequences of their actions, and generally displays spiritual ignorance. The contrast between the wise and the fool emphasizes the importance of faith, obedience, and a life guided by God's truth.
 
 ## Average Grade
-91.66666666666667
+91.875
 
 ## Grades
  * [95.0](./Understanding_Foolishness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ In summary, in the biblical context, a fool is someone who does not believe in G
  * [95.0](./Understanding_Foolishness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Foolishness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Understanding_Foolishness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Understanding_Foolishness_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Understanding_Foolishness_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Foolishness.md)

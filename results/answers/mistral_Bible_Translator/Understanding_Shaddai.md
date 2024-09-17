@@ -19,7 +19,7 @@ The term 'Shaddai' is often translated as "Almighty God" or "God of the Mountain
 In context, 'Shaddai' emphasizes God's supreme power, omnipotence, and sovereignty over all things. It serves to remind His people of His mighty deeds and to inspire awe, trust, and obedience in those who encounter Him.
 
 ## Average Grade
-89.16666666666667
+88.125
 
 ## Grades
  * [95.0](./Understanding_Shaddai_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ In context, 'Shaddai' emphasizes God's supreme power, omnipotence, and sovereign
  * [90.0](./Understanding_Shaddai_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Shaddai_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Understanding_Shaddai_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Understanding_Shaddai_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Understanding_Shaddai_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Shaddai.md)

@@ -31,7 +31,7 @@ Distinguishing between a true prophet of God and a false prophet is an important
 In summary, discernment is crucial. Believers are encouraged to pray for wisdom and guidance and to be rooted in the study of Scripture to effectively evaluate the messages and the lives of those who claim to be prophets.
 
 ## Average Grade
-90.0
+90.625
 
 ## Grades
  * [90.0](./True_vs_False_Prophets_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -40,5 +40,7 @@ In summary, discernment is crucial. Believers are encouraged to pray for wisdom 
  * [90.0](./True_vs_False_Prophets_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./True_vs_False_Prophets_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./True_vs_False_Prophets_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./True_vs_False_Prophets_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./True_vs_False_Prophets_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/True_vs_False_Prophets.md)

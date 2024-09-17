@@ -23,7 +23,7 @@ However, it is important to note that this account comes from a Jewish and Chris
 In summary, according to biblical accounts, the Israelites stopped using the Tabernacle upon entering the Promised Land and establishing a permanent sanctuary in Jerusalem. This timeline does not align with the Islamic narrative of Prophet Moses' life and times.
 
 ## Average Grade
-86.66666666666667
+84.375
 
 ## Grades
  * [90.0](./Transition_from_Tabernacle_to_Temple_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ In summary, according to biblical accounts, the Israelites stopped using the Tab
  * [90.0](./Transition_from_Tabernacle_to_Temple_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Transition_from_Tabernacle_to_Temple_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Transition_from_Tabernacle_to_Temple_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Transition_from_Tabernacle_to_Temple_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Transition_from_Tabernacle_to_Temple_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Transition_from_Tabernacle_to_Temple.md)

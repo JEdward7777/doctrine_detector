@@ -17,7 +17,7 @@ The biblical concept of reconciliation through Jesus Christ teaches that through
 From an atheistic perspective, the idea of reconciliation through Jesus Christ is a culturally retributed belief that provides comfort and a sense of forgiveness for those who adhere to it. It offers a framework for understanding and addressing the consequences of sin, providing a moral compass and a path towards redemption for those who seek it. While atheists may not share the belief in Jesus as a divine savior, they can still appreciate the significance of reconciliation and forgiveness in ethical and interpersonal relationships.
 
 ## Average Grade
-85.83333333333333
+82.5
 
 ## Grades
  * [90.0](./Understanding_Reconciliation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -26,5 +26,7 @@ From an atheistic perspective, the idea of reconciliation through Jesus Christ i
  * [90.0](./Understanding_Reconciliation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Reconciliation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Understanding_Reconciliation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Reconciliation_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Understanding_Reconciliation_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Reconciliation.md)

@@ -27,7 +27,7 @@ While both concepts of redemption involve the ideas of restoration and recovery,
 Both concepts, however, can be tied together through the overarching theme of God's mercy and the restoration of His people, whether in a spiritual or societal context. In Islam as well, redemption and the mercy of Allah play crucial roles in the belief of salvation and forgiveness, reflecting a similar concern for justice and moral rectitude within the community.
 
 ## Average Grade
-83.33333333333333
+82.5
 
 ## Grades
  * [90.0](./Redemption_Concept_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ Both concepts, however, can be tied together through the overarching theme of Go
  * [90.0](./Redemption_Concept_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Redemption_Concept_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Redemption_Concept_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Redemption_Concept_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [75.0](./Redemption_Concept_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Redemption_Concept.md)

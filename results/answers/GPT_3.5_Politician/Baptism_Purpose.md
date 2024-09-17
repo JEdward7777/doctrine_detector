@@ -15,7 +15,7 @@ Understanding the importance of baptism in the Christian faith.
 In discussing the significance of baptism in the Christian faith, it is important to recognize that there are varying interpretations among different Christian denominations. Generally speaking, baptism is viewed as a sacred and meaningful rite that symbolizes purification, rebirth, and initiation into the Christian community. It is often seen as a symbol of spiritual cleansing, forgiveness of sins, and acceptance into the family of God. Additionally, for many Christians, baptism is seen as an outward expression of one's inner faith and commitment to following the teachings of Jesus Christ.
 
 ## Average Grade
-85.0
+83.125
 
 ## Grades
  * [90.0](./Baptism_Purpose_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ In discussing the significance of baptism in the Christian faith, it is importan
  * [90.0](./Baptism_Purpose_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Baptism_Purpose_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Baptism_Purpose_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Baptism_Purpose_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Baptism_Purpose_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Baptism_Purpose.md)

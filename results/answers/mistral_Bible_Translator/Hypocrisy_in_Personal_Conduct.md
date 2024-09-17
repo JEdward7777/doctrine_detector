@@ -35,7 +35,7 @@ Hypocrisy can lead to a loss of integrity and may cause others to question our f
 10. Seek accountability: By having someone hold us accountable, we can remain focused on living according to our faith and avoid slipping into hypocrisy. Accountability partners can provide encouragement, support, and help keep us on the right path.
 
 ## Average Grade
-87.5
+86.875
 
 ## Grades
  * [90.0](./Hypocrisy_in_Personal_Conduct_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -44,5 +44,7 @@ Hypocrisy can lead to a loss of integrity and may cause others to question our f
  * [90.0](./Hypocrisy_in_Personal_Conduct_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Hypocrisy_in_Personal_Conduct_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Hypocrisy_in_Personal_Conduct_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Hypocrisy_in_Personal_Conduct_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [80.0](./Hypocrisy_in_Personal_Conduct_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Hypocrisy_in_Personal_Conduct.md)

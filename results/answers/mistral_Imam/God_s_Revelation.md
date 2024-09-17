@@ -17,7 +17,7 @@ Recognizing the importance of His revelation in understanding God's character an
 In Islamic tradition, Muslims believe in the same God mentioned throughout the Bible. In Arabic, Muslims know God by the name "Allah" (the Arabic word for God). The meaning of Allah encompasses the qualities of the One and Only deity who is self-sustaining, omniscient, omnipotent, merciful, just, and compassionate. In the Quran, Allah introduces Himself in various verses, emphasizing His attributes and unique position as the Creator, Sustainer, and Judge of all that exists.
 
 ## Average Grade
-74.16666666666667
+75.625
 
 ## Grades
  * [80.0](./God_s_Revelation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -26,5 +26,7 @@ In Islamic tradition, Muslims believe in the same God mentioned throughout the B
  * [90.0](./God_s_Revelation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./God_s_Revelation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./God_s_Revelation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./God_s_Revelation_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [75.0](./God_s_Revelation_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/God_s_Revelation.md)

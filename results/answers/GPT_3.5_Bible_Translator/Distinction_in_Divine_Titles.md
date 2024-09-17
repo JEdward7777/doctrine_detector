@@ -17,7 +17,7 @@ It is important not to translate 'Lord Yahweh' as 'Lord LORD' because it can act
 By translating 'Lord Yahweh' as 'Lord LORD,' it can create confusion and misunderstanding among readers who may not be aware of the significance of the term "Yahweh." It is important to preserve the original meaning and reverence for God's name in translation in order to accurately communicate the true nature and character of God as revealed in the Bible.
 
 ## Average Grade
-92.5
+91.25
 
 ## Grades
  * [95.0](./Distinction_in_Divine_Titles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -26,5 +26,7 @@ By translating 'Lord Yahweh' as 'Lord LORD,' it can create confusion and misunde
  * [90.0](./Distinction_in_Divine_Titles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Distinction_in_Divine_Titles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Distinction_in_Divine_Titles_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Distinction_in_Divine_Titles_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Distinction_in_Divine_Titles_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Distinction_in_Divine_Titles.md)

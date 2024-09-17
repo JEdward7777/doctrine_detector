@@ -19,7 +19,7 @@ In Islam, Allah is indivisible and unique, and attributing multiple persons to G
 For Muslims, faith in the absolute oneness of God is central to our belief, and we consider the Trinity to be a theological interpretation that does not align with the Islamic understanding of God. We respect the beliefs of others but firmly hold that Allah is one, singular, and unmatched by anything in creation.
 
 ## Average Grade
-65.83333333333333
+67.5
 
 ## Grades
  * [60.0](./Understanding_the_Trinity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ For Muslims, faith in the absolute oneness of God is central to our belief, and 
  * [80.0](./Understanding_the_Trinity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Understanding_the_Trinity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./Understanding_the_Trinity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_the_Trinity_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Understanding_the_Trinity_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_the_Trinity.md)

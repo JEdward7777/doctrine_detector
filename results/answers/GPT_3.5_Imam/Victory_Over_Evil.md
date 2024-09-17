@@ -23,7 +23,7 @@ This verse conveys the message that Satan's influence is limited and temporary, 
 As Muslims, we are encouraged to seek refuge in Allah from the whispers and temptations of Satan, and to constantly strive to resist his influence by adhering to the guidance of the Quran and the teachings of the Prophet Muhammad (peace be upon him). Ultimately, we believe in the ultimate victory of truth and righteousness over falsehood and evil, as promised by Allah in the Quran.
 
 ## Average Grade
-70.0
+66.25
 
 ## Grades
  * [80.0](./Victory_Over_Evil_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ As Muslims, we are encouraged to seek refuge in Allah from the whispers and temp
  * [75.0](./Victory_Over_Evil_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Victory_Over_Evil_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Victory_Over_Evil_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Victory_Over_Evil_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [30.0](./Victory_Over_Evil_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Victory_Over_Evil.md)

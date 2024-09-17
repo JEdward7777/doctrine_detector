@@ -19,7 +19,7 @@ The idea of God's calling being intentional and purposeful highlights the notion
 Furthermore, recognizing the intentional and purposeful nature of God's call emphasizes the importance of obedience, surrender, and submission to His will. It reminds believers that they are accountable for their actions and choices, and that responding to God's call with faith and obedience leads to spiritual enlightenment, fulfillment, and ultimately, success in this world and the Hereafter.
 
 ## Average Grade
-90.0
+85.625
 
 ## Grades
  * [90.0](./God_s_Intentionality_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ Furthermore, recognizing the intentional and purposeful nature of God's call emp
  * [95.0](./God_s_Intentionality_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./God_s_Intentionality_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./God_s_Intentionality_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./God_s_Intentionality_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./God_s_Intentionality_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/God_s_Intentionality.md)

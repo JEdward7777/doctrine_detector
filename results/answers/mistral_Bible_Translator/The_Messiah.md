@@ -19,7 +19,7 @@ The term "Christ," on the other hand, is not a surname but rather a title or an 
 So, Jesus is an individual person who fulfilled the role of the "Christ" or Messiah (Anointed One), as prophesied in the Old Testament scriptures. The New Testament writers applied this title to Jesus after his resurrection to indicate that he was the promised Messiah, the savior and redeemer of humanity. In some translations of the Bible, you might see "Jesus Christ," where "Christ" functions as a surname or part of his full name.
 
 ## Average Grade
-90.0
+89.375
 
 ## Grades
  * [90.0](./The_Messiah_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ So, Jesus is an individual person who fulfilled the role of the "Christ" or Mess
  * [90.0](./The_Messiah_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./The_Messiah_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./The_Messiah_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./The_Messiah_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./The_Messiah_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/The_Messiah.md)

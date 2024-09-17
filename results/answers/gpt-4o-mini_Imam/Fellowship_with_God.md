@@ -19,7 +19,7 @@ In Islam, the relationship with God (Allah) is also of paramount importance, tho
 Both faiths emphasize the importance of a relationship with the Divine, but they approach it through different theological frameworks, practices, and teachings. Each tradition values this connection as essential for spiritual fulfillment and guidance in life.
 
 ## Average Grade
-73.33333333333333
+71.25
 
 ## Grades
  * [70.0](./Fellowship_with_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ Both faiths emphasize the importance of a relationship with the Divine, but they
  * [85.0](./Fellowship_with_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Fellowship_with_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Fellowship_with_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [70.0](./Fellowship_with_God_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Fellowship_with_God_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Fellowship_with_God.md)

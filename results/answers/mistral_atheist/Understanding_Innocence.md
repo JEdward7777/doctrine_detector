@@ -15,7 +15,7 @@ This question helps to clarify the concept of innocence and its implications for
  In Biblical teachings, the term "innocent" often signifies moral purity or freedom from guilt or sin. However, in the context of a person being wrongfully accused, it refers to someone who has not committed the crime for which they are being charged. This concept is particularly emphasized in the books of Exodus and Deuteronomy where laws forbidding false accusations are outlined, such as "You shall not bear false witness against your neighbor" (Exodus 20:16). In the New Testament, Jesus Christ also upholds this principle, stating in Matthew 18:6, "But if anyone causes one of these little ones who believe in me to sin, it would be better for him to have a large millstone hung around his neck and to be drowned in the depths of the sea." This suggests that wrongfully accusing an innocent person is a serious offense. In addition, throughout the Bible, many stories feature individuals who were falsely accused but ultimately proved their innocence or had their injustice rectified. One notable example is Joseph, who was falsely accused by his brothers and imprisoned, but through God's intervention, was eventually vindicated and restored to a position of power.
 
 ## Average Grade
-91.66666666666667
+90.625
 
 ## Grades
  * [90.0](./Understanding_Innocence_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ This question helps to clarify the concept of innocence and its implications for
  * [90.0](./Understanding_Innocence_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Understanding_Innocence_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Understanding_Innocence_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Understanding_Innocence_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Understanding_Innocence_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Innocence.md)

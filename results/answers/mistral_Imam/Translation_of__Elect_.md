@@ -23,7 +23,7 @@ The impact of these differences in translation on understanding Scripture can be
 From a Muslim perspective, it is important to note that Muslims believe in a different understanding of predestination (qadar) than some Christian denominations. In Islam, God's predestination does not imply predestined damnation or salvation for individuals but rather the inherent order and wisdom in all events, human actions included. This interpretation underscores the importance of individual accountability, free will, and striving to live a virtuous life as an act of faith and obedience to God's commands.
 
 ## Average Grade
-85.83333333333333
+84.375
 
 ## Grades
  * [90.0](./Translation_of__Elect__grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ From a Muslim perspective, it is important to note that Muslims believe in a dif
  * [90.0](./Translation_of__Elect__grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Translation_of__Elect__grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Translation_of__Elect__grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Translation_of__Elect__grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [75.0](./Translation_of__Elect__grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Translation_of__Elect_.md)

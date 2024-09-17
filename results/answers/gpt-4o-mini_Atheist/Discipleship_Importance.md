@@ -27,7 +27,7 @@ The selection of the twelve apostles by Jesus can be understood through several 
 In summary, the choice of the twelve apostles reflects cultural practices of the time, symbolic meanings associated with their number, the intent to create a diverse community, the establishment of close mentorship, and a strategic mission for the growth of the early church. These factors combined to underscore their foundational role in the development of Christianity.
 
 ## Average Grade
-88.33333333333333
+86.25
 
 ## Grades
  * [95.0](./Discipleship_Importance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ In summary, the choice of the twelve apostles reflects cultural practices of the
  * [90.0](./Discipleship_Importance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Discipleship_Importance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Discipleship_Importance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Discipleship_Importance_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [75.0](./Discipleship_Importance_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Discipleship_Importance.md)

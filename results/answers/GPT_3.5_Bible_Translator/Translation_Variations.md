@@ -15,7 +15,7 @@ Exploring different interpretations of biblical terms to deepen understanding.
 Some alternative translations for "covenant faithfulness" in the Bible could include "loyalty to the covenant," "faithful commitment to the covenant," "promise-keeping," or "devotion to the covenant." These translations emphasize the idea of being true to the promises and commitments made in a covenant relationship, which is a significant theme throughout the Bible.
 
 ## Average Grade
-77.5
+79.375
 
 ## Grades
  * [70.0](./Translation_Variations_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ Some alternative translations for "covenant faithfulness" in the Bible could inc
  * [80.0](./Translation_Variations_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Translation_Variations_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Translation_Variations_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Translation_Variations_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Translation_Variations_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Translation_Variations.md)

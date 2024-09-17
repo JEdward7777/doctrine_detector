@@ -19,7 +19,7 @@ In the Christian context, before ascending to heaven, Jesus commanded His discip
 While we acknowledge this in the context of our discussions with Christians, in Islam, the emphasis is on the teachings of the Qur'an and the finality of the prophethood of Muhammad (peace be upon him) as the last messenger of God.
 
 ## Average Grade
-67.5
+68.125
 
 ## Grades
  * [70.0](./The_Great_Commission_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ While we acknowledge this in the context of our discussions with Christians, in 
  * [85.0](./The_Great_Commission_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./The_Great_Commission_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./The_Great_Commission_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./The_Great_Commission_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./The_Great_Commission_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/The_Great_Commission.md)

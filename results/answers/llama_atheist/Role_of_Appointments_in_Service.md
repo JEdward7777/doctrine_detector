@@ -27,7 +27,7 @@ Lastly, every Christian is called to live a life that reflects Christ's characte
 In summary, Christians are called to fulfill various roles within the Church based on their gifts, talents, and individual callings. These roles include being part of the priesthood of all believers, serving one another, fulfilling specific offices, engaging in evangelism and mission, and living a life that reflects Christ's character and teachings.
 
 ## Average Grade
-84.16666666666667
+81.25
 
 ## Grades
  * [90.0](./Role_of_Appointments_in_Service_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ In summary, Christians are called to fulfill various roles within the Church bas
  * [90.0](./Role_of_Appointments_in_Service_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Role_of_Appointments_in_Service_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Role_of_Appointments_in_Service_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Role_of_Appointments_in_Service_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Role_of_Appointments_in_Service_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Role_of_Appointments_in_Service.md)

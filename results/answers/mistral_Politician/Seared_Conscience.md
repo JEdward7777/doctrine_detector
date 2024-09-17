@@ -19,7 +19,7 @@ For believers, a 'seared' conscience can have significant implications. When one
 The Bible encourages believers to keep their consciences clear by regularly examining themselves (1 Corinthians 10:28), confessing their sins (1 John 1:9), and seeking God's guidance and truth (Psalm 119:9). A clear conscience brings peace, assurance, and the ability to discern right from wrong more accurately. Therefore, it is important for believers to maintain a sensitivity to sin and seek to live according to the principles of Scripture to avoid having a 'seared' or hardened conscience.
 
 ## Average Grade
-92.0
+91.5
 
 ## Grades
  * [95.0](./Seared_Conscience_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ The Bible encourages believers to keep their consciences clear by regularly exam
  * [95.0](./Seared_Conscience_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Seared_Conscience_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Seared_Conscience_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Seared_Conscience_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Seared_Conscience_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Seared_Conscience.md)

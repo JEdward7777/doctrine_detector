@@ -19,7 +19,7 @@ The term "Christ" is not actually a name but a title. It comes from the Greek wo
 Therefore, when we say "Jesus Christ," we are acknowledging Jesus as the promised Messiah, the Anointed One who was sent by God to save humanity from sin and to establish His kingdom. Jesus is both the name of the person and the title of his divine mission and identity as the Savior and Redeemer of the world.
 
 ## Average Grade
-90.0
+90.625
 
 ## Grades
  * [95.0](./The_Messiah_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ Therefore, when we say "Jesus Christ," we are acknowledging Jesus as the promise
  * [90.0](./The_Messiah_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./The_Messiah_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./The_Messiah_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./The_Messiah_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./The_Messiah_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/The_Messiah.md)

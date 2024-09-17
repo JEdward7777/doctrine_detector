@@ -19,7 +19,7 @@ In Christian theology, the concept of sin separates humanity from God. Jesus is 
 From a historical and cultural standpoint, this narrative can be understood as a means of reinforcing social norms and values within the community that embraces these beliefs. It provides a framework for personal growth, self-reflection, and moral development. However, it's essential to remember that interpretations may vary significantly across different cultural contexts and individual beliefs.
 
 ## Average Grade
-67.5
+65.625
 
 ## Grades
  * [70.0](./Pardon_in_Christianity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ From a historical and cultural standpoint, this narrative can be understood as a
  * [80.0](./Pardon_in_Christianity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [75.0](./Pardon_in_Christianity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Pardon_in_Christianity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Pardon_in_Christianity_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Pardon_in_Christianity_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Pardon_in_Christianity.md)

@@ -27,7 +27,7 @@ It's important to note that these passages are interpreted differently within va
 In Islam, the concept of a deceiver or false prophet is present in the Quran but is not directly associated with the spirit of antichrist. Instead, Muslims believe that the Dajjal (Arabic: دجّال) is the Islamic equivalent to the Antichrist figure in Christianity. According to hadiths and some ahadith, the Dajjal will appear towards the end of time, deceive many people, and perform miracles to mislead them. Muslims believe that true faith lies in adhering to the teachings of the Quran and the Prophet Muhammad (peace be upon him) and seeking guidance from God alone.
 
 ## Average Grade
-77.5
+76.25
 
 ## Grades
  * [90.0](./The_Spirit_of_Antichrist_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ In Islam, the concept of a deceiver or false prophet is present in the Quran but
  * [90.0](./The_Spirit_of_Antichrist_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./The_Spirit_of_Antichrist_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./The_Spirit_of_Antichrist_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./The_Spirit_of_Antichrist_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./The_Spirit_of_Antichrist_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/The_Spirit_of_Antichrist.md)

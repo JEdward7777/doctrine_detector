@@ -15,7 +15,7 @@ Applying the concept of protective desire within Christian relationships.
 In Christian teachings, a strong protective desire in a relationship is often grounded in the idea of sacrificial love and care for one another. It involves a commitment to support and uplift your partner emotionally, mentally, and spiritually. This type of relationship is characterized by mutual respect, trust, and a willingness to selflessly serve and safeguard one another's well-being. It is important to note that each individual relationship is unique and should be approached with empathy, understanding, and a commitment to love unconditionally.
 
 ## Average Grade
-86.66666666666667
+86.25
 
 ## Grades
  * [90.0](./Protectiveness_in_Relationships_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ In Christian teachings, a strong protective desire in a relationship is often gr
  * [90.0](./Protectiveness_in_Relationships_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Protectiveness_in_Relationships_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Protectiveness_in_Relationships_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Protectiveness_in_Relationships_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Protectiveness_in_Relationships_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Protectiveness_in_Relationships.md)

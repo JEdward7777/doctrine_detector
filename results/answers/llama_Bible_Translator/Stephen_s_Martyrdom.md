@@ -25,7 +25,7 @@ Lastly, this event reveals the divine plan unfolding through suffering and perse
 In conclusion, the stoning of Stephen serves as a pivotal event in the early Christian church, revealing the increasing persecution faced by believers, their commitment to proclaiming Jesus Christ, and the divine plan unfolding through suffering. It sets the stage for the spread of Christianity beyond Jewish borders and emphasizes the importance of perseverance in the face of opposition.
 
 ## Average Grade
-89.16666666666667
+88.75
 
 ## Grades
  * [90.0](./Stephen_s_Martyrdom_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ In conclusion, the stoning of Stephen serves as a pivotal event in the early Chr
  * [90.0](./Stephen_s_Martyrdom_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Stephen_s_Martyrdom_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Stephen_s_Martyrdom_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Stephen_s_Martyrdom_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Stephen_s_Martyrdom_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Stephen_s_Martyrdom.md)

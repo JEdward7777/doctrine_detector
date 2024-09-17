@@ -17,7 +17,7 @@ Being aware of eschatological figures helps Christians prepare for the challenge
 However, in a context of being politically correct, it's crucial to emphasize that the term "Antichrist" is deeply rooted in religious symbolism and should not be applied casually to any individual or group without due consideration for their beliefs, intentions, and actions. It's always best to approach such sensitive topics with respect and understanding.
 
 ## Average Grade
-82.5
+81.25
 
 ## Grades
  * [85.0](./Ultimate_Antichrist_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -26,5 +26,7 @@ However, in a context of being politically correct, it's crucial to emphasize th
  * [80.0](./Ultimate_Antichrist_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Ultimate_Antichrist_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Ultimate_Antichrist_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Ultimate_Antichrist_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Ultimate_Antichrist_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Ultimate_Antichrist.md)

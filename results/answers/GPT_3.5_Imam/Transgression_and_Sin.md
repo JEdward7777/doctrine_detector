@@ -19,7 +19,7 @@ In Islam, transgression can lead to sin and disobedience because when a person e
 It is important for Muslims to be mindful of their actions and strive to avoid transgression, sin, and disobedience in order to maintain a strong spiritual connection with Allah and lead a righteous life. Seeking forgiveness through sincere repentance, performing good deeds, and striving to improve oneself are ways to rectify any transgressions, sins, or disobedience that may have occurred.
 
 ## Average Grade
-84.16666666666667
+83.75
 
 ## Grades
  * [90.0](./Transgression_and_Sin_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ It is important for Muslims to be mindful of their actions and strive to avoid t
  * [90.0](./Transgression_and_Sin_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Transgression_and_Sin_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Transgression_and_Sin_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Transgression_and_Sin_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [80.0](./Transgression_and_Sin_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Transgression_and_Sin.md)

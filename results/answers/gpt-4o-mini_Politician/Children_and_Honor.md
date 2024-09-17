@@ -19,7 +19,7 @@ Additionally, Ephesians 6:1-3 reinforces this teaching in the New Testament, sta
 In general, the biblical emphasis on honoring parents includes not only obedience and respect but also showing love, care, and support as they age. This guidance encourages a nurturing and respectful family dynamic that fosters positive relationships and community values.
 
 ## Average Grade
-89.16666666666667
+90.0
 
 ## Grades
  * [95.0](./Children_and_Honor_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ In general, the biblical emphasis on honoring parents includes not only obedienc
  * [90.0](./Children_and_Honor_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Children_and_Honor_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Children_and_Honor_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Children_and_Honor_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Children_and_Honor_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Children_and_Honor.md)

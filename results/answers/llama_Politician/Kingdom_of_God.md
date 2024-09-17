@@ -23,7 +23,7 @@ However, I must caution against simply replacing "Kingdom of God" with another p
 Ultimately, our goal should be to facilitate a deeper connection between people from different cultures, rather than imposing our own assumptions or biases on others. By embracing a spirit of collaboration and sensitivity, we can work towards creating translations that honor the diversity of human experience while remaining true to the original message of faith.
 
 ## Average Grade
-70.0
+71.875
 
 ## Grades
  * [75.0](./Kingdom_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ Ultimately, our goal should be to facilitate a deeper connection between people 
  * [60.0](./Kingdom_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Kingdom_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Kingdom_of_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Kingdom_of_God_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Kingdom_of_God_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Kingdom_of_God.md)

@@ -25,7 +25,7 @@ Moreover, examining the contextual use of 'lament' within scripture—such as in
 Thus, exploring the various translations of 'lament' not only enriches our understanding of the emotional and spiritual depths of biblical texts but also highlights the universal nature of sorrow and the resilience of hope in the human experience. By embracing these multifaceted interpretations, we foster a more inclusive dialogue about the themes of grief and healing that resonate across cultures and traditions.
 
 ## Average Grade
-87.83333333333333
+88.375
 
 ## Grades
  * [90.0](./Translation_of_Lamentation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ Thus, exploring the various translations of 'lament' not only enriches our under
  * [90.0](./Translation_of_Lamentation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Translation_of_Lamentation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [87.0](./Translation_of_Lamentation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Translation_of_Lamentation_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Translation_of_Lamentation_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Translation_of_Lamentation.md)

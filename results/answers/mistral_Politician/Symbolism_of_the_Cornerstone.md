@@ -29,7 +29,7 @@ Understanding this relationship can help believers align their lives with Christ
 By employing this metaphor, we can emphasize that Jesus is not only the foundation upon which Christianity is built but also an essential element that binds believers together in a supportive, nurturing community.
 
 ## Average Grade
-90.0
+89.375
 
 ## Grades
  * [95.0](./Symbolism_of_the_Cornerstone_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ By employing this metaphor, we can emphasize that Jesus is not only the foundati
  * [95.0](./Symbolism_of_the_Cornerstone_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Symbolism_of_the_Cornerstone_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Symbolism_of_the_Cornerstone_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Symbolism_of_the_Cornerstone_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Symbolism_of_the_Cornerstone_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Symbolism_of_the_Cornerstone.md)

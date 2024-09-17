@@ -15,7 +15,7 @@ Understanding the definition and significance of the Gospel in Christian faith.
 The term "gospel" literally means "good news." In the context of the Bible, the term specifically refers to the message of salvation and redemption through Jesus Christ. The Gospels in the New Testament, written by Matthew, Mark, Luke, and John, recount the life, teachings, death, and resurrection of Jesus Christ, and are considered the foundational texts of Christianity. The good news of the gospel is that through faith in Jesus, believers can be forgiven of their sins and have eternal life.
 
 ## Average Grade
-89.16666666666667
+89.375
 
 ## Grades
  * [95.0](./Definition_of_Gospel_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ The term "gospel" literally means "good news." In the context of the Bible, the 
  * [90.0](./Definition_of_Gospel_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Definition_of_Gospel_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Definition_of_Gospel_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Definition_of_Gospel_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Definition_of_Gospel_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Definition_of_Gospel.md)

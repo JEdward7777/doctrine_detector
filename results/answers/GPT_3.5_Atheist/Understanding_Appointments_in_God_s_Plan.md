@@ -19,7 +19,7 @@ Those who are "appointed to eternal life" are seen as chosen by God for redempti
 It is worth noting that interpretations of predestination and the idea of being "appointed to eternal life" can vary among different Christian denominations and theologians. Some Christians believe in free will and emphasize the importance of personal faith and choice in accepting salvation, while others emphasize God's role in choosing and calling individuals to salvation.
 
 ## Average Grade
-86.66666666666667
+85.625
 
 ## Grades
  * [90.0](./Understanding_Appointments_in_God_s_Plan_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ It is worth noting that interpretations of predestination and the idea of being 
  * [90.0](./Understanding_Appointments_in_God_s_Plan_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Understanding_Appointments_in_God_s_Plan_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Understanding_Appointments_in_God_s_Plan_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Appointments_in_God_s_Plan_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [80.0](./Understanding_Appointments_in_God_s_Plan_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Appointments_in_God_s_Plan.md)

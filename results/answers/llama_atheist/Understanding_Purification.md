@@ -30,7 +30,7 @@ In the Old Testament, purification rituals were often linked to specific events,
 By recognizing the cultural and historical context of purification rituals in the Old Testament, we can better understand their significance within the broader ancient Near Eastern cultures. This approach allows us to appreciate the symbolic language and social functions of these rituals without relying on supernatural or theological explanations.
 
 ## Average Grade
-53.333333333333336
+58.75
 
 ## Grades
  * [50.0](./Understanding_Purification_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,5 +39,7 @@ By recognizing the cultural and historical context of purification rituals in th
  * [30.0](./Understanding_Purification_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Understanding_Purification_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Understanding_Purification_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Purification_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [65.0](./Understanding_Purification_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Purification.md)

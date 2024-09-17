@@ -23,7 +23,7 @@ Furthermore, the story highlights the danger of materialism and the temptation t
 Ultimately, the story of Gideon's ephod reminds us of the importance of staying true to the pure monotheistic teachings of Islam and guarding against any forms of innovation or idolatry that may lead us astray from the straight path.
 
 ## Average Grade
-85.0
+83.75
 
 ## Grades
  * [85.0](./Ephod_idolatry_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ Ultimately, the story of Gideon's ephod reminds us of the importance of staying 
  * [90.0](./Ephod_idolatry_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Ephod_idolatry_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Ephod_idolatry_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Ephod_idolatry_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [75.0](./Ephod_idolatry_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Ephod_idolatry.md)

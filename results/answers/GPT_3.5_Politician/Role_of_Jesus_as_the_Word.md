@@ -15,7 +15,7 @@ Recognizing the significance of Jesus' divinity and role in revealing God.
 In Christianity, the title "the Word of God" ascribed to Jesus highlights his divine nature and role as the ultimate expression of God's will and communication with humanity. This title emphasizes Jesus' significance as the embodiment of God's message and love for humanity, serving as a bridge between God and humanity. It is important to recognize and respect the diverse beliefs and interpretations surrounding this title while understanding its profound significance in Christian theology.
 
 ## Average Grade
-87.5
+86.875
 
 ## Grades
  * [90.0](./Role_of_Jesus_as_the_Word_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ In Christianity, the title "the Word of God" ascribed to Jesus highlights his di
  * [90.0](./Role_of_Jesus_as_the_Word_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Role_of_Jesus_as_the_Word_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Role_of_Jesus_as_the_Word_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Role_of_Jesus_as_the_Word_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Role_of_Jesus_as_the_Word_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Role_of_Jesus_as_the_Word.md)

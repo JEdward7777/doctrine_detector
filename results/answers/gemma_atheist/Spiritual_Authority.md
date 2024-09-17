@@ -44,7 +44,7 @@ The distinction between spiritual and earthly authorities is crucial for interpr
 While the Bible presents these authorities as divinely ordained, an atheist perspective challenges the existence of supernatural beings and divine authority structures. This perspective necessitates reinterpreting these concepts within non-theistic frameworks, emphasizing human agency and societal constructs as drivers of social order and change.
 
 ## Average Grade
-82.5
+83.125
 
 ## Grades
  * [85.0](./Spiritual_Authority_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -53,5 +53,7 @@ While the Bible presents these authorities as divinely ordained, an atheist pers
  * [95.0](./Spiritual_Authority_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Spiritual_Authority_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Spiritual_Authority_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Spiritual_Authority_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Spiritual_Authority_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Spiritual_Authority.md)

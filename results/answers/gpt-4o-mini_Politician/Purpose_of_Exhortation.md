@@ -15,7 +15,7 @@ Understanding the biblical basis for encouraging others in their faith journey.
 In the New Testament, the primary purpose of exhortation is to encourage and motivate individuals in their faith and spiritual growth. Exhortation serves as a means of urging believers to live righteous lives, uphold moral standards, and maintain a strong commitment to their beliefs. It aims to foster unity within the community of believers, provide comfort during challenging times, and inspire acts of love and service towards others. This practice emphasizes the importance of accountability and support among members of the faith, promoting a sense of belonging and mutual encouragement in the pursuit of a faithful life.
 
 ## Average Grade
-81.16666666666667
+81.5
 
 ## Grades
  * [80.0](./Purpose_of_Exhortation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ In the New Testament, the primary purpose of exhortation is to encourage and mot
  * [85.0](./Purpose_of_Exhortation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Purpose_of_Exhortation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Purpose_of_Exhortation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Purpose_of_Exhortation_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Purpose_of_Exhortation_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Purpose_of_Exhortation.md)

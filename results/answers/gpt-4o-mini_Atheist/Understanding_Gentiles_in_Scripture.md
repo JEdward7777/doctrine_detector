@@ -27,7 +27,7 @@ However, as the early church began to take form, particularly after the resurrec
 Ultimately, the early church's gradual acceptance of Gentiles marked a significant transformation in the perception of non-Jews, establishing a foundation for a more inclusive faith that would continue to evolve throughout history. The relationships resulting from this shift were complex, marked by both struggles and profound moments of unity, reflective of broader societal dynamics outside the church.
 
 ## Average Grade
-90.16666666666667
+88.875
 
 ## Grades
  * [96.0](./Understanding_Gentiles_in_Scripture_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ Ultimately, the early church's gradual acceptance of Gentiles marked a significa
  * [90.0](./Understanding_Gentiles_in_Scripture_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Gentiles_in_Scripture_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Understanding_Gentiles_in_Scripture_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Gentiles_in_Scripture_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Understanding_Gentiles_in_Scripture_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Gentiles_in_Scripture.md)

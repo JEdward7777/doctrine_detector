@@ -15,7 +15,7 @@ Understanding the relationship between faith and God's promises encourages belie
 Faith is a deeply personal and important aspect of many people's lives, including in the context of trusting the promises of God. While people may have different beliefs and interpretations of faith, it is essential to respect and appreciate the diverse perspectives that individuals hold when discussing this topic, including the example of Abram's belief. It is important to approach discussions about faith with empathy, understanding, and a willingness to listen to different viewpoints in a respectful and inclusive manner.
 
 ## Average Grade
-75.83333333333333
+72.5
 
 ## Grades
  * [75.0](./Faith_and_Promise_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ Faith is a deeply personal and important aspect of many people's lives, includin
  * [90.0](./Faith_and_Promise_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Faith_and_Promise_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Faith_and_Promise_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Faith_and_Promise_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Faith_and_Promise_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Faith_and_Promise.md)

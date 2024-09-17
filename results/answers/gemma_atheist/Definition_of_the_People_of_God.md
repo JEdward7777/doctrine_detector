@@ -43,7 +43,7 @@ The concept of being "God's people" in the Old Testament should be interpreted c
 While the literal application of the Old Testament concept of "God's people" is not applicable to modern-day society, the underlying themes of covenantal relationship, lineage, and religious identity remain relevant. The study of the Old Testament can provide insights into the development of cultural identities and the role of religious beliefs in shaping human societies.
 
 ## Average Grade
-86.66666666666667
+86.25
 
 ## Grades
  * [90.0](./Definition_of_the_People_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -52,5 +52,7 @@ While the literal application of the Old Testament concept of "God's people" is 
  * [90.0](./Definition_of_the_People_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Definition_of_the_People_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Definition_of_the_People_of_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Definition_of_the_People_of_God_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Definition_of_the_People_of_God_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Definition_of_the_People_of_God.md)

@@ -27,7 +27,7 @@ From a cultural perspective, the concept of faith in ancient Near Eastern societ
 In conclusion, while I may not personally subscribe to religious beliefs, it is essential to understand the cultural and historical context that shaped the concept of faith in biblical narratives. Abram's "faith" or "believe" represents an existential response that involves trust, obedience, and loyalty to God's promises, which are deeply rooted in their personal relationship.
 
 ## Average Grade
-68.33333333333333
+70.0
 
 ## Grades
  * [60.0](./Faith_and_Promise_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ In conclusion, while I may not personally subscribe to religious beliefs, it is 
  * [80.0](./Faith_and_Promise_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Faith_and_Promise_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Faith_and_Promise_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Faith_and_Promise_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [65.0](./Faith_and_Promise_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Faith_and_Promise.md)

@@ -15,7 +15,7 @@ Understanding the mission of discipleship in the context of the Great Commission
 Before ascending to heaven, Jesus instructed His disciples to go forth and make disciples of all nations, baptizing them and teaching them to observe all that He had commanded. This is often referred to as the Great Commission and can be found in the Gospel of Matthew, chapter 28, verses 19-20. This command emphasizes spreading the message of love, compassion, and guidance that Jesus embodied during His ministry.
 
 ## Average Grade
-90.83333333333333
+90.0
 
 ## Grades
  * [90.0](./The_Great_Commission_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ Before ascending to heaven, Jesus instructed His disciples to go forth and make 
  * [90.0](./The_Great_Commission_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./The_Great_Commission_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./The_Great_Commission_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./The_Great_Commission_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./The_Great_Commission_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/The_Great_Commission.md)

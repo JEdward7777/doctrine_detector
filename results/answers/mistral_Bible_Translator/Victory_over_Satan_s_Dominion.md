@@ -21,7 +21,7 @@ While Satan still roams the earth seeking to deceive people (John 8:44), Christi
 In summary, Jesus' death on the cross signifies the defeat of Satan's power and authority over mankind, offering salvation and spiritual freedom to those who accept Christ as their Savior. It is essential for believers to remain steadfast in faith, resisting temptations and living obediently to God to avoid any potential influence from Satan.
 
 ## Average Grade
-89.16666666666667
+89.375
 
 ## Grades
  * [90.0](./Victory_over_Satan_s_Dominion_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ In summary, Jesus' death on the cross signifies the defeat of Satan's power and 
  * [90.0](./Victory_over_Satan_s_Dominion_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Victory_over_Satan_s_Dominion_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Victory_over_Satan_s_Dominion_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Victory_over_Satan_s_Dominion_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Victory_over_Satan_s_Dominion_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Victory_over_Satan_s_Dominion.md)

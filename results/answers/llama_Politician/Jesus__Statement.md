@@ -23,7 +23,7 @@ By saying "I am the Resurrection and the Life," Jesus could be urging us to focu
 Now, I know some folks might interpret this passage in a more literal or theological sense, but as a politician, I must prioritize building bridges between people from all walks of life. And what better way to do that than by embracing the universal themes of hope, renewal, and redemption that Jesus' words convey?
 
 ## Average Grade
-46.666666666666664
+50.0
 
 ## Grades
  * [40.0](./Jesus__Statement_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ Now, I know some folks might interpret this passage in a more literal or theolog
  * [60.0](./Jesus__Statement_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Jesus__Statement_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./Jesus__Statement_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Jesus__Statement_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [35.0](./Jesus__Statement_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Jesus__Statement.md)

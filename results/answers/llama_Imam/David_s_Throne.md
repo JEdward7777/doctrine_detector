@@ -25,7 +25,7 @@ However, it's important to note that this concept is unique to Christian theolog
 In Islam, the promise of prophethood was made to Abraham and passed down through his descendants, including Isaac, Jacob, and Muhammad. We believe that the prophets were all sent by Allah to guide humanity, but there is no concept of an eternal throne or kingdom in Islamic theology.
 
 ## Average Grade
-66.66666666666667
+68.75
 
 ## Grades
  * [70.0](./David_s_Throne_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ In Islam, the promise of prophethood was made to Abraham and passed down through
  * [60.0](./David_s_Throne_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./David_s_Throne_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./David_s_Throne_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./David_s_Throne_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./David_s_Throne_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/David_s_Throne.md)

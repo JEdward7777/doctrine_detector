@@ -39,7 +39,7 @@ The stoning of Stephen holds immense significance in the early Christian Church 
 The stoning of Stephen was a brutal act of persecution, fueled by cultural tensions and political anxieties. It revealed the vulnerabilities of early Christianity and the complex challenges faced by its believers. This pivotal event shaped the course of Christian history, inspiring resilience, shaping theological narratives, and highlighting the enduring struggle for religious freedom.
 
 ## Average Grade
-87.5
+86.25
 
 ## Grades
  * [90.0](./Stephen_s_Martyrdom_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -48,5 +48,7 @@ The stoning of Stephen was a brutal act of persecution, fueled by cultural tensi
  * [95.0](./Stephen_s_Martyrdom_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Stephen_s_Martyrdom_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Stephen_s_Martyrdom_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Stephen_s_Martyrdom_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [80.0](./Stephen_s_Martyrdom_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Stephen_s_Martyrdom.md)

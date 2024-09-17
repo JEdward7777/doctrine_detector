@@ -25,7 +25,7 @@ Furthermore, the rainbow's appearance in Genesis 9 might be seen as a reminder o
 In conclusion, while God may not be explicitly mentioned as the author of the covenant in Genesis 9, the rainbow serves as a powerful symbol of hope, renewal, and community. By recognizing its significance within the context of human history and experience, we can draw valuable lessons about the importance of cooperation, adaptation, and perseverance in the face of uncertainty.
 
 ## Average Grade
-40.0
+44.375
 
 ## Grades
  * [50.0](./Sign_as_Covenant_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ In conclusion, while God may not be explicitly mentioned as the author of the co
  * [30.0](./Sign_as_Covenant_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Sign_as_Covenant_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Sign_as_Covenant_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Sign_as_Covenant_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [30.0](./Sign_as_Covenant_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Sign_as_Covenant.md)

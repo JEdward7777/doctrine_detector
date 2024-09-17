@@ -17,7 +17,7 @@ The use of the term "Father" to refer to God can be culturally retributed, as it
 In contexts where the term "Father" could be misunderstood or interpreted in a way that excludes individuals who do not identify with traditional gender roles or concepts of deity, it may be more respectful and inclusive to use gender-neutral or non-binary language when referring to God. This can help to ensure that all individuals feel welcome and represented in discussions about spirituality and religion.
 
 ## Average Grade
-55.833333333333336
+57.5
 
 ## Grades
  * [30.0](./Use_term__Father__when_referring_to_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -26,5 +26,7 @@ In contexts where the term "Father" could be misunderstood or interpreted in a w
  * [60.0](./Use_term__Father__when_referring_to_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Use_term__Father__when_referring_to_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Use_term__Father__when_referring_to_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Use_term__Father__when_referring_to_God_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Use_term__Father__when_referring_to_God_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Use_term__Father__when_referring_to_God.md)

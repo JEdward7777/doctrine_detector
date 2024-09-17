@@ -21,7 +21,7 @@ Similarly, in the story of Prophet Musa (Moses), we see a covenant being made be
 Overall, the promises made in biblical covenants and in the Quran illustrate God's unwavering commitment to His people, His mercy and forgiveness, and His desire for them to live righteous and fulfilling lives. Muslims believe in the importance of upholding these covenants and following the guidance provided by God through His prophets in order to attain His pleasure and ultimately, paradise.
 
 ## Average Grade
-75.0
+70.0
 
 ## Grades
  * [60.0](./Covenants_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ Overall, the promises made in biblical covenants and in the Quran illustrate God
  * [85.0](./Covenants_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Covenants_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Covenants_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Covenants_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [30.0](./Covenants_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Covenants.md)

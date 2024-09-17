@@ -15,7 +15,7 @@ Understanding the role of the Holy Spirit in a believer's life is crucial for sp
 As a politician, I respect and acknowledge the diverse beliefs and religious backgrounds of all individuals. The concept of the Holy Spirit empowering a believer is a central tenet in many faith traditions, and it is important to approach this topic with sensitivity and inclusivity. Different religious and spiritual perspectives provide various interpretations on this matter, and it's crucial to honor and appreciate the diversity of beliefs within our communities.
 
 ## Average Grade
-49.166666666666664
+48.125
 
 ## Grades
  * [40.0](./Role_of_the_Holy_Spirit_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ As a politician, I respect and acknowledge the diverse beliefs and religious bac
  * [50.0](./Role_of_the_Holy_Spirit_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Role_of_the_Holy_Spirit_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Role_of_the_Holy_Spirit_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [70.0](./Role_of_the_Holy_Spirit_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [20.0](./Role_of_the_Holy_Spirit_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Role_of_the_Holy_Spirit.md)

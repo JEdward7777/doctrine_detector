@@ -21,7 +21,7 @@ In this context, Jesus serves as an analogy or metaphorical "pardon," offering h
 It is essential to approach such topics with sensitivity, as individuals have their unique perspectives and beliefs regarding religious matters. As a politician, my goal is always to foster dialogue and respect among all citizens, regardless of their backgrounds or viewpoints.
 
 ## Average Grade
-83.33333333333333
+79.375
 
 ## Grades
  * [85.0](./Pardon_in_Christianity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ It is essential to approach such topics with sensitivity, as individuals have th
  * [85.0](./Pardon_in_Christianity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Pardon_in_Christianity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Pardon_in_Christianity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Pardon_in_Christianity_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Pardon_in_Christianity_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Pardon_in_Christianity.md)

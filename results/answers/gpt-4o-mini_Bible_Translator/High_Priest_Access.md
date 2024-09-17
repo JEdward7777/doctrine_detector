@@ -25,7 +25,7 @@ In the Hebrew Bible, specifically in the book of Exodus and later in Leviticus, 
 In summary, the approach to the Ark of the Covenant was highly regulated, focusing on the roles of the High Priest and the Levites, coupled with specific times (like the Day of Atonement) and strict guidelines regarding purification and reverence. These regulations reflect the holiness of God and the importance of approaching Him with respect and the right heart.
 
 ## Average Grade
-93.33333333333333
+93.125
 
 ## Grades
  * [95.0](./High_Priest_Access_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ In summary, the approach to the Ark of the Covenant was highly regulated, focusi
  * [95.0](./High_Priest_Access_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./High_Priest_Access_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [95.0](./High_Priest_Access_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./High_Priest_Access_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./High_Priest_Access_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/High_Priest_Access.md)

@@ -25,7 +25,7 @@ In the context of Christianity, the term "Word of God" encompasses several conce
 From a Muslim perspective, it is important to note that while we respect the Bible and recognize its role in Christianity, we believe that the final and most complete revelation of God is found in the Quran. We believe that the Quran is the literal word of God as revealed to Prophet Muhammad (peace be upon him) and that it serves as a comprehensive guide for humanity.
 
 ## Average Grade
-89.16666666666667
+87.5
 
 ## Grades
  * [90.0](./Word_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ From a Muslim perspective, it is important to note that while we respect the Bib
  * [95.0](./Word_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Word_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Word_of_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Word_of_God_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [80.0](./Word_of_God_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Word_of_God.md)

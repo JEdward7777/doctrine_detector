@@ -19,7 +19,7 @@ This reference to Melchizedek comes from an Old Testament story in Genesis 14, w
 Through his sacrificial death on the cross and his resurrection, Jesus is seen as the ultimate high priest who intercedes on behalf of humanity before God. He is described as a compassionate and understanding high priest who can sympathize with our weaknesses, yet without sin. This concept of Jesus as a high priest emphasizes his role as the mediator between humanity and God, offering forgiveness and salvation to all who believe in him.
 
 ## Average Grade
-91.66666666666667
+90.625
 
 ## Grades
  * [95.0](./Jesus_as_the_High_Priest_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ Through his sacrificial death on the cross and his resurrection, Jesus is seen a
  * [95.0](./Jesus_as_the_High_Priest_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Jesus_as_the_High_Priest_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Jesus_as_the_High_Priest_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Jesus_as_the_High_Priest_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Jesus_as_the_High_Priest_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Jesus_as_the_High_Priest.md)

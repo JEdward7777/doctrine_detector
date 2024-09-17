@@ -19,7 +19,7 @@ When it comes to translation, particularly in contexts where polytheism is preva
 Ultimately, addressing such cultural sensitivities is essential in interfaith dialogues and discussions. It's crucial to communicate the essence of Islamic theology clearly while being mindful of how certain terms may resonate in different cultural contexts. Each situation may call for a nuanced approach, understanding the audience and seeking clarity and mutual respect in discussions about faith.
 
 ## Average Grade
-69.16666666666667
+70.0
 
 ## Grades
  * [50.0](./Avoid__Son_of_God__grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ Ultimately, addressing such cultural sensitivities is essential in interfaith di
  * [60.0](./Avoid__Son_of_God__grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Avoid__Son_of_God__grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Avoid__Son_of_God__grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Avoid__Son_of_God__grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Avoid__Son_of_God__grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Avoid__Son_of_God_.md)

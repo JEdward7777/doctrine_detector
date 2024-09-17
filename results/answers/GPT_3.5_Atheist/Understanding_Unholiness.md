@@ -17,7 +17,7 @@ The concept of an "unholy" life may vary depending on different cultural and rel
 In society, we can identify aspects of an "unholy" life by observing behaviors that go against values of compassion, empathy, fairness, and respect for human dignity. This could manifest in various forms such as systemic oppression, corruption, discrimination, violence, and environmental exploitation. By reflecting on our own actions and the impact they have on others and the world around us, we can strive to live more ethical and morally upright lives that contribute to a more just and compassionate society.
 
 ## Average Grade
-53.333333333333336
+56.25
 
 ## Grades
  * [70.0](./Understanding_Unholiness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -26,5 +26,7 @@ In society, we can identify aspects of an "unholy" life by observing behaviors t
  * [50.0](./Understanding_Unholiness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Understanding_Unholiness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Understanding_Unholiness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Understanding_Unholiness_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Understanding_Unholiness_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Unholiness.md)

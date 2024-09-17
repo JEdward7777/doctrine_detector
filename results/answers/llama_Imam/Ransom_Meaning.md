@@ -31,7 +31,7 @@ As Muslims, we do not accept the Christian doctrine of atonement or the idea tha
 In Islamic theology, Allah is seen as just and merciful, and salvation comes through obedience to His commands and submission to His will. Muslims believe that all prophets, including Jesus, were sent by Allah to guide humanity to a life of righteousness and piety.
 
 ## Average Grade
-75.83333333333333
+76.875
 
 ## Grades
  * [70.0](./Ransom_Meaning_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -40,5 +40,7 @@ In Islamic theology, Allah is seen as just and merciful, and salvation comes thr
  * [70.0](./Ransom_Meaning_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Ransom_Meaning_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [65.0](./Ransom_Meaning_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Ransom_Meaning_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [75.0](./Ransom_Meaning_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Ransom_Meaning.md)

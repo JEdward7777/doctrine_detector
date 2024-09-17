@@ -26,7 +26,7 @@ In Christian theology, trusting in Jesus involves several key elements:
 It's important to note that Christians believe that this trust in Jesus is not just intellectual assent but a personal, heartfelt commitment that transforms their lives and shapes their actions. As Muslims, we have a different understanding of Jesus (peace be upon him) and his role in God's plan, but it is essential to respect and acknowledge the sincerity and devotion of our Christian brothers and sisters who put their trust in Him.
 
 ## Average Grade
-85.83333333333333
+83.125
 
 ## Grades
  * [90.0](./Trust_in_God_2_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,5 +35,7 @@ It's important to note that Christians believe that this trust in Jesus is not j
  * [90.0](./Trust_in_God_2_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Trust_in_God_2_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Trust_in_God_2_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Trust_in_God_2_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [65.0](./Trust_in_God_2_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Trust_in_God_2.md)

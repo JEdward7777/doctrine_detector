@@ -23,7 +23,7 @@ Recognizing the role of the high priest in the Israelite's relationship with God
 It is important to note that these rules were specific to ancient Israelite worship, and modern Christian practices are based on the teachings of Jesus Christ and the New Testament. The Ark of the Covenant is no longer a central focus in Christianity as it was for the Israelites.
 
 ## Average Grade
-85.83333333333333
+86.875
 
 ## Grades
  * [90.0](./High_Priest_Access_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ It is important to note that these rules were specific to ancient Israelite wors
  * [90.0](./High_Priest_Access_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./High_Priest_Access_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./High_Priest_Access_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./High_Priest_Access_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./High_Priest_Access_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/High_Priest_Access.md)

@@ -27,7 +27,7 @@ The term "Most High," often used to describe God in the Bible, conveys several t
 In summary, interpreting the term "Most High" involves recognizing God's supreme, sovereign, transcendent, holy nature, and the appropriate human response of reverent worship. Throughout Scripture, this title reminds believers of their Creator's unparalleled position and the call to align their lives under His authority.
 
 ## Average Grade
-89.16666666666667
+90.0
 
 ## Grades
  * [90.0](./Interpreting__High__in_God_s_Title_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ In summary, interpreting the term "Most High" involves recognizing God's supreme
  * [90.0](./Interpreting__High__in_God_s_Title_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Interpreting__High__in_God_s_Title_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Interpreting__High__in_God_s_Title_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Interpreting__High__in_God_s_Title_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Interpreting__High__in_God_s_Title_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Interpreting__High__in_God_s_Title.md)

@@ -15,7 +15,7 @@ Recognizing the specific timeframe for the observance of the Sabbath in accordan
 In Jewish tradition, the Sabbath, or Shabbat, begins at sunset on Friday and lasts until nightfall on Saturday. The exact timing can vary based on geographical location and the time of year, as it is determined by the position of the sun. Traditionally, Shabbat is welcomed with special prayers and the lighting of candles just before sunset on Friday, and it concludes with the Havdalah ceremony, which marks the separation between the sacred time of Shabbat and the regular week. Observant Jews refrain from work and engage in rest, prayer, and family gatherings during this time.
 
 ## Average Grade
-85.0
+86.25
 
 ## Grades
  * [90.0](./Sabbath_Timing_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ In Jewish tradition, the Sabbath, or Shabbat, begins at sunset on Friday and las
  * [90.0](./Sabbath_Timing_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Sabbath_Timing_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Sabbath_Timing_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Sabbath_Timing_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Sabbath_Timing_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Sabbath_Timing.md)

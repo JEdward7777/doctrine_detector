@@ -19,7 +19,7 @@ This title emphasizes both Jesus' divine nature and His role in salvation histor
 Different Christian denominations may interpret this term with various emphases, yet it remains central to the understanding of Jesus' identity and mission. Importantly, it is approached with a sense of respect for its profound spiritual implications and the deep reverence it holds for believers around the world. Engaging in conversations about this subject can foster mutual understanding and respect among individuals with diverse beliefs.
 
 ## Average Grade
-89.16666666666667
+89.375
 
 ## Grades
  * [95.0](./Son_of_God_Understanding_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ Different Christian denominations may interpret this term with various emphases,
  * [95.0](./Son_of_God_Understanding_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Son_of_God_Understanding_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Son_of_God_Understanding_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Son_of_God_Understanding_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Son_of_God_Understanding_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Son_of_God_Understanding.md)

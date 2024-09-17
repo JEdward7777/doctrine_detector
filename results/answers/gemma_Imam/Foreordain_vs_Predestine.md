@@ -29,7 +29,7 @@ Clarifying the relationship between similar theological concepts.
 **In summary, the term 'foreordain' is not directly used in Islamic teachings, but the concept of predetermination is acknowledged through terms like 'qisma' and 'taqdir,' with emphasis on Allah's decree and human responsibility.**
 
 ## Average Grade
-86.66666666666667
+85.0
 
 ## Grades
  * [90.0](./Foreordain_vs_Predestine_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ Clarifying the relationship between similar theological concepts.
  * [90.0](./Foreordain_vs_Predestine_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Foreordain_vs_Predestine_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Foreordain_vs_Predestine_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Foreordain_vs_Predestine_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [75.0](./Foreordain_vs_Predestine_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Foreordain_vs_Predestine.md)

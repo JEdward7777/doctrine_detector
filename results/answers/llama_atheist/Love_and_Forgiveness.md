@@ -27,7 +27,7 @@ Some possible reasons why forgiveness is considered critical in the biblical con
 It's essential to note that these interpretations are based on historical and cultural context, rather than making claims about the objective truth or morality of forgiveness. As an atheist, I don't have a stake in whether one chooses to forgive or not; my focus is on understanding the cultural significance and historical context of this concept within the biblical narrative.
 
 ## Average Grade
-77.5
+73.75
 
 ## Grades
  * [85.0](./Love_and_Forgiveness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ It's essential to note that these interpretations are based on historical and cu
  * [85.0](./Love_and_Forgiveness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Love_and_Forgiveness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Love_and_Forgiveness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Love_and_Forgiveness_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Love_and_Forgiveness_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Love_and_Forgiveness.md)

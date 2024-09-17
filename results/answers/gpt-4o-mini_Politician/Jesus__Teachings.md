@@ -19,7 +19,7 @@ For example, in the Gospels, phrases like "Amen, amen, I say to you" are frequen
 By using "amen" in this way, Jesus invites His audience to engage with His teachings on a profound level, emphasizing the authenticity and reliability of His message. It creates a connection between His words and the fundamental truths of faith, encouraging individuals to consider the implications of His teachings in their lives.
 
 ## Average Grade
-89.16666666666667
+88.75
 
 ## Grades
  * [95.0](./Jesus__Teachings_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ By using "amen" in this way, Jesus invites His audience to engage with His teach
  * [95.0](./Jesus__Teachings_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Jesus__Teachings_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Jesus__Teachings_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Jesus__Teachings_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Jesus__Teachings_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Jesus__Teachings.md)

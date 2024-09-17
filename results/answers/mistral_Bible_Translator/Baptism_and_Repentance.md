@@ -21,7 +21,7 @@ In Acts 2:38, Peter does not say that baptism saves us, but rather that it is fo
 So, in summary, repentance is a change of heart that leads us to turn away from sin and turn toward God. Baptism is the public declaration of this change and our commitment to follow Jesus. Both are important steps for those who wish to become disciples of Christ and receive forgiveness of their sins.
 
 ## Average Grade
-92.0
+92.125
 
 ## Grades
  * [92.0](./Baptism_and_Repentance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ So, in summary, repentance is a change of heart that leads us to turn away from 
  * [95.0](./Baptism_and_Repentance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Baptism_and_Repentance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Baptism_and_Repentance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Baptism_and_Repentance_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Baptism_and_Repentance_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Baptism_and_Repentance.md)

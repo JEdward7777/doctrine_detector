@@ -25,7 +25,7 @@ The Festival of Weeks, known as Shavuot in Hebrew, holds significant historical 
 These aspects of Shavuot informed the context of the Festival of Weeks in the New Testament, where it is significant primarily due to the outpouring of the Holy Spirit upon the early followers of Jesus, marking the birth of the Christian Church. Thus, while Shavuot has deep roots in Jewish tradition tied to gratitude and divine revelation, it also serves as a pivotal moment in the Christian narrative.
 
 ## Average Grade
-79.16666666666667
+78.75
 
 ## Grades
  * [90.0](./Origin_of_Pentecost_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ These aspects of Shavuot informed the context of the Festival of Weeks in the Ne
  * [70.0](./Origin_of_Pentecost_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Origin_of_Pentecost_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Origin_of_Pentecost_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Origin_of_Pentecost_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Origin_of_Pentecost_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Origin_of_Pentecost.md)

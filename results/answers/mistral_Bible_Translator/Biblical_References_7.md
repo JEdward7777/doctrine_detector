@@ -25,7 +25,7 @@ Identifying scriptural backing for the Sabbath observance and its relevance in C
 These passages highlight the importance of the Sabbath as a part of God's covenant with Israel, as a reminder of God's deliverance from Egypt, and as a day set apart for rest, worship, and fellowship. They also show that the Sabbath was not exclusive to the people of Israel but extended to foreigners who chose to follow God and keep His commands.
 
 ## Average Grade
-93.33333333333333
+92.5
 
 ## Grades
  * [95.0](./Biblical_References_7_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ These passages highlight the importance of the Sabbath as a part of God's covena
  * [95.0](./Biblical_References_7_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Biblical_References_7_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Biblical_References_7_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Biblical_References_7_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Biblical_References_7_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Biblical_References_7.md)

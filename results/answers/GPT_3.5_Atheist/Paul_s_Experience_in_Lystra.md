@@ -21,7 +21,7 @@ The story of Paul's stoning in Lystra also highlights the complex dynamics of cu
 In conclusion, from a secular perspective, the stoning of Paul in Lystra can be viewed as a lesson in the perseverance and determination required to navigate challenging circumstances and push forward in the face of opposition. It serves as a reminder of the risks and rewards associated with advocating for change and challenging traditional norms.
 
 ## Average Grade
-55.0
+58.75
 
 ## Grades
  * [40.0](./Paul_s_Experience_in_Lystra_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ In conclusion, from a secular perspective, the stoning of Paul in Lystra can be 
  * [60.0](./Paul_s_Experience_in_Lystra_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Paul_s_Experience_in_Lystra_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Paul_s_Experience_in_Lystra_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Paul_s_Experience_in_Lystra_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Paul_s_Experience_in_Lystra_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Paul_s_Experience_in_Lystra.md)

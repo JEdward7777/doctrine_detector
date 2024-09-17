@@ -19,7 +19,7 @@ One of the teachings that is commonly shared among different religious tradition
 In Islamic teachings, the concept of the Kingdom of God is closely related to the idea of submission to Allah and striving for righteousness in all aspects of life. Muslims believe in the importance of faith, worship, and good deeds as means to achieve success in both this world and the Hereafter. Just as the parables of Jesus emphasize the value of the Kingdom of God, Islamic teachings emphasize the importance of working towards the pleasure of Allah and seeking His mercy and forgiveness.
 
 ## Average Grade
-67.5
+65.0
 
 ## Grades
  * [85.0](./Value_of_the_Kingdom_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ In Islamic teachings, the concept of the Kingdom of God is closely related to th
  * [70.0](./Value_of_the_Kingdom_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Value_of_the_Kingdom_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Value_of_the_Kingdom_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Value_of_the_Kingdom_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [35.0](./Value_of_the_Kingdom_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Value_of_the_Kingdom.md)

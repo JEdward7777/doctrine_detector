@@ -19,7 +19,7 @@ To achieve this state, Muslims strive to live their lives according to the teach
 Achieving grace in the eyes of God is a lifelong journey, as Muslims believe that Allah tests them and guides them towards the right path through both trials and blessings. It is important for Muslims to always seek His pleasure, ask for His forgiveness when they err, and continuously strive to improve themselves spiritually and morally in order to attain His mercy and grace in this life and the hereafter.
 
 ## Average Grade
-85.0
+83.125
 
 ## Grades
  * [90.0](./Finding_Grace_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ Achieving grace in the eyes of God is a lifelong journey, as Muslims believe tha
  * [90.0](./Finding_Grace_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Finding_Grace_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Finding_Grace_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Finding_Grace_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Finding_Grace_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Finding_Grace.md)

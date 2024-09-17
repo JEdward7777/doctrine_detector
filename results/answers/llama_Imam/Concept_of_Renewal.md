@@ -25,7 +25,7 @@ In a Christian context, the concept of "restoration" can be interpreted as "rene
 Please note that these interpretations are based on my limited understanding of Christian theology and may not be exhaustive or representative of all Christian perspectives. As an Islamic scholar, I will always strive to approach interfaith dialogue with respect, humility, and a commitment to mutual understanding.
 
 ## Average Grade
-84.16666666666667
+82.5
 
 ## Grades
  * [80.0](./Concept_of_Renewal_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ Please note that these interpretations are based on my limited understanding of 
  * [90.0](./Concept_of_Renewal_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Concept_of_Renewal_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Concept_of_Renewal_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Concept_of_Renewal_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Concept_of_Renewal_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Concept_of_Renewal.md)

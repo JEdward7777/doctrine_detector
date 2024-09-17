@@ -27,7 +27,7 @@ In the context of intercession, several Bible verses highlight the significance 
 These verses collectively illustrate the practice of interceding for others as a vital aspect of faith, encouraging believers to support one another through prayer. While the Bible is a different scripture than the Quran, both emphasize the importance of community and praying for one another. In Islam, the concept of making dua (supplication) for others is also highly regarded, showcasing the shared understanding of intercession and the importance of compassion within communities.
 
 ## Average Grade
-85.83333333333333
+85.625
 
 ## Grades
  * [90.0](./Scriptural_Basis_for_Intercession_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ These verses collectively illustrate the practice of interceding for others as a
  * [80.0](./Scriptural_Basis_for_Intercession_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Scriptural_Basis_for_Intercession_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Scriptural_Basis_for_Intercession_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Scriptural_Basis_for_Intercession_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Scriptural_Basis_for_Intercession_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Scriptural_Basis_for_Intercession.md)

@@ -57,7 +57,7 @@ The promises made in biblical covenants illustrate God's unwavering commitment t
 The promises made in biblical covenants are a testament to God's unfailing commitment to his people throughout Scripture. These covenants embody God's faithfulness, grace, and love, offering hope and encouragement to believers today.
 
 ## Average Grade
-90.83333333333333
+90.625
 
 ## Grades
  * [95.0](./Covenants_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -66,5 +66,7 @@ The promises made in biblical covenants are a testament to God's unfailing commi
  * [95.0](./Covenants_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Covenants_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Covenants_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Covenants_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Covenants_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Covenants.md)

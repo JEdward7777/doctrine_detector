@@ -25,7 +25,7 @@ In essence, purification in the Old Testament was about creating a sacred space 
 So, my friends, let us remember that even as we navigate the complexities of faith and tradition, we must always prioritize sensitivity, respect, and understanding towards one another. And who knows? Maybe by exploring these ancient laws, we'll discover new insights into what it means to live in harmony with ourselves, our communities, and the divine! *smiles broadly*
 
 ## Average Grade
-70.83333333333333
+70.625
 
 ## Grades
  * [85.0](./Understanding_Purification_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ So, my friends, let us remember that even as we navigate the complexities of fai
  * [80.0](./Understanding_Purification_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Understanding_Purification_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [35.0](./Understanding_Purification_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [70.0](./Understanding_Purification_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Understanding_Purification_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Purification.md)

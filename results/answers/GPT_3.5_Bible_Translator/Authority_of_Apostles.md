@@ -21,7 +21,7 @@ Furthermore, the apostles preached boldly because they were filled with the Holy
 In summary, the authority of the apostles was closely tied to their ability to perform miracles and preach boldly. These miraculous signs validated their message and demonstrated the power of God at work through them, while their boldness in preaching was fueled by the Holy Spirit and their unwavering faith in Jesus Christ.
 
 ## Average Grade
-90.83333333333333
+91.25
 
 ## Grades
  * [95.0](./Authority_of_Apostles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ In summary, the authority of the apostles was closely tied to their ability to p
  * [90.0](./Authority_of_Apostles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Authority_of_Apostles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Authority_of_Apostles_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Authority_of_Apostles_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Authority_of_Apostles_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Authority_of_Apostles.md)

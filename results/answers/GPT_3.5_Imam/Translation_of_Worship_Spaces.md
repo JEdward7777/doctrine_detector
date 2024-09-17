@@ -17,7 +17,7 @@ In Islamic teachings, we believe in the Oneness of God (Tawhid) and the importan
 In Islam, we refer to a place of worship as a "Masjid" or "Mosque," which serves as a space for Muslims to come together to pray, worship, and seek closeness to Allah. So, translating 'house of Yahweh' as 'the house of God' or 'the mosque' can help make the concept more relatable and understandable in today's context.
 
 ## Average Grade
-50.0
+52.5
 
 ## Grades
  * [70.0](./Translation_of_Worship_Spaces_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -26,5 +26,7 @@ In Islam, we refer to a place of worship as a "Masjid" or "Mosque," which serves
  * [60.0](./Translation_of_Worship_Spaces_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Translation_of_Worship_Spaces_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Translation_of_Worship_Spaces_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [70.0](./Translation_of_Worship_Spaces_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Translation_of_Worship_Spaces_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Translation_of_Worship_Spaces.md)

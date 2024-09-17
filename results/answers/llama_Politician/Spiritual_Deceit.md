@@ -23,7 +23,7 @@ In my opinion, it is crucial to recognize that idolatry can take many forms, inc
 Ultimately, as a politician who seeks to promote unity and understanding among people of all faiths and backgrounds, I believe that it is essential to approach discussions of idolatry with empathy, compassion, and respect for the diversity of human experience.
 
 ## Average Grade
-59.166666666666664
+59.375
 
 ## Grades
  * [60.0](./Spiritual_Deceit_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ Ultimately, as a politician who seeks to promote unity and understanding among p
  * [70.0](./Spiritual_Deceit_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Spiritual_Deceit_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [30.0](./Spiritual_Deceit_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Spiritual_Deceit_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Spiritual_Deceit_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Spiritual_Deceit.md)

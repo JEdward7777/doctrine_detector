@@ -39,7 +39,7 @@ This verse highlights the importance of treating all Muslims with respect and di
 In conclusion, while I may not be an expert in Christian scriptures, it appears that James 3:9-12 cautions against the destructive power of our words and highlights the consequences of cursing others. As Muslims, we too are reminded of the importance of controlling our tongues and treating all people with compassion and respect.
 
 ## Average Grade
-83.33333333333333
+82.5
 
 ## Grades
  * [85.0](./Understanding_Curses_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -48,5 +48,7 @@ In conclusion, while I may not be an expert in Christian scriptures, it appears 
  * [90.0](./Understanding_Curses_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Curses_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Understanding_Curses_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Understanding_Curses_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Understanding_Curses_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Curses.md)

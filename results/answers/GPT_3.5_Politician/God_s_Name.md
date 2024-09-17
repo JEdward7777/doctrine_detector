@@ -15,7 +15,7 @@ Comprehending the significance of God's name can deepen our reverence and unders
 In discussing matters of faith and religion, it is important to acknowledge and respect the diversity of beliefs held by individuals. Many people find great significance in the name 'Yahweh' as a representation of their personal faith and connection with a higher power. It is important to approach discussions about religious topics with sensitivity and an understanding that different individuals may have varying interpretations and understandings of these concepts.
 
 ## Average Grade
-78.33333333333333
+75.0
 
 ## Grades
  * [90.0](./God_s_Name_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ In discussing matters of faith and religion, it is important to acknowledge and 
  * [85.0](./God_s_Name_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./God_s_Name_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./God_s_Name_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./God_s_Name_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./God_s_Name_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/God_s_Name.md)

@@ -26,7 +26,7 @@ In the Islamic tradition, while we do not regard the Bible as a final revelation
 Thus, while the term "Daughter of Zion" carries specific meanings in the biblical context, Muslims view these narratives through the lens of Tawhid (the oneness of God) and the shared values of justice, peace, and community. If you have any further questions regarding related themes in Islamic texts, feel free to ask!
 
 ## Average Grade
-82.5
+80.0
 
 ## Grades
  * [80.0](./Prophetic_Usage_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,5 +35,7 @@ Thus, while the term "Daughter of Zion" carries specific meanings in the biblica
  * [90.0](./Prophetic_Usage_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Prophetic_Usage_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [65.0](./Prophetic_Usage_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Prophetic_Usage_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Prophetic_Usage_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Prophetic_Usage.md)

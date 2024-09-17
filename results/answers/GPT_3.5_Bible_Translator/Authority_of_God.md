@@ -15,7 +15,7 @@ Understanding God's authority can deepen faith and trust in His omnipotence.
 The term "Yahweh of hosts" is a title used in the Bible to highlight God's sovereign authority and power over all the spiritual beings, including angels and demons. The term "hosts" can refer to angelic armies or heavenly beings who serve and worship God. By using this title, the Bible emphasizes that God is not only the Creator and ruler of the physical world but also the supreme commander of all spiritual beings. This title serves as a reminder of God's supremacy and ultimate control over all realms, including the spiritual realm.
 
 ## Average Grade
-90.83333333333333
+90.0
 
 ## Grades
  * [95.0](./Authority_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ The term "Yahweh of hosts" is a title used in the Bible to highlight God's sover
  * [90.0](./Authority_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Authority_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Authority_of_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Authority_of_God_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Authority_of_God_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Authority_of_God.md)

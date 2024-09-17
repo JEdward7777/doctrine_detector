@@ -21,7 +21,7 @@ Additionally, in verse 19:57 (Surah Kahf), Allah (SWT) states, "He created man a
 In summary, when God says He calls us by name, it signifies His intimate knowledge of each of us as unique individuals and highlights the special relationship He desires with each one of us. This serves as a reminder that no matter our circumstances or challenges, Allah (SWT) is always aware of and with us.
 
 ## Average Grade
-57.5
+62.5
 
 ## Grades
  * [60.0](./Identity_in_Christ_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ In summary, when God says He calls us by name, it signifies His intimate knowled
  * [50.0](./Identity_in_Christ_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Identity_in_Christ_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Identity_in_Christ_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Identity_in_Christ_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Identity_in_Christ_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Identity_in_Christ.md)

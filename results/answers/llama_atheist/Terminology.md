@@ -23,7 +23,7 @@ As an atheist scholar, I believe it's essential to approach religious terminolog
 Remember that these terms are not direct equivalents of the word "deacon," but they can be used as alternatives in certain contexts. It's essential to consider the cultural and religious background of your audience when selecting a term to describe someone who holds a similar position.
 
 ## Average Grade
-80.0
+75.0
 
 ## Grades
  * [85.0](./Terminology_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ Remember that these terms are not direct equivalents of the word "deacon," but t
  * [90.0](./Terminology_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Terminology_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Terminology_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Terminology_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [30.0](./Terminology_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Terminology.md)

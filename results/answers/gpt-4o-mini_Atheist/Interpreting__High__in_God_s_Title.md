@@ -27,7 +27,7 @@ The term "Most High" can be interpreted through multiple cultural and theologica
 In summary, interpreting "Most High" involves a multifaceted approach that encompasses ideas of supremacy, transcendence, cultural context, moral authority, and relational significance. Each perspective adds depth to our understanding of the divine nature and its implications for human experience.
 
 ## Average Grade
-82.0
+82.125
 
 ## Grades
  * [85.0](./Interpreting__High__in_God_s_Title_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ In summary, interpreting "Most High" involves a multifaceted approach that encom
  * [90.0](./Interpreting__High__in_God_s_Title_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Interpreting__High__in_God_s_Title_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Interpreting__High__in_God_s_Title_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Interpreting__High__in_God_s_Title_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [80.0](./Interpreting__High__in_God_s_Title_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Interpreting__High__in_God_s_Title.md)

@@ -29,7 +29,7 @@ In this regard, the concept of atonement is closely tied to the Islamic concept 
 In conclusion, while there are differences between Islam and Christianity regarding animal sacrifices and atonement, both traditions share a common concern with making amends for wrongdoing and seeking forgiveness from Allah. As Muslims, we recognize the importance of moral and spiritual growth, and we believe that our actions and deeds are what ultimately determine our fate in the afterlife.
 
 ## Average Grade
-75.0
+73.125
 
 ## Grades
  * [50.0](./Symbolism_of_the_Lamb_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ In conclusion, while there are differences between Islam and Christianity regard
  * [80.0](./Symbolism_of_the_Lamb_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Symbolism_of_the_Lamb_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Symbolism_of_the_Lamb_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Symbolism_of_the_Lamb_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Symbolism_of_the_Lamb_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Symbolism_of_the_Lamb.md)

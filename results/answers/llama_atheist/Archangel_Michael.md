@@ -17,7 +17,7 @@ A question that has no bearing on my personal beliefs or lack thereof! As a scho
 According to the Bible, the archangel Michael is the only angel referred to as such. This can be found in Jude 1:9, where it says, "Yet Michael the archangel, when he was disputing with the devil about the body of Moses, did not himself dare to condemn him for speaking against him but said, 'The Lord rebuke you!'"
 
 ## Average Grade
-90.0
+88.75
 
 ## Grades
  * [85.0](./Archangel_Michael_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -26,5 +26,7 @@ According to the Bible, the archangel Michael is the only angel referred to as s
  * [90.0](./Archangel_Michael_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Archangel_Michael_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Archangel_Michael_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Archangel_Michael_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Archangel_Michael_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Archangel_Michael.md)

@@ -28,7 +28,7 @@ In the Bible, conscience is often linked to the concept of "heart" (Hebrew: לֵ
 While I may not fully understand the intricacies of Christian theology, it is clear that the concept of conscience plays a significant role in guiding moral decisions and promoting accountability. As Muslims, we also believe in the importance of following our intuition (hilmah) and being mindful of our moral obligations (amr bil-ma'ruf).
 
 ## Average Grade
-75.0
+72.5
 
 ## Grades
  * [85.0](./Conscience_Understanding_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,5 +37,7 @@ While I may not fully understand the intricacies of Christian theology, it is cl
  * [85.0](./Conscience_Understanding_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Conscience_Understanding_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Conscience_Understanding_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Conscience_Understanding_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Conscience_Understanding_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Conscience_Understanding.md)

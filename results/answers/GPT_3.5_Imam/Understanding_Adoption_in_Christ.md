@@ -19,7 +19,7 @@ In Islam, being a child of God is understood in a spiritual sense, where believe
 Therefore, as Muslims, we do not interpret Ephesians 1:5 in the same way that it may be understood in a Christian context. Muslims believe in a direct and personal relationship with Allah as His servants and worshippers, seeking closeness to Him through faith, good deeds, and submission to His will.
 
 ## Average Grade
-49.166666666666664
+50.625
 
 ## Grades
  * [60.0](./Understanding_Adoption_in_Christ_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ Therefore, as Muslims, we do not interpret Ephesians 1:5 in the same way that it
  * [40.0](./Understanding_Adoption_in_Christ_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Adoption_in_Christ_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [30.0](./Understanding_Adoption_in_Christ_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [70.0](./Understanding_Adoption_in_Christ_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Understanding_Adoption_in_Christ_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Adoption_in_Christ.md)

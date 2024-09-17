@@ -21,7 +21,7 @@ Conversely, "sky" in the biblical context often refers to the physical atmospher
 The key differences center around purpose and essence: "heaven" is often imbued with spiritual significance and a connection to the divine, while "sky" is more about the natural, observable world. The dual meanings can sometimes create a blend in how the terms are used, but fundamentally, heaven has a distinct theological connotation, while sky is generally physical and tangible.
 
 ## Average Grade
-89.16666666666667
+89.0
 
 ## Grades
  * [95.0](./Understanding_Heaven_s_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ The key differences center around purpose and essence: "heaven" is often imbued 
  * [90.0](./Understanding_Heaven_s_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Heaven_s_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Understanding_Heaven_s_Definition_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Heaven_s_Definition_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [92.0](./Understanding_Heaven_s_Definition_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Heaven_s_Definition.md)

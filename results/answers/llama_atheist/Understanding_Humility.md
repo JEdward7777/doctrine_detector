@@ -27,7 +27,7 @@ In this sense, humility is not about elevating oneself or one's status but rathe
 It's essential to note that Christian theologians have developed various understandings of humility over time, from Augustine's concept of "the humble heart" to the Reformation-era emphasis on justification by faith alone. A comprehensive exploration of these nuances is beyond the scope of this response, but I hope this provides a solid foundation for further inquiry!
 
 ## Average Grade
-85.0
+81.875
 
 ## Grades
  * [90.0](./Understanding_Humility_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ It's essential to note that Christian theologians have developed various underst
  * [90.0](./Understanding_Humility_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Humility_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Understanding_Humility_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Humility_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Understanding_Humility_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Humility.md)

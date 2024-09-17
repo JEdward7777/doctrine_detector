@@ -27,7 +27,7 @@ In practical terms, finding grace in the eyes of God means living a life that is
 Ultimately, finding grace in the eyes of God is a reflection of God's own heart toward us – a heart of love, mercy, and redemption. As we seek to live according to His will and Word, we can experience this wonderful gift and enjoy the blessings that come from being in a right relationship with our Creator.
 
 ## Average Grade
-90.0
+90.625
 
 ## Grades
  * [95.0](./Finding_Grace_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ Ultimately, finding grace in the eyes of God is a reflection of God's own heart 
  * [90.0](./Finding_Grace_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Finding_Grace_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Finding_Grace_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [95.0](./Finding_Grace_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Finding_Grace_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Finding_Grace.md)

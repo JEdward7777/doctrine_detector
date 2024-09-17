@@ -27,7 +27,7 @@ Lastly, the return of the Jews from Babylon highlights God's patience and long-s
 In summary, the return of the Jews from Babylon signifies the fulfillment of God's promises to restore Israel as a people and nation, the beginning of a new era in Jewish history, and a "dress rehearsal" for the ultimate redemption that will come through Jesus Christ.
 
 ## Average Grade
-91.66666666666667
+91.875
 
 ## Grades
  * [90.0](./Return_from_Exile_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ In summary, the return of the Jews from Babylon signifies the fulfillment of God
  * [95.0](./Return_from_Exile_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Return_from_Exile_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Return_from_Exile_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Return_from_Exile_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Return_from_Exile_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Return_from_Exile.md)

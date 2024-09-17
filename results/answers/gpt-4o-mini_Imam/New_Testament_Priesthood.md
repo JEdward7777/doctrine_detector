@@ -27,7 +27,7 @@ In Christian theology, the concept of every believer being considered a priest i
 In summary, the New Testament's portrayal of every believer as a priest reflects a significant shift from a hierarchical structure to a more inclusive and accessible relationship with God, allowing each believer to partake in spiritual duties and responsibilities directly. This concept resonates with the Muslim understanding of individual accountability to God and the importance of personal faith, though there are clear theological distinctions between the beliefs of Muslims and Christians regarding the nature of Jesus and the concept of priesthood.
 
 ## Average Grade
-94.16666666666667
+91.875
 
 ## Grades
  * [95.0](./New_Testament_Priesthood_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ In summary, the New Testament's portrayal of every believer as a priest reflects
  * [95.0](./New_Testament_Priesthood_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./New_Testament_Priesthood_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./New_Testament_Priesthood_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./New_Testament_Priesthood_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [80.0](./New_Testament_Priesthood_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/New_Testament_Priesthood.md)

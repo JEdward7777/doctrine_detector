@@ -27,7 +27,7 @@ The phrase "image of God" is a theological concept that appears in various relig
 The significance of these alternative translations lies in their ability to resonate with various cultural understandings of divinity and human nature. By employing different terms, one can bridge gaps between disparate belief systems, highlight common values such as compassion and dignity, and encourage discussions about the roles of humanity and divinity in various philosophical and religious contexts. These translations also promote a more inclusive understanding of what it means to be "in the image of God," fostering appreciation for the diversity of interpretations surrounding this profound concept.
 
 ## Average Grade
-85.83333333333333
+85.625
 
 ## Grades
  * [90.0](./Translation_Insights_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ The significance of these alternative translations lies in their ability to reso
  * [80.0](./Translation_Insights_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Translation_Insights_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Translation_Insights_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Translation_Insights_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Translation_Insights_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Translation_Insights.md)

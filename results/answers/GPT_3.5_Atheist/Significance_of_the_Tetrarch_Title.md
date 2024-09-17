@@ -19,7 +19,7 @@ In the case of Jesus, one of the most well-known tetrarchs was Herod Antipas, wh
 The use of the title "tetrarch" underscores the intricate web of power dynamics and hierarchies that characterized governance during Jesus' time, showcasing the blend of Roman imperial administration with local rulers appointed to maintain control and stability in the conquered territories.
 
 ## Average Grade
-87.5
+86.875
 
 ## Grades
  * [90.0](./Significance_of_the_Tetrarch_Title_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ The use of the title "tetrarch" underscores the intricate web of power dynamics 
  * [85.0](./Significance_of_the_Tetrarch_Title_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Significance_of_the_Tetrarch_Title_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Significance_of_the_Tetrarch_Title_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Significance_of_the_Tetrarch_Title_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Significance_of_the_Tetrarch_Title_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Significance_of_the_Tetrarch_Title.md)

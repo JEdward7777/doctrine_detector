@@ -30,7 +30,7 @@ Being familiar with the Gospel accounts and their teachings.
 In Muslim tradition, while Muslims believe in many of the prophets and messengers mentioned in the Bible, they do not accept the books beyond the Torah as divinely revealed scriptures, so it is important to note that this information comes from a Christian perspective within the context of your question.
 
 ## Average Grade
-88.33333333333333
+88.75
 
 ## Grades
  * [90.0](./Matthew,_Mark,_and_Luke_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,5 +39,7 @@ In Muslim tradition, while Muslims believe in many of the prophets and messenger
  * [95.0](./Matthew,_Mark,_and_Luke_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Matthew,_Mark,_and_Luke_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Matthew,_Mark,_and_Luke_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Matthew,_Mark,_and_Luke_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Matthew,_Mark,_and_Luke_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Matthew,_Mark,_and_Luke.md)

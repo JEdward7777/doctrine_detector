@@ -23,7 +23,7 @@ Certainly! While all three terms involve some level of prompting or urging someo
 In summary, while "exhort" and "encourage" generally have positive connotations, "admonish" tends to have a more negative or corrective connotation. It's important to consider the context and tone in which these words are used to avoid any misunderstanding or offense.
 
 ## Average Grade
-88.33333333333333
+88.125
 
 ## Grades
  * [90.0](./Differences_in_Terminology_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ In summary, while "exhort" and "encourage" generally have positive connotations,
  * [85.0](./Differences_in_Terminology_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Differences_in_Terminology_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Differences_in_Terminology_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Differences_in_Terminology_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Differences_in_Terminology_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Differences_in_Terminology.md)

@@ -19,7 +19,7 @@ However, the Quran uses the term "Rabb" (Lord or Master) which could be translat
 In contexts where there might be confusion, it is advisable to use terms like "Allah" or "Rabb" instead of 'Father'. It's always crucial to maintain the correct understanding and respect for Allah in our speech and actions.
 
 ## Average Grade
-83.33333333333333
+83.125
 
 ## Grades
  * [85.0](./Use_term__Father__when_referring_to_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ In contexts where there might be confusion, it is advisable to use terms like "A
  * [90.0](./Use_term__Father__when_referring_to_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Use_term__Father__when_referring_to_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Use_term__Father__when_referring_to_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Use_term__Father__when_referring_to_God_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Use_term__Father__when_referring_to_God_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Use_term__Father__when_referring_to_God.md)

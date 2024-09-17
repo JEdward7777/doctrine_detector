@@ -23,7 +23,7 @@ However, Samson's story also reveals the consequences of breaking the Nazirite v
 In summary, Samson's story illustrates the implications of the Nazirite vow by showcasing both its blessings (strength and divine favor) and consequences (disobedience leading to loss of spiritual power and negative outcomes). This story serves as a reminder for all believers to uphold their commitments to God faithfully, as our obedience or disobedience can have profound effects on our lives and those around us.
 
 ## Average Grade
-85.33333333333333
+85.25
 
 ## Grades
  * [92.0](./Samson_s_Nazirite_Status_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ In summary, Samson's story illustrates the implications of the Nazirite vow by s
  * [90.0](./Samson_s_Nazirite_Status_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Samson_s_Nazirite_Status_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Samson_s_Nazirite_Status_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Samson_s_Nazirite_Status_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Samson_s_Nazirite_Status_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Samson_s_Nazirite_Status.md)

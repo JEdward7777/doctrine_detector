@@ -24,7 +24,7 @@ The story of Gideon and his creation of a golden ephod (Judges 8:22-35) is a cru
 In conclusion, Gideon's creation of a golden ephod and the subsequent idolatry serve as a powerful reminder of the dangers of compromise, novelty, and the temptation to create our own forms of worship. May we learn from Israel's mistakes and remain faithful to God alone, without adding or subtracting from His Word.
 
 ## Average Grade
-90.0
+89.375
 
 ## Grades
  * [90.0](./Ephod_idolatry_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,5 +33,7 @@ In conclusion, Gideon's creation of a golden ephod and the subsequent idolatry s
  * [90.0](./Ephod_idolatry_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Ephod_idolatry_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Ephod_idolatry_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Ephod_idolatry_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Ephod_idolatry_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Ephod_idolatry.md)

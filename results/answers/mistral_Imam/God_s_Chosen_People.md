@@ -19,7 +19,7 @@ This selective grace is not a sign of favoritism but rather a manifestation of A
 The remnant serves as a model for Muslims to emulate, demonstrating the correct application of faith and the Sunnah (Prophetic traditions) in their daily lives. By studying the examples set by these individuals, Muslims can draw closer to Allah and attain His pleasure. In this sense, the idea of a remnant indicates that selective grace is not only a historical phenomenon but also a practical guide for modern-day Muslims seeking spiritual growth and guidance.
 
 ## Average Grade
-80.83333333333333
+77.5
 
 ## Grades
  * [85.0](./God_s_Chosen_People_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ The remnant serves as a model for Muslims to emulate, demonstrating the correct 
  * [80.0](./God_s_Chosen_People_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./God_s_Chosen_People_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./God_s_Chosen_People_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./God_s_Chosen_People_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./God_s_Chosen_People_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/God_s_Chosen_People.md)

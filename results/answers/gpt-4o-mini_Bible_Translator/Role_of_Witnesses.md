@@ -27,7 +27,7 @@ In the New Testament, witnesses play a crucial role in affirming the life, death
 In summary, witnesses are integral to the New Testament narrative, providing credible testimony to Jesus’s life, teachings, and resurrection. Their accounts form the foundation of Christian belief and practice, ensuring that the message of Jesus is communicated and preserved throughout history.
 
 ## Average Grade
-89.16666666666667
+90.0
 
 ## Grades
  * [90.0](./Role_of_Witnesses_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ In summary, witnesses are integral to the New Testament narrative, providing cre
  * [90.0](./Role_of_Witnesses_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Role_of_Witnesses_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Role_of_Witnesses_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Role_of_Witnesses_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Role_of_Witnesses_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Role_of_Witnesses.md)

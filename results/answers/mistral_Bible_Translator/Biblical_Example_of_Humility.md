@@ -19,7 +19,7 @@ Another example is Moses. In Numbers 12:3, God speaks to Moses' family saying, "
 Finally, there is King David, who in Psalm 51:17 says, "The sacrifices of God are a broken spirit: a broken and a contrite heart, O God, thou wilt not despise." Although he was anointed as king and a man after God's own heart, David acknowledged his sin and humbled himself before the Lord.
 
 ## Average Grade
-89.16666666666667
+90.0
 
 ## Grades
  * [95.0](./Biblical_Example_of_Humility_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ Finally, there is King David, who in Psalm 51:17 says, "The sacrifices of God ar
  * [90.0](./Biblical_Example_of_Humility_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Biblical_Example_of_Humility_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Biblical_Example_of_Humility_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Biblical_Example_of_Humility_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Biblical_Example_of_Humility_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Biblical_Example_of_Humility.md)

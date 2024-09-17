@@ -19,7 +19,7 @@ Regarding your question, myrrh (Mih) is one of the three gifts given to Prophet 
 Myrrh is a fragrant resin used in various religious rituals across cultures, including in Islam, where it is mentioned in Hadith as one of the ingredients for the Prophet Muhammad's (peace be upon him) Kohl, which Muslims use for eye makeup. In this context, myrrh holds significance as a valuable and aromatic substance that has spiritual connotations.
 
 ## Average Grade
-60.0
+58.75
 
 ## Grades
  * [70.0](./Myrrh_as_a_Gift_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ Myrrh is a fragrant resin used in various religious rituals across cultures, inc
  * [60.0](./Myrrh_as_a_Gift_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Myrrh_as_a_Gift_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Myrrh_as_a_Gift_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [70.0](./Myrrh_as_a_Gift_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Myrrh_as_a_Gift_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Myrrh_as_a_Gift.md)

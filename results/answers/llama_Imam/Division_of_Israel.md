@@ -25,7 +25,7 @@ It's worth noting that Muslims consider Jerusalem a sacred site because it is th
 I hope this answers your question while also providing some context from an Islamic perspective. If you have any further questions or concerns, please don't hesitate to ask.
 
 ## Average Grade
-32.5
+39.375
 
 ## Grades
  * [20.0](./Division_of_Israel_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ I hope this answers your question while also providing some context from an Isla
  * [20.0](./Division_of_Israel_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Division_of_Israel_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [10.0](./Division_of_Israel_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [70.0](./Division_of_Israel_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Division_of_Israel_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Division_of_Israel.md)

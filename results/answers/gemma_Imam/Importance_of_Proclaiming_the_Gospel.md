@@ -25,7 +25,7 @@ Muslims believe that Jesus is a messenger of Allah, and his teachings are import
 Therefore, it is important for Christians to proclaim the "good news" as a way of sharing the message of hope and salvation with others. This message can bring peace, comfort, and purpose to the lives of those who hear it.
 
 ## Average Grade
-79.16666666666667
+73.75
 
 ## Grades
  * [90.0](./Importance_of_Proclaiming_the_Gospel_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ Therefore, it is important for Christians to proclaim the "good news" as a way o
  * [90.0](./Importance_of_Proclaiming_the_Gospel_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Importance_of_Proclaiming_the_Gospel_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Importance_of_Proclaiming_the_Gospel_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Importance_of_Proclaiming_the_Gospel_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [30.0](./Importance_of_Proclaiming_the_Gospel_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Importance_of_Proclaiming_the_Gospel.md)

@@ -17,7 +17,7 @@ Understanding the Christian obligation to be forgiving and kind.
 However, it's important to note that interpretations of words and their implications can vary across cultures, communities, and individuals. In some contexts, 'gracious' may be associated with religious or moral beliefs, while in others it may be seen as a purely secular concept. As an atheistic scholar, I would focus on the practical, social, and ethical implications of graciousness in human interactions, emphasizing its role in promoting peace, understanding, and cooperation among people from diverse backgrounds.
 
 ## Average Grade
-55.833333333333336
+60.0
 
 ## Grades
  * [65.0](./Being_Gracious_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -26,5 +26,7 @@ However, it's important to note that interpretations of words and their implicat
  * [50.0](./Being_Gracious_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Being_Gracious_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Being_Gracious_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Being_Gracious_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Being_Gracious_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Being_Gracious.md)

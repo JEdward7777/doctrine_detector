@@ -21,7 +21,7 @@ The crucifixion narrative also contains a dramatic encounter between Jesus and S
 From a scholarly perspective, examining the role of Jesus' death on the cross in relation to Satan's dominion requires an understanding of the historical, cultural, and literary context within which these concepts were developed. It is also crucial to consider the various interpretations and adaptations that have emerged over time as Christianity has evolved throughout history.
 
 ## Average Grade
-83.33333333333333
+83.75
 
 ## Grades
  * [90.0](./Victory_over_Satan_s_Dominion_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ From a scholarly perspective, examining the role of Jesus' death on the cross in
  * [80.0](./Victory_over_Satan_s_Dominion_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Victory_over_Satan_s_Dominion_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Victory_over_Satan_s_Dominion_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Victory_over_Satan_s_Dominion_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Victory_over_Satan_s_Dominion_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Victory_over_Satan_s_Dominion.md)

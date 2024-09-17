@@ -33,7 +33,7 @@ In light of these biblical conceptions of the soul, we can gain insight into its
 While we may not explicitly use the term "soul" in Islamic tradition, these biblical insights can provide valuable perspectives on the human condition. They emphasize the importance of spirituality, the interconnectedness of our bodily and spiritual experiences, and the eternal significance of our innermost selves.
 
 ## Average Grade
-80.0
+78.75
 
 ## Grades
  * [85.0](./Function_of_the_Soul_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -42,5 +42,7 @@ While we may not explicitly use the term "soul" in Islamic tradition, these bibl
  * [85.0](./Function_of_the_Soul_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Function_of_the_Soul_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Function_of_the_Soul_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Function_of_the_Soul_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [65.0](./Function_of_the_Soul_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Function_of_the_Soul.md)

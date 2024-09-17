@@ -33,7 +33,7 @@ Modern Christians may explore various practices that resonate with the Old Testa
 These practices are not meant to replicate the Old Testament laws but rather to embody the principles of holiness, purity, and devotion that underscore the broader message of Scripture. The emphasis is on inward transformation and relational purity rather than external rituals alone.
 
 ## Average Grade
-90.0
+88.375
 
 ## Grades
  * [90.0](./Cleansing_Practices_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -42,5 +42,7 @@ These practices are not meant to replicate the Old Testament laws but rather to 
  * [95.0](./Cleansing_Practices_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Cleansing_Practices_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Cleansing_Practices_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Cleansing_Practices_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [82.0](./Cleansing_Practices_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Cleansing_Practices.md)

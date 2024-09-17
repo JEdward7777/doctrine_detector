@@ -25,7 +25,7 @@ In Islam, keeping the faith means maintaining one's commitment to the fundamenta
 In conclusion, while the phrase "keep the faith" may have different connotations in Christianity and Islam, both traditions share the importance of maintaining one's spiritual commitment and conviction. As Muslims, we acknowledge Jesus as a prophet and respect the faith he represents, even as we hold to our own understanding of his role and message within the broader context of Islamic belief.
 
 ## Average Grade
-79.16666666666667
+79.375
 
 ## Grades
  * [90.0](./The_Faith_Expressions_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ In conclusion, while the phrase "keep the faith" may have different connotations
  * [70.0](./The_Faith_Expressions_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./The_Faith_Expressions_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./The_Faith_Expressions_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./The_Faith_Expressions_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./The_Faith_Expressions_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/The_Faith_Expressions.md)

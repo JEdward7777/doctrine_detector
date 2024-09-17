@@ -23,7 +23,7 @@ Here are some examples of how these terms could be used in Scriptural context:
 * Instead of "Then I heard a loud voice shouting across the heavens: 'It has come at last— salvation and power and the Kingdom of our God, and the authority of his Christ.' For the accuser of our brothers and sisters, who accuses them before our God day and night, has been hurled down to earth." (Revelation 12:10-11), one could say: "I heard a great voice booming across the heavens, proclaiming, 'The time has arrived— redemption, might, and the dominion of our God, along with the authority of His anointed.' For the indictor of our kin, who constantly presents charges against them before our God, has been cast out from heaven to earth."
 
 ## Average Grade
-87.5
+86.875
 
 ## Grades
  * [90.0](./Definition_and_Translation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ Here are some examples of how these terms could be used in Scriptural context:
  * [90.0](./Definition_and_Translation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Definition_and_Translation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Definition_and_Translation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Definition_and_Translation_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Definition_and_Translation_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Definition_and_Translation.md)

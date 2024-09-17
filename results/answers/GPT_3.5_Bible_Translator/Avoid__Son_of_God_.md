@@ -19,7 +19,7 @@ While it is essential to consider how certain terms may be understood in differe
 Ultimately, the goal of Bible translation is to faithfully communicate the message of the original text in a way that is clear and understandable to the target audience, while also preserving the theological truth of the Scriptures.
 
 ## Average Grade
-94.16666666666667
+91.875
 
 ## Grades
  * [95.0](./Avoid__Son_of_God__grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ Ultimately, the goal of Bible translation is to faithfully communicate the messa
  * [95.0](./Avoid__Son_of_God__grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Avoid__Son_of_God__grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Avoid__Son_of_God__grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Avoid__Son_of_God__grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Avoid__Son_of_God__grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Avoid__Son_of_God_.md)

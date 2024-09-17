@@ -20,7 +20,7 @@ Recognizing the importance of evangelism in the Christian faith.
 Here, Jesus commands his apostles to go out and make disciples (teach people to follow him) among all nations (people groups), baptizing them in the name of the Father, Son, and Holy Spirit, and teaching them to obey everything he has commanded. He also assures them that he will always be with them, to the end of the age. This is commonly known as the Great Commission, which underscores the Christian responsibility for evangelism and discipleship.
 
 ## Average Grade
-88.33333333333333
+89.375
 
 ## Grades
  * [90.0](./Biblical_Exhortation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -29,5 +29,7 @@ Here, Jesus commands his apostles to go out and make disciples (teach people to 
  * [95.0](./Biblical_Exhortation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Biblical_Exhortation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [95.0](./Biblical_Exhortation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Biblical_Exhortation_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Biblical_Exhortation_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Biblical_Exhortation.md)

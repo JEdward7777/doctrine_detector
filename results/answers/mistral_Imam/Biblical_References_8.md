@@ -23,7 +23,7 @@ Exploring the biblical foundation for the theology of redemption.
 These verses demonstrate the concept of ransom as payment made to set someone free or make atonement for their sins. The understanding of redemption in Christianity is deeply rooted in this idea, with Jesus being considered the divine ransom who paid the price for humanity's salvation through his death and resurrection. In Islam, we do not hold the same belief regarding Jesus as a sacrificial lamb but view him as a prophet and messenger of God who was not crucified or killed (Sahih Muslim 194). Instead, Muslims believe in atonement achieved through repentance and good deeds.
 
 ## Average Grade
-79.16666666666667
+76.25
 
 ## Grades
  * [90.0](./Biblical_References_8_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ These verses demonstrate the concept of ransom as payment made to set someone fr
  * [90.0](./Biblical_References_8_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Biblical_References_8_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Biblical_References_8_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Biblical_References_8_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Biblical_References_8_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Biblical_References_8.md)

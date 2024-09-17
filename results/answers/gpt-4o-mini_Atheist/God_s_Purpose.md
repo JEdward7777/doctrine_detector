@@ -31,7 +31,7 @@ Discerning what one believes to be a divine plan can vary greatly depending on i
 Ultimately, the journey of understanding one's purpose is personal and can be informed by a variety of cultural, philosophical, and practical influences. Emphasizing self-agency and exploration can be a fulfilling way to navigate life's complexities without relying on a predetermined divine plan.
 
 ## Average Grade
-50.0
+51.875
 
 ## Grades
  * [50.0](./God_s_Purpose_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -40,5 +40,7 @@ Ultimately, the journey of understanding one's purpose is personal and can be in
  * [40.0](./God_s_Purpose_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./God_s_Purpose_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./God_s_Purpose_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./God_s_Purpose_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [30.0](./God_s_Purpose_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/God_s_Purpose.md)

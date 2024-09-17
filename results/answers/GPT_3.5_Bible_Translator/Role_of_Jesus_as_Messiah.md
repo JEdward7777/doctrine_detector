@@ -21,7 +21,7 @@ Through his teachings, miracles, and sacrificial death on the cross, Jesus demon
 As Christians, we believe that Jesus will one day return to fully establish God's kingdom on earth, bringing ultimate justice and restoration. In the meantime, we are called to live as citizens of the kingdom, following Jesus' example and sharing the good news of salvation with others. The concept of the kingdom and Jesus' role as the Messiah are therefore inextricably connected in the Christian faith, pointing to the ultimate fulfillment of God's redemptive plan for the world.
 
 ## Average Grade
-91.66666666666667
+91.875
 
 ## Grades
  * [95.0](./Role_of_Jesus_as_Messiah_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ As Christians, we believe that Jesus will one day return to fully establish God'
  * [95.0](./Role_of_Jesus_as_Messiah_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Role_of_Jesus_as_Messiah_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Role_of_Jesus_as_Messiah_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [95.0](./Role_of_Jesus_as_Messiah_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Role_of_Jesus_as_Messiah_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Role_of_Jesus_as_Messiah.md)

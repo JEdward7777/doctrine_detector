@@ -19,7 +19,7 @@ For believers, the idea of God being absolutely holy can impact their relationsh
 However, it is important to note that these beliefs are based on faith and are not supported by empirical evidence. From an atheistic perspective, the concept of God's absolute holiness is viewed as a subjective belief system that shapes individuals' perceptions and behaviors within a religious framework. It does not have any inherent factual basis outside of religious teachings.
 
 ## Average Grade
-55.0
+56.25
 
 ## Grades
  * [65.0](./Understanding_Holiness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ However, it is important to note that these beliefs are based on faith and are n
  * [60.0](./Understanding_Holiness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Holiness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Understanding_Holiness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Understanding_Holiness_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Understanding_Holiness_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Holiness.md)

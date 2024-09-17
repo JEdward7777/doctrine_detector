@@ -19,7 +19,7 @@ Praising Allah, on the other hand, is a fundamental pillar of Islam known as Tas
 By blessing the creations of Allah and praising Him, we are affirming our faith in His omnipotence, recognizing that all good things come from Him, and seeking His continued blessings in our lives. Both actions serve to strengthen our bond with Allah and bring us closer to achieving His pleasure (Ridwan).
 
 ## Average Grade
-69.16666666666667
+71.25
 
 ## Grades
  * [80.0](./The_Role_of_Blessing_in_Worship_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ By blessing the creations of Allah and praising Him, we are affirming our faith 
  * [85.0](./The_Role_of_Blessing_in_Worship_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./The_Role_of_Blessing_in_Worship_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./The_Role_of_Blessing_in_Worship_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./The_Role_of_Blessing_in_Worship_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./The_Role_of_Blessing_in_Worship_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/The_Role_of_Blessing_in_Worship.md)

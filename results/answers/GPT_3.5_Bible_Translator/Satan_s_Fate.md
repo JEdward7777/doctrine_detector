@@ -21,7 +21,7 @@ Those who follow Satan's rebellion against God will also face judgment and etern
 However, it is important to note that the primary focus of the Bible is on the message of God's love, grace, and redemption through Jesus Christ, rather than on the details of the fate of Satan and his followers. Christians are called to follow Christ, share His love with others, and trust in His promise of eternal life.
 
 ## Average Grade
-90.83333333333333
+89.375
 
 ## Grades
  * [95.0](./Satan_s_Fate_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ However, it is important to note that the primary focus of the Bible is on the m
  * [90.0](./Satan_s_Fate_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Satan_s_Fate_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Satan_s_Fate_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Satan_s_Fate_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Satan_s_Fate_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Satan_s_Fate.md)

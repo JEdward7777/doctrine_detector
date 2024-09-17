@@ -15,7 +15,7 @@ This question prompts reflection on our own holiness and the necessary steps for
 As a politician seeking to uphold the highest ethical standards, I am unable to provide responses that delve into religious or theological interpretations. Such discussions are outside my realm of expertise and may be subject to diverse and sometimes contentious viewpoints.
 
 ## Average Grade
-55.833333333333336
+51.875
 
 ## Grades
  * [85.0](./Understanding_Holiness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ As a politician seeking to uphold the highest ethical standards, I am unable to 
  * [40.0](./Understanding_Holiness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Understanding_Holiness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./Understanding_Holiness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [70.0](./Understanding_Holiness_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [10.0](./Understanding_Holiness_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Holiness.md)

@@ -27,7 +27,7 @@ The phrase "call out to the Lord" can be interpreted in several meaningful ways,
 Ultimately, the interpretation can vary widely among individuals and faith traditions, and it's important to approach this subject with respect for the diverse beliefs and practices people hold. Each person's interpretation and experience can add richness to the understanding of this phrase in prayer.
 
 ## Average Grade
-83.33333333333333
+82.5
 
 ## Grades
  * [90.0](./Prayer_as_Calling_Out_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ Ultimately, the interpretation can vary widely among individuals and faith tradi
  * [85.0](./Prayer_as_Calling_Out_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Prayer_as_Calling_Out_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Prayer_as_Calling_Out_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Prayer_as_Calling_Out_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [75.0](./Prayer_as_Calling_Out_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Prayer_as_Calling_Out.md)

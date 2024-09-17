@@ -29,7 +29,7 @@ Recognizing the divine nature of Jesus and the implications of His crucifixion.
 **Ultimately, the significance of the centurion's reaction is a matter of individual faith and interpretation for Christians.** Muslims may find their own insights and interpretations of the event based on their own beliefs and traditions.
 
 ## Average Grade
-84.16666666666667
+83.125
 
 ## Grades
  * [85.0](./Centurion_at_the_Crucifixion_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ Recognizing the divine nature of Jesus and the implications of His crucifixion.
  * [85.0](./Centurion_at_the_Crucifixion_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Centurion_at_the_Crucifixion_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Centurion_at_the_Crucifixion_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Centurion_at_the_Crucifixion_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [75.0](./Centurion_at_the_Crucifixion_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Centurion_at_the_Crucifixion.md)

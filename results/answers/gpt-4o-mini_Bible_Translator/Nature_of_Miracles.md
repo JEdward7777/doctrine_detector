@@ -29,7 +29,7 @@ The miracles performed by Jesus reveal several key aspects of His identity, whic
 In summary, the miracles of Jesus reveal Him to be the compassionate Messiah with divine authority and the power to transform lives, fulfilling Old Testament prophecies, demonstrating His identity as the Son of God, and calling people to faith in Him.
 
 ## Average Grade
-93.33333333333333
+93.125
 
 ## Grades
  * [95.0](./Nature_of_Miracles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ In summary, the miracles of Jesus reveal Him to be the compassionate Messiah wit
  * [95.0](./Nature_of_Miracles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Nature_of_Miracles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Nature_of_Miracles_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Nature_of_Miracles_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Nature_of_Miracles_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Nature_of_Miracles.md)

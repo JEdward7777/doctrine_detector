@@ -26,7 +26,7 @@ It is essential to note that these factors are not necessarily connected to any 
 In recent years, some Bible translations have begun using Yahweh instead of "Lord" to translate YHWH. This trend has been driven by a desire to accurately represent the original Hebrew text and to avoid the accumulated cultural baggage associated with the term "Lord." Ultimately, the choice between "LORD" and "Yahweh" in translations depends on the theological and cultural priorities of the translator or publishing organization.
 
 ## Average Grade
-70.0
+68.125
 
 ## Grades
  * [60.0](./Translation_of__Yahweh__grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,5 +35,7 @@ In recent years, some Bible translations have begun using Yahweh instead of "Lor
  * [75.0](./Translation_of__Yahweh__grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Translation_of__Yahweh__grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Translation_of__Yahweh__grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Translation_of__Yahweh__grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Translation_of__Yahweh__grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Translation_of__Yahweh_.md)

@@ -27,7 +27,7 @@ In Christian theology, the concept of purification from sin refers to the proces
 In summary, the experience of purification from sin for a Christian encompasses initial forgiveness through faith in Christ, ongoing transformation through sanctification, the practice of confession and repentance, the work of the Holy Spirit, and the hope of ultimate glorification. It is a holistic journey that reflects both spiritual reality and daily living in the light of God’s grace.
 
 ## Average Grade
-87.5
+88.5
 
 ## Grades
  * [90.0](./Personal_Application_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ In summary, the experience of purification from sin for a Christian encompasses 
  * [90.0](./Personal_Application_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Personal_Application_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Personal_Application_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Personal_Application_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [93.0](./Personal_Application_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Personal_Application.md)

@@ -19,7 +19,7 @@ This quality of righteousness implies that God's actions are guided by principle
 However, it's important to note that interpretations may vary across different religious traditions and philosophical beliefs. For some, God's righteousness is inseparable from His omnipotence, omniscience, and benevolence. For others, understanding the nature of a righteous God may involve grappling with complex questions about suffering, free will, and moral relativism.
 
 ## Average Grade
-87.5
+86.875
 
 ## Grades
  * [90.0](./Understanding_Righteousness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ However, it's important to note that interpretations may vary across different r
  * [95.0](./Understanding_Righteousness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Righteousness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Understanding_Righteousness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Righteousness_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Understanding_Righteousness_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Righteousness.md)

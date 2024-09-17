@@ -15,7 +15,7 @@ Understanding the foundational aspect of faith in Christianity.
 Having faith in Jesus typically refers to believing in his teachings, principles, and values outlined in various religious texts like the Bible. It often involves trusting in his wisdom, following his moral guidance, and believing in his role as a spiritual leader. For those who adhere to the Christian faith, having faith in Jesus also encompasses accepting him as the savior and son of God, as well as believing in the concept of salvation through his sacrifice.
 
 ## Average Grade
-87.5
+85.625
 
 ## Grades
  * [90.0](./Understanding_Faith_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ Having faith in Jesus typically refers to believing in his teachings, principles
  * [90.0](./Understanding_Faith_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Faith_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Understanding_Faith_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Faith_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [75.0](./Understanding_Faith_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Faith.md)

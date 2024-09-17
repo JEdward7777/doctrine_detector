@@ -21,7 +21,7 @@ The idea of Jesus as a ransom can be understood in the context of redemption. In
 In Islamic teachings, Jesus (peace be upon him) is considered a prophet sent by Allah to guide humanity. Muslims believe that Jesus did not die on the cross but was raised to heaven before his crucifixion. The beliefs about Jesus' role as a ransom are unique to Christianity and not shared in Islam.
 
 ## Average Grade
-84.16666666666667
+82.5
 
 ## Grades
  * [80.0](./Ransom_Meaning_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ In Islamic teachings, Jesus (peace be upon him) is considered a prophet sent by 
  * [85.0](./Ransom_Meaning_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Ransom_Meaning_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Ransom_Meaning_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Ransom_Meaning_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Ransom_Meaning_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Ransom_Meaning.md)

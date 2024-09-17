@@ -21,7 +21,7 @@ Differentiating the types of love while ensuring that all forms align with a bib
 In summary, both brotherly love (Agape) and romantic love (Philia or Eros) can fit into the biblical definition of love as they are selfless, seeking the well-being of others and fostering strong relationships based on mutual respect, care, and commitment. It is crucial to remember that these expressions of love should always be guided by the teachings of Christ and practiced with kindness, understanding, and compassion towards all people.
 
 ## Average Grade
-91.66666666666667
+90.0
 
 ## Grades
  * [95.0](./Types_of_Love_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ In summary, both brotherly love (Agape) and romantic love (Philia or Eros) can f
  * [90.0](./Types_of_Love_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Types_of_Love_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Types_of_Love_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Types_of_Love_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Types_of_Love_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Types_of_Love.md)

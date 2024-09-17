@@ -23,7 +23,7 @@ In both passages, we see the theme of exaltation being linked to humility, submi
 In the Islamic context, we also find similar themes of humility, submission, and obedience to God as essential elements of our relationship with Him. Muslims believe that God exalts those who submit themselves to His will and strive for righteousness in their daily lives. However, it is important to remember that each faith tradition has its unique beliefs and practices, and comparisons should be made with respect for the differences between them.
 
 ## Average Grade
-75.83333333333333
+75.0
 
 ## Grades
  * [80.0](./Scriptural_References_7_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ In the Islamic context, we also find similar themes of humility, submission, and
  * [80.0](./Scriptural_References_7_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Scriptural_References_7_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Scriptural_References_7_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Scriptural_References_7_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Scriptural_References_7_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Scriptural_References_7.md)

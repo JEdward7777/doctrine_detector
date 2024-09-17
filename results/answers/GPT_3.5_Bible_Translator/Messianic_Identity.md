@@ -21,7 +21,7 @@ By being called the "King of the Jews," Jesus is not only identified as the fulf
 In conclusion, the title "King of the Jews" is a powerful affirmation of Jesus' identity as the long-awaited Messiah who fulfills biblical prophecies and establishes his kingdom through his sacrificial death and resurrection for the redemption of all humanity.
 
 ## Average Grade
-92.5
+93.125
 
 ## Grades
  * [95.0](./Messianic_Identity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ In conclusion, the title "King of the Jews" is a powerful affirmation of Jesus' 
  * [95.0](./Messianic_Identity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Messianic_Identity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Messianic_Identity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [95.0](./Messianic_Identity_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Messianic_Identity_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Messianic_Identity.md)

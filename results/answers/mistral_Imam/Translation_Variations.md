@@ -23,7 +23,7 @@ Exploring different interpretations of biblical terms to deepen understanding.
 5. Devout Fidelity: This term emphasizes the loyalty, commitment, and adherence to the teachings of Islam that Muslims are expected to display in their daily lives as part of their covenant with Allah. In this sense, 'devout fidelity' could be used interchangeably with 'covenant faithfulness'.
 
 ## Average Grade
-74.16666666666667
+74.375
 
 ## Grades
  * [80.0](./Translation_Variations_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ Exploring different interpretations of biblical terms to deepen understanding.
  * [80.0](./Translation_Variations_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Translation_Variations_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Translation_Variations_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Translation_Variations_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [65.0](./Translation_Variations_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Translation_Variations.md)

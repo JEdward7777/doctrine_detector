@@ -19,7 +19,7 @@ What distinguishes an evangelist from other Christians is their strong emphasis 
 It is important to note that not all Christians identify as evangelists, and there are different approaches to sharing faith within Christianity. Some Christians may prioritize building relationships and demonstrating their faith through their actions rather than actively preaching or proselytizing. Islam similarly values sharing one's beliefs with kindness and wisdom, but it does not endorse aggressive evangelism or attempting to convert others forcefully.
 
 ## Average Grade
-69.16666666666667
+68.125
 
 ## Grades
  * [85.0](./Gift_of_Evangelism_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ It is important to note that not all Christians identify as evangelists, and the
  * [80.0](./Gift_of_Evangelism_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Gift_of_Evangelism_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Gift_of_Evangelism_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Gift_of_Evangelism_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Gift_of_Evangelism_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Gift_of_Evangelism.md)

@@ -19,7 +19,7 @@ In Islam, the concept of predestination (Qadar) is also present, however, it is 
 So, while both Christianity and Islam believe in the concept of predestination in some form, the understanding of how it works and the implications for human free will differ between the two faiths.
 
 ## Average Grade
-80.83333333333333
+77.5
 
 ## Grades
  * [95.0](./Foreordain_vs_Predestine_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ So, while both Christianity and Islam believe in the concept of predestination i
  * [90.0](./Foreordain_vs_Predestine_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Foreordain_vs_Predestine_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Foreordain_vs_Predestine_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Foreordain_vs_Predestine_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Foreordain_vs_Predestine_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Foreordain_vs_Predestine.md)

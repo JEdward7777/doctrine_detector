@@ -23,7 +23,7 @@ This question addresses the foundational beliefs of Christianity and the call to
 In summary, according to Christian theology, salvation comes through faith in Jesus Christ as a free gift from God, which is extended to those who acknowledge their sinfulness and accept Him as their Savior. This belief can vary among different denominations, but these verses provide a foundational understanding of what the Bible teaches about salvation.
 
 ## Average Grade
-91.66666666666667
+91.875
 
 ## Grades
  * [90.0](./Requirements_for_Salvation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ In summary, according to Christian theology, salvation comes through faith in Je
  * [90.0](./Requirements_for_Salvation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Requirements_for_Salvation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Requirements_for_Salvation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Requirements_for_Salvation_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Requirements_for_Salvation_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Requirements_for_Salvation.md)

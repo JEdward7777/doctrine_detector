@@ -25,7 +25,7 @@ Throughout the Old Testament, Shaddai is often used alongside other divine names
 In conclusion, the term "Shaddai" in the Old Testament conveys a sense of God's power, omnipotence, and majesty. As we navigate the rich tapestry of religious traditions, I hope that this response has provided a nuanced understanding of this important biblical concept. May our dialogue be characterized by mutual respect, empathy, and a commitment to understanding one another's perspectives.
 
 ## Average Grade
-84.0
+81.125
 
 ## Grades
  * [90.0](./Understanding_Shaddai_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ In conclusion, the term "Shaddai" in the Old Testament conveys a sense of God's 
  * [87.0](./Understanding_Shaddai_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Shaddai_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Understanding_Shaddai_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Shaddai_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Understanding_Shaddai_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Shaddai.md)

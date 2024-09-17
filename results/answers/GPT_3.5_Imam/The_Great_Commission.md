@@ -15,7 +15,7 @@ Understanding the mission of discipleship in the context of the Great Commission
 In the Islamic belief, Jesus (Isa) is considered a Prophet, not the Son of God as in Christianity. In Islam, it is believed that Jesus did not actually die but was raised to heaven by Allah. Therefore, there is no specific account of Jesus giving any command to his disciples before ascending to heaven in Islamic teachings. However, in Islamic belief, it is understood that Prophets generally taught their followers to worship and obey Allah, and to follow the righteous path.
 
 ## Average Grade
-31.666666666666668
+30.0
 
 ## Grades
  * [0.0](./The_Great_Commission_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ In the Islamic belief, Jesus (Isa) is considered a Prophet, not the Son of God a
  * [20.0](./The_Great_Commission_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./The_Great_Commission_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [30.0](./The_Great_Commission_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [20.0](./The_Great_Commission_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [30.0](./The_Great_Commission_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/The_Great_Commission.md)

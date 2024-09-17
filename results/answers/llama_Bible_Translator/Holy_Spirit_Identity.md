@@ -29,7 +29,7 @@ This understanding shapes our perception of the Spirit's involvement in several 
 In summary, the identity of the Holy Spirit as God profoundly impacts how Christians view His role in their lives. We see Him not just as a gentle guide but as an all-knowing, all-powerful, and eternal God who dwells within us, guides us, transforms us, and intercedes on our behalf.
 
 ## Average Grade
-93.33333333333333
+93.75
 
 ## Grades
  * [95.0](./Holy_Spirit_Identity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ In summary, the identity of the Holy Spirit as God profoundly impacts how Christ
  * [95.0](./Holy_Spirit_Identity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Holy_Spirit_Identity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Holy_Spirit_Identity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [95.0](./Holy_Spirit_Identity_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Holy_Spirit_Identity_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Holy_Spirit_Identity.md)

@@ -23,7 +23,7 @@ On the other hand, neglecting our relationship with God, engaging in sinful beha
 Ultimately, our responses to God through our thoughts, words, and actions can either bring us closer to His will for us or lead us away from it. It is through conscious effort, self-reflection, and seeking forgiveness for our shortcomings that we can align ourselves with God's will and benefit from His mercy and guidance.
 
 ## Average Grade
-60.0
+64.375
 
 ## Grades
  * [70.0](./Interacting_with_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ Ultimately, our responses to God through our thoughts, words, and actions can ei
  * [40.0](./Interacting_with_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Interacting_with_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Interacting_with_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Interacting_with_God_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Interacting_with_God_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Interacting_with_God.md)

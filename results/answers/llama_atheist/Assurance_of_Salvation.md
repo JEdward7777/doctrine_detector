@@ -27,7 +27,7 @@ Now, I know this approach may not sit well with those who hold strong religious 
 So, what assurance do those who believe in Jesus receive? Well, that's a question best left to individual interpretation! Some may find solace in the idea of an afterlife, others in the sense of community and shared values. Whatever their reasons, it's essential to recognize that these beliefs are shaped by complex cultural and historical factors – rather than relying on literal or supernatural explanations.
 
 ## Average Grade
-25.833333333333332
+33.75
 
 ## Grades
  * [10.0](./Assurance_of_Salvation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ So, what assurance do those who believe in Jesus receive? Well, that's a questio
  * [25.0](./Assurance_of_Salvation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Assurance_of_Salvation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./Assurance_of_Salvation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Assurance_of_Salvation_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [30.0](./Assurance_of_Salvation_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Assurance_of_Salvation.md)

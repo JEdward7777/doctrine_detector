@@ -29,7 +29,7 @@ Furthermore, the rainbow has been interpreted in Islamic exegesis (Tafsir) as a 
 In conclusion, my brother or sister in faith, the story of the rainbow as a sign of God's covenant with humanity in Genesis is a powerful reminder of Allah's promise to preserve and protect His creation. May it inspire us to live in harmony with nature and with each other, under the benevolent guidance of our Creator.
 
 ## Average Grade
-85.83333333333333
+82.5
 
 ## Grades
  * [85.0](./Sign_as_Covenant_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ In conclusion, my brother or sister in faith, the story of the rainbow as a sign
  * [90.0](./Sign_as_Covenant_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Sign_as_Covenant_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Sign_as_Covenant_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Sign_as_Covenant_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Sign_as_Covenant_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Sign_as_Covenant.md)

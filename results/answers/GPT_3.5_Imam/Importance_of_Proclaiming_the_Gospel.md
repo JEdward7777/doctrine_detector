@@ -27,7 +27,7 @@ There are a few reasons why Christians consider it important to proclaim the 'go
 It's important to note that while proclaiming the 'good news' is a central aspect of Christian faith, Muslims have a different perspective on spreading the message of Islam. In Islam, the emphasis is on inviting others to the worship of one God (Allah) and following the teachings of the Prophet Muhammad (peace be upon him), rather than spreading 'good news' in the same way Christians do.
 
 ## Average Grade
-87.5
+86.25
 
 ## Grades
  * [95.0](./Importance_of_Proclaiming_the_Gospel_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ It's important to note that while proclaiming the 'good news' is a central aspec
  * [90.0](./Importance_of_Proclaiming_the_Gospel_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Importance_of_Proclaiming_the_Gospel_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Importance_of_Proclaiming_the_Gospel_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Importance_of_Proclaiming_the_Gospel_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Importance_of_Proclaiming_the_Gospel_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Importance_of_Proclaiming_the_Gospel.md)

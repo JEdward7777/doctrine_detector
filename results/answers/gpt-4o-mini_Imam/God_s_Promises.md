@@ -27,7 +27,7 @@ In the context of Islamic teachings, while the Bible is not our primary religiou
 In summary, while the Islamic perspective draws from the Quran and Hadith, the idea of God's promises serves as an essential element in understanding God's relationship with humanity across both the Quran and the Bible. These promises, rooted in trust, hope, and guidance, foster a deeper relationship with God, urging believers to live righteously and keeping the faith alive throughout their trials and tribulations.
 
 ## Average Grade
-83.66666666666667
+80.875
 
 ## Grades
  * [80.0](./God_s_Promises_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ In summary, while the Islamic perspective draws from the Quran and Hadith, the i
  * [85.0](./God_s_Promises_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./God_s_Promises_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./God_s_Promises_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./God_s_Promises_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./God_s_Promises_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/God_s_Promises.md)

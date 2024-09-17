@@ -25,7 +25,7 @@ Throughout the Old Testament, the name "Israel" is often used to describe the en
 In a broader sense, the name "Israel" can be seen as a foreshadowing of Jesus Christ, who is often referred to as the "Savior of Israel" (Luke 2:25-26). This highlights the connection between the Old Testament promises made to the nation of Israel and their ultimate fulfillment in Jesus Christ, the Messiah.
 
 ## Average Grade
-92.5
+91.25
 
 ## Grades
  * [95.0](./Israel_s_Identity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ In a broader sense, the name "Israel" can be seen as a foreshadowing of Jesus Ch
  * [95.0](./Israel_s_Identity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Israel_s_Identity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Israel_s_Identity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Israel_s_Identity_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Israel_s_Identity_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Israel_s_Identity.md)

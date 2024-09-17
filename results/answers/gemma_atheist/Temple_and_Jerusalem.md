@@ -42,7 +42,7 @@ The association of the term "Zion" with the temple in Jerusalem is a complex and
 The association of the term "Zion" with the temple in Jerusalem is a complex and nuanced issue with historical, political, and religious dimensions. It is important to consider the multiple perspectives and interpretations of this term when engaging in discussions related to the temple or the land of Israel.
 
 ## Average Grade
-80.83333333333333
+81.875
 
 ## Grades
  * [85.0](./Temple_and_Jerusalem_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -51,5 +51,7 @@ The association of the term "Zion" with the temple in Jerusalem is a complex and
  * [85.0](./Temple_and_Jerusalem_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Temple_and_Jerusalem_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Temple_and_Jerusalem_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Temple_and_Jerusalem_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Temple_and_Jerusalem_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Temple_and_Jerusalem.md)

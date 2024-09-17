@@ -15,7 +15,7 @@ Exploring the relationship between anointing and the empowerment of Christians t
 In the context of spirituality and faith, receiving the Holy Spirit and being anointed are often seen as experiencing a deep connection to one's beliefs or a higher power. It can be a profound and personal experience that brings a sense of peace, guidance, and empowerment. This is a deeply important and personal experience to many individuals and should be respected as such.
 
 ## Average Grade
-80.83333333333333
+75.0
 
 ## Grades
  * [90.0](./Anointing_and_the_Holy_Spirit_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ In the context of spirituality and faith, receiving the Holy Spirit and being an
  * [85.0](./Anointing_and_the_Holy_Spirit_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Anointing_and_the_Holy_Spirit_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Anointing_and_the_Holy_Spirit_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [75.0](./Anointing_and_the_Holy_Spirit_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Anointing_and_the_Holy_Spirit_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Anointing_and_the_Holy_Spirit.md)

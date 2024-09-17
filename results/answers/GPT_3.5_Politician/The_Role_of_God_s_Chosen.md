@@ -19,7 +19,7 @@ The idea of being chosen by God implies a special relationship or task given by 
 It is important to approach discussions about religious figures and beliefs with openness, understanding, and a willingness to listen to different perspectives. We should strive to promote respect and harmony among individuals with diverse beliefs and backgrounds.
 
 ## Average Grade
-85.0
+80.625
 
 ## Grades
  * [90.0](./The_Role_of_God_s_Chosen_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ It is important to approach discussions about religious figures and beliefs with
  * [90.0](./The_Role_of_God_s_Chosen_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./The_Role_of_God_s_Chosen_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./The_Role_of_God_s_Chosen_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./The_Role_of_God_s_Chosen_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./The_Role_of_God_s_Chosen_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/The_Role_of_God_s_Chosen.md)

@@ -25,7 +25,7 @@ In Islam, lamentation or expressing grief and sorrow is a natural and human reac
 However, it is important to remember that while lamentation is a natural response to grief, it should not lead to despair or questioning the decree of Allah. Believers are encouraged to have patience (sabr) and trust in Allah's wisdom and mercy, knowing that He is the best of planners. Additionally, seeking comfort in prayer, recitation of the Quran, and seeking support from loved ones and the community can help in navigating through difficult times with faith and resilience.
 
 ## Average Grade
-85.83333333333333
+82.5
 
 ## Grades
  * [90.0](./Understanding_Lament_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ However, it is important to remember that while lamentation is a natural respons
  * [85.0](./Understanding_Lament_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Lament_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Understanding_Lament_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Lament_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Understanding_Lament_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Lament.md)

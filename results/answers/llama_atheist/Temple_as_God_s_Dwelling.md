@@ -32,7 +32,7 @@ When examining these biblical concepts through a cultural lens, it's essential t
 In conclusion, while an atheist like myself may not subscribe to the theological underpinnings of these biblical concepts, we can still appreciate the rich cultural heritage and historical context that shaped the development of temple traditions in both the Old and New Testaments.
 
 ## Average Grade
-54.166666666666664
+57.5
 
 ## Grades
  * [70.0](./Temple_as_God_s_Dwelling_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -41,5 +41,7 @@ In conclusion, while an atheist like myself may not subscribe to the theological
  * [50.0](./Temple_as_God_s_Dwelling_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Temple_as_God_s_Dwelling_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [30.0](./Temple_as_God_s_Dwelling_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Temple_as_God_s_Dwelling_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Temple_as_God_s_Dwelling_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Temple_as_God_s_Dwelling.md)

@@ -21,7 +21,7 @@ Just as the firstborn son had certain privileges and responsibilities in an eart
 It is important to remember that our birthright as Christians is not based on our earthly status or position, but on our identity in Christ. Through faith in Jesus, we are all given the same birthright as children of God, regardless of our background or family history. This should encourage us to live out our faith in a way that honors God and fulfills the calling He has placed on our lives.
 
 ## Average Grade
-92.0
+90.875
 
 ## Grades
  * [95.0](./Firstborn_Blessing_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ It is important to remember that our birthright as Christians is not based on ou
  * [90.0](./Firstborn_Blessing_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Firstborn_Blessing_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Firstborn_Blessing_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Firstborn_Blessing_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Firstborn_Blessing_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Firstborn_Blessing.md)

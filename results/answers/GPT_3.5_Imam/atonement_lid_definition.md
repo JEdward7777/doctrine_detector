@@ -19,7 +19,7 @@ In Islamic teachings, seeking forgiveness for sins is a fundamental aspect of wo
 The concept of seeking forgiveness and atonement is central to Islamic beliefs and practices. Muslims are encouraged to seek forgiveness regularly through prayers, acts of charity, fasting, and seeking knowledge. The mercy and forgiveness of Allah are limitless, and sincere repentance is always accepted. The Prophet Muhammad (peace be upon him) emphasized the importance of seeking forgiveness and repenting for one's sins to attain spiritual purification and closeness to Allah.
 
 ## Average Grade
-70.0
+68.75
 
 ## Grades
  * [90.0](./atonement_lid_definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ The concept of seeking forgiveness and atonement is central to Islamic beliefs a
  * [90.0](./atonement_lid_definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./atonement_lid_definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./atonement_lid_definition_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [70.0](./atonement_lid_definition_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./atonement_lid_definition_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/atonement_lid_definition.md)

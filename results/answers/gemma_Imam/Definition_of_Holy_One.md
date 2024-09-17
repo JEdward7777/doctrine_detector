@@ -37,7 +37,7 @@ The term "Holy One" appears throughout the Bible and holds great significance fo
 The term "Holy One" holds significance in both Christianity and Islam, reflecting the purity and sanctity associated with Jesus Christ. While Muslims acknowledge Jesus' importance as a prophet, their beliefs diverge from Christian interpretations of his divinity.
 
 ## Average Grade
-53.333333333333336
+55.625
 
 ## Grades
  * [40.0](./Definition_of_Holy_One_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -46,5 +46,7 @@ The term "Holy One" holds significance in both Christianity and Islam, reflectin
  * [60.0](./Definition_of_Holy_One_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Definition_of_Holy_One_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [30.0](./Definition_of_Holy_One_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Definition_of_Holy_One_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Definition_of_Holy_One_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Definition_of_Holy_One.md)

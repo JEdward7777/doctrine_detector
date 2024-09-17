@@ -42,7 +42,7 @@ The principle of mercy plays a significant role in God's judgment of us. Islam e
 **Therefore, in Islamic belief, the principle of mercy is a vital aspect of God's judgment, reminding Muslims of Allah's boundless love, compassion, and willingness to forgive and pardon those who repent and seek his forgiveness.**
 
 ## Average Grade
-53.333333333333336
+55.625
 
 ## Grades
  * [60.0](./The_Importance_of_Mercy_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -51,5 +51,7 @@ The principle of mercy plays a significant role in God's judgment of us. Islam e
  * [70.0](./The_Importance_of_Mercy_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./The_Importance_of_Mercy_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [30.0](./The_Importance_of_Mercy_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./The_Importance_of_Mercy_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./The_Importance_of_Mercy_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/The_Importance_of_Mercy.md)

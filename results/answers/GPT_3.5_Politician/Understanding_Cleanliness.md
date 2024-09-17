@@ -15,7 +15,7 @@ Understanding the significance of cleanliness in a spiritual context can guide b
 It is important to recognize and respect the diversity of beliefs and interpretations when discussing religious texts such as the Bible. Different individuals and communities may have varying perspectives on the concepts of 'clean' and 'unclean' as they relate to moral purity. It is essential to approach these discussions with sensitivity and open-mindedness, recognizing that interpretations can vary greatly among different religious traditions and individuals. Ultimately, the goal should be to foster understanding and dialogue rather than engaging in divisive or exclusive interpretations.
 
 ## Average Grade
-78.33333333333333
+74.375
 
 ## Grades
  * [85.0](./Understanding_Cleanliness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ It is important to recognize and respect the diversity of beliefs and interpreta
  * [80.0](./Understanding_Cleanliness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Cleanliness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Understanding_Cleanliness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Cleanliness_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Understanding_Cleanliness_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Cleanliness.md)

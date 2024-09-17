@@ -29,7 +29,7 @@ In Christian theology, the role of Jesus in salvation is central and multifacete
 From a Muslim perspective, while Jesus (known as Isa in Islam) is respected as a prophet and messenger who performed miracles, Muslims believe that salvation is achieved through submission to Allah, adherence to the teachings of the Qur'an, and following the guidance of the Prophet Muhammad. Islam does not accept the concept of the divinity of Jesus or the idea of His crucifixion leading to atonement for sins. Instead, Muslims believe that salvation is ultimately a matter of God's mercy and justice, where each individual is accountable for their own deeds.
 
 ## Average Grade
-90.0
+89.375
 
 ## Grades
  * [95.0](./Role_of_Jesus_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ From a Muslim perspective, while Jesus (known as Isa in Islam) is respected as a
  * [95.0](./Role_of_Jesus_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Role_of_Jesus_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Role_of_Jesus_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Role_of_Jesus_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Role_of_Jesus_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Role_of_Jesus.md)

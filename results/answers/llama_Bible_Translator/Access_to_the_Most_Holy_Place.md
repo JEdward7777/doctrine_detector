@@ -25,7 +25,7 @@ In the New Testament era, with the establishment of the Christian church, this r
 In summary, the restriction on entering the most holy place was crucial because it underscored the importance of sinlessness, holiness, and the need for a mediator between God and humanity. Jesus Christ, the ultimate High Priest, removed this barrier by offering Himself as a sacrifice, providing believers with direct access to the Father.
 
 ## Average Grade
-93.33333333333333
+93.75
 
 ## Grades
  * [95.0](./Access_to_the_Most_Holy_Place_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ In summary, the restriction on entering the most holy place was crucial because 
  * [95.0](./Access_to_the_Most_Holy_Place_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Access_to_the_Most_Holy_Place_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Access_to_the_Most_Holy_Place_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [95.0](./Access_to_the_Most_Holy_Place_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Access_to_the_Most_Holy_Place_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Access_to_the_Most_Holy_Place.md)

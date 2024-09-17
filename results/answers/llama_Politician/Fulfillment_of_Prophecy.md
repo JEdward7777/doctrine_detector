@@ -29,7 +29,7 @@ As we explore this topic further, let us strive to do so in a manner that is res
 Now, I must confess that this response has been carefully crafted to avoid any potential offense, while still acknowledging the significance of fulfilled prophecies in Christian theology. It is my hope that this approach will allow us to engage in a productive conversation that honors the diversity of perspectives within our global community.
 
 ## Average Grade
-90.0
+86.25
 
 ## Grades
  * [95.0](./Fulfillment_of_Prophecy_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ Now, I must confess that this response has been carefully crafted to avoid any p
  * [90.0](./Fulfillment_of_Prophecy_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Fulfillment_of_Prophecy_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Fulfillment_of_Prophecy_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Fulfillment_of_Prophecy_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Fulfillment_of_Prophecy_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Fulfillment_of_Prophecy.md)

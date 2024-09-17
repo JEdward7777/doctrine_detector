@@ -15,7 +15,7 @@ This knowledge is essential for studying the Scriptures and understanding their 
  The vast majority of the Hebrew Bible, which corresponds to the Old Testament in Christian scriptures, was written in Biblical Hebrew (also known as Classical Hebrew or Ancient Hebrew). This is a form of the Northwest Semitic language that emerged as the language of the ancient Israelites and became the liturgical language of Second Temple Judaism. However, it's important to note that parts of the Old Testament also contain sections written in Aramaic, such as the Book of Jonah and the Book of Daniel.
 
 ## Average Grade
-90.83333333333333
+90.625
 
 ## Grades
  * [90.0](./Language_of_the_Old_Testament_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ This knowledge is essential for studying the Scriptures and understanding their 
  * [95.0](./Language_of_the_Old_Testament_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Language_of_the_Old_Testament_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [95.0](./Language_of_the_Old_Testament_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Language_of_the_Old_Testament_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Language_of_the_Old_Testament_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Language_of_the_Old_Testament.md)

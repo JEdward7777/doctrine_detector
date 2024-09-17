@@ -19,7 +19,7 @@ In this context, the Promised Land signifies not only a geographical territory b
 Additionally, the idea of a Promised Land carries different meanings for various cultural and religious groups, contributing to its rich history and its role in contemporary discussions about identity, belonging, and aspiration. It is essential to approach this topic with sensitivity to the perspectives of all communities involved, acknowledging the diverse interpretations and significant implications it has for many individuals and groups throughout history.
 
 ## Average Grade
-78.33333333333333
+80.0
 
 ## Grades
  * [90.0](./Promised_Land_Meaning_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ Additionally, the idea of a Promised Land carries different meanings for various
  * [90.0](./Promised_Land_Meaning_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Promised_Land_Meaning_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Promised_Land_Meaning_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Promised_Land_Meaning_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Promised_Land_Meaning_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Promised_Land_Meaning.md)

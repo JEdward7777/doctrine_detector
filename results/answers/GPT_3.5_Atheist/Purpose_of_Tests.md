@@ -15,7 +15,7 @@ Understanding the nature of tests can affect a believer's response to difficult 
 As an atheistic scholar, I do not believe in a deity or the concept of tests imposed by a higher power. However, from a sociological perspective, the idea of tests or challenges faced by believers in various religious traditions can be interpreted as a way to strengthen their faith, foster resilience, and promote growth as individuals. These challenges can serve as opportunities for believers to reflect on their beliefs, values, and actions, and to deepen their connection with their religious community. Ultimately, the purpose of these challenges may be to help believers navigate the complexities of life and find meaning and purpose in their experiences.
 
 ## Average Grade
-42.5
+44.375
 
 ## Grades
  * [20.0](./Purpose_of_Tests_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ As an atheistic scholar, I do not believe in a deity or the concept of tests imp
  * [50.0](./Purpose_of_Tests_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Purpose_of_Tests_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./Purpose_of_Tests_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [70.0](./Purpose_of_Tests_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [30.0](./Purpose_of_Tests_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Purpose_of_Tests.md)

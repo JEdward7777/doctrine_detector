@@ -29,7 +29,7 @@ Several key Old Testament references and themes help to frame this title:
 Overall, the references to Jesus as "King of the Jews" not only fulfill specific Old Testament prophecies but also encapsulate His role as the ultimate Messiah who transcends conventional kingship by establishing a profound spiritual kingdom. This concept is crucial for understanding the nature of Jesus' mission and the nature of His kingship in Christian theology.
 
 ## Average Grade
-91.66666666666667
+91.875
 
 ## Grades
  * [95.0](./Biblical_Fulfillment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ Overall, the references to Jesus as "King of the Jews" not only fulfill specific
  * [95.0](./Biblical_Fulfillment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_Fulfillment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Biblical_Fulfillment_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Biblical_Fulfillment_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Biblical_Fulfillment_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Biblical_Fulfillment.md)

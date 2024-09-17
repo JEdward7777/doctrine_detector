@@ -27,7 +27,7 @@ The principle of reconciliation, as understood within the Christian faith, empha
 It is important to note that while Christians may draw inspiration and guidance from their faith in practicing reconciliation, these principles are not exclusive to Christianity. Individuals of all backgrounds can benefit from incorporating these practices into their relationships to promote understanding, empathy, and peace.
 
 ## Average Grade
-84.16666666666667
+84.375
 
 ## Grades
  * [80.0](./Application_of_Reconciliation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ It is important to note that while Christians may draw inspiration and guidance 
  * [85.0](./Application_of_Reconciliation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Application_of_Reconciliation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Application_of_Reconciliation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Application_of_Reconciliation_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Application_of_Reconciliation_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Application_of_Reconciliation.md)

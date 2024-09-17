@@ -23,7 +23,7 @@ It's essential to note that the Bible also emphasizes the importance of forgivin
 In the Islamic context, repentance and forgiveness have similar meanings. A Muslim who has committed a sin can seek Allah's forgiveness through sincere repentance (Tawba) and the performance of certain acts, such as seeking forgiveness, making restitution if possible, and avoiding the sin in the future. The Quran encourages believers to seek Allah's forgiveness, as in Surat Al-Naml (27:31), where it is said, "And turn in repentance and in obedience with true faith to your Lord and submit to Him." However, unlike Christianity, there is no concept of Jesus Christ mediating between the sinner and Allah in Islam.
 
 ## Average Grade
-89.16666666666667
+86.875
 
 ## Grades
  * [85.0](./Role_of_Repentance_in_Forgiveness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ In the Islamic context, repentance and forgiveness have similar meanings. A Musl
  * [95.0](./Role_of_Repentance_in_Forgiveness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Role_of_Repentance_in_Forgiveness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Role_of_Repentance_in_Forgiveness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Role_of_Repentance_in_Forgiveness_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [75.0](./Role_of_Repentance_in_Forgiveness_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Role_of_Repentance_in_Forgiveness.md)

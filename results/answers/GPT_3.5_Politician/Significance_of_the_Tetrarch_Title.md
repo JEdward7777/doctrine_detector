@@ -15,7 +15,7 @@ This understanding helps believers grasp the political tensions present during C
 The title "tetrarch" refers to a ruler of a division of a country or province. In the time of Jesus, the term "tetrarch" was used to describe a ruler of a quarter of a larger region or territory. This governance structure suggests a system of decentralized rule, with multiple tetrarchs governing different parts of a larger kingdom or empire. It reflects a complex political landscape with various levels of authority and potentially overlapping jurisdictions.
 
 ## Average Grade
-85.0
+82.5
 
 ## Grades
  * [85.0](./Significance_of_the_Tetrarch_Title_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ The title "tetrarch" refers to a ruler of a division of a country or province. I
  * [90.0](./Significance_of_the_Tetrarch_Title_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Significance_of_the_Tetrarch_Title_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Significance_of_the_Tetrarch_Title_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Significance_of_the_Tetrarch_Title_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [65.0](./Significance_of_the_Tetrarch_Title_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Significance_of_the_Tetrarch_Title.md)

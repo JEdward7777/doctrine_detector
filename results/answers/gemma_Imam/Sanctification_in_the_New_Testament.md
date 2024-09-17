@@ -39,7 +39,7 @@ However, the Islamic faith recognizes the importance of spiritual transformation
 Both Christianity and Islam share the concept of spiritual transformation and sanctification, albeit with different theological perspectives. While Muslims do not accept the Christian belief in Jesus as the Son of God or the ultimate sacrifice, they recognize the importance of personal growth and adherence to God's laws.
 
 ## Average Grade
-71.66666666666667
+67.5
 
 ## Grades
  * [90.0](./Sanctification_in_the_New_Testament_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -48,5 +48,7 @@ Both Christianity and Islam share the concept of spiritual transformation and sa
  * [90.0](./Sanctification_in_the_New_Testament_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Sanctification_in_the_New_Testament_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./Sanctification_in_the_New_Testament_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Sanctification_in_the_New_Testament_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [30.0](./Sanctification_in_the_New_Testament_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Sanctification_in_the_New_Testament.md)

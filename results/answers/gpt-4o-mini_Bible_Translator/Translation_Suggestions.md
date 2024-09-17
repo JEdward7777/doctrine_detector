@@ -24,7 +24,7 @@ The phrase "to be zealous" can be translated in various ways that reflect its bi
 In the context of biblical passages, such as Romans 12:11 ("Never be lacking in zeal, but keep your spiritual fervor, serving the Lord"), these alternative translations can illuminate the original intent and meaning. Each translation can help convey the importance of a heartfelt and active faith in one's relationship with God and in the form of service to others.
 
 ## Average Grade
-90.0
+88.75
 
 ## Grades
  * [90.0](./Translation_Suggestions_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,5 +33,7 @@ In the context of biblical passages, such as Romans 12:11 ("Never be lacking in 
  * [95.0](./Translation_Suggestions_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Translation_Suggestions_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Translation_Suggestions_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Translation_Suggestions_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Translation_Suggestions_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Translation_Suggestions.md)

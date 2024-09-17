@@ -23,7 +23,7 @@ From our Islamic perspective, while we respect the right to freedom of belief an
 In conclusion, proclaiming the good news is a vital aspect of Christian theology and practice. While it may not be directly applicable to our Islamic faith, we can appreciate the importance of spreading one's faith and sharing its message with others, as we strive to fulfill our own duty to invite others to submit to Allah's will and guidance. Alhamdu lillah (Praise be to God).
 
 ## Average Grade
-81.66666666666667
+79.375
 
 ## Grades
  * [90.0](./Importance_of_Proclaiming_the_Gospel_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ In conclusion, proclaiming the good news is a vital aspect of Christian theology
  * [90.0](./Importance_of_Proclaiming_the_Gospel_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Importance_of_Proclaiming_the_Gospel_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Importance_of_Proclaiming_the_Gospel_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Importance_of_Proclaiming_the_Gospel_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Importance_of_Proclaiming_the_Gospel_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Importance_of_Proclaiming_the_Gospel.md)

@@ -27,7 +27,7 @@ In Christianity, the title "the Word of God" (or "Logos" in Greek) attributed to
 In summary, the title "the Word of God" ascribed to Jesus in Christianity emphasizes his divine essence, role in creation, the significance of his incarnation, and his unique relationship with both God the Father and humanity. While Muslims regard Jesus (Isa) as a significant prophet and messenger, they do not ascribe to him divinity or the concept of the incarnation as understood in Christian theology. In Islam, the belief in the oneness of God (Tawhid) is foundational, and Jesus is honored as a servant and messenger, but not as divine.
 
 ## Average Grade
-90.83333333333333
+90.625
 
 ## Grades
  * [90.0](./Role_of_Jesus_as_the_Word_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ In summary, the title "the Word of God" ascribed to Jesus in Christianity emphas
  * [95.0](./Role_of_Jesus_as_the_Word_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Role_of_Jesus_as_the_Word_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Role_of_Jesus_as_the_Word_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Role_of_Jesus_as_the_Word_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Role_of_Jesus_as_the_Word_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Role_of_Jesus_as_the_Word.md)

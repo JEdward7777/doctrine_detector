@@ -19,7 +19,7 @@ In Islam, repentance (Tawbah) is a fundamental concept that allows a person to s
 It is important for us as Muslims to acknowledge our mistakes, seek forgiveness from Allah, and strive to avoid committing the same sins again. By turning back to God, we can experience His mercy, forgiveness, and guidance in our journey towards Him.
 
 ## Average Grade
-64.16666666666667
+64.375
 
 ## Grades
  * [70.0](./Restoration_of_Relationships_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ It is important for us as Muslims to acknowledge our mistakes, seek forgiveness 
  * [85.0](./Restoration_of_Relationships_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Restoration_of_Relationships_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Restoration_of_Relationships_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [70.0](./Restoration_of_Relationships_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Restoration_of_Relationships_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Restoration_of_Relationships.md)

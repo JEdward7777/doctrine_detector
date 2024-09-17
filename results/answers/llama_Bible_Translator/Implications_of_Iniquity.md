@@ -29,7 +29,7 @@ Considering this richer understanding of iniquity has significant implications f
 In conclusion, viewing iniquity as "harmful acts" alone can lead to a focus on punishment and judgment. However, when we understand it as a broader concept encompassing both harmful actions and the underlying sin nature, we're more likely to respond with compassion, love, and restoration. This, in turn, can transform our relationships with others and create a culture of redemption.
 
 ## Average Grade
-89.16666666666667
+89.375
 
 ## Grades
  * [95.0](./Implications_of_Iniquity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ In conclusion, viewing iniquity as "harmful acts" alone can lead to a focus on p
  * [95.0](./Implications_of_Iniquity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Implications_of_Iniquity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Implications_of_Iniquity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Implications_of_Iniquity_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Implications_of_Iniquity_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Implications_of_Iniquity.md)

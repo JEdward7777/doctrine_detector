@@ -23,7 +23,7 @@ The terms 'exhort,' 'encourage,' and 'admonish' each carry distinct nuances, tho
 In summary, while 'exhort' focuses on urgent encouragement to act, 'encourage' emphasizes support and positivity, and 'admonish' conveys a corrective or warning aspect. Each term plays a unique role depending on the context and the desired outcome of the communication.
 
 ## Average Grade
-90.0
+88.75
 
 ## Grades
  * [90.0](./Differences_in_Terminology_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ In summary, while 'exhort' focuses on urgent encouragement to act, 'encourage' e
  * [90.0](./Differences_in_Terminology_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Differences_in_Terminology_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Differences_in_Terminology_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Differences_in_Terminology_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Differences_in_Terminology_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Differences_in_Terminology.md)

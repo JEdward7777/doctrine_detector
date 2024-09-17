@@ -15,7 +15,7 @@ Understanding the distinction between God's perfect judgment and flawed human ju
 Thank you for your question. The Bible teaches that God is the ultimate judge and His judgment is based on perfect wisdom and righteousness. Human judgment, on the other hand, is fallible and limited by our imperfect understanding and biases. It is important to approach judgment with humility and a willingness to listen and learn from different perspectives. It is important to respect and value diverse beliefs and opinions while promoting respect, understanding, and compassion in all interactions.
 
 ## Average Grade
-81.66666666666667
+78.125
 
 ## Grades
  * [90.0](./Understanding_Divine_Judgment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ Thank you for your question. The Bible teaches that God is the ultimate judge an
  * [85.0](./Understanding_Divine_Judgment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Divine_Judgment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Understanding_Divine_Judgment_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Divine_Judgment_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Understanding_Divine_Judgment_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Divine_Judgment.md)

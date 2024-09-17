@@ -41,7 +41,7 @@ The Jewish view of Gentiles (non-Jews) in ancient times was shaped by a mixture 
 Overall, while the initial Jewish view of Gentiles created barriers, the early Christian movement worked to overcome these barriers through a broader understanding of God’s covenant and grace, leading to a more inclusive identity that embraced both Jews and Gentiles as part of the one body of Christ.
 
 ## Average Grade
-90.83333333333333
+90.0
 
 ## Grades
  * [90.0](./Cultural_Practices_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -50,5 +50,7 @@ Overall, while the initial Jewish view of Gentiles created barriers, the early C
  * [90.0](./Cultural_Practices_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Cultural_Practices_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Cultural_Practices_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Cultural_Practices_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Cultural_Practices_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Cultural_Practices.md)

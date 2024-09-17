@@ -29,7 +29,7 @@ The New Testament presents the sanctification process for believers in Jesus as 
 In summary, sanctification is portrayed in the New Testament as a dynamic and multifaceted process involving the work of the Holy Spirit, engagement with Scripture, community support, and the transformative power of God in a believer's life.
 
 ## Average Grade
-90.0
+88.75
 
 ## Grades
  * [95.0](./Sanctification_in_the_New_Testament_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ In summary, sanctification is portrayed in the New Testament as a dynamic and mu
  * [95.0](./Sanctification_in_the_New_Testament_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Sanctification_in_the_New_Testament_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Sanctification_in_the_New_Testament_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Sanctification_in_the_New_Testament_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Sanctification_in_the_New_Testament_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Sanctification_in_the_New_Testament.md)

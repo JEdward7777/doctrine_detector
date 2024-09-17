@@ -21,7 +21,7 @@ It's important to remember that ancient societies held diverse beliefs about gen
 Instead, it's more productive to appreciate the complexities of ancient societies and recognize that eunuchs served vital roles in maintaining order, stability, and security within their respective court systems. This understanding can help us gain a deeper appreciation for the richness and complexity of human history while being mindful of cultural differences and avoiding anachronistic interpretations.
 
 ## Average Grade
-60.0
+63.125
 
 ## Grades
  * [70.0](./Role_of_Eunuchs_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ Instead, it's more productive to appreciate the complexities of ancient societie
  * [60.0](./Role_of_Eunuchs_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Role_of_Eunuchs_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Role_of_Eunuchs_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Role_of_Eunuchs_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Role_of_Eunuchs_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Role_of_Eunuchs.md)

@@ -39,7 +39,7 @@ In the New Testament, the concept of the temple undergoes a transformative shift
 The Old Testament presents the temple as a sacred space where God dwells among His people in a physical sense. In contrast, the New Testament transitions this concept to express God's presence in the person of Jesus and among the community of believers. Both testaments highlight the central theme of God desiring to dwell with humanity, ultimately shaping the understanding of His relationship with His creation through different epochs.
 
 ## Average Grade
-89.5
+89.0
 
 ## Grades
  * [90.0](./Temple_as_God_s_Dwelling_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -48,5 +48,7 @@ The Old Testament presents the temple as a sacred space where God dwells among H
  * [92.0](./Temple_as_God_s_Dwelling_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Temple_as_God_s_Dwelling_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Temple_as_God_s_Dwelling_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Temple_as_God_s_Dwelling_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Temple_as_God_s_Dwelling_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Temple_as_God_s_Dwelling.md)

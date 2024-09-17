@@ -21,7 +21,7 @@ The Pharisees, a prominent religious group during the Second Temple period in an
 The teachings of the Pharisees focused on both the importance of living a life in accordance with Jewish law and the hope of rewards in the afterlife for those who led a righteous life. Their views contributed significantly to the development of later Jewish thought about spirituality and life after death.
 
 ## Average Grade
-84.16666666666667
+85.0
 
 ## Grades
  * [90.0](./Beliefs_of_the_Pharisees_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ The teachings of the Pharisees focused on both the importance of living a life i
  * [90.0](./Beliefs_of_the_Pharisees_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Beliefs_of_the_Pharisees_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Beliefs_of_the_Pharisees_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Beliefs_of_the_Pharisees_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Beliefs_of_the_Pharisees_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Beliefs_of_the_Pharisees.md)

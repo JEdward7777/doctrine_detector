@@ -33,7 +33,7 @@ In Islamic piety, this theme is echoed in the concept of "Fitra" (فطرۃ), whi
 In conclusion, the concept of a remnant in Islamic theology underscores God's selective grace towards those who remain faithful, obedient, and true to their covenant with Him. It highlights His mercy, justice, and emphasis on individual commitment to righteousness, even in the face of adversity or opposition.
 
 ## Average Grade
-74.16666666666667
+72.5
 
 ## Grades
  * [90.0](./God_s_Chosen_People_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -42,5 +42,7 @@ In conclusion, the concept of a remnant in Islamic theology underscores God's se
  * [75.0](./God_s_Chosen_People_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./God_s_Chosen_People_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./God_s_Chosen_People_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./God_s_Chosen_People_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./God_s_Chosen_People_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/God_s_Chosen_People.md)

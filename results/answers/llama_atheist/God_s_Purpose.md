@@ -29,7 +29,7 @@ Remember that these suggestions are grounded in human experience and psychologic
 As an atheist scholar, I want to emphasize that it's essential to prioritize evidence-based knowledge and critical thinking when exploring questions about life's meaning. While cultural and religious beliefs can provide comfort and community, they should not be relied upon as the sole sources of guidance. By embracing a holistic approach that incorporates diverse perspectives, personal growth, and self-awareness, you may find a sense of direction and fulfillment that is meaningful to you.
 
 ## Average Grade
-31.666666666666668
+38.125
 
 ## Grades
  * [30.0](./God_s_Purpose_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ As an atheist scholar, I want to emphasize that it's essential to prioritize evi
  * [20.0](./God_s_Purpose_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./God_s_Purpose_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./God_s_Purpose_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./God_s_Purpose_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [30.0](./God_s_Purpose_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/God_s_Purpose.md)

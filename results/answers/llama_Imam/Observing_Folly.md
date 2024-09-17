@@ -25,7 +25,7 @@ In the Bible, particularly in Proverbs 26:1-11 and Ecclesiastes 10:12-15, folly 
 Please note that these examples are specific to the biblical context and might not align with Islamic teachings. As an Imam, I must emphasize that the Quran is our primary source of guidance, and we should strive to follow its teachings and the exemplary model of the Prophet Muhammad (peace be upon him).
 
 ## Average Grade
-80.0
+77.5
 
 ## Grades
  * [80.0](./Observing_Folly_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ Please note that these examples are specific to the biblical context and might n
  * [90.0](./Observing_Folly_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Observing_Folly_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Observing_Folly_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Observing_Folly_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Observing_Folly_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Observing_Folly.md)

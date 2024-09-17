@@ -37,7 +37,7 @@ To find freedom from these bonds, Christians can look to Jesus Christ, who provi
 In conclusion, the concept of being bound by sin can present challenges for Christians in terms of feeling worthy of God's love, experiencing fear and anxiety, and fully embracing His grace. However, by acknowledging their sins, repenting, placing faith in Jesus Christ, and growing in their relationship with Him, Christians can find freedom from these bonds and experience a more fulfilling and joyful life rooted in faith.
 
 ## Average Grade
-88.33333333333333
+86.25
 
 ## Grades
  * [90.0](./Freedom_from_Sin_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -46,5 +46,7 @@ In conclusion, the concept of being bound by sin can present challenges for Chri
  * [90.0](./Freedom_from_Sin_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Freedom_from_Sin_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Freedom_from_Sin_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Freedom_from_Sin_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [75.0](./Freedom_from_Sin_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Freedom_from_Sin.md)

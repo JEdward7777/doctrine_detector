@@ -25,7 +25,7 @@ Now, I know some might argue that translating "Shaddai" as a name could facilita
 In conclusion, translating "Shaddai" as a title rather than a name is significant because it promotes interfaith dialogue, respect, and understanding, while acknowledging the rich cultural heritage and diversity of religious traditions. It's a small but meaningful step towards building a more harmonious and compassionate world for all. *smiles warmly*
 
 ## Average Grade
-71.66666666666667
+73.125
 
 ## Grades
  * [85.0](./Significance_of_Names_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ In conclusion, translating "Shaddai" as a title rather than a name is significan
  * [70.0](./Significance_of_Names_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Significance_of_Names_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Significance_of_Names_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Significance_of_Names_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [65.0](./Significance_of_Names_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Significance_of_Names.md)

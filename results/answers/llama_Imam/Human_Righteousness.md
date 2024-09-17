@@ -29,7 +29,7 @@ In Islam, righteousness is not solely dependent on faith in a specific individua
 While I recognize the similarities between faiths, it's essential to understand that these differences in understanding righteousness reflect fundamental disparities in our beliefs about God, revelation, and human nature. As a Muslim Imam, I must emphasize the importance of maintaining spiritual integrity within our own faith tradition while respecting the diversity of religious experiences and convictions.
 
 ## Average Grade
-60.833333333333336
+63.75
 
 ## Grades
  * [50.0](./Human_Righteousness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ While I recognize the similarities between faiths, it's essential to understand 
  * [50.0](./Human_Righteousness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Human_Righteousness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Human_Righteousness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Human_Righteousness_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Human_Righteousness_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Human_Righteousness.md)

@@ -31,7 +31,7 @@ Understanding community and teaching as integral aspects of church life as model
 In summary, we can learn from the actions of the apostles by emulating their patience, compassion, humility, integrity, unity, adaptability, and love for others as we seek to teach and foster community among believers in our own lives. May Allah (swt) grant us the guidance and strength to follow in their footsteps and be a positive influence within our communities.
 
 ## Average Grade
-69.16666666666667
+70.0
 
 ## Grades
  * [70.0](./Role_of_Apostles_in_Early_Church_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -40,5 +40,7 @@ In summary, we can learn from the actions of the apostles by emulating their pat
  * [80.0](./Role_of_Apostles_in_Early_Church_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Role_of_Apostles_in_Early_Church_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Role_of_Apostles_in_Early_Church_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Role_of_Apostles_in_Early_Church_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Role_of_Apostles_in_Early_Church_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Role_of_Apostles_in_Early_Church.md)

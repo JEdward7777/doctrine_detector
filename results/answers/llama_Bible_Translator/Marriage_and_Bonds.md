@@ -30,7 +30,7 @@ Couples should view their commitment to each other as a sacred trust, honoring G
 In summary, the "bond of marriage" is a sacred institution that reflects Christ's love for the church. Couples should prioritize their commitment to each other, submitting to each other, seeking unity, respect, and care, all while keeping God at the center of their relationship.
 
 ## Average Grade
-94.16666666666667
+94.0
 
 ## Grades
  * [95.0](./Marriage_and_Bonds_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,5 +39,7 @@ In summary, the "bond of marriage" is a sacred institution that reflects Christ'
  * [95.0](./Marriage_and_Bonds_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Marriage_and_Bonds_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Marriage_and_Bonds_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [95.0](./Marriage_and_Bonds_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [92.0](./Marriage_and_Bonds_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Marriage_and_Bonds.md)

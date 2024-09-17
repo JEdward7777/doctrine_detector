@@ -29,7 +29,7 @@ The relationship between God's wrath and His nature as loving and merciful is a 
 By exploring these perspectives, Christians can find a framework that allows for the integration of God's loving nature with the concept of His righteous anger, fostering a deeper understanding of both His character and the significance of His actions in the world.
 
 ## Average Grade
-92.0
+90.875
 
 ## Grades
  * [95.0](./Righteous_Judgment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ By exploring these perspectives, Christians can find a framework that allows for
  * [92.0](./Righteous_Judgment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Righteous_Judgment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Righteous_Judgment_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Righteous_Judgment_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Righteous_Judgment_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Righteous_Judgment.md)

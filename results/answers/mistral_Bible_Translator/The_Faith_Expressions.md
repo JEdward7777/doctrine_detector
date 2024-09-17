@@ -15,7 +15,7 @@ Understanding the importance of perseverance in faith.
  In the context of belief in Jesus, the phrase "keep the faith" signifies maintaining one's commitment to and trust in Jesus Christ as Savior and Lord. It involves continuing to follow His teachings, living according to His example, and holding firmly to the tenets of Christianity, such as belief in God, the Holy Spirit, the Trinity, the resurrection, among other fundamental Christian doctrines. This phrase underscores the importance of staying steadfast in one's faith through trials, challenges, or temptations and remaining devoted to Jesus throughout one's life. It emphasizes that true faith requires perseverance, obedience, and a commitment to grow spiritually.
 
 ## Average Grade
-86.66666666666667
+86.875
 
 ## Grades
  * [90.0](./The_Faith_Expressions_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ Understanding the importance of perseverance in faith.
  * [90.0](./The_Faith_Expressions_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./The_Faith_Expressions_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./The_Faith_Expressions_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./The_Faith_Expressions_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./The_Faith_Expressions_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/The_Faith_Expressions.md)

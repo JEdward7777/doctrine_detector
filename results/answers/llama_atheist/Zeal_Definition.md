@@ -25,7 +25,7 @@ However, it's important to note that this concept of zeal was not without contro
 In conclusion, when we speak of having "zeal" in the context of Christian teachings, we're referring to a deep passion and enthusiasm for serving God and spreading the gospel. While this concept has its roots in biblical times, it's essential to approach it critically, recognizing both its potential benefits and drawbacks.
 
 ## Average Grade
-80.0
+81.25
 
 ## Grades
  * [80.0](./Zeal_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ In conclusion, when we speak of having "zeal" in the context of Christian teachi
  * [85.0](./Zeal_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Zeal_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Zeal_Definition_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Zeal_Definition_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Zeal_Definition_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Zeal_Definition.md)

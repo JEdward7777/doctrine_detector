@@ -21,7 +21,7 @@ In the New Testament, Jesus Christ is considered the new Temple (John 2:19-21), 
 In Islam, the concept of God's dwelling among His creation is expressed differently. In the Quran, Muslims believe that Allah (SWT) is not confined to any space or place (Surah Al-Baqarah 2:115), and there is no physical equivalent to a temple in Islam. Instead, Muslims seek nearness to God through righteous actions and prayer, as well as through seeking knowledge and striving for justice.
 
 ## Average Grade
-81.66666666666667
+82.5
 
 ## Grades
  * [90.0](./Temple_as_God_s_Dwelling_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ In Islam, the concept of God's dwelling among His creation is expressed differen
  * [90.0](./Temple_as_God_s_Dwelling_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Temple_as_God_s_Dwelling_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Temple_as_God_s_Dwelling_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Temple_as_God_s_Dwelling_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Temple_as_God_s_Dwelling_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Temple_as_God_s_Dwelling.md)

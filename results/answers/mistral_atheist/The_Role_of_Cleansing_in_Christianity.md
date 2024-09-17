@@ -21,7 +21,7 @@ In the New Testament, the concept of 'cleansing' takes on a profoundly different
 In this context, the metaphorical 'cleansing' from sin is achieved not through ritualistic actions but through accepting Jesus' sacrifice and striving to live according to his teachings. This understanding of redemption is central to Christian theology and remains a crucial aspect of Christian spirituality today.
 
 ## Average Grade
-90.83333333333333
+89.375
 
 ## Grades
  * [95.0](./The_Role_of_Cleansing_in_Christianity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ In this context, the metaphorical 'cleansing' from sin is achieved not through r
  * [95.0](./The_Role_of_Cleansing_in_Christianity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./The_Role_of_Cleansing_in_Christianity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./The_Role_of_Cleansing_in_Christianity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./The_Role_of_Cleansing_in_Christianity_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./The_Role_of_Cleansing_in_Christianity_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/The_Role_of_Cleansing_in_Christianity.md)

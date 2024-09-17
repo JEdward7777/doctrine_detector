@@ -25,7 +25,7 @@ Furthermore, the idea of being called by name might also reflect ancient Near Ea
 In summary, the biblical phrase "God has called us by name" might be understood as a metaphorical expression of human connection, community, and purpose, rather than a supernatural revelation. It reflects ancient Near Eastern cultural values and concepts related to names, identity, and social hierarchy.
 
 ## Average Grade
-50.833333333333336
+55.625
 
 ## Grades
  * [50.0](./Understanding_God_s_Call_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ In summary, the biblical phrase "God has called us by name" might be understood 
  * [40.0](./Understanding_God_s_Call_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [65.0](./Understanding_God_s_Call_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Understanding_God_s_Call_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Understanding_God_s_Call_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Understanding_God_s_Call_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_God_s_Call.md)

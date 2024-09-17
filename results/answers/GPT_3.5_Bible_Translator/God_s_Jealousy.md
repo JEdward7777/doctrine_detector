@@ -15,7 +15,7 @@ Understanding God's character and His desire for our spiritual fidelity.
 When the Bible describes God as 'jealous', it is referring to His righteous and exclusive desire for our love, worship, and loyalty. God wants us to be completely devoted to Him and to not allow anything or anyone to come between us and Him. His jealousy is not rooted in insecurity or possessiveness as human jealousy often is, but in His perfect love and desire for what is best for us. God's jealousy is a reflection of His holiness and His commitment to a relationship with us.
 
 ## Average Grade
-94.16666666666667
+91.875
 
 ## Grades
  * [95.0](./God_s_Jealousy_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ When the Bible describes God as 'jealous', it is referring to His righteous and 
  * [95.0](./God_s_Jealousy_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./God_s_Jealousy_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./God_s_Jealousy_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./God_s_Jealousy_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./God_s_Jealousy_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/God_s_Jealousy.md)

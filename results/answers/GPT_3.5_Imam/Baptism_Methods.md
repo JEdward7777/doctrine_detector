@@ -33,7 +33,7 @@ Interpretations of baptism methods can vary among Christian denominations and co
 Ultimately, the method of baptism and its significance can vary widely among Christian traditions and individual believers. The most important aspect is the spiritual meaning behind the act of baptism, whether it is seen as a symbol, a sacrament, or a public declaration of faith in Christ.
 
 ## Average Grade
-91.16666666666667
+89.0
 
 ## Grades
  * [90.0](./Baptism_Methods_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -42,5 +42,7 @@ Ultimately, the method of baptism and its significance can vary widely among Chr
  * [92.0](./Baptism_Methods_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Baptism_Methods_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Baptism_Methods_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Baptism_Methods_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [80.0](./Baptism_Methods_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Baptism_Methods.md)

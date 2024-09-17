@@ -17,7 +17,7 @@ Understanding the spiritual gifts related to evangelism and their role in the ch
 In Islam, it is encouraged to share one's faith peacefully and respectfully with others, but Muslims should never force their beliefs upon others or engage in proselytizing activities that are disrespectful or coercive. This principle is emphasized in the Quran (2:256): "Let there be no compulsion in religion."
 
 ## Average Grade
-64.16666666666667
+65.625
 
 ## Grades
  * [85.0](./Gift_of_Evangelism_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -26,5 +26,7 @@ In Islam, it is encouraged to share one's faith peacefully and respectfully with
  * [70.0](./Gift_of_Evangelism_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Gift_of_Evangelism_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./Gift_of_Evangelism_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Gift_of_Evangelism_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Gift_of_Evangelism_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Gift_of_Evangelism.md)

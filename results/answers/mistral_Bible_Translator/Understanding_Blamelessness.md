@@ -25,7 +25,7 @@ It's important to understand the distinction between being blameless and being s
 In these passages, we see that being blameless before God is not about achieving moral perfection through our own efforts, but rather it comes from trusting in Jesus Christ, living a life that reflects His love, and striving to follow His teachings. A person who is blameless before God lives by faith in Jesus and demonstrates this faith through actions aligned with God's will.
 
 ## Average Grade
-86.66666666666667
+86.875
 
 ## Grades
  * [90.0](./Understanding_Blamelessness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ In these passages, we see that being blameless before God is not about achieving
  * [90.0](./Understanding_Blamelessness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Blamelessness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Understanding_Blamelessness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Understanding_Blamelessness_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Understanding_Blamelessness_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Blamelessness.md)

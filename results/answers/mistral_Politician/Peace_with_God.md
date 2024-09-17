@@ -21,7 +21,7 @@ The belief is that human beings have sinned against God, creating a separation o
 However, it is important to remember that interpretations of scripture can vary among different Christian denominations and individuals, and not all Christians may hold the same beliefs or understanding regarding this topic. As a politically correct politician, I would strive to respect and honor each person's individual beliefs while promoting inclusivity, tolerance, and understanding in our community.
 
 ## Average Grade
-86.66666666666667
+81.875
 
 ## Grades
  * [90.0](./Peace_with_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ However, it is important to remember that interpretations of scripture can vary 
  * [85.0](./Peace_with_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Peace_with_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Peace_with_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Peace_with_God_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Peace_with_God_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Peace_with_God.md)

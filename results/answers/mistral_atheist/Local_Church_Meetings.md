@@ -19,7 +19,7 @@ The Book of Acts (chapter 2) describes the first Christian community meeting tog
 According to church tradition, the earliest Christian communities were organized in this way until the construction of purpose-built basilicas for worship around the 4th century AD. This communal gathering in homes was a key feature of early Christianity that reflected its emphasis on fellowship, mutual support, and community.
 
 ## Average Grade
-88.33333333333333
+88.75
 
 ## Grades
  * [90.0](./Local_Church_Meetings_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ According to church tradition, the earliest Christian communities were organized
  * [90.0](./Local_Church_Meetings_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Local_Church_Meetings_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Local_Church_Meetings_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Local_Church_Meetings_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Local_Church_Meetings_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Local_Church_Meetings.md)

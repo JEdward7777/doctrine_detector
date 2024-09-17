@@ -19,7 +19,7 @@ Islamic teachings emphasize the importance of belief in the Oneness of Allah, fo
 Ultimately, the Quran teaches that faith and good deeds are necessary for attaining eternal life in Paradise. Allah says in the Quran, "But those who believe and do righteous deeds - for them are the Gardens of Pleasure" (Quran 31:8).
 
 ## Average Grade
-16.666666666666668
+26.25
 
 ## Grades
  * [50.0](./Inheriting_Eternal_Life_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ Ultimately, the Quran teaches that faith and good deeds are necessary for attain
  * [20.0](./Inheriting_Eternal_Life_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [30.0](./Inheriting_Eternal_Life_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [0.0](./Inheriting_Eternal_Life_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [70.0](./Inheriting_Eternal_Life_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Inheriting_Eternal_Life_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Inheriting_Eternal_Life.md)

@@ -29,7 +29,7 @@ The Bible addresses the themes of pride and humility in various passages, emphas
 In summary, the Bible portrays pride as a significant spiritual pitfall that can lead to destruction, while it extols humility as a virtue that fosters grace and community. For Muslims, these concepts resonate with Islamic teachings, which also emphasize humility and warn against pride.
 
 ## Average Grade
-84.16666666666667
+83.75
 
 ## Grades
  * [90.0](./Consequences_of_Pride_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ In summary, the Bible portrays pride as a significant spiritual pitfall that can
  * [85.0](./Consequences_of_Pride_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Consequences_of_Pride_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Consequences_of_Pride_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Consequences_of_Pride_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [80.0](./Consequences_of_Pride_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Consequences_of_Pride.md)

@@ -35,7 +35,7 @@ In 1 Corinthians 3:18-20, Paul writes:
 "Do not deceive yourselves. If any of you think you are wise by the standards of this age, you should become 'fools' so that you can be truly wise. For this kind of 'wisdom' is sham. As Scripture says, 'He is a fool to think it can accomplish anything!' But where it says, 'The wisdom of this world is foolishness before God.' Therefore, since God in his wisdom saw fit to unite us all in Christ under the banner of eternal love, he should certainly give us only good as those who belong to him."
 
 ## Average Grade
-91.33333333333333
+91.625
 
 ## Grades
  * [90.0](./Understanding_Foolishness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -44,5 +44,7 @@ In 1 Corinthians 3:18-20, Paul writes:
  * [93.0](./Understanding_Foolishness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Foolishness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Understanding_Foolishness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Understanding_Foolishness_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Understanding_Foolishness_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Foolishness.md)

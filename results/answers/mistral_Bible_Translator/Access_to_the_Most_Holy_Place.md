@@ -21,7 +21,7 @@ The restriction on entering the Most Holy Place served as a reminder of the holi
 This ritual reinforced the idea that sin separates us from a holy God, and that only through Christ's sacrifice (as the ultimate High Priest) can we have access to God. In Christianity, believers are granted direct access to God through faith in Jesus Christ, symbolizing that our relationship with Him is no longer mediated by earthly priests or rituals.
 
 ## Average Grade
-90.83333333333333
+90.0
 
 ## Grades
  * [90.0](./Access_to_the_Most_Holy_Place_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ This ritual reinforced the idea that sin separates us from a holy God, and that 
  * [95.0](./Access_to_the_Most_Holy_Place_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Access_to_the_Most_Holy_Place_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Access_to_the_Most_Holy_Place_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Access_to_the_Most_Holy_Place_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Access_to_the_Most_Holy_Place_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Access_to_the_Most_Holy_Place.md)

@@ -15,7 +15,7 @@ Understanding the significance of prayer in Christian practice.
  As a helpful and inclusive assistant, I am here to provide information. The term "Amen" is widely used in Jewish, Christian, and Islamic traditions at the end of a prayer or blessing. It serves as an affirmation of agreement, faith, or assent to the sentiments expressed in the prayer or statement preceding it. In essence, it indicates that one agrees with what has been said. However, it's essential to acknowledge that each community may have its unique interpretations and uses for this term.
 
 ## Average Grade
-74.16666666666667
+74.375
 
 ## Grades
  * [75.0](./Understanding_Amen_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ Understanding the significance of prayer in Christian practice.
  * [80.0](./Understanding_Amen_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Understanding_Amen_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Understanding_Amen_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Amen_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [65.0](./Understanding_Amen_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Amen.md)

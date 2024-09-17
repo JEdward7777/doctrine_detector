@@ -23,7 +23,7 @@ When translating the concept of "fear" in reference to God, there are several nu
 Understanding the various ways in which "fear" can be translated in relation to God is important because it shapes one's perception of the divine-human relationship and influences attitudes and behaviors towards spirituality and religious practices. Depending on the cultural context and theological beliefs, different translations of "fear" can evoke different emotional responses and moral obligations. Ultimately, the understanding of fear in the context of God reflects how individuals perceive the nature of God and their place in the universe.
 
 ## Average Grade
-85.83333333333333
+85.625
 
 ## Grades
  * [85.0](./Translating__Fear__in_Context_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ Understanding the various ways in which "fear" can be translated in relation to 
  * [85.0](./Translating__Fear__in_Context_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Translating__Fear__in_Context_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Translating__Fear__in_Context_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Translating__Fear__in_Context_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Translating__Fear__in_Context_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Translating__Fear__in_Context.md)

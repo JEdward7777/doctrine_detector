@@ -15,7 +15,7 @@ Recognizing the prophetic nature of terms and their historical context to better
 The term "Daughter of Zion" is used in the Bible to refer to the Jewish people as a whole or specifically to the city of Jerusalem. It is a term of endearment and is often used in prophetic passages to symbolize the spiritual relationship between God and His people. The concept of the "Daughter of Zion" conveys the idea of strength, beauty, and divine protection. It is important to be respectful and sensitive when discussing religious topics to avoid inadvertently causing offense.
 
 ## Average Grade
-85.0
+83.125
 
 ## Grades
  * [90.0](./Prophetic_Usage_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ The term "Daughter of Zion" is used in the Bible to refer to the Jewish people a
  * [90.0](./Prophetic_Usage_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Prophetic_Usage_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Prophetic_Usage_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Prophetic_Usage_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Prophetic_Usage_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Prophetic_Usage.md)

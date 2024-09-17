@@ -19,7 +19,7 @@ However, it is important to consider that God's wrath is not separate from His l
 Therefore, Christians reconcile the concept of God's wrath with His nature as loving and merciful by recognizing that these aspects are not contradictory, but rather complementary. God's love and mercy can be understood as motivations for His justice and wrath, as He seeks to bring about restoration and redemption for humanity. Ultimately, the Christian belief is that God's love triumphs over His wrath, as seen in the sacrifice of Jesus Christ, who is believed to have borne the punishment for human sin, offering a way to reconcile with God and experience His mercy.
 
 ## Average Grade
-91.66666666666667
+89.375
 
 ## Grades
  * [95.0](./Righteous_Judgment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ Therefore, Christians reconcile the concept of God's wrath with His nature as lo
  * [90.0](./Righteous_Judgment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Righteous_Judgment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Righteous_Judgment_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Righteous_Judgment_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [80.0](./Righteous_Judgment_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Righteous_Judgment.md)

@@ -27,7 +27,7 @@ Recognizing the evidence of genuine faith in daily life.
 6. Prayers for Jesus: Muslims offer prayers for all prophets, including Jesus, as a sign of respect and devotion. These prayers are an expression of their faith in the guidance and blessings these prophets bring to humanity.
 
 ## Average Grade
-50.833333333333336
+55.625
 
 ## Grades
  * [60.0](./Faith_s_Impact_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ Recognizing the evidence of genuine faith in daily life.
  * [65.0](./Faith_s_Impact_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Faith_s_Impact_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Faith_s_Impact_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Faith_s_Impact_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Faith_s_Impact_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Faith_s_Impact.md)

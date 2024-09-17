@@ -35,7 +35,7 @@ While these suggestions can help individuals discern their purpose or calling, i
 As a scholar, I must emphasize the importance of critical thinking and intellectual honesty in exploring one's purpose or calling. It's crucial to avoid simplistic or dogmatic approaches and instead foster an environment that encourages self-reflection, creativity, and open-mindedness. By doing so, we can cultivate a deeper understanding of ourselves and our place in the world, regardless of whether we subscribe to religious beliefs or not.
 
 ## Average Grade
-66.66666666666667
+65.625
 
 ## Grades
  * [60.0](./Purpose_in_Calling_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -44,5 +44,7 @@ As a scholar, I must emphasize the importance of critical thinking and intellect
  * [80.0](./Purpose_in_Calling_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Purpose_in_Calling_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Purpose_in_Calling_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Purpose_in_Calling_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Purpose_in_Calling_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Purpose_in_Calling.md)

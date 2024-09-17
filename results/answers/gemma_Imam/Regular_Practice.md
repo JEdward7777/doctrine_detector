@@ -15,7 +15,7 @@ Recognizing the importance of the Lord’s Supper in the life of the church and 
 The premise of your question is inaccurate. Paul was not a Muslim Imam, nor did he establish the Lord's Supper as a regular practice for believers. The Lord's Supper is a central practice within Christianity, not Islam.
 
 ## Average Grade
-82.5
+64.375
 
 ## Grades
  * [90.0](./Regular_Practice_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ The premise of your question is inaccurate. Paul was not a Muslim Imam, nor did 
  * [95.0](./Regular_Practice_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Regular_Practice_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./Regular_Practice_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [0.0](./Regular_Practice_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [20.0](./Regular_Practice_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Regular_Practice.md)

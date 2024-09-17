@@ -39,7 +39,7 @@ The Bible speaks strongly against giving false testimony, and it's a crucial iss
 Giving false testimony is a serious issue in both the Old and New Testaments. As Christians, it's essential that we prioritize honesty and integrity in our words and actions. By doing so, we reflect God's character, protect relationships, glorify His name, and influence the world around us for Christ's sake.
 
 ## Average Grade
-94.66666666666667
+94.75
 
 ## Grades
  * [95.0](./False_Witness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -48,5 +48,7 @@ Giving false testimony is a serious issue in both the Old and New Testaments. As
  * [95.0](./False_Witness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [98.0](./False_Witness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./False_Witness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [95.0](./False_Witness_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./False_Witness_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/False_Witness.md)

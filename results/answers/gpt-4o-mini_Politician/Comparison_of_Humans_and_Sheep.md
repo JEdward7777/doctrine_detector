@@ -19,7 +19,7 @@ Additionally, this comparison can highlight human tendencies toward dependence, 
 Moreover, the imagery of sheep may evoke concepts of belonging, unity, and the foundations of faith, inviting believers to reflect on their relationship with each other, their faith, and their higher power. Overall, this comparison serves as a reminder of our interdependence and the significance of compassion and stewardship within communities.
 
 ## Average Grade
-84.16666666666667
+84.375
 
 ## Grades
  * [90.0](./Comparison_of_Humans_and_Sheep_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ Moreover, the imagery of sheep may evoke concepts of belonging, unity, and the f
  * [95.0](./Comparison_of_Humans_and_Sheep_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Comparison_of_Humans_and_Sheep_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Comparison_of_Humans_and_Sheep_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Comparison_of_Humans_and_Sheep_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Comparison_of_Humans_and_Sheep_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Comparison_of_Humans_and_Sheep.md)

@@ -15,7 +15,7 @@ Understanding the biblical standard of fairness and righteousness in our interac
  Acting justly, according to God's laws as revealed in the Bible, essentially means treating others with fairness, kindness, and respect, while upholding moral integrity and obeying divine principles. This includes loving our neighbors as ourselves (Matthew 22:39), doing justice, and loving kindness (Micah 6:8), and treating the less fortunate with dignity and compassion (Proverbs 14:31). It also means living according to God's commandments, such as not stealing, lying, or bearing false witness against our neighbors (Exodus 20:15-16). In essence, acting justly in the eyes of God involves fostering a society that values righteousness, integrity, and love for others.
 
 ## Average Grade
-93.33333333333333
+91.875
 
 ## Grades
  * [95.0](./Understanding_Justice_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ Understanding the biblical standard of fairness and righteousness in our interac
  * [90.0](./Understanding_Justice_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Understanding_Justice_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [95.0](./Understanding_Justice_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Justice_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Understanding_Justice_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Justice.md)

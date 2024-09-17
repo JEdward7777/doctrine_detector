@@ -15,7 +15,7 @@ Clarifying Jesus' role is essential for comprehending the Christian faith and th
 The Bible describes Jesus as the central figure in the Christian faith, who is believed to have sacrificed himself to atone for the sins of humanity, offering salvation and eternal life to those who believe in him. It emphasizes his teachings of love, compassion, and forgiveness, and highlights his role as the embodiment of God's grace and mercy.
 
 ## Average Grade
-90.0
+88.75
 
 ## Grades
  * [90.0](./Role_of_Jesus_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ The Bible describes Jesus as the central figure in the Christian faith, who is b
  * [95.0](./Role_of_Jesus_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Role_of_Jesus_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Role_of_Jesus_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Role_of_Jesus_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Role_of_Jesus_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Role_of_Jesus.md)

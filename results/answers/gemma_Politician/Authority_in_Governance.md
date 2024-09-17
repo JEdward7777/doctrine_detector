@@ -41,7 +41,7 @@ The Bible teaches a balance between respecting authority and upholding moral pri
 The Bible offers valuable insights on the authority of governing rulers, but it also encourages individuals to exercise responsible citizenship and uphold moral principles. Finding balance and applying these principles thoughtfully and respectfully is crucial for creating a just and peaceful society.
 
 ## Average Grade
-89.16666666666667
+86.25
 
 ## Grades
  * [95.0](./Authority_in_Governance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -50,5 +50,7 @@ The Bible offers valuable insights on the authority of governing rulers, but it 
  * [95.0](./Authority_in_Governance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Authority_in_Governance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Authority_in_Governance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Authority_in_Governance_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Authority_in_Governance_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Authority_in_Governance.md)

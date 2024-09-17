@@ -27,7 +27,7 @@ The term "Messiah" originates from the Hebrew word "mashiach," which means "anoi
 In summary, while the term "Messiah" conveys the idea of an awaited savior or leader, the specific attributes and roles assigned to this figure diverge across different faiths. Understanding these differences can foster interfaith dialogue and respect for the diverse expectations that shape religious identities and cultural narratives.
 
 ## Average Grade
-86.66666666666667
+87.5
 
 ## Grades
  * [90.0](./Messiah_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ In summary, while the term "Messiah" conveys the idea of an awaited savior or le
  * [95.0](./Messiah_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Messiah_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Messiah_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Messiah_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Messiah_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Messiah.md)

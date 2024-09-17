@@ -15,7 +15,7 @@ This question encourages exploration of scriptural teachings on grace and inclus
 Thank you for your question. In Acts 9:13-16 and Galatians 2:16, we see that both passages emphasize the inclusive nature of the Christian faith, welcoming all individuals regardless of their background or ethnicity. This message of inclusion and acceptance is central to the teachings of Christianity, emphasizing the importance of love, compassion, and understanding towards all people. It serves as a reminder to treat others with kindness and respect, regardless of our differences.
 
 ## Average Grade
-77.5
+75.625
 
 ## Grades
  * [85.0](./Biblical_References_to_Gentiles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ Thank you for your question. In Acts 9:13-16 and Galatians 2:16, we see that bot
  * [90.0](./Biblical_References_to_Gentiles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Biblical_References_to_Gentiles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Biblical_References_to_Gentiles_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Biblical_References_to_Gentiles_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Biblical_References_to_Gentiles_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Biblical_References_to_Gentiles.md)

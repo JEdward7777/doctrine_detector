@@ -25,7 +25,7 @@ The curse placed on the snake in Genesis 3:14 is significant in several ways, pa
 In summary, the curse on the snake in Genesis 3:14 serves as a profound commentary on the nature of sin, its consequences, and the possibility of redemption. It encourages a deeper understanding of the struggles faced within the human experience and the hope offered through faith.
 
 ## Average Grade
-91.16666666666667
+90.25
 
 ## Grades
  * [90.0](./Cursing_in_the_Biblical_Narrative_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ In summary, the curse on the snake in Genesis 3:14 serves as a profound commenta
  * [90.0](./Cursing_in_the_Biblical_Narrative_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Cursing_in_the_Biblical_Narrative_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Cursing_in_the_Biblical_Narrative_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Cursing_in_the_Biblical_Narrative_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Cursing_in_the_Biblical_Narrative_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Cursing_in_the_Biblical_Narrative.md)

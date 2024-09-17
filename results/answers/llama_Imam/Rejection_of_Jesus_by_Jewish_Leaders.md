@@ -31,7 +31,7 @@ The rejection of Jesus by the Jewish leaders has significant implications for Ch
 In conclusion, the rejection of Jesus by the Jewish religious leaders is a complex issue with significant implications for Christian beliefs. As Muslims, we believe that Jesus was a prophet sent to guide the Children of Israel, but his message and teachings were distorted and rejected by those who should have accepted him. We also recognize that the conflict between Jews and Christians has its roots in this rejection, and we pray for peace and understanding between all people of faith.
 
 ## Average Grade
-78.33333333333333
+76.875
 
 ## Grades
  * [85.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -40,5 +40,7 @@ In conclusion, the rejection of Jesus by the Jewish religious leaders is a compl
  * [85.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Rejection_of_Jesus_by_Jewish_Leaders.md)

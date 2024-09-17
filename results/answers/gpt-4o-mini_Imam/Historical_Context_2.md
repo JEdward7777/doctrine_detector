@@ -19,7 +19,7 @@ The main reason they ate unleavened bread (which is bread made without yeast) wa
 Additionally, the unleavened bread is a symbol of their quick departure from bondage and a reminder of humility and simplicity. In Islam, we recognize the story of Moses (Musa) and the liberation of the Israelites as a sign of Allah's mercy and guidance. The observance of the unleavened bread during Passover reflects the themes of freedom and reliance on Allah’s help in times of hardship.
 
 ## Average Grade
-81.66666666666667
+76.875
 
 ## Grades
  * [90.0](./Historical_Context_2_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ Additionally, the unleavened bread is a symbol of their quick departure from bon
  * [90.0](./Historical_Context_2_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Historical_Context_2_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Historical_Context_2_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Historical_Context_2_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Historical_Context_2_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Historical_Context_2.md)

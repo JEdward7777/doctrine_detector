@@ -19,7 +19,7 @@ This concept suggests that obedience to God's commands would no longer be driven
 This idea is often interpreted as a metaphor for spiritual transformation, where individuals come to embody the principles of love, justice, and righteousness that are at the core of God's law. However, it's important to note that this concept can be understood differently by various religious groups and scholars due to its symbolic nature.
 
 ## Average Grade
-89.16666666666667
+88.75
 
 ## Grades
  * [90.0](./The_New_Covenant_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ This idea is often interpreted as a metaphor for spiritual transformation, where
  * [90.0](./The_New_Covenant_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./The_New_Covenant_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./The_New_Covenant_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./The_New_Covenant_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./The_New_Covenant_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/The_New_Covenant.md)

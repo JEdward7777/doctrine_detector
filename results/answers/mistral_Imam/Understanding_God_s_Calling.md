@@ -21,7 +21,7 @@ From an Islamic viewpoint, we recognize that every person is responsible for see
 It is essential to remember that while we may not use the same language or concepts, the essence of faith—the pursuit of truth, the desire to serve a higher power, and the yearning for spiritual fulfillment—is shared across religious traditions. The sense of being called by God, in both Christian and Islamic contexts, signifies an individual's commitment to God and the quest for spiritual growth.
 
 ## Average Grade
-75.0
+69.375
 
 ## Grades
  * [85.0](./Understanding_God_s_Calling_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ It is essential to remember that while we may not use the same language or conce
  * [85.0](./Understanding_God_s_Calling_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_God_s_Calling_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [30.0](./Understanding_God_s_Calling_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_God_s_Calling_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [20.0](./Understanding_God_s_Calling_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_God_s_Calling.md)

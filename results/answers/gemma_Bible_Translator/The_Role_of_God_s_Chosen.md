@@ -51,7 +51,7 @@ Recognizing God's sovereignty in appointing leaders and its implications for the
 * God's selection process ultimately points to his desire for a relationship with his people, built on love and faithfulness.
 
 ## Average Grade
-89.16666666666667
+88.5
 
 ## Grades
  * [95.0](./The_Role_of_God_s_Chosen_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -60,5 +60,7 @@ Recognizing God's sovereignty in appointing leaders and its implications for the
  * [95.0](./The_Role_of_God_s_Chosen_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./The_Role_of_God_s_Chosen_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./The_Role_of_God_s_Chosen_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./The_Role_of_God_s_Chosen_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [88.0](./The_Role_of_God_s_Chosen_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/The_Role_of_God_s_Chosen.md)

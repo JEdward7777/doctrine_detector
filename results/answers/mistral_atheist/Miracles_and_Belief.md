@@ -21,7 +21,7 @@ The main critique revolves around the problem of circular reasoning: if one acce
 In a culturally respectful context, it's essential to acknowledge the significance of miracles in various religious traditions and how they contribute to faith formation. Nevertheless, the validity of miracles as irrefutable evidence for the existence of God remains an open question, inviting ongoing intellectual discourse and debate.
 
 ## Average Grade
-75.0
+74.375
 
 ## Grades
  * [70.0](./Miracles_and_Belief_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ In a culturally respectful context, it's essential to acknowledge the significan
  * [70.0](./Miracles_and_Belief_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Miracles_and_Belief_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Miracles_and_Belief_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Miracles_and_Belief_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Miracles_and_Belief_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Miracles_and_Belief.md)

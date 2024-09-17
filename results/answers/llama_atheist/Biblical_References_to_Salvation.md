@@ -27,7 +27,7 @@ It's essential to recognize that these passages are part of a larger literary tr
 In conclusion, 1 Timothy 4:10 and 2 Peter 2:20-22 can be seen as part of a larger discussion about human nature, salvation, and the role of faith in ancient Christian thought. While they may not provide definitive answers about Christ's nature as Savior, they do offer insights into the cultural and historical contexts that shaped early Christian beliefs.
 
 ## Average Grade
-64.16666666666667
+66.875
 
 ## Grades
  * [60.0](./Biblical_References_to_Salvation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ In conclusion, 1 Timothy 4:10 and 2 Peter 2:20-22 can be seen as part of a large
  * [65.0](./Biblical_References_to_Salvation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_References_to_Salvation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Biblical_References_to_Salvation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Biblical_References_to_Salvation_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [65.0](./Biblical_References_to_Salvation_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Biblical_References_to_Salvation.md)

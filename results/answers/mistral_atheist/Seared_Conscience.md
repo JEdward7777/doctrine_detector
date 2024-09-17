@@ -27,7 +27,7 @@ For a believer, a seared conscience has several potential implications:
 In summary, a seared conscience is a state of hardened indifference or insensitivity towards moral distinctions, which can have serious implications for believers. However, through repentance and the power of God's grace, it is possible to restore our consciences and deepen our relationship with Him.
 
 ## Average Grade
-89.16666666666667
+89.375
 
 ## Grades
  * [90.0](./Seared_Conscience_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ In summary, a seared conscience is a state of hardened indifference or insensiti
  * [90.0](./Seared_Conscience_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Seared_Conscience_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Seared_Conscience_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Seared_Conscience_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Seared_Conscience_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Seared_Conscience.md)

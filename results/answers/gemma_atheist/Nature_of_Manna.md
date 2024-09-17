@@ -15,7 +15,7 @@ Understanding the miraculous provision of God.
 The premise of your question is based on a belief in the supernatural and is therefore not susceptible to empirical analysis or scholarly response. The existence and characteristics of manna are not verifiable through scientific or historical evidence.
 
 ## Average Grade
-76.66666666666667
+68.75
 
 ## Grades
  * [90.0](./Nature_of_Manna_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ The premise of your question is based on a belief in the supernatural and is the
  * [90.0](./Nature_of_Manna_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Nature_of_Manna_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./Nature_of_Manna_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Nature_of_Manna_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [10.0](./Nature_of_Manna_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Nature_of_Manna.md)

@@ -52,7 +52,7 @@ This question focuses on the significance of faith in Jesus and its implications
 **In summary, to believe in God the Son is to acknowledge Jesus' divine nature, repent of our sin, receive forgiveness through his sacrifice, experience a new birth in Christ, and become a beloved child of God the Father.**
 
 ## Average Grade
-92.5
+93.125
 
 ## Grades
  * [95.0](./Becoming_a_Child_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -61,5 +61,7 @@ This question focuses on the significance of faith in Jesus and its implications
  * [95.0](./Becoming_a_Child_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Becoming_a_Child_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Becoming_a_Child_of_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [95.0](./Becoming_a_Child_of_God_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Becoming_a_Child_of_God_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Becoming_a_Child_of_God.md)

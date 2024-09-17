@@ -19,7 +19,7 @@ While as an atheistic scholar I do not ascribe to the literal existence of heave
 Therefore, retaining the term "heaven" in the phrase "kingdom of heaven" in the book of Matthew maintains the authenticity and integrity of the text within its cultural and religious framework. It also helps to preserve the nuances and symbolism inherent in the original language and context in which the text was written, allowing for a more accurate understanding and interpretation of the message being conveyed.
 
 ## Average Grade
-80.0
+78.125
 
 ## Grades
  * [85.0](./Kingdom_of_Heaven_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ Therefore, retaining the term "heaven" in the phrase "kingdom of heaven" in the 
  * [95.0](./Kingdom_of_Heaven_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Kingdom_of_Heaven_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [65.0](./Kingdom_of_Heaven_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Kingdom_of_Heaven_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Kingdom_of_Heaven_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Kingdom_of_Heaven.md)

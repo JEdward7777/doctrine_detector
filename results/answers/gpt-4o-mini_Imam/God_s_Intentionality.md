@@ -27,7 +27,7 @@ In Islamic theology, the concept of God's calling, or ' دعوة' (da'wah), carr
 In summary, understanding God's calling as intentional and purposeful enriches the spiritual experience, emphasizes the importance of our response, and reinforces the intimate relationship between the Creator and His creation. It motivates believers to seek understanding and proximity to Allah, thus enhancing their faith and practice.
 
 ## Average Grade
-92.5
+89.375
 
 ## Grades
  * [95.0](./God_s_Intentionality_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ In summary, understanding God's calling as intentional and purposeful enriches t
  * [95.0](./God_s_Intentionality_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./God_s_Intentionality_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./God_s_Intentionality_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./God_s_Intentionality_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [75.0](./God_s_Intentionality_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/God_s_Intentionality.md)

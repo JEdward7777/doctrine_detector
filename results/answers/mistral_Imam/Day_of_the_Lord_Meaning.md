@@ -21,7 +21,7 @@ It would be interesting to explore how the concept of 'Day of the Lord' might re
 As Muslims, we believe that the fundamental message of monotheism emphasizes oneness of God (Tawhid), moral responsibility, and a Day of Judgment, which serves as an essential reminder for righteousness and accountability in our daily lives. It is through these shared values and principles that interfaith dialogue can foster mutual understanding and peace between Muslim and Christian communities.
 
 ## Average Grade
-80.83333333333333
+78.75
 
 ## Grades
  * [80.0](./Day_of_the_Lord_Meaning_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ As Muslims, we believe that the fundamental message of monotheism emphasizes one
  * [90.0](./Day_of_the_Lord_Meaning_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Day_of_the_Lord_Meaning_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Day_of_the_Lord_Meaning_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Day_of_the_Lord_Meaning_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Day_of_the_Lord_Meaning_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Day_of_the_Lord_Meaning.md)

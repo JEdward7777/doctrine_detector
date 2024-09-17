@@ -29,7 +29,7 @@ It's essential to note that Jesus' statement is not meant to be taken literally 
 In conclusion, the "abomination of desolation" in Matthew 24:15 should be understood within the context of Jewish apocalyptic literature and eschatological traditions. It may have referred to specific events leading up to the destruction of Jerusalem, such as the Roman siege or the desecration of the Temple, or it could represent a more general warning about the devastating consequences of war, violence, and chaos.
 
 ## Average Grade
-65.83333333333333
+67.5
 
 ## Grades
  * [70.0](./Abomination_of_Desolation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ In conclusion, the "abomination of desolation" in Matthew 24:15 should be unders
  * [70.0](./Abomination_of_Desolation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Abomination_of_Desolation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Abomination_of_Desolation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Abomination_of_Desolation_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Abomination_of_Desolation_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Abomination_of_Desolation.md)

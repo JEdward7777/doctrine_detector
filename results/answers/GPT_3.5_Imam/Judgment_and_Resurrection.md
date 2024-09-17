@@ -19,7 +19,7 @@ On the Day of Judgment, each person will be judged based on their faith in Allah
 This day is a central belief in Islam and is mentioned in various Islamic texts, such as the Quran and the sayings of the Prophet Muhammad. Muslims are encouraged to live their lives in accordance with Islamic teachings in order to prepare for the Day of Judgment and strive for success in the hereafter.
 
 ## Average Grade
-57.5
+58.125
 
 ## Grades
  * [60.0](./Judgment_and_Resurrection_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ This day is a central belief in Islam and is mentioned in various Islamic texts,
  * [70.0](./Judgment_and_Resurrection_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Judgment_and_Resurrection_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./Judgment_and_Resurrection_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [70.0](./Judgment_and_Resurrection_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Judgment_and_Resurrection_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Judgment_and_Resurrection.md)

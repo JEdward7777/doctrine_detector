@@ -19,7 +19,7 @@ Exalting oneself can lead to negative consequences such as alienating others, cr
 By acknowledging and respecting the worth and dignity of all individuals, and by practicing humility and gratitude, one can cultivate a greater sense of empathy, compassion, and understanding towards others. This can help foster a more harmonious and inclusive society where all individuals feel valued and respected, regardless of their status or achievements.
 
 ## Average Grade
-85.0
+84.375
 
 ## Grades
  * [85.0](./Self-Exaltation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ By acknowledging and respecting the worth and dignity of all individuals, and by
  * [90.0](./Self-Exaltation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Self-Exaltation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Self-Exaltation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Self-Exaltation_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [80.0](./Self-Exaltation_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Self-Exaltation.md)

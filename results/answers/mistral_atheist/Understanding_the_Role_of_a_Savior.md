@@ -28,7 +28,7 @@ Similarities between the two include:
 By understanding the role of judges as saviors in the Old Testament, we can appreciate the continuity and progression in the concept of salvation throughout the Bible, with Jesus Christ serving as the ultimate Savior who fulfills the promises made to the Israelites through their past deliverers.
 
 ## Average Grade
-90.0
+88.75
 
 ## Grades
  * [90.0](./Understanding_the_Role_of_a_Savior_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,5 +37,7 @@ By understanding the role of judges as saviors in the Old Testament, we can appr
  * [90.0](./Understanding_the_Role_of_a_Savior_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Understanding_the_Role_of_a_Savior_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Understanding_the_Role_of_a_Savior_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_the_Role_of_a_Savior_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Understanding_the_Role_of_a_Savior_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_the_Role_of_a_Savior.md)

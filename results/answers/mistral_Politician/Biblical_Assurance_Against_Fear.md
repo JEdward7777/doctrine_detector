@@ -15,7 +15,7 @@ It's vital for Christians to grasp the implications of God encouraging us not to
  As a politician, I would like to clarify that my role is to serve the public by facilitating dialogue and understanding, rather than interpreting religious texts. However, in response to your question, the phrase "fear not" in the Bible is often used to signify God's assurance and comfort to His people. It conveys a sense of protection, peace, and calm amidst uncertainty or adversity. It reassures believers that they are under the watchful care of God and encourages them to trust Him in their struggles. This phrase can bring hope, confidence, and courage to those who believe in the promises of God.
 
 ## Average Grade
-85.83333333333333
+83.75
 
 ## Grades
  * [90.0](./Biblical_Assurance_Against_Fear_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ It's vital for Christians to grasp the implications of God encouraging us not to
  * [85.0](./Biblical_Assurance_Against_Fear_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Biblical_Assurance_Against_Fear_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Biblical_Assurance_Against_Fear_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Biblical_Assurance_Against_Fear_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Biblical_Assurance_Against_Fear_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Biblical_Assurance_Against_Fear.md)

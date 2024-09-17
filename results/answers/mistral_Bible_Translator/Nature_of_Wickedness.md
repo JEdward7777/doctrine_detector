@@ -29,7 +29,7 @@ Exploring how biblical perspectives on wickedness can influence moral behavior a
 Regarding the state of such individuals, the Bible teaches that sin leads to spiritual death (Romans 6:23) and separation from God (Isaiah 59:2). However, the good news of Christianity is that through faith in Jesus Christ, individuals can be reconciled with God (John 3:16) and experience forgiveness, salvation, and eternal life. The call to repentance (Acts 2:38) offers a pathway for those who recognize their wickedness to turn away from their sinful actions, seek God's forgiveness, and follow His teachings.
 
 ## Average Grade
-91.66666666666667
+90.625
 
 ## Grades
  * [95.0](./Nature_of_Wickedness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ Regarding the state of such individuals, the Bible teaches that sin leads to spi
  * [90.0](./Nature_of_Wickedness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Nature_of_Wickedness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Nature_of_Wickedness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Nature_of_Wickedness_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Nature_of_Wickedness_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Nature_of_Wickedness.md)

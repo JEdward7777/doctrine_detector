@@ -28,7 +28,7 @@ According to Scripture, the Holy Spirit empowers Christians in numerous ways, as
 These are just a few examples of how the Holy Spirit empowers Christians according to Scripture. The Bible teaches that the Spirit is always active, guiding, empowering, and transforming believers into the image of Christ (2 Corinthians 3:18).
 
 ## Average Grade
-88.33333333333333
+88.75
 
 ## Grades
  * [95.0](./Empowerment_by_the_Holy_Spirit_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,5 +37,7 @@ These are just a few examples of how the Holy Spirit empowers Christians accordi
  * [95.0](./Empowerment_by_the_Holy_Spirit_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Empowerment_by_the_Holy_Spirit_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Empowerment_by_the_Holy_Spirit_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Empowerment_by_the_Holy_Spirit_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Empowerment_by_the_Holy_Spirit_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Empowerment_by_the_Holy_Spirit.md)

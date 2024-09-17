@@ -15,7 +15,7 @@ Understanding the biblical basis of testimony helps believers recognize the impo
 In the context of the Bible, testimony is seen as a way for individuals to share their personal experiences and beliefs regarding their relationship with God and how they strive to live by His commandments. Testimony can serve as a source of inspiration, encouragement, and guidance for others seeking to deepen their own faith and understanding of God's teachings. It is important to approach testimony with respect and an open mind, recognizing that individuals may have diverse perspectives and interpretations based on their personal journeys and experiences. Ultimately, the goal is to foster a sense of unity and understanding within the community of believers, while also honoring the diversity of individual spiritual journeys.
 
 ## Average Grade
-70.83333333333333
+71.875
 
 ## Grades
  * [80.0](./Testimony_Meaning_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ In the context of the Bible, testimony is seen as a way for individuals to share
  * [70.0](./Testimony_Meaning_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Testimony_Meaning_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Testimony_Meaning_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Testimony_Meaning_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Testimony_Meaning_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Testimony_Meaning.md)

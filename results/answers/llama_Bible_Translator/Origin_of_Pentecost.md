@@ -30,7 +30,7 @@ In the New Testament, Pentecost marks a pivotal moment when the Holy Spirit is p
 In summary, before the events described in the New Testament, the Festival of Weeks was an important Jewish festival that celebrated the harvest, the giving of the law, and the connection between the Exodus story and the establishment of Israel. The significance of Pentecost lies not only in its historical and agricultural context but also in its connection to God's revelation and the empowerment of His people through the Holy Spirit.
 
 ## Average Grade
-88.33333333333333
+87.875
 
 ## Grades
  * [95.0](./Origin_of_Pentecost_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,5 +39,7 @@ In summary, before the events described in the New Testament, the Festival of We
  * [85.0](./Origin_of_Pentecost_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Origin_of_Pentecost_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Origin_of_Pentecost_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Origin_of_Pentecost_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [83.0](./Origin_of_Pentecost_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Origin_of_Pentecost.md)

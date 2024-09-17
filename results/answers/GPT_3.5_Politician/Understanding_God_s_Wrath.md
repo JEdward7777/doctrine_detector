@@ -15,7 +15,7 @@ It's important to understand that God's wrath is not a fit of rage but a measure
 In discussing themes related to religion and beliefs, it is important to recognize and respect the diversity of views held by individuals. Different interpretations of religious texts may exist, and it is essential to approach these discussions with sensitivity and openness to various perspectives. If you would like, I can provide a general overview of common interpretations of the nature of God's wrath in the Bible and how it may be seen as distinct from human anger.
 
 ## Average Grade
-85.83333333333333
+78.125
 
 ## Grades
  * [90.0](./Understanding_God_s_Wrath_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ In discussing themes related to religion and beliefs, it is important to recogni
  * [90.0](./Understanding_God_s_Wrath_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_God_s_Wrath_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Understanding_God_s_Wrath_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Understanding_God_s_Wrath_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [30.0](./Understanding_God_s_Wrath_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_God_s_Wrath.md)

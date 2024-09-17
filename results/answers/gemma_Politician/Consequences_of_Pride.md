@@ -47,7 +47,7 @@ These verses make clear that pride is offensive to God and leads to his rejectio
 The Bible teaches that humility is essential for a life of faith and for successful political leadership. By embracing humility, politicians can avoid the pitfalls of pride, build stronger relationships with others, and ultimately serve their communities more effectively.
 
 ## Average Grade
-91.66666666666667
+90.625
 
 ## Grades
  * [90.0](./Consequences_of_Pride_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -56,5 +56,7 @@ The Bible teaches that humility is essential for a life of faith and for success
  * [95.0](./Consequences_of_Pride_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Consequences_of_Pride_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Consequences_of_Pride_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Consequences_of_Pride_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Consequences_of_Pride_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Consequences_of_Pride.md)

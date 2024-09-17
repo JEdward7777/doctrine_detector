@@ -21,7 +21,7 @@ Understanding the historical and biblical context of Herod Antipas is crucial fo
 Herod Antipas' actions towards John the Baptist and his role in Jesus Christ's trials serve as important narrative elements in the New Testament, demonstrating the political and religious tensions that existed during this period in Judea.
 
 ## Average Grade
-87.5
+86.875
 
 ## Grades
  * [90.0](./Tetrarch_Role_in_the_New_Testament_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ Herod Antipas' actions towards John the Baptist and his role in Jesus Christ's t
  * [90.0](./Tetrarch_Role_in_the_New_Testament_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Tetrarch_Role_in_the_New_Testament_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Tetrarch_Role_in_the_New_Testament_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Tetrarch_Role_in_the_New_Testament_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Tetrarch_Role_in_the_New_Testament_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Tetrarch_Role_in_the_New_Testament.md)

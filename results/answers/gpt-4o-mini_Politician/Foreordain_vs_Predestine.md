@@ -23,7 +23,7 @@ While both terms convey a sense of divine intentionality and purpose, they can c
 It is essential to approach these terms with sensitivity, as they can evoke a range of beliefs and interpretations within the diverse Christian community. Respecting differing views on these theological concepts fosters a more inclusive and understanding dialogue among individuals with varying beliefs.
 
 ## Average Grade
-85.0
+84.375
 
 ## Grades
  * [90.0](./Foreordain_vs_Predestine_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ It is essential to approach these terms with sensitivity, as they can evoke a ra
  * [90.0](./Foreordain_vs_Predestine_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Foreordain_vs_Predestine_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Foreordain_vs_Predestine_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Foreordain_vs_Predestine_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [80.0](./Foreordain_vs_Predestine_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Foreordain_vs_Predestine.md)

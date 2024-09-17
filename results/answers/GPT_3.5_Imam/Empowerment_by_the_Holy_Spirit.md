@@ -27,7 +27,7 @@ According to the Bible, the Holy Spirit is said to empower Christians in several
 Overall, the empowering work of the Holy Spirit is seen as essential for the Christian life, providing guidance, conviction, comfort, spiritual gifts, and empowerment for service. Christians believe that through the indwelling presence of the Holy Spirit, they are strengthened and enabled to live out their faith in a way that honors God.
 
 ## Average Grade
-86.66666666666667
+82.5
 
 ## Grades
  * [85.0](./Empowerment_by_the_Holy_Spirit_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ Overall, the empowering work of the Holy Spirit is seen as essential for the Chr
  * [90.0](./Empowerment_by_the_Holy_Spirit_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Empowerment_by_the_Holy_Spirit_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Empowerment_by_the_Holy_Spirit_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [70.0](./Empowerment_by_the_Holy_Spirit_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Empowerment_by_the_Holy_Spirit_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Empowerment_by_the_Holy_Spirit.md)

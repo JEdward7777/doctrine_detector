@@ -25,7 +25,7 @@ Learning about these historical examples can inspire Christians to express their
 These examples demonstrate that building altars or erecting structures to worship God was not unique to any one religion but shared across various prophets and traditions. In Islamic tradition, these acts serve as reminders of the importance of submission (Islam) to the One True God, expressing gratitude, and fulfilling His commands.
 
 ## Average Grade
-62.5
+63.75
 
 ## Grades
  * [60.0](./Historical_Examples_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ These examples demonstrate that building altars or erecting structures to worshi
  * [70.0](./Historical_Examples_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Historical_Examples_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [30.0](./Historical_Examples_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Historical_Examples_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Historical_Examples_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Historical_Examples.md)

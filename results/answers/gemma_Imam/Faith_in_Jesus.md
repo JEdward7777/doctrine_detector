@@ -32,7 +32,7 @@ Understanding the implications of faith and trust in Jesus for personal life.
 **Belief in Jesus is not considered synonymous with worship or polytheism in Islam.** Muslims believe in Allah as the sole deity and Muhammad as the final prophet. Jesus is seen as a prophet within the Islamic belief system, but his role is distinct from that of Muhammad.
 
 ## Average Grade
-27.5
+38.75
 
 ## Grades
  * [40.0](./Faith_in_Jesus_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -41,5 +41,7 @@ Understanding the implications of faith and trust in Jesus for personal life.
  * [20.0](./Faith_in_Jesus_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Faith_in_Jesus_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./Faith_in_Jesus_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Faith_in_Jesus_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Faith_in_Jesus_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Faith_in_Jesus.md)

@@ -21,7 +21,7 @@ In the Old Testament, passages like Ezekiel 18:30-32 encourage individuals to re
 Overall, the biblical narrative highlights that while God’s wrath is a response to sin and disobedience, repentance provides an opportunity for forgiveness and reconciliation. The emphasis is on the transformative power of turning towards God and the hope inherent in His mercy.
 
 ## Average Grade
-87.5
+86.875
 
 ## Grades
  * [90.0](./Repentance_and_Judgment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ Overall, the biblical narrative highlights that while God’s wrath is a respons
  * [85.0](./Repentance_and_Judgment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Repentance_and_Judgment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Repentance_and_Judgment_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Repentance_and_Judgment_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Repentance_and_Judgment_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Repentance_and_Judgment.md)

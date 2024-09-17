@@ -15,7 +15,7 @@ Understanding the spiritual significance of unleavened bread in Christian teachi
 Unleavened bread is traditionally associated with purity and simplicity in many religious and cultural traditions. In relation to sin and honoring God, some may interpret unleavened bread as symbolizing the removal of impurities or distractions that may hinder one's spiritual journey. It can also represent humility and obedience to God's will. It is important to acknowledge that interpretations of symbols like unleavened bread may vary among different belief systems and individuals, and it is always valuable to approach discussions about faith and spirituality with respect and open-mindedness.
 
 ## Average Grade
-83.33333333333333
+81.25
 
 ## Grades
  * [90.0](./Significance_of_Unleavened_Bread_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ Unleavened bread is traditionally associated with purity and simplicity in many 
  * [80.0](./Significance_of_Unleavened_Bread_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Significance_of_Unleavened_Bread_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Significance_of_Unleavened_Bread_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Significance_of_Unleavened_Bread_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [65.0](./Significance_of_Unleavened_Bread_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Significance_of_Unleavened_Bread.md)

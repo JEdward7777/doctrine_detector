@@ -27,7 +27,7 @@ Here are some key principles for Christian exhortation based on the New Testamen
 In conclusion, my brother in faith, as an Imam, I am grateful for your interest in understanding Christian practices. While our paths may differ, we both share a common goal: to serve and glorify Allah/God through our words and actions. May our mutual respect and appreciation for each other's faiths continue to foster a spirit of cooperation and harmony between Muslims and Christians.
 
 ## Average Grade
-80.0
+78.125
 
 ## Grades
  * [90.0](./Nature_of_Exhortation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ In conclusion, my brother in faith, as an Imam, I am grateful for your interest 
  * [90.0](./Nature_of_Exhortation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Nature_of_Exhortation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./Nature_of_Exhortation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Nature_of_Exhortation_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Nature_of_Exhortation_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Nature_of_Exhortation.md)

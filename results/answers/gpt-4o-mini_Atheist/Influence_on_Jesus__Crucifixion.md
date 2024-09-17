@@ -35,7 +35,7 @@ The relationship between the Sadducees, Pharisees, and the decision to crucify J
 In summary, the Sadducees and Pharisees played significant roles in the events leading up to the crucifixion of Jesus, motivated by a complex mix of political pressures and concerns over their religious authority. Their actions reveal a character marked by self-preservation, legalism, and a tendency to prioritize institutional stability over ethical principles. The crucifixion, therefore, serves as a notable event that highlights the tensions and conflicts within the Jewish leadership at the time.
 
 ## Average Grade
-88.33333333333333
+87.5
 
 ## Grades
  * [85.0](./Influence_on_Jesus__Crucifixion_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -44,5 +44,7 @@ In summary, the Sadducees and Pharisees played significant roles in the events l
  * [90.0](./Influence_on_Jesus__Crucifixion_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Influence_on_Jesus__Crucifixion_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Influence_on_Jesus__Crucifixion_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Influence_on_Jesus__Crucifixion_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Influence_on_Jesus__Crucifixion_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Influence_on_Jesus__Crucifixion.md)

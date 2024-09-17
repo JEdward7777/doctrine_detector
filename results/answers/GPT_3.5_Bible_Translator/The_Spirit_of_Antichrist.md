@@ -19,7 +19,7 @@ The spirit of antichrist is characterized by a denial or rejection of Jesus as t
 Ultimately, the spirit of antichrist is in opposition to God and seeks to undermine His work in the world. It is a powerful force that can lead people astray and deceive them with false teachings. However, as Christians, we are called to be vigilant and discerning, holding fast to the truth of God's Word and the reality of Jesus as our Savior and Lord.
 
 ## Average Grade
-90.0
+89.375
 
 ## Grades
  * [90.0](./The_Spirit_of_Antichrist_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ Ultimately, the spirit of antichrist is in opposition to God and seeks to underm
  * [95.0](./The_Spirit_of_Antichrist_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./The_Spirit_of_Antichrist_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./The_Spirit_of_Antichrist_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./The_Spirit_of_Antichrist_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./The_Spirit_of_Antichrist_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/The_Spirit_of_Antichrist.md)

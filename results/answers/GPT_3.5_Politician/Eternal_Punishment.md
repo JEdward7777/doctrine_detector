@@ -15,7 +15,7 @@ Issues about the nature of divine justice and mercy in relation to eternal conse
 I respect and acknowledge that different religious beliefs and interpretations exist regarding the concept of eternal punishment in hell. As a politician, it is important to recognize and honor diverse perspectives on spiritual beliefs. My focus is on promoting understanding and respect for various beliefs while upholding the values of compassion and empathy for all individuals.
 
 ## Average Grade
-67.5
+65.625
 
 ## Grades
  * [70.0](./Eternal_Punishment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ I respect and acknowledge that different religious beliefs and interpretations e
  * [85.0](./Eternal_Punishment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Eternal_Punishment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [30.0](./Eternal_Punishment_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [70.0](./Eternal_Punishment_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Eternal_Punishment_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Eternal_Punishment.md)

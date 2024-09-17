@@ -19,7 +19,7 @@ In the Bible, divine glory is often associated with the manifestation of God's p
 Worshiping God in light of His divine glory means acknowledging His worthiness and responding appropriately through obedience, praise, and humility. It's about aligning our lives with God's perfect character and glorifying Him in all we do, as commanded in 1 Corinthians 10:31 (NKJV), "Therefore, whether you eat or drink, or whatever you do, do all to the glory of God."
 
 ## Average Grade
-94.16666666666667
+93.125
 
 ## Grades
  * [95.0](./Interpreting_Divine_Glory_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ Worshiping God in light of His divine glory means acknowledging His worthiness a
  * [95.0](./Interpreting_Divine_Glory_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Interpreting_Divine_Glory_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Interpreting_Divine_Glory_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Interpreting_Divine_Glory_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Interpreting_Divine_Glory_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Interpreting_Divine_Glory.md)

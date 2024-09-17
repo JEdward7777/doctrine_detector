@@ -15,7 +15,7 @@ Understanding the depth of God's love for Jesus and how that relates to believer
 The term "beloved" in a biblical context carries a spiritual and metaphorical significance, referring to a deep and intimate connection with God. It is not intended to convey physical or worldly love, but rather a spiritual affection and closeness between God and individuals who are faithful to him.
 
 ## Average Grade
-60.833333333333336
+68.125
 
 ## Grades
  * [60.0](./Definition_of_Beloved_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ The term "beloved" in a biblical context carries a spiritual and metaphorical si
  * [60.0](./Definition_of_Beloved_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Definition_of_Beloved_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Definition_of_Beloved_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Definition_of_Beloved_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Definition_of_Beloved_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Definition_of_Beloved.md)

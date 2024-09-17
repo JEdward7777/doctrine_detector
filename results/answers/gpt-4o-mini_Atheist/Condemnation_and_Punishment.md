@@ -19,7 +19,7 @@ Similarly, Psalms 34:22 says, "The Lord redeems the life of his servants; none o
 Together, these teachings suggest a framework in which punishment is not about condemnation but rather about a call to mercy, redemption, and understanding. They invite a re-evaluation of punitive measures in society, encouraging a shift toward restorative justice practices that prioritize rehabilitation and community healing over mere punishment. This approach can foster a more compassionate society where individuals are supported in their journeys toward change, rather than merely being cast aside for their failures. In this light, punishment can be redefined from a tool of condemnation to an opportunity for transformation.
 
 ## Average Grade
-90.0
+88.125
 
 ## Grades
  * [85.0](./Condemnation_and_Punishment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ Together, these teachings suggest a framework in which punishment is not about c
  * [90.0](./Condemnation_and_Punishment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Condemnation_and_Punishment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Condemnation_and_Punishment_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Condemnation_and_Punishment_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [75.0](./Condemnation_and_Punishment_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Condemnation_and_Punishment.md)

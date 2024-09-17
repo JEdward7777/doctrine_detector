@@ -17,7 +17,7 @@ The term 'unfaithful' in relation to marriage typically refers to a breach of tr
 It's important to approach this topic with sensitivity, acknowledging that each couple's dynamics are unique and that the reasons behind unfaithfulness can be complex and deeply rooted in individual circumstances. Open communication and understanding are crucial in addressing and resolving such issues within a marriage.
 
 ## Average Grade
-80.83333333333333
+81.875
 
 ## Grades
  * [90.0](./Adultery_and_Unfaithfulness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -26,5 +26,7 @@ It's important to approach this topic with sensitivity, acknowledging that each 
  * [85.0](./Adultery_and_Unfaithfulness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Adultery_and_Unfaithfulness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Adultery_and_Unfaithfulness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Adultery_and_Unfaithfulness_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Adultery_and_Unfaithfulness_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Adultery_and_Unfaithfulness.md)

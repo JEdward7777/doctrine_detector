@@ -22,7 +22,7 @@ The Bible describes the appearance and taste of manna as follows:
 It is important to note that the biblical account of manna is not meant to be taken literally, but rather it serves as a symbolic representation of God's provision and care for His people. As Muslims, we do not recognize the Bible as a divine text, but rather as a historical record of the experiences of the Israelites.
 
 ## Average Grade
-70.0
+71.25
 
 ## Grades
  * [80.0](./Nature_of_Manna_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -31,5 +31,7 @@ It is important to note that the biblical account of manna is not meant to be ta
  * [80.0](./Nature_of_Manna_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Nature_of_Manna_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Nature_of_Manna_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Nature_of_Manna_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Nature_of_Manna_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Nature_of_Manna.md)

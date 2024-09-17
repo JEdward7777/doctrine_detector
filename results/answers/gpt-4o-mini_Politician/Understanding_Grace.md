@@ -17,7 +17,7 @@ In a Christian context, the term "grace" signifies the unmerited favor and love 
 Grace is often seen as a transformative power that enables believers to live according to God's will and to cultivate virtues such as compassion, kindness, and humility. It also fosters a sense of gratitude and encourages faithful living in response to God's generosity. Overall, grace represents the profound depth of God's love and the hope it brings to individuals and communities within the Christian faith.
 
 ## Average Grade
-90.33333333333333
+90.875
 
 ## Grades
  * [90.0](./Understanding_Grace_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -26,5 +26,7 @@ Grace is often seen as a transformative power that enables believers to live acc
  * [95.0](./Understanding_Grace_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Understanding_Grace_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Understanding_Grace_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Understanding_Grace_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Understanding_Grace_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Grace.md)

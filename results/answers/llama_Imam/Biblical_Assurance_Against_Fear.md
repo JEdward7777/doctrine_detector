@@ -27,7 +27,7 @@ In both cases, "fear not" signifies a deep trust in Allah's (SWT) goodness, merc
 May Allah (SWT) guide us all to have this kind of trust in Him, and may we fear not in any situation. Ameen.
 
 ## Average Grade
-75.33333333333333
+74.0
 
 ## Grades
  * [60.0](./Biblical_Assurance_Against_Fear_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ May Allah (SWT) guide us all to have this kind of trust in Him, and may we fear 
  * [75.0](./Biblical_Assurance_Against_Fear_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Biblical_Assurance_Against_Fear_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Biblical_Assurance_Against_Fear_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Biblical_Assurance_Against_Fear_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Biblical_Assurance_Against_Fear_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Biblical_Assurance_Against_Fear.md)

@@ -27,7 +27,7 @@ In a Biblical context, the fulfillment of a prophecy means that a specific predi
 Fulfillment in the Biblical sense emphasizes the belief that God has a divine plan and that instances occurring in history align with His promise, demonstrating His sovereignty and faithfulness. For adherents, recognizing the fulfillment of prophecy reinforces their faith and the truth of the scripture.
 
 ## Average Grade
-85.83333333333333
+86.25
 
 ## Grades
  * [95.0](./Fulfillment_of_Prophecies_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ Fulfillment in the Biblical sense emphasizes the belief that God has a divine pl
  * [90.0](./Fulfillment_of_Prophecies_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Fulfillment_of_Prophecies_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Fulfillment_of_Prophecies_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Fulfillment_of_Prophecies_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Fulfillment_of_Prophecies_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Fulfillment_of_Prophecies.md)

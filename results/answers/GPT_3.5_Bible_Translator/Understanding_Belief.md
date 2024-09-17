@@ -19,7 +19,7 @@ On the other hand, believing someone usually involves trusting that a person is 
 In a Christian context, believers are called to not only believe in the truths of the Bible and the teachings of Jesus, but also to believe in Him as a person - to trust in His character, His promises, and His ultimate authority as the Son of God. So, believing in something may be more about acknowledging a truth, while believing someone may involve placing personal trust in a relationship.
 
 ## Average Grade
-85.83333333333333
+86.25
 
 ## Grades
  * [90.0](./Understanding_Belief_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ In a Christian context, believers are called to not only believe in the truths o
  * [85.0](./Understanding_Belief_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Belief_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Understanding_Belief_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Understanding_Belief_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Understanding_Belief_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Belief.md)

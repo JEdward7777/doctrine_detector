@@ -15,7 +15,7 @@ Proper teaching upholds the biblical truth of one God while addressing cultural 
 In translating the Bible for cultures that respect multiple deities, it is important to use language and emphasize the concept of "One God" in a way that is respectful and culturally sensitive. This can be done by highlighting the uniqueness and unity of God, while also acknowledging and honoring the beliefs and traditions of other faiths. It is essential to approach this task with a deep understanding of the cultural context and to work closely with religious and cultural experts to ensure that the translation is accurate and respectful.
 
 ## Average Grade
-85.83333333333333
+82.5
 
 ## Grades
  * [90.0](./One_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ In translating the Bible for cultures that respect multiple deities, it is impor
  * [90.0](./One_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./One_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./One_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./One_God_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./One_God_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/One_God.md)

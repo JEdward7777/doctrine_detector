@@ -27,7 +27,7 @@ For Christians, the recognition of iniquity as harmful acts serves as a guiding 
 Ultimately, understanding iniquity as harmful acts encourages Christians to act with integrity, empathy, and a sense of accountability to both God and fellow human beings. Just as in Islam, where harmful actions against others are seen as offenses not only against individuals but also against one's faith and relationship with Allah, a similar perspective can be found in Christianity, prompting adherents to strive for a more just and compassionate world.
 
 ## Average Grade
-85.33333333333333
+83.375
 
 ## Grades
  * [85.0](./Implications_of_Iniquity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ Ultimately, understanding iniquity as harmful acts encourages Christians to act 
  * [85.0](./Implications_of_Iniquity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Implications_of_Iniquity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Implications_of_Iniquity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Implications_of_Iniquity_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Implications_of_Iniquity_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Implications_of_Iniquity.md)

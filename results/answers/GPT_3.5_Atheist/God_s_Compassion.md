@@ -15,7 +15,7 @@ Knowing how God's compassion influences our understanding of divine love and mer
 The Bible portrays God as a compassionate being who cares for his creations. In various verses, God is described as being merciful, kind, and slow to anger. For example, in Psalm 103:8, it says, "The Lord is compassionate and gracious, slow to anger, abounding in love." Additionally, in the New Testament, Jesus is often portrayed as a compassionate figure who showed love and mercy to those in need. Overall, the Bible emphasizes the compassionate nature of God as a central aspect of his character.
 
 ## Average Grade
-89.16666666666667
+87.5
 
 ## Grades
  * [90.0](./God_s_Compassion_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ The Bible portrays God as a compassionate being who cares for his creations. In 
  * [95.0](./God_s_Compassion_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./God_s_Compassion_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./God_s_Compassion_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./God_s_Compassion_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [80.0](./God_s_Compassion_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/God_s_Compassion.md)

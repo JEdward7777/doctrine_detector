@@ -23,7 +23,7 @@ The phrase "waiting eagerly" suggests a sense of anticipation and longing, refle
 In terms of what this means for believers, it emphasizes the importance of hope in the face of adversity, patience in waiting for God's promises to be fulfilled, and faithfulness in living according to God's will while awaiting their ultimate redemption.
 
 ## Average Grade
-85.33333333333333
+83.375
 
 ## Grades
  * [80.0](./Looking_Forward_to_Adoption_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ In terms of what this means for believers, it emphasizes the importance of hope 
  * [85.0](./Looking_Forward_to_Adoption_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Looking_Forward_to_Adoption_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Looking_Forward_to_Adoption_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Looking_Forward_to_Adoption_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Looking_Forward_to_Adoption_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Looking_Forward_to_Adoption.md)

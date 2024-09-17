@@ -15,7 +15,7 @@ Understanding the biblical context of confession
 Confession in the Bible is understood as acknowledging and admitting one's sins or wrongdoings before God. It is an essential part of seeking forgiveness and reconciliation with God. Confession involves acknowledging the sins we have committed, feeling remorse for them, asking for forgiveness, and committing to turning away from those sins. In Christianity, confession can be done individually through personal prayers to God or in a communal setting such as during church services or sacramental confession with a priest. It is seen as a way to seek God's mercy, receive His forgiveness, and experience spiritual renewal and growth.
 
 ## Average Grade
-85.83333333333333
+85.625
 
 ## Grades
  * [90.0](./Definition_of_Confession_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ Confession in the Bible is understood as acknowledging and admitting one's sins 
  * [85.0](./Definition_of_Confession_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Definition_of_Confession_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Definition_of_Confession_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Definition_of_Confession_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Definition_of_Confession_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Definition_of_Confession.md)

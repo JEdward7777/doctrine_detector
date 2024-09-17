@@ -19,7 +19,7 @@ The resurrection is also linked to the promise of eternal life for believers, su
 Beyond the individual meaning, the resurrection is part of the broader theological framework in Christianity that includes themes of redemption, hope, and the transformation of existence. It signifies not just a physical revival but also a profound spiritual reawakening and the affirmation of life beyond earthly existence.
 
 ## Average Grade
-88.33333333333333
+88.75
 
 ## Grades
  * [95.0](./Resurrection_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ Beyond the individual meaning, the resurrection is part of the broader theologic
  * [90.0](./Resurrection_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Resurrection_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Resurrection_Definition_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Resurrection_Definition_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Resurrection_Definition_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Resurrection_Definition.md)

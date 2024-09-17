@@ -23,7 +23,7 @@ In today's pluralistic society, it's essential that we celebrate our differences
 So, to answer your question in a way that honors the diversity of human experience, I'd say that the Ark of the Covenant was located in the Holy of Holies within the Tabernacle – a sacred space that continues to inspire people from all walks of life.
 
 ## Average Grade
-78.33333333333333
+75.0
 
 ## Grades
  * [80.0](./Ark_Location_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ So, to answer your question in a way that honors the diversity of human experien
  * [80.0](./Ark_Location_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Ark_Location_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Ark_Location_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Ark_Location_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [45.0](./Ark_Location_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Ark_Location.md)

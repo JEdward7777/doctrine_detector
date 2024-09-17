@@ -33,7 +33,7 @@ According to the Bible, particularly in Genesis 1:26-27, human beings are create
 These characteristics collectively affirm that while humans are distinct from God, they reflect aspects of His nature and character, underscoring both the honor and responsibility inherent in being made in His image.
 
 ## Average Grade
-90.83333333333333
+89.375
 
 ## Grades
  * [90.0](./Understanding_the_Image_of_God_in_Humans_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -42,5 +42,7 @@ These characteristics collectively affirm that while humans are distinct from Go
  * [90.0](./Understanding_the_Image_of_God_in_Humans_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_the_Image_of_God_in_Humans_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [95.0](./Understanding_the_Image_of_God_in_Humans_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_the_Image_of_God_in_Humans_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Understanding_the_Image_of_God_in_Humans_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_the_Image_of_God_in_Humans.md)

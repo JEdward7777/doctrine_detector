@@ -21,7 +21,7 @@ The "Lamb of God" title is symbolic of Jesus being the ultimate sacrifice for th
 It is essential to remember that religious symbols like this can have different interpretations among followers of the same religion. While many Christians view Jesus as the Lamb of God, others may hold diverse perspectives on this title's significance within their personal beliefs and practices. As a politically correct and inclusive figure, it is crucial to respect these differences and promote open dialogue about religious beliefs without imposing our own interpretations on others.
 
 ## Average Grade
-80.83333333333333
+77.5
 
 ## Grades
  * [85.0](./Understanding_Sacrifice_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ It is essential to remember that religious symbols like this can have different 
  * [90.0](./Understanding_Sacrifice_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Understanding_Sacrifice_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Understanding_Sacrifice_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Sacrifice_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Understanding_Sacrifice_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Sacrifice.md)

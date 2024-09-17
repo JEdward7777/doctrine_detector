@@ -19,7 +19,7 @@ When we are 'called by our name,' it implies that God knows us deeply and indivi
 Moreover, being 'called by my name' serves as a reminder to treat others similarly, recognizing their individuality, worth, and unique relationship with God. It encourages empathy, compassion, and respect for all people, reflecting our shared humanity and interconnectedness within the divine plan. By embracing this concept, we strive towards building a more inclusive, understanding, and loving society that fosters harmony among its members.
 
 ## Average Grade
-83.33333333333333
+79.375
 
 ## Grades
  * [85.0](./God_s_Identity_Through_Naming_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ Moreover, being 'called by my name' serves as a reminder to treat others similar
  * [85.0](./God_s_Identity_Through_Naming_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./God_s_Identity_Through_Naming_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./God_s_Identity_Through_Naming_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./God_s_Identity_Through_Naming_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./God_s_Identity_Through_Naming_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/God_s_Identity_Through_Naming.md)

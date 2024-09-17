@@ -27,7 +27,7 @@ The story of Gideon and the creation of the golden ephod, as recounted in the Bo
 In summary, the story of Gideon’s ephod serves as a multipronged lesson about the serious nature of idolatry, the role of leadership in guiding faith, and the need for continual commitment to the oneness of Allah in both individual and community practices. It calls for reflection on our actions and the impact they have on our relationship with God and with one another.
 
 ## Average Grade
-80.0
+76.875
 
 ## Grades
  * [85.0](./Ephod_idolatry_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ In summary, the story of Gideon’s ephod serves as a multipronged lesson about 
  * [80.0](./Ephod_idolatry_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Ephod_idolatry_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Ephod_idolatry_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Ephod_idolatry_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Ephod_idolatry_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Ephod_idolatry.md)

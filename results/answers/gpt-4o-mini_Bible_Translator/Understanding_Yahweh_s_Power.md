@@ -27,7 +27,7 @@ The statement "I am Yahweh" reveals significant aspects of God's character and p
 In summary, "I am Yahweh" encapsulates God’s identity as the self-sufficient, sovereign, and covenant-keeping God, who possesses the moral authority to command and the power to fulfill His promises. This statement serves as a foundation for understanding the relationship between God's command and His commitment to His people.
 
 ## Average Grade
-93.66666666666667
+92.75
 
 ## Grades
  * [95.0](./Understanding_Yahweh_s_Power_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ In summary, "I am Yahweh" encapsulates God’s identity as the self-sufficient, 
  * [95.0](./Understanding_Yahweh_s_Power_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Understanding_Yahweh_s_Power_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Understanding_Yahweh_s_Power_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Understanding_Yahweh_s_Power_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Understanding_Yahweh_s_Power_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Yahweh_s_Power.md)

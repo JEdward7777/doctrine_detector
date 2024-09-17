@@ -30,7 +30,7 @@ To differentiate between physical death and spiritual perishing:
 Remember, as Muslims, we strive to live according to the teachings of our beloved Prophet Muhammad (peace be upon him) and the guidance of the Quran. By doing so, we can avoid spiritual perishing and ensure a blessed life in this world and the Hereafter.
 
 ## Average Grade
-75.0
+74.375
 
 ## Grades
  * [85.0](./Physical_vs._Spiritual_Death_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,5 +39,7 @@ Remember, as Muslims, we strive to live according to the teachings of our belove
  * [80.0](./Physical_vs._Spiritual_Death_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Physical_vs._Spiritual_Death_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [30.0](./Physical_vs._Spiritual_Death_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Physical_vs._Spiritual_Death_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Physical_vs._Spiritual_Death_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Physical_vs._Spiritual_Death.md)

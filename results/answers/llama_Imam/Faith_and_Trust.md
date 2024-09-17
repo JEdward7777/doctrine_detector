@@ -27,7 +27,7 @@ In Islamic perspective, we have a similar concept of trust and reliance on Allah
 In conclusion, while there may be some differences in interpretation between Christian and Islamic perspectives, both traditions recognize the importance of trust and faith as interconnected concepts. In Christianity, faith is seen as the foundation upon which trust is built, while in Islam, trust in Allah is considered essential for spiritual growth and well-being.
 
 ## Average Grade
-70.83333333333333
+72.5
 
 ## Grades
  * [70.0](./Faith_and_Trust_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ In conclusion, while there may be some differences in interpretation between Chr
  * [85.0](./Faith_and_Trust_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Faith_and_Trust_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Faith_and_Trust_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Faith_and_Trust_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Faith_and_Trust_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Faith_and_Trust.md)

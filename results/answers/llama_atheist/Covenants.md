@@ -28,7 +28,7 @@ In the context of biblical covenants, the promises illustrate God's commitment t
 In conclusion, the promises made in biblical covenants illustrate God's commitment to His people through a combination of suzerain-vassal dynamics, conditional and unconditional promises, covenantal relationships, fulfillment, and typology. While understanding these covenants requires cultural and historical context, they remain essential components of the biblical narrative, pointing toward the ultimate fulfillment of God's promises in Jesus Christ.
 
 ## Average Grade
-78.33333333333333
+78.75
 
 ## Grades
  * [75.0](./Covenants_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,5 +37,7 @@ In conclusion, the promises made in biblical covenants illustrate God's commitme
  * [90.0](./Covenants_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Covenants_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Covenants_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Covenants_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Covenants_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Covenants.md)

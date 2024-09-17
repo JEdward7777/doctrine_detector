@@ -25,7 +25,7 @@ Understanding the dynamics of God's promises and expectations in covenants.
 5. New Covenant (Jeremiah 31:31-34; Hebrews 8:6-13): This is another example of an unconditional covenant, as God promises a new covenant in which He will write His law on the hearts of His people and forgive their sins. Jesus Christ, who was prophesied to fulfill this covenant, fulfilled it by His life, death, and resurrection, making it possible for believers to experience its blessings regardless of human actions or worthiness.
 
 ## Average Grade
-90.83333333333333
+90.0
 
 ## Grades
  * [95.0](./Covenant_Conditions_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ Understanding the dynamics of God's promises and expectations in covenants.
  * [95.0](./Covenant_Conditions_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Covenant_Conditions_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Covenant_Conditions_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Covenant_Conditions_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Covenant_Conditions_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Covenant_Conditions.md)

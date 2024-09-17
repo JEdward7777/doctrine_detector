@@ -15,7 +15,7 @@ Understanding the biblical definition of repentance is crucial for fostering gen
 Repentance in the context of the Bible generally refers to a change of heart and mind, turning away from one's sins or wrongdoing, and turning towards God or a more virtuous way of living. It involves acknowledging and regretting past actions, seeking forgiveness, and making efforts to make amends or improve oneself. Different interpretations and practices related to repentance exist among various Christian denominations and traditions.
 
 ## Average Grade
-88.33333333333333
+86.25
 
 ## Grades
  * [90.0](./Definition_of_Repentance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ Repentance in the context of the Bible generally refers to a change of heart and
  * [90.0](./Definition_of_Repentance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Definition_of_Repentance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Definition_of_Repentance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Definition_of_Repentance_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [75.0](./Definition_of_Repentance_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Definition_of_Repentance.md)

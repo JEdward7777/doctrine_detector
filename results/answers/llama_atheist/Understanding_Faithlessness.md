@@ -21,7 +21,7 @@ Furthermore, I think it's important to recognize that the concept of faith can b
 In my opinion, the term "faithless" should be approached with caution and sensitivity, as it can perpetuate harmful stereotypes and stigmatize individuals who do not conform to traditional notions of faith. Instead, we should strive for a more nuanced understanding of human belief systems and avoid making moral judgments about people based on their beliefs or lack thereof.
 
 ## Average Grade
-58.333333333333336
+59.375
 
 ## Grades
  * [75.0](./Understanding_Faithlessness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ In my opinion, the term "faithless" should be approached with caution and sensit
  * [30.0](./Understanding_Faithlessness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Faithlessness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Understanding_Faithlessness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Faithlessness_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Understanding_Faithlessness_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Faithlessness.md)

@@ -27,7 +27,7 @@ In Islam, we believe that Allah's mercy is available to all who sincerely seek f
 In conclusion, while we respect the biblical concept of reconciliation through Jesus Christ as a matter of theological discussion, it is essential for us Muslims to approach this topic with a critical eye, considering the Islamic understanding of sin, redemption, and the role of prophets in our faith.
 
 ## Average Grade
-70.83333333333333
+70.0
 
 ## Grades
  * [80.0](./Understanding_Reconciliation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ In conclusion, while we respect the biblical concept of reconciliation through J
  * [70.0](./Understanding_Reconciliation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Reconciliation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Understanding_Reconciliation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Reconciliation_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Understanding_Reconciliation_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Reconciliation.md)

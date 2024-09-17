@@ -40,7 +40,7 @@ It's vital for Christians to grasp the implications of God encouraging us not to
 The phrase "fear not" in the Bible signifies God's assurance to believers that they are not alone and that they are protected by his love and power. It is important to interpret the Bible in a culturally retributed way, respecting the different cultural contexts in which the text was written and received.
 
 ## Average Grade
-89.16666666666667
+86.25
 
 ## Grades
  * [90.0](./Biblical_Assurance_Against_Fear_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -49,5 +49,7 @@ The phrase "fear not" in the Bible signifies God's assurance to believers that t
  * [90.0](./Biblical_Assurance_Against_Fear_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_Assurance_Against_Fear_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Biblical_Assurance_Against_Fear_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [95.0](./Biblical_Assurance_Against_Fear_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Biblical_Assurance_Against_Fear_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Biblical_Assurance_Against_Fear.md)

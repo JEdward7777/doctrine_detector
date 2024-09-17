@@ -21,7 +21,7 @@ The concept of the Day of Judgment, or the Last Judgment, is a significant event
 It is essential to recognize that these beliefs are deeply rooted in Christian tradition and have profound cultural implications for those who follow this faith. For non-Christians, the significance of Jesus as the judge on the Day of Judgment may not hold similar importance or meaning.
 
 ## Average Grade
-85.0
+81.25
 
 ## Grades
  * [90.0](./Understanding_the_Day_of_Judgment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ It is essential to recognize that these beliefs are deeply rooted in Christian t
  * [85.0](./Understanding_the_Day_of_Judgment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_the_Day_of_Judgment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Understanding_the_Day_of_Judgment_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_the_Day_of_Judgment_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [55.0](./Understanding_the_Day_of_Judgment_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_the_Day_of_Judgment.md)

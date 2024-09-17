@@ -21,7 +21,7 @@ The passages from 1 Timothy 4:10 and 2 Peter 2:20 illustrate significant aspects
 Together, these passages convey that Christ is not only a Savior who extends His grace to everyone but also one who invites deeper understanding and commitment from His followers. They encourage believers to embrace this relationship deeply, as it leads to a transformative life rooted in faith and knowledge of Him. Thus, these scriptures reveal a multifaceted understanding of Christ's nature as Savior—one who is inclusive, transformative, and worthy of our trust and dedication.
 
 ## Average Grade
-85.0
+84.375
 
 ## Grades
  * [85.0](./Biblical_References_to_Salvation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ Together, these passages convey that Christ is not only a Savior who extends His
  * [85.0](./Biblical_References_to_Salvation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_References_to_Salvation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Biblical_References_to_Salvation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Biblical_References_to_Salvation_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [75.0](./Biblical_References_to_Salvation_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Biblical_References_to_Salvation.md)

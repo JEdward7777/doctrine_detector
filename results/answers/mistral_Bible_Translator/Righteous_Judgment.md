@@ -29,7 +29,7 @@ The Bible presents various examples where God demonstrates both anger (wrath) an
 In conclusion, reconciling God's wrath with His love and mercy requires understanding that these concepts are not mutually exclusive but rather interconnected aspects of God's character revealed throughout Scripture. By studying the Bible, praying, and seeking wisdom from other believers, Christians can gain a deeper appreciation for the complexities of God's nature and seek to live in a way that reflects His love and mercy while striving to obey Him.
 
 ## Average Grade
-92.5
+90.625
 
 ## Grades
  * [95.0](./Righteous_Judgment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ In conclusion, reconciling God's wrath with His love and mercy requires understa
  * [95.0](./Righteous_Judgment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Righteous_Judgment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Righteous_Judgment_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Righteous_Judgment_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Righteous_Judgment_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Righteous_Judgment.md)

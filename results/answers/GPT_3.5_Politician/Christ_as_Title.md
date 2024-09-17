@@ -15,7 +15,7 @@ Recognizing the significance of the title 'Christ' deepens understanding of Jesu
 The term "Christ" has evolved in its usage throughout the New Testament as a title used to refer to Jesus of Nazareth as the promised Messiah and savior in Christian theology. It is important to approach the discussion of religious terms with respect for the beliefs and interpretations of others. It is a term that holds deep significance for many people around the world, and it is important to be sensitive to the diverse ways in which individuals understand and interpret religious concepts.
 
 ## Average Grade
-85.0
+83.125
 
 ## Grades
  * [90.0](./Christ_as_Title_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ The term "Christ" has evolved in its usage throughout the New Testament as a tit
  * [85.0](./Christ_as_Title_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Christ_as_Title_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Christ_as_Title_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Christ_as_Title_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Christ_as_Title_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Christ_as_Title.md)

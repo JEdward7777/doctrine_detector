@@ -23,7 +23,7 @@ Now, I want to emphasize that these rules were in place to maintain the sanctity
 So, to answer your question, only certain individuals with the proper authority and purification could approach the Ark of the Covenant under specific circumstances. And, of course, we must always strive to be mindful of and respectful towards the diverse beliefs and practices that surround this sacred artifact.
 
 ## Average Grade
-80.0
+79.375
 
 ## Grades
  * [90.0](./High_Priest_Access_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ So, to answer your question, only certain individuals with the proper authority 
  * [80.0](./High_Priest_Access_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./High_Priest_Access_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./High_Priest_Access_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./High_Priest_Access_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./High_Priest_Access_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/High_Priest_Access.md)

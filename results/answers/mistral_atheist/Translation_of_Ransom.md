@@ -30,7 +30,7 @@ Ensuring theological terms are accurately understood across linguistic and cultu
 These translations are culturally sensitive and should provide a good starting point for addressing the term "ransom" in various languages without any religious or ideological connotations. It is essential to be aware that language translation can sometimes carry cultural nuances, so it's important to use context-specific expressions when possible.
 
 ## Average Grade
-70.0
+73.75
 
 ## Grades
  * [75.0](./Translation_of_Ransom_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -39,5 +39,7 @@ These translations are culturally sensitive and should provide a good starting p
  * [50.0](./Translation_of_Ransom_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Translation_of_Ransom_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Translation_of_Ransom_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Translation_of_Ransom_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Translation_of_Ransom_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Translation_of_Ransom.md)

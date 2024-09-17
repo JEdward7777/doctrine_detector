@@ -25,7 +25,7 @@ By being gracious, we're not only making a positive impact on the people around 
 So, my fellow citizens, let's all make an effort to be gracious in our daily interactions. Let's show the world that we're capable of treating each other with kindness, compassion, and respect - even when we disagree or face challenges. Together, we can build a society that values empathy, understanding, and... well, graciousness!
 
 ## Average Grade
-76.66666666666667
+76.25
 
 ## Grades
  * [65.0](./Being_Gracious_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ So, my fellow citizens, let's all make an effort to be gracious in our daily int
  * [85.0](./Being_Gracious_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Being_Gracious_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Being_Gracious_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Being_Gracious_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [65.0](./Being_Gracious_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Being_Gracious.md)

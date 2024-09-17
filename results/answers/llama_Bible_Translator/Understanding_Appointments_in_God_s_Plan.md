@@ -27,7 +27,7 @@ It's essential to note that this concept does not contradict human free will or 
 In summary, being "appointed to eternal life" means that one has been divinely chosen by God to receive the gift of spiritual rebirth and ultimately to share in the glory of heaven through faith in Jesus Christ.
 
 ## Average Grade
-94.16666666666667
+93.75
 
 ## Grades
  * [90.0](./Understanding_Appointments_in_God_s_Plan_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ In summary, being "appointed to eternal life" means that one has been divinely c
  * [95.0](./Understanding_Appointments_in_God_s_Plan_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Understanding_Appointments_in_God_s_Plan_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [95.0](./Understanding_Appointments_in_God_s_Plan_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [95.0](./Understanding_Appointments_in_God_s_Plan_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Understanding_Appointments_in_God_s_Plan_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Appointments_in_God_s_Plan.md)

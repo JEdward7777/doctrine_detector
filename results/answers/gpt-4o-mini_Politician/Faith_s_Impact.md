@@ -33,7 +33,7 @@ True faith in Jesus can manifest in various ways in a person's life, reflecting 
 These manifestations can vary widely from person to person but often center around the core principles of love, service, and personal integrity that are fundamental to the teachings of Jesus. It's important to acknowledge that each individual's expression of faith is unique, influenced by personal experiences, cultural contexts, and interpretations of scripture. This diversity adds richness to the tapestry of faith communities worldwide.
 
 ## Average Grade
-87.5
+86.875
 
 ## Grades
  * [90.0](./Faith_s_Impact_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -42,5 +42,7 @@ These manifestations can vary widely from person to person but often center arou
  * [90.0](./Faith_s_Impact_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Faith_s_Impact_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Faith_s_Impact_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Faith_s_Impact_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Faith_s_Impact_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Faith_s_Impact.md)

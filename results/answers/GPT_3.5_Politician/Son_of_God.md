@@ -15,7 +15,7 @@ Clarity on this distinction helps avoid confusion in theological discussions.
 As a politician, I strive to be inclusive and respectful of all religious beliefs and interpretations. The distinction between the title 'Son of God' as it refers to Jesus and the term 'sons of God' used for believers is understood in various ways within different religious and cultural contexts. It's important to recognize and appreciate the diversity of beliefs and interpretations surrounding these terms and to approach the topic with sensitivity and understanding.
 
 ## Average Grade
-74.16666666666667
+67.5
 
 ## Grades
  * [90.0](./Son_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ As a politician, I strive to be inclusive and respectful of all religious belief
  * [85.0](./Son_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Son_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./Son_of_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [75.0](./Son_of_God_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [20.0](./Son_of_God_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Son_of_God.md)

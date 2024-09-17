@@ -19,7 +19,7 @@ The term 'unclean spirit' signifies something impure or malevolent in Christian 
 It's important to note that while there are similarities between Islamic and Christian beliefs regarding spiritual beings, there are also significant differences. These variations stem from unique historical, cultural, and religious contexts. For a deeper understanding of these topics, it's recommended to consult authentic Islamic texts, such as the Quran and Hadith, with an accredited scholar or Imam.
 
 ## Average Grade
-80.0
+79.375
 
 ## Grades
  * [70.0](./Understanding_Demons_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ It's important to note that while there are similarities between Islamic and Chr
  * [85.0](./Understanding_Demons_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Understanding_Demons_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Understanding_Demons_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Demons_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Understanding_Demons_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Demons.md)

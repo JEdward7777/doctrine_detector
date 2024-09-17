@@ -17,7 +17,7 @@ To grasp the implications of Jesus’ second coming as the 'Son of Man' for Chri
 This belief, shared by many Christians, suggests a future Second Coming of Christ, where he will return to Earth, often symbolized by his arrival on the clouds. For believers, this event implies a time of fulfillment and judgment, as well as the establishment of God's kingdom on Earth. It's essential to remember that everyone's interpretation of religious texts can vary, and it is crucial to maintain respect for those differences in any discourse.
 
 ## Average Grade
-82.5
+81.25
 
 ## Grades
  * [90.0](./Second_Coming_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -26,5 +26,7 @@ This belief, shared by many Christians, suggests a future Second Coming of Chris
  * [90.0](./Second_Coming_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Second_Coming_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Second_Coming_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Second_Coming_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Second_Coming_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Second_Coming.md)

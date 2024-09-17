@@ -19,7 +19,7 @@ The implication of the concept of innocent blood in the Bible is that human life
 From an atheistic perspective, while the Bible's teachings on innocent blood may be rooted in religious beliefs, the value of life can still be recognized as a fundamental aspect of human society and ethics. Regardless of religious beliefs, the concept of innocent blood encourages empathy, justice, and a recognition of the inherent worth of every individual. It calls for a reverence for life and a commitment to protecting the vulnerable and innocent, which are values that can be upheld in both religious and secular contexts.
 
 ## Average Grade
-87.5
+84.375
 
 ## Grades
  * [90.0](./Innocent_Suffering_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ From an atheistic perspective, while the Bible's teachings on innocent blood may
  * [90.0](./Innocent_Suffering_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Innocent_Suffering_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Innocent_Suffering_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Innocent_Suffering_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [65.0](./Innocent_Suffering_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Innocent_Suffering.md)

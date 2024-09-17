@@ -33,7 +33,7 @@ The Bible does not explicitly describe Jesus Christ as having dominion or sovere
 The concepts of Jesus' dominion are not fully reconcilable with Islamic beliefs. While Christians and Muslims share some similarities in their understanding of Jesus, their interpretations of his dominion differ significantly.
 
 ## Average Grade
-38.333333333333336
+44.375
 
 ## Grades
  * [40.0](./Dominion_of_Christ_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -42,5 +42,7 @@ The concepts of Jesus' dominion are not fully reconcilable with Islamic beliefs.
  * [20.0](./Dominion_of_Christ_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Dominion_of_Christ_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [30.0](./Dominion_of_Christ_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [75.0](./Dominion_of_Christ_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Dominion_of_Christ_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Dominion_of_Christ.md)

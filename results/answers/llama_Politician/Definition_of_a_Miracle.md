@@ -23,7 +23,7 @@ In my view, God's authority can be seen as a symbol of hope, guidance, and wisdo
 As a public servant, I strive to create an inclusive and welcoming environment where people from all walks of life can coexist and thrive. By respecting individual differences and beliefs, we can build bridges rather than barriers. (smiling) And who knows? Perhaps through open-minded dialogue and a willingness to listen, we might just discover new commonalities and areas of mutual understanding!
 
 ## Average Grade
-55.833333333333336
+56.25
 
 ## Grades
  * [50.0](./Definition_of_a_Miracle_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ As a public servant, I strive to create an inclusive and welcoming environment w
  * [60.0](./Definition_of_a_Miracle_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Definition_of_a_Miracle_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Definition_of_a_Miracle_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Definition_of_a_Miracle_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [30.0](./Definition_of_a_Miracle_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Definition_of_a_Miracle.md)

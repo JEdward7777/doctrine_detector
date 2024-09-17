@@ -29,7 +29,7 @@ Now, I must emphasize that these individuals were not perfect; they had their ow
 In conclusion, as we reflect on these biblical figures, let us strive for humility, gratitude, and compassion. May our hearts be open to hearing the stories of others, and may we seek to build bridges of understanding across our global community.
 
 ## Average Grade
-74.16666666666667
+72.5
 
 ## Grades
  * [85.0](./Consecrated_Individuals_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ In conclusion, as we reflect on these biblical figures, let us strive for humili
  * [75.0](./Consecrated_Individuals_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Consecrated_Individuals_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Consecrated_Individuals_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Consecrated_Individuals_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Consecrated_Individuals_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Consecrated_Individuals.md)

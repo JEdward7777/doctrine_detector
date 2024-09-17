@@ -21,7 +21,7 @@ It's important to note that celibacy is a personal choice and not a requirement 
 In discussing such matters, it is crucial to demonstrate sensitivity and respect towards individuals who may have chosen celibacy or those who may identify with the concept of eunuchs in any form. Each person's beliefs and choices should be acknowledged and valued without judgment.
 
 ## Average Grade
-82.5
+80.0
 
 ## Grades
  * [80.0](./Eunuchs_in_the_Bible_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ In discussing such matters, it is crucial to demonstrate sensitivity and respect
  * [85.0](./Eunuchs_in_the_Bible_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Eunuchs_in_the_Bible_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Eunuchs_in_the_Bible_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Eunuchs_in_the_Bible_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Eunuchs_in_the_Bible_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Eunuchs_in_the_Bible.md)

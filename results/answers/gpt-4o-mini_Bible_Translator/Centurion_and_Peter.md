@@ -27,7 +27,7 @@ The centurion's visit to Peter, as described in Acts 10, is a pivotal moment in 
 In summary, the visit of the centurion to Peter serves as a demonstration of God's intent to include all nations in His salvation plan. It indicates a fundamental shift in the early Church, affirming that faith in Jesus Christ breaks down traditional barriers and invites everyone to partake in God's grace.
 
 ## Average Grade
-94.16666666666667
+93.125
 
 ## Grades
  * [95.0](./Centurion_and_Peter_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ In summary, the visit of the centurion to Peter serves as a demonstration of God
  * [95.0](./Centurion_and_Peter_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Centurion_and_Peter_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Centurion_and_Peter_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Centurion_and_Peter_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Centurion_and_Peter_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Centurion_and_Peter.md)

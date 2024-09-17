@@ -15,7 +15,7 @@ It's important for Christians to examine their lives and ensure that they are no
 As a politician, I believe it is essential to respect and acknowledge the diverse beliefs of all individuals. It is not my place to judge or criticize the religious practices of others. It's important to promote understanding and acceptance of different worldviews. If someone feels called to worship a particular idol or god, that is a personal decision that should be respected.
 
 ## Average Grade
-44.166666666666664
+44.375
 
 ## Grades
  * [40.0](./Worship_Practices_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ As a politician, I believe it is essential to respect and acknowledge the divers
  * [50.0](./Worship_Practices_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Worship_Practices_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [0.0](./Worship_Practices_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [70.0](./Worship_Practices_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [20.0](./Worship_Practices_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Worship_Practices.md)

@@ -17,7 +17,7 @@ In the New Testament, specifically in the Gospel of Matthew (Matthew 3:4), John 
 Additionally, John the Baptist's unique lifestyle and dedication to his role as a prophet, as well as his message of repentance and moral purity, align with the values associated with being a Nazirite. While the New Testament does not explicitly state that John the Baptist was a Nazirite, these parallels suggest that he may have lived a Nazirite-like lifestyle as part of his overall devotion to God and his mission.
 
 ## Average Grade
-87.5
+86.875
 
 ## Grades
  * [90.0](./New_Testament_References_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -26,5 +26,7 @@ Additionally, John the Baptist's unique lifestyle and dedication to his role as 
  * [95.0](./New_Testament_References_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./New_Testament_References_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./New_Testament_References_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./New_Testament_References_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./New_Testament_References_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/New_Testament_References.md)

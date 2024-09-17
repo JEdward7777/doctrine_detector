@@ -21,7 +21,7 @@ The distinction between believing in something and believing someone is signific
 In essence, believing in something often centers on concepts and doctrines, while believing someone focuses on the reliability and truthfulness of a person. Both aspects are interconnected in Islam, as believing in the teachings of the Prophet Muhammad (peace be upon him) requires trust in his character and the divine origin of his message.
 
 ## Average Grade
-85.83333333333333
+85.625
 
 ## Grades
  * [95.0](./Understanding_Belief_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ In essence, believing in something often centers on concepts and doctrines, whil
  * [85.0](./Understanding_Belief_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Understanding_Belief_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Understanding_Belief_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Belief_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Understanding_Belief_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Belief.md)

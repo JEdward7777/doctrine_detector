@@ -21,7 +21,7 @@ In discussing the concept of heaven, it is important to note that different reli
 It is important to recognize that interpretations of these verses can vary among different Christian denominations and scholars. As an atheistic scholar, one can appreciate the cultural significance and impact of these beliefs on individuals and societies, while also recognizing that different religious traditions hold diverse views on the nature of heaven and the afterlife.
 
 ## Average Grade
-80.0
+78.125
 
 ## Grades
  * [70.0](./Biblical_References_to_Heaven_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ It is important to recognize that interpretations of these verses can vary among
  * [85.0](./Biblical_References_to_Heaven_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_References_to_Heaven_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Biblical_References_to_Heaven_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Biblical_References_to_Heaven_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Biblical_References_to_Heaven_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Biblical_References_to_Heaven.md)

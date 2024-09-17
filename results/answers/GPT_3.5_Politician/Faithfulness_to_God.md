@@ -15,7 +15,7 @@ Understanding the concept of faithfulness in a Christian context.
 I believe that being faithful to God, according to the biblical definition, involves a deep commitment and trust in God, as well as living in accordance with His teachings and values. It can encompass practices such as prayer, worship, and living a moral and upright life. Different interpretations may exist within various religious traditions, and it's important to respect and acknowledge the diversity of beliefs around this topic.
 
 ## Average Grade
-83.33333333333333
+81.25
 
 ## Grades
  * [90.0](./Faithfulness_to_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ I believe that being faithful to God, according to the biblical definition, invo
  * [85.0](./Faithfulness_to_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Faithfulness_to_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Faithfulness_to_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Faithfulness_to_God_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Faithfulness_to_God_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Faithfulness_to_God.md)

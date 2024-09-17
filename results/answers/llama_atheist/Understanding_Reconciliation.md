@@ -25,7 +25,7 @@ From this perspective, the biblical narrative can be seen as an attempt to provi
 In conclusion, while I do not accept the supernatural or metaphysical aspects of the biblical narrative, I believe that the concept of reconciliation through Jesus Christ can be seen as a powerful symbolic expression of humanity's desire for redemption and forgiveness. As an atheistic scholar, my aim is to critically examine and contextualize religious beliefs within their cultural and historical frameworks, recognizing the significance of human experiences, emotions, and moral awareness in shaping our understanding of the world and ourselves.
 
 ## Average Grade
-62.5
+60.0
 
 ## Grades
  * [60.0](./Understanding_Reconciliation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ In conclusion, while I do not accept the supernatural or metaphysical aspects of
  * [70.0](./Understanding_Reconciliation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Reconciliation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Understanding_Reconciliation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Reconciliation_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [20.0](./Understanding_Reconciliation_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Reconciliation.md)

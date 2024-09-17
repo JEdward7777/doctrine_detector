@@ -23,7 +23,7 @@ As a person of faith, I believe it's essential to respect the various ways peopl
 4. The apostle Paul also used the term "Lord" when addressing God or Jesus Christ. For instance, in Acts 7:48, he said, "Howbeit then, when the Gentiles received him, that they might believe all that was spoken by Moses; and when they had glorified God, they returned to Jerusalem with joy: and were received by the [Lord] with the twelve."
 
 ## Average Grade
-89.16666666666667
+87.5
 
 ## Grades
  * [90.0](./Biblical_References_4_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ As a person of faith, I believe it's essential to respect the various ways peopl
  * [90.0](./Biblical_References_4_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Biblical_References_4_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Biblical_References_4_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Biblical_References_4_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [80.0](./Biblical_References_4_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Biblical_References_4.md)

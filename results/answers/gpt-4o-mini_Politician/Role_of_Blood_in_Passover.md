@@ -21,7 +21,7 @@ Symbolically, the blood represents themes of protection, redemption, and sacrifi
 In contemporary discussions, the Passover event and the significance of the blood can also be seen as a profound expression of hope and resilience in the face of oppression, celebrating freedom and the enduring spirit of community. Overall, the blood in the Passover event is rich with multi-layered meanings that continue to resonate in religious practices and discussions about identity and heritage.
 
 ## Average Grade
-80.83333333333333
+81.875
 
 ## Grades
  * [80.0](./Role_of_Blood_in_Passover_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ In contemporary discussions, the Passover event and the significance of the bloo
  * [80.0](./Role_of_Blood_in_Passover_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Role_of_Blood_in_Passover_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Role_of_Blood_in_Passover_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Role_of_Blood_in_Passover_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Role_of_Blood_in_Passover_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Role_of_Blood_in_Passover.md)

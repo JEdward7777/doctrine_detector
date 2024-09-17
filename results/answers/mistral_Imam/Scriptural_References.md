@@ -17,7 +17,7 @@ Knowing biblical references helps deepen our connection to Scripture and God's p
 In Islamic tradition, Abraham (Arabic: Ibrahim) is considered a major prophet who submitted to Allah (God). However, since Islam recognizes only the Arabic language as the original language of the divine revelations, it does not refer to God as "Almighty" in this way. Instead, Allah is called Ar-Raqib (The Watcher), Al-Wakeel (The Trustee), and Al-Aleem (The All-Knowing). The Quran contains references to Abraham's story and his unwavering faith in God.
 
 ## Average Grade
-88.33333333333333
+87.5
 
 ## Grades
  * [90.0](./Scriptural_References_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -26,5 +26,7 @@ In Islamic tradition, Abraham (Arabic: Ibrahim) is considered a major prophet wh
  * [90.0](./Scriptural_References_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Scriptural_References_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Scriptural_References_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Scriptural_References_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Scriptural_References_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Scriptural_References.md)

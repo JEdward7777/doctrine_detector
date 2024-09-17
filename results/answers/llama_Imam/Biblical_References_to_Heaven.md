@@ -37,7 +37,7 @@ As an Imam, I must emphasize that our understanding of heaven comes primarily fr
 While these verses provide some insight into the concept of heaven from a Christian perspective, it's essential to remember that our understanding of heaven is primarily rooted in Islamic teachings. As Muslims, we believe that heaven (Jannah) is a realm of eternal bliss, where believers will be rewarded for their good deeds and enjoy the presence of Allah (God).
 
 ## Average Grade
-76.66666666666667
+77.5
 
 ## Grades
  * [95.0](./Biblical_References_to_Heaven_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -46,5 +46,7 @@ While these verses provide some insight into the concept of heaven from a Christ
  * [65.0](./Biblical_References_to_Heaven_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_References_to_Heaven_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Biblical_References_to_Heaven_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Biblical_References_to_Heaven_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [75.0](./Biblical_References_to_Heaven_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Biblical_References_to_Heaven.md)

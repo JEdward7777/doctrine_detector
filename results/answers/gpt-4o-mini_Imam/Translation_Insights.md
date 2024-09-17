@@ -27,7 +27,7 @@ The phrase "image of God" is a significant theological concept found in the scri
 These translations and concepts are significant because they clarify the Islamic understanding of humanity's relationship with the Divine. They underscore the idea that while humans possess special qualities that reflect God's attributes, they are distinct and do not equate to a literal image, which aligns with Islamic theology's emphasis on the oneness and uniqueness of Allah (Tawhid). This perspective encourages a sense of respect for human dignity and a moral obligation towards creation, rather than a focus on physical resemblance.
 
 ## Average Grade
-81.66666666666667
+80.625
 
 ## Grades
  * [85.0](./Translation_Insights_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ These translations and concepts are significant because they clarify the Islamic
  * [85.0](./Translation_Insights_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Translation_Insights_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Translation_Insights_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Translation_Insights_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Translation_Insights_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Translation_Insights.md)

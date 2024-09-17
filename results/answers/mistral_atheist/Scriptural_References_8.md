@@ -23,7 +23,7 @@ Finally, in Titus 2:7-8, the Apostle Paul encourages believers to "show yourself
 To guide a Christian's life, these scriptural references encourage living a virtuous, hardworking, and honest life while striving for personal growth and integrity. By being a model of good works and demonstrating sound speech, Christians can shine as lights in the world and bring glory to God. Additionally, maintaining a quiet life, focusing on one's own business, and working diligently are all key aspects of leading a blameless life.
 
 ## Average Grade
-85.0
+84.375
 
 ## Grades
  * [85.0](./Scriptural_References_8_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ To guide a Christian's life, these scriptural references encourage living a virt
  * [85.0](./Scriptural_References_8_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Scriptural_References_8_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Scriptural_References_8_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Scriptural_References_8_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [80.0](./Scriptural_References_8_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Scriptural_References_8.md)

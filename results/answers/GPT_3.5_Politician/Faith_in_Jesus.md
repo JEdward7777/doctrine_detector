@@ -15,7 +15,7 @@ Understanding the implications of faith and trust in Jesus for personal life.
 Believing in Jesus typically refers to accepting him as a central figure in Christianity, acknowledging his teachings, and considering him as the savior and son of God. This belief can extend to faith in his divinity, his sacrifice for the forgiveness of humanity's sins, and his role in facilitating a personal relationship with God for believers. It's important to remember that beliefs about Jesus can vary among different denominations and individuals, with diverse interpretations and perspectives on his significance. It's crucial to approach discussions about religious beliefs with respect for different viewpoints and a willingness to engage in open and respectful dialogue.
 
 ## Average Grade
-83.33333333333333
+81.875
 
 ## Grades
  * [85.0](./Faith_in_Jesus_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ Believing in Jesus typically refers to accepting him as a central figure in Chri
  * [85.0](./Faith_in_Jesus_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Faith_in_Jesus_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Faith_in_Jesus_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Faith_in_Jesus_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Faith_in_Jesus_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Faith_in_Jesus.md)

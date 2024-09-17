@@ -25,7 +25,7 @@ While the name Yahweh is specific to the Jewish and Christian traditions, Muslim
 In conclusion, while the name Yahweh has significance within the Jewish and Christian traditions, Muslims recognize its importance as a testament to God's unity and transcendence. As we honor the prophets and messengers of Allah, we also acknowledge the unique role that each tradition plays in conveying the divine message to humanity.
 
 ## Average Grade
-78.33333333333333
+75.625
 
 ## Grades
  * [85.0](./God_s_Name_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ In conclusion, while the name Yahweh has significance within the Jewish and Chri
  * [90.0](./God_s_Name_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./God_s_Name_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./God_s_Name_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./God_s_Name_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./God_s_Name_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/God_s_Name.md)

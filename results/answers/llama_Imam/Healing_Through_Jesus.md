@@ -32,7 +32,7 @@ In these cases, Jesus demonstrated his authority over the forces of evil and his
 As Muslims, we believe that Jesus was a noble prophet who preached the message of Tawhid (the Oneness of Allah) and called people to worship one God. While our understanding of his miracles might differ from those of Christians, we acknowledge his role as a messenger of Allah and his efforts to guide humanity towards the path of righteousness.
 
 ## Average Grade
-84.16666666666667
+81.25
 
 ## Grades
  * [80.0](./Healing_Through_Jesus_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -41,5 +41,7 @@ As Muslims, we believe that Jesus was a noble prophet who preached the message o
  * [85.0](./Healing_Through_Jesus_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Healing_Through_Jesus_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Healing_Through_Jesus_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Healing_Through_Jesus_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Healing_Through_Jesus_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Healing_Through_Jesus.md)

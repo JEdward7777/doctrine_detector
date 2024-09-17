@@ -21,7 +21,7 @@ The Prophet Muhammad (peace be upon him) also said: "Taqwa is here" - pointing t
 This hadith emphasizes that personal sanctification is not just about external actions, but also about the intentions behind those actions. A believer's heart should always be filled with love for Allah and a desire to please Him, which will guide their thoughts, words, and deeds towards righteousness.
 
 ## Average Grade
-66.66666666666667
+68.75
 
 ## Grades
  * [85.0](./Calling_to_Sanctification_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ This hadith emphasizes that personal sanctification is not just about external a
  * [70.0](./Calling_to_Sanctification_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [20.0](./Calling_to_Sanctification_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Calling_to_Sanctification_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Calling_to_Sanctification_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Calling_to_Sanctification_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Calling_to_Sanctification.md)

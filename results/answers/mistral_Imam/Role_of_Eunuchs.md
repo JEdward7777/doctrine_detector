@@ -25,7 +25,7 @@ Lastly, the existence of eunuchs and their roles in ancient times also highlight
 In conclusion, while it is essential to acknowledge that the roles of eunuchs in ancient times were largely shaped by societal norms and structures, their presence and contributions can be understood through an Islamic perspective as a reflection of the inherent worth and value of every individual, the importance of cooperation and mutual respect, and the necessity of compassion, empathy, and understanding for those who may be different or face unique challenges in life.
 
 ## Average Grade
-80.0
+75.625
 
 ## Grades
  * [90.0](./Role_of_Eunuchs_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ In conclusion, while it is essential to acknowledge that the roles of eunuchs in
  * [80.0](./Role_of_Eunuchs_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Role_of_Eunuchs_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Role_of_Eunuchs_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Role_of_Eunuchs_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Role_of_Eunuchs_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Role_of_Eunuchs.md)

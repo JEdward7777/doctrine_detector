@@ -39,7 +39,7 @@ Understanding God's covenant with Abraham and its implications for believers.
 * The boundaries of the land of Canaan are not explicitly defined in the Quran, but traditional interpretations include the fertile crescent region.
 
 ## Average Grade
-77.5
+73.125
 
 ## Grades
  * [90.0](./Inheritance_and_the_Promise_to_Abraham_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -48,5 +48,7 @@ Understanding God's covenant with Abraham and its implications for believers.
  * [90.0](./Inheritance_and_the_Promise_to_Abraham_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Inheritance_and_the_Promise_to_Abraham_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./Inheritance_and_the_Promise_to_Abraham_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Inheritance_and_the_Promise_to_Abraham_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Inheritance_and_the_Promise_to_Abraham_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Inheritance_and_the_Promise_to_Abraham.md)

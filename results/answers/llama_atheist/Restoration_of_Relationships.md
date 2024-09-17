@@ -25,7 +25,7 @@ This perspective doesn't rely on supernatural concepts or divine intervention bu
 In conclusion, while I don't subscribe to religious beliefs about sin or divine restoration, I believe that our shared human experience offers profound opportunities for growth, transformation, and redemption. By embracing our inherent value and dignity, we can work towards creating a more inclusive, empathetic, and equitable world.
 
 ## Average Grade
-36.666666666666664
+40.625
 
 ## Grades
  * [20.0](./Restoration_of_Relationships_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ In conclusion, while I don't subscribe to religious beliefs about sin or divine 
  * [50.0](./Restoration_of_Relationships_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Restoration_of_Relationships_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [25.0](./Restoration_of_Relationships_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Restoration_of_Relationships_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [20.0](./Restoration_of_Relationships_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Restoration_of_Relationships.md)

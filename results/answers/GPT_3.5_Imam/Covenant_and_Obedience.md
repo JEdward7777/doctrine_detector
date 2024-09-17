@@ -23,7 +23,7 @@ However, the Israelites faced struggles and setbacks when they disobeyed God's l
 Ultimately, it was the Israelites' adherence to God's laws and their faith in His promise that allowed them to eventually reach the Promised Land and receive His blessings. This journey serves as a reminder for Muslims to obey Allah's laws and commandments, as obedience is a means of drawing closer to Him and attaining His mercy and guidance in our own lives.
 
 ## Average Grade
-88.33333333333333
+85.625
 
 ## Grades
  * [85.0](./Covenant_and_Obedience_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ Ultimately, it was the Israelites' adherence to God's laws and their faith in Hi
  * [85.0](./Covenant_and_Obedience_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Covenant_and_Obedience_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Covenant_and_Obedience_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Covenant_and_Obedience_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Covenant_and_Obedience_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Covenant_and_Obedience.md)

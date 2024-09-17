@@ -43,7 +43,7 @@ As an atheist scholar, I approach the concept of election with skepticism. It is
 The concept of being "appointed to eternal life" is a complex and controversial theological belief with cultural and philosophical implications. As an atheist scholar, I reject the idea of predestination and embrace a more inclusive and empowering perspective on human agency and existence.
 
 ## Average Grade
-75.0
+72.5
 
 ## Grades
  * [50.0](./Understanding_Appointments_in_God_s_Plan_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -52,5 +52,7 @@ The concept of being "appointed to eternal life" is a complex and controversial 
  * [90.0](./Understanding_Appointments_in_God_s_Plan_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Appointments_in_God_s_Plan_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Understanding_Appointments_in_God_s_Plan_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Appointments_in_God_s_Plan_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [45.0](./Understanding_Appointments_in_God_s_Plan_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Appointments_in_God_s_Plan.md)

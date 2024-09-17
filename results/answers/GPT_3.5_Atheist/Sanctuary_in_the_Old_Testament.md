@@ -15,7 +15,7 @@ Recognizing the importance of the sanctuary as a dwelling place for God and a so
 In the Old Testament, God described the sanctuary as a place where He dwelt among His people. It was seen as a sacred space where God's presence was believed to reside, and where His people could come to offer sacrifices, seek forgiveness, and worship Him. The sanctuary was considered the holiest place, symbolizing the closeness of God to His chosen people. It was where the Israelites believed they could connect with God and receive His guidance and blessing.
 
 ## Average Grade
-87.5
+86.875
 
 ## Grades
  * [95.0](./Sanctuary_in_the_Old_Testament_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ In the Old Testament, God described the sanctuary as a place where He dwelt amon
  * [90.0](./Sanctuary_in_the_Old_Testament_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Sanctuary_in_the_Old_Testament_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Sanctuary_in_the_Old_Testament_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Sanctuary_in_the_Old_Testament_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Sanctuary_in_the_Old_Testament_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Sanctuary_in_the_Old_Testament.md)

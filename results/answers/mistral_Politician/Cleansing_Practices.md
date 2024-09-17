@@ -35,7 +35,7 @@ Incorporating ancient teachings into contemporary faith practice can enhance spi
 10. Holistic Approach to Health: Encourage a holistic approach to health by promoting mental, emotional, social, spiritual, and physical well-being within religious communities, emphasizing balance and harmony in all aspects of life.
 
 ## Average Grade
-84.5
+82.125
 
 ## Grades
  * [93.0](./Cleansing_Practices_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -44,5 +44,7 @@ Incorporating ancient teachings into contemporary faith practice can enhance spi
  * [84.0](./Cleansing_Practices_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Cleansing_Practices_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Cleansing_Practices_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Cleansing_Practices_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Cleansing_Practices_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Cleansing_Practices.md)

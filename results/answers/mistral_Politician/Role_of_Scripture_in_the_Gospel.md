@@ -23,7 +23,7 @@ In Acts 17:2-3, we see Paul speaking to the people in the Areopagus in Athens, u
 By using these methods, they were able to share the Gospel in a way that was both respectful and clear, taking into account the cultural context and understanding of their listeners. This approach can serve as a model for sharing the Gospel message today, by finding common ground with others and building upon shared beliefs to introduce the unique truths of Christianity.
 
 ## Average Grade
-90.0
+87.5
 
 ## Grades
  * [95.0](./Role_of_Scripture_in_the_Gospel_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ By using these methods, they were able to share the Gospel in a way that was bot
  * [95.0](./Role_of_Scripture_in_the_Gospel_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Role_of_Scripture_in_the_Gospel_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Role_of_Scripture_in_the_Gospel_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Role_of_Scripture_in_the_Gospel_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [75.0](./Role_of_Scripture_in_the_Gospel_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Role_of_Scripture_in_the_Gospel.md)

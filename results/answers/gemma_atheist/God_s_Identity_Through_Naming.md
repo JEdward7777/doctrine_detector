@@ -39,7 +39,7 @@ The concept of being "called by my name" reflects a culturally conditioned under
 The concept of being "called by my name" is a culturally nuanced and multifaceted concept that can be interpreted in various ways. While it holds significance in certain religious and cultural contexts, it does not necessarily reflect an actual supernatural relationship with God.
 
 ## Average Grade
-26.666666666666668
+33.125
 
 ## Grades
  * [30.0](./God_s_Identity_Through_Naming_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -48,5 +48,7 @@ The concept of being "called by my name" is a culturally nuanced and multifacete
  * [20.0](./God_s_Identity_Through_Naming_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./God_s_Identity_Through_Naming_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./God_s_Identity_Through_Naming_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./God_s_Identity_Through_Naming_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [20.0](./God_s_Identity_Through_Naming_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/God_s_Identity_Through_Naming.md)

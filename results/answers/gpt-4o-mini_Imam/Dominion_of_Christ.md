@@ -25,7 +25,7 @@ In the context of Islamic understanding, Jesus (known as 'Isa in Arabic) is a re
 From an Islamic perspective, while Jesus is indeed acknowledged as a significant figure with miraculous abilities, Muslims believe he is a servant and prophet of Allah, distinct from God himself, who will return before the Day of Judgment to restore justice, but he does not possess dominion in the divine sense as described in the Bible.
 
 ## Average Grade
-67.5
+65.625
 
 ## Grades
  * [70.0](./Dominion_of_Christ_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ From an Islamic perspective, while Jesus is indeed acknowledged as a significant
  * [70.0](./Dominion_of_Christ_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Dominion_of_Christ_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Dominion_of_Christ_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Dominion_of_Christ_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Dominion_of_Christ_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Dominion_of_Christ.md)

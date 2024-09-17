@@ -23,7 +23,7 @@ In summary, the Old Testament emphasizes systematic rituals and sacrifices to at
 From an Islamic perspective, it is important to note that Islam does not accept the concept of original sin or the necessity of a blood sacrifice for atonement. Instead, Islam teaches that individuals are responsible for their own deeds, and atonement can be sought through sincere repentance (Tawbah), prayer, and good deeds. God is always ready to forgive those who return to Him in sincere repentance, reflecting the merciful nature of Allah.
 
 ## Average Grade
-85.0
+84.375
 
 ## Grades
  * [95.0](./Old_vs._New_Testament_Atonement_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ From an Islamic perspective, it is important to note that Islam does not accept 
  * [90.0](./Old_vs._New_Testament_Atonement_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Old_vs._New_Testament_Atonement_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Old_vs._New_Testament_Atonement_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Old_vs._New_Testament_Atonement_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [75.0](./Old_vs._New_Testament_Atonement_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Old_vs._New_Testament_Atonement.md)

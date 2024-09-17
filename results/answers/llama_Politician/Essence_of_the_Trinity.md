@@ -29,7 +29,7 @@ Now, I understand that this concept may be challenging to grasp for some individ
 In conclusion, the essence of God the Father, God the Son, and God the Holy Spirit is deeply rooted in Scripture and tradition. While we may have different interpretations and understandings, I believe that by embracing our shared humanity and respecting each other's beliefs, we can work towards a more harmonious and inclusive society for all.
 
 ## Average Grade
-80.0
+76.875
 
 ## Grades
  * [85.0](./Essence_of_the_Trinity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ In conclusion, the essence of God the Father, God the Son, and God the Holy Spir
  * [85.0](./Essence_of_the_Trinity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Essence_of_the_Trinity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Essence_of_the_Trinity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Essence_of_the_Trinity_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Essence_of_the_Trinity_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Essence_of_the_Trinity.md)

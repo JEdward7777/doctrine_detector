@@ -19,7 +19,7 @@ In these stories, demons are presented as malevolent supernatural beings that ca
 It is important to note that this understanding of demon possession differs from Islamic teachings about jinn, which are mentioned in the Quran. While some similarities may exist in terms of evil spirits causing harm or distress to individuals, there are significant differences between these two concepts and beliefs. As a Muslim scholar, I would encourage anyone seeking spiritual guidance to study Islam and consult a qualified religious scholar for accurate information and understanding.
 
 ## Average Grade
-64.16666666666667
+61.25
 
 ## Grades
  * [80.0](./Demon_Possession_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ It is important to note that this understanding of demon possession differs from
  * [85.0](./Demon_Possession_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Demon_Possession_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Demon_Possession_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Demon_Possession_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [20.0](./Demon_Possession_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Demon_Possession.md)

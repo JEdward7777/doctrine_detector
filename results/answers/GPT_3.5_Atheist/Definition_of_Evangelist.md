@@ -15,7 +15,7 @@ Understanding the role of an evangelist in sharing the gospel.
 The term 'evangelist' originates from the Greek word 'euangelistes', which means 'bringer of good news' or 'messenger of glad tidings'. In Christian contexts, an evangelist is someone who spreads the Gospel or teachings of Jesus Christ. This term is often associated with individuals who actively engage in sharing their faith and promoting religious beliefs.
 
 ## Average Grade
-87.5
+88.125
 
 ## Grades
  * [90.0](./Definition_of_Evangelist_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ The term 'evangelist' originates from the Greek word 'euangelistes', which means
  * [85.0](./Definition_of_Evangelist_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Definition_of_Evangelist_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Definition_of_Evangelist_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Definition_of_Evangelist_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Definition_of_Evangelist_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Definition_of_Evangelist.md)

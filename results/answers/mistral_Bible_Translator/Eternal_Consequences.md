@@ -21,7 +21,7 @@ It's important to note that the concept of hell is a deeply controversial and co
 Ultimately, the eternal consequences for those who "perish" are a matter of interpretation and personal faith, and they can have profound emotional and philosophical implications. It's always recommended to discuss such topics with a trusted spiritual advisor or pastor for a more nuanced understanding.
 
 ## Average Grade
-90.0
+88.75
 
 ## Grades
  * [90.0](./Eternal_Consequences_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ Ultimately, the eternal consequences for those who "perish" are a matter of inte
  * [90.0](./Eternal_Consequences_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Eternal_Consequences_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Eternal_Consequences_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Eternal_Consequences_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Eternal_Consequences_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Eternal_Consequences.md)

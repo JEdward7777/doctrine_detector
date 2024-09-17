@@ -19,7 +19,7 @@ In Christianity, the concept of "sharing in Christ" often implies a communal rel
 From an Islamic perspective, we emphasize the importance of fulfilling our duties to Allah, engaging in community, and supporting one another in our faith. While our beliefs differ significantly, mutual respect and understanding can foster a positive dialogue between Muslims and Christians. If you have questions about Islamic beliefs or practices, I'd be more than happy to help!
 
 ## Average Grade
-70.83333333333333
+70.0
 
 ## Grades
  * [80.0](./Benefits_of_Being__In_Christ__grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ From an Islamic perspective, we emphasize the importance of fulfilling our dutie
  * [70.0](./Benefits_of_Being__In_Christ__grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Benefits_of_Being__In_Christ__grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [30.0](./Benefits_of_Being__In_Christ__grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Benefits_of_Being__In_Christ__grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Benefits_of_Being__In_Christ__grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Benefits_of_Being__In_Christ_.md)

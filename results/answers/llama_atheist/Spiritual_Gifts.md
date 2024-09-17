@@ -31,7 +31,7 @@ As an atheistic scholar, I would argue that the concept of spiritual gifts can b
 Ultimately, the implications of the phrase "spiritual gifts" are far-reaching, shaping Christian theology, practice, and community throughout history. As a neutral observer, I acknowledge the significance of this concept while recognizing its potential limitations and challenges in today's pluralistic world.
 
 ## Average Grade
-80.83333333333333
+80.0
 
 ## Grades
  * [85.0](./Spiritual_Gifts_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -40,5 +40,7 @@ Ultimately, the implications of the phrase "spiritual gifts" are far-reaching, s
  * [80.0](./Spiritual_Gifts_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Spiritual_Gifts_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Spiritual_Gifts_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Spiritual_Gifts_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Spiritual_Gifts_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Spiritual_Gifts.md)

@@ -25,7 +25,7 @@ To explore how the Old Testament informs the New Testament understanding of Jesu
 5. Isaiah 9:6: Although not using the exact phrase "Son of Man," this passage describes the coming Messiah as a prince of peace, mighty God, eternal Father, and Wonderful Counselor. These attributes suggest a figure who reigns in both humanity and divinity—echoing the concept of the Son of Man.
 
 ## Average Grade
-84.16666666666667
+84.375
 
 ## Grades
  * [85.0](./Biblical_References_3_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ To explore how the Old Testament informs the New Testament understanding of Jesu
  * [90.0](./Biblical_References_3_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_References_3_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Biblical_References_3_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Biblical_References_3_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Biblical_References_3_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Biblical_References_3.md)

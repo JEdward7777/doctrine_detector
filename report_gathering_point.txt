@@ -1,0 +1,62 @@
+Here is what I shared with Klappy for the lab.
+====
+An effort has been gone through to evaluate the ability of different Large Language Models such as ChatGPT to answer questions from a Christian perspective.  To achieve this goal,
+ 
+566 questions were generated from Unfolding Word translation notes
+20 models/configurations were used to answer these questions with
+6 runs of answer gradings by three different models
+11320 answers were produced 566 * 20
+67920 grades were generated 11320 * 6
+
+The full results are available on the web as rendered markdown and json.
+https://github.com/JEdward7777/doctrine_detector/blob/master/index.md
+
+The following observations were gathered.
+ 
+The system prompt makes a big difference in the bias of the answer.  If you tell the model it is a Bible Translator it will give a much different answer than if you tell it it is an Atheist.
+The smaller less capable local model Llama showed favoritism for its own answers while the ChatGPT flavors did not.
+The best model overall tested model combination was the  openai_gpt-4o-mini/act-as-a-Bible-Translator model.
+Overall the well performing configurations produced a lot of high quality responses, while the inclusion of "atheist" configurations showcased the grading models ability to give low grades.
+
+Room for improvement
+ 
+Answers with a range of grades revealed the graders sometimes would get confused between the reference answer and the generated answer.
+Generating a model with an inherent Christian bias, using control vectors according to this article https://vgel.me/posts/representation-engineering/ for both generating answers as well as grading answers.
+====
+
+The favoritism response is actually incorrect because there was a bias against the smaller local models by its voice being underrepresented so the larger models were establishing the normal of what "unbiased" was.  (in otherwords I sorted by the average grade and was looking for bumps up and down.)
+
+
+Here is a comment that I gave someone that I will want to change if I actually do it:
+====
+This is kind of like reflection.  But I believe I see that an LLM will give itself a bad grade for an answer given specific grading criteria.  Something I haven't done, is once there has been several criticisms by different LLM's is to summarize up all the different critiques and then generate a new response and then grade the new response by the same panel of judges without them knowing it is a new response to see if it grades higher.
+====
+
+
+
+I am gathering pictures here:
+https://docs.google.com/presentation/d/1ldMauDWfPkbnybjncj4RQV0xOvcT2sp-XxNjr83wXpQ/edit#slide=id.g2ff8d4a4b6d_0_11
+
+I have one which shows the average grade verses answerer and the lines are connecting from grader to grader.
+This shows that there is consistency between run to run and also that there is an actual gradient in the output that has to do with what it is grading.
+
+I also have a chart showing the correlation between the grades given by the different graders, the local Lamma3 model and the student teacher metaphor.
+
+I think showing the main index with all the points for all the different answers is useful.
+
+Having areas for improvement on the end would be good.
+
+Showing areas where the result was poor is important.
+
+Point out that tools are only tools and that at the end of the day we need consumers to to think and certified professionals who provide support.
+
+# Future work
+Training model with control vectors.
+
+Seeing how well a model grades without answer specific reference answers or concerns provided.
+
+
+I did both of those future works.
+The model with control vectors doesn't do that well,
+
+The blind model was able to answer pretty consistently with the teacher student metaphor.

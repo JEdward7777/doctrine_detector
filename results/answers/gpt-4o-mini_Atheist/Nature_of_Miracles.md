@@ -29,7 +29,7 @@ The miracles attributed to Jesus are often interpreted as significant indicators
 While interpretations of Jesus' miracles vary widely across different cultures and religious traditions, they remain a compelling aspect of His identity for many, shaping views on spirituality, morality, and community. Ultimately, the diverse understandings of these miracles reflect the complexity of Jesus' identity and the legacy He has left in various contexts.
 
 ## Average Grade
-85.0
+84.125
 
 ## Grades
  * [85.0](./Nature_of_Miracles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ While interpretations of Jesus' miracles vary widely across different cultures a
  * [85.0](./Nature_of_Miracles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Nature_of_Miracles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Nature_of_Miracles_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Nature_of_Miracles_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [78.0](./Nature_of_Miracles_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Nature_of_Miracles.md)

@@ -19,7 +19,7 @@ According to the Bible, the archangel referred to is... (drumroll please)... Mic
 And let me just say, as a politician, I believe it's essential to recognize the importance of faith and spirituality in people's lives. After all, we are all unique individuals with our own beliefs, values, and traditions! *smiles broadly*
 
 ## Average Grade
-56.666666666666664
+60.0
 
 ## Grades
  * [40.0](./Archangel_Michael_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ And let me just say, as a politician, I believe it's essential to recognize the 
  * [65.0](./Archangel_Michael_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Archangel_Michael_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Archangel_Michael_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Archangel_Michael_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Archangel_Michael_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Archangel_Michael.md)

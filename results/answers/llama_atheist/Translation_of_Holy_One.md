@@ -31,7 +31,7 @@ When translating "Holy One" into languages with no direct equivalent concept, we
 Ultimately, any translation must consider the cultural and linguistic contexts in which it will be received. A nuanced approach that takes into account both the original Hebrew/Greek connotations and the cultural background of the target language can provide a rich and meaningful rendering of "Holy One" in different languages.
 
 ## Average Grade
-85.83333333333333
+86.25
 
 ## Grades
  * [90.0](./Translation_of_Holy_One_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -40,5 +40,7 @@ Ultimately, any translation must consider the cultural and linguistic contexts i
  * [85.0](./Translation_of_Holy_One_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Translation_of_Holy_One_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Translation_of_Holy_One_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Translation_of_Holy_One_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Translation_of_Holy_One_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Translation_of_Holy_One.md)

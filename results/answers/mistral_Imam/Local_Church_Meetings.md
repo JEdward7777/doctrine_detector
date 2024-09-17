@@ -23,7 +23,7 @@ Muslims would typically gather for Friday Prayers, which is the Jumu'ah prayer, 
 It is essential to note that while the Prophet Muhammad (PBUH) set a precedent for how Muslims should gather, Islamic practices evolved over time based on cultural, regional, and historical factors. Nevertheless, the core principles of community, brotherhood, and religious devotion remain central to the Muslim faith.
 
 ## Average Grade
-78.33333333333333
+76.875
 
 ## Grades
  * [80.0](./Local_Church_Meetings_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ It is essential to note that while the Prophet Muhammad (PBUH) set a precedent f
  * [85.0](./Local_Church_Meetings_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Local_Church_Meetings_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Local_Church_Meetings_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Local_Church_Meetings_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [65.0](./Local_Church_Meetings_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Local_Church_Meetings.md)

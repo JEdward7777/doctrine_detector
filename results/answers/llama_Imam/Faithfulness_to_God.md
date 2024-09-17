@@ -29,7 +29,7 @@ Some key characteristics of biblical faith include:
 Please note that as an Islamic scholar, my primary focus is on understanding God's revelation in the Quran and the teachings of the Prophet Muhammad (peace be upon him). While I can provide general insights into the biblical concept of faithfulness, a more comprehensive understanding would require a detailed study of biblical texts and their historical context.
 
 ## Average Grade
-77.5
+76.875
 
 ## Grades
  * [75.0](./Faithfulness_to_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ Please note that as an Islamic scholar, my primary focus is on understanding God
  * [85.0](./Faithfulness_to_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Faithfulness_to_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Faithfulness_to_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Faithfulness_to_God_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [65.0](./Faithfulness_to_God_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Faithfulness_to_God.md)

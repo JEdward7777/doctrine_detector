@@ -17,7 +17,7 @@ In a Christian context, the term 'grace' refers to the unmerited favor and love 
 While the concept of grace is not identical in Islam, Muslims also believe in the mercy and forgiveness of Allah. In Islam, believers seek the mercy and forgiveness of Allah through sincere repentance, good deeds, and adherence to the teachings of the Qur'an and the Sunnah of the Prophet Muhammad (peace be upon him). Muslims believe that Allah's mercy is vast and all-encompassing, and that through seeking His forgiveness and guidance, they can attain salvation in the Hereafter.
 
 ## Average Grade
-80.83333333333333
+81.25
 
 ## Grades
  * [80.0](./Understanding_Grace_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -26,5 +26,7 @@ While the concept of grace is not identical in Islam, Muslims also believe in th
  * [85.0](./Understanding_Grace_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Grace_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Understanding_Grace_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Grace_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [80.0](./Understanding_Grace_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Grace.md)

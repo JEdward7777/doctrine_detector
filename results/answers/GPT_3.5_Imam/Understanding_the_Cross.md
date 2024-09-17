@@ -19,7 +19,7 @@ Many Christians believe that Jesus' death on the cross signifies the ultimate ac
 In Islam, Jesus (known as Isa in Arabic) is also a revered prophet, but Muslims do not believe in the concept of original sin or that Jesus died on the cross. Muslims believe that Jesus was not crucified but was raised up by God before the crucifixion took place.
 
 ## Average Grade
-91.66666666666667
+88.75
 
 ## Grades
  * [95.0](./Understanding_the_Cross_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ In Islam, Jesus (known as Isa in Arabic) is also a revered prophet, but Muslims 
  * [90.0](./Understanding_the_Cross_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_the_Cross_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Understanding_the_Cross_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Understanding_the_Cross_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Understanding_the_Cross_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_the_Cross.md)

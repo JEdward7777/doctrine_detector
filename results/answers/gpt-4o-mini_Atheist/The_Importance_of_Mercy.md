@@ -19,7 +19,7 @@ The principle of mercy, therefore, serves as a crucial element in the understand
 In summary, James 2:13 underlines the idea that practicing mercy towards others can have positive implications for one’s own judgment, reflecting a broader moral principle that values empathy and compassion in human interactions.
 
 ## Average Grade
-88.33333333333333
+86.25
 
 ## Grades
  * [90.0](./The_Importance_of_Mercy_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ In summary, James 2:13 underlines the idea that practicing mercy towards others 
  * [85.0](./The_Importance_of_Mercy_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./The_Importance_of_Mercy_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./The_Importance_of_Mercy_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./The_Importance_of_Mercy_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [75.0](./The_Importance_of_Mercy_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/The_Importance_of_Mercy.md)

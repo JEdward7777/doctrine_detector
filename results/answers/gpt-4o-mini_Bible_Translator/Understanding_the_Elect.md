@@ -29,7 +29,7 @@ In Christian theology, the terms "elect" or "chosen ones" refer to individuals o
 In summary, being part of the "elect" in a biblical context implies a divinely appointed privilege and responsibility, centered on salvation through Christ and a calling to serve God’s purposes. It highlights both the sovereignty of God in salvation and the universal outreach of the Gospel.
 
 ## Average Grade
-90.0
+89.375
 
 ## Grades
  * [90.0](./Understanding_the_Elect_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ In summary, being part of the "elect" in a biblical context implies a divinely a
  * [90.0](./Understanding_the_Elect_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_the_Elect_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Understanding_the_Elect_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_the_Elect_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Understanding_the_Elect_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_the_Elect.md)

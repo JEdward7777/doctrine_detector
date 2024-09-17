@@ -21,7 +21,7 @@ Their unfaithfulness in worship led to God's judgment and discipline upon them, 
 In the New Testament, Jesus also addressed issues of false worship, exposing the hypocrisy of the religious leaders and calling people to worship in spirit and in truth (John 4:23-24). Christians are called to worship God with sincerity and reverence, avoiding idolatry and staying true to the teachings of Jesus.
 
 ## Average Grade
-88.33333333333333
+88.75
 
 ## Grades
  * [85.0](./Unfaithfulness_in_Worship_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ In the New Testament, Jesus also addressed issues of false worship, exposing the
  * [95.0](./Unfaithfulness_in_Worship_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Unfaithfulness_in_Worship_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Unfaithfulness_in_Worship_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Unfaithfulness_in_Worship_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Unfaithfulness_in_Worship_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Unfaithfulness_in_Worship.md)

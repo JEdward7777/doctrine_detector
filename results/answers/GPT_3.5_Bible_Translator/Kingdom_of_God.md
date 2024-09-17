@@ -17,7 +17,7 @@ In situations where a culture has no concept of kingdoms, it may be advisable to
 It is important to maintain the integrity of the original meaning while ensuring that the message is clear and understandable to the target audience. Prayerful consideration and consultation with local experts or consultants can help determine the most appropriate phrasing in order to convey the truth of God's sovereignty in a culturally relevant way.
 
 ## Average Grade
-80.83333333333333
+82.5
 
 ## Grades
  * [85.0](./Kingdom_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -26,5 +26,7 @@ It is important to maintain the integrity of the original meaning while ensuring
  * [85.0](./Kingdom_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Kingdom_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Kingdom_of_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Kingdom_of_God_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Kingdom_of_God_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Kingdom_of_God.md)

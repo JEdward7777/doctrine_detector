@@ -29,7 +29,7 @@ The influence of Jewish religious leaders on the crucifixion of Jesus is a compl
 In summary, the Jewish religious leaders played a significant role in the events leading to the crucifixion of Jesus by seeking out charges against Him, manipulating the political situation to their advantage, inciting public opinion against Him, and collaborating with Roman authorities to achieve their goal of execution. This involvement is viewed within Christian theology as part of the broader narrative of salvation, where Jesus' suffering and death are seen as fulfilling Old Testament prophecies and serving as a sacrificial atonement for humanity.
 
 ## Average Grade
-90.0
+89.375
 
 ## Grades
  * [90.0](./Role_of_Jewish_Leaders_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ In summary, the Jewish religious leaders played a significant role in the events
  * [95.0](./Role_of_Jewish_Leaders_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Role_of_Jewish_Leaders_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Role_of_Jewish_Leaders_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Role_of_Jewish_Leaders_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Role_of_Jewish_Leaders_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Role_of_Jewish_Leaders.md)

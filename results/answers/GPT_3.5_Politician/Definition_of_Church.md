@@ -15,7 +15,7 @@ Understanding of the church's role as more than just a building.
 The term "church" in the New Testament generally refers to a community of believers or followers of Jesus Christ. It can represent a gathering of individuals who come together to worship, pray, and support one another in their faith. It is important to recognize that different denominations and interpretations may have varying perspectives on the concept of the church, so it is crucial to approach the topic with respect and understanding for diverse beliefs.
 
 ## Average Grade
-84.16666666666667
+83.75
 
 ## Grades
  * [85.0](./Definition_of_Church_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ The term "church" in the New Testament generally refers to a community of believ
  * [90.0](./Definition_of_Church_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Definition_of_Church_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Definition_of_Church_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Definition_of_Church_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [80.0](./Definition_of_Church_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Definition_of_Church.md)

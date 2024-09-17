@@ -23,7 +23,7 @@ In the Biblical context, the significance of using a lamb for sacrifices, partic
 To summarize, the significance of using a lamb for sacrifices in the Bible is closely tied to the concepts of atonement and the symbolism of innocence and substitution. It illustrates the belief that through sacrifice—especially of a pure and innocent being—restoration and forgiveness can be achieved, highlighting a divine principle of justice and mercy. In a broader Islamic context, similar themes of sacrifice, forgiveness, and the search for atonement exist, as seen during events like Eid al-Adha, which commemorates the willingness of Ibrahim (Abraham) to sacrifice his son in obedience to God’s command.
 
 ## Average Grade
-90.0
+89.375
 
 ## Grades
  * [95.0](./Symbolism_of_the_Lamb_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ To summarize, the significance of using a lamb for sacrifices in the Bible is cl
  * [95.0](./Symbolism_of_the_Lamb_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Symbolism_of_the_Lamb_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Symbolism_of_the_Lamb_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Symbolism_of_the_Lamb_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Symbolism_of_the_Lamb_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Symbolism_of_the_Lamb.md)

@@ -21,7 +21,7 @@ The story of the Centurion's faith demonstrates that belief in the teachings of 
 The Centurion's faith shows us that genuine belief is not confined by ethnicity or national boundaries but rather comes from a sincere heart. It reminds us of the universal nature of God's message and the importance of fostering understanding, respect, and unity among all people.
 
 ## Average Grade
-66.66666666666667
+65.625
 
 ## Grades
  * [75.0](./Centurion_and_Peter_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ The Centurion's faith shows us that genuine belief is not confined by ethnicity 
  * [60.0](./Centurion_and_Peter_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Centurion_and_Peter_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Centurion_and_Peter_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Centurion_and_Peter_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Centurion_and_Peter_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Centurion_and_Peter.md)

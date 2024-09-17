@@ -25,7 +25,7 @@ It's also worth noting that the high priest served as an advisor to the king or 
 In conclusion, while all priests in ancient Israel held esteemed positions, the high priest's unique responsibilities were shaped by his access to sacred spaces, ceremonial duties, and advisory role. As we strive for interfaith understanding and respect, it's essential that we recognize the significance of these roles within Jewish tradition and culture.
 
 ## Average Grade
-82.5
+81.875
 
 ## Grades
  * [80.0](./Role_of_the_High_Priest_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ In conclusion, while all priests in ancient Israel held esteemed positions, the 
  * [90.0](./Role_of_the_High_Priest_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Role_of_the_High_Priest_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Role_of_the_High_Priest_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Role_of_the_High_Priest_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [75.0](./Role_of_the_High_Priest_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Role_of_the_High_Priest.md)

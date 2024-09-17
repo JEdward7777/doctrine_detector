@@ -55,7 +55,7 @@ In a Christian context, the importance of truthful testimony is amplified by sev
 The Bible teaches that giving false testimony is a serious sin with significant consequences. In a Christian context, upholding truthfulness is essential for maintaining integrity, upholding justice, and reflecting the values of Christ.
 
 ## Average Grade
-92.33333333333333
+92.375
 
 ## Grades
  * [95.0](./False_Witness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -64,5 +64,7 @@ The Bible teaches that giving false testimony is a serious sin with significant 
  * [90.0](./False_Witness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./False_Witness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [92.0](./False_Witness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./False_Witness_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./False_Witness_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/False_Witness.md)

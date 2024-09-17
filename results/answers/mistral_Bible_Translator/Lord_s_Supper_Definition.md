@@ -15,7 +15,7 @@ Understanding the meaning and significance of the Lord’s Supper in Christian f
  The Lord's Supper, also known as Communion or the Eucharist, is a sacrament in many Christian denominations that commemorates and remembers the last supper shared by Jesus Christ and his apostles before His crucifixion. In this event, Jesus instituted the tradition of bread and wine symbolizing His body and blood, which are broken and poured out for the forgiveness of sins. The significance of the Lord's Supper lies in its connection to Jesus' sacrificial death and resurrection, reminding believers of God's love and grace. (1 Corinthians 11:23-26)
 
 ## Average Grade
-90.0
+89.375
 
 ## Grades
  * [95.0](./Lord_s_Supper_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ Understanding the meaning and significance of the Lord’s Supper in Christian f
  * [90.0](./Lord_s_Supper_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Lord_s_Supper_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Lord_s_Supper_Definition_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Lord_s_Supper_Definition_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Lord_s_Supper_Definition_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Lord_s_Supper_Definition.md)

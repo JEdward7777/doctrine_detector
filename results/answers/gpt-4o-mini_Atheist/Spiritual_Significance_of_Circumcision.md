@@ -19,7 +19,7 @@ In the New Testament, particularly in Romans 2:29, Paul uses the term to emphasi
 The idea suggests that believers should cultivate a heart that is responsive to God, characterized by love, compassion, and a desire for righteousness. This inner transformation aligns with the Christian belief in being "born again" and the importance of a personal relationship with Christ, where faith manifests in actions and attitudes that embody the teachings of Jesus. Therefore, "circumcision of the heart" invites believers to focus on internal rather than external acts of faith, highlighting the themes of grace, repentance, and the call to love.
 
 ## Average Grade
-91.66666666666667
+90.625
 
 ## Grades
  * [95.0](./Spiritual_Significance_of_Circumcision_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ The idea suggests that believers should cultivate a heart that is responsive to 
  * [95.0](./Spiritual_Significance_of_Circumcision_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Spiritual_Significance_of_Circumcision_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Spiritual_Significance_of_Circumcision_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Spiritual_Significance_of_Circumcision_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Spiritual_Significance_of_Circumcision_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Spiritual_Significance_of_Circumcision.md)

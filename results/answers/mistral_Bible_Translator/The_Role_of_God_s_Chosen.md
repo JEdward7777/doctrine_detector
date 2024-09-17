@@ -21,7 +21,7 @@ Regarding God's selection process, it implies that He is completely sovereign an
 In summary, figures like Moses and King David were considered "chosen" because they were called and used by God for specific tasks or roles in leading Israel. This highlights God's sovereignty in choosing whom He will use to accomplish His purposes, emphasizing the importance of obedience and faithfulness in response to His call.
 
 ## Average Grade
-93.33333333333333
+91.875
 
 ## Grades
  * [95.0](./The_Role_of_God_s_Chosen_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ In summary, figures like Moses and King David were considered "chosen" because t
  * [95.0](./The_Role_of_God_s_Chosen_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./The_Role_of_God_s_Chosen_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [95.0](./The_Role_of_God_s_Chosen_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./The_Role_of_God_s_Chosen_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./The_Role_of_God_s_Chosen_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/The_Role_of_God_s_Chosen.md)

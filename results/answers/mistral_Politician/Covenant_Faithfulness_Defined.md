@@ -15,7 +15,7 @@ Understanding the biblical concept of covenant and its implications for God's re
  In the context of biblical relationships, the term "covenant faithfulness" refers to a commitment to uphold the promises made within a covenantal relationship, which is a foundational concept in the Bible. This faithfulness involves keeping the vows and obligations agreed upon by both parties with unwavering loyalty, love, and obedience. It often emphasizes the importance of maintaining relationships based on trust, honesty, and integrity. In the Old Testament, God's covenant faithfulness to His people is a recurring theme, symbolizing His unconditional love, mercy, and commitment towards humanity. In modern contexts, it can also be seen as a call for individuals to remain steadfast in their relationships and maintain a high moral character.
 
 ## Average Grade
-86.66666666666667
+86.25
 
 ## Grades
  * [85.0](./Covenant_Faithfulness_Defined_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ Understanding the biblical concept of covenant and its implications for God's re
  * [90.0](./Covenant_Faithfulness_Defined_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Covenant_Faithfulness_Defined_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Covenant_Faithfulness_Defined_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Covenant_Faithfulness_Defined_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Covenant_Faithfulness_Defined_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Covenant_Faithfulness_Defined.md)

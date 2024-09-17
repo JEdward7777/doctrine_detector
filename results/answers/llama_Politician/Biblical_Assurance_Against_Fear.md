@@ -25,7 +25,7 @@ What "fear not" really means is that even in those tough times, we can have conf
 So, to answer your question directly: the phrase "fear not" signifies God's assurance to believers that He is always present and watching over them, reminding us that we don't have to be afraid of what's ahead because He has already taken care of it. It's an invitation to trust in His sovereignty and goodness, even when things get tough.
 
 ## Average Grade
-90.33333333333333
+87.75
 
 ## Grades
  * [90.0](./Biblical_Assurance_Against_Fear_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ So, to answer your question directly: the phrase "fear not" signifies God's assu
  * [90.0](./Biblical_Assurance_Against_Fear_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Biblical_Assurance_Against_Fear_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Biblical_Assurance_Against_Fear_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [95.0](./Biblical_Assurance_Against_Fear_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [65.0](./Biblical_Assurance_Against_Fear_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Biblical_Assurance_Against_Fear.md)

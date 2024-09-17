@@ -21,7 +21,7 @@ Because of Jesus' teachings, which appeared to many Pharisees as a threat to tra
 In summary, the Pharisees' strict adherence to the Laws of Moses created a gap between them and Jesus and early Christians due to their differing interpretations and applications of these laws and religious values. This divide eventually contributed to conflict and ultimately the emergence of Christianity as a distinct religion separate from Judaism.
 
 ## Average Grade
-85.83333333333333
+85.625
 
 ## Grades
  * [90.0](./Pharisees__Influence_on_Jewish_Law_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ In summary, the Pharisees' strict adherence to the Laws of Moses created a gap b
  * [85.0](./Pharisees__Influence_on_Jewish_Law_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Pharisees__Influence_on_Jewish_Law_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Pharisees__Influence_on_Jewish_Law_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Pharisees__Influence_on_Jewish_Law_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Pharisees__Influence_on_Jewish_Law_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Pharisees__Influence_on_Jewish_Law.md)

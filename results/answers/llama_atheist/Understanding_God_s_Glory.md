@@ -32,7 +32,7 @@ To illustrate these differences, consider the following examples:
 In conclusion, while both biblical and worldly sources of glory can inspire admiration and awe, they differ fundamentally in their origins, focus, purpose, duration, and perception. As an atheist scholar, I'm drawn to the nuances of these differences, recognizing that cultural constructs like God's glory continue to shape our understanding of the world and ourselves.
 
 ## Average Grade
-75.83333333333333
+71.25
 
 ## Grades
  * [80.0](./Understanding_God_s_Glory_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -41,5 +41,7 @@ In conclusion, while both biblical and worldly sources of glory can inspire admi
  * [75.0](./Understanding_God_s_Glory_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_God_s_Glory_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Understanding_God_s_Glory_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_God_s_Glory_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [30.0](./Understanding_God_s_Glory_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_God_s_Glory.md)

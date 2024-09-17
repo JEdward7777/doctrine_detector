@@ -19,7 +19,7 @@ God the Father is often understood as the creator and sustainer of the universe,
 While these concepts are central to Christian faith and worship, they are not substantiated by empirical evidence or rational argumentation. As an atheistic scholar, I approach these theological ideas with a critical and analytical mindset, considering them within the context of religious belief rather than as objective truths.
 
 ## Average Grade
-51.666666666666664
+55.0
 
 ## Grades
  * [60.0](./Essence_of_the_Trinity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ While these concepts are central to Christian faith and worship, they are not su
  * [75.0](./Essence_of_the_Trinity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Essence_of_the_Trinity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Essence_of_the_Trinity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Essence_of_the_Trinity_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Essence_of_the_Trinity_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Essence_of_the_Trinity.md)

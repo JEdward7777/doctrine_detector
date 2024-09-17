@@ -15,7 +15,7 @@ Understanding the hope and future promise of glory for believers is vital for fa
 Thank you for your question. In the New Testament, the concept of believers being glorified with Christ refers to the belief that those who have faith in Christ will share in his glory and experience eternal joy and fulfillment in his presence. This idea is often tied to the hope of resurrection and the promise of a future life free from pain and suffering. It is a central tenet of Christian faith that seeks to offer comfort and reassurance to believers about their ultimate destiny.
 
 ## Average Grade
-88.33333333333333
+86.25
 
 ## Grades
  * [90.0](./The_Role_of_Believers_in_Glory_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ Thank you for your question. In the New Testament, the concept of believers bein
  * [90.0](./The_Role_of_Believers_in_Glory_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./The_Role_of_Believers_in_Glory_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./The_Role_of_Believers_in_Glory_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./The_Role_of_Believers_in_Glory_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [75.0](./The_Role_of_Believers_in_Glory_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/The_Role_of_Believers_in_Glory.md)

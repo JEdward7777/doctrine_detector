@@ -46,7 +46,7 @@ While universal values like kindness and respect exist across cultures, navigati
 "Gracious" is a powerful tool for building strong and meaningful relationships across cultures. By understanding its multifaceted nature and navigating cultural differences with sensitivity, we can foster a more inclusive and harmonious society.
 
 ## Average Grade
-71.66666666666667
+73.75
 
 ## Grades
  * [75.0](./Being_Gracious_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -55,5 +55,7 @@ While universal values like kindness and respect exist across cultures, navigati
  * [75.0](./Being_Gracious_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Being_Gracious_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [45.0](./Being_Gracious_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Being_Gracious_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Being_Gracious_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Being_Gracious.md)

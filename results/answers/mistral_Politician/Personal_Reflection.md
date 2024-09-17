@@ -15,7 +15,7 @@ Encouraging personal reflection on one's own spiritual state and awareness of si
  The phrase "Woe is me" implies that an individual is expressing deep sadness, regret, or self-pity due to their own perceived suffering or misfortune. It suggests a level of self-awareness and acknowledgement of their current hardships or shortcomings. However, it's important to note that this phrase can be used in various contexts, so the exact nature of the individual's feelings or circumstances might need further elaboration.
 
 ## Average Grade
-85.0
+83.125
 
 ## Grades
  * [90.0](./Personal_Reflection_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ Encouraging personal reflection on one's own spiritual state and awareness of si
  * [90.0](./Personal_Reflection_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Personal_Reflection_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Personal_Reflection_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Personal_Reflection_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Personal_Reflection_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Personal_Reflection.md)

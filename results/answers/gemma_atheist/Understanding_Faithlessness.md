@@ -19,7 +19,7 @@ Within the context of cultural relativism, it is important to acknowledge that t
 For an atheistic scholar who values cultural relativism, it is important to avoid making assumptions about the beliefs of others based on one's own cultural framework. The term 'faithless' should be used with caution and sensitivity, as it can be offensive to individuals who hold different belief systems.
 
 ## Average Grade
-66.66666666666667
+69.375
 
 ## Grades
  * [65.0](./Understanding_Faithlessness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ For an atheistic scholar who values cultural relativism, it is important to avoi
  * [85.0](./Understanding_Faithlessness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Understanding_Faithlessness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Understanding_Faithlessness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Faithlessness_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Understanding_Faithlessness_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Faithlessness.md)

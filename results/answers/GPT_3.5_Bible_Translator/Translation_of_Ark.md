@@ -21,7 +21,7 @@ The term "ark" in the Bible is commonly associated with two distinct contexts.
 While the term "ark" is commonly used in English translations for both Noah's Ark and the Ark of the Covenant, it is important to note that the original Hebrew words used in the Bible have specific meanings related to the context in which they are used. It is essential for translators to consider these nuances when conveying the meaning of these terms in different Biblical contexts.
 
 ## Average Grade
-86.66666666666667
+86.875
 
 ## Grades
  * [90.0](./Translation_of_Ark_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ While the term "ark" is commonly used in English translations for both Noah's Ar
  * [90.0](./Translation_of_Ark_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Translation_of_Ark_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Translation_of_Ark_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Translation_of_Ark_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Translation_of_Ark_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Translation_of_Ark.md)

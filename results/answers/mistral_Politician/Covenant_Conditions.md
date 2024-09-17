@@ -28,7 +28,7 @@ In the Bible, a covenant is a sacred agreement between God and people, or someti
    - The Last Supper and Institution of the Eucharist (Matthew 26:26-29; Mark 14:22-25; Luke 22:14-20; 1 Corinthians 11:23-26): Jesus instituted a new covenant with His disciples, represented by the bread and wine, signifying His body and blood given for their salvation. This covenant is often considered unconditional, as salvation is available to all who accept it through faith in Jesus Christ.
 
 ## Average Grade
-89.16666666666667
+88.75
 
 ## Grades
  * [90.0](./Covenant_Conditions_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,5 +37,7 @@ In the Bible, a covenant is a sacred agreement between God and people, or someti
  * [85.0](./Covenant_Conditions_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Covenant_Conditions_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Covenant_Conditions_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Covenant_Conditions_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Covenant_Conditions_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Covenant_Conditions.md)

@@ -17,7 +17,7 @@ In the context of Christian teaching, the term "Rabbi" is primarily used to refe
 In discussions about religious history and interfaith dialogue, it is important to recognize the significant differences between the roles of Rabbis in Judaism and the teachers within Christianity. Understanding and respecting these differences can foster mutual respect and a deeper appreciation of each faith's unique contributions to moral and spiritual understanding. It's crucial to approach such topics with sensitivity and an awareness of the diverse beliefs and traditions within both religions.
 
 ## Average Grade
-81.66666666666667
+82.5
 
 ## Grades
  * [90.0](./Rabbi_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -26,5 +26,7 @@ In discussions about religious history and interfaith dialogue, it is important 
  * [85.0](./Rabbi_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Rabbi_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Rabbi_Definition_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Rabbi_Definition_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Rabbi_Definition_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Rabbi_Definition.md)

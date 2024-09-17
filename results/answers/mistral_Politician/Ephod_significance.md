@@ -19,7 +19,7 @@ The Ephod consisted of two main parts: the upper garment, which covered the tors
 In essence, the High Priest's Ephod symbolized the sacred bond between the people of Israel and their God, providing a tangible connection for communicating with the divine and maintaining order within the religious community. Understanding this historical context can foster greater appreciation for the richness and complexity of ancient Jewish traditions, thereby fostering inclusivity, mutual respect, and empathy among diverse communities.
 
 ## Average Grade
-80.83333333333333
+78.75
 
 ## Grades
  * [95.0](./Ephod_significance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ In essence, the High Priest's Ephod symbolized the sacred bond between the peopl
  * [90.0](./Ephod_significance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Ephod_significance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Ephod_significance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Ephod_significance_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Ephod_significance_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Ephod_significance.md)

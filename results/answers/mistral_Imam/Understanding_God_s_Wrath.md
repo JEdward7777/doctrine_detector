@@ -23,7 +23,7 @@ While God's wrath and human anger share some similarities in terms of being a st
 In conclusion, the Bible teaches that God's wrath differs from human anger in its source, motivation, and ultimate purpose. While human anger can lead to destruction and division, God's wrath is an expression of His love and justice, aiming ultimately to bring people back to Him and establish a righteous world order. Muslims should strive to understand these teachings and apply them in their daily lives.
 
 ## Average Grade
-88.33333333333333
+84.375
 
 ## Grades
  * [90.0](./Understanding_God_s_Wrath_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ In conclusion, the Bible teaches that God's wrath differs from human anger in it
  * [95.0](./Understanding_God_s_Wrath_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Understanding_God_s_Wrath_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Understanding_God_s_Wrath_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_God_s_Wrath_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Understanding_God_s_Wrath_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_God_s_Wrath.md)

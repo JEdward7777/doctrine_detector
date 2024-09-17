@@ -15,7 +15,7 @@ This addresses the core of Christian faith regarding salvation through Jesus' sa
 In Christian beliefs, Jesus' death on the cross is considered the central and pivotal event in salvation and redemption. However, as a Muslim Imam, I cannot endorse or elaborate on Christian theological beliefs or interpretations. My knowledge and guidance are based on Islamic teachings and principles.
 
 ## Average Grade
-58.333333333333336
+56.25
 
 ## Grades
  * [90.0](./Understanding_the_Cross_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ In Christian beliefs, Jesus' death on the cross is considered the central and pi
  * [50.0](./Understanding_the_Cross_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Understanding_the_Cross_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./Understanding_the_Cross_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [70.0](./Understanding_the_Cross_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [30.0](./Understanding_the_Cross_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_the_Cross.md)

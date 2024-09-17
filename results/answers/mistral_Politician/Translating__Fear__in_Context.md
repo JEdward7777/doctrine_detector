@@ -32,7 +32,7 @@ Misinterpretation of 'fear' may lead to a distorted view of God, affecting one's
 Understanding these various ways of expressing fear when referring to God is important because it allows for greater inclusivity and respect towards those with differing beliefs or cultural backgrounds. Using inclusive language demonstrates sensitivity towards diverse perspectives and helps build bridges between communities, fostering a more harmonious and understanding society.
 
 ## Average Grade
-84.16666666666667
+81.25
 
 ## Grades
  * [90.0](./Translating__Fear__in_Context_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -41,5 +41,7 @@ Understanding these various ways of expressing fear when referring to God is imp
  * [90.0](./Translating__Fear__in_Context_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Translating__Fear__in_Context_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Translating__Fear__in_Context_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Translating__Fear__in_Context_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Translating__Fear__in_Context_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Translating__Fear__in_Context.md)

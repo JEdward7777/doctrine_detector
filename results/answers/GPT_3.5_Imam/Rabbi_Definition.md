@@ -15,7 +15,7 @@ Understanding the role and significance of rabbinic teaching in the New Testamen
 In Christian teachings, the term "Rabbi" is typically used to refer to Jesus Christ as a title of respect and honor. It is derived from the Hebrew word "Rabbi," meaning "teacher" or "master." Christians believe that Jesus was not only a prophet and a messenger of God, but also the Son of God and the Savior of humanity. Therefore, the title of "Rabbi" is used to acknowledge his authority, wisdom, and role as a teacher in Christian faith.
 
 ## Average Grade
-78.33333333333333
+79.375
 
 ## Grades
  * [85.0](./Rabbi_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ In Christian teachings, the term "Rabbi" is typically used to refer to Jesus Chr
  * [85.0](./Rabbi_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Rabbi_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Rabbi_Definition_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Rabbi_Definition_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Rabbi_Definition_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Rabbi_Definition.md)

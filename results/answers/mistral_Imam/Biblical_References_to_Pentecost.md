@@ -17,7 +17,7 @@ Understanding the scriptural basis for the observance and significance of Pentec
 The Festival of Weeks is mentioned in Exodus 34:22, Leviticus 23:15-21, Numbers 28:26 and Deuteronomy 16:9-12. It is a festival that commemorates the giving of the Torah to Moses on Mount Sinai and is celebrated seven weeks (49 days) after the Festival of Passover. In Christianity, Pentecost is also significant as it marks the descending of the Holy Spirit upon the disciples of Jesus Christ.
 
 ## Average Grade
-55.0
+58.75
 
 ## Grades
  * [50.0](./Biblical_References_to_Pentecost_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -26,5 +26,7 @@ The Festival of Weeks is mentioned in Exodus 34:22, Leviticus 23:15-21, Numbers 
  * [70.0](./Biblical_References_to_Pentecost_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Biblical_References_to_Pentecost_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Biblical_References_to_Pentecost_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Biblical_References_to_Pentecost_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Biblical_References_to_Pentecost_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Biblical_References_to_Pentecost.md)

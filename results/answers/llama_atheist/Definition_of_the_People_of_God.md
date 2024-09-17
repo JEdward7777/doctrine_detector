@@ -29,7 +29,7 @@ Of course, this concept of being one of the "people of God" is not without its c
 As an atheist scholar, I acknowledge that my interpretation may differ from that of religious scholars who bring their own theological perspectives to the text. Nonetheless, I believe it's essential to understand the cultural context in which these phrases were written and how they contributed to the development of Israelite identity and society.
 
 ## Average Grade
-65.83333333333333
+65.0
 
 ## Grades
  * [60.0](./Definition_of_the_People_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ As an atheist scholar, I acknowledge that my interpretation may differ from that
  * [65.0](./Definition_of_the_People_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Definition_of_the_People_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Definition_of_the_People_of_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Definition_of_the_People_of_God_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Definition_of_the_People_of_God_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Definition_of_the_People_of_God.md)

@@ -27,7 +27,7 @@ In our postmodern, digitally-driven world, it's easy to get caught up in social 
 To summarize, let love be your guiding principle. Let it characterize your actions and decisions. And strive for authenticity, humility, and consistency in your relationships – that's the best way to avoid hypocrisy and embody the agapē described in Romans 12:9.
 
 ## Average Grade
-85.83333333333333
+86.875
 
 ## Grades
  * [90.0](./Authentic_Christian_Living_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ To summarize, let love be your guiding principle. Let it characterize your actio
  * [90.0](./Authentic_Christian_Living_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Authentic_Christian_Living_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Authentic_Christian_Living_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [95.0](./Authentic_Christian_Living_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Authentic_Christian_Living_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Authentic_Christian_Living.md)

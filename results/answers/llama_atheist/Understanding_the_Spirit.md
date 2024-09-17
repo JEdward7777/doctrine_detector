@@ -32,7 +32,7 @@ The Bible also offers various explanations for the origin and nature of evil spi
 In summary, while the Bible doesn't provide a clear, systematic distinction between the human spirit and the concept of an evil spirit, it does emphasize their different functions and characteristics. The human spirit is linked to physical existence, emotions, and intellect, whereas the evil spirit is often depicted as a malevolent force that operates independently and opposes God's will.
 
 ## Average Grade
-79.16666666666667
+78.75
 
 ## Grades
  * [85.0](./Understanding_the_Spirit_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -41,5 +41,7 @@ In summary, while the Bible doesn't provide a clear, systematic distinction betw
  * [85.0](./Understanding_the_Spirit_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_the_Spirit_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Understanding_the_Spirit_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_the_Spirit_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Understanding_the_Spirit_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_the_Spirit.md)

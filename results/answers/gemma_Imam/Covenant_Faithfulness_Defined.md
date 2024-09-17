@@ -43,7 +43,7 @@ Understanding the biblical concept of covenant and its implications for God's re
 Covenant faithfulness is a fundamental aspect of biblical relationships, emphasizing the importance of obedience, faithfulness, and accountability in maintaining a close and intimate relationship with God.
 
 ## Average Grade
-75.83333333333333
+75.0
 
 ## Grades
  * [80.0](./Covenant_Faithfulness_Defined_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -52,5 +52,7 @@ Covenant faithfulness is a fundamental aspect of biblical relationships, emphasi
  * [80.0](./Covenant_Faithfulness_Defined_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Covenant_Faithfulness_Defined_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Covenant_Faithfulness_Defined_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Covenant_Faithfulness_Defined_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [65.0](./Covenant_Faithfulness_Defined_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Covenant_Faithfulness_Defined.md)

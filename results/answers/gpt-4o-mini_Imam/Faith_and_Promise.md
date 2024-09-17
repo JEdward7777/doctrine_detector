@@ -27,7 +27,7 @@ Additionally, the example of Abram illustrates the grace and mercy of Allah, as 
 In summary, Abram’s faith serves as a powerful illustration for Muslims on the significance of trusting in God's promises. It teaches us that faith is the foundation for receiving divine assurances and encourages believers to develop a strong connection with Allah through sincere belief and submission.
 
 ## Average Grade
-86.83333333333333
+85.75
 
 ## Grades
  * [80.0](./Faith_and_Promise_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ In summary, Abram’s faith serves as a powerful illustration for Muslims on the
  * [96.0](./Faith_and_Promise_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Faith_and_Promise_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Faith_and_Promise_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Faith_and_Promise_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [75.0](./Faith_and_Promise_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Faith_and_Promise.md)

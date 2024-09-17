@@ -15,7 +15,7 @@ Understanding the nature of humility in relation to one's relationship with God.
 Humbling oneself before God in the Christian perspective involves acknowledging one's own limitations and fallibility, recognizing that God is greater and wiser than oneself. It is about showing respect, reverence, and submission to God's will and seeking guidance and forgiveness through prayer and reflection. It is an act of humility and surrender, acknowledging one's dependence on God for guidance and grace.
 
 ## Average Grade
-90.0
+88.75
 
 ## Grades
  * [95.0](./Understanding_Humility_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ Humbling oneself before God in the Christian perspective involves acknowledging 
  * [95.0](./Understanding_Humility_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Humility_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Understanding_Humility_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Humility_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Understanding_Humility_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Humility.md)

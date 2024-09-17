@@ -15,7 +15,7 @@ Understanding the foundation of Christian faith in relation to trust.
 In Christian teachings, trusting in Jesus typically refers to having faith in Jesus Christ as the Son of God and Savior of humanity. It involves believing in his teachings, his sacrifice on the cross for the forgiveness of sins, and his promise of eternal life. It also often involves a personal relationship with Jesus, seeking guidance and strength from him in one's daily life. It is important to respect and honor the diverse beliefs and perspectives of all individuals when discussing matters of religion.
 
 ## Average Grade
-89.16666666666667
+86.25
 
 ## Grades
  * [95.0](./Trust_in_God_2_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ In Christian teachings, trusting in Jesus typically refers to having faith in Je
  * [90.0](./Trust_in_God_2_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Trust_in_God_2_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Trust_in_God_2_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Trust_in_God_2_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Trust_in_God_2_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Trust_in_God_2.md)

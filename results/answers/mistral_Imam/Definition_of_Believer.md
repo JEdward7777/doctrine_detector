@@ -15,7 +15,7 @@ Clarifying the identity and significance of being a believer in Christ.
  In the Christian scriptures (the New Testament), a believer is anyone who acknowledges Jesus Christ as Lord and Savior. This belief is primarily based on the teachings of Jesus and his Apostles. However, it's important to note that interpretations can vary among different Christian denominations and individuals. It's always beneficial to approach interfaith discussions with respect, openness, and a willingness to learn from each other. If you have any specific questions about Islam or the Quran, feel free to ask!
 
 ## Average Grade
-79.16666666666667
+77.5
 
 ## Grades
  * [80.0](./Definition_of_Believer_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ Clarifying the identity and significance of being a believer in Christ.
  * [85.0](./Definition_of_Believer_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Definition_of_Believer_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Definition_of_Believer_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Definition_of_Believer_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Definition_of_Believer_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Definition_of_Believer.md)

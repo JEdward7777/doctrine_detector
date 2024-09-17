@@ -34,7 +34,7 @@ Understanding the spiritual significance of unleavened bread in Christian teachi
 Unleavened bread symbolizes purity and sincerity in Islamic culture and tradition. By avoiding sin and cultivating purity in thought, word, and action, Muslims can live a life that honors God and pleases him.
 
 ## Average Grade
-41.666666666666664
+46.25
 
 ## Grades
  * [40.0](./Significance_of_Unleavened_Bread_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -43,5 +43,7 @@ Unleavened bread symbolizes purity and sincerity in Islamic culture and traditio
  * [40.0](./Significance_of_Unleavened_Bread_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Significance_of_Unleavened_Bread_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./Significance_of_Unleavened_Bread_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Significance_of_Unleavened_Bread_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Significance_of_Unleavened_Bread_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Significance_of_Unleavened_Bread.md)

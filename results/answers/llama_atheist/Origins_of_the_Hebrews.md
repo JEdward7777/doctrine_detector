@@ -21,7 +21,7 @@ This lineage is crucial to understanding the Hebrew people's identity and their 
 From a historical-critical perspective, it's important to note that the biblical account of the Hebrews' descent from Shem might have been influenced by ancient Near Eastern genealogical traditions. Nevertheless, this narrative remains a cornerstone of Jewish and Christian identity, shaping their understanding of themselves as a people chosen by God.
 
 ## Average Grade
-75.0
+76.875
 
 ## Grades
  * [95.0](./Origins_of_the_Hebrews_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ From a historical-critical perspective, it's important to note that the biblical
  * [85.0](./Origins_of_the_Hebrews_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Origins_of_the_Hebrews_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Origins_of_the_Hebrews_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Origins_of_the_Hebrews_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [80.0](./Origins_of_the_Hebrews_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Origins_of_the_Hebrews.md)

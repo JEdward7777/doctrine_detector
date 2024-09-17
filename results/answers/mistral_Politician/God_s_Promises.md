@@ -27,7 +27,7 @@ Throughout the scriptures, various examples showcase this relationship:
 These examples illustrate the significance of God's promises as a testament to His enduring love for His people, providing hope, guidance, and an ongoing relationship that transcends time and circumstance. By honoring these promises, we can strive towards empathy, understanding, and mutual respect in our interactions with others, fostering a more inclusive and harmonious society.
 
 ## Average Grade
-84.16666666666667
+84.375
 
 ## Grades
  * [85.0](./God_s_Promises_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ These examples illustrate the significance of God's promises as a testament to H
  * [85.0](./God_s_Promises_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./God_s_Promises_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./God_s_Promises_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./God_s_Promises_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./God_s_Promises_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/God_s_Promises.md)

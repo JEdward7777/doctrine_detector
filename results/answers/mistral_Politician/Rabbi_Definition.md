@@ -15,7 +15,7 @@ Understanding the role and significance of rabbinic teaching in the New Testamen
  In the context of Christian teaching, the term 'Rabbi' does not have any direct or specific meaning. The title 'Rabbi' is a Hebrew word that originates from Judaism, where it denotes a teacher of Jewish law and tradition. In Christianity, the use of 'Rabbi' to refer to Jesus can be found in the New Testament, as it was used by his disciples or others when addressing him. However, this usage does not confer any formal role or title upon him within the Christian faith itself. When referring to historical figures or contemporary leaders in Judaism, the term 'Rabbi' is used appropriately to denote a religious leader of that faith. It is essential to respect and understand cultural and religious differences when using such terms.
 
 ## Average Grade
-82.5
+80.0
 
 ## Grades
  * [80.0](./Rabbi_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ Understanding the role and significance of rabbinic teaching in the New Testamen
  * [85.0](./Rabbi_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Rabbi_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Rabbi_Definition_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Rabbi_Definition_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Rabbi_Definition_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Rabbi_Definition.md)

@@ -27,7 +27,7 @@ In other instances, Shaddai is paired with El or Yahweh to create a triad of div
 In conclusion, as an atheist scholar, I recognize that the use of Shaddai in the Old Testament reflects the complex cultural and theological heritage of ancient Israel. While its exact meaning is subject to debate, Shaddai likely connotes a powerful, all-encompassing deity, emphasizing God's authority and sovereignty. By examining this term within its biblical context, we can gain a deeper understanding of the evolving nature of Israelite religion and its influences on subsequent Western religious traditions.
 
 ## Average Grade
-62.5
+63.75
 
 ## Grades
  * [40.0](./Understanding_Shaddai_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ In conclusion, as an atheist scholar, I recognize that the use of Shaddai in the
  * [65.0](./Understanding_Shaddai_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Shaddai_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [55.0](./Understanding_Shaddai_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Shaddai_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Understanding_Shaddai_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Shaddai.md)

@@ -23,7 +23,7 @@ It is important to note that these beliefs are deeply rooted in religious tradit
 That being said, it is fascinating to explore different cultural beliefs and their implications on various aspects of life, including concepts of good and evil, morality, justice, and human nature. Understanding these perspectives can provide valuable insights into the diversity of human thought and the complex ways societies have attempted to make sense of their place in the universe.
 
 ## Average Grade
-75.0
+73.125
 
 ## Grades
  * [75.0](./Satan_s_Fate_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ That being said, it is fascinating to explore different cultural beliefs and the
  * [90.0](./Satan_s_Fate_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Satan_s_Fate_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Satan_s_Fate_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Satan_s_Fate_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Satan_s_Fate_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Satan_s_Fate.md)

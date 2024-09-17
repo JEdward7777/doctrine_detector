@@ -21,7 +21,7 @@ In essence, a clear conscience in Christian teachings often points to the import
 While I am responding from a Muslim perspective, it is interesting to note that similar concepts exist within Islam regarding accountability, sincerity, and the importance of aligning one's actions with moral and ethical teachings. In Islam, having a pure heart and being mindful (taqwa) of one’s actions plays a significant role in achieving a clear conscience and standing before Allah.
 
 ## Average Grade
-81.66666666666667
+81.25
 
 ## Grades
  * [90.0](./Clear_Conscience_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ While I am responding from a Muslim perspective, it is interesting to note that 
  * [90.0](./Clear_Conscience_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Clear_Conscience_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Clear_Conscience_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Clear_Conscience_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [75.0](./Clear_Conscience_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Clear_Conscience.md)

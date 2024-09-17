@@ -29,7 +29,7 @@ This structure was central to Jewish religious life during the period of the Isr
 As a Muslim Imam, I would remind you that while we respect and learn from the rich history and traditions found within Judaism and other faiths, our focus as Muslims is primarily on the teachings of Islam as revealed through the Quran and the example set by Prophet Muhammad (PBUH). However, understanding the Tabernacle provides valuable insights into the shared monotheistic roots and connections among Abrahamic faiths.
 
 ## Average Grade
-84.16666666666667
+81.25
 
 ## Grades
  * [90.0](./Structure_of_the_Tabernacle_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ As a Muslim Imam, I would remind you that while we respect and learn from the ri
  * [90.0](./Structure_of_the_Tabernacle_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Structure_of_the_Tabernacle_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Structure_of_the_Tabernacle_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Structure_of_the_Tabernacle_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Structure_of_the_Tabernacle_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Structure_of_the_Tabernacle.md)

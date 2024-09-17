@@ -21,7 +21,7 @@ Throughout the Old Testament, the sanctuary is portrayed as a symbol of God's co
 In Christian theology, the sanctuary (and later the Temple) is often interpreted as a foreshadowing of Jesus Christ, the true Tabernacle not made by human hands (Hebrews 8:2; 9:11). As the Son of God, Jesus is seen as the ultimate fulfillment of God's promise to dwell among His people, providing atonement for their sins through His sacrifice on the cross.
 
 ## Average Grade
-88.33333333333333
+88.75
 
 ## Grades
  * [90.0](./Sanctuary_in_the_Old_Testament_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ In Christian theology, the sanctuary (and later the Temple) is often interpreted
  * [90.0](./Sanctuary_in_the_Old_Testament_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Sanctuary_in_the_Old_Testament_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Sanctuary_in_the_Old_Testament_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Sanctuary_in_the_Old_Testament_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Sanctuary_in_the_Old_Testament_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Sanctuary_in_the_Old_Testament.md)

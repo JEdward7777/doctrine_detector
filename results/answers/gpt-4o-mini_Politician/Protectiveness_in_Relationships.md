@@ -29,7 +29,7 @@ In Christian teachings, a 'strong protective desire' in a relationship is often 
 Ultimately, this protective desire emphasizes building a relationship that fosters love, trust, and partnership, aligning with the broader Christian values of compassion and care for one another. Each couple may express this differently, but the foundational principles remain rooted in love and mutual respect.
 
 ## Average Grade
-90.0
+88.75
 
 ## Grades
  * [95.0](./Protectiveness_in_Relationships_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ Ultimately, this protective desire emphasizes building a relationship that foste
  * [90.0](./Protectiveness_in_Relationships_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Protectiveness_in_Relationships_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Protectiveness_in_Relationships_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Protectiveness_in_Relationships_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Protectiveness_in_Relationships_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Protectiveness_in_Relationships.md)

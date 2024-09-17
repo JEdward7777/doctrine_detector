@@ -25,7 +25,7 @@ Retaining the terms 'Zion' and 'Daughter' in translations of Biblical texts is s
 In conclusion, retaining 'Zion' and 'Daughter' in Biblical translations is important for preserving historical context, theological depth, literary quality, and inclusive representation. It ensures that the rich tapestry of meaning within the texts is not lost, allowing diverse audiences to engage with these foundational writings in a meaningful and respectful manner.
 
 ## Average Grade
-92.0
+90.875
 
 ## Grades
  * [95.0](./Translation_Considerations_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ In conclusion, retaining 'Zion' and 'Daughter' in Biblical translations is impor
  * [95.0](./Translation_Considerations_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Translation_Considerations_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Translation_Considerations_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Translation_Considerations_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Translation_Considerations_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Translation_Considerations.md)

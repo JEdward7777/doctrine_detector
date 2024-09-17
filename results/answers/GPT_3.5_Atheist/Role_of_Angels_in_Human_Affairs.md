@@ -17,7 +17,7 @@ In the Judeo-Christian tradition, angels are believed to serve God in various wa
 It is important to note that these beliefs and interpretations are rooted in religious faith and may vary among different theological traditions and interpretations. From an atheistic perspective, angels are seen as mythological or metaphorical beings created by human imagination to personify various aspects of the divine. Their roles and functions are symbolic representations of human values, virtues, and experiences, rather than literal beings serving a supernatural deity.
 
 ## Average Grade
-81.66666666666667
+80.625
 
 ## Grades
  * [85.0](./Role_of_Angels_in_Human_Affairs_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -26,5 +26,7 @@ It is important to note that these beliefs and interpretations are rooted in rel
  * [80.0](./Role_of_Angels_in_Human_Affairs_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Role_of_Angels_in_Human_Affairs_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Role_of_Angels_in_Human_Affairs_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Role_of_Angels_in_Human_Affairs_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [75.0](./Role_of_Angels_in_Human_Affairs_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Role_of_Angels_in_Human_Affairs.md)

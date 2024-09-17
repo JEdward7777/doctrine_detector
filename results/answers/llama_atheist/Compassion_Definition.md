@@ -32,7 +32,7 @@ In conclusion, the Bible defines compassion as a fundamental aspect of God's cha
 Now, I must admit that my analysis is based on a cultural and historical understanding of the Bible. As a scholar, it is essential to acknowledge the complexity and diversity within the biblical account, as well as its influence on human thought and behavior throughout history. However, I hope this response provides a helpful overview of the biblical concept of compassion!
 
 ## Average Grade
-93.66666666666667
+91.5
 
 ## Grades
  * [95.0](./Compassion_Definition_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -41,5 +41,7 @@ Now, I must admit that my analysis is based on a cultural and historical underst
  * [95.0](./Compassion_Definition_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Compassion_Definition_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Compassion_Definition_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Compassion_Definition_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Compassion_Definition_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Compassion_Definition.md)

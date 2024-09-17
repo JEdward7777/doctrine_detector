@@ -15,7 +15,7 @@ Understanding the contrast between worldly values and godly principles.
 In Christian teachings, the term "worldly" usually carries a negative connotation and refers to behaviors and values that are focused on materialism, selfishness, and superficiality rather than on spiritual growth or moral principles. Worldly individuals are often seen as prioritizing money, power, and pleasure over kindness, compassion, and humility. This perspective emphasizes the idea that true fulfillment comes from a relationship with God rather than from worldly pursuits.
 
 ## Average Grade
-84.16666666666667
+85.0
 
 ## Grades
  * [85.0](./Understanding_Worldly_Values_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ In Christian teachings, the term "worldly" usually carries a negative connotatio
  * [85.0](./Understanding_Worldly_Values_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Understanding_Worldly_Values_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Understanding_Worldly_Values_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Worldly_Values_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Understanding_Worldly_Values_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Worldly_Values.md)

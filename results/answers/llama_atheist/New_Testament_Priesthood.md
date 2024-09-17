@@ -27,7 +27,7 @@ The notion that every believer in Jesus becomes a priest can be understood in se
 In summary, when every believer in Jesus is considered a priest, it emphasizes the accessibility of salvation, the importance of holy living, and the universal call to ministry. It also underscores the equal access to God and participation in the priestly work of Jesus Christ, highlighting the inclusive nature of Christian spirituality.
 
 ## Average Grade
-85.83333333333333
+80.0
 
 ## Grades
  * [90.0](./New_Testament_Priesthood_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ In summary, when every believer in Jesus is considered a priest, it emphasizes t
  * [90.0](./New_Testament_Priesthood_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./New_Testament_Priesthood_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./New_Testament_Priesthood_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./New_Testament_Priesthood_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./New_Testament_Priesthood_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/New_Testament_Priesthood.md)

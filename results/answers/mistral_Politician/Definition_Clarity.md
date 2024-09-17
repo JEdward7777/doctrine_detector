@@ -15,7 +15,7 @@ Understanding the Biblical definition and implications of adultery.
  In the Christian context, according to the Bible (specifically Leviticus 20:10 and Matthew 5:27-28), adultery is defined as sexual intercourse between a married person and someone other than their spouse. The Bible considers this act to be a serious sin against God and one's spouse. It's important to note that the Bible also teaches love, forgiveness, and reconciliation for those who have committed adultery or any other sin. In matters of faith and morality, it's essential to approach discussions with sensitivity, empathy, and a focus on education and guidance rather than judgment or condemnation.
 
 ## Average Grade
-91.16666666666667
+89.625
 
 ## Grades
  * [92.0](./Definition_Clarity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ Understanding the Biblical definition and implications of adultery.
  * [95.0](./Definition_Clarity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Definition_Clarity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Definition_Clarity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Definition_Clarity_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Definition_Clarity_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Definition_Clarity.md)

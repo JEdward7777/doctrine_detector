@@ -23,7 +23,7 @@ This covenant is seen in the Quran as a model for Muslims and a reminder that Go
 In addition to the Quran, the Hadith also provide insights into this covenant. For example, in Sahih Muslim (2864), it is reported that the Prophet Muhammad (peace be upon him) said: "The Children of Israel were guided by their Prophets and had the Book of Allah bestowed upon them, yet they abandoned the commandments of their prophets and violated the provisions of their covenant with Allah." This Hadith emphasizes the importance of upholding God's covenant for the Children of Israel as a model for Muslims to follow.
 
 ## Average Grade
-66.66666666666667
+68.75
 
 ## Grades
  * [70.0](./Covenant_with_Israel_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ In addition to the Quran, the Hadith also provide insights into this covenant. F
  * [85.0](./Covenant_with_Israel_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Covenant_with_Israel_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./Covenant_with_Israel_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Covenant_with_Israel_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [65.0](./Covenant_with_Israel_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Covenant_with_Israel.md)

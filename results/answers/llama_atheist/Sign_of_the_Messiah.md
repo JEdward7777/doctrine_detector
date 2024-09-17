@@ -29,7 +29,7 @@ Thirdly, this episode establishes Jesus as a Messiah who comes not for the power
 In conclusion, the significance of the sign given to the shepherds in Luke lies in its subversive message of inclusivity, humility, and accessibility. This narrative reframes traditional notions of power and social status, highlighting Jesus' ministry as a call to all people, regardless of their background or circumstances.
 
 ## Average Grade
-60.0
+63.125
 
 ## Grades
  * [50.0](./Sign_of_the_Messiah_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ In conclusion, the significance of the sign given to the shepherds in Luke lies 
  * [75.0](./Sign_of_the_Messiah_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Sign_of_the_Messiah_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [65.0](./Sign_of_the_Messiah_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Sign_of_the_Messiah_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Sign_of_the_Messiah_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Sign_of_the_Messiah.md)

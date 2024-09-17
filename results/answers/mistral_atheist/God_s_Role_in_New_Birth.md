@@ -21,7 +21,7 @@ In other religious or philosophical traditions, the concept may be different. Fo
 Ultimately, the role of God or a higher power in the process of being "born again" depends on the specific belief system being considered. It's essential to understand the context and tenets of each tradition when discussing such topics.
 
 ## Average Grade
-84.16666666666667
+81.25
 
 ## Grades
  * [90.0](./God_s_Role_in_New_Birth_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ Ultimately, the role of God or a higher power in the process of being "born agai
  * [90.0](./God_s_Role_in_New_Birth_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./God_s_Role_in_New_Birth_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./God_s_Role_in_New_Birth_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./God_s_Role_in_New_Birth_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./God_s_Role_in_New_Birth_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/God_s_Role_in_New_Birth.md)

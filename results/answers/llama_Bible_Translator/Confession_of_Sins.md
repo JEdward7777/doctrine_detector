@@ -26,7 +26,7 @@ According to the Bible, when a Christian is tempted to sin, they should respond 
 Remember, the Bible says that "God is faithful, and he will not let you be tempted beyond your ability to bear. But when you are tempted, he will also provide a way out so that you can stand up under it" (1 Corinthians 10:13). With God's help and guidance, you can overcome temptation and remain faithful to Him.
 
 ## Average Grade
-85.0
+87.5
 
 ## Grades
  * [90.0](./Confession_of_Sins_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -35,5 +35,7 @@ Remember, the Bible says that "God is faithful, and he will not let you be tempt
  * [90.0](./Confession_of_Sins_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Confession_of_Sins_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Confession_of_Sins_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [95.0](./Confession_of_Sins_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Confession_of_Sins_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Confession_of_Sins.md)

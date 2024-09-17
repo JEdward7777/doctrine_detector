@@ -25,7 +25,7 @@ Lastly, this translation has implications for our understanding of Jesus Christ 
 In conclusion, the translation of "Savior" as "the One who saves" or "who rescues from enemies" has significant implications for our comprehension of God's role in the lives of believers. It highlights God's active engagement with humanity, emphasizes the believer's agency in their own salvation, underscores God's care and concern for human welfare, and sheds light on Jesus' salvific mission as a mediator between God and humanity.
 
 ## Average Grade
-92.16666666666667
+91.625
 
 ## Grades
  * [95.0](./Translation_of_Savior_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ In conclusion, the translation of "Savior" as "the One who saves" or "who rescue
  * [95.0](./Translation_of_Savior_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Translation_of_Savior_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Translation_of_Savior_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Translation_of_Savior_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Translation_of_Savior_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Translation_of_Savior.md)

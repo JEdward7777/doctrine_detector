@@ -21,7 +21,7 @@ From an Islamic perspective, we do not have a Sabbath in the same sense, but Fri
 In essence, both traditions value the idea of setting aside time for worship, reflection, and community, but the specific practices and theological interpretations differ. The principle of keeping a day holy aligns with the general Islamic concept of dedicating time for worship and balancing work with spiritual commitments.
 
 ## Average Grade
-68.33333333333333
+66.875
 
 ## Grades
  * [75.0](./Sabbath_Observance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ In essence, both traditions value the idea of setting aside time for worship, re
  * [50.0](./Sabbath_Observance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Sabbath_Observance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Sabbath_Observance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Sabbath_Observance_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Sabbath_Observance_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Sabbath_Observance.md)

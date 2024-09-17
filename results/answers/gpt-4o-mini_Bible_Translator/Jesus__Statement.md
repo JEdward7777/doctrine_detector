@@ -23,7 +23,7 @@ When Jesus declared, "I am the Resurrection and the Life" (John 11:25), He was c
 In summary, Jesus’ declaration as "the Resurrection and the Life" encapsulates His divine authority, the promise of eternal life, and the central role of faith in Him for salvation. This statement offers comfort and hope to believers, affirming that death is not the end, and that through Christ, they can have a restored relationship with God that extends beyond this life.
 
 ## Average Grade
-88.33333333333333
+88.75
 
 ## Grades
  * [95.0](./Jesus__Statement_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ In summary, Jesus’ declaration as "the Resurrection and the Life" encapsulates
  * [95.0](./Jesus__Statement_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Jesus__Statement_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Jesus__Statement_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Jesus__Statement_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Jesus__Statement_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Jesus__Statement.md)

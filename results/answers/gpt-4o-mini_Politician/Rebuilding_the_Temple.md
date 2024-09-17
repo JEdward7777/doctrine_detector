@@ -29,7 +29,7 @@ The history of the Temple in Jerusalem is marked by significant events that led 
 This historical trajectory reflects a complex interplay of religious, cultural, and political elements significant to Jewish history and identity, as well as the broader implications for the region. It is important to approach these events with sensitivity to the diverse perspectives and historical experiences of different communities.
 
 ## Average Grade
-81.66666666666667
+81.875
 
 ## Grades
  * [90.0](./Rebuilding_the_Temple_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ This historical trajectory reflects a complex interplay of religious, cultural, 
  * [90.0](./Rebuilding_the_Temple_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Rebuilding_the_Temple_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Rebuilding_the_Temple_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Rebuilding_the_Temple_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [80.0](./Rebuilding_the_Temple_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Rebuilding_the_Temple.md)

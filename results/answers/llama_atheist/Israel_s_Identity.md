@@ -27,7 +27,7 @@ In a more historically informed perspective, the term "Israel" might be seen as 
 In conclusion, the name "Israel" in its biblical context can be seen as a symbolic representation of themes such as divine election, struggle and perseverance, and covenantal relationships. However, it is essential to approach this topic with a critical eye, recognizing that these interpretations are shaped by cultural and historical contexts that may not align with modern values or understanding.
 
 ## Average Grade
-70.0
+69.375
 
 ## Grades
  * [80.0](./Israel_s_Identity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ In conclusion, the name "Israel" in its biblical context can be seen as a symbol
  * [85.0](./Israel_s_Identity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Israel_s_Identity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Israel_s_Identity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Israel_s_Identity_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Israel_s_Identity_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Israel_s_Identity.md)

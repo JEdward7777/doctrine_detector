@@ -25,7 +25,7 @@ This question encourages reflection on human vulnerability and the need for divi
 In summary, the comparison between humans and sheep highlights various aspects of God's nature, our relationship with Him, our vulnerability in this world, and His providential care for us. It serves as a reminder that, just as sheep rely on their shepherd, we should trust in God to lead, guide, and protect us throughout our lives.
 
 ## Average Grade
-90.83333333333333
+90.625
 
 ## Grades
  * [90.0](./Comparison_of_Humans_and_Sheep_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ In summary, the comparison between humans and sheep highlights various aspects o
  * [95.0](./Comparison_of_Humans_and_Sheep_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Comparison_of_Humans_and_Sheep_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Comparison_of_Humans_and_Sheep_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Comparison_of_Humans_and_Sheep_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Comparison_of_Humans_and_Sheep_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Comparison_of_Humans_and_Sheep.md)

@@ -29,7 +29,7 @@ As Muslims, we can learn from this story. We must avoid becoming rigid in our in
 In conclusion, my brother, the Pharisees' rigid adherence to the Laws of Moses had significant consequences for their relationships with Jesus and early Christians. May we learn from this story and strive to build bridges between different faith traditions by emphasizing love, compassion, and understanding.
 
 ## Average Grade
-81.33333333333333
+77.875
 
 ## Grades
  * [93.0](./Pharisees__Influence_on_Jewish_Law_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ In conclusion, my brother, the Pharisees' rigid adherence to the Laws of Moses h
  * [80.0](./Pharisees__Influence_on_Jewish_Law_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Pharisees__Influence_on_Jewish_Law_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Pharisees__Influence_on_Jewish_Law_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Pharisees__Influence_on_Jewish_Law_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Pharisees__Influence_on_Jewish_Law_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Pharisees__Influence_on_Jewish_Law.md)

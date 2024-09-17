@@ -15,7 +15,7 @@ Understanding how God interacts with prophecy and its realization in Scripture.
 In Biblical teaching, when a prophecy is said to be fulfilled, it means that the prediction or divine message foretold in the scriptures has come to pass. This can be seen as a confirmation of the trustworthiness and accuracy of the prophetic word. It is important to approach discussions on religious beliefs with sensitivity and respect for different interpretations and perspectives.
 
 ## Average Grade
-84.16666666666667
+83.125
 
 ## Grades
  * [90.0](./Fulfillment_of_Prophecies_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ In Biblical teaching, when a prophecy is said to be fulfilled, it means that the
  * [90.0](./Fulfillment_of_Prophecies_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Fulfillment_of_Prophecies_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Fulfillment_of_Prophecies_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Fulfillment_of_Prophecies_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [75.0](./Fulfillment_of_Prophecies_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Fulfillment_of_Prophecies.md)

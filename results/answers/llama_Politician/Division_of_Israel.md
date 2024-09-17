@@ -25,7 +25,7 @@ Let's just say that the Babylonian exile was a significant turning point in Jewi
 *rapidly glances at notes* Ah, yes! That's the general outline. I hope that provides a... *hesitates* ...factually accurate and sensitive summary of this important event in Jewish history.
 
 ## Average Grade
-64.16666666666667
+67.5
 
 ## Grades
  * [45.0](./Division_of_Israel_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ Let's just say that the Babylonian exile was a significant turning point in Jewi
  * [85.0](./Division_of_Israel_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Division_of_Israel_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Division_of_Israel_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Division_of_Israel_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [75.0](./Division_of_Israel_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Division_of_Israel.md)

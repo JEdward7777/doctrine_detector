@@ -48,7 +48,7 @@ Given the cultural and psychological significance of prayer, it is possible to r
 Prayer is a complex and diverse practice with cultural, psychological, and social implications. While its effectiveness in influencing the external world is questionable, its significance lies in the psychological, social, and cultural benefits it provides to individuals and communities.
 
 ## Average Grade
-58.333333333333336
+60.625
 
 ## Grades
  * [60.0](./The_Nature_of_Prayer_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -57,5 +57,7 @@ Prayer is a complex and diverse practice with cultural, psychological, and socia
  * [60.0](./The_Nature_of_Prayer_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./The_Nature_of_Prayer_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./The_Nature_of_Prayer_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./The_Nature_of_Prayer_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./The_Nature_of_Prayer_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/The_Nature_of_Prayer.md)

@@ -27,7 +27,7 @@ One hadith (saying or action) attributed to Prophet Muhammad (peace be upon him)
 According to some accounts, after Jesus was accused unjustly, he was taken by Allah (God) to a distant place without being harmed or traveling physically (Quran 3:51). This story emphasizes Jesus' innocence and the extraordinary intervention of God to protect him.
 
 ## Average Grade
-58.333333333333336
+59.375
 
 ## Grades
  * [40.0](./Examples_of_Jesus__Miracles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ According to some accounts, after Jesus was accused unjustly, he was taken by Al
  * [60.0](./Examples_of_Jesus__Miracles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Examples_of_Jesus__Miracles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [30.0](./Examples_of_Jesus__Miracles_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [75.0](./Examples_of_Jesus__Miracles_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Examples_of_Jesus__Miracles_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Examples_of_Jesus__Miracles.md)

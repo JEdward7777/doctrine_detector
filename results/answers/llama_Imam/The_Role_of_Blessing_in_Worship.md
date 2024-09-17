@@ -27,7 +27,7 @@ The Prophet Muhammad (peace be upon him) taught us that the key to a successful 
 In conclusion, the act of blessing (istighfar) is closely related to praising God (tasbih) in that they both stem from a deep recognition of our dependence on Him. When we praise Allah, we acknowledge His greatness, and when we seek His blessings, we recognize our need for His guidance and mercy. May Allah guide us to the straight path and grant us His blessings.
 
 ## Average Grade
-59.166666666666664
+65.0
 
 ## Grades
  * [80.0](./The_Role_of_Blessing_in_Worship_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ In conclusion, the act of blessing (istighfar) is closely related to praising Go
  * [70.0](./The_Role_of_Blessing_in_Worship_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [20.0](./The_Role_of_Blessing_in_Worship_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./The_Role_of_Blessing_in_Worship_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./The_Role_of_Blessing_in_Worship_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [75.0](./The_Role_of_Blessing_in_Worship_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/The_Role_of_Blessing_in_Worship.md)

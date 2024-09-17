@@ -17,7 +17,7 @@ Recognizing the authorship of Psalms enhances understanding of their messages an
 In Islam, we believe in a set of revelations that were received by prophets throughout history, with the last being the Quran, which was revealed to Prophet Muhammad (peace be upon him). The Quran is considered the final and most authentic guide for mankind.
 
 ## Average Grade
-46.666666666666664
+47.5
 
 ## Grades
  * [60.0](./Authorship_of_Psalms_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -26,5 +26,7 @@ In Islam, we believe in a set of revelations that were received by prophets thro
  * [20.0](./Authorship_of_Psalms_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Authorship_of_Psalms_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./Authorship_of_Psalms_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [70.0](./Authorship_of_Psalms_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [30.0](./Authorship_of_Psalms_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Authorship_of_Psalms.md)

@@ -15,7 +15,7 @@ Understanding the importance of Jesus's miracles in affirming His divine nature.
 The miracles performed by Jesus reveal His divine identity as the Son of God and the Messiah. Throughout the New Testament, we see Jesus performing miraculous signs such as healing the sick, raising the dead, calming storms, and feeding large crowds with a small amount of food. These miracles demonstrate Jesus' power over nature, sickness, and death, and point to His authority as the promised Savior who has come to bring salvation to all who believe in Him. The miracles serve as evidence of His divinity and show that He is indeed the long-awaited Messiah who has come to fulfill God's plan of redemption for mankind.
 
 ## Average Grade
-91.66666666666667
+91.875
 
 ## Grades
  * [85.0](./Nature_of_Miracles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ The miracles performed by Jesus reveal His divine identity as the Son of God and
  * [90.0](./Nature_of_Miracles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Nature_of_Miracles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Nature_of_Miracles_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Nature_of_Miracles_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Nature_of_Miracles_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Nature_of_Miracles.md)

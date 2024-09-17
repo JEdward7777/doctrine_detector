@@ -19,7 +19,7 @@ When God calls someone by their name, it suggests a personal connection and a co
 In essence, being "called by my name" reflects the idea that our relationship with God is personal, intentional, and purposeful. It emphasizes that we are known and loved by God on an individual level, and we are called to respond to that love in a way that brings glory to Him.
 
 ## Average Grade
-91.16666666666667
+89.625
 
 ## Grades
  * [90.0](./God_s_Identity_Through_Naming_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ In essence, being "called by my name" reflects the idea that our relationship wi
  * [92.0](./God_s_Identity_Through_Naming_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./God_s_Identity_Through_Naming_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./God_s_Identity_Through_Naming_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./God_s_Identity_Through_Naming_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./God_s_Identity_Through_Naming_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/God_s_Identity_Through_Naming.md)

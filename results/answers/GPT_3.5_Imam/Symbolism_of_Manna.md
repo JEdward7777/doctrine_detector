@@ -15,7 +15,7 @@ Recognizing God's ongoing provision in the lives of believers.
 In Islamic tradition, 'manna' is known as 'man', one of the foods mentioned in the Quran as a provision from God to the Israelites during their time in the desert. The term 'manna' symbolizes God's abundant and miraculous provision to His believers. It signifies God's mercy, care, and sustenance for His creation, reminding us of the importance of relying on Him for our needs and being grateful for His blessings. Just as God provided manna to the Israelites in the past, Muslims believe that Allah continues to provide for His servants in ways beyond our imagination.
 
 ## Average Grade
-80.83333333333333
+77.5
 
 ## Grades
  * [90.0](./Symbolism_of_Manna_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ In Islamic tradition, 'manna' is known as 'man', one of the foods mentioned in t
  * [85.0](./Symbolism_of_Manna_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Symbolism_of_Manna_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Symbolism_of_Manna_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Symbolism_of_Manna_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Symbolism_of_Manna_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Symbolism_of_Manna.md)

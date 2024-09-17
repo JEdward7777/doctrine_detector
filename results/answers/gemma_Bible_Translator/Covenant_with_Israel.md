@@ -46,7 +46,7 @@ The covenant between God and Israel was multifaceted and foundational to their r
 **The covenant with Israel was foundational to the biblical narrative and played a significant role in shaping God's relationship with his people. It foreshadowed the ultimate redemption found in Jesus Christ, who is the fulfillment of God's promises to Israel.**
 
 ## Average Grade
-90.0
+89.375
 
 ## Grades
  * [95.0](./Covenant_with_Israel_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -55,5 +55,7 @@ The covenant between God and Israel was multifaceted and foundational to their r
  * [95.0](./Covenant_with_Israel_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Covenant_with_Israel_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Covenant_with_Israel_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Covenant_with_Israel_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Covenant_with_Israel_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Covenant_with_Israel.md)

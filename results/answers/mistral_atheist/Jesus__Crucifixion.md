@@ -19,7 +19,7 @@ In the Bible, it is mentioned that Jesus was given vinegar (which could be under
 This offering might indicate that Jesus' crucifixion was a prolonged and painful process, and the wine and myrrh were attempts to lessen his physical suffering. However, it's essential to remember that interpretations can vary greatly among scholars and religious communities. This explanation is based on a cultural and historical perspective rather than a religious one.
 
 ## Average Grade
-71.66666666666667
+74.375
 
 ## Grades
  * [85.0](./Jesus__Crucifixion_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ This offering might indicate that Jesus' crucifixion was a prolonged and painful
  * [80.0](./Jesus__Crucifixion_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Jesus__Crucifixion_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Jesus__Crucifixion_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Jesus__Crucifixion_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [80.0](./Jesus__Crucifixion_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Jesus__Crucifixion.md)

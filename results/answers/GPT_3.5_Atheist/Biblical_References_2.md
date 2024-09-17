@@ -21,7 +21,7 @@ Additionally, Isaiah 40:12 describes God's greatness and power: "Who has measure
 These verses reflect the awe-inspiring nature of God's majesty in the eyes of believers. However, as an atheistic scholar, I view these verses through a lens of cultural retribution, understanding them as products of human imagination and societal norms of the time, rather than objective truths about a divine being.
 
 ## Average Grade
-35.0
+40.0
 
 ## Grades
  * [20.0](./Biblical_References_2_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ These verses reflect the awe-inspiring nature of God's majesty in the eyes of be
  * [50.0](./Biblical_References_2_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Biblical_References_2_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./Biblical_References_2_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [70.0](./Biblical_References_2_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Biblical_References_2_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Biblical_References_2.md)

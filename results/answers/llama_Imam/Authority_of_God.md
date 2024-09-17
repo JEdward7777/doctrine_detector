@@ -25,7 +25,7 @@ In Islam, we also recognize Allah's (SWT) power and control over Jinn and angels
 In conclusion, my brother/sister in Islam, the concept of "Yahweh of Hosts" highlights God's authority over spiritual beings, which is also an essential aspect of Islamic theology. We recognize Allah's (SWT) power to command and control all creation, including Jinn and angels, as a manifestation of His absolute sovereignty and mercy towards humanity.
 
 ## Average Grade
-79.5
+79.0
 
 ## Grades
  * [80.0](./Authority_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ In conclusion, my brother/sister in Islam, the concept of "Yahweh of Hosts" high
  * [90.0](./Authority_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./Authority_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Authority_of_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [95.0](./Authority_of_God_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Authority_of_God_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Authority_of_God.md)

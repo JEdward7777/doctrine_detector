@@ -15,7 +15,7 @@ Understanding judgment is crucial for one's relationship with God and the urgenc
 In Christian teaching, "the last day" refers to the eschatological event when Jesus Christ will return to earth for the final judgment, the resurrection of the dead, and the establishment of God's eternal kingdom. This belief is based on various passages in the Bible, including John 6:39-40 where Jesus says, "And this is the will of Him who sent Me, that I shall lose none of all those He has given Me, but raise them up at the last day." Christians believe that on the last day, all people will be judged according to their faith in Jesus Christ and their deeds, and those who have accepted Christ as their Savior will inherit eternal life in His kingdom.
 
 ## Average Grade
-79.16666666666667
+81.25
 
 ## Grades
  * [95.0](./Interpretation_of__The_Last_Day__grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ In Christian teaching, "the last day" refers to the eschatological event when Je
  * [90.0](./Interpretation_of__The_Last_Day__grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Interpretation_of__The_Last_Day__grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Interpretation_of__The_Last_Day__grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Interpretation_of__The_Last_Day__grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Interpretation_of__The_Last_Day__grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Interpretation_of__The_Last_Day_.md)

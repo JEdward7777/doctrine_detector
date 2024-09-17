@@ -32,7 +32,7 @@ In conclusion, it is considered wrong to put God to the test because:
 As believers, we are called to trust in God's goodness, wisdom, and power, rather than trying to manipulate or control Him. This trust is rooted in our understanding of God's character, as revealed in Scripture, and our dependence on Him for all things (Romans 11:33-34).
 
 ## Average Grade
-93.33333333333333
+92.5
 
 ## Grades
  * [95.0](./Testing_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -41,5 +41,7 @@ As believers, we are called to trust in God's goodness, wisdom, and power, rathe
  * [95.0](./Testing_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Testing_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Testing_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Testing_God_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Testing_God_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Testing_God.md)

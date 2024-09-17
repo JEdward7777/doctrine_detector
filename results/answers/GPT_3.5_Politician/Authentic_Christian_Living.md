@@ -15,7 +15,7 @@ Living out our faith authentically is crucial to being effective representatives
 In Romans 12:9, it is advised that our love should be genuine and sincere, and our actions should be without hypocrisy. This means that we should strive to express love and kindness towards others in a truthful and authentic manner, without any hidden motives or insincerity. It is important to be honest and transparent in our interactions with others to avoid any misunderstandings or conflicts.
 
 ## Average Grade
-90.83333333333333
+88.125
 
 ## Grades
  * [90.0](./Authentic_Christian_Living_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ In Romans 12:9, it is advised that our love should be genuine and sincere, and o
  * [95.0](./Authentic_Christian_Living_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Authentic_Christian_Living_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Authentic_Christian_Living_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Authentic_Christian_Living_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [75.0](./Authentic_Christian_Living_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Authentic_Christian_Living.md)

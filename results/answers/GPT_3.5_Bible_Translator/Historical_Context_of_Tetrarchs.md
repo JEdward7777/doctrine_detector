@@ -19,7 +19,7 @@ Additionally, the division of the kingdom created political and social fragmenta
 Furthermore, the tetrarchies contributed to the overall sense of disillusionment and longing for a Messiah among the Jewish people. Many viewed the Roman-appointed tetrarchs as illegitimate rulers and longed for a leader who would deliver them from oppression and restore the kingdom of Israel. This cultural and political context set the stage for the eventual rise of messianic movements in the first century, including the ministry of Jesus Christ.
 
 ## Average Grade
-85.83333333333333
+85.625
 
 ## Grades
  * [90.0](./Historical_Context_of_Tetrarchs_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ Furthermore, the tetrarchies contributed to the overall sense of disillusionment
  * [90.0](./Historical_Context_of_Tetrarchs_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Historical_Context_of_Tetrarchs_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Historical_Context_of_Tetrarchs_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Historical_Context_of_Tetrarchs_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Historical_Context_of_Tetrarchs_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Historical_Context_of_Tetrarchs.md)

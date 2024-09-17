@@ -19,7 +19,7 @@ However, from a scholarly and atheistic perspective, the return of the Jews from
 While the return of the Jews from Babylon held immense religious and cultural significance for the Jewish people, it can also be analyzed through historical, political, and sociocultural lenses to understand the complex factors at play during that period.
 
 ## Average Grade
-70.0
+71.25
 
 ## Grades
  * [80.0](./Return_from_Exile_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ While the return of the Jews from Babylon held immense religious and cultural si
  * [70.0](./Return_from_Exile_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Return_from_Exile_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Return_from_Exile_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Return_from_Exile_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Return_from_Exile_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Return_from_Exile.md)

@@ -21,7 +21,7 @@ In addition to faith in Jesus, some Christian traditions also emphasize good wor
 It's important to note that interpretations of these passages can vary widely among different Christian groups, and some may place more emphasis on faith alone (sola fide) or on a combination of faith and good works (faith and works). It is always best to consult with a knowledgeable religious scholar or leader within the specific Christian tradition for a more accurate understanding.
 
 ## Average Grade
-85.0
+83.125
 
 ## Grades
  * [90.0](./Requirements_for_Salvation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ It's important to note that interpretations of these passages can vary widely am
  * [90.0](./Requirements_for_Salvation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Requirements_for_Salvation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Requirements_for_Salvation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Requirements_for_Salvation_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Requirements_for_Salvation_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Requirements_for_Salvation.md)

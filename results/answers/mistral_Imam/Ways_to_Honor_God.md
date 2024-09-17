@@ -35,7 +35,7 @@ Exploring actionable expressions of faith and worship in everyday life.
 10. Cultivate a personal relationship with God: Finally, Christians can honor God by developing a personal relationship with Him through prayer, study of the Bible, worship, and meditation. This intimate connection helps them to better understand God's will for their lives and deepens their faith.
 
 ## Average Grade
-80.83333333333333
+80.0
 
 ## Grades
  * [85.0](./Ways_to_Honor_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -44,5 +44,7 @@ Exploring actionable expressions of faith and worship in everyday life.
  * [85.0](./Ways_to_Honor_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Ways_to_Honor_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Ways_to_Honor_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Ways_to_Honor_God_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Ways_to_Honor_God_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Ways_to_Honor_God.md)

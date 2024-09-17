@@ -19,7 +19,7 @@ For a believer, having a seared conscience can have serious implications. It can
 To prevent one's conscience from becoming seared, it is important for a believer to constantly engage in self-reflection, seek forgiveness for their sins, and strive to improve their character and actions in accordance with Islamic teachings. It is also essential to maintain a strong relationship with Allah through regular prayers, recitation of the Quran, and acts of worship and kindness towards others.
 
 ## Average Grade
-75.0
+72.5
 
 ## Grades
  * [85.0](./Seared_Conscience_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ To prevent one's conscience from becoming seared, it is important for a believer
  * [90.0](./Seared_Conscience_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Seared_Conscience_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./Seared_Conscience_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Seared_Conscience_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Seared_Conscience_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Seared_Conscience.md)

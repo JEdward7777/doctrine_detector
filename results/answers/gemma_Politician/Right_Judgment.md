@@ -38,7 +38,7 @@ While this passage promotes caution and empathy in judging others, it does not n
 Luke 6:37 reminds us that political correctness involves treating others with respect, understanding their perspectives, and avoiding unnecessary judgments. By practicing humility, empathy, and open-mindedness, we can foster a more inclusive and respectful political discourse.
 
 ## Average Grade
-84.16666666666667
+82.5
 
 ## Grades
  * [85.0](./Right_Judgment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -47,5 +47,7 @@ Luke 6:37 reminds us that political correctness involves treating others with re
  * [90.0](./Right_Judgment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Right_Judgment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Right_Judgment_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Right_Judgment_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Right_Judgment_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Right_Judgment.md)

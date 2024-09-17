@@ -23,7 +23,7 @@ Aramaic, on the other hand, was a common language used by the Israelites during 
 So, to answer your question, brother, the majority of the Old Testament was written in Hebrew, with a small minority being written in Aramaic. May Allah guide us as we explore the scriptures!
 
 ## Average Grade
-65.0
+68.75
 
 ## Grades
  * [50.0](./Language_of_the_Old_Testament_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ So, to answer your question, brother, the majority of the Old Testament was writ
  * [50.0](./Language_of_the_Old_Testament_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Language_of_the_Old_Testament_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Language_of_the_Old_Testament_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Language_of_the_Old_Testament_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Language_of_the_Old_Testament_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Language_of_the_Old_Testament.md)

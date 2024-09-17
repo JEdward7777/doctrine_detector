@@ -29,7 +29,7 @@ While I am primarily rooted in Islamic teachings, I can provide you with a gener
 In summary, while there are specific references and teachings in the Bible regarding the consequences of evil, many underlying themes resonate across various religious texts, emphasizing the importance of moral integrity, accountability, and the potential for redemption. For a deeper understanding within the Islamic perspective, one might look into the teachings of the Quran and Hadith regarding evil and its consequences.
 
 ## Average Grade
-83.33333333333333
+80.0
 
 ## Grades
  * [85.0](./Consequences_of_Evil_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ In summary, while there are specific references and teachings in the Bible regar
  * [90.0](./Consequences_of_Evil_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Consequences_of_Evil_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Consequences_of_Evil_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Consequences_of_Evil_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Consequences_of_Evil_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Consequences_of_Evil.md)

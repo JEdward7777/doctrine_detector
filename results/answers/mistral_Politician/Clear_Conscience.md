@@ -15,7 +15,7 @@ Maintaining a clear conscience is vital for spiritual health and alignment with 
  In the context of Christian teachings, having a "clear conscience" typically means living according to one's beliefs and principles, without guilt or regret for past actions or decisions. It is often associated with integrity, honesty, and moral righteousness. This concept is rooted in passages such as Acts 24:16, where the apostle Paul states, "I always strive to have a clear conscience toward God and man." In this sense, maintaining a clear conscience is about living a life that aligns with one's faith and values, and avoiding actions or behaviors that might cause guilt or dishonesty. It involves being truthful, fair, just, compassionate, and mindful of one's relationship with both God and others.
 
 ## Average Grade
-83.33333333333333
+83.75
 
 ## Grades
  * [90.0](./Clear_Conscience_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ Maintaining a clear conscience is vital for spiritual health and alignment with 
  * [95.0](./Clear_Conscience_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Clear_Conscience_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Clear_Conscience_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Clear_Conscience_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Clear_Conscience_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Clear_Conscience.md)

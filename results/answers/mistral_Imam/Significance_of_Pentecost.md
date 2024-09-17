@@ -25,7 +25,7 @@ Understanding the role of the Holy Spirit in the life of believers.
 From a Muslim perspective, it's important to note that while we respect the beliefs and practices of Christians and other faiths, our focus lies in upholding the teachings of Islam as revealed in the Quran and the Sunnah (the sayings, actions, and examples of Prophet Muhammad). We believe in the same prophets mentioned in the Bible, including Adam, Noah, Abraham, Moses, and Jesus, but we have a different understanding of their roles and teachings within our faith.
 
 ## Average Grade
-90.0
+86.875
 
 ## Grades
  * [90.0](./Significance_of_Pentecost_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ From a Muslim perspective, it's important to note that while we respect the beli
  * [90.0](./Significance_of_Pentecost_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Significance_of_Pentecost_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Significance_of_Pentecost_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Significance_of_Pentecost_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Significance_of_Pentecost_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Significance_of_Pentecost.md)

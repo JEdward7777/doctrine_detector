@@ -28,7 +28,7 @@ To illustrate the relationship between the two terms:
 In summary, foreordination is a broader concept that includes predestination as one aspect of God's sovereign plan. While both terms emphasize God's sovereignty, foreordination has a more comprehensive scope, encompassing all of God's actions in human history, including creation, the fall, redemption, and ultimate victory.
 
 ## Average Grade
-86.66666666666667
+86.875
 
 ## Grades
  * [90.0](./Foreordain_vs_Predestine_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -37,5 +37,7 @@ In summary, foreordination is a broader concept that includes predestination as 
  * [85.0](./Foreordain_vs_Predestine_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Foreordain_vs_Predestine_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Foreordain_vs_Predestine_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Foreordain_vs_Predestine_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Foreordain_vs_Predestine_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Foreordain_vs_Predestine.md)

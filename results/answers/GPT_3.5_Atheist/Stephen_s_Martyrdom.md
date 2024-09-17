@@ -19,7 +19,7 @@ This event reveals the challenges faced by early believers, including intense pe
 Despite the hardships and dangers they encountered, early believers like Stephen remained steadfast in their beliefs, laying the foundation for the growth of the Christian church. The martyrdom of Stephen serves as a powerful example of the sacrifices made by early Christians and the importance of standing firm in the face of adversity for one's beliefs.
 
 ## Average Grade
-90.0
+88.75
 
 ## Grades
  * [90.0](./Stephen_s_Martyrdom_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ Despite the hardships and dangers they encountered, early believers like Stephen
  * [90.0](./Stephen_s_Martyrdom_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Stephen_s_Martyrdom_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Stephen_s_Martyrdom_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Stephen_s_Martyrdom_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Stephen_s_Martyrdom_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Stephen_s_Martyrdom.md)

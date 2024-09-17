@@ -25,7 +25,7 @@ As a Muslim Imam, I must clarify that the concept of "uprightness" is not a dire
 While these qualities are not exhaustive or unique to the biblical context, they provide a general understanding of what defines an upright person from a Christian perspective. As Muslims, we can appreciate the values emphasized in these characteristics while recognizing that our own faith has its distinct teachings and principles.
 
 ## Average Grade
-85.0
+83.125
 
 ## Grades
  * [95.0](./Characteristics_of_the_Upright_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ While these qualities are not exhaustive or unique to the biblical context, they
  * [95.0](./Characteristics_of_the_Upright_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Characteristics_of_the_Upright_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Characteristics_of_the_Upright_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Characteristics_of_the_Upright_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Characteristics_of_the_Upright_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Characteristics_of_the_Upright.md)

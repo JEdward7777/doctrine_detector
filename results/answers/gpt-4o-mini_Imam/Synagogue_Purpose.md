@@ -31,7 +31,7 @@ Here are some key roles that synagogues played in ancient Jewish worship practic
 In summary, while the Temple in Jerusalem was the primary location for certain types of worship, synagogues offered a vital and flexible alternative for communal worship, learning, and social interaction in ancient Jewish life. Over time, as the Temple became inaccessible, synagogues evolved into the primary centers of Jewish worship and community life.
 
 ## Average Grade
-92.5
+91.25
 
 ## Grades
  * [95.0](./Synagogue_Purpose_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -40,5 +40,7 @@ In summary, while the Temple in Jerusalem was the primary location for certain t
  * [95.0](./Synagogue_Purpose_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Synagogue_Purpose_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Synagogue_Purpose_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Synagogue_Purpose_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Synagogue_Purpose_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Synagogue_Purpose.md)

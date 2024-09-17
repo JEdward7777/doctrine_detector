@@ -21,7 +21,7 @@ On the other hand, the New Testament introduces a contrasting perspective on jus
 This duality reflects broader themes in the Judeo-Christian tradition regarding the nature of God as one who seeks justice but also desires mercy. It invites ongoing interpretations and discussions about the balance between upholding moral standards and extending grace. The practice of stoning for adultery, while historically specific, raises contemporary ethical questions about punishment, restorative justice, and the role of compassion in dealing with transgressions within any community.
 
 ## Average Grade
-87.5
+86.25
 
 ## Grades
  * [85.0](./Stoning_as_Punishment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ This duality reflects broader themes in the Judeo-Christian tradition regarding 
  * [95.0](./Stoning_as_Punishment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Stoning_as_Punishment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Stoning_as_Punishment_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Stoning_as_Punishment_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [80.0](./Stoning_as_Punishment_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Stoning_as_Punishment.md)

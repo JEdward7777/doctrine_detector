@@ -25,7 +25,7 @@ In the Bible, prayer is depicted as a means of communication between humans and 
 It is essential to note that these purposes are not exhaustive, and different biblical authors and genres may emphasize distinct aspects of prayer. Additionally, my analysis remains focused on the cultural and historical context of the Bible, rather than advocating for or rejecting the practice of prayer itself.
 
 ## Average Grade
-83.33333333333333
+81.875
 
 ## Grades
  * [90.0](./Purpose_of_Prayer_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ It is essential to note that these purposes are not exhaustive, and different bi
  * [75.0](./Purpose_of_Prayer_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Purpose_of_Prayer_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Purpose_of_Prayer_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Purpose_of_Prayer_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Purpose_of_Prayer_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Purpose_of_Prayer.md)

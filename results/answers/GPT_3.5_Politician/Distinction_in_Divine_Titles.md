@@ -15,7 +15,7 @@ Maintaining clarity in translations prevents misinterpretations concerning God's
 It is important to be respectful and accurate when translating religious texts, as they hold great significance to many people. Using 'Lord LORD' may come across as disrespectful or confusing, as it does not accurately convey the original meaning intended by the term 'Lord Yahweh'. It is essential to use language that is clear and respectful to avoid unintentionally offending anyone's beliefs.
 
 ## Average Grade
-91.66666666666667
+88.75
 
 ## Grades
  * [90.0](./Distinction_in_Divine_Titles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ It is important to be respectful and accurate when translating religious texts, 
  * [95.0](./Distinction_in_Divine_Titles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Distinction_in_Divine_Titles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Distinction_in_Divine_Titles_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Distinction_in_Divine_Titles_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Distinction_in_Divine_Titles_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Distinction_in_Divine_Titles.md)

@@ -27,7 +27,7 @@ The twelve apostles were chosen by Jesus as his closest disciples for several re
 In conclusion, the selection of the twelve apostles demonstrates Jesus' intention to create a diverse, inclusive, and well-rounded group to advance his mission and foster leadership in early Christianity. Their experiences and backgrounds helped shape the foundation of the faith, which continues to resonate with many today.
 
 ## Average Grade
-90.0
+88.75
 
 ## Grades
  * [95.0](./Discipleship_Importance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ In conclusion, the selection of the twelve apostles demonstrates Jesus' intentio
  * [95.0](./Discipleship_Importance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Discipleship_Importance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Discipleship_Importance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Discipleship_Importance_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Discipleship_Importance_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Discipleship_Importance.md)

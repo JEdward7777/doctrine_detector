@@ -35,7 +35,7 @@ This biblical framework emphasizes the importance of responsible governance, acc
 Now, as an atheistic scholar, I must admit that these teachings can be seen as cultural artifacts shaped by ancient societies' experiences with governance. However, the biblical perspective on governance remains influential in Western civilization, shaping our understanding of political authority and civic responsibility.
 
 ## Average Grade
-80.83333333333333
+82.5
 
 ## Grades
  * [85.0](./Authority_in_Governance_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -44,5 +44,7 @@ Now, as an atheistic scholar, I must admit that these teachings can be seen as c
  * [85.0](./Authority_in_Governance_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Authority_in_Governance_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Authority_in_Governance_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Authority_in_Governance_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Authority_in_Governance_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Authority_in_Governance.md)

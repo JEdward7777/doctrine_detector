@@ -19,7 +19,7 @@ In Christian theology, Satan is considered to be a powerful spiritual being who 
 Ultimately, Christians believe that Satan is a defeated foe, as Jesus Christ's death and resurrection have triumphed over sin and death. Followers of Christ are encouraged to resist the devil, knowing that with God's strength and the power of the Holy Spirit, they can overcome all spiritual attacks and temptations (James 4:7).
 
 ## Average Grade
-91.66666666666667
+90.625
 
 ## Grades
  * [90.0](./Understanding_Satan_s_Role_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ Ultimately, Christians believe that Satan is a defeated foe, as Jesus Christ's d
  * [90.0](./Understanding_Satan_s_Role_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Understanding_Satan_s_Role_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Understanding_Satan_s_Role_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Understanding_Satan_s_Role_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Understanding_Satan_s_Role_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Satan_s_Role.md)

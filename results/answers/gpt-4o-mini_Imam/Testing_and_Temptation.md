@@ -41,7 +41,7 @@ In both Islamic and biblical contexts, the concepts of testing and temptation ar
 While both testing and temptation serve as important themes in spiritual life, they occupy distinct roles. Testing is viewed as part of God's divine plan for growth, while temptation is often seen as a challenge to one’s morals and faith. Emphasizing the importance of intention and action, both traditions guide followers to approach life’s challenges with faith and perseverance.
 
 ## Average Grade
-79.16666666666667
+79.375
 
 ## Grades
  * [85.0](./Testing_and_Temptation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -50,5 +50,7 @@ While both testing and temptation serve as important themes in spiritual life, t
  * [80.0](./Testing_and_Temptation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Testing_and_Temptation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Testing_and_Temptation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Testing_and_Temptation_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [75.0](./Testing_and_Temptation_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Testing_and_Temptation.md)

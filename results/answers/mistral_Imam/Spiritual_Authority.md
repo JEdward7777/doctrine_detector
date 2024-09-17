@@ -23,7 +23,7 @@ In the Bible, both types of authorities are acknowledged, but they operate indep
 In Islamic teaching, this distinction is similar but perhaps even more pronounced due to the prophetic nature of the faith. The Prophet Muhammad (peace be upon him) was both a spiritual leader and a political leader during his lifetime, but the two roles were kept separate and distinct, with religious affairs being focused on spiritual guidance and political matters dealing with governance and administration. This model has been followed in Islamic history, where rulers and scholars have traditionally held separate positions to avoid potential conflicts of interest or confusion between spiritual and worldly responsibilities.
 
 ## Average Grade
-80.0
+79.375
 
 ## Grades
  * [90.0](./Spiritual_Authority_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ In Islamic teaching, this distinction is similar but perhaps even more pronounce
  * [85.0](./Spiritual_Authority_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Spiritual_Authority_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Spiritual_Authority_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Spiritual_Authority_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Spiritual_Authority_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Spiritual_Authority.md)

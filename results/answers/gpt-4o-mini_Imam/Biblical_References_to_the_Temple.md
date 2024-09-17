@@ -29,7 +29,7 @@ In the Hebrew Bible, the temple is often referred to as the "house of Yahweh" or
 These references highlight the concept of the temple as a sacred space where God's presence dwells, underscoring its significance in Jewish worship and belief. While these texts originate from the Hebrew Bible, in a Muslim context, we recognize the importance of these themes in relation to the broader context of God's oneness and the sanctity of places of worship.
 
 ## Average Grade
-87.5
+86.875
 
 ## Grades
  * [90.0](./Biblical_References_to_the_Temple_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ These references highlight the concept of the temple as a sacred space where God
  * [90.0](./Biblical_References_to_the_Temple_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Biblical_References_to_the_Temple_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Biblical_References_to_the_Temple_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Biblical_References_to_the_Temple_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Biblical_References_to_the_Temple_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Biblical_References_to_the_Temple.md)

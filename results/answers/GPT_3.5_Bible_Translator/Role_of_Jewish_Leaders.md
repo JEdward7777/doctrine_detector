@@ -19,7 +19,7 @@ The Jewish religious leaders manipulated the political situation during the time
 Ultimately, it was Pilate who ordered the crucifixion of Jesus, but the Jewish religious leaders played a crucial role in bringing about this outcome. It is important to note, however, that not all Jewish people at the time agreed with the actions of the religious leaders, and many of Jesus' followers were themselves Jewish. The crucifixion of Jesus was ultimately part of God's plan for salvation, as Jesus willingly gave up his life to redeem humanity from sin.
 
 ## Average Grade
-85.0
+85.625
 
 ## Grades
  * [85.0](./Role_of_Jewish_Leaders_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ Ultimately, it was Pilate who ordered the crucifixion of Jesus, but the Jewish r
  * [90.0](./Role_of_Jewish_Leaders_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Role_of_Jewish_Leaders_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Role_of_Jewish_Leaders_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Role_of_Jewish_Leaders_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Role_of_Jewish_Leaders_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Role_of_Jewish_Leaders.md)

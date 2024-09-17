@@ -17,7 +17,7 @@ As an atheistic scholar, I do not believe in the existence of a deity or divine 
 It is important to understand that concepts of justice can vary greatly across different cultures and belief systems, and what may be considered just according to one religion may not be the same in another. Ultimately, acting justly according to God's laws is about living in accordance with the values and teachings of a specific religion, with the aim of promoting harmony, righteousness, and moral goodness in society.
 
 ## Average Grade
-70.0
+65.625
 
 ## Grades
  * [60.0](./Understanding_Justice_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -26,5 +26,7 @@ It is important to understand that concepts of justice can vary greatly across d
  * [80.0](./Understanding_Justice_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Justice_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Understanding_Justice_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [75.0](./Understanding_Justice_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [30.0](./Understanding_Justice_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Justice.md)

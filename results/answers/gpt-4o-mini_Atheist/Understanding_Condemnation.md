@@ -21,7 +21,7 @@ In understanding the nature of condemnation as referenced in 1 John 3:20 and Rom
 Together, these passages articulate a complex view of condemnation. In 1 John, it reflects psychological and spiritual dilemmas faced by individuals, while in Romans it points to a theological framework where Adam's sin brought condemnation, offset by the grace provided through Christ. Thus, the Bible suggests a duality: the reality of condemnation felt on a personal level contrasted with the redemptive promise of justification and grace, which invites individuals to rise above their feelings of condemnation through faith. This understanding has been significant in Christian thought, providing both an acknowledgment of human imperfection and an assurance of divine mercy.
 
 ## Average Grade
-91.66666666666667
+90.0
 
 ## Grades
  * [95.0](./Understanding_Condemnation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ Together, these passages articulate a complex view of condemnation. In 1 John, i
  * [95.0](./Understanding_Condemnation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Understanding_Condemnation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Understanding_Condemnation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Condemnation_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Understanding_Condemnation_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Condemnation.md)

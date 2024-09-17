@@ -25,7 +25,7 @@ From an analytical perspective, this narrative can also be seen as a reflection 
 In conclusion, while I do not believe in the literal existence of Satan or Hell, the symbolic and metaphorical significance of these concepts within Christian mythology offers valuable insights into human morality, the struggle between good and evil, and the enduring power of mythological narratives.
 
 ## Average Grade
-59.166666666666664
+61.25
 
 ## Grades
  * [60.0](./Satan_s_Fate_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ In conclusion, while I do not believe in the literal existence of Satan or Hell,
  * [70.0](./Satan_s_Fate_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Satan_s_Fate_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Satan_s_Fate_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Satan_s_Fate_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Satan_s_Fate_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Satan_s_Fate.md)

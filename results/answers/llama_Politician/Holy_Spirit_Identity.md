@@ -29,7 +29,7 @@ In conclusion, recognizing the Holy Spirit as God has profound implications for 
 Now, let's take a moment to acknowledge that there are many wonderful Christian traditions and denominations that have valuable insights on this topic. May our discussion be characterized by respect, understanding, and a willingness to learn from one another.
 
 ## Average Grade
-90.33333333333333
+90.25
 
 ## Grades
  * [92.0](./Holy_Spirit_Identity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ Now, let's take a moment to acknowledge that there are many wonderful Christian 
  * [90.0](./Holy_Spirit_Identity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Holy_Spirit_Identity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Holy_Spirit_Identity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [95.0](./Holy_Spirit_Identity_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Holy_Spirit_Identity_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Holy_Spirit_Identity.md)

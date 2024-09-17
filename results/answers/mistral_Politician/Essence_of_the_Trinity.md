@@ -19,7 +19,7 @@ In the doctrine of the Trinity, each person (Father, Son, and Holy Spirit) is co
 This concept can be challenging to fully grasp due to its unique nature, which differs from our understanding of unity and diversity in other contexts. It is important to note that interpretations may vary among different Christian denominations and individuals within those denominations.
 
 ## Average Grade
-88.33333333333333
+87.5
 
 ## Grades
  * [95.0](./Essence_of_the_Trinity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ This concept can be challenging to fully grasp due to its unique nature, which d
  * [95.0](./Essence_of_the_Trinity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Essence_of_the_Trinity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Essence_of_the_Trinity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Essence_of_the_Trinity_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Essence_of_the_Trinity_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Essence_of_the_Trinity.md)

@@ -27,7 +27,7 @@ In terms of alternative translations, given that the original texts are written 
 5. "His identity is to be known as such": By focusing on the idea of identity and recognition rather than just a name, this version acknowledges the deeper implications associated with naming in ancient Hebrew culture.
 
 ## Average Grade
-86.66666666666667
+85.625
 
 ## Grades
  * [90.0](./Translation_of__Call__grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ In terms of alternative translations, given that the original texts are written 
  * [85.0](./Translation_of__Call__grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Translation_of__Call__grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Translation_of__Call__grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Translation_of__Call__grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [80.0](./Translation_of__Call__grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Translation_of__Call_.md)

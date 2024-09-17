@@ -27,7 +27,7 @@ So, to answer your question, loving others sacrificially as demonstrated by Jesu
 (Consults notes) Now, if you'll excuse me, I need to prepare for an upcoming town hall meeting where I'll be discussing ways to promote greater understanding and unity in our community. (smiling) It's going to be a fantastic opportunity to bring people together and have meaningful conversations!
 
 ## Average Grade
-61.666666666666664
+64.375
 
 ## Grades
  * [70.0](./Sacrificial_Love_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ So, to answer your question, loving others sacrificially as demonstrated by Jesu
  * [65.0](./Sacrificial_Love_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Sacrificial_Love_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Sacrificial_Love_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Sacrificial_Love_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Sacrificial_Love_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Sacrificial_Love.md)

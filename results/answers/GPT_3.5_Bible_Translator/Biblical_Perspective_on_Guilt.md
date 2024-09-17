@@ -19,7 +19,7 @@ In the New Testament, we are reminded that the wages of sin is death (Romans 6:2
 It is important for Christians to recognize the seriousness of sin and guilt, but also to place our faith in Jesus for forgiveness and redemption. Repentance, confession, and turning away from sin are essential steps in experiencing the freedom and restoration that God offers through his grace.
 
 ## Average Grade
-85.83333333333333
+86.25
 
 ## Grades
  * [85.0](./Biblical_Perspective_on_Guilt_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ It is important for Christians to recognize the seriousness of sin and guilt, bu
  * [95.0](./Biblical_Perspective_on_Guilt_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_Perspective_on_Guilt_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Biblical_Perspective_on_Guilt_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Biblical_Perspective_on_Guilt_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Biblical_Perspective_on_Guilt_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Biblical_Perspective_on_Guilt.md)

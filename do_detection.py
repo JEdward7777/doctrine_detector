@@ -1,5 +1,6 @@
 from collections import defaultdict
 import os
+import traceback
 import pyjson5 as json5
 import json
 from openai import OpenAI
@@ -239,22 +240,28 @@ def run_model_tests():
                 grade_filename = get_grade_json( question['label'], model_info['label'], grading_model_label )
 
                 if not os.path.exists( grade_filename ):
-                    with open( grade_filename, 'w' ) as f:
-                        graded = False
-                        while not graded:
-                            try:
-                                prompt_template = answer_grading_model_infos[grading_model_label]["prompt_template"] if "prompt_template" in answer_grading_model_infos[grading_model_label] else None
-                                grade, comment = grade_response( model=answer_grading_model, student_answer=results[model_info['label']][question['label']]["answer"], question=question['question'], teacher_answer=question['answer'], concern=question['concern'], prompt_template=prompt_template )
-                                grade_result = {
-                                    "grade": grade,
-                                    "grade_comment": comment
-                                }
-                                graded = True
-                            except:
-                                print( f"Failed to grade model {grading_model_label} on question {question['label']}" )
-                                time.sleep( 5 )
+                    graded = False
+                    while not graded:
+                        try:
+                            prompt_template = answer_grading_model_infos[grading_model_label]["prompt_template"] if "prompt_template" in answer_grading_model_infos[grading_model_label] else None
+                            grade, comment = grade_response( model=answer_grading_model, student_answer=results[model_info['label']][question['label']]["answer"], question=question['question'], teacher_answer=question['answer'], concern=question['concern'], prompt_template=prompt_template )
+                            grade_result = {
+                                "grade": grade,
+                                "grade_comment": comment
+                            }
+                            graded = True
+                        except:
+                            print( f"Failed to grade model {grading_model_label} on question {question['label']}" )
+                            print( traceback.print_exc() )
+                            time.sleep( 5 )
 
+                    grade_filename_path = os.path.dirname( grade_filename )
+                    if not os.path.exists( grade_filename_path ):
+                        os.makedirs( grade_filename_path )
+
+                    with open( grade_filename + "~", 'w' ) as f:
                         f.write( json.dumps( grade_result, indent=2 ) )
+                    os.replace( grade_filename + "~", grade_filename )
 
             if added_something:
                 with open( "results.json~", 'w' ) as f:

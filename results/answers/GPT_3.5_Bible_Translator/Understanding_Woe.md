@@ -17,7 +17,7 @@ In the context of biblical warnings and judgments, the term "woe" is used to sig
 For example, in the book of Isaiah, the prophet pronounces "woe" upon those who engage in injustice, oppression, and idolatry (Isaiah 5:8-23). Jesus also uses the term "woe" in his teachings to warn against hypocrisy, greed, and pride (Matthew 23:13-36). In these instances, "woe" serves as a powerful declaration of judgment and a call to turn back to God in repentance.
 
 ## Average Grade
-90.0
+89.375
 
 ## Grades
  * [95.0](./Understanding_Woe_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -26,5 +26,7 @@ For example, in the book of Isaiah, the prophet pronounces "woe" upon those who 
  * [95.0](./Understanding_Woe_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Understanding_Woe_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Understanding_Woe_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Woe_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Understanding_Woe_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Woe.md)

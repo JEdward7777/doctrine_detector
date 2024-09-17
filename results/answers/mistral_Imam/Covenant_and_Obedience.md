@@ -25,7 +25,7 @@ This passage highlights the importance of obedience to God's messengers and laws
 Thus, in Islamic understanding, obedience to Allah's laws was not only a means of guidance for the Israelites but also a testament to their faith and a pathway towards spiritual and worldly success. The story serves as a reminder for Muslims about the importance of adhering to God's commands and seeking His pleasure in all aspects of life.
 
 ## Average Grade
-78.33333333333333
+71.25
 
 ## Grades
  * [85.0](./Covenant_and_Obedience_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ Thus, in Islamic understanding, obedience to Allah's laws was not only a means o
  * [85.0](./Covenant_and_Obedience_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Covenant_and_Obedience_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Covenant_and_Obedience_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Covenant_and_Obedience_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [20.0](./Covenant_and_Obedience_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Covenant_and_Obedience.md)

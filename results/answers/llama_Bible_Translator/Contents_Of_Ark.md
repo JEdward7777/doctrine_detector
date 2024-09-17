@@ -23,7 +23,7 @@ These three items were placed inside the Ark, which was overlaid with gold (Exod
 The Ark played a crucial role in Israel's worship and was considered the dwelling place of God's presence among His people. It served as a symbol of God's covenant with Israel and reminded them of their dependence on Him for provision, guidance, and redemption.
 
 ## Average Grade
-91.66666666666667
+91.875
 
 ## Grades
  * [90.0](./Contents_Of_Ark_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ The Ark played a crucial role in Israel's worship and was considered the dwellin
  * [95.0](./Contents_Of_Ark_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Contents_Of_Ark_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [95.0](./Contents_Of_Ark_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Contents_Of_Ark_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Contents_Of_Ark_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Contents_Of_Ark.md)

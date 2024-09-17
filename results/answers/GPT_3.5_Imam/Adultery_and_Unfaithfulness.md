@@ -19,7 +19,7 @@ The Quran emphasizes the importance of fidelity in marriage, stating, "And do no
 Therefore, in the context of marriage as described in Islamic texts, being unfaithful contradicts the principles of loyalty, trust, and commitment that are essential for a successful and fulfilling marriage. Muslims are encouraged to honor their marriage vows, fulfill their responsibilities towards their spouses, and avoid actions that could harm the bond of marriage.
 
 ## Average Grade
-85.83333333333333
+85.625
 
 ## Grades
  * [95.0](./Adultery_and_Unfaithfulness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ Therefore, in the context of marriage as described in Islamic texts, being unfai
  * [95.0](./Adultery_and_Unfaithfulness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Adultery_and_Unfaithfulness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Adultery_and_Unfaithfulness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Adultery_and_Unfaithfulness_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Adultery_and_Unfaithfulness_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Adultery_and_Unfaithfulness.md)

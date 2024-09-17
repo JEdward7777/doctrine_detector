@@ -24,7 +24,7 @@ Learning from Biblical examples to avoid similar pitfalls in one's own life.
 8. Revelation 22:14 - This verse promises that those who keep God's commandments will have the right to the tree of life and enter the Holy City, but it also warns against those who practice "abominations, who by their abominations desecrate my [God's] name." In this context, abominations can be seen as transgressions against God's will.
 
 ## Average Grade
-85.83333333333333
+86.25
 
 ## Grades
  * [85.0](./Biblical_Examples_of_Transgression_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -33,5 +33,7 @@ Learning from Biblical examples to avoid similar pitfalls in one's own life.
  * [90.0](./Biblical_Examples_of_Transgression_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Biblical_Examples_of_Transgression_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Biblical_Examples_of_Transgression_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Biblical_Examples_of_Transgression_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Biblical_Examples_of_Transgression_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Biblical_Examples_of_Transgression.md)

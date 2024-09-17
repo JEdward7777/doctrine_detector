@@ -15,7 +15,7 @@ Understanding the concept of redemption and its implications for salvation.
 In Christianity, the concept of Jesus being referred to as a ransom is understood as a metaphorical representation of His sacrificial death on the cross to redeem humanity from sin. This term highlights the belief that through His death and resurrection, Jesus paid the price for humanity's sins, offering forgiveness and salvation to all who believe in Him. It is important to recognize that different Christian denominations may interpret this concept in slightly different ways, but the overall message is one of grace, redemption, and love.
 
 ## Average Grade
-91.66666666666667
+88.75
 
 ## Grades
  * [95.0](./Ransom_Meaning_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ In Christianity, the concept of Jesus being referred to as a ransom is understoo
  * [95.0](./Ransom_Meaning_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Ransom_Meaning_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Ransom_Meaning_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Ransom_Meaning_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [75.0](./Ransom_Meaning_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Ransom_Meaning.md)

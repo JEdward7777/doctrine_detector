@@ -21,7 +21,7 @@ However, from an Islamic perspective, the rejection of Jesus by the Jewish leade
 Overall, while the rejection of Jesus by the Jewish religious leaders has theological significance in Christianity, it does not change the Islamic understanding of Jesus as a prophet of God who was sent to guide humanity towards righteousness and devotion to the one true God.
 
 ## Average Grade
-74.16666666666667
+72.5
 
 ## Grades
  * [80.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ Overall, while the rejection of Jesus by the Jewish religious leaders has theolo
  * [85.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Rejection_of_Jesus_by_Jewish_Leaders.md)

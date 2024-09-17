@@ -23,7 +23,7 @@ Now, I know some folks might say that we should only focus on evangelism and con
 So, my fellow Americans, let's work together to build bridges of understanding and compassion, using our unique gifts and talents to make a positive impact on the world around us. And remember, we should always approach these efforts with humility, kindness, and an open heart – just like Jesus did when He walked among us.
 
 ## Average Grade
-90.0
+86.25
 
 ## Grades
  * [90.0](./Service_to_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ So, my fellow Americans, let's work together to build bridges of understanding a
  * [95.0](./Service_to_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Service_to_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Service_to_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Service_to_God_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [65.0](./Service_to_God_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Service_to_God.md)

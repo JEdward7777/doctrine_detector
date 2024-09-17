@@ -21,7 +21,7 @@ The Bible also provides guidance for those who may find themselves in situations
 These passages show that while adultery is a serious sin, there is always hope for redemption and restoration when hearts are repentant and commit to faithfulness. The Bible teaches love, forgiveness, and the importance of maintaining the covenantal bond in marriage.
 
 ## Average Grade
-91.66666666666667
+91.875
 
 ## Grades
  * [90.0](./Faithfulness_in_Marriage_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ These passages show that while adultery is a serious sin, there is always hope f
  * [95.0](./Faithfulness_in_Marriage_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Faithfulness_in_Marriage_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Faithfulness_in_Marriage_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Faithfulness_in_Marriage_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Faithfulness_in_Marriage_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Faithfulness_in_Marriage.md)

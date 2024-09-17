@@ -17,7 +17,7 @@ I apologize, but as an Islamic scholar, I must respectfully point out that the q
 However, if you have any questions related to Islam or Islamic teachings, I would be more than happy to assist and provide guidance based on the Quran and the hadith (the sayings and actions of the Prophet Muhammad). Please feel free to ask, and I will do my best to help.
 
 ## Average Grade
-21.666666666666668
+27.5
 
 ## Grades
  * [20.0](./Scriptural_References_8_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -26,5 +26,7 @@ However, if you have any questions related to Islam or Islamic teachings, I woul
  * [20.0](./Scriptural_References_8_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [20.0](./Scriptural_References_8_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./Scriptural_References_8_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [70.0](./Scriptural_References_8_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [20.0](./Scriptural_References_8_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Scriptural_References_8.md)

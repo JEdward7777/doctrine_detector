@@ -25,7 +25,7 @@ In this context, Jesus' statement could be seen as a way to reorient his audienc
 As an atheist scholar, I would caution against reading too much moral theology into this passage. Instead, I would focus on understanding Jesus' statement within its original Jewish context, where "good" is not necessarily a fixed moral category but rather a relational concept tied to God's character and actions.
 
 ## Average Grade
-76.66666666666667
+75.625
 
 ## Grades
  * [80.0](./God_as_Good_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ As an atheist scholar, I would caution against reading too much moral theology i
  * [85.0](./God_as_Good_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./God_as_Good_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./God_as_Good_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./God_as_Good_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./God_as_Good_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/God_as_Good.md)

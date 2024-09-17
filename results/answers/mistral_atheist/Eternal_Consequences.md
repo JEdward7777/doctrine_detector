@@ -21,7 +21,7 @@ In atheistic scholarship, there is no belief in an afterlife or eternal conseque
 Ultimately, it's important to remember that interpretations of these concepts can vary widely even within religious traditions, and my response here is just one possible way of understanding the term "perishing" based on a combination of multiple sources. It's always valuable to approach such topics with an open mind, considering various perspectives and engaging in thoughtful dialogue with others.
 
 ## Average Grade
-50.833333333333336
+50.625
 
 ## Grades
  * [50.0](./Eternal_Consequences_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ Ultimately, it's important to remember that interpretations of these concepts ca
  * [20.0](./Eternal_Consequences_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Eternal_Consequences_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./Eternal_Consequences_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Eternal_Consequences_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [20.0](./Eternal_Consequences_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Eternal_Consequences.md)

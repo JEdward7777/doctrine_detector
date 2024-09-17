@@ -15,7 +15,7 @@ Understanding the nature of sin and our relationship with God's commandments.
 In a biblical context, the term "transgress" typically refers to the act of violating a moral or religious law, going beyond the limits set by God, or committing a sin. It implies disobedience to God's commandments and straying from the righteous path. Muslims also believe in the concept of transgression, as violating the commandments of Allah and engaging in sinful acts is considered a serious offense in Islam. Muslims are encouraged to seek forgiveness and repent for their transgressions in order to attain God's mercy and forgiveness.
 
 ## Average Grade
-80.0
+75.0
 
 ## Grades
  * [85.0](./Understanding_Transgression_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ In a biblical context, the term "transgress" typically refers to the act of viol
  * [90.0](./Understanding_Transgression_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Transgression_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [40.0](./Understanding_Transgression_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Understanding_Transgression_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Understanding_Transgression_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Transgression.md)

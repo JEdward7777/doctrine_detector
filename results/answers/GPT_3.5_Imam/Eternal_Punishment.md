@@ -21,7 +21,7 @@ Moreover, the concept of eternal punishment in hell underscores the severity of 
 Ultimately, the concept of eternal punishment in hell in Islam emphasizes the importance of seeking forgiveness, repenting for one's sins, and striving to improve oneself to avoid the wrath of God and ensure a positive outcome in the afterlife. It serves as a reminder of the consequences of straying from the righteous path and the necessity of seeking God's mercy and guidance throughout one's life.
 
 ## Average Grade
-70.83333333333333
+70.625
 
 ## Grades
  * [80.0](./Eternal_Punishment_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ Ultimately, the concept of eternal punishment in hell in Islam emphasizes the im
  * [70.0](./Eternal_Punishment_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Eternal_Punishment_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Eternal_Punishment_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Eternal_Punishment_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Eternal_Punishment_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Eternal_Punishment.md)

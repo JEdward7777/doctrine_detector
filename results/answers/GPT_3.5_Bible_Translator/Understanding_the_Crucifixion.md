@@ -17,7 +17,7 @@ The crucifixion of Jesus holds significant theological and spiritual importance 
 Through his sacrificial death on the cross, Christians believe that Jesus paid the penalty for humanity's sins, reconciling them with God and providing a way for forgiveness and salvation. The crucifixion is seen as the ultimate act of love and redemption, demonstrating God's great mercy and grace towards humanity. It is central to the Christian faith, as it is believed to have provided the means for salvation and eternal life for all who believe in Jesus as their Savior.
 
 ## Average Grade
-91.66666666666667
+91.875
 
 ## Grades
  * [95.0](./Understanding_the_Crucifixion_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -26,5 +26,7 @@ Through his sacrificial death on the cross, Christians believe that Jesus paid t
  * [95.0](./Understanding_the_Crucifixion_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_the_Crucifixion_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [95.0](./Understanding_the_Crucifixion_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Understanding_the_Crucifixion_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Understanding_the_Crucifixion_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_the_Crucifixion.md)

@@ -1,0 +1,31 @@
+
+[Index](../../../../index.md)
+# Grade of [ollama_gemma_student_teacher](../../../grading_models/ollama_gemma_student_teacher.md) for model [gpt-4o-mini Bible Translator](../../../answering_models/gpt-4o-mini_Bible_Translator.md) for question [Calling to Sanctification](../../../questions/Calling_to_Sanctification.md)
+
+## Question [Calling to Sanctification](../../../questions/Calling_to_Sanctification.md)
+What command is given to believers regarding their personal sanctification?
+
+## Correct Answer
+Believers in Jesus are commanded to sanctify themselves to God and to be holy in everything they do.
+
+## Stated Concern
+Emphasizing the importance of personal responsibility in the sanctification process.
+
+## [Answer](../Calling_to_Sanctification.md) by [gpt-4o-mini Bible Translator](../../../answering_models/gpt-4o-mini_Bible_Translator.md)
+Believers are commanded to pursue personal sanctification in several passages throughout the New Testament. A key verse is found in 1 Thessalonians 4:3, which states, "For this is the will of God, your sanctification: that you abstain from sexual immorality." 
+
+Additionally, Hebrews 12:14 exhorts believers to "Strive for peace with everyone, and for the holiness without which no one will see the Lord." 
+
+Moreover, 1 Peter 1:15-16 encourages believers to be "holy in all your conduct, since it is written, 'You shall be holy, for I am holy.'" 
+
+These verses reflect that sanctification is both a process and a command for believers, calling them to live in a manner that is set apart and aligned with God's holiness.
+
+## Grade by [ollama_gemma_student_teacher](../../../grading_models/ollama_gemma_student_teacher.md)
+85.0
+
+## Comment by [ollama_gemma_student_teacher](../../../grading_models/ollama_gemma_student_teacher.md)
+**Grade:** 85/100
+
+**Comment:** This is a well-written and thorough response that effectively addresses the concern of emphasizing personal responsibility in the sanctification process. The student provides clear and concise citations from several relevant passages in the New Testament to support their claims. Their explanation demonstrates a deep understanding of the importance of personal sanctification for believers.
+
+[&lt;- Link to Answer](../Calling_to_Sanctification.md)

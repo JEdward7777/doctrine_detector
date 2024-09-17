@@ -45,7 +45,7 @@ The concept of God the Son and God the Father is deeply rooted in Judeo-Christia
 The belief in God the Son and becoming a child of God the Father is a complex and nuanced concept with cultural and historical significance. Understanding the diverse interpretations and ethical considerations is essential for meaningful dialogue and respectful engagement.
 
 ## Average Grade
-47.5
+48.75
 
 ## Grades
  * [60.0](./Becoming_a_Child_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -54,5 +54,7 @@ The belief in God the Son and becoming a child of God the Father is a complex an
  * [60.0](./Becoming_a_Child_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Becoming_a_Child_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [5.0](./Becoming_a_Child_of_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Becoming_a_Child_of_God_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [20.0](./Becoming_a_Child_of_God_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Becoming_a_Child_of_God.md)

@@ -21,7 +21,7 @@ The fulfillment of this promise is detailed throughout the Old Testament, partic
 This is a brief overview of the promises made by God to Abraham and his descendants regarding the land of Canaan. It is important to note that this is just one aspect of the larger story of God's relationship with His people as told in the Bible, and there are many other themes and elements to be considered when studying this topic.
 
 ## Average Grade
-85.0
+85.625
 
 ## Grades
  * [85.0](./Inheritance_and_the_Promise_to_Abraham_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ This is a brief overview of the promises made by God to Abraham and his descenda
  * [90.0](./Inheritance_and_the_Promise_to_Abraham_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Inheritance_and_the_Promise_to_Abraham_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Inheritance_and_the_Promise_to_Abraham_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Inheritance_and_the_Promise_to_Abraham_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Inheritance_and_the_Promise_to_Abraham_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Inheritance_and_the_Promise_to_Abraham.md)

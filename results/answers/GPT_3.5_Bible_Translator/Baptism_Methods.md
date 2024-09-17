@@ -31,7 +31,7 @@ Interpretations of these different methods of baptism vary among Christian tradi
 Overall, while there are different methods of baptism mentioned in the Bible and practiced within various Christian contexts, the most important aspect is the spiritual significance and understanding behind the act of baptism as a symbol of cleansing, rebirth, and incorporation into the body of Christ.
 
 ## Average Grade
-90.0
+88.125
 
 ## Grades
  * [95.0](./Baptism_Methods_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -40,5 +40,7 @@ Overall, while there are different methods of baptism mentioned in the Bible and
  * [95.0](./Baptism_Methods_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Baptism_Methods_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Baptism_Methods_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Baptism_Methods_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [80.0](./Baptism_Methods_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Baptism_Methods.md)

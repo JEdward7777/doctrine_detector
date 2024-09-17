@@ -29,7 +29,7 @@ The story of Philip and the Ethiopian eunuch is found in Acts 8:26-40 (NIV). Thi
 In conclusion, the encounter between Philip and the Ethiopian eunuch is significant in the context of the early church because it demonstrates the evangelistic outreach, religious diversity, proper interpretation of scripture, universal nature, and sacraments of Christianity during its formative years. These lessons continue to be relevant for Christians today as they strive to spread the Gospel message and build strong communities based on love, understanding, and respect for all people.
 
 ## Average Grade
-86.66666666666667
+83.75
 
 ## Grades
  * [85.0](./Ethiopian_Eunuch_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ In conclusion, the encounter between Philip and the Ethiopian eunuch is signific
  * [85.0](./Ethiopian_Eunuch_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Ethiopian_Eunuch_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Ethiopian_Eunuch_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Ethiopian_Eunuch_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [65.0](./Ethiopian_Eunuch_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Ethiopian_Eunuch.md)

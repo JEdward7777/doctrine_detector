@@ -15,7 +15,7 @@ Understanding the historical and spiritual significance of the division of the I
 After King Solomon's reign, a significant event in Israel's history was the division of the united kingdom. Following Solomon's death around 931 BCE, the kingdom was split into two separate kingdoms: the northern kingdom of Israel and the southern kingdom of Judah. This division occurred due to a combination of political and social factors, including discontent with heavy taxation and forced labor policies implemented during Solomon's rule. The split marked a pivotal moment in ancient Israelite history, leading to different paths for the two kingdoms, particularly in terms of governance, culture, and religious practices.
 
 ## Average Grade
-72.5
+76.25
 
 ## Grades
  * [70.0](./Division_of_Israel_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ After King Solomon's reign, a significant event in Israel's history was the divi
  * [80.0](./Division_of_Israel_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Division_of_Israel_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Division_of_Israel_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Division_of_Israel_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Division_of_Israel_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Division_of_Israel.md)

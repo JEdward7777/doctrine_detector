@@ -21,7 +21,7 @@ Notable examples of this concept can be found in the Old Testament, such as God'
 In Christian theology, Jesus Christ is also often seen as the embodiment of covenant faithfulness, fulfilling the divine promises made in the Old Testament and establishing a new covenant (New Covenant) through his life, death, and resurrection (Matthew 26:28, Hebrews 9:15-20). This new covenant calls Christians to be faithful disciples who emulate Christ's love and obedience in their relationships with God and others.
 
 ## Average Grade
-88.33333333333333
+89.125
 
 ## Grades
  * [90.0](./Covenant_Faithfulness_Defined_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ In Christian theology, Jesus Christ is also often seen as the embodiment of cove
  * [85.0](./Covenant_Faithfulness_Defined_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Covenant_Faithfulness_Defined_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Covenant_Faithfulness_Defined_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Covenant_Faithfulness_Defined_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [93.0](./Covenant_Faithfulness_Defined_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Covenant_Faithfulness_Defined.md)

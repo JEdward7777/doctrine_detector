@@ -15,7 +15,7 @@ Identifying relevant biblical texts that provide insight into Christian practice
  The New Testament scripture that connects the concept of unleavened bread to Christian teachings can be found in 1 Corinthians 5:7-8. In this passage, the Apostle Paul compares Christ to unleavened bread during the Passover, stating that "Christ, our Passover lamb, has been sacrificed." This is a reference to the Jewish tradition of eating unleavened bread during the Passover festival, which symbolizes the haste with which the Israelites prepared to leave Egypt, using unleavened bread so that there was no time for their dough to rise. In Christian teachings, this symbolizes Christ's sacrifice and the removal of sin from believers' lives.
 
 ## Average Grade
-85.83333333333333
+86.25
 
 ## Grades
  * [90.0](./Biblical_References_5_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ Identifying relevant biblical texts that provide insight into Christian practice
  * [90.0](./Biblical_References_5_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Biblical_References_5_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Biblical_References_5_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Biblical_References_5_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Biblical_References_5_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Biblical_References_5.md)

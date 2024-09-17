@@ -19,7 +19,7 @@ However, from an atheistic perspective, the idea of a "house of God" is viewed a
 The concept of a "house of God" can also be interpreted more broadly to encompass any place or community where individuals come together to contemplate the mysteries of life, seek moral guidance, and find a sense of belonging and connection with others. In this sense, the term transcends religious boundaries and can encompass a wide range of human experiences and aspirations.
 
 ## Average Grade
-64.16666666666667
+66.875
 
 ## Grades
  * [50.0](./Understanding_the_House_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ The concept of a "house of God" can also be interpreted more broadly to encompas
  * [70.0](./Understanding_the_House_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_the_House_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./Understanding_the_House_of_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_the_House_of_God_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [65.0](./Understanding_the_House_of_God_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_the_House_of_God.md)

@@ -33,7 +33,7 @@ It’s important to note that the concept of ritual cleanliness in the Old Testa
 These adaptations reflect a spirit of seeking cleanliness and purity in a modern Christian context while acknowledging the historical significance of ritual cleanliness as articulated in the Old Testament. As with all practices, intentions should be rooted in faith and a desire to adhere to the ethical and moral tenets of Christianity.
 
 ## Average Grade
-92.0
+89.0
 
 ## Grades
  * [90.0](./Cleansing_Practices_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -42,5 +42,7 @@ These adaptations reflect a spirit of seeking cleanliness and purity in a modern
  * [90.0](./Cleansing_Practices_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Cleansing_Practices_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [92.0](./Cleansing_Practices_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Cleansing_Practices_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [75.0](./Cleansing_Practices_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Cleansing_Practices.md)

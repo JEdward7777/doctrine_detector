@@ -21,7 +21,7 @@ Additionally, Jesus Christ's role as a prophet who brought guidance and revealed
 Overall, Jesus Christ can be viewed as a cornerstone in the Assembly of believers due to his teachings of love and compassion, as well as his role as a prophet who brought guidance from God to humanity. Muslims hold Jesus Christ in high regard and seek to embody his virtues in their interactions with others and in their worship practices.
 
 ## Average Grade
-76.66666666666667
+72.5
 
 ## Grades
  * [70.0](./Understanding_the_Cornerstone_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ Overall, Jesus Christ can be viewed as a cornerstone in the Assembly of believer
  * [80.0](./Understanding_the_Cornerstone_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_the_Cornerstone_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Understanding_the_Cornerstone_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Understanding_the_Cornerstone_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Understanding_the_Cornerstone_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_the_Cornerstone.md)

@@ -27,7 +27,7 @@ The concept of the Day of Judgment is present in both the Bible and the Qur'an, 
 These passages reflect similar themes found in Islamic teachings about the Day of Judgment (Yawm al-Qiyamah), highlighting accountability, the weighing of deeds, and the eternal consequences that follow. In both religious traditions, the Day of Judgment serves as a powerful reminder of the moral and ethical responsibilities incumbent upon individuals.
 
 ## Average Grade
-79.16666666666667
+75.0
 
 ## Grades
  * [90.0](./Scriptural_References_2_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ These passages reflect similar themes found in Islamic teachings about the Day o
  * [80.0](./Scriptural_References_2_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Scriptural_References_2_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Scriptural_References_2_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Scriptural_References_2_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Scriptural_References_2_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Scriptural_References_2.md)

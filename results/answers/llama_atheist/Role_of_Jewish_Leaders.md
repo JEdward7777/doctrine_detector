@@ -27,7 +27,7 @@ It's crucial to recognize that many Jewish leaders did not conspire against Jesu
 In conclusion, while it's impossible to pinpoint a single reason for the crucifixion of Jesus, the Jewish religious leaders' influence was undoubtedly significant. Their concerns about Jesus' claims, authority, and potential threat to their power contributed to his demise. However, it's essential to remember that the crucifixion was a complex event involving human factors like politics, social dynamics, and theological disputes, as well as divine providence or the lack thereof (depending on one's perspective).
 
 ## Average Grade
-66.66666666666667
+63.125
 
 ## Grades
  * [85.0](./Role_of_Jewish_Leaders_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ In conclusion, while it's impossible to pinpoint a single reason for the crucifi
  * [50.0](./Role_of_Jewish_Leaders_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Role_of_Jewish_Leaders_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Role_of_Jewish_Leaders_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Role_of_Jewish_Leaders_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [20.0](./Role_of_Jewish_Leaders_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Role_of_Jewish_Leaders.md)

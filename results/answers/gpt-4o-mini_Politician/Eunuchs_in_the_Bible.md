@@ -21,7 +21,7 @@ In this context, the passage highlights the value of celibacy as a legitimate an
 The broader message from this teaching emphasizes the importance of individual choice and the variety of ways people can contribute to their communities and spiritual lives, whether through marriage, celibacy, or otherwise. It encourages respect for the diverse paths that individuals may take in their personal and spiritual journeys.
 
 ## Average Grade
-85.83333333333333
+85.375
 
 ## Grades
  * [90.0](./Eunuchs_in_the_Bible_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ The broader message from this teaching emphasizes the importance of individual c
  * [90.0](./Eunuchs_in_the_Bible_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Eunuchs_in_the_Bible_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Eunuchs_in_the_Bible_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Eunuchs_in_the_Bible_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [83.0](./Eunuchs_in_the_Bible_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Eunuchs_in_the_Bible.md)

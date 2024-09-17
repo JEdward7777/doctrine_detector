@@ -19,7 +19,7 @@ Additionally, in Acts 16:31, it says, "Believe in the Lord Jesus, and you will b
 It is important to note that true faith in Jesus Christ will result in a change of heart and a desire to follow and obey Him. This includes repentance of sin, confessing Jesus as Lord, and striving to live a life that reflects His teachings and commandments. But ultimately, salvation is a free gift from God that is received by faith in Jesus Christ.
 
 ## Average Grade
-90.0
+90.625
 
 ## Grades
  * [90.0](./Requirements_for_Salvation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ It is important to note that true faith in Jesus Christ will result in a change 
  * [95.0](./Requirements_for_Salvation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Requirements_for_Salvation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Requirements_for_Salvation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Requirements_for_Salvation_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Requirements_for_Salvation_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Requirements_for_Salvation.md)

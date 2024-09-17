@@ -15,7 +15,7 @@ People may struggle with making decisions that honor God or may feel uncertain a
 Seeking God's will in our everyday decisions involves being open to guidance and wisdom from a higher power, and considering how our actions align with our values and beliefs. It can involve prayer, reflection, and seeking advice from spiritual leaders or mentors. It's important to approach this topic with respect for different beliefs and worldviews, and to be sensitive to the diverse ways individuals may interpret and practice seeking God's will.
 
 ## Average Grade
-75.0
+76.25
 
 ## Grades
  * [80.0](./Understanding_God_s_Will_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ Seeking God's will in our everyday decisions involves being open to guidance and
  * [60.0](./Understanding_God_s_Will_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_God_s_Will_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Understanding_God_s_Will_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_God_s_Will_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [75.0](./Understanding_God_s_Will_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_God_s_Will.md)

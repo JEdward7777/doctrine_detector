@@ -15,7 +15,7 @@ Understanding the role of apostleship in the context of the Great Commission.
 From a politically correct perspective, it's important to acknowledge that the significance of the apostles in spreading the gospel is a religious belief and their role should be respected within that context. While their significance is meaningful to those who hold that faith, it's not appropriate to make claims or assumptions about their significance from a non-religious or politically correct standpoint.
 
 ## Average Grade
-80.83333333333333
+75.625
 
 ## Grades
  * [90.0](./Apostleship_Understanding_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ From a politically correct perspective, it's important to acknowledge that the s
  * [90.0](./Apostleship_Understanding_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Apostleship_Understanding_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Apostleship_Understanding_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [70.0](./Apostleship_Understanding_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Apostleship_Understanding_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Apostleship_Understanding.md)

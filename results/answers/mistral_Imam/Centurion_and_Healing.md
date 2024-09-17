@@ -23,7 +23,7 @@ Lastly, the Centurion's faith was not based on personal experiences or sight but
 In conclusion, the interaction between the Centurion and Jesus showcases an exemplary model of faith characterized by humility, recognition of divine authority, trust in what we do not see, and submission to God's will. These principles remain relevant for Muslims today as we strive to grow our iman (faith) and deepen our relationship with Allah.
 
 ## Average Grade
-80.83333333333333
+78.75
 
 ## Grades
  * [90.0](./Centurion_and_Healing_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ In conclusion, the interaction between the Centurion and Jesus showcases an exem
  * [85.0](./Centurion_and_Healing_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Centurion_and_Healing_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Centurion_and_Healing_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Centurion_and_Healing_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Centurion_and_Healing_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Centurion_and_Healing.md)

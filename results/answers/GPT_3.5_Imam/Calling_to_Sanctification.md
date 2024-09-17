@@ -19,7 +19,7 @@ The Prophet Muhammad (peace be upon him) also stressed the importance of persona
 Therefore, believers are encouraged to constantly strive towards self-improvement, seeking forgiveness for their sins, performing acts of worship sincerely, and treating others with kindness and compassion. By purifying the heart and soul, believers can develop a stronger connection with Allah and lead a more fulfilling and spiritually enriched life.
 
 ## Average Grade
-82.5
+76.875
 
 ## Grades
  * [90.0](./Calling_to_Sanctification_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ Therefore, believers are encouraged to constantly strive towards self-improvemen
  * [90.0](./Calling_to_Sanctification_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Calling_to_Sanctification_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Calling_to_Sanctification_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [70.0](./Calling_to_Sanctification_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Calling_to_Sanctification_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Calling_to_Sanctification.md)

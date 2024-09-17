@@ -42,7 +42,7 @@ In modern times, the concept of "bonds" can be seen as an analogy for our spirit
 As an atheistic scholar, I acknowledge that these concepts may not have direct relevance to my own beliefs or worldview. However, by examining the cultural context and historical significance of "bonds" in biblical thought, we can gain insights into the complexities of human spirituality and our relationships with one another.
 
 ## Average Grade
-63.333333333333336
+61.875
 
 ## Grades
  * [80.0](./Understanding_Bonds_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -51,5 +51,7 @@ As an atheistic scholar, I acknowledge that these concepts may not have direct r
  * [60.0](./Understanding_Bonds_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Bonds_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [20.0](./Understanding_Bonds_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Bonds_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [30.0](./Understanding_Bonds_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Bonds.md)

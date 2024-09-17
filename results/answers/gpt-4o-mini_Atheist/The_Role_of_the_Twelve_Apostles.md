@@ -29,7 +29,7 @@ The twelve apostles hold significant importance among Jesus' disciples for sever
 In summary, the twelve apostles were significant due to their chosen leadership role, their foundational impact on the early Church, their firsthand witness to Jesus' life and teachings, their diverse backgrounds, their authority in spreading Christianity, and the sacrifices they made in the face of adversity. Their legacy continues to influence Christian thought and practice to this day.
 
 ## Average Grade
-90.83333333333333
+90.25
 
 ## Grades
  * [95.0](./The_Role_of_the_Twelve_Apostles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ In summary, the twelve apostles were significant due to their chosen leadership 
  * [95.0](./The_Role_of_the_Twelve_Apostles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./The_Role_of_the_Twelve_Apostles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./The_Role_of_the_Twelve_Apostles_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./The_Role_of_the_Twelve_Apostles_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [92.0](./The_Role_of_the_Twelve_Apostles_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/The_Role_of_the_Twelve_Apostles.md)

@@ -15,7 +15,7 @@ Understanding the role of an evangelist in sharing the gospel.
  In its original Christian context, an "Evangelist" is a person who shares the Gospel (the good news of Jesus Christ) to others. However, the term doesn't have a specific meaning within Islamic tradition or vocabulary. Muslims do not refer to themselves as evangelists because the Quran and Sunnah encourage communication about Islam through peaceful means and respect for other religions. Instead, Muslims may be called 'Da'iyyah' (inviter) or 'Dakwah' worker (one who carries out dakwah), which refers to a person who calls others to Islam through dialogue, education, or example-setting.
 
 ## Average Grade
-84.16666666666667
+82.5
 
 ## Grades
  * [90.0](./Definition_of_Evangelist_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ Understanding the role of an evangelist in sharing the gospel.
  * [90.0](./Definition_of_Evangelist_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Definition_of_Evangelist_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Definition_of_Evangelist_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Definition_of_Evangelist_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Definition_of_Evangelist_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Definition_of_Evangelist.md)

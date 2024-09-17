@@ -31,7 +31,7 @@ In this context, if we were to imagine Peter addressing the crowd, he might have
 In this scenario, Peter's address would focus on the consequences of their actions, acknowledging that their attempts to defend Jesus ultimately contributed to his downfall. This perspective encourages self-reflection and growth, rather than seeking to blame or justify their actions.
 
 ## Average Grade
-59.166666666666664
+62.5
 
 ## Grades
  * [60.0](./Response_to_the_Crucifixion_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -40,5 +40,7 @@ In this scenario, Peter's address would focus on the consequences of their actio
  * [70.0](./Response_to_the_Crucifixion_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Response_to_the_Crucifixion_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [30.0](./Response_to_the_Crucifixion_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Response_to_the_Crucifixion_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Response_to_the_Crucifixion_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Response_to_the_Crucifixion.md)

@@ -21,7 +21,7 @@ In the New Testament, Jesus' crucifixion is depicted as a fulfillment of these s
 It's essential to recognize that this understanding of Jesus' sacrifice is deeply rooted in religious and cultural beliefs that may not align with contemporary scientific or secular worldviews. As an atheistic scholar, I do not hold the belief in a deity that requires propitiation; however, I acknowledge the significance of this concept within the context of early Christianity and its role in shaping Western religious thought and culture.
 
 ## Average Grade
-84.16666666666667
+80.625
 
 ## Grades
  * [90.0](./Understanding_Propitiation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ It's essential to recognize that this understanding of Jesus' sacrifice is deepl
  * [85.0](./Understanding_Propitiation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_Propitiation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Understanding_Propitiation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_Propitiation_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [55.0](./Understanding_Propitiation_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_Propitiation.md)

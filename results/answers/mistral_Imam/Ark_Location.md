@@ -15,7 +15,7 @@ Understanding the significance of the most holy place and the presence of God.
  In Islamic tradition, there is no mention of the Ark of the Covenant, as it is a Jewish artifact mentioned in the Hebrew Bible but not in the Quran or Hadiths. The Tabernacle, or Mishkan in Hebrew, is also not present in Islamic teachings. Muslims believe in the books revealed to prophets such as Moses (Musa), but interpretations and details beyond these core texts are considered speculative and open to various interpretations among scholars. Thus, the specific location of the Ark of the Covenant within the Tabernacle is not a topic that falls under Islamic scholarship.
 
 ## Average Grade
-60.0
+61.25
 
 ## Grades
  * [90.0](./Ark_Location_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ Understanding the significance of the most holy place and the presence of God.
  * [80.0](./Ark_Location_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Ark_Location_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [10.0](./Ark_Location_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Ark_Location_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Ark_Location_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Ark_Location.md)

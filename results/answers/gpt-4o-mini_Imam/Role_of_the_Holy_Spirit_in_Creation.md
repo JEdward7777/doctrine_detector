@@ -21,7 +21,7 @@ The significance of the Holy Spirit, or the divine spirit as might be related in
 In summary, while the specific term "Holy Spirit" is not utilized in Islam, the concept of divine spirit aligns with the understanding of Allah's omnipotence and His role in the creation of the universe. Allah is the sole creator, and His spirit, in the sense of divine presence and command, is integral to understanding the process of creation.
 
 ## Average Grade
-58.333333333333336
+59.375
 
 ## Grades
  * [30.0](./Role_of_the_Holy_Spirit_in_Creation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ In summary, while the specific term "Holy Spirit" is not utilized in Islam, the 
  * [70.0](./Role_of_the_Holy_Spirit_in_Creation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [70.0](./Role_of_the_Holy_Spirit_in_Creation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Role_of_the_Holy_Spirit_in_Creation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Role_of_the_Holy_Spirit_in_Creation_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Role_of_the_Holy_Spirit_in_Creation_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Role_of_the_Holy_Spirit_in_Creation.md)

@@ -35,7 +35,7 @@ The concept of ransom is integral to the theological understanding of redemption
 Through these verses, the concept of ransom enriches the understanding of redemption in Christian theology as it portrays the sacrificial love of Jesus, the costliness of sin, and the hope of reconciliation with God. Ransom embodies the profound truth that redemption was achieved through Christ’s willing sacrifice, providing believers assurance of their salvation and freedom from sin.
 
 ## Average Grade
-87.5
+88.75
 
 ## Grades
  * [85.0](./Biblical_References_8_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -44,5 +44,7 @@ Through these verses, the concept of ransom enriches the understanding of redemp
  * [90.0](./Biblical_References_8_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_References_8_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Biblical_References_8_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Biblical_References_8_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./Biblical_References_8_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Biblical_References_8.md)

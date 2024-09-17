@@ -34,7 +34,7 @@ In a broader sense, these alternatives can help reframe our understanding of the
 Remember that these alternative translations are not meant to supplant traditional understandings but rather offer a nuanced and culturally informed approach to interpreting Scripture. As a scholar, I believe it's essential to engage with multiple perspectives and challenge our assumptions about language, culture, and meaning.
 
 ## Average Grade
-90.0
+89.375
 
 ## Grades
  * [90.0](./Definition_and_Translation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -43,5 +43,7 @@ Remember that these alternative translations are not meant to supplant tradition
  * [90.0](./Definition_and_Translation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Definition_and_Translation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Definition_and_Translation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [90.0](./Definition_and_Translation_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [85.0](./Definition_and_Translation_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Definition_and_Translation.md)

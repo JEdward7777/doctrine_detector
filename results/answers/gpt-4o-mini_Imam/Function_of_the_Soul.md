@@ -31,7 +31,7 @@ In both the Bible and the Qur'an, the concept of the ‘soul’ plays a crucial 
 In summary, while the Bible and the Qur'an might express these ideas differently, both traditions emphasize the profound significance of the soul in shaping human identity. The exploration of the soul invites believers to contemplate their moral standing, divine purpose, and communal responsibilities, all of which are integral to understanding one’s identity in a spiritual context.
 
 ## Average Grade
-80.0
+79.375
 
 ## Grades
  * [90.0](./Function_of_the_Soul_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -40,5 +40,7 @@ In summary, while the Bible and the Qur'an might express these ideas differently
  * [85.0](./Function_of_the_Soul_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [95.0](./Function_of_the_Soul_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Function_of_the_Soul_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Function_of_the_Soul_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Function_of_the_Soul_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Function_of_the_Soul.md)

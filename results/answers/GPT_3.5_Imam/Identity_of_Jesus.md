@@ -19,7 +19,7 @@ Jesus' purpose, according to Islamic belief, was to call people to worship and o
 Ultimately, Jesus' purpose aligns with the broader message of all prophets in Islam, which is to call people to worship Allah sincerely and to live righteous lives in accordance with His guidance. Muslims hold Jesus in high regard and believe in his miraculous birth to the Virgin Mary, as mentioned in the Quran. However, it is important to note that Islam differs from Christianity in its understanding of Jesus as a prophet and messenger rather than the literal son of God or part of a Trinity.
 
 ## Average Grade
-45.0
+51.25
 
 ## Grades
  * [60.0](./Identity_of_Jesus_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -28,5 +28,7 @@ Ultimately, Jesus' purpose aligns with the broader message of all prophets in Is
  * [50.0](./Identity_of_Jesus_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [20.0](./Identity_of_Jesus_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Identity_of_Jesus_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Identity_of_Jesus_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Identity_of_Jesus_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Identity_of_Jesus.md)

@@ -29,7 +29,7 @@ As we transition to the New Testament, the concept of cleansing takes on a deepe
 In summary, the biblical concept of cleansing is intimately connected to the teachings of the New Testament regarding sin and redemption. It encompasses both a one-time act of justification (being declared righteous before God through faith in Christ) and an ongoing process of sanctification (growing in holiness). This theme underscores the importance of Jesus' sacrificial work and the transformative power of faith in the life of a believer.
 
 ## Average Grade
-94.5
+94.625
 
 ## Grades
  * [95.0](./The_Role_of_Cleansing_in_Christianity_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ In summary, the biblical concept of cleansing is intimately connected to the tea
  * [95.0](./The_Role_of_Cleansing_in_Christianity_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [92.0](./The_Role_of_Cleansing_in_Christianity_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [95.0](./The_Role_of_Cleansing_in_Christianity_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [95.0](./The_Role_of_Cleansing_in_Christianity_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [95.0](./The_Role_of_Cleansing_in_Christianity_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/The_Role_of_Cleansing_in_Christianity.md)

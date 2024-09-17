@@ -39,7 +39,7 @@ Significance: This miracle emphasizes Jesus' prophetic authority and his ability
 It's essential to note that the Quran does not provide a comprehensive list of miracles performed by Jesus. Instead, it highlights specific events that demonstrate his prophetic status and divine connection. As a Muslim, I must emphasize that we believe in Jesus as one of the greatest prophets sent by Allah (God), but we do not subscribe to the idea of divinity or deification of any human being, including Jesus.
 
 ## Average Grade
-49.166666666666664
+53.125
 
 ## Grades
  * [40.0](./Examples_of_Jesus__Miracles_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -48,5 +48,7 @@ It's essential to note that the Quran does not provide a comprehensive list of m
  * [40.0](./Examples_of_Jesus__Miracles_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Examples_of_Jesus__Miracles_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Examples_of_Jesus__Miracles_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Examples_of_Jesus__Miracles_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Examples_of_Jesus__Miracles_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Examples_of_Jesus__Miracles.md)

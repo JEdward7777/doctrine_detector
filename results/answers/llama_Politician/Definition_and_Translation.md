@@ -27,7 +27,7 @@ It's essential to recognize that these alternative translations may vary dependi
 Now, if you'll excuse me, I'd like to take a moment to acknowledge the diversity of perspectives within our community. I firmly believe that by embracing these alternative translations, we can foster greater unity and understanding among our constituents. Thank you for your patience, and let's work together towards a more inclusive and compassionate society!
 
 ## Average Grade
-79.16666666666667
+78.75
 
 ## Grades
  * [60.0](./Definition_and_Translation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -36,5 +36,7 @@ Now, if you'll excuse me, I'd like to take a moment to acknowledge the diversity
  * [85.0](./Definition_and_Translation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Definition_and_Translation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Definition_and_Translation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [95.0](./Definition_and_Translation_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Definition_and_Translation_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Definition_and_Translation.md)

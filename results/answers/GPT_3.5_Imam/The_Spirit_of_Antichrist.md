@@ -21,7 +21,7 @@ This passage emphasizes the importance of discerning true teachings from false o
 In summary, while the concept of the Antichrist may be more elaborately discussed in Islamic theology, the notion of opposing forces to faith and truth is a common theme across various religious traditions. It is essential for believers to remain steadfast in their faith, seek knowledge, and discern truth from falsehood.
 
 ## Average Grade
-77.5
+76.25
 
 ## Grades
  * [85.0](./The_Spirit_of_Antichrist_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ In summary, while the concept of the Antichrist may be more elaborately discusse
  * [85.0](./The_Spirit_of_Antichrist_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./The_Spirit_of_Antichrist_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./The_Spirit_of_Antichrist_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./The_Spirit_of_Antichrist_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./The_Spirit_of_Antichrist_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/The_Spirit_of_Antichrist.md)

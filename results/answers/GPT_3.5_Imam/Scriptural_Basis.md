@@ -25,7 +25,7 @@ Within the Christian context, some verses that are often referenced to support t
 It is important to note that these verses are interpreted and understood within the Christian theological framework and may not hold the same significance or meaning in the Islamic tradition. In Islam, the concept of atonement is different, and forgiveness of sins is primarily sought through sincere repentance, seeking forgiveness from Allah, and performing good deeds.
 
 ## Average Grade
-85.83333333333333
+83.125
 
 ## Grades
  * [90.0](./Scriptural_Basis_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -34,5 +34,7 @@ It is important to note that these verses are interpreted and understood within 
  * [85.0](./Scriptural_Basis_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Scriptural_Basis_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [80.0](./Scriptural_Basis_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [80.0](./Scriptural_Basis_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Scriptural_Basis_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Scriptural_Basis.md)

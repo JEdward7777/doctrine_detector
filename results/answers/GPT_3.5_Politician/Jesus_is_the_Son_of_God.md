@@ -15,7 +15,7 @@ While minimizing offense is important, it is also important to ensure that the t
 In the Islamic faith, it is important to respect the beliefs of all individuals. In a Muslim context, one could express the concept of Jesus being the Son of God by recognizing him as a prophet and a messenger of Allah. It is important to acknowledge the differences in religious beliefs while maintaining mutual respect and understanding.
 
 ## Average Grade
-56.666666666666664
+58.125
 
 ## Grades
  * [60.0](./Jesus_is_the_Son_of_God_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ In the Islamic faith, it is important to respect the beliefs of all individuals.
  * [40.0](./Jesus_is_the_Son_of_God_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [40.0](./Jesus_is_the_Son_of_God_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [70.0](./Jesus_is_the_Son_of_God_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Jesus_is_the_Son_of_God_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [40.0](./Jesus_is_the_Son_of_God_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Jesus_is_the_Son_of_God.md)

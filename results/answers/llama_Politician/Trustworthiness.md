@@ -29,7 +29,7 @@ To demonstrate trustworthiness in our actions according to Biblical principles, 
 By embracing these principles, we can cultivate a reputation for trustworthiness that reflects positively on ourselves, our communities, and our faith. Remember, it's essential to approach this topic with sensitivity and inclusivity, recognizing that everyone has unique experiences and perspectives.
 
 ## Average Grade
-87.5
+85.0
 
 ## Grades
  * [90.0](./Trustworthiness_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ By embracing these principles, we can cultivate a reputation for trustworthiness
  * [90.0](./Trustworthiness_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [90.0](./Trustworthiness_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [75.0](./Trustworthiness_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Trustworthiness_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [70.0](./Trustworthiness_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Trustworthiness.md)

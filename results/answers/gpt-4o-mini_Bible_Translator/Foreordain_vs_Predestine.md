@@ -21,7 +21,7 @@ In Christian theology, the terms 'foreordain' and 'predestine' are closely relat
 In summary, while both terms indicate God's sovereign action in determining the course of history and individuals' destinies, 'foreordain' can refer more broadly to God's eternal plan, while 'predestine' is more specifically concerned with the salvation of individuals. Different Christian traditions interpret these concepts variably, with some emphasizing God's sovereignty (as seen in Calvinism) and others emphasizing human free will (as in Arminianism).
 
 ## Average Grade
-90.0
+89.375
 
 ## Grades
  * [90.0](./Foreordain_vs_Predestine_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ In summary, while both terms indicate God's sovereign action in determining the 
  * [95.0](./Foreordain_vs_Predestine_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [80.0](./Foreordain_vs_Predestine_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [90.0](./Foreordain_vs_Predestine_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Foreordain_vs_Predestine_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [90.0](./Foreordain_vs_Predestine_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Foreordain_vs_Predestine.md)

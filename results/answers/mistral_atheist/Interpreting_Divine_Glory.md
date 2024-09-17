@@ -23,7 +23,7 @@ In more philosophical terms, some might argue that understanding divine glory in
 However, it is essential to remember that interpretations of divine glory and worship vary widely across different cultures, religious traditions, and philosophical schools of thought. This complexity highlights the importance of respecting diverse perspectives in discussions about spiritual matters.
 
 ## Average Grade
-76.66666666666667
+75.625
 
 ## Grades
  * [80.0](./Interpreting_Divine_Glory_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -32,5 +32,7 @@ However, it is essential to remember that interpretations of divine glory and wo
  * [75.0](./Interpreting_Divine_Glory_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Interpreting_Divine_Glory_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Interpreting_Divine_Glory_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Interpreting_Divine_Glory_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Interpreting_Divine_Glory_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Interpreting_Divine_Glory.md)

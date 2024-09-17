@@ -21,7 +21,7 @@ It's also important to note that various Christian denominations and traditions 
 Ultimately, the Book of Revelation is a rich tapestry of symbolism and prophecy, and its meaning can be subject to various interpretations. As we navigate these complex issues, let us strive for tolerance, understanding, and inclusivity.
 
 ## Average Grade
-65.83333333333333
+66.25
 
 ## Grades
  * [70.0](./Ultimate_Antichrist_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ Ultimately, the Book of Revelation is a rich tapestry of symbolism and prophecy,
  * [60.0](./Ultimate_Antichrist_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Ultimate_Antichrist_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Ultimate_Antichrist_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Ultimate_Antichrist_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [50.0](./Ultimate_Antichrist_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Ultimate_Antichrist.md)

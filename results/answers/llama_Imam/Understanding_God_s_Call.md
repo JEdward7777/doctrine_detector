@@ -31,7 +31,7 @@ From an Islamic perspective, while we do not believe in the concept of "names" a
 In conclusion, while there may be differences in how these concepts are understood across religious traditions, the notion that God has a deep understanding of His creation is a common thread throughout many faiths. As Muslims, we acknowledge Allah's profound knowledge and wisdom, recognizing that He guides us toward our individual purposes and paths.
 
 ## Average Grade
-76.66666666666667
+76.25
 
 ## Grades
  * [80.0](./Understanding_God_s_Call_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -40,5 +40,7 @@ In conclusion, while there may be differences in how these concepts are understo
  * [80.0](./Understanding_God_s_Call_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Understanding_God_s_Call_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [50.0](./Understanding_God_s_Call_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Understanding_God_s_Call_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [65.0](./Understanding_God_s_Call_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Understanding_God_s_Call.md)

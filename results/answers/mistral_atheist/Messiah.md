@@ -21,7 +21,7 @@ In Islam, the prophet Isa (Jesus) is not expected to be a savior in the same way
 In essence, the Messiah represents a figure who brings hope, salvation, or redemption in some way. However, the specific characteristics and roles of this figure can vary greatly depending on cultural context and religious beliefs. It is crucial to approach these interpretations with sensitivity and respect for the unique perspectives each tradition holds.
 
 ## Average Grade
-84.16666666666667
+83.125
 
 ## Grades
  * [90.0](./Messiah_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ In essence, the Messiah represents a figure who brings hope, salvation, or redem
  * [90.0](./Messiah_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Messiah_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [60.0](./Messiah_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Messiah_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [75.0](./Messiah_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Messiah.md)

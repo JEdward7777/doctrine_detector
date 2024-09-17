@@ -29,7 +29,7 @@ The term "woe" appears throughout the Bible, often as a prophetic warning of imp
 These examples demonstrate that in biblical contexts, "woe" is often used as a prophetic warning of impending divine retribution or judgment. It highlights the consequences of rejecting God's message, ignoring His warnings, or prioritizing one's own interests over serving others.
 
 ## Average Grade
-81.66666666666667
+79.375
 
 ## Grades
  * [90.0](./Biblical_Usage_of_Woe_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -38,5 +38,7 @@ These examples demonstrate that in biblical contexts, "woe" is often used as a p
  * [95.0](./Biblical_Usage_of_Woe_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Biblical_Usage_of_Woe_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [45.0](./Biblical_Usage_of_Woe_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Biblical_Usage_of_Woe_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [60.0](./Biblical_Usage_of_Woe_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Biblical_Usage_of_Woe.md)

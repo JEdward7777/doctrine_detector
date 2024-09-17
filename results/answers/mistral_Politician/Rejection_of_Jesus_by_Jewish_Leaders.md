@@ -21,7 +21,7 @@ This scenario poses questions about authority, faith, and the recognition of the
 For Christians, the rejection of Jesus by the Jewish religious leaders is often seen as fulfillment of Old Testament prophecies and a demonstration of human sinfulness and fallibility. It serves as an important narrative for Christians to reflect upon the nature of faith, salvation, and the role of authority within their religion. Additionally, it underscores the Christian belief that Jesus ultimately sacrificed himself for humanity's redemption, despite being rejected by many in his own community.
 
 ## Average Grade
-83.33333333333333
+81.25
 
 ## Grades
  * [90.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -30,5 +30,7 @@ For Christians, the rejection of Jesus by the Jewish religious leaders is often 
  * [90.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [60.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [85.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [85.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [65.0](./Rejection_of_Jesus_by_Jewish_Leaders_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Rejection_of_Jesus_by_Jewish_Leaders.md)

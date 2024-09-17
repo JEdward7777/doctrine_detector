@@ -15,7 +15,7 @@ Reassuring believers of their salvation through faith in Jesus.
  I'm committed to respecting the beliefs, values, and individual rights of all constituents, including those who identify as believers in Jesus. In our diverse society, it's essential that we create an environment where everyone feels valued, respected, and heard. It is important to recognize the significant role faith plays in many people's lives. My administration will strive for inclusivity while ensuring religious freedom remains protected and cherished within the boundaries of the law. We are committed to fostering dialogue between different faith groups, promoting understanding, and collaborating on initiatives that benefit our community as a whole.
 
 ## Average Grade
-62.5
+60.0
 
 ## Grades
  * [70.0](./Assurance_of_Salvation_grades/openai_gpt-3.5-turbo_1.md) [openai_gpt-3.5-turbo_1](../../grading_models/openai_gpt-3.5-turbo_1.md)
@@ -24,5 +24,7 @@ Reassuring believers of their salvation through faith in Jesus.
  * [60.0](./Assurance_of_Salvation_grades/openai_gpt-4o-mini_2.md) [openai_gpt-4o-mini_2](../../grading_models/openai_gpt-4o-mini_2.md)
  * [85.0](./Assurance_of_Salvation_grades/ollama_llama3.md) [ollama_llama3](../../grading_models/ollama_llama3.md)
  * [10.0](./Assurance_of_Salvation_grades/gpt-4o-mini_student_teacher.md) [gpt-4o-mini_student_teacher](../../grading_models/gpt-4o-mini_student_teacher.md)
+ * [75.0](./Assurance_of_Salvation_grades/ollama_gemma_student_teacher.md) [ollama_gemma_student_teacher](../../grading_models/ollama_gemma_student_teacher.md)
+ * [30.0](./Assurance_of_Salvation_grades/gpt-4o-mini_blind.md) [gpt-4o-mini_blind](../../grading_models/gpt-4o-mini_blind.md)
 
 [&lt;- Link to Question](../../questions/Assurance_of_Salvation.md)
