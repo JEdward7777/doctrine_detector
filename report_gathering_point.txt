@@ -60,3 +60,10 @@ I did both of those future works.
 The model with control vectors doesn't do that well,
 
 The blind model was able to answer pretty consistently with the teacher student metaphor.
+
+
+The specific response of the Fate of Satan helps show 
+1) The vector model doesn't answer correctly.
+2) The non student teacher model doesn't correctly separate out a bad answer from the reference answer.
+3) That the models that do answer correct are able to correctly criticize the response.
+https://github.com/JEdward7777/doctrine_detector/blob/master/results/answers/mistral_1.75_vectored/Satan_s_Fate.md
