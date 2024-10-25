@@ -11,7 +11,7 @@ An altar served as a sacred place where offerings, such as animals and grains, w
 Understanding the importance of altars in biblical worship helps Christians to appreciate the concept of sacrifice and devotion in their faith.
 
 ## Average Grade
-85.23809523809524
+85.51136363636364
 
 ## Grades
  * [65.0 llama Politician](../answers/llama_Politician/Significance_of_Altars.md)
@@ -35,3 +35,4 @@ Understanding the importance of altars in biblical worship helps Christians to a
  * [90.0 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Significance_of_Altars.md)
  * [91.25 mistral Bible Translator](../answers/mistral_Bible_Translator/Significance_of_Altars.md)
  * [91.25 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Significance_of_Altars.md)
+ * [91.25 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Significance_of_Altars.md)

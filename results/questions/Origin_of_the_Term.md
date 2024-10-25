@@ -11,7 +11,7 @@ Jesus' followers were first called 'Christians' in the city of Antioch.
 Recognizing historical context and significance of the term 'Christian'.
 
 ## Average Grade
-84.31547619047619
+84.6590909090909
 
 ## Grades
  * [57.5 mistral 1.75 vectored](../answers/mistral_1.75_vectored/Origin_of_the_Term.md)
@@ -32,6 +32,7 @@ Recognizing historical context and significance of the term 'Christian'.
  * [89.375 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Origin_of_the_Term.md)
  * [90.625 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Origin_of_the_Term.md)
  * [91.25 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Origin_of_the_Term.md)
+ * [91.875 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Origin_of_the_Term.md)
  * [92.5 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Origin_of_the_Term.md)
  * [93.75 mistral Bible Translator](../answers/mistral_Bible_Translator/Origin_of_the_Term.md)
  * [93.75 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Origin_of_the_Term.md)

@@ -11,7 +11,7 @@ The apostle Paul established the Lord’s Supper as a regular practice for belie
 Recognizing the importance of the Lord’s Supper in the life of the church and individual believers.
 
 ## Average Grade
-75.05357142857143
+75.85795454545455
 
 ## Grades
  * [34.375 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Regular_Practice.md)
@@ -34,4 +34,5 @@ Recognizing the importance of the Lord’s Supper in the life of the church and 
  * [91.125 llama Bible Translator](../answers/llama_Bible_Translator/Regular_Practice.md)
  * [91.25 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Regular_Practice.md)
  * [92.5 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Regular_Practice.md)
+ * [92.75 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Regular_Practice.md)
  * [93.75 mistral Bible Translator](../answers/mistral_Bible_Translator/Regular_Practice.md)

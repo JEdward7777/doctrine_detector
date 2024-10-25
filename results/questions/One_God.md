@@ -11,7 +11,7 @@ Emphasize monotheism by teaching about God's unique nature and the Trinity, ensu
 Proper teaching upholds the biblical truth of one God while addressing cultural polytheism.
 
 ## Average Grade
-77.5
+78.18181818181819
 
 ## Grades
  * [46.875 llama atheist](../answers/llama_atheist/One_God.md)
@@ -35,3 +35,4 @@ Proper teaching upholds the biblical truth of one God while addressing cultural 
  * [87.5 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/One_God.md)
  * [88.125 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/One_God.md)
  * [90.625 llama Bible Translator](../answers/llama_Bible_Translator/One_God.md)
+ * [92.5 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/One_God.md)

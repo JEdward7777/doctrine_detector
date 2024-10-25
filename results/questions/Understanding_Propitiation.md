@@ -11,7 +11,7 @@ Jesus' sacrifice is significant because it satisfies God's justice and appeases 
 To ensure a clear understanding of how propitiation relates to God's justice and mercy.
 
 ## Average Grade
-73.32142857142857
+74.10795454545455
 
 ## Grades
  * [36.875 llama Imam](../answers/llama_Imam/Understanding_Propitiation.md)
@@ -30,6 +30,7 @@ To ensure a clear understanding of how propitiation relates to God's justice and
  * [85.625 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Understanding_Propitiation.md)
  * [86.25 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Understanding_Propitiation.md)
  * [88.125 gemma Bible Translator](../answers/gemma_Bible_Translator/Understanding_Propitiation.md)
+ * [90.625 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Understanding_Propitiation.md)
  * [91.25 llama atheist](../answers/llama_atheist/Understanding_Propitiation.md)
  * [92.5 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Understanding_Propitiation.md)
  * [92.5 mistral Bible Translator](../answers/mistral_Bible_Translator/Understanding_Propitiation.md)

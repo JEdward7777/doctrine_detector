@@ -11,7 +11,7 @@ The Bible presents the human spirit as the non-physical part of a person that ca
 Clarity on the distinction between personal spiritual identity and malevolent spiritual influences.
 
 ## Average Grade
-80.96428571428571
+81.375
 
 ## Grades
  * [58.125 mistral 1.75 vectored](../answers/mistral_1.75_vectored/Understanding_the_Spirit.md)
@@ -34,4 +34,5 @@ Clarity on the distinction between personal spiritual identity and malevolent sp
  * [87.5 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Understanding_the_Spirit.md)
  * [89.375 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Understanding_the_Spirit.md)
  * [90.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Understanding_the_Spirit.md)
+ * [90.0 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Understanding_the_Spirit.md)
  * [92.875 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Understanding_the_Spirit.md)

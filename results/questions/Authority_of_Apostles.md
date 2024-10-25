@@ -11,7 +11,7 @@ The apostles were empowered by God to boldly preach the gospel, heal people, and
 Exploring the divine empowerment and authority bestowed upon the apostles for ministry.
 
 ## Average Grade
-79.80357142857143
+80.4090909090909
 
 ## Grades
  * [45.0 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Authority_of_Apostles.md)
@@ -34,4 +34,5 @@ Exploring the divine empowerment and authority bestowed upon the apostles for mi
  * [91.875 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Authority_of_Apostles.md)
  * [92.5 mistral Bible Translator](../answers/mistral_Bible_Translator/Authority_of_Apostles.md)
  * [92.5 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Authority_of_Apostles.md)
+ * [93.125 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Authority_of_Apostles.md)
  * [94.0 llama Bible Translator](../answers/llama_Bible_Translator/Authority_of_Apostles.md)

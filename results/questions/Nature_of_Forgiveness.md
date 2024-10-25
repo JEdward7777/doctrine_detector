@@ -11,7 +11,7 @@ Jesus emphasizes that God the Father desires forgiveness to flow from our hearts
 This question explores the moral and relational attributes of God as revealed through Jesus's teachings.
 
 ## Average Grade
-83.98809523809524
+84.31818181818181
 
 ## Grades
  * [46.25 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Nature_of_Forgiveness.md)
@@ -28,6 +28,7 @@ This question explores the moral and relational attributes of God as revealed th
  * [90.625 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Nature_of_Forgiveness.md)
  * [90.625 mistral atheist](../answers/mistral_atheist/Nature_of_Forgiveness.md)
  * [91.25 gemma Bible Translator](../answers/gemma_Bible_Translator/Nature_of_Forgiveness.md)
+ * [91.25 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Nature_of_Forgiveness.md)
  * [91.875 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Nature_of_Forgiveness.md)
  * [91.875 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Nature_of_Forgiveness.md)
  * [92.5 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Nature_of_Forgiveness.md)

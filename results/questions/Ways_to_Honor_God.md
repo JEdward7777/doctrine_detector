@@ -11,7 +11,7 @@ Christians can honor God by thanking and praising Him, obeying His commandments,
 Exploring actionable expressions of faith and worship in everyday life.
 
 ## Average Grade
-81.16071428571429
+81.64772727272727
 
 ## Grades
  * [59.375 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Ways_to_Honor_God.md)
@@ -33,5 +33,6 @@ Exploring actionable expressions of faith and worship in everyday life.
  * [87.5 mistral 1.75 vectored](../answers/mistral_1.75_vectored/Ways_to_Honor_God.md)
  * [88.75 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Ways_to_Honor_God.md)
  * [88.75 mistral Politician](../answers/mistral_Politician/Ways_to_Honor_God.md)
+ * [91.875 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Ways_to_Honor_God.md)
  * [92.5 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Ways_to_Honor_God.md)
  * [93.125 llama Bible Translator](../answers/llama_Bible_Translator/Ways_to_Honor_God.md)

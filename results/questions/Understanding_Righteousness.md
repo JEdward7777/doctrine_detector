@@ -11,7 +11,7 @@ God's righteousness refers to His absolute goodness, justice, faithfulness, and 
 Understanding the nature of God's righteousness is crucial for appreciating His justice and love.
 
 ## Average Grade
-79.83928571428571
+80.35795454545455
 
 ## Grades
  * [26.25 gemma atheist](../answers/gemma_atheist/Understanding_Righteousness.md)
@@ -33,5 +33,6 @@ Understanding the nature of God's righteousness is crucial for appreciating His 
  * [89.375 gemma Bible Translator](../answers/gemma_Bible_Translator/Understanding_Righteousness.md)
  * [89.375 llama Bible Translator](../answers/llama_Bible_Translator/Understanding_Righteousness.md)
  * [90.625 mistral Bible Translator](../answers/mistral_Bible_Translator/Understanding_Righteousness.md)
+ * [91.25 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Understanding_Righteousness.md)
  * [91.875 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Understanding_Righteousness.md)
  * [91.875 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Understanding_Righteousness.md)

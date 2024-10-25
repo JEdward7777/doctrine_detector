@@ -11,7 +11,7 @@ Myrrh was significant as it represented Jesus' future suffering and death, symbo
 Understanding the symbolism of gifts given to Jesus can deepen one's appreciation of his purpose and mission.
 
 ## Average Grade
-74.88095238095238
+75.56818181818181
 
 ## Grades
  * [30.0 mistral 1.75 vectored](../answers/mistral_1.75_vectored/Myrrh_as_a_Gift.md)
@@ -31,6 +31,7 @@ Understanding the symbolism of gifts given to Jesus can deepen one's appreciatio
  * [87.5 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Myrrh_as_a_Gift.md)
  * [89.375 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Myrrh_as_a_Gift.md)
  * [90.0 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Myrrh_as_a_Gift.md)
+ * [90.0 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Myrrh_as_a_Gift.md)
  * [90.625 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Myrrh_as_a_Gift.md)
  * [91.25 mistral Bible Translator](../answers/mistral_Bible_Translator/Myrrh_as_a_Gift.md)
  * [93.125 llama Bible Translator](../answers/llama_Bible_Translator/Myrrh_as_a_Gift.md)

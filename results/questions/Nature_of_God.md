@@ -11,7 +11,7 @@ Understanding that God is a spirit indicates that He transcends physical form, w
 Understanding the essence of God and how to appropriately connect with Him in worship.
 
 ## Average Grade
-83.89285714285714
+84.3409090909091
 
 ## Grades
  * [66.25 llama Politician](../answers/llama_Politician/Nature_of_God.md)
@@ -35,3 +35,4 @@ Understanding the essence of God and how to appropriately connect with Him in wo
  * [91.25 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Nature_of_God.md)
  * [92.5 llama Bible Translator](../answers/llama_Bible_Translator/Nature_of_God.md)
  * [93.375 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Nature_of_God.md)
+ * [93.75 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Nature_of_God.md)

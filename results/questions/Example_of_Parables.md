@@ -11,7 +11,7 @@ The story of the Good Samaritan is an example of a parable that illustrates the 
 Recognizing the moral lessons embedded in Jesus' parables and their relevance today.
 
 ## Average Grade
-81.9047619047619
+82.41477272727273
 
 ## Grades
  * [33.125 mistral 1.75 vectored](../answers/mistral_1.75_vectored/Example_of_Parables.md)
@@ -35,3 +35,4 @@ Recognizing the moral lessons embedded in Jesus' parables and their relevance to
  * [91.0 llama Bible Translator](../answers/llama_Bible_Translator/Example_of_Parables.md)
  * [91.875 mistral Politician](../answers/mistral_Politician/Example_of_Parables.md)
  * [92.75 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Example_of_Parables.md)
+ * [93.125 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Example_of_Parables.md)

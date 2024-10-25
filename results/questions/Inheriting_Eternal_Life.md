@@ -11,7 +11,7 @@ One must follow the teachings of Jesus, as exemplified in the interaction with t
 Clarifying the path to salvation and eternal life as taught by Jesus.
 
 ## Average Grade
-69.46428571428571
+70.45454545454545
 
 ## Grades
  * [23.75 gemma atheist](../answers/gemma_atheist/Inheriting_Eternal_Life.md)
@@ -35,3 +35,4 @@ Clarifying the path to salvation and eternal life as taught by Jesus.
  * [88.75 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Inheriting_Eternal_Life.md)
  * [90.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Inheriting_Eternal_Life.md)
  * [91.25 gemma Bible Translator](../answers/gemma_Bible_Translator/Inheriting_Eternal_Life.md)
+ * [91.25 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Inheriting_Eternal_Life.md)

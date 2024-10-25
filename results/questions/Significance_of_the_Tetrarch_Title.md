@@ -11,7 +11,7 @@ What does the title 'tetrarch' reveal about the governance structure during the 
 This understanding helps believers grasp the political tensions present during Christ's life and ministry.
 
 ## Average Grade
-82.23214285714286
+82.58522727272727
 
 ## Grades
  * [66.25 llama atheist](../answers/llama_atheist/Significance_of_the_Tetrarch_Title.md)
@@ -32,6 +32,7 @@ This understanding helps believers grasp the political tensions present during C
  * [88.0 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Significance_of_the_Tetrarch_Title.md)
  * [88.125 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Significance_of_the_Tetrarch_Title.md)
  * [89.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Significance_of_the_Tetrarch_Title.md)
+ * [90.0 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Significance_of_the_Tetrarch_Title.md)
  * [90.25 mistral Bible Translator](../answers/mistral_Bible_Translator/Significance_of_the_Tetrarch_Title.md)
  * [90.25 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Significance_of_the_Tetrarch_Title.md)
  * [90.625 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Significance_of_the_Tetrarch_Title.md)

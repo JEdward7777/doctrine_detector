@@ -11,7 +11,7 @@ The Jewish religious leaders rejected Jesus due to jealousy and fear of losing t
 This scenario poses questions about authority, faith, and the recognition of the Messiah.
 
 ## Average Grade
-80.78571428571429
+81.14772727272727
 
 ## Grades
  * [67.5 llama Politician](../answers/llama_Politician/Rejection_of_Jesus_by_Jewish_Leaders.md)
@@ -33,5 +33,6 @@ This scenario poses questions about authority, faith, and the recognition of the
  * [85.0 llama atheist](../answers/llama_atheist/Rejection_of_Jesus_by_Jewish_Leaders.md)
  * [85.0 mistral atheist](../answers/mistral_atheist/Rejection_of_Jesus_by_Jewish_Leaders.md)
  * [86.25 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Rejection_of_Jesus_by_Jewish_Leaders.md)
+ * [88.75 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Rejection_of_Jesus_by_Jewish_Leaders.md)
  * [89.375 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Rejection_of_Jesus_by_Jewish_Leaders.md)
  * [90.875 llama Bible Translator](../answers/llama_Bible_Translator/Rejection_of_Jesus_by_Jewish_Leaders.md)

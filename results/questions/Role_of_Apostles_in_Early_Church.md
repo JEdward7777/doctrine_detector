@@ -11,7 +11,7 @@ The apostles emphasized teaching, fellowship, sharing meals, and prayer, which w
 Understanding community and teaching as integral aspects of church life as modeled by the apostles.
 
 ## Average Grade
-82.08333333333333
+82.5965909090909
 
 ## Grades
  * [70.0 mistral Imam](../answers/mistral_Imam/Role_of_Apostles_in_Early_Church.md)
@@ -35,3 +35,4 @@ Understanding community and teaching as integral aspects of church life as model
  * [90.625 gemma Bible Translator](../answers/gemma_Bible_Translator/Role_of_Apostles_in_Early_Church.md)
  * [91.25 mistral Bible Translator](../answers/mistral_Bible_Translator/Role_of_Apostles_in_Early_Church.md)
  * [93.125 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Role_of_Apostles_in_Early_Church.md)
+ * [93.375 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Role_of_Apostles_in_Early_Church.md)

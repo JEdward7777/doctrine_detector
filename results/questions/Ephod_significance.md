@@ -11,7 +11,7 @@ The high priest's ephod was significant as it represented the priest's role in m
 Understanding the role of the ephod helps in comprehending the Old Testament priesthood and worship practices.
 
 ## Average Grade
-82.83333333333333
+83.30113636363636
 
 ## Grades
  * [45.0 gemma Politician](../answers/gemma_Politician/Ephod_significance.md)
@@ -35,3 +35,4 @@ Understanding the role of the ephod helps in comprehending the Old Testament pri
  * [89.375 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Ephod_significance.md)
  * [90.0 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Ephod_significance.md)
  * [93.125 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Ephod_significance.md)
+ * [93.125 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Ephod_significance.md)

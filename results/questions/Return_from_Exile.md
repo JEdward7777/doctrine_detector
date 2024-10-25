@@ -11,7 +11,7 @@ The return of the Jews from Babylon signifies God's faithfulness to his promises
 This historical context underscores the theme of hope and God's covenant in Christian theology.
 
 ## Average Grade
-79.94047619047619
+80.55113636363636
 
 ## Grades
  * [33.125 gemma atheist](../answers/gemma_atheist/Return_from_Exile.md)
@@ -34,4 +34,5 @@ This historical context underscores the theme of hope and God's covenant in Chri
  * [91.875 llama Bible Translator](../answers/llama_Bible_Translator/Return_from_Exile.md)
  * [91.875 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Return_from_Exile.md)
  * [92.5 mistral Bible Translator](../answers/mistral_Bible_Translator/Return_from_Exile.md)
+ * [93.375 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Return_from_Exile.md)
  * [93.75 gemma Bible Translator](../answers/gemma_Bible_Translator/Return_from_Exile.md)

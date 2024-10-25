@@ -11,7 +11,7 @@ The term 'Lord' is capitalized when referring to God, indicating a title, while 
 Proper translation and interpretation of biblical terms impact the understanding of scripture and the nature of God.
 
 ## Average Grade
-81.3452380952381
+81.77272727272727
 
 ## Grades
  * [58.75 llama atheist](../answers/llama_atheist/Translation_and_Interpretation.md)
@@ -33,5 +33,6 @@ Proper translation and interpretation of biblical terms impact the understanding
  * [86.25 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Translation_and_Interpretation.md)
  * [86.875 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Translation_and_Interpretation.md)
  * [90.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Translation_and_Interpretation.md)
+ * [90.75 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Translation_and_Interpretation.md)
  * [91.25 llama Bible Translator](../answers/llama_Bible_Translator/Translation_and_Interpretation.md)
  * [91.25 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Translation_and_Interpretation.md)

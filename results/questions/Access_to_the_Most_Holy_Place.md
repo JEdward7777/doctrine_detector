@@ -11,7 +11,7 @@ Only the high priest was permitted to enter the 'most holy place' to maintain th
 Recognizing the holiness of God and the necessary protocols for approaching Him.
 
 ## Average Grade
-83.64285714285714
+84.01704545454545
 
 ## Grades
  * [70.625 gemma Politician](../answers/gemma_Politician/Access_to_the_Most_Holy_Place.md)
@@ -32,6 +32,7 @@ Recognizing the holiness of God and the necessary protocols for approaching Him.
  * [90.625 gemma Bible Translator](../answers/gemma_Bible_Translator/Access_to_the_Most_Holy_Place.md)
  * [90.625 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Access_to_the_Most_Holy_Place.md)
  * [91.875 mistral atheist](../answers/mistral_atheist/Access_to_the_Most_Holy_Place.md)
+ * [91.875 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Access_to_the_Most_Holy_Place.md)
  * [92.5 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Access_to_the_Most_Holy_Place.md)
  * [92.5 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Access_to_the_Most_Holy_Place.md)
  * [93.75 llama Bible Translator](../answers/llama_Bible_Translator/Access_to_the_Most_Holy_Place.md)

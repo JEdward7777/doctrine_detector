@@ -11,7 +11,7 @@ The term 'scripture' refers to 'writings,' specifically the Hebrew scriptures (O
 Clarifying the relationship between written scripture and God's spoken word.
 
 ## Average Grade
-81.79761904761905
+82.11363636363636
 
 ## Grades
  * [63.75 gemma Politician](../answers/gemma_Politician/Nature_of_Scripture.md)
@@ -32,6 +32,7 @@ Clarifying the relationship between written scripture and God's spoken word.
  * [86.875 mistral Bible Translator](../answers/mistral_Bible_Translator/Nature_of_Scripture.md)
  * [86.875 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Nature_of_Scripture.md)
  * [87.5 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Nature_of_Scripture.md)
+ * [88.75 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Nature_of_Scripture.md)
  * [89.375 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Nature_of_Scripture.md)
  * [90.625 llama Bible Translator](../answers/llama_Bible_Translator/Nature_of_Scripture.md)
  * [91.25 gemma Bible Translator](../answers/gemma_Bible_Translator/Nature_of_Scripture.md)

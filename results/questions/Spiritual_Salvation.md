@@ -11,7 +11,7 @@ Being 'saved' spiritually means that through Jesus' death on the cross, an indiv
 Understanding the concept of salvation can impact one's faith and assurance of eternal life.
 
 ## Average Grade
-82.94642857142857
+83.21022727272727
 
 ## Grades
  * [60.0 llama Politician](../answers/llama_Politician/Spiritual_Salvation.md)
@@ -30,6 +30,7 @@ Understanding the concept of salvation can impact one's faith and assurance of e
  * [88.125 gemma Politician](../answers/gemma_Politician/Spiritual_Salvation.md)
  * [88.75 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Spiritual_Salvation.md)
  * [88.75 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Spiritual_Salvation.md)
+ * [88.75 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Spiritual_Salvation.md)
  * [89.625 mistral Politician](../answers/mistral_Politician/Spiritual_Salvation.md)
  * [90.0 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Spiritual_Salvation.md)
  * [90.625 llama Bible Translator](../answers/llama_Bible_Translator/Spiritual_Salvation.md)

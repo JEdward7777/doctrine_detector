@@ -11,7 +11,7 @@ The Messiah is described as a prophet, a priest, and a king, and He would start 
 Clarity on the role of the Messiah helps believers comprehend Jesus's mission and authority.
 
 ## Average Grade
-78.58333333333333
+79.04545454545455
 
 ## Grades
  * [52.5 mistral Imam](../answers/mistral_Imam/Role_of_the_Messiah.md)
@@ -33,5 +33,6 @@ Clarity on the role of the Messiah helps believers comprehend Jesus's mission an
  * [87.5 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Role_of_the_Messiah.md)
  * [88.125 mistral Bible Translator](../answers/mistral_Bible_Translator/Role_of_the_Messiah.md)
  * [88.75 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Role_of_the_Messiah.md)
+ * [88.75 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Role_of_the_Messiah.md)
  * [91.25 gemma Bible Translator](../answers/gemma_Bible_Translator/Role_of_the_Messiah.md)
  * [91.5 llama Bible Translator](../answers/llama_Bible_Translator/Role_of_the_Messiah.md)

@@ -11,7 +11,7 @@ The Pharisees' strict adherence to the Laws of Moses led to conflicts with Jesus
 Understanding the role of the Pharisees provides insight into the challenges Jesus faced in his ministry.
 
 ## Average Grade
-85.48214285714286
+85.7159090909091
 
 ## Grades
  * [72.5 llama Politician](../answers/llama_Politician/Pharisees__Influence_on_Jewish_Law.md)
@@ -34,4 +34,5 @@ Understanding the role of the Pharisees provides insight into the challenges Jes
  * [89.375 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Pharisees__Influence_on_Jewish_Law.md)
  * [89.375 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Pharisees__Influence_on_Jewish_Law.md)
  * [89.875 mistral Bible Translator](../answers/mistral_Bible_Translator/Pharisees__Influence_on_Jewish_Law.md)
+ * [90.625 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Pharisees__Influence_on_Jewish_Law.md)
  * [91.25 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Pharisees__Influence_on_Jewish_Law.md)

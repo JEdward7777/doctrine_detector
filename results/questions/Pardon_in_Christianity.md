@@ -11,7 +11,7 @@ The concept of pardon means to forgive and not punish someone for his sin, as se
 Exploring the relationship between pardon and divine forgiveness.
 
 ## Average Grade
-77.13690476190476
+77.7215909090909
 
 ## Grades
  * [35.625 gemma atheist](../answers/gemma_atheist/Pardon_in_Christianity.md)
@@ -31,6 +31,7 @@ Exploring the relationship between pardon and divine forgiveness.
  * [88.125 gemma Politician](../answers/gemma_Politician/Pardon_in_Christianity.md)
  * [89.375 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Pardon_in_Christianity.md)
  * [89.625 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Pardon_in_Christianity.md)
+ * [90.0 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Pardon_in_Christianity.md)
  * [90.25 mistral Bible Translator](../answers/mistral_Bible_Translator/Pardon_in_Christianity.md)
  * [91.875 gemma Bible Translator](../answers/gemma_Bible_Translator/Pardon_in_Christianity.md)
  * [91.875 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Pardon_in_Christianity.md)

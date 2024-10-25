@@ -11,7 +11,7 @@ It indicates that the person is referred to as John, essentially stating his nam
 Understanding proper biblical interpretation and the significance of names in scripture.
 
 ## Average Grade
-80.71428571428571
+81.10795454545455
 
 ## Grades
  * [63.125 gemma atheist](../answers/gemma_atheist/Understanding_Biblical_Naming.md)
@@ -34,4 +34,5 @@ Understanding proper biblical interpretation and the significance of names in sc
  * [87.5 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Understanding_Biblical_Naming.md)
  * [88.125 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Understanding_Biblical_Naming.md)
  * [88.75 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Understanding_Biblical_Naming.md)
+ * [89.375 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Understanding_Biblical_Naming.md)
  * [90.625 llama Bible Translator](../answers/llama_Bible_Translator/Understanding_Biblical_Naming.md)

@@ -11,7 +11,7 @@ Yes, it is necessary to use the term 'Father' and rely on teaching and context t
 Avoiding the term 'Father' could lead to theological inaccuracies and dilute the scriptural message.
 
 ## Average Grade
-70.38690476190476
+71.30681818181819
 
 ## Grades
  * [48.125 llama atheist](../answers/llama_atheist/Use_term__Father__when_referring_to_God.md)
@@ -35,3 +35,4 @@ Avoiding the term 'Father' could lead to theological inaccuracies and dilute the
  * [86.25 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Use_term__Father__when_referring_to_God.md)
  * [86.25 mistral 1.75 vectored](../answers/mistral_1.75_vectored/Use_term__Father__when_referring_to_God.md)
  * [88.125 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Use_term__Father__when_referring_to_God.md)
+ * [90.625 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Use_term__Father__when_referring_to_God.md)

@@ -11,7 +11,7 @@ In the Old Testament, the temple in Jerusalem was considered the dwelling place 
 Exploring the theological implications of God dwelling among His people.
 
 ## Average Grade
-83.42857142857143
+83.71022727272727
 
 ## Grades
  * [57.5 llama atheist](../answers/llama_atheist/Temple_as_God_s_Dwelling.md)
@@ -30,6 +30,7 @@ Exploring the theological implications of God dwelling among His people.
  * [88.75 mistral atheist](../answers/mistral_atheist/Temple_as_God_s_Dwelling.md)
  * [89.0 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Temple_as_God_s_Dwelling.md)
  * [89.375 gemma Bible Translator](../answers/gemma_Bible_Translator/Temple_as_God_s_Dwelling.md)
+ * [89.625 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Temple_as_God_s_Dwelling.md)
  * [90.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Temple_as_God_s_Dwelling.md)
  * [90.625 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Temple_as_God_s_Dwelling.md)
  * [90.625 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Temple_as_God_s_Dwelling.md)

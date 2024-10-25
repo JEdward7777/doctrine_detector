@@ -11,7 +11,7 @@ The primary role of a prophet is to speak God's messages to the people, often wa
 Understanding the biblical role of prophets and their messages.
 
 ## Average Grade
-79.26785714285714
+79.8125
 
 ## Grades
  * [55.625 llama atheist](../answers/llama_atheist/Role_of_Prophets.md)
@@ -35,3 +35,4 @@ Understanding the biblical role of prophets and their messages.
  * [88.125 mistral Bible Translator](../answers/mistral_Bible_Translator/Role_of_Prophets.md)
  * [90.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Role_of_Prophets.md)
  * [90.625 llama Bible Translator](../answers/llama_Bible_Translator/Role_of_Prophets.md)
+ * [91.25 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Role_of_Prophets.md)

@@ -11,7 +11,7 @@ The apostles were sent by Jesus to preach about God and his kingdom, carrying th
 Understanding the role of apostleship in the context of the Great Commission.
 
 ## Average Grade
-78.4047619047619
+79.01704545454545
 
 ## Grades
  * [43.75 llama Imam](../answers/llama_Imam/Apostleship_Understanding.md)
@@ -33,5 +33,6 @@ Understanding the role of apostleship in the context of the Great Commission.
  * [90.0 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Apostleship_Understanding.md)
  * [91.875 llama Bible Translator](../answers/llama_Bible_Translator/Apostleship_Understanding.md)
  * [91.875 mistral Bible Translator](../answers/mistral_Bible_Translator/Apostleship_Understanding.md)
+ * [91.875 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Apostleship_Understanding.md)
  * [92.5 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Apostleship_Understanding.md)
  * [93.125 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Apostleship_Understanding.md)

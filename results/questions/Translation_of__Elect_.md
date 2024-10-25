@@ -11,7 +11,7 @@ Older Bible versions use 'elect' in both the Old and New Testaments, while moder
 Clarifying the meaning of biblical texts in relation to the concept of being chosen by God.
 
 ## Average Grade
-84.11904761904762
+84.3409090909091
 
 ## Grades
  * [71.25 llama atheist](../answers/llama_atheist/Translation_of__Elect_.md)
@@ -33,5 +33,6 @@ Clarifying the meaning of biblical texts in relation to the concept of being cho
  * [87.5 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Translation_of__Elect_.md)
  * [87.75 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Translation_of__Elect_.md)
  * [88.125 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Translation_of__Elect_.md)
+ * [89.0 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Translation_of__Elect_.md)
  * [89.25 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Translation_of__Elect_.md)
  * [89.75 gemma atheist](../answers/gemma_atheist/Translation_of__Elect_.md)

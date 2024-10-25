@@ -11,7 +11,7 @@ The Psalms were used by the nation of Israel in their worship of God, allowing t
 Understanding the historical context and purpose of worship through Psalms.
 
 ## Average Grade
-86.33333333333333
+86.58522727272727
 
 ## Grades
  * [74.375 llama atheist](../answers/llama_atheist/Purpose_of_Psalms.md)
@@ -34,4 +34,5 @@ Understanding the historical context and purpose of worship through Psalms.
  * [90.0 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Purpose_of_Psalms.md)
  * [90.625 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Purpose_of_Psalms.md)
  * [90.625 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Purpose_of_Psalms.md)
+ * [91.875 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Purpose_of_Psalms.md)
  * [92.75 llama Bible Translator](../answers/llama_Bible_Translator/Purpose_of_Psalms.md)

@@ -11,7 +11,7 @@ Mount Zion was originally a stronghold that King David captured from the Jebusit
 Understanding the importance of Mount Zion in the biblical narrative and its connection to key figures in Scripture.
 
 ## Average Grade
-78.46428571428571
+79.10227272727273
 
 ## Grades
  * [38.125 gemma Imam](../answers/gemma_Imam/Zion_s_Historical_Significance.md)
@@ -35,3 +35,4 @@ Understanding the importance of Mount Zion in the biblical narrative and its con
  * [90.25 mistral Politician](../answers/mistral_Politician/Zion_s_Historical_Significance.md)
  * [90.625 mistral Bible Translator](../answers/mistral_Bible_Translator/Zion_s_Historical_Significance.md)
  * [91.25 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Zion_s_Historical_Significance.md)
+ * [92.5 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Zion_s_Historical_Significance.md)

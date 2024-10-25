@@ -11,7 +11,7 @@ The primary purpose of exhortation is to persuade other people to avoid sin and 
 Understanding the biblical basis for encouraging others in their faith journey.
 
 ## Average Grade
-77.1547619047619
+77.68181818181819
 
 ## Grades
  * [45.0 gemma Politician](../answers/gemma_Politician/Purpose_of_Exhortation.md)
@@ -34,4 +34,5 @@ Understanding the biblical basis for encouraging others in their faith journey.
  * [87.5 gemma Bible Translator](../answers/gemma_Bible_Translator/Purpose_of_Exhortation.md)
  * [87.5 gemma atheist](../answers/gemma_atheist/Purpose_of_Exhortation.md)
  * [87.5 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Purpose_of_Exhortation.md)
+ * [88.75 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Purpose_of_Exhortation.md)
  * [90.0 llama Bible Translator](../answers/llama_Bible_Translator/Purpose_of_Exhortation.md)

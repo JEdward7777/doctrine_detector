@@ -11,7 +11,7 @@ God instructed the Israelites to gather twice the amount of manna the day before
 Importance of observing the Sabbath according to God's commands.
 
 ## Average Grade
-79.4047619047619
+79.89204545454545
 
 ## Grades
  * [37.5 gemma atheist](../answers/gemma_atheist/Sabbath_Observance_2.md)
@@ -35,3 +35,4 @@ Importance of observing the Sabbath according to God's commands.
  * [90.0 mistral Politician](../answers/mistral_Politician/Sabbath_Observance_2.md)
  * [90.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Sabbath_Observance_2.md)
  * [90.0 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Sabbath_Observance_2.md)
+ * [90.125 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Sabbath_Observance_2.md)

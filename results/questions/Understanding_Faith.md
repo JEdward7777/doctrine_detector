@@ -11,7 +11,7 @@ To 'have faith in Jesus' means to believe all of God's teachings about Jesus, es
 Understanding the foundational aspect of faith in Christianity.
 
 ## Average Grade
-71.33928571428571
+72.2159090909091
 
 ## Grades
  * [33.75 mistral Imam](../answers/mistral_Imam/Understanding_Faith.md)
@@ -34,4 +34,5 @@ Understanding the foundational aspect of faith in Christianity.
  * [86.875 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Understanding_Faith.md)
  * [89.375 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Understanding_Faith.md)
  * [90.625 mistral Bible Translator](../answers/mistral_Bible_Translator/Understanding_Faith.md)
+ * [90.625 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Understanding_Faith.md)
  * [91.25 llama Bible Translator](../answers/llama_Bible_Translator/Understanding_Faith.md)

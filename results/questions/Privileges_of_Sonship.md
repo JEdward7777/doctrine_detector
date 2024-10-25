@@ -11,7 +11,7 @@ Adopted children of God receive the privilege of calling God 'Abba, Father', ind
 Recognizing the depth of the relationship between believers and God.
 
 ## Average Grade
-80.66666666666667
+81.23295454545455
 
 ## Grades
  * [47.5 gemma Imam](../answers/gemma_Imam/Privileges_of_Sonship.md)
@@ -35,3 +35,4 @@ Recognizing the depth of the relationship between believers and God.
  * [89.375 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Privileges_of_Sonship.md)
  * [90.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Privileges_of_Sonship.md)
  * [91.25 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Privileges_of_Sonship.md)
+ * [93.125 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Privileges_of_Sonship.md)

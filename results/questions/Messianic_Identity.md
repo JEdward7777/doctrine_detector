@@ -11,7 +11,7 @@ The title 'King of the Jews' signifies Jesus' role as the promised Messiah, who 
 Understanding Jesus' messianic role is central to the Christian faith.
 
 ## Average Grade
-78.31547619047619
+78.96022727272727
 
 ## Grades
  * [45.0 mistral Imam](../answers/mistral_Imam/Messianic_Identity.md)
@@ -34,4 +34,5 @@ Understanding Jesus' messianic role is central to the Christian faith.
  * [91.25 mistral Bible Translator](../answers/mistral_Bible_Translator/Messianic_Identity.md)
  * [91.25 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Messianic_Identity.md)
  * [92.5 llama Bible Translator](../answers/llama_Bible_Translator/Messianic_Identity.md)
+ * [92.5 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Messianic_Identity.md)
  * [93.125 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Messianic_Identity.md)

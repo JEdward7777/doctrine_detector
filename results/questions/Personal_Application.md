@@ -11,7 +11,7 @@ For a Christian, experiencing purification from sin involves repentance, seeking
 Understanding the personal implications of being made pure in relation to one's relationship with God and commitment to holy living.
 
 ## Average Grade
-79.83928571428571
+80.24431818181819
 
 ## Grades
  * [50.625 gemma atheist](../answers/gemma_atheist/Personal_Application.md)
@@ -32,6 +32,7 @@ Understanding the personal implications of being made pure in relation to one's 
  * [88.5 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Personal_Application.md)
  * [88.75 llama Bible Translator](../answers/llama_Bible_Translator/Personal_Application.md)
  * [88.75 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Personal_Application.md)
+ * [88.75 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Personal_Application.md)
  * [90.0 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Personal_Application.md)
  * [90.625 gemma Bible Translator](../answers/gemma_Bible_Translator/Personal_Application.md)
  * [90.625 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Personal_Application.md)

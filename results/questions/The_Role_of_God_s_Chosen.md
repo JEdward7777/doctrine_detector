@@ -11,7 +11,7 @@ Moses and King David were chosen by God to lead His people, signifying that God'
 Recognizing God's sovereignty in appointing leaders and its implications for the Christian community.
 
 ## Average Grade
-80.4047619047619
+81.01136363636364
 
 ## Grades
  * [43.125 llama atheist](../answers/llama_atheist/The_Role_of_God_s_Chosen.md)
@@ -35,3 +35,4 @@ Recognizing God's sovereignty in appointing leaders and its implications for the
  * [90.625 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/The_Role_of_God_s_Chosen.md)
  * [91.875 mistral Bible Translator](../answers/mistral_Bible_Translator/The_Role_of_God_s_Chosen.md)
  * [91.875 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/The_Role_of_God_s_Chosen.md)
+ * [93.75 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/The_Role_of_God_s_Chosen.md)

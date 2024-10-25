@@ -11,7 +11,7 @@ He often used it to emphasize the truth of what He said, typically followed by '
 Recognizing the authority of Jesus' words and teachings in Scripture.
 
 ## Average Grade
-75.16071428571429
+75.89204545454545
 
 ## Grades
  * [53.125 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Jesus__Teachings.md)
@@ -35,3 +35,4 @@ Recognizing the authority of Jesus' words and teachings in Scripture.
  * [90.375 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Jesus__Teachings.md)
  * [90.625 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Jesus__Teachings.md)
  * [91.125 llama Bible Translator](../answers/llama_Bible_Translator/Jesus__Teachings.md)
+ * [91.25 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Jesus__Teachings.md)

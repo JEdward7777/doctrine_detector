@@ -11,7 +11,7 @@ Jesus is referred to as the Great High Priest who offered himself as the only sa
 Exploring the theological implications of Jesus fulfilling the role of high priest.
 
 ## Average Grade
-87.66071428571429
+87.86931818181819
 
 ## Grades
  * [69.375 gemma Politician](../answers/gemma_Politician/Jesus_as_the_High_Priest.md)
@@ -31,6 +31,7 @@ Exploring the theological implications of Jesus fulfilling the role of high prie
  * [91.25 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Jesus_as_the_High_Priest.md)
  * [91.875 mistral Bible Translator](../answers/mistral_Bible_Translator/Jesus_as_the_High_Priest.md)
  * [91.875 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Jesus_as_the_High_Priest.md)
+ * [92.25 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Jesus_as_the_High_Priest.md)
  * [92.5 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Jesus_as_the_High_Priest.md)
  * [92.75 llama Bible Translator](../answers/llama_Bible_Translator/Jesus_as_the_High_Priest.md)
  * [93.125 gemma Bible Translator](../answers/gemma_Bible_Translator/Jesus_as_the_High_Priest.md)

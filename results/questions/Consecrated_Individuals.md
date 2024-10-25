@@ -11,7 +11,7 @@ Individuals consecrated to God include the priests, the people of Israel, and th
 Recognizing the significance of consecrated individuals in biblical history.
 
 ## Average Grade
-76.60714285714286
+77.13068181818181
 
 ## Grades
  * [52.5 mistral Imam](../answers/mistral_Imam/Consecrated_Individuals.md)
@@ -34,4 +34,5 @@ Recognizing the significance of consecrated individuals in biblical history.
  * [86.25 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Consecrated_Individuals.md)
  * [86.875 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Consecrated_Individuals.md)
  * [87.5 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Consecrated_Individuals.md)
+ * [88.125 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Consecrated_Individuals.md)
  * [89.375 mistral Bible Translator](../answers/mistral_Bible_Translator/Consecrated_Individuals.md)

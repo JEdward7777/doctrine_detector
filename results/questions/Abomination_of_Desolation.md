@@ -11,7 +11,7 @@ The 'abomination of desolation' refers to a prophetic sign of rebellion against 
 Christians should recognize the seriousness of defiling God's sacred spaces and understand prophetic warnings in the Bible.
 
 ## Average Grade
-72.8452380952381
+73.68181818181819
 
 ## Grades
  * [43.125 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Abomination_of_Desolation.md)
@@ -34,4 +34,5 @@ Christians should recognize the seriousness of defiling God's sacred spaces and 
  * [88.125 mistral Bible Translator](../answers/mistral_Bible_Translator/Abomination_of_Desolation.md)
  * [90.625 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Abomination_of_Desolation.md)
  * [90.625 llama Bible Translator](../answers/llama_Bible_Translator/Abomination_of_Desolation.md)
+ * [91.25 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Abomination_of_Desolation.md)
  * [92.125 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Abomination_of_Desolation.md)

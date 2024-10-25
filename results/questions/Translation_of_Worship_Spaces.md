@@ -11,7 +11,7 @@ The phrase 'house of Yahweh' could be translated as 'Yahweh’s temple' or 'plac
 Ensuring accurate translations convey the meaning and importance of worship spaces.
 
 ## Average Grade
-78.21428571428571
+78.69318181818181
 
 ## Grades
  * [52.5 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Translation_of_Worship_Spaces.md)
@@ -35,3 +35,4 @@ Ensuring accurate translations convey the meaning and importance of worship spac
  * [86.875 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Translation_of_Worship_Spaces.md)
  * [86.875 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Translation_of_Worship_Spaces.md)
  * [87.5 mistral Bible Translator](../answers/mistral_Bible_Translator/Translation_of_Worship_Spaces.md)
+ * [88.75 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Translation_of_Worship_Spaces.md)

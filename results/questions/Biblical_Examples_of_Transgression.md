@@ -11,7 +11,7 @@ References such as 1 Thessalonians 4:6, Daniel 9:24-25, and Psalm 32:1 showcase 
 Learning from Biblical examples to avoid similar pitfalls in one's own life.
 
 ## Average Grade
-76.01190476190476
+76.50568181818181
 
 ## Grades
  * [39.375 gemma Politician](../answers/gemma_Politician/Biblical_Examples_of_Transgression.md)
@@ -33,5 +33,6 @@ Learning from Biblical examples to avoid similar pitfalls in one's own life.
  * [86.25 mistral Bible Translator](../answers/mistral_Bible_Translator/Biblical_Examples_of_Transgression.md)
  * [86.25 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Biblical_Examples_of_Transgression.md)
  * [86.875 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Biblical_Examples_of_Transgression.md)
+ * [86.875 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Biblical_Examples_of_Transgression.md)
  * [87.5 gemma Bible Translator](../answers/gemma_Bible_Translator/Biblical_Examples_of_Transgression.md)
  * [88.75 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Biblical_Examples_of_Transgression.md)

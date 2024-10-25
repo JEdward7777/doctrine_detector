@@ -11,7 +11,7 @@ The ark contained the two stone tablets of the Ten Commandments, Aaron’s staff
 Learning about the reminders of God's covenant with the Israelites.
 
 ## Average Grade
-73.49404761904762
+74.32954545454545
 
 ## Grades
  * [15.0 gemma Imam](../answers/gemma_Imam/Contents_Of_Ark.md)
@@ -35,3 +35,4 @@ Learning about the reminders of God's covenant with the Israelites.
  * [90.0 mistral atheist](../answers/mistral_atheist/Contents_Of_Ark.md)
  * [90.875 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Contents_Of_Ark.md)
  * [91.875 llama Bible Translator](../answers/llama_Bible_Translator/Contents_Of_Ark.md)
+ * [91.875 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Contents_Of_Ark.md)

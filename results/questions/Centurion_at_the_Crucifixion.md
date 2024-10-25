@@ -11,7 +11,7 @@ The centurion's amazement and declaration of Jesus as the Son of God suggest a r
 Recognizing the divine nature of Jesus and the implications of His crucifixion.
 
 ## Average Grade
-86.9702380952381
+87.23295454545455
 
 ## Grades
  * [73.125 llama Imam](../answers/llama_Imam/Centurion_at_the_Crucifixion.md)
@@ -35,3 +35,4 @@ Recognizing the divine nature of Jesus and the implications of His crucifixion.
  * [91.875 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Centurion_at_the_Crucifixion.md)
  * [92.5 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Centurion_at_the_Crucifixion.md)
  * [92.5 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Centurion_at_the_Crucifixion.md)
+ * [92.75 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Centurion_at_the_Crucifixion.md)

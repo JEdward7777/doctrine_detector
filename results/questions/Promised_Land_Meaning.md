@@ -11,7 +11,7 @@ The 'Promised Land' refers to the land of Canaan which God promised to give to A
 Understanding the biblical significance of God's promises to Abraham and his lineage.
 
 ## Average Grade
-76.81547619047619
+77.4715909090909
 
 ## Grades
  * [50.0 mistral atheist](../answers/mistral_atheist/Promised_Land_Meaning.md)
@@ -35,3 +35,4 @@ Understanding the biblical significance of God's promises to Abraham and his lin
  * [88.75 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Promised_Land_Meaning.md)
  * [91.25 gemma Bible Translator](../answers/gemma_Bible_Translator/Promised_Land_Meaning.md)
  * [91.25 llama Bible Translator](../answers/llama_Bible_Translator/Promised_Land_Meaning.md)
+ * [91.25 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Promised_Land_Meaning.md)

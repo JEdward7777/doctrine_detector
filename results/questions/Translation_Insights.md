@@ -11,7 +11,7 @@ For humans, suggested translations include 'created to be like him' or 'with cha
 This question encourages exploration of the implications of translation in understanding biblical teachings.
 
 ## Average Grade
-78.35714285714286
+78.82954545454545
 
 ## Grades
  * [64.375 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Translation_Insights.md)
@@ -34,4 +34,5 @@ This question encourages exploration of the implications of translation in under
  * [86.875 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Translation_Insights.md)
  * [87.5 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Translation_Insights.md)
  * [88.75 llama Bible Translator](../answers/llama_Bible_Translator/Translation_Insights.md)
+ * [88.75 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Translation_Insights.md)
  * [90.625 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Translation_Insights.md)

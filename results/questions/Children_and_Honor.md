@@ -11,7 +11,7 @@ The Bible instructs children to honor their parents by showing respect and obedi
 Clarifying the Biblical expectations for familial relationships.
 
 ## Average Grade
-84.86904761904762
+85.2159090909091
 
 ## Grades
  * [60.625 llama Imam](../answers/llama_Imam/Children_and_Honor.md)
@@ -34,4 +34,5 @@ Clarifying the Biblical expectations for familial relationships.
  * [91.875 mistral Imam](../answers/mistral_Imam/Children_and_Honor.md)
  * [92.5 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Children_and_Honor.md)
  * [92.5 mistral Bible Translator](../answers/mistral_Bible_Translator/Children_and_Honor.md)
+ * [92.5 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Children_and_Honor.md)
  * [94.125 llama Bible Translator](../answers/llama_Bible_Translator/Children_and_Honor.md)

@@ -11,7 +11,7 @@ The term 'worldly' refers to the evil values and behaviors of people living in t
 Understanding the contrast between worldly values and godly principles.
 
 ## Average Grade
-82.70833333333333
+83.01136363636364
 
 ## Grades
  * [71.25 llama Politician](../answers/llama_Politician/Understanding_Worldly_Values.md)
@@ -31,6 +31,7 @@ Understanding the contrast between worldly values and godly principles.
  * [88.125 mistral Bible Translator](../answers/mistral_Bible_Translator/Understanding_Worldly_Values.md)
  * [88.125 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Understanding_Worldly_Values.md)
  * [89.375 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Understanding_Worldly_Values.md)
+ * [89.375 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Understanding_Worldly_Values.md)
  * [89.625 gemma Bible Translator](../answers/gemma_Bible_Translator/Understanding_Worldly_Values.md)
  * [90.625 gemma atheist](../answers/gemma_atheist/Understanding_Worldly_Values.md)
  * [90.625 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Understanding_Worldly_Values.md)

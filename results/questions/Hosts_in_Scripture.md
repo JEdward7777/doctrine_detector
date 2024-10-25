@@ -11,7 +11,7 @@ The term 'hosts' in scripture refers to a multitude, including armies of angels,
 Understanding the scope of spiritual warfare and divine authority can impact a believer's perspective on prayer and spiritual battles.
 
 ## Average Grade
-80.17857142857143
+80.61931818181819
 
 ## Grades
  * [53.75 gemma Imam](../answers/gemma_Imam/Hosts_in_Scripture.md)
@@ -35,3 +35,4 @@ Understanding the scope of spiritual warfare and divine authority can impact a b
  * [88.125 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Hosts_in_Scripture.md)
  * [88.75 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Hosts_in_Scripture.md)
  * [88.75 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Hosts_in_Scripture.md)
+ * [89.875 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Hosts_in_Scripture.md)

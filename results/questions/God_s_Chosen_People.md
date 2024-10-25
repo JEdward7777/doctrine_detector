@@ -11,7 +11,7 @@ The idea of a 'remnant' highlights that among many, God chooses certain individu
 Recognizing the significance of being chosen by God.
 
 ## Average Grade
-77.0
+77.72727272727273
 
 ## Grades
  * [31.875 gemma atheist](../answers/gemma_atheist/God_s_Chosen_People.md)
@@ -35,3 +35,4 @@ Recognizing the significance of being chosen by God.
  * [91.25 mistral Bible Translator](../answers/mistral_Bible_Translator/God_s_Chosen_People.md)
  * [92.5 llama Bible Translator](../answers/llama_Bible_Translator/God_s_Chosen_People.md)
  * [92.75 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/God_s_Chosen_People.md)
+ * [93.0 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/God_s_Chosen_People.md)

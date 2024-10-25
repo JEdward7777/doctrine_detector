@@ -11,7 +11,7 @@ The main responsibilities of priests included offering sacrifices to God on beha
 Understanding the biblical role of priests
 
 ## Average Grade
-80.32738095238095
+80.71022727272727
 
 ## Grades
  * [35.0 gemma Politician](../answers/gemma_Politician/Role_of_Priests.md)
@@ -33,5 +33,6 @@ Understanding the biblical role of priests
  * [85.0 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Role_of_Priests.md)
  * [85.625 mistral Imam](../answers/mistral_Imam/Role_of_Priests.md)
  * [87.5 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Role_of_Priests.md)
+ * [88.75 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Role_of_Priests.md)
  * [89.375 llama Bible Translator](../answers/llama_Bible_Translator/Role_of_Priests.md)
  * [90.625 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Role_of_Priests.md)

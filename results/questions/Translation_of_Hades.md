@@ -11,7 +11,7 @@ Reliable translations can include terms like 'place of the dead', 'the underworl
 Ensuring accurate biblical representation in translations for greater understanding among believers.
 
 ## Average Grade
-78.25595238095238
+78.8409090909091
 
 ## Grades
  * [38.75 gemma Imam](../answers/gemma_Imam/Translation_of_Hades.md)
@@ -35,3 +35,4 @@ Ensuring accurate biblical representation in translations for greater understand
  * [88.75 llama atheist](../answers/llama_atheist/Translation_of_Hades.md)
  * [89.375 mistral Bible Translator](../answers/mistral_Bible_Translator/Translation_of_Hades.md)
  * [90.0 llama Bible Translator](../answers/llama_Bible_Translator/Translation_of_Hades.md)
+ * [91.125 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Translation_of_Hades.md)

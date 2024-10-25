@@ -11,7 +11,7 @@ Galatians 3:10 indicates that those who rely on the law are under a curse, empha
 Recognizing the seriousness of disobedience to God's commands.
 
 ## Average Grade
-77.7202380952381
+78.36363636363636
 
 ## Grades
  * [53.75 gemma Imam](../answers/gemma_Imam/Curses_and_Disobedience.md)
@@ -35,3 +35,4 @@ Recognizing the seriousness of disobedience to God's commands.
  * [90.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Curses_and_Disobedience.md)
  * [90.625 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Curses_and_Disobedience.md)
  * [90.625 llama Bible Translator](../answers/llama_Bible_Translator/Curses_and_Disobedience.md)
+ * [91.875 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Curses_and_Disobedience.md)

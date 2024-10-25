@@ -11,7 +11,7 @@ The celebration of Passover signifies how Jesus is seen as the Passover Lamb, re
 Understanding the connection between the Old Testament Passover and the New Testament revelation of Jesus.
 
 ## Average Grade
-86.69642857142857
+86.96022727272727
 
 ## Grades
  * [54.375 gemma Politician](../answers/gemma_Politician/Passover_Significance.md)
@@ -33,5 +33,6 @@ Understanding the connection between the Old Testament Passover and the New Test
  * [91.25 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Passover_Significance.md)
  * [91.25 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Passover_Significance.md)
  * [92.5 mistral Bible Translator](../answers/mistral_Bible_Translator/Passover_Significance.md)
+ * [92.5 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Passover_Significance.md)
  * [93.125 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Passover_Significance.md)
  * [93.75 gemma Bible Translator](../answers/gemma_Bible_Translator/Passover_Significance.md)

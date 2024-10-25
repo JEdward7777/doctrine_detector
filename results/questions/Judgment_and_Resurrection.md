@@ -11,7 +11,7 @@ The 'day of Yahweh' or 'day of the Lord' is associated with judgment of sinners,
 Clarifying the events that will take place during this significant time in Christian eschatology.
 
 ## Average Grade
-75.82142857142857
+76.38068181818181
 
 ## Grades
  * [49.375 gemma atheist](../answers/gemma_atheist/Judgment_and_Resurrection.md)
@@ -33,5 +33,6 @@ Clarifying the events that will take place during this significant time in Chris
  * [87.5 mistral Bible Translator](../answers/mistral_Bible_Translator/Judgment_and_Resurrection.md)
  * [87.875 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Judgment_and_Resurrection.md)
  * [88.125 mistral Politician](../answers/mistral_Politician/Judgment_and_Resurrection.md)
+ * [88.125 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Judgment_and_Resurrection.md)
  * [88.75 gemma Bible Translator](../answers/gemma_Bible_Translator/Judgment_and_Resurrection.md)
  * [89.375 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Judgment_and_Resurrection.md)

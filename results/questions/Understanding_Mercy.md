@@ -11,7 +11,7 @@ We can demonstrate mercy by treating others kindly, offering forgiveness, and he
 Encouraging individuals to embody the merciful nature of God in their interactions with others.
 
 ## Average Grade
-84.36904761904762
+84.71022727272727
 
 ## Grades
  * [56.25 llama atheist](../answers/llama_atheist/Understanding_Mercy.md)
@@ -34,4 +34,5 @@ Encouraging individuals to embody the merciful nature of God in their interactio
  * [90.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Understanding_Mercy.md)
  * [90.625 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Understanding_Mercy.md)
  * [91.5 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Understanding_Mercy.md)
+ * [91.875 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Understanding_Mercy.md)
  * [92.5 llama Bible Translator](../answers/llama_Bible_Translator/Understanding_Mercy.md)

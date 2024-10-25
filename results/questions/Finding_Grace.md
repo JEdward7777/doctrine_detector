@@ -11,7 +11,7 @@ To 'find grace in the eyes of God' means to receive mercy and favor from God, in
 Exploring how one can seek and recognize God's favor in their life.
 
 ## Average Grade
-78.07738095238095
+78.6875
 
 ## Grades
  * [43.125 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Finding_Grace.md)
@@ -34,4 +34,5 @@ Exploring how one can seek and recognize God's favor in their life.
  * [88.75 mistral 1.75 vectored](../answers/mistral_1.75_vectored/Finding_Grace.md)
  * [90.625 gemma Bible Translator](../answers/gemma_Bible_Translator/Finding_Grace.md)
  * [90.625 llama Bible Translator](../answers/llama_Bible_Translator/Finding_Grace.md)
+ * [91.5 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Finding_Grace.md)
  * [93.125 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Finding_Grace.md)

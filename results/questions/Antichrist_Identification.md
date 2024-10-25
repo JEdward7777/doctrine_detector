@@ -11,7 +11,7 @@ A person is identified as an antichrist if they deceive people by saying that Je
 Understanding the traits of antichrists helps Christians recognize and resist false teachings.
 
 ## Average Grade
-73.53571428571429
+74.3125
 
 ## Grades
  * [31.25 gemma Imam](../answers/gemma_Imam/Antichrist_Identification.md)
@@ -32,6 +32,7 @@ Understanding the traits of antichrists helps Christians recognize and resist fa
  * [88.75 mistral atheist](../answers/mistral_atheist/Antichrist_Identification.md)
  * [90.0 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Antichrist_Identification.md)
  * [90.625 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Antichrist_Identification.md)
+ * [90.625 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Antichrist_Identification.md)
  * [91.125 gemma Bible Translator](../answers/gemma_Bible_Translator/Antichrist_Identification.md)
  * [91.25 mistral Bible Translator](../answers/mistral_Bible_Translator/Antichrist_Identification.md)
  * [91.875 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Antichrist_Identification.md)

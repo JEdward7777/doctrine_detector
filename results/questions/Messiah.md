@@ -11,7 +11,7 @@ Teach that 'Messiah' means 'Anointed One' and explain Jesus' fulfillment of Old 
 Clear teaching helps differentiate Jesus' role from other religious savior figures while staying true to scripture.
 
 ## Average Grade
-74.35714285714286
+75.01136363636364
 
 ## Grades
  * [47.5 mistral Politician](../answers/mistral_Politician/Messiah.md)
@@ -35,3 +35,4 @@ Clear teaching helps differentiate Jesus' role from other religious savior figur
  * [87.5 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Messiah.md)
  * [88.125 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Messiah.md)
  * [88.125 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Messiah.md)
+ * [88.75 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Messiah.md)

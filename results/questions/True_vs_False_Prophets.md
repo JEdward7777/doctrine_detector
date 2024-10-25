@@ -11,7 +11,7 @@ One can distinguish by examining if the messages align with God's Word, the natu
 Being able to discern true prophetic voices from those that mislead or misrepresent God's messages.
 
 ## Average Grade
-80.01190476190476
+80.60795454545455
 
 ## Grades
  * [61.25 llama atheist](../answers/llama_atheist/True_vs_False_Prophets.md)
@@ -34,4 +34,5 @@ Being able to discern true prophetic voices from those that mislead or misrepres
  * [90.625 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/True_vs_False_Prophets.md)
  * [91.875 mistral Bible Translator](../answers/mistral_Bible_Translator/True_vs_False_Prophets.md)
  * [92.5 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/True_vs_False_Prophets.md)
+ * [93.125 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/True_vs_False_Prophets.md)
  * [94.0 llama Bible Translator](../answers/llama_Bible_Translator/True_vs_False_Prophets.md)

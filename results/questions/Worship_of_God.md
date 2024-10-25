@@ -11,7 +11,7 @@ People were created to worship God, the only true God, as indicated in the Bible
 Recognizing the importance of worshiping the true God helps us avoid the pitfalls of idolatry in our lives.
 
 ## Average Grade
-82.85119047619048
+83.20454545454545
 
 ## Grades
  * [62.5 llama atheist](../answers/llama_atheist/Worship_of_God.md)
@@ -31,6 +31,7 @@ Recognizing the importance of worshiping the true God helps us avoid the pitfall
  * [86.25 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Worship_of_God.md)
  * [88.75 mistral Politician](../answers/mistral_Politician/Worship_of_God.md)
  * [90.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Worship_of_God.md)
+ * [90.625 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Worship_of_God.md)
  * [91.25 mistral Bible Translator](../answers/mistral_Bible_Translator/Worship_of_God.md)
  * [91.25 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Worship_of_God.md)
  * [93.125 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Worship_of_God.md)

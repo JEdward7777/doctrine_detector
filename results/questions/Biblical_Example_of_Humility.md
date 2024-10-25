@@ -11,7 +11,7 @@ David is an example of a humble and righteous man who trusted and obeyed God.
 Finding tangible examples of humility in the scriptures.
 
 ## Average Grade
-83.4047619047619
+83.70454545454545
 
 ## Grades
  * [63.125 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Biblical_Example_of_Humility.md)
@@ -33,5 +33,6 @@ Finding tangible examples of humility in the scriptures.
  * [90.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Biblical_Example_of_Humility.md)
  * [90.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Biblical_Example_of_Humility.md)
  * [90.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Biblical_Example_of_Humility.md)
+ * [90.0 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Biblical_Example_of_Humility.md)
  * [90.625 gemma atheist](../answers/gemma_atheist/Biblical_Example_of_Humility.md)
  * [92.5 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Biblical_Example_of_Humility.md)

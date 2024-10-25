@@ -11,7 +11,7 @@ In the New Testament, Christians are instructed to sing psalms to God as a way o
 Identifying how biblical teachings apply to contemporary Christian worship.
 
 ## Average Grade
-76.19047619047619
+76.875
 
 ## Grades
  * [30.625 mistral 1.75 vectored](../answers/mistral_1.75_vectored/New_Testament_Instruction.md)
@@ -35,3 +35,4 @@ Identifying how biblical teachings apply to contemporary Christian worship.
  * [87.5 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/New_Testament_Instruction.md)
  * [88.125 llama Bible Translator](../answers/llama_Bible_Translator/New_Testament_Instruction.md)
  * [88.75 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/New_Testament_Instruction.md)
+ * [91.25 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/New_Testament_Instruction.md)

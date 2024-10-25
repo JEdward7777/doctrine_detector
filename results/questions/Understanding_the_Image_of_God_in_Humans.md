@@ -11,7 +11,7 @@ Human beings possess characteristics such as the ability to feel emotion, reason
 This question aims to deepen understanding of what it means to be created in the image of God.
 
 ## Average Grade
-76.79761904761905
+77.45454545454545
 
 ## Grades
  * [25.0 gemma atheist](../answers/gemma_atheist/Understanding_the_Image_of_God_in_Humans.md)
@@ -35,3 +35,4 @@ This question aims to deepen understanding of what it means to be created in the
  * [89.375 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Understanding_the_Image_of_God_in_Humans.md)
  * [89.375 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Understanding_the_Image_of_God_in_Humans.md)
  * [90.0 llama Bible Translator](../answers/llama_Bible_Translator/Understanding_the_Image_of_God_in_Humans.md)
+ * [91.25 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Understanding_the_Image_of_God_in_Humans.md)

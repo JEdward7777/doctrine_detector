@@ -11,7 +11,7 @@ The rainbow is a reminder of God's promise not to destroy the earth with a flood
 Understanding God's covenant and promises in the Bible.
 
 ## Average Grade
-76.86309523809524
+77.60227272727273
 
 ## Grades
  * [44.375 llama atheist](../answers/llama_atheist/Sign_as_Covenant.md)
@@ -34,4 +34,5 @@ Understanding God's covenant and promises in the Bible.
  * [90.625 mistral Bible Translator](../answers/mistral_Bible_Translator/Sign_as_Covenant.md)
  * [90.625 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Sign_as_Covenant.md)
  * [91.25 llama Bible Translator](../answers/llama_Bible_Translator/Sign_as_Covenant.md)
+ * [93.125 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Sign_as_Covenant.md)
  * [93.25 mistral atheist](../answers/mistral_atheist/Sign_as_Covenant.md)

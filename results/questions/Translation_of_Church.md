@@ -11,7 +11,7 @@ Suggested translations include 'gathering together', 'assembly', or 'congregatio
 Accurate representation of the church's inclusive nature in translations.
 
 ## Average Grade
-77.79761904761905
+78.35227272727273
 
 ## Grades
  * [51.875 gemma Imam](../answers/gemma_Imam/Translation_of_Church.md)
@@ -34,4 +34,5 @@ Accurate representation of the church's inclusive nature in translations.
  * [86.25 gemma Bible Translator](../answers/gemma_Bible_Translator/Translation_of_Church.md)
  * [86.875 mistral Bible Translator](../answers/mistral_Bible_Translator/Translation_of_Church.md)
  * [88.75 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Translation_of_Church.md)
+ * [90.0 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Translation_of_Church.md)
  * [91.25 llama Bible Translator](../answers/llama_Bible_Translator/Translation_of_Church.md)

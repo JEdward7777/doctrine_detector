@@ -11,7 +11,7 @@ God pronounces judgment and wrath on ungodly people who reject Him and His ways.
 Awareness of the spiritual ramifications of living in disobedience to God.
 
 ## Average Grade
-71.83928571428571
+72.69318181818181
 
 ## Grades
  * [30.0 gemma atheist](../answers/gemma_atheist/Ungodliness_Consequences.md)
@@ -33,5 +33,6 @@ Awareness of the spiritual ramifications of living in disobedience to God.
  * [86.875 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Ungodliness_Consequences.md)
  * [87.5 mistral Bible Translator](../answers/mistral_Bible_Translator/Ungodliness_Consequences.md)
  * [89.625 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Ungodliness_Consequences.md)
+ * [90.625 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Ungodliness_Consequences.md)
  * [91.5 llama Bible Translator](../answers/llama_Bible_Translator/Ungodliness_Consequences.md)
  * [93.125 gemma Bible Translator](../answers/gemma_Bible_Translator/Ungodliness_Consequences.md)

@@ -11,7 +11,7 @@ Translating 'Savior' in these ways emphasizes God's active role in delivering Hi
 To explore how language shapes theological understanding and faith practices.
 
 ## Average Grade
-85.55357142857143
+85.80681818181819
 
 ## Grades
  * [64.125 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Translation_of_Savior.md)
@@ -31,6 +31,7 @@ To explore how language shapes theological understanding and faith practices.
  * [88.75 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Translation_of_Savior.md)
  * [89.0 mistral atheist](../answers/mistral_atheist/Translation_of_Savior.md)
  * [89.375 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Translation_of_Savior.md)
+ * [91.125 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Translation_of_Savior.md)
  * [91.25 llama Bible Translator](../answers/llama_Bible_Translator/Translation_of_Savior.md)
  * [91.5 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Translation_of_Savior.md)
  * [91.625 llama atheist](../answers/llama_atheist/Translation_of_Savior.md)

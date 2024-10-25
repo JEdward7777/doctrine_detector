@@ -11,7 +11,7 @@ Every believer in Jesus is considered a priest who can come directly to God in p
 Understanding the concept of the priesthood of all believers
 
 ## Average Grade
-85.48809523809524
+85.8465909090909
 
 ## Grades
  * [46.875 gemma Imam](../answers/gemma_Imam/New_Testament_Priesthood.md)
@@ -33,5 +33,6 @@ Understanding the concept of the priesthood of all believers
  * [91.5 mistral atheist](../answers/mistral_atheist/New_Testament_Priesthood.md)
  * [91.875 gemma Bible Translator](../answers/gemma_Bible_Translator/New_Testament_Priesthood.md)
  * [91.875 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/New_Testament_Priesthood.md)
+ * [93.375 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/New_Testament_Priesthood.md)
  * [93.75 llama Bible Translator](../answers/llama_Bible_Translator/New_Testament_Priesthood.md)
  * [93.75 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/New_Testament_Priesthood.md)

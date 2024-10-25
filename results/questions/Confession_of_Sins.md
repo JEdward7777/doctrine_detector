@@ -11,7 +11,7 @@ A Christian should confess their sins, as God is faithful and will forgive them,
 The importance of acknowledging personal sin in relation to God's forgiveness.
 
 ## Average Grade
-81.78571428571429
+82.2159090909091
 
 ## Grades
  * [50.625 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Confession_of_Sins.md)
@@ -34,4 +34,5 @@ The importance of acknowledging personal sin in relation to God's forgiveness.
  * [89.375 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Confession_of_Sins.md)
  * [90.625 gemma Bible Translator](../answers/gemma_Bible_Translator/Confession_of_Sins.md)
  * [90.625 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Confession_of_Sins.md)
+ * [91.25 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Confession_of_Sins.md)
  * [91.875 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Confession_of_Sins.md)

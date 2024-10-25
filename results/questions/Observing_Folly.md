@@ -11,7 +11,7 @@ Actions that are described as folly are those that are against God’s will and 
 Recognizing folly in one's actions can encourage better decision-making aligned with God’s will.
 
 ## Average Grade
-84.01785714285714
+84.4034090909091
 
 ## Grades
  * [49.375 mistral 1.75 vectored](../answers/mistral_1.75_vectored/Observing_Folly.md)
@@ -32,6 +32,7 @@ Recognizing folly in one's actions can encourage better decision-making aligned 
  * [90.625 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Observing_Folly.md)
  * [91.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Observing_Folly.md)
  * [91.25 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Observing_Folly.md)
+ * [92.5 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Observing_Folly.md)
  * [92.75 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Observing_Folly.md)
  * [93.75 llama Bible Translator](../answers/llama_Bible_Translator/Observing_Folly.md)
  * [94.375 gemma Bible Translator](../answers/gemma_Bible_Translator/Observing_Folly.md)

@@ -11,7 +11,7 @@ Jesus compared the kingdom of God to a mustard seed, yeast, hidden treasure, and
 Appreciating the worth and significance of the kingdom of God in our lives.
 
 ## Average Grade
-80.38690476190476
+80.79545454545455
 
 ## Grades
  * [47.5 llama atheist](../answers/llama_atheist/Value_of_the_Kingdom.md)
@@ -31,6 +31,7 @@ Appreciating the worth and significance of the kingdom of God in our lives.
  * [87.5 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Value_of_the_Kingdom.md)
  * [88.75 mistral atheist](../answers/mistral_atheist/Value_of_the_Kingdom.md)
  * [88.75 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Value_of_the_Kingdom.md)
+ * [89.375 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Value_of_the_Kingdom.md)
  * [90.0 llama Bible Translator](../answers/llama_Bible_Translator/Value_of_the_Kingdom.md)
  * [90.0 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Value_of_the_Kingdom.md)
  * [91.25 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Value_of_the_Kingdom.md)

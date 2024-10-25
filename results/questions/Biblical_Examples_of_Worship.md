@@ -11,7 +11,7 @@ One example is in Exodus 20:3, where God commands, 'Do not worship other gods,' 
 This highlights the importance of avoiding idolatry and remaining faithful to God's commands in worship.
 
 ## Average Grade
-82.7797619047619
+83.07954545454545
 
 ## Grades
  * [31.25 mistral 1.75 vectored](../answers/mistral_1.75_vectored/Biblical_Examples_of_Worship.md)
@@ -30,6 +30,7 @@ This highlights the importance of avoiding idolatry and remaining faithful to Go
  * [88.75 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Biblical_Examples_of_Worship.md)
  * [89.375 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Biblical_Examples_of_Worship.md)
  * [89.375 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Biblical_Examples_of_Worship.md)
+ * [89.375 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Biblical_Examples_of_Worship.md)
  * [89.625 mistral Politician](../answers/mistral_Politician/Biblical_Examples_of_Worship.md)
  * [90.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Biblical_Examples_of_Worship.md)
  * [90.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Biblical_Examples_of_Worship.md)

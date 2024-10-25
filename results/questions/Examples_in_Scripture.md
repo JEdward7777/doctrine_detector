@@ -11,7 +11,7 @@ Yes, examples include accounts in Mark 1:32, Matthew 4:24, and Matthew 8:33, whe
 Understanding the prevalence of spiritual issues in the Biblical narrative and their relevance to contemporary faith.
 
 ## Average Grade
-77.13095238095238
+77.6875
 
 ## Grades
  * [55.0 gemma Imam](../answers/gemma_Imam/Examples_in_Scripture.md)
@@ -34,4 +34,5 @@ Understanding the prevalence of spiritual issues in the Biblical narrative and t
  * [87.75 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Examples_in_Scripture.md)
  * [89.375 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Examples_in_Scripture.md)
  * [89.375 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Examples_in_Scripture.md)
+ * [89.375 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Examples_in_Scripture.md)
  * [90.625 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Examples_in_Scripture.md)

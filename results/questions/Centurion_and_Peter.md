@@ -11,7 +11,7 @@ The centurion's visit from Peter signifies the opening of the Gospel message to 
 Understanding the mission of the Church to reach all nations and the inclusivity of the Gospel.
 
 ## Average Grade
-85.98214285714286
+86.2784090909091
 
 ## Grades
  * [61.875 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Centurion_and_Peter.md)
@@ -32,6 +32,7 @@ Understanding the mission of the Church to reach all nations and the inclusivity
  * [91.25 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Centurion_and_Peter.md)
  * [91.25 mistral atheist](../answers/mistral_atheist/Centurion_and_Peter.md)
  * [91.5 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Centurion_and_Peter.md)
+ * [92.5 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Centurion_and_Peter.md)
  * [92.75 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Centurion_and_Peter.md)
  * [93.125 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Centurion_and_Peter.md)
  * [93.75 llama Bible Translator](../answers/llama_Bible_Translator/Centurion_and_Peter.md)

@@ -11,7 +11,7 @@ To 'perish' spiritually means to be lost or separated from the people of God due
 Exploring the implications of spiritual separation from God.
 
 ## Average Grade
-82.38095238095238
+82.75568181818181
 
 ## Grades
  * [55.0 llama Politician](../answers/llama_Politician/Understanding_Perish.md)
@@ -34,4 +34,5 @@ Exploring the implications of spiritual separation from God.
  * [90.0 gemma atheist](../answers/gemma_atheist/Understanding_Perish.md)
  * [90.625 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Understanding_Perish.md)
  * [90.625 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Understanding_Perish.md)
+ * [90.625 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Understanding_Perish.md)
  * [91.25 gemma Bible Translator](../answers/gemma_Bible_Translator/Understanding_Perish.md)

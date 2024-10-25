@@ -11,7 +11,7 @@ Fulfilled prophecies demonstrate God's sovereignty and faithfulness, affirming t
 Recognizing the importance of prophecies in strengthening faith and understanding God's plan.
 
 ## Average Grade
-86.9047619047619
+87.14204545454545
 
 ## Grades
  * [65.625 mistral 1.75 vectored](../answers/mistral_1.75_vectored/Fulfillment_of_Prophecy.md)
@@ -32,6 +32,7 @@ Recognizing the importance of prophecies in strengthening faith and understandin
  * [91.875 gemma Bible Translator](../answers/gemma_Bible_Translator/Fulfillment_of_Prophecy.md)
  * [91.875 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Fulfillment_of_Prophecy.md)
  * [91.875 llama Bible Translator](../answers/llama_Bible_Translator/Fulfillment_of_Prophecy.md)
+ * [92.125 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Fulfillment_of_Prophecy.md)
  * [92.5 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Fulfillment_of_Prophecy.md)
  * [93.125 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Fulfillment_of_Prophecy.md)
  * [94.375 mistral Bible Translator](../answers/mistral_Bible_Translator/Fulfillment_of_Prophecy.md)

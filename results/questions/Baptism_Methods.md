@@ -11,7 +11,7 @@ Different methods of baptism mentioned include immersion, pouring, and sprinklin
 Clarifying the various interpretations and methods of baptism in Christianity.
 
 ## Average Grade
-84.7202380952381
+84.98863636363636
 
 ## Grades
  * [54.375 mistral 1.75 vectored](../answers/mistral_1.75_vectored/Baptism_Methods.md)
@@ -33,5 +33,6 @@ Clarifying the various interpretations and methods of baptism in Christianity.
  * [89.0 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Baptism_Methods.md)
  * [89.25 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Baptism_Methods.md)
  * [90.0 gemma atheist](../answers/gemma_atheist/Baptism_Methods.md)
+ * [90.625 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Baptism_Methods.md)
  * [91.875 llama Bible Translator](../answers/llama_Bible_Translator/Baptism_Methods.md)
  * [92.125 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Baptism_Methods.md)

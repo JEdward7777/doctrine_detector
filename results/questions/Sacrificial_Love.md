@@ -11,7 +11,7 @@ Loving others sacrificially means prioritizing their well-being over one's own i
 Understanding the essence of God's love and how that should reflect in our personal relationships.
 
 ## Average Grade
-81.20833333333333
+81.7784090909091
 
 ## Grades
  * [58.75 llama atheist](../answers/llama_atheist/Sacrificial_Love.md)
@@ -34,4 +34,5 @@ Understanding the essence of God's love and how that should reflect in our perso
  * [92.5 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Sacrificial_Love.md)
  * [93.125 mistral Bible Translator](../answers/mistral_Bible_Translator/Sacrificial_Love.md)
  * [93.125 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Sacrificial_Love.md)
+ * [93.75 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Sacrificial_Love.md)
  * [94.125 gemma Bible Translator](../answers/gemma_Bible_Translator/Sacrificial_Love.md)

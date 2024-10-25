@@ -11,7 +11,7 @@ Examples include the Israelites repenting after being oppressed (Judges), David 
 Learning from biblical examples helps believers understand the practical application of repentance in their own lives.
 
 ## Average Grade
-84.875
+85.19886363636364
 
 ## Grades
  * [61.25 gemma atheist](../answers/gemma_atheist/Biblical_Examples_of_Repentance.md)
@@ -33,5 +33,6 @@ Learning from biblical examples helps believers understand the practical applica
  * [90.625 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Biblical_Examples_of_Repentance.md)
  * [90.625 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Biblical_Examples_of_Repentance.md)
  * [91.875 llama Bible Translator](../answers/llama_Bible_Translator/Biblical_Examples_of_Repentance.md)
+ * [92.0 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Biblical_Examples_of_Repentance.md)
  * [92.5 gemma Bible Translator](../answers/gemma_Bible_Translator/Biblical_Examples_of_Repentance.md)
  * [92.5 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Biblical_Examples_of_Repentance.md)

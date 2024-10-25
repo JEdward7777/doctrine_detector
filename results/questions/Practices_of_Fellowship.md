@@ -11,7 +11,7 @@ Early Christians expressed their fellowship through listening to the teaching of
 Recognizing the practices of fellowship can help contemporary Christians foster deeper connections with each other.
 
 ## Average Grade
-85.52380952380952
+85.72727272727273
 
 ## Grades
  * [75.0 llama atheist](../answers/llama_atheist/Practices_of_Fellowship.md)
@@ -35,3 +35,4 @@ Recognizing the practices of fellowship can help contemporary Christians foster 
  * [88.75 mistral Imam](../answers/mistral_Imam/Practices_of_Fellowship.md)
  * [89.375 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Practices_of_Fellowship.md)
  * [89.375 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Practices_of_Fellowship.md)
+ * [90.0 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Practices_of_Fellowship.md)

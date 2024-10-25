@@ -11,7 +11,7 @@ To repent means to turn away from sin and turn back to God, effectively changing
 Understanding the biblical definition of repentance is crucial for fostering genuine spiritual growth.
 
 ## Average Grade
-82.81547619047619
+83.25568181818181
 
 ## Grades
  * [52.5 gemma atheist](../answers/gemma_atheist/Definition_of_Repentance.md)
@@ -32,6 +32,7 @@ Understanding the biblical definition of repentance is crucial for fostering gen
  * [90.625 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Definition_of_Repentance.md)
  * [91.25 mistral Bible Translator](../answers/mistral_Bible_Translator/Definition_of_Repentance.md)
  * [92.5 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Definition_of_Repentance.md)
+ * [92.5 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Definition_of_Repentance.md)
  * [93.125 gemma Bible Translator](../answers/gemma_Bible_Translator/Definition_of_Repentance.md)
  * [93.75 llama Bible Translator](../answers/llama_Bible_Translator/Definition_of_Repentance.md)
  * [93.75 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Definition_of_Repentance.md)

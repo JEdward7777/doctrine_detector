@@ -11,7 +11,7 @@ Jesus Christ is described as having dominion over all the earth, functioning as 
 Recognizing the authority of Christ in all aspects of life and how this impacts our faith.
 
 ## Average Grade
-75.96428571428571
+76.77272727272727
 
 ## Grades
  * [44.375 gemma Imam](../answers/gemma_Imam/Dominion_of_Christ.md)
@@ -35,3 +35,4 @@ Recognizing the authority of Christ in all aspects of life and how this impacts 
  * [90.625 llama Bible Translator](../answers/llama_Bible_Translator/Dominion_of_Christ.md)
  * [90.625 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Dominion_of_Christ.md)
  * [91.25 mistral Bible Translator](../answers/mistral_Bible_Translator/Dominion_of_Christ.md)
+ * [93.75 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Dominion_of_Christ.md)

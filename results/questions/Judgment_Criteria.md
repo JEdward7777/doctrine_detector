@@ -11,7 +11,7 @@ Individuals will be judged based on their actions and lives in relation to the r
 This question encourages Christians to consider their actions and the need for alignment with biblical principles.
 
 ## Average Grade
-74.11904761904762
+74.89772727272727
 
 ## Grades
  * [23.75 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Judgment_Criteria.md)
@@ -32,6 +32,7 @@ This question encourages Christians to consider their actions and the need for a
  * [88.75 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Judgment_Criteria.md)
  * [89.375 mistral Bible Translator](../answers/mistral_Bible_Translator/Judgment_Criteria.md)
  * [90.625 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Judgment_Criteria.md)
+ * [91.25 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Judgment_Criteria.md)
  * [91.5 llama Bible Translator](../answers/llama_Bible_Translator/Judgment_Criteria.md)
  * [91.875 gemma Politician](../answers/gemma_Politician/Judgment_Criteria.md)
  * [92.5 gemma Bible Translator](../answers/gemma_Bible_Translator/Judgment_Criteria.md)

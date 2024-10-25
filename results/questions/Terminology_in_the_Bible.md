@@ -11,7 +11,7 @@ The terms 'Hebrews,' 'Israelites,' and 'Jews' are often used interchangeably in 
 Recognizing these terms helps in comprehending the context and audience of various Biblical texts.
 
 ## Average Grade
-79.67261904761905
+80.17045454545455
 
 ## Grades
  * [38.125 gemma Imam](../answers/gemma_Imam/Terminology_in_the_Bible.md)
@@ -34,4 +34,5 @@ Recognizing these terms helps in comprehending the context and audience of vario
  * [88.75 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Terminology_in_the_Bible.md)
  * [90.0 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Terminology_in_the_Bible.md)
  * [90.0 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Terminology_in_the_Bible.md)
+ * [90.625 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Terminology_in_the_Bible.md)
  * [91.25 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Terminology_in_the_Bible.md)

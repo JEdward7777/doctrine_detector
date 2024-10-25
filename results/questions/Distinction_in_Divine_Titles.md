@@ -11,7 +11,7 @@ Translating it as 'Lord LORD' would create confusion for readers who may not not
 Maintaining clarity in translations prevents misinterpretations concerning God's identity and authority.
 
 ## Average Grade
-87.36309523809524
+87.56818181818181
 
 ## Grades
  * [75.0 llama atheist](../answers/llama_atheist/Distinction_in_Divine_Titles.md)
@@ -33,5 +33,6 @@ Maintaining clarity in translations prevents misinterpretations concerning God's
  * [91.25 mistral Bible Translator](../answers/mistral_Bible_Translator/Distinction_in_Divine_Titles.md)
  * [91.875 llama Bible Translator](../answers/llama_Bible_Translator/Distinction_in_Divine_Titles.md)
  * [91.875 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Distinction_in_Divine_Titles.md)
+ * [91.875 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Distinction_in_Divine_Titles.md)
  * [92.5 gemma Bible Translator](../answers/gemma_Bible_Translator/Distinction_in_Divine_Titles.md)
  * [93.125 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Distinction_in_Divine_Titles.md)

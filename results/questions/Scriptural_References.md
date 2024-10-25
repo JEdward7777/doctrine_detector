@@ -11,7 +11,7 @@ The book of Genesis contains the reference to God as 'Almighty', specifically in
 Knowing biblical references helps deepen our connection to Scripture and God's promises.
 
 ## Average Grade
-81.54761904761905
+81.93181818181819
 
 ## Grades
  * [42.5 llama Imam](../answers/llama_Imam/Scriptural_References.md)
@@ -31,6 +31,7 @@ Knowing biblical references helps deepen our connection to Scripture and God's p
  * [89.375 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Scriptural_References.md)
  * [90.0 llama Bible Translator](../answers/llama_Bible_Translator/Scriptural_References.md)
  * [90.0 gemma Imam](../answers/gemma_Imam/Scriptural_References.md)
+ * [90.0 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Scriptural_References.md)
  * [90.625 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Scriptural_References.md)
  * [91.0 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Scriptural_References.md)
  * [91.875 mistral Bible Translator](../answers/mistral_Bible_Translator/Scriptural_References.md)

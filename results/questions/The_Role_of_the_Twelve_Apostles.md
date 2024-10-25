@@ -11,7 +11,7 @@ The twelve apostles were significant because they were chosen by Jesus to be His
 Recognizing the importance of the apostles in Christian belief and ministry.
 
 ## Average Grade
-84.29761904761905
+84.68181818181819
 
 ## Grades
  * [63.125 llama atheist](../answers/llama_atheist/The_Role_of_the_Twelve_Apostles.md)
@@ -35,3 +35,4 @@ Recognizing the importance of the apostles in Christian belief and ministry.
  * [91.875 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/The_Role_of_the_Twelve_Apostles.md)
  * [92.5 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/The_Role_of_the_Twelve_Apostles.md)
  * [92.5 llama Bible Translator](../answers/llama_Bible_Translator/The_Role_of_the_Twelve_Apostles.md)
+ * [92.75 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/The_Role_of_the_Twelve_Apostles.md)

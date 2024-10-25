@@ -11,7 +11,7 @@ In the Old Testament, it often occurs in the phrase 'Holy One of Israel,' while 
 Exploring the authority and divinity of Jesus as seen in the New Testament.
 
 ## Average Grade
-82.44047619047619
+82.8409090909091
 
 ## Grades
  * [62.5 gemma Politician](../answers/gemma_Politician/Usage_in_Scripture.md)
@@ -35,3 +35,4 @@ Exploring the authority and divinity of Jesus as seen in the New Testament.
  * [89.375 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Usage_in_Scripture.md)
  * [90.875 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Usage_in_Scripture.md)
  * [91.25 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Usage_in_Scripture.md)
+ * [91.25 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Usage_in_Scripture.md)

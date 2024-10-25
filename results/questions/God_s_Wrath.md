@@ -11,7 +11,7 @@ God's punishment is sometimes described as a 'pouring out of God’s wrath' upon
 Recognizing the nature of God's judgment and the consequences for disbelief.
 
 ## Average Grade
-69.39880952380952
+70.2784090909091
 
 ## Grades
  * [32.5 gemma atheist](../answers/gemma_atheist/God_s_Wrath.md)
@@ -34,4 +34,5 @@ Recognizing the nature of God's judgment and the consequences for disbelief.
  * [86.25 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/God_s_Wrath.md)
  * [88.375 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/God_s_Wrath.md)
  * [88.75 llama Bible Translator](../answers/llama_Bible_Translator/God_s_Wrath.md)
+ * [88.75 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/God_s_Wrath.md)
  * [92.5 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/God_s_Wrath.md)

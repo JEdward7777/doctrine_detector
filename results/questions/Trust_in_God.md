@@ -11,7 +11,7 @@ Having hope in God entails a confident trust that He is faithful and will fulfil
 Distinguishing between hope as a confident expectation versus wishful thinking.
 
 ## Average Grade
-88.89880952380952
+89.11931818181819
 
 ## Grades
  * [75.0 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Trust_in_God.md)
@@ -34,4 +34,5 @@ Distinguishing between hope as a confident expectation versus wishful thinking.
  * [92.75 mistral Bible Translator](../answers/mistral_Bible_Translator/Trust_in_God.md)
  * [93.125 gemma atheist](../answers/gemma_atheist/Trust_in_God.md)
  * [93.75 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Trust_in_God.md)
+ * [93.75 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Trust_in_God.md)
  * [94.375 llama Bible Translator](../answers/llama_Bible_Translator/Trust_in_God.md)

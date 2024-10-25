@@ -11,7 +11,7 @@ This is considered a mystery of the Christian faith, which teaches that each per
 This question addresses the complexities of the Trinity and God's nature.
 
 ## Average Grade
-78.7202380952381
+79.3465909090909
 
 ## Grades
  * [34.375 llama atheist](../answers/llama_atheist/Understanding_the_Trinity.md)
@@ -35,3 +35,4 @@ This question addresses the complexities of the Trinity and God's nature.
  * [91.875 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Understanding_the_Trinity.md)
  * [92.5 mistral Bible Translator](../answers/mistral_Bible_Translator/Understanding_the_Trinity.md)
  * [92.5 mistral atheist](../answers/mistral_atheist/Understanding_the_Trinity.md)
+ * [92.5 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Understanding_the_Trinity.md)

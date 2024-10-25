@@ -11,7 +11,7 @@ In what figurative ways is the term 'Zion' used in the Bible?
 Exploring the broader spiritual implications and symbolic meanings of 'Zion' in Christian theology.
 
 ## Average Grade
-85.58928571428571
+85.94318181818181
 
 ## Grades
  * [45.0 gemma atheist](../answers/gemma_atheist/Biblical_Usage_of_Zion.md)
@@ -35,3 +35,4 @@ Exploring the broader spiritual implications and symbolic meanings of 'Zion' in 
  * [92.5 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Biblical_Usage_of_Zion.md)
  * [92.5 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Biblical_Usage_of_Zion.md)
  * [93.125 mistral Bible Translator](../answers/mistral_Bible_Translator/Biblical_Usage_of_Zion.md)
+ * [93.375 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Biblical_Usage_of_Zion.md)

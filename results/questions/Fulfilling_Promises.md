@@ -11,7 +11,7 @@ It is very important to fulfill promises or vows as it reflects one's integrity 
 The significance of keeping one's word and the impact of failing to do so on one's faith.
 
 ## Average Grade
-90.36904761904762
+90.49431818181819
 
 ## Grades
  * [82.5 llama Politician](../answers/llama_Politician/Fulfilling_Promises.md)
@@ -33,5 +33,6 @@ The significance of keeping one's word and the impact of failing to do so on one
  * [93.125 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Fulfilling_Promises.md)
  * [93.125 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Fulfilling_Promises.md)
  * [93.125 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Fulfilling_Promises.md)
+ * [93.125 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Fulfilling_Promises.md)
  * [93.75 gemma Bible Translator](../answers/gemma_Bible_Translator/Fulfilling_Promises.md)
  * [93.75 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Fulfilling_Promises.md)

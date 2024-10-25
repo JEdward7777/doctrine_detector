@@ -11,7 +11,7 @@ It is best translated to retain the meaning of holiness, often implying 'God' or
 Ensuring accurate representation of the term in translations to maintain the theological implications.
 
 ## Average Grade
-84.82738095238095
+85.11931818181819
 
 ## Grades
  * [75.625 gemma Politician](../answers/gemma_Politician/Translation_of_Holy_One.md)
@@ -35,3 +35,4 @@ Ensuring accurate representation of the term in translations to maintain the the
  * [89.375 gemma Bible Translator](../answers/gemma_Bible_Translator/Translation_of_Holy_One.md)
  * [90.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Translation_of_Holy_One.md)
  * [91.25 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Translation_of_Holy_One.md)
+ * [91.25 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Translation_of_Holy_One.md)

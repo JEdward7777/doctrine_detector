@@ -11,7 +11,7 @@ In the Old Testament, atonement was achieved through temporary blood sacrifices,
 Clarifying the transition from temporary to permanent atonement in biblical history.
 
 ## Average Grade
-85.3452380952381
+85.69886363636364
 
 ## Grades
  * [66.25 mistral Imam](../answers/mistral_Imam/Old_vs._New_Testament_Atonement.md)
@@ -34,4 +34,5 @@ Clarifying the transition from temporary to permanent atonement in biblical hist
  * [90.625 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Old_vs._New_Testament_Atonement.md)
  * [91.25 gemma Bible Translator](../answers/gemma_Bible_Translator/Old_vs._New_Testament_Atonement.md)
  * [92.5 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Old_vs._New_Testament_Atonement.md)
+ * [93.125 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Old_vs._New_Testament_Atonement.md)
  * [94.5 llama Bible Translator](../answers/llama_Bible_Translator/Old_vs._New_Testament_Atonement.md)

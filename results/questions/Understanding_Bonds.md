@@ -11,7 +11,7 @@ The Biblical concept of 'bonds' often refers to the commitments we make, both to
 To understand the significance of vows and commitments in maintaining a healthy spiritual life.
 
 ## Average Grade
-82.48809523809524
+82.93181818181819
 
 ## Grades
  * [61.875 llama atheist](../answers/llama_atheist/Understanding_Bonds.md)
@@ -35,3 +35,4 @@ To understand the significance of vows and commitments in maintaining a healthy 
  * [91.25 llama Bible Translator](../answers/llama_Bible_Translator/Understanding_Bonds.md)
  * [91.875 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Understanding_Bonds.md)
  * [92.125 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Understanding_Bonds.md)
+ * [92.25 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Understanding_Bonds.md)

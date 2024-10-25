@@ -11,7 +11,7 @@ We should recognize jealousy as a warning sign to evaluate the health of our rel
 Reflecting on personal relationships and the impact of jealousy on them.
 
 ## Average Grade
-85.27380952380952
+85.57386363636364
 
 ## Grades
  * [71.25 llama atheist](../answers/llama_atheist/Human_Jealousy.md)
@@ -32,6 +32,7 @@ Reflecting on personal relationships and the impact of jealousy on them.
  * [87.5 gemma Imam](../answers/gemma_Imam/Human_Jealousy.md)
  * [87.75 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Human_Jealousy.md)
  * [89.375 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Human_Jealousy.md)
+ * [91.875 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Human_Jealousy.md)
  * [92.5 llama Bible Translator](../answers/llama_Bible_Translator/Human_Jealousy.md)
  * [92.5 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Human_Jealousy.md)
  * [94.375 gemma Bible Translator](../answers/gemma_Bible_Translator/Human_Jealousy.md)

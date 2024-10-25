@@ -11,7 +11,7 @@ To be guilty means to have done something morally wrong, specifically to have di
 Understanding the concept of guilt is crucial for recognizing our need for repentance and forgiveness.
 
 ## Average Grade
-81.88690476190476
+82.22727272727273
 
 ## Grades
  * [39.375 gemma Imam](../answers/gemma_Imam/Understanding_Guilt.md)
@@ -27,6 +27,7 @@ Understanding the concept of guilt is crucial for recognizing our need for repen
  * [88.125 mistral 1.75 vectored](../answers/mistral_1.75_vectored/Understanding_Guilt.md)
  * [88.75 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Understanding_Guilt.md)
  * [89.0 mistral atheist](../answers/mistral_atheist/Understanding_Guilt.md)
+ * [89.375 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Understanding_Guilt.md)
  * [90.0 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Understanding_Guilt.md)
  * [90.625 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Understanding_Guilt.md)
  * [90.625 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Understanding_Guilt.md)

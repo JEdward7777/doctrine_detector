@@ -11,7 +11,7 @@ It means bringing individuals back into fellowship and reconciliation with God, 
 Understanding the significance of reconciliation in the Christian faith.
 
 ## Average Grade
-73.88095238095238
+74.72727272727273
 
 ## Grades
  * [35.625 gemma atheist](../answers/gemma_atheist/Restoration_of_Relationships.md)
@@ -32,6 +32,7 @@ Understanding the significance of reconciliation in the Christian faith.
  * [90.625 llama Bible Translator](../answers/llama_Bible_Translator/Restoration_of_Relationships.md)
  * [90.625 mistral 1.75 vectored](../answers/mistral_1.75_vectored/Restoration_of_Relationships.md)
  * [91.25 mistral Bible Translator](../answers/mistral_Bible_Translator/Restoration_of_Relationships.md)
+ * [92.5 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Restoration_of_Relationships.md)
  * [92.75 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Restoration_of_Relationships.md)
  * [93.75 gemma Bible Translator](../answers/gemma_Bible_Translator/Restoration_of_Relationships.md)
  * [93.75 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Restoration_of_Relationships.md)

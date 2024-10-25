@@ -11,7 +11,7 @@ The Bible teaches that condemnation is a judgment for wrongdoing, but also empha
 Understanding the contrast between condemnation and grace in the Christian life.
 
 ## Average Grade
-74.88690476190476
+75.63068181818181
 
 ## Grades
  * [38.75 llama atheist](../answers/llama_atheist/Understanding_Condemnation.md)
@@ -35,3 +35,4 @@ Understanding the contrast between condemnation and grace in the Christian life.
  * [90.0 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Understanding_Condemnation.md)
  * [90.625 gemma Bible Translator](../answers/gemma_Bible_Translator/Understanding_Condemnation.md)
  * [90.625 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Understanding_Condemnation.md)
+ * [91.25 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Understanding_Condemnation.md)

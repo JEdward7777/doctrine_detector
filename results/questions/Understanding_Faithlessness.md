@@ -11,7 +11,7 @@ The term 'faithless' implies that a person does not have faith or believes in Go
 To help individuals recognize the significance of faith in one's moral conduct.
 
 ## Average Grade
-76.44047619047619
+77.0
 
 ## Grades
  * [59.375 llama atheist](../answers/llama_atheist/Understanding_Faithlessness.md)
@@ -33,5 +33,6 @@ To help individuals recognize the significance of faith in one's moral conduct.
  * [86.875 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Understanding_Faithlessness.md)
  * [87.5 mistral Bible Translator](../answers/mistral_Bible_Translator/Understanding_Faithlessness.md)
  * [88.125 gemma Imam](../answers/gemma_Imam/Understanding_Faithlessness.md)
+ * [88.75 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Understanding_Faithlessness.md)
  * [89.0 llama Bible Translator](../answers/llama_Bible_Translator/Understanding_Faithlessness.md)
  * [91.875 gemma Bible Translator](../answers/gemma_Bible_Translator/Understanding_Faithlessness.md)

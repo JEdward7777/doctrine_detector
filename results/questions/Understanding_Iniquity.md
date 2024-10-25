@@ -11,7 +11,7 @@ Iniquity refers more specifically to deliberate acts of wrongdoing or great wick
 Understanding these distinctions can help Christians better recognize the gravity of their actions and seek repentance.
 
 ## Average Grade
-79.25
+79.71022727272727
 
 ## Grades
  * [45.625 gemma Imam](../answers/gemma_Imam/Understanding_Iniquity.md)
@@ -32,6 +32,7 @@ Understanding these distinctions can help Christians better recognize the gravit
  * [89.375 mistral Bible Translator](../answers/mistral_Bible_Translator/Understanding_Iniquity.md)
  * [89.375 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Understanding_Iniquity.md)
  * [89.375 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Understanding_Iniquity.md)
+ * [89.375 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Understanding_Iniquity.md)
  * [89.625 llama atheist](../answers/llama_atheist/Understanding_Iniquity.md)
  * [90.0 llama Bible Translator](../answers/llama_Bible_Translator/Understanding_Iniquity.md)
  * [91.5 mistral Politician](../answers/mistral_Politician/Understanding_Iniquity.md)

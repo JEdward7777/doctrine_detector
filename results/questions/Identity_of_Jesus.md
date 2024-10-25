@@ -11,7 +11,7 @@ The name 'Jesus' means 'Yahweh saves,' indicating that His purpose is to save pe
 Understanding the significance of Jesus's name and His role as Savior.
 
 ## Average Grade
-75.23809523809524
+76.05113636363636
 
 ## Grades
  * [36.25 gemma Imam](../answers/gemma_Imam/Identity_of_Jesus.md)
@@ -35,3 +35,4 @@ Understanding the significance of Jesus's name and His role as Savior.
  * [91.875 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Identity_of_Jesus.md)
  * [92.5 llama Bible Translator](../answers/llama_Bible_Translator/Identity_of_Jesus.md)
  * [93.125 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Identity_of_Jesus.md)
+ * [93.125 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Identity_of_Jesus.md)

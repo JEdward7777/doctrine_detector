@@ -11,7 +11,7 @@ The new covenant is significant because it is based on the sacrifice of Jesus, w
 Recognizing the transformative power of Jesus' sacrifice in the context of God's promises.
 
 ## Average Grade
-75.5297619047619
+76.30113636363636
 
 ## Grades
  * [45.625 llama Imam](../answers/llama_Imam/New_Covenant_Significance.md)
@@ -35,3 +35,4 @@ Recognizing the transformative power of Jesus' sacrifice in the context of God's
  * [88.75 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/New_Covenant_Significance.md)
  * [90.0 mistral Bible Translator](../answers/mistral_Bible_Translator/New_Covenant_Significance.md)
  * [91.25 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/New_Covenant_Significance.md)
+ * [92.5 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/New_Covenant_Significance.md)

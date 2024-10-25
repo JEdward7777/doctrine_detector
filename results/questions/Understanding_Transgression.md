@@ -11,7 +11,7 @@ In a Biblical context, 'transgress' implies crossing a line or violating a comma
 Understanding the nature of sin and our relationship with God's commandments.
 
 ## Average Grade
-85.99404761904762
+86.28977272727273
 
 ## Grades
  * [56.875 gemma Politician](../answers/gemma_Politician/Understanding_Transgression.md)
@@ -34,4 +34,5 @@ Understanding the nature of sin and our relationship with God's commandments.
  * [91.25 llama Bible Translator](../answers/llama_Bible_Translator/Understanding_Transgression.md)
  * [91.25 mistral Bible Translator](../answers/mistral_Bible_Translator/Understanding_Transgression.md)
  * [91.25 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Understanding_Transgression.md)
+ * [92.5 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Understanding_Transgression.md)
  * [93.75 gemma Bible Translator](../answers/gemma_Bible_Translator/Understanding_Transgression.md)

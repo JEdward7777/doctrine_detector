@@ -11,7 +11,7 @@ The term 'beloved' signifies someone who is loved and dear to someone else, and 
 Understanding the depth of God's love for Jesus and how that relates to believers.
 
 ## Average Grade
-80.2797619047619
+80.80681818181819
 
 ## Grades
  * [50.625 gemma Imam](../answers/gemma_Imam/Definition_of_Beloved.md)
@@ -35,3 +35,4 @@ Understanding the depth of God's love for Jesus and how that relates to believer
  * [90.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Definition_of_Beloved.md)
  * [90.0 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Definition_of_Beloved.md)
  * [91.25 gemma Bible Translator](../answers/gemma_Bible_Translator/Definition_of_Beloved.md)
+ * [91.875 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Definition_of_Beloved.md)

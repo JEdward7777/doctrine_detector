@@ -11,7 +11,7 @@ In the Bible, the term 'Lord' signifies ownership or authority and is used as a 
 Understanding the significance of the term 'Lord' in relation to Jesus and God is crucial for recognizing their authority and divinity.
 
 ## Average Grade
-84.76190476190476
+85.08522727272727
 
 ## Grades
  * [60.625 llama Imam](../answers/llama_Imam/Understanding_Lordship.md)
@@ -35,3 +35,4 @@ Understanding the significance of the term 'Lord' in relation to Jesus and God i
  * [89.375 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Understanding_Lordship.md)
  * [90.0 llama Bible Translator](../answers/llama_Bible_Translator/Understanding_Lordship.md)
  * [91.25 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Understanding_Lordship.md)
+ * [91.875 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Understanding_Lordship.md)

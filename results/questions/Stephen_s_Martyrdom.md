@@ -11,7 +11,7 @@ Stephen's stoning represents the first martyrdom in the early Christian church, 
 Reflecting on the cost of discipleship and the importance of faithfulness in the face of persecution.
 
 ## Average Grade
-84.80952380952381
+85.1590909090909
 
 ## Grades
  * [68.125 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Stephen_s_Martyrdom.md)
@@ -35,3 +35,4 @@ Reflecting on the cost of discipleship and the importance of faithfulness in the
  * [91.5 gemma Bible Translator](../answers/gemma_Bible_Translator/Stephen_s_Martyrdom.md)
  * [91.875 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Stephen_s_Martyrdom.md)
  * [91.875 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Stephen_s_Martyrdom.md)
+ * [92.5 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Stephen_s_Martyrdom.md)

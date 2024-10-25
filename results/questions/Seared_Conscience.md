@@ -11,7 +11,7 @@ A 'seared' conscience refers to one that has become insensitive to sin, indicati
 Recognizing the state of one’s conscience is important for spiritual vigilance and integrity in a believer's life.
 
 ## Average Grade
-84.29166666666667
+84.55113636363636
 
 ## Grades
  * [72.5 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Seared_Conscience.md)
@@ -33,5 +33,6 @@ Recognizing the state of one’s conscience is important for spiritual vigilance
  * [89.375 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Seared_Conscience.md)
  * [89.375 mistral atheist](../answers/mistral_atheist/Seared_Conscience.md)
  * [89.375 gemma Imam](../answers/gemma_Imam/Seared_Conscience.md)
+ * [90.0 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Seared_Conscience.md)
  * [91.5 mistral Politician](../answers/mistral_Politician/Seared_Conscience.md)
  * [91.5 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Seared_Conscience.md)

@@ -11,7 +11,7 @@ In Christianity, believers are viewed as heirs through faith, receiving God's pr
 Exploring the identity of Christians as heirs of God's promises.
 
 ## Average Grade
-84.94642857142857
+85.4034090909091
 
 ## Grades
  * [67.5 gemma atheist](../answers/gemma_atheist/Understanding_Heirs_and_Inheritance_in_Christianity.md)
@@ -35,3 +35,4 @@ Exploring the identity of Christians as heirs of God's promises.
  * [92.5 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Understanding_Heirs_and_Inheritance_in_Christianity.md)
  * [92.5 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Understanding_Heirs_and_Inheritance_in_Christianity.md)
  * [95.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Understanding_Heirs_and_Inheritance_in_Christianity.md)
+ * [95.0 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Understanding_Heirs_and_Inheritance_in_Christianity.md)

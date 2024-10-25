@@ -11,7 +11,7 @@ The term 'word of God' encompasses anything that God has communicated to people,
 Understanding the scope and significance of God's communication to humanity.
 
 ## Average Grade
-83.00595238095238
+83.4090909090909
 
 ## Grades
  * [33.125 gemma Politician](../answers/gemma_Politician/Word_of_God.md)
@@ -35,3 +35,4 @@ Understanding the scope and significance of God's communication to humanity.
  * [91.25 llama Bible Translator](../answers/llama_Bible_Translator/Word_of_God.md)
  * [91.875 gemma Bible Translator](../answers/gemma_Bible_Translator/Word_of_God.md)
  * [91.875 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Word_of_God.md)
+ * [91.875 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Word_of_God.md)

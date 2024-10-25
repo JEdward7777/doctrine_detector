@@ -11,7 +11,7 @@ To confess means to admit or assert that something is true, which can refer to b
 Understanding the biblical context of confession
 
 ## Average Grade
-82.99404761904762
+83.45454545454545
 
 ## Grades
  * [68.75 gemma atheist](../answers/gemma_atheist/Definition_of_Confession.md)
@@ -35,3 +35,4 @@ Understanding the biblical context of confession
  * [91.25 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Definition_of_Confession.md)
  * [91.875 llama Bible Translator](../answers/llama_Bible_Translator/Definition_of_Confession.md)
  * [92.5 mistral Bible Translator](../answers/mistral_Bible_Translator/Definition_of_Confession.md)
+ * [93.125 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Definition_of_Confession.md)

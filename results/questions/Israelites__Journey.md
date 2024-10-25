@@ -11,7 +11,7 @@ The Israelites were brought out of slavery in Egypt and led back to Canaan, fulf
 Reflecting on God's guidance and provision in the journey of His people.
 
 ## Average Grade
-76.76785714285714
+77.53977272727273
 
 ## Grades
  * [25.0 gemma atheist](../answers/gemma_atheist/Israelites__Journey.md)
@@ -35,3 +35,4 @@ Reflecting on God's guidance and provision in the journey of His people.
  * [91.625 gemma Bible Translator](../answers/gemma_Bible_Translator/Israelites__Journey.md)
  * [91.875 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Israelites__Journey.md)
  * [92.625 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Israelites__Journey.md)
+ * [93.75 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Israelites__Journey.md)

@@ -11,7 +11,7 @@ The literal meaning of 'evangelist' is 'someone who preaches the good news.'
 Understanding the role of an evangelist in sharing the gospel.
 
 ## Average Grade
-82.5
+82.92613636363636
 
 ## Grades
  * [53.125 gemma Imam](../answers/gemma_Imam/Definition_of_Evangelist.md)
@@ -35,3 +35,4 @@ Understanding the role of an evangelist in sharing the gospel.
  * [88.75 mistral 1.75 vectored](../answers/mistral_1.75_vectored/Definition_of_Evangelist.md)
  * [89.375 mistral Bible Translator](../answers/mistral_Bible_Translator/Definition_of_Evangelist.md)
  * [90.625 llama Bible Translator](../answers/llama_Bible_Translator/Definition_of_Evangelist.md)
+ * [91.875 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Definition_of_Evangelist.md)

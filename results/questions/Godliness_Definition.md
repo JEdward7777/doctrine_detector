@@ -11,7 +11,7 @@ How does the Bible define 'godliness' in the context of living one's life?
 Clarity on how to incorporate godliness into daily life and actions.
 
 ## Average Grade
-85.39880952380952
+85.66477272727273
 
 ## Grades
  * [73.75 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Godliness_Definition.md)
@@ -33,5 +33,6 @@ Clarity on how to incorporate godliness into daily life and actions.
  * [90.625 gemma Bible Translator](../answers/gemma_Bible_Translator/Godliness_Definition.md)
  * [90.625 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Godliness_Definition.md)
  * [91.25 mistral atheist](../answers/mistral_atheist/Godliness_Definition.md)
+ * [91.25 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Godliness_Definition.md)
  * [92.5 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Godliness_Definition.md)
  * [93.125 llama atheist](../answers/llama_atheist/Godliness_Definition.md)

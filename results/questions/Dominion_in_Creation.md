@@ -11,7 +11,7 @@ The Bible states that at creation, God commanded man to have dominion over the f
 Understanding our God-given authority over creation and how to exercise it responsibly.
 
 ## Average Grade
-86.2202380952381
+86.57386363636364
 
 ## Grades
  * [64.375 mistral 1.75 vectored](../answers/mistral_1.75_vectored/Dominion_in_Creation.md)
@@ -34,4 +34,5 @@ Understanding our God-given authority over creation and how to exercise it respo
  * [92.125 mistral Bible Translator](../answers/mistral_Bible_Translator/Dominion_in_Creation.md)
  * [92.5 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Dominion_in_Creation.md)
  * [92.5 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Dominion_in_Creation.md)
+ * [94.0 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Dominion_in_Creation.md)
  * [94.625 llama Bible Translator](../answers/llama_Bible_Translator/Dominion_in_Creation.md)

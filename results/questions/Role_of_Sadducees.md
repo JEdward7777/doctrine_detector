@@ -11,7 +11,7 @@ The main responsibilities of the Sadducees included taking care of the temple co
 Exploring the historical context of religious leadership in the time of Jesus.
 
 ## Average Grade
-74.83333333333333
+75.21022727272727
 
 ## Grades
  * [39.375 mistral 1.75 vectored](../answers/mistral_1.75_vectored/Role_of_Sadducees.md)
@@ -32,6 +32,7 @@ Exploring the historical context of religious leadership in the time of Jesus.
  * [81.25 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Role_of_Sadducees.md)
  * [81.875 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Role_of_Sadducees.md)
  * [82.5 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Role_of_Sadducees.md)
+ * [83.125 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Role_of_Sadducees.md)
  * [83.75 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Role_of_Sadducees.md)
  * [84.625 gemma atheist](../answers/gemma_atheist/Role_of_Sadducees.md)
  * [87.5 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Role_of_Sadducees.md)

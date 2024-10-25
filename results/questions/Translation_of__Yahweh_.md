@@ -11,7 +11,7 @@ Some churches prefer 'LORD' instead of 'Yahweh' to maintain traditional translat
 This raises questions about the importance of using original names of God versus cultural practices.
 
 ## Average Grade
-80.89285714285714
+81.33522727272727
 
 ## Grades
  * [67.5 gemma Politician](../answers/gemma_Politician/Translation_of__Yahweh_.md)
@@ -35,3 +35,4 @@ This raises questions about the importance of using original names of God versus
  * [86.0 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Translation_of__Yahweh_.md)
  * [86.25 gemma Bible Translator](../answers/gemma_Bible_Translator/Translation_of__Yahweh_.md)
  * [87.5 mistral Imam](../answers/mistral_Imam/Translation_of__Yahweh_.md)
+ * [90.625 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Translation_of__Yahweh_.md)

@@ -11,7 +11,7 @@ The term 'abomination' could be translated as 'something God hates,' 'disgusting
 Accurate translation is crucial for understanding biblical texts and the severity of actions against God's laws.
 
 ## Average Grade
-80.46428571428571
+80.92613636363636
 
 ## Grades
  * [50.0 gemma Politician](../answers/gemma_Politician/Translation_of_Abomination.md)
@@ -35,3 +35,4 @@ Accurate translation is crucial for understanding biblical texts and the severit
  * [88.75 mistral Bible Translator](../answers/mistral_Bible_Translator/Translation_of_Abomination.md)
  * [88.75 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Translation_of_Abomination.md)
  * [89.375 llama Bible Translator](../answers/llama_Bible_Translator/Translation_of_Abomination.md)
+ * [90.625 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Translation_of_Abomination.md)

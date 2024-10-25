@@ -11,7 +11,7 @@ In a Christian context, 'adultery' is defined as a sin where a married person en
 Understanding the Biblical definition and implications of adultery.
 
 ## Average Grade
-85.30952380952381
+85.60795454545455
 
 ## Grades
  * [61.875 gemma Imam](../answers/gemma_Imam/Definition_Clarity.md)
@@ -31,6 +31,7 @@ Understanding the Biblical definition and implications of adultery.
  * [91.25 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Definition_Clarity.md)
  * [91.875 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Definition_Clarity.md)
  * [91.875 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Definition_Clarity.md)
+ * [91.875 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Definition_Clarity.md)
  * [92.5 gemma Bible Translator](../answers/gemma_Bible_Translator/Definition_Clarity.md)
  * [92.5 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Definition_Clarity.md)
  * [93.75 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Definition_Clarity.md)

@@ -11,7 +11,7 @@ Christians can identify corrupt influences by examining behaviors and attitudes 
 Remaining vigilant against worldly influences that may lead away from godly living.
 
 ## Average Grade
-80.89285714285714
+81.39204545454545
 
 ## Grades
  * [58.75 llama Imam](../answers/llama_Imam/Corruption_of_the_World.md)
@@ -34,4 +34,5 @@ Remaining vigilant against worldly influences that may lead away from godly livi
  * [90.0 mistral atheist](../answers/mistral_atheist/Corruption_of_the_World.md)
  * [90.625 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Corruption_of_the_World.md)
  * [91.25 mistral Bible Translator](../answers/mistral_Bible_Translator/Corruption_of_the_World.md)
+ * [91.875 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Corruption_of_the_World.md)
  * [92.5 llama Bible Translator](../answers/llama_Bible_Translator/Corruption_of_the_World.md)

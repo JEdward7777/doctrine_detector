@@ -11,7 +11,7 @@ The term 'Christ' is used both as a title, referring to 'the Anointed One' and a
 Recognizing the significance of the title 'Christ' deepens understanding of Jesus's identity and purpose.
 
 ## Average Grade
-85.55357142857143
+85.86931818181819
 
 ## Grades
  * [70.0 gemma Politician](../answers/gemma_Politician/Christ_as_Title.md)
@@ -34,4 +34,5 @@ Recognizing the significance of the title 'Christ' deepens understanding of Jesu
  * [90.625 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Christ_as_Title.md)
  * [90.875 mistral Bible Translator](../answers/mistral_Bible_Translator/Christ_as_Title.md)
  * [90.875 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Christ_as_Title.md)
+ * [92.5 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Christ_as_Title.md)
  * [93.125 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Christ_as_Title.md)

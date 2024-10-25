@@ -11,7 +11,7 @@ It can also be translated as 'you must name him,' emphasizing the act of assigni
 Understanding the nuances of biblical language and its impact on interpretation.
 
 ## Average Grade
-81.2797619047619
+81.70454545454545
 
 ## Grades
  * [44.375 mistral 1.75 vectored](../answers/mistral_1.75_vectored/Translation_of__Call_.md)
@@ -35,3 +35,4 @@ Understanding the nuances of biblical language and its impact on interpretation.
  * [87.5 llama atheist](../answers/llama_atheist/Translation_of__Call_.md)
  * [88.75 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Translation_of__Call_.md)
  * [90.625 mistral Bible Translator](../answers/mistral_Bible_Translator/Translation_of__Call_.md)
+ * [90.625 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Translation_of__Call_.md)

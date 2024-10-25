@@ -11,7 +11,7 @@ In the Old Testament, being one of the 'people of God' refers to the nation of I
 Understanding the covenant relationship God established with Israel.
 
 ## Average Grade
-81.72619047619048
+82.04545454545455
 
 ## Grades
  * [65.0 llama atheist](../answers/llama_atheist/Definition_of_the_People_of_God.md)
@@ -34,4 +34,5 @@ Understanding the covenant relationship God established with Israel.
  * [87.75 llama Bible Translator](../answers/llama_Bible_Translator/Definition_of_the_People_of_God.md)
  * [88.5 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Definition_of_the_People_of_God.md)
  * [88.75 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Definition_of_the_People_of_God.md)
+ * [88.75 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Definition_of_the_People_of_God.md)
  * [91.875 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Definition_of_the_People_of_God.md)

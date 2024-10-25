@@ -11,7 +11,7 @@ Myrrh was used in preparing dead bodies for burial, signifying its importance in
 Recognizing the customs surrounding burial practices can enhance comprehension of cultural contexts in scripture.
 
 ## Average Grade
-86.29166666666667
+86.56818181818181
 
 ## Grades
  * [73.125 llama Politician](../answers/llama_Politician/Use_in_Burial.md)
@@ -35,3 +35,4 @@ Recognizing the customs surrounding burial practices can enhance comprehension o
  * [90.0 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Use_in_Burial.md)
  * [91.25 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Use_in_Burial.md)
  * [91.875 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Use_in_Burial.md)
+ * [92.375 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Use_in_Burial.md)

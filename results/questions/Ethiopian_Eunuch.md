@@ -11,7 +11,7 @@ The Ethiopian eunuch's conversion and baptism by Philip represents the extension
 Recognizing the inclusiveness of the Christian message and the role of individuals from diverse backgrounds in the early church.
 
 ## Average Grade
-88.04166666666667
+88.24431818181819
 
 ## Grades
  * [59.625 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Ethiopian_Eunuch.md)
@@ -33,5 +33,6 @@ Recognizing the inclusiveness of the Christian message and the role of individua
  * [91.875 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Ethiopian_Eunuch.md)
  * [92.5 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Ethiopian_Eunuch.md)
  * [92.5 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Ethiopian_Eunuch.md)
+ * [92.5 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Ethiopian_Eunuch.md)
  * [93.125 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Ethiopian_Eunuch.md)
  * [93.125 llama Bible Translator](../answers/llama_Bible_Translator/Ethiopian_Eunuch.md)

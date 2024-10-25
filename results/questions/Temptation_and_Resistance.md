@@ -11,7 +11,7 @@ Jesus did not give in to Satan's temptations and ultimately resisted them, showi
 Understanding Jesus' resistance to temptation provides a model for Christians to follow in their own spiritual battles against evil.
 
 ## Average Grade
-75.73214285714286
+76.57954545454545
 
 ## Grades
  * [30.0 mistral 1.75 vectored](../answers/mistral_1.75_vectored/Temptation_and_Resistance.md)
@@ -35,3 +35,4 @@ Understanding Jesus' resistance to temptation provides a model for Christians to
  * [93.5 gemma Bible Translator](../answers/gemma_Bible_Translator/Temptation_and_Resistance.md)
  * [93.75 mistral Bible Translator](../answers/mistral_Bible_Translator/Temptation_and_Resistance.md)
  * [94.375 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Temptation_and_Resistance.md)
+ * [94.375 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Temptation_and_Resistance.md)

@@ -11,7 +11,7 @@ The chief priests held a higher rank and power than the ordinary priests, with t
 Examining the structure of religious leadership in ancient Israel.
 
 ## Average Grade
-80.47619047619048
+80.9659090909091
 
 ## Grades
  * [45.0 gemma Imam](../answers/gemma_Imam/Chief_Priests__Authority.md)
@@ -35,3 +35,4 @@ Examining the structure of religious leadership in ancient Israel.
  * [90.0 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Chief_Priests__Authority.md)
  * [90.625 gemma Bible Translator](../answers/gemma_Bible_Translator/Chief_Priests__Authority.md)
  * [91.25 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Chief_Priests__Authority.md)
+ * [91.25 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Chief_Priests__Authority.md)

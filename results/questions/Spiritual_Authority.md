@@ -11,7 +11,7 @@ Spiritual authorities, mentioned in Ephesians 6:12, are entities that exert powe
 Recognizing the distinction between spiritual and worldly authority and their implications in a Christian's life
 
 ## Average Grade
-81.03571428571429
+81.5284090909091
 
 ## Grades
  * [46.25 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Spiritual_Authority.md)
@@ -35,3 +35,4 @@ Recognizing the distinction between spiritual and worldly authority and their im
  * [90.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Spiritual_Authority.md)
  * [90.0 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Spiritual_Authority.md)
  * [90.25 llama Bible Translator](../answers/llama_Bible_Translator/Spiritual_Authority.md)
+ * [91.875 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Spiritual_Authority.md)

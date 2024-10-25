@@ -11,7 +11,7 @@ God's jealousy refers to His strong desire for His covenant people to remain fai
 Understanding God's character and His desire for our spiritual fidelity.
 
 ## Average Grade
-84.44642857142857
+84.8125
 
 ## Grades
  * [48.75 gemma atheist](../answers/gemma_atheist/God_s_Jealousy.md)
@@ -32,6 +32,7 @@ Understanding God's character and His desire for our spiritual fidelity.
  * [91.25 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/God_s_Jealousy.md)
  * [91.875 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/God_s_Jealousy.md)
  * [92.5 llama Politician](../answers/llama_Politician/God_s_Jealousy.md)
+ * [92.5 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/God_s_Jealousy.md)
  * [93.125 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/God_s_Jealousy.md)
  * [93.75 gemma Bible Translator](../answers/gemma_Bible_Translator/God_s_Jealousy.md)
  * [93.75 llama Bible Translator](../answers/llama_Bible_Translator/God_s_Jealousy.md)

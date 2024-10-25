@@ -11,7 +11,7 @@ Key references include Daniel 7:14, where the 'Son of Man' is depicted coming wi
 To explore how the Old Testament informs the New Testament understanding of Jesus’ messianic role as the 'Son of Man.'
 
 ## Average Grade
-79.05357142857143
+79.49431818181819
 
 ## Grades
  * [50.625 gemma Imam](../answers/gemma_Imam/Biblical_References_3.md)
@@ -30,6 +30,7 @@ To explore how the Old Testament informs the New Testament understanding of Jesu
  * [85.625 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Biblical_References_3.md)
  * [87.5 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Biblical_References_3.md)
  * [88.75 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Biblical_References_3.md)
+ * [88.75 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Biblical_References_3.md)
  * [89.0 llama Bible Translator](../answers/llama_Bible_Translator/Biblical_References_3.md)
  * [89.0 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Biblical_References_3.md)
  * [89.375 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Biblical_References_3.md)

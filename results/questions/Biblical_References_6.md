@@ -11,7 +11,7 @@ Relevant Bible verses include 1 Corinthians 15:13, 1 Peter 3:21, Hebrews 11:35, 
 Focusing on scripture is key for grounding beliefs and teachings in authoritative Christian texts.
 
 ## Average Grade
-79.55357142857143
+80.11363636363636
 
 ## Grades
  * [35.0 mistral 1.75 vectored](../answers/mistral_1.75_vectored/Biblical_References_6.md)
@@ -35,3 +35,4 @@ Focusing on scripture is key for grounding beliefs and teachings in authoritativ
  * [89.375 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Biblical_References_6.md)
  * [91.25 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Biblical_References_6.md)
  * [91.875 llama Bible Translator](../answers/llama_Bible_Translator/Biblical_References_6.md)
+ * [91.875 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Biblical_References_6.md)

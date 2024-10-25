@@ -11,7 +11,7 @@ Favoritism implies acting favorably toward some people over others, often seen a
 It is important for Christians to avoid favoritism and ensure fair and loving treatment of all individuals.
 
 ## Average Grade
-86.76785714285714
+87.05681818181819
 
 ## Grades
  * [63.125 llama atheist](../answers/llama_atheist/Favoritism_in_Relationships.md)
@@ -34,4 +34,5 @@ It is important for Christians to avoid favoritism and ensure fair and loving tr
  * [92.5 gemma Bible Translator](../answers/gemma_Bible_Translator/Favoritism_in_Relationships.md)
  * [92.5 llama Bible Translator](../answers/llama_Bible_Translator/Favoritism_in_Relationships.md)
  * [93.125 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Favoritism_in_Relationships.md)
+ * [93.125 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Favoritism_in_Relationships.md)
  * [95.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Favoritism_in_Relationships.md)

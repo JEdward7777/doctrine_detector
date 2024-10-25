@@ -11,7 +11,7 @@ Herod Antipas is known for his involvement in the events surrounding the ministr
 Understanding the historical and biblical context of Herod Antipas is crucial for interpreting the narratives of the New Testament.
 
 ## Average Grade
-81.78571428571429
+82.13068181818181
 
 ## Grades
  * [36.25 mistral 1.75 vectored](../answers/mistral_1.75_vectored/Tetrarch_Role_in_the_New_Testament.md)
@@ -35,3 +35,4 @@ Understanding the historical and biblical context of Herod Antipas is crucial fo
  * [88.125 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Tetrarch_Role_in_the_New_Testament.md)
  * [89.375 mistral atheist](../answers/mistral_atheist/Tetrarch_Role_in_the_New_Testament.md)
  * [89.375 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Tetrarch_Role_in_the_New_Testament.md)
+ * [89.375 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Tetrarch_Role_in_the_New_Testament.md)

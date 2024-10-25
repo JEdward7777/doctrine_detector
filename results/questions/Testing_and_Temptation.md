@@ -11,7 +11,7 @@ In a biblical context, testing refers to difficult or painful experiences that r
 Differentiating between testing and temptation is essential for spiritual discernment.
 
 ## Average Grade
-84.7797619047619
+85.1590909090909
 
 ## Grades
  * [75.0 mistral Politician](../answers/mistral_Politician/Testing_and_Temptation.md)
@@ -34,4 +34,5 @@ Differentiating between testing and temptation is essential for spiritual discer
  * [90.625 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Testing_and_Temptation.md)
  * [92.5 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Testing_and_Temptation.md)
  * [93.125 llama Bible Translator](../answers/llama_Bible_Translator/Testing_and_Temptation.md)
+ * [93.125 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Testing_and_Temptation.md)
  * [93.75 gemma Bible Translator](../answers/gemma_Bible_Translator/Testing_and_Temptation.md)

@@ -11,7 +11,7 @@ Christians are called to live holy lives by following God's commandments, engagi
 This question addresses the practical application of holiness in a believer's life.
 
 ## Average Grade
-80.91071428571429
+81.38068181818181
 
 ## Grades
  * [46.875 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Purpose_of_Holiness.md)
@@ -34,4 +34,5 @@ This question addresses the practical application of holiness in a believer's li
  * [90.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Purpose_of_Holiness.md)
  * [91.25 gemma Bible Translator](../answers/gemma_Bible_Translator/Purpose_of_Holiness.md)
  * [91.25 llama Bible Translator](../answers/llama_Bible_Translator/Purpose_of_Holiness.md)
+ * [91.25 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Purpose_of_Holiness.md)
  * [92.5 mistral Bible Translator](../answers/mistral_Bible_Translator/Purpose_of_Holiness.md)

@@ -11,7 +11,7 @@ The biblical concept of reconciliation suggests that because of sin, all human b
 Understanding the nature of sin and God's provision for reconciliation.
 
 ## Average Grade
-83.75595238095238
+84.18181818181819
 
 ## Grades
  * [60.0 llama atheist](../answers/llama_atheist/Understanding_Reconciliation.md)
@@ -33,5 +33,6 @@ Understanding the nature of sin and God's provision for reconciliation.
  * [91.875 gemma Bible Translator](../answers/gemma_Bible_Translator/Understanding_Reconciliation.md)
  * [92.5 mistral Bible Translator](../answers/mistral_Bible_Translator/Understanding_Reconciliation.md)
  * [93.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Understanding_Reconciliation.md)
+ * [93.125 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Understanding_Reconciliation.md)
  * [93.75 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Understanding_Reconciliation.md)
  * [94.0 llama Bible Translator](../answers/llama_Bible_Translator/Understanding_Reconciliation.md)

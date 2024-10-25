@@ -11,7 +11,7 @@ The priests ministered to God by offering sacrifices, taking care of the temple,
 Recognizing the practices of the Old Testament can inform current ministry approaches and understanding of sacrificial service.
 
 ## Average Grade
-81.45833333333333
+81.64772727272727
 
 ## Grades
  * [67.5 llama Politician](../answers/llama_Politician/Old_Testament_Ministry.md)
@@ -30,6 +30,7 @@ Recognizing the practices of the Old Testament can inform current ministry appro
  * [85.625 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Old_Testament_Ministry.md)
  * [85.625 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Old_Testament_Ministry.md)
  * [85.625 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Old_Testament_Ministry.md)
+ * [85.625 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Old_Testament_Ministry.md)
  * [86.25 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Old_Testament_Ministry.md)
  * [86.875 llama atheist](../answers/llama_atheist/Old_Testament_Ministry.md)
  * [86.875 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Old_Testament_Ministry.md)

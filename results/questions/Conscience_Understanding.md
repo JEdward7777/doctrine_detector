@@ -11,7 +11,7 @@ The conscience is part of a person’s thinking through which God makes them awa
 Understanding the biblical concept of conscience is crucial for moral decision-making in a Christian context.
 
 ## Average Grade
-85.16666666666667
+85.5
 
 ## Grades
  * [60.0 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Conscience_Understanding.md)
@@ -34,4 +34,5 @@ Understanding the biblical concept of conscience is crucial for moral decision-m
  * [91.25 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Conscience_Understanding.md)
  * [91.25 mistral Imam](../answers/mistral_Imam/Conscience_Understanding.md)
  * [92.5 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Conscience_Understanding.md)
+ * [92.5 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Conscience_Understanding.md)
  * [93.125 gemma Imam](../answers/gemma_Imam/Conscience_Understanding.md)

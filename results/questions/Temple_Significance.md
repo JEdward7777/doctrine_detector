@@ -11,7 +11,7 @@ The temple was built as a permanent place of worship for the Israelites to pray 
 Understanding the role of the temple in the context of Old Testament worship.
 
 ## Average Grade
-76.38095238095238
+77.08522727272727
 
 ## Grades
  * [35.625 gemma atheist](../answers/gemma_atheist/Temple_Significance.md)
@@ -35,3 +35,4 @@ Understanding the role of the temple in the context of Old Testament worship.
  * [91.25 llama Bible Translator](../answers/llama_Bible_Translator/Temple_Significance.md)
  * [91.25 mistral Bible Translator](../answers/mistral_Bible_Translator/Temple_Significance.md)
  * [91.875 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Temple_Significance.md)
+ * [91.875 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Temple_Significance.md)

@@ -11,7 +11,7 @@ In a Christian context, 'fellowship' refers to the unity of believers in Christ 
 Understanding the spiritual definition of fellowship is important for nurturing community among believers.
 
 ## Average Grade
-86.39880952380952
+86.5909090909091
 
 ## Grades
  * [57.5 gemma Politician](../answers/gemma_Politician/Fellowship_Meaning.md)
@@ -31,6 +31,7 @@ Understanding the spiritual definition of fellowship is important for nurturing 
  * [90.0 gemma atheist](../answers/gemma_atheist/Fellowship_Meaning.md)
  * [90.0 llama atheist](../answers/llama_atheist/Fellowship_Meaning.md)
  * [90.625 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Fellowship_Meaning.md)
+ * [90.625 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Fellowship_Meaning.md)
  * [91.25 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Fellowship_Meaning.md)
  * [91.875 gemma Bible Translator](../answers/gemma_Bible_Translator/Fellowship_Meaning.md)
  * [91.875 llama Bible Translator](../answers/llama_Bible_Translator/Fellowship_Meaning.md)

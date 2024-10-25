@@ -11,7 +11,7 @@ The vast majority of the Old Testament was written in Hebrew.
 This knowledge is essential for studying the Scriptures and understanding their original context.
 
 ## Average Grade
-87.54166666666667
+87.71022727272727
 
 ## Grades
  * [68.75 llama Imam](../answers/llama_Imam/Language_of_the_Old_Testament.md)
@@ -29,6 +29,7 @@ This knowledge is essential for studying the Scriptures and understanding their 
  * [90.625 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Language_of_the_Old_Testament.md)
  * [90.625 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Language_of_the_Old_Testament.md)
  * [91.25 llama Bible Translator](../answers/llama_Bible_Translator/Language_of_the_Old_Testament.md)
+ * [91.25 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Language_of_the_Old_Testament.md)
  * [91.875 gemma Bible Translator](../answers/gemma_Bible_Translator/Language_of_the_Old_Testament.md)
  * [91.875 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Language_of_the_Old_Testament.md)
  * [92.5 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Language_of_the_Old_Testament.md)

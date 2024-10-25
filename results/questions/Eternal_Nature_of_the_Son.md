@@ -11,7 +11,7 @@ Unlike human sons, the Son of God has always existed and was active in the creat
 Emphasizing the preeminence and eternal existence of Jesus as the Son of God.
 
 ## Average Grade
-77.32142857142857
+78.05113636363636
 
 ## Grades
  * [33.125 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Eternal_Nature_of_the_Son.md)
@@ -34,4 +34,5 @@ Emphasizing the preeminence and eternal existence of Jesus as the Son of God.
  * [91.875 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Eternal_Nature_of_the_Son.md)
  * [91.875 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Eternal_Nature_of_the_Son.md)
  * [92.5 mistral Bible Translator](../answers/mistral_Bible_Translator/Eternal_Nature_of_the_Son.md)
+ * [93.375 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Eternal_Nature_of_the_Son.md)
  * [94.375 llama Bible Translator](../answers/llama_Bible_Translator/Eternal_Nature_of_the_Son.md)

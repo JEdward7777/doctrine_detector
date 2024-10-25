@@ -11,7 +11,7 @@ The Biblical definitions of 'clean' and 'unclean' are not only about physical st
 Understanding the significance of cleanliness in a spiritual context can guide believers in their personal and communal lives.
 
 ## Average Grade
-79.3452380952381
+80.05681818181819
 
 ## Grades
  * [50.625 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Understanding_Cleanliness.md)
@@ -35,3 +35,4 @@ Understanding the significance of cleanliness in a spiritual context can guide b
  * [90.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Understanding_Cleanliness.md)
  * [90.625 llama Bible Translator](../answers/llama_Bible_Translator/Understanding_Cleanliness.md)
  * [93.125 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Understanding_Cleanliness.md)
+ * [95.0 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Understanding_Cleanliness.md)

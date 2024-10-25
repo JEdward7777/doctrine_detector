@@ -11,7 +11,7 @@ Care should be taken to ensure that the term 'sanctuary' does not refer to a wor
 Ensuring proper understanding and translation of Biblical terms to maintain their original meaning.
 
 ## Average Grade
-80.71428571428571
+81.19318181818181
 
 ## Grades
  * [51.875 gemma Imam](../answers/gemma_Imam/Translation_of_Sanctuary.md)
@@ -34,4 +34,5 @@ Ensuring proper understanding and translation of Biblical terms to maintain thei
  * [87.5 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Translation_of_Sanctuary.md)
  * [88.125 mistral atheist](../answers/mistral_atheist/Translation_of_Sanctuary.md)
  * [90.625 mistral Bible Translator](../answers/mistral_Bible_Translator/Translation_of_Sanctuary.md)
+ * [91.25 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Translation_of_Sanctuary.md)
  * [91.875 llama Bible Translator](../answers/llama_Bible_Translator/Translation_of_Sanctuary.md)

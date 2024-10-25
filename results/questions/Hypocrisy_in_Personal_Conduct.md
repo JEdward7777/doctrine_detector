@@ -11,7 +11,7 @@ We can ensure that our actions align with our beliefs by regularly examining our
 Hypocrisy can lead to a loss of integrity and may cause others to question our faith.
 
 ## Average Grade
-83.29761904761905
+83.77272727272727
 
 ## Grades
  * [67.5 llama atheist](../answers/llama_atheist/Hypocrisy_in_Personal_Conduct.md)
@@ -35,3 +35,4 @@ Hypocrisy can lead to a loss of integrity and may cause others to question our f
  * [90.625 llama Bible Translator](../answers/llama_Bible_Translator/Hypocrisy_in_Personal_Conduct.md)
  * [90.625 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Hypocrisy_in_Personal_Conduct.md)
  * [92.75 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Hypocrisy_in_Personal_Conduct.md)
+ * [93.75 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Hypocrisy_in_Personal_Conduct.md)

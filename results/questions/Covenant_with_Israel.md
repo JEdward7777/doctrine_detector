@@ -11,7 +11,7 @@ The covenant established that the Israelites were God's chosen people.
 Recognizing the importance of God's promises and relationship with His chosen people.
 
 ## Average Grade
-75.5952380952381
+76.2784090909091
 
 ## Grades
  * [35.0 gemma atheist](../answers/gemma_atheist/Covenant_with_Israel.md)
@@ -35,3 +35,4 @@ Recognizing the importance of God's promises and relationship with His chosen pe
  * [88.75 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Covenant_with_Israel.md)
  * [89.375 gemma Bible Translator](../answers/gemma_Bible_Translator/Covenant_with_Israel.md)
  * [89.375 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Covenant_with_Israel.md)
+ * [90.625 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Covenant_with_Israel.md)

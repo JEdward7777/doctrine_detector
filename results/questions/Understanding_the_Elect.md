@@ -11,7 +11,7 @@ To be part of the 'elect' means to be appointed or selected by God as His people
 Understanding the significance of being chosen by God in one's faith journey.
 
 ## Average Grade
-80.98214285714286
+81.5340909090909
 
 ## Grades
  * [53.75 llama atheist](../answers/llama_atheist/Understanding_the_Elect.md)
@@ -35,3 +35,4 @@ Understanding the significance of being chosen by God in one's faith journey.
  * [90.625 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Understanding_the_Elect.md)
  * [90.625 mistral 1.75 vectored](../answers/mistral_1.75_vectored/Understanding_the_Elect.md)
  * [91.25 gemma Bible Translator](../answers/gemma_Bible_Translator/Understanding_the_Elect.md)
+ * [93.125 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Understanding_the_Elect.md)

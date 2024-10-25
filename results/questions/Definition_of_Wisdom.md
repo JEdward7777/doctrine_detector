@@ -11,7 +11,7 @@ To be wise means to understand what is right and moral, to make good decisions w
 Understanding the biblical concept of wisdom is crucial for making decisions that align with God's will.
 
 ## Average Grade
-86.9047619047619
+87.1590909090909
 
 ## Grades
  * [61.25 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Definition_of_Wisdom.md)
@@ -30,6 +30,7 @@ Understanding the biblical concept of wisdom is crucial for making decisions tha
  * [90.625 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Definition_of_Wisdom.md)
  * [90.625 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Definition_of_Wisdom.md)
  * [90.625 mistral Imam](../answers/mistral_Imam/Definition_of_Wisdom.md)
+ * [92.5 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Definition_of_Wisdom.md)
  * [93.125 mistral Bible Translator](../answers/mistral_Bible_Translator/Definition_of_Wisdom.md)
  * [93.125 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Definition_of_Wisdom.md)
  * [93.75 llama Bible Translator](../answers/llama_Bible_Translator/Definition_of_Wisdom.md)

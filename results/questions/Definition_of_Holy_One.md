@@ -11,7 +11,7 @@ The term 'Holy One' almost always refers to God, specifically highlighting His h
 Understanding the holiness of God and His unique role in scripture.
 
 ## Average Grade
-77.96428571428571
+78.56818181818181
 
 ## Grades
  * [42.5 gemma atheist](../answers/gemma_atheist/Definition_of_Holy_One.md)
@@ -32,6 +32,7 @@ Understanding the holiness of God and His unique role in scripture.
  * [88.75 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Definition_of_Holy_One.md)
  * [90.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Definition_of_Holy_One.md)
  * [90.0 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Definition_of_Holy_One.md)
+ * [91.25 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Definition_of_Holy_One.md)
  * [91.875 llama Bible Translator](../answers/llama_Bible_Translator/Definition_of_Holy_One.md)
  * [91.875 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Definition_of_Holy_One.md)
  * [93.125 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Definition_of_Holy_One.md)

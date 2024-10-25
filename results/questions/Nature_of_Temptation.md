@@ -11,7 +11,7 @@ Our sinful nature drives us to desire what is wrong, while external influences, 
 This question reflects on the understanding of the sources and reasons for temptation in Christian teaching.
 
 ## Average Grade
-71.96428571428571
+72.89772727272727
 
 ## Grades
  * [31.875 llama atheist](../answers/llama_atheist/Nature_of_Temptation.md)
@@ -35,3 +35,4 @@ This question reflects on the understanding of the sources and reasons for tempt
  * [91.875 mistral Bible Translator](../answers/mistral_Bible_Translator/Nature_of_Temptation.md)
  * [92.5 llama Bible Translator](../answers/llama_Bible_Translator/Nature_of_Temptation.md)
  * [92.5 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Nature_of_Temptation.md)
+ * [92.5 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Nature_of_Temptation.md)

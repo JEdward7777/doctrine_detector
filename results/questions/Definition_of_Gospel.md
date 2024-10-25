@@ -11,7 +11,7 @@ The term 'gospel' literally means 'good news' and refers to the message about Go
 Understanding the definition and significance of the Gospel in Christian faith.
 
 ## Average Grade
-84.85119047619048
+85.14204545454545
 
 ## Grades
  * [64.375 llama Imam](../answers/llama_Imam/Definition_of_Gospel.md)
@@ -34,4 +34,5 @@ Understanding the definition and significance of the Gospel in Christian faith.
  * [90.0 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Definition_of_Gospel.md)
  * [90.625 mistral Bible Translator](../answers/mistral_Bible_Translator/Definition_of_Gospel.md)
  * [91.25 llama atheist](../answers/llama_atheist/Definition_of_Gospel.md)
+ * [91.25 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Definition_of_Gospel.md)
  * [93.75 llama Bible Translator](../answers/llama_Bible_Translator/Definition_of_Gospel.md)

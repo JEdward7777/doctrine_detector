@@ -11,7 +11,7 @@ Only the high priest could approach the ark, and he did so once a year on the Da
 Recognizing the role of the high priest in the Israelite's relationship with God and the covenant.
 
 ## Average Grade
-76.05357142857143
+76.77272727272727
 
 ## Grades
  * [19.375 gemma Imam](../answers/gemma_Imam/High_Priest_Access.md)
@@ -33,5 +33,6 @@ Recognizing the role of the high priest in the Israelite's relationship with God
  * [90.625 mistral Politician](../answers/mistral_Politician/High_Priest_Access.md)
  * [90.625 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/High_Priest_Access.md)
  * [91.25 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/High_Priest_Access.md)
+ * [91.875 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/High_Priest_Access.md)
  * [93.125 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/High_Priest_Access.md)
  * [94.0 llama Bible Translator](../answers/llama_Bible_Translator/High_Priest_Access.md)

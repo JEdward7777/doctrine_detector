@@ -20,6 +20,7 @@
     { "service": "ollama", "model": "llama3:latest", "label": "llama Imam", "system": "You are a Muslim Imam answering questions from a Muslim context and background." },
     { "service": "ollama", "model": "mistral:latest", "label": "mistral Imam", "system": "You are a Muslim Imam answering questions from a Muslim context and background." },
     { "service": "openai", "model": "gpt-4o-mini", "key": "openai", "label": "gpt-4o-mini Imam", "system": "You are a Muslim Imam answering questions from a Muslim context and background." },
-    { "service": "ollama", "key":"vastai", "model": "Christian-Mistral-7B-1.75", "label": "mistral 1.75 vectored", "system": "" }
+    { "service": "ollama", "key":"vastai", "model": "Christian-Mistral-7B-1.75", "label": "mistral 1.75 vectored", "system": "" },
+    { "service": "loop", "loop_service": "openai", "model": "gpt-4o-mini", "key": "openai", "label": "gpt-4o-mini loop", "first answerer": "gpt-4o-mini Bible Translator", "first grader": "gpt-4o-mini_blind", "system": "You are a Christian Bible translator who is updating answers according to a devout Christain perspective according to provided feedback."}
 ]
 

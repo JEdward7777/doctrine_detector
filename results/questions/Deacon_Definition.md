@@ -11,7 +11,7 @@ A deacon serves in the local church by helping fellow believers with practical n
 Understanding the biblical role of servanthood in the church.
 
 ## Average Grade
-72.64880952380952
+73.4090909090909
 
 ## Grades
  * [50.625 llama Politician](../answers/llama_Politician/Deacon_Definition.md)
@@ -34,4 +34,5 @@ Understanding the biblical role of servanthood in the church.
  * [85.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Deacon_Definition.md)
  * [86.875 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Deacon_Definition.md)
  * [88.125 mistral Bible Translator](../answers/mistral_Bible_Translator/Deacon_Definition.md)
+ * [89.375 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Deacon_Definition.md)
  * [90.0 llama Bible Translator](../answers/llama_Bible_Translator/Deacon_Definition.md)

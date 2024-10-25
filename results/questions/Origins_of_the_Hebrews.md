@@ -11,7 +11,7 @@ The Hebrews are descended from Abraham through the line of Isaac and Jacob.
 Understanding the heritage of the Hebrew people is important for grasping Biblical narratives.
 
 ## Average Grade
-79.7797619047619
+80.30113636363636
 
 ## Grades
  * [38.75 gemma atheist](../answers/gemma_atheist/Origins_of_the_Hebrews.md)
@@ -34,4 +34,5 @@ Understanding the heritage of the Hebrew people is important for grasping Biblic
  * [90.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Origins_of_the_Hebrews.md)
  * [91.25 mistral Bible Translator](../answers/mistral_Bible_Translator/Origins_of_the_Hebrews.md)
  * [91.25 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Origins_of_the_Hebrews.md)
+ * [91.25 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Origins_of_the_Hebrews.md)
  * [91.875 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Origins_of_the_Hebrews.md)

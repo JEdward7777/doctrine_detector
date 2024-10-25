@@ -11,7 +11,7 @@ It implies that believers can expect Jesus' return as the Messiah, affirming hop
 To grasp the implications of Jesus’ second coming as the 'Son of Man' for Christian hope and eschatology.
 
 ## Average Grade
-77.44047619047619
+78.125
 
 ## Grades
  * [55.625 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Second_Coming.md)
@@ -35,3 +35,4 @@ To grasp the implications of Jesus’ second coming as the 'Son of Man' for Chri
  * [90.625 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Second_Coming.md)
  * [91.25 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Second_Coming.md)
  * [91.25 llama Bible Translator](../answers/llama_Bible_Translator/Second_Coming.md)
+ * [92.5 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Second_Coming.md)

@@ -11,7 +11,7 @@ The Pharisees were concerned about keeping the Jewish people separated from the 
 This concern reflects the Pharisees' desire to uphold their faith in a diverse cultural context.
 
 ## Average Grade
-82.83928571428571
+83.16477272727273
 
 ## Grades
  * [66.25 mistral 1.75 vectored](../answers/mistral_1.75_vectored/Separation_from_Gentiles.md)
@@ -34,4 +34,5 @@ This concern reflects the Pharisees' desire to uphold their faith in a diverse c
  * [88.75 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Separation_from_Gentiles.md)
  * [89.375 gemma Imam](../answers/gemma_Imam/Separation_from_Gentiles.md)
  * [90.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Separation_from_Gentiles.md)
+ * [90.0 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Separation_from_Gentiles.md)
  * [91.5 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Separation_from_Gentiles.md)

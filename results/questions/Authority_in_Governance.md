@@ -11,7 +11,7 @@ The Bible affirms that governing rulers have been established by God and possess
 Understanding the God-ordained structure of authority and our responsibility to obey
 
 ## Average Grade
-83.85119047619048
+84.23295454545455
 
 ## Grades
  * [61.875 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Authority_in_Governance.md)
@@ -34,4 +34,5 @@ Understanding the God-ordained structure of authority and our responsibility to 
  * [90.625 llama Politician](../answers/llama_Politician/Authority_in_Governance.md)
  * [90.875 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Authority_in_Governance.md)
  * [91.875 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Authority_in_Governance.md)
+ * [92.25 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Authority_in_Governance.md)
  * [92.5 llama Bible Translator](../answers/llama_Bible_Translator/Authority_in_Governance.md)

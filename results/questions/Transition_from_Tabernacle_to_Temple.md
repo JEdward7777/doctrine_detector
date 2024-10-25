@@ -11,7 +11,7 @@ The Israelites stopped using the tabernacle when the temple was built in Jerusal
 Understanding the transition in worship practices from the tabernacle to the temple.
 
 ## Average Grade
-79.19642857142857
+79.6875
 
 ## Grades
  * [32.5 gemma Imam](../answers/gemma_Imam/Transition_from_Tabernacle_to_Temple.md)
@@ -32,6 +32,7 @@ Understanding the transition in worship practices from the tabernacle to the tem
  * [89.375 gemma Bible Translator](../answers/gemma_Bible_Translator/Transition_from_Tabernacle_to_Temple.md)
  * [89.375 mistral Bible Translator](../answers/mistral_Bible_Translator/Transition_from_Tabernacle_to_Temple.md)
  * [89.375 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Transition_from_Tabernacle_to_Temple.md)
+ * [90.0 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Transition_from_Tabernacle_to_Temple.md)
  * [91.875 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Transition_from_Tabernacle_to_Temple.md)
  * [91.875 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Transition_from_Tabernacle_to_Temple.md)
  * [92.875 llama Bible Translator](../answers/llama_Bible_Translator/Transition_from_Tabernacle_to_Temple.md)

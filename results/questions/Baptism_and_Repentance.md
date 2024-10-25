@@ -11,7 +11,7 @@ Repentance is a prerequisite for baptism, as seen in instances where individuals
 Understanding the relationship between repentance and baptism in Christian doctrine.
 
 ## Average Grade
-75.16071428571429
+75.97727272727273
 
 ## Grades
  * [33.75 gemma Politician](../answers/gemma_Politician/Baptism_and_Repentance.md)
@@ -35,3 +35,4 @@ Understanding the relationship between repentance and baptism in Christian doctr
  * [92.125 mistral Bible Translator](../answers/mistral_Bible_Translator/Baptism_and_Repentance.md)
  * [92.5 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Baptism_and_Repentance.md)
  * [93.125 gemma Bible Translator](../answers/gemma_Bible_Translator/Baptism_and_Repentance.md)
+ * [93.125 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Baptism_and_Repentance.md)

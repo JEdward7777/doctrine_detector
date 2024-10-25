@@ -11,7 +11,7 @@ James 3:10 teaches that cursing and blessing should not come from the same mouth
 Understanding the implications of our words and their alignment with God's teachings.
 
 ## Average Grade
-85.06547619047619
+85.375
 
 ## Grades
  * [60.625 mistral 1.75 vectored](../answers/mistral_1.75_vectored/Understanding_Curses.md)
@@ -33,5 +33,6 @@ Understanding the implications of our words and their alignment with God's teach
  * [89.625 llama atheist](../answers/llama_atheist/Understanding_Curses.md)
  * [91.5 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Understanding_Curses.md)
  * [91.875 gemma Bible Translator](../answers/gemma_Bible_Translator/Understanding_Curses.md)
+ * [91.875 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Understanding_Curses.md)
  * [93.125 llama Bible Translator](../answers/llama_Bible_Translator/Understanding_Curses.md)
  * [93.125 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Understanding_Curses.md)

@@ -11,7 +11,7 @@ In the New Testament, purification refers to being permanently cleansed from sin
 Recognizing the sufficiency of Christ’s sacrifice as the means of eternal purification from sin.
 
 ## Average Grade
-88.89285714285714
+89.06818181818181
 
 ## Grades
  * [80.625 gemma Politician](../answers/gemma_Politician/New_Testament_Redemption.md)
@@ -35,3 +35,4 @@ Recognizing the sufficiency of Christ’s sacrifice as the means of eternal puri
  * [91.5 mistral Bible Translator](../answers/mistral_Bible_Translator/New_Testament_Redemption.md)
  * [92.5 llama Bible Translator](../answers/llama_Bible_Translator/New_Testament_Redemption.md)
  * [92.5 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/New_Testament_Redemption.md)
+ * [92.75 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/New_Testament_Redemption.md)

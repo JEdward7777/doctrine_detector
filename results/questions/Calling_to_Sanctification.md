@@ -11,7 +11,7 @@ Believers in Jesus are commanded to sanctify themselves to God and to be holy in
 Emphasizing the importance of personal responsibility in the sanctification process.
 
 ## Average Grade
-73.70238095238095
+74.5284090909091
 
 ## Grades
  * [33.75 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Calling_to_Sanctification.md)
@@ -35,3 +35,4 @@ Emphasizing the importance of personal responsibility in the sanctification proc
  * [88.75 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Calling_to_Sanctification.md)
  * [90.0 llama Bible Translator](../answers/llama_Bible_Translator/Calling_to_Sanctification.md)
  * [91.875 gemma Bible Translator](../answers/gemma_Bible_Translator/Calling_to_Sanctification.md)
+ * [91.875 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Calling_to_Sanctification.md)

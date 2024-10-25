@@ -11,7 +11,7 @@ God required the Israelites to obey His laws as part of the covenant, which was 
 Recognizing the importance of obedience to God's commandments in achieving His promises.
 
 ## Average Grade
-81.91666666666667
+82.48295454545455
 
 ## Grades
  * [36.875 llama atheist](../answers/llama_atheist/Covenant_and_Obedience.md)
@@ -35,3 +35,4 @@ Recognizing the importance of obedience to God's commandments in achieving His p
  * [93.125 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Covenant_and_Obedience.md)
  * [93.5 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Covenant_and_Obedience.md)
  * [94.375 gemma Bible Translator](../answers/gemma_Bible_Translator/Covenant_and_Obedience.md)
+ * [94.375 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Covenant_and_Obedience.md)

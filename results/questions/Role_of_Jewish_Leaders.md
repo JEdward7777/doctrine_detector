@@ -11,7 +11,7 @@ The Jewish religious leaders played a crucial role by compelling the Roman gover
 Reflecting on the historical context of Jesus' death and the dynamics between religious authority and civil power.
 
 ## Average Grade
-74.61309523809524
+75.3125
 
 ## Grades
  * [36.875 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Role_of_Jewish_Leaders.md)
@@ -35,3 +35,4 @@ Reflecting on the historical context of Jesus' death and the dynamics between re
  * [88.125 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Role_of_Jewish_Leaders.md)
  * [88.375 llama Bible Translator](../answers/llama_Bible_Translator/Role_of_Jewish_Leaders.md)
  * [89.375 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Role_of_Jewish_Leaders.md)
+ * [90.0 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Role_of_Jewish_Leaders.md)

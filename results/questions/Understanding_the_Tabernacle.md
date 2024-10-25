@@ -11,7 +11,7 @@ The tabernacle served as a special dwelling place where the Israelites worshiped
 Understanding the role of the tabernacle in the Israelites' relationship with God.
 
 ## Average Grade
-79.11904761904762
+79.67045454545455
 
 ## Grades
  * [46.875 gemma atheist](../answers/gemma_atheist/Understanding_the_Tabernacle.md)
@@ -33,5 +33,6 @@ Understanding the role of the tabernacle in the Israelites' relationship with Go
  * [89.375 llama Bible Translator](../answers/llama_Bible_Translator/Understanding_the_Tabernacle.md)
  * [89.375 mistral atheist](../answers/mistral_atheist/Understanding_the_Tabernacle.md)
  * [91.25 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Understanding_the_Tabernacle.md)
+ * [91.25 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Understanding_the_Tabernacle.md)
  * [91.5 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Understanding_the_Tabernacle.md)
  * [91.875 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Understanding_the_Tabernacle.md)

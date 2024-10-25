@@ -11,7 +11,7 @@ How can 'divine glory' be understood in the context of worship?
 Recognizing God's glory is crucial in worship practices and influences how Christians express reverence and awe towards Him.
 
 ## Average Grade
-74.45833333333333
+75.19318181818181
 
 ## Grades
  * [33.75 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Interpreting_Divine_Glory.md)
@@ -31,6 +31,7 @@ Recognizing God's glory is crucial in worship practices and influences how Chris
  * [82.5 gemma Politician](../answers/gemma_Politician/Interpreting_Divine_Glory.md)
  * [83.125 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Interpreting_Divine_Glory.md)
  * [90.25 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Interpreting_Divine_Glory.md)
+ * [90.625 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Interpreting_Divine_Glory.md)
  * [91.25 gemma Bible Translator](../answers/gemma_Bible_Translator/Interpreting_Divine_Glory.md)
  * [91.5 llama Bible Translator](../answers/llama_Bible_Translator/Interpreting_Divine_Glory.md)
  * [93.125 mistral Bible Translator](../answers/mistral_Bible_Translator/Interpreting_Divine_Glory.md)

@@ -11,7 +11,7 @@ When Jesus said, 'I am the Resurrection and the Life,' he meant that he is the s
 Clarifying Jesus' identity and role in resurrection is important for faith and theological understanding.
 
 ## Average Grade
-75.98214285714286
+76.70454545454545
 
 ## Grades
  * [45.0 gemma Politician](../answers/gemma_Politician/Jesus__Statement.md)
@@ -34,4 +34,5 @@ Clarifying Jesus' identity and role in resurrection is important for faith and t
  * [90.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Jesus__Statement.md)
  * [90.0 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Jesus__Statement.md)
  * [90.625 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Jesus__Statement.md)
+ * [91.875 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Jesus__Statement.md)
  * [92.5 llama Bible Translator](../answers/llama_Bible_Translator/Jesus__Statement.md)

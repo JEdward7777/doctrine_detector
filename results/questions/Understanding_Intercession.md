@@ -11,7 +11,7 @@ The Bible teaches that the Holy Spirit intercedes for us by praying to God on ou
 To deepen understanding of the Holy Spirit's involvement in prayer and intercession.
 
 ## Average Grade
-79.76190476190476
+80.39772727272727
 
 ## Grades
  * [46.25 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Understanding_Intercession.md)
@@ -35,3 +35,4 @@ To deepen understanding of the Holy Spirit's involvement in prayer and intercess
  * [91.25 gemma Bible Translator](../answers/gemma_Bible_Translator/Understanding_Intercession.md)
  * [91.875 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Understanding_Intercession.md)
  * [92.5 llama Bible Translator](../answers/llama_Bible_Translator/Understanding_Intercession.md)
+ * [93.75 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Understanding_Intercession.md)

@@ -11,7 +11,7 @@ The term 'ark' can refer to different sized containers depending on the contextâ
 Ensuring proper interpretation of scripture through accurate translation of terms and understanding their contextual meaning.
 
 ## Average Grade
-81.42261904761905
+81.72727272727273
 
 ## Grades
  * [47.5 mistral 1.75 vectored](../answers/mistral_1.75_vectored/Translation_of_Ark.md)
@@ -31,6 +31,7 @@ Ensuring proper interpretation of scripture through accurate translation of term
  * [86.875 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Translation_of_Ark.md)
  * [87.5 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Translation_of_Ark.md)
  * [88.0 gemma atheist](../answers/gemma_atheist/Translation_of_Ark.md)
+ * [88.125 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Translation_of_Ark.md)
  * [89.375 llama Bible Translator](../answers/llama_Bible_Translator/Translation_of_Ark.md)
  * [89.375 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Translation_of_Ark.md)
  * [90.0 llama atheist](../answers/llama_atheist/Translation_of_Ark.md)

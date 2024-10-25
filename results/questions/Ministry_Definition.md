@@ -11,7 +11,7 @@ To 'minister' means to serve others by teaching them about God and caring for th
 Understanding the biblical definition of ministry is crucial for effective service in the church and community.
 
 ## Average Grade
-78.3452380952381
+79.01704545454545
 
 ## Grades
  * [28.125 gemma atheist](../answers/gemma_atheist/Ministry_Definition.md)
@@ -35,3 +35,4 @@ Understanding the biblical definition of ministry is crucial for effective servi
  * [91.25 mistral Politician](../answers/mistral_Politician/Ministry_Definition.md)
  * [91.875 mistral Bible Translator](../answers/mistral_Bible_Translator/Ministry_Definition.md)
  * [93.125 gemma Bible Translator](../answers/gemma_Bible_Translator/Ministry_Definition.md)
+ * [93.125 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Ministry_Definition.md)

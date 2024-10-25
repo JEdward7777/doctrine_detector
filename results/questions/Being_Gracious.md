@@ -11,7 +11,7 @@ How is the term 'gracious' defined and what does it imply about our interactions
 Understanding the Christian obligation to be forgiving and kind.
 
 ## Average Grade
-81.31547619047619
+81.82386363636364
 
 ## Grades
  * [60.0 mistral atheist](../answers/mistral_atheist/Being_Gracious.md)
@@ -34,4 +34,5 @@ Understanding the Christian obligation to be forgiving and kind.
  * [90.625 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Being_Gracious.md)
  * [91.125 gemma Bible Translator](../answers/gemma_Bible_Translator/Being_Gracious.md)
  * [91.875 mistral Bible Translator](../answers/mistral_Bible_Translator/Being_Gracious.md)
+ * [92.5 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Being_Gracious.md)
  * [94.375 llama Bible Translator](../answers/llama_Bible_Translator/Being_Gracious.md)

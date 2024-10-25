@@ -11,7 +11,7 @@ To consecrate means to dedicate something or someone to serve God, making them h
 Understanding the importance of consecration in serving God.
 
 ## Average Grade
-87.79166666666667
+87.97727272727273
 
 ## Grades
  * [71.875 llama atheist](../answers/llama_atheist/Consecration_Meaning.md)
@@ -33,5 +33,6 @@ Understanding the importance of consecration in serving God.
  * [91.25 mistral Politician](../answers/mistral_Politician/Consecration_Meaning.md)
  * [91.25 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Consecration_Meaning.md)
  * [91.25 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Consecration_Meaning.md)
+ * [91.875 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Consecration_Meaning.md)
  * [93.0 llama Bible Translator](../answers/llama_Bible_Translator/Consecration_Meaning.md)
  * [93.125 gemma Bible Translator](../answers/gemma_Bible_Translator/Consecration_Meaning.md)

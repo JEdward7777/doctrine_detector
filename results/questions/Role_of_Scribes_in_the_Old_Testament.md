@@ -11,7 +11,7 @@ Scribes were responsible for copying and preserving the books of the Old Testame
 Understanding the significance of the scribes' role in biblical history and the preservation of scripture.
 
 ## Average Grade
-82.9702380952381
+83.43181818181819
 
 ## Grades
  * [50.625 gemma Imam](../answers/gemma_Imam/Role_of_Scribes_in_the_Old_Testament.md)
@@ -35,3 +35,4 @@ Understanding the significance of the scribes' role in biblical history and the 
  * [90.625 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Role_of_Scribes_in_the_Old_Testament.md)
  * [91.25 llama Bible Translator](../answers/llama_Bible_Translator/Role_of_Scribes_in_the_Old_Testament.md)
  * [91.25 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Role_of_Scribes_in_the_Old_Testament.md)
+ * [93.125 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Role_of_Scribes_in_the_Old_Testament.md)

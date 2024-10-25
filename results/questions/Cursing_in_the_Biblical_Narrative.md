@@ -11,7 +11,7 @@ The curse on the snake symbolizes the consequences of sin and sets the stage for
 Understanding the broader theological implications of sin and the promise of redemption in scripture.
 
 ## Average Grade
-75.55357142857143
+76.32386363636364
 
 ## Grades
  * [42.875 llama atheist](../answers/llama_atheist/Cursing_in_the_Biblical_Narrative.md)
@@ -35,3 +35,4 @@ Understanding the broader theological implications of sin and the promise of red
  * [90.625 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Cursing_in_the_Biblical_Narrative.md)
  * [91.875 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Cursing_in_the_Biblical_Narrative.md)
  * [92.125 mistral Bible Translator](../answers/mistral_Bible_Translator/Cursing_in_the_Biblical_Narrative.md)
+ * [92.5 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Cursing_in_the_Biblical_Narrative.md)

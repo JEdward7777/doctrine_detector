@@ -11,7 +11,7 @@ The laws were part of the covenant established at Sinai, which outlined the obli
 Understanding the significance of obedience to God's commands in the context of the covenant.
 
 ## Average Grade
-82.33928571428571
+82.6875
 
 ## Grades
  * [53.125 gemma atheist](../answers/gemma_atheist/Obeying_God_s_Commands.md)
@@ -30,6 +30,7 @@ Understanding the significance of obedience to God's commands in the context of 
  * [88.125 gemma Bible Translator](../answers/gemma_Bible_Translator/Obeying_God_s_Commands.md)
  * [88.125 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Obeying_God_s_Commands.md)
  * [88.75 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Obeying_God_s_Commands.md)
+ * [90.0 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Obeying_God_s_Commands.md)
  * [90.625 llama Bible Translator](../answers/llama_Bible_Translator/Obeying_God_s_Commands.md)
  * [91.25 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Obeying_God_s_Commands.md)
  * [91.25 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Obeying_God_s_Commands.md)

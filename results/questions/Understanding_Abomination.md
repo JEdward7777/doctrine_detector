@@ -11,7 +11,7 @@ The Bible considers actions such as lying, pride, sacrificing humans, idol worsh
 It's important for Christians to understand what actions are against God's will as outlined in scripture.
 
 ## Average Grade
-79.31547619047619
+79.88636363636364
 
 ## Grades
  * [59.375 llama atheist](../answers/llama_atheist/Understanding_Abomination.md)
@@ -34,4 +34,5 @@ It's important for Christians to understand what actions are against God's will 
  * [89.375 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Understanding_Abomination.md)
  * [90.625 gemma Bible Translator](../answers/gemma_Bible_Translator/Understanding_Abomination.md)
  * [91.25 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Understanding_Abomination.md)
+ * [91.875 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Understanding_Abomination.md)
  * [93.125 llama Bible Translator](../answers/llama_Bible_Translator/Understanding_Abomination.md)

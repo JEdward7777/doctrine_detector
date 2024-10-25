@@ -11,7 +11,7 @@ Key figures involved in writing the Psalms include King David, Moses, Solomon, a
 Recognizing the authorship of Psalms enhances understanding of their messages and themes.
 
 ## Average Grade
-75.0297619047619
+75.68181818181819
 
 ## Grades
  * [47.5 mistral Imam](../answers/mistral_Imam/Authorship_of_Psalms.md)
@@ -34,4 +34,5 @@ Recognizing the authorship of Psalms enhances understanding of their messages an
  * [86.875 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Authorship_of_Psalms.md)
  * [88.75 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Authorship_of_Psalms.md)
  * [88.75 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Authorship_of_Psalms.md)
+ * [89.375 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Authorship_of_Psalms.md)
  * [90.0 llama Bible Translator](../answers/llama_Bible_Translator/Authorship_of_Psalms.md)

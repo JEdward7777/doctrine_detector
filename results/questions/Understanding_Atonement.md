@@ -11,7 +11,7 @@ Christ's death is seen as the ultimate sacrifice, fulfilling the requirement of 
 Understanding the centrality of Jesus' sacrifice in Christian theology.
 
 ## Average Grade
-81.36904761904762
+81.93181818181819
 
 ## Grades
  * [38.125 gemma atheist](../answers/gemma_atheist/Understanding_Atonement.md)
@@ -34,4 +34,5 @@ Understanding the centrality of Jesus' sacrifice in Christian theology.
  * [91.25 mistral 1.75 vectored](../answers/mistral_1.75_vectored/Understanding_Atonement.md)
  * [93.125 mistral Bible Translator](../answers/mistral_Bible_Translator/Understanding_Atonement.md)
  * [93.75 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Understanding_Atonement.md)
+ * [93.75 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Understanding_Atonement.md)
  * [95.0 llama Bible Translator](../answers/llama_Bible_Translator/Understanding_Atonement.md)

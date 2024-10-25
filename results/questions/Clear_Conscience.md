@@ -11,7 +11,7 @@ Having a 'clear conscience' means that a person is not hiding any sin and is in 
 Maintaining a clear conscience is vital for spiritual health and alignment with God's will.
 
 ## Average Grade
-79.64285714285714
+80.17045454545455
 
 ## Grades
  * [34.375 llama atheist](../answers/llama_atheist/Clear_Conscience.md)
@@ -35,3 +35,4 @@ Maintaining a clear conscience is vital for spiritual health and alignment with 
  * [88.75 mistral Bible Translator](../answers/mistral_Bible_Translator/Clear_Conscience.md)
  * [90.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Clear_Conscience.md)
  * [91.25 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Clear_Conscience.md)
+ * [91.25 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Clear_Conscience.md)

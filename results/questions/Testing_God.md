@@ -11,7 +11,7 @@ It is considered wrong to put God to the test because it involves trying to make
 Recognizing this principle is crucial for maintaining a proper relationship with God.
 
 ## Average Grade
-84.27380952380952
+84.70454545454545
 
 ## Grades
  * [55.0 llama Politician](../answers/llama_Politician/Testing_God.md)
@@ -35,3 +35,4 @@ Recognizing this principle is crucial for maintaining a proper relationship with
  * [91.5 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Testing_God.md)
  * [92.5 gemma Bible Translator](../answers/gemma_Bible_Translator/Testing_God.md)
  * [92.5 llama Bible Translator](../answers/llama_Bible_Translator/Testing_God.md)
+ * [93.75 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Testing_God.md)

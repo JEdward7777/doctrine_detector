@@ -11,7 +11,7 @@ The Old Testament judges served as temporary protectors and deliverers for the I
 To grasp the continuity of the biblical narrative regarding salvation.
 
 ## Average Grade
-84.98809523809524
+85.35795454545455
 
 ## Grades
  * [55.625 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Understanding_the_Role_of_a_Savior.md)
@@ -35,3 +35,4 @@ To grasp the continuity of the biblical narrative regarding salvation.
  * [91.5 llama Bible Translator](../answers/llama_Bible_Translator/Understanding_the_Role_of_a_Savior.md)
  * [92.5 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Understanding_the_Role_of_a_Savior.md)
  * [92.5 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Understanding_the_Role_of_a_Savior.md)
+ * [93.125 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Understanding_the_Role_of_a_Savior.md)

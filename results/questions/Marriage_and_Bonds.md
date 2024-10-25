@@ -11,7 +11,7 @@ The 'bond of marriage' is viewed as a sacred commitment established by God that 
 To promote strong, Christ-centered marriages that honor God’s design for relationships.
 
 ## Average Grade
-86.42261904761905
+86.75568181818181
 
 ## Grades
  * [55.625 llama Imam](../answers/llama_Imam/Marriage_and_Bonds.md)
@@ -33,5 +33,6 @@ To promote strong, Christ-centered marriages that honor God’s design for relat
  * [93.125 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Marriage_and_Bonds.md)
  * [93.125 gemma Imam](../answers/gemma_Imam/Marriage_and_Bonds.md)
  * [93.75 mistral atheist](../answers/mistral_atheist/Marriage_and_Bonds.md)
+ * [93.75 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Marriage_and_Bonds.md)
  * [94.0 llama Bible Translator](../answers/llama_Bible_Translator/Marriage_and_Bonds.md)
  * [94.375 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Marriage_and_Bonds.md)

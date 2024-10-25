@@ -11,7 +11,7 @@ The atonement lid, also known as the mercy seat, was significant as it represent
 Understanding the symbolic representation of God's mercy and atonement in the Old Testament.
 
 ## Average Grade
-79.88095238095238
+80.4375
 
 ## Grades
  * [55.625 gemma Imam](../answers/gemma_Imam/atonement_lid_definition.md)
@@ -35,3 +35,4 @@ Understanding the symbolic representation of God's mercy and atonement in the Ol
  * [91.25 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/atonement_lid_definition.md)
  * [91.25 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/atonement_lid_definition.md)
  * [91.875 mistral Bible Translator](../answers/mistral_Bible_Translator/atonement_lid_definition.md)
+ * [92.125 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/atonement_lid_definition.md)

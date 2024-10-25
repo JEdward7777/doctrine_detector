@@ -11,7 +11,7 @@ Jesus teaches us to first remove the plank from our own eye before pointing out 
 Criticizing others while ignoring our own faults can reflect hypocrisy and diminish our witness as Christians.
 
 ## Average Grade
-86.23809523809524
+86.4090909090909
 
 ## Grades
  * [45.625 mistral 1.75 vectored](../answers/mistral_1.75_vectored/Judgment_of_Others.md)
@@ -27,6 +27,7 @@ Criticizing others while ignoring our own faults can reflect hypocrisy and dimin
  * [90.0 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Judgment_of_Others.md)
  * [90.0 llama atheist](../answers/llama_atheist/Judgment_of_Others.md)
  * [90.0 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Judgment_of_Others.md)
+ * [90.0 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Judgment_of_Others.md)
  * [91.25 gemma atheist](../answers/gemma_atheist/Judgment_of_Others.md)
  * [91.25 mistral Bible Translator](../answers/mistral_Bible_Translator/Judgment_of_Others.md)
  * [91.875 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Judgment_of_Others.md)

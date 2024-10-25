@@ -11,7 +11,7 @@ No, retain 'Kingdom of God' and provide explanations about its spiritual and esc
 Rephrasing could lose the depth and biblical context of the term 'Kingdom of God'.
 
 ## Average Grade
-74.64285714285714
+75.22727272727273
 
 ## Grades
  * [40.625 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Kingdom_of_God.md)
@@ -35,3 +35,4 @@ Rephrasing could lose the depth and biblical context of the term 'Kingdom of God
  * [83.125 gemma Bible Translator](../answers/gemma_Bible_Translator/Kingdom_of_God.md)
  * [83.75 llama Bible Translator](../answers/llama_Bible_Translator/Kingdom_of_God.md)
  * [83.75 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Kingdom_of_God.md)
+ * [87.5 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Kingdom_of_God.md)

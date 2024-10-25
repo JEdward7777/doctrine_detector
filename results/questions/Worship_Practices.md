@@ -11,7 +11,7 @@ Modern idols can include material possessions, wealth, careers, or personal ambi
 It's important for Christians to examine their lives and ensure that they are not prioritizing anything above their devotion to God.
 
 ## Average Grade
-80.55952380952381
+81.01136363636364
 
 ## Grades
  * [44.375 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Worship_Practices.md)
@@ -32,6 +32,7 @@ It's important for Christians to examine their lives and ensure that they are no
  * [88.75 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Worship_Practices.md)
  * [90.0 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Worship_Practices.md)
  * [90.0 mistral Politician](../answers/mistral_Politician/Worship_Practices.md)
+ * [90.5 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Worship_Practices.md)
  * [91.25 mistral Bible Translator](../answers/mistral_Bible_Translator/Worship_Practices.md)
  * [91.25 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Worship_Practices.md)
  * [91.875 llama Bible Translator](../answers/llama_Bible_Translator/Worship_Practices.md)

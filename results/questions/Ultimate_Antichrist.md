@@ -11,7 +11,7 @@ The beast in chapter 13 of Revelation is often identified as the ultimate antich
 Being aware of eschatological figures helps Christians prepare for the challenges they may face in faith.
 
 ## Average Grade
-72.29166666666667
+73.03977272727273
 
 ## Grades
  * [22.5 mistral 1.75 vectored](../answers/mistral_1.75_vectored/Ultimate_Antichrist.md)
@@ -34,4 +34,5 @@ Being aware of eschatological figures helps Christians prepare for the challenge
  * [86.25 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Ultimate_Antichrist.md)
  * [87.5 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Ultimate_Antichrist.md)
  * [88.125 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Ultimate_Antichrist.md)
+ * [88.75 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Ultimate_Antichrist.md)
  * [90.0 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Ultimate_Antichrist.md)

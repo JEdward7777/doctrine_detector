@@ -11,7 +11,7 @@ Being called 'children of God' signifies a familial relationship akin to that of
 This understanding could deepen one’s faith and sense of belonging in the Christian community.
 
 ## Average Grade
-79.13690476190476
+79.7159090909091
 
 ## Grades
  * [53.125 mistral Imam](../answers/mistral_Imam/Children_of_God.md)
@@ -33,5 +33,6 @@ This understanding could deepen one’s faith and sense of belonging in the Chri
  * [90.875 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Children_of_God.md)
  * [91.25 gemma Bible Translator](../answers/gemma_Bible_Translator/Children_of_God.md)
  * [91.25 mistral Bible Translator](../answers/mistral_Bible_Translator/Children_of_God.md)
+ * [91.875 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Children_of_God.md)
  * [93.125 llama Bible Translator](../answers/llama_Bible_Translator/Children_of_God.md)
  * [93.125 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Children_of_God.md)

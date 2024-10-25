@@ -11,7 +11,7 @@ In a Christian context, 'do good to' implies actively benefiting others, being k
 Encouraging Christians to live out their faith by doing good deeds.
 
 ## Average Grade
-88.25
+88.4715909090909
 
 ## Grades
  * [68.125 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Doing_Good.md)
@@ -34,4 +34,5 @@ Encouraging Christians to live out their faith by doing good deeds.
  * [92.5 gemma Bible Translator](../answers/gemma_Bible_Translator/Doing_Good.md)
  * [92.5 gemma Politician](../answers/gemma_Politician/Doing_Good.md)
  * [92.75 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Doing_Good.md)
+ * [93.125 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Doing_Good.md)
  * [93.375 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Doing_Good.md)

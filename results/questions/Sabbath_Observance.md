@@ -11,7 +11,7 @@ To keep the Sabbath holy means to refrain from work and dedicate the day to rest
 Understanding the importance of the Sabbath and its implications for daily living as a Christian.
 
 ## Average Grade
-75.08928571428571
+75.79545454545455
 
 ## Grades
  * [51.875 llama atheist](../answers/llama_atheist/Sabbath_Observance.md)
@@ -34,4 +34,5 @@ Understanding the importance of the Sabbath and its implications for daily livin
  * [88.75 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Sabbath_Observance.md)
  * [89.375 gemma Bible Translator](../answers/gemma_Bible_Translator/Sabbath_Observance.md)
  * [90.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Sabbath_Observance.md)
+ * [90.625 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Sabbath_Observance.md)
  * [91.25 llama Bible Translator](../answers/llama_Bible_Translator/Sabbath_Observance.md)

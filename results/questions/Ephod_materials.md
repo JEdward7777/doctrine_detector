@@ -11,7 +11,7 @@ The high priest's ephod was specially embroidered with gold, blue, purple, and r
 Knowing the specific materials highlights the importance of the ephod's design and symbolism in worship.
 
 ## Average Grade
-78.45238095238095
+78.80681818181819
 
 ## Grades
  * [45.0 mistral 1.75 vectored](../answers/mistral_1.75_vectored/Ephod_materials.md)
@@ -31,6 +31,7 @@ Knowing the specific materials highlights the importance of the ephod's design a
  * [85.625 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Ephod_materials.md)
  * [86.25 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Ephod_materials.md)
  * [86.25 mistral Imam](../answers/mistral_Imam/Ephod_materials.md)
+ * [86.25 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Ephod_materials.md)
  * [86.875 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Ephod_materials.md)
  * [86.875 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Ephod_materials.md)
  * [88.75 mistral Bible Translator](../answers/mistral_Bible_Translator/Ephod_materials.md)

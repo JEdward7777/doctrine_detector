@@ -11,7 +11,7 @@ Teach that 'Son of God' refers to Jesus' divine nature and relationship with God
 Proper teaching prevents doctrinal errors and helps retain the biblical terminology.
 
 ## Average Grade
-82.51190476190476
+83.02272727272727
 
 ## Grades
  * [51.875 llama Politician](../answers/llama_Politician/Physical_offspring_of_God.md)
@@ -33,5 +33,6 @@ Proper teaching prevents doctrinal errors and helps retain the biblical terminol
  * [90.25 llama atheist](../answers/llama_atheist/Physical_offspring_of_God.md)
  * [90.625 mistral 1.75 vectored](../answers/mistral_1.75_vectored/Physical_offspring_of_God.md)
  * [93.75 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Physical_offspring_of_God.md)
+ * [93.75 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Physical_offspring_of_God.md)
  * [94.375 llama Bible Translator](../answers/llama_Bible_Translator/Physical_offspring_of_God.md)
  * [94.375 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Physical_offspring_of_God.md)

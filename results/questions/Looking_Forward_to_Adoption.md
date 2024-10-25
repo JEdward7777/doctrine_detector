@@ -11,7 +11,7 @@ Romans 8:23 implies that believers are currently in a state of anticipation for 
 Understanding the hope and future aspect of being adopted into God's family.
 
 ## Average Grade
-79.17261904761905
+79.80681818181819
 
 ## Grades
  * [35.625 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Looking_Forward_to_Adoption.md)
@@ -35,3 +35,4 @@ Understanding the hope and future aspect of being adopted into God's family.
  * [91.25 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Looking_Forward_to_Adoption.md)
  * [91.5 gemma Politician](../answers/gemma_Politician/Looking_Forward_to_Adoption.md)
  * [91.875 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Looking_Forward_to_Adoption.md)
+ * [93.125 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Looking_Forward_to_Adoption.md)

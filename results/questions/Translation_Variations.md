@@ -11,7 +11,7 @@ Alternative translations include 'faithful love,' 'loyal, committed love,' and '
 Exploring different interpretations of biblical terms to deepen understanding.
 
 ## Average Grade
-78.7797619047619
+79.28977272727273
 
 ## Grades
  * [64.375 gemma Imam](../answers/gemma_Imam/Translation_Variations.md)
@@ -35,3 +35,4 @@ Exploring different interpretations of biblical terms to deepen understanding.
  * [86.875 llama atheist](../answers/llama_atheist/Translation_Variations.md)
  * [88.125 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Translation_Variations.md)
  * [88.75 llama Bible Translator](../answers/llama_Bible_Translator/Translation_Variations.md)
+ * [90.0 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Translation_Variations.md)

@@ -11,7 +11,7 @@ It signifies that believers will be transformed to be like Jesus in their resurr
 Understanding the hope and future promise of glory for believers is vital for faith and perseverance.
 
 ## Average Grade
-80.58333333333333
+81.16477272727273
 
 ## Grades
  * [54.375 GPT 3.5 Imam](../answers/GPT_3.5_Imam/The_Role_of_Believers_in_Glory.md)
@@ -35,3 +35,4 @@ Understanding the hope and future promise of glory for believers is vital for fa
  * [91.25 mistral atheist](../answers/mistral_atheist/The_Role_of_Believers_in_Glory.md)
  * [91.875 llama Bible Translator](../answers/llama_Bible_Translator/The_Role_of_Believers_in_Glory.md)
  * [92.5 gemma Bible Translator](../answers/gemma_Bible_Translator/The_Role_of_Believers_in_Glory.md)
+ * [93.375 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/The_Role_of_Believers_in_Glory.md)

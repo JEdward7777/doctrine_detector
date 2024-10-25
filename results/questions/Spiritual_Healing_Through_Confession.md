@@ -11,7 +11,7 @@ Confessing sins to one another brings spiritual healing as it fosters accountabi
 The importance of community in spiritual growth
 
 ## Average Grade
-83.875
+84.23863636363636
 
 ## Grades
  * [63.125 gemma atheist](../answers/gemma_atheist/Spiritual_Healing_Through_Confession.md)
@@ -34,4 +34,5 @@ The importance of community in spiritual growth
  * [90.25 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Spiritual_Healing_Through_Confession.md)
  * [91.25 mistral Bible Translator](../answers/mistral_Bible_Translator/Spiritual_Healing_Through_Confession.md)
  * [91.5 llama Bible Translator](../answers/llama_Bible_Translator/Spiritual_Healing_Through_Confession.md)
+ * [91.875 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Spiritual_Healing_Through_Confession.md)
  * [92.5 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Spiritual_Healing_Through_Confession.md)

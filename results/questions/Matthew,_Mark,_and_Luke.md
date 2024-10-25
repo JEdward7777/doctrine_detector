@@ -11,7 +11,7 @@ The names of the twelve disciples are listed in the books of Matthew, Mark, and 
 Being familiar with the Gospel accounts and their teachings.
 
 ## Average Grade
-81.44047619047619
+81.63068181818181
 
 ## Grades
  * [60.625 gemma Imam](../answers/gemma_Imam/Matthew,_Mark,_and_Luke.md)
@@ -27,6 +27,7 @@ Being familiar with the Gospel accounts and their teachings.
  * [83.125 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Matthew,_Mark,_and_Luke.md)
  * [83.75 llama Imam](../answers/llama_Imam/Matthew,_Mark,_and_Luke.md)
  * [85.625 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Matthew,_Mark,_and_Luke.md)
+ * [85.625 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Matthew,_Mark,_and_Luke.md)
  * [86.875 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Matthew,_Mark,_and_Luke.md)
  * [87.5 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Matthew,_Mark,_and_Luke.md)
  * [88.125 mistral Bible Translator](../answers/mistral_Bible_Translator/Matthew,_Mark,_and_Luke.md)

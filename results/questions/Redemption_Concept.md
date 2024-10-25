@@ -11,7 +11,7 @@ In the Bible, redemption refers to the act of Jesus paying the price for human s
 Understanding the significance of redemption in Christian faith.
 
 ## Average Grade
-83.69047619047619
+84.11931818181819
 
 ## Grades
  * [65.625 mistral Imam](../answers/mistral_Imam/Redemption_Concept.md)
@@ -35,3 +35,4 @@ Understanding the significance of redemption in Christian faith.
  * [90.625 llama Bible Translator](../answers/llama_Bible_Translator/Redemption_Concept.md)
  * [91.25 gemma Bible Translator](../answers/gemma_Bible_Translator/Redemption_Concept.md)
  * [91.25 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Redemption_Concept.md)
+ * [93.125 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Redemption_Concept.md)

@@ -11,7 +11,7 @@ Isaiah speaks of a remnant returning to Canaan after exile, while Amos mentions 
 Understanding the historical significance of a remnant in relation to God's promises.
 
 ## Average Grade
-81.7797619047619
+82.2215909090909
 
 ## Grades
  * [38.125 mistral 1.75 vectored](../answers/mistral_1.75_vectored/Historical_Context.md)
@@ -35,3 +35,4 @@ Understanding the historical significance of a remnant in relation to God's prom
  * [89.375 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Historical_Context.md)
  * [89.375 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Historical_Context.md)
  * [91.25 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Historical_Context.md)
+ * [91.5 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Historical_Context.md)

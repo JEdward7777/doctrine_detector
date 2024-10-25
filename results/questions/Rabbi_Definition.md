@@ -11,7 +11,7 @@ The term 'Rabbi' literally means 'my master' or 'my teacher' and refers to a Jew
 Understanding the role and significance of rabbinic teaching in the New Testament.
 
 ## Average Grade
-77.17261904761905
+77.68181818181819
 
 ## Grades
  * [49.375 gemma atheist](../answers/gemma_atheist/Rabbi_Definition.md)
@@ -33,5 +33,6 @@ Understanding the role and significance of rabbinic teaching in the New Testamen
  * [85.625 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Rabbi_Definition.md)
  * [86.25 llama Bible Translator](../answers/llama_Bible_Translator/Rabbi_Definition.md)
  * [86.875 mistral Bible Translator](../answers/mistral_Bible_Translator/Rabbi_Definition.md)
+ * [88.375 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Rabbi_Definition.md)
  * [89.375 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Rabbi_Definition.md)
  * [90.0 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Rabbi_Definition.md)

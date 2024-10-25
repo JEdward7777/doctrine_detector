@@ -11,7 +11,7 @@ Signs and miracles serve as validations of God’s power and authority, demonstr
 Examining the relationship between faith, signs, and God's revelation.
 
 ## Average Grade
-78.01785714285714
+78.7159090909091
 
 ## Grades
  * [33.125 gemma atheist](../answers/gemma_atheist/Signs_and_Miracles.md)
@@ -34,4 +34,5 @@ Examining the relationship between faith, signs, and God's revelation.
  * [91.875 mistral Bible Translator](../answers/mistral_Bible_Translator/Signs_and_Miracles.md)
  * [92.75 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Signs_and_Miracles.md)
  * [93.125 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Signs_and_Miracles.md)
+ * [93.375 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Signs_and_Miracles.md)
  * [93.75 llama Bible Translator](../answers/llama_Bible_Translator/Signs_and_Miracles.md)

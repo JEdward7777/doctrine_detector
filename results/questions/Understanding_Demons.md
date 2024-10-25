@@ -11,7 +11,7 @@ The term 'unclean spirit' signifies an impure, evil, or unholy spirit, which ref
 To clarify the nature and characteristics of demons and their influence on individuals.
 
 ## Average Grade
-81.04166666666667
+81.50568181818181
 
 ## Grades
  * [33.125 gemma Politician](../answers/gemma_Politician/Understanding_Demons.md)
@@ -34,4 +34,5 @@ To clarify the nature and characteristics of demons and their influence on indiv
  * [90.625 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Understanding_Demons.md)
  * [91.25 llama Bible Translator](../answers/llama_Bible_Translator/Understanding_Demons.md)
  * [91.25 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Understanding_Demons.md)
+ * [91.25 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Understanding_Demons.md)
  * [92.25 gemma Bible Translator](../answers/gemma_Bible_Translator/Understanding_Demons.md)

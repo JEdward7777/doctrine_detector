@@ -11,7 +11,7 @@ An 'unholy' life is marked by rebellion against God, actions that dishonor Him, 
 This question encourages self-examination and awareness of how unholiness can influence personal and communal behavior.
 
 ## Average Grade
-78.11309523809524
+78.73863636363636
 
 ## Grades
  * [56.25 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Understanding_Unholiness.md)
@@ -35,3 +35,4 @@ This question encourages self-examination and awareness of how unholiness can in
  * [90.25 mistral Bible Translator](../answers/mistral_Bible_Translator/Understanding_Unholiness.md)
  * [90.625 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Understanding_Unholiness.md)
  * [91.125 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Understanding_Unholiness.md)
+ * [91.875 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Understanding_Unholiness.md)

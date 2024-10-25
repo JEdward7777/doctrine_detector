@@ -11,7 +11,7 @@ After King Solomon died, Israel was divided into two kingdoms: the northern king
 Understanding the historical and spiritual significance of the division of the Israelites.
 
 ## Average Grade
-74.16666666666667
+74.9715909090909
 
 ## Grades
  * [32.5 mistral 1.75 vectored](../answers/mistral_1.75_vectored/Division_of_Israel.md)
@@ -35,3 +35,4 @@ Understanding the historical and spiritual significance of the division of the I
  * [86.875 llama atheist](../answers/llama_atheist/Division_of_Israel.md)
  * [87.5 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Division_of_Israel.md)
  * [90.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Division_of_Israel.md)
+ * [91.875 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Division_of_Israel.md)

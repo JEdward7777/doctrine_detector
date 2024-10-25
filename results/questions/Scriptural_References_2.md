@@ -11,7 +11,7 @@ Key passages include Luke 10:12, Luke 11:31, Luke 11:32, Matthew 10:15, and Matt
 This seeks to deepen the understanding of scripture related to judgment and reinforce the scriptural basis for beliefs.
 
 ## Average Grade
-77.25
+77.77272727272727
 
 ## Grades
  * [28.75 gemma atheist](../answers/gemma_atheist/Scriptural_References_2.md)
@@ -32,6 +32,7 @@ This seeks to deepen the understanding of scripture related to judgment and rein
  * [85.625 mistral Bible Translator](../answers/mistral_Bible_Translator/Scriptural_References_2.md)
  * [86.0 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Scriptural_References_2.md)
  * [88.75 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Scriptural_References_2.md)
+ * [88.75 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Scriptural_References_2.md)
  * [89.375 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Scriptural_References_2.md)
  * [90.625 llama atheist](../answers/llama_atheist/Scriptural_References_2.md)
  * [91.25 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Scriptural_References_2.md)

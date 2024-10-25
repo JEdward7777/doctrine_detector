@@ -11,7 +11,7 @@ Verses such as Psalm 83:18 and Daniel 4:17 reveal God's eternal nature and autho
 Christians may need guidance in exploring Scripture to fully appreciate the significance of God's sovereignty as portrayed in the Bible.
 
 ## Average Grade
-80.5952380952381
+81.10795454545455
 
 ## Grades
  * [52.5 gemma Imam](../answers/gemma_Imam/Biblical_References_to_the_Most_High.md)
@@ -35,3 +35,4 @@ Christians may need guidance in exploring Scripture to fully appreciate the sign
  * [90.0 mistral atheist](../answers/mistral_atheist/Biblical_References_to_the_Most_High.md)
  * [90.625 llama Bible Translator](../answers/llama_Bible_Translator/Biblical_References_to_the_Most_High.md)
  * [90.625 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Biblical_References_to_the_Most_High.md)
+ * [91.875 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Biblical_References_to_the_Most_High.md)

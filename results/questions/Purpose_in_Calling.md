@@ -11,7 +11,7 @@ One can discern their calling through prayer, studying Scripture, and seeking gu
 Finding clarity and direction in fulfilling God's purpose in life.
 
 ## Average Grade
-76.41071428571429
+77.19886363636364
 
 ## Grades
  * [36.875 mistral atheist](../answers/mistral_atheist/Purpose_in_Calling.md)
@@ -35,3 +35,4 @@ Finding clarity and direction in fulfilling God's purpose in life.
  * [90.625 mistral Bible Translator](../answers/mistral_Bible_Translator/Purpose_in_Calling.md)
  * [91.875 llama Bible Translator](../answers/llama_Bible_Translator/Purpose_in_Calling.md)
  * [93.125 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Purpose_in_Calling.md)
+ * [93.75 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Purpose_in_Calling.md)

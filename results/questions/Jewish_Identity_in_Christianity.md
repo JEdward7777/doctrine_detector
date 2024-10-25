@@ -11,7 +11,7 @@ The Jewish identity of Jesus is significant for Christians as it highlights his 
 Understanding the Jewish roots of Christianity is crucial for a comprehensive view of the faith.
 
 ## Average Grade
-86.45238095238095
+86.7840909090909
 
 ## Grades
  * [67.5 gemma Politician](../answers/gemma_Politician/Jewish_Identity_in_Christianity.md)
@@ -35,3 +35,4 @@ Understanding the Jewish roots of Christianity is crucial for a comprehensive vi
  * [91.875 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Jewish_Identity_in_Christianity.md)
  * [93.125 llama Bible Translator](../answers/llama_Bible_Translator/Jewish_Identity_in_Christianity.md)
  * [93.125 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Jewish_Identity_in_Christianity.md)
+ * [93.75 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Jewish_Identity_in_Christianity.md)

@@ -11,7 +11,7 @@ The title not only identifies Jesus as the ruler over the Jewish people but also
 Understanding Jesus' authority helps believers acknowledge His sovereignty in their lives.
 
 ## Average Grade
-77.16071428571429
+77.92613636363636
 
 ## Grades
  * [40.0 gemma Imam](../answers/gemma_Imam/Authority_of_Jesus.md)
@@ -34,4 +34,5 @@ Understanding Jesus' authority helps believers acknowledge His sovereignty in th
  * [92.5 gemma Bible Translator](../answers/gemma_Bible_Translator/Authority_of_Jesus.md)
  * [93.75 llama Bible Translator](../answers/llama_Bible_Translator/Authority_of_Jesus.md)
  * [93.75 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Authority_of_Jesus.md)
+ * [94.0 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Authority_of_Jesus.md)
  * [94.75 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Authority_of_Jesus.md)

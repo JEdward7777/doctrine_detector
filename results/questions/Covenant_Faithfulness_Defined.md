@@ -11,7 +11,7 @@ It describes the kind of faithfulness, loyalty, kindness, and love that is expec
 Understanding the biblical concept of covenant and its implications for God's relationship with us.
 
 ## Average Grade
-81.01785714285714
+81.56818181818181
 
 ## Grades
  * [47.5 gemma Politician](../answers/gemma_Politician/Covenant_Faithfulness_Defined.md)
@@ -35,3 +35,4 @@ Understanding the biblical concept of covenant and its implications for God's re
  * [90.0 llama Bible Translator](../answers/llama_Bible_Translator/Covenant_Faithfulness_Defined.md)
  * [90.0 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Covenant_Faithfulness_Defined.md)
  * [90.625 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Covenant_Faithfulness_Defined.md)
+ * [93.125 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Covenant_Faithfulness_Defined.md)

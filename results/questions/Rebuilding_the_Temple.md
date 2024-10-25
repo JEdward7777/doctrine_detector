@@ -11,7 +11,7 @@ The temple was destroyed by the Babylonians during the capture of Jerusalem, and
 Understanding the historical context and significance of the temple's destruction and restoration.
 
 ## Average Grade
-71.66666666666667
+72.38636363636364
 
 ## Grades
  * [51.875 gemma atheist](../answers/gemma_atheist/Rebuilding_the_Temple.md)
@@ -33,5 +33,6 @@ Understanding the historical context and significance of the temple's destructio
  * [83.125 mistral Bible Translator](../answers/mistral_Bible_Translator/Rebuilding_the_Temple.md)
  * [84.0 llama Politician](../answers/llama_Politician/Rebuilding_the_Temple.md)
  * [84.375 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Rebuilding_the_Temple.md)
+ * [87.5 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Rebuilding_the_Temple.md)
  * [87.875 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Rebuilding_the_Temple.md)
  * [88.75 llama Bible Translator](../answers/llama_Bible_Translator/Rebuilding_the_Temple.md)

@@ -11,7 +11,7 @@ Jesus sent his apostles out to spread the good news about how to be part of Godâ
 Recognizing the importance of evangelism in the Christian faith.
 
 ## Average Grade
-72.55952380952381
+73.32386363636364
 
 ## Grades
  * [35.0 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Biblical_Exhortation.md)
@@ -29,6 +29,7 @@ Recognizing the importance of evangelism in the Christian faith.
  * [85.0 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Biblical_Exhortation.md)
  * [88.75 mistral Politician](../answers/mistral_Politician/Biblical_Exhortation.md)
  * [89.375 mistral Bible Translator](../answers/mistral_Bible_Translator/Biblical_Exhortation.md)
+ * [89.375 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Biblical_Exhortation.md)
  * [90.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Biblical_Exhortation.md)
  * [90.0 mistral 1.75 vectored](../answers/mistral_1.75_vectored/Biblical_Exhortation.md)
  * [90.625 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Biblical_Exhortation.md)

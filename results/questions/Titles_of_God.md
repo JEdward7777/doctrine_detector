@@ -11,7 +11,7 @@ Titles that refer to God as 'Almighty' include 'Almighty God', 'God Almighty', '
 Recognizing these titles can enhance our understanding of God's character.
 
 ## Average Grade
-81.08333333333333
+81.46022727272727
 
 ## Grades
  * [58.75 gemma Politician](../answers/gemma_Politician/Titles_of_God.md)
@@ -34,4 +34,5 @@ Recognizing these titles can enhance our understanding of God's character.
  * [86.875 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Titles_of_God.md)
  * [88.375 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Titles_of_God.md)
  * [88.75 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Titles_of_God.md)
+ * [89.375 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Titles_of_God.md)
  * [90.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Titles_of_God.md)

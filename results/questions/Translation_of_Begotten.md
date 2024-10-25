@@ -11,7 +11,7 @@ How can the term 'begotten' be understood in relation to spiritual rebirth?
 Clarifying the spiritual implications of being 'begotten' for believers.
 
 ## Average Grade
-74.01190476190476
+74.72727272727273
 
 ## Grades
  * [55.625 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Translation_of_Begotten.md)
@@ -33,5 +33,6 @@ Clarifying the spiritual implications of being 'begotten' for believers.
  * [86.875 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Translation_of_Begotten.md)
  * [88.375 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Translation_of_Begotten.md)
  * [89.375 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Translation_of_Begotten.md)
+ * [89.75 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Translation_of_Begotten.md)
  * [90.625 gemma Bible Translator](../answers/gemma_Bible_Translator/Translation_of_Begotten.md)
  * [93.125 llama Bible Translator](../answers/llama_Bible_Translator/Translation_of_Begotten.md)

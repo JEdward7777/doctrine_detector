@@ -11,7 +11,7 @@ The blood of the lamb on the doorposts signified that the angel of the Lord woul
 Understanding the importance of sacrifice and atonement in the Christian faith.
 
 ## Average Grade
-76.72619047619048
+77.44318181818181
 
 ## Grades
  * [36.25 gemma atheist](../answers/gemma_atheist/Role_of_Blood_in_Passover.md)
@@ -34,4 +34,5 @@ Understanding the importance of sacrifice and atonement in the Christian faith.
  * [90.625 llama Bible Translator](../answers/llama_Bible_Translator/Role_of_Blood_in_Passover.md)
  * [91.25 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Role_of_Blood_in_Passover.md)
  * [92.5 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Role_of_Blood_in_Passover.md)
+ * [92.5 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Role_of_Blood_in_Passover.md)
  * [94.375 mistral Bible Translator](../answers/mistral_Bible_Translator/Role_of_Blood_in_Passover.md)

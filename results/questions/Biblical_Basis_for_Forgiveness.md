@@ -11,7 +11,7 @@ Key verses include Matthew 6:14-15, Ephesians 4:31-32, and Colossians 3:12-14 wh
 Identifying scripture that supports the practice of forgiveness among believers.
 
 ## Average Grade
-84.94047619047619
+85.08522727272727
 
 ## Grades
  * [46.25 mistral 1.75 vectored](../answers/mistral_1.75_vectored/Biblical_Basis_for_Forgiveness.md)
@@ -21,6 +21,7 @@ Identifying scripture that supports the practice of forgiveness among believers.
  * [81.25 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Biblical_Basis_for_Forgiveness.md)
  * [83.125 mistral Imam](../answers/mistral_Imam/Biblical_Basis_for_Forgiveness.md)
  * [86.25 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Biblical_Basis_for_Forgiveness.md)
+ * [88.125 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Biblical_Basis_for_Forgiveness.md)
  * [88.75 gemma atheist](../answers/gemma_atheist/Biblical_Basis_for_Forgiveness.md)
  * [89.375 gemma Politician](../answers/gemma_Politician/Biblical_Basis_for_Forgiveness.md)
  * [90.625 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Biblical_Basis_for_Forgiveness.md)

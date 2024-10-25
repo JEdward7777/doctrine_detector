@@ -11,7 +11,7 @@ A deacon can also be referred to as a church minister, church worker, or church 
 Recognizing the various ways to identify service roles within the church.
 
 ## Average Grade
-78.98809523809524
+79.31818181818181
 
 ## Grades
  * [55.0 llama Politician](../answers/llama_Politician/Terminology.md)
@@ -33,5 +33,6 @@ Recognizing the various ways to identify service roles within the church.
  * [85.625 mistral atheist](../answers/mistral_atheist/Terminology.md)
  * [86.25 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Terminology.md)
  * [86.25 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Terminology.md)
+ * [86.25 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Terminology.md)
  * [87.5 gemma atheist](../answers/gemma_atheist/Terminology.md)
  * [89.375 llama Bible Translator](../answers/llama_Bible_Translator/Terminology.md)

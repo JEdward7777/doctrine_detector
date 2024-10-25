@@ -11,7 +11,7 @@ It communicates agreement with the prayer or expresses a desire that the prayer 
 Understanding the significance of prayer in Christian practice.
 
 ## Average Grade
-74.25595238095238
+75.11363636363636
 
 ## Grades
  * [42.5 gemma Imam](../answers/gemma_Imam/Understanding_Amen.md)
@@ -35,3 +35,4 @@ Understanding the significance of prayer in Christian practice.
  * [90.625 llama Bible Translator](../answers/llama_Bible_Translator/Understanding_Amen.md)
  * [91.875 gemma Bible Translator](../answers/gemma_Bible_Translator/Understanding_Amen.md)
  * [91.875 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Understanding_Amen.md)
+ * [93.125 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Understanding_Amen.md)

@@ -11,7 +11,7 @@ These passages emphasize that Christ is the Savior who delivers believers from s
 To understand scriptural foundations for the belief in Jesus as Savior.
 
 ## Average Grade
-71.60714285714286
+72.58522727272727
 
 ## Grades
  * [37.5 llama Imam](../answers/llama_Imam/Biblical_References_to_Salvation.md)
@@ -35,3 +35,4 @@ To understand scriptural foundations for the belief in Jesus as Savior.
  * [89.375 mistral Imam](../answers/mistral_Imam/Biblical_References_to_Salvation.md)
  * [90.625 llama Bible Translator](../answers/llama_Bible_Translator/Biblical_References_to_Salvation.md)
  * [90.625 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Biblical_References_to_Salvation.md)
+ * [93.125 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Biblical_References_to_Salvation.md)

@@ -11,7 +11,7 @@ Ezra 3:11 and Numbers 14:18 are specific references that illustrate the idea of 
 Connecting scriptural examples to the understanding of covenant faithfulness.
 
 ## Average Grade
-74.55357142857143
+75.25568181818181
 
 ## Grades
  * [40.625 gemma atheist](../answers/gemma_atheist/Biblical_References.md)
@@ -35,3 +35,4 @@ Connecting scriptural examples to the understanding of covenant faithfulness.
  * [85.625 mistral Politician](../answers/mistral_Politician/Biblical_References.md)
  * [86.875 llama Bible Translator](../answers/llama_Bible_Translator/Biblical_References.md)
  * [88.125 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Biblical_References.md)
+ * [90.0 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Biblical_References.md)

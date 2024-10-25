@@ -11,7 +11,7 @@ The Israelites ate unleavened bread because God instructed them to flee Egypt qu
 Recognizing the historical events that shape religious practices.
 
 ## Average Grade
-76.30952380952381
+77.04545454545455
 
 ## Grades
  * [37.5 mistral 1.75 vectored](../answers/mistral_1.75_vectored/Historical_Context_2.md)
@@ -35,3 +35,4 @@ Recognizing the historical events that shape religious practices.
  * [90.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Historical_Context_2.md)
  * [91.875 llama Bible Translator](../answers/llama_Bible_Translator/Historical_Context_2.md)
  * [91.875 mistral Bible Translator](../answers/mistral_Bible_Translator/Historical_Context_2.md)
+ * [92.5 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Historical_Context_2.md)

@@ -11,7 +11,7 @@ In biblical context, Sheol and Hades refer to a place of the dead but were under
 Understanding the distinction between the fates of the righteous and the unrighteous after death.
 
 ## Average Grade
-81.86309523809524
+82.23295454545455
 
 ## Grades
  * [66.25 llama atheist](../answers/llama_atheist/Understanding_of_Sheol_and_Hades.md)
@@ -34,4 +34,5 @@ Understanding the distinction between the fates of the righteous and the unright
  * [86.875 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Understanding_of_Sheol_and_Hades.md)
  * [88.75 llama Bible Translator](../answers/llama_Bible_Translator/Understanding_of_Sheol_and_Hades.md)
  * [88.75 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Understanding_of_Sheol_and_Hades.md)
+ * [90.0 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Understanding_of_Sheol_and_Hades.md)
  * [90.625 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Understanding_of_Sheol_and_Hades.md)

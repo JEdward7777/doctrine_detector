@@ -11,7 +11,7 @@ Manna symbolizes God's provision for the Israelites during their time in the wil
 Recognizing God's ongoing provision in the lives of believers.
 
 ## Average Grade
-82.2202380952381
+82.6875
 
 ## Grades
  * [54.375 mistral atheist](../answers/mistral_atheist/Symbolism_of_Manna.md)
@@ -34,4 +34,5 @@ Recognizing God's ongoing provision in the lives of believers.
  * [91.25 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Symbolism_of_Manna.md)
  * [91.75 llama Bible Translator](../answers/llama_Bible_Translator/Symbolism_of_Manna.md)
  * [91.875 mistral Bible Translator](../answers/mistral_Bible_Translator/Symbolism_of_Manna.md)
+ * [92.5 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Symbolism_of_Manna.md)
  * [93.75 gemma Bible Translator](../answers/gemma_Bible_Translator/Symbolism_of_Manna.md)

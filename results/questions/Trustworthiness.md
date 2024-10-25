@@ -11,7 +11,7 @@ A trustworthy person is one who can be depended upon to do and say what is right
 Encouraging followers to live in accordance with Biblical teachings on integrity and reliability.
 
 ## Average Grade
-85.54761904761905
+85.92045454545455
 
 ## Grades
  * [58.125 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Trustworthiness.md)
@@ -33,5 +33,6 @@ Encouraging followers to live in accordance with Biblical teachings on integrity
  * [92.5 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Trustworthiness.md)
  * [93.125 llama Bible Translator](../answers/llama_Bible_Translator/Trustworthiness.md)
  * [93.75 mistral Bible Translator](../answers/mistral_Bible_Translator/Trustworthiness.md)
+ * [93.75 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Trustworthiness.md)
  * [94.375 mistral atheist](../answers/mistral_atheist/Trustworthiness.md)
  * [94.375 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Trustworthiness.md)

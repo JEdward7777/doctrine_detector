@@ -11,7 +11,7 @@ The people of Israel demonstrated unfaithfulness by worshiping idols and followi
 To understand the implications of unfaithfulness in a believer's relationship with God.
 
 ## Average Grade
-76.61309523809524
+77.33522727272727
 
 ## Grades
  * [35.625 mistral 1.75 vectored](../answers/mistral_1.75_vectored/Unfaithfulness_in_Worship.md)
@@ -35,3 +35,4 @@ To understand the implications of unfaithfulness in a believer's relationship wi
  * [88.75 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Unfaithfulness_in_Worship.md)
  * [91.5 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Unfaithfulness_in_Worship.md)
  * [91.875 llama Bible Translator](../answers/llama_Bible_Translator/Unfaithfulness_in_Worship.md)
+ * [92.5 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Unfaithfulness_in_Worship.md)

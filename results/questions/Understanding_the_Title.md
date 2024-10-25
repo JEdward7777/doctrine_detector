@@ -11,7 +11,7 @@ The title 'Son of Man' signifies Jesus' dual nature as fully human and fully div
 To understand the significance of Jesus’ self-identification as the 'Son of Man' and its implications for our faith.
 
 ## Average Grade
-76.04761904761905
+76.82386363636364
 
 ## Grades
  * [49.375 llama Imam](../answers/llama_Imam/Understanding_the_Title.md)
@@ -35,3 +35,4 @@ To understand the significance of Jesus’ self-identification as the 'Son of Ma
  * [90.5 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Understanding_the_Title.md)
  * [90.625 llama Bible Translator](../answers/llama_Bible_Translator/Understanding_the_Title.md)
  * [91.875 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Understanding_the_Title.md)
+ * [93.125 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Understanding_the_Title.md)

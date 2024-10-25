@@ -11,7 +11,7 @@ The Bible states that God is compassionate, full of love and mercy.
 Knowing how God's compassion influences our understanding of divine love and mercy.
 
 ## Average Grade
-86.0
+86.3409090909091
 
 ## Grades
  * [66.875 mistral 1.75 vectored](../answers/mistral_1.75_vectored/God_s_Compassion.md)
@@ -35,3 +35,4 @@ Knowing how God's compassion influences our understanding of divine love and mer
  * [91.875 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/God_s_Compassion.md)
  * [92.5 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/God_s_Compassion.md)
  * [93.125 llama Bible Translator](../answers/llama_Bible_Translator/God_s_Compassion.md)
+ * [93.5 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/God_s_Compassion.md)

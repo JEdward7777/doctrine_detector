@@ -11,7 +11,7 @@ The term 'woe' signifies a feeling of great distress and serves as a warning tha
 Understanding the implications of biblical warnings related to sin and judgment.
 
 ## Average Grade
-81.57738095238095
+82.01704545454545
 
 ## Grades
  * [58.125 gemma Imam](../answers/gemma_Imam/Understanding_Woe.md)
@@ -34,4 +34,5 @@ Understanding the implications of biblical warnings related to sin and judgment.
  * [90.625 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Understanding_Woe.md)
  * [90.625 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Understanding_Woe.md)
  * [91.25 llama Bible Translator](../answers/llama_Bible_Translator/Understanding_Woe.md)
+ * [91.25 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Understanding_Woe.md)
  * [91.875 gemma Bible Translator](../answers/gemma_Bible_Translator/Understanding_Woe.md)

@@ -11,7 +11,7 @@ Jesus Christ, being sinless and possessing the perfect character of God, will ju
 This question helps believers reflect on the importance of their faith in Jesus and the implications of His role as judge.
 
 ## Average Grade
-74.33928571428571
+75.20454545454545
 
 ## Grades
  * [37.5 gemma atheist](../answers/gemma_atheist/Understanding_the_Day_of_Judgment.md)
@@ -35,3 +35,4 @@ This question helps believers reflect on the importance of their faith in Jesus 
  * [90.625 gemma Bible Translator](../answers/gemma_Bible_Translator/Understanding_the_Day_of_Judgment.md)
  * [91.875 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Understanding_the_Day_of_Judgment.md)
  * [92.5 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Understanding_the_Day_of_Judgment.md)
+ * [93.375 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Understanding_the_Day_of_Judgment.md)

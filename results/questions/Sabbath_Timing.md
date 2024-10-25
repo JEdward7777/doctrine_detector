@@ -11,7 +11,7 @@ The Sabbath begins on Friday at sundown and lasts until Saturday at sundown.
 Recognizing the specific timeframe for the observance of the Sabbath in accordance with Biblical teaching.
 
 ## Average Grade
-79.75
+80.32954545454545
 
 ## Grades
  * [50.0 mistral 1.75 vectored](../answers/mistral_1.75_vectored/Sabbath_Timing.md)
@@ -34,4 +34,5 @@ Recognizing the specific timeframe for the observance of the Sabbath in accordan
  * [90.0 mistral atheist](../answers/mistral_atheist/Sabbath_Timing.md)
  * [91.25 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Sabbath_Timing.md)
  * [91.25 mistral Politician](../answers/mistral_Politician/Sabbath_Timing.md)
+ * [92.5 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Sabbath_Timing.md)
  * [93.125 mistral Bible Translator](../answers/mistral_Bible_Translator/Sabbath_Timing.md)

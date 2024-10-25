@@ -11,7 +11,7 @@ In the New Testament, deacons ensure that resources like money and food are dist
 Ensuring fair treatment and care within the church community.
 
 ## Average Grade
-79.66666666666667
+79.99431818181819
 
 ## Grades
  * [56.875 gemma Imam](../answers/gemma_Imam/Biblical_Context.md)
@@ -33,5 +33,6 @@ Ensuring fair treatment and care within the church community.
  * [86.25 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Biblical_Context.md)
  * [86.75 llama Bible Translator](../answers/llama_Bible_Translator/Biblical_Context.md)
  * [86.875 mistral Imam](../answers/mistral_Imam/Biblical_Context.md)
+ * [86.875 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Biblical_Context.md)
  * [88.125 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Biblical_Context.md)
  * [88.125 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Biblical_Context.md)

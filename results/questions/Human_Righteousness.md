@@ -11,7 +11,7 @@ A person can be declared righteous when they trust in Jesus to save them, as God
 Clarifying the basis for human righteousness as it relates to faith in Jesus is essential for understanding salvation.
 
 ## Average Grade
-84.22619047619048
+84.6875
 
 ## Grades
  * [16.25 gemma Imam](../answers/gemma_Imam/Human_Righteousness.md)
@@ -35,3 +35,4 @@ Clarifying the basis for human righteousness as it relates to faith in Jesus is 
  * [93.75 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Human_Righteousness.md)
  * [93.75 llama Bible Translator](../answers/llama_Bible_Translator/Human_Righteousness.md)
  * [94.375 gemma Bible Translator](../answers/gemma_Bible_Translator/Human_Righteousness.md)
+ * [94.375 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Human_Righteousness.md)

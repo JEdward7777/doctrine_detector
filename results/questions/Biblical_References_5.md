@@ -11,7 +11,7 @@ Which New Testament scripture connects the concept of unleavened bread to Christ
 Identifying relevant biblical texts that provide insight into Christian practices.
 
 ## Average Grade
-82.26190476190476
+82.67045454545455
 
 ## Grades
  * [13.75 gemma Imam](../answers/gemma_Imam/Biblical_References_5.md)
@@ -33,5 +33,6 @@ Identifying relevant biblical texts that provide insight into Christian practice
  * [90.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Biblical_References_5.md)
  * [90.625 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Biblical_References_5.md)
  * [91.25 llama Bible Translator](../answers/llama_Bible_Translator/Biblical_References_5.md)
+ * [91.25 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Biblical_References_5.md)
  * [91.875 llama atheist](../answers/llama_atheist/Biblical_References_5.md)
  * [91.875 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Biblical_References_5.md)

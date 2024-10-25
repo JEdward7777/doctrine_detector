@@ -11,7 +11,7 @@ Jesus is described as 'the image of God' because he is God himself and has all d
 This question focuses on the theological understanding of Christ's nature in relation to God.
 
 ## Average Grade
-76.67857142857143
+77.25568181818181
 
 ## Grades
  * [33.75 gemma Imam](../answers/gemma_Imam/Nature_of_Christ_as_the_Image_of_God.md)
@@ -33,5 +33,6 @@ This question focuses on the theological understanding of Christ's nature in rel
  * [86.875 gemma Politician](../answers/gemma_Politician/Nature_of_Christ_as_the_Image_of_God.md)
  * [87.5 llama atheist](../answers/llama_atheist/Nature_of_Christ_as_the_Image_of_God.md)
  * [89.375 gemma Bible Translator](../answers/gemma_Bible_Translator/Nature_of_Christ_as_the_Image_of_God.md)
+ * [89.375 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Nature_of_Christ_as_the_Image_of_God.md)
  * [90.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Nature_of_Christ_as_the_Image_of_God.md)
  * [91.25 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Nature_of_Christ_as_the_Image_of_God.md)

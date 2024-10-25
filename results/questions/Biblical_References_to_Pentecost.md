@@ -11,7 +11,7 @@ References to the Festival of Weeks can be found in 2 Chronicles, Deuteronomy, N
 Understanding the scriptural basis for the observance and significance of Pentecost.
 
 ## Average Grade
-71.19047619047619
+71.8465909090909
 
 ## Grades
  * [46.25 gemma Imam](../answers/gemma_Imam/Biblical_References_to_Pentecost.md)
@@ -32,6 +32,7 @@ Understanding the scriptural basis for the observance and significance of Pentec
  * [78.75 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Biblical_References_to_Pentecost.md)
  * [80.0 llama atheist](../answers/llama_atheist/Biblical_References_to_Pentecost.md)
  * [80.0 mistral Politician](../answers/mistral_Politician/Biblical_References_to_Pentecost.md)
+ * [85.625 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Biblical_References_to_Pentecost.md)
  * [86.25 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Biblical_References_to_Pentecost.md)
  * [86.875 mistral atheist](../answers/mistral_atheist/Biblical_References_to_Pentecost.md)
  * [90.625 gemma Bible Translator](../answers/gemma_Bible_Translator/Biblical_References_to_Pentecost.md)

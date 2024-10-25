@@ -11,7 +11,7 @@ The 'kingdom of God' refers to God's spiritual rule over people and His authorit
 Understanding God’s sovereignty and authority in our lives.
 
 ## Average Grade
-83.47619047619048
+83.89772727272727
 
 ## Grades
  * [71.25 gemma Politician](../answers/gemma_Politician/Understanding_the_Kingdom.md)
@@ -35,3 +35,4 @@ Understanding God’s sovereignty and authority in our lives.
  * [89.625 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Understanding_the_Kingdom.md)
  * [91.25 llama Bible Translator](../answers/llama_Bible_Translator/Understanding_the_Kingdom.md)
  * [91.25 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Understanding_the_Kingdom.md)
+ * [92.75 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Understanding_the_Kingdom.md)

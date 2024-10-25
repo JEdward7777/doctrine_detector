@@ -11,7 +11,7 @@ A demon-possessed person is controlled by a demon or evil spirit, which influenc
 Understanding the nature of spiritual warfare and the need for deliverance through Jesus Christ.
 
 ## Average Grade
-74.19047619047619
+74.94318181818181
 
 ## Grades
  * [46.875 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Demon_Possession.md)
@@ -34,4 +34,5 @@ Understanding the nature of spiritual warfare and the need for deliverance throu
  * [88.75 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Demon_Possession.md)
  * [90.25 llama Bible Translator](../answers/llama_Bible_Translator/Demon_Possession.md)
  * [90.625 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Demon_Possession.md)
+ * [90.75 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Demon_Possession.md)
  * [91.5 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Demon_Possession.md)

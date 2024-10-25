@@ -11,7 +11,7 @@ Jesus commanded His disciples to make other disciples of all nations, baptizing 
 Understanding the mission of discipleship in the context of the Great Commission.
 
 ## Average Grade
-73.48214285714286
+74.28977272727273
 
 ## Grades
  * [10.0 gemma atheist](../answers/gemma_atheist/The_Great_Commission.md)
@@ -33,5 +33,6 @@ Understanding the mission of discipleship in the context of the Great Commission
  * [90.625 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/The_Great_Commission.md)
  * [91.25 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/The_Great_Commission.md)
  * [91.25 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/The_Great_Commission.md)
+ * [91.25 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/The_Great_Commission.md)
  * [93.75 gemma Bible Translator](../answers/gemma_Bible_Translator/The_Great_Commission.md)
  * [93.75 llama Bible Translator](../answers/llama_Bible_Translator/The_Great_Commission.md)

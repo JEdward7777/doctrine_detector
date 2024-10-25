@@ -11,7 +11,7 @@ What does the expression 'woe is me' imply about an individual's awareness of th
 Encouraging personal reflection on one's own spiritual state and awareness of sin.
 
 ## Average Grade
-80.50595238095238
+81.0340909090909
 
 ## Grades
  * [53.125 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Personal_Reflection.md)
@@ -34,4 +34,5 @@ Encouraging personal reflection on one's own spiritual state and awareness of si
  * [91.25 gemma Bible Translator](../answers/gemma_Bible_Translator/Personal_Reflection.md)
  * [91.25 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Personal_Reflection.md)
  * [91.25 llama Bible Translator](../answers/llama_Bible_Translator/Personal_Reflection.md)
+ * [92.125 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Personal_Reflection.md)
  * [92.5 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Personal_Reflection.md)

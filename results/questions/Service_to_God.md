@@ -11,7 +11,7 @@ Christians can serve God through teaching others about Him, caring for the sick,
 Clarifying actionable ways to engage in ministry helps Christians to live out their faith and commitments.
 
 ## Average Grade
-81.61904761904762
+82.08522727272727
 
 ## Grades
  * [63.125 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Service_to_God.md)
@@ -35,3 +35,4 @@ Clarifying actionable ways to engage in ministry helps Christians to live out th
  * [89.625 mistral atheist](../answers/mistral_atheist/Service_to_God.md)
  * [90.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Service_to_God.md)
  * [90.625 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Service_to_God.md)
+ * [91.875 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Service_to_God.md)

@@ -11,7 +11,7 @@ What is the significance of God's name 'Yahweh' as revealed in the Bible?
 Comprehending the significance of God's name can deepen our reverence and understanding in our worship.
 
 ## Average Grade
-79.43452380952381
+80.0
 
 ## Grades
  * [38.125 gemma atheist](../answers/gemma_atheist/God_s_Name.md)
@@ -35,3 +35,4 @@ Comprehending the significance of God's name can deepen our reverence and unders
  * [90.625 llama Bible Translator](../answers/llama_Bible_Translator/God_s_Name.md)
  * [91.25 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/God_s_Name.md)
  * [91.875 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/God_s_Name.md)
+ * [91.875 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/God_s_Name.md)

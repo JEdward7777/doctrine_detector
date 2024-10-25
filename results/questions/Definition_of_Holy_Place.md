@@ -11,7 +11,7 @@ The 'holy place' is significant as it is the first room of the tabernacle or tem
 Understanding the design and function of God's dwelling place.
 
 ## Average Grade
-79.08333333333333
+79.66477272727273
 
 ## Grades
  * [60.0 llama atheist](../answers/llama_atheist/Definition_of_Holy_Place.md)
@@ -34,4 +34,5 @@ Understanding the design and function of God's dwelling place.
  * [87.5 mistral atheist](../answers/mistral_atheist/Definition_of_Holy_Place.md)
  * [90.0 llama Bible Translator](../answers/llama_Bible_Translator/Definition_of_Holy_Place.md)
  * [90.625 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Definition_of_Holy_Place.md)
+ * [91.875 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Definition_of_Holy_Place.md)
  * [92.375 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Definition_of_Holy_Place.md)

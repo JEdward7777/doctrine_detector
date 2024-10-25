@@ -11,7 +11,7 @@ Jesus is referred to as our 'great high priest' who intercedes for us in God's p
 Understanding the significance of Jesus' role in the priesthood
 
 ## Average Grade
-78.28571428571429
+78.96022727272727
 
 ## Grades
  * [35.625 gemma Imam](../answers/gemma_Imam/Jesus_as_High_Priest.md)
@@ -32,6 +32,7 @@ Understanding the significance of Jesus' role in the priesthood
  * [91.875 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Jesus_as_High_Priest.md)
  * [93.125 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Jesus_as_High_Priest.md)
  * [93.125 mistral Bible Translator](../answers/mistral_Bible_Translator/Jesus_as_High_Priest.md)
+ * [93.125 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Jesus_as_High_Priest.md)
  * [93.75 gemma Bible Translator](../answers/gemma_Bible_Translator/Jesus_as_High_Priest.md)
  * [93.75 llama Bible Translator](../answers/llama_Bible_Translator/Jesus_as_High_Priest.md)
  * [93.75 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Jesus_as_High_Priest.md)

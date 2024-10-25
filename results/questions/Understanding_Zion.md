@@ -11,7 +11,7 @@ The term 'Daughter of Zion' is a figurative expression referring to the people o
 Understanding the metaphorical language used in Scripture and its implications for God's relationship with His people.
 
 ## Average Grade
-80.01785714285714
+80.4715909090909
 
 ## Grades
  * [58.75 mistral Imam](../answers/mistral_Imam/Understanding_Zion.md)
@@ -33,5 +33,6 @@ Understanding the metaphorical language used in Scripture and its implications f
  * [87.5 mistral Bible Translator](../answers/mistral_Bible_Translator/Understanding_Zion.md)
  * [88.125 gemma Bible Translator](../answers/gemma_Bible_Translator/Understanding_Zion.md)
  * [89.375 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Understanding_Zion.md)
+ * [90.0 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Understanding_Zion.md)
  * [90.625 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Understanding_Zion.md)
  * [92.125 llama Bible Translator](../answers/llama_Bible_Translator/Understanding_Zion.md)

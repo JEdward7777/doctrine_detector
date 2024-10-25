@@ -11,7 +11,7 @@ It could be translated as 'decided long ago', 'planned ahead of time', or 'decid
 Ensuring accurate understanding of biblical translations related to predestination.
 
 ## Average Grade
-71.01190476190476
+71.76136363636364
 
 ## Grades
  * [43.125 llama atheist](../answers/llama_atheist/Translation_of_Predestine.md)
@@ -33,5 +33,6 @@ Ensuring accurate understanding of biblical translations related to predestinati
  * [83.75 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Translation_of_Predestine.md)
  * [85.625 mistral Bible Translator](../answers/mistral_Bible_Translator/Translation_of_Predestine.md)
  * [87.5 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Translation_of_Predestine.md)
+ * [87.5 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Translation_of_Predestine.md)
  * [88.125 llama Bible Translator](../answers/llama_Bible_Translator/Translation_of_Predestine.md)
  * [89.375 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Translation_of_Predestine.md)

@@ -11,7 +11,7 @@ Christians can apply the principle of reconciliation by pursuing peace, restorin
 Understanding the practical implications of reconciliation in daily life.
 
 ## Average Grade
-86.30952380952381
+86.61931818181819
 
 ## Grades
  * [77.5 llama Imam](../answers/llama_Imam/Application_of_Reconciliation.md)
@@ -35,3 +35,4 @@ Understanding the practical implications of reconciliation in daily life.
  * [91.25 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Application_of_Reconciliation.md)
  * [91.875 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Application_of_Reconciliation.md)
  * [92.5 llama Bible Translator](../answers/llama_Bible_Translator/Application_of_Reconciliation.md)
+ * [93.125 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Application_of_Reconciliation.md)

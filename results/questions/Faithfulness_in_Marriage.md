@@ -11,7 +11,7 @@ The Bible teaches that marriage is a sacred covenant, and faithfulness is a foun
 Exploring how Christians are called to maintain integrity and faithfulness in their marriages.
 
 ## Average Grade
-86.4047619047619
+86.71022727272727
 
 ## Grades
  * [48.75 mistral 1.75 vectored](../answers/mistral_1.75_vectored/Faithfulness_in_Marriage.md)
@@ -32,6 +32,7 @@ Exploring how Christians are called to maintain integrity and faithfulness in th
  * [92.5 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Faithfulness_in_Marriage.md)
  * [92.75 gemma Bible Translator](../answers/gemma_Bible_Translator/Faithfulness_in_Marriage.md)
  * [93.125 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Faithfulness_in_Marriage.md)
+ * [93.125 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Faithfulness_in_Marriage.md)
  * [93.75 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Faithfulness_in_Marriage.md)
  * [94.375 llama Bible Translator](../answers/llama_Bible_Translator/Faithfulness_in_Marriage.md)
  * [94.375 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Faithfulness_in_Marriage.md)

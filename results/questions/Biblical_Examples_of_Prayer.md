@@ -11,7 +11,7 @@ Examples include Isaac praying for Rebekah's fertility (Genesis 25:21), Moses pr
 Learning from biblical stories to foster a stronger prayer life.
 
 ## Average Grade
-80.28571428571429
+80.83522727272727
 
 ## Grades
  * [33.75 gemma atheist](../answers/gemma_atheist/Biblical_Examples_of_Prayer.md)
@@ -35,3 +35,4 @@ Learning from biblical stories to foster a stronger prayer life.
  * [90.625 llama Bible Translator](../answers/llama_Bible_Translator/Biblical_Examples_of_Prayer.md)
  * [91.25 gemma Bible Translator](../answers/gemma_Bible_Translator/Biblical_Examples_of_Prayer.md)
  * [91.5 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Biblical_Examples_of_Prayer.md)
+ * [92.375 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Biblical_Examples_of_Prayer.md)

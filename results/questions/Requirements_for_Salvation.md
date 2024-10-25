@@ -11,7 +11,7 @@ According to the Bible, a person must repent of their sins and believe in Jesus 
 This question addresses the foundational beliefs of Christianity and the call to faith and repentance.
 
 ## Average Grade
-74.76190476190476
+75.51136363636364
 
 ## Grades
  * [46.25 gemma Imam](../answers/gemma_Imam/Requirements_for_Salvation.md)
@@ -34,4 +34,5 @@ This question addresses the foundational beliefs of Christianity and the call to
  * [90.0 llama Bible Translator](../answers/llama_Bible_Translator/Requirements_for_Salvation.md)
  * [90.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Requirements_for_Salvation.md)
  * [90.625 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Requirements_for_Salvation.md)
+ * [91.25 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Requirements_for_Salvation.md)
  * [91.875 mistral Bible Translator](../answers/mistral_Bible_Translator/Requirements_for_Salvation.md)

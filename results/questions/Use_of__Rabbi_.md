@@ -11,7 +11,7 @@ Both John the Baptist and Jesus were sometimes called 'Rabbi' by their disciples
 Recognizing the respect and authority associated with Jesus' and John's teachings.
 
 ## Average Grade
-71.13095238095238
+71.5340909090909
 
 ## Grades
  * [52.5 mistral Politician](../answers/mistral_Politician/Use_of__Rabbi_.md)
@@ -30,6 +30,7 @@ Recognizing the respect and authority associated with Jesus' and John's teaching
  * [75.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Use_of__Rabbi_.md)
  * [76.875 mistral atheist](../answers/mistral_atheist/Use_of__Rabbi_.md)
  * [78.75 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Use_of__Rabbi_.md)
+ * [80.0 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Use_of__Rabbi_.md)
  * [81.25 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Use_of__Rabbi_.md)
  * [83.125 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Use_of__Rabbi_.md)
  * [83.75 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Use_of__Rabbi_.md)

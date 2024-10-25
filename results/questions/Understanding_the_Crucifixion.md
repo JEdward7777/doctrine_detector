@@ -11,7 +11,7 @@ Jesus' crucifixion is viewed as the pivotal moment for salvation, where He bore 
 Understanding the core tenets of salvation and atonement in Christianity.
 
 ## Average Grade
-88.29166666666667
+88.45454545454545
 
 ## Grades
  * [77.5 gemma atheist](../answers/gemma_atheist/Understanding_the_Crucifixion.md)
@@ -32,6 +32,7 @@ Understanding the core tenets of salvation and atonement in Christianity.
  * [91.875 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Understanding_the_Crucifixion.md)
  * [91.875 mistral Bible Translator](../answers/mistral_Bible_Translator/Understanding_the_Crucifixion.md)
  * [91.875 gemma Imam](../answers/gemma_Imam/Understanding_the_Crucifixion.md)
+ * [91.875 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Understanding_the_Crucifixion.md)
  * [92.5 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Understanding_the_Crucifixion.md)
  * [92.5 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Understanding_the_Crucifixion.md)
  * [95.0 llama Bible Translator](../answers/llama_Bible_Translator/Understanding_the_Crucifixion.md)

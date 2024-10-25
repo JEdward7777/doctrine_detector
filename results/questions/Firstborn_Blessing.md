@@ -11,7 +11,7 @@ The birthright represents the privilege and responsibility of leading one's fami
 This question encourages reflection on family roles and the spiritual responsibilities that come with them.
 
 ## Average Grade
-79.41666666666667
+80.01136363636364
 
 ## Grades
  * [41.25 gemma atheist](../answers/gemma_atheist/Firstborn_Blessing.md)
@@ -35,3 +35,4 @@ This question encourages reflection on family roles and the spiritual responsibi
  * [90.875 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Firstborn_Blessing.md)
  * [91.875 mistral Bible Translator](../answers/mistral_Bible_Translator/Firstborn_Blessing.md)
  * [91.875 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Firstborn_Blessing.md)
+ * [92.5 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Firstborn_Blessing.md)

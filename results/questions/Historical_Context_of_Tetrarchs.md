@@ -11,7 +11,7 @@ The division created local rulers like Herod Antipas, which impacted Jewish gove
 A clear view of this historical context is essential for comprehending the socio-political dynamics faced by Jesus and the early church.
 
 ## Average Grade
-83.55357142857143
+83.80113636363636
 
 ## Grades
  * [71.25 llama Politician](../answers/llama_Politician/Historical_Context_of_Tetrarchs.md)
@@ -34,4 +34,5 @@ A clear view of this historical context is essential for comprehending the socio
  * [88.625 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Historical_Context_of_Tetrarchs.md)
  * [88.625 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Historical_Context_of_Tetrarchs.md)
  * [89.0 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Historical_Context_of_Tetrarchs.md)
+ * [89.0 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Historical_Context_of_Tetrarchs.md)
  * [89.375 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Historical_Context_of_Tetrarchs.md)

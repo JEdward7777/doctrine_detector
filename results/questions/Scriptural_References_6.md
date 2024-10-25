@@ -11,7 +11,7 @@ Passages such as Psalms 49:13, Proverbs 13:16, and Matthew 7:26 describe the cha
 Studying these passages can help Christians remain vigilant against foolishness in their own lives.
 
 ## Average Grade
-76.35119047619048
+77.08522727272727
 
 ## Grades
  * [33.125 gemma Imam](../answers/gemma_Imam/Scriptural_References_6.md)
@@ -34,4 +34,5 @@ Studying these passages can help Christians remain vigilant against foolishness 
  * [86.875 mistral Bible Translator](../answers/mistral_Bible_Translator/Scriptural_References_6.md)
  * [88.125 gemma Bible Translator](../answers/gemma_Bible_Translator/Scriptural_References_6.md)
  * [89.625 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Scriptural_References_6.md)
+ * [92.5 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Scriptural_References_6.md)
  * [92.875 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Scriptural_References_6.md)

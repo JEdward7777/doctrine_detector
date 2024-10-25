@@ -11,7 +11,7 @@ The prophets wrote about the coming Messiah, including the promise that he would
 Understanding the significance of prophecies fulfilled by Jesus strengthens faith in Him as the Messiah.
 
 ## Average Grade
-84.48809523809524
+84.7784090909091
 
 ## Grades
  * [41.875 mistral 1.75 vectored](../answers/mistral_1.75_vectored/Messiah_Prophecies.md)
@@ -30,6 +30,7 @@ Understanding the significance of prophecies fulfilled by Jesus strengthens fait
  * [88.75 gemma Imam](../answers/gemma_Imam/Messiah_Prophecies.md)
  * [89.375 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Messiah_Prophecies.md)
  * [89.875 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Messiah_Prophecies.md)
+ * [90.875 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Messiah_Prophecies.md)
  * [91.25 llama Bible Translator](../answers/llama_Bible_Translator/Messiah_Prophecies.md)
  * [92.5 gemma Politician](../answers/gemma_Politician/Messiah_Prophecies.md)
  * [93.125 gemma Bible Translator](../answers/gemma_Bible_Translator/Messiah_Prophecies.md)

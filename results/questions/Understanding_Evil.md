@@ -11,7 +11,7 @@ The Bible describes 'evil' as a broader concept of moral wickedness, while 'wick
 Ensuring clarity on the moral implications of behaviors and character in the context of biblical teachings.
 
 ## Average Grade
-82.56547619047619
+83.01704545454545
 
 ## Grades
  * [55.625 mistral 1.75 vectored](../answers/mistral_1.75_vectored/Understanding_Evil.md)
@@ -35,3 +35,4 @@ Ensuring clarity on the moral implications of behaviors and character in the con
  * [90.625 llama Bible Translator](../answers/llama_Bible_Translator/Understanding_Evil.md)
  * [91.25 mistral Bible Translator](../answers/mistral_Bible_Translator/Understanding_Evil.md)
  * [91.25 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Understanding_Evil.md)
+ * [92.5 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Understanding_Evil.md)

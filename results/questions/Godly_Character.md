@@ -11,7 +11,7 @@ The fruits of the Holy Spirit include love, joy, peace, patience, kindness, and 
 Understanding the characteristics of a godly individual and how to cultivate them.
 
 ## Average Grade
-78.9702380952381
+79.38636363636364
 
 ## Grades
  * [22.5 gemma atheist](../answers/gemma_atheist/Godly_Character.md)
@@ -30,6 +30,7 @@ Understanding the characteristics of a godly individual and how to cultivate the
  * [85.625 mistral Politician](../answers/mistral_Politician/Godly_Character.md)
  * [88.125 gemma Politician](../answers/gemma_Politician/Godly_Character.md)
  * [88.125 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Godly_Character.md)
+ * [88.125 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Godly_Character.md)
  * [90.0 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Godly_Character.md)
  * [90.625 llama Bible Translator](../answers/llama_Bible_Translator/Godly_Character.md)
  * [92.125 gemma Bible Translator](../answers/gemma_Bible_Translator/Godly_Character.md)

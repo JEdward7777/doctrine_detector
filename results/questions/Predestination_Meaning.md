@@ -11,7 +11,7 @@ It refers to God deciding beforehand that certain individuals will receive etern
 Understanding the concept of predestination in relation to salvation.
 
 ## Average Grade
-77.76785714285714
+78.38068181818181
 
 ## Grades
  * [31.25 gemma Imam](../answers/gemma_Imam/Predestination_Meaning.md)
@@ -34,4 +34,5 @@ Understanding the concept of predestination in relation to salvation.
  * [88.125 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Predestination_Meaning.md)
  * [89.375 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Predestination_Meaning.md)
  * [90.625 llama Bible Translator](../answers/llama_Bible_Translator/Predestination_Meaning.md)
+ * [91.25 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Predestination_Meaning.md)
  * [91.875 gemma Bible Translator](../answers/gemma_Bible_Translator/Predestination_Meaning.md)

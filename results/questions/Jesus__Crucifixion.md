@@ -11,7 +11,7 @@ The offer of wine mixed with myrrh was meant to ease Jesus' pain and suffering, 
 Reflecting on Jesus' refusal can lead to deeper insights into his suffering and commitment to his mission.
 
 ## Average Grade
-74.75
+75.55113636363636
 
 ## Grades
  * [36.25 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Jesus__Crucifixion.md)
@@ -35,3 +35,4 @@ Reflecting on Jesus' refusal can lead to deeper insights into his suffering and 
  * [90.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Jesus__Crucifixion.md)
  * [90.625 llama Bible Translator](../answers/llama_Bible_Translator/Jesus__Crucifixion.md)
  * [91.875 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Jesus__Crucifixion.md)
+ * [92.375 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Jesus__Crucifixion.md)

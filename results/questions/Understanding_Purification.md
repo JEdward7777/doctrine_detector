@@ -11,7 +11,7 @@ Purification in the Old Testament primarily pertains to cleansing from ritual un
 Understanding how the process of ritual purification reflects God’s standards for holiness and the nature of sin.
 
 ## Average Grade
-80.91666666666667
+81.38636363636364
 
 ## Grades
  * [58.75 llama atheist](../answers/llama_atheist/Understanding_Purification.md)
@@ -35,3 +35,4 @@ Understanding how the process of ritual purification reflects God’s standards 
  * [89.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Understanding_Purification.md)
  * [89.375 mistral Bible Translator](../answers/mistral_Bible_Translator/Understanding_Purification.md)
  * [89.375 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Understanding_Purification.md)
+ * [91.25 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Understanding_Purification.md)

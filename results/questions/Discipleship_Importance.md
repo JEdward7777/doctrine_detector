@@ -11,7 +11,7 @@ The twelve apostles were chosen by Jesus to be his closest disciples for their u
 Understanding the role and significance of the apostles in the New Testament.
 
 ## Average Grade
-81.67857142857143
+82.17045454545455
 
 ## Grades
  * [61.875 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Discipleship_Importance.md)
@@ -35,3 +35,4 @@ Understanding the role and significance of the apostles in the New Testament.
  * [90.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Discipleship_Importance.md)
  * [90.625 gemma Bible Translator](../answers/gemma_Bible_Translator/Discipleship_Importance.md)
  * [91.25 mistral Bible Translator](../answers/mistral_Bible_Translator/Discipleship_Importance.md)
+ * [92.5 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Discipleship_Importance.md)

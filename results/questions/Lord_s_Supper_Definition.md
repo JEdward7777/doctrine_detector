@@ -11,7 +11,7 @@ The Lord’s Supper commemorates the Passover meal that Jesus shared with his di
 Understanding the meaning and significance of the Lord’s Supper in Christian faith.
 
 ## Average Grade
-78.0952380952381
+78.66477272727273
 
 ## Grades
  * [40.625 mistral atheist](../answers/mistral_atheist/Lord_s_Supper_Definition.md)
@@ -35,3 +35,4 @@ Understanding the meaning and significance of the Lord’s Supper in Christian f
  * [88.75 mistral Politician](../answers/mistral_Politician/Lord_s_Supper_Definition.md)
  * [88.75 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Lord_s_Supper_Definition.md)
  * [89.375 mistral Bible Translator](../answers/mistral_Bible_Translator/Lord_s_Supper_Definition.md)
+ * [90.625 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Lord_s_Supper_Definition.md)

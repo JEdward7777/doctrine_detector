@@ -11,7 +11,7 @@ God's absolute holiness means He is completely set apart from sin and imperfecti
 This question prompts reflection on our own holiness and the necessary steps for approaching a holy God.
 
 ## Average Grade
-78.07738095238095
+78.76136363636364
 
 ## Grades
  * [51.875 gemma Politician](../answers/gemma_Politician/Understanding_Holiness.md)
@@ -35,3 +35,4 @@ This question prompts reflection on our own holiness and the necessary steps for
  * [92.75 mistral Bible Translator](../answers/mistral_Bible_Translator/Understanding_Holiness.md)
  * [93.125 gemma Bible Translator](../answers/gemma_Bible_Translator/Understanding_Holiness.md)
  * [93.125 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Understanding_Holiness.md)
+ * [93.125 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Understanding_Holiness.md)

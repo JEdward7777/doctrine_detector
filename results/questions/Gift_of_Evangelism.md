@@ -11,7 +11,7 @@ Some Christians are given a special spiritual gift to effectively tell the gospe
 Understanding the spiritual gifts related to evangelism and their role in the church.
 
 ## Average Grade
-79.53571428571429
+79.95454545454545
 
 ## Grades
  * [65.0 llama atheist](../answers/llama_atheist/Gift_of_Evangelism.md)
@@ -32,6 +32,7 @@ Understanding the spiritual gifts related to evangelism and their role in the ch
  * [85.0 mistral 1.75 vectored](../answers/mistral_1.75_vectored/Gift_of_Evangelism.md)
  * [85.625 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Gift_of_Evangelism.md)
  * [88.75 mistral Bible Translator](../answers/mistral_Bible_Translator/Gift_of_Evangelism.md)
+ * [88.75 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Gift_of_Evangelism.md)
  * [89.0 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Gift_of_Evangelism.md)
  * [89.375 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Gift_of_Evangelism.md)
  * [91.25 llama Bible Translator](../answers/llama_Bible_Translator/Gift_of_Evangelism.md)

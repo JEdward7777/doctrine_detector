@@ -11,7 +11,7 @@ Missionaries should provide clear biblical teaching that explains the doctrine o
 It's crucial to correct misunderstandings without compromising the integrity of Christian doctrine.
 
 ## Average Grade
-83.39880952380952
+83.82386363636364
 
 ## Grades
  * [51.25 llama Politician](../answers/llama_Politician/Multiple_gods.md)
@@ -33,5 +33,6 @@ It's crucial to correct misunderstandings without compromising the integrity of 
  * [89.0 mistral 1.75 vectored](../answers/mistral_1.75_vectored/Multiple_gods.md)
  * [89.375 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Multiple_gods.md)
  * [91.875 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Multiple_gods.md)
+ * [92.75 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Multiple_gods.md)
  * [93.125 llama Bible Translator](../answers/llama_Bible_Translator/Multiple_gods.md)
  * [95.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Multiple_gods.md)

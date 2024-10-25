@@ -11,7 +11,7 @@ Testimony in the Bible often refers to the tablets of stone on which God wrote H
 Understanding the biblical basis of testimony helps believers recognize the importance of God's commands and their role in faith.
 
 ## Average Grade
-79.79166666666667
+80.18181818181819
 
 ## Grades
  * [55.625 gemma atheist](../answers/gemma_atheist/Testimony_Meaning.md)
@@ -33,5 +33,6 @@ Understanding the biblical basis of testimony helps believers recognize the impo
  * [86.0 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Testimony_Meaning.md)
  * [86.875 llama Bible Translator](../answers/llama_Bible_Translator/Testimony_Meaning.md)
  * [86.875 mistral Bible Translator](../answers/mistral_Bible_Translator/Testimony_Meaning.md)
+ * [88.375 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Testimony_Meaning.md)
  * [90.0 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Testimony_Meaning.md)
  * [90.25 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Testimony_Meaning.md)

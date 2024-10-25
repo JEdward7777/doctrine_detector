@@ -11,7 +11,7 @@ Recognizing that God has appointed specific times for events in our lives encour
 Explores the relationship between God's timing and our expectations in life.
 
 ## Average Grade
-84.38690476190476
+84.76704545454545
 
 ## Grades
  * [36.875 gemma atheist](../answers/gemma_atheist/God_s_Timing.md)
@@ -34,4 +34,5 @@ Explores the relationship between God's timing and our expectations in life.
  * [91.25 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/God_s_Timing.md)
  * [92.125 gemma Bible Translator](../answers/gemma_Bible_Translator/God_s_Timing.md)
  * [92.125 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/God_s_Timing.md)
+ * [92.75 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/God_s_Timing.md)
  * [93.375 llama Bible Translator](../answers/llama_Bible_Translator/God_s_Timing.md)

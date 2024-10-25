@@ -11,7 +11,7 @@ Demons deceive people into believing in false gods and the idols, despite the tr
 Christians should be aware of spiritual deceit and remain vigilant against influences that lead them away from the truth of God's sovereignty.
 
 ## Average Grade
-78.64285714285714
+79.24431818181819
 
 ## Grades
  * [34.375 llama atheist](../answers/llama_atheist/Spiritual_Deceit.md)
@@ -33,5 +33,6 @@ Christians should be aware of spiritual deceit and remain vigilant against influ
  * [86.875 mistral Politician](../answers/mistral_Politician/Spiritual_Deceit.md)
  * [88.125 llama Bible Translator](../answers/llama_Bible_Translator/Spiritual_Deceit.md)
  * [90.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Spiritual_Deceit.md)
+ * [91.875 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Spiritual_Deceit.md)
  * [92.5 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Spiritual_Deceit.md)
  * [92.5 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Spiritual_Deceit.md)

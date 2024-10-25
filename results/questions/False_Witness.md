@@ -11,7 +11,7 @@ The Bible warns against bearing false witness, which is considered a serious off
 Recognizing the seriousness of giving false testimony encourages Christians to uphold truthfulness in their words and actions.
 
 ## Average Grade
-91.19047619047619
+91.2784090909091
 
 ## Grades
  * [85.0 llama Imam](../answers/llama_Imam/False_Witness.md)
@@ -33,5 +33,6 @@ Recognizing the seriousness of giving false testimony encourages Christians to u
  * [92.5 GPT 3.5 Imam](../answers/GPT_3.5_Imam/False_Witness.md)
  * [93.125 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/False_Witness.md)
  * [93.125 mistral atheist](../answers/mistral_atheist/False_Witness.md)
+ * [93.125 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/False_Witness.md)
  * [93.75 llama Politician](../answers/llama_Politician/False_Witness.md)
  * [94.75 llama Bible Translator](../answers/llama_Bible_Translator/False_Witness.md)

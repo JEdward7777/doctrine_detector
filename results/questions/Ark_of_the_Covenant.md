@@ -11,7 +11,7 @@ The Ark of the Covenant was a sacred container that held the tablets of the Ten 
 Recognizing the importance of God's laws and His relationship with His chosen people through the Ark of the Covenant.
 
 ## Average Grade
-83.18452380952381
+83.63636363636364
 
 ## Grades
  * [65.0 gemma Politician](../answers/gemma_Politician/Ark_of_the_Covenant.md)
@@ -35,3 +35,4 @@ Recognizing the importance of God's laws and His relationship with His chosen pe
  * [91.25 mistral Bible Translator](../answers/mistral_Bible_Translator/Ark_of_the_Covenant.md)
  * [91.875 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Ark_of_the_Covenant.md)
  * [92.5 llama Bible Translator](../answers/llama_Bible_Translator/Ark_of_the_Covenant.md)
+ * [93.125 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Ark_of_the_Covenant.md)

@@ -11,7 +11,7 @@ It is important for Christians to proclaim the 'good news' because Jesus instruc
 Recognizing the mandate of Christians to spread the Gospel message.
 
 ## Average Grade
-80.54761904761905
+81.0625
 
 ## Grades
  * [41.25 gemma atheist](../answers/gemma_atheist/Importance_of_Proclaiming_the_Gospel.md)
@@ -33,5 +33,6 @@ Recognizing the mandate of Christians to spread the Gospel message.
  * [90.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Importance_of_Proclaiming_the_Gospel.md)
  * [90.625 gemma Bible Translator](../answers/gemma_Bible_Translator/Importance_of_Proclaiming_the_Gospel.md)
  * [91.25 llama Bible Translator](../answers/llama_Bible_Translator/Importance_of_Proclaiming_the_Gospel.md)
+ * [91.875 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Importance_of_Proclaiming_the_Gospel.md)
  * [92.5 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Importance_of_Proclaiming_the_Gospel.md)
  * [93.125 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Importance_of_Proclaiming_the_Gospel.md)

@@ -11,7 +11,7 @@ Modern Christians may adopt practices such as repentance, confession, and spirit
 Incorporating ancient teachings into contemporary faith practice can enhance spiritual growth and accountability.
 
 ## Average Grade
-80.54761904761905
+81.0340909090909
 
 ## Grades
  * [59.375 gemma Politician](../answers/gemma_Politician/Cleansing_Practices.md)
@@ -35,3 +35,4 @@ Incorporating ancient teachings into contemporary faith practice can enhance spi
  * [89.0 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Cleansing_Practices.md)
  * [89.375 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Cleansing_Practices.md)
  * [90.875 llama Bible Translator](../answers/llama_Bible_Translator/Cleansing_Practices.md)
+ * [91.25 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Cleansing_Practices.md)

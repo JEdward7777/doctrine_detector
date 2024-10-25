@@ -11,7 +11,7 @@ God the Father, God the Son, and God the Holy Spirit are all of one essence.
 Clarifying the nature of the Trinity in Christian theology.
 
 ## Average Grade
-74.49404761904762
+75.36931818181819
 
 ## Grades
  * [17.5 gemma atheist](../answers/gemma_atheist/Essence_of_the_Trinity.md)
@@ -35,3 +35,4 @@ Clarifying the nature of the Trinity in Christian theology.
  * [91.875 mistral Bible Translator](../answers/mistral_Bible_Translator/Essence_of_the_Trinity.md)
  * [91.875 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Essence_of_the_Trinity.md)
  * [92.5 llama Bible Translator](../answers/llama_Bible_Translator/Essence_of_the_Trinity.md)
+ * [93.75 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Essence_of_the_Trinity.md)

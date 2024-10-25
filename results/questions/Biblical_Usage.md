@@ -11,7 +11,7 @@ In what way is the term 'begat' used in the genealogy accounts found in the Bibl
 Understanding the importance of genealogies in establishing Jesus' lineage and fulfilling prophecies.
 
 ## Average Grade
-81.32142857142857
+81.77272727272727
 
 ## Grades
  * [48.125 gemma Imam](../answers/gemma_Imam/Biblical_Usage.md)
@@ -35,3 +35,4 @@ Understanding the importance of genealogies in establishing Jesus' lineage and f
  * [87.75 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Biblical_Usage.md)
  * [90.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Biblical_Usage.md)
  * [90.625 gemma Bible Translator](../answers/gemma_Bible_Translator/Biblical_Usage.md)
+ * [91.25 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Biblical_Usage.md)

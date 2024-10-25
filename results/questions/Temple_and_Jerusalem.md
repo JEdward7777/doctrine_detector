@@ -11,7 +11,7 @@ How did the term 'Zion' come to be associated with the temple located in Jerusal
 Gaining insight into the geographical and theological significance of the location of the temple in relation to Zion.
 
 ## Average Grade
-80.32738095238095
+80.69318181818181
 
 ## Grades
  * [57.5 gemma Imam](../answers/gemma_Imam/Temple_and_Jerusalem.md)
@@ -30,6 +30,7 @@ Gaining insight into the geographical and theological significance of the locati
  * [86.25 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Temple_and_Jerusalem.md)
  * [86.25 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Temple_and_Jerusalem.md)
  * [88.125 mistral atheist](../answers/mistral_atheist/Temple_and_Jerusalem.md)
+ * [88.375 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Temple_and_Jerusalem.md)
  * [88.75 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Temple_and_Jerusalem.md)
  * [88.75 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Temple_and_Jerusalem.md)
  * [89.375 llama Bible Translator](../answers/llama_Bible_Translator/Temple_and_Jerusalem.md)

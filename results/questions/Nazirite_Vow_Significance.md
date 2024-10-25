@@ -11,7 +11,7 @@ The key restrictions include abstaining from food or drink made from grapes, not
 Understanding the purpose and significance of the Nazirite vow in biblical context.
 
 ## Average Grade
-71.66666666666667
+72.38636363636364
 
 ## Grades
  * [30.0 llama Imam](../answers/llama_Imam/Nazirite_Vow_Significance.md)
@@ -35,3 +35,4 @@ Understanding the purpose and significance of the Nazirite vow in biblical conte
  * [84.375 mistral Bible Translator](../answers/mistral_Bible_Translator/Nazirite_Vow_Significance.md)
  * [84.375 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Nazirite_Vow_Significance.md)
  * [86.875 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Nazirite_Vow_Significance.md)
+ * [87.5 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Nazirite_Vow_Significance.md)

@@ -11,7 +11,7 @@ The lesson learned is that objects associated with worship can become idols if n
 This teaches the importance of focusing on God, rather than being distracted by material representations of faith.
 
 ## Average Grade
-82.19642857142857
+82.7215909090909
 
 ## Grades
  * [63.125 llama atheist](../answers/llama_atheist/Ephod_idolatry.md)
@@ -35,3 +35,4 @@ This teaches the importance of focusing on God, rather than being distracted by 
  * [89.375 llama Bible Translator](../answers/llama_Bible_Translator/Ephod_idolatry.md)
  * [89.75 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Ephod_idolatry.md)
  * [90.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Ephod_idolatry.md)
+ * [93.75 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Ephod_idolatry.md)

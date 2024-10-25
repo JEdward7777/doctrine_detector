@@ -11,7 +11,7 @@ It is God's work that causes a person to be born again and become His child, ind
 This question emphasizes the importance of recognizing God's sovereignty and grace in the process of salvation.
 
 ## Average Grade
-73.42261904761905
+74.3465909090909
 
 ## Grades
  * [25.0 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/God_s_Role_in_New_Birth.md)
@@ -31,6 +31,7 @@ This question emphasizes the importance of recognizing God's sovereignty and gra
  * [85.0 mistral Politician](../answers/mistral_Politician/God_s_Role_in_New_Birth.md)
  * [91.25 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/God_s_Role_in_New_Birth.md)
  * [92.5 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/God_s_Role_in_New_Birth.md)
+ * [93.75 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/God_s_Role_in_New_Birth.md)
  * [95.0 gemma Bible Translator](../answers/gemma_Bible_Translator/God_s_Role_in_New_Birth.md)
  * [95.0 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/God_s_Role_in_New_Birth.md)
  * [95.0 llama Bible Translator](../answers/llama_Bible_Translator/God_s_Role_in_New_Birth.md)

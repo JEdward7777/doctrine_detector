@@ -11,7 +11,7 @@ The wrath of God is the righteous penalty for those who do not repent of their s
 Understanding the need for repentance is essential to the Christian faith and one's relationship with God.
 
 ## Average Grade
-80.98809523809524
+81.53977272727273
 
 ## Grades
  * [58.125 llama atheist](../answers/llama_atheist/Repentance_and_Judgment.md)
@@ -34,4 +34,5 @@ Understanding the need for repentance is essential to the Christian faith and on
  * [90.875 mistral atheist](../answers/mistral_atheist/Repentance_and_Judgment.md)
  * [91.25 llama Bible Translator](../answers/llama_Bible_Translator/Repentance_and_Judgment.md)
  * [93.125 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Repentance_and_Judgment.md)
+ * [93.125 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Repentance_and_Judgment.md)
  * [93.75 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Repentance_and_Judgment.md)

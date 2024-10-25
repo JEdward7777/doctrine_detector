@@ -11,7 +11,7 @@ What are the key differences between the terms 'exhort', 'encourage', and 'admon
 Clarifying the appropriate use of different forms of encouragement according to scripture.
 
 ## Average Grade
-81.80952380952381
+82.21022727272727
 
 ## Grades
  * [64.375 mistral Imam](../answers/mistral_Imam/Differences_in_Terminology.md)
@@ -33,5 +33,6 @@ Clarifying the appropriate use of different forms of encouragement according to 
  * [88.125 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Differences_in_Terminology.md)
  * [88.75 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Differences_in_Terminology.md)
  * [89.375 mistral Bible Translator](../answers/mistral_Bible_Translator/Differences_in_Terminology.md)
+ * [90.625 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Differences_in_Terminology.md)
  * [91.25 llama Bible Translator](../answers/llama_Bible_Translator/Differences_in_Terminology.md)
  * [91.875 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Differences_in_Terminology.md)

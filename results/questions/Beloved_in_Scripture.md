@@ -11,7 +11,7 @@ In the New Testament letters, the apostles frequently use the term 'beloved' to 
 Recognizing the importance of love and unity among Christians as reflected in biblical teachings.
 
 ## Average Grade
-87.16666666666667
+87.35227272727273
 
 ## Grades
  * [66.875 gemma Politician](../answers/gemma_Politician/Beloved_in_Scripture.md)
@@ -32,6 +32,7 @@ Recognizing the importance of love and unity among Christians as reflected in bi
  * [90.875 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Beloved_in_Scripture.md)
  * [91.25 llama atheist](../answers/llama_atheist/Beloved_in_Scripture.md)
  * [91.25 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Beloved_in_Scripture.md)
+ * [91.25 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Beloved_in_Scripture.md)
  * [92.5 llama Bible Translator](../answers/llama_Bible_Translator/Beloved_in_Scripture.md)
  * [93.125 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Beloved_in_Scripture.md)
  * [93.125 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Beloved_in_Scripture.md)

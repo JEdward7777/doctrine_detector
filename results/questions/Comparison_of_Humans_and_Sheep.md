@@ -11,7 +11,7 @@ The comparison signifies that humans are easily led astray and in need of protec
 This question encourages reflection on human vulnerability and the need for divine guidance as depicted in the Bible.
 
 ## Average Grade
-81.05357142857143
+81.51704545454545
 
 ## Grades
  * [36.875 mistral 1.75 vectored](../answers/mistral_1.75_vectored/Comparison_of_Humans_and_Sheep.md)
@@ -32,6 +32,7 @@ This question encourages reflection on human vulnerability and the need for divi
  * [90.625 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Comparison_of_Humans_and_Sheep.md)
  * [90.625 llama atheist](../answers/llama_atheist/Comparison_of_Humans_and_Sheep.md)
  * [90.625 mistral Bible Translator](../answers/mistral_Bible_Translator/Comparison_of_Humans_and_Sheep.md)
+ * [91.25 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Comparison_of_Humans_and_Sheep.md)
  * [92.75 gemma Bible Translator](../answers/gemma_Bible_Translator/Comparison_of_Humans_and_Sheep.md)
  * [93.125 llama Bible Translator](../answers/llama_Bible_Translator/Comparison_of_Humans_and_Sheep.md)
  * [93.75 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Comparison_of_Humans_and_Sheep.md)

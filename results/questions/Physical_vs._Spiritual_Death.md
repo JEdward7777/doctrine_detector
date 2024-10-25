@@ -11,7 +11,7 @@ While everyone will die physically, 'perish' in a spiritual context highlights e
 Clarifying the distinction between physical and spiritual death for proper understanding.
 
 ## Average Grade
-77.86309523809524
+78.55681818181819
 
 ## Grades
  * [60.0 gemma Imam](../answers/gemma_Imam/Physical_vs._Spiritual_Death.md)
@@ -35,3 +35,4 @@ Clarifying the distinction between physical and spiritual death for proper under
  * [90.25 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Physical_vs._Spiritual_Death.md)
  * [90.875 mistral Bible Translator](../answers/mistral_Bible_Translator/Physical_vs._Spiritual_Death.md)
  * [91.25 llama Bible Translator](../answers/llama_Bible_Translator/Physical_vs._Spiritual_Death.md)
+ * [93.125 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Physical_vs._Spiritual_Death.md)

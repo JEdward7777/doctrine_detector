@@ -11,7 +11,7 @@ The Law of Moses includes the Ten Commandments and various other laws that cover
 Depth of understanding of the Old Testament laws and their relevance today.
 
 ## Average Grade
-80.96428571428571
+81.43181818181819
 
 ## Grades
  * [50.625 mistral 1.75 vectored](../answers/mistral_1.75_vectored/Understanding_the_Law_of_Moses.md)
@@ -35,3 +35,4 @@ Depth of understanding of the Old Testament laws and their relevance today.
  * [88.75 llama atheist](../answers/llama_atheist/Understanding_the_Law_of_Moses.md)
  * [89.375 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Understanding_the_Law_of_Moses.md)
  * [90.0 llama Bible Translator](../answers/llama_Bible_Translator/Understanding_the_Law_of_Moses.md)
+ * [91.25 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Understanding_the_Law_of_Moses.md)

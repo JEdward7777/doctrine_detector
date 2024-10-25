@@ -11,7 +11,7 @@ To trust in Jesus means to believe that he is God, to believe that he died on th
 Understanding the foundation of Christian faith in relation to trust.
 
 ## Average Grade
-82.76785714285714
+83.125
 
 ## Grades
  * [45.0 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Trust_in_God_2.md)
@@ -34,4 +34,5 @@ Understanding the foundation of Christian faith in relation to trust.
  * [89.375 mistral Imam](../answers/mistral_Imam/Trust_in_God_2.md)
  * [89.375 mistral 1.75 vectored](../answers/mistral_1.75_vectored/Trust_in_God_2.md)
  * [90.0 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Trust_in_God_2.md)
+ * [90.625 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Trust_in_God_2.md)
  * [91.875 llama Bible Translator](../answers/llama_Bible_Translator/Trust_in_God_2.md)

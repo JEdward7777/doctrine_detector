@@ -11,7 +11,7 @@ Witnesses in the New Testament, particularly those who followed Jesus, testified
 This emphasizes the call for Christians to witness their faith and share personal experiences of God's work in their lives.
 
 ## Average Grade
-85.66666666666667
+85.80113636363636
 
 ## Grades
  * [69.375 gemma atheist](../answers/gemma_atheist/Role_of_Witnesses.md)
@@ -28,6 +28,7 @@ This emphasizes the call for Christians to witness their faith and share persona
  * [88.125 mistral atheist](../answers/mistral_atheist/Role_of_Witnesses.md)
  * [88.125 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Role_of_Witnesses.md)
  * [88.125 mistral Imam](../answers/mistral_Imam/Role_of_Witnesses.md)
+ * [88.625 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Role_of_Witnesses.md)
  * [89.625 gemma Politician](../answers/gemma_Politician/Role_of_Witnesses.md)
  * [90.0 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Role_of_Witnesses.md)
  * [90.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Role_of_Witnesses.md)

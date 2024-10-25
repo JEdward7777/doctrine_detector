@@ -11,7 +11,7 @@ The New Testament teaches that God sanctifies people who believe in Jesus, makin
 Recognizing the role of faith in the process of sanctification.
 
 ## Average Grade
-83.04761904761905
+83.39204545454545
 
 ## Grades
  * [56.875 llama atheist](../answers/llama_atheist/Sanctification_in_the_New_Testament.md)
@@ -29,6 +29,7 @@ Recognizing the role of faith in the process of sanctification.
  * [87.5 llama Politician](../answers/llama_Politician/Sanctification_in_the_New_Testament.md)
  * [87.5 mistral Politician](../answers/mistral_Politician/Sanctification_in_the_New_Testament.md)
  * [88.75 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Sanctification_in_the_New_Testament.md)
+ * [90.625 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Sanctification_in_the_New_Testament.md)
  * [91.25 gemma Bible Translator](../answers/gemma_Bible_Translator/Sanctification_in_the_New_Testament.md)
  * [91.25 llama Bible Translator](../answers/llama_Bible_Translator/Sanctification_in_the_New_Testament.md)
  * [91.25 mistral Bible Translator](../answers/mistral_Bible_Translator/Sanctification_in_the_New_Testament.md)

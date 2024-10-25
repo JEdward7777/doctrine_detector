@@ -11,7 +11,7 @@ Christians should exhort each other in love, not harshly or abruptly.
 Ensuring that encouragement is delivered in a loving and supportive manner.
 
 ## Average Grade
-86.05357142857143
+86.31818181818181
 
 ## Grades
  * [64.375 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Nature_of_Exhortation.md)
@@ -31,6 +31,7 @@ Ensuring that encouragement is delivered in a loving and supportive manner.
  * [90.625 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Nature_of_Exhortation.md)
  * [91.5 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Nature_of_Exhortation.md)
  * [91.875 mistral Bible Translator](../answers/mistral_Bible_Translator/Nature_of_Exhortation.md)
+ * [91.875 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Nature_of_Exhortation.md)
  * [92.5 llama Bible Translator](../answers/llama_Bible_Translator/Nature_of_Exhortation.md)
  * [92.5 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Nature_of_Exhortation.md)
  * [92.5 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Nature_of_Exhortation.md)

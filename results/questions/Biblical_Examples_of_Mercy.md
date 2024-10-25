@@ -11,7 +11,7 @@ Examples include the mercy shown by the Persian Empire to conquered peoples, Jes
 Enhancing understanding of mercy through scriptural references and real-life applications.
 
 ## Average Grade
-81.20833333333333
+81.49431818181819
 
 ## Grades
  * [60.625 gemma Imam](../answers/gemma_Imam/Biblical_Examples_of_Mercy.md)
@@ -33,5 +33,6 @@ Enhancing understanding of mercy through scriptural references and real-life app
  * [86.875 mistral Bible Translator](../answers/mistral_Bible_Translator/Biblical_Examples_of_Mercy.md)
  * [87.5 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Biblical_Examples_of_Mercy.md)
  * [87.5 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Biblical_Examples_of_Mercy.md)
+ * [87.5 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Biblical_Examples_of_Mercy.md)
  * [90.25 mistral Politician](../answers/mistral_Politician/Biblical_Examples_of_Mercy.md)
  * [91.25 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Biblical_Examples_of_Mercy.md)

@@ -11,7 +11,7 @@ Many Bible translations use 'LORD' to show respect for God's name due to histori
 Clarity in the translation of sacred texts and maintaining reverence for God's name.
 
 ## Average Grade
-84.19642857142857
+84.43181818181819
 
 ## Grades
  * [70.625 mistral 1.75 vectored](../answers/mistral_1.75_vectored/Translation_Practices.md)
@@ -31,6 +31,7 @@ Clarity in the translation of sacred texts and maintaining reverence for God's n
  * [87.5 mistral Bible Translator](../answers/mistral_Bible_Translator/Translation_Practices.md)
  * [87.5 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Translation_Practices.md)
  * [89.375 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Translation_Practices.md)
+ * [89.375 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Translation_Practices.md)
  * [90.0 mistral Imam](../answers/mistral_Imam/Translation_Practices.md)
  * [90.0 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Translation_Practices.md)
  * [90.625 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Translation_Practices.md)

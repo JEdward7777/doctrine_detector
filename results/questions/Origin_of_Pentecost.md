@@ -11,7 +11,7 @@ The Festival of Weeks was a Jewish celebration held fifty days after Passover, c
 Connecting biblical festivals to their fulfillment in Christ.
 
 ## Average Grade
-79.0952380952381
+79.44886363636364
 
 ## Grades
  * [50.625 gemma Politician](../answers/gemma_Politician/Origin_of_Pentecost.md)
@@ -30,6 +30,7 @@ Connecting biblical festivals to their fulfillment in Christ.
  * [85.625 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Origin_of_Pentecost.md)
  * [86.25 gemma Bible Translator](../answers/gemma_Bible_Translator/Origin_of_Pentecost.md)
  * [86.25 mistral Politician](../answers/mistral_Politician/Origin_of_Pentecost.md)
+ * [86.875 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Origin_of_Pentecost.md)
  * [87.5 mistral Bible Translator](../answers/mistral_Bible_Translator/Origin_of_Pentecost.md)
  * [87.875 llama Bible Translator](../answers/llama_Bible_Translator/Origin_of_Pentecost.md)
  * [88.125 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Origin_of_Pentecost.md)

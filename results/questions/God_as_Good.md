@@ -11,7 +11,7 @@ This statement emphasizes the moral perfection and righteousness of God as the u
 Recognizing the source of goodness in our actions and beliefs.
 
 ## Average Grade
-82.30952380952381
+82.7159090909091
 
 ## Grades
  * [61.25 GPT 3.5 Imam](../answers/GPT_3.5_Imam/God_as_Good.md)
@@ -32,6 +32,7 @@ Recognizing the source of goodness in our actions and beliefs.
  * [89.375 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/God_as_Good.md)
  * [91.25 gemma Bible Translator](../answers/gemma_Bible_Translator/God_as_Good.md)
  * [91.25 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/God_as_Good.md)
+ * [91.25 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/God_as_Good.md)
  * [91.875 mistral Bible Translator](../answers/mistral_Bible_Translator/God_as_Good.md)
  * [92.5 llama Bible Translator](../answers/llama_Bible_Translator/God_as_Good.md)
  * [92.5 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/God_as_Good.md)

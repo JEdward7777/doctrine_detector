@@ -11,7 +11,7 @@ The Bible frequently depicts God's people turning away from Him to worship false
 Understanding these consequences can help Christians recognize the seriousness of straying from God's commandments.
 
 ## Average Grade
-84.98214285714286
+85.38068181818181
 
 ## Grades
  * [68.75 gemma atheist](../answers/gemma_atheist/Idolatry_in_the_Bible.md)
@@ -33,5 +33,6 @@ Understanding these consequences can help Christians recognize the seriousness o
  * [91.875 gemma Imam](../answers/gemma_Imam/Idolatry_in_the_Bible.md)
  * [92.75 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Idolatry_in_the_Bible.md)
  * [93.125 gemma Bible Translator](../answers/gemma_Bible_Translator/Idolatry_in_the_Bible.md)
+ * [93.75 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Idolatry_in_the_Bible.md)
  * [94.0 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Idolatry_in_the_Bible.md)
  * [94.125 llama Bible Translator](../answers/llama_Bible_Translator/Idolatry_in_the_Bible.md)

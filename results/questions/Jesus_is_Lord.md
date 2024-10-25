@@ -11,7 +11,7 @@ Explain that 'Jesus is Lord' signifies His divine authority and supremacy over a
 Clarity is needed to differentiate between Jesus' divine lordship and earthly titles.
 
 ## Average Grade
-79.54761904761905
+80.07954545454545
 
 ## Grades
  * [59.375 gemma Imam](../answers/gemma_Imam/Jesus_is_Lord.md)
@@ -35,3 +35,4 @@ Clarity is needed to differentiate between Jesus' divine lordship and earthly ti
  * [90.625 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Jesus_is_Lord.md)
  * [91.125 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Jesus_is_Lord.md)
  * [91.25 llama Bible Translator](../answers/llama_Bible_Translator/Jesus_is_Lord.md)
+ * [91.25 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Jesus_is_Lord.md)

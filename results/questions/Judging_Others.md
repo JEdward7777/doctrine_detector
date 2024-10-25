@@ -11,7 +11,7 @@ The Bible instructs Christians not to judge each other harshly or to condemn one
 Learning how to approach relationships within the Christian community in a Christ-like manner.
 
 ## Average Grade
-84.625
+84.98295454545455
 
 ## Grades
  * [60.625 mistral 1.75 vectored](../answers/mistral_1.75_vectored/Judging_Others.md)
@@ -34,4 +34,5 @@ Learning how to approach relationships within the Christian community in a Chris
  * [90.625 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Judging_Others.md)
  * [91.5 llama Bible Translator](../answers/llama_Bible_Translator/Judging_Others.md)
  * [91.875 mistral Bible Translator](../answers/mistral_Bible_Translator/Judging_Others.md)
+ * [92.5 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Judging_Others.md)
  * [93.125 mistral atheist](../answers/mistral_atheist/Judging_Others.md)

@@ -11,7 +11,7 @@ Peter pointedly states that the crowd collectively crucified Jesus but emphasize
 Evaluating the early church's preaching and the call to respond to the gospel.
 
 ## Average Grade
-68.10714285714286
+69.10227272727273
 
 ## Grades
  * [30.625 mistral 1.75 vectored](../answers/mistral_1.75_vectored/Response_to_the_Crucifixion.md)
@@ -35,3 +35,4 @@ Evaluating the early church's preaching and the call to respond to the gospel.
  * [88.125 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Response_to_the_Crucifixion.md)
  * [88.75 mistral Bible Translator](../answers/mistral_Bible_Translator/Response_to_the_Crucifixion.md)
  * [89.375 mistral atheist](../answers/mistral_atheist/Response_to_the_Crucifixion.md)
+ * [90.0 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Response_to_the_Crucifixion.md)

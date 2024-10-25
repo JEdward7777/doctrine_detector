@@ -11,7 +11,7 @@ The Bible identifies adultery as a sin that breaks the covenant between husband 
 Evaluating the impact of adultery on marriage and spirituality.
 
 ## Average Grade
-80.97619047619048
+81.4715909090909
 
 ## Grades
  * [35.625 mistral 1.75 vectored](../answers/mistral_1.75_vectored/Understanding_Adultery.md)
@@ -30,6 +30,7 @@ Evaluating the impact of adultery on marriage and spirituality.
  * [90.0 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Understanding_Adultery.md)
  * [90.625 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Understanding_Adultery.md)
  * [91.25 mistral Bible Translator](../answers/mistral_Bible_Translator/Understanding_Adultery.md)
+ * [91.875 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Understanding_Adultery.md)
  * [92.5 mistral Politician](../answers/mistral_Politician/Understanding_Adultery.md)
  * [92.5 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Understanding_Adultery.md)
  * [92.75 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Understanding_Adultery.md)

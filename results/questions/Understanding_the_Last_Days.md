@@ -11,7 +11,7 @@ The 'last days' refer to the time beginning with Jesus' first coming and ending 
 It is essential to understand the timeline of major Biblical events and their implications for Christian faith.
 
 ## Average Grade
-70.80357142857143
+71.67613636363636
 
 ## Grades
  * [27.5 gemma Imam](../answers/gemma_Imam/Understanding_the_Last_Days.md)
@@ -34,4 +34,5 @@ It is essential to understand the timeline of major Biblical events and their im
  * [86.25 gemma Bible Translator](../answers/gemma_Bible_Translator/Understanding_the_Last_Days.md)
  * [87.5 mistral Bible Translator](../answers/mistral_Bible_Translator/Understanding_the_Last_Days.md)
  * [89.375 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Understanding_the_Last_Days.md)
+ * [90.0 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Understanding_the_Last_Days.md)
  * [91.25 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Understanding_the_Last_Days.md)

@@ -11,7 +11,7 @@ Bible references that illustrate the concept of God's majesty include 2 Peter 1:
 Connecting scripture with the understanding of God's majestic nature.
 
 ## Average Grade
-75.83333333333333
+76.47727272727273
 
 ## Grades
  * [40.0 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Biblical_References_2.md)
@@ -35,3 +35,4 @@ Connecting scripture with the understanding of God's majestic nature.
  * [88.75 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Biblical_References_2.md)
  * [90.0 llama Bible Translator](../answers/llama_Bible_Translator/Biblical_References_2.md)
  * [90.0 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Biblical_References_2.md)
+ * [90.0 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Biblical_References_2.md)

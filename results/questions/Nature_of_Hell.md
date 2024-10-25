@@ -11,7 +11,7 @@ Hell is described in the Bible as a place of unending pain and suffering, charac
 Understanding the severity and purpose of hell is important for grasping the Christian view of judgment and salvation.
 
 ## Average Grade
-72.48214285714286
+73.33522727272727
 
 ## Grades
  * [15.0 mistral 1.75 vectored](../answers/mistral_1.75_vectored/Nature_of_Hell.md)
@@ -35,3 +35,4 @@ Understanding the severity and purpose of hell is important for grasping the Chr
  * [90.25 llama Bible Translator](../answers/llama_Bible_Translator/Nature_of_Hell.md)
  * [91.25 gemma Bible Translator](../answers/gemma_Bible_Translator/Nature_of_Hell.md)
  * [91.25 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Nature_of_Hell.md)
+ * [91.25 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Nature_of_Hell.md)

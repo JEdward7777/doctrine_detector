@@ -11,7 +11,7 @@ The promise signifies that David's descendant, Jesus, will reign as king forever
 Understanding this promise is crucial for recognizing the fulfillment of God's plan through Jesus.
 
 ## Average Grade
-85.38690476190476
+85.6534090909091
 
 ## Grades
  * [59.375 gemma Politician](../answers/gemma_Politician/David_s_Throne.md)
@@ -31,6 +31,7 @@ Understanding this promise is crucial for recognizing the fulfillment of God's p
  * [90.625 mistral Bible Translator](../answers/mistral_Bible_Translator/David_s_Throne.md)
  * [90.625 mistral 1.75 vectored](../answers/mistral_1.75_vectored/David_s_Throne.md)
  * [91.25 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/David_s_Throne.md)
+ * [91.25 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/David_s_Throne.md)
  * [92.5 gemma Bible Translator](../answers/gemma_Bible_Translator/David_s_Throne.md)
  * [92.5 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/David_s_Throne.md)
  * [93.125 mistral Imam](../answers/mistral_Imam/David_s_Throne.md)

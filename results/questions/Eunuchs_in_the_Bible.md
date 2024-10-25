@@ -11,7 +11,7 @@ Jesus acknowledged that some people are eunuchs by birth, some are made eunuchs 
 Understanding the biblical perspective on celibacy and the different reasons for living a life without marriage.
 
 ## Average Grade
-80.23809523809524
+80.79545454545455
 
 ## Grades
  * [49.375 mistral 1.75 vectored](../answers/mistral_1.75_vectored/Eunuchs_in_the_Bible.md)
@@ -35,3 +35,4 @@ Understanding the biblical perspective on celibacy and the different reasons for
  * [88.75 gemma Bible Translator](../answers/gemma_Bible_Translator/Eunuchs_in_the_Bible.md)
  * [88.75 gemma atheist](../answers/gemma_atheist/Eunuchs_in_the_Bible.md)
  * [89.375 mistral Bible Translator](../answers/mistral_Bible_Translator/Eunuchs_in_the_Bible.md)
+ * [92.5 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Eunuchs_in_the_Bible.md)

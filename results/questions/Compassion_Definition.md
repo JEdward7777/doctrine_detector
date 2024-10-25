@@ -11,7 +11,7 @@ The Bible defines compassion as a feeling of concern for those who are suffering
 Understanding the biblical perspective on compassion and how it guides our actions towards others.
 
 ## Average Grade
-88.46428571428571
+88.6875
 
 ## Grades
  * [57.5 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Compassion_Definition.md)
@@ -35,3 +35,4 @@ Understanding the biblical perspective on compassion and how it guides our actio
  * [92.5 mistral atheist](../answers/mistral_atheist/Compassion_Definition.md)
  * [92.5 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Compassion_Definition.md)
  * [93.125 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Compassion_Definition.md)
+ * [93.375 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Compassion_Definition.md)

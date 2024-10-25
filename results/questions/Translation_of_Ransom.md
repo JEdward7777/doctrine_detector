@@ -11,7 +11,7 @@ How can the term 'ransom' be translated to convey its meaning in different langu
 Ensuring theological terms are accurately understood across linguistic and cultural contexts.
 
 ## Average Grade
-79.83928571428571
+80.38636363636364
 
 ## Grades
  * [49.375 llama atheist](../answers/llama_atheist/Translation_of_Ransom.md)
@@ -35,3 +35,4 @@ Ensuring theological terms are accurately understood across linguistic and cultu
  * [90.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Translation_of_Ransom.md)
  * [90.0 gemma atheist](../answers/gemma_atheist/Translation_of_Ransom.md)
  * [90.0 llama Bible Translator](../answers/llama_Bible_Translator/Translation_of_Ransom.md)
+ * [91.875 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Translation_of_Ransom.md)

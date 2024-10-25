@@ -11,7 +11,7 @@ Examples include Daniel's refusal to defile himself, Hosea's love for an unfaith
 Recognizing real-life applications of compassion as modeled by biblical figures.
 
 ## Average Grade
-84.39880952380952
+84.73863636363636
 
 ## Grades
  * [70.625 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Compassionate_Actions.md)
@@ -35,3 +35,4 @@ Recognizing real-life applications of compassion as modeled by biblical figures.
  * [88.125 mistral Politician](../answers/mistral_Politician/Compassionate_Actions.md)
  * [88.75 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Compassionate_Actions.md)
  * [90.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Compassionate_Actions.md)
+ * [91.875 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Compassionate_Actions.md)

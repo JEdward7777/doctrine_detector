@@ -11,7 +11,7 @@ The term 'resurrection' refers to the act of becoming alive again after having d
 Understanding the fundamental concept of resurrection is crucial for comprehension of Christian beliefs about life after death.
 
 ## Average Grade
-85.625
+85.9375
 
 ## Grades
  * [65.0 llama atheist](../answers/llama_atheist/Resurrection_Definition.md)
@@ -34,4 +34,5 @@ Understanding the fundamental concept of resurrection is crucial for comprehensi
  * [90.625 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Resurrection_Definition.md)
  * [91.25 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Resurrection_Definition.md)
  * [92.5 llama Bible Translator](../answers/llama_Bible_Translator/Resurrection_Definition.md)
+ * [92.5 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Resurrection_Definition.md)
  * [94.375 gemma Bible Translator](../answers/gemma_Bible_Translator/Resurrection_Definition.md)

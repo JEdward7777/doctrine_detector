@@ -11,7 +11,7 @@ The duration of 'the last days' is unknown.
 This uncertainty can affect how Christians live out their faith in anticipation of Christ’s return.
 
 ## Average Grade
-78.61904761904762
+79.13636363636364
 
 ## Grades
  * [62.5 gemma Politician](../answers/gemma_Politician/Duration_of_the_Last_Days.md)
@@ -34,4 +34,5 @@ This uncertainty can affect how Christians live out their faith in anticipation 
  * [89.25 llama Bible Translator](../answers/llama_Bible_Translator/Duration_of_the_Last_Days.md)
  * [90.0 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Duration_of_the_Last_Days.md)
  * [90.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Duration_of_the_Last_Days.md)
+ * [90.0 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Duration_of_the_Last_Days.md)
  * [92.75 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Duration_of_the_Last_Days.md)

@@ -11,7 +11,7 @@ Anointing in the Old Testament set apart priests, kings, and prophets for specia
 Understanding the importance of anointing in biblical leadership roles.
 
 ## Average Grade
-89.22619047619048
+89.44318181818181
 
 ## Grades
  * [78.75 mistral 1.75 vectored](../answers/mistral_1.75_vectored/Significance_of_Anointing.md)
@@ -35,3 +35,4 @@ Understanding the importance of anointing in biblical leadership roles.
  * [93.125 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Significance_of_Anointing.md)
  * [93.75 llama Bible Translator](../answers/llama_Bible_Translator/Significance_of_Anointing.md)
  * [93.75 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Significance_of_Anointing.md)
+ * [94.0 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Significance_of_Anointing.md)

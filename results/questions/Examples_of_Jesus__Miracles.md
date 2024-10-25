@@ -11,7 +11,7 @@ Examples include calming a storm, healing a blind man, and raising people from t
 Recognizing the significance of Jesus' miracles helps in our belief in Him as the Son of God.
 
 ## Average Grade
-77.73809523809524
+78.49431818181819
 
 ## Grades
  * [37.5 gemma atheist](../answers/gemma_atheist/Examples_of_Jesus__Miracles.md)
@@ -35,3 +35,4 @@ Recognizing the significance of Jesus' miracles helps in our belief in Him as th
  * [91.875 mistral Bible Translator](../answers/mistral_Bible_Translator/Examples_of_Jesus__Miracles.md)
  * [92.5 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Examples_of_Jesus__Miracles.md)
  * [93.375 llama Bible Translator](../answers/llama_Bible_Translator/Examples_of_Jesus__Miracles.md)
+ * [94.375 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Examples_of_Jesus__Miracles.md)

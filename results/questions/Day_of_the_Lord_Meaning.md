@@ -11,7 +11,7 @@ The term 'day of the Lord' refers to the time when the Lord Jesus will return to
 Understanding the significance and implications of the 'day of the Lord' for believers.
 
 ## Average Grade
-78.70833333333333
+79.30113636363636
 
 ## Grades
  * [45.625 gemma Politician](../answers/gemma_Politician/Day_of_the_Lord_Meaning.md)
@@ -35,3 +35,4 @@ Understanding the significance and implications of the 'day of the Lord' for bel
  * [89.375 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Day_of_the_Lord_Meaning.md)
  * [90.625 llama Bible Translator](../answers/llama_Bible_Translator/Day_of_the_Lord_Meaning.md)
  * [90.625 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Day_of_the_Lord_Meaning.md)
+ * [91.75 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Day_of_the_Lord_Meaning.md)

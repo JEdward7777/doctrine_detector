@@ -11,7 +11,7 @@ How can the phrase 'Your Majesty' be appropriately translated in different langu
 Ensuring accurate and respectful translations of titles in the context of biblical teachings.
 
 ## Average Grade
-77.08333333333333
+77.64204545454545
 
 ## Grades
  * [55.625 llama atheist](../answers/llama_atheist/Translation_of_Royal_Titles.md)
@@ -35,3 +35,4 @@ Ensuring accurate and respectful translations of titles in the context of biblic
  * [84.375 mistral Imam](../answers/mistral_Imam/Translation_of_Royal_Titles.md)
  * [85.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Translation_of_Royal_Titles.md)
  * [87.5 llama Bible Translator](../answers/llama_Bible_Translator/Translation_of_Royal_Titles.md)
+ * [89.375 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Translation_of_Royal_Titles.md)

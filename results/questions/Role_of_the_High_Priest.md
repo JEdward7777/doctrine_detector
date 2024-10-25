@@ -11,7 +11,7 @@ The high priest was the only one permitted to enter the most holy part of the ta
 Understanding the significance of the high priest's role in the worship practices of Israel.
 
 ## Average Grade
-79.73214285714286
+80.25568181818181
 
 ## Grades
  * [51.25 gemma Imam](../answers/gemma_Imam/Role_of_the_High_Priest.md)
@@ -35,3 +35,4 @@ Understanding the significance of the high priest's role in the worship practice
  * [88.75 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Role_of_the_High_Priest.md)
  * [90.625 llama Bible Translator](../answers/llama_Bible_Translator/Role_of_the_High_Priest.md)
  * [90.625 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Role_of_the_High_Priest.md)
+ * [91.25 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Role_of_the_High_Priest.md)

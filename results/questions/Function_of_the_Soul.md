@@ -11,7 +11,7 @@ Figurative uses of 'soul' describe a person's entire being, emphasizing its sign
 Acknowledging the figurative language surrounding 'soul' may lead to a deeper understanding of human experience from a biblical perspective.
 
 ## Average Grade
-82.38095238095238
+82.61363636363636
 
 ## Grades
  * [68.75 gemma Imam](../answers/gemma_Imam/Function_of_the_Soul.md)
@@ -31,6 +31,7 @@ Acknowledging the figurative language surrounding 'soul' may lead to a deeper un
  * [86.5 gemma atheist](../answers/gemma_atheist/Function_of_the_Soul.md)
  * [87.5 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Function_of_the_Soul.md)
  * [87.5 mistral Bible Translator](../answers/mistral_Bible_Translator/Function_of_the_Soul.md)
+ * [87.5 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Function_of_the_Soul.md)
  * [88.125 gemma Bible Translator](../answers/gemma_Bible_Translator/Function_of_the_Soul.md)
  * [90.5 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Function_of_the_Soul.md)
  * [90.625 llama Bible Translator](../answers/llama_Bible_Translator/Function_of_the_Soul.md)

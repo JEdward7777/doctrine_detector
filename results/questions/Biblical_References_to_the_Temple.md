@@ -11,7 +11,7 @@ Which scriptures specifically reference the temple as the 'house of Yahweh'?
 Identifying key scriptures that discuss the concept of the temple in relation to God's house.
 
 ## Average Grade
-78.49404761904762
+78.93181818181819
 
 ## Grades
  * [38.75 mistral 1.75 vectored](../answers/mistral_1.75_vectored/Biblical_References_to_the_Temple.md)
@@ -34,4 +34,5 @@ Identifying key scriptures that discuss the concept of the temple in relation to
  * [86.875 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Biblical_References_to_the_Temple.md)
  * [86.875 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Biblical_References_to_the_Temple.md)
  * [88.125 mistral Politician](../answers/mistral_Politician/Biblical_References_to_the_Temple.md)
+ * [88.125 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Biblical_References_to_the_Temple.md)
  * [88.75 mistral Bible Translator](../answers/mistral_Bible_Translator/Biblical_References_to_the_Temple.md)

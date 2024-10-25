@@ -11,7 +11,7 @@ Jesus is called the 'Lamb of God' because he was a perfect and unblemished sacri
 This question aims to help Christians understand the significance of Jesus' sacrificial role in fulfilling God's plan for redemption.
 
 ## Average Grade
-80.83333333333333
+81.42045454545455
 
 ## Grades
  * [38.125 llama Imam](../answers/llama_Imam/Understanding_Sacrifice.md)
@@ -35,3 +35,4 @@ This question aims to help Christians understand the significance of Jesus' sacr
  * [92.5 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Understanding_Sacrifice.md)
  * [92.5 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Understanding_Sacrifice.md)
  * [93.75 llama Bible Translator](../answers/llama_Bible_Translator/Understanding_Sacrifice.md)
+ * [93.75 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Understanding_Sacrifice.md)

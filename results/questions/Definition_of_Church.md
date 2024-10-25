@@ -11,7 +11,7 @@ In the New Testament, 'church' refers to all people who believe in Jesus, often 
 Understanding of the church's role as more than just a building.
 
 ## Average Grade
-85.74404761904762
+85.93181818181819
 
 ## Grades
  * [58.75 llama Politician](../answers/llama_Politician/Definition_of_Church.md)
@@ -30,6 +30,7 @@ Understanding of the church's role as more than just a building.
  * [88.75 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Definition_of_Church.md)
  * [89.375 mistral Politician](../answers/mistral_Politician/Definition_of_Church.md)
  * [89.375 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Definition_of_Church.md)
+ * [89.875 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Definition_of_Church.md)
  * [90.0 mistral atheist](../answers/mistral_atheist/Definition_of_Church.md)
  * [90.625 gemma atheist](../answers/gemma_atheist/Definition_of_Church.md)
  * [91.875 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Definition_of_Church.md)

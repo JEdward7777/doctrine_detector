@@ -11,7 +11,7 @@ The soul is the aspect of a person that relates to God, indicating a spiritual c
 Recognizing the soul's role in relation to God can influence a believer's spiritual life and moral decisions.
 
 ## Average Grade
-77.26785714285714
+77.93181818181819
 
 ## Grades
  * [36.25 gemma atheist](../answers/gemma_atheist/Purpose_of_the_Soul.md)
@@ -32,6 +32,7 @@ Recognizing the soul's role in relation to God can influence a believer's spirit
  * [87.5 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Purpose_of_the_Soul.md)
  * [91.25 mistral Bible Translator](../answers/mistral_Bible_Translator/Purpose_of_the_Soul.md)
  * [91.875 gemma Bible Translator](../answers/gemma_Bible_Translator/Purpose_of_the_Soul.md)
+ * [91.875 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Purpose_of_the_Soul.md)
  * [92.5 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Purpose_of_the_Soul.md)
  * [92.5 llama Bible Translator](../answers/llama_Bible_Translator/Purpose_of_the_Soul.md)
  * [93.25 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Purpose_of_the_Soul.md)

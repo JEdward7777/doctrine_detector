@@ -11,7 +11,7 @@ The term 'saints' literally means 'holy ones' and refers to believers in Jesus.
 Understanding the correct Biblical definition of saints helps to distinguish between cultural and scriptural interpretations.
 
 ## Average Grade
-83.4047619047619
+83.78977272727273
 
 ## Grades
  * [56.25 gemma Politician](../answers/gemma_Politician/Definition_of_Saints.md)
@@ -34,4 +34,5 @@ Understanding the correct Biblical definition of saints helps to distinguish bet
  * [90.625 mistral Politician](../answers/mistral_Politician/Definition_of_Saints.md)
  * [90.625 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Definition_of_Saints.md)
  * [91.875 gemma Bible Translator](../answers/gemma_Bible_Translator/Definition_of_Saints.md)
+ * [91.875 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Definition_of_Saints.md)
  * [92.5 llama Bible Translator](../answers/llama_Bible_Translator/Definition_of_Saints.md)

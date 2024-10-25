@@ -11,7 +11,7 @@ If you believe in Jesus and what He has done for you, you are a Christian, and G
 Reassuring believers of their salvation through faith in Jesus.
 
 ## Average Grade
-65.89285714285714
+67.10227272727273
 
 ## Grades
  * [26.25 gemma atheist](../answers/gemma_atheist/Assurance_of_Salvation.md)
@@ -31,6 +31,7 @@ Reassuring believers of their salvation through faith in Jesus.
  * [88.75 mistral 1.75 vectored](../answers/mistral_1.75_vectored/Assurance_of_Salvation.md)
  * [90.0 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Assurance_of_Salvation.md)
  * [91.875 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Assurance_of_Salvation.md)
+ * [92.5 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Assurance_of_Salvation.md)
  * [93.125 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Assurance_of_Salvation.md)
  * [93.75 gemma Bible Translator](../answers/gemma_Bible_Translator/Assurance_of_Salvation.md)
  * [94.375 mistral Bible Translator](../answers/mistral_Bible_Translator/Assurance_of_Salvation.md)

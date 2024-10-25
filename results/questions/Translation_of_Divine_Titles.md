@@ -11,7 +11,7 @@ It can be translated as 'Lord God' or 'God who is the Lord,' and it's important 
 Proper translation helps convey the accurate meaning of God's titles and presence in Scripture.
 
 ## Average Grade
-78.06547619047619
+78.66477272727273
 
 ## Grades
  * [51.25 gemma Imam](../answers/gemma_Imam/Translation_of_Divine_Titles.md)
@@ -35,3 +35,4 @@ Proper translation helps convey the accurate meaning of God's titles and presenc
  * [88.75 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Translation_of_Divine_Titles.md)
  * [89.375 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Translation_of_Divine_Titles.md)
  * [91.25 llama Bible Translator](../answers/llama_Bible_Translator/Translation_of_Divine_Titles.md)
+ * [91.25 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Translation_of_Divine_Titles.md)

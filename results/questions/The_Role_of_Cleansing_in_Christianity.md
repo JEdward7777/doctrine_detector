@@ -11,7 +11,7 @@ The concept of 'cleansing' in the Bible is closely related to New Testament teac
 Understanding the relationship between Old Testament practices and New Testament teachings can deepen one's appreciation for the significance of Christ's redemptive work.
 
 ## Average Grade
-84.35119047619048
+84.67613636363636
 
 ## Grades
  * [52.5 gemma Politician](../answers/gemma_Politician/The_Role_of_Cleansing_in_Christianity.md)
@@ -31,6 +31,7 @@ Understanding the relationship between Old Testament practices and New Testament
  * [90.0 mistral Bible Translator](../answers/mistral_Bible_Translator/The_Role_of_Cleansing_in_Christianity.md)
  * [91.25 llama atheist](../answers/llama_atheist/The_Role_of_Cleansing_in_Christianity.md)
  * [91.25 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/The_Role_of_Cleansing_in_Christianity.md)
+ * [91.5 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/The_Role_of_Cleansing_in_Christianity.md)
  * [91.875 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/The_Role_of_Cleansing_in_Christianity.md)
  * [92.5 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/The_Role_of_Cleansing_in_Christianity.md)
  * [93.375 llama Bible Translator](../answers/llama_Bible_Translator/The_Role_of_Cleansing_in_Christianity.md)

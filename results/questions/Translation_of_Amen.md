@@ -11,7 +11,7 @@ What are some potential translations of 'truly' as used by Jesus in phrases like
 Understanding the importance of accurate biblical translation and interpretation.
 
 ## Average Grade
-79.2797619047619
+79.71022727272727
 
 ## Grades
  * [50.625 mistral 1.75 vectored](../answers/mistral_1.75_vectored/Translation_of_Amen.md)
@@ -35,3 +35,4 @@ Understanding the importance of accurate biblical translation and interpretation
  * [86.875 mistral atheist](../answers/mistral_atheist/Translation_of_Amen.md)
  * [87.5 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Translation_of_Amen.md)
  * [88.75 llama Bible Translator](../answers/llama_Bible_Translator/Translation_of_Amen.md)
+ * [88.75 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Translation_of_Amen.md)

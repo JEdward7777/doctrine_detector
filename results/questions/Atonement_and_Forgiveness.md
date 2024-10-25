@@ -11,7 +11,7 @@ Atonement is the means by which God provides forgiveness for sins and restores t
 Exploring the relationship between atonement, forgiveness, and the Christian doctrine of reconciliation.
 
 ## Average Grade
-87.07142857142857
+87.32954545454545
 
 ## Grades
  * [76.25 llama atheist](../answers/llama_atheist/Atonement_and_Forgiveness.md)
@@ -34,4 +34,5 @@ Exploring the relationship between atonement, forgiveness, and the Christian doc
  * [91.875 llama Bible Translator](../answers/llama_Bible_Translator/Atonement_and_Forgiveness.md)
  * [91.875 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Atonement_and_Forgiveness.md)
  * [92.5 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Atonement_and_Forgiveness.md)
+ * [92.75 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Atonement_and_Forgiveness.md)
  * [94.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Atonement_and_Forgiveness.md)

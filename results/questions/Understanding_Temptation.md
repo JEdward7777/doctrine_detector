@@ -11,7 +11,7 @@ Jesus used scripture and His unwavering faith in God to resist Satan's temptatio
 This question is concerned with understanding how to combat temptation in daily life as a follower of Christ.
 
 ## Average Grade
-78.95833333333333
+79.57386363636364
 
 ## Grades
  * [33.75 gemma atheist](../answers/gemma_atheist/Understanding_Temptation.md)
@@ -34,4 +34,5 @@ This question is concerned with understanding how to combat temptation in daily 
  * [90.625 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Understanding_Temptation.md)
  * [91.875 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Understanding_Temptation.md)
  * [92.5 mistral Bible Translator](../answers/mistral_Bible_Translator/Understanding_Temptation.md)
+ * [92.5 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Understanding_Temptation.md)
  * [93.125 mistral atheist](../answers/mistral_atheist/Understanding_Temptation.md)

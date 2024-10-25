@@ -11,7 +11,7 @@ The miracles reveal that Jesus is God and that He is the Christ, or the Messiah.
 Understanding the importance of Jesus's miracles in affirming His divine nature.
 
 ## Average Grade
-66.38690476190476
+67.63068181818181
 
 ## Grades
  * [27.5 gemma atheist](../answers/gemma_atheist/Nature_of_Miracles.md)
@@ -34,4 +34,5 @@ Understanding the importance of Jesus's miracles in affirming His divine nature.
  * [91.875 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Nature_of_Miracles.md)
  * [92.5 mistral Bible Translator](../answers/mistral_Bible_Translator/Nature_of_Miracles.md)
  * [93.125 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Nature_of_Miracles.md)
+ * [93.75 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Nature_of_Miracles.md)
  * [94.375 gemma Bible Translator](../answers/gemma_Bible_Translator/Nature_of_Miracles.md)

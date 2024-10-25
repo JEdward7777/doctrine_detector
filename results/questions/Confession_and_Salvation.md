@@ -11,7 +11,7 @@ Paul states that if people confess that Jesus is Lord and believe that God raise
 Clarification on the theological implications of confession and belief in salvation
 
 ## Average Grade
-81.80952380952381
+82.32386363636364
 
 ## Grades
  * [38.75 gemma Politician](../answers/gemma_Politician/Confession_and_Salvation.md)
@@ -33,5 +33,6 @@ Clarification on the theological implications of confession and belief in salvat
  * [91.875 mistral Bible Translator](../answers/mistral_Bible_Translator/Confession_and_Salvation.md)
  * [92.5 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Confession_and_Salvation.md)
  * [92.75 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Confession_and_Salvation.md)
+ * [93.125 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Confession_and_Salvation.md)
  * [93.75 gemma Bible Translator](../answers/gemma_Bible_Translator/Confession_and_Salvation.md)
  * [93.75 llama Bible Translator](../answers/llama_Bible_Translator/Confession_and_Salvation.md)

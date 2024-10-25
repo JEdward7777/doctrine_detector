@@ -11,7 +11,7 @@ The title 'Son of God' specifically pertains to Jesus as God's only Son, while '
 Clarity on this distinction helps avoid confusion in theological discussions.
 
 ## Average Grade
-85.01190476190476
+85.4090909090909
 
 ## Grades
  * [67.5 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Son_of_God.md)
@@ -35,3 +35,4 @@ Clarity on this distinction helps avoid confusion in theological discussions.
  * [92.5 mistral Bible Translator](../answers/mistral_Bible_Translator/Son_of_God.md)
  * [92.5 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Son_of_God.md)
  * [93.125 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Son_of_God.md)
+ * [93.75 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Son_of_God.md)

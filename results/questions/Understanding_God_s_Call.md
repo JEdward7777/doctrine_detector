@@ -11,7 +11,7 @@ It means that God has specifically chosen each individual, knowing them personal
 Understanding the personal relationship and intention God has towards individuals.
 
 ## Average Grade
-82.1547619047619
+82.53977272727273
 
 ## Grades
  * [55.625 llama atheist](../answers/llama_atheist/Understanding_God_s_Call.md)
@@ -30,6 +30,7 @@ Understanding the personal relationship and intention God has towards individual
  * [86.875 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Understanding_God_s_Call.md)
  * [89.375 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Understanding_God_s_Call.md)
  * [90.0 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Understanding_God_s_Call.md)
+ * [90.625 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Understanding_God_s_Call.md)
  * [91.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Understanding_God_s_Call.md)
  * [91.25 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Understanding_God_s_Call.md)
  * [91.875 mistral Bible Translator](../answers/mistral_Bible_Translator/Understanding_God_s_Call.md)

@@ -11,7 +11,7 @@ The title 'the Word of God' ascribed to Jesus signifies that he fully reveals wh
 Recognizing the significance of Jesus' divinity and role in revealing God.
 
 ## Average Grade
-87.55357142857143
+87.86363636363636
 
 ## Grades
  * [70.0 gemma Politician](../answers/gemma_Politician/Role_of_Jesus_as_the_Word.md)
@@ -34,4 +34,5 @@ Recognizing the significance of Jesus' divinity and role in revealing God.
  * [92.5 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Role_of_Jesus_as_the_Word.md)
  * [93.125 llama Bible Translator](../answers/llama_Bible_Translator/Role_of_Jesus_as_the_Word.md)
  * [93.125 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Role_of_Jesus_as_the_Word.md)
+ * [94.375 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Role_of_Jesus_as_the_Word.md)
  * [95.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Role_of_Jesus_as_the_Word.md)

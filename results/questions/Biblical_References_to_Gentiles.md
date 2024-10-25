@@ -11,7 +11,7 @@ These passages highlight the apostolic mission to Gentiles and affirm that faith
 This question encourages exploration of scriptural teachings on grace and inclusion.
 
 ## Average Grade
-79.30357142857143
+79.875
 
 ## Grades
  * [55.625 mistral Imam](../answers/mistral_Imam/Biblical_References_to_Gentiles.md)
@@ -35,3 +35,4 @@ This question encourages exploration of scriptural teachings on grace and inclus
  * [90.625 gemma atheist](../answers/gemma_atheist/Biblical_References_to_Gentiles.md)
  * [90.75 gemma Bible Translator](../answers/gemma_Bible_Translator/Biblical_References_to_Gentiles.md)
  * [91.875 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Biblical_References_to_Gentiles.md)
+ * [91.875 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Biblical_References_to_Gentiles.md)

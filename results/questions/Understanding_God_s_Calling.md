@@ -11,7 +11,7 @@ Being 'called' by God signifies that He has chosen and appointed us for His spec
 Understanding personal purpose in the context of faith.
 
 ## Average Grade
-79.43452380952381
+79.88636363636364
 
 ## Grades
  * [39.375 gemma Politician](../answers/gemma_Politician/Understanding_God_s_Calling.md)
@@ -31,6 +31,7 @@ Understanding personal purpose in the context of faith.
  * [86.25 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Understanding_God_s_Calling.md)
  * [87.5 mistral 1.75 vectored](../answers/mistral_1.75_vectored/Understanding_God_s_Calling.md)
  * [89.375 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Understanding_God_s_Calling.md)
+ * [89.375 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Understanding_God_s_Calling.md)
  * [90.625 llama Bible Translator](../answers/llama_Bible_Translator/Understanding_God_s_Calling.md)
  * [91.25 mistral Bible Translator](../answers/mistral_Bible_Translator/Understanding_God_s_Calling.md)
  * [91.875 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Understanding_God_s_Calling.md)

@@ -11,7 +11,7 @@ Jews traditionally avoided eating with or associating with Gentiles, which initi
 This question examines how cultural norms influence faith communities and their practices.
 
 ## Average Grade
-84.83928571428571
+85.04545454545455
 
 ## Grades
  * [69.375 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Cultural_Practices.md)
@@ -31,6 +31,7 @@ This question examines how cultural norms influence faith communities and their 
  * [88.125 mistral atheist](../answers/mistral_atheist/Cultural_Practices.md)
  * [88.125 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Cultural_Practices.md)
  * [88.75 mistral Imam](../answers/mistral_Imam/Cultural_Practices.md)
+ * [89.375 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Cultural_Practices.md)
  * [89.625 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Cultural_Practices.md)
  * [89.875 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Cultural_Practices.md)
  * [90.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Cultural_Practices.md)

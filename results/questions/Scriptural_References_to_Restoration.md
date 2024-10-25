@@ -11,7 +11,7 @@ Verses such as Acts 3:21 and Isaiah 49:5-6 highlight God's promise to restore an
 Finding scriptural support for the concept of restoration in one's faith journey.
 
 ## Average Grade
-84.20833333333333
+84.64204545454545
 
 ## Grades
  * [58.75 gemma Imam](../answers/gemma_Imam/Scriptural_References_to_Restoration.md)
@@ -35,3 +35,4 @@ Finding scriptural support for the concept of restoration in one's faith journey
  * [91.25 mistral atheist](../answers/mistral_atheist/Scriptural_References_to_Restoration.md)
  * [92.5 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Scriptural_References_to_Restoration.md)
  * [93.125 llama Bible Translator](../answers/llama_Bible_Translator/Scriptural_References_to_Restoration.md)
+ * [93.75 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Scriptural_References_to_Restoration.md)

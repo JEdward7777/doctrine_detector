@@ -11,7 +11,7 @@ The Israelites traditionally viewed Gentiles as outsiders who could never be God
 This question addresses the historical context of Jewish-Gentile relationships and their implications for the church's unity.
 
 ## Average Grade
-86.01190476190476
+86.2215909090909
 
 ## Grades
  * [70.0 llama atheist](../answers/llama_atheist/Understanding_Gentiles_in_Scripture.md)
@@ -32,6 +32,7 @@ This question addresses the historical context of Jewish-Gentile relationships a
  * [89.375 gemma Bible Translator](../answers/gemma_Bible_Translator/Understanding_Gentiles_in_Scripture.md)
  * [90.0 llama Bible Translator](../answers/llama_Bible_Translator/Understanding_Gentiles_in_Scripture.md)
  * [90.625 gemma Imam](../answers/gemma_Imam/Understanding_Gentiles_in_Scripture.md)
+ * [90.625 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Understanding_Gentiles_in_Scripture.md)
  * [90.875 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Understanding_Gentiles_in_Scripture.md)
  * [91.25 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Understanding_Gentiles_in_Scripture.md)
  * [91.25 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Understanding_Gentiles_in_Scripture.md)

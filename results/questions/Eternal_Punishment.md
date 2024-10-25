@@ -11,7 +11,7 @@ Hell is where those who do not believe in Jesus’ sacrifice will be punished fo
 Issues about the nature of divine justice and mercy in relation to eternal consequences.
 
 ## Average Grade
-73.89880952380952
+74.54545454545455
 
 ## Grades
  * [53.125 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Eternal_Punishment.md)
@@ -34,4 +34,5 @@ Issues about the nature of divine justice and mercy in relation to eternal conse
  * [85.625 llama Politician](../answers/llama_Politician/Eternal_Punishment.md)
  * [86.875 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Eternal_Punishment.md)
  * [87.5 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Eternal_Punishment.md)
+ * [88.125 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Eternal_Punishment.md)
  * [91.875 llama Bible Translator](../answers/llama_Bible_Translator/Eternal_Punishment.md)

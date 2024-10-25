@@ -11,7 +11,7 @@ Being 'in Christ' refers to the state of having a relationship with Jesus Christ
 Clarifying the concept of spiritual identity in relation to faith in Jesus.
 
 ## Average Grade
-84.64285714285714
+84.9715909090909
 
 ## Grades
  * [66.25 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Understanding_Being__In_Christ_.md)
@@ -35,3 +35,4 @@ Clarifying the concept of spiritual identity in relation to faith in Jesus.
  * [88.75 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Understanding_Being__In_Christ_.md)
  * [91.25 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Understanding_Being__In_Christ_.md)
  * [91.875 llama Bible Translator](../answers/llama_Bible_Translator/Understanding_Being__In_Christ_.md)
+ * [91.875 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Understanding_Being__In_Christ_.md)

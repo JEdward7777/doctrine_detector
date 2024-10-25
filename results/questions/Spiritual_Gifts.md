@@ -11,7 +11,7 @@ Spiritual gifts are special abilities given by the Holy Spirit to believers for 
 Recognizing the importance of utilizing spiritual gifts for community growth and personal obedience to the Holy Spirit.
 
 ## Average Grade
-78.10714285714286
+78.78977272727273
 
 ## Grades
  * [48.75 mistral Imam](../answers/mistral_Imam/Spiritual_Gifts.md)
@@ -33,5 +33,6 @@ Recognizing the importance of utilizing spiritual gifts for community growth and
  * [90.625 mistral Bible Translator](../answers/mistral_Bible_Translator/Spiritual_Gifts.md)
  * [91.875 gemma Bible Translator](../answers/gemma_Bible_Translator/Spiritual_Gifts.md)
  * [92.5 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Spiritual_Gifts.md)
+ * [93.125 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Spiritual_Gifts.md)
  * [93.75 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Spiritual_Gifts.md)
  * [94.375 llama Bible Translator](../answers/llama_Bible_Translator/Spiritual_Gifts.md)

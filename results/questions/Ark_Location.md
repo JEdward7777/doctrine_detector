@@ -11,7 +11,7 @@ The ark of the covenant was located in the most holy place.
 Understanding the significance of the most holy place and the presence of God.
 
 ## Average Grade
-76.57738095238095
+77.2159090909091
 
 ## Grades
  * [43.75 gemma Politician](../answers/gemma_Politician/Ark_Location.md)
@@ -34,4 +34,5 @@ Understanding the significance of the most holy place and the presence of God.
  * [89.375 mistral Bible Translator](../answers/mistral_Bible_Translator/Ark_Location.md)
  * [89.375 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Ark_Location.md)
  * [90.0 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Ark_Location.md)
+ * [90.625 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Ark_Location.md)
  * [93.75 llama Bible Translator](../answers/llama_Bible_Translator/Ark_Location.md)

@@ -11,7 +11,7 @@ The centurion displayed great faith in Jesus' authority to heal, believing that 
 Understanding the nature of faith and authority in the context of Jesus' ministry.
 
 ## Average Grade
-85.04761904761905
+85.35795454545455
 
 ## Grades
  * [66.25 llama Imam](../answers/llama_Imam/Centurion_and_Healing.md)
@@ -35,3 +35,4 @@ Understanding the nature of faith and authority in the context of Jesus' ministr
  * [90.625 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Centurion_and_Healing.md)
  * [91.25 gemma Bible Translator](../answers/gemma_Bible_Translator/Centurion_and_Healing.md)
  * [91.5 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Centurion_and_Healing.md)
+ * [91.875 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Centurion_and_Healing.md)

@@ -11,7 +11,7 @@ To 'find favor' with someone means to be approved of by that person, often refle
 Christians should seek to cultivate relationships that are characterized by mutual approval and blessing.
 
 ## Average Grade
-86.07142857142857
+86.25
 
 ## Grades
  * [73.125 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Finding_Favor.md)
@@ -34,4 +34,5 @@ Christians should seek to cultivate relationships that are characterized by mutu
  * [88.75 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Finding_Favor.md)
  * [89.375 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Finding_Favor.md)
  * [90.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Finding_Favor.md)
+ * [90.0 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Finding_Favor.md)
  * [91.25 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Finding_Favor.md)

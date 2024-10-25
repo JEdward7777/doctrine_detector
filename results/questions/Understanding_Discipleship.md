@@ -11,7 +11,7 @@ To be a disciple of Jesus means to believe in Him, obey His teachings, and follo
 Understanding the definition and responsibilities of being a disciple.
 
 ## Average Grade
-77.06547619047619
+77.5965909090909
 
 ## Grades
  * [55.0 gemma Imam](../answers/gemma_Imam/Understanding_Discipleship.md)
@@ -31,6 +31,7 @@ Understanding the definition and responsibilities of being a disciple.
  * [85.625 mistral Bible Translator](../answers/mistral_Bible_Translator/Understanding_Discipleship.md)
  * [86.875 gemma Bible Translator](../answers/gemma_Bible_Translator/Understanding_Discipleship.md)
  * [88.125 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Understanding_Discipleship.md)
+ * [88.75 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Understanding_Discipleship.md)
  * [91.25 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Understanding_Discipleship.md)
  * [91.875 mistral atheist](../answers/mistral_atheist/Understanding_Discipleship.md)
  * [92.125 mistral Politician](../answers/mistral_Politician/Understanding_Discipleship.md)

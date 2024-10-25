@@ -11,7 +11,7 @@ The phrase 'keep the faith' refers to maintaining the state of believing all the
 Understanding the importance of perseverance in faith.
 
 ## Average Grade
-76.45833333333333
+77.01704545454545
 
 ## Grades
  * [62.5 GPT 3.5 Imam](../answers/GPT_3.5_Imam/The_Faith_Expressions.md)
@@ -33,5 +33,6 @@ Understanding the importance of perseverance in faith.
  * [86.25 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/The_Faith_Expressions.md)
  * [86.875 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/The_Faith_Expressions.md)
  * [86.875 mistral Bible Translator](../answers/mistral_Bible_Translator/The_Faith_Expressions.md)
+ * [88.75 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/The_Faith_Expressions.md)
  * [90.0 llama Bible Translator](../answers/llama_Bible_Translator/The_Faith_Expressions.md)
  * [90.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/The_Faith_Expressions.md)

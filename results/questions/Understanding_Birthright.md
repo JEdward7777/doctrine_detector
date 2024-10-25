@@ -11,7 +11,7 @@ Esau lost not only his inheritance and double portion of wealth but also the hon
 This question seeks to highlight the significance of choices and their spiritual consequences within a Christian context.
 
 ## Average Grade
-80.50595238095238
+81.05113636363636
 
 ## Grades
  * [48.125 llama atheist](../answers/llama_atheist/Understanding_Birthright.md)
@@ -35,3 +35,4 @@ This question seeks to highlight the significance of choices and their spiritual
  * [90.0 mistral atheist](../answers/mistral_atheist/Understanding_Birthright.md)
  * [90.625 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Understanding_Birthright.md)
  * [91.25 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Understanding_Birthright.md)
+ * [92.5 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Understanding_Birthright.md)

@@ -11,7 +11,7 @@ Examples include Ezekiel 13:17-18, Habakkuk 2:12, and Matthew 23:23, which revea
 Examining the seriousness of divine judgment as expressed through scripture.
 
 ## Average Grade
-80.86904761904762
+81.3125
 
 ## Grades
  * [47.5 llama Politician](../answers/llama_Politician/Biblical_Usage_of_Woe.md)
@@ -32,6 +32,7 @@ Examining the seriousness of divine judgment as expressed through scripture.
  * [90.0 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Biblical_Usage_of_Woe.md)
  * [90.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Biblical_Usage_of_Woe.md)
  * [90.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Biblical_Usage_of_Woe.md)
+ * [90.625 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Biblical_Usage_of_Woe.md)
  * [90.875 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Biblical_Usage_of_Woe.md)
  * [91.875 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Biblical_Usage_of_Woe.md)
  * [92.375 llama Bible Translator](../answers/llama_Bible_Translator/Biblical_Usage_of_Woe.md)

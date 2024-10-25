@@ -11,7 +11,7 @@ The Israelites were commanded to celebrate Passover every year to remember God's
 Recognizing the importance of remembrance in Christian faith.
 
 ## Average Grade
-77.3452380952381
+77.97727272727273
 
 ## Grades
  * [34.375 gemma atheist](../answers/gemma_atheist/Annual_Remembrance.md)
@@ -34,4 +34,5 @@ Recognizing the importance of remembrance in Christian faith.
  * [90.625 mistral Bible Translator](../answers/mistral_Bible_Translator/Annual_Remembrance.md)
  * [90.625 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Annual_Remembrance.md)
  * [90.625 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Annual_Remembrance.md)
+ * [91.25 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Annual_Remembrance.md)
  * [92.5 llama Bible Translator](../answers/llama_Bible_Translator/Annual_Remembrance.md)

@@ -11,7 +11,7 @@ Luke 6:37 advises against judging others harshly, encouraging believers to show 
 Promoting a spirit of grace rather than judgment within Christian communities.
 
 ## Average Grade
-82.4047619047619
+82.80681818181819
 
 ## Grades
  * [61.25 mistral Imam](../answers/mistral_Imam/Right_Judgment.md)
@@ -33,5 +33,6 @@ Promoting a spirit of grace rather than judgment within Christian communities.
  * [87.125 gemma atheist](../answers/gemma_atheist/Right_Judgment.md)
  * [88.75 gemma Bible Translator](../answers/gemma_Bible_Translator/Right_Judgment.md)
  * [90.875 llama Bible Translator](../answers/llama_Bible_Translator/Right_Judgment.md)
+ * [91.25 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Right_Judgment.md)
  * [92.5 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Right_Judgment.md)
  * [92.5 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Right_Judgment.md)

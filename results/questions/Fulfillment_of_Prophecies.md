@@ -11,7 +11,7 @@ When a prophecy is fulfilled, it means that God causes to happen what was predic
 Understanding how God interacts with prophecy and its realization in Scripture.
 
 ## Average Grade
-79.89285714285714
+80.38068181818181
 
 ## Grades
  * [52.5 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Fulfillment_of_Prophecies.md)
@@ -35,3 +35,4 @@ Understanding how God interacts with prophecy and its realization in Scripture.
  * [89.375 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Fulfillment_of_Prophecies.md)
  * [90.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Fulfillment_of_Prophecies.md)
  * [90.25 llama Bible Translator](../answers/llama_Bible_Translator/Fulfillment_of_Prophecies.md)
+ * [90.625 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Fulfillment_of_Prophecies.md)

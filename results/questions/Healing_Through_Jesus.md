@@ -11,7 +11,7 @@ Jesus healed demon-possessed individuals by commanding the demons to come out, a
 Recognizing the authority of Jesus over evil spirits and the power of prayer and faith in healing.
 
 ## Average Grade
-79.53571428571429
+80.03977272727273
 
 ## Grades
  * [19.375 gemma atheist](../answers/gemma_atheist/Healing_Through_Jesus.md)
@@ -35,3 +35,4 @@ Recognizing the authority of Jesus over evil spirits and the power of prayer and
  * [90.0 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Healing_Through_Jesus.md)
  * [90.0 llama Bible Translator](../answers/llama_Bible_Translator/Healing_Through_Jesus.md)
  * [90.625 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Healing_Through_Jesus.md)
+ * [90.625 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Healing_Through_Jesus.md)

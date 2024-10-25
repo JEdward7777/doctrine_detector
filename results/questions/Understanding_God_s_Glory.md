@@ -11,7 +11,7 @@ God's glory is described as being immeasurably superior in value, worth, and maj
 Understanding the unique and supreme nature of God's glory is essential for proper worship.
 
 ## Average Grade
-88.74404761904762
+89.0
 
 ## Grades
  * [71.25 llama atheist](../answers/llama_atheist/Understanding_God_s_Glory.md)
@@ -33,5 +33,6 @@ Understanding the unique and supreme nature of God's glory is essential for prop
  * [93.125 gemma Imam](../answers/gemma_Imam/Understanding_God_s_Glory.md)
  * [93.75 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Understanding_God_s_Glory.md)
  * [94.0 llama Bible Translator](../answers/llama_Bible_Translator/Understanding_God_s_Glory.md)
+ * [94.375 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Understanding_God_s_Glory.md)
  * [95.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Understanding_God_s_Glory.md)
  * [95.0 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Understanding_God_s_Glory.md)

@@ -11,7 +11,7 @@ The Bible shows that because of sin, we are guilty and deserve punishment; this 
 It is important to grasp the seriousness of sin to fully appreciate God's grace and mercy.
 
 ## Average Grade
-79.3452380952381
+79.92613636363636
 
 ## Grades
  * [45.625 llama atheist](../answers/llama_atheist/Biblical_Perspective_on_Guilt.md)
@@ -34,4 +34,5 @@ It is important to grasp the seriousness of sin to fully appreciate God's grace 
  * [90.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Biblical_Perspective_on_Guilt.md)
  * [90.625 gemma Imam](../answers/gemma_Imam/Biblical_Perspective_on_Guilt.md)
  * [91.25 gemma Bible Translator](../answers/gemma_Bible_Translator/Biblical_Perspective_on_Guilt.md)
+ * [92.125 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Biblical_Perspective_on_Guilt.md)
  * [92.5 llama Bible Translator](../answers/llama_Bible_Translator/Biblical_Perspective_on_Guilt.md)

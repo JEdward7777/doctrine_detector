@@ -11,7 +11,7 @@ God referred to the sanctuary as the place where He lived among His people, the 
 Recognizing the importance of the sanctuary as a dwelling place for God and a source of safety for His people.
 
 ## Average Grade
-82.18452380952381
+82.48295454545455
 
 ## Grades
  * [61.875 gemma Imam](../answers/gemma_Imam/Sanctuary_in_the_Old_Testament.md)
@@ -33,5 +33,6 @@ Recognizing the importance of the sanctuary as a dwelling place for God and a so
  * [88.75 mistral Bible Translator](../answers/mistral_Bible_Translator/Sanctuary_in_the_Old_Testament.md)
  * [88.75 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Sanctuary_in_the_Old_Testament.md)
  * [88.75 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Sanctuary_in_the_Old_Testament.md)
+ * [88.75 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Sanctuary_in_the_Old_Testament.md)
  * [90.0 llama Bible Translator](../answers/llama_Bible_Translator/Sanctuary_in_the_Old_Testament.md)
  * [91.875 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Sanctuary_in_the_Old_Testament.md)

@@ -11,7 +11,7 @@ The term 'unfaithful' in marriage signifies someone who commits adultery against
 To highlight the importance of loyalty and faithfulness in both spiritual and marital commitments.
 
 ## Average Grade
-81.18452380952381
+81.67045454545455
 
 ## Grades
  * [29.375 llama atheist](../answers/llama_atheist/Adultery_and_Unfaithfulness.md)
@@ -35,3 +35,4 @@ To highlight the importance of loyalty and faithfulness in both spiritual and ma
  * [88.75 mistral atheist](../answers/mistral_atheist/Adultery_and_Unfaithfulness.md)
  * [90.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Adultery_and_Unfaithfulness.md)
  * [90.625 llama Bible Translator](../answers/llama_Bible_Translator/Adultery_and_Unfaithfulness.md)
+ * [91.875 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Adultery_and_Unfaithfulness.md)

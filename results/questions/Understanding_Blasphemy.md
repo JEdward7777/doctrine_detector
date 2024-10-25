@@ -11,7 +11,7 @@ Blasphemy is defined as speaking in a way that shows deep disrespect for God or 
 Understanding the seriousness of blasphemy helps Christians to avoid disrespectful speech and behavior.
 
 ## Average Grade
-83.20238095238095
+83.5965909090909
 
 ## Grades
  * [62.5 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Understanding_Blasphemy.md)
@@ -31,6 +31,7 @@ Understanding the seriousness of blasphemy helps Christians to avoid disrespectf
  * [90.0 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Understanding_Blasphemy.md)
  * [90.625 gemma atheist](../answers/gemma_atheist/Understanding_Blasphemy.md)
  * [91.25 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Understanding_Blasphemy.md)
+ * [91.875 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Understanding_Blasphemy.md)
  * [92.5 gemma Bible Translator](../answers/gemma_Bible_Translator/Understanding_Blasphemy.md)
  * [92.75 mistral Bible Translator](../answers/mistral_Bible_Translator/Understanding_Blasphemy.md)
  * [92.75 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Understanding_Blasphemy.md)

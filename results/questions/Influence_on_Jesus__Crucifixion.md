@@ -11,7 +11,7 @@ The Sadducees and Pharisees influenced the Roman leaders to crucify Jesus due to
 Understanding the conflict between Jesus and religious leaders and its relevance for contemporary faith.
 
 ## Average Grade
-73.36309523809524
+74.0340909090909
 
 ## Grades
  * [41.25 gemma Politician](../answers/gemma_Politician/Influence_on_Jesus__Crucifixion.md)
@@ -35,3 +35,4 @@ Understanding the conflict between Jesus and religious leaders and its relevance
  * [85.75 llama Bible Translator](../answers/llama_Bible_Translator/Influence_on_Jesus__Crucifixion.md)
  * [86.875 mistral Bible Translator](../answers/mistral_Bible_Translator/Influence_on_Jesus__Crucifixion.md)
  * [87.5 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Influence_on_Jesus__Crucifixion.md)
+ * [88.125 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Influence_on_Jesus__Crucifixion.md)

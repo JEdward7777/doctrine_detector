@@ -11,7 +11,7 @@ Believers become saints not because of their own deeds, but because of their fai
 Clarifying the source of holiness reinforces the central role of faith in Jesus in the Christian doctrine.
 
 ## Average Grade
-82.29166666666667
+82.7840909090909
 
 ## Grades
  * [61.875 llama Imam](../answers/llama_Imam/Source_of_Holiness.md)
@@ -35,3 +35,4 @@ Clarifying the source of holiness reinforces the central role of faith in Jesus 
  * [89.375 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Source_of_Holiness.md)
  * [91.875 gemma Bible Translator](../answers/gemma_Bible_Translator/Source_of_Holiness.md)
  * [93.125 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Source_of_Holiness.md)
+ * [93.125 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Source_of_Holiness.md)

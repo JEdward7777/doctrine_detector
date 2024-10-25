@@ -11,7 +11,7 @@ Altars were often made from packed dirt or large stones. Some special altars wer
 Knowing the materials and structure of altars can deepen a Christian's understanding of biblical practices and the reverence associated with worship.
 
 ## Average Grade
-74.71428571428571
+75.32386363636364
 
 ## Grades
  * [33.125 gemma Imam](../answers/gemma_Imam/Building_Materials.md)
@@ -35,3 +35,4 @@ Knowing the materials and structure of altars can deepen a Christian's understan
  * [85.875 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Building_Materials.md)
  * [86.25 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Building_Materials.md)
  * [87.5 mistral Politician](../answers/mistral_Politician/Building_Materials.md)
+ * [88.125 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Building_Materials.md)

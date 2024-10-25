@@ -11,7 +11,7 @@ The two sections were the Holy Place, which contained the altar for burning ince
 Learning about the significance of the components of the tabernacle in worship.
 
 ## Average Grade
-75.47619047619048
+76.02272727272727
 
 ## Grades
  * [47.5 gemma Politician](../answers/gemma_Politician/Structure_of_the_Tabernacle.md)
@@ -34,4 +34,5 @@ Learning about the significance of the components of the tabernacle in worship.
  * [86.875 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Structure_of_the_Tabernacle.md)
  * [86.875 mistral Bible Translator](../answers/mistral_Bible_Translator/Structure_of_the_Tabernacle.md)
  * [87.5 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Structure_of_the_Tabernacle.md)
+ * [87.5 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Structure_of_the_Tabernacle.md)
  * [88.75 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Structure_of_the_Tabernacle.md)

@@ -11,7 +11,7 @@ Consecration prepares individuals or things by cleansing and making them accepta
 Understanding the purification process that comes with consecration.
 
 ## Average Grade
-81.18452380952381
+81.60795454545455
 
 ## Grades
  * [47.5 gemma atheist](../answers/gemma_atheist/Consecration_and_Service.md)
@@ -34,4 +34,5 @@ Understanding the purification process that comes with consecration.
  * [88.125 mistral Bible Translator](../answers/mistral_Bible_Translator/Consecration_and_Service.md)
  * [88.125 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Consecration_and_Service.md)
  * [90.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Consecration_and_Service.md)
+ * [90.5 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Consecration_and_Service.md)
  * [92.75 llama Bible Translator](../answers/llama_Bible_Translator/Consecration_and_Service.md)

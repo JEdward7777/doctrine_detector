@@ -11,7 +11,7 @@ God's wrath is described as an intense, righteous judgment of sin, in contrast t
 It's important to understand that God's wrath is not a fit of rage but a measured response to sin.
 
 ## Average Grade
-86.24404761904762
+86.58522727272727
 
 ## Grades
  * [48.125 mistral 1.75 vectored](../answers/mistral_1.75_vectored/Understanding_God_s_Wrath.md)
@@ -34,4 +34,5 @@ It's important to understand that God's wrath is not a fit of rage but a measure
  * [93.125 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Understanding_God_s_Wrath.md)
  * [93.125 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Understanding_God_s_Wrath.md)
  * [93.75 mistral Bible Translator](../answers/mistral_Bible_Translator/Understanding_God_s_Wrath.md)
+ * [93.75 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Understanding_God_s_Wrath.md)
  * [95.0 llama Bible Translator](../answers/llama_Bible_Translator/Understanding_God_s_Wrath.md)

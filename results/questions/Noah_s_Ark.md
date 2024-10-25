@@ -11,7 +11,7 @@ The purpose of Noah's Ark was to protect Noah, his family, and pairs of every li
 Understanding God's plan for salvation and preservation in the narrative of Noah's Ark.
 
 ## Average Grade
-81.14285714285714
+81.69886363636364
 
 ## Grades
  * [53.75 mistral Imam](../answers/mistral_Imam/Noah_s_Ark.md)
@@ -35,3 +35,4 @@ Understanding God's plan for salvation and preservation in the narrative of Noah
  * [90.875 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Noah_s_Ark.md)
  * [91.875 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Noah_s_Ark.md)
  * [92.5 llama Bible Translator](../answers/llama_Bible_Translator/Noah_s_Ark.md)
+ * [93.375 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Noah_s_Ark.md)

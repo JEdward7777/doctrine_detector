@@ -11,7 +11,7 @@ Lamentation serves as a crucial expression of grief, mourning, and remorse for s
 Many Christians struggle with how to properly express their sorrows and regrets, especially in a faith context.
 
 ## Average Grade
-82.36904761904762
+82.85795454545455
 
 ## Grades
  * [58.125 gemma atheist](../answers/gemma_atheist/Understanding_Lament.md)
@@ -34,4 +34,5 @@ Many Christians struggle with how to properly express their sorrows and regrets,
  * [89.0 gemma Politician](../answers/gemma_Politician/Understanding_Lament.md)
  * [90.625 mistral Bible Translator](../answers/mistral_Bible_Translator/Understanding_Lament.md)
  * [92.5 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Understanding_Lament.md)
+ * [93.125 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Understanding_Lament.md)
  * [94.0 llama Bible Translator](../answers/llama_Bible_Translator/Understanding_Lament.md)

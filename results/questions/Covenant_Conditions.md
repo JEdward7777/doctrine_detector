@@ -11,7 +11,7 @@ An example of an unconditional covenant is God's promise to never destroy the ea
 Understanding the dynamics of God's promises and expectations in covenants.
 
 ## Average Grade
-80.0297619047619
+80.48295454545455
 
 ## Grades
  * [35.625 mistral 1.75 vectored](../answers/mistral_1.75_vectored/Covenant_Conditions.md)
@@ -30,6 +30,7 @@ Understanding the dynamics of God's promises and expectations in covenants.
  * [88.75 mistral Politician](../answers/mistral_Politician/Covenant_Conditions.md)
  * [90.0 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Covenant_Conditions.md)
  * [90.0 mistral Bible Translator](../answers/mistral_Bible_Translator/Covenant_Conditions.md)
+ * [90.0 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Covenant_Conditions.md)
  * [90.625 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Covenant_Conditions.md)
  * [90.625 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Covenant_Conditions.md)
  * [90.625 mistral Imam](../answers/mistral_Imam/Covenant_Conditions.md)

@@ -11,7 +11,7 @@ How is the term 'Daughter of Zion' utilized in Biblical prophecies?
 Recognizing the prophetic nature of terms and their historical context to better apply the scriptures today.
 
 ## Average Grade
-81.31547619047619
+81.71022727272727
 
 ## Grades
  * [41.25 gemma Imam](../answers/gemma_Imam/Prophetic_Usage.md)
@@ -32,6 +32,7 @@ Recognizing the prophetic nature of terms and their historical context to better
  * [88.75 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Prophetic_Usage.md)
  * [89.375 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Prophetic_Usage.md)
  * [90.0 gemma Bible Translator](../answers/gemma_Bible_Translator/Prophetic_Usage.md)
+ * [90.0 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Prophetic_Usage.md)
  * [90.5 llama Bible Translator](../answers/llama_Bible_Translator/Prophetic_Usage.md)
  * [91.25 llama atheist](../answers/llama_atheist/Prophetic_Usage.md)
  * [92.5 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Prophetic_Usage.md)

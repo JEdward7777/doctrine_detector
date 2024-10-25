@@ -11,7 +11,7 @@ Exalting oneself can lead to pride, arrogance, and separation from God, as seen 
 Recognizing and avoiding the sin of pride.
 
 ## Average Grade
-88.13690476190476
+88.35227272727273
 
 ## Grades
  * [77.5 gemma Imam](../answers/gemma_Imam/Self-Exaltation.md)
@@ -29,6 +29,7 @@ Recognizing and avoiding the sin of pride.
  * [91.875 llama Politician](../answers/llama_Politician/Self-Exaltation.md)
  * [92.125 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Self-Exaltation.md)
  * [92.5 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Self-Exaltation.md)
+ * [92.875 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Self-Exaltation.md)
  * [93.125 gemma Bible Translator](../answers/gemma_Bible_Translator/Self-Exaltation.md)
  * [93.125 mistral atheist](../answers/mistral_atheist/Self-Exaltation.md)
  * [93.125 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Self-Exaltation.md)

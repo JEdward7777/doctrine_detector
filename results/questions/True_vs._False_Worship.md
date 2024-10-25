@@ -11,7 +11,7 @@ Worship involves honoring and obeying Yahweh as the One True God, whereas worshi
 Understanding true worship is crucial for Christians to ensure they are directing their honor and service to God alone.
 
 ## Average Grade
-80.89285714285714
+81.42045454545455
 
 ## Grades
  * [46.875 llama atheist](../answers/llama_atheist/True_vs._False_Worship.md)
@@ -33,5 +33,6 @@ Understanding true worship is crucial for Christians to ensure they are directin
  * [89.375 gemma Imam](../answers/gemma_Imam/True_vs._False_Worship.md)
  * [91.25 mistral Bible Translator](../answers/mistral_Bible_Translator/True_vs._False_Worship.md)
  * [91.875 gemma Bible Translator](../answers/gemma_Bible_Translator/True_vs._False_Worship.md)
+ * [92.5 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/True_vs._False_Worship.md)
  * [93.125 llama Bible Translator](../answers/llama_Bible_Translator/True_vs._False_Worship.md)
  * [93.75 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/True_vs._False_Worship.md)

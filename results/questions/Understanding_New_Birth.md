@@ -11,7 +11,7 @@ Being 'born again' refers to the spiritual transformation that occurs when a per
 This question addresses the foundational aspect of Christian faith, which is the understanding of spiritual rebirth.
 
 ## Average Grade
-84.79166666666667
+85.14204545454545
 
 ## Grades
  * [52.5 gemma Politician](../answers/gemma_Politician/Understanding_New_Birth.md)
@@ -32,6 +32,7 @@ This question addresses the foundational aspect of Christian faith, which is the
  * [91.875 mistral Bible Translator](../answers/mistral_Bible_Translator/Understanding_New_Birth.md)
  * [91.875 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Understanding_New_Birth.md)
  * [92.5 gemma Bible Translator](../answers/gemma_Bible_Translator/Understanding_New_Birth.md)
+ * [92.5 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Understanding_New_Birth.md)
  * [93.125 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Understanding_New_Birth.md)
  * [93.75 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Understanding_New_Birth.md)
  * [95.0 llama Bible Translator](../answers/llama_Bible_Translator/Understanding_New_Birth.md)

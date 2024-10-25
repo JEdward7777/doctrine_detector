@@ -11,7 +11,7 @@ Both terms refer to deciding or planning beforehand, but 'foreordain' emphasizes
 Clarifying the relationship between similar theological concepts.
 
 ## Average Grade
-81.92261904761905
+82.26136363636364
 
 ## Grades
  * [64.375 gemma Politician](../answers/gemma_Politician/Foreordain_vs_Predestine.md)
@@ -33,5 +33,6 @@ Clarifying the relationship between similar theological concepts.
  * [88.625 mistral Politician](../answers/mistral_Politician/Foreordain_vs_Predestine.md)
  * [88.75 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Foreordain_vs_Predestine.md)
  * [89.375 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Foreordain_vs_Predestine.md)
+ * [89.375 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Foreordain_vs_Predestine.md)
  * [90.25 llama atheist](../answers/llama_atheist/Foreordain_vs_Predestine.md)
  * [91.875 gemma Bible Translator](../answers/gemma_Bible_Translator/Foreordain_vs_Predestine.md)

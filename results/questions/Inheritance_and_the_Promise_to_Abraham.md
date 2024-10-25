@@ -11,7 +11,7 @@ God promised that they would inherit the land of Canaan, and that it would belon
 Understanding God's covenant with Abraham and its implications for believers.
 
 ## Average Grade
-74.24404761904762
+74.875
 
 ## Grades
  * [20.0 gemma atheist](../answers/gemma_atheist/Inheritance_and_the_Promise_to_Abraham.md)
@@ -31,6 +31,7 @@ Understanding God's covenant with Abraham and its implications for believers.
  * [85.375 mistral Politician](../answers/mistral_Politician/Inheritance_and_the_Promise_to_Abraham.md)
  * [85.625 mistral Bible Translator](../answers/mistral_Bible_Translator/Inheritance_and_the_Promise_to_Abraham.md)
  * [86.875 mistral 1.75 vectored](../answers/mistral_1.75_vectored/Inheritance_and_the_Promise_to_Abraham.md)
+ * [88.125 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Inheritance_and_the_Promise_to_Abraham.md)
  * [89.375 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Inheritance_and_the_Promise_to_Abraham.md)
  * [89.375 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Inheritance_and_the_Promise_to_Abraham.md)
  * [90.0 llama Bible Translator](../answers/llama_Bible_Translator/Inheritance_and_the_Promise_to_Abraham.md)

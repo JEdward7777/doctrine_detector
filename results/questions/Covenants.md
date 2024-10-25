@@ -11,7 +11,7 @@ The promises made in biblical covenants, such as those with Abraham, Isaac, and 
 Recognizing the continuity of God's promises helps believers see the overarching narrative of redemption in the Bible.
 
 ## Average Grade
-81.18452380952381
+81.73863636363636
 
 ## Grades
  * [20.0 gemma atheist](../answers/gemma_atheist/Covenants.md)
@@ -35,3 +35,4 @@ Recognizing the continuity of God's promises helps believers see the overarching
  * [92.5 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Covenants.md)
  * [92.75 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Covenants.md)
  * [93.125 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Covenants.md)
+ * [93.375 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Covenants.md)

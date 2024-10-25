@@ -11,7 +11,7 @@ Relevant verses include Hebrews 7:25-26, Isaiah 53:12, Jeremiah 29:6-7, Romans 8
 To encourage believers to explore Scripture for guidance on prayer and intercession.
 
 ## Average Grade
-80.14285714285714
+80.61931818181819
 
 ## Grades
  * [26.25 gemma Imam](../answers/gemma_Imam/Scriptural_Basis_for_Intercession.md)
@@ -34,4 +34,5 @@ To encourage believers to explore Scripture for guidance on prayer and intercess
  * [89.375 mistral Bible Translator](../answers/mistral_Bible_Translator/Scriptural_Basis_for_Intercession.md)
  * [90.0 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Scriptural_Basis_for_Intercession.md)
  * [90.625 gemma Bible Translator](../answers/gemma_Bible_Translator/Scriptural_Basis_for_Intercession.md)
+ * [90.625 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Scriptural_Basis_for_Intercession.md)
  * [91.25 llama Bible Translator](../answers/llama_Bible_Translator/Scriptural_Basis_for_Intercession.md)

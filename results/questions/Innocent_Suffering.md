@@ -11,7 +11,7 @@ How is the concept of 'innocent blood' addressed in the Bible, and what does it 
 Understanding this concept can lead to deeper discussions on issues of justice, righteousness, and the moral implications of how society treats individuals.
 
 ## Average Grade
-88.93452380952381
+89.1534090909091
 
 ## Grades
  * [81.875 mistral 1.75 vectored](../answers/mistral_1.75_vectored/Innocent_Suffering.md)
@@ -35,3 +35,4 @@ Understanding this concept can lead to deeper discussions on issues of justice, 
  * [92.5 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Innocent_Suffering.md)
  * [93.125 llama atheist](../answers/llama_atheist/Innocent_Suffering.md)
  * [93.125 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Innocent_Suffering.md)
+ * [93.75 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Innocent_Suffering.md)

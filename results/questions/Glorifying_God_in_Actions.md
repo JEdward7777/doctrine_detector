@@ -11,7 +11,7 @@ Believers can glorify God by sharing testimonies of His goodness and living acco
 To emphasize the importance of living a life that honors God's greatness.
 
 ## Average Grade
-81.05952380952381
+81.4375
 
 ## Grades
  * [47.5 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Glorifying_God_in_Actions.md)
@@ -33,5 +33,6 @@ To emphasize the importance of living a life that honors God's greatness.
  * [88.125 gemma Bible Translator](../answers/gemma_Bible_Translator/Glorifying_God_in_Actions.md)
  * [88.125 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Glorifying_God_in_Actions.md)
  * [88.75 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Glorifying_God_in_Actions.md)
+ * [89.375 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Glorifying_God_in_Actions.md)
  * [90.625 llama Bible Translator](../answers/llama_Bible_Translator/Glorifying_God_in_Actions.md)
  * [90.625 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Glorifying_God_in_Actions.md)

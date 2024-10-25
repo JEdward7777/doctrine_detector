@@ -11,7 +11,7 @@ The Bible refers to stoning as a method of execution for certain sins, including
 Understanding the balance between God's justice and mercy in His commandments.
 
 ## Average Grade
-80.61904761904762
+81.13068181818181
 
 ## Grades
  * [51.25 llama atheist](../answers/llama_atheist/Stoning_as_Punishment.md)
@@ -34,4 +34,5 @@ Understanding the balance between God's justice and mercy in His commandments.
  * [89.375 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Stoning_as_Punishment.md)
  * [89.625 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Stoning_as_Punishment.md)
  * [91.25 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Stoning_as_Punishment.md)
+ * [91.875 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Stoning_as_Punishment.md)
  * [92.5 mistral Bible Translator](../answers/mistral_Bible_Translator/Stoning_as_Punishment.md)

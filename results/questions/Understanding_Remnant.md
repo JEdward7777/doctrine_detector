@@ -11,7 +11,7 @@ The concept of 'remnant' reminds believers that there is a faithful community wh
 Understanding the source of strength during difficult times.
 
 ## Average Grade
-82.55357142857143
+82.93181818181819
 
 ## Grades
  * [55.0 gemma Politician](../answers/gemma_Politician/Understanding_Remnant.md)
@@ -32,6 +32,7 @@ Understanding the source of strength during difficult times.
  * [90.25 mistral atheist](../answers/mistral_atheist/Understanding_Remnant.md)
  * [90.625 mistral Bible Translator](../answers/mistral_Bible_Translator/Understanding_Remnant.md)
  * [90.875 llama Bible Translator](../answers/llama_Bible_Translator/Understanding_Remnant.md)
+ * [90.875 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Understanding_Remnant.md)
  * [91.25 mistral Politician](../answers/mistral_Politician/Understanding_Remnant.md)
  * [91.25 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Understanding_Remnant.md)
  * [92.125 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Understanding_Remnant.md)

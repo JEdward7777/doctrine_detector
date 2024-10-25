@@ -11,7 +11,7 @@ To sanctify means to set apart or to make holy. Sanctification is the process of
 Understanding the biblical definition of sanctification.
 
 ## Average Grade
-83.83333333333333
+84.22727272727273
 
 ## Grades
  * [68.125 gemma atheist](../answers/gemma_atheist/Definition_of_Sanctification.md)
@@ -35,3 +35,4 @@ Understanding the biblical definition of sanctification.
  * [91.25 llama Bible Translator](../answers/llama_Bible_Translator/Definition_of_Sanctification.md)
  * [91.25 mistral Bible Translator](../answers/mistral_Bible_Translator/Definition_of_Sanctification.md)
  * [91.875 gemma Bible Translator](../answers/gemma_Bible_Translator/Definition_of_Sanctification.md)
+ * [92.5 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Definition_of_Sanctification.md)

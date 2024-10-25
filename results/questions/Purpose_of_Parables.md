@@ -11,7 +11,7 @@ Jesus used parables to explain or teach moral truths, revealing truth to his dis
 Understanding the teaching methods of Jesus and their implications for faith.
 
 ## Average Grade
-80.5952380952381
+81.02272727272727
 
 ## Grades
  * [71.25 llama atheist](../answers/llama_atheist/Purpose_of_Parables.md)
@@ -34,4 +34,5 @@ Understanding the teaching methods of Jesus and their implications for faith.
  * [86.875 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Purpose_of_Parables.md)
  * [86.875 mistral Bible Translator](../answers/mistral_Bible_Translator/Purpose_of_Parables.md)
  * [89.375 llama Bible Translator](../answers/llama_Bible_Translator/Purpose_of_Parables.md)
+ * [90.0 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Purpose_of_Parables.md)
  * [90.625 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Purpose_of_Parables.md)

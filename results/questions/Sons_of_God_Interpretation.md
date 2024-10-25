@@ -11,7 +11,7 @@ The term 'sons of God' may refer to fallen angels, powerful political rulers, or
 Understanding biblical interpretation helps in grasping the meaning of scripture passages.
 
 ## Average Grade
-74.82142857142857
+75.42613636363636
 
 ## Grades
  * [54.375 gemma Politician](../answers/gemma_Politician/Sons_of_God_Interpretation.md)
@@ -35,3 +35,4 @@ Understanding biblical interpretation helps in grasping the meaning of scripture
  * [86.875 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Sons_of_God_Interpretation.md)
  * [87.5 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Sons_of_God_Interpretation.md)
  * [88.125 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Sons_of_God_Interpretation.md)
+ * [88.125 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Sons_of_God_Interpretation.md)

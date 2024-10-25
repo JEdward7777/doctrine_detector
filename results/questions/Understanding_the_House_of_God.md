@@ -11,7 +11,7 @@ The 'house of God' refers to a place where God is worshiped, specifically relati
 Clarifying the significance and meaning of 'house of God' in Scripture.
 
 ## Average Grade
-82.76785714285714
+83.1534090909091
 
 ## Grades
  * [66.875 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Understanding_the_House_of_God.md)
@@ -35,3 +35,4 @@ Clarifying the significance and meaning of 'house of God' in Scripture.
  * [90.625 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Understanding_the_House_of_God.md)
  * [91.25 llama Bible Translator](../answers/llama_Bible_Translator/Understanding_the_House_of_God.md)
  * [91.25 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Understanding_the_House_of_God.md)
+ * [91.25 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Understanding_the_House_of_God.md)

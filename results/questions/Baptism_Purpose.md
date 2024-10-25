@@ -11,7 +11,7 @@ Baptism signifies that a person has been cleansed from sin and united with Chris
 Understanding the importance of baptism in the Christian faith.
 
 ## Average Grade
-81.18452380952381
+81.64204545454545
 
 ## Grades
  * [45.0 gemma Politician](../answers/gemma_Politician/Baptism_Purpose.md)
@@ -34,4 +34,5 @@ Understanding the importance of baptism in the Christian faith.
  * [90.625 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Baptism_Purpose.md)
  * [90.625 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Baptism_Purpose.md)
  * [90.875 llama Bible Translator](../answers/llama_Bible_Translator/Baptism_Purpose.md)
+ * [91.25 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Baptism_Purpose.md)
  * [91.5 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Baptism_Purpose.md)

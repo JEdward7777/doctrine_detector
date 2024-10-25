@@ -11,7 +11,7 @@ It signifies a transformative relationship with God where His laws are internali
 Grasping the transition from the Old Testament law to the principles of the New Covenant.
 
 ## Average Grade
-84.94047619047619
+85.17045454545455
 
 ## Grades
  * [66.875 GPT 3.5 Imam](../answers/GPT_3.5_Imam/The_New_Covenant.md)
@@ -27,6 +27,7 @@ Grasping the transition from the Old Testament law to the principles of the New 
  * [86.25 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/The_New_Covenant.md)
  * [88.75 mistral atheist](../answers/mistral_atheist/The_New_Covenant.md)
  * [90.0 gemma Politician](../answers/gemma_Politician/The_New_Covenant.md)
+ * [90.0 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/The_New_Covenant.md)
  * [90.625 mistral Bible Translator](../answers/mistral_Bible_Translator/The_New_Covenant.md)
  * [91.25 gemma atheist](../answers/gemma_atheist/The_New_Covenant.md)
  * [91.25 mistral Politician](../answers/mistral_Politician/The_New_Covenant.md)

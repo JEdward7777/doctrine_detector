@@ -11,7 +11,7 @@ The Pharisees believed in life after death and the existence of angels and other
 Exploring these beliefs can enhance understanding of the spiritual landscape during Jesus' time.
 
 ## Average Grade
-79.50595238095238
+79.92613636363636
 
 ## Grades
  * [51.875 gemma Imam](../answers/gemma_Imam/Beliefs_of_the_Pharisees.md)
@@ -33,5 +33,6 @@ Exploring these beliefs can enhance understanding of the spiritual landscape dur
  * [87.5 mistral Bible Translator](../answers/mistral_Bible_Translator/Beliefs_of_the_Pharisees.md)
  * [88.125 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Beliefs_of_the_Pharisees.md)
  * [88.125 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Beliefs_of_the_Pharisees.md)
+ * [88.75 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Beliefs_of_the_Pharisees.md)
  * [89.375 llama Bible Translator](../answers/llama_Bible_Translator/Beliefs_of_the_Pharisees.md)
  * [91.25 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Beliefs_of_the_Pharisees.md)

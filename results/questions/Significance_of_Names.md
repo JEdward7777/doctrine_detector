@@ -11,7 +11,7 @@ Translating 'Shaddai' as a title emphasizes God's attributes, specifically His o
 Deepening the understanding of God's character and relational aspect in the Christian faith.
 
 ## Average Grade
-77.83928571428571
+78.54545454545455
 
 ## Grades
  * [45.625 mistral Politician](../answers/mistral_Politician/Significance_of_Names.md)
@@ -35,3 +35,4 @@ Deepening the understanding of God's character and relational aspect in the Chri
  * [88.75 mistral Bible Translator](../answers/mistral_Bible_Translator/Significance_of_Names.md)
  * [88.75 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Significance_of_Names.md)
  * [91.875 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Significance_of_Names.md)
+ * [93.375 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Significance_of_Names.md)

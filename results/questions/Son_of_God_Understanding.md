@@ -11,7 +11,7 @@ The term 'Son of God' refers to Jesus, who is fully God and shares the same natu
 Understanding the divinity of Jesus and His eternal relationship with God.
 
 ## Average Grade
-73.60119047619048
+74.51704545454545
 
 ## Grades
  * [40.0 mistral Imam](../answers/mistral_Imam/Son_of_God_Understanding.md)
@@ -35,3 +35,4 @@ Understanding the divinity of Jesus and His eternal relationship with God.
  * [91.25 mistral Bible Translator](../answers/mistral_Bible_Translator/Son_of_God_Understanding.md)
  * [91.25 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Son_of_God_Understanding.md)
  * [93.75 llama Bible Translator](../answers/llama_Bible_Translator/Son_of_God_Understanding.md)
+ * [93.75 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Son_of_God_Understanding.md)

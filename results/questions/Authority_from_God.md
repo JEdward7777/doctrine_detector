@@ -11,7 +11,7 @@ What is meant by 'divine authority' and its significance in the life of a believ
 Understanding divine authority helps believers discern God's will and maintain obedience in their faith journey.
 
 ## Average Grade
-81.92857142857143
+82.23863636363636
 
 ## Grades
  * [41.25 mistral atheist](../answers/mistral_atheist/Authority_from_God.md)
@@ -29,6 +29,7 @@ Understanding divine authority helps believers discern God's will and maintain o
  * [86.875 mistral 1.75 vectored](../answers/mistral_1.75_vectored/Authority_from_God.md)
  * [88.125 gpt-4o-mini Politician](../answers/gpt-4o-mini_Politician/Authority_from_God.md)
  * [88.125 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Authority_from_God.md)
+ * [88.75 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Authority_from_God.md)
  * [89.375 llama Imam](../answers/llama_Imam/Authority_from_God.md)
  * [89.625 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Authority_from_God.md)
  * [90.625 gemma Bible Translator](../answers/gemma_Bible_Translator/Authority_from_God.md)

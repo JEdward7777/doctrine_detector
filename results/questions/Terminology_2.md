@@ -11,7 +11,7 @@ Different terms used to refer to the Lord’s Supper include 'communion' and 'La
 Understanding the various terms used within Christianity to refer to this sacred practice.
 
 ## Average Grade
-79.61309523809524
+80.05681818181819
 
 ## Grades
  * [68.125 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Terminology_2.md)
@@ -34,4 +34,5 @@ Understanding the various terms used within Christianity to refer to this sacred
  * [84.375 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Terminology_2.md)
  * [87.5 llama Politician](../answers/llama_Politician/Terminology_2.md)
  * [87.5 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Terminology_2.md)
+ * [89.375 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Terminology_2.md)
  * [91.25 llama Bible Translator](../answers/llama_Bible_Translator/Terminology_2.md)

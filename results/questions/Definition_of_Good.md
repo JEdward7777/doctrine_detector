@@ -11,7 +11,7 @@ In the Biblical context, 'good' is often defined as morally right, emotionally p
 Understanding the moral implications of 'good' and 'evil' in daily decision-making.
 
 ## Average Grade
-80.82142857142857
+81.2784090909091
 
 ## Grades
  * [55.625 llama atheist](../answers/llama_atheist/Definition_of_Good.md)
@@ -35,3 +35,4 @@ Understanding the moral implications of 'good' and 'evil' in daily decision-maki
  * [90.625 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Definition_of_Good.md)
  * [90.75 llama Bible Translator](../answers/llama_Bible_Translator/Definition_of_Good.md)
  * [90.875 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Definition_of_Good.md)
+ * [90.875 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Definition_of_Good.md)

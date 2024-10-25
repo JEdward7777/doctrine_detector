@@ -11,7 +11,7 @@ How should the phrase 'El Shaddai' be translated in different languages based on
 Ensuring accurate representation of God's name across different cultures and languages.
 
 ## Average Grade
-75.89285714285714
+76.25
 
 ## Grades
  * [35.625 mistral 1.75 vectored](../answers/mistral_1.75_vectored/Translating_El_Shaddai.md)
@@ -33,5 +33,6 @@ Ensuring accurate representation of God's name across different cultures and lan
  * [81.875 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Translating_El_Shaddai.md)
  * [81.875 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Translating_El_Shaddai.md)
  * [82.5 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Translating_El_Shaddai.md)
+ * [83.75 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Translating_El_Shaddai.md)
  * [84.375 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Translating_El_Shaddai.md)
  * [86.875 mistral Bible Translator](../answers/mistral_Bible_Translator/Translating_El_Shaddai.md)

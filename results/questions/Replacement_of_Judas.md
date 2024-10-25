@@ -11,7 +11,7 @@ Matthias was chosen to replace Judas Iscariot after Judas' betrayal and subseque
 Recognizing the continuity of apostolic leadership after Jesus' ascension.
 
 ## Average Grade
-78.92857142857143
+79.26136363636364
 
 ## Grades
  * [52.5 GPT 3.5 Imam](../answers/GPT_3.5_Imam/Replacement_of_Judas.md)
@@ -30,6 +30,7 @@ Recognizing the continuity of apostolic leadership after Jesus' ascension.
  * [85.0 GPT 3.5 Atheist](../answers/GPT_3.5_Atheist/Replacement_of_Judas.md)
  * [85.0 gpt-4o-mini Bible Translator](../answers/gpt-4o-mini_Bible_Translator/Replacement_of_Judas.md)
  * [85.625 gpt-4o-mini Imam](../answers/gpt-4o-mini_Imam/Replacement_of_Judas.md)
+ * [86.25 gpt-4o-mini loop](../answers/gpt-4o-mini_loop/Replacement_of_Judas.md)
  * [86.875 gpt-4o-mini Atheist](../answers/gpt-4o-mini_Atheist/Replacement_of_Judas.md)
  * [88.125 GPT 3.5 Bible Translator](../answers/GPT_3.5_Bible_Translator/Replacement_of_Judas.md)
  * [88.75 GPT 3.5 Politician](../answers/GPT_3.5_Politician/Replacement_of_Judas.md)
